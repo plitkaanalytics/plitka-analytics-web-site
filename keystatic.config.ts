@@ -1,27 +1,79 @@
 import { config, collection, fields } from '@keystatic/core';
+import { wrapper, block } from '@keystatic/core/content-components';
+
+const Methodology = wrapper({
+  label: 'Методологія',
+  schema: {},
+});
+
+const Pullquote = wrapper({
+  label: 'Виноска-цитата',
+  schema: {
+    cite: fields.text({ label: 'Джерело (підпис під цитатою)' }),
+  },
+});
+
+const StatGrid = block({
+  label: 'Блок статистики (4 показники)',
+  schema: {
+    v1: fields.text({ label: 'Значення 1' }),
+    l1: fields.text({ label: 'Підпис 1' }),
+    d1: fields.text({ label: 'Опис 1' }),
+    v2: fields.text({ label: 'Значення 2' }),
+    l2: fields.text({ label: 'Підпис 2' }),
+    d2: fields.text({ label: 'Опис 2' }),
+    v3: fields.text({ label: 'Значення 3' }),
+    l3: fields.text({ label: 'Підпис 3' }),
+    d3: fields.text({ label: 'Опис 3' }),
+    v4: fields.text({ label: 'Значення 4' }),
+    l4: fields.text({ label: 'Підпис 4' }),
+    d4: fields.text({ label: 'Опис 4' }),
+  },
+});
+
+const Figure = block({
+  label: 'Зображення / Карта',
+  schema: {
+    label: fields.text({ label: 'Мітка (верхній текст)' }),
+    cap: fields.text({ label: 'Підпис (рисунок)' }),
+    src: fields.text({ label: 'Джерело' }),
+    dark: fields.checkbox({ label: 'Темний фон', defaultValue: false }),
+  },
+});
+
+const Barchart = block({
+  label: 'Гістограма',
+  schema: {
+    title: fields.text({ label: 'Заголовок' }),
+    sub: fields.text({ label: 'Підзаголовок' }),
+    data: fields.text({
+      label: "Дані (кожен запис через кому: мітка|відсоток|колір)",
+      description: "Приклад: СЕР'25|18|steel,ВЕР'25|22|steel,ЖОВ'25|61|rust",
+      multiline: true,
+    }),
+  },
+});
 
 export default config({
-  storage: {
-    kind: 'local',
-  },
-
+  storage: { kind: 'local' },
   collections: {
     articles: collection({
       label: 'Статті',
       slugField: 'title',
       path: 'content/articles/*',
+      entryLayout: 'content',
       format: { contentField: 'content' },
       schema: {
         title: fields.slug({
           name: { label: 'Заголовок' },
-          slug: { label: 'Slug (URL)', description: 'Латиницею через дефіс, напр. kalibre-v-ukryttakh' },
+          slug: { label: 'Slug (URL)', description: 'Генерується автоматично' },
         }),
         date: fields.date({
           label: 'Дата публікації',
           validation: { isRequired: true },
         }),
         dek: fields.text({
-          label: 'Підзаголовок (dek)',
+          label: 'Підзаголовок',
           multiline: true,
           validation: { isRequired: true },
         }),
@@ -49,7 +101,14 @@ export default config({
         }),
         content: fields.mdx({
           label: 'Зміст статті',
-          components: {},
+          options: {
+            heading: [2, 3, 4],
+            bold: true,
+            italic: true,
+            orderedList: true,
+            unorderedList: true,
+          },
+          components: { Methodology, StatGrid, Pullquote, Figure, Barchart },
         }),
       },
     }),

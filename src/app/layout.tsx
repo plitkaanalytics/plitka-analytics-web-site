@@ -1,8 +1,5 @@
 import type { Metadata } from 'next';
 import './globals.css';
-import TopStrip from '@/components/TopStrip';
-import Header from '@/components/Header';
-import Footer from '@/components/Footer';
 
 export const metadata: Metadata = {
   title: 'PLITKA Analytics — OSINT-аналітика війни в Україні',
@@ -13,12 +10,7 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="uk">
-      <body>
-        <TopStrip />
-        <Header />
-        {children}
-        <Footer />
-      </body>
+      <body suppressHydrationWarning>{children}</body>
     </html>
   );
 }

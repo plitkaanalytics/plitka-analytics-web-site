@@ -17,118 +17,51 @@ category: "РОЗСЛІДУВАННЯ"
 
 Для кожного з п'яти основних пунктів базування ЧФ — Севастопольської бухти, Новоросійська, Феодосії, Кілійського ковша та Сухої Балки — ми фіксували наявність та позицію кожного корабля-носія з точністю до 12 годин.
 
-<div className="methodology">
-  <h3>Джерела та методи</h3>
-  <ol>
-    <li>Sentinel-2 L2A — архів з роздільною здатністю 10 м, частота проходжень 5 діб</li>
-    <li>Planet Labs SkySat — до 0,5 м роздільна здатність, до 12 проходжень на добу</li>
-    <li>AIS Exchange — сирі дані транспондерів, без фільтрів</li>
-    <li>Crossmatch — кожна позиція підтверджується щонайменше двома незалежними джерелами</li>
-  </ol>
-</div>
+<Methodology>
+  ### Джерела та методи
+
+  1. Sentinel-2 L2A — архів з роздільною здатністю 10 м, частота проходжень 5 діб
+  2. Planet Labs SkySat — до 0,5 м роздільна здатність, до 12 проходжень на добу
+  3. AIS Exchange — сирі дані транспондерів, без фільтрів
+  4. Crossmatch — кожна позиція підтверджується щонайменше двома незалежними джерелами
+</Methodology>
 
 ## Ключові знахідки
 
 Аналіз показує чіткий поворот у тактиці базування, який стався після серії точних ударів ЗСУ у вересні–жовтні 2025 року.
 
-<div className="stat-2col">
-  <div className="stat-2col__cell">
-    <div className="stat-2col__num">312</div>
-    <div className="stat-2col__lbl">Супутникових проходжень</div>
-    <p className="stat-2col__dek">Серпень 2025 — травень 2026, п'ять пунктів базування</p>
-  </div>
-  <div className="stat-2col__cell">
-    <div className="stat-2col__num">78%</div>
-    <div className="stat-2col__lbl">Зростання часу в укриттях</div>
-    <p className="stat-2col__dek">Порівняно з аналогічним періодом 2024–2025 рр.</p>
-  </div>
-  <div className="stat-2col__cell">
-    <div className="stat-2col__num">3</div>
-    <div className="stat-2col__lbl">Нові укриття «Тент-К»</div>
-    <p className="stat-2col__dek">Зведені у Феодосії за шість тижнів (жовтень–листопад 2025)</p>
-  </div>
-  <div className="stat-2col__cell">
-    <div className="stat-2col__num">±18 м</div>
-    <div className="stat-2col__lbl">Точність геолокації</div>
-    <p className="stat-2col__dek">Середнє відхилення для позицій, визначених за тінями</p>
-  </div>
-</div>
+<StatGrid
+  v1="312" l1="Супутникових проходжень" d1="Серпень 2025 — травень 2026, п'ять пунктів базування"
+  v2="78%" l2="Зростання часу в укриттях" d2="Порівняно з аналогічним періодом 2024–2025 рр."
+  v3="3" l3="Нові укриття «Тент-К»" d3="Зведені у Феодосії за шість тижнів (жовтень–листопад 2025)"
+  v4="±18 м" l4="Точність геолокації" d4="Середнє відхилення для позицій, визначених за тінями"
+/>
 
 ## Нова тактика: укриття як стандарт
 
 До вересня 2025 фрегати класу «Адмірал Григорович» проводили в захищених укриттях менше 20% часу. Вже в жовтні цей показник перевищив 60%, а з лютого 2026 стабілізувався на рівні понад 80%.
 
-<blockquote className="pullquote">
+<Pullquote cite="— Оцінка аналітичної групи PLITKA, квітень 2026">
   Перехід від відкритого базування до постійного перебування в укриттях — найшвидша зміна тактики базування ЧФ з початку повномасштабного вторгнення.
-  <cite className="pullquote__cite">— Оцінка аналітичної групи PLITKA, квітень 2026</cite>
-</blockquote>
+</Pullquote>
 
 ## Динаміка за місяцями
 
-<div className="barchart">
-  <div className="barchart__title">Частка часу фрегатів в укриттях (%)</div>
-  <div className="barchart__sub">Щомісячні дані, серпень 2025 — квітень 2026</div>
-  <div className="bar">
-    <span className="bar__lbl">СЕР&apos;25</span>
-    <div className="bar__bg"><div className="bar__fill bar__fill--steel" style={{width:'18%'}}></div></div>
-    <span className="bar__val">18%</span>
-  </div>
-  <div className="bar">
-    <span className="bar__lbl">ВЕР&apos;25</span>
-    <div className="bar__bg"><div className="bar__fill bar__fill--steel" style={{width:'22%'}}></div></div>
-    <span className="bar__val">22%</span>
-  </div>
-  <div className="bar">
-    <span className="bar__lbl">ЖОВ&apos;25</span>
-    <div className="bar__bg"><div className="bar__fill bar__fill--rust" style={{width:'61%'}}></div></div>
-    <span className="bar__val">61%</span>
-  </div>
-  <div className="bar">
-    <span className="bar__lbl">ЛИС&apos;25</span>
-    <div className="bar__bg"><div className="bar__fill bar__fill--rust" style={{width:'74%'}}></div></div>
-    <span className="bar__val">74%</span>
-  </div>
-  <div className="bar">
-    <span className="bar__lbl">ГРУ&apos;25</span>
-    <div className="bar__bg"><div className="bar__fill" style={{width:'79%'}}></div></div>
-    <span className="bar__val">79%</span>
-  </div>
-  <div className="bar">
-    <span className="bar__lbl">СІЧ&apos;26</span>
-    <div className="bar__bg"><div className="bar__fill" style={{width:'81%'}}></div></div>
-    <span className="bar__val">81%</span>
-  </div>
-  <div className="bar">
-    <span className="bar__lbl">ЛЮТ&apos;26</span>
-    <div className="bar__bg"><div className="bar__fill bar__fill--navy" style={{width:'84%'}}></div></div>
-    <span className="bar__val">84%</span>
-  </div>
-  <div className="bar">
-    <span className="bar__lbl">БЕР&apos;26</span>
-    <div className="bar__bg"><div className="bar__fill bar__fill--navy" style={{width:'83%'}}></div></div>
-    <span className="bar__val">83%</span>
-  </div>
-  <div className="bar">
-    <span className="bar__lbl">КВІ&apos;26</span>
-    <div className="bar__bg"><div className="bar__fill bar__fill--navy" style={{width:'86%'}}></div></div>
-    <span className="bar__val">86%</span>
-  </div>
-</div>
+<Barchart
+  title="Частка часу фрегатів в укриттях (%)"
+  sub="Щомісячні дані, серпень 2025 — квітень 2026"
+  data="СЕР'25|18|steel,ВЕР'25|22|steel,ЖОВ'25|61|rust,ЛИС'25|74|rust,ГРУ'25|79|,СІЧ'26|81|,ЛЮТ'26|84|navy,БЕР'26|83|navy,КВІ'26|86|navy"
+/>
 
 ## Феодосія: нові укриття типу «Тент-К»
 
 Найбільш показовою є ситуація в Феодосії, де за шість тижнів (жовтень–листопад 2025) було зведено три нові залізобетонні укриття типу «Тент-К». Вимірювання за тінями дають їхні параметри: довжина 65–72 м, ширина 18–22 м, висота 11–14 м. Конструкція дозволяє розмістити малі ракетні кораблі проєкту 22800.
 
-<div className="figure">
-  <div className="ph ph__cross" style={{aspectRatio:'16/9'}}>
-    <span className="ph__corners"></span>
-    <div className="ph__label">SENTINEL-2 · ФЕОДОСІЯ · 44.3° N, 35.4° E · ЛИСТОПАД 2025</div>
-  </div>
-  <div className="figure__cap">
-    <span><strong>Рис. 1.</strong> Три нові укриття типу «Тент-К» у південно-східній частині феодосійської бази.</span>
-    <span>Sentinel-2 L2A · 14.11.2025</span>
-  </div>
-</div>
+<Figure
+  label="SENTINEL-2 · ФЕОДОСІЯ · 44.3° N, 35.4° E · ЛИСТОПАД 2025"
+  cap="Рис. 1. Три нові укриття типу «Тент-К» у південно-східній частині феодосійської бази."
+  src="Sentinel-2 L2A · 14.11.2025"
+/>
 
 Координати та метадані всіх зафіксованих укриттів опубліковані в публічному датасеті PLITKA на GitHub.
 
