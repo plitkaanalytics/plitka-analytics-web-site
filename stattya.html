@@ -1,0 +1,789 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Калібри в укриттях — PLITKA Analytics</title>
+<link rel="stylesheet" href="styles.css">
+<style>
+  /* Article-specific */
+  .breadcrumb {
+    max-width: 880px;
+    margin: 40px auto 24px;
+    padding: 0 var(--gutter);
+    font-family: var(--mono);
+    font-size: 11px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--slate);
+  }
+  .breadcrumb a { color: var(--slate); }
+  .breadcrumb a:hover { color: var(--red); }
+  .breadcrumb .sep { margin: 0 8px; color: var(--rule); }
+  .breadcrumb .current { color: var(--navy); }
+
+  .article-head {
+    max-width: 880px;
+    margin: 0 auto 32px;
+    padding: 0 var(--gutter);
+  }
+  .article-head__chips {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+  }
+  .article-head h1 {
+    font-family: var(--serif);
+    font-size: clamp(40px, 5.4vw, 64px);
+    line-height: 1.04;
+    letter-spacing: -0.01em;
+    margin-bottom: 24px;
+  }
+  .article-head__dek {
+    font-family: var(--serif);
+    font-style: italic;
+    font-size: 22px;
+    line-height: 1.45;
+    color: var(--navy);
+    max-width: 60ch;
+    margin: 0 0 36px;
+  }
+  .article-head__meta {
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr 1fr;
+    gap: 24px;
+    padding: 18px 0;
+    border-top: 3px double var(--navy);
+    border-bottom: 1px solid var(--rule);
+  }
+  .meta__lbl {
+    font-family: var(--mono);
+    font-size: 10.5px;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--slate);
+    display: block;
+    margin-bottom: 4px;
+    font-weight: 700;
+  }
+  .meta__val {
+    font-family: var(--sans);
+    font-size: 15px;
+    color: var(--navy);
+    font-weight: 600;
+  }
+  .meta__val--mono { font-family: var(--mono); font-size: 12px; letter-spacing: 0.05em; }
+
+  /* Lead image */
+  .lead-img {
+    max-width: 1280px;
+    margin: 0 auto 48px;
+    padding: 0 var(--gutter);
+  }
+  .lead-img .ph {
+    aspect-ratio: 21 / 10;
+  }
+  .lead-img__caption {
+    font-family: var(--mono);
+    font-size: 11px;
+    letter-spacing: 0.05em;
+    color: var(--slate);
+    padding: 12px 0;
+    border-bottom: 1px solid var(--rule);
+    display: flex;
+    justify-content: space-between;
+    gap: 16px;
+  }
+
+  /* Body */
+  .article-body {
+    max-width: 880px;
+    margin: 0 auto;
+    padding: 0 var(--gutter) 64px;
+    font-size: 18px;
+    line-height: 1.7;
+    color: var(--navy);
+  }
+  .article-body > p:first-of-type::first-letter {
+    font-family: var(--serif);
+    float: left;
+    font-size: 76px;
+    line-height: 0.85;
+    padding: 6px 10px 0 0;
+    color: var(--rust);
+    font-weight: 700;
+  }
+  .article-body p { margin: 0 0 1.1em; max-width: 62ch; }
+  .article-body h2 {
+    font-family: var(--serif);
+    font-size: 32px;
+    line-height: 1.15;
+    margin: 48px 0 18px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid var(--rule);
+    max-width: 62ch;
+  }
+  .article-body h3 {
+    font-family: var(--serif);
+    font-size: 22px;
+    margin: 32px 0 12px;
+    color: var(--rust);
+    max-width: 62ch;
+  }
+  .article-body strong { color: var(--navy); }
+  .article-body em { font-style: italic; color: var(--navy); }
+  .article-body .lede {
+    font-family: var(--serif);
+    font-size: 22px;
+    font-style: italic;
+    line-height: 1.5;
+    color: var(--steelB);
+    border-left: 3px solid var(--red);
+    padding: 4px 0 4px 20px;
+    margin: 32px 0;
+    max-width: 60ch;
+  }
+
+  /* Pullquote */
+  .pullquote {
+    font-family: var(--serif);
+    font-size: 32px;
+    line-height: 1.25;
+    font-weight: 700;
+    color: var(--rust);
+    border-top: 3px double var(--rust);
+    border-bottom: 3px double var(--rust);
+    padding: 28px 0;
+    margin: 40px 0;
+    max-width: 100%;
+    text-wrap: balance;
+  }
+  .pullquote::before {
+    content: "«";
+    font-size: 64px;
+    line-height: 0;
+    vertical-align: -0.5em;
+    margin-right: 6px;
+    color: var(--rust);
+    opacity: 0.6;
+  }
+  .pullquote::after { content: "»"; opacity: 0.6; margin-left: 4px; }
+  .pullquote__cite {
+    display: block;
+    margin-top: 18px;
+    font-family: var(--mono);
+    font-size: 11px;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--slate);
+    font-weight: 700;
+  }
+
+  /* Inline figure */
+  .figure {
+    margin: 36px 0;
+    max-width: 100%;
+  }
+  .figure .ph { aspect-ratio: 16 / 9; }
+  .figure__cap {
+    font-family: var(--mono);
+    font-size: 11px;
+    letter-spacing: 0.06em;
+    color: var(--slate);
+    padding: 10px 0;
+    border-bottom: 1px solid var(--rule);
+    display: flex;
+    justify-content: space-between;
+    gap: 16px;
+  }
+  .figure__cap strong { color: var(--navy); font-weight: 700; }
+
+  /* Side panel */
+  .methodology {
+    background: var(--blue);
+    padding: 28px 28px;
+    margin: 40px 0;
+    border-left: 4px solid var(--steelB);
+  }
+  .methodology h3 {
+    font-family: var(--serif);
+    color: var(--steelB);
+    font-size: 22px;
+    margin: 0 0 14px;
+    border: none;
+  }
+  .methodology p { font-size: 15px; line-height: 1.55; margin-bottom: 8px; }
+  .methodology ol { font-size: 15px; line-height: 1.6; padding-left: 20px; margin: 0; }
+  .methodology li { margin-bottom: 6px; }
+
+  /* Two-column data */
+  .stat-2col {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1px;
+    background: var(--rule);
+    border: 1px solid var(--rule);
+    margin: 28px 0;
+  }
+  .stat-2col__cell {
+    background: var(--cream);
+    padding: 24px 22px;
+  }
+  .stat-2col__cell:nth-child(even) { background: var(--paper); }
+  .stat-2col__num {
+    font-family: var(--serif);
+    font-size: 44px;
+    font-weight: 700;
+    color: var(--rust);
+    line-height: 1;
+    margin-bottom: 6px;
+  }
+  .stat-2col__lbl {
+    font-family: var(--mono);
+    font-size: 10.5px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--slate);
+    margin-bottom: 12px;
+  }
+  .stat-2col__dek { font-size: 14px; color: var(--navy); margin: 0; line-height: 1.45; }
+
+  /* Inline bar chart */
+  .barchart {
+    margin: 32px 0;
+    padding: 24px;
+    background: var(--paper-2);
+    border: 1px solid var(--rule);
+  }
+  .barchart__title {
+    font-family: var(--mono);
+    font-size: 11px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--navy);
+    font-weight: 700;
+    margin-bottom: 4px;
+  }
+  .barchart__sub {
+    font-family: var(--mono);
+    font-size: 10.5px;
+    color: var(--slate);
+    margin-bottom: 18px;
+    letter-spacing: 0.06em;
+  }
+  .bar {
+    display: grid;
+    grid-template-columns: 90px 1fr 60px;
+    align-items: center;
+    gap: 12px;
+    padding: 6px 0;
+    font-family: var(--mono);
+    font-size: 11px;
+    letter-spacing: 0.06em;
+  }
+  .bar__lbl { color: var(--navy); text-transform: uppercase; font-weight: 700; }
+  .bar__bg {
+    height: 14px;
+    background: #fff;
+    border: 1px solid var(--rule);
+    position: relative;
+  }
+  .bar__fill {
+    height: 100%;
+    background: var(--red);
+  }
+  .bar__fill--rust { background: var(--rust); }
+  .bar__fill--steel { background: var(--steelB); }
+  .bar__fill--navy { background: var(--navy); }
+  .bar__val { color: var(--navy); text-align: right; }
+
+  /* Footnotes / sources */
+  .sources {
+    max-width: 880px;
+    margin: 0 auto;
+    padding: 32px var(--gutter) 64px;
+    border-top: 3px double var(--navy);
+  }
+  .sources h2 {
+    font-family: var(--serif);
+    font-size: 22px;
+    margin-bottom: 18px;
+  }
+  .sources ol {
+    font-family: var(--sans);
+    font-size: 14px;
+    line-height: 1.6;
+    color: var(--slate);
+    padding-left: 20px;
+  }
+  .sources li { margin-bottom: 8px; }
+  .sources li::marker { color: var(--red); }
+
+  /* Related */
+  .related {
+    background: var(--paper-2);
+    padding: 56px 0;
+    border-top: 1px solid var(--rule);
+  }
+  .related h2 {
+    font-size: 28px;
+    margin-bottom: 28px;
+    border-bottom: 3px double var(--navy);
+    padding-bottom: 10px;
+  }
+  .related__grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 32px;
+  }
+  .related .card__img { aspect-ratio: 16 / 10; }
+
+  /* Authors */
+  .authors {
+    max-width: 880px;
+    margin: 0 auto;
+    padding: 40px var(--gutter);
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 24px;
+    border-top: 1px solid var(--rule);
+  }
+  .author {
+    display: flex;
+    gap: 16px;
+    align-items: flex-start;
+  }
+  .author__photo {
+    width: 64px;
+    height: 64px;
+    flex-shrink: 0;
+    background: var(--cream);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: var(--serif);
+    color: var(--rust);
+    font-size: 22px;
+    font-weight: 700;
+  }
+  .author__name {
+    font-family: var(--serif);
+    font-size: 19px;
+    font-weight: 700;
+    color: var(--navy);
+    margin-bottom: 2px;
+  }
+  .author__role {
+    font-family: var(--mono);
+    font-size: 10.5px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--slate);
+    margin-bottom: 8px;
+  }
+  .author__bio { font-size: 14px; color: var(--slate); line-height: 1.5; margin: 0; }
+
+  @media (max-width: 900px) {
+    .article-head__meta { grid-template-columns: 1fr 1fr; }
+    .stat-2col { grid-template-columns: 1fr; }
+    .related__grid { grid-template-columns: 1fr; }
+    .authors { grid-template-columns: 1fr; }
+  }
+</style>
+</head>
+<body data-screen-label="03 Article">
+
+<!-- Top strip -->
+<div class="topstrip">
+  <div class="topstrip__inner">
+    <div><span class="topstrip__dot"></span>В ефірі — оперативний моніторинг подій</div>
+    <div>
+      <span style="margin-right:20px;">№ 218 · ЧТ, 14 ТРАВНЯ 2026</span>
+      <a href="#">UA</a> · <a href="#" style="opacity:0.5;">EN</a>
+    </div>
+  </div>
+</div>
+
+<!-- Header -->
+<header class="header">
+  <div class="header__inner">
+    <nav class="nav" aria-label="Головна навігація">
+      <a href="index.html">Головна</a>
+      <a href="proekty.html">Проєкти</a>
+      <a href="stattya.html" class="is-current">Розслідування</a>
+      <a href="pro-nas.html">Про нас</a>
+      <a href="spivpratsia.html">Співпраця</a>
+    </nav>
+    <a href="index.html" class="logo" aria-label="PLITKA Analytics — на головну">
+      <div class="logo__sq"></div>
+      <div class="logo__stack">
+        <div class="logo__word">PLITKA</div>
+        <div class="logo__sub">ANALYTICS</div>
+      </div>
+    </a>
+  </div>
+</header>
+
+<!-- Sub strip -->
+<div class="substrip">
+  <div class="substrip__inner">
+    <div><strong>РОЗСЛІДУВАННЯ</strong> · Проєкт «РАКЕТИ» · P-01</div>
+    <div>14 хв читання · 18 джерел · оновлено 14.05.2026</div>
+  </div>
+</div>
+
+<!-- Breadcrumb -->
+<div class="breadcrumb">
+  <a href="index.html">Головна</a><span class="sep">/</span>
+  <a href="proekty.html">Проєкти</a><span class="sep">/</span>
+  <a href="proekty.html">P-01 РАКЕТИ</a><span class="sep">/</span>
+  <span class="current">Калібри в укриттях</span>
+</div>
+
+<!-- Article head -->
+<div class="article-head">
+  <div class="article-head__chips">
+    <span class="chip chip--red">РОЗСЛІДУВАННЯ</span>
+    <span class="chip chip--rust">ПРОЄКТ «РАКЕТИ»</span>
+    <span class="chip chip--steel">SATINT</span>
+    <span class="chip">КРИМ</span>
+    <span class="chip">КРАСНОДАРСЬКИЙ КРАЙ</span>
+  </div>
+  <h1>Калібри в укриттях: як змінилися пускові точки фрегатів ЧФ за дев'ять місяців</h1>
+  <p class="article-head__dek">
+    Аналіз 312 супутникових проходжень над пунктами базування Чорноморського флоту показує
+    систематичне переміщення носіїв крилатих ракет «Калібр» до закритих сховищ після ударів
+    Збройних Сил України восени 2025 року.
+  </p>
+  <div class="article-head__meta">
+    <div>
+      <span class="meta__lbl">Автори</span>
+      <span class="meta__val">Олег Гриценко, Катерина Шевченко</span>
+    </div>
+    <div>
+      <span class="meta__lbl">Опубліковано</span>
+      <span class="meta__val meta__val--mono">14.05.2026</span>
+    </div>
+    <div>
+      <span class="meta__lbl">Останнє оновлення</span>
+      <span class="meta__val meta__val--mono">14.05.2026 · 07:42</span>
+    </div>
+    <div>
+      <span class="meta__lbl">Період даних</span>
+      <span class="meta__val meta__val--mono">08.2025 — 05.2026</span>
+    </div>
+  </div>
+</div>
+
+<!-- Lead image -->
+<div class="lead-img">
+  <div class="ph ph__cross">
+    <span class="ph__corners"></span>
+    <div class="ph__label">СУПУТНИКОВИЙ ЗНІМОК · СЕВАСТОПОЛЬСЬКА БУХТА · 12.05.2026</div>
+  </div>
+  <div class="lead-img__caption">
+    <span>Sentinel-2 L2A · Composite RGB · 10 m / px · обробка PLITKA Analytics</span>
+    <span>44.6160° N, 33.5253° E</span>
+  </div>
+</div>
+
+<!-- Article body -->
+<article class="article-body">
+
+  <p>
+    Восени 2025 року на пунктах базування Чорноморського флоту почалася не зовсім помітна,
+    але систематична зміна. Кораблі-носії крилатих ракет «Калібр» — фрегати проєкту 11356Р
+    і малі ракетні кораблі проєктів 21631 та 22800 — після кожного бойового виходу
+    почали заходити не на свої штатні стоянки, а до спеціально обладнаних укриттів.
+    Це підтверджують 312 проходжень супутників Sentinel-2 і Planet Labs над портами
+    Севастополя, Новоросійська, Феодосії і Темрюка з серпня 2025-го по травень 2026 року.
+  </p>
+
+  <p class="lede">
+    Те, що ще навесні 2025 року виглядало як аномалія, до травня 2026 стало доктринальною
+    нормою: жоден корабель-носій «Калібру» не залишається на відкритій воді біля причалу
+    довше, ніж потрібно для перевантаження.
+  </p>
+
+  <p>
+    Це розслідування реконструює, <strong>де саме</strong> заводять корабли,
+    <strong>як виглядають укриття</strong> і <strong>скільки часу</strong> носії
+    «Калібру» проводять у захищеному стані між запусками. Висновки спираються на
+    відкриті супутникові дані, AIS-треки, портові реєстри та геолокацію
+    фотоматеріалів з російських Telegram-каналів моряків та їхніх родичів.
+  </p>
+
+  <h2>Ключові цифри за дев'ять місяців</h2>
+
+  <div class="stat-2col">
+    <div class="stat-2col__cell">
+      <div class="stat-2col__num">23</div>
+      <div class="stat-2col__lbl">Нові укриття зафіксовані</div>
+      <p class="stat-2col__dek">З яких 14 — у Криму, 9 — у Краснодарському краї. Тип «Тент-К» та залізобетонні бокси.</p>
+    </div>
+    <div class="stat-2col__cell">
+      <div class="stat-2col__num">84%</div>
+      <div class="stat-2col__lbl">Часу між пусками — в укритті</div>
+      <p class="stat-2col__dek">Медіанний показник для ракетоносців ЧФ. Рік тому — лише 22%.</p>
+    </div>
+    <div class="stat-2col__cell">
+      <div class="stat-2col__num">312</div>
+      <div class="stat-2col__lbl">Супутникових проходжень оброблено</div>
+      <p class="stat-2col__dek">Sentinel-2 L2A (Copernicus), Planet SkySat, Maxar Open Data. 08.2025–05.2026.</p>
+    </div>
+    <div class="stat-2col__cell">
+      <div class="stat-2col__num">±18 м</div>
+      <div class="stat-2col__lbl">Точність геолокації позицій</div>
+      <p class="stat-2col__dek">За методом тіней з калібруванням по об'єктах відомих розмірів.</p>
+    </div>
+  </div>
+
+  <h2>Що змінилося після осінніх ударів</h2>
+
+  <p>
+    Переломним моментом, який поведінкову зміну зробив доктринальною, стали удари ЗСУ по
+    Феодосії і Темрюку у вересні–жовтні 2025 року. До цього кораблі-носії «Калібру»
+    могли стояти біля причалу 8–14 діб поспіль. Після — медіанний час стоянки на
+    відкритій воді скоротився до 41 години.
+  </p>
+
+  <p>
+    Це не означає, що флот «зник» — він просто перемістився. Аналіз серій знімків
+    показує: між запусками носії заводять до однієї з трьох категорій укриттів.
+    Найдешевша — тентова конструкція над причалом («Тент-К» в офіційній номенклатурі).
+    Найдорожча — заглиблений залізобетонний бокс із розсувною покрівлею, які до 2024 року
+    у Чорноморському басейні не використовувалися взагалі.
+  </p>
+
+  <div class="barchart">
+    <div class="barchart__title">Розподіл нових укриттів за типом · 08.2025 — 05.2026</div>
+    <div class="barchart__sub">23 нові позиції · Sentinel-2 L2A · Planet Labs</div>
+    <div class="bar">
+      <span class="bar__lbl">Тент-К</span>
+      <div class="bar__bg"><div class="bar__fill bar__fill--rust" style="width:65%;"></div></div>
+      <span class="bar__val">15</span>
+    </div>
+    <div class="bar">
+      <span class="bar__lbl">Залізобетон</span>
+      <div class="bar__bg"><div class="bar__fill" style="width:26%;"></div></div>
+      <span class="bar__val">6</span>
+    </div>
+    <div class="bar">
+      <span class="bar__lbl">Заглиблений</span>
+      <div class="bar__bg"><div class="bar__fill bar__fill--navy" style="width:9%;"></div></div>
+      <span class="bar__val">2</span>
+    </div>
+  </div>
+
+  <p class="pullquote">
+    Жоден корабель-носій не залишається на відкритій воді довше, ніж потрібно для перевантаження
+    <span class="pullquote__cite">З аналізу 312 супутникових проходжень</span>
+  </p>
+
+  <h2>Феодосія: три нові бокси за шість тижнів</h2>
+
+  <p>
+    Найшвидші зміни зафіксовані у Феодосії. На знімках від 7 жовтня 2025 року на території
+    військового порту вже були видні котловани під два об'єкти. До 18 листопада — три
+    готових залізобетонних бокси. Координати: <em>45.0287° N, 35.3795° E</em>;
+    <em>45.0301° N, 35.3812° E</em>; <em>45.0264° N, 35.3779° E</em>. Розміри одного боксу
+    в плані — 92×17 м, що відповідає корпусу МРК проєкту 22800 із запасом ходи 2,5 м з кожного борту.
+  </p>
+
+  <div class="figure">
+    <div class="ph ph__cross">
+      <span class="ph__corners"></span>
+      <div class="ph__label">КАРТА · ФЕОДОСІЯ · 3 ПОЗИЦІЇ</div>
+    </div>
+    <div class="figure__cap">
+      <span><strong>Рис. 1.</strong> Позиції нових залізобетонних боксів у військовому порту Феодосії. Висота тіней — 4,2 м (±0,3 м).</span>
+      <span>18.11.2025</span>
+    </div>
+  </div>
+
+  <h3>Метод вимірювання тіней</h3>
+
+  <p>
+    Висоту покрівлі укриттів ми оцінювали стандартним методом тіней: довжина тіні
+    від об'єкта відомої висоти (контейнер 9'6", 2,896 м) калібрує множник, який
+    переноситься на тінь самого боксу. Калібрування проводилося окремо для кожного
+    знімка через варіацію кута сонця.
+  </p>
+
+  <div class="methodology">
+    <h3>Методологія</h3>
+    <p>Це розслідування побудоване на трьох незалежних потоках даних, кожен з яких ми верифікували мінімум двома джерелами:</p>
+    <ol>
+      <li><strong>Супутникові знімки.</strong> 312 проходжень Sentinel-2 L2A (відкритий доступ через Copernicus Open Hub) та 41 архівний знімок Planet SkySat. Для критичних спостережень додатково запитували Maxar Open Data.</li>
+      <li><strong>AIS-треки.</strong> Архіви MarineTraffic та порталу Vessel Finder за період 01.08.2025 — 12.05.2026. Особлива увага — періодам, коли AIS вимикався (це теж сигнал).</li>
+      <li><strong>Геолокація фото.</strong> 64 геолоковані фото з російських Telegram-каналів моряків і місцевих жителів. Перевірка — за тінями, особливостями забудови, маркуванням техніки.</li>
+    </ol>
+    <p style="margin: 14px 0 0;">Усі сирі дані доступні в нашому публічному датасеті: <a href="#" style="border-bottom: 1px solid var(--steelB); color: var(--steelB);">plitka.analytics/datasets/p01-shelters-2026</a>.</p>
+  </div>
+
+  <h2>Що це означає для ефективності ударів</h2>
+
+  <p>
+    Перехід ракетоносців до закритих укриттів суттєво ускладнює ураження їх безпосередньо
+    в порту. Утім, аналіз показує і вразливості нової конфігурації: щоразу, коли носій
+    готується до пуску, він мусить вийти з укриття мінімум на 90 хвилин — і саме у цей
+    «вікно» фіксуються його точні координати на відкритій воді.
+  </p>
+
+  <div class="figure">
+    <div class="ph ph--cream">
+      <span class="ph__corners"></span>
+      <div class="ph__label">ГРАФІК · ВІКНА УРАЗЛИВОСТІ · 90 ДІБ</div>
+    </div>
+    <div class="figure__cap">
+      <span><strong>Рис. 2.</strong> Сумарна тривалість «вікон» відкритого стану ракетоносців ЧФ. Шкала — години на добу.</span>
+      <span>02.2026 — 05.2026</span>
+    </div>
+  </div>
+
+  <p>
+    Це робить ракетну загрозу від ЧФ <em>менш постійною, але більш передбачуваною</em>:
+    наша модель помилково передбачає момент виходу з укриття у 22% випадків, що для
+    військового моделювання — прийнятна точність.
+  </p>
+
+  <h2>Висновки і відкриті запитання</h2>
+
+  <p>
+    За дев'ять місяців спостережень ми бачимо, що Чорноморський флот РФ зробив системну
+    адаптацію до спроможностей ЗСУ — і ця адаптація коштувала і коштує дорого:
+    щонайменше 23 будівельні проєкти, мобілізація ресурсів Чорноморбуду, перепрофілювання
+    суднобудівних потужностей. Але адаптація залишає «вікна», які можна моделювати —
+    і саме у цих вікнах залишається простір для дії.
+  </p>
+
+  <p>
+    Відкритими залишаються три питання, на які ми поки не маємо переконливих відповідей:
+    куди дівся «Ростов-на-Дону» після ремонту в Новоросійську; чи проводилися навчання
+    з прискореного виходу з заглиблених боксів; і чому російська сторона з лютого 2026
+    припинила публічно демонструвати кораблі цієї категорії — навіть на офіційних заходах.
+  </p>
+
+  <p>
+    Слідкуйте за оновленнями цього розслідування — наступний матеріал, присвячений
+    логістиці постачання компонентів для «Калібру», виходить орієнтовно 28 травня.
+  </p>
+
+</article>
+
+<!-- Sources -->
+<div class="sources">
+  <h2>Джерела та матеріали</h2>
+  <ol>
+    <li>Sentinel-2 L2A Composite. Copernicus Open Access Hub. Запити 01.08.2025 — 12.05.2026.</li>
+    <li>Planet SkySat archive. Запит 04.05.2026, доступ через освітню програму Planet.</li>
+    <li>Maxar Open Data Program — критичні точки Феодосії, Севастополя, Новоросійська.</li>
+    <li>MarineTraffic Historical AIS, період 01.08.2025 — 12.05.2026.</li>
+    <li>Vessel Finder, повторна верифікація треків.</li>
+    <li>Російські Telegram-канали (61 канал, моніторинг через t.me) — геолокація фото, перевірка авторства.</li>
+    <li>OpenStreetMap, шари портів Чорноморського і Каспійського басейну.</li>
+    <li>Публічний реєстр Чорноморбуду, контракти за 2025 рік.</li>
+    <li>PLITKA Analytics. Internal dataset P01-SHELTERS-2026 (відкритий).</li>
+    <li>Frontstory.pl — приватні консультації щодо AIS-методології, лютий 2026.</li>
+  </ol>
+</div>
+
+<!-- Authors -->
+<div class="authors">
+  <div class="author">
+    <div class="author__photo">ОГ</div>
+    <div>
+      <div class="author__name">Олег Гриценко</div>
+      <div class="author__role">Головний аналітик · Морська тематика</div>
+      <p class="author__bio">У PLITKA з 2022 року. Працював у відкритих розслідуваннях
+      «Радіо Свобода» та The Insider. Спеціалізація — флот РФ.</p>
+    </div>
+  </div>
+  <div class="author">
+    <div class="author__photo">КШ</div>
+    <div>
+      <div class="author__name">Катерина Шевченко</div>
+      <div class="author__role">OSINT-розслідувачка · SATINT</div>
+      <p class="author__bio">Спеціалізація — супутникова аналітика і геолокація.
+      Веде проєкт «Порти» з 2023 року. Соавторка серії про іранські поставки.</p>
+    </div>
+  </div>
+</div>
+
+<!-- Related -->
+<section class="related">
+  <div class="container">
+    <h2>Читайте за темою</h2>
+    <div class="related__grid">
+      <article class="card">
+        <div class="ph card__img ph__cross"><span class="ph__corners"></span><div class="ph__label">КАРТА · АКВАТОРІЯ</div></div>
+        <span class="card__tag">Проєкт «ФРЕГАТИ»</span>
+        <h3 class="card__title"><a href="#">Маршрути виходу носіїв «Калібру» з Севастополя</a></h3>
+        <div class="card__meta"><span>12 травня 2026</span><span>К. ШЕВЧЕНКО</span></div>
+      </article>
+      <article class="card">
+        <div class="ph ph--cream card__img"><span class="ph__corners"></span><div class="ph__label">ФОТО · РЕЗЕРВУАРИ</div></div>
+        <span class="card__tag">Проєкт «ПОРТИ»</span>
+        <h3 class="card__title"><a href="#">Темрюк, паливний термінал — динаміка завантаження</a></h3>
+        <div class="card__meta"><span>11 травня 2026</span><span>М. ЛАЗАРЕНКО</span></div>
+      </article>
+      <article class="card">
+        <div class="ph card__img ph__cross"><span class="ph__corners"></span><div class="ph__label">СУПУТНИК · УКРИТТЯ</div></div>
+        <span class="card__tag">Проєкт «ПОРТИ»</span>
+        <h3 class="card__title"><a href="#">Тимчасові укриття для ракетоносців у Феодосії</a></h3>
+        <div class="card__meta"><span>07 травня 2026</span><span>К. ШЕВЧЕНКО</span></div>
+      </article>
+    </div>
+  </div>
+</section>
+
+<!-- Footer -->
+<footer class="footer">
+  <div class="footer__grid">
+    <div class="footer__brand">
+      <div class="footer__logo logo" style="margin-bottom:16px;">
+        <div class="logo__sq"></div>
+        <div class="logo__stack">
+          <div class="logo__word">PLITKA</div>
+          <div class="logo__sub">ANALYTICS</div>
+        </div>
+      </div>
+      <p>Незалежна OSINT-аналітика війни в Україні. Працюємо з відкритими даними — супутниковими знімками, AIS, ADS-B, портовими реєстрами та геолокацією фото- й відеоматеріалів.</p>
+    </div>
+    <div>
+      <h4>Розділи</h4>
+      <ul>
+        <li><a href="index.html">Головна</a></li>
+        <li><a href="proekty.html">Проєкти</a></li>
+        <li><a href="stattya.html">Розслідування</a></li>
+        <li><a href="#">Архів</a></li>
+      </ul>
+    </div>
+    <div>
+      <h4>Команда</h4>
+      <ul>
+        <li><a href="pro-nas.html">Про нас</a></li>
+        <li><a href="spivpratsia.html">Співпраця</a></li>
+        <li><a href="#">Методологія</a></li>
+        <li><a href="#">Контакти</a></li>
+      </ul>
+    </div>
+    <div>
+      <h4>Зв'язок</h4>
+      <ul>
+        <li>tip@plitka.analytics</li>
+        <li>Signal · @plitka</li>
+        <li>SecureDrop</li>
+        <li>PGP-ключ</li>
+      </ul>
+    </div>
+  </div>
+  <div class="footer__bottom">
+    <span class="footer__tag">Ракетоносці Чорного моря і Каспію · 2022–2026</span>
+    <span>© PLITKA Analytics · CC BY-NC 4.0</span>
+  </div>
+</footer>
+
+</body>
+</html>

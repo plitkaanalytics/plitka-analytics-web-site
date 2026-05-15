@@ -1,0 +1,837 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Про нас — PLITKA Analytics</title>
+<link rel="stylesheet" href="styles.css">
+<style>
+  /* Hero with manifesto */
+  .manifesto {
+    padding: 64px 0 56px;
+    border-bottom: 1px solid var(--rule);
+  }
+  .manifesto__grid {
+    max-width: var(--maxw);
+    margin: 0 auto;
+    padding: 0 var(--gutter);
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 64px;
+  }
+  .manifesto__side {
+    border-right: 1px solid var(--rule);
+    padding-right: 48px;
+  }
+  .manifesto__side h2 {
+    font-family: var(--mono);
+    font-size: 11px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--red);
+    margin-bottom: 16px;
+    font-weight: 700;
+  }
+  .manifesto__main h1 {
+    font-family: var(--serif);
+    font-size: clamp(36px, 4.6vw, 64px);
+    line-height: 1.06;
+    margin-bottom: 24px;
+    letter-spacing: -0.005em;
+    max-width: 18ch;
+  }
+  .manifesto__main h1 em {
+    font-style: italic;
+    color: var(--rust);
+  }
+  .manifesto__main p {
+    font-family: var(--serif);
+    font-style: italic;
+    font-size: 22px;
+    line-height: 1.5;
+    color: var(--navy);
+    max-width: 58ch;
+  }
+  .manifesto__main p + p {
+    font-style: normal;
+    font-family: var(--sans);
+    font-size: 17px;
+    color: var(--slate);
+    margin-top: 24px;
+  }
+
+  .manifesto__fact {
+    margin-bottom: 32px;
+    padding-bottom: 18px;
+    border-bottom: 1px solid var(--rule);
+  }
+  .manifesto__fact:last-child { border-bottom: none; }
+  .manifesto__fact-lbl {
+    font-family: var(--mono);
+    font-size: 10.5px;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--slate);
+    margin-bottom: 6px;
+    font-weight: 700;
+  }
+  .manifesto__fact-val {
+    font-family: var(--serif);
+    font-size: 22px;
+    color: var(--navy);
+    line-height: 1.2;
+  }
+
+  /* Stats band */
+  .stats-band {
+    background: var(--navy);
+    color: #fff;
+    padding: 56px 0;
+  }
+  .stats-band__inner {
+    max-width: var(--maxw);
+    margin: 0 auto;
+    padding: 0 var(--gutter);
+  }
+  .stats-band h2 {
+    font-family: var(--mono);
+    font-size: 11px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: #F08080;
+    margin-bottom: 32px;
+    font-weight: 700;
+  }
+  .stats-band__grid {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 24px;
+  }
+  .stats-band__cell {
+    border-left: 1px solid #28384C;
+    padding-left: 20px;
+  }
+  .stats-band__cell:first-child { border-left: none; padding-left: 0; }
+  .stats-band__num {
+    font-family: var(--serif);
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 1;
+    color: #fff;
+    margin-bottom: 12px;
+    letter-spacing: -0.01em;
+  }
+  .stats-band__num small { color: var(--red); font-size: 24px; font-weight: 700; }
+  .stats-band__lbl {
+    font-family: var(--sans);
+    font-size: 14px;
+    color: #B8C4D2;
+    line-height: 1.4;
+  }
+
+  /* Principles */
+  .principles {
+    padding: 64px 0;
+    border-bottom: 1px solid var(--rule);
+  }
+  .principles__head {
+    max-width: var(--maxw);
+    margin: 0 auto 40px;
+    padding: 0 var(--gutter);
+  }
+  .principles__head h2 {
+    font-family: var(--serif);
+    font-size: 40px;
+    margin: 0 0 12px;
+  }
+  .principles__head p {
+    font-size: 17px;
+    color: var(--slate);
+    margin: 0;
+    max-width: 60ch;
+  }
+  .principles__grid {
+    max-width: var(--maxw);
+    margin: 0 auto;
+    padding: 0 var(--gutter);
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1px;
+    background: var(--rule);
+    border: 1px solid var(--rule);
+  }
+  .principle {
+    background: var(--paper);
+    padding: 32px 28px;
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+  }
+  .principle__num {
+    font-family: var(--serif);
+    font-size: 56px;
+    line-height: 1;
+    color: var(--red);
+    font-weight: 700;
+    letter-spacing: -0.02em;
+  }
+  .principle h3 {
+    font-family: var(--serif);
+    font-size: 22px;
+    line-height: 1.2;
+    margin: 0;
+  }
+  .principle p {
+    font-size: 15px;
+    color: var(--slate);
+    line-height: 1.55;
+    margin: 0;
+  }
+  .principle--accent { background: var(--cream); }
+  .principle--accent .principle__num { color: var(--rust); }
+  .principle--blue { background: var(--blue); }
+  .principle--blue .principle__num { color: var(--steelB); }
+
+  /* Team */
+  .team {
+    padding: 64px 0;
+    border-bottom: 1px solid var(--rule);
+  }
+  .team__head {
+    max-width: var(--maxw);
+    margin: 0 auto 40px;
+    padding: 0 var(--gutter);
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    border-bottom: 3px double var(--navy);
+    padding-bottom: 14px;
+  }
+  .team__head h2 {
+    font-family: var(--serif);
+    font-size: 40px;
+    margin: 0;
+  }
+  .team__head span {
+    font-family: var(--mono);
+    font-size: 11px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--slate);
+  }
+  .team__grid {
+    max-width: var(--maxw);
+    margin: 0 auto;
+    padding: 0 var(--gutter);
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 48px 40px;
+  }
+  .member {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+  }
+  .member__photo {
+    aspect-ratio: 1 / 1;
+    background:
+      repeating-linear-gradient(135deg, #F8D7C0 0 8px, #F2CAB0 8px 16px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: var(--serif);
+    color: var(--rust);
+    font-size: 56px;
+    font-weight: 700;
+    border: 1px solid var(--rule);
+  }
+  .member--blue .member__photo {
+    background: repeating-linear-gradient(135deg, #CFE0F1 0 8px, #BFD3E8 8px 16px);
+    color: var(--steelB);
+  }
+  .member--navy .member__photo {
+    background: repeating-linear-gradient(135deg, #1A2A3E 0 8px, #0E1B2A 8px 16px);
+    color: #fff;
+  }
+  .member__role {
+    font-family: var(--mono);
+    font-size: 10.5px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--red);
+    font-weight: 700;
+  }
+  .member__name {
+    font-family: var(--serif);
+    font-size: 24px;
+    line-height: 1.15;
+    margin: 0;
+  }
+  .member__bio {
+    font-size: 14.5px;
+    color: var(--slate);
+    line-height: 1.5;
+    margin: 0;
+  }
+  .member__contact {
+    font-family: var(--mono);
+    font-size: 11px;
+    letter-spacing: 0.06em;
+    color: var(--steelB);
+    margin-top: auto;
+    padding-top: 12px;
+    border-top: 1px dotted var(--rule);
+  }
+
+  /* Timeline */
+  .timeline {
+    padding: 64px 0;
+    background: var(--paper-2);
+    border-bottom: 1px solid var(--rule);
+  }
+  .timeline__head {
+    max-width: var(--maxw);
+    margin: 0 auto 40px;
+    padding: 0 var(--gutter);
+  }
+  .timeline__head h2 {
+    font-family: var(--serif);
+    font-size: 40px;
+    margin: 0 0 8px;
+  }
+  .timeline__head p { font-size: 16px; color: var(--slate); margin: 0; }
+  .timeline__list {
+    max-width: var(--maxw);
+    margin: 0 auto;
+    padding: 0 var(--gutter);
+  }
+  .tl {
+    display: grid;
+    grid-template-columns: 160px 24px 1fr;
+    gap: 24px;
+    padding: 20px 0;
+    border-bottom: 1px solid var(--rule);
+  }
+  .tl__date {
+    font-family: var(--mono);
+    font-size: 12px;
+    letter-spacing: 0.06em;
+    color: var(--rust);
+    font-weight: 700;
+  }
+  .tl__dot {
+    width: 12px;
+    height: 12px;
+    background: var(--red);
+    margin: 6px 0 0;
+    border-radius: 50%;
+  }
+  .tl__body h3 {
+    font-family: var(--serif);
+    font-size: 20px;
+    margin: 0 0 4px;
+    line-height: 1.2;
+  }
+  .tl__body p { font-size: 15px; color: var(--slate); margin: 0; line-height: 1.5; }
+
+  /* Press / mentions */
+  .press {
+    padding: 64px 0;
+    border-bottom: 1px solid var(--rule);
+  }
+  .press__head {
+    max-width: var(--maxw);
+    margin: 0 auto 32px;
+    padding: 0 var(--gutter);
+  }
+  .press__head h2 {
+    font-family: var(--serif);
+    font-size: 40px;
+    margin: 0;
+  }
+  .press__list {
+    max-width: var(--maxw);
+    margin: 0 auto;
+    padding: 0 var(--gutter);
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 32px;
+  }
+  .press__item {
+    border-top: 3px double var(--navy);
+    padding-top: 18px;
+  }
+  .press__item .src {
+    font-family: var(--mono);
+    font-size: 11px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--rust);
+    font-weight: 700;
+    margin-bottom: 8px;
+  }
+  .press__item blockquote {
+    font-family: var(--serif);
+    font-style: italic;
+    font-size: 19px;
+    line-height: 1.45;
+    color: var(--navy);
+    margin: 0 0 12px;
+    padding: 0;
+  }
+  .press__item .when {
+    font-family: var(--mono);
+    font-size: 11px;
+    color: var(--slate);
+    letter-spacing: 0.06em;
+  }
+
+  /* CTA */
+  .cta {
+    background: var(--cream);
+    padding: 64px 0;
+  }
+  .cta__inner {
+    max-width: var(--maxw);
+    margin: 0 auto;
+    padding: 0 var(--gutter);
+    display: grid;
+    grid-template-columns: 1.4fr 1fr;
+    gap: 48px;
+    align-items: center;
+  }
+  .cta h2 {
+    font-size: 36px;
+    color: var(--rust);
+    margin: 0 0 12px;
+  }
+  .cta p { color: var(--navy); margin: 0; }
+  .cta__actions {
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+  }
+
+  @media (max-width: 900px) {
+    .manifesto__grid { grid-template-columns: 1fr; gap: 32px; }
+    .manifesto__side { border-right: none; padding-right: 0; }
+    .stats-band__grid { grid-template-columns: repeat(2, 1fr); gap: 24px 16px; }
+    .stats-band__cell { border-left: none; padding-left: 0; }
+    .principles__grid { grid-template-columns: 1fr; }
+    .team__grid { grid-template-columns: 1fr; }
+    .press__list { grid-template-columns: 1fr; }
+    .cta__inner { grid-template-columns: 1fr; }
+    .cta__actions { justify-content: flex-start; }
+    .tl { grid-template-columns: 1fr; gap: 4px; }
+    .tl__dot { display: none; }
+  }
+</style>
+</head>
+<body data-screen-label="05 About">
+
+<!-- Top strip -->
+<div class="topstrip">
+  <div class="topstrip__inner">
+    <div><span class="topstrip__dot"></span>В ефірі — оперативний моніторинг подій</div>
+    <div>
+      <span style="margin-right:20px;">№ 218 · ЧТ, 14 ТРАВНЯ 2026</span>
+      <a href="#">UA</a> · <a href="#" style="opacity:0.5;">EN</a>
+    </div>
+  </div>
+</div>
+
+<!-- Header -->
+<header class="header">
+  <div class="header__inner">
+    <nav class="nav" aria-label="Головна навігація">
+      <a href="index.html">Головна</a>
+      <a href="proekty.html">Проєкти</a>
+      <a href="stattya.html">Розслідування</a>
+      <a href="pro-nas.html" class="is-current">Про нас</a>
+      <a href="spivpratsia.html">Співпраця</a>
+    </nav>
+    <a href="index.html" class="logo" aria-label="PLITKA Analytics — на головну">
+      <div class="logo__sq"></div>
+      <div class="logo__stack">
+        <div class="logo__word">PLITKA</div>
+        <div class="logo__sub">ANALYTICS</div>
+      </div>
+    </a>
+  </div>
+</header>
+
+<!-- Sub strip -->
+<div class="substrip">
+  <div class="substrip__inner">
+    <div><strong>ПРО НАС</strong> · Команда · Принципи · Історія</div>
+    <div>Засновано в серпні 2022 року</div>
+  </div>
+</div>
+
+<!-- Manifesto -->
+<section class="manifesto">
+  <div class="manifesto__grid">
+    <aside class="manifesto__side">
+      <h2>Хто ми</h2>
+      <div class="manifesto__fact">
+        <div class="manifesto__fact-lbl">Засновано</div>
+        <div class="manifesto__fact-val">Серпень 2022</div>
+      </div>
+      <div class="manifesto__fact">
+        <div class="manifesto__fact-lbl">Команда</div>
+        <div class="manifesto__fact-val">8 аналітиків</div>
+      </div>
+      <div class="manifesto__fact">
+        <div class="manifesto__fact-lbl">Регістрація</div>
+        <div class="manifesto__fact-val">ГО, Київ</div>
+      </div>
+      <div class="manifesto__fact">
+        <div class="manifesto__fact-lbl">Фінансування</div>
+        <div class="manifesto__fact-val">Гранти, донати, замовлення</div>
+      </div>
+      <div class="manifesto__fact">
+        <div class="manifesto__fact-lbl">Мови</div>
+        <div class="manifesto__fact-val">UA · EN · PL</div>
+      </div>
+    </aside>
+    <div class="manifesto__main">
+      <span class="eyebrow eyebrow--red">МАНІФЕСТ</span>
+      <h1 style="margin-top:8px;">Ми дивимося <em>згори</em> — і це наша сила</h1>
+      <p>
+        PLITKA Analytics — українська незалежна OSINT-команда, яка з 2022 року
+        займається систематичним аналізом російської військової інфраструктури і
+        переміщень військ із відкритих джерел.
+      </p>
+      <p>
+        Ми не маємо інсайдерських джерел, не співпрацюємо з розвідками і не публікуємо
+        матеріалів, які можуть бути перевірені тільки одним посиланням. Кожен наш висновок
+        має мінімум три незалежні джерела — і весь сирий датасет, на якому він ґрунтується,
+        ми викладаємо публічно. Ми пишемо для аналітиків, журналістів, дослідницьких центрів
+        і всіх, хто хоче розуміти війну тверезо, повільно і з даними.
+      </p>
+    </div>
+  </div>
+</section>
+
+<!-- Stats -->
+<section class="stats-band">
+  <div class="stats-band__inner">
+    <h2>● Числа станом на 14 травня 2026</h2>
+    <div class="stats-band__grid">
+      <div class="stats-band__cell">
+        <div class="stats-band__num">418</div>
+        <div class="stats-band__lbl">Опублікованих<br>розслідувань</div>
+      </div>
+      <div class="stats-band__cell">
+        <div class="stats-band__num">73<small> ТБ</small></div>
+        <div class="stats-band__lbl">Супутникових знімків<br>оброблено</div>
+      </div>
+      <div class="stats-band__cell">
+        <div class="stats-band__num">12</div>
+        <div class="stats-band__lbl">Активних<br>проєктів</div>
+      </div>
+      <div class="stats-band__cell">
+        <div class="stats-band__num">31</div>
+        <div class="stats-band__lbl">Партнерство з<br>think-tanks і медіа</div>
+      </div>
+      <div class="stats-band__cell">
+        <div class="stats-band__num">4 200</div>
+        <div class="stats-band__lbl">Підписників<br>дайджесту</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Principles -->
+<section class="principles">
+  <div class="principles__head">
+    <span class="eyebrow eyebrow--rust">ПРИНЦИПИ</span>
+    <h2 style="margin-top:8px;">Як ми працюємо</h2>
+    <p>Шість правил, яких ми тримаємось у кожному матеріалі — без винятків. Якщо ми не можемо їх виконати, ми не публікуємо.</p>
+  </div>
+  <div class="principles__grid">
+
+    <div class="principle principle--accent">
+      <div class="principle__num">01</div>
+      <h3>Три незалежні джерела</h3>
+      <p>Жоден висновок не потрапляє в публікацію, якщо ми не маємо мінімум трьох незалежних джерел, що його підтверджують. Якщо тільки одне — пишемо в брифінг як гіпотезу.</p>
+    </div>
+
+    <div class="principle">
+      <div class="principle__num">02</div>
+      <h3>Відкритий датасет</h3>
+      <p>Сирі дані, на яких побудоване розслідування, доступні публічно: координати, ID знімків, AIS-треки. Ми не приховуємо матеріал від перевірки.</p>
+    </div>
+
+    <div class="principle principle--blue">
+      <div class="principle__num">03</div>
+      <h3>Чесна методологія</h3>
+      <p>Помилки і похибки вимірюємо й називаємо. ±18 м точності геолокації — це наш стандарт повідомлення, а не маркетинг.</p>
+    </div>
+
+    <div class="principle">
+      <div class="principle__num">04</div>
+      <h3>Захист джерел</h3>
+      <p>Ми ніколи не публікуємо інформацію, яка прямо чи побічно вказує на людських джерел в зоні ризику. SecureDrop і PGP — для нас норма, не виняток.</p>
+    </div>
+
+    <div class="principle principle--blue">
+      <div class="principle__num">05</div>
+      <h3>Без сенсацій</h3>
+      <p>Ми пишемо повільно і нудно. Якщо матеріал «гарячий», але дані сирі, він почекає. Краще пізніше і правильно, ніж першими і помилково.</p>
+    </div>
+
+    <div class="principle principle--accent">
+      <div class="principle__num">06</div>
+      <h3>Українською — як першою мовою</h3>
+      <p>Ми пишемо для української аудиторії в першу чергу. Англомовні версії виходять із затримкою 2–4 тижні. Польська — за партнерством із Frontstory.pl.</p>
+    </div>
+
+  </div>
+</section>
+
+<!-- Team -->
+<section class="team">
+  <div class="team__head">
+    <h2>Команда</h2>
+    <span>8 аналітиків · Київ, Львів, Варшава, віддалено</span>
+  </div>
+  <div class="team__grid">
+
+    <article class="member member--blue">
+      <div class="member__photo">ОГ</div>
+      <span class="member__role">Засновник · Головний аналітик</span>
+      <h3 class="member__name">Олег Гриценко</h3>
+      <p class="member__bio">У минулому — кореспондент відкритих розслідувань у «Радіо Свобода» і The Insider. Спеціалізація — флот РФ і морська логістика. У PLITKA з дня заснування.</p>
+      <div class="member__contact">o.hrytsenko@plitka.analytics · Signal</div>
+    </article>
+
+    <article class="member">
+      <div class="member__photo">КШ</div>
+      <span class="member__role">Соавторка · SATINT</span>
+      <h3 class="member__name">Катерина Шевченко</h3>
+      <p class="member__bio">Геоінженерка за фахом. Веде проєкт «Порти» з 2023 року. Соавторка серії «Тіньовий флот Каспію» спільно з Frontstory.pl і Bellingcat.</p>
+      <div class="member__contact">k.shevchenko@plitka.analytics · PGP</div>
+    </article>
+
+    <article class="member member--navy">
+      <div class="member__photo">МЛ</div>
+      <span class="member__role">Аналітик · Супутникові дані</span>
+      <h3 class="member__name">Михайло Лазаренко</h3>
+      <p class="member__bio">Випускник КПІ, навчався обробки супутникових знімків у Гданському університеті. У команді — з січня 2024 року. Веде технічну методологію SATINT.</p>
+      <div class="member__contact">m.lazarenko@plitka.analytics</div>
+    </article>
+
+    <article class="member">
+      <div class="member__photo">АК</div>
+      <span class="member__role">Дата-журналістка · ДРОНИ</span>
+      <h3 class="member__name">Анна Ковальчук</h3>
+      <p class="member__bio">Раніше — Texty.org.ua, OCCRP. Спеціалізація — серійні номери, ланцюги постачання, відкриті бази даних. Веде проєкти «Дрони» і «Ешелони».</p>
+      <div class="member__contact">a.kovalchuk@plitka.analytics</div>
+    </article>
+
+    <article class="member member--blue">
+      <div class="member__photo">ТП</div>
+      <span class="member__role">Картограф · АВІАЦІЯ</span>
+      <h3 class="member__name">Тарас Поліщук</h3>
+      <p class="member__bio">Робить мапи, ілюстрації і схеми для всіх наших матеріалів. Веде проєкт «Авіація», прибудував QGIS-пайплайн команди. У PLITKA з 2024 року.</p>
+      <div class="member__contact">t.polishchuk@plitka.analytics</div>
+    </article>
+
+    <article class="member member--navy">
+      <div class="member__photo">СВ</div>
+      <span class="member__role">Редакторка</span>
+      <h3 class="member__name">Соломія Височанська</h3>
+      <p class="member__bio">Веде редакційну роботу, координує переклади. Філолог за фахом, вісім років у медіа. Принципово стримує наш потяг до сенсацій.</p>
+      <div class="member__contact">s.vysochanska@plitka.analytics</div>
+    </article>
+
+    <article class="member">
+      <div class="member__photo">ЯД</div>
+      <span class="member__role">Дослідник · OSINT-Telegram</span>
+      <h3 class="member__name">Ярослав Демчук</h3>
+      <p class="member__bio">Систематично моніторить 200+ російських Telegram-каналів. Робить початкову верифікацію відеоматеріалів. У команді з 2023 року. Псевдонім із міркувань безпеки.</p>
+      <div class="member__contact">research@plitka.analytics</div>
+    </article>
+
+    <article class="member member--blue">
+      <div class="member__photo">НФ</div>
+      <span class="member__role">Менеджерка партнерств</span>
+      <h3 class="member__name">Наталя Федоренко</h3>
+      <p class="member__bio">Координує співпрацю з міжнародними think-tanks і медіа, веде грантовий портфель. Раніше — Європейська платформа демократії. У PLITKA з 2024 року.</p>
+      <div class="member__contact">partners@plitka.analytics</div>
+    </article>
+
+  </div>
+</section>
+
+<!-- Timeline -->
+<section class="timeline">
+  <div class="timeline__head">
+    <span class="eyebrow eyebrow--steel">ІСТОРІЯ</span>
+    <h2 style="margin-top:8px;">Хронологія</h2>
+    <p>Як ми перетворилися з двох людей у Telegram-каналі на повноцінну дослідницьку команду.</p>
+  </div>
+  <div class="timeline__list">
+
+    <div class="tl">
+      <span class="tl__date">СЕРПЕНЬ 2022</span>
+      <span class="tl__dot"></span>
+      <div class="tl__body">
+        <h3>Початок: Telegram-канал «Плитка»</h3>
+        <p>Олег Гриценко і двоє друзів заводять анонімний канал з геолокацією російського військового флоту. За три місяці — 18 000 підписників.</p>
+      </div>
+    </div>
+
+    <div class="tl">
+      <span class="tl__date">КВІТЕНЬ 2023</span>
+      <span class="tl__dot"></span>
+      <div class="tl__body">
+        <h3>Перша велика публікація</h3>
+        <p>Розслідування «Хронологія крейсера Москва» (16 авторів, 32 джерела) виходить англійською в The Insider. Світ дізнається про «PLITKA Analytics».</p>
+      </div>
+    </div>
+
+    <div class="tl">
+      <span class="tl__date">ВЕРЕСЕНЬ 2023</span>
+      <span class="tl__dot"></span>
+      <div class="tl__body">
+        <h3>Перший грант</h3>
+        <p>Європейський фонд демократії підтримує річний проєкт SATINT. Команда зростає до п'яти людей.</p>
+      </div>
+    </div>
+
+    <div class="tl">
+      <span class="tl__date">ЛЮТИЙ 2024</span>
+      <span class="tl__dot"></span>
+      <div class="tl__body">
+        <h3>Партнерство з Bellingcat і Frontstory.pl</h3>
+        <p>Спільна публікація «Іранські компоненти для Shahed» виходить трьома мовами. Перший міжнародний резонанс.</p>
+      </div>
+    </div>
+
+    <div class="tl">
+      <span class="tl__date">СЕРПЕНЬ 2024</span>
+      <span class="tl__dot"></span>
+      <div class="tl__body">
+        <h3>Реєстрація як ГО</h3>
+        <p>PLITKA Analytics офіційно реєструється як українська громадська організація. Відкривається офіс у Києві.</p>
+      </div>
+    </div>
+
+    <div class="tl">
+      <span class="tl__date">БЕРЕЗЕНЬ 2025</span>
+      <span class="tl__dot"></span>
+      <div class="tl__body">
+        <h3>Запуск публічних датасетів</h3>
+        <p>Перші три відкриті датасети (P01–P03) стають доступними під ліцензією CC BY-NC. Згодом — стандарт для всіх проєктів.</p>
+      </div>
+    </div>
+
+    <div class="tl">
+      <span class="tl__date">ТРАВЕНЬ 2026</span>
+      <span class="tl__dot"></span>
+      <div class="tl__body">
+        <h3>Сьогодні: 8 людей · 12 проєктів</h3>
+        <p>418 опублікованих розслідувань, 73 ТБ оброблених даних, 31 партнер. Готуємо запуск проєктів «Енергетика» і «Кадрова політика РФ».</p>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<!-- Press -->
+<section class="press">
+  <div class="press__head">
+    <span class="eyebrow eyebrow--red">ПРО НАС ПИШУТЬ</span>
+    <h2 style="margin-top:8px;">Цитують і посилаються</h2>
+  </div>
+  <div class="press__list">
+    <div class="press__item">
+      <div class="src">Frontstory.pl · Варшава</div>
+      <blockquote>«PLITKA — це найточніша морська OSINT-аналітика, з якою ми працювали в Європі за останні три роки.»</blockquote>
+      <div class="when">МАРЕК ҐРЕЧКО · 02.2026</div>
+    </div>
+    <div class="press__item">
+      <div class="src">Texty.org.ua · Київ</div>
+      <blockquote>«Колеги з PLITKA задають стандарт того, як має виглядати методологічна прозорість у воєнній аналітиці.»</blockquote>
+      <div class="when">РЕДАКЦІЯ TEXTY · 11.2025</div>
+    </div>
+    <div class="press__item">
+      <div class="src">Royal United Services Institute · Лондон</div>
+      <blockquote>«PLITKA Analytics' satellite work on Black Sea Fleet shelters is the most rigorous open-source mapping we know of.»</blockquote>
+      <div class="when">RUSI BRIEFING · 03.2026</div>
+    </div>
+    <div class="press__item">
+      <div class="src">The Insider · Latvia</div>
+      <blockquote>«Партнерство з PLITKA стало точкою опори для всіх наших матеріалів про Чорноморський флот.»</blockquote>
+      <div class="when">РЕДАКЦІЯ · 04.2026</div>
+    </div>
+  </div>
+</section>
+
+<!-- CTA -->
+<section class="cta">
+  <div class="cta__inner">
+    <div>
+      <span class="eyebrow eyebrow--rust">СПІВПРАЦЯ</span>
+      <h2 style="margin-top:8px;">Хочете попрацювати з нами?</h2>
+      <p>Замовлення аналітичних звітів, гранти, партнерства, волонтерство, спецпроєкти з медіа — усе на сторінці «Співпраця».</p>
+    </div>
+    <div class="cta__actions">
+      <a href="spivpratsia.html" class="btn btn--red">Сторінка співпраці</a>
+      <a href="proekty.html" class="btn btn--ghost">Наші проєкти</a>
+    </div>
+  </div>
+</section>
+
+<!-- Footer -->
+<footer class="footer">
+  <div class="footer__grid">
+    <div class="footer__brand">
+      <div class="footer__logo logo" style="margin-bottom:16px;">
+        <div class="logo__sq"></div>
+        <div class="logo__stack">
+          <div class="logo__word">PLITKA</div>
+          <div class="logo__sub">ANALYTICS</div>
+        </div>
+      </div>
+      <p>Незалежна OSINT-аналітика війни в Україні. Працюємо з відкритими даними — супутниковими знімками, AIS, ADS-B, портовими реєстрами та геолокацією фото- й відеоматеріалів.</p>
+    </div>
+    <div>
+      <h4>Розділи</h4>
+      <ul>
+        <li><a href="index.html">Головна</a></li>
+        <li><a href="proekty.html">Проєкти</a></li>
+        <li><a href="stattya.html">Розслідування</a></li>
+        <li><a href="#">Архів</a></li>
+      </ul>
+    </div>
+    <div>
+      <h4>Команда</h4>
+      <ul>
+        <li><a href="pro-nas.html">Про нас</a></li>
+        <li><a href="spivpratsia.html">Співпраця</a></li>
+        <li><a href="#">Методологія</a></li>
+        <li><a href="#">Контакти</a></li>
+      </ul>
+    </div>
+    <div>
+      <h4>Зв'язок</h4>
+      <ul>
+        <li>tip@plitka.analytics</li>
+        <li>Signal · @plitka</li>
+        <li>SecureDrop</li>
+        <li>PGP-ключ</li>
+      </ul>
+    </div>
+  </div>
+  <div class="footer__bottom">
+    <span class="footer__tag">Ракетоносці Чорного моря і Каспію · 2022–2026</span>
+    <span>© PLITKA Analytics · CC BY-NC 4.0</span>
+  </div>
+</footer>
+
+</body>
+</html>

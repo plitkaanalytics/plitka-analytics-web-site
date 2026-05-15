@@ -1,0 +1,963 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PLITKA Analytics — OSINT-аналітика війни в Україні</title>
+<link rel="stylesheet" href="styles.css">
+<style>
+  /* ===== Home-specific ===== */
+
+  /* Hero / featured */
+  .hero {
+    padding: 48px 0 56px;
+    border-bottom: 1px solid var(--rule);
+  }
+  .hero__grid {
+    display: grid;
+    grid-template-columns: 1.55fr 1fr;
+    gap: 48px;
+  }
+  .hero__lead .ph {
+    aspect-ratio: 16 / 9;
+    margin-bottom: 24px;
+  }
+  .hero__eyebrow {
+    display: flex;
+    gap: 16px;
+    align-items: center;
+    margin-bottom: 16px;
+  }
+  .hero__title {
+    font-family: var(--serif);
+    font-size: clamp(36px, 4.4vw, 58px);
+    line-height: 1.06;
+    font-weight: 700;
+    margin-bottom: 18px;
+    letter-spacing: -0.005em;
+  }
+  .hero__title a { border: none; }
+  .hero__title a:hover { color: var(--red); }
+  .hero__dek {
+    font-family: var(--serif);
+    font-style: italic;
+    font-size: 20px;
+    line-height: 1.45;
+    color: var(--navy);
+    max-width: 56ch;
+    margin-bottom: 20px;
+  }
+  .hero__byline {
+    display: flex;
+    gap: 18px;
+    align-items: center;
+    font-family: var(--mono);
+    font-size: 11px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--slate);
+  }
+  .hero__byline strong { color: var(--navy); }
+
+  .hero__side {
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+  }
+  .hero__sidehead {
+    font-family: var(--mono);
+    font-size: 11px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--red);
+    font-weight: 700;
+    padding-bottom: 10px;
+    border-bottom: 2px solid var(--navy);
+    margin-bottom: 0;
+  }
+  .briefitem {
+    padding: 18px 0;
+    border-bottom: 1px solid var(--rule);
+  }
+  .briefitem:last-child { border-bottom: none; }
+  .briefitem__meta {
+    display: flex;
+    gap: 12px;
+    align-items: baseline;
+    margin-bottom: 6px;
+    font-family: var(--mono);
+    font-size: 10.5px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--slate);
+  }
+  .briefitem__meta .tag { color: var(--rust); font-weight: 700; }
+  .briefitem__title {
+    font-family: var(--serif);
+    font-size: 19px;
+    font-weight: 700;
+    line-height: 1.22;
+    margin-bottom: 6px;
+  }
+  .briefitem__title a:hover { color: var(--red); border: none; }
+  .briefitem__loc {
+    font-family: var(--mono);
+    font-size: 11px;
+    color: var(--steelB);
+    letter-spacing: 0.05em;
+  }
+
+  /* Latest grid */
+  .grid-3 {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 36px 32px;
+  }
+  .grid-2 {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 36px 32px;
+  }
+
+  /* Projects strip */
+  .projects-strip {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 1px;
+    background: var(--rule);
+    border: 1px solid var(--rule);
+  }
+  .ptile {
+    background: var(--paper);
+    padding: 24px 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    min-height: 200px;
+  }
+  .ptile a { border: none; }
+  .ptile__code {
+    font-family: var(--mono);
+    font-size: 11px;
+    letter-spacing: 0.16em;
+    color: var(--red);
+    font-weight: 700;
+  }
+  .ptile__title {
+    font-family: var(--serif);
+    font-size: 20px;
+    line-height: 1.15;
+    margin-bottom: 4px;
+  }
+  .ptile__count {
+    margin-top: auto;
+    font-family: var(--mono);
+    font-size: 11px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--slate);
+    border-top: 1px solid var(--rule);
+    padding-top: 10px;
+  }
+  .ptile--accent { background: var(--cream); }
+  .ptile--accent .ptile__code { color: var(--rust); }
+  .ptile--blue { background: var(--blue); }
+  .ptile--blue .ptile__code { color: var(--steelB); }
+
+  /* Investigation panel — dark */
+  .panel-dark {
+    background: var(--navy);
+    color: #DCE3EB;
+    padding: 56px 0;
+    margin: 0;
+  }
+  .panel-dark .section__title { color: #fff; }
+  .panel-dark .section__head { border-bottom-color: #28384C; }
+  .panel-dark .section__more { color: #fff; }
+  .panel-dark .card__title { color: #fff; }
+  .panel-dark .card__title a:hover { color: var(--red); }
+  .panel-dark .card__dek { color: #B8C4D2; }
+  .panel-dark .card__tag { color: #F08080; }
+  .panel-dark .card__meta { color: #8FA1B5; border-top-color: #28384C; }
+
+  /* Data block — table-like */
+  .data-row {
+    display: grid;
+    grid-template-columns: 80px 1fr 1fr 1fr 110px;
+    gap: 16px;
+    padding: 14px 0;
+    border-bottom: 1px solid var(--rule);
+    align-items: baseline;
+    font-size: 15px;
+  }
+  .data-row--head {
+    font-family: var(--mono);
+    font-size: 11px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--slate);
+    border-bottom: 2px solid var(--navy);
+    padding-bottom: 10px;
+    font-weight: 700;
+  }
+  .data-row__date { font-family: var(--mono); font-size: 12px; color: var(--steelB); }
+  .data-row__name { font-family: var(--serif); font-size: 17px; color: var(--navy); }
+  .data-row__status {
+    font-family: var(--mono);
+    font-size: 11px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    font-weight: 700;
+  }
+  .status-red { color: var(--red); }
+  .status-rust { color: var(--rust); }
+  .status-steel { color: var(--steelB); }
+  .status-slate { color: var(--slate); }
+
+  /* Two-col with sidebar */
+  .twocol {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 48px;
+  }
+
+  /* Stat counters */
+  .stats {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 0;
+    border-top: 3px double var(--navy);
+    border-bottom: 3px double var(--navy);
+  }
+  .stat {
+    padding: 28px 20px;
+    border-right: 1px solid var(--rule);
+  }
+  .stat:last-child { border-right: none; }
+  .stat__num {
+    font-family: var(--serif);
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 1;
+    color: var(--navy);
+    margin-bottom: 8px;
+  }
+  .stat__num small {
+    font-size: 22px;
+    color: var(--red);
+    font-weight: 700;
+  }
+  .stat__lbl {
+    font-family: var(--mono);
+    font-size: 11px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--slate);
+  }
+
+  /* Newsletter band */
+  .newsletter {
+    background: var(--cream);
+    padding: 48px 0;
+    border-top: 1px solid var(--rule);
+    border-bottom: 1px solid var(--rule);
+  }
+  .newsletter__grid {
+    display: grid;
+    grid-template-columns: 1.4fr 1fr;
+    gap: 48px;
+    align-items: center;
+  }
+  .newsletter h2 {
+    font-size: 36px;
+    color: var(--rust);
+    margin-bottom: 12px;
+  }
+  .newsletter p {
+    font-size: 16px;
+    color: var(--navy);
+    margin: 0;
+  }
+  .nlform {
+    display: flex;
+    gap: 8px;
+  }
+  .nlform input {
+    flex: 1;
+    border: 1px solid var(--rust);
+    background: #fff;
+    padding: 14px 16px;
+    font-family: var(--sans);
+    font-size: 16px;
+    color: var(--navy);
+  }
+  .nlform input:focus { outline: 2px solid var(--rust); outline-offset: -2px; }
+
+  /* Tweaks panel */
+  .tweaks {
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    width: 280px;
+    background: #fff;
+    border: 1px solid var(--navy);
+    box-shadow: 6px 6px 0 rgba(14,27,42,0.15);
+    z-index: 1000;
+    font-family: var(--sans);
+    font-size: 14px;
+    display: none;
+  }
+  .tweaks.is-open { display: block; }
+  .tweaks__head {
+    background: var(--navy);
+    color: #fff;
+    padding: 10px 14px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: var(--mono);
+    font-size: 11px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+  }
+  .tweaks__close {
+    background: none;
+    border: none;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+    padding: 0 4px;
+    line-height: 1;
+  }
+  .tweaks__body { padding: 14px; max-height: 70vh; overflow-y: auto; }
+  .tweaks__row {
+    margin-bottom: 14px;
+  }
+  .tweaks__row:last-child { margin-bottom: 0; }
+  .tweaks__label {
+    display: block;
+    font-family: var(--mono);
+    font-size: 10.5px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--slate);
+    margin-bottom: 6px;
+    font-weight: 700;
+  }
+  .tweaks__seg {
+    display: flex;
+    gap: 0;
+    border: 1px solid var(--navy);
+  }
+  .tweaks__seg button {
+    flex: 1;
+    background: #fff;
+    border: none;
+    border-right: 1px solid var(--navy);
+    padding: 8px 6px;
+    font-family: var(--mono);
+    font-size: 11px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    cursor: pointer;
+    color: var(--navy);
+  }
+  .tweaks__seg button:last-child { border-right: none; }
+  .tweaks__seg button.is-active {
+    background: var(--navy);
+    color: #fff;
+  }
+  .tweaks__hint {
+    font-size: 12px;
+    color: var(--slate);
+    line-height: 1.4;
+    margin: 4px 0 0;
+  }
+
+  /* Hero layout variant */
+  body[data-hero="stacked"] .hero__grid {
+    grid-template-columns: 1fr;
+    max-width: 920px;
+    margin: 0 auto;
+  }
+  body[data-hero="stacked"] .hero__side {
+    display: none;
+  }
+  body[data-hero="split"] .hero__grid {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  /* Density variant */
+  body[data-density="dense"] .section { padding: 36px 0; }
+  body[data-density="dense"] .grid-3 { gap: 24px; }
+  body[data-density="dense"] .card__title { font-size: 19px; }
+
+  /* Accent variant */
+  body[data-accent="red"] {
+    --accent: var(--red);
+  }
+  body[data-accent="rust"] .substrip { background: var(--rust); }
+  body[data-accent="rust"] .card__tag { color: var(--rust); }
+  body[data-accent="steel"] .substrip { background: var(--steelB); }
+
+  /* Hide briefs side toggle */
+  body[data-briefs="off"] .hero__grid { grid-template-columns: 1fr; }
+  body[data-briefs="off"] .hero__side { display: none; }
+
+  @media (max-width: 900px) {
+    .hero__grid { grid-template-columns: 1fr; gap: 32px; }
+    .grid-3 { grid-template-columns: 1fr; }
+    .grid-2 { grid-template-columns: 1fr; }
+    .projects-strip { grid-template-columns: repeat(2, 1fr); }
+    .stats { grid-template-columns: repeat(2, 1fr); }
+    .stat { border-bottom: 1px solid var(--rule); }
+    .twocol { grid-template-columns: 1fr; }
+    .newsletter__grid { grid-template-columns: 1fr; }
+    .data-row { grid-template-columns: 1fr; gap: 4px; }
+    .data-row--head { display: none; }
+  }
+</style>
+</head>
+<body data-hero="featured" data-density="default" data-accent="steel" data-briefs="on" data-screen-label="01 Home">
+
+<!-- Top strip -->
+<div class="topstrip">
+  <div class="topstrip__inner">
+    <div><span class="topstrip__dot"></span>В ефірі — оперативний моніторинг подій</div>
+    <div>
+      <span style="margin-right:20px;">№ 218 · ЧТ, 14 ТРАВНЯ 2026</span>
+      <a href="#">UA</a> · <a href="#" style="opacity:0.5;">EN</a>
+    </div>
+  </div>
+</div>
+
+<!-- Header -->
+<header class="header">
+  <div class="header__inner">
+    <nav class="nav" aria-label="Головна навігація">
+      <a href="index.html" class="is-current">Головна</a>
+      <a href="proekty.html">Проєкти</a>
+      <a href="stattya.html">Розслідування</a>
+      <a href="pro-nas.html">Про нас</a>
+      <a href="spivpratsia.html">Співпраця</a>
+    </nav>
+    <a href="index.html" class="logo" aria-label="PLITKA Analytics — на головну">
+      <div class="logo__sq"></div>
+      <div class="logo__stack">
+        <div class="logo__word">PLITKA</div>
+        <div class="logo__sub">ANALYTICS</div>
+      </div>
+    </a>
+  </div>
+</header>
+
+<!-- Sub strip -->
+<div class="substrip">
+  <div class="substrip__inner">
+    <div><strong>OSINT-моніторинг</strong> · Війна в Україні · Чорноморський регіон</div>
+    <div>Сьогодні оновлено: <strong>07:42 EET</strong> · 14 нових записів</div>
+  </div>
+</div>
+
+<!-- HERO -->
+<section class="hero">
+  <div class="container">
+    <div class="hero__grid">
+      <article class="hero__lead">
+        <div class="ph ph__cross" aria-label="Супутниковий знімок (плейсхолдер)">
+          <span class="ph__corners"></span>
+          <div class="ph__label">СУПУТНИКОВИЙ ЗНІМОК · 44.6160° N, 33.5253° E</div>
+        </div>
+        <div class="hero__eyebrow">
+          <span class="chip chip--red">РОЗСЛІДУВАННЯ</span>
+          <span class="mono">Проєкт «РАКЕТИ»</span>
+          <span class="mono">14 травня 2026</span>
+        </div>
+        <h1 class="hero__title">
+          <a href="stattya.html">Калібри в укриттях: як змінилися пускові точки фрегатів ЧФ за 9 місяців</a>
+        </h1>
+        <p class="hero__dek">
+          Аналіз 312 супутникових проходжень над пунктами базування Чорноморського флоту
+          показує систематичне переміщення носіїв крилатих ракет до закритих сховищ після ударів ЗСУ.
+        </p>
+        <div class="hero__byline">
+          <span><strong>Олег Гриценко</strong>, Катерина Шевченко</span>
+          <span>· 14 хв читання</span>
+          <span>· 18 джерел</span>
+        </div>
+      </article>
+
+      <aside class="hero__side" aria-label="Короткі оновлення">
+        <div class="hero__sidehead">
+          <span style="display:inline-block;width:6px;height:6px;background:var(--red);margin-right:8px;vertical-align:middle;"></span>
+          ОПЕРАТИВНІ ЗВЕДЕННЯ
+        </div>
+
+        <div class="briefitem">
+          <div class="briefitem__meta">
+            <span class="tag">ФРЕГАТИ</span>
+            <span>14.05 · 06:12</span>
+          </div>
+          <h3 class="briefitem__title">
+            <a href="stattya.html">«Адмірал Макаров» зафіксований на виході зі Севастопольської бухти</a>
+          </h3>
+          <div class="briefitem__loc">44.6° N · 33.5° E · Sentinel-2 L2A</div>
+        </div>
+
+        <div class="briefitem">
+          <div class="briefitem__meta">
+            <span class="tag">ПОРТИ</span>
+            <span>13.05 · 22:48</span>
+          </div>
+          <h3 class="briefitem__title">
+            <a href="stattya.html">Геолокація: ремонтні роботи на сухому доку Новоросійська</a>
+          </h3>
+          <div class="briefitem__loc">44.7° N · 37.8° E · Planet Labs</div>
+        </div>
+
+        <div class="briefitem">
+          <div class="briefitem__meta">
+            <span class="tag">АВІАЦІЯ</span>
+            <span>13.05 · 17:01</span>
+          </div>
+          <h3 class="briefitem__title">
+            <a href="stattya.html">Перевезення Іл-76 між Чкаловським і Хмеймімом — попередній звіт</a>
+          </h3>
+          <div class="briefitem__loc">ADS-B Exchange · 13 рейсів за 96 годин</div>
+        </div>
+
+        <div class="briefitem">
+          <div class="briefitem__meta">
+            <span class="tag">КАСПІЙ</span>
+            <span>12.05 · 09:30</span>
+          </div>
+          <h3 class="briefitem__title">
+            <a href="stattya.html">Малі ракетні кораблі Каспійської флотилії — оновлений склад</a>
+          </h3>
+          <div class="briefitem__loc">42.9° N · 47.6° E · Махачкала</div>
+        </div>
+      </aside>
+    </div>
+  </div>
+</section>
+
+<!-- ACTIVE PROJECTS STRIP -->
+<section class="section" style="padding-top:48px;">
+  <div class="container">
+    <div class="section__head">
+      <h2 class="section__title">Активні напрямки</h2>
+      <a href="proekty.html" class="section__more">Усі проєкти →</a>
+    </div>
+    <div class="projects-strip">
+      <a href="proekty.html" class="ptile ptile--accent">
+        <span class="ptile__code">P-01 · РАКЕТИ</span>
+        <div class="ptile__title">Ракетна загроза ЧФ</div>
+        <span class="ptile__count">68 матеріалів</span>
+      </a>
+      <a href="proekty.html" class="ptile">
+        <span class="ptile__code">P-02 · ФРЕГАТИ</span>
+        <div class="ptile__title">Переміщення кораблів</div>
+        <span class="ptile__count">142 матеріали</span>
+      </a>
+      <a href="proekty.html" class="ptile ptile--blue">
+        <span class="ptile__code">P-03 · ПОРТИ</span>
+        <div class="ptile__title">Супутникові знімки баз</div>
+        <span class="ptile__count">94 матеріали</span>
+      </a>
+      <a href="proekty.html" class="ptile">
+        <span class="ptile__code">P-04 · ДРОНИ</span>
+        <div class="ptile__title">Ударні БпЛА</div>
+        <span class="ptile__count">53 матеріали</span>
+      </a>
+      <a href="proekty.html" class="ptile">
+        <span class="ptile__code">P-05 · АВІАЦІЯ</span>
+        <div class="ptile__title">Тактична авіація РФ</div>
+        <span class="ptile__count">31 матеріал</span>
+      </a>
+    </div>
+  </div>
+</section>
+
+<!-- LATEST FEED -->
+<section class="section">
+  <div class="container">
+    <div class="section__head">
+      <h2 class="section__title">Останні матеріали</h2>
+      <a href="#" class="section__more">Архів →</a>
+    </div>
+    <div class="grid-3">
+
+      <article class="card">
+        <div class="ph card__img ph__cross"><span class="ph__corners"></span><div class="ph__label">КАРТА · АКВАТОРІЯ</div></div>
+        <div>
+          <span class="card__tag">Проєкт «ФРЕГАТИ»</span>
+        </div>
+        <h3 class="card__title"><a href="stattya.html">Маршрути виходу носіїв «Калібру» з Севастополя — 4 місяці спостережень</a></h3>
+        <p class="card__dek">Зіставлення AIS-даних з оптичним підтвердженням з Sentinel-2 і Planet виявило стійкий патерн заходу до Новоросійська між ударами.</p>
+        <div class="card__meta"><span>12 травня 2026</span><span>К. ШЕВЧЕНКО</span></div>
+      </article>
+
+      <article class="card">
+        <div class="ph ph--cream card__img"><span class="ph__corners"></span><div class="ph__label">ФОТО · РЕЗЕРВУАРИ</div></div>
+        <div>
+          <span class="card__tag">Проєкт «ПОРТИ»</span>
+        </div>
+        <h3 class="card__title"><a href="stattya.html">Темрюк, паливний термінал: динаміка завантаження резервуарів 2025–2026</a></h3>
+        <p class="card__dek">Аналіз тіней і поверхні даху восьми резервуарів дає оцінку 47% наповнення станом на 09 травня.</p>
+        <div class="card__meta"><span>11 травня 2026</span><span>М. ЛАЗАРЕНКО</span></div>
+      </article>
+
+      <article class="card">
+        <div class="ph card__img ph__cross"><span class="ph__corners"></span><div class="ph__label">СХЕМА · ПРОФІЛЬ ПОЛЬОТУ</div></div>
+        <div>
+          <span class="card__tag">Проєкт «РАКЕТИ»</span>
+        </div>
+        <h3 class="card__title"><a href="stattya.html">Х-101 у комбінованих ударах: 142 траєкторії за квітень 2026</a></h3>
+        <p class="card__dek">Реконструкція маршрутів за уламками і повідомленнями. Підтверджено зміну висотного профілю над Полтавською областю.</p>
+        <div class="card__meta"><span>10 травня 2026</span><span>А. КОВАЛЬЧУК</span></div>
+      </article>
+
+      <article class="card">
+        <div class="ph ph--blue card__img"><span class="ph__corners"></span><div class="ph__label">ГРАФІК · АКТИВНІСТЬ</div></div>
+        <div>
+          <span class="card__tag">Проєкт «АВІАЦІЯ»</span>
+        </div>
+        <h3 class="card__title"><a href="stattya.html">Тактична авіація: 90 діб польотів з Ахтубінська за відкритими даними</a></h3>
+        <p class="card__dek">Перехресна перевірка ADS-B і фотофіксації виявила два нові пункти проміжного базування.</p>
+        <div class="card__meta"><span>09 травня 2026</span><span>Т. ПОЛІЩУК</span></div>
+      </article>
+
+      <article class="card">
+        <div class="ph card__img"><span class="ph__corners"></span><div class="ph__label">ФОТО · ДРОН SHAHED</div></div>
+        <div>
+          <span class="card__tag">Проєкт «ДРОНИ»</span>
+        </div>
+        <h3 class="card__title"><a href="stattya.html">Shahed-238: уламки з Сумської області — порівняння серій</a></h3>
+        <p class="card__dek">Маркування електроніки і кріплення оперення дозволяють датувати виробництво кінцем 2025 року.</p>
+        <div class="card__meta"><span>08 травня 2026</span><span>О. ГРИЦЕНКО</span></div>
+      </article>
+
+      <article class="card">
+        <div class="ph ph__cross card__img"><span class="ph__corners"></span><div class="ph__label">СУПУТНИК · ДЕПО</div></div>
+        <div>
+          <span class="card__tag">Проєкт «ПОРТИ»</span>
+        </div>
+        <h3 class="card__title"><a href="stattya.html">Тимчасові укриття для ракетоносців у Феодосії: фіксація і вимірювання</a></h3>
+        <p class="card__dek">За шість тижнів зведено три нові залізобетонні укриття типу «Тент-К». Координати в публічному датасеті.</p>
+        <div class="card__meta"><span>07 травня 2026</span><span>К. ШЕВЧЕНКО</span></div>
+      </article>
+
+    </div>
+  </div>
+</section>
+
+<!-- DARK PANEL — Deep investigations -->
+<section class="panel-dark">
+  <div class="container">
+    <div class="section__head">
+      <h2 class="section__title">Великі розслідування</h2>
+      <a href="#" class="section__more">Архів →</a>
+    </div>
+    <div class="grid-2">
+
+      <article class="card">
+        <div class="ph ph--dark card__img ph__cross"><span class="ph__corners"></span><div class="ph__label">МАПА · ПЕРЕМІЩЕННЯ ФЛОТУ</div></div>
+        <span class="card__tag">Серія · 6 матеріалів</span>
+        <h3 class="card__title" style="font-size:28px;"><a href="stattya.html">Тіньовий флот Каспію: маршрути постачання іранських компонентів для Shahed</a></h3>
+        <p class="card__dek">Спільне розслідування з польським Frontstory.pl: 27 рейсів між Бендер-Аббасом і Махачкалою, перехресно підтверджених AIS і портовою фотофіксацією.</p>
+        <div class="card__meta"><span>Травень 2026</span><span>ШЕВЧЕНКО · ЛАЗАРЕНКО</span></div>
+      </article>
+
+      <article class="card">
+        <div class="ph ph--dark card__img"><span class="ph__corners"></span><div class="ph__label">ДОСЬЄ · ПУСКОВІ</div></div>
+        <span class="card__tag">Серія · 4 матеріали</span>
+        <h3 class="card__title" style="font-size:28px;"><a href="stattya.html">Геометрія загрози: де насправді стоять Бастіони — реконструкція за тінями</a></h3>
+        <p class="card__dek">Аналіз 1804 знімків Sentinel-2 за 14 місяців. 23 нові позиції в Криму і Краснодарському краї з оцінкою точності ±18 м.</p>
+        <div class="card__meta"><span>Квітень 2026</span><span>ГРИЦЕНКО · ПОЛІЩУК</span></div>
+      </article>
+
+    </div>
+  </div>
+</section>
+
+<!-- DATA TABLE — Tracked vessels -->
+<section class="section">
+  <div class="container">
+    <div class="twocol">
+      <div>
+        <div class="section__head" style="margin-bottom:24px;">
+          <h2 class="section__title">Моніторинг кораблів-носіїв</h2>
+          <a href="#" class="section__more">Повна база →</a>
+        </div>
+        <p style="color:var(--slate); margin-bottom:24px; max-width:62ch;">
+          Список ракетоносців Чорноморського флоту та Каспійської флотилії з останнім підтвердженим положенням. Оновлюється що 12 годин на основі відкритих супутникових та AIS-даних.
+        </p>
+
+        <div class="data-row data-row--head">
+          <span>Код</span><span>Корабель</span><span>База / акваторія</span><span>Остання фіксація</span><span>Статус</span>
+        </div>
+
+        <div class="data-row">
+          <span class="data-row__date">ЧФ-01</span>
+          <span class="data-row__name">Адмірал Макаров (фрегат)</span>
+          <span class="data-row__date">Севастополь · 44.6° N</span>
+          <span class="data-row__date">14.05 · 06:12</span>
+          <span class="data-row__status status-red">У МОРІ</span>
+        </div>
+        <div class="data-row">
+          <span class="data-row__date">ЧФ-02</span>
+          <span class="data-row__name">Адмірал Ессен (фрегат)</span>
+          <span class="data-row__date">Новоросійськ · 44.7° N</span>
+          <span class="data-row__date">13.05 · 18:44</span>
+          <span class="data-row__status status-rust">У БАЗІ · РЕМОНТ</span>
+        </div>
+        <div class="data-row">
+          <span class="data-row__date">ЧФ-04</span>
+          <span class="data-row__name">Циклон (МРК пр. 22800)</span>
+          <span class="data-row__date">Севастополь · 44.6° N</span>
+          <span class="data-row__date">12.05 · 22:01</span>
+          <span class="data-row__status status-steel">УКРИТТЯ</span>
+        </div>
+        <div class="data-row">
+          <span class="data-row__date">КФ-03</span>
+          <span class="data-row__name">Углич (МРК пр. 21631)</span>
+          <span class="data-row__date">Махачкала · 42.9° N</span>
+          <span class="data-row__date">11.05 · 14:30</span>
+          <span class="data-row__status status-slate">У БАЗІ</span>
+        </div>
+        <div class="data-row">
+          <span class="data-row__date">КФ-05</span>
+          <span class="data-row__name">Великий Устюг (МРК пр. 21631)</span>
+          <span class="data-row__date">Каспійськ · 42.9° N</span>
+          <span class="data-row__date">10.05 · 09:17</span>
+          <span class="data-row__status status-slate">У БАЗІ</span>
+        </div>
+        <div class="data-row">
+          <span class="data-row__date">ЧФ-07</span>
+          <span class="data-row__name">Ростов-на-Дону (ПЛ пр. 636.3)</span>
+          <span class="data-row__date">Новоросійськ · сухий док</span>
+          <span class="data-row__date">08.05 · 11:55</span>
+          <span class="data-row__status status-rust">РЕМОНТ</span>
+        </div>
+      </div>
+
+      <aside>
+        <div class="sidecard sidecard--cream" style="margin-bottom:24px;">
+          <h3>Як читати цей перелік</h3>
+          <p style="margin:0 0 10px;"><strong>У МОРІ</strong> — корабель залишив акваторію базування за останні 24 год.</p>
+          <p style="margin:0 0 10px;"><strong>У БАЗІ</strong> — підтверджений в порту базування.</p>
+          <p style="margin:0 0 10px;"><strong>УКРИТТЯ</strong> — заведено до залізобетонного або тентового укриття.</p>
+          <p style="margin:0;"><strong>РЕМОНТ</strong> — на доці або стоянці без бойової готовності.</p>
+        </div>
+        <div class="sidecard sidecard--blue">
+          <h3>Джерела</h3>
+          <p style="margin:0 0 8px;">— Sentinel-2 L2A (Copernicus)</p>
+          <p style="margin:0 0 8px;">— Planet Labs SkySat</p>
+          <p style="margin:0 0 8px;">— Maxar Open Data</p>
+          <p style="margin:0 0 8px;">— ADS-B Exchange</p>
+          <p style="margin:0;">— Відкриті портові реєстри</p>
+        </div>
+      </aside>
+    </div>
+  </div>
+</section>
+
+<!-- STATS -->
+<section class="section" style="padding:48px 0;">
+  <div class="container">
+    <div class="stats">
+      <div class="stat">
+        <div class="stat__num">418</div>
+        <div class="stat__lbl">Розслідувань опубліковано</div>
+      </div>
+      <div class="stat">
+        <div class="stat__num">73<small> ТБ</small></div>
+        <div class="stat__lbl">Супутникових знімків оброблено</div>
+      </div>
+      <div class="stat">
+        <div class="stat__num">12</div>
+        <div class="stat__lbl">Активних проєктів</div>
+      </div>
+      <div class="stat">
+        <div class="stat__num">2022—<br>2026</div>
+        <div class="stat__lbl">Безперервної роботи</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- NEWSLETTER -->
+<section class="newsletter">
+  <div class="container">
+    <div class="newsletter__grid">
+      <div>
+        <span class="eyebrow eyebrow--rust">ЩОТИЖНЕВИЙ БРИФІНГ</span>
+        <h2 style="margin-top:8px;">Дайджест PLITKA — щочетверга, 09:00</h2>
+        <p>Топ-розслідування тижня, нові набори даних, що відкрилися джерела. Без шуму, без реклами, без спаму. 4 200 підписників.</p>
+      </div>
+      <form class="nlform" onsubmit="event.preventDefault(); this.querySelector('input').value=''; alert('Дякуємо за підписку — це демо.');">
+        <input type="email" placeholder="ваша.адреса@пошта" aria-label="Email">
+        <button class="btn btn--red" type="submit">Підписатись</button>
+      </form>
+    </div>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer class="footer">
+  <div class="footer__grid">
+    <div class="footer__brand">
+      <div class="footer__logo logo" style="margin-bottom:16px;">
+        <div class="logo__sq"></div>
+        <div class="logo__stack">
+          <div class="logo__word">PLITKA</div>
+          <div class="logo__sub">ANALYTICS</div>
+        </div>
+      </div>
+      <p>Незалежна OSINT-аналітика війни в Україні. Працюємо з відкритими даними — супутниковими знімками, AIS, ADS-B, портовими реєстрами та геолокацією фото- й відеоматеріалів.</p>
+    </div>
+    <div>
+      <h4>Розділи</h4>
+      <ul>
+        <li><a href="index.html">Головна</a></li>
+        <li><a href="proekty.html">Проєкти</a></li>
+        <li><a href="stattya.html">Розслідування</a></li>
+        <li><a href="#">Архів</a></li>
+      </ul>
+    </div>
+    <div>
+      <h4>Команда</h4>
+      <ul>
+        <li><a href="pro-nas.html">Про нас</a></li>
+        <li><a href="spivpratsia.html">Співпраця</a></li>
+        <li><a href="#">Методологія</a></li>
+        <li><a href="#">Контакти</a></li>
+      </ul>
+    </div>
+    <div>
+      <h4>Зв'язок</h4>
+      <ul>
+        <li>tip@plitka.analytics</li>
+        <li>Signal · @plitka</li>
+        <li>SecureDrop</li>
+        <li>PGP-ключ</li>
+      </ul>
+    </div>
+  </div>
+  <div class="footer__bottom">
+    <span class="footer__tag">Ракетоносці Чорного моря і Каспію · 2022–2026</span>
+    <span>© PLITKA Analytics · CC BY-NC 4.0</span>
+  </div>
+</footer>
+
+<!-- TWEAKS PANEL -->
+<div class="tweaks" id="tweaks" aria-hidden="true">
+  <div class="tweaks__head">
+    <span>Tweaks</span>
+    <button class="tweaks__close" id="tweaksClose" aria-label="Закрити">×</button>
+  </div>
+  <div class="tweaks__body">
+
+    <div class="tweaks__row">
+      <label class="tweaks__label">Лейаут героя</label>
+      <div class="tweaks__seg" data-key="hero">
+        <button data-val="featured">Heroic</button>
+        <button data-val="split">Split</button>
+        <button data-val="stacked">Solo</button>
+      </div>
+      <p class="tweaks__hint">Heroic — велике головне + колонка зведень. Split — рівні дві колонки. Solo — одна колонка, без брифів.</p>
+    </div>
+
+    <div class="tweaks__row">
+      <label class="tweaks__label">Колір під-стрічки</label>
+      <div class="tweaks__seg" data-key="accent">
+        <button data-val="steel">Steel</button>
+        <button data-val="rust">Rust</button>
+        <button data-val="red">Red</button>
+      </div>
+      <p class="tweaks__hint">Стрічка з підзаголовком під шапкою.</p>
+    </div>
+
+    <div class="tweaks__row">
+      <label class="tweaks__label">Щільність контенту</label>
+      <div class="tweaks__seg" data-key="density">
+        <button data-val="default">Просторо</button>
+        <button data-val="dense">Щільно</button>
+      </div>
+    </div>
+
+    <div class="tweaks__row">
+      <label class="tweaks__label">Колонка зведень у hero</label>
+      <div class="tweaks__seg" data-key="briefs">
+        <button data-val="on">Показати</button>
+        <button data-val="off">Сховати</button>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<script>
+(function() {
+  // Defaults wrapped in markers so the host can persist them
+  var TWEAK_DEFAULTS = /*EDITMODE-BEGIN*/{
+    "hero": "featured",
+    "accent": "steel",
+    "density": "default",
+    "briefs": "on"
+  }/*EDITMODE-END*/;
+
+  var state = Object.assign({}, TWEAK_DEFAULTS);
+  var panel = document.getElementById('tweaks');
+
+  function apply() {
+    document.body.dataset.hero = state.hero;
+    document.body.dataset.accent = state.accent;
+    document.body.dataset.density = state.density;
+    document.body.dataset.briefs = state.briefs;
+    // Sync active buttons
+    panel.querySelectorAll('.tweaks__seg').forEach(function(seg){
+      var key = seg.dataset.key;
+      seg.querySelectorAll('button').forEach(function(b){
+        b.classList.toggle('is-active', b.dataset.val === state[key]);
+      });
+    });
+  }
+
+  panel.querySelectorAll('.tweaks__seg button').forEach(function(btn){
+    btn.addEventListener('click', function(){
+      var key = btn.parentElement.dataset.key;
+      state[key] = btn.dataset.val;
+      apply();
+      try {
+        window.parent.postMessage({ type: '__edit_mode_set_keys', edits: { [key]: state[key] } }, '*');
+      } catch(e) {}
+    });
+  });
+
+  apply();
+
+  // Edit-mode protocol
+  window.addEventListener('message', function(e){
+    var d = e.data || {};
+    if (d.type === '__activate_edit_mode') {
+      panel.classList.add('is-open');
+      panel.setAttribute('aria-hidden', 'false');
+    } else if (d.type === '__deactivate_edit_mode') {
+      panel.classList.remove('is-open');
+      panel.setAttribute('aria-hidden', 'true');
+    }
+  });
+
+  document.getElementById('tweaksClose').addEventListener('click', function(){
+    panel.classList.remove('is-open');
+    panel.setAttribute('aria-hidden', 'true');
+    try { window.parent.postMessage({ type: '__edit_mode_dismissed' }, '*'); } catch(e){}
+  });
+
+  try { window.parent.postMessage({ type: '__edit_mode_available' }, '*'); } catch(e) {}
+})();
+</script>
+
+</body>
+</html>
