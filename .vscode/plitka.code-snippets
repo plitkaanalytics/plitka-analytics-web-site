@@ -1,0 +1,105 @@
+{
+  "Methodology block": {
+    "scope": "mdx,markdown",
+    "prefix": "meth",
+    "description": "Блок методології",
+    "body": [
+      "<Methodology>",
+      "  ### ${1:Джерела та методи}",
+      "",
+      "  1. ${2:Перший пункт}",
+      "  2. ${3:Другий пункт}",
+      "  3. $0",
+      "</Methodology>"
+    ]
+  },
+
+  "StatGrid block": {
+    "scope": "mdx,markdown",
+    "prefix": "sgrid",
+    "description": "Блок статистики (4 показники)",
+    "body": [
+      "<StatGrid",
+      "  v1=\"${1:312}\" l1=\"${2:Підпис 1}\" d1=\"${3:Опис 1}\"",
+      "  v2=\"${4:78%}\" l2=\"${5:Підпис 2}\" d2=\"${6:Опис 2}\"",
+      "  v3=\"${7:3}\" l3=\"${8:Підпис 3}\" d3=\"${9:Опис 3}\"",
+      "  v4=\"${10:±18 м}\" l4=\"${11:Підпис 4}\" d4=\"${12:Опис 4}\"",
+      "/>"
+    ]
+  },
+
+  "Pullquote block": {
+    "scope": "mdx,markdown",
+    "prefix": "pq",
+    "description": "Виноска-цитата",
+    "body": [
+      "<Pullquote cite=\"${1:— Джерело, місяць рік}\">",
+      "  ${2:Текст цитати.}",
+      "</Pullquote>"
+    ]
+  },
+
+  "Figure block": {
+    "scope": "mdx,markdown",
+    "prefix": "fig",
+    "description": "Зображення / Карта",
+    "body": [
+      "<Figure",
+      "  url=\"${1:https://...}\"",
+      "  label=\"${2:SENTINEL-2 · ЛОКАЦІЯ · ДАТА}\"",
+      "  cap=\"${3:Рис. 1. Підпис до зображення.}\"",
+      "  src=\"${4:Sentinel-2 L2A · дата}\"",
+      "/>"
+    ]
+  },
+
+  "Figure dark block": {
+    "scope": "mdx,markdown",
+    "prefix": "figd",
+    "description": "Зображення / Карта (темний фон)",
+    "body": [
+      "<Figure",
+      "  url=\"${1:https://...}\"",
+      "  label=\"${2:КАРТА · НАЗВА}\"",
+      "  cap=\"${3:Рис. 1. Підпис до зображення.}\"",
+      "  src=\"${4:Джерело · дата}\"",
+      "  dark",
+      "/>"
+    ]
+  },
+
+  "Barchart block": {
+    "scope": "mdx,markdown",
+    "prefix": "bar",
+    "description": "Гістограма",
+    "body": [
+      "<Barchart",
+      "  title=\"${1:Заголовок графіку}\"",
+      "  sub=\"${2:Підзаголовок}\"",
+      "  data=\"${3:МІТ'25|18|steel,МІТ'25|45|rust,МІТ'25|80|navy}\"",
+      "/>"
+    ]
+  },
+
+  "Article frontmatter": {
+    "scope": "mdx,markdown",
+    "prefix": "front",
+    "description": "Frontmatter нової статті",
+    "body": [
+      "---",
+      "title: \"${1:Заголовок статті}\"",
+      "date: \"${2:2026-05-16}\"",
+      "dek: \"${3:Підзаголовок статті.}\"",
+      "authors: [\"${4:Ім'я Прізвище}\"]",
+      "project: \"${5:Назва проєкту}\"",
+      "projectCode: \"${6:P-01 · КОД}\"",
+      "tags: [\"${7:тег}\"]",
+      "readingTime: ${8:10}",
+      "sources: ${9:12}",
+      "category: \"${10|РОЗСЛІДУВАННЯ,БРИФІНГ,АНАЛІЗ,ЗВІТ|}\"",
+      "---",
+      "",
+      "$0"
+    ]
+  }
+}

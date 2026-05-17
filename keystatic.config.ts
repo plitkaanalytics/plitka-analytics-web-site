@@ -34,10 +34,21 @@ const StatGrid = block({
 const Figure = block({
   label: 'Зображення / Карта',
   schema: {
+    url: fields.url({
+      label: 'URL зображення',
+      description: 'Пряме посилання на фото (https://...) або локальний шлях (/images/foto.jpg)',
+    }),
     label: fields.text({ label: 'Мітка (верхній текст)' }),
     cap: fields.text({ label: 'Підпис (рисунок)' }),
     src: fields.text({ label: 'Джерело' }),
     dark: fields.checkbox({ label: 'Темний фон', defaultValue: false }),
+  },
+});
+
+const Callout = wrapper({
+  label: 'Врізка / Ключові факти',
+  schema: {
+    title: fields.text({ label: 'Заголовок врізки' }),
   },
 });
 
@@ -107,8 +118,9 @@ export default config({
             italic: true,
             orderedList: true,
             unorderedList: true,
+            table: true,
           },
-          components: { Methodology, StatGrid, Pullquote, Figure, Barchart },
+          components: { Methodology, StatGrid, Pullquote, Figure, Barchart, Callout },
         }),
       },
     }),

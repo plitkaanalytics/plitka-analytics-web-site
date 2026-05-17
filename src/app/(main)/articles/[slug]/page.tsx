@@ -41,17 +41,36 @@ function Pullquote({ children, cite }: { children: ReactNode; cite: string }) {
   );
 }
 
-function Figure({ label, cap, src, dark }: { label: string; cap: string; src?: string; dark?: boolean }) {
+function Figure({ url, label, cap, src, dark }: {
+  url?: string | null;
+  label: string;
+  cap: string;
+  src?: string;
+  dark?: boolean;
+}) {
   return (
     <div className="figure">
-      <div className={`ph ph__cross${dark ? ' ph--dark' : ''}`} style={{ aspectRatio: '16/9' }}>
-        <span className="ph__corners" />
-        <div className="ph__label">{label}</div>
-      </div>
+      {url ? (
+        <img src={url} alt={cap} loading="lazy" style={{ width: '100%', display: 'block' }} />
+      ) : (
+        <div className={`ph ph__cross${dark ? ' ph--dark' : ''}`} style={{ aspectRatio: '16/9' }}>
+          <span className="ph__corners" />
+          <div className="ph__label">{label}</div>
+        </div>
+      )}
       <div className="figure__cap">
         <span>{cap}</span>
         {src && <span>{src}</span>}
       </div>
+    </div>
+  );
+}
+
+function Callout({ title, children }: { title: string; children: ReactNode }) {
+  return (
+    <div className="callout">
+      {title && <div className="callout__title">{title}</div>}
+      {children}
     </div>
   );
 }
@@ -78,7 +97,7 @@ function Barchart({ title, sub, data }: { title: string; sub: string; data: stri
   );
 }
 
-const mdxComponents = { Methodology, StatGrid, Pullquote, Figure, Barchart };
+const mdxComponents = { Methodology, StatGrid, Pullquote, Figure, Barchart, Callout };
 
 export async function generateStaticParams() {
   return getAllArticles().map((a) => ({ slug: a.slug }));
