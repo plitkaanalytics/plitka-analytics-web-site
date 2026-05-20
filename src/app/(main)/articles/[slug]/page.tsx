@@ -3,6 +3,7 @@ import Link from 'next/link';
 import type { ReactNode } from 'react';
 import { MDXRemote } from 'next-mdx-remote/rsc';
 import { getAllArticles, getArticleBySlug, formatDate } from '@/lib/articles';
+import VideoCarousel from '@/components/VideoCarousel';
 
 function Methodology({ children }: { children: ReactNode }) {
   return <div className="methodology">{children}</div>;
@@ -97,7 +98,7 @@ function Barchart({ title, sub, data }: { title: string; sub: string; data: stri
   );
 }
 
-const mdxComponents = { Methodology, StatGrid, Pullquote, Figure, Barchart, Callout };
+const mdxComponents = { Methodology, StatGrid, Pullquote, Figure, Barchart, Callout, VideoCarousel };
 
 export async function generateStaticParams() {
   return getAllArticles().map((a) => ({ slug: a.slug }));
@@ -159,19 +160,25 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
             <span className="meta__lbl">Час читання</span>
             <span className="meta__val meta__val--mono">{article.readingTime} хв</span>
           </div>
-          <div>
-            <span className="meta__lbl">Джерел</span>
-            <span className="meta__val meta__val--mono">{article.sources}</span>
-          </div>
         </div>
       </div>
 
-      {/* Lead image placeholder */}
+      {/* Lead image / map */}
       <div className="lead-img">
-        <div className="ph ph__cross ph--dark">
-          <span className="ph__corners" />
-          <div className="ph__label">СУПУТНИКОВИЙ ЗНІМОК · {article.projectCode}</div>
-        </div>
+        {article.leadMapUrl ? (
+          <iframe
+            src={article.leadMapUrl}
+            style={{ width: '100%', height: '520px', display: 'block', border: 'none' }}
+            title={article.title}
+          />
+        ) : article.leadImage ? (
+          <img src={article.leadImage} alt={article.title} style={{ width: '100%', display: 'block' }} />
+        ) : (
+          <div className="ph ph__cross ph--dark">
+            <span className="ph__corners" />
+            <div className="ph__label">СУПУТНИКОВИЙ ЗНІМОК · {article.projectCode}</div>
+          </div>
+        )}
       </div>
 
       {/* Article body */}
@@ -190,10 +197,14 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
             <div className="grid-3">
               {related.map((a) => (
                 <article className="card" key={a.slug}>
-                  <div className="ph ph__cross card__img">
-                    <span className="ph__corners" />
-                    <div className="ph__label">{a.projectCode}</div>
-                  </div>
+                  {a.leadImage ? (
+                    <img src={a.leadImage} alt={a.title} className="card__img card__img--photo" />
+                  ) : (
+                    <div className="ph ph__cross card__img">
+                      <span className="ph__corners" />
+                      <div className="ph__label">{a.projectCode}</div>
+                    </div>
+                  )}
                   <div>
                     <span className="card__tag">{a.project}</span>
                   </div>

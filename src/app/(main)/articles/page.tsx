@@ -43,10 +43,14 @@ export default async function ArticlesPage({
           <div className="articles-grid">
             {articles.map((a) => (
               <article className="card" key={a.slug}>
-                <div className="ph ph__cross card__img">
-                  <span className="ph__corners" />
-                  <div className="ph__label">{a.projectCode}</div>
-                </div>
+                {a.leadImage ? (
+                  <img src={a.leadImage} alt={a.title} className="card__img card__img--photo" />
+                ) : (
+                  <div className="ph ph__cross card__img">
+                    <span className="ph__corners" />
+                    <div className="ph__label">{a.projectCode}</div>
+                  </div>
+                )}
                 <div>
                   <span className="card__tag">{a.project}</span>
                 </div>

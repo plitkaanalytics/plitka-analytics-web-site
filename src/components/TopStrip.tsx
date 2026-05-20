@@ -19,10 +19,7 @@ export default function TopStrip() {
   return (
     <div className="topstrip">
       <div className="topstrip__inner">
-        <div>
-          <span className="topstrip__dot" />
-          В ефірі — оперативний моніторинг подій
-        </div>
+        <div>PLITKA Analytics</div>
         <div>
           {dateStr && <span style={{ marginRight: '20px' }}>{dateStr}</span>}
           <a href="#">UA</a> · <a href="#" style={{ opacity: 0.5 }}>EN</a>

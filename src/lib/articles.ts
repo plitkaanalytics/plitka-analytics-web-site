@@ -11,8 +11,9 @@ export interface ArticleFrontmatter {
   projectCode: string;
   tags: string[];
   readingTime: number;
-  sources: number;
   category: string;
+  leadImage?: string;
+  leadMapUrl?: string;
 }
 
 export interface ArticleListItem extends ArticleFrontmatter {
@@ -25,6 +26,16 @@ export interface Article extends ArticleListItem {
 
 const articlesDir = path.join(process.cwd(), 'content/articles');
 
+function calcReadingTime(content: string): number {
+  const text = content
+    .replace(/<[^>]*>/g, ' ')
+    .replace(/\{[^}]*\}/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+  const words = text.split(' ').filter(Boolean).length;
+  return Math.max(1, Math.ceil(words / 200));
+}
+
 export function getAllArticles(): ArticleListItem[] {
   const files = fs.readdirSync(articlesDir);
   return files
@@ -32,8 +43,9 @@ export function getAllArticles(): ArticleListItem[] {
     .map((file) => {
       const slug = file.replace('.mdx', '');
       const raw = fs.readFileSync(path.join(articlesDir, file), 'utf-8');
-      const { data } = matter(raw);
-      return { slug, ...(data as ArticleFrontmatter) };
+      const { data, content } = matter(raw);
+      const readingTime = (data.readingTime as number | undefined) ?? calcReadingTime(content);
+      return { slug, ...(data as ArticleFrontmatter), readingTime };
     })
     .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
 }
@@ -42,7 +54,8 @@ export function getArticleBySlug(slug: string): Article {
   const filePath = path.join(articlesDir, `${slug}.mdx`);
   const raw = fs.readFileSync(filePath, 'utf-8');
   const { data, content } = matter(raw);
-  return { slug, ...(data as ArticleFrontmatter), content };
+  const readingTime = (data.readingTime as number | undefined) ?? calcReadingTime(content);
+  return { slug, ...(data as ArticleFrontmatter), readingTime, content };
 }
 
 export function formatDate(dateStr: string): string {
