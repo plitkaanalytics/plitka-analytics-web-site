@@ -1,53 +1,54 @@
 import Link from 'next/link';
+import { dict, type Locale } from '@/lib/i18n';
 
-export default function Footer() {
+export default function Footer({ locale = 'uk' }: { locale?: Locale }) {
+  const t = dict[locale];
+  const base = locale === 'en' ? '/en' : '';
+  const fl = t.footerLinks;
+
   return (
     <footer className="footer">
       <div className="footer__grid">
         <div className="footer__brand">
-          <Link href="/" className="footer__logo logo" style={{ marginBottom: '16px' }}>
+          <Link href={`${base}/`} className="footer__logo logo" style={{ marginBottom: '16px' }}>
             <div className="logo__sq" />
             <div className="logo__stack">
               <div className="logo__word">PLITKA</div>
               <div className="logo__sub">ANALYTICS</div>
             </div>
           </Link>
-          <p>
-            Незалежна OSINT-аналітика війни в Україні. Працюємо з відкритими даними —
-            супутниковими знімками, AIS, ADS-B, портовими реєстрами та геолокацією
-            фото- й відеоматеріалів.
-          </p>
+          <p>{t.footerDesc}</p>
         </div>
         <div>
-          <h4>Розділи</h4>
+          <h4>{t.footerSections}</h4>
           <ul>
-            <li><Link href="/">Головна</Link></li>
-            <li><Link href="/proekty">Проєкти</Link></li>
-            <li><Link href="/articles">Розслідування</Link></li>
-            <li><Link href="#">Архів</Link></li>
+            <li><Link href={`${base}/`}>{fl.home}</Link></li>
+            <li><Link href={`${base}/proekty`}>{fl.projects}</Link></li>
+            <li><Link href={`${base}/articles`}>{fl.articles}</Link></li>
+            <li><Link href="#">{fl.archive}</Link></li>
           </ul>
         </div>
         <div>
-          <h4>Команда</h4>
+          <h4>{t.footerTeam}</h4>
           <ul>
-            <li><Link href="/pro-nas">Про нас</Link></li>
-            <li><Link href="/spivpratsia">Співпраця</Link></li>
-            <li><Link href="#">Методологія</Link></li>
-            <li><Link href="#">Контакти</Link></li>
+            <li><Link href={`${base}/pro-nas`}>{fl.about}</Link></li>
+            <li><Link href={`${base}/spivpratsia`}>{fl.collab}</Link></li>
+            <li><Link href="#">{fl.methodology}</Link></li>
+            <li><Link href="#">{fl.contacts}</Link></li>
           </ul>
         </div>
         <div>
-          <h4>Зв&apos;язок</h4>
+          <h4>{t.footerContact}</h4>
           <ul>
-            <li>tip@plitka.analytics</li>
+            <li>plitka.analytic@gmail.com</li>
             <li>Signal · @plitka</li>
             <li>SecureDrop</li>
-            <li>PGP-ключ</li>
+            <li>PGP key</li>
           </ul>
         </div>
       </div>
       <div className="footer__bottom">
-        <span className="footer__tag">Ракетоносці Чорного моря і Каспію · 2022–2026</span>
+        <span className="footer__tag">{t.footerTagline}</span>
         <span>© PLITKA Analytics · CC BY-NC 4.0</span>
       </div>
     </footer>

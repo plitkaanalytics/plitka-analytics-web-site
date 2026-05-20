@@ -1815,6 +1815,8 @@ details.expander > .expander__body {
 }
 .dossier-card[open] .dossier-card__toggle::before { content: "↑ Згорнути"; }
 .dossier-card:not([open]) .dossier-card__toggle::before { content: "↓ Розгорнути"; }
+.dossier-card[open] .dossier-card__toggle[data-en]::before { content: "↑ Collapse"; }
+.dossier-card:not([open]) .dossier-card__toggle[data-en]::before { content: "↓ Expand"; }
 
 .dossier-card__body {
   padding: 8px 0 32px 128px;

@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Caliber Strike Radius</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html, body, #map { width: 100%; height: 100%; font-family: sans-serif; }
+
+  /* Legend */
+  .legend {
+    background: rgba(8, 15, 40, 0.90);
+    color: #fff;
+    padding: 12px 16px;
+    border-radius: 4px;
+    font-size: 12px;
+    line-height: 1.5;
+    pointer-events: none;
+  }
+  .legend__title {
+    font-weight: 700;
+    font-size: 10px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: rgba(255,255,255,0.5);
+    margin-bottom: 8px;
+  }
+  .legend__item {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 5px;
+  }
+  .legend__item:last-child { margin-bottom: 0; }
+  .legend__dot {
+    width: 10px; height: 10px;
+    border-radius: 50%;
+    background: #c0392b;
+    border: 2px solid #fff;
+    flex-shrink: 0;
+  }
+  .legend__ring {
+    width: 14px; height: 14px;
+    border-radius: 50%;
+    border: 2px dashed #c0392b;
+    background: rgba(192,57,43,0.10);
+    flex-shrink: 0;
+  }
+
+  /* Base marker */
+  .bm { position: relative; width: 28px; height: 28px; }
+  .bm__dot {
+    width: 10px; height: 10px;
+    background: #c0392b;
+    border-radius: 50%;
+    border: 2px solid #fff;
+    box-shadow: 0 0 0 1px rgba(192,57,43,0.5);
+    position: absolute;
+    top: 50%; left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .bm__pulse {
+    width: 28px; height: 28px;
+    border-radius: 50%;
+    border: 1.5px solid #c0392b;
+    position: absolute;
+    top: 50%; left: 50%;
+    transform: translate(-50%, -50%) scale(0.5);
+    opacity: 0;
+    animation: bm-pulse 2.4s ease-out infinite;
+  }
+  @keyframes bm-pulse {
+    0%   { transform: translate(-50%,-50%) scale(0.4); opacity: 0.7; }
+    100% { transform: translate(-50%,-50%) scale(1.8); opacity: 0; }
+  }
+
+  .leaflet-tooltip.base-tip {
+    background: rgba(8,15,40,0.85) !important;
+    border: none !important;
+    border-radius: 3px !important;
+    color: #fff !important;
+    font-size: 12px !important;
+    padding: 4px 8px !important;
+    box-shadow: none !important;
+    white-space: nowrap !important;
+  }
+  .leaflet-tooltip.base-tip::before { display: none !important; }
+</style>
+</head>
+<body>
+<div id="map"></div>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script>
+const BASES = [
+  { name: 'Sevastopol',   fleet: 'Black Sea Fleet',   lat: 44.6166, lng: 33.5254, dir: 'bottom', off: [0, 10]  },
+  { name: 'Novorossiysk', fleet: 'Black Sea Fleet',   lat: 44.7239, lng: 37.7686, dir: 'right',  off: [10, 0]  },
+  { name: 'Baltiysk',     fleet: 'Baltic Fleet',      lat: 54.6463, lng: 19.9091, dir: 'right',  off: [10, 0]  },
+  { name: 'Kaspiysk',     fleet: 'Caspian Flotilla',  lat: 42.8833, lng: 47.6333, dir: 'right',  off: [10, 0]  },
+];
+const RADIUS_M = 1_500_000;
+
+const map = L.map('map', {
+  center: [48.5, 32],
+  zoom: 4,
+  zoomControl: true,
+  attributionControl: true,
+});
+
+// Custom pane for labels tile (above circles/markers, below tooltips)
+map.createPane('labelsPane');
+map.getPane('labelsPane').style.zIndex = 450;
+map.getPane('labelsPane').style.pointerEvents = 'none';
+
+// CARTO base – no labels
+L.tileLayer('https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}{r}.png', {
+  attribution: '&copy; <a href="https://carto.com">CARTO</a> &copy; <a href="https://openstreetmap.org">OSM</a>',
+  subdomains: 'abcd',
+  maxZoom: 19,
+}).addTo(map);
+
+// Radius circles (below labels layer)
+BASES.forEach(b => {
+  L.circle([b.lat, b.lng], {
+    radius: RADIUS_M,
+    color: '#c0392b',
+    weight: 1.5,
+    opacity: 0.65,
+    fillColor: '#c0392b',
+    fillOpacity: 0.04,
+    dashArray: '7 5',
+  }).addTo(map);
+});
+
+// CARTO labels overlay (on custom pane, above circles)
+L.tileLayer('https://{s}.basemaps.cartocdn.com/light_only_labels/{z}/{x}/{y}{r}.png', {
+  subdomains: 'abcd',
+  maxZoom: 19,
+  pane: 'labelsPane',
+}).addTo(map);
+
+// Base markers
+function baseIcon() {
+  return L.divIcon({
+    className: '',
+    html: '<div class="bm"><div class="bm__pulse"></div><div class="bm__dot"></div></div>',
+    iconSize: [28, 28],
+    iconAnchor: [14, 14],
+  });
+}
+
+BASES.forEach(b => {
+  L.marker([b.lat, b.lng], { icon: baseIcon(), zIndexOffset: 100 })
+    .bindTooltip(
+      `<strong>${b.name}</strong><br><span style="opacity:.65;font-size:11px">${b.fleet}</span>`,
+      { permanent: true, direction: b.dir, offset: b.off, className: 'base-tip' }
+    )
+    .addTo(map);
+});
+
+const SEA_STYLE = 'font-family:sans-serif;font-size:11px;font-style:italic;color:#1a3d5c;font-weight:600;letter-spacing:0.04em;white-space:nowrap;pointer-events:none;background:rgba(255,255,255,0.82);padding:2px 5px;border-radius:2px';
+const COUNTRY_STYLE = 'font-family:sans-serif;font-size:13px;font-weight:700;color:#0e1b2a;letter-spacing:0.12em;text-transform:uppercase;white-space:nowrap;pointer-events:none;background:rgba(255,255,255,0.82);padding:2px 5px;border-radius:2px';
+
+// Sea labels
+[
+  { lat: 43.2, lng: 33.5, text: 'Black Sea' },
+  { lat: 57.2, lng: 18.5, text: 'Baltic Sea' },
+  { lat: 41.0, lng: 51.0, text: 'Caspian Sea' },
+].forEach(({ lat, lng, text }) => {
+  L.marker([lat, lng], {
+    icon: L.divIcon({ className: '', html: `<span style="${SEA_STYLE}">${text}</span>`, iconSize: [1,1], iconAnchor: [0, 8] }),
+    interactive: false,
+    zIndexOffset: -1000,
+  }).addTo(map);
+});
+
+// Country label
+L.marker([49.2, 31.5], {
+  icon: L.divIcon({ className: '', html: `<span style="${COUNTRY_STYLE}">Ukraine</span>`, iconSize: [1,1], iconAnchor: [32, 8] }),
+  interactive: false,
+  zIndexOffset: -1000,
+}).addTo(map);
+
+// Legend
+const legend = L.control({ position: 'bottomleft' });
+legend.onAdd = () => {
+  const div = L.DomUtil.create('div', 'legend');
+  div.innerHTML = `
+    <div class="legend__title">Legend</div>
+    <div class="legend__item"><div class="legend__dot"></div><span>Caliber carrier bases</span></div>
+    <div class="legend__item"><div class="legend__ring"></div><span>Strike radius 1,500 km</span></div>
+  `;
+  return div;
+};
+legend.addTo(map);
+</script>
+</body>
+</html>
