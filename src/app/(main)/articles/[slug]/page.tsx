@@ -123,6 +123,9 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
   const all = getAllArticles();
   const related = all.filter((a) => a.slug !== slug).slice(0, 3);
 
+  const ReadingTime = () => <span>{article!.readingTime} хв читання</span>;
+  const components = { ...mdxComponents, ReadingTime };
+
   return (
     <main>
       {/* Breadcrumb */}
@@ -183,7 +186,7 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
 
       {/* Article body */}
       <article className="article-body">
-        <MDXRemote source={article.content} components={mdxComponents} />
+        <MDXRemote source={article.content} components={components} />
       </article>
 
       {/* Related articles */}
