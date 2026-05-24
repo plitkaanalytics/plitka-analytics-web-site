@@ -2,8 +2,9 @@ import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import type { ReactNode } from 'react';
 import { MDXRemote } from 'next-mdx-remote/rsc';
-import { getAllArticles, getArticleBySlug, formatDate } from '@/lib/articles';
+import { getAllArticles, getArticleBySlug, getArticleData, formatDate } from '@/lib/articles';
 import VideoCarousel from '@/components/VideoCarousel';
+import ShipChronology, { type ChronologyData } from '@/components/ShipChronology';
 
 function Methodology({ children }: { children: ReactNode }) {
   return <div className="methodology">{children}</div>;
@@ -100,6 +101,7 @@ function Barchart({ title, sub, data }: { title: string; sub: string; data: stri
 
 const mdxComponents = { Methodology, StatGrid, Pullquote, Figure, Barchart, Callout, VideoCarousel };
 
+
 export async function generateStaticParams() {
   return getAllArticles().map((a) => ({ slug: a.slug }));
 }
@@ -123,30 +125,17 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
   const all = getAllArticles();
   const related = all.filter((a) => a.slug !== slug).slice(0, 3);
 
+  const articleData = getArticleData(slug);
   const ReadingTime = () => <span>{article!.readingTime} хв читання</span>;
-  const components = { ...mdxComponents, ReadingTime };
+  const BoundShipChronology = articleData
+    ? () => <ShipChronology data={articleData as ChronologyData} />
+    : () => null;
+  const components = { ...mdxComponents, ReadingTime, ShipChronology: BoundShipChronology };
 
   return (
     <main>
-      {/* Breadcrumb */}
-      <div className="breadcrumb">
-        <Link href="/">Головна</Link>
-        <span className="sep">›</span>
-        <Link href="/articles">Розслідування</Link>
-        <span className="sep">›</span>
-        <span className="current">{article.projectCode}</span>
-      </div>
-
       {/* Article header */}
       <div className="article-head">
-        <div className="article-head__chips">
-          <span className="chip chip--red">{article.category}</span>
-          <span className="chip chip--rust">{article.projectCode}</span>
-          {article.tags.map((t) => (
-            <span className="chip" key={t}>{t}</span>
-          ))}
-        </div>
-
         <h1>{article.title}</h1>
         <p className="article-head__dek">{article.dek}</p>
 

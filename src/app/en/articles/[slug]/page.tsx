@@ -118,20 +118,7 @@ export default async function ArticlePageEN({ params }: { params: Promise<{ slug
 
   return (
     <main>
-      <div className="breadcrumb">
-        <Link href="/en">{t.footerLinks.home}</Link>
-        <span className="sep">›</span>
-        <Link href="/en/articles">{t.breadcrumbArticles}</Link>
-        <span className="sep">›</span>
-        <span className="current">{article.projectCode}</span>
-      </div>
-
       <div className="article-head">
-        <div className="article-head__chips">
-          <span className="chip chip--red">{article.category}</span>
-          <span className="chip chip--rust">{article.projectCode}</span>
-          {article.tags.map((tag) => <span className="chip" key={tag}>{tag}</span>)}
-        </div>
         <h1>{article.title}</h1>
         <p className="article-head__dek">{article.dek}</p>
         <div className="article-head__meta">
