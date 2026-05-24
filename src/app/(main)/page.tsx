@@ -1,5 +1,7 @@
 import Link from 'next/link';
 import { getAllArticles, formatDate } from '@/lib/articles';
+import { GanttView } from '@/components/ShipChronology';
+import { frigatesData } from '@/data/frigates-chronology';
 
 export default function HomePage() {
   const articles = getAllArticles();
@@ -34,11 +36,15 @@ export default function HomePage() {
             <div className="hero__grid">
               <article className="hero__lead">
                 {hero.leadMapUrl ? (
-                  <iframe
-                    src={hero.leadMapUrl}
-                    style={{ width: '100%', height: '360px', display: 'block', border: 'none', marginBottom: '24px' }}
-                    title={hero.title}
-                  />
+                  <div style={{
+                    marginBottom: '24px',
+                    background: 'var(--paper)',
+                    border: '1px solid var(--rule)',
+                    borderTop: '3px solid var(--navy)',
+                    padding: '16px 16px 12px',
+                  }}>
+                    <GanttView data={frigatesData} />
+                  </div>
                 ) : hero.leadImage ? (
                   <img src={hero.leadImage} alt={hero.title} style={{ width: '100%', display: 'block', marginBottom: '24px' }} />
                 ) : (

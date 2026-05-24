@@ -122,7 +122,7 @@ function pct(date: Date, start: Date, end: Date): number {
 
 // ─── Gantt View ─────────────────────────────────────────────────────────────
 
-function GanttView({ data }: { data: ChronologyData }) {
+export function GanttView({ data }: { data: ChronologyData }) {
   const { ships } = data.meta;
   const [tooltip, setTooltip] = useState<{
     x: number;
