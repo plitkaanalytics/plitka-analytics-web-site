@@ -11,11 +11,7 @@ export default function Footer({ locale = 'uk' }: { locale?: Locale }) {
       <div className="footer__grid">
         <div className="footer__brand">
           <Link href={`${base}/`} className="footer__logo logo" style={{ marginBottom: '16px' }}>
-            <div className="logo__sq" />
-            <div className="logo__stack">
-              <div className="logo__word">PLITKA</div>
-              <div className="logo__sub">ANALYTICS</div>
-            </div>
+            <img src="/images/logo-white.svg" alt="PLITKA Analytics" className="logo__img logo__img--footer" />
           </Link>
           <p>{t.footerDesc}</p>
         </div>

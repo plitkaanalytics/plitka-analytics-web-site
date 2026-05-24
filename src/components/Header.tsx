@@ -34,11 +34,7 @@ export default function Header() {
           })}
         </nav>
         <Link href={`${base}/`} className="logo" aria-label="PLITKA Analytics">
-          <div className="logo__sq" />
-          <div className="logo__stack">
-            <div className="logo__word">PLITKA</div>
-            <div className="logo__sub">ANALYTICS</div>
-          </div>
+          <img src="/images/logo-navy.svg" alt="PLITKA Analytics" className="logo__img" />
         </Link>
       </div>
     </header>

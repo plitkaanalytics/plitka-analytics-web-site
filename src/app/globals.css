@@ -4,7 +4,7 @@
 
 :root {
   --navy: #0e1b2a;
-  --red: #c8102e;
+  --red: #c44a08;
   --rust: #8c2d04;
   --steelB: #1f4e78;
   --slate: #5c6b7a;
@@ -178,44 +178,19 @@ p {
 
 /* Logo */
 .logo {
-  display: flex;
+  display: inline-flex;
   align-items: center;
-  gap: 10px;
   text-decoration: none;
   border: none !important;
 }
-.logo:hover {
-  color: inherit;
-  border: none;
+.logo:hover { border: none; }
+.logo__img {
+  height: 30px;
+  width: auto;
+  display: block;
 }
-.logo__sq {
-  width: 12px;
-  height: 12px;
-  background: var(--red);
-  flex-shrink: 0;
-  margin-bottom: 4px;
-}
-.logo__word {
-  font-family: var(--serif);
-  font-weight: 700;
-  font-size: 26px;
-  color: var(--navy);
-  letter-spacing: 0.12em;
-  line-height: 1;
-}
-.logo__sub {
-  font-family: var(--mono);
-  font-size: 9.5px;
-  letter-spacing: 0.28em;
-  color: var(--slate);
-  text-transform: uppercase;
-  margin-top: 4px;
-  margin-left: 2px;
-}
-.logo__stack {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
+.logo__img--footer {
+  height: 36px;
 }
 
 /* ===== Sub-strip ===== */
@@ -466,12 +441,6 @@ p {
   font-size: 14px;
   max-width: 32ch;
   line-height: 1.5;
-}
-.footer__logo .logo__word {
-  color: #fff;
-}
-.footer__logo .logo__sub {
-  color: #8fa1b5;
 }
 .footer__bottom {
   max-width: var(--maxw);
@@ -2146,7 +2115,6 @@ details.expander > .expander__body {
   padding: 12px 12px;
   text-align: left;
   border-bottom: 1px solid var(--rule);
-  vertical-align: top;
 }
 .proj-table thead th {
   font-family: var(--mono);
