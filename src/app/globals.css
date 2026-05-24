@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,400;0,500;0,700;1,400&display=swap');
+
 /* ============================================
    PLITKA Analytics — shared design system
    ============================================ */
@@ -15,7 +17,7 @@
   --paper-2: #f4f2ec;
 
   --serif: Georgia, "Times New Roman", serif;
-  --sans: Calibri, "Segoe UI", system-ui, -apple-system, sans-serif;
+  --sans: 'Inter', Calibri, "Segoe UI", sans-serif;
   --mono: "Arial Narrow", Arial, "Helvetica Neue", Helvetica, sans-serif;
 
   --maxw: 1280px;
