@@ -2629,6 +2629,16 @@
       .map-back-btn:hover {
         background: var(--bg-app);
       }
+      /* Shared view switcher */
+      .view-switcher {
+        flex-shrink: 0;
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        padding: 6px 16px;
+        background: var(--white);
+        border-bottom: 1px solid var(--rule);
+      }
       /* URL-param modes */
       html.is-embed .lv-toolbar {
         display: none;
@@ -2638,7 +2648,7 @@
         padding-bottom: 0;
         border-bottom: none;
       }
-      html.is-embed .lv-mode-toggle {
+      html.is-embed .view-switcher { display: none; }
         display: none;
       }
       html.is-noscroll .view-line {
@@ -2649,6 +2659,26 @@
 
   <body>
     <div class="app-shell">
+      <div class="view-switcher">
+        <div class="mode-toggle" role="tablist">
+          <button class="mode-btn active" data-mode="line" role="tab" aria-selected="true">
+            <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5">
+              <path d="M1 4h14M1 8h14M1 12h14" />
+              <circle cx="4" cy="4" r="1.3" fill="currentColor" stroke="none" />
+              <circle cx="9" cy="8" r="1.3" fill="currentColor" stroke="none" />
+              <circle cx="12" cy="12" r="1.3" fill="currentColor" stroke="none" />
+            </svg>
+            Лінія
+          </button>
+          <button class="mode-btn" data-mode="map" role="tab" aria-selected="false">
+            <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5">
+              <path d="M1.5 3.5l4-1.5 5 1.5 4-1.5v11l-4 1.5-5-1.5-4 1.5z" />
+              <path d="M5.5 2v11M10.5 3.5v11" />
+            </svg>
+            Карта
+          </button>
+        </div>
+      </div>
       <div class="views">
         <!-- ════ VIEW 1 · LINE / DOSSIER ════ -->
         <div class="view view-line active" id="view-line">
@@ -2658,64 +2688,6 @@
                 Інфографіка уражень та переміщень фрегатів у Чорному та
                 Азовському морі
               </p>
-              <div class="lv-mode-toggle" role="tablist">
-                <button
-                  class="lv-mode-btn mode-btn active"
-                  data-mode="line"
-                  role="tab"
-                  aria-selected="true"
-                >
-                  <svg
-                    viewBox="0 0 16 16"
-                    fill="none"
-                    stroke="currentColor"
-                    stroke-width="1.5"
-                  >
-                    <path d="M1 4h14M1 8h14M1 12h14" />
-                    <circle
-                      cx="4"
-                      cy="4"
-                      r="1.3"
-                      fill="currentColor"
-                      stroke="none"
-                    />
-                    <circle
-                      cx="9"
-                      cy="8"
-                      r="1.3"
-                      fill="currentColor"
-                      stroke="none"
-                    />
-                    <circle
-                      cx="12"
-                      cy="12"
-                      r="1.3"
-                      fill="currentColor"
-                      stroke="none"
-                    />
-                  </svg>
-                  Лінія
-                </button>
-                <button
-                  class="lv-mode-btn mode-btn"
-                  data-mode="map"
-                  role="tab"
-                  aria-selected="false"
-                >
-                  <svg
-                    viewBox="0 0 16 16"
-                    fill="none"
-                    stroke="currentColor"
-                    stroke-width="1.5"
-                  >
-                    <path
-                      d="M1.5 3.5l4-1.5 5 1.5 4-1.5v11l-4 1.5-5-1.5-4 1.5z"
-                    />
-                    <path d="M5.5 2v11M10.5 3.5v11" />
-                  </svg>
-                  Карта
-                </button>
-              </div>
             </div>
             <div class="lv-toolbar">
               <div class="lv-legend-group" id="ships-toggle">
@@ -2877,10 +2849,7 @@
 
         <!-- ════ VIEW 2 · INTERACTIVE MAP ════ -->
         <div class="view view-map" id="view-map">
-          <div class="map-content" style="position: relative">
-            <button class="map-back-btn mode-btn" data-mode="line">
-              ← Хронологія
-            </button>
+          <div class="map-content">
             <div class="timeline">
               <div class="timeline-controls">
                 <div class="tl-current-date" id="currentDate">—</div>
@@ -3024,15 +2993,20 @@
       // Report rendered content height to parent frame
       function _reportHeight() {
         var view = document.querySelector(".view-line");
+        var switcher = document.querySelector(".view-switcher");
         if (view && window.parent !== window) {
-          window.parent.postMessage({ iframeResize: view.scrollHeight }, "*");
+          var switcherH = (switcher && switcher.offsetHeight) ? switcher.offsetHeight : 0;
+          window.parent.postMessage({ iframeResize: view.scrollHeight + switcherH }, "*");
         }
       }
       if (typeof ResizeObserver !== "undefined") {
         var _reportTimer;
         var _ro = new ResizeObserver(function () {
           clearTimeout(_reportTimer);
-          _reportTimer = setTimeout(_reportHeight, 120);
+          _reportTimer = setTimeout(function () {
+            _ro.disconnect();
+            _reportHeight();
+          }, 120);
         });
         window.addEventListener("load", function () {
           var view = document.querySelector(".view-line");

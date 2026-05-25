@@ -46,7 +46,7 @@ export default function Page() {
         <AutoFrame
           src="/embeds/black-fleet-frigates.html?noscroll"
           title="Ракетоносці Чорного моря і Каспію · пр. 11356Р + пр. 11661К"
-          fallbackHeight={1000}
+          fallbackHeight={1050}
         />
       </div>
 
