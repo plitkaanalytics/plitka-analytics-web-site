@@ -488,7 +488,7 @@ export default function Page() {
                       backgroundImage:
                         "url('chotyry-roky-v-mori-frehaty/captain Aksionov.jpeg')",
                       backgroundSize: "cover",
-                      backgroundPosition: "center",
+                      backgroundPosition: "center top",
                     }}
                   ></div>
                   <div>
@@ -655,13 +655,16 @@ export default function Page() {
                 </div>
 
                 <figure className="fig">
-                  <div className="ph ph--cream" style={{ aspectRatio: "21/9" }}>
-                    <div className="ph__corners"></div>
-                    <span className="ph__label">
-                      ФОТО · ЗРУЙНОВАНА БУДІВЛЯ МИКОЛАЇВСЬКОЇ ОВА · 29.03.2022 ·
-                      ДСНС / REUTERS / AP
-                    </span>
-                  </div>
+                  <img
+                    src="/articles/chotyry-roky-v-mori-frehaty/Mykolaiv ODA.webp"
+                    alt="Зруйнована будівля Миколаївської ОВА · 29.03.2022 · ДСНС / REUTERS / AP"
+                    style={{
+                      width: "100%",
+                      aspectRatio: "21/9",
+                      objectFit: "cover",
+                      display: "block",
+                    }}
+                  />
                   <figcaption>
                     Удар крилатою ракетою пробив будівлю наскрізь.{" "}
                     <em>
@@ -706,7 +709,7 @@ export default function Page() {
                       Екіпаж, причетний до удару · Truth Hounds · 08.2022
                     </span>
                     <span className="crew__count">
-                      16 осіб · від командира до ст. матросів
+                      16 осіб · командир + 15 ідентифікованих
                     </span>
                   </div>
                   <div className="crew__grid">
@@ -718,25 +721,93 @@ export default function Page() {
                     </div>
                     <div className="crew__row">
                       <span className="crew__rank">
-                        Капітан-лейтенант · ком. РАБЧ
+                        Капітан 3-го рангу · замкомандира
                       </span>
-                      <span className="crew__name">Перетятько Анатолій</span>
+                      <span className="crew__name">Лепісевич Олег</span>
                     </div>
                     <div className="crew__row">
                       <span className="crew__rank">
-                        Заст. командира · решта 14
+                        Капітан-лейтенант · командир БЧ-1
                       </span>
-                      <span className="crew__name">
-                        імена — у звіті Truth Hounds
-                      </span>
+                      <span className="crew__name">М'ясоєдов Денис</span>
                     </div>
                     <div className="crew__row">
                       <span className="crew__rank">
-                        ГУР МО · публ. 08.03.2022
+                        Капітан-лейтенант · командир БЧ-2
                       </span>
-                      <span className="crew__name">
-                        персональні дані ракетників ЧФ
+                      <span className="crew__name">Петров Володимир</span>
+                    </div>
+                    <div className="crew__row">
+                      <span className="crew__rank">
+                        Старший лейтенант · ком. ракетної батареї
                       </span>
+                      <span className="crew__name">Ровба Сергій</span>
+                    </div>
+                    <div className="crew__row">
+                      <span className="crew__rank">
+                        Мічман · технік арт. батареї БЧ-2
+                      </span>
+                      <span className="crew__name">Паюсов Валерій</span>
+                    </div>
+                    <div className="crew__row">
+                      <span className="crew__rank">
+                        Старший лейтенант · ком. групи цілевказання
+                      </span>
+                      <span className="crew__name">Гаврильченко Сергій</span>
+                    </div>
+                    <div className="crew__row">
+                      <span className="crew__rank">
+                        Старший матрос · мінер БЧ-3
+                      </span>
+                      <span className="crew__name">Касьяненко Віталій</span>
+                    </div>
+                    <div className="crew__row">
+                      <span className="crew__rank">
+                        Капітан-лейтенант · командир БЧ-5
+                      </span>
+                      <span className="crew__name">Грузинцев Олександр</span>
+                    </div>
+                    <div className="crew__row">
+                      <span className="crew__rank">
+                        Матрос · машиніст турбінної групи БЧ-5
+                      </span>
+                      <span className="crew__name">Гусєв Павел</span>
+                    </div>
+                    <div className="crew__row">
+                      <span className="crew__rank">
+                        Старший матрос · старший електрик БЧ-5
+                      </span>
+                      <span className="crew__name">Руденко Максим</span>
+                    </div>
+                    <div className="crew__row">
+                      <span className="crew__rank">
+                        Старший матрос · радіотелеграфіст БЧ-4
+                      </span>
+                      <span className="crew__name">Лапін Олексій</span>
+                    </div>
+                    <div className="crew__row">
+                      <span className="crew__rank">
+                        Капітан-лейтенант · командир БЧ-7
+                      </span>
+                      <span className="crew__name">Смірнов Віктор</span>
+                    </div>
+                    <div className="crew__row">
+                      <span className="crew__rank">
+                        Гол. корабельний старшина · старшина групи
+                      </span>
+                      <span className="crew__name">Кримов Володимир</span>
+                    </div>
+                    <div className="crew__row">
+                      <span className="crew__rank">
+                        Старший матрос · гідроакустик БЧ-7
+                      </span>
+                      <span className="crew__name">Гребенюк Віталій</span>
+                    </div>
+                    <div className="crew__row">
+                      <span className="crew__rank">
+                        Матрос · оператор групи АСУ БЧ-7
+                      </span>
+                      <span className="crew__name">Галась Сергій</span>
                     </div>
                   </div>
                 </div>
@@ -786,66 +857,30 @@ export default function Page() {
                   </div>
                 </div>
 
-                <figure className="fig">
-                  <div
-                    className="ph ph--blue ph__cross"
-                    style={{ aspectRatio: "21/9" }}
-                  >
-                    <div className="ph__corners"></div>
-                    <span className="ph__label">
-                      СХЕМА · ПУСК «НЕПТУНА» · ТЕНДРІВСЬКА КОСА → ПОЗИЦІЯ
-                      «ЕССЕНА» · 03.04.2022
-                    </span>
-                  </div>
-                  <figcaption>
-                    Реконструкція епізоду за даними ВМС ЗСУ.{" "}
-                    <em>
-                      Точка позиції «Ессена» біля Тендрівської коси, траєкторія
-                      «Нептуна» з берегового комплексу.
-                    </em>
-                  </figcaption>
-                </figure>
-
                 <div className="episode">
                   <div className="episode__date">19.06.2023 · Севастополь</div>
                   <h3 className="episode__h">Камуфляж — перший серед серії</h3>
                 </div>
 
-                <div className="satfig">
-                  <div className="satfig__cell">
-                    <div
-                      className="blip"
-                      style={{
-                        left: "42%",
-                        top: "50%",
-                        borderColor: "#5C7A95",
-                      }}
-                    ></div>
-                    <div className="tag">
-                      PLANET LABS · СЕВАСТОПОЛЬ · 19.06.2023
-                    </div>
-                  </div>
-                  <div className="satfig__cell">
-                    <div
-                      className="blip"
-                      style={{
-                        left: "55%",
-                        top: "48%",
-                        borderColor: "#5C7A95",
-                      }}
-                    ></div>
-                    <div className="tag">
-                      PLANET LABS · НОВОРОСІЙСЬК · 21.06.2023
-                    </div>
-                  </div>
-                  <div className="satfig__cap">
+                <figure className="fig">
+                  <img
+                    src="/articles/chotyry-roky-v-mori-frehaty/Russia-Navy-Deceptive-camouflage-2023-1024x576.jpg"
+                    alt="«Адмірал Ессен» з нанесеним обманним камуфляжем."
+                    style={{
+                      width: "100%",
+                      aspectRatio: "21/9",
+                      objectFit: "cover",
+                      display: "block",
+                    }}
+                  />
+                  <figcaption>
                     «Адмірал Ессен» з нанесеним обманним камуфляжем.{" "}
                     <em>
                       Темні плями на носі та кормі корпусу. Розбір — Naval News
                       / H. I. Sutton / covertshores.com, 22.06.2023.
                     </em>
-                  </div>
-                </div>
+                  </figcaption>
+                </figure>
 
                 <p>
                   19 червня 2023 року супутниковий знімок Planet Labs зафіксував
@@ -885,22 +920,21 @@ export default function Page() {
                 </div>
 
                 <figure className="fig">
-                  <div
-                    className="ph ph--dark ph__cross"
-                    style={{ aspectRatio: "21/9" }}
-                  >
-                    <div className="ph__corners"></div>
-                    <span className="ph__label">
-                      СУПУТНИК · ПОРТ НОВОРОСІЙСЬК ПІСЛЯ 02.03.2026 · PLANET
-                      LABS / CYBERBOROSHNO
-                    </span>
-                  </div>
+                  <img
+                    src="/articles/chotyry-roky-v-mori-frehaty/Essen_novoros.jpg"
+                    alt="Супутниковий знімок · порт Новоросійськ після 02.03.2026 · CyberBoroshno"
+                    style={{
+                      width: "100%",
+                      aspectRatio: "21/9",
+                      objectFit: "cover",
+                      display: "block",
+                    }}
+                  />
                   <figcaption>
                     Комбінований удар Сил безпеки і Сил оборони України.{" "}
                     <em>
                       До 200 БпЛА в поєднанні з ракетними засобами. «Ессен»
-                      прийняв удар у середню надбудову; пожежа тривала близько
-                      18 годин.
+                      прийняв удар у середню надбудову.
                     </em>
                   </figcaption>
                 </figure>
@@ -958,7 +992,16 @@ export default function Page() {
                 </div>
 
                 <div className="commander">
-                  <div className="commander__photo">КОМАНДИР · ПОРТРЕТ</div>
+                  {/* TODO: зберегти фото → public/articles/chotyry-roky-v-mori-frehaty/captain smirnov.jpeg */}
+                  <div
+                    className="commander__photo"
+                    style={{
+                      backgroundImage:
+                        "url('chotyry-roky-v-mori-frehaty/captain smirnov.jpeg')",
+                      backgroundSize: "cover",
+                      backgroundPosition: "center top",
+                    }}
+                  ></div>
                   <div>
                     <div className="commander__label">Командир</div>
                     <div className="commander__name">Олександр Смірнов</div>
@@ -1085,13 +1128,17 @@ export default function Page() {
                 </div>
 
                 <figure className="fig">
-                  <div className="ph ph--cream" style={{ aspectRatio: "21/9" }}>
-                    <div className="ph__corners"></div>
-                    <span className="ph__label">
-                      ФОТО · ПОШКОДЖЕННЯ ПРИДНІПРОВСЬКОЇ ТЕС · 18.10.2022 · ДТЕК
-                      / УКРЕНЕРГО
-                    </span>
-                  </div>
+                  {/* TODO: зберегти фото → public/articles/chotyry-roky-v-mori-frehaty/prydniprovska-tes.jpg */}
+                  <img
+                    src="/articles/chotyry-roky-v-mori-frehaty/prydniprovska-tes.jpg"
+                    alt="Пошкодження Придніпровської ТЕС · 18.10.2022 · ДТЕК / Укренерго"
+                    style={{
+                      width: "100%",
+                      aspectRatio: "21/9",
+                      objectFit: "cover",
+                      display: "block",
+                    }}
+                  />
                   <figcaption>
                     Прицільний удар «Калібр-НК» по тепловій електростанції.{" "}
                     <em>
@@ -1130,12 +1177,15 @@ export default function Page() {
                 </p>
 
                 <figure className="fig">
-                  <div className="ph ph--dark" style={{ aspectRatio: "21/9" }}>
-                    <div className="ph__corners"></div>
-                    <span className="ph__label">
-                      ВІДЕО · USV АТАКУЄ «МАКАРОВА» · 29.10.2022 · ВМС ЗСУ / СБУ
-                    </span>
-                  </div>
+                  {/* TODO: вставити YouTube ID → src="https://www.youtube.com/embed/VIDEO_ID?rel=0" */}
+                  <iframe
+                    src="https://www.youtube.com/embed/VIDEO_ID?rel=0"
+                    title="ВІДЕО · USV АТАКУЄ «МАКАРОВА» · 29.10.2022 · ВМС ЗСУ / СБУ"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowFullScreen
+                    loading="lazy"
+                    style={{ aspectRatio: "16/9", height: "auto" }}
+                  />
                   <figcaption>
                     Кадри з борту морського дрона.{" "}
                     <em>
@@ -1242,13 +1292,15 @@ export default function Page() {
                 </div>
 
                 <figure className="fig">
-                  <div className="ph ph--dark" style={{ aspectRatio: "21/9" }}>
-                    <div className="ph__corners"></div>
-                    <span className="ph__label">
-                      КАДРИ · USV АТАКУЄ «МАКАРОВА» · 06.04.2026 · СБС /
-                      EXILENOVA+ / «МАДЯР»
-                    </span>
-                  </div>
+                  {/* TODO: вставити YouTube ID → src="https://www.youtube.com/embed/VIDEO_ID?rel=0" */}
+                  <iframe
+                    src="https://www.youtube.com/embed/VIDEO_ID?rel=0"
+                    title="КАДРИ · USV АТАКУЄ «МАКАРОВА» · 06.04.2026 · СБС / EXILENOVA+ / «МАДЯР»"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowFullScreen
+                    loading="lazy"
+                    style={{ aspectRatio: "16/9", height: "auto" }}
+                  />
                   <figcaption>
                     Безпілотники зайшли на ціль попри активну роботу ППО.{" "}
                     <em>
@@ -1274,7 +1326,16 @@ export default function Page() {
                 </p>
 
                 <div className="commander">
-                  <div className="commander__photo">КОМАНДИР · ПОРТРЕТ</div>
+                  {/* TODO: зберегти фото → public/articles/chotyry-roky-v-mori-frehaty/captain breev.jpeg */}
+                  <div
+                    className="commander__photo"
+                    style={{
+                      backgroundImage:
+                        "url('chotyry-roky-v-mori-frehaty/captain breev.jpeg')",
+                      backgroundSize: "cover",
+                      backgroundPosition: "center top",
+                    }}
+                  ></div>
                   <div>
                     <div className="commander__label">Командир</div>
                     <div className="commander__name">Григорій Бреєв</div>
@@ -1421,7 +1482,16 @@ export default function Page() {
                 </p>
 
                 <div className="commander">
-                  <div className="commander__photo">КОМАНДИР · ПОРТРЕТ</div>
+                  {/* TODO: зберегти фото → public/articles/chotyry-roky-v-mori-frehaty/captain miriev.jpeg */}
+                  <div
+                    className="commander__photo"
+                    style={{
+                      backgroundImage:
+                        "url('chotyry-roky-v-mori-frehaty/captain miriev.jpeg')",
+                      backgroundSize: "cover",
+                      backgroundPosition: "center top",
+                    }}
+                  ></div>
                   <div>
                     <div className="commander__label">Командир</div>
                     <div className="commander__name">

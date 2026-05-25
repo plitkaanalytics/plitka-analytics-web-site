@@ -410,8 +410,8 @@
   background: var(--paper-2);
   border-left: 3px solid var(--navy);
   display: grid;
-  grid-template-columns: 84px 1fr;
-  gap: 20px;
+  grid-template-columns: 140px 1fr;
+  gap: 24px;
   align-items: start;
 }
 .commander__photo {
@@ -433,6 +433,9 @@
   text-align: center;
   padding: 6px;
   font-weight: 700;
+  overflow: hidden;
+  background-size: cover;
+  background-position: center top;
 }
 .commander__label {
   font-family: var(--mono);
@@ -472,8 +475,8 @@
 
 @media (max-width: 600px) {
   .commander {
-    grid-template-columns: 64px 1fr;
-    gap: 14px;
+    grid-template-columns: 100px 1fr;
+    gap: 16px;
   }
   .commander__name {
     font-size: 19px;
