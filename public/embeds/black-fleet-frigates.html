@@ -3017,6 +3017,11 @@
           setTimeout(_reportHeight, 1200);
         });
       }
+      var _resizeTimer;
+      window.addEventListener("resize", function () {
+        clearTimeout(_resizeTimer);
+        _resizeTimer = setTimeout(_reportHeight, 150);
+      });
 
       const initialMode =
         location.hash.replace("#", "") === "map" ? "map" : "line";

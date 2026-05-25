@@ -5,10 +5,15 @@ interface AutoFrameProps {
   src: string;
   title?: string;
   fallbackHeight?: number;
+  mobileFallbackHeight?: number;
 }
 
-export function AutoFrame({ src, title, fallbackHeight = 820 }: AutoFrameProps) {
-  const [height, setHeight] = useState(fallbackHeight);
+export function AutoFrame({ src, title, fallbackHeight = 820, mobileFallbackHeight }: AutoFrameProps) {
+  const [height, setHeight] = useState(() => {
+    if (typeof window === 'undefined') return fallbackHeight;
+    if (mobileFallbackHeight && window.innerWidth < 768) return mobileFallbackHeight;
+    return fallbackHeight;
+  });
 
   useEffect(() => {
     function handler(e: MessageEvent) {
