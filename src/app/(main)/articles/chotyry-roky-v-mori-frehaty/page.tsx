@@ -232,7 +232,7 @@ export default function Page() {
 
                 <figure className="fig">
                   <iframe
-                    src="https://youtu.be/eJlheSQpr1M"
+                    src="https://www.youtube.com/embed/548lhK6hEoY?rel=0"
                     title="Прохід фрегата Адмірал Григорович через Босфор у 2021 році"
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                     allowFullScreen
@@ -279,17 +279,31 @@ export default function Page() {
                   Асада. <strong>27 листопада 2024 року</strong> коаліція «Хайят
                   Тахрір аш-Шам» та союзних угруповань почала наступ із півночі
                   Сирії; за 11 днів — 8 грудня — упав Дамаск, Асад вилетів до
-                  Москви. Тартус і авіабаза Хмеймім опинилися без союзника.
-                  Супутникові знімки Planet Labs, опубліковані OSINT-аналітиком
-                  MT Anderson, зафіксували послідовність: 30 листопада — 1
-                  грудня російські кораблі ще біля причалів; 3 грудня — гавань
-                  уже порожня, ескадра вийшла на зовнішній рейд. 8 грудня ГУР МО
-                  підтвердило: «Григорович» залишив Тартус у супроводі
-                  вантажного судна «Інженер Трубін».
+                  Москви. Тартус і авіабаза Хмеймім опинилися під загрозою
+                  захоплення. Супутникові знімки Planet Labs, опубліковані
+                  OSINT-аналітиком MT Anderson, зафіксували послідовність: 30
+                  листопада — 1 грудня російські кораблі ще біля причалів; 3
+                  грудня — гавань уже порожня, ескадра вийшла на зовнішній рейд.
+                  8 грудня ГУР МО підтвердило: «Григорович» залишив Тартус у
+                  супроводі вантажного судна «Інженер Трубін».
                   <a className="ref" href="#ref-1">
                     [1]
                   </a>
                 </p>
+
+                <figure className="fig">
+                  <img
+                    src="chotyry-roky-v-mori-frehaty/empty_tartus.webp"
+                    alt="Супутниковий знімок Planet Labs, опублікований MT Anderson"
+                  />
+                  <figcaption>
+                    Супутниковий знімок Planet Labs, опублікований MT Anderson:{" "}
+                    <em>
+                      3 грудня 2024 року гавань Тартуса вже порожня — ескадра
+                      вийшла на зовнішній рейд.
+                    </em>
+                  </figcaption>
+                </figure>
 
                 <div className="callout">
                   <div className="callout__label">
@@ -525,76 +539,6 @@ export default function Page() {
                   ротація — звична практика.
                 </div>
               </div>
-
-              <aside className="ship-grid__rail">
-                <div className="tth">
-                  <h5>ТТХ · «Григорович»</h5>
-                  <div className="tth__row">
-                    <span className="k">Закладено</span>
-                    <span className="v">18.12.2010</span>
-                  </div>
-                  <div className="tth__row">
-                    <span className="k">У строю</span>
-                    <span className="v">11.03.2016</span>
-                  </div>
-                  <div className="tth__row">
-                    <span className="k">Борт</span>
-                    <span className="v">745</span>
-                  </div>
-                  <div className="tth__row">
-                    <span className="k">З'єднання</span>
-                    <span className="v">30-та ДНК ЧФ</span>
-                  </div>
-                  <div className="tth__row">
-                    <span className="k">База 02.2022</span>
-                    <span className="v">Севастополь / Тартус</span>
-                  </div>
-                  <div className="tth__row">
-                    <span className="k">База 05.2026</span>
-                    <span className="v">Кронштадт</span>
-                  </div>
-                  <div className="tth__row">
-                    <span className="k">УКСК 3С14</span>
-                    <span className="v">8 × «Калібр»</span>
-                  </div>
-                  <div className="tth__row">
-                    <span className="k">Найдовший похід</span>
-                    <span className="v">24 000 миль · 134 дн.</span>
-                  </div>
-                </div>
-                <div className="events-list">
-                  <h5>Хроніка · 02.2022 – 05.2026</h5>
-                  <ol>
-                    <li>
-                      <span className="date">02.2022</span>Заблокований у
-                      Середземному морі (Монтре)
-                    </li>
-                    <li>
-                      <span className="date">04.2023</span>Перехід на ремонт до
-                      «Янтаря» · супровід HMS Defender
-                    </li>
-                    <li>
-                      <span className="date">11.2023</span>Повернення до Тартуса
-                      · супровід HMS Richmond
-                    </li>
-                    <li className="bad">
-                      <span className="date">08.12.2024</span>Залишив Тартус
-                      після падіння Асада
-                    </li>
-                    <li>
-                      <span className="date">2025</span>Перехід на Балтику
-                    </li>
-                    <li className="good">
-                      <span className="date">27.07.2025</span>Візит Путіна ·
-                      підвищення Аксьонова
-                    </li>
-                    <li>
-                      <span className="date">08.04.2026</span>Ла-Манш: між
-                      Universal та Enigma
-                    </li>
-                  </ol>
-                </div>
-              </aside>
             </div>
           </section>
 
@@ -1058,112 +1002,6 @@ export default function Page() {
                   «Нептуна» і пізніше двічі уражений у Новоросійську.
                 </div>
               </div>
-
-              <aside className="ship-grid__rail">
-                <div className="tth">
-                  <h5>ТТХ · «Ессен»</h5>
-                  <div className="tth__row">
-                    <span className="k">У строю</span>
-                    <span className="v">07.06.2016</span>
-                  </div>
-                  <div className="tth__row">
-                    <span className="k">Борт</span>
-                    <span className="v">490</span>
-                  </div>
-                  <div className="tth__row">
-                    <span className="k">З'єднання</span>
-                    <span className="v">30-та ДНК ЧФ</span>
-                  </div>
-                  <div className="tth__row">
-                    <span className="k">База 02.2022</span>
-                    <span className="v">Севастополь</span>
-                  </div>
-                  <div className="tth__row">
-                    <span className="k">База 05.2026</span>
-                    <span className="v">Новоросійськ</span>
-                  </div>
-                  <div className="tth__row">
-                    <span className="k">УКСК 3С14</span>
-                    <span className="v">8 × «Калібр»</span>
-                  </div>
-                  <div className="tth__row">
-                    <span className="k">Камуфляж</span>
-                    <span className="v">з 06.2023</span>
-                  </div>
-                  <div className="tth__row">
-                    <span className="k">Уражень</span>
-                    <span className="v">3 (04.2022, 03+04.2026)</span>
-                  </div>
-                </div>
-                <div className="units">
-                  <h5>Підтверджені удари «Калібрами» з борту</h5>
-                  <ul>
-                    <li>
-                      <span>
-                        <span className="name">Миколаївська ОВА</span>
-                        <br />
-                        <span className="hull">
-                          37 загиблих · атриб. Truth Hounds
-                        </span>
-                      </span>
-                      <span className="date">29.03.2022</span>
-                    </li>
-                    <li>
-                      <span>
-                        <span className="name">
-                          Удари по Одеській і Миколаївській обл.
-                        </span>
-                        <br />
-                        <span className="hull">ГУР МО · 08.03.2022</span>
-                      </span>
-                      <span className="date">весна 2022</span>
-                    </li>
-                    <li>
-                      <span>
-                        <span className="name">
-                          Удари ЗСУ ракетами «Калібр» по Сирії
-                        </span>
-                        <br />
-                        <span className="hull">ТАСС · позиції ІДІЛ</span>
-                      </span>
-                      <span className="date">09.2017</span>
-                    </li>
-                  </ul>
-                </div>
-                <div className="events-list">
-                  <h5>Хроніка · 02.2022 – 05.2026</h5>
-                  <ol>
-                    <li>
-                      <span className="date">24.02.2022</span>Зміїний —
-                      ультиматум у радіозв'язку
-                    </li>
-                    <li className="bad">
-                      <span className="date">29.03.2022</span>Удар по
-                      Миколаївській ОВА · 37 загиблих
-                    </li>
-                    <li className="bad">
-                      <span className="date">03.04.2022</span>Перший «Нептун» ·
-                      поверн. на ремонт
-                    </li>
-                    <li>
-                      <span className="date">19.06.2023</span>Перший камуфляж у
-                      серії
-                    </li>
-                    <li>
-                      <span className="date">10.2023</span>Переїзд у
-                      Новоросійськ
-                    </li>
-                    <li className="bad">
-                      <span className="date">02.03.2026</span>Удар у
-                      Новоросійську · 18 год пожежа
-                    </li>
-                    <li className="bad">
-                      <span className="date">06.04.2026</span>Повторний удар ·
-                      не виконує завдань
-                    </li>
-                  </ol>
-                </div>
-              </aside>
             </div>
           </section>
 
@@ -1507,108 +1345,6 @@ export default function Page() {
                   </a>
                 </p>
               </div>
-
-              <aside className="ship-grid__rail">
-                <div className="tth">
-                  <h5>ТТХ · «Макаров»</h5>
-                  <div className="tth__row">
-                    <span className="k">У строю</span>
-                    <span className="v">27.12.2017</span>
-                  </div>
-                  <div className="tth__row">
-                    <span className="k">Борт</span>
-                    <span className="v">499</span>
-                  </div>
-                  <div className="tth__row">
-                    <span className="k">З'єднання</span>
-                    <span className="v">30-та ДНК ЧФ</span>
-                  </div>
-                  <div className="tth__row">
-                    <span className="k">База 02.2022</span>
-                    <span className="v">Севастополь</span>
-                  </div>
-                  <div className="tth__row">
-                    <span className="k">База 05.2026</span>
-                    <span className="v">Новоросійськ</span>
-                  </div>
-                  <div className="tth__row">
-                    <span className="k">УКСК 3С14</span>
-                    <span className="v">8 × «Калібр»</span>
-                  </div>
-                  <div className="tth__row">
-                    <span className="k">ЗРК «Штиль-1»</span>
-                    <span className="v">до 50 км</span>
-                  </div>
-                  <div className="tth__row">
-                    <span className="k">Уражень</span>
-                    <span className="v">3 (10.2022, 03+04.2026)</span>
-                  </div>
-                </div>
-                <div className="units">
-                  <h5>Підтверджені удари «Калібрами» з борту</h5>
-                  <ul>
-                    <li>
-                      <span>
-                        <span className="name">Придніпровська ТЕС</span>
-                        <br />
-                        <span className="hull">
-                          атриб. СБУ · ком. дивізії — Кузьмін
-                        </span>
-                      </span>
-                      <span className="date">18.10.2022</span>
-                    </li>
-                    <li>
-                      <span>
-                        <span className="name">Інші удари 2022–23</span>
-                        <br />
-                        <span className="hull">без особової атрибуції</span>
-                      </span>
-                      <span className="date">2022–23</span>
-                    </li>
-                    <li>
-                      <span>
-                        <span className="name">«Імітаційні пуски»</span>
-                        <br />
-                        <span className="hull">ОК «Південь», 23:25</span>
-                      </span>
-                      <span className="date">24.12.2025</span>
-                    </li>
-                  </ul>
-                </div>
-                <div className="events-list">
-                  <h5>Хроніка · 02.2022 – 05.2026</h5>
-                  <ol>
-                    <li className="good">
-                      <span className="date">14.04.2022</span>Флагман ЧФ
-                      де-факто (після «Москви»)
-                    </li>
-                    <li className="bad">
-                      <span className="date">18.10.2022</span>Удар «Калібрами»
-                      по Придніпровській ТЕС
-                    </li>
-                    <li className="bad">
-                      <span className="date">29.10.2022</span>Перша USV-операція
-                      в історії · ремонт ~рік
-                    </li>
-                    <li>
-                      <span className="date">15.09.2023</span>На буксирі двох
-                      катерів · Севастополь
-                    </li>
-                    <li>
-                      <span className="date">10.2023</span>Переїзд у
-                      Новоросійськ
-                    </li>
-                    <li className="bad">
-                      <span className="date">02.03.2026</span>Удар у
-                      Новоросійську
-                    </li>
-                    <li className="bad">
-                      <span className="date">06.04.2026</span>«Шесхаріс» · 2
-                      влучання · тяжкі
-                    </li>
-                  </ol>
-                </div>
-              </aside>
             </div>
           </section>
 
@@ -1739,64 +1475,6 @@ export default function Page() {
                   Російська сторона офіційно не визнавала ураження кораблів.
                 </p>
               </div>
-
-              <aside className="ship-grid__rail">
-                <div className="tth">
-                  <h5>ТТХ · «Татарстан»</h5>
-                  <div className="tth__row">
-                    <span className="k">Закладено</span>
-                    <span className="v">1990 (Зеленодольськ)</span>
-                  </div>
-                  <div className="tth__row">
-                    <span className="k">У строю</span>
-                    <span className="v">31.08.2003</span>
-                  </div>
-                  <div className="tth__row">
-                    <span className="k">Борт</span>
-                    <span className="v">691</span>
-                  </div>
-                  <div className="tth__row">
-                    <span className="k">З'єднання</span>
-                    <span className="v">73-тя БрКОВР · КФл</span>
-                  </div>
-                  <div className="tth__row">
-                    <span className="k">Озброєння</span>
-                    <span className="v">ПКР «Уран» Х-35</span>
-                  </div>
-                  <div className="tth__row">
-                    <span className="k">Залп</span>
-                    <span className="v">8 × Х-35 (2 × КТ-184)</span>
-                  </div>
-                  <div className="tth__row">
-                    <span className="k">Дальність</span>
-                    <span className="v">до 130 км</span>
-                  </div>
-                  <div className="tth__row">
-                    <span className="k">ЗРК</span>
-                    <span className="v">«Оса-МА-2» · 20 × 9М33</span>
-                  </div>
-                </div>
-                <div className="events-list">
-                  <h5>Хроніка · 02.2022 – 05.2026</h5>
-                  <ol>
-                    <li>
-                      <span className="date">01.2022</span>Плановий ремонт в
-                      Астрахані
-                    </li>
-                    <li>
-                      <span className="date">2022–2024</span>Не може стріляти по
-                      UA · дальність
-                    </li>
-                    <li className="bad">
-                      <span className="date">06.11.2024</span>А-22 «Летюча
-                      лисиця» · можливе ураження
-                    </li>
-                    <li>
-                      <span className="date">2025</span>У строю
-                    </li>
-                  </ol>
-                </div>
-              </aside>
             </div>
           </section>
 
@@ -1973,73 +1651,6 @@ export default function Page() {
                   </em>
                 </div>
               </div>
-
-              <aside className="ship-grid__rail">
-                <div className="tth">
-                  <h5>ТТХ · «Дагестан»</h5>
-                  <div className="tth__row">
-                    <span className="k">Закладено</span>
-                    <span className="v">1991 (Зеленодольськ)</span>
-                  </div>
-                  <div className="tth__row">
-                    <span className="k">Спущ. на воду</span>
-                    <span className="v">01.04.2011</span>
-                  </div>
-                  <div className="tth__row">
-                    <span className="k">У строю</span>
-                    <span className="v">28.11.2012</span>
-                  </div>
-                  <div className="tth__row">
-                    <span className="k">Борт</span>
-                    <span className="v">693</span>
-                  </div>
-                  <div className="tth__row">
-                    <span className="k">З'єднання</span>
-                    <span className="v">73-тя БрКОВР · КФл</span>
-                  </div>
-                  <div className="tth__row">
-                    <span className="k">Флагман КФл</span>
-                    <span className="v">з 2017</span>
-                  </div>
-                  <div className="tth__row">
-                    <span className="k">УКСК 3С14</span>
-                    <span className="v">8 × «Калібр-НК»</span>
-                  </div>
-                  <div className="tth__row">
-                    <span className="k">РЛС</span>
-                    <span className="v">«Мінерал-М» / «Позитив-М1»</span>
-                  </div>
-                </div>
-                <div className="events-list">
-                  <h5>Хроніка · 09.2012 – 05.2026</h5>
-                  <ol>
-                    <li className="good">
-                      <span className="date">17.09.2012</span>Перший в історії
-                      пуск «Калібру» з надводного корабля ВМФ РФ
-                    </li>
-                    <li className="good">
-                      <span className="date">07.10.2015</span>«Каспійський меч»
-                      · 26 пусків по ІДІЛ
-                    </li>
-                    <li>
-                      <span className="date">20.11.2015</span>Повторна атака ·
-                      18 пусків
-                    </li>
-                    <li>
-                      <span className="date">2022–2024</span>Ймовірні пуски по
-                      UA (не атриб. публічно)
-                    </li>
-                    <li className="bad">
-                      <span className="date">06.11.2024</span>А-22 «Летюча
-                      лисиця» · ймовірне ураження
-                    </li>
-                    <li>
-                      <span className="date">08.2025</span>Залікові тактичні
-                      навчання КФл
-                    </li>
-                  </ol>
-                </div>
-              </aside>
             </div>
           </section>
 
