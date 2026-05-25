@@ -356,23 +356,6 @@ export default function Page() {
                   Володимир Путін прибув у Кронштадт і піднявся на борт корабля.
                 </p>
 
-                <figure className="fig">
-                  <div className="ph ph--dark" style={{ aspectRatio: "16/9" }}>
-                    <div className="ph__corners"></div>
-                    <span className="ph__label">
-                      ВІДЕО · ВІЗИТ ПУТІНА НА БОРТ «ГРИГОРОВИЧА» · 27.07.2025
-                    </span>
-                  </div>
-                  <figcaption>
-                    Кадри Кремль.ру / російські державні ЗМІ.{" "}
-                    <em>
-                      Підвищення командира у званні в прямому ефірі — публічне
-                      нагородження капітана 3-го рангу Костянтина Аксьонова до
-                      капітана 2-го рангу.
-                    </em>
-                  </figcaption>
-                </figure>
-
                 <p>
                   Президент спілкувався з екіпажем за чашкою чаю, подякував за
                   «вдале відбиття атаки безпілотників». Аксьонов доповів, що за
@@ -393,6 +376,25 @@ export default function Page() {
                     · Кронштадт · 27.07.2025
                   </div>
                 </div>
+
+                <figure className="fig">
+                  <iframe
+                    src="https://www.youtube.com/embed/1vvNScYIquY?si=habIs0B0YXQkiB0q"
+                    title="ВІДЕО · ВІЗИТ ПУТІНА НА БОРТ «ГРИГОРОВИЧА» · 27.07.2025"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowFullScreen
+                    loading="lazy"
+                    style={{ aspectRatio: "16/9", height: "auto" }}
+                  />
+                  <figcaption>
+                    Кадри Кремль.ру / російські державні ЗМІ.{" "}
+                    <em>
+                      Підвищення командира у званні в прямому ефірі — публічне
+                      нагородження капітана 3-го рангу Костянтина Аксьонова до
+                      капітана 2-го рангу.
+                    </em>
+                  </figcaption>
+                </figure>
 
                 <p>
                   Це епізод, який російські державні ЗМІ зробили головною темою
@@ -434,43 +436,29 @@ export default function Page() {
                 </p>
 
                 <div className="satfig">
-                  <div className="satfig__cell">
-                    <div
-                      className="blip"
-                      style={{ left: "48%", top: "46%" }}
-                    ></div>
+                  <div
+                    className="satfig__cell"
+                    style={{
+                      backgroundImage:
+                        "url('chotyry-roky-v-mori-frehaty/428A6090  Foreground RFN Admiral Grigorovich FFG494 ADMIRAL GRIGOROVICH background RFA TIDEFORCE 1.jpg')",
+                      backgroundSize: "cover",
+                      backgroundPosition: "center",
+                    }}
+                  >
                     <div className="tag">
                       RFA TIDEFORCE · 08.04.2026 · LA MANCHE
                     </div>
                   </div>
-                  <div className="satfig__cell">
-                    <div
-                      className="blip"
-                      style={{
-                        left: "30%",
-                        top: "50%",
-                        borderColor: "#5C7A95",
-                      }}
-                    ></div>
-                    <div
-                      className="blip"
-                      style={{
-                        left: "50%",
-                        top: "48%",
-                        borderColor: "#c44a08",
-                      }}
-                    ></div>
-                    <div
-                      className="blip"
-                      style={{
-                        left: "70%",
-                        top: "50%",
-                        borderColor: "#5C7A95",
-                      }}
-                    ></div>
-                    <div className="tag is-hit">
-                      UNIVERSAL · ГРИГОРОВИЧ · ENIGMA
-                    </div>
+                  <div
+                    className="satfig__cell"
+                    style={{
+                      backgroundImage:
+                        "url('chotyry-roky-v-mori-frehaty/Grigorovich and Universal.jpg')",
+                      backgroundSize: "cover",
+                      backgroundPosition: "center",
+                    }}
+                  >
+                    <div className="tag is-hit">UNIVERSAL · ГРИГОРОВИЧ</div>
                   </div>
                   <div className="satfig__cap">
                     Кадр з борту RFA <em>Tideforce</em>.{" "}
@@ -494,7 +482,15 @@ export default function Page() {
                 </p>
 
                 <div className="commander">
-                  <div className="commander__photo">КОМАНДИР · ПОРТРЕТ</div>
+                  <div
+                    className="commander__photo"
+                    style={{
+                      backgroundImage:
+                        "url('chotyry-roky-v-mori-frehaty/captain Aksionov.jpeg')",
+                      backgroundSize: "cover",
+                      backgroundPosition: "center",
+                    }}
+                  ></div>
                   <div>
                     <div className="commander__label">Командир</div>
                     <div className="commander__name">Костянтин Аксьонов</div>

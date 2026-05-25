@@ -31,8 +31,8 @@
   <path d="M 460 70 L 500 65 L 530 80 L 540 130 L 525 170 L 490 180 L 450 175 L 425 155 L 415 110 Z" fill="#C6D8E8" stroke="#9FB3C5" stroke-width="1"/>
   <text x="475" y="125" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#1F4E78" text-anchor="middle">Балтика</text>
 
-  <circle cx="555" cy="305" r="280" fill="none" stroke="#C8102E" stroke-width="1" stroke-dasharray="2 4" opacity="0.5"/>
-  <circle cx="555" cy="305" r="240" fill="rgba(200,16,46,0.04)" stroke="#C8102E" stroke-width="1.5" stroke-dasharray="6 6" opacity="0.7"/>
+  <circle cx="555" cy="305" r="280" fill="none" stroke="#c44a08" stroke-width="1" stroke-dasharray="2 4" opacity="0.5"/>
+  <circle cx="555" cy="305" r="240" fill="rgba(200,16,46,0.04)" stroke="#c44a08" stroke-width="1.5" stroke-dasharray="6 6" opacity="0.7"/>
 
   <circle cx="970" cy="360" r="300" fill="none" stroke="#8C2D04" stroke-width="1" stroke-dasharray="2 4" opacity="0.45"/>
 
@@ -48,7 +48,7 @@
     <text x="452" y="274" font-family="Georgia, serif" font-size="13" font-weight="700" fill="#0E1B2A">Дніпро</text>
   </g>
 
-  <path d="M 555 305 Q 470 220 395 245" fill="none" stroke="#C8102E" stroke-width="2.2"/>
+  <path d="M 555 305 Q 470 220 395 245" fill="none" stroke="#c44a08" stroke-width="2.2"/>
   <path d="M 970 360 Q 720 280 445 278" fill="none" stroke="#8C2D04" stroke-width="2" stroke-dasharray="6 4" opacity="0.85"/>
   <path d="M 425 135 Q 410 200 395 245" fill="none" stroke="#1F4E78" stroke-width="1.5" stroke-dasharray="2 4" opacity="0.55"/>
   <line x1="378" y1="170" x2="408" y2="200" stroke="#5C6B7A" stroke-width="2"/>
@@ -62,8 +62,8 @@
   </g>
 
   <g>
-    <rect x="551" y="301" width="10" height="10" fill="#C8102E"/>
-    <text x="566" y="310" font-family="Arial Narrow, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="0.08em" fill="#C8102E">НОВОРОСІЙСЬК</text>
+    <rect x="551" y="301" width="10" height="10" fill="#c44a08"/>
+    <text x="566" y="310" font-family="Arial Narrow, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="0.08em" fill="#c44a08">НОВОРОСІЙСЬК</text>
     <text x="566" y="322" font-family="Arial Narrow, Arial, sans-serif" font-size="9" letter-spacing="0.1em" fill="#5C6B7A">база ЧФ з 2023</text>
   </g>
 
@@ -85,12 +85,12 @@
 
   <text x="555" y="540" display="none"/>
   <g transform="translate(355,510)">
-    <text font-family="Arial Narrow, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="0.14em" fill="#C8102E">— ЧФ · ОСНОВНА ЗАГРОЗА</text>
+    <text font-family="Arial Narrow, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="0.14em" fill="#c44a08">— ЧФ · ОСНОВНА ЗАГРОЗА</text>
   </g>
 
   <g transform="translate(1080,460)">
-    <rect x="-118" y="-16" width="118" height="24" fill="#FFFFFF" stroke="#C8102E"/>
-    <text font-family="Arial Narrow, Arial, sans-serif" font-size="10.5" font-weight="700" letter-spacing="0.14em" fill="#C8102E" text-anchor="middle" x="-59" y="0">ДАЛЬНІСТЬ ~1700 КМ</text>
+    <rect x="-118" y="-16" width="118" height="24" fill="#FFFFFF" stroke="#c44a08"/>
+    <text font-family="Arial Narrow, Arial, sans-serif" font-size="10.5" font-weight="700" letter-spacing="0.14em" fill="#c44a08" text-anchor="middle" x="-59" y="0">ДАЛЬНІСТЬ ~1700 КМ</text>
   </g>
 
   <g>

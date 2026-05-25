@@ -12,7 +12,7 @@ export function AutoFrame({ src, title, fallbackHeight = 820 }: AutoFrameProps) 
 
   useEffect(() => {
     function handler(e: MessageEvent) {
-      if (typeof e.data?.iframeResize === 'number') {
+      if (typeof e.data?.iframeResize === 'number' && e.data.iframeResize > 400) {
         setHeight(e.data.iframeResize);
       }
     }
