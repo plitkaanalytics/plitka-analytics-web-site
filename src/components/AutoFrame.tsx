@@ -1,5 +1,5 @@
 'use client';
-import { useEffect, useRef, useState } from 'react';
+import { useEffect, useState } from 'react';
 
 interface AutoFrameProps {
   src: string;
@@ -24,7 +24,14 @@ export function AutoFrame({ src, title, fallbackHeight = 820 }: AutoFrameProps) 
     <iframe
       src={src}
       title={title}
-      style={{ width: '100%', height: `${height}px`, display: 'block', border: 'none' }}
+      style={{
+        width: '100%',
+        height: `${height}px`,
+        display: 'block',
+        border: 'none',
+        overflow: 'hidden',
+        transition: 'height 0.2s ease',
+      }}
       scrolling="no"
     />
   );

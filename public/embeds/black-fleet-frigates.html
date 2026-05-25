@@ -6,7 +6,10 @@
     <title>Black fleet · Ракетоносці ЧМ і Каспію — лінія + інтерактив</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap" rel="stylesheet" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap"
+      rel="stylesheet"
+    />
 
     <style>
       /* required styles */
@@ -993,7 +996,7 @@
         --white: #ffffff;
         --blue: #deebf7;
         --serif: "PT Serif", Georgia, serif;
-        --sans: 'Inter', "PT Sans", Calibri, sans-serif;
+        --sans: "Inter", "PT Sans", Calibri, sans-serif;
         --mono: "PT Mono", Consolas, monospace;
       }
 
@@ -1182,9 +1185,8 @@
         border-radius: 4px;
       }
       .view-line .lv-doc {
-        padding: 36px 48px 16px;
+        padding: 22px 4px 4px;
         max-width: 1700px;
-        margin: 0 auto;
       }
 
       /* Headline */
@@ -2516,9 +2518,6 @@
         .eyebrow {
           font-size: 9px;
         }
-        .view-line .lv-doc {
-          padding: 24px 20px 60px;
-        }
         .view-line h1.lv-title {
           font-size: 30px;
         }
@@ -2552,6 +2551,7 @@
         padding-bottom: 16px;
         border-bottom: 1px solid var(--lv-line);
         flex-wrap: wrap;
+        margin-left: 17px;
       }
       .lv-intro-text {
         flex: 1;
@@ -2570,8 +2570,8 @@
       .lv-mode-toggle {
         display: flex;
         gap: 0;
-        background: rgba(255,255,255,0.07);
-        border: 1px solid rgba(255,255,255,0.16);
+        background: rgba(255, 255, 255, 0.07);
+        border: 1px solid rgba(255, 255, 255, 0.16);
         border-radius: 3px;
         padding: 3px;
         flex-shrink: 0;
@@ -2585,7 +2585,7 @@
         background: transparent;
         border: none;
         cursor: pointer;
-        color: rgba(255,255,255,0.5);
+        color: rgba(255, 255, 255, 0.5);
         border-radius: 2px;
         display: flex;
         align-items: center;
@@ -2593,12 +2593,12 @@
         transition: all 0.15s;
       }
       .lv-mode-btn:hover:not(.active) {
-        color: rgba(255,255,255,0.85);
+        color: rgba(255, 255, 255, 0.85);
       }
       .lv-mode-btn.active {
-        background: rgba(255,255,255,0.14);
+        background: rgba(255, 255, 255, 0.14);
         color: #fff;
-        box-shadow: 0 1px 2px rgba(0,0,0,0.2);
+        box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
       }
       .lv-mode-btn svg {
         width: 14px;
@@ -2624,15 +2624,26 @@
         display: flex;
         align-items: center;
         gap: 6px;
-        box-shadow: 0 1px 3px rgba(0,0,0,0.12);
+        box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12);
       }
       .map-back-btn:hover {
         background: var(--bg-app);
       }
       /* URL-param modes */
-      html.is-embed .lv-toolbar { display: none; }
-      html.is-embed .lv-intro-row { margin-bottom: 12px; padding-bottom: 12px; }
-      html.is-noscroll .view-line { overflow-y: hidden; }
+      html.is-embed .lv-toolbar {
+        display: none;
+      }
+      html.is-embed .lv-intro-row {
+        margin-bottom: 8px;
+        padding-bottom: 0;
+        border-bottom: none;
+      }
+      html.is-embed .lv-mode-toggle {
+        display: none;
+      }
+      html.is-noscroll .view-line {
+        overflow-y: hidden;
+      }
     </style>
   </head>
 
@@ -2643,31 +2654,70 @@
         <div class="view view-line active" id="view-line">
           <div class="lv-doc">
             <div class="lv-intro-row">
-            <p class="lv-intro-text">
-              Фрегати-носії «Калібру» · ЧФ і Каспій · 2022–2026.
-              <em>Лінія</em> — хронологія подій по кораблю;
-              <em>Карта</em> — позиції на обраний момент.
-            </p>
-            <div class="lv-mode-toggle" role="tablist">
-              <button class="lv-mode-btn mode-btn active" data-mode="line" role="tab" aria-selected="true">
-                <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5">
-                  <path d="M1 4h14M1 8h14M1 12h14" />
-                  <circle cx="4" cy="4" r="1.3" fill="currentColor" stroke="none" />
-                  <circle cx="9" cy="8" r="1.3" fill="currentColor" stroke="none" />
-                  <circle cx="12" cy="12" r="1.3" fill="currentColor" stroke="none" />
-                </svg>
-                Лінія
-              </button>
-              <button class="lv-mode-btn mode-btn" data-mode="map" role="tab" aria-selected="false">
-                <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5">
-                  <path d="M1.5 3.5l4-1.5 5 1.5 4-1.5v11l-4 1.5-5-1.5-4 1.5z" />
-                  <path d="M5.5 2v11M10.5 3.5v11" />
-                </svg>
-                Карта
-              </button>
+              <p class="lv-intro-text">
+                Інфографіка уражень та переміщень фрегатів у Чорному та
+                Азовському морі
+              </p>
+              <div class="lv-mode-toggle" role="tablist">
+                <button
+                  class="lv-mode-btn mode-btn active"
+                  data-mode="line"
+                  role="tab"
+                  aria-selected="true"
+                >
+                  <svg
+                    viewBox="0 0 16 16"
+                    fill="none"
+                    stroke="currentColor"
+                    stroke-width="1.5"
+                  >
+                    <path d="M1 4h14M1 8h14M1 12h14" />
+                    <circle
+                      cx="4"
+                      cy="4"
+                      r="1.3"
+                      fill="currentColor"
+                      stroke="none"
+                    />
+                    <circle
+                      cx="9"
+                      cy="8"
+                      r="1.3"
+                      fill="currentColor"
+                      stroke="none"
+                    />
+                    <circle
+                      cx="12"
+                      cy="12"
+                      r="1.3"
+                      fill="currentColor"
+                      stroke="none"
+                    />
+                  </svg>
+                  Лінія
+                </button>
+                <button
+                  class="lv-mode-btn mode-btn"
+                  data-mode="map"
+                  role="tab"
+                  aria-selected="false"
+                >
+                  <svg
+                    viewBox="0 0 16 16"
+                    fill="none"
+                    stroke="currentColor"
+                    stroke-width="1.5"
+                  >
+                    <path
+                      d="M1.5 3.5l4-1.5 5 1.5 4-1.5v11l-4 1.5-5-1.5-4 1.5z"
+                    />
+                    <path d="M5.5 2v11M10.5 3.5v11" />
+                  </svg>
+                  Карта
+                </button>
+              </div>
             </div>
-          </div>
-          <div class="lv-toolbar">
+            <div class="lv-toolbar">
               <div class="lv-legend-group" id="ships-toggle">
                 <span class="label">Кораблі</span>
                 <!-- chips generated from DATA.meta.ships -->
@@ -2827,8 +2877,10 @@
 
         <!-- ════ VIEW 2 · INTERACTIVE MAP ════ -->
         <div class="view view-map" id="view-map">
-          <div class="map-content" style="position:relative;">
-            <button class="map-back-btn mode-btn" data-mode="line">← Хронологія</button>
+          <div class="map-content" style="position: relative">
+            <button class="map-back-btn mode-btn" data-mode="line">
+              ← Хронологія
+            </button>
             <div class="timeline">
               <div class="timeline-controls">
                 <div class="tl-current-date" id="currentDate">—</div>
@@ -2954,7 +3006,7 @@
 
       // Hide map button when ?nomap param is present
       if (_params.has("nomap")) {
-        document.querySelectorAll('[data-mode="map"]').forEach(function(b) {
+        document.querySelectorAll('[data-mode="map"]').forEach(function (b) {
           b.style.display = "none";
         });
       }
@@ -2971,14 +3023,26 @@
 
       // Report rendered content height to parent frame
       function _reportHeight() {
-        var doc = document.querySelector(".lv-doc");
-        if (doc && window.parent !== window) {
-          window.parent.postMessage({ iframeResize: doc.scrollHeight + 52 }, "*");
+        var view = document.querySelector(".view-line");
+        if (view && window.parent !== window) {
+          window.parent.postMessage({ iframeResize: view.scrollHeight }, "*");
         }
       }
-      window.addEventListener("load", function () {
-        setTimeout(_reportHeight, 300);
-      });
+      if (typeof ResizeObserver !== "undefined") {
+        var _reportTimer;
+        var _ro = new ResizeObserver(function () {
+          clearTimeout(_reportTimer);
+          _reportTimer = setTimeout(_reportHeight, 120);
+        });
+        window.addEventListener("load", function () {
+          var view = document.querySelector(".view-line");
+          if (view) _ro.observe(view);
+        });
+      } else {
+        window.addEventListener("load", function () {
+          setTimeout(_reportHeight, 1200);
+        });
+      }
 
       const initialMode =
         location.hash.replace("#", "") === "map" ? "map" : "line";
