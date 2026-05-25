@@ -1,7 +1,5 @@
 import Link from 'next/link';
 import { getAllArticles, formatDate } from '@/lib/articles';
-import { GanttView } from '@/components/ShipChronology';
-import { frigatesData } from '@/data/frigates-chronology';
 
 export default function HomePage() {
   const articles = getAllArticles();
@@ -38,12 +36,15 @@ export default function HomePage() {
                 {hero.leadMapUrl ? (
                   <div style={{
                     marginBottom: '24px',
-                    background: 'var(--paper)',
-                    border: '1px solid var(--rule)',
                     borderTop: '3px solid var(--navy)',
-                    padding: '16px 16px 12px',
+                    overflow: 'hidden',
                   }}>
-                    <GanttView data={frigatesData} />
+                    <iframe
+                      src="/embeds/black-fleet-frigates.html?nomap&embed"
+                      title="Ракетоносці Чорного моря і Каспію"
+                      style={{ width: '100%', height: '740px', display: 'block', border: 'none' }}
+                      scrolling="no"
+                    />
                   </div>
                 ) : hero.leadImage ? (
                   <img src={hero.leadImage} alt={hero.title} style={{ width: '100%', display: 'block', marginBottom: '24px' }} />

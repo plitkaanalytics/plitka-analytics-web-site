@@ -2,6 +2,7 @@ import "./frigates.css";
 import type { Metadata } from "next";
 import Link from "next/link";
 import { getAllArticles, getArticleBySlug, formatDate } from "@/lib/articles";
+import { AutoFrame } from "@/components/AutoFrame";
 
 export const metadata: Metadata = {
   title: "Чотири роки в морі. Фрегати — PLITKA Analytics",
@@ -42,16 +43,10 @@ export default function Page() {
 
       {/* Infographic embed */}
       <div className="infographic-embed">
-        <iframe
-          src="/embeds/black-fleet-frigates.html"
+        <AutoFrame
+          src="/embeds/black-fleet-frigates.html?noscroll"
           title="Ракетоносці Чорного моря і Каспію · пр. 11356Р + пр. 11661К"
-          style={{
-            width: "100%",
-            height: "740px",
-            display: "block",
-            border: "none",
-          }}
-          allowFullScreen
+          fallbackHeight={820}
         />
       </div>
 
