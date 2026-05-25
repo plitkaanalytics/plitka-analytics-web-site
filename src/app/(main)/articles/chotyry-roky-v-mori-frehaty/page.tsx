@@ -548,7 +548,7 @@ export default function Page() {
                 «Адмірал Ессен»<em>Перший «Нептун» цієї війни</em>
               </h2>
               <div className="ship__chips">
-                <span className="chip chip--red">3 ураження</span>
+                <span className="chip chip--red">4 ураження</span>
                 <span className="chip">ЧФ</span>
               </div>
             </header>
@@ -575,7 +575,7 @@ export default function Page() {
               <div className="status-bar__cell is-bad">
                 <div className="status-bar__k">Стан</div>
                 <div className="status-bar__v">
-                  Не виконує завдань<em>після 06.04.2026</em>
+                  Не виконує завдань<em>після 23.05.2026</em>
                 </div>
               </div>
             </div>
@@ -968,21 +968,49 @@ export default function Page() {
 
                 <div className="episode">
                   <div className="episode__date">06.04.2026 · Новоросійськ</div>
-                  <h3 className="episode__h">Повторне ураження</h3>
+                  <h3 className="episode__h">Другий удар у Новоросійську</h3>
                 </div>
 
                 <p>
-                  У ніч на 6 квітня оператори 1-го окремого центру Сил
-                  безпілотних систем у рамках операції СБУ та Сил оборони
-                  України завдали удару по терміналу «Шесхаріс» у Новоросійську.
-                  Паралельно CyberBoroshno зафіксував{" "}
-                  <strong>повторне ураження «Ессена»</strong> — другий удар по
-                  тому ж кораблю за місяць.
+                  У ніч на 6 квітня Сили безпечення та Сили оборони України
+                  завдали удару по терміналу «Шесхаріс» і безпосередньо по
+                  кораблях у Новоросійській ВМБ. За OSINT-аналізом CyberBoroshno
+                  на основі супутникових знімків, зроблених 7 квітня,{" "}
+                  <strong>«Адмірал Ессен» був уражений у носову частину</strong>{" "}
+                  — в район 100-мм артилерійської установки А-190. У цій же зоні
+                  нижче ватерлінії розміщений гідроакустичний комплекс МГК-335М
+                  «Платина»: його пошкодження позбавить корабель здатності
+                  виявляти підводні човни. OSINT-ідентифікація «Ессена» — а не
+                  сусіднього «Макарова» — проводилась за характерною ознакою:
+                  антени радарів на «Ессені» пофарбовані в білий колір, тоді як
+                  на «Макарові» вони сірі.
                 </p>
+
+                <figure className="fig">
+                  {/* TODO: зберегти супутниковий знімок → public/articles/chotyry-roky-v-mori-frehaty/essen-april-satellite.jpg */}
+                  <img
+                    src="/articles/chotyry-roky-v-mori-frehaty/essen kviten 2026.jpg"
+                    alt="Супутниковий знімок · «Адмірал Ессен» у Новоросійську після 06.04.2026 · CyberBoroshno / Planet Labs"
+                    style={{
+                      width: "100%",
+                      aspectRatio: "21/9",
+                      objectFit: "cover",
+                      display: "block",
+                    }}
+                  />
+                  <figcaption>
+                    Носова частина з пошкодженнями в районі А-190.{" "}
+                    <em>
+                      Знімок 07.04.2026. Аналіз: CyberBoroshno / Planet Labs.
+                      Ідентифікація за білим кольором антен — відмінна риса
+                      «Ессена» від «Макарова».
+                    </em>
+                  </figcaption>
+                </figure>
 
                 <div className="callout callout--warn">
                   <div className="callout__label">
-                    Поточний стан · оцінка ВМС ЗС України
+                    Після удару 06.04.2026 · оцінка ВМС ЗС України
                   </div>
                   За оцінкою речника ВМС ЗС України Дмитра Плетенчука, «Ессен»
                   отримав уже <strong>третє ураження за час війни</strong>{" "}
@@ -991,13 +1019,54 @@ export default function Page() {
                   без активних надводних носіїв «Калібру».
                 </div>
 
+                <div className="episode">
+                  <div className="episode__date">23.05.2026 · Новоросійськ</div>
+                  <h3 className="episode__h">Третій удар у Новоросійську</h3>
+                </div>
+
+                <figure className="fig">
+                  <iframe
+                    src="https://www.youtube.com/embed/SHLUtLSdNcc?rel=0"
+                    title="Фрегат Адмірал Ессен та ракетоносій уражені під час рейду «Птахів» СБС · 05.2026"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowFullScreen
+                    loading="lazy"
+                    style={{ aspectRatio: "16/9", height: "auto" }}
+                  />
+                  <figcaption>
+                    Дрон-камікадзе заходить на «Ессен» попри активне ППО.{" "}
+                    <em>
+                      Відео опубліковано командувачем СБС Робертом «Мадяром»
+                      Бровді.
+                    </em>
+                  </figcaption>
+                </figure>
+
+                <p>
+                  У ніч на 23 травня 2026 року 1-й окремий центр Сил безпілотних
+                  систем завдав четвертого підтвердженого удару по «Адміралу
+                  Ессену» в Новоросійську. Кілька дронів-камікадзе атакували
+                  фрегат у борт поблизу палуби; корабель намагався перехоплювати
+                  їх зенітним ракетним комплексом «Оса-М». Операція відбувалась
+                  у рамках масованого 48-годинного рейду «Птахів» СБС по
+                  Новоросійському порту — разом із ударами по нафтовому
+                  терміналу «Шесхаріс» і нафтосховищу «Грушова Балка».{" "}
+                  <strong>
+                    Командувач СБС Роберт «Мадяр» Бровді підтвердив удар
+                    особисто
+                  </strong>
+                  : «Ти приречений затонути, тобі нема де сховатись».
+                  <a className="ref" href="#ref-12">
+                    [12]
+                  </a>
+                </p>
+
                 <div className="commander">
-                  {/* TODO: зберегти фото → public/articles/chotyry-roky-v-mori-frehaty/captain smirnov.jpeg */}
                   <div
                     className="commander__photo"
                     style={{
                       backgroundImage:
-                        "url('chotyry-roky-v-mori-frehaty/captain smirnov.jpeg')",
+                        "url('chotyry-roky-v-mori-frehaty/Aleksandr-Smirnov_65ce722802817.jpg')",
                       backgroundSize: "cover",
                       backgroundPosition: "center top",
                     }}
@@ -1038,7 +1107,7 @@ export default function Page() {
                   <strong>другий</strong> загинув на «Москві» від ракети
                   «Нептун» 14.04.2022 (Антон Купрін), <strong>третій</strong>{" "}
                   командує кораблем, який сам став першою у війні ціллю того ж
-                  «Нептуна» і пізніше двічі уражений у Новоросійську.
+                  «Нептуна» і пізніше тричі уражений у Новоросійську.
                 </div>
               </div>
             </div>
@@ -1105,8 +1174,8 @@ export default function Page() {
                   затонув; серед загиблих був командир Антон Купрін. Статус
                   флагмана перейшов до «Адмірала Макарова» —{" "}
                   <em>за залишковим принципом</em>. Серед боєздатних кораблів ЧФ
-                  це був найпотужніший корпус із ракетним озброєнням великої
-                  дальності: 8 пускових установок «Калібру».
+                  це був найпотужніший та найновіший корабель із ракетним
+                  озброєнням великої дальності: 8 пускових установок «Калібру».
                 </p>
 
                 <div className="callout">
@@ -1128,9 +1197,8 @@ export default function Page() {
                 </div>
 
                 <figure className="fig">
-                  {/* TODO: зберегти фото → public/articles/chotyry-roky-v-mori-frehaty/prydniprovska-tes.jpg */}
                   <img
-                    src="/articles/chotyry-roky-v-mori-frehaty/prydniprovska-tes.jpg"
+                    src="/articles/chotyry-roky-v-mori-frehaty/ТЕС.webp"
                     alt="Пошкодження Придніпровської ТЕС · 18.10.2022 · ДТЕК / Укренерго"
                     style={{
                       width: "100%",
@@ -1177,14 +1245,15 @@ export default function Page() {
                 </p>
 
                 <figure className="fig">
-                  {/* TODO: вставити YouTube ID → src="https://www.youtube.com/embed/VIDEO_ID?rel=0" */}
-                  <iframe
-                    src="https://www.youtube.com/embed/VIDEO_ID?rel=0"
-                    title="ВІДЕО · USV АТАКУЄ «МАКАРОВА» · 29.10.2022 · ВМС ЗСУ / СБУ"
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                    allowFullScreen
-                    loading="lazy"
-                    style={{ aspectRatio: "16/9", height: "auto" }}
+                  <img
+                    src="/articles/chotyry-roky-v-mori-frehaty/admiral-makarov-ataka.jpg"
+                    alt="ВІДЕО · USV АТАКУЄ «МАКАРОВА» · 29.10.2022 · ВМС ЗСУ / СБУ"
+                    style={{
+                      width: "100%",
+                      aspectRatio: "21/9",
+                      objectFit: "cover",
+                      display: "block",
+                    }}
                   />
                   <figcaption>
                     Кадри з борту морського дрона.{" "}
@@ -1207,7 +1276,15 @@ export default function Page() {
                 </p>
 
                 <div className="satfig">
-                  <div className="satfig__cell">
+                  <div
+                    className="satfig__cell"
+                    style={{
+                      backgroundImage:
+                        "url('/articles/chotyry-roky-v-mori-frehaty/makarov_buksyr.webp')",
+                      backgroundSize: "cover",
+                      backgroundPosition: "center",
+                    }}
+                  >
                     <div
                       className="blip"
                       style={{
@@ -1220,15 +1297,15 @@ export default function Page() {
                       SEVASTOPOL · 05:35 UTC · ФРЕГАТ НА БУКСИРІ
                     </div>
                   </div>
-                  <div className="satfig__cell">
-                    <div
-                      className="blip"
-                      style={{
-                        left: "30%",
-                        top: "55%",
-                        borderColor: "#5C7A95",
-                      }}
-                    ></div>
+                  <div
+                    className="satfig__cell"
+                    style={{
+                      backgroundImage:
+                        "url('/articles/chotyry-roky-v-mori-frehaty/makarov_sevas.jpeg')",
+                      backgroundSize: "cover",
+                      backgroundPosition: "center",
+                    }}
+                  >
                     <div className="tag">
                       SEVASTOPOL · 11:06 UTC · СТРІЛЕЦЬКА БУХТА
                     </div>
@@ -1276,44 +1353,25 @@ export default function Page() {
                 </div>
 
                 <div className="episode">
-                  <div className="episode__date">02.03.2026 · Новоросійськ</div>
-                  <h3 className="episode__h">Перший удар у Новоросійську</h3>
+                  <div className="episode__date">
+                    02.03.2026 · 06.04.2026 · Новоросійськ
+                  </div>
+                  <h3 className="episode__h">Удари у Новоросійську</h3>
                 </div>
 
                 <p>
                   У ніч на 2 березня 2026 року Сили безпеки і Сили оборони
                   України провели комбінований удар по Новоросійську. Серед
                   уражених кораблів — «Адмірал Ессен» і «Адмірал Макаров».
+                  Проте, не зважаючи на офіційні заяви щодо ураження Макарова,
+                  свідчень таких уражень через супутникові знімки та через інші
+                  джерела підтверджено не було.
                 </p>
 
-                <div className="episode">
-                  <div className="episode__date">06.04.2026 · Новоросійськ</div>
-                  <h3 className="episode__h">Другий удар — «Шесхаріс»</h3>
-                </div>
-
-                <figure className="fig">
-                  {/* TODO: вставити YouTube ID → src="https://www.youtube.com/embed/VIDEO_ID?rel=0" */}
-                  <iframe
-                    src="https://www.youtube.com/embed/VIDEO_ID?rel=0"
-                    title="КАДРИ · USV АТАКУЄ «МАКАРОВА» · 06.04.2026 · СБС / EXILENOVA+ / «МАДЯР»"
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                    allowFullScreen
-                    loading="lazy"
-                    style={{ aspectRatio: "16/9", height: "auto" }}
-                  />
-                  <figcaption>
-                    Безпілотники зайшли на ціль попри активну роботу ППО.{" "}
-                    <em>
-                      Пуски зенітних ракет велися безпосередньо з борту самого
-                      фрегата.
-                    </em>
-                  </figcaption>
-                </figure>
-
                 <p>
-                  У ніч на 6 квітня оператори 1-го окремого центру Сил
-                  безпілотних систем завдали удару по терміналу «Шесхаріс» у
-                  Новоросійську. За оцінкою Exilenova+,{" "}
+                  Менш ніж через місяць, у ніч на 6 квітня оператори 1-го
+                  окремого центру Сил безпілотних систем завдали удару по
+                  терміналу «Шесхаріс» у Новоросійську. За оцінкою Exilenova+,{" "}
                   <strong>фрегат був уражений щонайменше двічі</strong>: перше
                   влучання — у район вертикальних пускових установок УКСК 3С14;
                   друге — по портовій інфраструктурі поруч. «Адмірал Макаров»
@@ -1325,13 +1383,32 @@ export default function Page() {
                   </a>
                 </p>
 
+                <figure className="fig">
+                  <img
+                    src="/articles/chotyry-roky-v-mori-frehaty/makarov as aim.jpg"
+                    alt="КАДРИ · USV АТАКУЄ «МАКАРОВА» · 06.04.2026 · «МАДЯР»"
+                    style={{
+                      width: "100%",
+                      aspectRatio: "21/9",
+                      objectFit: "cover",
+                      display: "block",
+                    }}
+                  />
+                  <figcaption>
+                    Безпілотники зайшли на ціль попри активну роботу ППО.{" "}
+                    <em>
+                      Пуски зенітних ракет велися безпосередньо з борту самого
+                      фрегата.
+                    </em>
+                  </figcaption>
+                </figure>
+
                 <div className="commander">
-                  {/* TODO: зберегти фото → public/articles/chotyry-roky-v-mori-frehaty/captain breev.jpeg */}
                   <div
                     className="commander__photo"
                     style={{
                       backgroundImage:
-                        "url('chotyry-roky-v-mori-frehaty/captain breev.jpeg')",
+                        "url('chotyry-roky-v-mori-frehaty/breev.webp')",
                       backgroundSize: "cover",
                       backgroundPosition: "center top",
                     }}
@@ -1364,10 +1441,20 @@ export default function Page() {
                       <p>
                         У березні 2014 року Бреєв{" "}
                         <strong>
-                          відмовився переходити та присягнув ЗС РФ
+                          відмовився слідувати наказам українського командування
+                          та присягнув ЗС РФ.
                         </strong>
-                        . У відкритих джерелах публічних його коментарів про
+                        У відкритих джерелах публічних його коментарів про
                         мотиви цього рішення немає.
+                      </p>
+                      <p>
+                        Державне бюро розслідувань України оголосило Бреєву
+                        підозру у державній зраді — частина 1 статті 111
+                        Кримінального кодексу України. 31 серпня 2022 року
+                        слідство передало справу до суду з обвинувальним актом.
+                        <a className="ref" href="#ref-10">
+                          [10]
+                        </a>
                       </p>
                     </div>
                   </div>
@@ -1386,21 +1473,6 @@ export default function Page() {
                   . Більшість перебіжчиків залишилися на штабних або берегових
                   посадах.
                 </div>
-
-                <div className="episode">
-                  <div className="episode__date">14.06.2022 · Київ</div>
-                  <h3 className="episode__h">Підозра ДБР</h3>
-                </div>
-
-                <p>
-                  Державне бюро розслідувань України оголосило Бреєву підозру у
-                  державній зраді — частина 1 статті 111 Кримінального кодексу
-                  України. 31 серпня 2022 року слідство передало справу до суду
-                  з обвинувальним актом.
-                  <a className="ref" href="#ref-10">
-                    [10]
-                  </a>
-                </p>
               </div>
             </div>
           </section>
@@ -1846,6 +1918,10 @@ export default function Page() {
               </li>
               <li>
                 РИА «Новости». Залікові навчання Каспійської флотилії · 08.2025.
+              </li>
+              <li id="ref-12">
+                1-й окремий центр СБС ЗСУ / Роберт «Мадяр» Бровді. Четвертий
+                удар по «Адміралу Ессену» · Новоросійськ · 23.05.2026.
               </li>
             </ol>
           </section>
