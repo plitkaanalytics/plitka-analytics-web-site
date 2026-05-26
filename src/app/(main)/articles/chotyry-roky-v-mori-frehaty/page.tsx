@@ -47,8 +47,12 @@ export default function Page() {
           src="/embeds/black-fleet-frigates.html?noscroll"
           title="Ракетоносці Чорного моря і Каспію · пр. 11356Р + пр. 11661К"
           fallbackHeight={1050}
-          mobileFallbackHeight={600}
         />
+      </div>
+      <div className="infographic-mobile-note">
+        <p className="infographic-mobile-note__text">
+          Інтерактивна хронологія доступна лише на десктопі — відкрийте цю сторінку з комп'ютера або планшета в горизонтальному режимі.
+        </p>
       </div>
 
       {/* TOC + article body */}

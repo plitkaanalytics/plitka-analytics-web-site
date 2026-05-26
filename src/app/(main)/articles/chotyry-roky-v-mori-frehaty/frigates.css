@@ -85,6 +85,46 @@
   overflow: hidden;
 }
 
+.infographic-mobile-note {
+  display: none;
+  position: relative;
+  min-height: 220px;
+  background-image: url('/articles/chotyry-roky-v-mori-frehaty/cover.jpg');
+  background-size: cover;
+  background-position: center;
+  border-top: 1px solid var(--rule);
+  border-bottom: 1px solid var(--rule);
+}
+
+.infographic-mobile-note::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.55);
+}
+
+.infographic-mobile-note__text {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 220px;
+  padding: 24px var(--gutter);
+  color: #fff;
+  font-size: 0.95rem;
+  line-height: 1.55;
+  text-align: center;
+}
+
+@media (max-width: 767px) {
+  .infographic-embed {
+    display: none;
+  }
+  .infographic-mobile-note {
+    display: block;
+  }
+}
+
 /* ===== Hero: 4-year frigate status strip ===== */
 
 .hero-strip {
