@@ -34,18 +34,26 @@ export default function HomePage() {
             <div className="hero__grid">
               <article className="hero__lead">
                 {hero.leadMapUrl ? (
-                  <div style={{
-                    marginBottom: '24px',
-                    borderTop: '3px solid var(--navy)',
-                    overflow: 'hidden',
-                  }}>
-                    <iframe
-                      src="/embeds/black-fleet-frigates.html?nomap&embed"
-                      title="Ракетоносці Чорного моря і Каспію"
-                      style={{ width: '100%', height: '447px', display: 'block', border: 'none' }}
-                      scrolling="no"
-                    />
-                  </div>
+                  <>
+                    <div className="lead-map" style={{
+                      marginBottom: '24px',
+                      borderTop: '3px solid var(--navy)',
+                      overflow: 'hidden',
+                    }}>
+                      <iframe
+                        src="/embeds/black-fleet-frigates.html?nomap&embed"
+                        title="Ракетоносці Чорного моря і Каспію"
+                        style={{ width: '100%', height: '447px', display: 'block', border: 'none' }}
+                        scrolling="no"
+                      />
+                    </div>
+                    {hero.leadImage && (
+                      <div className="lead-map-mobile" style={{ marginBottom: '24px' }}>
+                        <img src={hero.leadImage} alt={hero.title} style={{ width: '100%', display: 'block' }} />
+                        <p className="lead-map-mobile__note">Інтерактивна хронологія доступна лише на десктопі</p>
+                      </div>
+                    )}
+                  </>
                 ) : hero.leadImage ? (
                   <img src={hero.leadImage} alt={hero.title} style={{ width: '100%', display: 'block', marginBottom: '24px' }} />
                 ) : (
