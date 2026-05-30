@@ -5,7 +5,7 @@
 :root {
   --navy: #0e1b2a;
   --red: #c44a08;
-  --rust: #8c2d04;
+  --rust: #c44a08;
   --steelB: #1f4e78;
   --slate: #5c6b7a;
   --cream: #fce4d6;
@@ -221,7 +221,7 @@ p {
 /* ===== Sub-strip with section title and date ===== */
 
 .substrip {
-  background: var(--steelB);
+  background: var(--red);
   color: #deebf7;
 }
 .substrip__inner {
@@ -264,7 +264,7 @@ p {
   gap: 24px;
   margin-bottom: 32px;
   padding-bottom: 12px;
-  border-bottom: 3px double var(--navy);
+  border-bottom: 2px solid var(--navy);
 }
 .section__title {
   font-family: var(--serif);
@@ -431,11 +431,11 @@ p {
   margin: 0 auto;
   padding: 0 var(--gutter);
   display: grid;
-  grid-template-columns: 2fr 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
   gap: 48px;
 }
 .footer h4 {
-  color: #fff;
+  color: var(--red);
   font-family: var(--mono);
   font-size: 11px;
   letter-spacing: 0.18em;
@@ -462,7 +462,6 @@ p {
 .footer__brand p {
   color: #b8c4d2;
   font-size: 14px;
-  max-width: 32ch;
   line-height: 1.5;
 }
 .footer__logo .logo__word {
@@ -569,7 +568,7 @@ p {
 
 .hr-double {
   border: 0;
-  border-top: 3px double var(--navy);
+  border-top: 2px solid var(--navy);
   margin: 32px 0;
 }
 

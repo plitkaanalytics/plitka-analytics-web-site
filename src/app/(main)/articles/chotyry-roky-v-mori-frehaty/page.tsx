@@ -298,7 +298,7 @@ export default function Page() {
 
                 <figure className="fig">
                   <img
-                    src="chotyry-roky-v-mori-frehaty/empty_tartus.webp"
+                    src="/articles/chotyry-roky-v-mori-frehaty/empty_tartus.webp"
                     alt="Супутниковий знімок Planet Labs, опублікований MT Anderson"
                   />
                   <figcaption>
@@ -445,7 +445,7 @@ export default function Page() {
                     className="satfig__cell"
                     style={{
                       backgroundImage:
-                        "url('chotyry-roky-v-mori-frehaty/428A6090  Foreground RFN Admiral Grigorovich FFG494 ADMIRAL GRIGOROVICH background RFA TIDEFORCE 1.jpg')",
+                        "url('/articles/chotyry-roky-v-mori-frehaty/428A6090  Foreground RFN Admiral Grigorovich FFG494 ADMIRAL GRIGOROVICH background RFA TIDEFORCE 1.jpg')",
                       backgroundSize: "cover",
                       backgroundPosition: "center",
                     }}
@@ -458,7 +458,7 @@ export default function Page() {
                     className="satfig__cell"
                     style={{
                       backgroundImage:
-                        "url('chotyry-roky-v-mori-frehaty/Grigorovich and Universal.jpg')",
+                        "url('/articles/chotyry-roky-v-mori-frehaty/Grigorovich and Universal.jpg')",
                       backgroundSize: "cover",
                       backgroundPosition: "center",
                     }}
@@ -491,7 +491,7 @@ export default function Page() {
                     className="commander__photo"
                     style={{
                       backgroundImage:
-                        "url('chotyry-roky-v-mori-frehaty/captain Aksionov.jpeg')",
+                        "url('/articles/chotyry-roky-v-mori-frehaty/captain aksionov.jpeg')",
                       backgroundSize: "cover",
                       backgroundPosition: "center top",
                     }}
@@ -1071,7 +1071,7 @@ export default function Page() {
                     className="commander__photo"
                     style={{
                       backgroundImage:
-                        "url('chotyry-roky-v-mori-frehaty/Aleksandr-Smirnov_65ce722802817.jpg')",
+                        "url('/articles/chotyry-roky-v-mori-frehaty/Aleksandr-Smirnov_65ce722802817.jpg')",
                       backgroundSize: "cover",
                       backgroundPosition: "center top",
                     }}
@@ -1413,7 +1413,7 @@ export default function Page() {
                     className="commander__photo"
                     style={{
                       backgroundImage:
-                        "url('chotyry-roky-v-mori-frehaty/breev.webp')",
+                        "url('/articles/chotyry-roky-v-mori-frehaty/breev.webp')",
                       backgroundSize: "cover",
                       backgroundPosition: "center top",
                     }}
@@ -1572,7 +1572,7 @@ export default function Page() {
                     className="commander__photo"
                     style={{
                       backgroundImage:
-                        "url('chotyry-roky-v-mori-frehaty/podeneshnyi.jpg')",
+                        "url('/articles/chotyry-roky-v-mori-frehaty/podeneshnyi.jpg')",
                       backgroundSize: "cover",
                       backgroundPosition: "center top",
                     }}
@@ -1842,7 +1842,7 @@ export default function Page() {
                     className="commander__photo"
                     style={{
                       backgroundImage:
-                        "url('chotyry-roky-v-mori-frehaty/dadev.jpg')",
+                        "url('/articles/chotyry-roky-v-mori-frehaty/dadev.jpg')",
                       backgroundSize: "cover",
                       backgroundPosition: "center top",
                     }}

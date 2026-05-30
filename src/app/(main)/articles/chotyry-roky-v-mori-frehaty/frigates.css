@@ -89,7 +89,7 @@
   display: none;
   position: relative;
   min-height: 220px;
-  background-image: url('/articles/chotyry-roky-v-mori-frehaty/cover.jpg');
+  background-image: url("/articles/chotyry-roky-v-mori-frehaty/cover.jpg");
   background-size: cover;
   background-position: center;
   border-top: 1px solid var(--rule);
@@ -97,7 +97,7 @@
 }
 
 .infographic-mobile-note::before {
-  content: '';
+  content: "";
   position: absolute;
   inset: 0;
   background: rgba(0, 0, 0, 0.55);
@@ -237,7 +237,7 @@
   gap: 26px;
   align-items: end;
   padding-bottom: 14px;
-  border-bottom: 3px double var(--navy);
+  border-bottom: 2px solid var(--navy);
 }
 .ship__num {
   font-family: var(--mono);
@@ -378,7 +378,7 @@
 .ship-grid__rail {
   margin-top: 44px;
   padding-top: 28px;
-  border-top: 3px double var(--navy);
+  border-top: 2px solid var(--navy);
   display: grid;
   gap: 24px;
 }
