@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Russian Inland Waterways</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html, body, #map { width: 100%; height: 100%; }
+
+  /* Desaturate tiles */
+  .leaflet-tile-pane {
+    filter: saturate(0.15) brightness(1.05) contrast(0.95);
+  }
+
+  /* Title bar */
+  .map-title {
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    z-index: 1000;
+    background: rgba(14, 27, 42, 0.90);
+    padding: 8px 14px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    pointer-events: none;
+  }
+  .map-title h2 {
+    font-family: Georgia, serif;
+    font-size: 12px;
+    font-weight: 700;
+    color: #fff;
+    letter-spacing: 0.3px;
+  }
+  .map-title span {
+    font-family: sans-serif;
+    font-size: 8.5px;
+    color: #7a8896;
+  }
+
+  /* Legend */
+  .legend {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    left: 10px;
+    z-index: 1000;
+    background: rgba(255, 255, 255, 0.97);
+    border: 1px solid #d7dee5;
+    padding: 10px 13px;
+    pointer-events: none;
+  }
+  .leg-title {
+    font-family: Arial, sans-serif;
+    font-size: 8px;
+    font-weight: 700;
+    letter-spacing: 1.2px;
+    color: #0e1b2a;
+    margin-bottom: 8px;
+  }
+  .leg-row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 6px;
+    white-space: nowrap;
+  }
+  .leg-row:last-child { margin-bottom: 0; }
+  .leg-dash {
+    width: 34px; height: 3px; flex-shrink: 0;
+    background: repeating-linear-gradient(
+      90deg, var(--c) 0, var(--c) 8px, transparent 8px, transparent 13px
+    );
+  }
+  .leg-solid { width: 34px; height: 3px; flex-shrink: 0; border-radius: 2px; }
+  .leg-dot {
+    width: 10px; height: 10px;
+    border-radius: 50%;
+    border: 1.5px solid #fff;
+    flex-shrink: 0;
+  }
+  .leg-txt {
+    font-family: 'Segoe UI', sans-serif;
+    font-size: 10px;
+    color: #0e1b2a;
+  }
+
+  /* Labels */
+  .lbl-sea {
+    background: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
+    font-family: 'Segoe UI', sans-serif;
+    font-size: 11px;
+    font-weight: 700;
+    color: #1a3d5c;
+    letter-spacing: 1px;
+    text-shadow:
+       1px  1px 0 rgba(255,255,255,0.95),
+      -1px  1px 0 rgba(255,255,255,0.95),
+       1px -1px 0 rgba(255,255,255,0.95),
+      -1px -1px 0 rgba(255,255,255,0.95),
+       0    0   8px rgba(255,255,255,0.8);
+    white-space: nowrap;
+    text-align: center;
+    line-height: 1.35;
+  }
+  .lbl-canal {
+    background: #c8102e !important;
+    border: none !important;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.25) !important;
+    border-radius: 3px;
+    padding: 2px 7px !important;
+    font-family: Arial, sans-serif;
+    font-size: 9px;
+    font-weight: 700;
+    color: #fff;
+    letter-spacing: 0.8px;
+    white-space: nowrap;
+  }
+  .lbl-blocked {
+    background: rgba(80, 95, 108, 0.9) !important;
+    border: none !important;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.25) !important;
+    border-radius: 3px;
+    padding: 2px 7px !important;
+    font-family: Arial, sans-serif;
+    font-size: 9px;
+    font-weight: 700;
+    color: #fff;
+    letter-spacing: 0.8px;
+    white-space: nowrap;
+  }
+
+  .leaflet-control-zoom {
+    margin-top: 44px !important;
+    border: 1px solid #d7dee5 !important;
+    box-shadow: none !important;
+  }
+  .leaflet-control-zoom a { color: #0e1b2a !important; }
+  .leaflet-control-attribution {
+    font-size: 7px !important;
+    background: rgba(255,255,255,0.75) !important;
+  }
+</style>
+</head>
+<body>
+
+<div class="map-title">
+  <h2>Russian Inland Waterways — connecting naval theatres</h2>
+  <span>© OpenStreetMap contributors</span>
+</div>
+
+<div id="map"></div>
+
+<div class="legend">
+  <div class="leg-title">LEGEND</div>
+  <div class="leg-row">
+    <div class="leg-dash" style="--c:#c8102e;"></div>
+    <span class="leg-txt">Inland waterway</span>
+  </div>
+  <div class="leg-row">
+    <div class="leg-solid" style="background:#5a9bc2; opacity:0.6;"></div>
+    <span class="leg-txt">Volga River</span>
+  </div>
+  <div class="leg-row">
+    <div class="leg-dash" style="--c:#6b7a88;"></div>
+    <span class="leg-txt">Bosphorus — closed since 27.02.2022</span>
+  </div>
+  <div class="leg-row">
+    <div class="leg-dot" style="background:#c8102e;"></div>
+    <span class="leg-txt">Key city / port</span>
+  </div>
+</div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script>
+const map = L.map('map', {
+  center: [50, 36],
+  zoom: 4,
+  zoomControl: true,
+  attributionControl: true,
+  scrollWheelZoom: false,
+});
+
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+  attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+  maxZoom: 8, minZoom: 3,
+}).addTo(map);
+
+const S_SEA     = 'font-family:sans-serif;font-size:11px;font-weight:700;color:#1a3d5c;letter-spacing:1px;white-space:nowrap;text-align:center;line-height:1.35;pointer-events:none;background:rgba(255,255,255,0.82);padding:2px 6px;border-radius:2px';
+const S_CANAL   = 'font-family:sans-serif;font-size:9px;font-weight:700;color:#fff;letter-spacing:0.8px;white-space:nowrap;background:#c8102e;border-radius:3px;padding:2px 7px;box-shadow:0 1px 4px rgba(0,0,0,.25);pointer-events:none';
+const S_BLOCKED = 'font-family:sans-serif;font-size:9px;font-weight:700;color:#fff;letter-spacing:0.8px;white-space:nowrap;background:rgba(80,95,108,0.9);border-radius:3px;padding:2px 7px;box-shadow:0 1px 4px rgba(0,0,0,.25);pointer-events:none';
+
+const STYLES = { 'lbl-sea': S_SEA, 'lbl-canal': S_CANAL, 'lbl-blocked': S_BLOCKED };
+
+function lbl(latlng, html, cls, anchor) {
+  const s = STYLES[cls] || S_SEA;
+  return L.marker(latlng, {
+    icon: L.divIcon({ className: '', html: `<span style="${s}">${html}</span>`, iconAnchor: anchor || [0, 0], iconSize: [1, 1] }),
+    interactive: false, keyboard: false,
+  }).addTo(map);
+}
+
+// Volga river
+L.polyline([
+  [58.0, 38.2], [56.3, 43.9], [55.8, 48.0],
+  [53.2, 50.1], [51.5, 46.0], [48.7, 44.5],
+  [46.4, 48.0],
+], { color: '#5a9bc2', weight: 4, opacity: 0.45, lineCap: 'round' }).addTo(map);
+
+// Volgo-Balt canal
+L.polyline([
+  [58.0, 38.2],
+  [59.1, 37.8],
+  [60.2, 37.1],
+  [61.8, 35.5],
+  [61.0, 32.8],
+  [60.1, 32.0],
+  [59.9, 30.3],
+], {
+  color: '#c8102e', weight: 3.5, opacity: 0.95,
+  dashArray: '11 6', lineCap: 'round', lineJoin: 'round',
+}).addTo(map);
+
+// Volgo-Don canal
+L.polyline([
+  [48.7, 44.5],
+  [48.7, 43.5],
+  [47.8, 41.8],
+  [47.2, 40.3],
+  [46.8, 38.0],
+  [46.6, 37.2],
+  [45.8, 36.6],
+  [45.4, 36.4],
+  [44.6, 34.8],
+], {
+  color: '#c8102e', weight: 3.5, opacity: 0.95,
+  dashArray: '11 6', lineCap: 'round', lineJoin: 'round',
+}).addTo(map);
+
+// Bosphorus (blocked)
+L.polyline([
+  [41.2, 29.1],
+  [41.0, 28.9],
+], {
+  color: '#6b7a88', weight: 5, opacity: 0.9,
+  dashArray: '6 4', lineCap: 'round',
+}).addTo(map);
+
+// City dots
+[[59.95, 30.32], [48.71, 44.51], [46.35, 48.04],
+ [47.23, 39.72], [45.35, 36.47], [41.01, 28.97]].forEach(ll => {
+  L.circleMarker(ll, {
+    radius: 5.5, color: 'white', weight: 1.8,
+    fillColor: '#c8102e', fillOpacity: 1, interactive: false,
+  }).addTo(map);
+});
+
+// Sea labels
+lbl([57.5, 19.5],  'BALTIC<br>SEA',      'lbl-sea', [50, 16]);
+lbl([65.2, 36.0],  'WHITE SEA',          'lbl-sea', [42,  8]);
+lbl([43.0, 33.5],  'BLACK SEA',          'lbl-sea', [48,  8]);
+lbl([46.2, 36.0],  'SEA OF AZOV',        'lbl-sea', [48,  8]);
+lbl([41.5, 52.5],  'CASPIAN<br>SEA',     'lbl-sea', [52, 16]);
+
+// Canal labels
+lbl([61.5, 34.0],  'VOLGA-BALT',  'lbl-canal',   [40, 8]);
+lbl([47.5, 40.8],  'VOLGA-DON',   'lbl-canal',   [40, 8]);
+lbl([41.1, 28.6],  'BOSPHORUS →', 'lbl-blocked', [40, 8]);
+</script>
+</body>
+</html>

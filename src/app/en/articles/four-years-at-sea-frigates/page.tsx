@@ -127,9 +127,9 @@ export default function Page() {
             movements and strikes.
           </p>
 
-          <div className="method">
-            <div className="method__label">Methodology</div>
-            <div className="method__body">
+          <div className="methodology">
+            <h3>Methodology</h3>
+            <p>
               This piece distinguishes between confirmed and unconfirmed
               episodes.{" "}
               <strong>Confirmed</strong> means verified by at least one source
@@ -138,7 +138,7 @@ export default function Page() {
               analyses with satellite imagery or drone strike footage. Episodes
               circulating in the public domain without such verification are
               explicitly marked &ldquo;<em>unconfirmed</em>&rdquo;.
-            </div>
+            </p>
           </div>
 
           {/* ===== § 01 — 11356R ===== */}

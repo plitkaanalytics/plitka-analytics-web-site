@@ -124,9 +124,9 @@ export default function Page() {
             ударів.
           </p>
 
-          <div className="method">
-            <div className="method__label">Методологія</div>
-            <div className="method__body">
+          <div className="methodology">
+            <h3>Методологія</h3>
+            <p>
               У матеріалі розмежовано підтверджені й непідтверджені епізоди.{" "}
               <strong>Підтвердженими</strong> ми вважаємо ті, що верифіковані
               хоча б одним джерелом рівня: ВМС ЗСУ, ГУР МО, СБУ,
@@ -135,7 +135,7 @@ export default function Page() {
               дронів. Епізоди, які циркулюють у публічному просторі без такого
               підтвердження, наводяться з прямою позначкою «
               <em>не підтверджено</em>».
-            </div>
+            </p>
           </div>
 
           {/* ===== § 01 — 11356Р ===== */}
@@ -1923,23 +1923,23 @@ export default function Page() {
           </p>
 
           <Link
-            href="/articles"
+            href="/articles/chotyry-roky-v-mori-buyan-m"
             className="next-up"
             style={{ textDecoration: "none", border: "none" }}
           >
             <span className="next-up__label">
               Наступний матеріал
               <br />
-              Vol. 04
+              Vol. 02
             </span>
             <div>
               <div className="next-up__title">
-                Чотири роки в морі. Частина 2 — МРК і підводні човни
+                Чотири роки в морі. Частина 2 — МРК «Буян-М»
               </div>
               <p className="next-up__dek">
-                «Буян-М», «Каракурт», «Варшав'янка»: 17 корпусів, два знищених,
-                дві передислокації між флотами і нова норма української
-                розвідки.
+                Дванадцять корпусів, три флоти, одна диверсія і удар в
+                Онезькому озері. Хроніка кожного «Буяна-М» від лютого 2022 до
+                травня 2026.
               </p>
             </div>
             <span className="btn btn--red">Читати →</span>
