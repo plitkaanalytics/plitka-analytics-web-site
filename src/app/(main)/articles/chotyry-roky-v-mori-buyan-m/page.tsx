@@ -2,6 +2,7 @@ import "../chotyry-roky-v-mori-frehaty/frigates.css";
 import type { Metadata } from "next";
 import Link from "next/link";
 import { getAllArticles, getArticleBySlug, formatDate } from "@/lib/articles";
+import { AutoFrame } from "@/components/AutoFrame";
 
 export const metadata: Metadata = {
   title: "Чотири роки в морі. Частина 2 — МРК «Буян-М» · PLITKA Analytics",
@@ -24,8 +25,9 @@ export default function Page() {
           Чотири роки в морі. Хроніка ракетоносців ВМФ РФ у війні 2022–2026
         </h1>
         <p className="article-head__dek">
-          Що сталося з кожною платформою-носієм «Калібру» від лютого 2022 року:
-          пуски, удари по носіях, переміщення, втрати.
+          Частина 1 — МРК "Буян-М". Що сталося з кожною платформою-носієм
+          «Калібру» від лютого 2022 року: пуски, удари по носіях, переміщення,
+          втрати.
         </p>
         <div className="article-head__meta">
           <div>
@@ -45,24 +47,19 @@ export default function Page() {
         </div>
       </div>
 
-      {/* ============ LEAD · THEATRE MAP (placeholder under interactive embed) ============ */}
-      <div className="lead-img">
-        <div className="ph ph--dark ph__cross">
-          <div className="ph__corners"></div>
-          <span className="ph__label">
-            ✦ Інтерактивна карта · театри та внутрішні водні шляхи
-            <br />
-            /maps/buyan-m/theatres.html — місце під ембед
-          </span>
-        </div>
-        <div className="lead-img__caption">
-          <span>
-            Чотири театри ВМФ РФ — Балтика, Біле море, Каспій, Чорне море —
-            з’єднані мережею внутрішніх водних шляхів (Волго-Дон, Волго-Балт,
-            Біломоро-Балтійський канал).
-          </span>
-          <span>PLITKA · інтерактивна карта</span>
-        </div>
+      {/* ============ INFOGRAPHIC EMBED ============ */}
+      <div className="infographic-embed">
+        <AutoFrame
+          src="/embeds/buyan-m.html?noscroll"
+          title="МРК «Буян-М» пр. 21631 · хроніка переміщень і уражень 2013–2026"
+          fallbackHeight={1050}
+        />
+      </div>
+      <div className="infographic-mobile-note">
+        <p className="infographic-mobile-note__text">
+          Інтерактивна хронологія доступна лише на десктопі — відкрийте цю
+          сторінку з комп’ютера або планшета в горизонтальному режимі.
+        </p>
       </div>
 
       {/* ============ ARTICLE BODY ============ */}
@@ -78,7 +75,6 @@ export default function Page() {
           кілометрів і ракет «Онікс». Вісім ракет у вертикальній пусковій
           установці УКСК 3С14 — стільки ж, скільки на «Каракуртах».
         </p>
-
         <div className="ministats">
           <div className="ministats__c">
             <div className="ministats__v">
@@ -117,7 +113,6 @@ export default function Page() {
             <div className="ministats__k">Серія, 2010–2026</div>
           </div>
         </div>
-
         <p>
           З погляду тактичної ролі — це{" "}
           <strong>відносно недорога платформа доставки крилатих ракет</strong>,
@@ -129,13 +124,11 @@ export default function Page() {
           Білого моря в Балтику. Саме ця особливість і визначила специфічну долю
           серії під час повномасштабної війни проти України.
         </p>
-
         <p>
           За дванадцять років існування проєкту «Буяни-М» розподілилися між
           декількома театрами бойових дій — і саме географія, а не бойові
           втрати, стала головним сюжетом серії у цій війні.
         </p>
-
         <h4>Серія 21631 · розподіл за театрами на травень 2026</h4>
         <table>
           <thead>
@@ -258,7 +251,6 @@ export default function Page() {
             </tr>
           </tbody>
         </table>
-
         <p>
           Ця стаття —{" "}
           <strong>
@@ -270,13 +262,11 @@ export default function Page() {
           травня 2026-го з реконструкцією ключових епізодів за відкритими
           джерелами.
         </p>
-
         {/* ===================== § 02 · ЧОРНЕ МОРЕ ===================== */}
         <h2>
           <span className="h2-num">§ 02 · Чорне море</span>Чорноморська група:
           четвірка, що пройшла Севастополь, Тартус і Темрюк
         </h2>
-
         <p>
           На день повномасштабного вторгнення до Чорноморського флоту формально
           приписані чотири кораблі проєкту 21631 — «Вышний Волочёк»,
@@ -288,7 +278,6 @@ export default function Page() {
           або «Онікс», з осадкою 2,5 метра й офіційним статусом річково-морських
           — здатних проходити шлюзами Волго-Донського каналу.
         </p>
-
         <p>
           Через західні санкції, під час будівництва німецькі дизельні двигуни
           були замінені на китайські. Однак, під час випробувань було виявлено
@@ -297,7 +286,6 @@ export default function Page() {
           були вирішені і перші кораблі серії вже офіційно були передані до
           складу Чорноморського флоту.
         </p>
-
         <p>
           Утім, навіть ця четвірка на день вторгнення не повна. Один із
           номінально чорноморських кораблів — <strong>«Орехово-Зуєво»</strong> —
@@ -307,7 +295,6 @@ export default function Page() {
           <strong>три боєздатних «Буяни-М» Чорноморського флоту</strong>:
           «Вышний Волочёк», «Інгушетія», «Грайворон».
         </p>
-
         <p>
           Проте, протягом 2022 року в Чорному морі фіксується робота МРК{" "}
           <strong>«Великий Устюг»</strong>, який формально належить Каспійській
@@ -316,7 +303,6 @@ export default function Page() {
           2022 року. Але саме на чорноморсько-азовському театрі його спіткала
           перша поразка серії.
         </p>
-
         <h3>Корабель-фантом: «Орехово-Зуєво» після Босфору</h3>
         <p>
           Сьомий корабель серії, «Орехово-Зуєво», вийшов із Севастополя і
@@ -357,21 +343,21 @@ export default function Page() {
           статус досі не змінено: офіційно «Орехово-Зуєво» залишається кораблем
           Чорноморського флоту.
         </p>
-
         <h3>Перші пуски війни</h3>
         <figure className="fig">
-          <div
-            className="ph ph--dark ph__cross"
-            style={{ aspectRatio: "16/9" }}
-          >
-            <div className="ph__corners"></div>
-            <span className="ph__label">
-              ▶ Відео · 28.03.2022 — пуск «Калібрів» з МРК пр. 21631, МО РФ
-            </span>
-          </div>
+          <iframe
+            src="https://www.youtube.com/embed/npt2lnNvlTQ?rel=0"
+            title="Пуски Калібрів з борту МРК типу «Буян-М». Публікація МО РФ. 23 березня 2022 р."
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowFullScreen
+            loading="lazy"
+            style={{ aspectRatio: "16/9", height: "auto" }}
+          />
           <figcaption>
-            Перше публічне відеопідтвердження бойового застосування МРК «Буян-М»
-            проти України. <em>Місце під відео.</em>
+            Дрон-камікадзе заходить на «Ессен» попри активне ППО.{" "}
+            <em>
+              Відео опубліковано командувачем СБС Робертом «Мадяром» Бровді.
+            </em>
           </figcaption>
         </figure>
         <p>
@@ -395,7 +381,6 @@ export default function Page() {
           України Дмитро Плетенчук неодноразово фіксують МРК «Буян-М»
           Чорноморського флоту як активних учасників ракетного обстрілу.
         </p>
-
         <h3>Перше ураження «Буяну»</h3>
         <p>
           17 червня 2022 року з’являється фотографія «Великого Устюга», якого
@@ -413,17 +398,29 @@ export default function Page() {
               gap: "12px",
             }}
           >
-            <div className="ph" style={{ aspectRatio: "4/3" }}>
-              <div className="ph__corners"></div>
-              <span className="ph__label">
-                Фото · буксирування Волгою · 17.06.2022
-              </span>
+            <div
+              className="satfig__cell"
+              style={{
+                backgroundImage:
+                  "url('/articles/chotyry-roky-v-mori-buyan-m/On_volga_damaged_2.png')",
+                backgroundSize: "cover",
+                backgroundPosition: "center",
+              }}
+            >
+              <div className="tag">Фото · буксирування Волгою · 17.06.2022</div>
             </div>
-            <div className="ph" style={{ aspectRatio: "4/3" }}>
-              <div className="ph__corners"></div>
-              <span className="ph__label">
+            <div
+              className="satfig__cell"
+              style={{
+                backgroundImage:
+                  "url('/articles/chotyry-roky-v-mori-buyan-m/On_volga_damaged_1.png')",
+                backgroundSize: "cover",
+                backgroundPosition: "center",
+              }}
+            >
+              <div className="tag">
                 Фото · пошкодження надбудови (airbase.ru)
-              </span>
+              </div>
             </div>
           </div>
           <figcaption>
@@ -470,7 +467,6 @@ export default function Page() {
           обсяг відновлення. На травень 2026 «Великий Устюг» — у строю на
           Каспії.
         </p>
-
         <h3>Вибух на рейді: «Морський малюк» чи навчання?</h3>
         <div className="callout callout--warn">
           <span className="callout__label">Не верифіковано</span>
@@ -505,8 +501,23 @@ export default function Page() {
           відеоматеріалу, який би підтвердив пошкодження корабля; ВМС ЗС України
           публічно цей епізод також не коментували.
         </p>
-
         <h3>Севастопольський період і ротації, 2022–2023</h3>
+        <figure className="fig">
+          <img
+            src="/articles/chotyry-roky-v-mori-buyan-m/vyshniy_volochek_67.jpg"
+            alt="Фото · МРК пр. 21631 «Вишній Волчек» заходить до Севастопольської бухти · 23.09.2022"
+            style={{
+              width: "100%",
+              aspectRatio: "21/9",
+              objectFit: "cover",
+              display: "block",
+            }}
+          />
+          <figcaption>
+            МРК пр. 21631 "Вишній Волчек" заходить до Севастопольської бухти ·
+            23.09.2022{" "}
+          </figcaption>
+        </figure>
         <p>
           Протягом 2022 і 2023 років боєздатні МРК Чорноморського флоту
           базуються в Південній бухті Севастополя. Кораблі ротуються через
@@ -517,23 +528,8 @@ export default function Page() {
         </p>
         <div className="episode">
           <span className="episode__date">23.07.2022 · Севастополь</span>
-          <h3 className="episode__h">Архівне фото з Чорноморського флоту</h3>
+          <h3 className="episode__h">Перебазування у Новоросійськ</h3>
         </div>
-        <figure className="fig">
-          <div className="ph" style={{ aspectRatio: "16/9" }}>
-            <div className="ph__corners"></div>
-            <span className="ph__label">
-              Фото · МРК пр. 21631 заходить до Севастопольської бухти ·
-              23.07.2022
-            </span>
-          </div>
-          <figcaption>
-            <em>
-              Один із чотирьох ЧФ-«Буянів» — конкретний корабель за фото не
-              ідентифікований. Місце під фото.
-            </em>
-          </figcaption>
-        </figure>
         <p>
           Восени 2023 року, після ударів Storm Shadow по Севастополю — по
           великому десантному кораблю «Мінськ» і дизельному підводному човну
@@ -549,7 +545,6 @@ export default function Page() {
           — це найбільша зміна базування Чорноморського флоту за час
           повномасштабної війни.
         </p>
-
         <h3>Новоросійський період, з 10.2023</h3>
         <p>
           Перехід ЧФ-«Буянів» до Новоросійська міняє оперативну логіку. Якщо
@@ -587,7 +582,6 @@ export default function Page() {
           Саме у Темрюцькій затоці у 2025 році відбудуться обидва найбільш
           задокументовані інциденти із чорноморськими «Буянами».
         </p>
-
         <div className="episode">
           <span className="episode__date">07.08.2025 · Темрюцька затока</span>
           <h3 className="episode__h">«Вышний Волочёк» і танкер «Назан»</h3>
@@ -613,24 +607,21 @@ export default function Page() {
           серпні–вересні 2025 року корабель не фігурує в публічних звітах ЧФ;
           інші ЧФ-«Буяни» продовжують виходити на чергування.
         </p>
-
         <div className="episode">
           <span className="episode__date">28.08.2025 · Темрюцька затока</span>
           <h3 className="episode__h">Операція «Примар»: дрон у РЛС</h3>
         </div>
         <figure className="fig">
-          <div
-            className="ph ph--dark ph__cross"
-            style={{ aspectRatio: "16/9" }}
-          >
-            <div className="ph__corners"></div>
-            <span className="ph__label">
-              ▶ Відео · 28.08.2025 — влучання БпЛА в РЛС МРК пр. 21631, ГУР МО
-            </span>
-          </div>
+          <iframe
+            src="https://www.youtube.com/embed/CDQYB58SUBg?rel=0"
+            title="▶ Відео · 28.08.2025 — влучання БпЛА в РЛС МРК пр. 21631, ГУР МО"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowFullScreen
+            loading="lazy"
+            style={{ aspectRatio: "16/9", height: "auto" }}
+          />
           <figcaption>
-            Кадри з повітряного дрона, опубліковані ГУР МО України.{" "}
-            <em>Місце під відео.</em>
+            Кадри з повітряного дрона, опубліковані ГУР МО України.
           </figcaption>
         </figure>
         <p>
@@ -658,9 +649,7 @@ export default function Page() {
           відповідно, інцидент з зіткненням "Вишнього Волочека" міг бути одним
           епізодом з дроновою атакою.
         </p>
-
         <h3>Командири МРК Чорноморської групи</h3>
-
         <h4>«Вышний Волочёк»</h4>
         <details className="expander">
           <summary>Денис Сухар · держзрада</summary>
@@ -672,10 +661,16 @@ export default function Page() {
                 margin: "2px 0 14px 20px",
               }}
             >
-              <div className="ph" style={{ aspectRatio: "3/4" }}>
-                <div className="ph__corners"></div>
-                <span className="ph__label">Фото · Денис Сухар</span>
-              </div>
+              <div
+                className="ph"
+                style={{
+                  aspectRatio: "3/4",
+                  backgroundImage:
+                    "url('/articles/chotyry-roky-v-mori-buyan-m/denys_suhar.jpg')",
+                  backgroundSize: "cover",
+                  backgroundPosition: "center top",
+                }}
+              ></div>
             </div>
             <p>
               <strong>
@@ -705,7 +700,6 @@ export default function Page() {
             </p>
           </div>
         </details>
-
         <h4>«Інгушетія»</h4>
         <details className="expander">
           <summary>Олександр Єрмоленко · з 2019</summary>
@@ -717,10 +711,16 @@ export default function Page() {
                 margin: "2px 0 14px 20px",
               }}
             >
-              <div className="ph" style={{ aspectRatio: "3/4" }}>
-                <div className="ph__corners"></div>
-                <span className="ph__label">Фото · Олександр Єрмоленко</span>
-              </div>
+              <div
+                className="ph"
+                style={{
+                  aspectRatio: "3/4",
+                  backgroundImage:
+                    "url('/articles/chotyry-roky-v-mori-buyan-m/yermolenko.jpg')",
+                  backgroundSize: "cover",
+                  backgroundPosition: "center top",
+                }}
+              ></div>
             </div>
             <p>
               Народився в Севастополі, на момент призначення командиром
@@ -738,7 +738,6 @@ export default function Page() {
             </p>
           </div>
         </details>
-
         <h4>«Грайворон»</h4>
         <details className="expander">
           <summary>Гліб Козаков · з 2021</summary>
@@ -750,10 +749,16 @@ export default function Page() {
                 margin: "2px 0 14px 20px",
               }}
             >
-              <div className="ph" style={{ aspectRatio: "3/4" }}>
-                <div className="ph__corners"></div>
-                <span className="ph__label">Фото · Гліб Козаков</span>
-              </div>
+              <div
+                className="ph"
+                style={{
+                  aspectRatio: "3/4",
+                  backgroundImage:
+                    "url('/articles/chotyry-roky-v-mori-buyan-m/kozakov.jpg')",
+                  backgroundSize: "cover",
+                  backgroundPosition: "center top",
+                }}
+              ></div>
             </div>
             <p>
               <strong>Капітан 3-го рангу ВМФ РФ.</strong>
@@ -777,7 +782,6 @@ export default function Page() {
             </p>
           </div>
         </details>
-
         <h4>«Орехово-Зуєво»</h4>
         <details className="expander">
           <summary>Олексій Орляпов · до 2020</summary>
@@ -789,10 +793,16 @@ export default function Page() {
                 margin: "2px 0 14px 20px",
               }}
             >
-              <div className="ph" style={{ aspectRatio: "3/4" }}>
-                <div className="ph__corners"></div>
-                <span className="ph__label">Фото · Олексій Орляпов</span>
-              </div>
+              <div
+                className="ph"
+                style={{
+                  aspectRatio: "3/4",
+                  backgroundImage:
+                    "url('/articles/chotyry-roky-v-mori-buyan-m/orlyapov.jpg')",
+                  backgroundSize: "cover",
+                  backgroundPosition: "center top",
+                }}
+              ></div>
             </div>
             <p>
               Олексій Орляпов — перший командир «Орехово-Зуєва», уродженець
@@ -812,14 +822,20 @@ export default function Page() {
                 margin: "2px 0 14px 20px",
               }}
             >
-              <div className="ph" style={{ aspectRatio: "3/4" }}>
-                <div className="ph__corners"></div>
-                <span className="ph__label">Фото · Максим Рыжкин</span>
-              </div>
+              <div
+                className="ph"
+                style={{
+                  aspectRatio: "3/4",
+                  backgroundImage:
+                    "url('/articles/chotyry-roky-v-mori-buyan-m/ruzkin.jpg')",
+                  backgroundSize: "cover",
+                  backgroundPosition: "center top",
+                }}
+              ></div>
             </div>
             <p>
-              Змінив Орляпова на посту приблизно у 2020 році. Інших деталей у
-              відкритому доступі немає.
+              Змінив Орляпова на посту приблизно у 2020 році. До призначення
+              займав посаду помічника командира на цьому ж кораблі.
             </p>
             <div className="aside-note">
               <div className="aside-note__lbl">Увага</div>Не плутати з Кирилом
@@ -827,14 +843,12 @@ export default function Page() {
             </div>
           </div>
         </details>
-
         <div className="aside-note">
           <div className="aside-note__lbl">Командир «Великого Устюга»</div>
           Максим Никифоров — кадровий російський офіцер без українського зв’язку
           в біографії. Повне дос’є — у каспійському довіднику командирів (§ 03),
           оскільки корабель приписаний до Каспійської флотилії.
         </div>
-
         <h3>Підсумок чорноморської групи</h3>
         <p>
           Станом на травень 2026 року на Чорноморському флоті фактично базуються{" "}
@@ -863,13 +877,11 @@ export default function Page() {
             </li>
           </ul>
         </div>
-
         {/* ===================== § 03 · КАСПІЙ ===================== */}
         <h2>
           <span className="h2-num">§ 03 · Каспій</span>Флотилія закритого моря:
           трійця 2015 року і фантом, що ходив на Чорне
         </h2>
-
         <p>
           Якщо чорноморська четвірка — це нова техніка 2018–2021 років, то
           каспійська група «Буянів-М» — навпаки, найстарша частина серії. Три
@@ -906,7 +918,6 @@ export default function Page() {
           отримав 2020 року. Саме Каспійськ стане у 2024 році ціллю української
           відповіді.
         </p>
-
         <h3>Чотири МРК, але один воює на два театри</h3>
         <p>
           Формально на Каспії базуються три «Буяни-М» серії 2015 року — «Град
@@ -922,7 +933,6 @@ export default function Page() {
         <p className="pullquote pullquote--soft">
           Кордон між двома групами — адміністративний, а не оперативний.
         </p>
-
         <h3>Каспій як пускова батарея, 2022–2024</h3>
         <p>
           Британська воєнна розвідка прямо зафіксувала роль флотилії: Каспійська
@@ -941,7 +951,6 @@ export default function Page() {
           відомо, <em>що</em> вона стріляла, але рідко — <em>який саме</em>{" "}
           корабель і <em>коли</em>.
         </p>
-
         <h3>Війна приходить на Каспій: серія ударів 2024–2025</h3>
         <p>
           Понад два роки Каспій залишався для російського флоту абсолютним тилом
@@ -950,18 +959,19 @@ export default function Page() {
           регулярно.
         </p>
         <figure className="fig">
-          <div
-            className="ph ph--dark ph__cross"
-            style={{ aspectRatio: "16/9" }}
-          >
-            <div className="ph__corners"></div>
-            <span className="ph__label">
-              🛰 Супутник · 06.11.2024 — порт Каспійськ після першої атаки
-            </span>
-          </div>
+          <img
+            src="/articles/chotyry-roky-v-mori-buyan-m/Kaspi_sat.webp"
+            alt="Фото · 🛰 Супутник · 06.11.2024 — порт Каспійськ після першої атаки"
+            style={{
+              width: "100%",
+              aspectRatio: "21/9",
+              objectFit: "cover",
+              display: "block",
+            }}
+          />
           <figcaption>
-            Вцілілі кораблі розосереджено по акваторії.{" "}
-            <em>Місце під супутниковий знімок.</em>
+            06.11.2024 — порт Каспійськ після першої атаки. Вцілілі кораблі
+            розосереджено по акваторії. <em>Місце під супутниковий знімок.</em>
           </figcaption>
         </figure>
         <div className="events-list">
@@ -1050,7 +1060,6 @@ export default function Page() {
           чорноморської групи, каспійська трійця за весь час війни не має
           жодного підтвердженого ураження <em>на самому Каспії</em>.
         </p>
-
         <h3>Командири каспійських «Буянів-М»: довідник</h3>
         <p>
           Робочий довідник по командирах МРК проєкту 21631, пов’язаних із
@@ -1067,7 +1076,6 @@ export default function Page() {
             випадках реконструйовані за роками публікацій.
           </p>
         </div>
-
         <h4>«Великий Устюг»</h4>
         <details className="expander">
           <summary>
@@ -1081,10 +1089,16 @@ export default function Page() {
                 margin: "2px 0 14px 20px",
               }}
             >
-              <div className="ph" style={{ aspectRatio: "3/4" }}>
-                <div className="ph__corners"></div>
-                <span className="ph__label">Фото · Максим Никифоров</span>
-              </div>
+              <div
+                className="ph"
+                style={{
+                  aspectRatio: "3/4",
+                  backgroundImage:
+                    "url('/articles/chotyry-roky-v-mori-buyan-m/nikifor.jpg')",
+                  backgroundSize: "cover",
+                  backgroundPosition: "center top",
+                }}
+              ></div>
             </div>
             <p>
               <strong>Капітан 3-го рангу ВМФ РФ.</strong> Повне ім’я — Максим
@@ -1105,7 +1119,6 @@ export default function Page() {
             </p>
           </div>
         </details>
-
         <h4>«Град Свіяжськ» · головний корабель серії</h4>
         <details className="expander">
           <summary>Алексєй Гордєєв · перший командир · ≈ 2010–2015</summary>
@@ -1117,10 +1130,16 @@ export default function Page() {
                 margin: "2px 0 14px 20px",
               }}
             >
-              <div className="ph" style={{ aspectRatio: "3/4" }}>
-                <div className="ph__corners"></div>
-                <span className="ph__label">Фото · Алексєй Гордєєв</span>
-              </div>
+              <div
+                className="ph"
+                style={{
+                  aspectRatio: "3/4",
+                  backgroundImage:
+                    "url('/articles/chotyry-roky-v-mori-buyan-m/gordeev.jpg')",
+                  backgroundSize: "cover",
+                  backgroundPosition: "center top",
+                }}
+              ></div>
             </div>
             <p>
               <strong>Капітан 2-го рангу.</strong> Перший командир «Града
@@ -1166,10 +1185,16 @@ export default function Page() {
                 margin: "2px 0 14px 20px",
               }}
             >
-              <div className="ph" style={{ aspectRatio: "3/4" }}>
-                <div className="ph__corners"></div>
-                <span className="ph__label">Фото · Кирило Александров</span>
-              </div>
+              <div
+                className="ph"
+                style={{
+                  aspectRatio: "3/4",
+                  backgroundImage:
+                    "url('/articles/chotyry-roky-v-mori-buyan-m/aleksandrov.jpg')",
+                  backgroundSize: "cover",
+                  backgroundPosition: "center top",
+                }}
+              ></div>
             </div>
             <p>
               <strong>Капітан 2-го рангу.</strong> Найдетальніше
@@ -1195,7 +1220,6 @@ export default function Page() {
             </div>
           </div>
         </details>
-
         <h4>«Угліч»</h4>
         <details className="expander">
           <summary>Михаил Степанов · станом на 2020</summary>
@@ -1207,10 +1231,16 @@ export default function Page() {
                 margin: "2px 0 14px 20px",
               }}
             >
-              <div className="ph" style={{ aspectRatio: "3/4" }}>
-                <div className="ph__corners"></div>
-                <span className="ph__label">Фото · Михаил Степанов</span>
-              </div>
+              <div
+                className="ph"
+                style={{
+                  aspectRatio: "3/4",
+                  backgroundImage:
+                    "url('/articles/chotyry-roky-v-mori-buyan-m/stepanov.jpg')",
+                  backgroundSize: "cover",
+                  backgroundPosition: "center top",
+                }}
+              ></div>
             </div>
             <p>
               <strong>Капітан 2-го рангу.</strong> Фігурує в репортажі «Красной
@@ -1235,10 +1265,16 @@ export default function Page() {
                 margin: "2px 0 14px 20px",
               }}
             >
-              <div className="ph" style={{ aspectRatio: "3/4" }}>
-                <div className="ph__corners"></div>
-                <span className="ph__label">Фото · Владимир Александров</span>
-              </div>
+              <div
+                className="ph"
+                style={{
+                  aspectRatio: "3/4",
+                  backgroundImage:
+                    "url('/articles/chotyry-roky-v-mori-buyan-m/aleksandrov-2.jpg')",
+                  backgroundSize: "cover",
+                  backgroundPosition: "center top",
+                }}
+              ></div>
             </div>
             <p>
               Згадується у пості 2024 року, де командир корабля й екіпаж
@@ -1252,7 +1288,6 @@ export default function Page() {
             </div>
           </div>
         </details>
-
         <h3>Підсумок по Каспію</h3>
         <p>
           На травень 2026 року каспійська група «Буянів-М» зберігається у складі
@@ -1265,13 +1300,11 @@ export default function Page() {
           Устюг», березень 2022) сталося поза Каспієм, на
           чорноморсько-азовському театрі.
         </p>
-
         {/* ===================== § 04 · БАЛТИКА ===================== */}
         <h2>
           <span className="h2-num">§ 04 · Балтика</span>Тилова група: чотири
           кораблі, одна диверсія і географія, яка не дозволяє стріляти
         </h2>
-
         <p>
           Балтійська група «Буянів-М» — найвіддаленіша від театру війни проти
           України, і саме тому її роль принципово інша, ніж у чорноморської або
@@ -1287,7 +1320,6 @@ export default function Page() {
           навчальними пусками «Калібру» на полігонах — і дві задокументовані
           операції українських спецслужб, які вивели з ладу два кораблі групи.
         </p>
-
         <h3>Як склалася балтійська четвірка</h3>
         <p>
           Станом на травень 2026 року на Балтійському флоті фактично базуються
@@ -1320,27 +1352,24 @@ export default function Page() {
           грудня 2023 року; «Ставрополь» (зав. № 642) 23 грудня 2024 року вийшов
           на заводські ходові випробування в Балтійське море.
         </p>
-
         <div className="episode">
           <span className="episode__date">07.04.2024 · Балтійськ</span>
           <h3 className="episode__h">
             Операція «Рибалка»: пожежа на «Серпухові»
           </h3>
         </div>
+
         <figure className="fig">
-          <div
-            className="ph ph--dark ph__cross"
-            style={{ aspectRatio: "16/9" }}
-          >
-            <div className="ph__corners"></div>
-            <span className="ph__label">
-              ▶ Відео · 04.2024 — пожежа на МРК «Серпухов», ГУР МО (після
-              розсекречення)
-            </span>
-          </div>
+          <iframe
+            src="https://www.youtube.com/embed/Ou42SgrmHK8?rel=0"
+            title="▶ Відео · 04.2024 — пожежа на МРК «Серпухов», ГУР МО (після розсекречення)"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowFullScreen
+            loading="lazy"
+            style={{ aspectRatio: "16/9", height: "auto" }}
+          />
           <figcaption>
-            Кадри з борту або біля корабля з пожежею, оприлюднені ГУР МО
-            України. <em>Місце під відео.</em>
+            Кадри з борту корабля з пожежею, оприлюднені ГУР МО України.
           </figcaption>
         </figure>
         <p>
@@ -1380,29 +1409,12 @@ export default function Page() {
           ситуації на одному з кораблів у Балтійську без називання назви та
           причин.
         </p>
-
         <div className="episode">
           <span className="episode__date">04.10.2025 · Онезьке озеро</span>
           <h3 className="episode__h">
             ССО уражують «Град» на переході в Каспій
           </h3>
         </div>
-        <figure className="fig">
-          <div
-            className="ph ph--dark ph__cross"
-            style={{ aspectRatio: "16/9" }}
-          >
-            <div className="ph__corners"></div>
-            <span className="ph__label">
-              ▶ Відео · 04.10.2025 — ураження МРК «Град» в Онезькому озері,
-              Командування ССО
-            </span>
-          </div>
-          <figcaption>
-            Кадри ураження, оприлюднені Командуванням Сил спеціальних операцій
-            ЗС України. <em>Місце під відео.</em>
-          </figcaption>
-        </figure>
         <p>
           Друга операція української сторони проти балтійського «Буяна-М»
           сталася через півтора року після «Рибалки» — і в принципово іншій
@@ -1442,7 +1454,6 @@ export default function Page() {
           офіційно не визнала; локальні російські канали обмежилися фіксацією
           подій у районі Петрозаводська без називання назви корабля.
         </p>
-
         <h3>Командири балтійських «Буянів-М»: довідник</h3>
         <p>
           Командирська лінія балтійської групи задокументована значно гірше, ніж
@@ -1454,7 +1465,6 @@ export default function Page() {
           простежуваних українських зв’язків. Нижче — те, що вдалося
           реконструювати за відомчою пресою та релізами Міноборони РФ.
         </p>
-
         <h4>«Серпухов»</h4>
         <details className="expander">
           <summary>Петр Люшин · перший командир · ≈ до 2017–2018</summary>
@@ -1466,10 +1476,16 @@ export default function Page() {
                 margin: "2px 0 14px 20px",
               }}
             >
-              <div className="ph" style={{ aspectRatio: "3/4" }}>
-                <div className="ph__corners"></div>
-                <span className="ph__label">Фото · Петр Люшин</span>
-              </div>
+              <div
+                className="ph"
+                style={{
+                  aspectRatio: "3/4",
+                  backgroundImage:
+                    "url('/articles/chotyry-roky-v-mori-buyan-m/lushin.jpg')",
+                  backgroundSize: "cover",
+                  backgroundPosition: "center top",
+                }}
+              ></div>
             </div>
             <p>
               <strong>На момент призначення — капітан 3-го рангу.</strong>{" "}
@@ -1479,6 +1495,62 @@ export default function Page() {
               2016 року, перехід Севастополь–Балтійськ у жовтні 2016 року,
               входження до 36-ї бригади Балтфлоту. Подальша кар’єра після
               передачі корабля наступнику публічно не зафіксована.
+            </p>
+          </div>
+        </details>
+        <details className="expander">
+          <summary>Богдан Капеті · з 2021</summary>
+          <div className="expander__body">
+            <div
+              style={{
+                float: "right",
+                width: "150px",
+                margin: "2px 0 14px 20px",
+              }}
+            >
+              <div
+                className="ph"
+                style={{
+                  aspectRatio: "3/4",
+                  backgroundImage:
+                    "url('/articles/chotyry-roky-v-mori-buyan-m/kapeti.jpg')",
+                  backgroundSize: "cover",
+                  backgroundPosition: "center top",
+                }}
+              ></div>
+            </div>
+            <p>
+              <strong>Капітан 3-го рангу.</strong> Випускник факультету
+              ракетно-артилерійського озброєння Балтійського військово-морського
+              інституту. Кар'єрна траєкторія до «Серпухова»: старший інженер
+              БЧ-2 есмінця «Беспокойный» (проєкт 956 «Сарич»), потім командир
+              артилерійської батареї СКР «Ярослав Мудрый» (проєкт 11540
+              «Ястреб») під командуванням капітана 1-го рангу Олексія Суглобова
+              — наставника, якого Капеті прямо називає в інтерв'ю основним
+              учителем, і який згодом стане начальником управління бойової
+              підготовки Балтфлоту. Потім — помічник командира ракетного катера
+              «Р-257».З 2017 року — помічник командира МРК «Зеленый Дол» при
+              тоді ще новопризначеному командирі Сергії Дідусенку. Через рік
+              переведений на ту ж посаду на однотипний «Серпухов» під
+              командуванням Петра Люшина. У 2019–2020 роках навчався у
+              Військовому інституті додаткової професійної освіти в
+              Санкт-Петербурзі, після чого був призначений командиром
+              «Серпухова». Дебют на новій посаді — міжбазовий перехід у
+              Санкт-Петербург на парад ВМФ (липень), потім похід корабельної
+              ударної групи разом із «Зеленим Долом» і «Мытищами» в Північне
+              море з заправкою від рятувального буксира «Николай Чикер» в умовах
+              шторму і 20-градусного крену.На листопад 2021 року (час публікації
+              статті в «Страж Балтики») Капеті — діючий командир «Серпухова».
+              Орієнтовно командував до листопада–грудня 2022 року, коли його
+              змінив Борисенко. Точна дата і причина передачі корабля у
+              відкритих джерелах не зафіксовані. Подальша кар'єра Капеті після
+              зміни на «Серпухові» публічно не простежується. Походження: син
+              боєвого офіцера-афганця, який завершив службу підполковником у
+              бригаді морської піхоти Балтфлоту — тобто, як і командир «Града»
+              Андрій Станько, з військової династії.
+            </p>
+            <p>
+              Богдан Капеті знову вказується командиром Серпухова у 2024 році.
             </p>
           </div>
         </details>
@@ -1494,10 +1566,16 @@ export default function Page() {
                 margin: "2px 0 14px 20px",
               }}
             >
-              <div className="ph" style={{ aspectRatio: "3/4" }}>
-                <div className="ph__corners"></div>
-                <span className="ph__label">Фото · Сергій Борисенко</span>
-              </div>
+              <div
+                className="ph"
+                style={{
+                  aspectRatio: "3/4",
+                  backgroundImage:
+                    "url('/articles/chotyry-roky-v-mori-buyan-m/borisenko.jpg')",
+                  backgroundSize: "cover",
+                  backgroundPosition: "center top",
+                }}
+              ></div>
             </div>
             <p>
               <strong>Капітан 2-го рангу.</strong> Випускник Морського корпусу
@@ -1519,7 +1597,6 @@ export default function Page() {
             </p>
           </div>
         </details>
-
         <h4>«Зеленый Дол»</h4>
         <details className="expander">
           <summary>
@@ -1533,10 +1610,16 @@ export default function Page() {
                 margin: "2px 0 14px 20px",
               }}
             >
-              <div className="ph" style={{ aspectRatio: "3/4" }}>
-                <div className="ph__corners"></div>
-                <span className="ph__label">Фото · Сергій Дідусенко</span>
-              </div>
+              <div
+                className="ph"
+                style={{
+                  aspectRatio: "3/4",
+                  backgroundImage:
+                    "url('/articles/chotyry-roky-v-mori-buyan-m/didusenko.jpg')",
+                  backgroundSize: "cover",
+                  backgroundPosition: "center top",
+                }}
+              ></div>
             </div>
             <p>
               <strong>
@@ -1576,7 +1659,32 @@ export default function Page() {
             </p>
           </div>
         </details>
-
+        <details className="expander">
+          <summary>Артем Старков · станом на 2024</summary>
+          <div className="expander__body">
+            <div
+              style={{
+                float: "right",
+                width: "150px",
+                margin: "2px 0 14px 20px",
+              }}
+            >
+              <div
+                className="ph"
+                style={{
+                  aspectRatio: "3/4",
+                  backgroundImage:
+                    "url('/articles/chotyry-roky-v-mori-buyan-m/starkov.jpg')",
+                  backgroundSize: "cover",
+                  backgroundPosition: "center top",
+                }}
+              ></div>
+            </div>
+            <p>
+              <strong>Капітан 2-го рангу (на 2024 рік)</strong>{" "}
+            </p>
+          </div>
+        </details>
         <h4>«Град»</h4>
         <details className="expander">
           <summary>
@@ -1590,10 +1698,16 @@ export default function Page() {
                 margin: "2px 0 14px 20px",
               }}
             >
-              <div className="ph" style={{ aspectRatio: "3/4" }}>
-                <div className="ph__corners"></div>
-                <span className="ph__label">Фото · Андрій Станько</span>
-              </div>
+              <div
+                className="ph"
+                style={{
+                  aspectRatio: "3/4",
+                  backgroundImage:
+                    "url('/articles/chotyry-roky-v-mori-buyan-m/stanko.jpg')",
+                  backgroundSize: "cover",
+                  backgroundPosition: "center top",
+                }}
+              ></div>
             </div>
             <p>
               <strong>Капітан 3-го рангу.</strong> Уродженець села в
@@ -1616,7 +1730,6 @@ export default function Page() {
             </p>
           </div>
         </details>
-
         <h4>«Наро-Фоминск»</h4>
         <details className="expander">
           <summary>Максим Куліков · з 2022 · ввід у стрій 25.12.2023</summary>
@@ -1645,7 +1758,6 @@ export default function Page() {
             </p>
           </div>
         </details>
-
         <h4>«Ставрополь»</h4>
         <details className="expander">
           <summary>
@@ -1676,7 +1788,6 @@ export default function Page() {
             </p>
           </div>
         </details>
-
         <h3>Підсумок балтійської групи</h3>
         <p>
           Станом на травень 2026 року балтійська група — це фактично{" "}
@@ -1695,7 +1806,6 @@ export default function Page() {
           порівнянно з чорноморською. Це руйнує початкове уявлення про
           балтійських «Буянів» як про абсолютно тилові кораблі.
         </p>
-
         {/* ===================== ПІДСУМОК ===================== */}
         <h2>
           <span className="h2-num">Підсумок</span>Один проєкт, три моря і річки,
@@ -1709,56 +1819,6 @@ export default function Page() {
           України. «Буяни» не уникли уражень і диверсій, але все ще лишаються
           серйозною загрозою.
         </p>
-
-        <div className="barchart">
-          <div className="barchart__title">
-            Задокументовані операції з ураженням «Буянів-М» за театрами
-          </div>
-          <div className="barchart__sub">
-            підтверджені удари / диверсії по конкретних корпусах · 2022–2026
-          </div>
-          <div className="bar">
-            <span className="bar__lbl">Балтика</span>
-            <span className="bar__bg">
-              <span className="bar__fill" style={{ width: "100%" }}></span>
-            </span>
-            <span className="bar__val">2</span>
-          </div>
-          <div className="bar">
-            <span className="bar__lbl">Чорне м.</span>
-            <span className="bar__bg">
-              <span
-                className="bar__fill bar__fill--rust"
-                style={{ width: "100%" }}
-              ></span>
-            </span>
-            <span className="bar__val">2</span>
-          </div>
-          <div className="bar">
-            <span className="bar__lbl">Каспій</span>
-            <span className="bar__bg">
-              <span
-                className="bar__fill bar__fill--steel"
-                style={{ width: "3%" }}
-              ></span>
-            </span>
-            <span className="bar__val">0*</span>
-          </div>
-        </div>
-        <p
-          className="mono"
-          style={{
-            textTransform: "none",
-            letterSpacing: "0",
-            color: "var(--slate)",
-            marginTop: "-12px",
-          }}
-        >
-          * на самому Каспії — жодного підтвердженого ураження «Буяна-М»; єдине
-          ураження каспійського корабля («Великий Устюг», 2022) сталося на
-          чорноморсько-азовському театрі.
-        </p>
-
         <h4>Чорне море — група в стані поступової деградації</h4>
         <p>
           «Вышний Волочёк», «Орехово-Зуєво», «Інгушетія», «Грайворон» провели
@@ -1770,7 +1830,6 @@ export default function Page() {
           року перебуває в Кронштадті після евакуації з Тартуса й повертатися на
           ЧМ не планує.
         </p>
-
         <h4>Каспій — група без задокументованих втрат на самому Каспії</h4>
         <p>
           Три «Буяни-М» 2014 року («Град Свіяжськ», «Угліч», «Великий Устюг»)
@@ -1778,7 +1837,6 @@ export default function Page() {
           ураження каспійського «Буяна-М» — це «Великий Устюг» навесні-влітку
           2022 року, але поза Каспієм, у Чорному морі.
         </p>
-
         <h4>Балтика — два кораблі виведені з ладу українськими спецслужбами</h4>
         <p>
           «Серпухов» — диверсія через завербованого агента ГУР безпосередньо на
@@ -1789,7 +1847,6 @@ export default function Page() {
           «Орехово-Зуєво» і «Ставрополь» — у строю. Жодного бойового пуску
           «Калібру» по Україні з Балтики не зафіксовано.
         </p>
-
         <p className="pullquote">
           Серія «Буянів-М» — лише одна частина історії ракетної загрози з боку
           російського флоту.

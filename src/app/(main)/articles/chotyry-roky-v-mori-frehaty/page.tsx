@@ -1004,7 +1004,6 @@ export default function Page() {
                 </p>
 
                 <figure className="fig">
-                  {/* TODO: зберегти супутниковий знімок → public/articles/chotyry-roky-v-mori-frehaty/essen-april-satellite.jpg */}
                   <img
                     src="/articles/chotyry-roky-v-mori-frehaty/essen kviten 2026.jpg"
                     alt="Супутниковий знімок · «Адмірал Ессен» у Новоросійську після 06.04.2026 · CyberBoroshno / Planet Labs"
@@ -1937,9 +1936,8 @@ export default function Page() {
                 Чотири роки в морі. Частина 2 — МРК «Буян-М»
               </div>
               <p className="next-up__dek">
-                Дванадцять корпусів, три флоти, одна диверсія і удар в
-                Онезькому озері. Хроніка кожного «Буяна-М» від лютого 2022 до
-                травня 2026.
+                Дванадцять корпусів, три флоти, одна диверсія і удар в Онезькому
+                озері. Хроніка кожного «Буяна-М» від лютого 2022 до травня 2026.
               </p>
             </div>
             <span className="btn btn--red">Читати →</span>
