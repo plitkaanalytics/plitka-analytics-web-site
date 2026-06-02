@@ -2387,6 +2387,14 @@ figure.fig figcaption em {
   max-width: none;
 }
 
+/* Wide bleed — stays in flow, breaks out of article-body max-width with side margins */
+.fig--bleed {
+  width: min(1400px, calc(100vw - 80px));
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
 /* Hide "Ключові події" blocks inside dossier cards — high-level overview only,
    detailed chronology lives in the standalone Хроніка матеріалі. */
 .dossier-card .events-list {
