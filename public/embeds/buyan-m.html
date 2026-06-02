@@ -2988,13 +2988,14 @@
         document.documentElement.classList.add("is-noscroll");
       }
 
-      // Report rendered content height to parent frame
+      // Report rendered content height to parent frame.
+      // Measure .lv-doc (actual content) not .view-line (stretches to fill iframe).
       function _reportHeight() {
-        var view = document.querySelector(".view-line");
+        var doc = document.querySelector(".lv-doc");
         var switcher = document.querySelector(".view-switcher");
-        if (view && window.parent !== window) {
+        if (doc && window.parent !== window) {
           var switcherH = (switcher && switcher.offsetHeight) ? switcher.offsetHeight : 0;
-          window.parent.postMessage({ iframeResize: view.scrollHeight + switcherH }, "*");
+          window.parent.postMessage({ iframeResize: doc.scrollHeight + switcherH + 16 }, "*");
         }
       }
       if (typeof ResizeObserver !== "undefined") {

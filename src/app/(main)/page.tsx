@@ -41,8 +41,8 @@ export default function HomePage() {
                       overflow: 'hidden',
                     }}>
                       <iframe
-                        src="/embeds/black-fleet-frigates.html?nomap&embed"
-                        title="Ракетоносці Чорного моря і Каспію"
+                        src={hero.leadMapUrl}
+                        title={hero.title}
                         style={{ width: '100%', height: '447px', display: 'block', border: 'none' }}
                         scrolling="no"
                       />

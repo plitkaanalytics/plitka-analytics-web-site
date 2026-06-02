@@ -8,6 +8,9 @@ export const metadata: Metadata = {
   title: "Чотири роки в морі. Частина 2 — МРК «Буян-М» · PLITKA Analytics",
   description:
     "Дванадцять кораблів, три флоти, одна диверсія і удар в Онезькому озері. Хроніка кожного «Буяна-М» від лютого 2022 до травня 2026.",
+  openGraph: {
+    images: ["/articles/chotyry-roky-v-mori-buyan-m/cover.jpg"],
+  },
 };
 
 const SLUG = "chotyry-roky-v-mori-buyan-m";
@@ -52,10 +55,15 @@ export default function Page() {
         <AutoFrame
           src="/embeds/buyan-m.html?noscroll"
           title="МРК «Буян-М» пр. 21631 · хроніка переміщень і уражень 2013–2026"
-          fallbackHeight={1050}
+          fallbackHeight={800}
         />
       </div>
       <div className="infographic-mobile-note">
+        <img
+          src="/articles/chotyry-roky-v-mori-buyan-m/cover.jpg"
+          alt="МРК «Буян-М» · хроніка переміщень і уражень 2013–2026"
+          style={{ width: "100%", display: "block" }}
+        />
         <p className="infographic-mobile-note__text">
           Інтерактивна хронологія доступна лише на десктопі — відкрийте цю
           сторінку з комп’ютера або планшета в горизонтальному режимі.
