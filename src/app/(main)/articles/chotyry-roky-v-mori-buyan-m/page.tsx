@@ -644,8 +644,7 @@ export default function Page() {
             alt="Фото · Результати інциденту в Темрюцькій затоці."
             style={{
               width: "100%",
-              aspectRatio: "21/9",
-              objectFit: "cover",
+              height: "auto",
               display: "block",
             }}
           />
@@ -659,8 +658,7 @@ export default function Page() {
             alt="Фото · Схема маневрування кораблів під час зіткнення."
             style={{
               width: "100%",
-              aspectRatio: "21/9",
-              objectFit: "cover",
+              height: "auto",
               display: "block",
             }}
           />
@@ -688,8 +686,7 @@ export default function Page() {
             alt="Фото · Результати розслідування інциденту."
             style={{
               width: "100%",
-              aspectRatio: "21/9",
-              objectFit: "cover",
+              height: "auto",
               display: "block",
             }}
           />
@@ -703,8 +700,7 @@ export default function Page() {
             alt="Фото · Опис інциденту в Темрюцькій затоці."
             style={{
               width: "100%",
-              aspectRatio: "21/9",
-              objectFit: "cover",
+              height: "auto",
               display: "block",
             }}
           />
