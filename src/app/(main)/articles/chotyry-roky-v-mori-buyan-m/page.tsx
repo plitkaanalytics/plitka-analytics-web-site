@@ -638,6 +638,37 @@ export default function Page() {
             [6]
           </a>
         </p>
+        <figure className="fig">
+          <img
+            src="/articles/chotyry-roky-v-mori-buyan-m/rezult_volch.jpg"
+            alt="Фото · Результати інциденту в Темрюцькій затоці."
+            style={{
+              width: "100%",
+              aspectRatio: "21/9",
+              objectFit: "cover",
+              display: "block",
+            }}
+          />
+          <figcaption>
+            Фото результати інциденту в Темрюцькій затоці.{" "}
+          </figcaption>
+        </figure>
+        <figure className="fig">
+          <img
+            src="/articles/chotyry-roky-v-mori-buyan-m/manevr_volch.jpg"
+            alt="Фото · Схема маневрування кораблів під час зіткнення."
+            style={{
+              width: "100%",
+              aspectRatio: "21/9",
+              objectFit: "cover",
+              display: "block",
+            }}
+          />
+          <figcaption>
+            Фото схема маневрування кораблів під час зіткнення в Темрюцькій
+            затоці.{" "}
+          </figcaption>
+        </figure>
         <p>
           За даними ГУР, корабель вийшов у затоку{" "}
           <strong>для виконання пускового завдання</strong> — масованої атаки
@@ -651,6 +682,34 @@ export default function Page() {
           відповідно, інцидент з зіткненням "Вишнього Волочека" міг бути одним
           епізодом з дроновою атакою.
         </p>
+        <figure className="fig">
+          <img
+            src="/articles/chotyry-roky-v-mori-buyan-m/invest_volch.jpg"
+            alt="Фото · Результати розслідування інциденту."
+            style={{
+              width: "100%",
+              aspectRatio: "21/9",
+              objectFit: "cover",
+              display: "block",
+            }}
+          />
+          <figcaption>
+            Фото результати розслідування інциденту в Темрюцькій затоці.{" "}
+          </figcaption>
+        </figure>
+        <figure className="fig">
+          <img
+            src="/articles/chotyry-roky-v-mori-buyan-m/opys_volch.jpg"
+            alt="Фото · Опис інциденту в Темрюцькій затоці."
+            style={{
+              width: "100%",
+              aspectRatio: "21/9",
+              objectFit: "cover",
+              display: "block",
+            }}
+          />
+          <figcaption>Фото опис інциденту в Темрюцькій затоці. </figcaption>
+        </figure>
         <h3>Командири МРК Чорноморської групи</h3>
         <h4>«Вышний Волочёк»</h4>
         <details className="expander">
