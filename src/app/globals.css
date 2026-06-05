@@ -219,6 +219,20 @@ p {
   color: #fff;
   font-weight: 700;
 }
+.substrip__actions {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+.substrip__clear {
+  color: #deebf7;
+  text-decoration: none;
+  opacity: 0.8;
+}
+.substrip__clear:hover {
+  opacity: 1;
+  color: #fff;
+}
 
 /* ===== Layout ===== */
 
@@ -398,6 +412,21 @@ p {
   display: flex;
   justify-content: space-between;
   gap: 12px;
+}
+
+/* ===== Clickable card (stretched-link pattern) ===== */
+
+.card--link {
+  position: relative;
+}
+.card--link:hover .card__title a {
+  color: var(--red);
+}
+.stretched-link::after {
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  content: '';
 }
 
 /* ===== Footer ===== */
@@ -762,6 +791,14 @@ p {
 }
 .ptile--blue .ptile__code {
   color: var(--steelB);
+}
+.ptile--link {
+  text-decoration: none;
+  color: inherit;
+  transition: opacity 0.15s;
+}
+.ptile--link:hover {
+  opacity: 0.8;
 }
 
 .panel-dark {
