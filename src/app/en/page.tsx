@@ -1,4 +1,4 @@
-import Link from 'next/link';
+﻿import Link from 'next/link';
 import { getAllArticles, formatDate } from '@/lib/articles';
 import { dict } from '@/lib/i18n';
 
@@ -131,7 +131,7 @@ export default function HomePageEN() {
                 <p className="card__dek">{a.dek}</p>
                 <div className="card__meta">
                   <span>{formatDate(a.date, 'en')}</span>
-                  <span>{a.authors[0].split(' ').at(-1)?.toUpperCase()}</span>
+                  <span>{a.authors[0]?.split(' ').at(-1)?.toUpperCase()}</span>
                 </div>
               </article>
             ))}
@@ -141,3 +141,4 @@ export default function HomePageEN() {
     </>
   );
 }
+
