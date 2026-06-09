@@ -692,7 +692,7 @@ export default function Page() {
                   margin: "16px 0 0",
                 }}
               >
-                <summary>Родинне коло (за редакторським рішенням)</summary>
+                <summary>Родинне коло</summary>
                 <div className="expander__body">
                   <p>
                     Родинне коло Дутчака також пов'язане з Україною. Його батьки
@@ -723,10 +723,22 @@ export default function Page() {
             імовірно, перебував близько до завершення.
           </p>
 
-          <div className="episode">
-            <span className="episode__date">04.11.2023 · «Залив», Керч</span>
-            <h3 className="episode__h">Удар по заводу й парадокс недобудови</h3>
-          </div>
+          <figure className="fig">
+            <img
+              src="/articles/karakurty-pobyta-seria-nosiyiv-kalibriv/askold.jpg"
+              alt="Фото · МРК «Аскольд» перед спуском на воду"
+              style={{
+                width: "100%",
+                aspectRatio: "21/9",
+                objectFit: "cover",
+                display: "block",
+              }}
+            />
+            <figcaption>
+              МРК «Аскольд» перед спуском на воду на заводі «Залив» у Керчі{" "}
+            </figcaption>
+          </figure>
+
           <p>
             4 листопада 2023 року Повітряні сили ЗСУ завдали удару по
             суднобудівному заводу «Залив» в окупованій Керчі, де стояв
@@ -742,6 +754,17 @@ export default function Page() {
             українських ракет, з яких нібито 13 збили, а дві влучили; командувач
             Повітряних сил ЗСУ Микола Олещук підтвердив ураження.
           </p>
+          <figure className="fig">
+            <iframe
+              src="https://www.youtube.com/embed/6-xf6-C0yxw?rel=0"
+              title="Ураження МРК «Аскольд». 4 листопада 2023 р."
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowFullScreen
+              loading="lazy"
+              style={{ aspectRatio: "16/9", height: "auto" }}
+            />
+            <figcaption>Відео ураження з камери спостережння </figcaption>
+          </figure>
           <p>
             Парадоксально, але корабель урятувала, найімовірніше, саме його
             недобудованість: без боєкомплекту на борту не було чому детонувати.
@@ -753,41 +776,17 @@ export default function Page() {
           </p>
 
           <figure className="fig">
-            <div
+            <img
+              src="/articles/karakurty-pobyta-seria-nosiyiv-kalibriv/dira_askold.jpg"
+              alt="Фото · Пошкоджена частина МРК «Аскольд»"
               style={{
-                display: "grid",
-                gridTemplateColumns: "1fr 1fr",
-                gap: "12px",
+                width: "100%",
+                aspectRatio: "21/9",
+                objectFit: "cover",
+                display: "block",
               }}
-            >
-              <div
-                className="ph ph--dark ph__cross"
-                style={{ aspectRatio: "4/3" }}
-              >
-                <div className="ph__corners"></div>
-                <span className="ph__label">
-                  🛰 «Залив» із пошкодженим «Аскольдом» (лист. 2023)
-                </span>
-              </div>
-              <div
-                className="ph ph--dark ph__cross"
-                style={{ aspectRatio: "4/3" }}
-              >
-                <div className="ph__corners"></div>
-                <span className="ph__label">
-                  🛰 «До/після» MT_Anderson · 02.12.2023 vs 30.01.2024 (без
-                  змін)
-                </span>
-              </div>
-            </div>
-            <figcaption>
-              <b>Пошкоджений «Аскольд» на «Заливі».</b>{" "}
-              <em>
-                Зіставлення знімків за MT_Anderson не показало переміщення
-                корабля з місця ураження. Місце під знімки; джерела
-                заархівувати.
-              </em>
-            </figcaption>
+            />
+            <figcaption>Пошкоджена частина МРК «Аскольд» </figcaption>
           </figure>
 
           <div className="callout callout--warn">
@@ -814,6 +813,23 @@ export default function Page() {
             </p>
           </div>
 
+          <figure className="fig">
+            <img
+              src="/articles/karakurty-pobyta-seria-nosiyiv-kalibriv/askold_v_domike.jpg"
+              alt="Фото · Ремонтні роботи на МРК «Аскольд» приховуються."
+              style={{
+                width: "100%",
+                aspectRatio: "21/9",
+                objectFit: "cover",
+                display: "block",
+              }}
+            />
+            <figcaption>
+              Ну супутникових знімках видно, що ремонтні роботи над МРК
+              «Аскольд» відбуваються та приховуються.{" "}
+            </figcaption>
+          </figure>
+
           <details className="expander">
             <summary>
               Командир «Аскольда»: Микола Григоренко · корабель без жодного
@@ -827,10 +843,16 @@ export default function Page() {
                   margin: "2px 0 14px 20px",
                 }}
               >
-                <div className="ph" style={{ aspectRatio: "3/4" }}>
-                  <div className="ph__corners"></div>
-                  <span className="ph__label">Фото · Микола Григоренко</span>
-                </div>
+                <div
+                  className="ph"
+                  style={{
+                    aspectRatio: "3/4",
+                    backgroundImage:
+                      "url('/articles/karakurty-pobyta-seria-nosiyiv-kalibriv/grigirenko.jpg')",
+                    backgroundSize: "cover",
+                    backgroundPosition: "center top",
+                  }}
+                ></div>
               </div>
               <p>
                 <strong>
@@ -860,29 +882,19 @@ export default function Page() {
                   margin: "16px 0 0",
                 }}
               >
-                <summary>Родина (за редакторським рішенням)</summary>
+                <summary>Родина</summary>
                 <div className="expander__body">
                   <p>
                     Дружина Григоренка — Світлана (у дівоцтві Лукашук) — за
                     наявними даними, народилася в Криму й є громадянкою України.
                   </p>
-                  <div className="aside-note">
-                    <div className="aside-note__lbl">
-                      Перевірити на редакції
-                    </div>
-                    Дружину внесено за редакторським рішенням; звірити
-                    громадянство/походження, заархівувати джерело. Дітей
-                    фігуранта не вносимо. Оцінні формулювання подаємо як факти,
-                    без епітетів.
-                  </div>
                 </div>
               </details>
               <div className="aside-note">
                 <div className="aside-note__lbl">Джерела / методологія</div>
                 Призначення Григоренка командиром «Аскольда» підтверджується
                 російськими відкритими джерелами (профільні довідники) та
-                документами Міноборони РФ; кар'єрні деталі — з відкритих джерел,
-                які слід заархівувати перед публікацією.
+                документами Міноборони РФ; кар'єрні деталі — з відкритих джерел.
               </div>
             </div>
           </details>
@@ -912,33 +924,25 @@ export default function Page() {
             балтійська доля «Амура» — у § 03.
           </p>
 
-          <figure className="fig fig--wide">
-            <div
-              className="ph ph--dark ph__cross"
-              style={{ aspectRatio: "16/8" }}
-            >
-              <div className="ph__corners"></div>
-              <span className="ph__label">
-                ✦ Анімований маршрут «Амура»
-                <br />
-                Керч → Новоросійськ → Волго-Дон → Каспій → (2025) Балтика /
-                Кронштадт
-              </span>
-            </div>
+          <figure className="fig">
+            <img
+              src="/articles/karakurty-pobyta-seria-nosiyiv-kalibriv/amur.jpg"
+              alt="Фото · МРК «Амур» в Кронштадті, проходиться всновлення мачти, що знімалась для проходження внутрішніх водних шляхів."
+              style={{
+                width: "100%",
+                aspectRatio: "21/9",
+                objectFit: "cover",
+                display: "block",
+              }}
+            />
             <figcaption>
-              Одіссея «Амура» внутрішніми водними шляхами — від чорноморського
-              завода-будівника до балтійської бази.{" "}
-              <em>
-                Маршрут показано і в інтерактивній карті вгорі сторінки; тут
-                можна поставити окрему анімовану схему.
-              </em>
+              МРК «Амур» в Кронштадті, проходиться всновлення мачти, що
+              знімалась для проходження внутрішніх водних шляхів.
             </figcaption>
           </figure>
 
           <details className="expander">
-            <summary>
-              Командир «Амура»: Артём Матвєєв · профіль не складено
-            </summary>
+            <summary>Командир «Амура»: Артём Матвєєв</summary>
             <div className="expander__body">
               <p>
                 Новосформований екіпаж «Амура», який приймав корабель від
@@ -946,19 +950,16 @@ export default function Page() {
                 На відміну від командирів «Циклона» й «Аскольда», розгорнутого
                 профілю Матвєєва за відкритими джерелами скласти не вдалося:
                 біографії, кар'єрного шляху, санкційного чи іншого публічного
-                сліду наразі немає. Тому обмежуємося підтвердженим фактом
-                призначення й фіксуємо напрям для подальшого дозбору.
+                сліду наразі немає.
               </p>
-              <div className="aside-note">
-                <div className="aside-note__lbl">Дозбір</div>
-                Перевірити можливу тотожність командира «Амура» із «Матвєєвим
-                Артемом Вікторовичем» (кап. 3 р., заступник командира БЧ-5) зі
-                злитого контактного списку. Потрібне: підтвердження по батькові
-                + слід підвищення 3→2 р. + незалежне джерело місця служби.
-                Версію про службу на «Адміралі Кузнєцові» джерелом не
-                підтверджено; особистий телефон не публікувати. Доки прив'язка
-                не доведена — у текст не виносити.
-              </div>
+              <p>
+                Проте, Матвєв Артем Вікторович фігурує у списках екіпажу
+                авіаносного крейсеру "Адмірал Кузнєцов", кап. 3 р., заступник
+                командира БЧ-5. Підтвердження щодо того, чи це одна й та сама
+                людина знайти не вдалося, проте кар'єрний шлях виглядає цілком
+                вірогідним, враховуючи, що сам Кузнєцов ще довго не повернеться
+                до бойових завдань, якщо повернеться взагалі.
+              </p>
             </div>
           </details>
 
@@ -977,10 +978,60 @@ export default function Page() {
             Каспії. Обидва кораблі рухалися Волгою — тим самим шляхом, яким їх
             потім і відвели подалі від ударів.
           </p>
+          <figure className="fig">
+            <div
+              style={{
+                display: "grid",
+                gridTemplateColumns: "1fr 1fr",
+                gap: "12px",
+              }}
+            >
+              <div
+                className="satfig__cell"
+                style={{
+                  backgroundImage:
+                    "url('/articles/karakurty-pobyta-seria-nosiyiv-kalibriv/tajfun-v-kanale-pella.jpg')",
+                  backgroundSize: "cover",
+                  backgroundPosition: "center",
+                }}
+              >
+                <div className="tag">
+                  Фото · МРК «Тайфун» проходить канал заводу Пелла
+                </div>
+              </div>
+              <div
+                className="satfig__cell"
+                style={{
+                  backgroundImage:
+                    "url('/articles/karakurty-pobyta-seria-nosiyiv-kalibriv/tucha.jpg')",
+                  backgroundSize: "cover",
+                  backgroundPosition: "center",
+                }}
+              >
+                <div className="tag">
+                  Фото · МРК «Туча» під час урочистостей передачі до складу
+                  флоту
+                </div>
+              </div>
+            </div>
+            <figcaption>
+              <b>МРК «Тайфун» та МРК «Туча»</b>{" "}
+            </figcaption>
+          </figure>
           <p>
             Детальна доля цієї пари — і те, чому Каспій не став безпечним
             сховком, — у наступному розділі.
           </p>
+
+          <div className="aside-note">
+            <div className="aside-note__lbl">Командири «Тучі» й «Тайфуна»</div>
+            Поіменно встановити не вдалося. Російські церемонійні звіти про
+            введення у стрій (Каспійськ, 21.12.2024 і 28.08.2025) називають лише
+            старше начальство (головком ВМФ, командувач Каспійської флотилії,
+            директор заводу), командирів кораблів не згадують. На фінал —
+            короткий рядок «командирів за відкритими даними встановити не
+            вдалося».
+          </div>
 
           {/* ---------- ПІДСУМОК § 01 ---------- */}
           <h3>Підсумок розділу</h3>
@@ -1033,15 +1084,15 @@ export default function Page() {
                   </td>
                   <td>«Залив», Керч</td>
                   <td>Втеча на Каспій → Балтика (2025)</td>
-                  <td>витіснений</td>
+                  <td>на ходу</td>
                 </tr>
                 <tr>
                   <td>
                     <strong>«Туча»</strong>
                   </td>
                   <td>Зеленодольськ</td>
-                  <td>Відведена на Каспій</td>
-                  <td>застрягла</td>
+                  <td>Уведений одразу на Каспій</td>
+                  <td>на ходу</td>
                 </tr>
                 <tr>
                   <td>
@@ -1049,7 +1100,7 @@ export default function Page() {
                   </td>
                   <td>Зеленодольськ</td>
                   <td>Уведений одразу на Каспії</td>
-                  <td>застряг</td>
+                  <td>на ходу</td>
                 </tr>
               </tbody>
             </table>
@@ -1080,7 +1131,7 @@ export default function Page() {
             куди, як здавалося, українські засоби ураження не дотягнуться. Ця
             логіка дала збій двічі. По-перше, Каспій — не тиха гавань, а{" "}
             <strong>активний театр ракетних ударів по Україні</strong>.
-            По-друге, у травні 2026 року удар дістав «Каракурт» і там.
+            По-друге, у травні 2026 року «Каракурт» дістав ураження і там.
           </p>
 
           <h3>Каспій як пускова по Україні</h3>
@@ -1131,27 +1182,6 @@ export default function Page() {
             завдавав ударів по Україні, у відкритих джерелах немає.
           </p>
 
-          <figure className="fig">
-            <div
-              className="ph ph--dark ph__cross"
-              style={{ aspectRatio: "16/9" }}
-            >
-              <div className="ph__corners"></div>
-              <span className="ph__label">
-                ✦ Карта · Каспійськ (Дагестан) — дальності пуску «Калібрів» до
-                українських цілей (~930–1500 км)
-              </span>
-            </div>
-            <figcaption>
-              Азимут і відстань від Каспійська до України залежно від маршруту
-              польоту ракети.{" "}
-              <em>
-                Місце під карту дальностей; за потреби — інтерактив на базі
-                Leaflet.
-              </em>
-            </figcaption>
-          </figure>
-
           <h3>Дві застряглі одиниці: «Туча» і «Тайфун»</h3>
           <p>
             Станом на травень 2026 року на Каспії базувалися два «Каракурти» —
@@ -1163,17 +1193,6 @@ export default function Page() {
             флотилії) — тобто це кораблі, які так і не дісталися «свого» моря й
             застрягли в басейні, для якого не призначалися.
           </p>
-          <div className="aside-note">
-            <div className="aside-note__lbl">
-              Дозбір · командири «Тучі» й «Тайфуна»
-            </div>
-            Поіменно встановити не вдалося. Російські церемонійні звіти про
-            введення у стрій (Каспійськ, 21.12.2024 і 28.08.2025) називають лише
-            старше начальство (головком ВМФ, командувач Каспійської флотилії,
-            директор заводу), командирів кораблів не згадують. На фінал —
-            короткий рядок «командирів за відкритими даними встановити не
-            вдалося».
-          </div>
 
           <div className="episode">
             <span className="episode__date">07.05.2026 · Каспійськ</span>
@@ -1189,7 +1208,7 @@ export default function Page() {
               [8]
             </a>{" "}
             Який саме корабель уражено — «Туча» чи «Тайфун» — офіційно не
-            називали; ідентифікація потребує супутникового підтвердження.
+            називали.
           </p>
           <p>
             Спікер ВМС України Дмитро Плетенчук звернув увагу на гірку для РФ
@@ -1203,29 +1222,29 @@ export default function Page() {
             дрон типу «Лютий» (дальність близько 1400 км, бойова частина 40–50
             кг) або FP-1 (до 1600 км, БЧ близько 120 кг).
           </p>
+
+          <figure className="fig">
+            <img
+              src="/articles/karakurty-pobyta-seria-nosiyiv-kalibriv/kaspij_hit.jpg"
+              alt="Фото · Супутникові знімки ураження МРК типу «Каракурт» в порту Каспійськ."
+              style={{
+                width: "100%",
+                aspectRatio: "21/9",
+                objectFit: "cover",
+                display: "block",
+              }}
+            />
+            <figcaption>
+              Супутникові знімки ураження МРК типу «Каракурт» в порту Каспійськ.
+            </figcaption>
+          </figure>
+
           <p>
             Цей удар став, за формулюванням Генштабу,{" "}
             <strong>другим за тиждень ураженим носієм «Калібрів»</strong>: на
             кілька днів раніше, 3 травня, було атаковано «Каракурт» «Амур» у
             балтійському Приморську (про що — у § 03).
           </p>
-
-          <figure className="fig">
-            <div
-              className="ph ph--dark ph__cross"
-              style={{ aspectRatio: "16/9" }}
-            >
-              <div className="ph__corners"></div>
-              <span className="ph__label">
-                🛰 Супутник · акваторія Каспійська «до/після» 07.05.2026 —
-                ідентифікація ураженого корабля
-              </span>
-            </div>
-            <figcaption>
-              За наявності верифікованого знімка — підтвердити, «Туча» це чи
-              «Тайфун». <em>Місце під супутниковий знімок.</em>
-            </figcaption>
-          </figure>
 
           <h3>Каспійськ під ударами: система, а не епізод</h3>
           <p>
@@ -1271,37 +1290,6 @@ export default function Page() {
             що навіть ця ціна не гарантує безпеки: удар дістав їх і за тисячу
             кілометрів від фронту.
           </p>
-          <div className="callout">
-            <p className="callout__title">§ 02 · Каспій — зведення</p>
-            <table>
-              <thead>
-                <tr>
-                  <th>Корабель</th>
-                  <th>Уведений</th>
-                  <th>База</th>
-                  <th>Статус після 07.05.2026</th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr>
-                  <td>
-                    <strong>«Туча»</strong>
-                  </td>
-                  <td>21.12.2024</td>
-                  <td>Каспійськ</td>
-                  <td>застрягла; можливо, ціль удару (не ідентифіковано)</td>
-                </tr>
-                <tr>
-                  <td>
-                    <strong>«Тайфун»</strong>
-                  </td>
-                  <td>28.08.2025</td>
-                  <td>Каспійськ</td>
-                  <td>застряг; можливо, ціль удару (не ідентифіковано)</td>
-                </tr>
-              </tbody>
-            </table>
-          </div>
 
           {/* ===================== § 03 · БАЛТИКА ===================== */}
           <h2>
