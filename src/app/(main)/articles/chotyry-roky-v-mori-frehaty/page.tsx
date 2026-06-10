@@ -1,4 +1,4 @@
-import "./frigates.css";
+﻿import "./frigates.css";
 import type { Metadata } from "next";
 import Link from "next/link";
 import { getAllArticles, getArticleBySlug, formatDate } from "@/lib/articles";
@@ -2081,7 +2081,7 @@ export default function Page() {
                   <p className="card__dek">{a.dek}</p>
                   <div className="card__meta">
                     <span>{formatDate(a.date)}</span>
-                    <span>{a.authors[0].split(" ").at(-1)?.toUpperCase()}</span>
+                    <span>{a.authors[0]?.split(" ").at(-1)?.toUpperCase()}</span>
                   </div>
                 </article>
               ))}
@@ -2092,3 +2092,4 @@ export default function Page() {
     </main>
   );
 }
+

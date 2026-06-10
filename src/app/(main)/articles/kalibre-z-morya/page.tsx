@@ -1,4 +1,4 @@
-import "./kalibre-z-morya.css";
+﻿import "./kalibre-z-morya.css";
 import Link from 'next/link';
 import type { ReactNode } from 'react';
 import type { Metadata } from 'next';
@@ -190,7 +190,7 @@ export default async function KalibreZMoryaPage() {
                   <p className="card__dek">{a.dek}</p>
                   <div className="card__meta">
                     <span>{formatDate(a.date)}</span>
-                    <span>{a.authors[0].split(' ').at(-1)?.toUpperCase()}</span>
+                    <span>{a.authors[0]?.split(' ').at(-1)?.toUpperCase()}</span>
                   </div>
                 </article>
               ))}
@@ -201,3 +201,4 @@ export default async function KalibreZMoryaPage() {
     </main>
   );
 }
+

@@ -1,3 +1,4 @@
+import Link from 'next/link';
 import { getAllArticles } from '@/lib/articles';
 
 export const metadata = { title: 'Проєкти — PLITKA Analytics' };
@@ -31,11 +32,11 @@ export default function ProektyPage() {
           </div>
           <div className="projects-strip" style={{ gridTemplateColumns: 'repeat(3, 1fr)' }}>
             {projects.map(({ code, title, count }) => (
-              <div key={code} className="ptile ptile--accent">
+              <Link key={code} href={`/articles?project=${encodeURIComponent(code)}`} className="ptile ptile--accent ptile--link">
                 <span className="ptile__code">{code}</span>
                 <div className="ptile__title">{title}</div>
                 <span className="ptile__count">{count} {count === 1 ? 'матеріал' : 'матеріали'}</span>
-              </div>
+              </Link>
             ))}
           </div>
         </div>

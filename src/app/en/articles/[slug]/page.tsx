@@ -179,7 +179,7 @@ export default async function ArticlePageEN({ params }: { params: Promise<{ slug
                   <p className="card__dek">{a.dek}</p>
                   <div className="card__meta">
                     <span>{formatDate(a.date, 'en')}</span>
-                    <span>{a.authors[0].split(' ').at(-1)?.toUpperCase()}</span>
+                    <span>{a.authors[0]?.split(' ').at(-1)?.toUpperCase()}</span>
                   </div>
                 </article>
               ))}

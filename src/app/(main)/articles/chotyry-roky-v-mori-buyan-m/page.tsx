@@ -28,7 +28,7 @@ export default function Page() {
           Чотири роки в морі. Хроніка ракетоносців ВМФ РФ у війні 2022–2026
         </h1>
         <p className="article-head__dek">
-          Частина 1 — МРК "Буян-М". Що сталося з кожною платформою-носієм
+          Частина 2 — МРК "Буян-М". Що сталося з кожною платформою-носієм
           «Калібру» від лютого 2022 року: пуски, удари по носіях, переміщення,
           втрати.
         </p>
@@ -2130,7 +2130,7 @@ export default function Page() {
                   <p className="card__dek">{a.dek}</p>
                   <div className="card__meta">
                     <span>{formatDate(a.date)}</span>
-                    <span>{a.authors[0].split(" ").at(-1)?.toUpperCase()}</span>
+                    <span>{a.authors[0]?.split(" ").at(-1)?.toUpperCase()}</span>
                   </div>
                 </article>
               ))}
