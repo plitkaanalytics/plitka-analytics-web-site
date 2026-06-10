@@ -55,7 +55,7 @@ export default function Page() {
           <div className="article-head__meta">
             <div>
               <span className="meta__lbl">Автори</span>
-              <span className="meta__val">[ вкажіть авторів ]</span>
+              <span className="meta__val">Олег Гриценко, Семен Зубрєков</span>
             </div>
             <div>
               <span className="meta__lbl">Проєкт</span>
@@ -64,8 +64,8 @@ export default function Page() {
               </span>
             </div>
             <div>
-              <span className="meta__lbl">Оновлено</span>
-              <span className="meta__val">[ дата ]</span>
+              <span className="meta__lbl">Час читання</span>
+              <span className="meta__val">25 хв</span>
             </div>
           </div>
         </div>
@@ -1303,10 +1303,8 @@ export default function Page() {
             серія робить саме те, для чого створювалася. Тут служить головний
             корабель проєкту й уся лінійка з повноцінною ППО; тут «Каракурти»
             базуються в рідних водах флоту (Балтійськ у Калінінградській області
-            та Кронштадт під Санкт-Петербургом), без потреби тікати. Балтика —
-            найменш драматичний з усіх розділів цієї історії саме тому, що тут
-            із кораблями нічого катастрофічного не сталося. Але навіть сюди
-            дотягнулися українські удари, а ще раніше сюди прибився
+            та Кронштадт під Санкт-Петербургом), без потреби тікати. Але навіть
+            сюди дотягнулися українські удари, а ще раніше сюди прибився
             чорноморський утікач.
           </p>
 
@@ -1342,6 +1340,7 @@ export default function Page() {
               <tr>
                 <td>
                   <strong>«Совєтськ»</strong>
+                  <span style={{ color: "var(--slate)" }}>(ex-«Тайфун»)</span>
                 </td>
                 <td>252</td>
                 <td>08.10.2019</td>
@@ -1351,6 +1350,7 @@ export default function Page() {
               <tr>
                 <td>
                   <strong>«Одинцово»</strong>
+                  <span style={{ color: "var(--slate)" }}>(ex-«Шквал»)</span>
                 </td>
                 <td>253</td>
                 <td>14.11.2020</td>
@@ -1397,7 +1397,6 @@ export default function Page() {
             даними Defence Express, має назву <strong>«Козельськ»</strong>;
             назви двох інших за відкритими джерелами однозначно не встановлені.
           </p>
-
           <figure className="fig">
             <div
               style={{
@@ -1406,24 +1405,35 @@ export default function Page() {
                 gap: "12px",
               }}
             >
-              <div className="ph ph--blue" style={{ aspectRatio: "4/3" }}>
-                <div className="ph__corners"></div>
-                <span className="ph__label">
-                  Надбудова «Митищів»/«Совєтська» · АК-630М
-                </span>
+              <div
+                className="satfig__cell"
+                style={{
+                  backgroundImage:
+                    "url('/articles/karakurty-pobyta-seria-nosiyiv-kalibriv/ak_mytischi.webp')",
+                  backgroundSize: "cover",
+                  backgroundPosition: "center",
+                }}
+              >
+                <div className="tag">
+                  Фото · АК-630М встановлені на МРК «Митищі»
+                </div>
               </div>
-              <div className="ph ph--cream" style={{ aspectRatio: "4/3" }}>
-                <div className="ph__corners"></div>
-                <span className="ph__label">
-                  Надбудова «Одинцова»/«Бурі» · «Панцир-М»
-                </span>
+              <div
+                className="satfig__cell"
+                style={{
+                  backgroundImage:
+                    "url('/articles/karakurty-pobyta-seria-nosiyiv-kalibriv/pancyr_mrk-odincovo.jpeg')",
+                  backgroundSize: "cover",
+                  backgroundPosition: "center",
+                }}
+              >
+                <div className="tag">
+                  Фото · Панцир встановлений на МРК «Одинцово»
+                </div>
               </div>
             </div>
             <figcaption>
-              <b>Візуальна різниця ППО.</b>{" "}
-              <em>
-                Порівняння надбудов двох конфігурацій серії — місце під фото.
-              </em>
+              Порівняння надбудов двох конфігурацій серії.{" "}
             </figcaption>
           </figure>
 
@@ -1475,23 +1485,6 @@ export default function Page() {
             «Каракурт» у Каспійську (§ 02).
           </p>
 
-          <figure className="fig">
-            <div
-              className="ph ph--dark ph__cross"
-              style={{ aspectRatio: "16/9" }}
-            >
-              <div className="ph__corners"></div>
-              <span className="ph__label">
-                🛰 Порт Приморськ після удару 03.05.2026 — ідентифікація та BDA
-                ураженого «Каракурта»
-              </span>
-            </div>
-            <figcaption>
-              За наявності верифікованих знімків — підтвердити, чи це «Амур».{" "}
-              <em>Місце під супутниковий знімок / фото.</em>
-            </figcaption>
-          </figure>
-
           <h3>Підсумок розділу</h3>
           <p>
             Балтика — дзеркальне відображення Чорного моря. Тут проєкт 22800
@@ -1506,7 +1499,7 @@ export default function Page() {
 
           {/* ===================== § 04 · ТИХИЙ ОКЕАН ===================== */}
           <h2>
-            <span className="h2-num">§ 04 · Тихий океан</span>Гілка, яка ще не
+            <span className="h2-num">§ 04 · Тихий океан</span>Серія, яка ще не
             доплила
           </h2>
 
@@ -1537,11 +1530,6 @@ export default function Page() {
             той випадок, коли «Каракурти» не загрожують Україні не тому, що їх
             знищили чи витіснили, а тому, що вони досі не готові воювати.
           </p>
-          <div className="aside-note">
-            <div className="aside-note__lbl">Дозбір</div>
-            Чи введено «Ржев» у стрій станом на дату публікації — оновити перед
-            версткою.
-          </div>
 
           {/* ===================== ПРОЄКТ У ЦИФРАХ ===================== */}
           <h2>
@@ -1669,23 +1657,6 @@ export default function Page() {
             </tbody>
           </table>
 
-          <figure className="fig fig--wide">
-            <div
-              className="ph ph--dark ph__cross"
-              style={{ aspectRatio: "16/7" }}
-            >
-              <div className="ph__corners"></div>
-              <span className="ph__label">
-                ✦ Зведена інфографіка · силует пр. 22800 із винесенням озброєння
-                (УКСК 3С14, АК-176МА, «Панцир-М», АК-630М) + блок ТТХ
-              </span>
-            </div>
-            <figcaption>
-              Оглядовий силует «Каракурта» з ключовими системами озброєння.{" "}
-              <em>Місце під інфографіку.</em>
-            </figcaption>
-          </figure>
-
           {/* ===================== ВИСНОВОК ===================== */}
           <h2>
             <span className="h2-num">Висновок</span>Побита серія, яка лишається
@@ -1723,21 +1694,14 @@ export default function Page() {
             але не знімають загрозу остаточно.
           </p>
           <p>
-            Проте було б помилкою читати цей баланс як остаточну перемогу. Майже
-            всю серію вже спущено на воду — близько чотирнадцяти кораблів із
-            шістнадцяти, — і Росія продовжує вводити нові одиниці: «Буря»
+            Майже всю серію вже спущено на воду — близько чотирнадцяти кораблів
+            із шістнадцяти, — і Росія продовжує вводити нові одиниці: «Буря»
             поповнила Балтійський флот 8 травня 2026 року. Кожен «Каракурт»,
             прийнятий у стрій, — це повноцінний носій до восьми «Калібрів» або
             «Оніксів». А Каспій, куди втекли чорноморські кораблі, лишається
             активним театром ракетних ударів по Україні: пуски «Калібрів» звідти
             фіксували й у ніч проти 2 червня 2026 року. Полювання триває на всіх
             театрах одночасно.
-          </p>
-          <p>
-            Низка питань лишається відкритою — і ми позначаємо їх чесно: чи
-            здійснював хоч один каспійський «Каракурт» пуски саме по Україні; чи
-            відновлять «Аскольд»; який корабель уражено в Приморську. Відповіді
-            уточнять час і нові відкриті дані.
           </p>
 
           {/* ===================== ДЖЕРЕЛА ===================== */}
@@ -1789,34 +1753,23 @@ export default function Page() {
                 (~15.05.2026), не підтверджені.
               </li>
             </ol>
-            <p
-              style={{
-                fontFamily: "var(--mono)",
-                fontSize: "11px",
-                letterSpacing: ".06em",
-                color: "var(--slate)",
-                marginTop: "18px",
-              }}
-            >
-              Зведений список усіх позначок [ДОЗБІР] і [ПЕРЕВІРИТИ НА РЕДАКЦІЇ]
-              — для фінальної звірки. Окремо: наскрізна звірка дат вводу
-              «Совєтська» (8 vs 12.10.2019) та «Одинцова» (14 vs 21.11.2020):
-              RussianShips проти VPK.name.
-            </p>
           </div>
           {/* ============ NEXT UP ============ */}
           <div className="next-up">
             <span className="next-up__label">Цикл · Флот РФ</span>
             <div>
-              <p className="next-up__title">Чотири роки в морі. МРК «Буян-М»</p>
+              <p className="next-up__title">
+                Чотири роки в морі. Підводні човни.
+              </p>
               <p className="next-up__dek">
-                Попередник «Каракурта» по ніші носія «Калібрів»: серія 21631 на
-                Чорному морі, Каспії та Балтиці — хроніка 2022–2026.
+                Найскладніший для ураження морський ворог не уник уражень,
+                проте, підводні човни все ще становлять значну загрозу у Чорному
+                морі. Про них наступний розділ серії.
               </p>
             </div>
             <Link
               className="btn btn--red"
-              href="/articles/chotyry-roky-v-mori-buyan-m"
+              href="/articles/pidvodni_chovny_varshavyanka"
             >
               Читати
             </Link>
@@ -1831,7 +1784,7 @@ export default function Page() {
               <span className="chip chip--steel">ВМФ РФ</span>
               <span className="chip">OSINT</span>
             </div>
-            <div>CC BY-NC 4.0 · [ дата ]</div>
+            <div>CC BY-NC 4.0 · [ 10.06.2026 ]</div>
           </div>
         </div>
         {/* /article-body */}
