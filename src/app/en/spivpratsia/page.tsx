@@ -3,13 +3,6 @@ export const metadata = { title: 'Partner with us — PLITKA Analytics' };
 export default function PartnerPageEN() {
   return (
     <>
-      <div className="substrip">
-        <div className="substrip__inner">
-          <div>
-            <strong>Partner with us</strong> · Partnerships &amp; enquiries
-          </div>
-        </div>
-      </div>
       <section className="section">
         <div className="container" style={{ maxWidth: '880px' }}>
           <div className="section__head">

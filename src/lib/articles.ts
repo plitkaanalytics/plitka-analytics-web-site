@@ -94,8 +94,14 @@ export function getArticleData(slug: string): unknown | null {
   return JSON.parse(fs.readFileSync(dataPath, 'utf-8'));
 }
 
-export function formatDate(dateStr: string, locale: 'uk' | 'en' = 'uk'): string {
-  return new Date(dateStr).toLocaleDateString(locale === 'en' ? 'en-US' : 'uk-UA', {
+export function formatDate(dateStr: string, locale: 'uk' | 'en' = 'uk', format: 'long' | 'short' = 'long'): string {
+  const d = new Date(dateStr);
+  if (format === 'short') {
+    const day = String(d.getDate()).padStart(2, '0');
+    const month = String(d.getMonth() + 1).padStart(2, '0');
+    return `${day}.${month}.${d.getFullYear()}`;
+  }
+  return d.toLocaleDateString(locale === 'en' ? 'en-US' : 'uk-UA', {
     day: 'numeric',
     month: 'long',
     year: 'numeric',

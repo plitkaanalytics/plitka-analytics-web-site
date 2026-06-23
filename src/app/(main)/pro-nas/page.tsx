@@ -3,13 +3,6 @@ export const metadata = { title: "Про нас — PLITKA Analytics" };
 export default function ProNasPage() {
   return (
     <>
-      <div className="substrip">
-        <div className="substrip__inner">
-          <div>
-            <strong>Про нас</strong> · PLITKA Analytics
-          </div>
-        </div>
-      </div>
       <section className="section">
         <div className="container" style={{ maxWidth: "880px" }}>
           <div className="section__head">

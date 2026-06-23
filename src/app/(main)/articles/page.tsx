@@ -27,31 +27,8 @@ export default async function ArticlesPage({
     }
   });
 
-  const activeProjectTitle = projectFilter
-    ? groups.get(projectFilter)?.title ?? 'Невідомий проєкт'
-    : null;
-
   return (
     <>
-      <div className="substrip">
-        <div className="substrip__inner">
-          <div>
-            <strong>Розслідування</strong>
-            {activeProjectTitle ? (
-              <> · {activeProjectTitle}</>
-            ) : (
-              <> · Усі матеріали</>
-            )}
-          </div>
-          <div className="substrip__actions">
-            {projectFilter && (
-              <Link href="/articles" className="substrip__clear">← Усі проєкти</Link>
-            )}
-            <span>{filtered.length} {filtered.length === 1 ? 'матеріал' : 'матеріалів'}</span>
-          </div>
-        </div>
-      </div>
-
       {Array.from(groups.values()).map(({ code, title, articles }) => (
         <section className="section" key={code} id={`project-${code}`}>
           <div className="container">

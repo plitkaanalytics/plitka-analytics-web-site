@@ -1,144 +1,59 @@
-﻿import Link from 'next/link';
+import Link from 'next/link';
 import { getAllArticles, formatDate } from '@/lib/articles';
-import { dict } from '@/lib/i18n';
 
 export const metadata = { title: 'PLITKA Analytics — OSINT analysis of the war in Ukraine' };
-
-const t = dict.en;
 
 export default function HomePageEN() {
   const articles = getAllArticles('en');
   const [hero, ...rest] = articles;
 
-  const projectMap = new Map<string, { code: string; title: string; count: number }>();
-  articles.forEach((a) => {
-    const existing = projectMap.get(a.project);
-    if (existing) existing.count++;
-    else projectMap.set(a.project, { code: a.projectCode, title: a.project, count: 1 });
-  });
-  const projects = Array.from(projectMap.values());
-
   return (
     <>
-      <div className="substrip">
-        <div className="substrip__inner">
-          <div><strong>OSINT monitoring</strong> · War in Ukraine · Black Sea region</div>
-          <div>{t.updated}: <strong>{hero ? formatDate(hero.date, 'en') : ''}</strong></div>
-        </div>
-      </div>
-
       {hero && (
         <section className="hero">
-          <div className="container">
-            <div className="hero__grid">
-              <article className="hero__lead">
-                {hero.leadMapUrl ? (
-                  <iframe
-                    src={hero.leadMapUrl}
-                    style={{ width: '100%', height: '360px', display: 'block', border: 'none', marginBottom: '24px' }}
-                    title={hero.title}
-                  />
-                ) : hero.leadImage ? (
-                  <img src={hero.leadImage} alt={hero.title} style={{ width: '100%', display: 'block', marginBottom: '24px' }} />
-                ) : (
-                  <div className="ph ph__cross" style={{ aspectRatio: '16/9', marginBottom: '24px' }}>
-                    <span className="ph__corners" />
-                    <div className="ph__label">{t.placeholderLabel} · {hero.projectCode}</div>
-                  </div>
-                )}
-                <div className="hero__eyebrow">
-                  <span className="chip chip--red">{hero.category}</span>
-                  <span className="mono">{hero.projectCode}</span>
-                  <span className="mono">{formatDate(hero.date, 'en')}</span>
-                </div>
-                <h1 className="hero__title">
-                  <Link href={`/en/articles/${hero.slug}`}>{hero.title}</Link>
-                </h1>
-                <p className="hero__dek">{hero.dek}</p>
-                <div className="hero__byline">
-                  <span>
-                    <strong>{hero.authors[0]}</strong>
-                    {hero.authors[1] ? `, ${hero.authors[1]}` : ''}
-                  </span>
-                  <span>· {hero.readingTime} {t.readingTimeUnit}</span>
-                </div>
-              </article>
-
-              <aside className="hero__side" aria-label={t.newMaterials}>
-                <div className="hero__sidehead">
-                  <span style={{ display: 'inline-block', width: 6, height: 6, background: 'var(--red)', marginRight: 8, verticalAlign: 'middle' }} />
-                  {t.newMaterials}
-                </div>
-                {rest.slice(0, 4).map((a) => (
-                  <div className="briefitem" key={a.slug}>
-                    <div className="briefitem__meta">
-                      <span className="tag">{a.tags[0]}</span>
-                      <span>{formatDate(a.date, 'en')}</span>
-                    </div>
-                    <h3 className="briefitem__title">
-                      <Link href={`/en/articles/${a.slug}`}>{a.title}</Link>
-                    </h3>
-                    <div className="briefitem__loc">{a.projectCode}</div>
-                  </div>
-                ))}
-              </aside>
+          {hero.leadImage && (
+            <div className="hero__media">
+              <img src={hero.leadImage} alt="" />
             </div>
+          )}
+          <div className="hero__content">
+            <span className="eyebrow">{hero.category}</span>
+            <h1><Link href={`/en/articles/${hero.slug}`}>{hero.title}</Link></h1>
+            <Link href={`/en/articles/${hero.slug}`} className="hero__btn">
+              Read
+            </Link>
           </div>
         </section>
       )}
 
-      {projects.length > 0 && (
-        <section className="section" style={{ paddingTop: '48px' }}>
-          <div className="container">
-            <div className="section__head">
-              <h2 className="section__title">{t.activeDirections}</h2>
-              <Link href="/en/proekty" className="section__more">{t.allProjects}</Link>
-            </div>
-            <div className="projects-strip">
-              {projects.map(({ code, title, count }) => (
-                <Link key={code} href="/en/proekty" className="ptile ptile--accent">
-                  <span className="ptile__code">{code}</span>
-                  <div className="ptile__title">{title}</div>
-                  <span className="ptile__count">{t.articleCount(count)}</span>
-                </Link>
-              ))}
-            </div>
+      <section className="section-investigations">
+        <div className="wrap">
+          <div className="section-head">
+            <span className="eyebrow">More investigations</span>
           </div>
-        </section>
-      )}
-
-      <section className="section">
-        <div className="container">
-          <div className="section__head">
-            <h2 className="section__title">{t.latestMaterials}</h2>
-            <Link href="/en/articles" className="section__more">{t.archive}</Link>
-          </div>
-          <div className="grid-3">
-            {articles.slice(0, 6).map((a) => (
-              <article className="card" key={a.slug}>
-                {a.leadImage ? (
-                  <img src={a.leadImage} alt={a.title} className="card__img card__img--photo" />
-                ) : (
-                  <div className="ph ph__cross card__img">
-                    <span className="ph__corners" />
-                    <div className="ph__label">{a.projectCode}</div>
-                  </div>
-                )}
-                <div><span className="card__tag">{a.project}</span></div>
-                <h3 className="card__title">
-                  <Link href={`/en/articles/${a.slug}`}>{a.title}</Link>
-                </h3>
-                <p className="card__dek">{a.dek}</p>
-                <div className="card__meta">
-                  <span>{formatDate(a.date, 'en')}</span>
-                  <span>{a.authors[0]?.split(' ').at(-1)?.toUpperCase()}</span>
-                </div>
-              </article>
+          <div className="cards">
+            {rest.slice(0, 3).map((a) => (
+              <Link key={a.slug} className="card" href={`/en/articles/${a.slug}`}>
+                <span className="card__date">{formatDate(a.date, 'en', 'short')}</span>
+                <span className="card__title">{a.title}</span>
+              </Link>
             ))}
+          </div>
+        </div>
+      </section>
+
+      <section className="section-about">
+        <div className="wrap">
+          <span className="eyebrow">About us</span>
+          <div className="about-grid">
+            <div className="about-text">
+              <p className="is-lead">PLITKA Analytics is an independent OSINT team documenting Russia's naval infrastructure and logistics using open-source data.</p>
+              <p>We work with satellite imagery, ship registries, AIS data and public procurement records. Every conclusion in our materials is sourced and independently verifiable.</p>
+            </div>
+            <div className="eye-mark" />
           </div>
         </div>
       </section>
     </>
   );
 }
-

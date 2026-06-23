@@ -3,13 +3,6 @@ export const metadata = { title: 'About Us — PLITKA Analytics' };
 export default function AboutPageEN() {
   return (
     <>
-      <div className="substrip">
-        <div className="substrip__inner">
-          <div>
-            <strong>About us</strong> · PLITKA Analytics
-          </div>
-        </div>
-      </div>
       <section className="section">
         <div className="container" style={{ maxWidth: '880px' }}>
           <div className="section__head">

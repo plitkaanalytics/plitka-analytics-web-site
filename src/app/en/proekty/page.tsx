@@ -18,12 +18,6 @@ export default function ProjectsPageEN() {
 
   return (
     <>
-      <div className="substrip">
-        <div className="substrip__inner">
-          <div><strong>Projects</strong> · Active tracks</div>
-          <div>{projects.length} {projects.length === 1 ? 'track' : 'tracks'}</div>
-        </div>
-      </div>
       <section className="section">
         <div className="container">
           <div className="section__head">

@@ -22,13 +22,6 @@ export default async function ArticlesPageEN({
 
   return (
     <>
-      <div className="substrip">
-        <div className="substrip__inner">
-          <div><strong>{t.breadcrumbArticles}</strong> · All materials</div>
-          <div>{t.archiveSub(all.length)}</div>
-        </div>
-      </div>
-
       <section className="section">
         <div className="container">
           <div className="section__head">

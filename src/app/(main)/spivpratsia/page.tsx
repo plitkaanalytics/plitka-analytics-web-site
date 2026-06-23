@@ -3,13 +3,6 @@ export const metadata = { title: "Співпраця — PLITKA Analytics" };
 export default function SpivpratsiaPage() {
   return (
     <>
-      <div className="substrip">
-        <div className="substrip__inner">
-          <div>
-            <strong>Співпраця</strong> · Партнерства та запити
-          </div>
-        </div>
-      </div>
       <section className="section">
         <div className="container" style={{ maxWidth: "880px" }}>
           <div className="section__head">

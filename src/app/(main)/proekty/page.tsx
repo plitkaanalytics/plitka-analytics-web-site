@@ -19,12 +19,6 @@ export default function ProektyPage() {
 
   return (
     <>
-      <div className="substrip">
-        <div className="substrip__inner">
-          <div><strong>Проєкти</strong> · Активні напрямки</div>
-          <div>{projects.length} {projects.length === 1 ? 'напрямок' : 'напрямки'}</div>
-        </div>
-      </div>
       <section className="section">
         <div className="container">
           <div className="section__head">
