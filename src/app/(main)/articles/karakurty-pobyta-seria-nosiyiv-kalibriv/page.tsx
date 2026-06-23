@@ -1769,7 +1769,7 @@ export default function Page() {
             </div>
             <Link
               className="btn btn--red"
-              href="/articles/pidvodni_chovny_varshavyanka"
+              href="/articles/chotyry-roky-v-mori-pidvodni-chovny"
             >
               Читати
             </Link>
