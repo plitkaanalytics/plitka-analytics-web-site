@@ -1,9 +1,9 @@
 ﻿<!doctype html>
-<html lang="uk">
+<html lang="en">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Каракурт · МРК пр. 22800 — хроніка переміщень і уражень 2017–2026</title>
+    <title>PLITKA · Fleet Engine — movements and strikes chronicle of the Russian Navy</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -1151,7 +1151,7 @@
 
       /* ═══════════════════════════════════════════════════════════════
    LINE VIEW · BLACK FLEET DOSSIER  (editorial dark layout)
-   Original styles from Ракетоносці-ЧМ-Каспію-фрегати-11356Р.html
+   Original styles from Black-Sea-Caspian-frigates-11356R.html
    prefixed with --lv- to avoid clashing with map-view tokens.
    ═══════════════════════════════════════════════════════════════ */
       .view-line {
@@ -2668,14 +2668,14 @@
               <circle cx="9" cy="8" r="1.3" fill="currentColor" stroke="none" />
               <circle cx="12" cy="12" r="1.3" fill="currentColor" stroke="none" />
             </svg>
-            Лінія
+            Line
           </button>
           <button class="mode-btn" data-mode="map" role="tab" aria-selected="false">
             <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5">
               <path d="M1.5 3.5l4-1.5 5 1.5 4-1.5v11l-4 1.5-5-1.5-4 1.5z" />
               <path d="M5.5 2v11M10.5 3.5v11" />
             </svg>
-            Карта
+            Map
           </button>
         </div>
       </div>
@@ -2685,25 +2685,25 @@
           <div class="lv-doc">
             <div class="lv-intro-row">
               <p class="lv-intro-text">
-                Хроніка переміщень і уражень МРК «Каракурт» (пр. 22800) — 10 кораблів, чотири театри: Балтика, Чорне море, Каспій, Тихий океан
+                Chronicle of movements and strikes — Russian Navy ships and submarines — selected series
               </p>
             </div>
             <div class="lv-toolbar">
               <div class="lv-legend-group" id="ships-toggle">
-                <span class="label">Кораблі</span>
+                <span class="label">Ships</span>
                 <!-- chips generated from DATA.meta.ships -->
               </div>
               <div class="lv-legend-group legend-state">
-                <span class="label">Стан</span>
+                <span class="label">Status</span>
                 <span class="chip" style="cursor: default"
-                  ><span class="swatch active"></span>у строю</span
+                  ><span class="swatch active"></span>active</span
                 >
                 <span class="chip" style="cursor: default"
-                  ><span class="swatch dashed"></span>на ремонті (ВВШ / Астрахань)</span
+                  ><span class="swatch dashed"></span>under repair (inland waterways / Astrakhan)</span
                 >
               </div>
               <div class="lv-legend-group" id="events-toggle">
-                <span class="label">Події</span>
+                <span class="label">Events</span>
                 <button class="chip" data-evt="strike_outgoing">
                   <svg
                     class="glyph"
@@ -2728,7 +2728,7 @@
                     </g>
                     <circle r="3" fill="var(--lv-warn)"></circle>
                   </svg>
-                  удар по цілі
+                  strike on target
                 </button>
                 <button class="chip" data-evt="strike_incoming">
                   <svg
@@ -2748,7 +2748,7 @@
                     ></polygon>
                     <circle r="1.8" fill="#fff"></circle>
                   </svg>
-                  удар по кораблю
+                  strike on ship
                 </button>
                 <button class="chip" data-evt="incident">
                   <svg
@@ -2778,7 +2778,7 @@
                       fill="var(--lv-bg)"
                     ></rect>
                   </svg>
-                  інцидент
+                  incident
                 </button>
                 <button class="chip" data-evt="command">
                   <svg
@@ -2796,7 +2796,7 @@
                       transform="rotate(45)"
                     ></rect>
                   </svg>
-                  командування
+                  command
                 </button>
                 <button class="chip" data-evt="operation">
                   <svg
@@ -2813,7 +2813,7 @@
                     ></circle>
                     <circle r="1.4" fill="var(--lv-grig)"></circle>
                   </svg>
-                  операція
+                  operation
                 </button>
                 <button class="chip" data-evt="context">
                   <svg
@@ -2827,7 +2827,7 @@
                       fill="var(--lv-ink-3)"
                     ></polygon>
                   </svg>
-                  контекст
+                  context
                 </button>
               </div>
             </div>
@@ -2852,11 +2852,11 @@
               <div class="timeline-controls">
                 <div class="tl-current-date" id="currentDate">—</div>
                 <div class="tl-buttons">
-                  <button class="tl-btn" id="btnPrev30">−30д</button>
-                  <button class="tl-btn" id="btnPrev7">−7д</button>
-                  <button class="tl-btn" id="btnNext7">+7д</button>
-                  <button class="tl-btn" id="btnNext30">+30д</button>
-                  <button class="tl-btn" id="btnToday">До кінця</button>
+                  <button class="tl-btn" id="btnPrev30">−30d</button>
+                  <button class="tl-btn" id="btnPrev7">−7d</button>
+                  <button class="tl-btn" id="btnNext7">+7d</button>
+                  <button class="tl-btn" id="btnNext30">+30d</button>
+                  <button class="tl-btn" id="btnToday">To end</button>
                 </div>
               </div>
               <div class="tl-track-wrap" id="tlWrap">
@@ -2874,15 +2874,15 @@
               <aside class="event-panel">
                 <div class="panel-filters">
                   <div class="filter-group">
-                    <div class="filter-label">Кораблі (двоклік — ізоляція)</div>
+                    <div class="filter-label">Ships (dblclick — isolate)</div>
                     <div class="ship-filters" id="shipFilters"></div>
                   </div>
                   <div class="filter-group">
-                    <div class="filter-label">Типи подій</div>
+                    <div class="filter-label">Event types</div>
                     <div class="type-filters" id="typeFilters"></div>
                   </div>
                   <div class="filter-group">
-                    <div class="filter-label">Мінімальна важливість</div>
+                    <div class="filter-label">Min. importance</div>
                     <div class="importance-slider">
                       <input
                         type="range"
@@ -2901,10 +2901,10 @@
             </main>
 
             <footer class="map-footer">
-              <span>Ракетоносці Чорного моря і Каспію · 2022–2026</span>
+              <span>Russian Navy Missile Carriers · 2022–2026</span>
               <div class="footer-keys">
-                <span><kbd>←</kbd><kbd>→</kbd> 7д</span>
-                <span><kbd>⇧</kbd>+<kbd>←</kbd><kbd>→</kbd> 30д</span>
+                <span><kbd>←</kbd><kbd>→</kbd> 7d</span>
+                <span><kbd>⇧</kbd>+<kbd>←</kbd><kbd>→</kbd> 30d</span>
               </div>
             </footer>
           </div>
@@ -2927,7 +2927,8 @@
       // Tell app.js NOT to auto-init on load — the shell decides when.
       window.__skipMapAutoInit = true;
     </script>
-    <script src="./karakurty-data.js"></script>
+    <script>(function(){var p=new URLSearchParams(location.search),d=p.get('data');if(!d||!/^[\w-]+\.js$/.test(d))d='buyan-m-data.js';document.write('<script src="./'+d+'"><\/script>')})();</script>
+    <script src="./fleet-locale-en.js"></script>
     <script src="./leaflet.js"></script>
     <script src="./fleet-engine-app1.js"></script>
     <script src="./fleet-engine-app2.js"></script>

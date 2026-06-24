@@ -4,6 +4,7 @@ import type { ReactNode } from 'react';
 import { MDXRemote } from 'next-mdx-remote/rsc';
 import { getAllArticles, getArticleBySlug, formatDate } from '@/lib/articles';
 import VideoCarousel from '@/components/VideoCarousel';
+import { AutoFrame } from '@/components/AutoFrame';
 import { dict } from '@/lib/i18n';
 
 const t = dict.en;
@@ -139,7 +140,7 @@ export default async function ArticlePageEN({ params }: { params: Promise<{ slug
 
       <div className="lead-img">
         {article.leadMapUrl ? (
-          <iframe src={article.leadMapUrl} style={{ width: '100%', height: '520px', display: 'block', border: 'none' }} title={article.title} />
+          <AutoFrame src={article.leadMapUrl} title={article.title} fallbackHeight={820} />
         ) : article.leadImage ? (
           <img src={article.leadImage} alt={article.title} style={{ width: '100%', display: 'block' }} />
         ) : (
