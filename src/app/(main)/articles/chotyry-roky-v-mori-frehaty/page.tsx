@@ -5,7 +5,7 @@ import { getAllArticles, getArticleBySlug, formatDate } from "@/lib/articles";
 import { AutoFrame } from "@/components/AutoFrame";
 
 export const metadata: Metadata = {
-  title: "Чотири роки в морі. Фрегати — PLITKA Analytics",
+  title: "Фрегати ВМФ РФ. Чотири роки війни в морі — PLITKA Analytics",
   description:
     "Частина 1 — Фрегати. Що сталося з кожною платформою-носієм «Калібру» від лютого 2022 року: пуски, удари по носіях, переміщення, втрати.",
 };

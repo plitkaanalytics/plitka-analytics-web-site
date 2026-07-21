@@ -5,7 +5,7 @@ import { getAllArticles, getArticleBySlug, formatDate } from "@/lib/articles";
 import { AutoFrame } from "@/components/AutoFrame";
 
 export const metadata: Metadata = {
-  title: "Чотири роки в морі. Частина 2 — МРК «Буян-М» · PLITKA Analytics",
+  title: "МРК «Буян-М». Чотири роки війни в морі — PLITKA Analytics",
   description:
     "Дванадцять кораблів, три флоти, одна диверсія і удар в Онезькому озері. Хроніка кожного «Буяна-М» від лютого 2022 до травня 2026.",
   openGraph: {
@@ -24,9 +24,7 @@ export default function Page() {
     <main>
       {/* ============ ARTICLE HEAD ============ */}
       <div className="article-head">
-        <h1>
-          Чотири роки в морі. Хроніка ракетоносців ВМФ РФ у війні 2022–2026
-        </h1>
+        <h1>МРК «Буян-М». Чотири роки війни в морі</h1>
         <p className="article-head__dek">
           Частина 2 — МРК "Буян-М". Що сталося з кожною платформою-носієм
           «Калібру» від лютого 2022 року: пуски, удари по носіях, переміщення,
