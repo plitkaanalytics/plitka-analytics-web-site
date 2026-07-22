@@ -1985,8 +1985,11 @@ export default function Page() {
               поступово заміщує «Буяни-М».
             </p>
           </div>
-          <a className="btn btn--red" href="#">
-            Скоро →
+          <a
+            className="btn btn--red"
+            href="/articles/karakurty-pobyta-seria-nosiyiv-kalibriv"
+          >
+            Читати →
           </a>
         </div>
         <div className="next-up">
@@ -2004,8 +2007,11 @@ export default function Page() {
               української сторони ціль.
             </p>
           </div>
-          <a className="btn btn--red" href="#">
-            Скоро →
+          <a
+            className="btn btn--red"
+            href="/articles/chotyry-roky-v-mori-pidvodni-chovny"
+          >
+            Читати →
           </a>
         </div>
       </div>
