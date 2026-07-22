@@ -5,7 +5,7 @@ import { getAllArticles, getArticleBySlug, formatDate } from "@/lib/articles";
 import { AutoFrame } from "@/components/AutoFrame";
 
 export const metadata: Metadata = {
-  title: "Four Years at Sea. Frigates — PLITKA Analytics",
+  title: "Russian Navy Frigates. Four Years of War at Sea — PLITKA Analytics",
   description:
     "Part 1 — Frigates. What happened to each Caliber carrier platform from February 2022: launches, strikes against carriers, movements, losses.",
 };
