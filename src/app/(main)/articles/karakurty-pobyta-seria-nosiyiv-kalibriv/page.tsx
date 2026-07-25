@@ -5,8 +5,7 @@ import { getAllArticles, formatDate } from "@/lib/articles";
 import { AutoFrame } from "@/components/AutoFrame";
 
 export const metadata: Metadata = {
-  title:
-    "Чотири роки в морі. Хроніка ракетоносців ВМФ РФ у війні 2022–2026 · PLITKA Analytics",
+  title: "МРК «Каракурт». Чотири роки війни в морі — PLITKA Analytics",
   description:
     "OSINT-реконструкція долі малих ракетних кораблів проєкту 22800 «Каракурт» у війні 2022–2026: Чорне море, Каспій, Балтика, Тихий океан. Втрати, втечі та удари по носіях «Калібрів» за відкритими джерелами.",
   openGraph: {
@@ -34,9 +33,7 @@ export default function Page() {
 
         {/* ============ ARTICLE HEAD ============ */}
         <div className="article-head">
-          <h1>
-            Чотири роки в морі. Хроніка ракетоносців ВМФ РФ у війні 2022–2026
-          </h1>
+          <h1>МРК «Каракурт». Чотири роки війни в морі</h1>
           <p className="article-head__dek">
             Частина 3 — МРК "Каракурт". Що сталося з кожною платформою-носієм
             «Калібру» від лютого 2022 року: пуски, удари по носіях, переміщення,
@@ -1748,7 +1745,7 @@ export default function Page() {
             </div>
             <Link
               className="btn btn--red"
-              href="/articles/pidvodni_chovny_varshavyanka"
+              href="/articles/chotyry-roky-v-mori-pidvodni-chovny"
             >
               Читати
             </Link>
