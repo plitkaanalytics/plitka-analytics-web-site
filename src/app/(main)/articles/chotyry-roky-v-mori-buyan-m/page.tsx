@@ -22,54 +22,61 @@ export default function Page() {
 
   return (
     <main>
-      {/* ============ ARTICLE HEAD ============ */}
-      <div className="article-head">
-        <h1>МРК «Буян-М». Чотири роки війни в морі</h1>
-        <p className="article-head__dek">
-          Частина 2 — МРК "Буян-М". Що сталося з кожною платформою-носієм
-          «Калібру» від лютого 2022 року: пуски, удари по носіях, переміщення,
-          втрати.
-        </p>
-        <div className="article-head__meta">
-          <div>
-            <span className="meta__lbl">Автори</span>
-            <span className="meta__val">Олег Гриценко, Катерина Шевченко</span>
+      {/* ============ ARTICLE HEAD + INFOGRAPHIC — one continuous dark block ============ */}
+      <div className="dark-intro">
+        <div className="article-head">
+          <h1>МРК «Буян-М». Чотири роки війни в морі</h1>
+          <p className="article-head__dek">
+            Частина 2 — МРК "Буян-М". Що сталося з кожною платформою-носієм
+            «Калібру» від лютого 2022 року: пуски, удари по носіях, переміщення,
+            втрати.
+          </p>
+          <div className="article-head__meta">
+            <div>
+              <span className="meta__lbl">Автори</span>
+              <span className="meta__val">Олег Гриценко, Катерина Шевченко</span>
+            </div>
+            <div>
+              <span className="meta__lbl">Проєкт</span>
+              <span className="meta__val meta__val--mono">
+                Ракетоносці ВМФ РФ
+              </span>
+            </div>
+            <div>
+              <span className="meta__lbl">Час читання</span>
+              <span className="meta__val">28 хв</span>
+            </div>
           </div>
-          <div>
-            <span className="meta__lbl">Проєкт</span>
-            <span className="meta__val meta__val--mono">
-              Ракетоносці ВМФ РФ
-            </span>
-          </div>
-          <div>
-            <span className="meta__lbl">Час читання</span>
-            <span className="meta__val">28 хв</span>
-          </div>
+        </div>
+
+        <div className="infographic-embed">
+          <AutoFrame
+            src="/embeds/buyan-m.html?noscroll"
+            title="МРК «Буян-М» пр. 21631 · хроніка переміщень і уражень 2013–2026"
+            fallbackHeight={800}
+          />
+        </div>
+        <div className="infographic-mobile-note">
+          <img
+            src="/articles/chotyry-roky-v-mori-buyan-m/cover.jpg"
+            alt="МРК «Буян-М» · хроніка переміщень і уражень 2013–2026"
+            style={{ width: "100%", display: "block" }}
+          />
+          <p className="infographic-mobile-note__text">
+            Інтерактивна хронологія доступна лише на десктопі — відкрийте цю
+            сторінку з комп’ютера або планшета в горизонтальному режимі.
+          </p>
         </div>
       </div>
 
-      {/* ============ INFOGRAPHIC EMBED ============ */}
-      <div className="infographic-embed">
-        <AutoFrame
-          src="/embeds/buyan-m.html?noscroll"
-          title="МРК «Буян-М» пр. 21631 · хроніка переміщень і уражень 2013–2026"
-          fallbackHeight={800}
-        />
-      </div>
-      <div className="infographic-mobile-note">
-        <img
-          src="/articles/chotyry-roky-v-mori-buyan-m/cover.jpg"
-          alt="МРК «Буян-М» · хроніка переміщень і уражень 2013–2026"
-          style={{ width: "100%", display: "block" }}
-        />
-        <p className="infographic-mobile-note__text">
-          Інтерактивна хронологія доступна лише на десктопі — відкрийте цю
-          сторінку з комп’ютера або планшета в горизонтальному режимі.
-        </p>
-      </div>
-
-      {/* ============ ARTICLE BODY ============ */}
-      <div className="article-body">
+      {/* ============ LEDE + COVER PHOTO ============ */}
+      <div className="lede-block">
+        <div className="lede-block__img">
+          <img
+            src="/articles/chotyry-roky-v-mori-buyan-m/cover.jpg"
+            alt="МРК «Буян-М»"
+          />
+        </div>
         <p className="lede">
           Малі ракетні кораблі проєкту 21631 «Буян-М» — серія з дванадцяти
           кораблів, побудована для російського ВМФ між 2010-м і 2026-м роками на
@@ -81,6 +88,10 @@ export default function Page() {
           кілометрів і ракет «Онікс». Вісім ракет у вертикальній пусковій
           установці УКСК 3С14 — стільки ж, скільки на «Каракуртах».
         </p>
+      </div>
+
+      {/* ============ ARTICLE BODY ============ */}
+      <div className="article-body">
         <div className="ministats">
           <div className="ministats__c">
             <div className="ministats__v">

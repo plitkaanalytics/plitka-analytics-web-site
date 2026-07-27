@@ -11,82 +11,78 @@ export const metadata: Metadata = {
 export default function Page() {
   return (
     <main>
-      {/* ============ SUB STRIP ============ */}
-      <div className="substrip">
-        <div className="substrip__inner">
-          <span>
-            Цикл · Ракетоносці ВМФ РФ ·{" "}
-            <strong>Підводні човни «Варшавянка»</strong>
-          </span>
-          <span>проєкт 636.3 · частина 4</span>
-        </div>
-      </div>
-
       <main data-screen-label="Стаття · Підводні човни 636.3">
-        {/* breadcrumb */}
-        <nav className="breadcrumb">
-          <a href="https://plitka.agency/">Головна</a>
-          <span className="sep">›</span>
-          <a href="https://plitka.agency/articles">Розслідування</a>
-          <span className="sep">›</span>
-          <span className="current">Підводні човни «Варшавянка»</span>
-        </nav>
+        {/* ============ ARTICLE HEAD + INFOGRAPHIC — one continuous dark block ============ */}
+        <div className="dark-intro">
+          {/* breadcrumb */}
+          <nav className="breadcrumb">
+            <a href="https://plitka.agency/">Головна</a>
+            <span className="sep">›</span>
+            <a href="https://plitka.agency/articles">Розслідування</a>
+            <span className="sep">›</span>
+            <span className="current">Підводні човни «Варшавянка»</span>
+          </nav>
 
-        {/* ============ ARTICLE HEAD ============ */}
-        <div className="article-head">
-          <div className="article-head__chips">
-            <span className="chip chip--red">Цикл · Флот РФ</span>
-            <span className="chip chip--solid">пр. 636.3</span>
-            <span className="chip chip--rust">Калібр-ПЛ</span>
-            <span className="chip chip--steel">Чорне море</span>
-            <span className="chip chip--steel">Середземне море</span>
-            <span className="chip">Новоросійськ</span>
-            <span className="chip">Севастополь</span>
-            <span className="chip">Кронштадт</span>
-            <span className="chip">OSINT</span>
+          <div className="article-head">
+            <div className="article-head__chips">
+              <span className="chip chip--red">Цикл · Флот РФ</span>
+              <span className="chip chip--solid">пр. 636.3</span>
+              <span className="chip chip--rust">Калібр-ПЛ</span>
+              <span className="chip chip--steel">Чорне море</span>
+              <span className="chip chip--steel">Середземне море</span>
+              <span className="chip">Новоросійськ</span>
+              <span className="chip">Севастополь</span>
+              <span className="chip">Кронштадт</span>
+              <span className="chip">OSINT</span>
+            </div>
+            <h1>Підводні човни ВМФ РФ. Чотири роки війни в морі</h1>
+            <p className="article-head__dek">
+              Частина 4 циклу про носіїв «Калібрів». Що сталося з кожною
+              субмариною проєкту 636.3 «Варшавянка» від лютого 2022-го: пуски,
+              удари по носіях, переходи й втрати — і чому ремонтувати їх у Чорному
+              морі більше ніде.
+            </p>
+            <div className="article-head__meta">
+              <div>
+                <span className="meta__lbl">Автори</span>
+                <span className="meta__val">Семен Зубрєков, Олег Гриценко</span>
+              </div>
+              <div>
+                <span className="meta__lbl">Проєкт</span>
+                <span className="meta__val meta__val--mono">
+                  Ракетоносці ВМФ РФ
+                </span>
+              </div>
+              <div>
+                <span className="meta__lbl">Оновлено</span>
+                <span className="meta__val">23.06.26</span>
+              </div>
+            </div>
           </div>
-          <h1>Підводні човни ВМФ РФ. Чотири роки війни в морі</h1>
-          <p className="article-head__dek">
-            Частина 4 циклу про носіїв «Калібрів». Що сталося з кожною
-            субмариною проєкту 636.3 «Варшавянка» від лютого 2022-го: пуски,
-            удари по носіях, переходи й втрати — і чому ремонтувати їх у Чорному
-            морі більше ніде.
-          </p>
-          <div className="article-head__meta">
-            <div>
-              <span className="meta__lbl">Автори</span>
-              <span className="meta__val">Семен Зубрєков, Олег Гриценко</span>
-            </div>
-            <div>
-              <span className="meta__lbl">Проєкт</span>
-              <span className="meta__val meta__val--mono">
-                Ракетоносці ВМФ РФ
-              </span>
-            </div>
-            <div>
-              <span className="meta__lbl">Оновлено</span>
-              <span className="meta__val">23.06.26</span>
-            </div>
+
+          <div className="infographic-embed">
+            <AutoFrame
+              src="/embeds/fleet-engine.html?data=submarines-data.js&noscroll"
+              title="Підводні човни пр. 636.3 «Варшавянка» ЧФ РФ · хроніка переміщень і уражень 1990–2026"
+              fallbackHeight={800}
+            />
+          </div>
+          <div className="infographic-mobile-note">
+            <p className="infographic-mobile-note__text">
+              Інфографіка краще виглядає на широкому екрані. На мобільному —
+              прокрутіть горизонтально або поверніть пристрій.
+            </p>
           </div>
         </div>
 
-        {/* ============ INFOGRAPHIC ============ */}
-        <div className="infographic-embed">
-          <AutoFrame
-            src="/embeds/fleet-engine.html?data=submarines-data.js&noscroll"
-            title="Підводні човни пр. 636.3 «Варшавянка» ЧФ РФ · хроніка переміщень і уражень 1990–2026"
-            fallbackHeight={800}
-          />
-        </div>
-        <div className="infographic-mobile-note">
-          <p className="infographic-mobile-note__text">
-            Інфографіка краще виглядає на широкому екрані. На мобільному —
-            прокрутіть горизонтально або поверніть пристрій.
-          </p>
-        </div>
-
-        {/* ============ ARTICLE BODY ============ */}
-        <div className="article-body">
+        {/* ============ LEDE + COVER PHOTO ============ */}
+        <div className="lede-block">
+          <div className="lede-block__img">
+            <img
+              src="/articles/chotyry-roky-v-mori-pidvodni-chovny/cover.jpg"
+              alt="Підводні човни ВМФ РФ"
+            />
+          </div>
           <p className="lede">
             З шести підводних човнів проєкту 636.3 «Варшавянка», які
             Чорноморський флот РФ мав на початку повномасштабного вторгнення, до
@@ -97,6 +93,10 @@ export default function Page() {
             проєкту 877В — так і не зробила жодного підтвердженого пострілу
             «Калібром» за всю війну.
           </p>
+        </div>
+
+        {/* ============ ARTICLE BODY ============ */}
+        <div className="article-body">
 
           <p>
             З початком війни в Україні сили Чорноморського флоту РФ обстрілювали

@@ -8,8 +8,9 @@ export default function Footer({ locale = "uk" }: { locale?: Locale }) {
     <footer className="footer">
       <div className="footer__inner">
         <div className="footer__logo">
-          <span className="footer__fish" />
-          <Link href={`${base}/`} className="logo">PLITKA</Link>
+          <Link href={`${base}/`} className="logo">
+            <img src="/images/plitka-logo.svg" alt="PLITKA" className="logo__img" />
+          </Link>
         </div>
         <p className="footer__mission">
           Незалежна OSINT-аналітика війни в Україні. Працюємо з відкритими даними — супутниковими знімками, AIS, ADS-B, портовими реєстрами та геолокацією фото- й відеоматеріалів.

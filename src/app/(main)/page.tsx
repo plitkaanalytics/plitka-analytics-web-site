@@ -31,7 +31,14 @@ export default function HomePage() {
           </div>
           <div className="cards">
             {rest.slice(0, 3).map((a) => (
-              <Link key={a.slug} className="card" href={`/articles/${a.slug}`}>
+              <Link
+                key={a.slug}
+                className={`card${a.leadImage ? ' card--photo' : ''}`}
+                href={`/articles/${a.slug}`}
+              >
+                {a.leadImage && (
+                  <img src={a.leadImage} alt="" className="card__media" />
+                )}
                 <span className="card__date">{formatDate(a.date, 'uk', 'short')}</span>
                 <span className="card__title">{a.title}</span>
               </Link>

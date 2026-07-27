@@ -19,41 +19,43 @@ export default function Page() {
 
   return (
     <main>
-      {/* Article header */}
-      <div className="article-head">
-        <h1>{article.title}</h1>
-        <p className="article-head__dek">{article.dek}</p>
-        <div className="article-head__meta">
-          <div>
-            <span className="meta__lbl">Автори</span>
-            <span className="meta__val">{article.authors.join(", ")}</span>
-          </div>
-          <div>
-            <span className="meta__lbl">Проєкт</span>
-            <span className="meta__val">{article.project}</span>
-          </div>
-          <div>
-            <span className="meta__lbl">Час читання</span>
-            <span className="meta__val meta__val--mono">
-              {article.readingTime} хв
-            </span>
+      {/* Article header + infographic — one continuous dark block */}
+      <div className="dark-intro">
+        <div className="article-head">
+          <h1>{article.title}</h1>
+          <p className="article-head__dek">{article.dek}</p>
+          <div className="article-head__meta">
+            <div>
+              <span className="meta__lbl">Автори</span>
+              <span className="meta__val">{article.authors.join(", ")}</span>
+            </div>
+            <div>
+              <span className="meta__lbl">Проєкт</span>
+              <span className="meta__val">{article.project}</span>
+            </div>
+            <div>
+              <span className="meta__lbl">Час читання</span>
+              <span className="meta__val meta__val--mono">
+                {article.readingTime} хв
+              </span>
+            </div>
           </div>
         </div>
-      </div>
 
-      {/* Infographic embed */}
-      <div className="infographic-embed">
-        <AutoFrame
-          src="/embeds/black-fleet-frigates.html?noscroll"
-          title="Ракетоносці Чорного моря і Каспію · пр. 11356Р + пр. 11661К"
-          fallbackHeight={1050}
-        />
-      </div>
-      <div className="infographic-mobile-note">
-        <p className="infographic-mobile-note__text">
-          Інтерактивна хронологія доступна лише на десктопі — відкрийте цю
-          сторінку з комп'ютера або планшета в горизонтальному режимі.
-        </p>
+        {/* Infographic embed */}
+        <div className="infographic-embed">
+          <AutoFrame
+            src="/embeds/black-fleet-frigates.html?noscroll"
+            title="Ракетоносці Чорного моря і Каспію · пр. 11356Р + пр. 11661К"
+            fallbackHeight={1050}
+          />
+        </div>
+        <div className="infographic-mobile-note">
+          <p className="infographic-mobile-note__text">
+            Інтерактивна хронологія доступна лише на десктопі — відкрийте цю
+            сторінку з комп'ютера або планшета в горизонтальному режимі.
+          </p>
+        </div>
       </div>
 
       {/* TOC + article body */}

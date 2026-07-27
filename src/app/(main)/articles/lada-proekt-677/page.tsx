@@ -85,7 +85,6 @@ export default function Page() {
               width: "100%",
               aspectRatio: "21/10",
               objectFit: "cover",
-              border: "1px solid var(--rule)",
             }}
           />
           <div className="lead-img__caption">
@@ -1236,7 +1235,7 @@ export default function Page() {
 
         {/* ============ RELATED ARTICLES ============ */}
         {related.length > 0 && (
-          <section className="section">
+          <section className="section section--beige">
             <div className="container">
               <div className="section__head">
                 <h2 className="section__title">Інші матеріали</h2>
@@ -1259,18 +1258,18 @@ export default function Page() {
                         <div className="ph__label">{a.projectCode}</div>
                       </div>
                     )}
-                    <div>
+                    <div className="card__body">
                       <span className="card__tag">{a.project}</span>
-                    </div>
-                    <h3 className="card__title">
-                      <Link href={`/articles/${a.slug}`}>{a.title}</Link>
-                    </h3>
-                    <p className="card__dek">{a.dek}</p>
-                    <div className="card__meta">
-                      <span>{formatDate(a.date)}</span>
-                      <span>
-                        {a.authors[0]?.split(" ").at(-1)?.toUpperCase()}
-                      </span>
+                      <h3 className="card__title">
+                        <Link href={`/articles/${a.slug}`}>{a.title}</Link>
+                      </h3>
+                      <p className="card__dek">{a.dek}</p>
+                      <div className="card__meta">
+                        <span>{formatDate(a.date)}</span>
+                        <span>
+                          {a.authors[0]?.split(" ").at(-1)?.toUpperCase()}
+                        </span>
+                      </div>
                     </div>
                   </article>
                 ))}

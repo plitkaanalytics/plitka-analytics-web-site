@@ -14,8 +14,8 @@ export default function Header() {
     { href: `${base}/`,            label: t.nav.home },
     { href: `${base}/proekty`,     label: t.nav.projects },
     { href: `${base}/articles`,    label: t.nav.articles },
-    { href: `${base}/pro-nas`,     label: t.nav.about },
     { href: `${base}/spivpratsia`, label: t.nav.collab },
+    { href: `${base}/pro-nas`,     label: t.nav.about },
   ];
 
   function otherLocaleHref() {
@@ -30,7 +30,7 @@ export default function Header() {
     <header className="header">
       <div className="header__inner">
         <Link href={`${base}/`} className="logo">
-          PLITKA
+          <img src="/images/plitka-logo.svg" alt="PLITKA" className="logo__img" />
         </Link>
 
         <nav className="nav" aria-label="Main navigation">
