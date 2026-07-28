@@ -46,7 +46,7 @@
   --radius-tag: 21px;
 
   --maxw: 1519px;
-  --header-height: 94px;
+  --header-height: 70px;
   --gutter: 32px;
 }
 
@@ -456,16 +456,22 @@ p {
 .footer {
   background: var(--ink);
   color: #fff;
-  padding: 80px 0 150px;
+  padding: 20px 0 25px;
 }
 .footer__inner {
   max-width: var(--maxw);
   margin: 0 auto;
   padding: 0 60px;
   display: flex;
+  align-items: stretch;
+  gap: 48px;
+}
+.footer__main {
+  display: flex;
   flex-direction: column;
   align-items: flex-start;
   gap: 28px;
+  flex: 1;
 }
 .footer__logo {
   display: flex;
@@ -480,14 +486,24 @@ p {
 .footer .logo:hover {
   opacity: 0.85;
 }
+.footer__divider {
+  width: 2px;
+  background: var(--orange);
+  flex-shrink: 0;
+  align-self: stretch;
+}
 .footer__nav {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px 28px;
+  display: grid;
+  grid-template-rows: repeat(3, auto);
+  grid-auto-flow: column;
+  column-gap: 56px;
+  row-gap: 20px;
   font: 600 14px/1 var(--sans);
+  flex-shrink: 0;
+  align-content: center;
 }
 .footer__nav a {
-  color: var(--warm-gray);
+  color: #fff;
   border: none;
 }
 .footer__nav a:hover {
@@ -655,7 +671,7 @@ p {
   border: none;
 }
 .hero h1 a:hover {
-  color: var(--orange);
+  color: #fff;
   border: none;
 }
 .hero__btn {
@@ -763,14 +779,7 @@ p {
   transition: background 0.15s ease;
 }
 .section-investigations .card--photo:hover::after {
-  background: linear-gradient(
-    180deg,
-    rgba(242, 76, 6, 0.35) 0%,
-    rgba(242, 76, 6, 0.88) 100%
-  );
-}
-.section-investigations .card--photo:hover {
-  background: var(--card-gray);
+  background: var(--orange);
 }
 .section-investigations .card--photo .card__date,
 .section-investigations .card--photo .card__title {
@@ -788,10 +797,9 @@ p {
   margin-top: 48px;
 }
 .about-text {
-  display: flex;
-  flex-direction: column;
-  gap: 24px;
-  max-width: 760px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 48px;
 }
 .about-text p {
   font: 400 20px/30px var(--sans);
@@ -1625,6 +1633,10 @@ p {
 @media (max-width: 1024px) {
   .cards {
     grid-template-columns: repeat(2, 1fr);
+  }
+  .about-text {
+    grid-template-columns: 1fr;
+    gap: 24px;
   }
 }
 
