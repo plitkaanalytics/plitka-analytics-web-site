@@ -57,7 +57,6 @@ export default function HomePageEN() {
               <p className="is-lead">PLITKA Analytics is an independent OSINT team documenting Russia's naval infrastructure and logistics using open-source data.</p>
               <p>We work with satellite imagery, ship registries, AIS data and public procurement records. Every conclusion in our materials is sourced and independently verifiable.</p>
             </div>
-            <div className="eye-mark" />
           </div>
         </div>
       </section>
