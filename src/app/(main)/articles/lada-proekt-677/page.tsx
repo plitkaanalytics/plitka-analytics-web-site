@@ -19,82 +19,29 @@ export default function Page() {
 
   return (
     <main>
-      {/* ============ SUB STRIP ============ */}
-      <div className="substrip">
-        <div className="substrip__inner">
-          <span>
-            Цикл · Ракетоносці ВМФ РФ · <strong>Підводні човни «Лада»</strong>
-          </span>
-          <span>проєкт 677 · частина 5</span>
-        </div>
-      </div>
-
       <main data-screen-label="Стаття · Підводні човни 677 «Лада»">
-        {/* breadcrumb */}
-        <nav className="breadcrumb">
-          <a href="/">Головна</a>
-          <span className="sep">›</span>
-          <a href="/articles">Розслідування</a>
-          <span className="sep">›</span>
-          <span className="current">Підводні човни «Лада»</span>
-        </nav>
-
         {/* ============ ARTICLE HEAD ============ */}
         <div className="article-head">
-          <div className="article-head__chips">
-            <span className="chip chip--red">Цикл · Флот РФ</span>
-            <span className="chip chip--solid">пр. 677</span>
-            <span className="chip chip--rust">Калібр-ПЛ</span>
-            <span className="chip chip--steel">Балтійський флот</span>
-            <span className="chip chip--steel">Північний флот</span>
-            <span className="chip">Санкт-Петербург</span>
-            <span className="chip">«Рубін»</span>
-            <span className="chip">ПНЕУ / AIP</span>
-            <span className="chip">OSINT</span>
-          </div>
+          <span className="eyebrow article-head__eyebrow">Розслідування</span>
           <h1>«Лада» - нове покоління підводних човнів, що не вдалося.</h1>
+          <p className="article-head__metaline">
+            Частина 5 | час читання 18 хв
+          </p>
           <p className="article-head__dek">
             Продовження циклу про носіїв «Калібрів». Проєкт 677 «Лада» - нове
             покоління малошумних дизельних каліброносців. Чому флот відкочується
             до тих самих «Варшавянок», які «Лада» мала замінити.
           </p>
-          <div className="article-head__meta">
-            <div>
-              <span className="meta__lbl">Автори</span>
-              <span className="meta__val">Олег Гриценко</span>
-            </div>
-            <div>
-              <span className="meta__lbl">Проєкт</span>
-              <span className="meta__val meta__val--mono">
-                Ракетоносці ВМФ РФ
-              </span>
-            </div>
-            <div>
-              <span className="meta__lbl">Оновлено</span>
-              <span className="meta__val">21.07.2026</span>
-            </div>
-          </div>
         </div>
 
-        {/* ============ LEAD · PHOTO ============ */}
-        <div className="lead-img">
-          <img
-            src="/articles/lada-proekt-677/cover.jpg"
-            alt="Підводний човен проєкту 677 «Лада» Б-585 «Санкт-Петербург» на Неві"
-            style={{
-              width: "100%",
-              aspectRatio: "21/10",
-              objectFit: "cover",
-            }}
-          />
-          <div className="lead-img__caption">
-            <span>Б-585 «Санкт-Петербург» — головний човен проєкту 677.</span>
-            <span>Фото · Morozov Leonid, Wikimedia Commons, CC BY 3.0</span>
+        {/* ============ LEDE + COVER PHOTO ============ */}
+        <div className="lede-block">
+          <div className="lede-block__img">
+            <img
+              src="/articles/lada-proekt-677/cover.jpg"
+              alt="Підводний човен проєкту 677 «Лада»"
+            />
           </div>
-        </div>
-
-        {/* ============ ARTICLE BODY ============ */}
-        <div className="article-body">
           <p className="lede">
             У попередніх частинах циклу ми показали, як Чорноморський флот РФ
             перетворив «Калібр» на головний інструмент ударів по Україні — з
@@ -104,7 +51,10 @@ export default function Page() {
             дальності, у кожному морі. Проєкт 677 «Лада» подають як наступний,
             технологічно вищий крок цієї ж лінії.
           </p>
+        </div>
 
+        {/* ============ ARTICLE BODY ============ */}
+        <div className="article-body">
           {/* ===================== ПРОЄКТ 677 ===================== */}
           <h2>
             <span className="h2-num">Проєкт 677</span>Що таке «Лада» і навіщо її
@@ -642,7 +592,7 @@ export default function Page() {
               <div>
                 <div className="dossier-card__photo">
                   <img
-                    src="/articles/lada-proekt-677/cover.jpg"
+                    src="/articles/lada-proekt-677/sankt-peterburg.jpg"
                     alt="«Санкт-Петербург» — головний човен проєкту 677"
                   />
                   <div className="dossier-card__photo-cap">
@@ -1245,33 +1195,17 @@ export default function Page() {
               </div>
               <div className="grid-3">
                 {related.map((a) => (
-                  <article className="card" key={a.slug}>
-                    {a.leadImage ? (
-                      <img
-                        src={a.leadImage}
-                        alt={a.title}
-                        className="card__img card__img--photo"
-                      />
-                    ) : (
-                      <div className="ph ph__cross card__img">
-                        <span className="ph__corners" />
-                        <div className="ph__label">{a.projectCode}</div>
-                      </div>
+                  <Link
+                    key={a.slug}
+                    href={`/articles/${a.slug}`}
+                    className={`card${a.leadImage ? ' card--photo' : ''}`}
+                  >
+                    {a.leadImage && (
+                      <img src={a.leadImage} alt="" className="card__media" />
                     )}
-                    <div className="card__body">
-                      <span className="card__tag">{a.project}</span>
-                      <h3 className="card__title">
-                        <Link href={`/articles/${a.slug}`}>{a.title}</Link>
-                      </h3>
-                      <p className="card__dek">{a.dek}</p>
-                      <div className="card__meta">
-                        <span>{formatDate(a.date)}</span>
-                        <span>
-                          {a.authors[0]?.split(" ").at(-1)?.toUpperCase()}
-                        </span>
-                      </div>
-                    </div>
-                  </article>
+                    <span className="card__date">{formatDate(a.date)}</span>
+                    <span className="card__title">{a.title}</span>
+                  </Link>
                 ))}
               </div>
             </div>

@@ -25,28 +25,15 @@ export default function Page() {
       {/* ============ ARTICLE HEAD + INFOGRAPHIC — one continuous dark block ============ */}
       <div className="dark-intro">
         <div className="article-head">
+          <span className="eyebrow article-head__eyebrow">Розслідування</span>
           <h1>МРК «Буян-М». Чотири роки війни в морі</h1>
-          <p className="article-head__dek">
-            Частина 2 — МРК "Буян-М". Що сталося з кожною платформою-носієм
-            «Калібру» від лютого 2022 року: пуски, удари по носіях, переміщення,
-            втрати.
+          <p className="article-head__metaline">
+            Частина 2 | час читання 28 хв
           </p>
-          <div className="article-head__meta">
-            <div>
-              <span className="meta__lbl">Автори</span>
-              <span className="meta__val">Олег Гриценко, Катерина Шевченко</span>
-            </div>
-            <div>
-              <span className="meta__lbl">Проєкт</span>
-              <span className="meta__val meta__val--mono">
-                Ракетоносці ВМФ РФ
-              </span>
-            </div>
-            <div>
-              <span className="meta__lbl">Час читання</span>
-              <span className="meta__val">28 хв</span>
-            </div>
-          </div>
+          <p className="article-head__dek">
+            Що сталося з кожною платформою-носієм «Калібру» від лютого 2022
+            року: пуски, удари по носіях, переміщення, втрати.
+          </p>
         </div>
 
         <div className="infographic-embed">
@@ -2123,31 +2110,17 @@ export default function Page() {
             </div>
             <div className="grid-3">
               {related.map((a) => (
-                <article className="card" key={a.slug}>
-                  {a.leadImage ? (
-                    <img
-                      src={a.leadImage}
-                      alt={a.title}
-                      className="card__img card__img--photo"
-                    />
-                  ) : (
-                    <div className="ph ph__cross card__img">
-                      <span className="ph__corners" />
-                      <div className="ph__label">{a.projectCode}</div>
-                    </div>
+                <Link
+                  key={a.slug}
+                  href={`/articles/${a.slug}`}
+                  className={`card${a.leadImage ? ' card--photo' : ''}`}
+                >
+                  {a.leadImage && (
+                    <img src={a.leadImage} alt="" className="card__media" />
                   )}
-                  <div>
-                    <span className="card__tag">{a.project}</span>
-                  </div>
-                  <h3 className="card__title">
-                    <Link href={`/articles/${a.slug}`}>{a.title}</Link>
-                  </h3>
-                  <p className="card__dek">{a.dek}</p>
-                  <div className="card__meta">
-                    <span>{formatDate(a.date)}</span>
-                    <span>{a.authors[0]?.split(" ").at(-1)?.toUpperCase()}</span>
-                  </div>
-                </article>
+                  <span className="card__date">{formatDate(a.date)}</span>
+                  <span className="card__title">{a.title}</span>
+                </Link>
               ))}
             </div>
           </div>

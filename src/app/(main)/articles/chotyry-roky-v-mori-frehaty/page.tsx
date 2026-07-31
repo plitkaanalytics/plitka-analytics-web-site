@@ -22,24 +22,12 @@ export default function Page() {
       {/* Article header + infographic — one continuous dark block */}
       <div className="dark-intro">
         <div className="article-head">
+          <span className="eyebrow article-head__eyebrow">Розслідування</span>
           <h1>{article.title}</h1>
+          <p className="article-head__metaline">
+            Частина 1 | час читання {article.readingTime} хв
+          </p>
           <p className="article-head__dek">{article.dek}</p>
-          <div className="article-head__meta">
-            <div>
-              <span className="meta__lbl">Автори</span>
-              <span className="meta__val">{article.authors.join(", ")}</span>
-            </div>
-            <div>
-              <span className="meta__lbl">Проєкт</span>
-              <span className="meta__val">{article.project}</span>
-            </div>
-            <div>
-              <span className="meta__lbl">Час читання</span>
-              <span className="meta__val meta__val--mono">
-                {article.readingTime} хв
-              </span>
-            </div>
-          </div>
         </div>
 
         {/* Infographic embed */}
@@ -2061,31 +2049,17 @@ export default function Page() {
             </div>
             <div className="grid-3">
               {related.map((a) => (
-                <article className="card" key={a.slug}>
-                  {a.leadImage ? (
-                    <img
-                      src={a.leadImage}
-                      alt={a.title}
-                      className="card__img card__img--photo"
-                    />
-                  ) : (
-                    <div className="ph ph__cross card__img">
-                      <span className="ph__corners" />
-                      <div className="ph__label">{a.projectCode}</div>
-                    </div>
+                <Link
+                  key={a.slug}
+                  href={`/articles/${a.slug}`}
+                  className={`card${a.leadImage ? ' card--photo' : ''}`}
+                >
+                  {a.leadImage && (
+                    <img src={a.leadImage} alt="" className="card__media" />
                   )}
-                  <div>
-                    <span className="card__tag">{a.project}</span>
-                  </div>
-                  <h3 className="card__title">
-                    <Link href={`/articles/${a.slug}`}>{a.title}</Link>
-                  </h3>
-                  <p className="card__dek">{a.dek}</p>
-                  <div className="card__meta">
-                    <span>{formatDate(a.date)}</span>
-                    <span>{a.authors[0]?.split(" ").at(-1)?.toUpperCase()}</span>
-                  </div>
-                </article>
+                  <span className="card__date">{formatDate(a.date)}</span>
+                  <span className="card__title">{a.title}</span>
+                </Link>
               ))}
             </div>
           </div>

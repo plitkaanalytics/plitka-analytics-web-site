@@ -29,17 +29,19 @@
   --rust: #8c2d04;
   --steelB: #1f4e78;
   --slate: var(--taupe);
-  --cream: #fce4d6;
-  --blue: #deebf7;
+  --cream: #dfdad5;
+  --blue: #dfdad5;
   --rule: #d7dee5;
   --paper: #fafaf7;
   --paper-2: #f4f2ec;
 
-  --serif: Georgia, "Times New Roman", serif;
   --sans:
     "Inter", -apple-system, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
-  --brand: "Gilroy", "Inter", sans-serif;
-  --mono: "Arial Narrow", Arial, "Helvetica Neue", Helvetica, sans-serif;
+  /* Everything on the site is Inter — legacy font tokens now just alias --sans
+     so every var(--serif)/var(--brand)/var(--mono) usage renders in Inter too. */
+  --serif: var(--sans);
+  --brand: var(--sans);
+  --mono: var(--sans);
 
   --radius-card: 18px;
   --radius-pill: 29px;
@@ -88,8 +90,8 @@ img {
 /* ===== Typography utilities ===== */
 
 .eyebrow {
-  font: 600 14px/20px var(--sans);
-  letter-spacing: 0.16em;
+  font: 700 16px/17px var(--sans);
+  letter-spacing: 6px;
   text-transform: uppercase;
   color: var(--orange);
 }
@@ -344,62 +346,46 @@ p {
   background: rgba(255, 255, 255, 0.3);
 }
 
-/* ===== Card ===== */
+/* ===== Card (photo overlay, date + title — same everywhere: homepage,
+   related articles, articles listing) ===== */
 
 .card {
+  position: relative;
   display: flex;
   flex-direction: column;
-  gap: 0;
   background: var(--card-gray);
   color: #fff;
   border-radius: var(--radius-card);
-  overflow: hidden;
-  position: relative;
+  padding: 32px;
+  min-height: 320px;
+  overflow: visible;
   transition:
-    background 0.18s ease,
-    transform 0.18s ease;
+    transform 0.15s ease,
+    background 0.15s ease;
   cursor: pointer;
 }
 .card:hover {
-  background: var(--card-gray);
-  transform: translateY(-3px);
+  transform: translateY(-2px);
+  background: var(--orange);
+  color: #fff;
+}
+.card:hover .card__date {
+  color: rgba(255, 255, 255, 0.75);
 }
 .card:hover .card__title,
 .card:hover .card__title a {
-  color: var(--orange);
+  color: #fff;
 }
-.card__img {
-  aspect-ratio: 16 / 10;
-  flex-shrink: 0;
-}
-.card__img--photo {
-  width: 100%;
-  height: 100%;
-  display: block;
-  object-fit: cover;
-}
-.card__body {
-  display: flex;
-  flex-direction: column;
-  gap: 8px;
-  padding: 18px 20px 20px;
-  flex: 1;
-}
-.card__tag {
-  font-family: var(--mono);
-  font-size: 10px;
-  letter-spacing: 0.16em;
-  text-transform: uppercase;
+.card__date {
+  font: 700 16px/1 var(--sans);
+  letter-spacing: -0.5px;
   color: var(--warm-gray);
-  font-weight: 700;
 }
 .card__title {
-  font-family: var(--serif);
-  font-size: 20px;
-  line-height: 1.22;
-  font-weight: 700;
-  color: #fff;
   margin-top: auto;
+  font: 700 24px/32px var(--sans);
+  text-wrap: balance;
+  color: #fff;
 }
 .card__title a {
   color: #fff;
@@ -409,19 +395,38 @@ p {
   color: #fff;
   border: none;
 }
-.card__dek {
-  display: none;
+
+.card--photo {
+  min-height: 298px;
+  overflow: hidden;
 }
-.card__meta {
-  font-family: var(--mono);
-  font-size: 10px;
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
-  color: var(--warm-gray);
-  border-top: none;
-  display: flex;
-  justify-content: space-between;
-  gap: 12px;
+.card--photo .card__media {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: 0;
+}
+.card--photo::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    180deg,
+    rgba(42, 42, 42, 0.25) 0%,
+    rgba(42, 42, 42, 0.88) 100%
+  );
+  z-index: 1;
+  transition: background 0.15s ease;
+}
+.card--photo:hover::after {
+  background: var(--orange);
+}
+.card--photo .card__date,
+.card--photo .card__title {
+  position: relative;
+  z-index: 2;
 }
 
 /* ===== Clickable card (stretched-link pattern) ===== */
@@ -511,7 +516,7 @@ p {
   border: none;
 }
 .footer__mission {
-  font: 400 15px/26px var(--sans);
+  font: 600 15px/26px var(--sans);
   color: #fff;
   max-width: 540px;
   margin: 0;
@@ -526,39 +531,40 @@ p {
 /* ===== Buttons ===== */
 
 .btn {
-  display: inline-block;
-  font-family: var(--mono);
-  font-size: 12px;
-  letter-spacing: 0.16em;
-  text-transform: uppercase;
-  font-weight: 700;
-  padding: 14px 22px;
-  background: var(--navy);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 12px 32px;
+  background: var(--taupe);
   color: #fff;
   border: none;
+  border-radius: var(--radius-pill);
+  font: 600 15px/26px var(--sans);
+  letter-spacing: -0.1px;
   cursor: pointer;
   transition: background 0.15s ease;
 }
 .btn:hover {
-  background: var(--red);
+  background: var(--orange);
   color: #fff;
   border: none;
 }
 .btn--red {
-  background: var(--red);
+  background: var(--taupe);
 }
 .btn--red:hover {
-  background: var(--navy);
+  background: var(--orange);
 }
 .btn--ghost {
   background: transparent;
-  color: var(--navy);
-  border: 1px solid var(--navy);
-  padding: 13px 21px;
+  color: var(--ink);
+  border: 1px solid var(--taupe);
+  padding: 11px 31px;
 }
 .btn--ghost:hover {
-  background: var(--navy);
+  background: var(--taupe);
   color: #fff;
+  border-color: var(--taupe);
 }
 
 /* ===== Tags / chips ===== */
@@ -712,79 +718,6 @@ p {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 32px;
-}
-.section-investigations .card {
-  background: var(--card-gray);
-  color: #fff;
-  border-radius: var(--radius-card);
-  padding: 32px;
-  min-height: 320px;
-  display: flex;
-  flex-direction: column;
-  overflow: visible;
-  transition:
-    transform 0.15s ease,
-    background 0.15s ease;
-  cursor: pointer;
-  border-bottom: none;
-}
-.section-investigations .card:hover {
-  transform: translateY(-2px);
-  background: var(--orange);
-  color: #fff;
-  border-bottom: none;
-}
-.section-investigations .card:hover .card__date {
-  color: rgba(255, 255, 255, 0.75);
-}
-.section-investigations .card:hover .card__title,
-.section-investigations .card:hover .card__title a {
-  color: #fff;
-}
-.section-investigations .card__date {
-  font: 700 16px/1 var(--sans);
-  letter-spacing: -0.5px;
-  color: var(--warm-gray);
-}
-.section-investigations .card__title {
-  margin-top: auto;
-  font: 700 24px/32px var(--sans);
-  text-wrap: balance;
-  color: #fff;
-}
-
-.section-investigations .card--photo {
-  position: relative;
-  min-height: 298px;
-  overflow: hidden;
-}
-.section-investigations .card--photo .card__media {
-  position: absolute;
-  inset: 0;
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  z-index: 0;
-}
-.section-investigations .card--photo::after {
-  content: "";
-  position: absolute;
-  inset: 0;
-  background: linear-gradient(
-    180deg,
-    rgba(42, 42, 42, 0.25) 0%,
-    rgba(42, 42, 42, 0.88) 100%
-  );
-  z-index: 1;
-  transition: background 0.15s ease;
-}
-.section-investigations .card--photo:hover::after {
-  background: var(--orange);
-}
-.section-investigations .card--photo .card__date,
-.section-investigations .card--photo .card__title {
-  position: relative;
-  z-index: 2;
 }
 
 /* ===== About section ===== */
@@ -1069,41 +1002,56 @@ p {
 }
 
 .article-head {
-  max-width: 880px;
+  max-width: 1120px;
   margin: 0 auto 32px;
   padding: 0 var(--gutter);
+  text-align: center;
+}
+.article-head__eyebrow {
+  margin: 0 0 24px;
 }
 .article-head__chips {
   display: flex;
   gap: 10px;
   flex-wrap: wrap;
+  justify-content: center;
   margin-bottom: 20px;
 }
 .article-head h1 {
   font-family: var(--sans);
   font-weight: 700;
-  font-size: clamp(32px, 3.6vw, 40px);
-  line-height: 1.2;
-  letter-spacing: -0.8px;
-  margin-bottom: 24px;
+  font-size: clamp(32px, 4.6vw, 54.26px);
+  line-height: 1.29;
+  letter-spacing: -1.809px;
+  margin: 0;
+}
+.article-head__metaline {
+  font: 700 24px/33px var(--sans);
+  color: var(--navy);
+  margin: 24px auto 0;
+  max-width: 70ch;
 }
 .article-head__dek {
   font-family: var(--sans);
-  font-weight: 400;
-  font-style: normal;
+  font-weight: 300;
+  font-style: italic;
   font-size: 20px;
-  line-height: 1.5;
-  color: var(--ink);
-  max-width: 60ch;
-  margin: 0 0 36px;
+  line-height: 33px;
+  color: var(--taupe);
+  max-width: 100ch;
+  margin: 16px auto 0;
 }
+/* Legacy 3-column meta grid — still used by pages not yet migrated to
+   .article-head__metaline (Фрегати, kalibre-z-morya, [slug], EN variants). */
 .article-head__meta {
   display: grid;
   grid-template-columns: 2fr 1fr 1fr;
   gap: 24px;
   padding: 18px 0;
+  margin-top: 24px;
   border-top: 2px solid var(--navy);
   border-bottom: 1px solid var(--rule);
+  text-align: left;
 }
 .meta__lbl {
   font-family: var(--mono);
@@ -1142,8 +1090,11 @@ p {
 .dark-intro .article-head h1 {
   color: #fff;
 }
+.dark-intro .article-head__metaline {
+  color: var(--warm-gray);
+}
 .dark-intro .article-head__dek {
-  color: #fff;
+  color: var(--warm-gray);
   margin-left: auto;
   margin-right: auto;
 }
@@ -1210,17 +1161,17 @@ p {
    article body starts this way, per Figma. */
 .lede-block {
   display: grid;
-  grid-template-columns: 280px 1fr;
-  gap: 40px;
+  grid-template-columns: 577px 1fr;
+  gap: 70px;
   align-items: start;
-  max-width: 880px;
+  max-width: 1202px;
   margin: 48px auto 8px;
   padding: 0 var(--gutter);
 }
 .lede-block__img {
   border-radius: var(--radius-card);
   overflow: hidden;
-  aspect-ratio: 4 / 3;
+  aspect-ratio: 577 / 327;
 }
 .lede-block__img img {
   width: 100%;
@@ -1239,7 +1190,7 @@ p {
 }
 
 .article-body {
-  max-width: 880px;
+  max-width: 1200px;
   margin: 0 auto;
   padding: 0 var(--gutter) 64px;
   font-size: 18px;
@@ -1710,10 +1661,10 @@ p {
   .cards {
     grid-template-columns: 1fr;
   }
-  .section-investigations .card {
+  .card {
     min-height: 260px;
   }
-  .section-investigations .card__title {
+  .card__title {
     font-size: 24px;
     line-height: 32px;
   }
@@ -1741,21 +1692,21 @@ p {
 }
 .article-body p.lede,
 .lede-block p.lede {
-  font-family: var(--serif);
-  font-size: 22px;
-  line-height: 1.45;
+  font-family: var(--sans);
+  font-size: 20px;
+  line-height: 1.5;
   color: var(--navy);
   margin: 0 0 1.4em;
 }
 .article-body p.lede::first-letter,
 .lede-block p.lede::first-letter {
   float: left;
-  font-family: var(--serif);
-  font-size: 72px;
-  line-height: 0.85;
-  padding: 6px 10px 0 0;
-  color: var(--red);
-  font-weight: 700;
+  font-family: var(--sans);
+  font-size: 132px;
+  line-height: 80px;
+  font-weight: 900;
+  padding: 0 12px 0 0;
+  color: var(--orange);
 }
 .article-body strong {
   color: var(--navy);
@@ -2531,9 +2482,6 @@ details.expander > .expander__body {
 }
 .next-up a.btn {
   text-decoration: none;
-}
-.next-up .btn--red:hover {
-  background: var(--rust);
 }
 
 @media (max-width: 720px) {

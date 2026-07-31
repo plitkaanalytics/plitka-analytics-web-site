@@ -14,50 +14,17 @@ export default function Page() {
       <main data-screen-label="Стаття · Підводні човни 636.3">
         {/* ============ ARTICLE HEAD + INFOGRAPHIC — one continuous dark block ============ */}
         <div className="dark-intro">
-          {/* breadcrumb */}
-          <nav className="breadcrumb">
-            <a href="https://plitka.agency/">Головна</a>
-            <span className="sep">›</span>
-            <a href="https://plitka.agency/articles">Розслідування</a>
-            <span className="sep">›</span>
-            <span className="current">Підводні човни «Варшавянка»</span>
-          </nav>
-
           <div className="article-head">
-            <div className="article-head__chips">
-              <span className="chip chip--red">Цикл · Флот РФ</span>
-              <span className="chip chip--solid">пр. 636.3</span>
-              <span className="chip chip--rust">Калібр-ПЛ</span>
-              <span className="chip chip--steel">Чорне море</span>
-              <span className="chip chip--steel">Середземне море</span>
-              <span className="chip">Новоросійськ</span>
-              <span className="chip">Севастополь</span>
-              <span className="chip">Кронштадт</span>
-              <span className="chip">OSINT</span>
-            </div>
+            <span className="eyebrow article-head__eyebrow">Розслідування</span>
             <h1>Підводні човни ВМФ РФ. Чотири роки війни в морі</h1>
-            <p className="article-head__dek">
-              Частина 4 циклу про носіїв «Калібрів». Що сталося з кожною
-              субмариною проєкту 636.3 «Варшавянка» від лютого 2022-го: пуски,
-              удари по носіях, переходи й втрати — і чому ремонтувати їх у Чорному
-              морі більше ніде.
+            <p className="article-head__metaline">
+              Частина 4 | час читання 20 хв
             </p>
-            <div className="article-head__meta">
-              <div>
-                <span className="meta__lbl">Автори</span>
-                <span className="meta__val">Семен Зубрєков, Олег Гриценко</span>
-              </div>
-              <div>
-                <span className="meta__lbl">Проєкт</span>
-                <span className="meta__val meta__val--mono">
-                  Ракетоносці ВМФ РФ
-                </span>
-              </div>
-              <div>
-                <span className="meta__lbl">Оновлено</span>
-                <span className="meta__val">23.06.26</span>
-              </div>
-            </div>
+            <p className="article-head__dek">
+              Що сталося з кожною субмариною проєкту 636.3 «Варшавянка» від
+              лютого 2022-го: пуски, удари по носіях, переходи й втрати — і чому
+              ремонтувати їх у Чорному морі більше ніде.
+            </p>
           </div>
 
           <div className="infographic-embed">
@@ -97,7 +64,6 @@ export default function Page() {
 
         {/* ============ ARTICLE BODY ============ */}
         <div className="article-body">
-
           <p>
             З початком війни в Україні сили Чорноморського флоту РФ обстрілювали
             «Калібрами» не лише з фрегатів проєктів 11356Р і 11611К та з МРК

@@ -38,27 +38,17 @@ export default async function ArticlesPage({
             </div>
             <div className="articles-grid">
               {articles.map((a) => (
-                <article className="card card--link" key={a.slug}>
-                  {a.leadImage ? (
-                    <img src={a.leadImage} alt={a.title} className="card__img card__img--photo" />
-                  ) : (
-                    <div className="ph ph__cross card__img">
-                      <span className="ph__corners" />
-                      <div className="ph__label">{a.projectCode}</div>
-                    </div>
+                <Link
+                  key={a.slug}
+                  href={`/articles/${a.slug}`}
+                  className={`card${a.leadImage ? ' card--photo' : ''}`}
+                >
+                  {a.leadImage && (
+                    <img src={a.leadImage} alt="" className="card__media" />
                   )}
-                  <div>
-                    <span className="card__tag">{a.project}</span>
-                  </div>
-                  <h3 className="card__title">
-                    <Link href={`/articles/${a.slug}`} className="stretched-link">{a.title}</Link>
-                  </h3>
-                  <p className="card__dek">{a.dek}</p>
-                  <div className="card__meta">
-                    <span>{formatDate(a.date)}</span>
-                    <span>{a.authors.map((n) => n.split(' ').at(-1)?.toUpperCase()).join(' · ')}</span>
-                  </div>
-                </article>
+                  <span className="card__date">{formatDate(a.date)}</span>
+                  <span className="card__title">{a.title}</span>
+                </Link>
               ))}
             </div>
           </div>

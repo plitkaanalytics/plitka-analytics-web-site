@@ -19,41 +19,31 @@ export default function Page() {
 
   return (
     <main>
-      {/* Article header */}
-      <div className="article-head">
-        <h1>{article.title}</h1>
-        <p className="article-head__dek">{article.dek}</p>
-        <div className="article-head__meta">
-          <div>
-            <span className="meta__lbl">Authors</span>
-            <span className="meta__val">{article.authors.join(", ")}</span>
-          </div>
-          <div>
-            <span className="meta__lbl">Project</span>
-            <span className="meta__val">{article.project}</span>
-          </div>
-          <div>
-            <span className="meta__lbl">Reading time</span>
-            <span className="meta__val meta__val--mono">
-              {article.readingTime} min
-            </span>
-          </div>
+      {/* Article header + infographic — one continuous dark block */}
+      <div className="dark-intro">
+        <div className="article-head">
+          <span className="eyebrow article-head__eyebrow">Investigation</span>
+          <h1>{article.title}</h1>
+          <p className="article-head__metaline">
+            Part 1 | {article.readingTime} min read
+          </p>
+          <p className="article-head__dek">{article.dek}</p>
         </div>
-      </div>
 
-      {/* Infographic embed */}
-      <div className="infographic-embed">
-        <AutoFrame
-          src="/embeds/black-fleet-frigates-en.html?noscroll"
-          title="Black Sea and Caspian missile carriers · Proj. 11356R + Proj. 11661K"
-          fallbackHeight={1050}
-        />
-      </div>
-      <div className="infographic-mobile-note">
-        <p className="infographic-mobile-note__text">
-          The interactive timeline is only available on desktop — please open
-          this page on a computer or tablet in landscape mode.
-        </p>
+        {/* Infographic embed */}
+        <div className="infographic-embed">
+          <AutoFrame
+            src="/embeds/black-fleet-frigates-en.html?noscroll"
+            title="Black Sea and Caspian missile carriers · Proj. 11356R + Proj. 11661K"
+            fallbackHeight={1050}
+          />
+        </div>
+        <div className="infographic-mobile-note">
+          <p className="infographic-mobile-note__text">
+            The interactive timeline is only available on desktop — please open
+            this page on a computer or tablet in landscape mode.
+          </p>
+        </div>
       </div>
 
       {/* TOC + article body */}

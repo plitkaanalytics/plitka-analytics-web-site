@@ -120,22 +120,12 @@ export default async function ArticlePageEN({ params }: { params: Promise<{ slug
   return (
     <main>
       <div className="article-head">
+        <span className="eyebrow article-head__eyebrow">{t.breadcrumbArticles}</span>
         <h1>{article.title}</h1>
+        <p className="article-head__metaline">
+          {article.readingTime} {t.readingTimeUnit}
+        </p>
         <p className="article-head__dek">{article.dek}</p>
-        <div className="article-head__meta">
-          <div>
-            <span className="meta__lbl">{t.metaAuthors}</span>
-            <span className="meta__val">{article.authors.join(', ')}</span>
-          </div>
-          <div>
-            <span className="meta__lbl">{t.metaProject}</span>
-            <span className="meta__val">{article.project}</span>
-          </div>
-          <div>
-            <span className="meta__lbl">{t.metaReading}</span>
-            <span className="meta__val meta__val--mono">{article.readingTime} {t.metaReadingMin}</span>
-          </div>
-        </div>
       </div>
 
       <div className="lead-img">
@@ -164,25 +154,17 @@ export default async function ArticlePageEN({ params }: { params: Promise<{ slug
             </div>
             <div className="grid-3">
               {related.map((a) => (
-                <article className="card" key={a.slug}>
-                  {a.leadImage ? (
-                    <img src={a.leadImage} alt={a.title} className="card__img card__img--photo" />
-                  ) : (
-                    <div className="ph ph__cross card__img">
-                      <span className="ph__corners" />
-                      <div className="ph__label">{a.projectCode}</div>
-                    </div>
+                <Link
+                  key={a.slug}
+                  href={`/en/articles/${a.slug}`}
+                  className={`card${a.leadImage ? ' card--photo' : ''}`}
+                >
+                  {a.leadImage && (
+                    <img src={a.leadImage} alt="" className="card__media" />
                   )}
-                  <div><span className="card__tag">{a.project}</span></div>
-                  <h3 className="card__title">
-                    <Link href={`/en/articles/${a.slug}`}>{a.title}</Link>
-                  </h3>
-                  <p className="card__dek">{a.dek}</p>
-                  <div className="card__meta">
-                    <span>{formatDate(a.date, 'en')}</span>
-                    <span>{a.authors[0]?.split(' ').at(-1)?.toUpperCase()}</span>
-                  </div>
-                </article>
+                  <span className="card__date">{formatDate(a.date, 'en')}</span>
+                  <span className="card__title">{a.title}</span>
+                </Link>
               ))}
             </div>
           </div>
