@@ -39,3 +39,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# local tooling / scratch
+/.claude
+/TEMP
+/dfsdf
+/Перелік приладів (1).html
