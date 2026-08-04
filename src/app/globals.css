@@ -1002,7 +1002,7 @@ p {
 }
 
 .article-head {
-  max-width: 1120px;
+  max-width: 880px;
   margin: 0 auto 32px;
   padding: 0 var(--gutter);
   text-align: center;
@@ -1161,17 +1161,17 @@ p {
    article body starts this way, per Figma. */
 .lede-block {
   display: grid;
-  grid-template-columns: 577px 1fr;
-  gap: 70px;
+  grid-template-columns: 280px 1fr;
+  gap: 40px;
   align-items: start;
-  max-width: 1202px;
+  max-width: 880px;
   margin: 48px auto 8px;
   padding: 0 var(--gutter);
 }
 .lede-block__img {
   border-radius: var(--radius-card);
   overflow: hidden;
-  aspect-ratio: 577 / 327;
+  aspect-ratio: 4 / 3;
 }
 .lede-block__img img {
   width: 100%;
@@ -1190,7 +1190,7 @@ p {
 }
 
 .article-body {
-  max-width: 1200px;
+  max-width: 880px;
   margin: 0 auto;
   padding: 0 var(--gutter) 64px;
   font-size: 18px;
