@@ -9,7 +9,7 @@
   --steelB: #1f4e78;
   --slate: #5c6b7a;
   --cream: #fce4d6;
-  --blue: #deebf7;
+  --blue: #dfdad5;
   --rule: #d7dee5;
   --paper: #fafaf7;
   --paper-2: #f4f2ec;
@@ -423,7 +423,7 @@ p {
 .footer {
   background: var(--navy);
   color: #b8c4d2;
-  padding: 56px 0 32px;
+  padding: 20px 0 25px;
   margin-top: 0;
 }
 .footer__grid {
