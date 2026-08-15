@@ -1,7 +1,7 @@
 const DATA = {
   "meta": {
     "title": "Black Sea and Caspian Missile Carriers — Project 11356R Frigates in the War 2022–2026",
-    "version": "1.0",
+    "version": "1.1",
     "ships": [
       { "id": "grigorovich", "name": "Admiral Grigorovich", "hull_number": "745", "commissioned": "2016-03-11", "color": "#1F4E78" },
       { "id": "essen",       "name": "Admiral Essen",       "hull_number": "490", "commissioned": "2016-06-07", "color": "#8C2D04" },
@@ -58,10 +58,10 @@ const DATA = {
     { "id": "p_ess_01", "ship": "essen",       "from": "2016-06-07", "to": "2016-10-10", "location": "baltiysk",    "note": "Commissioned into the fleet, still in the Baltic before transfer to the Black Sea Fleet" },
     { "id": "p_ess_02", "ship": "essen",       "from": "2016-10-10", "to": "2017-04-28", "location": "baltiysk",    "note": "Repairs to damaged propellers following berthing accident" },
     { "id": "p_ess_03", "ship": "essen",       "from": "2017-04-28", "to": "2023-10-01", "location": "sevastopol",  "note": "Transferred to the Black Sea Fleet; home port Sevastopol" },
-    { "id": "p_ess_04", "ship": "essen",       "from": "2023-10-01", "to": "2026-05-26", "location": "novorossiysk", "note": "Relocated from Sevastopol due to threat of Ukrainian strikes" },
+    { "id": "p_ess_04", "ship": "essen",       "from": "2023-10-01", "to": "2026-08-12", "location": "novorossiysk", "note": "Relocated from Sevastopol due to threat of Ukrainian strikes" },
 
     { "id": "p_mak_01", "ship": "makarov",     "from": "2017-12-27", "to": "2023-10-01", "location": "sevastopol",  "note": "Commissioned into the fleet, home-ported in Sevastopol" },
-    { "id": "p_mak_02", "ship": "makarov",     "from": "2023-10-01", "to": "2026-05-26", "location": "novorossiysk", "note": "Relocated from Sevastopol together with Essen" },
+    { "id": "p_mak_02", "ship": "makarov",     "from": "2023-10-01", "to": "2026-08-12", "location": "novorossiysk", "note": "Relocated from Sevastopol together with Essen" },
 
     { "id": "p_tat_01", "ship": "tatarstan", "from": "2003-08-31", "to": "2015-09-01", "location": "kaspiysk",    "note": "Entered service 31.08.2003. Flagship of the Caspian Flotilla (until 2017). Armed with Kh-35 Uran anti-ship missiles — cannot reach Ukraine from the Caspian" },
     { "id": "p_tat_02", "ship": "tatarstan", "from": "2015-09-01", "to": "2016-09-01", "location": "astrakhan",   "note": "Upgrade at the Astrakhan branch of Zvyozdochka: new Gals radar system" },
@@ -170,7 +170,7 @@ const DATA = {
       "ships": ["grigorovich"],
       "location": "sevastopol",
       "title": "Aksionov appointed commanding officer of Grigorovich",
-      "description": "On the 50th anniversary of the 30th Division, Captain 3rd Rank Konstantin Aksionov was appointed commanding officer of Admiral Grigorovich. Previously executive officer of Admiral Essen, then served on the landing ship Kaliningrad, the frigate Neustrashimy, and the landing ship Korolyov. Graduate of the Naval Polytechnic Institute named after Peter the Great, class of 2008.",
+      "description": "On the 50th anniversary of the 30th Division, Captain 3rd Rank Konstantin Aksionov was appointed commanding officer of Admiral Grigorovich — the ship's fourth commander. Earlier: landing ship Korolyov, frigate Neustrashimy, landing ship Kaliningrad, executive officer of Admiral Essen, and from December 2017, executive officer of Grigorovich itself, the post from which he was promoted. Graduate of the Naval Polytechnic Institute named after Peter the Great, class of 2008.",
       "sources": ["Rossiyskaya Gazeta; Black Sea Fleet press service"],
       "importance": 2
     },
@@ -357,9 +357,53 @@ const DATA = {
       "ships": ["makarov"],
       "location": "sevastopol",
       "title": "Breyev defects to Russia (backstory)",
-      "description": "In March 2014, as Ukrainian armed forces units were withdrawing from occupied Crimea to the Mykolaiv region, the commanding officer of the Sevastopol Naval Base of the Ukrainian Navy, Captain 2nd Rank Hryhoriy Breyev (born in Vinnytsia oblast, graduate of the Sevastopol Naval Institute named after Nakhimov, class of 1996; had commanded corvettes Lutsk and Ternopil) refused to leave. He swore allegiance to the Russian Armed Forces. In January 2016 he joined the acceptance crew of Admiral Makarov in Kaliningrad. From 2018 — commanding officer of the ship. On 14.06.2022 the State Bureau of Investigations announced suspicion of treason (Article 111(1) of the Criminal Code). On 31.08.2022 — indictment filed in court.",
-      "sources": ["State Bureau of Investigations of Ukraine; Defence Express"],
+      "description": "In March 2014, as Ukrainian armed forces units were withdrawing from occupied Crimea to the Mykolaiv region, the commanding officer of the Sevastopol Naval Base of the Ukrainian Navy, Captain 2nd Rank Hryhoriy Breyev (born in Vinnytsia oblast, graduate of the Sevastopol Naval Institute named after Nakhimov, class of 1996; had commanded corvettes Lutsk and Ternopil) refused to leave. He swore allegiance to the Russian Armed Forces. In January 2016 he joined the acceptance crew of Admiral Makarov in Kaliningrad. Commanded the ship from 2016 until autumn 2019, when he handed command to Anton Kuprin. On 14.06.2022 the State Bureau of Investigations announced suspicion of treason (Article 111(1) of the Criminal Code), on 31.08.2022 an indictment was filed in court, and on 07.06.2023 a court convicted him in absentia and sentenced him to 15 years.",
+      "sources": ["State Bureau of Investigations of Ukraine; Defence Express; Suspilne News"],
       "importance": 3
+    },
+    {
+      "id": "e_050",
+      "type": "command",
+      "date": "2019-11-01",
+      "ships": ["makarov"],
+      "location": "sevastopol",
+      "title": "Kuprin — Makarov's second commanding officer",
+      "description": "Captain 2nd Rank Anton Kuprin took command in the autumn of 2019. Before Makarov he had commanded Admiral Essen. In November 2019 he reported Caliber launches during the 'Ocean-2019' exercises. He was still listed as commanding officer in spring 2020. After summer 2020 he was transferred to command the missile cruiser Moskva, where he was killed on 14 April 2022 by a Ukrainian Neptune missile strike.",
+      "sources": ["Interfax", "NTS Sevastopol", "Milportal"],
+      "importance": 3
+    },
+    {
+      "id": "e_051",
+      "type": "command",
+      "date": "2020-10-01",
+      "ships": ["makarov"],
+      "location": "sevastopol",
+      "title": "Romanenko — third commanding officer, de facto CO at the invasion",
+      "description": "Captain 2nd Rank Serhiy Romanenko (b. 15.06.1981, Sevastopol) took command in the autumn of 2020. Press reports cite him as commanding officer during deployments to Tartus (30.09.2020) and while shadowing a US carrier strike group in the Mediterranean (04-05.2021). Was Makarov's de facto commanding officer at the start of the full-scale invasion, giving the orders for the war's first missile strikes. From July 2022 — deputy commander of the BSF's 30th Surface Ships Division.",
+      "sources": ["Krym.Realii", "1TV", "Nezavisimoye Voyennoye Obozreniye"],
+      "importance": 4
+    },
+    {
+      "id": "e_052",
+      "type": "command",
+      "date": "2022-07-01",
+      "ships": ["makarov"],
+      "location": "sevastopol",
+      "title": "Kudashkin — fourth commanding officer, directed the drone-attack defence",
+      "description": "Captain 3rd, later 2nd Rank Denys Kudashkin (from Saransk, resides in occupied Sevastopol) took command in the summer of 2022, right after Romanenko. Had served aboard Makarov as commander of the missile-artillery combat unit since 2018. On 29 October 2022 he personally directed the defence against the Ukrainian naval drone attack at Sevastopol. In December 2022 received the 'Best Ship' cup from the BSF commander. Handed over command to Havrylchenko in the autumn of 2023. After a pause, in late 2025 he was transferred to command Admiral Grigorovich.",
+      "sources": ["Krym.Realii", "Sevastopol.su", "Komandiry.org"],
+      "importance": 4
+    },
+    {
+      "id": "e_053",
+      "type": "command",
+      "date": "2023-10-01",
+      "ships": ["makarov"],
+      "location": "sevastopol",
+      "title": "Havrylchenko — fifth, current commanding officer",
+      "description": "Captain 3rd, later 2nd Rank Serhiy Havrylchenko (b. 23.05.1991, Rodynske, Donetsk oblast) was appointed commanding officer of the flagship frigate in the autumn of 2023. Previously executive officer of Admiral Grigorovich (05.2020-07.2023), then a brief independent command of the patrol ship Ladny. According to the SBU, it was Havrylchenko who gave the order to launch missiles at the civilian Flex plant in Mukachevo on the night of 21 August 2025.",
+      "sources": ["UA.News", "ZN.UA", "SBU"],
+      "importance": 5
     },
     {
       "id": "e_030",
@@ -492,8 +536,8 @@ const DATA = {
       "ships": ["essen"],
       "location": "sevastopol",
       "title": "Smirnov appointed commanding officer of Essen",
-      "description": "Captain 2nd Rank Oleksandr Smirnov (born in Murmansk; from age 5 in Kostomuksha, Karelia; graduate of the St Petersburg Naval Academy; previously executive officer of Grigorovich, then executive officer of Essen) was appointed commanding officer of the frigate. In 2019 he publicly represented Essen at the IDEF exhibition in Istanbul (at that time still as executive officer).",
-      "sources": ["uk.wikipedia.org/Адмірал_Ессен; RIA Novosti 01.05.2019"],
+      "description": "Captain 2nd Rank Oleksandr Smirnov (born in Murmansk; from age 5 in Kostomuksha, Karelia; graduate of the St Petersburg Naval Academy; previously executive officer of Grigorovich, then executive officer of Essen) was appointed commanding officer of the frigate from 1 October 2019 — the ship's third commanding officer, after Kuprin. Commanded until spring 2023, when he was promoted to deputy commander of the BSF's 30th Surface Ships Division.",
+      "sources": ["uk.wikipedia.org/Адмірал_Ессен; RIA Novosti 01.05.2019; Russian-torturers.org"],
       "importance": 2
     },
     {
@@ -506,6 +550,17 @@ const DATA = {
       "description": "On the evening of 27 July 2025 (Navy Day) Vladimir Putin arrived at Kronstadt and boarded Grigorovich. The President spoke with the crew over tea, thanked them for 'successfully repelling the drone attack.' Commanding officer Konstantin Aksionov reported that during the deployment (20 months in the Mediterranean) the ship had covered more than 87,000 nautical miles. Putin then publicly promoted the commanding officer: 'I can see you are a Captain 3rd Rank, but a ship of this class is supposed to be commanded by a Captain 2nd Rank. I think it's time to do that. Congratulations on your promotion.' Instead of the traditional parade in St. Petersburg (cancelled for the first time in eight years) — the President on the deck of a warship, a commanding officer, a repelled attack, and a live promotion. Russian state media made this episode the centrepiece of Navy Day 2025.",
       "sources": ["Kremlin.ru; TASS"],
       "importance": 3
+    },
+    {
+      "id": "e_056",
+      "type": "command",
+      "date": "2025-12-01",
+      "ships": ["grigorovich", "makarov"],
+      "location": "kronstadt",
+      "title": "Kudashkin succeeds Aksionov aboard Grigorovich",
+      "description": "In late 2025, after Aksionov's move to ASI, Captain 2nd Rank Denys Kudashkin — former commanding officer of Admiral Makarov (07.2022-10.2023) — was appointed commanding officer of Admiral Grigorovich. On 3 February 2026 an official broadcast by the Vyborg diocese of the Russian Orthodox Church showed Kudashkin aboard Grigorovich at Kronstadt receiving a church blessing ahead of the ship's departure for the Mediterranean — independent confirmation of the appointment alongside Kommersant reporting.",
+      "sources": ["Kommersant", "Vyborg diocese ROC broadcast 03.02.2026"],
+      "importance": 4
     },
     {
       "id": "e_042",
@@ -550,6 +605,72 @@ const DATA = {
       "description": "In the night of 23 May, the 1st Separate Centre of the Unmanned Systems Forces carried out the fourth confirmed strike against Admiral Essen. Kamikaze drones struck the frigate amidships as part of the massive 48-hour 'Birds' raid on the port of Novorossiysk.",
       "sources": ["Unmanned Systems Forces", "Robert 'Madyar' Brovdi"],
       "importance": 5
+    },
+    {
+      "id": "e_046",
+      "type": "strike_incoming",
+      "date": "2026-08-12",
+      "ships": ["essen", "makarov"],
+      "location": "novorossiysk",
+      "title": "A 'unique operation': fifth strike on Essen, third on Makarov",
+      "description": "In the night of 12 August 2026, Ukraine's Defence Forces conducted what President Volodymyr Zelensky called a 'unique operation' against the Novorossiysk naval base — 'the last main stronghold of the Russian fleet in the Black Sea' — more than 300 km from the front line. The strike package combined 'Palianytsia' jet drones, Neptune missiles, and naval unmanned systems. According to Ukraine's General Staff, four ships sustained damage of varying severity: Admiral Essen and Admiral Makarov, the 'Buyan-M' missile corvette, and the Project 22160 patrol ship 'Vasily Bykov.' Ukraine's Defence Intelligence (HUR) specified the operation was a joint deep-strike effort involving its Active Actions Department and Unmanned Systems Department, the SBU, the Navy, and the State Border Guard Service, working with the General Staff. Also struck: the 'Grushovaya' oil depot, the Sheskharis oil-loading terminal, and a 30N6E radar from an S-300 battery. The extent of damage to the frigates was not conclusively established at time of publication — satellite imagery shows burn marks near the Caliber launch cells.",
+      "sources": ["President of Ukraine", "General Staff of Ukraine", "Defence Intelligence of Ukraine (HUR)"],
+      "importance": 5
+    },
+    {
+      "id": "e_047",
+      "type": "command",
+      "date": "2014-11-01",
+      "ships": ["grigorovich"],
+      "location": "kaliningrad",
+      "title": "Bustrin — Grigorovich's first commanding officer",
+      "description": "Captain 2nd Rank Serhiy Bustrin took charge of the frigate while it was still under construction. Previously executive officer of the patrol ship Ladny. Commanded until February 2016, after which he returned to Ladny — this time as its commanding officer.",
+      "sources": ["forums.airbase.ru", "kchf.ru"],
+      "importance": 2
+    },
+    {
+      "id": "e_048",
+      "type": "command",
+      "date": "2016-02-01",
+      "ships": ["grigorovich"],
+      "location": "sevastopol",
+      "title": "Belytsko — Grigorovich's second commanding officer",
+      "description": "Captain 3rd Rank (later 2nd Rank) Anatoliy Belytsko took command, effectively swapping ships with Bustrin (previously commanding officer of Ladny). Under his command the frigate entered combat service and made its first combat deployments to the Syrian coast. In August 2018 he was promoted — a student at the command-staff faculty of the Kuznetsov Naval Academy, later reaching Captain 1st Rank and heading a surface ships division of the Pacific Fleet.",
+      "sources": ["vk.ru", "kchf.ru", "Krasnaya Zvezda"],
+      "importance": 2
+    },
+    {
+      "id": "e_049",
+      "type": "command",
+      "date": "2018-08-01",
+      "ships": ["grigorovich"],
+      "location": "sevastopol",
+      "title": "Pashchenko — Grigorovich's third commanding officer",
+      "description": "Captain 2nd Rank Roman Pashchenko commanded the frigate for a relatively brief period, until March 2019. Information on his prior or subsequent postings could not be identified in open sources or OSINT resources.",
+      "sources": ["kchf.ru"],
+      "importance": 1
+    },
+    {
+      "id": "e_054",
+      "type": "command",
+      "date": "2016-12-01",
+      "ships": ["essen"],
+      "location": "sevastopol",
+      "title": "Kuprin — Essen's second commanding officer",
+      "description": "Captain 2nd Rank Anton Kuprin, previously executive officer of the cruiser Moskva, was urgently transferred to command Essen in December 2016 to replace the relieved Tomashkov. Under his command the ship entered combat service and took part in combat operations in Syria. In June 2019 he was appointed commanding officer of Admiral Makarov, later of the cruiser Moskva, where he was killed on 14 April 2022.",
+      "sources": ["Lenta.ru", "Timenote.info"],
+      "importance": 3
+    },
+    {
+      "id": "e_055",
+      "type": "command",
+      "date": "2023-04-01",
+      "ships": ["essen"],
+      "location": "sevastopol",
+      "title": "Kruhlov — Essen's fourth, current commanding officer",
+      "description": "Captain 2nd Rank Anton Kruhlov took command of Essen in spring 2023, likely just ahead of the May festivities marking the BSF's 240th anniversary. Officially confirmed in the post as of October 2025. Under his command the frigate went through all four documented hits at Novorossiysk in 2026. On 13 May 2023 the Sevastopol city government mistakenly thanked Kruhlov as commanding officer of Admiral Grigorovich — most likely a local reporting error, since Grigorovich was physically thousands of kilometres away (Mediterranean/Baltic) at the time.",
+      "sources": ["MK.rbth.com", "Vechernyaya Moskva", "Sevastopol.su 13.05.2023"],
+      "importance": 4
     }
   ]
 }
