@@ -2376,7 +2376,8 @@ details.expander > .expander__body {
   overflow: hidden;
 }
 .video-card__frame iframe,
-.video-card__frame img {
+.video-card__frame img,
+.video-card__frame video {
   position: absolute;
   inset: 0;
   width: 100%;
