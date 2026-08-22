@@ -7,7 +7,6 @@ export default function Footer({ locale = "uk" }: { locale?: Locale }) {
 
   const navItems = [
     { href: `${base}/`,            label: t.nav.home },
-    { href: `${base}/proekty`,     label: t.nav.projects },
     { href: `${base}/articles`,    label: t.nav.articles },
     { href: `${base}/spivpratsia`, label: t.nav.collab },
     { href: `${base}/pro-nas`,     label: t.nav.about },
