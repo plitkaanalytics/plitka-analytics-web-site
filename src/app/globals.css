@@ -2661,6 +2661,32 @@ figure.fig figcaption em {
   max-width: none;
 }
 
+/* Numbered legend under a schematic figure (поздовжні розрізи, компоновки) */
+.fig-legend {
+  list-style: none;
+  margin: 14px 0 0;
+  padding: 12px 0 0;
+  border-top: 1px solid var(--rule);
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 7px 30px;
+  font-size: 12.5px;
+  line-height: 1.45;
+  color: var(--ink);
+}
+.fig-legend li {
+  display: grid;
+  grid-template-columns: 22px 1fr;
+  gap: 8px;
+  align-items: baseline;
+}
+.fig-legend li > b {
+  font-weight: 700;
+  color: var(--red);
+  font-variant-numeric: tabular-nums;
+  text-align: right;
+}
+
 /* Wide bleed — stays in flow, breaks out of article-body max-width with side margins */
 .fig--bleed {
   width: min(1400px, calc(100vw - 80px));
