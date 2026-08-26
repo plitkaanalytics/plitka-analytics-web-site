@@ -1729,16 +1729,10 @@ export default function Page() {
                 margin: "2px 0 14px 20px",
               }}
             >
-              <div
-                className="ph"
-                style={{
-                  aspectRatio: "3/4",
-                  backgroundImage:
-                    "url('/articles/chotyry-roky-v-mori-buyan-m/starkov.jpg')",
-                  backgroundSize: "cover",
-                  backgroundPosition: "center top",
-                }}
-              ></div>
+              <div className="ph" style={{ aspectRatio: "3/4" }}>
+                <div className="ph__corners"></div>
+                <span className="ph__label">Фото · Артем Старков</span>
+              </div>
             </div>
             <p>
               <strong>Капітан 2-го рангу (на 2024 рік)</strong> Прийняв «Зелений
