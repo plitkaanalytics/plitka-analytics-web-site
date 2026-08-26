@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description:
     "Частина 1 циклу про проросійський вплив у політикумі Європи. Хто фінансує генерала Роберто Ванначчі, які російські зв'язки тягнуться за його оточенням та чим це загрожує військовій допомозі Україні.",
   openGraph: {
-    images: ["/articles/natsionalne-maibutnie-z-putinym/cover.jpg"],
+    images: ["/articles/natsionalne-maibutnie-z-putinym/cover.webp"],
   },
 };
 
