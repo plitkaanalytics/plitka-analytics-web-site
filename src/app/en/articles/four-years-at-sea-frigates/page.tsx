@@ -1589,14 +1589,18 @@ export default function Page() {
                   open to more than one reading. It is now on record that as of
                   18 October 2022 the frigate was still commanded by Romanenko,
                   while the first documentary reference to Kudashkin as
-                  commanding officer is December 2022, when the ship received
-                  the fleet commander&apos;s Best Ship cup. Our roster therefore
-                  has Romanenko in command until December 2022 and Kudashkin
-                  from December onwards. That Kudashkin personally directed the
-                  defence against the drone attack on 29 October does not
-                  contradict this: he had served aboard Makarov since 2018, and
-                  his post at that moment cannot be established from open
-                  sources.
+                  commanding officer is December 2022, when the fleet commander
+                  presented the Best Ship cup and the fleet newspaper named him
+                  outright as the commanding officer of Admiral Makarov
+                  <a className="ref" href="#ref-22">
+                    [22]
+                  </a>
+                  . Our roster therefore has Romanenko in command until December
+                  2022 and Kudashkin from December onwards. That Kudashkin
+                  personally directed the defence against the drone attack on 29
+                  October does not contradict this: he had served aboard Makarov
+                  since 2018, and his post at that moment cannot be established
+                  from open sources.
                 </div>
 
                 <div className="episode">
@@ -1915,13 +1919,26 @@ export default function Page() {
                         <a className="ref" href="#ref-18">
                           [18]
                         </a>{" "}
-                        In December 2022 he received the &ldquo;Best Ship&rdquo;
-                        cup from the BSF commander — the first documentary
-                        reference to him as the frigate&apos;s commanding
-                        officer, and the point from which we date his command.
-                        In spring 2023 he was featured in a Solovyov TV segment,
-                        where he confirmed he had &ldquo;risen through the ranks
-                        on this very ship.&rdquo;
+                        In December 2022 the ship received the &ldquo;Best Ship
+                        (Submarine), 1st and 2nd Rank, of the Black Sea
+                        Fleet&rdquo; cup, handed over personally by the fleet
+                        commander at a session of the BSF Military Council
+                        <a className="ref" href="#ref-22">
+                          [22]
+                        </a>
+                        . This is the first documentary reference to Kudashkin
+                        as the frigate&apos;s commanding officer, and the point
+                        from which we date his command. In the fleet
+                        newspaper&apos;s account the commander said of the crew
+                        of Admiral Makarov,{" "}
+                        <em>
+                          &ldquo;commanded by Captain 3rd Rank Kudashkin&rdquo;
+                        </em>
+                        , that it had &ldquo;shown high proficiency and
+                        professional skill in the course of the special military
+                        operation.&rdquo; In spring 2023 he was featured in a
+                        Solovyov TV segment, where he confirmed he had
+                        &ldquo;risen through the ranks on this very ship.&rdquo;
                       </p>
                       <p>
                         Handed over command to Havrylchenko in the autumn
@@ -2563,6 +2580,13 @@ export default function Page() {
                 rank S. Romanenko over the strike on the Prydniprovska thermal
                 power station · Part 1, Art. 438 of Ukraine&apos;s Criminal Code
                 · 28.08.2026.
+              </li>
+              <li id="ref-22">
+                Flag Rodiny, newspaper of Russia&apos;s Black Sea Fleet
+                (Sevastopol) — the fleet commander&apos;s remarks on the results
+                of the training year: presentation of the &ldquo;Best
+                Ship&rdquo; cup to the commanding officer of Admiral Makarov,
+                Captain 3rd Rank D. Kudashkin · December 2022.
               </li>
             </ol>
           </section>
