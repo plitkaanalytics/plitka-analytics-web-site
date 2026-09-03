@@ -1,0 +1,44 @@
+URL:         https://eurasia.ro/2026/07/16/russian-dry-cargo-ship-escorted-by-bdk-delivered-armored-vehicles-for-the-african-corps-to-africa/
+Кінцевий:    https://eurasia.ro/2026/07/16/russian-dry-cargo-ship-escorted-by-bdk-delivered-armored-vehicles-for-the-african-corps-to-africa/
+Заголовок:   Russian dry cargo ship escorted by BDK delivered armored vehicles for the “African Corps” to Africa - Eurasia
+Дата публ.:  2026-07-16
+Завантажено: 2026-09-01 13:57 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 66248
+Оригінал:    raw/06-eurasia.ro-russian-dry-cargo-ship-escorted-by-bdk-delivered-armored-ve.html
+sha256:      34e4b482005e12be05c13594c14c04fec0daaf80e68b726f32d035a035ded671
+Витяг:       trafilatura
+
+==============================================================================
+Sub-sanctions Russian dry cargo ship MIKHAIL BRITNEV (Mikhail Britnev, IMO: 9081370) arrived at Lomé in Togo after leaving Arkhangelsk with a call to Kaliningrad on the way. The ship during the flight was accompanied by a large landing ship of the Navy and arrived at the port, which could be Russia’s new logistical exit to the Sahel countries, amid strikes on the positions of the “African Corps” in Mali.
+
+“Mikhail Britnev” accompanied a large landing ship
+
+“Mikhail Britnev” – a universal dry cargo ship with a length of 136 meters and a deadweight of 12.7 thousand tons. The vessel has five cargo holds, is adapted for the carriage of conventional and refrigerated containers, and its design is reinforced for heavy loads. Ice class 1A allows the use of dry cargo on Arctic routes.
+
+According to Starboard Maritime Intelligence, “Mikhail Britnev” left the port in Arkhangelsk on June 3, June 11, entered the port of Baltiysk (Kaliningrad region). Along the way, the crew on the high seas announced an increase in precipitation to 6.7 meters (partial load). In Kaliningrad, the ship stood for a week without unloading (judging by the data transmitted by the crew).
+
+OSINT-project SONARROW published a satellite image dated June 16, taken during the parking lot of “Mikhail Britnev” in the port of Baltiysk. According to analysts of the project, the ship seemed to be loaded with Russian military equipment, including armored combat vehicles and armored personnel carriers.
+
+On June 18, the dry cargo ship sailed through the Baltic Sea and the English Channel into the Atlantic. As The Insider wrote earlier, after leaving Kaliningrad in the Femark-Belt Strait between Germany and Denmark, Michael Britnev was accompanied by the large amphibious assault ship Alexander Shabalin. BDK was equipped with an anti-drone mesh that closed part of the superstructure from the nose. The Russian Forces Spotter’s offshore OSINT project reported that on June 25, Michael Britnev was photographed west of Portugal. Judging by the published data, by this time the dry cargo ship was still accompanied by the BDK “Alexander Shabalin”.
+
+After passing the English Channel on 23 June, the ship turned off AIS and appeared on July 9 in the port of Lomé (Togo). The day before the arrival, Michael Britnev pointed to the Dakar destination in Senegal.
+
+Russia has already sent armored vehicles to Africa a similar route
+
+The flight of “Mikhail Britnev” can be part of the larger supply of equipment to Russian units and partners of Moscow in Africa. In March, OSINT-project SONARROW reported on the arrival of the Russian dry cargo ship SABETTA (IMO: 9347061) from Kaliningrad to the port of Conakry in Guinea. On satellite images of the port of Kaliningrad, according to the project, it was clear that before being sent to the dry cargo loaded a large number of Russian equipment, including armored vehicles.
+
+Fighting around the positions of the “African Corps” in Mali
+
+The arrival of the “Mikhail Britnev” in Lomé occurred shortly after large-scale attacks on the positions of the Malian army and its supporting Russian forces. In early July, Tuareg rebels and al-Qaida-related jihadists attacked Anefis, Agelhok and Gao in northern Mali, Sevara and the Konah area in the central part of the country, as well as a prison south of the capital Bamako. One of the main goals was Anefis in the Kidal region, where the units of the Malian army and the Russian “African corps” are located. After the previous offensive of the rebels, the Malian and Russian forces retreated there from Kidal and Tessaliat.
+
+Representatives of the Tuareg Liberation Front of Azawad said their fighters entered Anefis and took control of the city, while the Russian and Malian military remained in the nearby camp. The army of Mali, in turn, claimed that all attacks were repelled.
+
+Later, Tuareg rebels said they shot down a military helicopter associated with the Russian “African corps”. The Russian wary Telegram channel “Afrikar” also reported the loss of Mi-24 and about ten pieces of equipment after a column of the Malian army, heading from Gao to strengthen the group at Anefis, was ambushed.
+
+After escalating relations with France and other Western partners, the military junta of Mali made Russia one of the main external military allies. The Russian “African corps”, associated with the Ministry of Defense, replaced the Wagner PMCs and helps the Malian army to hold territories and fight jihadists and Tuareg separatists.
+
+Importance of Lomé Port
+
+The deep-water port of Lomé is capable of receiving large container ships and warships. Earlier, the port of Conakry in Guinea was used to deliver goods to Russian forces in Mali. Lomé can become an alternative logistics hub: the port is connected by a transport corridor with Burkina Faso, through the territory of which goods can be delivered to neighboring Mali.
+
+In October 2025, the Russian government ratified the agreement on military cooperation with Togo. The document provides for joint military exercises, the training of Togolese servicemen and the exchange of intelligence information. Official military cooperation between Moscow and Lomé has been developing since 2022, when Togo received Mi-35 and Mi-17 helicopters from Russia. After the beginning of Russia’s full-scale invasion of Ukraine, there were also reports of the recruitment of Togolese servicemen to participate in the war on the Russian side.

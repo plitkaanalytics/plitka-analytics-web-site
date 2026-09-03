@@ -1,0 +1,348 @@
+URL:         https://en.wikipedia.org/wiki/Tartus_naval_base
+Кінцевий:    https://en.wikipedia.org/wiki/Tartus_naval_base
+Заголовок:   Tartus naval base - Wikipedia
+Дата публ.:  2012-06-29
+Завантажено: 2026-09-01 13:57 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 323558
+Оригінал:    raw/05-en.wikipedia.org-tartus_naval_base.html
+sha256:      da1242ecc0e95a59705f626257839c04342d7fefc27e79a8d421b4277f25974c
+Витяг:       trafilatura
+
+==============================================================================
+# Tartus naval base
+
+
+| 720th Material-Technical Support Point of the Russian Navy in Syria | |
+|---|---|
+| 720-й ПМТО ВМФ России в Сирии | |
+| Site information | |
+| Owner | [Syria](https://en.wikipedia.org/wiki/Syria) | 
+| Operator | [Soviet Union](https://en.wikipedia.org/wiki/Soviet_Union)(1971–1991)[Commonwealth of Independent States](https://en.wikipedia.org/wiki/Commonwealth_of_Independent_States)(1991–1992)[Russian Federation](https://en.wikipedia.org/wiki/Russia)(1992–present) | 
+| Open to the public | No | 
+| Location | |
+| Coordinates | [34°54′54″N 35°52′30″E / 34.915°N 35.875°E](https://geohack.toolforge.org/geohack.php?pagename=Tartus_naval_base¶ms=34.915_N_35.875_E_type:landmark) | 
+| Site history | |
+| Built | 1971 | 
+
+The **Tartus naval base** is a leased military installation of the [Russian Navy](https://en.wikipedia.org/wiki/Russian_Navy) on the northern edge of the [sea port](https://en.wikipedia.org/wiki/Port) of the Syrian city of [Tartus](https://en.wikipedia.org/wiki/Tartus). 
+
+Established in 1971, during the [Cold War](https://en.wikipedia.org/wiki/Cold_War), by an agreement between the [Soviet Union](https://en.wikipedia.org/wiki/Soviet_Union) and [Ba'athist Syria](https://en.wikipedia.org/wiki/Ba'athist_Syria), the facility supported the [Soviet Navy](https://en.wikipedia.org/wiki/Soviet_Navy)'s [5th Operational Squadron](https://en.wikipedia.org/wiki/5th_Operational_Squadron), its [Mediterranean](https://en.wikipedia.org/wiki/Mediterranean_Sea) fleet. 
+
+After the fall of the Soviet Union, the facility remained in limited use by Russia's [Black Sea Fleet](https://en.wikipedia.org/wiki/Black_Sea_Fleet). From 2009, the facility was upgraded and expanded, including to serve the Mediterranean Sea Task Force, formed in 2013. From 2011, it was the only remaining Russian naval base outside the [former Soviet Union](https://en.wikipedia.org/wiki/Former_Soviet_Union) and after 2015, the base supported the [Russian intervention in the Syrian civil war](https://en.wikipedia.org/wiki/Russian_intervention_in_the_Syrian_civil_war). In 2017 Russia concluded an agreement with Syria, obtaining a free-of-charge 49-year lease for its ships based in the Mediterranean, jurisdiction over the base, and the ability to store [nuclear weapons](https://en.wikipedia.org/wiki/Nuclear_weapons) aboard its ships.
+
+In December 2024, following the [fall of the Assad regime](https://en.wikipedia.org/wiki/Fall_of_the_Assad_regime), the Russian Navy began withdrawing from the base, completing this by early March 2025. [1] The treaty allowing Russian ownership of bases in Syria was described as having been suspended but not terminated, and Russian vessels continued to use the base as a stopover point through 2025, while details of its final status remained unclear.
+
+In mid-2026 it was reported that there were no major Russian warships currently in the Mediterranean.
+
+[[2]](#cite_note-mondediplo-3)In August 2026 it was announced that an agreement had been signed between Russia and Syria governing future Russian use of the bases.
+
+[[3]](#cite_note-4)
+
+[[4]](#cite_note-5)## History
+
+[[edit](/w/index.php?title=Tartus_naval_base&action=edit§ion=1)]
+
+### 1971 to 2012
+
+[[edit](/w/index.php?title=Tartus_naval_base&action=edit§ion=2)]
+
+The [Soviet Union](https://en.wikipedia.org/wiki/Soviet_Union) established a facility at Tartus during the [Cold War](https://en.wikipedia.org/wiki/Cold_War) in accordance with a Soviet–Syrian agreement concluded in 1971, with a view of supporting the [Soviet Navy](https://en.wikipedia.org/wiki/Soviet_Navy)'s [5th Operational Squadron](https://en.wikipedia.org/wiki/5th_Operational_Squadron) in the Mediterranean, which the Soviets saw as a counterbalance to the [U.S. Sixth Fleet](https://en.wikipedia.org/wiki/United_States_Sixth_Fleet) headquartered in Italy (then in [Gaeta](https://en.wikipedia.org/wiki/Gaeta)).[[5]](#cite_note-tassspravka-6)
+
+In the early 1970s, the Soviet Navy had similar support points located in Egypt, Ethiopia ([Eritrea](https://en.wikipedia.org/wiki/Eritrean_War_of_Independence)), Vietnam and elsewhere. In 1977, the Soviet Navy evacuated its Egyptian support bases at [Alexandria](https://en.wikipedia.org/wiki/Alexandria) and [Mersa Matruh](https://en.wikipedia.org/wiki/Mersa_Matruh) and transferred the ships and property to Tartus, where it transformed the naval support facility into the 229th Naval and Estuary Vessel Support Division.
+
+In 1984, Moscow upgraded the Tartus support point to the 720th Material-Technical Support Point.[[5]](#cite_note-tassspravka-6)
+
+In December 1991, the [Soviet Union dissolved](https://en.wikipedia.org/wiki/Dissolution_of_the_Soviet_Union); the Soviet Mediterranean 5th Operational Squadron (composed of ships from the [Northern Fleet](https://en.wikipedia.org/wiki/Russian_Northern_Fleet), the [Baltic Fleet](https://en.wikipedia.org/wiki/Baltic_Fleet), and the [Black Sea Fleet](https://en.wikipedia.org/wiki/Black_Sea_Fleet)) ceased to exist in December 1992. Since then, the [Russian Navy](https://en.wikipedia.org/wiki/Russian_Navy) has occasionally deployed ships and submarines to the Mediterranean Sea.
+
+As Russia wrote off 73% of Syria's $13.4 billion [Soviet-era](https://en.wikipedia.org/wiki/Soviet_Union) debt in 2005 [6] and became Syria's main arms supplier, Russia and Syria held talks about allowing Russia to develop and enlarge its naval facility, so that Russia could strengthen its naval presence in the Mediterranean.
+
+Amid Russia's deteriorating relations with the West, because of the
+
+[[7]](#cite_note-Weitz-8)[Russo-Georgian War](https://en.wikipedia.org/wiki/Russo-Georgian_War)and of plans to deploy a U.S. missile defense shield in Poland, an unsourced article said that President
+
+[Bashar al-Assad](https://en.wikipedia.org/wiki/Bashar_al-Assad)reportedly agreed to the port's conversion into a permanent Middle East base for Russia's nuclear-armed warships.
+
+
+[[8]](#cite_note-9)In September 2008, a second floating pier was built at the facility, following the discussion of the issue between the presidents of Russia and Syria in August. [5] Meanwhile, mass media and officials of Russia, Israel, and Syria made contradictory statements about Russian warships planning to call at Tartus as well as about the prospects of upgrading the facility to a naval base.
+
+
+[[9]](#cite_note-10)In July 2009, the Russian military announced they would modernize the Tartus facility.[[10]](#cite_note-11)
+
+### During the Syrian Civil War
+
+[[edit](/w/index.php?title=Tartus_naval_base&action=edit§ion=3)]
+
+Media reports in March 2012 suggested that Russian [special forces](https://en.wikipedia.org/wiki/Spetsnaz) had arrived at the Tartus port. [11] According to a 
+
+[TASS](https://en.wikipedia.org/wiki/TASS)report published in December 2017, the Tartus facility has been used for supplies of Russian armaments and military cargo since June 2012.
+
+Back in June 2012, Russian officials denied reports that they were reinforcing the garrison at Tartus with
+
+[[5]](#cite_note-tassspravka-6)[marines](https://en.wikipedia.org/wiki/Russian_Naval_Infantry).
+
+In 2012, the BBC reported that up to 50 Russian sailors were stationed there then.
+
+[[12]](#cite_note-13)
+
+[[13]](#cite_note-14)On 3 August 2012, international media reported that three large Russian [amphibious assault ships](https://en.wikipedia.org/wiki/Amphibious_assault_ship), carrying hundreds of marines would soon visit Tartus. Earlier reports, quoting a source at the [Russian General Staff](https://en.wikipedia.org/wiki/General_Staff_of_the_Armed_Forces_of_the_Russian_Federation), said the ships would spend a few days in Tartus and would take on fresh supplies of food and water. British media added that the ships each had up to 120 marines on board. The [Russian Defence Ministry](https://en.wikipedia.org/wiki/Ministry_of_Defence_(Russia)) left open the possibility that the ships might dock there at some point for logistical reasons, saying they had every right to do so. The unnamed General Staff source had said that after calling in at Tartus, they would head for the [Bosphorus](https://en.wikipedia.org/wiki/Bosphorus) and the Russian Black Sea port of [Novorossiysk](https://en.wikipedia.org/wiki/Novorossiysk).[[14]](#cite_note-BBC141-15) [15] The ships, part of Russia's Northern Fleet, were 
+
+[,](https://en.wikipedia.org/wiki/Russian_landing_ship_Aleksandr_Otrakovsky)
+
+*Aleksandr Otrakovsky*[and](https://en.wikipedia.org/wiki/Russian_landing_ship_Georgy_Pobedonosets)
+
+*Georgy Pobedonosets*[, all](https://en.wikipedia.org/wiki/Russian_landing_ship_Kondopoga)
+
+*Kondopoga*[Ropucha-class landing ships](https://en.wikipedia.org/wiki/Ropucha-class_landing_ship). The source, quoted by
+
+[Interfax](https://en.wikipedia.org/wiki/Interfax)news agency, said one would anchor off Tartus and the other two would use a floating pier, because the port facilities were limited. There was speculation that Russia may begin evacuating its nationals from Syria and deploy Marines to protect personnel and equipment, as the violence intensifies (about 30,000 Russian citizens were said to be living in Syria).
+
+
+[[14]](#cite_note-BBC141-15)
+
+[[16]](#cite_note-nyt-17)In May 2013, a U.S. newspaper reported that Russia had sent a dozen or more warships to patrol waters near Tartus, a move that was seen as a warning to the U.S. and Israel not to intervene in the conflict in Syria.[[17]](#cite_note-18)
+
+At the end of June 2013, Russian deputy foreign minister [Mikhail Bogdanov](https://en.wikipedia.org/wiki/Mikhail_Bogdanov_(diplomat)) said in an interview that the facility did not have any strategic or military importance and that Russia had evacuated all civilian and military personnel from Tartus and Syria ("Presently, the Russian Defense Ministry has not a single person stationed in Syria"). [18] This information was then confirmed by the Russian Defense Ministry.
+
+
+[[18]](#cite_note-vednet-19)After the permanent [Mediterranean Sea Task Force](https://en.wikipedia.org/wiki/Mediterranean_Sea_Task_Force) of the Russian Navy was formed in September 2013, the facility at Tartus was charged with servicing and repairs of the ships of that formation.[[5]](#cite_note-tassspravka-6)
+
+On 18 January 2017, Russia and Syria signed an agreement, effective forthwith, wherein Russia would be allowed to expand and use the naval facility at Tartus for 49 years on a free-of-charge basis and enjoy sovereign jurisdiction over the base.[[19]](#cite_note-tass-cement-20)[[20]](#cite_note-russ-accord-21) [21] The treaty allows Russia to keep up to 11 ships at Tartus, including nuclear vessels;
+
+it stipulates privileges and full immunity from Syria's jurisdiction for Russia's personnel and
+
+[[22]](#cite_note-reutersestablperm-23)[materiel](https://en.wikipedia.org/wiki/Materiel)at the facility.
+
+The treaty was ratified and approved by
+
+[[23]](#cite_note-24)[Russian parliament](https://en.wikipedia.org/wiki/Federal_Assembly_(Russia)), and the relevant federal law was signed by president
+
+[Vladimir Putin](https://en.wikipedia.org/wiki/Vladimir_Putin)by the end of December 2017.
+
+
+[[24]](#cite_note-25)
+
+[[25]](#cite_note-26)
+
+[[26]](#cite_note-27)In late December 2017, Russia announced it had set about "forming a permanent grouping" at the Tartus naval facility as well as at the [Khmeimim Air Base](https://en.wikipedia.org/wiki/Khmeimim_Air_Base), after president Putin approved the structure and the personnel strength of the Tartus and Khmeimim facilities.[[27]](#cite_note-shoigutassperm-28)[[22]](#cite_note-reutersestablperm-23)
+
+The Russian facility at Tartus has been used for delivering armaments and supplies by Russian [dock landing ships](https://en.wikipedia.org/wiki/Dock_landing_ship) and cargo ships that pass the Straits from the Russian [Black Sea](https://en.wikipedia.org/wiki/Black_Sea) port in Novorossiysk to Syria (the * Syrian Express*) — for the 
+
+[Russian intervention in the Syrian Civil War](https://en.wikipedia.org/wiki/Russian_intervention_in_the_Syrian_Civil_War)that began on 30 September 2015 as well as for the
+
+[Syrian Arab Army](https://en.wikipedia.org/wiki/Syrian_Army).
+
+
+[[5]](#cite_note-tassspravka-6)
+
+[[28]](#cite_note-29)
+
+[[29]](#cite_note-30)According to media reports in September 2015, a drastic intensification of traffic of the
+
+[[30]](#cite_note-31)*Syrian Express*was noted since mid-August 2015.
+
+
+[[31]](#cite_note-32)In April 2019, senior Russian officials were reported to have had talks with the Syrian government; Russian deputy prime minister [Yury Borisov](https://en.wikipedia.org/wiki/Yury_Borisov) was quoted as saying that a contract on renting the Tartus port by Russia for "use by Russian business" was expected to be signed shortly.[[32]](#cite_note-33)[[33]](#cite_note-34)
+
+Over the course of its history through the Syrian Civil War, the base usually hosted no more than half a dozen Russian vessels, with its "modest infrastructure" only supporting "light logistical operations", as well as only very limited maintenance work, as it didn't include a [shipyard](https://en.wikipedia.org/wiki/Shipyard).[[2]](#cite_note-mondediplo-3)
+
+### Fall of Assad government to present day
+
+[[edit](/w/index.php?title=Tartus_naval_base&action=edit§ion=4)]
+
+In November 2024, rebels including [Hay'at Tahrir al-Sham](https://en.wikipedia.org/wiki/Hay'at_Tahrir_al-Sham) (HTS) launched a [major offensive](https://en.wikipedia.org/wiki/2024_Syrian_opposition_offensives) against the Russian-backed [Syrian military](https://en.wikipedia.org/wiki/Syrian_Arab_Armed_Forces) and seized the city of Aleppo.[[34]](#cite_note-:0-35)
+
+On the morning of 3 December 2024, analysts such as Droxford Maritime [35] saw that a tanker and some warships were leaving Tartus. By the evening, image analysts such as M T Anderson
+
+had confirmed the base was now empty. Two
+
+[[36]](#cite_note-37)[frigates, one](https://en.wikipedia.org/wiki/Admiral_Gorshkov-class_frigate)
+
+*Admiral Gorshkov*-class[frigate, one](https://en.wikipedia.org/wiki/Admiral_Grigorovich-class_frigate)
+
+*Admiral Grigorovich*-class[Improved Kilo-class submarine](https://en.wikipedia.org/wiki/Improved_Kilo-class_submarine)and two
+
+[auxiliary ships](https://en.wikipedia.org/wiki/Auxiliary_ship), one of which being the tanker
+
+*, had all departed and sailed into the Mediterranean.*
+
+[Yelna](https://en.wikipedia.org/wiki/Altay-class_oiler)
+
+[[37]](#cite_note-38)
+
+[[38]](#cite_note-39)
+
+[[39]](#cite_note-40)
+
+[[40]](#cite_note-41)On 8 December 2024, the [Russian Foreign Ministry](https://en.wikipedia.org/wiki/Ministry_of_Foreign_Affairs_(Russia)) said in a statement that Tartus naval base had been put on a state of high alert. Reuters reported that [Russian war blogger](https://en.wikipedia.org/wiki/Russian_military_bloggers) "Rybar", who is close to [Russian Defence Ministry](https://en.wikipedia.org/wiki/Ministry_of_Defence_(Russia)), said "Russia's military presence in the [Middle East](https://en.wikipedia.org/wiki/Middle_East) region hangs by a thread, Russian warships had left Tartus and taken up position off the coast for security reasons, the [Hmeimim Air Base](https://en.wikipedia.org/wiki/Hmeimim_Air_Base) had effectively been cut off after rebels took control of a nearby town, [Kurdish forces](https://en.wikipedia.org/wiki/Syrian_Democratic_Forces) had started to block Russian facilities beyond the [Euphrates](https://en.wikipedia.org/wiki/Euphrates), and Russian positions at an oil facility in Homs had been blocked."[[41]](#cite_note-:1-42)[[42]](#cite_note-:2-43)
+
+On 9 December 2024, [Kremlin spokesman](https://en.wikipedia.org/wiki/Kremlin_Press_Secretary) [Dmitry Peskov](https://en.wikipedia.org/wiki/Dmitry_Peskov) said communication lines with HTS had been opened to talk about Russia retaining its naval and air bases in Syria.[[43]](#cite_note-44)
+
+The former Senior British Military Advisor to [US Central Command](https://en.wikipedia.org/wiki/United_States_Central_Command), Maj. Gen. [Chip Chapman](https://en.wikipedia.org/wiki/Chip_Chapman?action=edit&redlink=1), told [Times Radio](https://en.wikipedia.org/wiki/Times_Radio) on 9 December 2024 that Russian evacuations from bases across Syria appear to be underway and that small groups of Russian troops are cut off from the main Tartus naval base and trapped.[[44]](#cite_note-45)[[45]](#cite_note-46)
+
+As of 6 January 2025 [update] the last known Russian submarine in the Mediterranean, the 
+
+[Kilo-class](https://en.wikipedia.org/wiki/Kilo-class_submarine)
+
+*Novorossiysk*had exited the
+
+[Strait of Gibraltar](https://en.wikipedia.org/wiki/Strait_of_Gibraltar).
+
+
+[[46]](#cite_note-47)On 19 January 2025, Tartus Customs Director Riyad Joudi told [Al-Watan](https://en.wikipedia.org/wiki/Al-Watan_(Syria)) that an agreement signed in 2019 with a former subsidiary of [Stroytransgaz](https://en.wikipedia.org/wiki/Stroytransgaz) to redevelop the civilian portion of the Port of Tartus was rescinded by the provisional government. [47] In a statement to 
+
+*, Anton Mardasov from the*
+
+[Kommersant](https://en.wikipedia.org/wiki/Kommersant)[Russian International Affairs Council](https://en.wikipedia.org/wiki/Russian_International_Affairs_Council)said he believes that this does not indicate any changes for the naval base itself.
+
+On 13 November 2025,
+
+[[48]](#cite_note-49)[DP World](https://en.wikipedia.org/wiki/DP_World)commenced operations at the Port of Tartus as part of a 30-year concession agreement.
+
+
+[[49]](#cite_note-50)On 22 January 2025, some reports claimed that the [new Syrian government](https://en.wikipedia.org/wiki/Syrian_caretaker_government) had terminated the treaty allowing for a Russian military base in Tartus. [50] However, it soon became clear that sources were only claiming that Syria had canceled a lease allowing a Russian firm to operate the commercial port of Tartus,
+
+while the treaty authorizing the navy base was not affected.
+
+[[51]](#cite_note-52)
+
+[[52]](#cite_note-reuters-port-lease-53)A month later, Russian firm
+
+[[53]](#cite_note-National-tartus-port-54)[STG Engineering](https://en.wikipedia.org/wiki/STG_Engineering?action=edit&redlink=1)would also assert that it was still operating the port, and that it had not been notified of any cancellation of the lease. Meanwhile Russian company
+
+[Stroytransgaz](https://en.wikipedia.org/wiki/Stroytransgaz)denied previous reports saying that it was the company in charge of the port, saying that it had no involvement and was unconnected to STG Engineering.
+
+
+[[54]](#cite_note-55)Despite the treaty remaining in force, a Russian evacuation of the base was believed to be imminent, possibly due to its operation being deemed impractical without control of the larger port. [55] On 2 February 2025 all Russian ships previously stationed at Tartus were reported as having left the base.
+
+
+[[56]](#cite_note-marex-flotilla-57)Although Russian warships no longer berthed at the base, satellite imagery showed a continued naval presence nearby in Syria’s territorial waters. In May 2025, a Maritime Industry analyst wrote that the Russian navy's status at the base was unclear, with Russian warships still visiting, but their apparently limited access suggesting that access was granted on a case-by-case basis without "basing rights". [57] As of 6 June 2025, at least one surface combatant was operating there: a 
+
+[.](https://en.wikipedia.org/wiki/Steregushchiy-class_corvette)
+
+*Steregushchiy*-class corvettePort workers subsequently told journalists that the Russian base had been "largely emptied out", while satellite imagery reportedly showed that most of the Russian military's equipment was gone.
+
+[[58]](#cite_note-59)Later in the year, the status of the base treaty would be described as "suspended – but not terminated – ahead of a probable renegotiation".
+
+[[53]](#cite_note-National-tartus-port-54)
+
+[[2]](#cite_note-mondediplo-3)On 15 October 2025, at a meeting with Russian president [Vladimir Putin](https://en.wikipedia.org/wiki/Vladimir_Putin), whose government said that the status of Russia's Tartus naval base and [Khmeimim Air Base](https://en.wikipedia.org/wiki/Khmeimim_Air_Base) were on the agenda, [59] Syrian president 
+
+[Ahmed al-Sharaa](https://en.wikipedia.org/wiki/Ahmed_al-Sharaa)said "we respect all agreements made" with Russia, which journalists interpreted to imply that Syria would allow Russian use of both bases going forward.
+
+Four days earlier, it had been reported that Russia began resupplying the Khmeimim airbase with truck convoys traveling from Tartus,
+
+[[60]](#cite_note-61)doing so at least 5 times during the first half of the month.
+
+[[61]](#cite_note-62)
+
+[[62]](#cite_note-63)As of December 2025, Russian ships traveling through the Mediterranean were reportedly still using the base as a "staging post", while the exact status of the base was seen as yet to be renegotiated. [2] In early 2026, the corvette 
+
+[Stoykiy](https://en.wikipedia.org/wiki/Russian_corvette_Stoikiy)was reported to be using the facility more regularly, including wharfs previously reserved for the Russian Mediterranean Flotilla.
+
+As of June 2026, the
+
+[[63]](#cite_note-64)[frigate Admiral Kasatonov](https://en.wikipedia.org/wiki/Russian_frigate_Admiral_Kasatonov)and the
+
+[replenishment vessel Academic Pashin](https://en.wikipedia.org/wiki/Russian_replenishment_oiler_Academic_Pashin)were reported docked at the facility along with a
+
+[Grachonok-class](https://en.wikipedia.org/wiki/Grachonok-class_patrol_boat)and two
+
+[Raptor-class patrol boats](https://en.wikipedia.org/wiki/Raptor-class_patrol_boat).
+
+In mid-2026, it was reported that there were no Russian warships currently in the Mediterranean (though it was unclear if this also applied to the patrol boats reported at Tartus).
+
+[[64]](#cite_note-65)
+
+[[65]](#cite_note-66)## See also
+
+[[edit](/w/index.php?title=Tartus_naval_base&action=edit§ion=5)]
+
+## Notes
+
+[[edit](/w/index.php?title=Tartus_naval_base&action=edit§ion=6)]
+
+- [↑](#cite_ref-1)As of early 2018 these boundaries are subject to change.
+
+## References
+
+[[edit](/w/index.php?title=Tartus_naval_base&action=edit§ion=7)]
+
+- [↑](#cite_ref-o484_2-0)- ["Tartus port and Syria's new geo-economic strategy"](https://www.iiss.org/online-analysis/online-analysis/2025/07/tartus-port-and-syrias-new-geo-economic-strategy/).- *IISS*. 2 July 2025. Retrieved 4 August 2025.
+- [1](#cite_ref-mondediplo_3-0)- [2](#cite_ref-mondediplo_3-1)- [3](#cite_ref-mondediplo_3-2)- [4](#cite_ref-mondediplo_3-3)Delanoë, Igor.- ["Syria's new leaders keep Russia in play"](https://mondediplo.com/2025/12/05syria-russia).- *Le Monde Diplomatique*. No. December 2025. Retrieved 14 March 2026.
+- [↑](#cite_ref-4)- ["Russia Has No Warships In The Mediterranean For The First Time Since 2013"](https://www.marineinsight.com/russia-has-no-warships-in-the-mediterranean-for-the-first-time-since-2013/).- *Marine Insight*. 21 July 2026. Retrieved 24 July 2026.
+- [↑](#cite_ref-5)- ["Syria agrees deal with Russia over future use of two key Mediterranean bases"](https://www.cnn.com/2026/08/09/middleeast/syria-deal-russia-mediterranean-bases-intl).- *CNN*. 9 August 2026. Retrieved 10 August 2026.
+- [1](#cite_ref-tassspravka_6-0)- [2](#cite_ref-tassspravka_6-1)- [3](#cite_ref-tassspravka_6-2)- [4](#cite_ref-tassspravka_6-3)- [5](#cite_ref-tassspravka_6-4)- [6](#cite_ref-tassspravka_6-5)- ["Пункт материально-технического обеспечения ВМФ России в Тартусе. Досье"](http://tass.ru/info/4808523)[Russian Navy Logistics Support Point in Tartus. Dossier].- *TASS*. 13 December 201.- [Archived](https://web.archive.org/web/20201122070214/https://tass.ru/info/4808523)from the original on 22 November 2020.
+- [↑](#cite_ref-7)- ["А.Кудрин: Россия простила Сирии $9,6 млрд долгов: Россия спишет 73% от суммы долга Сирии, который с учетом встречной задолженности и обязательств России составляет 13,4 млрд долл., сообщил сегодня министр финансов РФ Алексей Кудрин по итогам российско-сирийских переговоров в Кремле"](https://www.rbc.ru/politics/25/01/2005/5703ba5b9a7947afa08c75be)[A. Kudrin: Russia has forgiven Syria $9.6 billion in debt: Russia will write off 73% of the amount of Syria's debt, which, taking into account counter debt and Russia's obligations, amounts to $13.4 billion, Russian Finance Minister Alexei Kudrin announced today following Russian-Syrian talks in the Kremlin].- [RBK Group](https://en.wikipedia.org/wiki/RBK_Group)- [Archived](https://web.archive.org/web/20201111165618/https://www.rbc.ru/politics/25/01/2005/5703ba5b9a7947afa08c75be)from the original on 11 November 2020.
+- [↑](#cite_ref-Weitz_8-0)Weitz, Richard (2010).- *Global security watch—Russia : a reference handbook*- [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier))- [978-0-313-35434-2](https://en.wikipedia.org/wiki/Special:BookSources/978-0-313-35434-2).
+- [↑](#cite_ref-9)- ["Big Russian flotilla led by Admiral Kuznetsov carrier heads for Syrian port"](https://web.archive.org/web/20080823171949/http://www.debka.com/headline.php?hid=5526).- [DEBKAfile](https://en.wikipedia.org/wiki/DEBKAfile)- [the original](http://www.debka.com/headline.php?hid=5526)on 23 August 2008. Retrieved 22 August 2008.
+- [↑](#cite_ref-10)- ["Тартус мал для "Петра Великого": Сирийский порт не сможет принять российский флот"](https://www.kommersant.ru/doc/1030595)[Tartus is too small for "Peter the Great": Syrian port will not be able to accommodate the Russian fleet].- [Kommersant](https://en.wikipedia.org/wiki/Kommersant)- [Archived](https://web.archive.org/web/20201029223647/https://www.kommersant.ru/doc/1030595)from the original on 29 October 2020.
+- [↑](#cite_ref-11)- ["ВМФ РФ модернизирует пункт базирования кораблей в Сирии"](https://ria.ru/defense_safety/20090720/177967779.html)[Russian Navy to modernize ship basing point in Syria].- *RIA Novosti*. 20 July 200.- [Archived](https://web.archive.org/web/20170821043159/https://ria.ru/defense_safety/20090720/177967779.html)from the original on 21 August 2017.
+- [↑](#cite_ref-Al_Arabiya_News_12-0)- ["Russian special forces arrive in Syrian port: opposition sources"](http://english.alarabiya.net/articles/2012/03/19/201791.html).- *Al Arabiya News*. 19 March 2012.- [Archived](https://web.archive.org/web/20171226235621/http://english.alarabiya.net/articles/2012/03/19/201791.html)from the original on 26 December 2017. Retrieved 24 March 2012.
+- [↑](#cite_ref-13)- ["Russian Warships Said to Be Going to Naval Base in Syria"](https://www.nytimes.com/2012/06/19/world/europe/russian-warships-said-to-be-going-to-naval-base-in-syria.html).- *NYT*. 18 June 2012.
+- [↑](#cite_ref-14)- ["How vital is Syria's Tartus port to Russia?"](https://www.bbc.com/news/world-middle-east-18616191).- *BBC*. 27 June 2012.- [Archived](https://web.archive.org/web/20201103091601/https://www.bbc.com/news/world-middle-east-18616191)from the original on 3 November 2020.
+- [1](#cite_ref-BBC141_15-0)- [2](#cite_ref-BBC141_15-1)- ["BBC News — Russia denies warships heading for Syria's Tartus port"](https://www.bbc.co.uk/news/world-europe-19108141). Bbc.co.uk. 3 August 2012.- [Archived](https://web.archive.org/web/20210108164356/https://www.bbc.co.uk/news/world-europe-19108141)from the original on 8 January 2021. Retrieved 3 September 2013.
+- [↑](#cite_ref-16)Loiko, Sergei L. (3 August 2012).- ["Russia reportedly sending warships with marines to Syrian waters"](http://latimesblogs.latimes.com/world_now/2012/08/russia-reportedly-sending-warships-with-marines-to-syrian-waters.html).- [Los Angeles Times](https://en.wikipedia.org/wiki/Los_Angeles_Times)- [Archived](https://web.archive.org/web/20120805035156/http://latimesblogs.latimes.com/world_now/2012/08/russia-reportedly-sending-warships-with-marines-to-syrian-waters.html)from the original on 5 August 2012. Retrieved 4 August 2012.
+- [↑](#cite_ref-nyt_17-0)Damien Cave; Dalal Mawad (3 August 2012).- ["Deadly Attack on Refugee Camp in Syria Could Shift Palestinian Allegiances to Rebels"](https://www.nytimes.com/2012/08/04/world/middleeast/syria-assault-palestinian-camp-damascus.html).- *New York Times*.- [Archived](https://web.archive.org/web/20210108171019/https://www.nytimes.com/2012/08/04/world/middleeast/syria-assault-palestinian-camp-damascus.html)from the original on 8 January 2021. Retrieved 28 February 2017.
+- [↑](#cite_ref-18)"- ["Russia Raises Stakes in Syria; Assad Ally Bolsters Warships in Region; U.S. Sees Warning"](https://www.wsj.com/articles/SB10001424127887323398204578487333332405720).- [Wall Street Journal](https://en.wikipedia.org/wiki/Wall_Street_Journal)- [Archived](https://web.archive.org/web/20210108170017/https://www.wsj.com/articles/SB10001424127887323398204578487333332405720)from the original on 8 January 2021. Retrieved 8 August 2017.
+- [1](#cite_ref-vednet_19-0)- [2](#cite_ref-vednet_19-1)- [Российские военные покинули Сирию: По словам источника в Минобороны, решение вывести из Сирии военный персонал связано со стремлением не подвергать его опасности в условиях гражданской войны](https://www.vedomosti.ru/politics/articles/2013/06/25/rossijskie_voennye_pokinuli_siriyu)- [Archived](https://web.archive.org/web/20210108165504/https://www.vedomosti.ru/politics/articles/2013/06/25/rossijskie_voennye_pokinuli_siriyu)8 January 2021 at the- [Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine)- [Vedomosti](https://en.wikipedia.org/wiki/Vedomosti), 25 June 2013.
+- [↑](#cite_ref-tass-cement_20-0)- ["Moscow cements deal with Damascus to keep 49-year presence at Syrian naval and air bases"](http://tass.com/defense/926348).- *TASS*. 20 January 2017.- [Archived](https://web.archive.org/web/20181016021826/http://tass.com/defense/926348)from the original on 16 October 2018. Retrieved 30 January 2017.
+- [↑](#cite_ref-russ-accord_21-0)- ["New Russia-Syria accord allows up to 11 warships in Tartus port simultaneously"](http://www.dw.com/en/new-russia-syria-accord-allows-up-to-11-warships-in-tartus-port-simultaneously/a-37212976).- *Deutsche Welle*.- [Archived](https://web.archive.org/web/20170716144539/http://www.dw.com/en/new-russia-syria-accord-allows-up-to-11-warships-in-tartus-port-simultaneously/a-37212976)from the original on 16 July 2017. Retrieved 30 January 2017.
+- [↑](#cite_ref-riavnes_22-0)- ["Путин внес в ГД соглашение о расширении пункта обеспечения ВМФ в Тартусе"](https://ria.ru/syria/20171213/1510800603.html)[Putin submitted to the State Duma an agreement on expanding the naval supply point in Tartus].- *RIA Novosti*(in Russian). 13 December 2017.- [Archived](https://web.archive.org/web/20181015002909/https://ria.ru/syria/20171213/1510800603.html)from the original on 15 October 2018. Retrieved 26 December 2017.
+- [1](#cite_ref-reutersestablperm_23-0)- [2](#cite_ref-reutersestablperm_23-1)- ["Russia establishing permanent presence at its Syria bases: RIA"](https://www.reuters.com/article/us-mideast-crisis-syria-russia-bases/russia-establishing-permanent-presence-at-its-syria-bases-ria-cites-minister-idUSKBN1EK0HD).- *Reuters*. 26 December 2017.- [Archived](https://web.archive.org/web/20210108164548/https://www.reuters.com/article/us-mideast-crisis-syria-russia-bases/russia-establishing-permanent-presence-at-its-syria-bases-ria-cites-minister-idUSKBN1EK0HD)from the original on 8 January 2021. Retrieved 26 December 2017.
+- [↑](#cite_ref-24)- ["Соглашение между Российской Федерацией и Сирийской Арабской Республикой о расширении территории пункта материально-технического обеспечения Военно-Морского Флота Российской Федерации в районе порта Тартус и заходах военных кораблей Российской Федерации в территориальное море, внутренние воды и порты Сирийской Арабской Республики"](http://docs.cntd.ru/document/420389892)[Agreement between the Russian Federation and the Syrian Arab Republic on the expansion of the territory of the logistics point of the Russian Navy in the area of the port of Tartus and the calls of warships of the Russian Federation into the territorial sea, internal waters and ports of the Syrian Arab Republic].- *"Статья 9 Иммунитеты и привилегии", www.kodeks.ru*.- [Archived](https://web.archive.org/web/20201111235659/http://docs.cntd.ru/document/420389892)from the original on 11 November 2020.
+- [↑](#cite_ref-25)- ["Подписан закон о ратификации соглашения между Россией и Сирией о расширении территории пункта материально-технического обеспечения ВМФ России в районе порта Тартус"](http://kremlin.ru/acts/news/56562)[A law has been signed to ratify the agreement between Russia and Syria on expanding the territory of the Russian Navy logistics center in the Tartus port area].- *kremlin.ru*. 29 December 201.- [Archived](https://web.archive.org/web/20201030035631/http://kremlin.ru/acts/news/56562)from the original on 30 October 2020.
+- [↑](#cite_ref-26)- ["Путин подписал закон о ратификации соглашения по базе ВМФ РФ в Тартусе"](https://www.rg.ru/2017/12/29/putin-podpisal-zakon-o-ratifikacii-soglasheniia-po-baze-vmf-rf-v-tartuse.html)[Putin signs law ratifying agreement on Russian naval base in Tartus].- [Rossiyskaya Gazeta](https://en.wikipedia.org/wiki/Rossiyskaya_Gazeta)- [Archived](https://web.archive.org/web/20201029213917/https://rg.ru/2017/12/29/putin-podpisal-zakon-o-ratifikacii-soglasheniia-po-baze-vmf-rf-v-tartuse.html)from the original on 29 October 2020.
+- [↑](#cite_ref-27)- ["Russia's upper house ratifies agreement on naval base in Syria's Tartus"](http://tass.com/defense/983048).- *TASS*. 26 December 2017.- [Archived](https://web.archive.org/web/20180812115231/http://tass.com/defense/983048)from the original on 12 August 2018.
+- [↑](#cite_ref-shoigutassperm_28-0)- ["Россия начала формировать постоянную группировку в Тартусе и Хмеймиме"](http://tass.ru/armiya-i-opk/4843441)[Russia has begun to form a permanent group in Tartus and Khmeimim].- *TASS*. 26 December 2017.- [Archived](https://web.archive.org/web/20210108165107/https://tass.ru/armiya-i-opk/4843441)from the original on 8 January 2021.
+- [↑](#cite_ref-29)- [""Сирийский экспресс" тормозить не собирается"](https://web.archive.org/web/20171228054000/http://nvo.ng.ru/news/604103.html)["Syrian Express" has no intention of slowing down].- [Nezavisimaya Gazeta](https://en.wikipedia.org/wiki/Nezavisimaya_Gazeta)- [the original](http://nvo.ng.ru/news/604103.html)on 28 December 2017.
+- [↑](#cite_ref-30)- ["Российские десантные корабли создали "дорогу жизни" для Сирии"](https://vz.ru//society/2017/10/2/888931.html)[Russian landing ships create a "lifeline" for Syria].- *vz.ru*. 2 October 2017.- [Archived](https://web.archive.org/web/20201125051946/https://vz.ru/society/2017/10/2/888931.html)from the original on 25 November 2020.
+- [↑](#cite_ref-31)- ["Exclusive: Russia builds up forces in Syria, Reuters data analysis shows"](https://www.reuters.com/article/us-mideast-crisis-syria-russia-exclusive/exclusive-russia-builds-up-forces-in-syria-reuters-data-analysis-shows-idUSKCN1271YO).- *Reuters*. 7 October 2016.- [Archived](https://web.archive.org/web/20200806224421/https://www.reuters.com/article/us-mideast-crisis-syria-russia-exclusive/exclusive-russia-builds-up-forces-in-syria-reuters-data-analysis-shows-idUSKCN1271YO)from the original on 6 August 2020.
+- [↑](#cite_ref-32)- ["Сирийский экспресс: Российские военные корабли на пути в Тартус"](http://rusnext.ru/news/1441723981)[Syrian Express: Russian Warships En Route to Tartus].- *rusnext.ru*. 8 September 2015.- [Archived](https://web.archive.org/web/20200428201202/https://rusnext.ru/news/1441723981)from the original on 28 April 2020.
+- [↑](#cite_ref-33)- ["Moscow Close To Finalizing Deal To Lease Syria's Tartus Port For 49 Years"](https://www.rferl.org/a/moscow-damascus-near-deal-on-lease-syrian-port-tartus/29894114.html).- *Radio Liberty*. 21 April 2019.- [Archived](https://web.archive.org/web/20201130171820/https://www.rferl.org/a/moscow-damascus-near-deal-on-lease-syrian-port-tartus/29894114.html)from the original on 30 November 2020.
+- [↑](#cite_ref-34)- ["Борисов анонсировал контракт на аренду сирийского порта Тартус на 49 лет: Контракт должен быть подписан в течение недели, после этого сирийский порт Тартус на 49 лет перейдет "в эксплуатацию российского бизнеса", заявил вице-премьер"](https://www.rbc.ru/politics/20/04/2019/5cbb568f9a7947c4970edebe)[Borisov announced a contract for the lease of the Syrian port of Tartus for 49 years: The contract should be signed within a week, after which the Syrian port of Tartus will be transferred to the “operation of Russian business” for 49 years, the Deputy Prime Minister said.].- [rbc.ru](https://en.wikipedia.org/wiki/RBK_Group)- [Archived](https://web.archive.org/web/20201030163212/https://www.rbc.ru/politics/20/04/2019/5cbb568f9a7947c4970edebe)from the original on 30 October 2020.
+- [↑](#cite_ref-:0_35-0)Holmes, Oliver; Wintour, Patrick (3 December 2024).- ["Syrian insurgents advance on Hama city after capturing Aleppo"](https://www.theguardian.com/world/2024/dec/03/syrian-insurgents-advance-on-hama-city-after-capturing-aleppo).- *The Guardian*.- [ISSN](https://en.wikipedia.org/wiki/ISSN_(identifier))- [0261-3077](https://search.worldcat.org/issn/0261-3077). Retrieved 5 December 2024.
+- [↑](#cite_ref-36)- ["Droxford Maritime (@Drox_Maritime) / X"](https://x.com/Drox_Maritime). 5 December 2024.- [Archived](https://web.archive.org/web/20241129153901/https://x.com/Drox_Maritime)from the original on 29 November 2024. Retrieved 5 December 2024.
+- [↑](#cite_ref-37)- ["MT Anderson (@MT_Anderson) / X"](https://x.com/MT_Anderson). 5 December 2024.- [Archived](https://web.archive.org/web/20241204082427/https://x.com/MT_Anderson)from the original on 4 December 2024. Retrieved 5 December 2024.
+- [↑](#cite_ref-38)Axe, David (4 December 2024).- ["If Putin loses his Tartus base, he may need a ceasefire in Ukraine"](https://www.telegraph.co.uk/news/2024/12/04/putin-tartus-naval-ukraine-ceasefire-bosporus-black-sea/).- *The Telegraph*.- [ISSN](https://en.wikipedia.org/wiki/ISSN_(identifier))- [0307-1235](https://search.worldcat.org/issn/0307-1235).- [Archived](https://web.archive.org/web/20241204233750/https://www.telegraph.co.uk/news/2024/12/04/putin-tartus-naval-ukraine-ceasefire-bosporus-black-sea/)from the original on 4 December 2024. Retrieved 5 December 2024.
+- [↑](#cite_ref-39)Sharpe, Tom (4 December 2024).- ["Putin retreats again"](https://www.telegraph.co.uk/news/2024/12/04/putin-russian-navy-retreat-tartus-base-warships/).- *The Telegraph*.- [ISSN](https://en.wikipedia.org/wiki/ISSN_(identifier))- [0307-1235](https://search.worldcat.org/issn/0307-1235).- [Archived](https://web.archive.org/web/20241204171021/https://www.telegraph.co.uk/news/2024/12/04/putin-russian-navy-retreat-tartus-base-warships/)from the original on 4 December 2024. Retrieved 5 December 2024.
+- [↑](#cite_ref-40)- ["Russia Reportedly Withdraws Ships from Syria's Tartus Naval Base Amid Escalating Conflict"](https://caspiannews.com/news-detail/russia-reportedly-withdraws-ships-from-syrias-tartus-naval-base-amid-escalating-conflict-2024-12-4-0/).- *caspiannews.com*. Retrieved 5 December 2024.
+- [↑](#cite_ref-41)- ["Russia withdraws naval assets from Tartus port, amid rebel advance in Syria"](https://www.middleeastmonitor.com/20241204-russia-withdraws-naval-assets-from-tartus-port-amid-rebel-advance-in-syria/).- *Middle East Monitor*. 4 December 2024.- [Archived](https://web.archive.org/web/20241204181427/https://www.middleeastmonitor.com/20241204-russia-withdraws-naval-assets-from-tartus-port-amid-rebel-advance-in-syria/)from the original on 4 December 2024. Retrieved 5 December 2024.
+- [↑](#cite_ref-:1_42-0)- ["Syria's Assad is in Moscow after deal on military bases: Russian state media"](https://www.reuters.com/world/russia-says-syrias-assad-has-left-country-given-orders-peaceful-power-handover-2024-12-08/).- [Reuters](https://en.wikipedia.org/wiki/Reuters)
+- [↑](#cite_ref-:2_43-0)- ["Syria hit by US and Israeli airstrikes as war bloggers fret about 'threat' to Russian bases from rebels"](https://news.sky.com/story/syria-hit-by-us-and-israeli-airstrikes-as-war-bloggers-fret-about-threat-to-russian-bases-from-rebels-13270123).- *Sky News*. Retrieved 9 December 2024.
+- [↑](#cite_ref-44)Kilner, James (9 December 2024).- ["Russia scrambling to keep hold of key Syria bases as Putin faces loss of gateway to Africa"](https://www.telegraph.co.uk/world-news/2024/12/09/russia-wants-to-keep-hold-of-key-syria-bases/).- *The Telegraph*.- [ISSN](https://en.wikipedia.org/wiki/ISSN_(identifier))- [0307-1235](https://search.worldcat.org/issn/0307-1235). Retrieved 9 December 2024.
+- [↑](#cite_ref-45)- *Putin's withdrawal underway as Russia set to lose bases to Syrian rebels*- *Times Radio*. 9 December 2024.- [Archived](https://web.archive.org/web/20241209184011/https://www.youtube.com/watch?si=ibRhXPHfOIccKaFQ&v=mo1h2pTsiaw)from the original on 9 December 2024. Retrieved 9 December 2024 – via YouTube.
+- [↑](#cite_ref-46)Cole, Brendan; Feng, John (9 December 2024).- ["Russian forces "encircled in Syria" after Assad deposed"](https://www.newsweek.com/syria-assad-russia-putin-encircled-forces-standoff-civil-war-bombing-1997475).- *Newsweek*. Retrieved 9 December 2024.
+- [↑](#cite_ref-47)- ["Russian Evacuation From Tartus Naval Base Appears Stalled"](https://maritime-executive.com/article/russian-evacuation-from-tartus-naval-base-appears-stalled).- *maritime-executive.com*. 6 January 2025. Retrieved 9 January 2025.
+- [↑](#cite_ref-48)Moh, Mortada (19 January 2025).- ["مدير جمارك طرطوس لـ"الوطن": " الرسوم الجمركية خفضت بقيمة 60% لبعض المواد والضابطة الجمركية اليوم هي على الحدود فقط ""](https://www.alwatanonline.com/%D9%85%D8%AF%D9%8A%D8%B1-%D8%AC%D9%85%D8%A7%D8%B1%D9%83-%D8%B7%D8%B1%D8%B7%D9%88%D8%B3-%D9%84%D9%80%D8%A7%D9%84%D9%88%D8%B7%D9%86-%D8%A7%D9%84%D8%B1%D8%B3%D9%88%D9%85-%D8%A7%D9%84%D8%AC%D9%85/)[Tartus Customs Director to Al-Watan: "Customs duties have been reduced by 60% for some materials, and today's customs control is only at the borders"].- [Al-Watan](https://en.wikipedia.org/wiki/Al-Watan_(Syria))
+- [↑](#cite_ref-49)Кербелов, Нил (22 January 2025).- ["Российские деньги лишились причала в Сирии – Дамаск разорвал соглашение с Москвой по Тартусу"](https://www.kommersant.ru/doc/7445872)[Russian money lost its mooring in Syria – Damascus breaks agreement with Moscow on Tartus].- [Kommersant](https://en.wikipedia.org/wiki/Kommersant)
+- [↑](#cite_ref-50)Karsten, Jens (13 November 2025).- ["DP World begins operations at Syria's Tartus Port"](https://www.bairdmaritime.com/shipping/ports/dp-world-begins-operation-at-syrias-tartus-port).- *Baird Maritime / Work Boat World*. Retrieved 20 February 2026.
+- [↑](#cite_ref-51)- ["Syria Terminates Russian Naval Base Deal – Reports"](https://www.themoscowtimes.com/2025/01/22/syria-terminates-russian-naval-base-deal-reports-a87690).- *The Moscow Times*. 22 January 2025. Retrieved 29 April 2025.
+- [↑](#cite_ref-52)- ["Syria terminates Tartus port management contract with Russian company"](https://en.apa.az/asia/syria-terminates-tartus-port-management-contract-with-russian-company-458626).- *Apa.az*. 22 January 2025. Retrieved 28 September 2025.
+- [↑](#cite_ref-reuters-port-lease_53-0)Ashari, Tim; al-Khalidi, Suleiman; Gebeily, Maya (24 January 2025).- ["Syria cancels port management contract with Russian firm, sources say"](https://www.reuters.com/world/middle-east/syria-cancels-port-management-contract-with-russian-firm-sources-say-2025-01-24/).- *Reuters*. Retrieved 10 March 2026.
+- [1](#cite_ref-National-tartus-port_54-0)- [2](#cite_ref-National-tartus-port_54-1)Atallah, Nada Maucourant (26 May 2025).- ["Tartus port finds new lease of life as Syria reopens for business"](https://www.thenationalnews.com/news/mena/2025/05/26/tartous-port-finds-new-lease-of-life-as-syria-reopens-for-business/).- *The National*. Retrieved 10 March 2026.
+- [↑](#cite_ref-55)Stolyarov, Gleb (28 February 2025).- ["Russian operator of Syria's Tartous port dismisses reports it has lost its contract"](https://www.reuters.com/business/russian-operator-syrias-tartous-port-dismisses-reports-it-has-lost-its-contract-2025-02-28/).- *Reuters*. Retrieved 14 March 2026.
+- [↑](#cite_ref-56)Eardley, Nick; Murphy, Matt (24 January 2025).- ["Russian ships return to Syrian base ahead of expected withdrawal"](https://www.bbc.com/news/articles/c14nk475nd5o).- *BBC News*. Retrieved 10 March 2026.
+- [↑](#cite_ref-marex-flotilla_57-0)- ["All Eyes Are on Russia's Mediterranean Flotilla as it Leaves Syria Behind"](https://maritime-executive.com/article/all-eyes-are-on-russia-s-mediterranean-flotilla-as-it-leaves-syria-behind).- *The Maritime Executive*. Retrieved 29 April 2025.
+- [↑](#cite_ref-58)- ["Russian Navy's Weakness in the Mediterranean Becomes Clear"](https://maritime-executive.com/editorials/russian-navy-s-weakness-in-the-mediterranean-becomes-clear).- *The Maritime Executive*. 11 May 2025. Retrieved 10 March 2026.
+- [↑](#cite_ref-59)- ["Tartus port and Syria's new geo-economic strategy"](https://www.iiss.org/online-analysis/online-analysis/2025/07/tartus-port-and-syrias-new-geo-economic-strategy/).- *IISS*. 2 July 2025. Retrieved 28 September 2025.
+- [↑](#cite_ref-60)Osborn, Andrew; Al-Khalidi, Suleiman (15 October 2025).- ["Putin and Syria's Sharaa to discuss fate of Russian military bases on Wednesday, Kremlin says"](https://uk.news.yahoo.com/putin-syrias-sharaa-discuss-fate-104013581.html).- *Yahoo! News UK*. Reuters. Retrieved 10 March 2026.
+- [↑](#cite_ref-61)Soldatkin, Vlaidmir; Osborn, Andrew; Al-Khalidi, Suleiman (15 October 2025).- ["Syria's Sharaa tells Putin he will respect past deals with Moscow"](https://www.reuters.com/world/putin-syrias-sharaa-discuss-fate-russian-military-bases-wednesday-kremlin-says-2025-10-15/).- *Reuters*. Retrieved 10 March 2026.
+- [↑](#cite_ref-62)- [https://www.kurdistan24.net/en/story/868637/russia-reinforces-key-syrian-bases-with-advanced-weaponry-logistical-supplies](https://www.kurdistan24.net/en/story/868637/russia-reinforces-key-syrian-bases-with-advanced-weaponry-logistical-supplies)
+- [↑](#cite_ref-63)- [https://www.syriahr.com/en/371537/](https://www.syriahr.com/en/371537/)
+- [↑](#cite_ref-64)- ["The Russian Navy is Reestablishing its Mediterranean Base in Syria"](https://maritime-executive.com/article/the-russian-navy-is-reestablishing-its-mediterranean-base-in-syria).- *The Maritime Executive*. 7 May 2026. Retrieved 8 May 2026.
+- [↑](#cite_ref-65)- ["Russian Navy Struggling to Maintain a Mediterranean Presence"](https://maritime-executive.com/article/russian-navy-struggling-to-maintain-a-mediterranean-presence).- *The Maritime Executive*. 20 June 2026. Retrieved 23 June 2026.
+- [↑](#cite_ref-66)- ["Russia Has No Warships In The Mediterranean For The First Time Since 2013"](https://www.marineinsight.com/russia-has-no-warships-in-the-mediterranean-for-the-first-time-since-2013/).- *Marine Insight*. 21 July 2026. Retrieved 24 July 2026.
+
+[Categories](/wiki/Help:Category):
+
+- [Installations of the Russian Navy](/wiki/Category:Installations_of_the_Russian_Navy)
+- [Installations of the Soviet Navy](/wiki/Category:Installations_of_the_Soviet_Navy)
+- [Buildings and structures in Tartus](/wiki/Category:Buildings_and_structures_in_Tartus)
+- [Military units and formations established in 1977](/wiki/Category:Military_units_and_formations_established_in_1977)
+- [1977 establishments in Syria](/wiki/Category:1977_establishments_in_Syria)
+- [Soviet Union–Syria relations](/wiki/Category:Soviet_Union%E2%80%93Syria_relations)
+- [Russian involvement in the Syrian civil war](/wiki/Category:Russian_involvement_in_the_Syrian_civil_war)
+- [Military installations of the Soviet Union in other countries](/wiki/Category:Military_installations_of_the_Soviet_Union_in_other_countries)
+- [Military installations of Russia in Syria](/wiki/Category:Military_installations_of_Russia_in_Syria)
+- [Military installations established in 1977](/wiki/Category:Military_installations_established_in_1977)
+- [Military installations closed in 2025](/wiki/Category:Military_installations_closed_in_2025)

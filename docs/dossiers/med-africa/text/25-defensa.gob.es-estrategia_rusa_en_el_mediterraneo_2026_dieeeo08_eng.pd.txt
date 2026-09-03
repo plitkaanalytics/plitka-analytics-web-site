@@ -1,0 +1,666 @@
+URL:         https://www.defensa.gob.es/documents/2073105/3095923/estrategia_rusa_en_el_mediterraneo_2026_dieeeo08_eng.pdf
+Кінцевий:    https://www.defensa.gob.es/documents/2073105/3095923/estrategia_rusa_en_el_mediterraneo_2026_dieeeo08_eng.pdf
+Заголовок:   estrategia_rusa_en_el_mediterraneo_2026_dieeeo08_eng.pdf
+Дата публ.:  не вказана на сторінці
+Завантажено: 2026-09-01 13:58 UTC
+HTTP:        200   Тип: application/pdf   Байтів: 836592
+Оригінал:    raw/25-defensa.gob.es-estrategia_rusa_en_el_mediterraneo_2026_dieeeo08_eng.pd.pdf
+sha256:      bc9eba9ca82829a41e06cd68ecbca58eb3470a49a5aa917e11a869f6152ca61a
+Витяг:       pdftotext
+
+==============================================================================
+                                            Opinion
+
+                                            Paper
+
+                                   08/2026  23/01/2026
+
+                                                            Alberto Priego*
+
+                                                 Russian strategy in the
+                                            Mediterranean: A second front
+
+Visit webpage  Receive Newsletter
+
+       Russian strategy in the Mediterranean: A second
+                                     front
+
+Abstract:
+
+Since the beginning of the Cold War, the USSR has concentrated its military efforts on
+Central Europe. The Mediterranean Sea has long been a region of influence for the United
+States and its allies. The most Moscow achieved was to have a military base in Syria that
+allowed it to avoid the Turkish straits. However, with the end of the Cold War, the situation
+changed completely. Central Europe became NATO territory, and Russia had to retreat
+its line of confrontation. As a complementary strategy, Russia began to strengthen its
+position in the Mediterranean through both conventional and unconventional means. In
+addition to its traditional alliances with Algeria and Libya, it formed others beyond the
+Sahara Desert, supporting coups in places such as Mali, the Central African Republic and
+Burkina Faso. Almost without realising it, Europe has seen a second front open, where
+the threats are not only unconventional but also much more diffuse.
+
+Keywords: Russia, Mediterranean Sea, Africa Corp, Military Bases.
+
+How to quote:
+
+PRIEGO, Alberto. Russian strategy in the Mediterranean: A second front. Opinion Paper. IEEE
+08/2026. web link IEEE and/or link bie3 (accessed on the web day/month/year)
+
+*NOTE: The ideas contained in the Opinion Papers shall be responsibility of their authors,
+            without necessarily reflecting the thinking of the IEEE or the Ministry of Defense.
+
+               Opinion Paper       08/2026                                                       1
+                   Russian strategy in the Mediterranean: A second front
+
+                       Alberto Priego
+
+In 2007, Russia implemented a revisionist foreign and security policy. Although Europe
+was the most obvious theatre of operations, with the invasions of Georgia (2008) and
+Ukraine (2014 and 2022), the old continent was not the only place where Moscow sought
+to rebalance its capabilities. The Mediterranean went from being a secondary stage to
+becoming another theatre of operations in the conflict between Russia and Europe.
+Although during the Cold War the existence of a land buffer between Russia and NATO
+meant that Russia considered the Mediterranean to be a less critical arena, the
+enlargement of the Atlantic Alliance reduced the security glacis, prompting Russia to use
+the Mediterranean as an arena for confrontation. Furthermore, the invasions of Abkhazia,
+Crimea and the rest of Ukraine reinforced Russia's view of the Black Sea and the
+Mediterranean Sea as a single space. Finally, the fall of Bashar al-Assad and the
+subsequent dismantling of Russian military facilities in Syria have led Russia to initiate a
+policy of control over a sea, the Mediterranean, which until now had been the Mare
+Nostrum.
+
+Soviet policy towards the Mediterranean Sea.
+
+One of the Soviet Union's main strategic shortcomings was Moscow's difficulty in gaining
+access to warm seas. This problem was particularly acute in the European part of Russia,
+as the straits of Denmark, the Dardanelles and Gibraltar meant that the USSR was
+effectively landlocked. In addition to this geopolitical complication, or perhaps because of
+it, the Soviet Union ruled out developing a navy comparable to that of the United States.
+In fact, Khrushchev went so far as to describe the Soviet navy as ‘a rowboat crewed by
+Soviet sailors on a Russian lake’1.
+
+It was not until the arrival of Sergei Gorshkov that Moscow began to compete with the
+United States in naval terms. The technological revolution introduced by Gorshkov
+enabled Soviet ships to operate farther from the coast, thereby achieving greater strategic
+capacity2. The Soviet Navy became a ‘blue-water navy’.
+
+The Soviets, as well as the Russians today, have three fleets in Europe (the Northern,
+
+1 ROUCEK, Joseph “Las implicaciones de la expansión Naval Soviética en el Mediterráneo” Revista de Estudios
+
+Políticos, Num. 117, 1970, p. 128.
+2 DARBY, Joseph “The Soviet Doctrine of the Closed Sea” San Diego Law Review, May/June Vol. 23 No. 3, p. 686.
+
+Opinion Paper  08/2026  2
+                   Russian strategy in the Mediterranean: A second front
+
+                       Alberto Priego
+
+Baltic, and Black Sea fleets), although they conceive of them as a single fleet sailing all
+the waters surrounding the European continent. The element that best illustrates this
+assertion is the name used to describe the Mediterranean naval grouping: the
+Mediterranean Squadron. This is a maritime group that was fed equally by ships from the
+Black Sea Fleet, the Northern Fleet and the Baltic Fleet. This peculiarity was a direct
+consequence of the absence of ports in which to moor Soviet ships. For this reason, the
+Soviets were forced to use tankers and repair ships anchored in international waters in
+the Gulf of Hammamet, the Gulf of Sirte, and the Gulf of Alborán to carry out their repair
+and supply operations.
+
+While it is true that the USSR sought to favour socialist governments in places such as
+Algeria, Egypt and Libya, Moscow never managed to turn the Mediterranean into a sea
+of safe harbours. In fact, it is striking that Stalin did not provide the expected support to
+the communist guerrillas of ELAS (People's National Liberation Army), a task that was
+delegated to the Yugoslavs, and ultimately led to Greece siding with NATO. The
+explanation for this lack of interest can be found in the consideration given to the
+Mediterranean, a sea that, far from being a Soviet strategic priority, was regarded as a
+secondary theatre of operations.
+
+While it is true that the Sixth Fleet and the American bases in Crete, Rota and Naples
+might lead us to believe that Moscow was vying with the United States for control of the
+Mediterranean, the reality is that this sea was never a strategic priority for the Kremlin.
+Proof of this lack of interest can be found in the absence of a “Mediterranean fleet”
+comparable to that of the Black Sea or the Baltic and, above all, in the fact that only
+torpedo boats were deployed in Mediterranean waters and that the submarines that plied
+its waters rarely carried ballistic missiles.
+
+However, we must highlight Moscow's successes in the Eastern Mediterranean,
+particularly in Syria, where it has established both a naval base and an air base. However,
+it also suffered some resounding failures, such as in Vlora (Albania), where it was unable
+to establish a naval base despite the ideological affinity of the Tirana government.
+
+In short, the Mediterranean Sea was nothing more than a secondary theatre for the
+USSR, where Moscow failed to establish a network of bases comparable to that of the
+US or a deployment point for a naval force like the American Sixth Fleet. The explanation
+
+Opinion Paper  08/2026  3
+                   Russian strategy in the Mediterranean: A second front
+
+                       Alberto Priego
+
+for this situation is straightforward: Moscow prioritised Central Europe as a front for
+confrontation with the West. The 1,731,000 square kilometres of glacis that the USSR
+established between Berlin and Moscow led the Kremlin to consider the Mediterranean
+Sea as a non-priority area. However, the end of the USSR completely changed Russia's
+strategic assessment of the Mediterranean. Furthermore, the incorporation of Estonia,
+Latvia, Lithuania, Bulgaria and Romania into NATO shook Russian hegemony in two of
+the seas where it had its ‘European fleets’: the Black Sea and the Baltic Sea.
+
+All these events led to a shift in Moscow's perspective on the Mediterranean, rendering
+this sea a region of great strategic importance. In fact, the Russian Maritime Doctrine of
+2022 recognises this change by classifying the Mediterranean and its adjacent waters as
+an ‘Important Area’3. However, beyond the Kremlin's wishes, Russia continues to face
+severe difficulties in achieving its objectives in the region, and its submarines are still
+forced to leave the Mediterranean due to the impossibility of finding friendly ports where
+they can be repaired. This lack of capacity does not mean that Russia is abandoning its
+efforts to influence the region. Still, it does mean that Moscow is projecting instability,
+rather than stability, to deter Europeans from the Southern Shore.
+
+Russian policy towards the Mediterranean Sea
+
+Regarding the Mediterranean, it is worth noting that Russia has broadly adopted the
+USSR's conception of the region. However, this has had to be adapted to Putin's
+ambitions and the current limitations of the Russian Federation. The 2022 Russian
+Maritime Doctrine mentions ‘the Atlantic region’, an area comprising the Baltic, Black and
+Mediterranean seas, which coincides entirely with the area occupied by the USSR's
+‘European fleet’. The difference between the ‘European fleet’ of the USSR era and the
+‘Atlantic Region’ of Putin's era lies in the value that the Kremlin attaches to the
+Mediterranean. While in Soviet times the Mediterranean was subordinate to the glacis of
+Central and Eastern Europe, now, with the loss of that territory, the Mediterranean has
+become a main theatre of operations for Russia.
+
+3 PARMAR, Sarabjeet, SAWAN, Ranendra and AGNIBOTRI, Kamlesh “National Maritime Foundation “Maritime
+Doctrine of the Russian Federation 2022. An Analysis” National Maritime Foundation, August 2022, p. 4.
+
+Opinion Paper  08/2026  4
+Russian strategy in the Mediterranean: A second front
+
+Alberto Priego
+
+GLACIS
+
+Map 1. Balance of Power in Europe between 1949 and 2025. Own Elaboration.
+
+However, despite this conception, Russia's technical shortcomings prevent Moscow from
+fully implementing its strategy of control over the Mediterranean, forcing the Kremlin to
+use non-traditional means to promote instability and provoke the departure of Europeans
+from the countries on the southern shore of the Mediterranean.
+
+The Mediterranean in Russian strategy
+
+Since the Russian Navy's Operational Unit in the Mediterranean (Pyataya Eskadra) was
+officially established in 2010, Russia has shown increasing interest in the Mediterranean
+Sea. Although Russia's presence in the Mediterranean remains limited, NATO's
+expansion has increased Russian interest in the Mediterranean Sea. The 2001 Russian
+Maritime Doctrine was replaced by the 2015 version, followed by the 2022 version, in
+which Russia clearly reveals its intentions for the Mediterranean. However, its strategy is
+not limited to the Maghreb and Mashreq but has greater strategic significance as it seeks
+to control a large part of the Sahel countries. To this end, between 2020 and 2023, Russia
+supported and encouraged a series of coups in places such as Mali (2021), Burkina Faso
+(2022) and Niger (2023)4
+
+All these actions have been aimed at controlling the governments of these countries, and
+above all, at severing their ties with the West. In this way, Moscow uses the Sahel as a
+factory of instability that it then spills over into the Mediterranean, so that it reaches
+Europe and destabilises our societies. To this end, Russia does not hesitate to use the
+capabilities it is developing in the Mediterranean basin, capabilities which, although they
+
+4 “Military coups in Mali in 2020 and 2021, one in Burkina Faso in 2022, and in Niger in 2023 resulted in the expulsion
+of U.S., French, and other Western forces, and an influx of Russian forces” The Soufan Center, 31st March 2025.
+Avaible at https://thesoufancenter.org/intelbrief-2025-march-31/
+
+Opinion Paper  08/2026                                 5
+                   Russian strategy in the Mediterranean: A second front
+
+                       Alberto Priego
+
+do not serve to control Europe's southern flank, do serve to destabilise Europe and cause
+European countries to disagree on where they should deploy their resources.
+
+Having explained Russia's doctrine in the Mediterranean and the Sahel, we will now
+analyse the military capabilities, port infrastructure, and unconventional means that
+Russia employs on this southern flank. Let's examine these three aspects.
+
+Capabilities: It is not easy to establish with certainty the specific number of personnel that
+make up the Operational Unit. Although the official allocation is 15 vessels, the
+Operational Unit typically consists of three frigates, one or two submarines, and a few
+support vessels. As far as submarines are concerned, at least two have been sighted,
+although some reports have pointed to as many as five5. The submarines identified in the
+Mediterranean are the Krasnodar (B-265) and the Mozhaisk (B-608). Both the Krasnodar
+and the Mozhaisk are Kilo 636.6 class submarines (SSK6). The Krasnodar, known to
+Western sailors as ‘the black hole’ due to its low acoustic signature, has had several
+encounters with Spanish ships7, as the Russian submarine has been too close to our
+territorial waters8.
+
+Another submarine commonly found in the warm waters of the Mediterranean is the
+Novorossiysk, another Kilo-class (636.3) submarine similar to the Krasnodar and the
+Mozhaisk, but slightly older. The real danger of these vessels lies in their ability to carry
+Kalibr missiles, which can be launched while the submarine is fully submerged. Despite
+this presence, since the fall of Bashar al-Assad, submarines have been experiencing
+severe difficulties operating in the Mediterranean, as they have no support ports where
+they can resupply or be repaired. Russia is therefore desperately seeking ports to moor
+its ships.
+
+As far as frigates are concerned, the Admiral Grigorovich (Krivak V class) has been
+identified, which, in addition to carrying Kalibr missiles, can transport Ka-21 and Ka-31
+helicopters. Two of the ships that most concern Europeans are the Admiral Golovko and
+the Admiral Gorshkov (Gorshkov class9). These are two more advanced frigates than the
+
+5 The number of Russian submarines in the Mediterranean has increased to five. Snorkel, 11 September 2021.
+6 Diesel-powered and capable of carrying Kalibr missiles.
+7 The Galicia Amphibious Ship and the Baleares Frigate.
+8 “El submarino ruso ‘Krasnodar’ se pasea por el Mediterráneo bajo la atenta mirada de la española ‘Álvaro de Bazán”
+
+Delta 13 News, 21st April de 2025
+9 The name Gorshkov is used in honour of the moderniser of the Soviet fleet.
+
+Opinion Paper  08/2026  6
+                   Russian strategy in the Mediterranean: A second front
+
+                       Alberto Priego
+
+Grigorovich, which also have the capacity to launch hypersonic missiles such as the
+Zirkon. In fact, in December 2024, Russia demonstrated its strength in the Eastern
+Mediterranean by launching Zirkov missiles from the two aforementioned Gorshkov-class
+frigates and a Kalibr missile from the aforementioned Novorossiisk submarine. As
+mentioned above, the Novorossiisk is also sometimes found in the Mediterranean, but
+being an older model (2014), it is more prone to breakdowns. In fact, in October 2025,
+the Novorossiisk10 suffered a serious technical mishap in the waters off Gibraltar, forcing
+it to be towed by the Yakov Grebelsky under the watchful eye of the British and Dutch,
+who monitored its tow11.
+
+In addition to these vessels, the Russian Operational Unit in the Mediterranean has an
+intelligence ship and a supply ship. Regarding the former, the Spanish Navy has
+repeatedly detected the presence of the Viktor Leonov, a maritime espionage ship known
+as ‘Putin's Ear’ due to its design to intercept communications and gather information12.
+Regarding the second type, the Vyazma and Yelnya13 are noteworthy, as they serve as
+mother ships that provide refuelling and supply centres for the rest of the Operational
+Unit. In addition to serving as support vessels, both ships are known to carry out acts of
+sabotage against submarine communications or power cables.
+
+Ports and Airports: The second element we should highlight is the network of ports and
+airports that Russia is building in Africa. Since the beginning of the Cold War, Russia has
+been interested in establishing warm-water ports in the Mediterranean, as this sea
+presents significant logistical challenges for its ships. The shallow waters of the Turkish
+straits, combined with the legal restrictions imposed by the Montreux Convention, mean
+that Russia cannot deploy its boats in the Mediterranean as it would like. For this reason,
+the Soviet Union established an alliance with Syria, whose primary objective was to
+secure access to the port of Tartus. However, despite Putin's efforts in the Syrian War,
+the Kremlin has been unable to support its ally, and the fall of Bashar al-Assad's regime
+
+10 “Rusia hizo pruebas de lanzamiento de misiles hipersónicos en el Mediterráneo oriental” Infobae, 3rd December
+2024
+11 “Así terminó el submarino ruso "cojeante" del que se burla el secretario general la OTAN” La Razón, 14th October
+2025.
+12 “Increased Presence of Russian Spy Ships Around Europe: Viktor Leonov Vessel enters the Mediterranean Sea”
+Naval News, 16th April 2025. Available at https://www.armyrecognition.com/news/navy-news/2025/increased-
+presence-of-russian-spy-ships-around-europe-viktor-leonov-vessel-enters-the-mediterranean
+13 “Russian Tanker Yelnya docks in Algeria following strategic withdrawal from Tartus Naval Base” Naval News Navy,
+20th December 2024. Disponible en https://www.armyrecognition.com/news/navy-news/2024/russian-tanker-
+yelnya-docks-in-algeria-following-strategic-withdrawal-from-tartus-naval-base
+
+Opinion Paper  08/2026  7
+                   Russian strategy in the Mediterranean: A second front
+
+                       Alberto Priego
+
+has dealt a severe blow to Moscow's strategy in the Mediterranean. Ahmed al-Charaa's
+rise to power has precipitated events, causing Russia to lose its only Mediterranean port.
+Thus, Russia's strategy in the Mediterranean has collapsed, as Moscow urgently needs
+safe ports for its ships.
+
+Perhaps the preferred location for establishing ‘the new Tartus’ is the Libyan port of
+Tobruk14. Although indeed, the Kremlin does not yet have a naval base like the one it had
+in Syria, Russia has been unloading material from Tartus at the port of Tobruk for months,
+an enclave controlled by its ally, Marshal Haftar. In addition to Tobruk, Moscow has the
+Libyan air base at Al-Khadim and, near Benghazi15, the Ghardabiya airfield, a facility that
+seems to have become the new Khmeimim (Syria). Along with Tobruk, Al-Khadim and
+Ghardabiya, Russia is establishing itself in the interior of Libya by rebuilding the Al Jufra,
+Brek Al Shati and Matan al-Sarra bases16. The latter is a former air base on the border
+with Chad that is being restored by Russian troops and mercenaries from the Wagner
+Group (formerly known as the Africa Corps17). Some reports indicate that in August 2024,
+Russia deployed between 2,000 and 2,500 men in Libya, most of whom belonged to the
+Africa Corps18. In total, although still under construction, Russia has five air facilities and
+one port in Libya, that of Tobruk, capable of accommodating its submarines. This network
+of ports and airports makes the North African country a new stronghold in the
+Mediterranean for Russia19.
+
+14 “With Eyes on Sahel, Russia Shifts From Syria to Libya” Africa Defence Forum, 22nd July 2025. Disponible en
+https://adf-magazine.com/2025/07/with-eyes-on-sahel-russia-shifts-from-syria-to-libya/
+15 “Libya's Al-Khadim airbase becomes a hub for Russian arms in the Sahel” Radio Francia Internacional, 23rd June
+2025. Available at https://www.rfi.fr/en/africa/20250623-libya-s-al-khadim-airbase-becomes-a-hub-for-russian-
+arms-in-the-sahel
+16 McGREGOR, Andrew “Russia Increasing Military Presence in Africa by Reviving Desert Airbase in the Libyan Sahara”
+Jamestown Founation, 17th April 2025.
+17 The two-year-old Africa Corps, which has links to a covert branch of Russia’s army, is ascendant at a time when
+U.S. and European troops have been withdrawing from the region, forced out by sub-Saharan nations turning to
+Russia for security” Associated Press, 11th June 2025. Available at https://www.ap.org/news-
+highlights/spotlights/2025/russia-skirts-western-sanctions-to-ramp-up-its-military-footprint-in-africa/
+18 “By August 2024, there were a reported 2,000 - 2,500 Africa Corps personnel deployed at various military sites in
+Libya” The Soufan Center, 31st March 2025. Available at https://thesoufancenter.org/intelbrief-2025-march-31/
+19 “The developments [at Maaten al-Sarra] are consistent with Russia's strategy to establish multiple military bases
+in Libya, positioning them as a central hub for the African Corps command”The New Arab, 28th January 2025.
+Available at https://www.newarab.com/news/russia-assert-africa-europe-power-libya-airbase-expansion
+
+Opinion Paper  08/2026  8
+Russian strategy in the Mediterranean: A second front
+
+Alberto Priego
+
+                                      Tobruz
+
+                           Al-Khadim
+
+               Ghardabiya
+
+                AL Jufra
+
+Brek al Shati,
+
+                                   Matan-al Sarra
+
+Mapa 2. Russian Military facilities in Libya. Own Elaboration.
+
+We cannot fail to mention Algeria, a country that has increased its cooperation with
+Russia in recent years, even holding joint military exercises. Although Algeria has been
+a strategic partner of Moscow since the 1960s, the increase in collaboration and, above
+all, fears that Russia could establish a naval base in the North African country have set
+off alarm bells. In recent months, Umm al-Assal20 has served as a base for Russian MIG-
+29M221 fighter jets, prompting Algeria to upgrade its military facilities. Specifically, the
+Algiers government has been extending its runways, building ammunition arsenals and
+developing long-range radars.
+
+These measures suggest Algiers is preparing the Umm al-Assal base for the arrival of
+state-of-the-art Russian aircraft22, such as the Sukhoi 34, 35 and 7423. Perhaps the point
+of most significant concern to the West in the relationship between Algiers and Moscow
+
+20 “Russia Considers Building Ports in Several African Countries” Northen Africa News, 24th April 2024. Available at
+
+https://nan.media/en/russia-considers-building-ports-in-several-african-countries/
+21 CHARPENTREAU, Clement “Algerian MiG-29M2 spotted for the first time” Aerotime, 2nd February 2021.
+22 NIKOLOV, Boyco “Russian-backed Algerian MiG-29 base stirs Morocco border fears” Bulgarian Military. 10th
+October 2025
+23 DE LOYOLA, Esteban “Argelia, primer país africano que operará el Su-57E ruso” El Confidencial Digital, 8th OCtober
+
+2025.
+
+Opinion Paper             08/2026                      9
+                   Russian strategy in the Mediterranean: A second front
+
+                       Alberto Priego
+
+is the naval base at Mers El-Kébir24, a port near Oran that is only 140 km from Almeria,
+within range of Russian short-range missiles such as those being used in Ukraine. For
+this reason, Russia has been investing money in this facility since 2021, as it not only
+hosts personnel permanently but also provides significant support for refuelling and
+repairing its submarines25.
+
+                                       Mers El-Kébir
+
+Umm al-Assal
+
+Map 3. Russian military facilities in Algeria. Own Elaboration
+
+To complete the map of Russian military installations, it is worth noting that last February,
+Moscow and Khartoum signed an agreement to establish a military base in Port Sudan26.
+Beyond the Kremlin's current policy towards the Mediterranean, the installation of a base
+in the Red Sea is an old Russian ambition that it has been pursuing for more than 25
+years. The facility being built there will serve as a supply point for Russian ships and also
+a barracks for 300 Russian soldiers, available for air transport to nearby locations27.
+
+24 Russia Eyes Naval Base in Algeria Near Moroccan Border” Bladi.net, 13 abril de 2021.
+25 ZOUBIR, Yahia “Algeria-Russia Ties: Beyond Military Cooperation?” Middle East Council on Global Affairs, Issue
+Brief, January 2024. Disponible en https://mecouncil.org/publication/algerian-russian-relations-military-
+cooperation/
+26 PEYRONNET, Arnaud “Sudan, Russia’s new gateway to Africa and the Indian Ocean” 6th March 2021. Fondation
+Méditerranéenne d'Études Stratégiques. Available at https://fmes-france.org/sudan-russias-new-gateway-to-africa-
+and-the-indian-ocean/
+27 “The deal allows Russia to set up a naval base with up to 300 Russian soldiers, and also to simultaneously keep up
+to four navy ships, including nuclear-powered ones, in Port Sudan on the Red Sea” Al Jazeera, 2nd June 2021,
+Available at https://www.aljazeera.com/news/2021/6/2/military-chief-says-sudan-reviewing-naval-base-deal-with-
+russia
+
+Opinion Paper  08/2026  10
+                   Russian strategy in the Mediterranean: A second front
+
+                       Alberto Priego
+
+.
+
+ Russian naval base
+    refuelling
+
+Under construction
+ Military base
+ African Corp
+
+                             Mers El Kebir  Al-Khadim  Tobruk
+
+                     Umm
+                     al-Assal
+
+                                            Matan Al Sarra
+
+                                                                Port Sudan
+
+MAP 4: Russian deployment in Africa and the Mediterranean Sea
+
+No traditional means: While it is true that we have seen how Russia uses conventional
+means to defend its interests in the Mediterranean, it is no less accurate that Moscow
+does not hesitate to use less traditional means to this end. Essentially, we are discussing
+emigration as a tool and the so-called ‘ghost ships’.
+
+Opinion Paper                                          08/2026              11
+                   Russian strategy in the Mediterranean: A second front
+
+                       Alberto Priego
+
+Migration: As it has done in other places such as Finland28 or Poland29, Russia is using
+migration as a weapon of war or, at least, as a means of destabilising European societies.
+To achieve this goal, it is essential to control those governments in whose territory the
+main south-north migratory movements originate or take place.
+
+As mentioned above, since 2021, states such as Mali, Burkina Faso and Niger have
+begun to replace their governments with others that are less democratic and more
+favourable to Moscow; their migration policies have become increasingly less cooperative
+with Europe. Particularly significant is the case of Niger, a state governed by a military
+junta whose first measure was to abolish the controversial Law 2015/3630, a legislative
+provision that prohibited the trafficking of migrants in Niger. The law mentioned above,
+which was developed with legal advice from the UNODC and financial support from the
+EU, was essentially an adaptation of the UN Protocol Against the Smuggling of Migrants.
+
+In this strategy of using emigration as a weapon of war, we must highlight some of the
+military bases that Russia has established in the Sahel, as these locations are not only
+strategic military points but also key sites for controlling migratory flows. An example of
+this is the aforementioned Matan al-Sarra military base31, a site that, in addition to being
+a military installation, is an oasis used by mafias on their migration routes to Europe. From
+there, they follow a path through places where Russia has military installations until they
+reach the port of Tobruk, where they embark on their journey to Italy.
+
+The first to raise the alarm about this phenomenon was Italian intelligence, which warned
+that Russia was using migration to destabilise European governments. In fact, Draghi's
+government fell in September 2022 due to a migration crisis originating in Libya,
+prompting Draghi and Conte to request a formal investigation into Russian interference
+in the process32. The investigation took on particular significance due to the use that
+
+28 GERA, Vanesa “Por qué Finlandia culpa a Rusia de repentino arribo de migrantes a su frontera oriental” Infobae,
+23th November 2023. Available at https://www.infobae.com/america/mundo/2023/11/26/por-que-finlandia-
+culpa-a-rusia-de-repentino-arribo-de-migrantes-a-su-frontera-oriental/
+29 DEUTSCHE WELLE “Polonia acusa a Moscú de orquestar crisis migratoria” 10th November 2021. Available at
+https://www.dw.com/es/polonia-acusa-a-moscú-de-orquestar-crisis-migratoria/a-59773022
+30 CLINGENDAEL “Niger’s Repeal of the 2015/36 Anti-Smuggling Law”, Clingendael Alert, July 2024. Available at
+https://www.clingendael.org/sites/default/files/2024-08/Clingendael_Alert_Nigers_Repeal_of_the_2015-36_Anti-
+Smuggling_Law.pdf
+31 McGREGOR, Andrew “Today, Kufra (Matan al-Sarra) is an important staging point for illegal African migrants
+making for the Mediterranean coast and ultimately Europe” Jamestown, 17th April 2025. Disponible en
+https://jamestown.org/program/russia-increasing-military-presence-in-africa-by-reviving-desert-airbase-in-the-
+libyan-sahara/
+32 KEALNER, James “Thousands of migrants are being sent across the Mediterranean Sea from areas in Libya
+
+Opinion Paper  08/2026  12
+                   Russian strategy in the Mediterranean: A second front
+
+                       Alberto Priego
+
+Putin's ally, Matteo Salvini, made of the migration33 crisis and the resulting shift in Italian
+politics.
+
+Ghost ships: For several years now, Russia has been using a fleet of ‘ghost ships’ that
+appear to sail aimlessly from the Baltic to the Mediterranean. Although these ships were
+initially used to evade sanctions34 imposed on Russia for its oil sales35, their functions
+extend beyond this task.
+
+Regarding the oil, Russia utilises these flag-of-convenience36 ships to conduct what is
+known as Ship-to-Ship (STS) transfers. In other words, a huge crude carrier (VLCC37)
+transfers Russian oil to another vessel exempt from sanctions in international waters,
+thereby avoiding controls. One of the preferred locations for these oil exchanges is the
+coast of Ceuta and Melilla. The port authorities of both cities are aware of these
+manoeuvres and, despite warning port operators that they are liable to sanctions if they
+facilitate the operation, there is nothing they can do, as the operation takes place outside
+the 12 miles of Spanish territorial waters. Once the oil has been laundered, it is
+transported freely to its destination — mainly India and China — where it is sold at prices
+well above the $60 set by the sanctions. Thanks to this money, Russia can continue to
+maintain its war machine in Ukraine, as this activity accounts for 80% of Moscow's energy
+revenues, which translates into around €5 billion per year38.
+
+As far as routes are concerned, those with the highest tonnage bypass Africa, while those
+with lower tonnage cross the Mediterranean, docking as necessary at ports established
+by Moscow39 in the Mediterranean and the Red Sea.
+
+In addition to transporting oil, which is estimated to account for 10%40 of the world’s total,
+
+controlled by the Wagner mercenary group” The Telegrapah, 25th July 2025
+33 CRIPS, James “Collapse of Italian government 'plays into Putin's hands'” The Telegraph, 16 July 2022.
+34 “Russia Uses ‘Ghost Fleet’ to Evade Sanctions, Traffic Weapons Across Africa” Africa Defence Forum, 22nd April
+
+2025. Available https://adf-magazine.com/2025/04/russia-uses-ghost-fleet-to-evade-sanctions-traffic-weapons-
+across-africa/
+35 With the invasion of Ukraine in 2022, the G7 forced Russia to sell oil below $60 per barrel.
+36 Russia has a ghost fleet consisting of some 600 ships that are over 20 years old. The creator of this fleet was Timur
+
+Ivanov, who was arrested on corruption charges in 2024.
+37 Very Large Crude Oil Carrier
+38 “Qué es y cómo opera la “flota fantasma rusa” que mantiene en vilo a Occidente” Infobae, 29th December
+
+2024.
+39 “Economía rusa: la flota fantasma de Moscú está más expuesta que nunca a las sanciones” Le Grand
+Continent, 11th May 2025. Available at https://legrandcontinent.eu/es/2025/05/11/economia-rusa-la-flota-
+fantasma-de-moscu-esta-mas-expuesta-que-nunca-a-las-sanciones/
+40 MUÑOZ ABAD, Rafael “El fenómeno de la flota fantasma y sus riesgos para España” Real Instituto
+Elcano. 28 July 2025. Available at https://www.realinstitutoelcano.org/analisis/el-fenomeno-de-la-flota-
+
+Opinion Paper  08/2026  13
+                   Russian strategy in the Mediterranean: A second front
+
+                       Alberto Priego
+
+the ghost fleet has been used for other purposes such as transporting weapons to places
+like Syria, Libya and Ukraine, and sabotaging Western interests.
+
+It is well known that the Russian ghost fleet is not limited to oil transport exclusively. Other
+functions performed by these ships include sabotage, surveillance and the transport of
+drones. In the case of sabotage, there have been several incidents involving vessels from
+the Russian ghost fleet. The most famous of these incidents occurred in December 2024,
+when the Finnish navy captured one of the Russian ‘ghost fleet’ ships, the Eagle S, as it
+was preparing to cut the Estlink 241 submarine cable connecting Finland to the rest of the
+European continent with its anchor. Although fortunately they failed, the aim was to leave
+Finland without power on Christmas Day, when Europeans flock to Rovaniemi, the city of
+Santa Claus. Espionage is another task carried out by this fleet. An example of these
+actions can be found in Vyazma42, a tanker linked to the Russian Operational Unit that
+usually moves between the Mediterranean and the Atlantic, and has been immobilised
+on several occasions due to charges of carrying out espionage activities on behalf of the
+Russian government.
+
+The third of these activities is the transport of drones that flooded the airspace of several
+European states in September. On 22 September, the French navy intercepted a tanker
+flying the flag of Benin, the Bocaray43, for its involvement in the deployment of drones in
+Poland and Denmark44. This arms transport work has resulted in the loss of several ships
+for Russia, which, according to Moscow, have suffered various acts of sabotage. In total,
+Russia has lost five ghost ships in unexplained incidents or accidents. Of these five
+events, four45 have occurred in the Mediterranean, which gives us an idea of the tension
+in the area. These are the four incidents that happened in the Mediterranean.
+
+fantasma-y-sus-riesgos-para-espana/
+41 BOCKMANN, Michelle W., “Dark fleet tanker reportedly detained off Finland after undersea cable cut”
+Lloyd’s List, 26th December 2024. Available at https://www.lloydslist.com/LL1151949/Dark-fleet-tanker-
+reportedly-detained-off-Finland-after-undersea-cable-cut
+42 FRESNEDA, Carlos, “Cerco a los barcos de Putin en el Mediterráneo” El Mundo, 19th July 2025.
+Available at https://www.elmundo.es/internacional/2025/07/18/687a7bcb21efa0aa2a8b4590.html
+43 SCHOFIELD, Hugh “French troops board oil tanker linked to Russian 'shadow fleet” BBC, 1st Octubre 2025.
+Available at https://www.bbc.com/news/articles/cx2j1gynjddo
+44 “Francia abordó un petrolero ruso de la “flota fantasma” que estaría vinculado a los drones detectados
+en Dinamarca” Infobae 1st October 2025. Available at
+https://www.infobae.com/america/mundo/2025/10/01/francia-abordo-un-petrolero-ruso-de-la-flota-
+fantasma-que-estaria-vinculado-a-los-drones-detectados-en-dinamarca/
+45 “Una ola de sospechosas explosiones de petroleros recorre el Mediterráneo” El Mercantil, 4th July de
+2025.
+
+Opinion Paper  08/2026  14
+                   Russian strategy in the Mediterranean: A second front
+
+                       Alberto Priego
+
+The first of these incidents took place on 27 June 202546 and involved the ship Vilamoura
+(Liberian flag), which was sunk off the Libyan coast near Zuwentina. The second was that
+of the Seajewel (Panamanian flag) and occurred on 15 February 202547 in the Italian port
+of Savona-Vado. The third incident was the sabotage of the Grace Ferrum, which
+occurred on 20 March 202548 in the port of Tripoli. The last was the sinking of the Ursa
+Major, which occurred on 24 December 202449 just 57 miles off the coast of Almería.
+
+.
+
+Map 5. Incidents involving Russian ghost ships in the Mediterranean.Own Elaboration
+
+Conclusions
+
+Since the fall of the USSR and, in particular, the expansion of NATO into Eastern Europe,
+Russia has increased its presence in the Mediterranean both qualitatively and
+quantitatively. While during the Soviet period the Mediterranean Sea was an area of little
+influence for Moscow, it has now become a priority area for Russia, which sees
+opportunities to open a second front with Europe. NATO's penetration into what Moscow
+considered its near abroad has turned the Mediterranean into a strategic asset of the first
+
+46 “Explosive device likely damaged Greek tanker (VIlamoura) off Libya last week” Reuters, 6th July 2025.
+Disponible en https://www.reuters.com/world/explosive-device-likely-damaged-greek-tanker-off-libya-last-week-
+operator-says-2025-07-06/
+47 BARKHUSH, Amira “Explosions Damage Russian Shadow Fleet Oil Tanker Seajewel in Italian Port” United 24, 18th
+Febreo 2025. Disponible en https://united24media.com/latest-news/explosions-damage-russian-shadow-fleet-oil-
+tanker-seajewel-in-italian-port-5979
+48 “The Liberia-flagged chemical and products tanker Grace Ferrum was damaged off Libya in February, three
+sources said, with one adding that the vessel would require a salvage operation” Reuters, 19th Febrero 2025.
+Disponible en https://www.reuters.com/business/energy/three-tankers-damaged-by-blasts-mediterranean-last-
+month-causes-unknown-sources-2025-02-19/
+49 “Rusia afirma que el hundimiento de su barco entre España y Argelia fue un acto terrorista”, El País, 24th
+December 2024.Disponible en https://elpais.com/internacional/2024-12-25/rusia-afirma-que-el-hundimiento-de-
+su-barco-entre-espana-y-argelia-fue-un-acto-terrorista.html
+
+Opinion Paper  08/2026                                                               15
+                   Russian strategy in the Mediterranean: A second front
+
+                       Alberto Priego
+
+order. However, despite Russia's desire to influence this area, Moscow has not only failed
+to solve its infrastructure problems but has actually increased them. Specifically, I am
+referring to the lack of ports where its ships can be repaired and resupplied in the
+Mediterranean. The loss of the Tartus naval base has precipitated events, forcing Russia
+to seek alternatives in places such as Libya and Algeria.
+This lack of capacity has significantly conditioned its strategy in the region. Russia's
+inability to influence Mediterranean countries has led Moscow to focus on the Sahel. This
+area has become a hotbed of instability, reaching Europe via the Mediterranean and
+destabilising societies on the old continent. Migration, drug and terrorism issues are
+shaking up traditional electoral bases, opening up options for extreme parties closer to
+the Kremlin's interests.
+On the other hand, the international organisations responsible for European security –
+NATO and the EU – are divided over whether to focus their efforts on the southern or
+eastern flank. In this regard, the Nordic countries and the CEECs believe that all
+budgetary efforts should be focused on the Russian threat, while those in the south are
+committed to addressing the challenges coming from North Africa. The reality is that these
+are complementary realities, as the Sahel has its own problems, which have been
+exacerbated by Russian action in the area.
+
+                                                                                                 Alberto Priego*
+                                                                         Associate Professor (Comillas University)
+
+                                                                                                          @Alberto.Priego
+
+Opinion Paper  08/2026  16
+

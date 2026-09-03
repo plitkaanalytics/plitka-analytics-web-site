@@ -1,0 +1,34 @@
+URL:         https://www.itamilradar.com/2026/07/01/from-a-powerful-mediterranean-squadron-to-zero-warships-how-russias-naval-presence-has-collapsed/
+Кінцевий:    https://www.itamilradar.com/2026/07/01/from-a-powerful-mediterranean-squadron-to-zero-warships-how-russias-naval-presence-has-collapsed/
+Заголовок:   From a Powerful Mediterranean Squadron to Zero Warships: How Russia’s Naval Presence Has Collapsed
+Дата публ.:  2026-07-01
+Завантажено: 2026-09-01 13:58 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 274365
+Оригінал:    raw/29-itamilradar.com-from-a-powerful-mediterranean-squadron-to-zero-warship.html
+sha256:      582644307541d4378c72e69f8089c3194cd98dc3c3dedc7a541340c27a84b2bb
+Витяг:       trafilatura
+
+==============================================================================
+For the first time since Russia launched its full-scale invasion of Ukraine, there are no Russian Navy warships operating in the Mediterranean. Following their port call in Algeria, the frigate Admiral Kasatonov and the fleet oiler Akademik Pashin have been located in the Atlantic, leaving the basin temporarily without any Russian combatants. Compared with the force Moscow maintained in the spring of 2022, the difference is remarkable.
+
+In April 2022, just weeks after the invasion began, the Russian Navy fielded one of its largest Mediterranean deployments since the Cold War. Open-source tracking identified two Slava-class cruisers (Varyag and Marshal Ustinov), two Udaloy-class destroyers (Admiral Tributs and Vice-Admiral Kulakov), the Gorshkov-class frigate Admiral Kasatonov, the Grigorovich-class frigate Admiral Grigorovich, two Improved Kilo-class submarines, the Buyan-M corvette Orekhovo-Zuyevo, intelligence-gathering vessels, minesweepers and a broad network of auxiliary and logistics ships operating from Tartus.
+
+This formidable force allowed Moscow to maintain a permanent naval presence across the Eastern Mediterranean, support military operations in Syria and project power throughout the region while simultaneously deterring NATO forces.
+
+## Four years later, the picture has completely changed
+
+Today, that naval squadron has effectively disappeared.
+
+With Admiral Kasatonov and Akademik Pashin now operating in the Atlantic after departing Algeria, the Mediterranean is temporarily free of Russian Navy combat ships. Russian maritime activity has not disappeared entirely, but it now relies primarily on civilian cargo vessels and a handful of auxiliary ships supporting logistics between Russia, Syria and Africa.
+
+Several factors have contributed to this transformation. Turkey’s closure of the Turkish Straits to warships involved in the conflict has prevented the rotation of Black Sea Fleet units. At the same time, operational losses, maintenance challenges, sanctions and the demands of the war in Ukraine have progressively reduced the availability of major surface combatants. The collapse of the Assad regime also deprived Moscow of the stable logistical hub that Tartus had represented for years, making sustained deployments significantly more difficult.
+
+The comparison between April 2022 and today illustrates how profoundly Russia’s maritime posture has changed. Four years ago, NATO monitored one of the most powerful Russian naval concentrations seen in decades. Today, there are no Russian Navy warships left in the Mediterranean, a development that would have been difficult to imagine at the height of the deployment.
+
+Whether this absence proves temporary or signals a lasting shift in Russia’s ability to project naval power into the Mediterranean remains to be seen. For now, however, the contrast with the spring of 2022 could hardly be more striking.
+
+*Keep ItaMilRadar independent 📡*
+
+If you appreciate the daily tracking and OSINT analysis, you can support my work on Patreon, helping me cover server and radar costs while keeping the website free and independent. Check out the support tiers to unlock exclusive perks, such as **Early Access radar alerts** on strategic movements and a direct line for your questions.
+
+That’s a really interesting shift. It seems like a significant strategic withdrawal, and the impact on projecting power in the region is definitely something to watch.

@@ -1,0 +1,84 @@
+URL:         https://www.france24.com/en/africa/20260414-russian-ship-sanctions-delivered-armoured-vehicles-mali
+Кінцевий:    https://web.archive.org/web/20260820135439id_/https://www.france24.com/en/africa/20260414-russian-ship-sanctions-delivered-armoured-vehicles-mali
+Заголовок:   How a Russian ship under sanctions delivered armoured vehicles to Mali
+Дата публ.:  2026-04-14
+Завантажено: 2026-09-01 14:06 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 410412
+Оригінал:    raw/27-france24.com-20260414-russian-ship-sanctions-delivered-armoured-vehicl.html
+sha256:      3f955ed4807c0670c1b93a163ec265673e7cfbf4fb78dc2e7ee94a4a6d2060df
+Витяг:       trafilatura
+Примітка:    оригінал недоступний (403), узято з Wayback
+
+==============================================================================
+# How a Russian ship under sanctions delivered armoured vehicles to Mali
+
+Dozens of military vehicles transported from Russia were delivered to Mali through the port of Conakry, Guinea, in late March. The equipment was carried by a Russian cargo ship currently under international sanctions.
+
+A satellite image posted on March 6 on the [ X](https://x.com/SONARROW_OSINT) account of an open-source investigator shows dozens of military vehicles being loaded onto the Sabetta, a 
+
+[Russian](https://www.france24.com/en/tag/russia/)cargo ship, in Baltiysk Port in Kaliningrad, a strategic Russian enclave located in northern
+
+[Poland](https://www.france24.com/en/tag/poland/).
+
+To display this content from X (Twitter), you must enable advertisement tracking and audience measurement.
+
+The [Russian military](https://www.france24.com/en/tag/russian-military/) equipment being loaded onto the Sabetta was destined for [Mali](https://www.france24.com/en/tag/mali/). It followed [a route previously identified by ](https://www.rfi.fr/fr/afrique/20250129-de-conakry-à-bamako-sur-la-piste-d-un-obscur-convoi-militaire-russe)[ RFI](https://www.rfi.fr/fr/afrique/20250129-de-conakry-à-bamako-sur-la-piste-d-un-obscur-convoi-militaire-russe) for transporting Russian military equipment: first by sea from 
+
+[Russia](https://www.france24.com/en/tag/russia/)to Conakry, Guinea and then by land from Conakry to Bamako, the capital of Mali.
+
+To display this content from X (Twitter), you must enable advertisement tracking and audience measurement.
+
+**A ship under sanctions… and close surveillance**
+
+ The Sabetta is one of a fleet of Russian transport vessels – [ under international sanctions](http://rfi.fr/en/africa/20250620-guinea-conakry-a-gateway-for-russian-weapons-in-the-sahel) – that was mobilised to transport arms to the Malian Armed Forces (FAMA) and a Mali-based contingent of the 
+
+[, a paramilitary group that has taken the place of the late Yevgeny Prigozhin’s](https://www.france24.com/fr/émissions/vu-de-russie/20251121-russie-avance-ses-pions-africa-corps-vend-ses-services-télévision-russe-mercenaire)
+
+__Africa Corps__[Wagner Group](https://www.france24.com/en/tag/wagner-group/)and is controlled directly by the Russian government.
+
+The Sabetta is included on a list of vessels and other entities that were [ sanctioned by the United States State Department ](https://2021-2025.state.gov/state-department-actions-to-promote-accountability-and-impose-costs-on-the-russian-government-for-putins-aggression-against-ukraine/)after Russia invaded 
+
+[Ukraine](https://www.france24.com/en/tag/ukraine/). This list can be found on the website of the Office of Foreign Assets Control (OFAC), the US government body charged with applying sanctions.
+
+The Sabetta left the port of Baltiysk around February 22, according to [ Wamaps](https://x.com/Wamaps_news/status/2032122825381691512?s=20), a website specialised in security news within Africa’s 
+
+[Sahel](https://www.france24.com/en/tag/sahel/)region. The Sabetta was being escorted by a Russian military vessel called the Aleksandr Shabalin, a Ropucha-class landing ship.
+
+International forces kept a close eye on the cargo ship and its escort during their transit. The British Royal Navy [declared on  March 5](https://www.royalnavy.mod.uk/news/2026/march/05/20260305-uk-shadows-russian-vessels-through-the-english-channel) that they had "intercepted" the Russian ships when they entered the Channel. Though British sailors did not board the ships, they used patrol boats and helicopters to shadow the Russian ship’s passage through the Channel. 
+
+To display this content from X (Twitter), you must enable advertisement tracking and audience measurement.
+
+The Sabetta arrived at the port of Conakry on March 19, as shown on the marine traffic site [ Vesselfinder](https://archive.ph/3Zkwv). A satellite image – taken on March 21 – that the Observers obtained from Airbus shows the docked vessel with its cargo of military vehicles. 
+
+**Images of Chinese armoured vehicles**
+
+ According to route details [published by ](https://www.rfi.fr/fr/afrique/20250618-russie-en-afrique-conakry-porte-d-entrée-de-l-armement-russe-au-sahel-1-2)[ RFI](https://www.rfi.fr/fr/afrique/20250618-russie-en-afrique-conakry-porte-d-entrée-de-l-armement-russe-au-sahel-1-2), the convoys transporting military equipment need about 17 hours to travel the 
+
+[over land from the port of Conakry to Bamako, Mali.](https://www.google.com/maps/dir/Bamako,+Mali/Port+Autonome+Conakry.,+G78P+58G,+Kaloum+Peninsula,+Conakry,+Guinée/@11.5461764,-9.1161112,599180m/data=!3m1!1e3!4m23!4m22!1m10!1m1!1s0xe51cd1227450a91:0x9e3c40e152506015!2m2!1d-8.0025475!2d12.6391699!3m4!1m2!1d-10.6202879!2d10.8363967!3s0xeff8a810bbae26b:0x118438b9371a47f0!1m5!1m1!1s0xf1cd18e23cb01e5:0x693799e3af9e7f76!2m2!1d-13.7141729!2d9.5154406!2m3!6e0!7e2!8j1775827197!3e0!5m1!1e2?entry=ttu&g_ep=EgoyMDI2MDQwNy4wIKXMDSoASAFQAw==)
+
+__995 kilometres__What exactly was the Sabetta delivering to Mali? The first images of armoured convoys reported to be travelling from Guinea into Mali showed Chinese-made armoured vehicles, says Marc Chassillan, an expert in [weapons](https://www.france24.com/en/tag/weapons/) systems who analysed these images for the FRANCE 24 Observers team. 
+
+Malian daily newspaper [ Essor](https://journalessor.ml/posts/forces-armees-maliennes-un-convoi-de-materiels-militaires-accueilli-a-bamako-69c644624e7b5?fbclid=IwY2xjawRBvcNleHRuA2FlbQIxMABicmlkETFQdzU4YVZqTktLR0ZmNGhDc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHraaE-m1VuA1bhOmTGs6etet1ypgTSBiCYEbPkhw425rnmBplRjCeWGoJzVQ_aem_TMp_6yAWnCr1hqA_jJi5kA) reported on March 27 that an "imposing convoy" of armoured vehicles from Guinea arrived in the Malian capital the night of March 24 before taking the road to Kati, where the Malian Armed Forces have a base. The photo published alongside the Essor article shows CS/VP14 armoured vehicles, known for their resistance to improvised explosive devices. The CS/VP14 is produced by the Chinese manufacturer Norinco.
+
+[ A video posted on March 27](https://www.tiktok.com/@indicateurs_cles_afrique/video/7622019568621358356) shows the arrival of another convoy of Chinese armoured vehicles in Bamako. The footage shows a Dongfeng Mengshi all-terrain vehicle as well as the CS/VN9, an infantry fighting vehicle manufactured by Norinco.
+
+**Russian material **
+
+ Other videos posted on Facebook show the arrival of Russian-made material.
+
+A [ video published on March 30](https://www.facebook.com/reel/1155267906633516) shows BMP-3 armoured infantry fighting vehicles, while another video, shared on 
+
+[, shows TIGR and VPK-Oural armoured vehicles.](https://www.facebook.com/Mfmedia223/videos/970588282200535/)
+
+__March 29__To display this content from Facebook, you must enable advertisement tracking and audience measurement.
+
+Julia Stanyard, an analyst with Global Initiative against Transnational Organized Crime (GI-TOC), said that the Sabetta might have been carrying both Chinese and Russian-made military equipment for Mali:
+
+
+“It is indeed plausible that a Russian shipment could be transporting Chinese military equipment. What we’re likely seeing is that Russia procures certain types of equipment from China, most plausibly from Norinco, especially when it comes to military vehicles. Given the scale of shipments Russia has been sending to Mali since early 2025, it would make sense that some deliveries could include a mix of both.”
+
+Who are these shipments for? It is possible that the armoured vehicles were for the Malian army, which has obtained a number of these vehicles in the past three years, according to Chassillan. However, they could also be deployed by the Africa Corps, which “has, in the past, used Chinese military vehicles [...] diverted from previous shipments of vehicles provided directly to the Malian military from China,” says Stanyard.
+
+On X, [ Wamaps](https://x.com/Wamaps_news/status/2032122825381691512) says that the Russian military vehicles carried by the Sabetta, like the BMP-3,  might be used to "secure Bamako and certain Russian Africa Corps bases or perhaps to protect sites linked to Russian interests in the country’s mining sector.”  
+
+*This article has been translated from *__the original in French__* by Brenna Daldorph.*

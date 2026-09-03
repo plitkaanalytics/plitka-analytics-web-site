@@ -1,0 +1,39 @@
+URL:         https://defensemirror.com/news/38535
+Кінцевий:    https://defensemirror.com/news/38535
+Заголовок:   Russia Withdraws Last Submarine from Mediterranean Sea; No Naval Vessels Remain at Syria’s Tartus
+Дата публ.:  2024-12-28
+Завантажено: 2026-09-01 13:57 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 64010
+Оригінал:    raw/02-defensemirror.com-38535.html
+sha256:      29c80c505ff2b26195b8e0ae82ebe1c97bb09d7a8fefc280e876f2356520c123
+Витяг:       trafilatura
+
+==============================================================================
+The Russian Navy has withdrawn its last submarine, the Novorossiysk (B-61), from the Mediterranean Sea, marking a significant shift in its naval operations in the region.
+
+The departure, [confirmed](https://emfa.pt/noticia-4902-) by the Portuguese Navy, occurred under the cover of darkness on January 2, as the vessel transited the Strait of Gibraltar. **No other Russian surface or submarine vessels reportedly remain at the port of Tartus, once Russia’s sole naval base in the Mediterranean.**
+
+The port of Tartus, which has been central to Russia’s military and political strategy in the Middle East since 2013, is now effectively out of reach following the fall of the Syrian government led by Bashar al-Assad. The collapse of the regime in late 2024 has forced Russia to reassess its position, with reports indicating a withdrawal of both surface ships and submarines from the area. Without a permanent base like Tartus, Russian naval forces face logistical challenges, as conventional submarines rely heavily on port access for resupply and maintenance.
+
+Although speculation exists regarding a replacement deployment, delays and potential technical issues have kept other Improved Kilo-class submarines, such as the Krasnodar (B-265), from reaching the region. Analysts suggest that Russia’s overstretched naval capabilities, coupled with economic pressures from the Ukraine conflict, may hinder sustained submarine operations in the Mediterranean.
+
+With fewer Russian warships and submarines in the area, its influence over the Middle East and Africa may diminish. This comes as Russian forces have also scaled back operations at the Khmeimim airbase and in other parts of Syria, including the Alawite Mountains. Satellite imagery reveals ongoing logistical efforts to repatriate military equipment and personnel.
+
+The decline in Russian control over Tartus has prompted discussions about alternative basing options, including potential agreements with Khalifa Haftar’s forces in eastern Libya. However, no concrete arrangements have been confirmed, and political instability in Libya adds uncertainty to such plans.
+
+Russia plans to transfer military equipment from Syria to Libya using the Sparta and Sparta II cargo ships, according to [Ukraine's Defense Intelligence](https://t.me/DIUkraine/5151). Russian warships stationed in Tartus will facilitate the export of military gear and weapons, with support from African Corps mercenaries under the Russian Ministry of Defense.
+
+On January 5, Russian landing ships Ivan Gren and Alexander Otrakovsky, along with the cargo ship Sparta, are set to arrive at Tartus. Two more vessels, the cargo ship Sparta II and the tanker Ivan Skobelev, are expected to enter Tartus on January 8 after crossing the Strait of Gibraltar. The frigate Admiral Golovko, part of the Russian Navy's Mediterranean group, is refueling, while evacuated armored personnel carriers have been unloaded at an airfield in the Vladimir region.
+
+Also Read 
+
+    December 28, 2024 @ 09:35 AM
+
+                                            
+                    December 9, 2024 @ 03:30 AM
+
+                                            
+                    December 2, 2024 @ 01:09 PM
+
+                                            
+                    December 2, 2024 @ 07:19 AM

@@ -1,0 +1,37 @@
+URL:         https://theins.press/en/news/294958
+Кінцевий:    https://theins.press/en/news/294958
+Заголовок:   Russia left without warships in Mediterranean for first time in 13 years as Tartus loses role as permanent naval base
+Дата публ.:  2026-07-16
+Завантажено: 2026-09-01 13:58 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 125076
+Оригінал:    raw/17-theins.press-294958.html
+sha256:      5b7b3c77d10a028383ef1b6b7e67f4287a5ebebdb97958e59c18ead31f961827
+Витяг:       trafilatura
+
+==============================================================================
+For the first time since 2013, not a single Russian warship is located in the Mediterranean, as [noted by](https://bsky.app/profile/tiafarris10.bsky.social/post/3mqqptusx2s2u) the open source intelligence (OSINT) project Russian Forces Spotter.
+
+“No Russian naval vessels are currently visible in the Mediterranean. Since 2013, Russia has maintained a continuous naval presence in the region. Today, that continuity appears to have been interrupted.”
+
+
+According to the analyst, one of the main reasons has been the ongoing closure of the Turkish Straits to warships since the start of the full-scale war against Ukraine, which has prevented Russia’s Black Sea Fleet from freely rotating its forces. In addition, the analyst assessed that Russia’s naval logistics facility in the Syrian port of Tartus is gradually becoming a limited logistics node rather than a base sustaining the country’s permanent naval presence in the Mediterranean.
+
+“Russian deployments appear increasingly intermittent rather than continuous. The continuity has been broken. The question now is whether it can be restored or whether this marks a lasting shift in Russia’s Mediterranean naval posture.”
+
+
+Mark Douglas, an analyst at Starboard Maritime Intelligence, told *The Insider* that ships heading to the Mediterranean must now depart from Northern Europe (and return by the same route). Russia must also “negotiate with various nations to be able to support the vessels at a time when doing so is not going to get you many friends in Europe.”
+
+Douglas also noted that other factors are affecting the distribution of Russian naval forces: “Russian naval vessels have been struck in St Petersburg, which also led to the requirement to escort Putin’s yacht further north, while others are tied up escorting vessels around UK waters and occasionally firing [warning](https://theins.ru/news/293777) [shots](https://theins.press/en/news/294292) at yachts.” In Douglas’s view, all of these factors have combined to reduce Russia’s ability to maintain a permanent presence in the Mediterranean.
+
+The analyst nonetheless believes the absence of Russian vessels from the region is temporary:
+
+“It’s likely that Russian vessels will be back [in the Mediterranean] — it is a question of when, not if.”
+
+
+Following the fall of Bashar al-Assad’s regime in December 2024, Russia began withdrawing forces and equipment from Syria. In late 2024 and early 2025, significant quantities of weapons and military vehicles were evacuated from the naval base at Tartus. The transfers, carried out by sea, were marked by several incidents. Overnight into Dec. 24, 2025, the cargo ship *URSA MAJOR*, owned by Oboronlogistika, [sank](https://theins.press/en/news/277467) in international waters between Spain and Algeria.
+
+The company stated that the sinking was caused by a “terrorist attack” that involved three explosions on the ship’s starboard side before it went down. After that, Oboronlogistika vessels transporting cargo from Syria [began to be escorted](https://theins.press/en/news/282883) by Russian warships. Later, a fire [broke out](https://theins.ru/news/278497) on the Russian roll-on/roll-off vessel *Sparta* as it was in transit from Tartus.
+
+In January, *Reuters* reported that Russia had also [begun withdrawing](https://theins.ru/news/288813) troops from the Qamishli air base in northeastern Syria. According to the outlet, some personnel and equipment were transferred to Hmeimim air base, while the rest returned to Russia.
+
+At the same time, Moscow is attempting to repurpose Tartus for commercial use. On July 11, *Reuters* [reported](https://theins.ru/news/294722) that the Syrian company Rus Line is involved in preparations to establish a logistics hub at the port of Tartus for the transshipment of Russian cargo including grain, coal, timber, and steel. According to Rus Line CEO Jinan Mubadda, one of the port’s berths will be used for commercial cargo, while the other will retain its military purpose.

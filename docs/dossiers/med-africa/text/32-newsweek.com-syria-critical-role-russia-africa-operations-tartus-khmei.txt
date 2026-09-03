@@ -1,0 +1,48 @@
+URL:         https://www.newsweek.com/syria-critical-role-russia-africa-operations-tartus-khmeimim-1998938
+Кінцевий:    https://www.newsweek.com/syria-critical-role-russia-africa-operations-tartus-khmeimim-1998938
+Заголовок:   Map shows Syria's critical role for Russia's Africa operations
+Дата публ.:  2024-12-11
+Завантажено: 2026-09-01 13:59 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 465870
+Оригінал:    raw/32-newsweek.com-syria-critical-role-russia-africa-operations-tartus-khmei.html
+sha256:      222dfdf68af77cab26edcd13653bac22dba928a636b9da2dea1a3b9874b79cef
+Витяг:       trafilatura
+
+==============================================================================
+Russia's operations across Africa are now in jeopardy, compromised by the abrupt collapse of former Syrian President [Bashar al-Assad](https://www.newsweek.com/topic/bashar-al-assad)'s regime with looming questions hanging over the Kremlin about the fate of its military bases in the now rebel-held country.
+
+A coalition of anti-regime rebels, led by Islamist militant group Hayat Tahrir al-Sham, began a lightning push from northwestern Syria at the start of December after years of relatively static fighting.
+
+The fighters quickly seized control of swathes of government-held territory in the northwest, before surging toward the capital and forcing Assad to flee, despite Russian airstrikes in support of the regime.
+
+Rebels appointed Mohammad al-Bashir, who had held office in the rebel-controlled northwestern Syrian city of Idlib, as prime minister until early March.
+
+Russia has deep roots in Syria, particularly through its naval base in Tartus, a port city looking out onto the Mediterranean and its Khmeimim air base just further north. Moscow has wielded its position—particularly in Tartus—to cement its influence out into the Mediterranean, providing a link to the Black Sea while looming over [NATO](https://www.newsweek.com/topic/nato)'s southern flank close to Africa.
+
+The fate of these military facilities isn't clear, although reports suggest Moscow is pulling at least some of its military equipment from western Syria. Ukraine's GUR military intelligence agency said on Sunday that Russia had pulled a frigate and a cargo ship from Tartus, while "transferring the remnants of their weapons and military equipment from Syria by military aircraft from the Khmeimim air base."
+
+In a statement published on Tuesday, the GUR said it had detected several [Russian military](https://www.newsweek.com/topic/russian-military) aircraft leaving Khmeimim for numerous Russian airfields. The spy agency said "several hundred" Russian special forces soldiers were in Tartus to oversee operations.
+
+"The loss of Russian bases in Syria will have major implications for Russia's global military footprint and ability to operate in Africa," the Institute for the Study of War ([ISW](https://www.newsweek.com/topic/isw)), a U.S.-based think tank, said on Sunday.
+
+"The loss of Russian bases in Syria will likely disrupt Russian logistics, resupply efforts, and Africa Corps rotations, particularly weakening Russia's operations and power projection in Libya and sub-Saharan Africa," the think tank evaluated. *Newsweek* has reached out to the Russian Defense Ministry for comment via email.
+
+The Kremlin has maintained an extensive presence in Africa for decades, particularly through government-linked and murkily accountable paramilitary organizations like the [Wagner Group](https://www.newsweek.com/topic/wagner-group). The Africa Corps refers to a more formally Russian military grouping, still heavily leaning on mercenary recruits.
+
+Moscow is particularly known for its footprint in the Central African Republic, Mali and Niger, among other countries. Analysts have said Russia curated a foothold in Africa during the Cold War, and has since tapped into anti-Western feeling to boost its influence.
+
+Rybar, a prominent Russian military blogging channel thought to be at least partly run by a former Russian Defense Ministry employee, said on Monday that Assad's fall "obviously threatens" the Tartus and Khmeimim bases, which are key for Russia's operations in Libya and the Sahel.
+
+The Sahel region sweeps in a band across West Africa to the east, including countries like Mali and Sudan.
+
+"Khmeimim, in particular, is a refueling point for aircraft transporting military equipment, personnel and other cargo," the Rybar channel said, adding Russia should reevaluate its options for ferrying supplies and equipment to its forces operating in Africa.
+
+"After Syria, the next logistics hub for the Russian military leadership is Libya," the channel wrote. But Moscow's aircraft can only reach Libya without stopping to refuel when they're not carrying cargo, according to the military blogger.
+
+"Thus, supplying operations in Africa through Libya become very expensive and unstable," Rybar wrote. The channel suggested Russia could leverage its presence in the eastern Libyan port of Tobruk or continue negotiations for a base in the Red Sea city of Port Sudan, but said both options could be difficult for Moscow.
+
+"Therefore, the loss of Syria as a transit base could be a blow not only to our positions in the Middle East, but also in Africa," Rybar wrote.
+
+The Kremlin could indeed look to use its footprint in Libya or Sudan, but Russia doesn't have any formal agreements with these countries, the ISW said.
+
+Moscow's failure to prop up longtime ally Assad may also threaten its position "with African autocrats whom Russia seeks to support and its broader geopolitical objective to posture as a global superpower," the think tank added.

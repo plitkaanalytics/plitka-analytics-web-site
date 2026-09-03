@@ -1,0 +1,26 @@
+URL:         https://theins.press/en/news/282883
+Кінцевий:    https://theins.press/en/news/282883
+Заголовок:   Russian Navy corvette escorts MoD-owned ships through Baltic and English Channel towards the Mediterranean
+Дата публ.:  2025-07-08
+Завантажено: 2026-09-01 13:58 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 173406
+Оригінал:    raw/16-theins.press-282883.html
+sha256:      40e5c8dc7641cb8edb4b4c5a8c6a66473652fc38dc2a6508500a1677c7cefb12
+Витяг:       trafilatura
+
+==============================================================================
+The Russian Navy corvette *Boikiy*, a Steregushchiy-class warship, has once again taken on escort duty, this time [shepherding](https://theins.ru/news/282818) the tanker General Skobelev and the roll-on/roll-off cargo ship Sparta from the Baltic into the North Sea and through the English Channel.
+
+Both vessels are owned by Oboronlogistika, a company that is part of the Russian Defense Ministry's military logistics operations. They were spotted off the coast of Syria earlier this year during Russia’s drawdown of personnel and equipment from Tartus. The current voyage appears to be aimed less at avoiding detention than at deterring sabotage: each ship listed an Egyptian port as its destination — Port Said for the tanker, and Alexandria for the freighter. Oboronlogistika’s *Ursa Major *was [destroyed](https://www.reuters.com/world/europe/russian-cargo-ship-which-sank-off-spanish-coast-was-victim-act-terrorism-ria-2024-12-25/) by an explosion in the Mediterranean in December 2024.
+
+*Boikiy* is masking its position by broadcasting a generic Maritime Mobile Service Identity (MMSI) number, causing tracking systems to label it as various “objects,” such as buoys that suddenly “jump” from China’s coast or the Persian Gulf to the Channel’s northern approach.
+
+On July 1, open source intelligence (OSINT) analyst Anders Dyhrberg Bruun [published](https://www.facebook.com/groups/1525590020990772/posts/4069349853281430) photos of the group transiting Denmark’s Great Belt strait, with a Danish Royal Navy patrol visible alongside.
+
+In late June, *Boikiy* accompanied two “shadow fleet” tankers through the English Channel in the first clear sign Moscow has turned to naval escorts to shield its commercial traffic. On June 22, *Boikiy *guided the UK-sanctioned tanker *Selva* (also known as *Nostos* or *Naxos*) and *Sierra* (also known as *Suvorovskiy Prospekt*) through the strait. *Sierra* has been sanctioned by both the UK and the EU.
+
+The move followed Estonia’s failed attempt at [detaining](https://theins.press/en/news/281297) an unregistered tanker, an attempt thwarted by the appearance of a Russian fighter jet.
+
+The General Skobelev is not under sanctions and sails openly under the Russian flag, meaning it technically falls outside the “shadow fleet.” Sparta is sanctioned, though only by the United States, not by the UK or EU, whose exclusive economic zones it just transited.
+
+With Egypt’s Alexandria and Port Said listed as end points, the convoy is expected to pass Gibraltar soon, likely to be captured on the strait’s live-stream cameras.

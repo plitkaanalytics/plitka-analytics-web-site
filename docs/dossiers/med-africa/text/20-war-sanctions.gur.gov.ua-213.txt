@@ -1,0 +1,194 @@
+URL:         https://war-sanctions.gur.gov.ua/en/transport/ships/213
+Кінцевий:    https://war-sanctions.gur.gov.ua/en/transport/ships/213
+Заголовок:   URSA MAJOR; IMO 9538892
+Дата публ.:  2026-06-02
+Завантажено: 2026-09-01 13:58 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 64478
+Оригінал:    raw/20-war-sanctions.gur.gov.ua-213.html
+sha256:      06f5a2e9263ffad9aa8f662a14cfdd9b548d929a5b1e70ac1c3ed3cb390ebdc2
+Витяг:       trafilatura
+
+==============================================================================
+# URSA MAJOR
+
+IMO 9538892
+
+            Updated: 02.06.2026
+
+        
+                                Vessel name                            
+
+                            
+                                URSA MAJOR
+                            
+
+                        
+                                Category                            
+
+                            Transportation of military cargo
+
+ Weapons and military equipment
+
+                                IMO
+                            
+
+                            
+                                                                    9538892
+                                                            
+
+                        
+                                Flag (Current)                            
+
+                            
+                                 russian federation
+                            
+
+                        
+                                MMSI
+                            
+
+                            
+                                273396130
+                            
+
+                        
+                                Call sign                            
+
+                            
+                                UFUZ
+                            
+
+                        
+                                Vessel Type                            
+
+                            
+                                General cargo ship
+                            
+
+                        
+                                Length (m)                            
+
+                            
+                                142.47
+                            
+
+                        
+                                Gross tonnage (t)                            
+
+                            
+                                12679
+                            
+
+                        
+                                DWT (t)                            
+
+                            
+                                9490
+                            
+
+                        
+                                P&I Club                            
+
+                            
+                                Sanctions lifted                            
+
+                            
+                                The person in connection with whom
+
+sanctions have been applied
+
+                            
+                        sanctions have been applied
+
+Provide additional information
+
+                        Justification
+
+            Vessel information
+
+                The vessel is involved in the transportation of military equipment for the russian troops in Syria
+
+The vessel belongs to the sanctioned russian shipping company SK-South LLC, a subsidiary of the sanctioned russian company Oboronlogistika LLC. OOO Oboronlogistika. Oboronlogistika LLC is a shipping company that operates within the military construction complex of the russian ministry of defence. The main objectives of Oboronlogistika LLC are to meet the needs of the russian ministry of defence in the transportation, storage and production of military and special-purpose goods. Oboronlogistika LLC is the sole provider of transport services for the russian ministry of defence, transporting troops to certain regions of russia and delivering cargo to temporarily occupied Crimea (Ukraine).
+
+In May 2022, USA imposed sanctions on "Ursa Major" as a property of SK-South LLC.
+
+After a long period of work in the Caspian Sea to provide transportations between the ports of russia and Iran, in September 2023 completed the passage to the Azov-Black Sea basin, where it was without AIS signal. The vessel made calls at the port of Taurus (Syria) using an AIS disconnection scheme to conceal destinations.
+
+While making voyages to Syria, passed the Bosphorus Strait without waiting. In accordance with established practice, vessels wait for their turn to pass for a certain period of time. This is only possible with prior agreement with representatives of the Turkish maritime administration
+
+The russian federation continues to use cargo vessels to move cargo, including military cargo, through the Bosporus and Dardanelles straits.
+
+During 2022-2023, these straits were crossed by russian cargo vessels affiliated with Oboronlogistika LLC, namely: "Sparta IV", "Ursa Major", "Sparta II". These vessels were travelling along the routes Novorossiysk Port (russia) - Bosphorus - Dardanelles - Tartus Port (Syria).
+
+Since March 2024, the vessel has been sailing between the ports of Baltiysk - Kronstadt - St Petersburg.
+
+On December 24, 2024, the vessel Ursa Major sank in international waters between Spain and Algeria after an explosion in the engine room, 14 crew members were rescued, two went missing. According to ship tracking data, the Ursa Major left the port of St. Petersburg on December 11, 2024, and was scheduled to arrive in Vladivostok on January 22, 2025. According to the captain, at the time of the accident, the ship was carrying empty containers, while a few days before the sinking, the press service of the russian "Oboronlogistika" announced that the Ursa Major was being sent to the Far East with "a large project cargo as part of the implementation of state tasks for the development of port infrastructure and the Northern Sea Route", the ship was loaded with port cranes weighing 380 tons each, necessary for the expansion of the terminal in Vladivostok, and 45-ton hatch covers for new icebreakers.
+
+On May 23, 2026, Ukraine imposed sanctions on the vessel.
+
+            The vessel belongs to the sanctioned russian shipping company SK-South LLC, a subsidiary of the sanctioned russian company Oboronlogistika LLC. OOO Oboronlogistika. Oboronlogistika LLC is a shipping company that operates within the military construction complex of the russian ministry of defence. The main objectives of Oboronlogistika LLC are to meet the needs of the russian ministry of defence in the transportation, storage and production of military and special-purpose goods. Oboronlogistika LLC is the sole provider of transport services for the russian ministry of defence, transporting troops to certain regions of russia and delivering cargo to temporarily occupied Crimea (Ukraine).
+
+In May 2022, USA imposed sanctions on "Ursa Major" as a property of SK-South LLC.
+
+After a long period of work in the Caspian Sea to provide transportations between the ports of russia and Iran, in September 2023 completed the passage to the Azov-Black Sea basin, where it was without AIS signal. The vessel made calls at the port of Taurus (Syria) using an AIS disconnection scheme to conceal destinations.
+
+While making voyages to Syria, passed the Bosphorus Strait without waiting. In accordance with established practice, vessels wait for their turn to pass for a certain period of time. This is only possible with prior agreement with representatives of the Turkish maritime administration
+
+The russian federation continues to use cargo vessels to move cargo, including military cargo, through the Bosporus and Dardanelles straits.
+
+During 2022-2023, these straits were crossed by russian cargo vessels affiliated with Oboronlogistika LLC, namely: "Sparta IV", "Ursa Major", "Sparta II". These vessels were travelling along the routes Novorossiysk Port (russia) - Bosphorus - Dardanelles - Tartus Port (Syria).
+
+Since March 2024, the vessel has been sailing between the ports of Baltiysk - Kronstadt - St Petersburg.
+
+On December 24, 2024, the vessel Ursa Major sank in international waters between Spain and Algeria after an explosion in the engine room, 14 crew members were rescued, two went missing. According to ship tracking data, the Ursa Major left the port of St. Petersburg on December 11, 2024, and was scheduled to arrive in Vladivostok on January 22, 2025. According to the captain, at the time of the accident, the ship was carrying empty containers, while a few days before the sinking, the press service of the russian "Oboronlogistika" announced that the Ursa Major was being sent to the Far East with "a large project cargo as part of the implementation of state tasks for the development of port infrastructure and the Northern Sea Route", the ship was loaded with port cranes weighing 380 tons each, necessary for the expansion of the terminal in Vladivostok, and 45-ton hatch covers for new icebreakers.
+
+On May 23, 2026, Ukraine imposed sanctions on the vessel.
+
+Cases of AIS shutdown
+
+                    Yes
+
+                Calling at russian ports
+
+                    Yes
+
+                Visited ports
+
+                    Baltiysk (russia), Kaliningrad (russia), Novorossiysk (russia), Sankt-Peterburg (russia), Ust-Luga (russia), Kronstadt (russia), St Petersburg Fish Port (russia), Tartous (Syria), Sheskharis (russia)
+
+                Use Ctrl+scroll to zoom
+
+Available additional information
+
+            Ship Owner (IMO / Country / Date)
+
+                            
+                                Sc-south LLC (5937219 / russian federation / 10.2020)                            
+
+                        Commercial ship manager (IMO / Country / Date)
+
+                            
+                                Sc-south LLC (5937219 / russian federation / 10.2020)                            
+
+                        Ship Safety Management Manager (IMO / Country / Date)
+
+                            
+                                Sc-south LLC (5937219 / russian federation / 16.03.2021)                            
+
+                        Former ship names
+
+                        Scan Britania / Hyundai Britania / Eit Palmina / Sparta IІІ
+
+                    Flags (former)
+
+                         Germany /  Isle of Man /  Antigua and Barbuda /  Belize
+
+                    Build year
+
+                        2009
+
+                    Builder (country)
+
+                        Detlef Hegemann Rolandwerft
+
+                    Web Resources

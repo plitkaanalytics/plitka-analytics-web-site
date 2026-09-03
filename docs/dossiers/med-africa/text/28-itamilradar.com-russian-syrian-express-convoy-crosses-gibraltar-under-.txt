@@ -1,0 +1,34 @@
+URL:         https://www.itamilradar.com/2026/05/22/russian-syrian-express-convoy-crosses-gibraltar-under-naval-escort-signaling-continued-moscow-supply-operations-from-tartus/
+Кінцевий:    https://www.itamilradar.com/2026/05/22/russian-syrian-express-convoy-crosses-gibraltar-under-naval-escort-signaling-continued-moscow-supply-operations-from-tartus/
+Заголовок:   Russian Syrian Express Convoy Crosses Gibraltar Under Naval Escort, Signaling Continued Moscow Supply Operations from Tartus
+Дата публ.:  2026-05-22
+Завантажено: 2026-09-01 13:58 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 271135
+Оригінал:    raw/28-itamilradar.com-russian-syrian-express-convoy-crosses-gibraltar-under-.html
+sha256:      34c4c6db5c95c9aef3f033d8ad083ff6ce88c76e835282be0cacc73250424275
+Витяг:       trafilatura
+
+==============================================================================
+Russian cargo ships linked to the so-called “Syrian Express” have once again crossed the Strait of Gibraltar in recent hours, highlighting that Moscow’s maritime logistics route between Syria and the Black Sea remains active despite the shifting balance in the Eastern Mediterranean.
+
+The convoy observed transiting westbound from Tartus included the **cargo vessels Sparta and General Skobelev**, escorted by the **Russian Navy corvette Boikiy**. The composition is highly characteristic of the long-running Syrian Express network used by Russia to sustain military logistics between Syrian ports and naval facilities in the Black Sea.
+
+What makes this transit particularly notable is the continued use of escorted sealift operations at a time when Russian military shipping patterns in the Mediterranean remain under increased scrutiny following months of regional instability and sustained pressure on Russian naval assets.
+
+### A familiar logistics pattern returns
+
+The presence of Sparta is especially significant. The vessel has repeatedly appeared in strategic sealift operations supporting Russian military deployments in Syria over the past decade. General Skobelev has similarly been associated with Russian Ministry of Defense-linked transport activity.
+
+The escort by the Steregushchiy-class corvette Boikiy suggests Moscow still considers these movements strategically sensitive, particularly while crossing one of the world’s most monitored maritime chokepoints.
+
+Although the exact cargo remains unknown, Syrian Express convoys have historically transported a mix of military equipment, ammunition, vehicles and sustainment supplies between Tartus and Russia.
+
+The route also underlines the enduring importance of Tartus for Russia’s Mediterranean posture. Even with reduced naval visibility compared to previous years, the Syrian port continues to function as a logistical hub enabling Russian access to the Mediterranean basin.
+
+The use of naval escort assets may also reflect broader concerns over surveillance, sabotage risks or the strategic value of the cargo being transported.
+
+*Keep ItaMilRadar independent 📡*
+
+If you appreciate the daily tracking and OSINT analysis, you can support my work on Patreon, helping me cover server and radar costs while keeping the website free and independent. Check out the support tiers to unlock exclusive perks, such as **Early Access radar alerts** on strategic movements and a direct line for your questions.
+
+## 1 Comment

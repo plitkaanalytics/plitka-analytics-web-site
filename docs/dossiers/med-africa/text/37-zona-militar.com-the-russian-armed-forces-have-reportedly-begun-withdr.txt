@@ -1,0 +1,26 @@
+URL:         https://www.zona-militar.com/en/2025/02/03/the-russian-armed-forces-have-reportedly-begun-withdrawing-troops-and-equipment-from-the-strategic-tartus-naval-base-in-syria/
+Кінцевий:    https://www.zona-militar.com/en/2025/02/03/the-russian-armed-forces-have-reportedly-begun-withdrawing-troops-and-equipment-from-the-strategic-tartus-naval-base-in-syria/
+Заголовок:   The Russian Armed Forces have reportedly begun withdrawing troops and equipment from the strategic Tartus naval base in Syria
+Дата публ.:  2025-02-03
+Завантажено: 2026-09-01 13:59 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 297704
+Оригінал:    raw/37-zona-militar.com-the-russian-armed-forces-have-reportedly-begun-withdr.html
+sha256:      734fd74254c4580c7eb95cd65456ea52b8328c5fc7a8fa9260983ace39c60272
+Витяг:       trafilatura
+
+==============================================================================
+Toward the end of January, new satellite images were published revealing clear indications that the Russian Armed Forces have begun withdrawing troops and equipment from the strategic Tartus Naval Base in Syria, aiming to avoid leaving behind a significant amount of supplies and combat systems. If confirmed in the coming days, this development coincides with Moscow’s ongoing reduction of its presence in the Khmeimim region, highlighting the significant impact of the collapse of Bashar al-Assad’s regime.
+
+Expanding on some details, the initial satellite images were reportedly taken by Maxar on January 25, according to U.S. specialized media. These images show two cargo ships at the Tartus Naval Base conducting loading operations. Specifically, the vessels in question appear to be the Sparta and Sparta II, both flying the Russian flag, which had remained near the destination for two days before being granted entry clearance to the port.
+
+Additionally, later images taken by Planet Labs on January 27 reveal that a large group of vehicles, which had been gathered at one of the docks for weeks, was no longer present—suggesting they were loaded onto the cargo ships. Furthermore, near the dock that housed the vehicles, a substantial number of shipping containers were observed, potentially used for transporting Russian equipment from the base. Notably, the disappearance of these elements coincided with the departure of one of the two cargo ships.
+
+It is also worth mentioning that another Russian cargo ship, the Sparta IV, was recently seen departing from the Baltic Sea alongside a Ropucha-class amphibious assault ship. While their final destination remains unknown, it is plausible that they are heading toward Syria to support the withdrawal efforts, joining other Russian Navy amphibious ships already deployed in the region for this purpose. Prior incidents include the December sinking of the Russian cargo ship *Ursa Major* while navigating coastal waters between Spain and Algeria en route to Syria.
+
+Further reinforcing the case for an ongoing withdrawal, recent footage has shown an increased presence of Mi-8 and Ka-52 helicopters tasked with protecting storage facilities containing significant amounts of military equipment. This is particularly notable, as similar measures were taken during the Khmeimim withdrawal, along with the deployment of a Grachonok-class patrol boat in the port’s waters. Together, these actions suggest the dismantling of the base’s defense networks, leaving its assets increasingly vulnerable to potential attacks—especially by drones.
+
+For now, as the fate of the Tartus and Khmeimim bases remains uncertain, all signs point to the end of Russia’s presence in Syria as it was previously known. It is worth recalling that Moscow secured a 49-year lease agreement for the Tartus Naval Base with the previous Damascus government in 2017 (now canceled by the new administration), which was largely seen as a gesture of compensation from Assad’s regime in return for Russia’s military support against rebel factions attempting to overthrow him. In light of these developments, Russia has also been observed strengthening its presence in Libya, aiming to secure a permanent port in the Mediterranean in anticipation of a potential expulsion from Syrian territory.
+
+*Cover image: Maxar*
+
+You may alsol like: [Strategic Tu-95MS bombers of the Russian Aerospace Forces conducted new patrol flights over the Sea of Japan](https://www.zona-militar.com/en/2025/01/30/strategic-tu-95ms-bombers-of-the-russian-aerospace-forces-conducted-new-patrol-flights-over-the-sea-of-japan/)

@@ -1,0 +1,1627 @@
+URL:         https://thesentry.org/wp-content/uploads/2026/04/DoublingDown-TheSentry-April2026.pdf
+Кінцевий:    https://thesentry.org/wp-content/uploads/2026/04/DoublingDown-TheSentry-April2026.pdf
+Заголовок:   DoublingDown-TheSentry-April2026.pdf
+Дата публ.:  не вказана на сторінці
+Завантажено: 2026-09-01 13:58 UTC
+HTTP:        200   Тип: application/pdf   Байтів: 1734164
+Оригінал:    raw/18-thesentry.org-doublingdown-thesentry-april2026.pdf.pdf
+sha256:      f512bdac7c3e0cee37bbfd0ac1b697a28fda4c24a494f2dcc141463f0f983a68
+Витяг:       pdftotext
+
+==============================================================================
+   ALERT APRIL 2026
+
+DOUBLING DOWN:
+RUSSIA’S MILITARY NETWORK
+IN WEST AFRICA
+ALERT APRIL 2026
+
+DOUBLING DOWN: RUSSIA’S MILITARY
+NETWORK IN WEST AFRICA
+
+Executive Summary                                           providing direct military support to Sahelian leaders,
+                                                            and creating a strategic hub that would allow it to
+In the first five months of 2025, three large military      move with ease and project power across West Africa.
+convoys—including Russian-made trucks, tanks,               The Guinea Conakry port terminal, which is operated
+armored cars, and boats—reached Mali’s capital city,        by Russian-Guinean companies Alumina Company of
+Bamako.1, 2, 3 These deliveries came amidst a difficult     Guinea (ACG-Fria) and Compagnie des Bauxites de
+period for Russian forces in Mali. The Wagner Group,        Kindia (Kindia Bauxite Company or CBK),13 facilitated
+whose paramilitary fighters have been present in the        the aforementioned military deliveries—the port has
+country since the end of 2021,4 had not only failed to      become Russia’s gateway to the Sahel.14 Guinea, as well
+achieve any significant battlefield successes in central    as Mali, is an integral part of Russia’s broader ambitions
+and northern Mali; they had also failed to gain access to   for influence across West Africa. With Africa Corps
+the country’s lucrative gold mining sector.5 For most of    troops also deployed to Niger, Sudan, and Libya,15, 16, 17, 18
+their deployment, they appear to have been paid directly    the breadth of Russia’s military engagement around the
+by Moscow, as revealed in The Sentry’s “Mercenary           region warrants scrutiny.
+Meltdown” investigation, while committing atrocities
+against Malian civilians.6 The Wagner Group announced       When the Africa Corps first deployed in Mali at the end of
+its withdrawal from Mali in June 2025, largely handing      2024,19 it appeared that the group would be an iteration,
+over operations to the Kremlin-controlled Africa Corps.7    or a rebranding, of the Wagner Group in this context.20, 21, 22
+                                                            This is to some extent true. The Africa Corps has roughly
+These new weapons deliveries suggest that the               the same number of troops as Wagner, and many of
+Russian government is doubling down on Mali, despite        them are former Wagner fighters. Some core leadership
+the concurrent withdrawal—and multiple failures—of          remains the same. However, the hierarchical structure
+the Wagner Group.8 Though the Malian Armed Forces           of the Africa Corps and its direct ties to the Russian
+(FAMA) claimed the equipment was sent to support the        state apparatus, as well as the Africa Corps’ response to
+national military,9, 10 most of it was intended to be used  the most recent militant-imposed fuel blockade, reveal
+by nascent Africa Corps bases and fighters, sources in      fundamental differences in how the force operates
+Bamako confirmed to The Sentry.11, 12 The composition       compared to Wagner. In other words, the change is not
+of the convoy suggests that Moscow is adopting a more       just cosmetic. Instead of using military inroads to gain
+risk-averse stance and prioritizing the protection of       mining concessions, as Wagner tried to do in Mali and
+Africa Corps troops, as opposed to Wagner’s historically    successfully did in the Central African Republic (CAR),
+aggressive and forward-leaning approach. Beyond             the Africa Corps is now first using Russian and Guinean
+Mali, Russia is also increasing diplomatic engagement,      businesses for its military purposes. Two subsidiaries
+
+                  DOUBLING DOWN: RUSSIA’S MILITARY NETWORK IN WEST AFRICA | TheSentry.org 2
+ALERT APRIL 2026
+
+                                                                                                                                                                                              ALGERIA
+
+Dakar                                    MAURITANIA                           Tombouctou
+
+             SENEGAL                     MALI                                              Gao
+
+GAMBIA                                         Bamako                                           NIGER
+                                                    Bougouni
+    GUINEA                                                                                     Niamey
+     BISSAU
+                                                                              Ouagadougou
+          GUINEA
+
+Conakry
+
+Transport route.  SIERRA                                                      GHANA             BENIN
+Capital city      LEONE
+City                                                                  CÔTE           TOGO
+                                LIBERIA                             D’IVOIRE
+
+All three Africa Corps deliveries were transported from the Autonomous Port of Conakry by land through Guinea and into Mali. Once in Bamako, the deliv-
+eries diverged: some vehicles took a route south to Bougouni and others traveled northwest to Gao. The Sentry.
+
+of the Russian company United Company Rusal (UC                     war effort in the Sahel and monitor countries and other
+Rusal) are supporting Moscow’s war effort, signaling                companies that could be facilitating Russia’s advances
+that Russian businesses are facilitators of Africa Corps            in the region.
+operations in West Africa.
+                                                                    The Convoy*
+As Russia doubles down on—and potentially expands—its
+military presence in the Sahel, Malian civilians continue           The January 2025 equipment delivery was the first
+to pay the price. Recent reports confirm increasing                 large-scale convoy to arrive in Mali since the Wagner
+incidents of Africa Corps-perpetrated rape, torture,                Group signed a contract with the Malian government in
+beheadings, mutilation, and summary executions,                     2021. Its size and composition, as well as the subsequent
+especially across northern Mali and the border with                 deliveries in March and May 2025, suggest that Moscow
+Mauritania.23, 24, 25, 26, 27 In response, sanctioning authorities  continues to view Mali as a key strategic location, despite
+in the United States (US), the European Union (EU), the             the Wagner Group subsequently announcing its formal
+United Kingdom (UK), Canada, and Australia should                   withdrawal from the country in June 2025.
+sanction those companies that support the Russian
+
+*Reports by The Sentry are based on interviews, documentary research, and, where relevant, financial forensic analysis. In some cases, sources speak to The Sentry on the condition that
+their names not be revealed, out of concern for their safety or other potential retaliatory action. The Sentry establishes the authoritativeness and credibility of information derived from
+those interviews through independent sources, such as expert commentary, financial data, original documentation, and press reports. The Sentry endeavors to contact the persons and
+entities discussed in its reports and afford them an oppor-tunity to comment and provide further information.
+
+                      DOUBLING DOWN: RUSSIA’S MILITARY NETWORK IN WEST AFRICA | TheSentry.org 3
+ALERT APRIL 2026
+
+Convoy Composition                                           Sikasso Region’s Bougoni circle, hosts FAMA’s 82nd
+The makeup of the January 2025 convoy was varied. It         Armored Regiment.54 Significantly, the base is only 100
+contained nearly 50 logistics, supplies, and transportation  km from the Yanfolila gold mine, owned by Hummingbird
+vehicles, including a Linza armored ambulance, and           Resources, which was recently acquired by Burkinabè
+approximately 60 combat armored vehicles.28, 29, 30 These    banking celebrity Idrissa Nassa.55, 56, 57 A FAMA source
+combat vehicles—such as BTRs,31 VPK-Urals,32 Tigrs,33        told The Sentry that Russia wants Africa Corps fighters
+and tracked vehicles, including what appears to be two       to sit closer to Yanfolila—reflecting a common Russian
+tank platoons34 and two BMP platoons—are primarily           tactic to take territory in close proximity to natural
+designed for patrol and mobile warfare.35, 36 While these    resources—and that this is why they sent the military
+tracked vehicles are unfit for mobile combat missions        equipment there.58 Another military source in Mopti
+in most Sahelian terrain, they have been used at bases       listed Africa Corps bases across the country, saying
+where Africa Corps troops have slowly been deployed,         that most equipment from the three different materiel
+such as Gao in northern Mali.37 Thus, they serve the         deliveries had gone to “Sokoro, Bafo, Nampala,
+purpose of protecting the base, rather than engaging         Bandiagara, Sofara, Boni and Timbuctu.”59 This reveals
+in combat missions. Additionally, the convoy included        another pattern: most of the military equipment went to
+two anti-aircraft autocannons,38 two motorboats,39, 40       new Africa Corps recruits rather than former Wagner
+and three towed artillery pieces.41, 42 Military Industrial  fighters, who are primarily located at northern bases.60,
+Company LCC (VPK), which produces the VPK-Ural,              61 More equipment was then sent to a new Africa Corps
+the Tigr, and several Russian BTRs, is owned by Oleg         base in Diema, western Mali, some three hours from
+Deripaska,43, 44 together with its subsidiary company JSC    the Mauritanian border.62 While this may be due to the
+Arzamas Machine-Building Plant,45, 46 and is sanctioned      fact that the former Wagner troops already have some
+in the US, the UK, and the EU.47 Military Industrial         equipment, it does not explain why tracked trucks, which
+Company LCC did not reply to The Sentry’s request for        serve to protect bases, would only be delivered to the
+comment.                                                     new recruits. It appears that the GRU is providing more
+                                                             protection for the troops it recruited directly, rather than
+The January convoy first arrived at the main military        those it inherited from the Wagner Group.
+base in Bamako,48 but delivery was then bifurcated:
+some equipment was shipped to Gao, where a FAMA              The number of vehicles, both military and non-military, in
+and Russian contingent conducts operations in the            the first convoy is consistent with the size of a Battalion
+north of the country,49, 50, 51 and some was shipped to      Tactical Group (BTG),63 which in the Donbas comprises
+Banimonotié, a southwestern FAMA base inaugurated            600–800 soldiers.64, 65 This temporary, reinforced military
+by Defense Minister Sadio Camara on January 17, 2025,        unit includes a core battalion of either a tank or a
+the day before the delivery.52                               motorized infantry unit and attached support units, such
+                                                             as artillery, engineers, and air defense.
+One FAMA source in Bamako told The Sentry that some
+Russian troops were awaiting the delivery, which arrived     The March 2025 delivery also contained missiles and
+in Banimonotié on January 18.53 This new base, located       several military and civilian vehicles,66, 67, 68 but the
+approximately 170 kilometers (km) from Bamako in the         information available on this delivery is significantly
+
+                  DOUBLING DOWN: RUSSIA’S MILITARY NETWORK IN WEST AFRICA | TheSentry.org 4
+ALERT APRIL 2026
+
+less than on the January and May deliveries. In the            January 7 and 18, 2025.78, 79 One of these was the Adler,
+May delivery, The Sentry identified numerous 152               a roll-on/roll-off (ro-ro) vessel specifically designed for
+mm artillery guns, a BTR-80 armored troop carrier              transporting wheeled cargo,80, 81, 82 and the other was
+equipped with radio-jamming equipment,69 and Spartak           the Siyanie Severa, a general cargo ship.83 While it was
+armored vehicles, as well as other armored carriers.70         initially rumored that the ships had left the Tartus port
+The shipment also included a Sukhoi SU-24—a Soviet             in Syria following the fall of the Assad regime,84 there
+tactical bomber engineered for supersonic speed and            is no evidence that these ships were docked there at
+all-weather combat deployment. Our source in Bamako            that time.85, 86 Further analysis of available ship data
+noted that there was a strong need for such an aircraft,
+especially in the north,71 where Azawad Liberation Front       TOP: The main port building of the Rusal subsidiary CBK at the Rus-
+(FLA) rebels operate, and where Wagner and the FAMA            sian-operated port terminal in Conakry. The Sentry.
+suffered a disastrous defeat in 2024, mostly due to a          BOTTOM: Trucks from the March 2025 delivery of Africa Corps supplies
+lack of airpower.72,73 Soon after delivery, a Sukhoi SU-24     on their way to Bamako. Malian National Television (Okice de Radio et
+crashed in the Niger river.74                                  Télévision du Mali - ORTM).
+
+Both the makeup of the convoys and military sources            shows that both vessels departed from Murmansk,
+in Bamako suggest not only that the Africa Corps—not           a northern Russian port, in early December,87 and the
+the FAMA—is likely the intended beneficiary of these           length of the route from Murmansk to Conakry indicates
+deliveries,75,76 but also that Africa Corps troops may be      that the equipment was shipped directly from Russia to
+less expeditionary than their predecessors. Most of the        Guinea. The Murmansk Port Authority did not reply to
+equipment is not suitable for kinetic operations in desert     The Sentry’s request for comment. Notably, the ships
+terrain; rather, it is intended to protect bases, especially   departed Murmansk very soon after Assad’s collapse
+those where Africa Corps troops are deployed, from             (on December 14th and December 21st, 2024),88 making
+armed groups operating in the region. Furthermore, a           it unlikely that Russia anticipated such a sudden
+senior European military official who was previously           logistical shift when agreeing to send the equipment to
+posted to the region clarified that this equipment is          West Africa, at least for the initial delivery. Preparing
+relatively new and not the kind that foreign forces would      the ground for the Africa Corps in Mali was Moscow’s
+donate to local armed forces in Sahelian countries.77          intention all along.
+This suggests that FAMA and Sahel States Alliance
+(AES) troops are not the intended recipients of these
+deliveries. Neither the Malian Ministry of Defense nor
+the Russian Ministry of Defense replied to The Sentry’s
+request for comment.
+
+Delivery
+To facilitate the first delivery, at least two Russian ships—
+both of which had previously been sanctioned by the
+US—docked in the Guinean port city of Conakry between
+
+                  DOUBLING DOWN: RUSSIA’S MILITARY NETWORK IN WEST AFRICA | TheSentry.org 5
+ALERT APRIL 2026
+
+Just a few weeks before the first Russian equipment         Guinean capital.98,99 These ro-ro ships, the Baltic Leader
+convoy arrived in Conakry, the Russian government had       and the Patria, are part of Russia’s “shadow fleet” and
+used the port for another large delivery. On December       have been used to discreetly transport weapons to
+27, 2024, a ship docked at Conakry carrying several         the Kremlin’s various partners.100 The Baltic Leader
+thousand metric tons of Russian wheat bound for Mali,       specifically was part of the so-called “Syrian Express”—
+according to Colonel-Major Mamadou Keita, Mali’s            the name given to Russian ships that provide naval links
+Ambassador to Guinea.89 A port employee confirmed to        between Syria and Russia.101 While these ships often
+The Sentry that this delivery served to “test” the port,    operate as part of Russia’s shadow fleet and obscure
+as the planned deliveries of military equipment were        their links to Russia, the Adler, Siyanie Severa, Patria,
+significantly more costly and sensitive.90 Russia wanted    and Baltic Leader did not fly the flag of another country
+to make sure that the military equipment delivery would     for deliveries to Conakry. Instead, they travelled openly
+be safe, not just to dock at Conakry, but also to make its  as Russian ships, making this a “non-shadow” delivery102
+way across Guinea and into Mali without any incidents.91    and reflecting Guinea’s largely positive diplomatic
+This emerging logistics apparatus, including port           relations with Moscow. In other words, the government
+infrastructure and controlled overland routes, expands      in Conakry was aware of these military deliveries and
+Russia’s access to the region and enables greater           welcomed them. Neither the Guinean government nor
+operational flexibility.                                    the Malian embassy in Conakry replied to The Sentry’s
+                                                            request for comment. The four companies that own
+Though there are few details concerning the March 2025      the ships that carried out the deliveries did not reply
+delivery, sources in Kati and the Malian national news      to The Sentry’s request for comment. Radio France
+channel (ORTM) confirm that this materiel also arrived      Internationale (RFI) received testimonies that confirmed
+in Mali via Conakry.92 One source within the Malian         the sighting of the convoy on Guinea’s National Road 1,
+Defense Ministry confirmed that Russia had sent light       on its way to Mali, on May 28. The port of Conakry and
+equipment to Mali in trucks in March 2025, but he was       Bamako are nearly 1,000 km apart, a roughly 16-hour
+unable to confirm which port this materiel departed from,   journey. This timeline corroborates other data points
+nor which ships had transported it.93, 94 ORTM reported     that back up the delivery reaching Bamako on May 31.103, 104
+that the materiel was delivered to support FAMA and
+met with enthusiasm by Bamako residents given               As Conakry enables Russian expan-
+ongoing terror threats in the capital and daily attacks     sion in the Sahel, Russia looks for
+elsewhere in the country, but the coverage omitted who      additional allies
+had sent it.95 This suggests that the Malian Directorate
+of Information and Public Relations of the Armed Forces     Given the multiple military equipment deliveries
+may have intended to take credit for the delivery and       throughout 2025, Conakry appears to be the new Russian
+use it as propaganda with the population.                   hub for maritime delivery to West Africa, confirming
+                                                            Guinea’s status as an enabler of Russia’s expansionist
+Between May 25 and May 28, 2025, two additional Russian     ambitions in Mali and the Sahel more broadly.105, 106
+cargo ships, both of which are subject to international     Various sources, such as a maritime expert and RFI,
+sanctions,96, 97 were reportedly once again docked in the
+
+                  DOUBLING DOWN: RUSSIA’S MILITARY NETWORK IN WEST AFRICA | TheSentry.org 6
+ALERT APRIL 2026                                                                                            Conakry Port, Guinea
+
+    Africa Corps Port building owned by CBK, aSRutsralusucbstiduiarrye
+
+          Levels of command of the new Africa Corps structure.
+
+                                                                        Railway used by Rusal subsidiaries
+
+The Conakry port terminal was used by Russian ships to carry out the January, March, and May 2025 military deliveries. Leaving the port, the railway used
+by UC Rusal subsidiaries to transport bauxite and aluminum is clearly visible. The map inset shows a port building owned by CBK, a UC Rusal subsidiary.
+CBK organizes the logistics for the Russian company-operated port terminal. Google Earth, 20 January 2025.
+
+noted that Senegal would be a more suitable location                    coastal states, plus transport into their primary allies
+for deliveries to Mali,107, 108 especially as it has better             in Mali is harder from elsewhere. Conakry is a certainty
+port infrastructure. Nonetheless, Russia appears to                     for Russia. [The Russians] know that here they would
+have prioritized Conakry for two key reasons: favorable                 not be denied access, and they could control the railway
+diplomatic relations with Guinea’s military junta and ties              terminal.”115
+to UC Rusal,109, 110 which operates the freight, railway,
+and logistics apparatus out of the port.111 Indeed, Russian             Notably, the ships docked at the port terminal in
+Foreign Minister Lavrov had prepared the ground for                     Conakry, which Russian giant UC Rusal uses for mineral
+these deliveries in June 2024, when he visited Conakry                  shipments in and out of Guinea through its two large
+and Guinea’s President Mamady Doumbouya.112, 113 The                    subsidiaries, CBK and ACG-Fria. CBK is the largest UC
+Russian ambassador to Guinea, Alexey V. Popov, has also                 Rusal raw materials asset, accounting for a quarter of its
+officially recognized the Guinean military leadership.114               mineral output.116, 117, 118 ACG-Fria has a mineral complex
+One source at the port told The Sentry that Russia                      named Friguia (a contraction of Fria, the city the complex
+was already considering using the railway terminal in                   is located in, and Guinée), which includes a bauxite mine
+Conakry for military equipment deliveries in 2024: “They                and a refinery.119,120,121 CBK is fully controlled at the
+knew it would be harder to make friends with the other                  corporate level by UC Rusal: in its listing prospectus,
+
+                                                                        DOUBLING DOWN: RUSSIA’S MILITARY NETWORK IN WEST AFRICA | TheSentry.org 7
+ALERT APRIL 2026
+
+UC Rusal states that CBK, the operator of the Kindia          government, demonstrating the country’s expanding
+bauxite mine, is wholly owned by the group.122 The port       influence in the region. For example, Niger has been
+and all its terminals are managed by Conakry Port S.A.,       wooed by Russian envoys, particularly following the
+a Guinean company which acts as a subsidiary of the           July 2023 coup d’état and the ascent of the anti-French
+Albayrak Group, a multinational Turkish conglomerate.         military junta.132, 133 On April 12th, 2024, 100 Africa Corps
+In 2018, the Albayrak Group signed a lease with the           troops officially landed in Niger’s capital city of Niamey,
+Port Autonome de Conakry (The Autonomous Port of              delivering military equipment and agreeing to install
+Conakry) for a concession for the port’s terminals.123, 124,  an air defense system.134, 135 In addition, Russian planes
+125 Neither Albayrak Group nor the Autonomous Port of         routinely landed at Agadez airport throughout 2025.136, 137
+Conakry replied to The Sentry’s request for comment.126
+                                                              Togo and Equatorial Guinea have also strengthened
+As a result, UC Rusal manages the refinery, the bauxite       their ties with Russia. On July 22, 2025, the Russian
+mine, and a large logistics apparatus, which transported      government approved a draft law to ratify a military
+the Russian military convoys. One Guinean worker at           cooperation agreement with Togo.138 The agreement
+the port told The Sentry that “to make these deliveries       includes provisions for joint military training exercises
+work here, you need a berth, either a ro-ro ramp or a         and emergency medical assistance.139 As for Equatorial
+mobile heavy-lift crane, a secure yard, and a clear road      Guinea, Russia sent up to 200 Africa Corps troops to
+corridor out of the port. The railway is there for bauxite,   protect the presidency in the fall of 2024 and to train
+not for weapons. This is what these companies can             elite guards in the country’s two main cities: the capital,
+provide to those making military deliveries.”127 Friguia      Malabo, and Bata.140 Africa Corps chief Averyanov
+is based in Fria, a city in Lower Guinea built from scratch   met with Equatorial Guinea President Teodoro Obiang
+to host a large bauxite mine in the 1950s.128 The history     Nguema Mbasogo to launch joint personnel training
+of UC Rusal and Fria is one marred with controversy, as       and to strengthen information security and critical
+Friguia workers have staged multiple strikes since 2007 to    infrastructure.141
+ask UC Rusal for better working conditions.129, 130 Now,
+Russia is using this same company’s railway terminal          Both Togo and Equatorial Guinea are important to
+to transport weapons and military equipment from              Moscow, as they possess large ports that can facilitate
+its Conakry port onto Guinea’s national highway, and          further deliveries and exports. Equatorial Guinea is
+subsequently into Mali for its Africa Corps fighters.         close to Cameroon, an important country for Russia’s
+UC Rusal replied to The Sentry’s request for comment          logistics into CAR. According to Vladimir Gruzdev,
+by saying that “UC Rusal and the companies owned              chairman of the Board of the Association of Lawyers
+by UC Rusal operate in the Republic of Guinea in full         of Russia, Togo is a strategically positioned partner,
+compliance with […] applicable laws or regulations.”131       as “the busiest seaport in the West African region is
+                                                              located on its territory.”142 Togo is also a notable gold
+While these subsequent, highly sensitive deliveries to        exporter, reportedly serving as a transit destination for
+Guinea’s autonomous port attest to the country’s close        gold mined in neighboring countries.143 In addition, the
+ties with Moscow, other West African countries are            expansion of Russian influence in West Africa provides
+also rapidly strengthening their ties with the Russian        new opportunities and markets for Russia’s weapons
+
+                  DOUBLING DOWN: RUSSIA’S MILITARY NETWORK IN WEST AFRICA | TheSentry.org 8
+ALERT APRIL 2026
+
+industry, which has declined in the years leading up to,        state in general. The Wagner Group never received
+and since, the invasion of Ukraine.144 The depth of these       this level of support in the form of state-supplied
+military deployments is limited,145 as only a few hundred       military equipment. While Wagner was able to preserve
+“elite troops” have been sent to Equatorial Guinea thus         a certain degree of autonomy, the Africa Corps is
+far.146, 147 However, it is the extent of the Russian military  tightly connected to the Russian state apparatus. This
+presence on the African continent that is noteworthy.           centralization of power can initially appear beneficial to
+Coupled with the deployment of the Africa Corps to              the Kremlin, as relatively rogue actors such as Wagner
+Sudan and Libya,148 it appears that Russia is slowly            can now be tightly controlled. At the same time, though,
+encircling western Africa with its Africa Corps.                it can be dysfunctional in the way the Africa Corps
+                                                                operates on Sahelian terrain: a deeply rooted culture of
+The Africa Corps fundamentally                                  centralized authority—shaped by centuries of autocratic
+changes Russian strategy in Mali                                governance—continues to shape Russian military
+                                                                organization. The result is a highly vertical command
+Several reports have claimed that the change from the           system that can slow the transmission of decisions and
+Wagner Group to the Africa Corps is mostly cosmetic             orders to forces engaged in combat.155
+and would not represent a significant shift in the way
+Russian troops operate in Africa.149, 150 Indeed, in Mali the   Africa Corps’ Leadership Structure
+Africa Corps has roughly the same number of fighters            After the Wagner Group announced its withdrawal
+as Wagner—at least 1,500 people—and many are former             from Mali, many Wagner fighters signed contracts with
+Wagner Group members.151, 152, 153 For Malian civilians,        the Africa Corps and decided to either stay in Mali or
+there appears to be no difference between the Wagner            return to it after a hiatus.156, 157, 158 Despite that structure
+Group and the Africa Corps. A long list of victims’ names       remaining clandestine, The Sentry’s investigation
+compiled by The Sentry in Goundam, Léré, Méma,                  has uncovered changes in the leadership structure of
+Taoudeni, Gao and Timbuktu throughout the second half           the Africa Corps.159 Yunus-Bek Yevkurov, the Russian
+of 2025 shows that “Africa Corps” and “Wagner” are              deputy defense minister who traveled to several African
+used interchangeably by sources and victims’ family             countries in August and September 2023, now oversees
+members.154 Leadership in Mali remains in the hands of          the direct management of the new structure from
+Andrey Ivanov and Ivan Maslov, both of whom were in             Moscow.160 From a military point of view, Major General
+charge of Wagner troops in Mali previously.                     Andrey Averyanov—also based in Moscow, though he
+                                                                often travels to the African continent161, 162, 163, 164—oversees
+However, changes in their specific roles—as well as             Africa Corps operations.165 Up until at least 2022, he was
+in the Africa Corps’ overall strategy—are evident,              also at the helm of Unit 29155,166, 167, 168, 169 one of the most
+reflecting marked differences in Russia’s new approach          notorious offices of Russia’s GRU military intelligence
+to the Sahel. Specifically, the arrival of the Africa Corps,    service, accused of covertly attacking Western interests
+in addition to the several military convoys in 2025,            for years, including through sabotage and assassination
+means that Russian troops in the Sahel are now much             attempts.170, 171 In December 2024, the EU sanctioned
+more strongly backed by—and tied to—the Russian                 Averyanov,172 alleging that he oversees Africa Corps
+
+                  DOUBLING DOWN: RUSSIA’S MILITARY NETWORK IN WEST AFRICA | TheSentry.org 9
+ALERT APRIL 2026
+
+operations.173 The UK had sanctioned him the month                 Modibo Koné nor President Assimi Goïta replied to The
+before,174 and Canada followed suit in March 2025.175 A            Sentry’s request for comment.
+March 2026 investigation showed that the “Africa Corps
+building” in Moscow, where the administrative structure            In July 2023, Camara was sanctioned by the US for
+of the organization is most likely located, sits next to           being the Wagner Group’s main point of contact in
+the Central Scientific Research Institute of Chemistry             Mali, exemplifying his close connection to Wagner
+and Mechanics,176 a classified Russian military research           leadership.193 In contrast, President Goïta and ANSE
+institute that works on military chemistry, explosives,            chief Koné now manage the relationship with the Africa
+and cyber operations. The institute operates under the             Corps as Mali’s primary security partner. This has
+umbrella of the Russian Ministry of Defense and has been           significant implications for transparency and oversight.
+linked to activities conducted on behalf of the GRU.177            During the first year of the Wagner era, Goïta managed
+Not only are the Africa Corps and the GRU under the                diplomatic relations with Russian officials, and Koné
+command of the same men, but also the buildings of a               supervised payments to Wagner. Meanwhile, Camara
+GRU office that works on military research are close to            managed the relationship between Malian and Wagner
+the Africa Corps building.178, 179                                 troops.194 Now, Goïta manages diplomatic relations with
+                                                                   Russian envoys and the Africa Corps, leaving no room
+Both Yevkurov and Averyanov are in direct contact with             for the chief of the Malian armed forces to influence
+Malian President Assimi Goïta, leader of the military              Africa Corps’ operations.195, 196, 197 One FAMA official
+junta that has ruled Mali since 2021.180 According to two          clarified that the removal of Camara from this decision-
+sources, the new contract between the GRU and the                  making process further complicates the situation for
+Malian government was signed by Modibo Koné, chief                 the Malian military, who now have even less say in
+of the Malian National Security Agency (ANSE), 181,182 who         how they are treated by Russian troops.198 The recent
+sits under the direct authority of President Goïta. In             delisting of Camara—and two other high-ranking
+2024, Koné signed another extremely sensitive contract,            officials—by US authorities comes at the same moment
+with the Turkish company Baykar, for the acquisition of            as his marginalization from decision-making regarding
+Turkish drones.183, 184 While the ANSE was in charge of            Russian partners.199 Removing sanctions on figures who
+Wagner payments in 2022, as The Sentry uncovered in                have been sidelined by Russia-tied leadership in Mali
+2025,185 Koné’s relationship with Goïta has evolved: a             risks sending an unintended signal that the US has
+source in Niamey and one in Bamako told The Sentry                 deprioritized accountability for Russian conduct in Mali
+that Koné informed the President that a coup was                   at precisely the moment that such conduct is becoming
+being plotted in Kati back in August 2025.186, 187 While           more entrenched and less subject to Malian military
+it was not possible to further corroborate such claims,            oversight.
+several sources told The Sentry that Koné and Goïta
+have weekly meetings and that Koné is no longer part               Africa Corps operations in Mali are overseen by two
+of Defense Minister Camara’s inner circle.188, 189, 190, 191, 192  men—Andrey “Kep” Nikolaevich Ivanov and Ivan “Miron”
+Since the coup attempt, Goïta appears to have entrusted            Alexandrovich Maslov—who have been either based in
+Koné with managing Mali’s Russian partnership. Neither             or traveling to Mali for a long time and have the ear of
+                                                                   Camara.200, 201, 202, 203 According to Jeune Afrique, larger
+
+                  DOUBLING DOWN: RUSSIA’S MILITARY NETWORK IN WEST AFRICA | TheSentry.org 10
+ALERT APRIL 2026
+
+Africa Corps Structure                                    Yunus-bek Yevkurov
+
+Levels of command of the new Africa Corps structure.      Deputy Minister of Defense
+                                                          (Russia)
+             Assimi Goita                                 Senior political authority over-
+                                                          seeing Africa Corps from Moscow
+                 President of Mali
+                 Political counterpart of                 Andrey Averyanov
+                 Russian leadership
+                                                          Major General, GRU
+             Modibo Kone                                  Military oversight of Africa Corps
+                                                          operations
+                 Director, ANSE (Mali)
+                 Signed GRU Mali security                 Andrey “Kep” N. Ivanov
+                 contract
+                                                          Africa Corps Commander, Mali
+                                                          Countrywide command, oversaw        Sadio Camara
+                                                          equipment deliveries
+                                                                                              Minister of Defense
+                                                          Ivan “Miron” Maslov                 (Mali)
+
+                                                          Africa Corps Commander,             Political military liaison
+                                                          Northern Mali                       with Africa Corps ﬁeld
+                                                          Operational commander in            leaders
+                                                          Gao-Kidal area
+
+Africa Corps operations on the continent are managed      deliveries—now holds command of Africa Corps troops
+by Konstantin Yurievich Mirzayants, though The Sentry     in the whole of Mali, as reported by a high-ranking
+could not independently verify this claim.204 During the  FAMA official in Mopti.210 Ivanov travels between bases
+Wagner era in Mali, Wagner founders Yevgeny Prigozhin     in the north of the country and often visits the military
+and Dimitry Utkin put Ivan Maslov in charge of the        base in Bamako.211 In December 2024, discussions in
+whole operation, from both a diplomatic and a military    the Russian media about the restructuring of private
+standpoint. It was Maslov who organized the deployment    military company operations referred to Ivanov as the
+of Wagner to Mali back in 2021 and coordinated with       Wagner “curator” in Mali.212, 213, 214, 215 A video of Ivanov
+Malian authorities. Because of his role in organizing     wishing a happy new year to troops, surrounded by
+the deployment of the mercenary group, the US, the        Russian fighters in what could be outside of Bamako,
+UK, the EU, and Canada designated Maslov in 2023.205      posted on X in February 2025, corroborates this.216, 217
+Two sources told The Sentry that Ivan Maslov is now in    Ivanov oversaw negotiating access to Malian gold mines
+charge of Africa Corps military operations in the north   when Wagner first landed in Mali in late 2021.218, 219
+of the country, where most former-Wagner fighters are     Although he was unsuccessful at the time, as clarified in
+based.206, 207, 208, 209                                  The Sentry’s “Mercenary Meltdown” report, the fact that
+                                                          he is now in charge of the Africa Corps in Mali suggests
+While Ivan Maslov mostly operates in the north, Andrey    that Yevkurov and Averyanov needed someone with
+Ivanov—who directly oversaw the military equipment        ties to the gold sector to be in charge of operations and
+
+                                                      DOUBLING DOWN: RUSSIA’S MILITARY NETWORK IN WEST AFRICA | TheSentry.org 11
+ALERT APRIL 2026
+
+Wagner and Africa Corps forces with Andrey “Kep” Ivanov in the center of the group, wearing black, demonstrating an early integration of Wagner and
+Africa Corps forces under Ivanov. Image posted in February 2025. X, @Wagner_Mali.
+
+relations with Malian leadership. The fact that Malian        photo was used in recruitment ads for the Istra Legion,
+military sources refer to him as the Africa Corps chief,220,  which enlists fighters for overseas missions in Ukraine
+221 and the fact that he is more present in Bamako than       and Africa.224, 225 Further reporting indicates that the
+Ivan Maslov, provide an indication of Africa Corps            Africa Corps offers one-off bonus payments of up to 2.1
+leadership’s priorities. At the same time, Maslov’s           million rubles ($26,500) for contracting with the GRU,
+confinement to the north may indicate an effort by the        as well as plots of land and additional benefits upon
+GRU to keep a powerful former Wagner cadre away from          deployment.226 Recruitment propaganda draws largely
+decision-making in Bamako. Much like Maslov, Ivanov           from Wagner folklore, indicating that the Wagner
+was sanctioned by the US in May 2023.222                      mythos still resonates even as Russia’s operations have
+                                                              evolved.227, 228, 229, 230 It is a whole other story for Africans
+Perhaps reflecting that Mali is one of the main Russian       recruited to fight in Ukraine, as a recent INPACT/AEOW
+combat theatres, after Ukraine, Ivanov has been               investigation indicates: since 2023, Russia has carried
+promoted and provided a state contract. He went from          out a recruitment campaign all across the African
+Wagner commander in Mali to a GRU official. His clout         continent to fuel its war effort in Ukraine. While many
+in Mali has resulted in Russian leadership enlisting his      of the African troops who have died in combat are
+help with the recruitment of new Russian fighters, a          Egyptians, Cameroonians, and Ghanaians, 15 Malians
+FAMA official in Mopti told The Sentry.223 The All Eyes       are also reported to have died in Ukraine.231
+on Wagner (AEOW) collective reports that Ivanov’s
+
+                  DOUBLING DOWN: RUSSIA’S MILITARY NETWORK IN WEST AFRICA | TheSentry.org 12
+ALERT APRIL 2026
+
+For the “Mercenary Meltdown” report, The Sentry                 While former Wagner fighters have largely remained in northern Mali, the
+interviewed several former Dan Na Ambassagou fighters           new leadership structure under Africa Corps has implemented a more
+who had been co-opted or coerced into Wagner ranks              risk-averse model that emphasizes training within the confines of bases.
+in central Mali. They knew that they would be joining a         Wagner training, April 2025. X, @Wagner_Mali.
+Russian military organization, and in some cases, they
+reported not really having a choice, as the Russians            In addition, there is a delay between when the Africa
+passed by their village or store often, and they feared         Corps receives information about an attack and when
+retaliatory measures should they choose not to join.232         they react, due to the group’s new hierarchical structure
+In 2026, one FAMA source reported that Moscow and               and their mandate to guard the bases. Instead of leaving
+Bamako had put in place an exchange program, which              the bases as soon as they hear about movement from
+involved recruiting young Malian fighters to be trained         Jama’at Nusrat al-Islam wa al-Muslimeen (Group for
+in Russia.233 As for the Malians who lost their lives in        the Support of Islam and Muslims, or JNIM), an al-
+Ukraine, this same source reports that Wagner carried           Qaeda offshoot in the Sahel, Africa Corps fighters now
+out the recruitment of some of them, especially in 2024.        need a “green light” from Ivanov directly, not just
+“Most of those who left knew what they were doing               from their leader at the base, according to a FAMA
+[…] Most of those who left had no military training […]         official interviewed by The Sentry.242 The same source
+Wagner commanders told them—we’ll train you there.              told The Sentry that some former Wagner fighters
+The training takes place in Russia. […] There are Malians       are frustrated by the lack of swift action, whereas a
+who died in a fight that has nothing to do with Mali. […]       higher-ranking FAMA official mentioned that this is a
+But it’s a gamble, you understand. For a young man with         “welcome development”, as it puts in place a structure,
+no prospects here, it’s a gamble.”234                           which promises to be more accountable than Wagner’s
+                                                                adventurism of the past.243 This does not mean, however,
+Operational Strategy                                            that the relationship between Sahelian governments
+Although some of the senior leadership carried over             and the Africa Corps is not transactional: the Africa
+from the Wagner Group to the Africa Corps, the day-             Corps’ relatively slow response time—over two hours—
+to-day operations have changed, resulting in important          to the Islamic State’s attack on Diori Hamani Airport and
+consequences on the ground. First, new recruits have            Airbase 101 in Niamey in January 2026 indicates that,
+primarily been based in Bamako, as well as in Mopti             despite being based at base 101, Africa Corps leadership
+and Ségou,235 while former Wagner fighters—now
+deployed under the Africa Corps—have been dispatched
+to the north. Most recently, these soldiers were sent
+to the artisanal gold mine N’Takaha to oversee land
+operations,236 during which the FAMA bombed some of
+the sites to chase away workers.237, 238 This means the
+soldiers that Africa Corps leadership trusts with the
+most urgent task—managing the north of the country—
+are former Wagner mercenaries. Meanwhile, the recruits
+in the center and south rarely leave their bases.239, 240, 241
+
+                  DOUBLING DOWN: RUSSIA’S MILITARY NETWORK IN WEST AFRICA | TheSentry.org 13
+ALERT APRIL 2026
+
+needed to ensure they could obtain something in return        Since then, things have changed. The JNIM-imposed
+from their Nigerien partners for their intervention.244       blockade has slowed the construction of these “forward
+                                                              operating bases”, many of which were being built around
+The Africa Corps’ response to the crisis caused by the        Tessalit, Kidal, and Aguelhok,257, 258 just off the National
+JNIM-imposed blockade on Bamako also sheds light              Road 19 and not far from several gold mining areas such
+on Russia’s new strategy in the Sahel.245 While JNIM          as In Darset, Inghouzar, and Egharghar. It appears that
+blocked the country’s main roads, effectively suffocating     the leaders of the Africa Corps—and possibly Andrey
+Bamako and Mopti, Africa Corps fighters remained              Ivanov directly—have scaled back their ambitions.
+in their bases.246 Initially, this was due to troops          According to one FAMA commander in Bamako, “we are
+not receiving the necessary approvals to act at the           now talking about fewer than ten of these bases […] all
+beginning of the blockade. It then became apparent that       of which will be guarded with tracked trucks”.259
+the problem was a lack of fuel for aerial operations,247
+which would have provided them with the necessary             Wagner’s adventurism in Mali, which The Sentry
+intelligence to determine the number of JNIM fighters         described in “Mercenary Meltdown,” appears to be over.
+in the area. As time went by, JNIM fighters stopped           Command and control have become more hierarchical.
+moving around on motorcycles with light equipment;            One FAMA source told The Sentry that Defense
+they realized they could use pickups with more stable         Minister Camara is directly “implicated” in Africa Corps
+and lethal equipment, enabling them to strike military        operations, at least when coordinated attacks are
+bases faster and more consistently.248 This development       developed.260 Instead of coordinating a response to the
+made it difficult for both the Africa Corps and the FAMA      blockade in a specific region by deploying the Africa
+to intervene without aerial support. Despite the fuel         Corps and FAMA to confront JNIM on a highway, Africa
+crisis, Africa Corps operations continued in the north:       Corps commanders must first obtain permission from
+since their deployment in June 2025, the Africa Corps         Ivanov.261 Ivanov must then go through Camara, though
+has been conducting strikes, performing summary               one source in Mopti told The Sentry that the Camara
+executions, and raiding towns in the north,249, 250 even as   sign-off is a mere formality, and that the objective is
+the fuel blockade was choking the south.251, 252              to “inform” Malian leadership, rather than get their
+                                                              approval.262 One FAMA official mentioned the JNIM
+Initially, in March 2025, as reported by Le Monde, the        attack near Anefif on November 9, 2025, where a FAMA/
+Africa Corps was planning to build “about thirty Russian      Africa Corps convoy was shattered by an improvised
+military posts across the country.”253 Some vehicles,         explosive device (IED): “Maslov asked to carry out a
+driven by Vassiya paratroopers, arrived in Kidal in           robust operation in the area [to respond to the attack],263
+July 2025 and were greeted by FAMA soldiers at the            and Camara also wanted to see more troops leaving the
+base.254, 255 In addition, sources in Aguelhoc, in the north  bases to sweep the area, but Ivanov found it too risky,
+of the country, said that both FAMA and the Africa            and the Africa Corps troops stayed put in the end.”264
+Corps is renovating some bases and building forward
+operating bases in the north, in the Kidal and Tessalit       Yevkurov and Averyanov also discuss larger strategic
+regions, as well as in Aguelhoc.256                           elements with junta chief Goïta, such as how many troops
+                                                              will be in Mali, what equipment Russia will send,265 and
+
+                  DOUBLING DOWN: RUSSIA’S MILITARY NETWORK IN WEST AFRICA | TheSentry.org 14
+ALERT APRIL 2026
+
+Russian and Malian leaders met in Bamako in November 2025 to discuss security cooperation. Individuals pictured, left to right, are Lieutenant General
+Andrey Averyanov, Africa Corps military head; Igor Gromyko, Russian Ambassador to Mali; and Deputy Minister of Defense General Yunus Bek-Yevkurov.
+Assimi Goita—Malian president and military junta leader, seated far right—received the guests at the Kolouba Palace in Bamako. Afrinz.
+
+who are the main targets for Africa Corps forces in Mali.   In this context, American and European efforts to
+Despite an easing of the blockade at the end of October     establish better relations with the Malian and Nigerien
+2025,266 the Malian junta had a meeting with their Russian  juntas through commercial diplomacy268 or a “new
+partners in November, possibly to make sure that there      approach” to the Sahel269 appear to only offer the AES
+would be some form of Russian support should JNIM           governments a negotiating tool with Moscow and its
+implement the blockade again. Yevkurov and Averyanov        Africa Corps, as they give Mali’s President Goïta and
+met with President Goïta at the Koulouba Palace, with       Niger’s General Abdourahamane Tiani some leverage
+Russian media reporting that the visit’s purpose was to     with the Kremlin. At the same time, such rapprochement
+discuss opportunities to strengthen security cooperation    may facilitate Africa Corps arms procurement and
+between the two countries “in light of the deteriorating    atrocities in Mali: on February 27, 2026, the US
+situation in recent months”.267 It appears evident that     Department of the Treasury’s Office of Foreign Assets
+the Africa Corps is a much more cautious actor than         Control (OFAC) removed Defense Minister Camara,
+its paramilitary predecessor, that the Kremlin wants to     along with senior military officials Alou Boi Diarra and
+reinforce hierarchical control on its men in West Africa,   Adama Bagayoko, from the sanctions list.270 All three had
+and that Russian interest lies primarily in protecting      been sanctioned for their links to the Wagner Group. The
+troops stationed in the north of the country.               delisting reflects a “diplomatic sweetener” rather than a
+
+                  DOUBLING DOWN: RUSSIA’S MILITARY NETWORK IN WEST AFRICA | TheSentry.org 15
+ALERT APRIL 2026
+
+true change in conduct, given that these three powerful    on deepening diplomatic relations and expanding
+individuals facilitated Wagner’s entry into Mali and have  business opportunities, including the extraction of
+not taken any action regarding accountability for both     natural resources, as can be seen in current business
+Wagner’s and the Africa Corps’ conduct towards Malian      discussions in Bamako. Notably, these changes have not
+civilians and armed forces. It also sets a troubling       translated to a moderation of conduct toward the Malian
+precedent: the delisting signals to other junta-linked     population, as human rights abuses have continued
+actors that Wagner ties can be overlooked if geopolitical  unabated. Rather, Wagner failed to achieve the Russian
+winds shift.                                               government’s goals in the Central Sahel, and the Africa
+                                                           Corps deployment is Russia’s attempt to correct the
+Conclusion                                                 situation. As put by a Russian analyst interviewed by
+                                                           The Sentry: “Putin is looking at Wagner’s successes and
+Despite Wagner’s blatant military failures, the Russian    failures in Africa and telling the new recruits, that was
+government is doubling down on Mali and West Africa,       fun, now let’s get to work.”271
+both by seeking to establish a new maritime delivery
+hub for its operations in the region and by deploying      Recommendations
+the Africa Corps to Mali and elsewhere. The substantial
+military equipment deliveries in the first half of 2025—   The US, the UK, the EU, Canada, Australia, and
+an escalation of firepower for Russian troops in Mali—     other likeminded jurisdictions
+demonstrate Russia’s sustained investment in the           Ensure alignment on sanctions. For the targets
+country. This investment is also illustrated by the use    mentioned in this report, sanctioning authorities have
+of Russian businesses, such as CBK and ACG-Fria,           applied sanctions in a patchwork and piecemeal fashion.
+which act as enablers for Russia’s military presence in    Sanctions are most effective when implemented
+the region. However, the utility of this materiel, which   multilaterally. The US, the UK, the EU, Canada, Australia,
+is more suitable for protecting bases than for carrying    and other likeminded jurisdictions should therefore
+out kinetic operations in desert terrain, suggests that    seek to align and harmonize their designations on all
+Wagner’s decentralized military operations in Mali are     individuals, ships, and corporate entities mentioned in
+a thing of the past.                                       this report.
+
+This change is reflected in the deployment of the Africa   Sanction individuals. The UK, the EU, Canada, Australia,
+Corps itself. While its leadership and composition         and other likeminded jurisdictions should impose
+echo Wagner’s, key differences are already visible.        sanctions on Malian Defense Minister Sadio Camara and
+The Africa Corps has proven to be more focused on          ANSE chief Modibo Koné for their role in facilitating and
+self-preservation than kinetic engagement, likely an       expanding the activities of the Africa Corps/Wagner in
+effort to prevent a recurrence of the heavy personnel      Mali. The US delisting of Camara and senior military
+losses Russian forces have sustained in the past. Unlike   officials Alou Boi Diarra and Adama Bagayoko sets a
+Wagner, the Africa Corps is under the tight control of     troubling precedent—one that other jurisdictions should
+the Russian government, which has different priorities     resist following.
+for the African continent. These priorities focus more
+
+                  DOUBLING DOWN: RUSSIA’S MILITARY NETWORK IN WEST AFRICA | TheSentry.org 16
+ALERT APRIL 2026
+
+Sanction shipping vehicles. While many jurisdictions       investigation into the report’s allegations. The Working
+have acted to counter Russia’s shadow fleet, the UK, the   Group should also engage the EU, the US, and other
+EU, Canada, Australia, and other likeminded jurisdictions  donor governments to urge the relevant states to end
+should explicitly designate the ships mentioned in this    the enabling and use of mercenaries.
+report for their role in moving weapons and vehicles that
+have gone into the hands of the Africa Corps. These are    African Union (AU)
+the Adler (IMO 9179854), Siyanie Severa (IMO 9250385),     Investigate and report. The African Commission
+Baltic Leader (IMO 9220639), and Patria (IMO 9159921).     on Human and Peoples’ Rights’ Working Group on
+                                                           Extractive Industries, Environment and Human Rights
+Sanction corporate entities. This report highlights the    Violations should launch an investigation into the role
+role of Russia-linked corporations in facilitating the     played by Conakry port as the go-to destination for arms
+entry of weapons and vehicles into Guinea, destined for    and vehicles destined for use by the Africa Corps. The
+use by the Africa Corps in Mali and elsewhere. The US,     Working Group should focus on the mechanisms by
+the UK, the EU, Canada, Australia, and other likeminded    which the port is used and call for action to shut these
+jurisdictions should designate ACG-Fria and CBK, both      shipments out of Africa.
+UC Rusal subsidiaries operating the Conakry port
+terminal where Russian deliveries have been made.          Activate AU mechanisms for accountability. The AU
+                                                           should formally oppose the coordinated International
+Align sanctions on military companies. There should        Criminal Court withdrawal by the Alliance of Sahel States,
+also be alignment between these sanctioning authorities    which includes Mali, and make clear that accountability
+on the designation of LCC Military Industrial Company      and security are not alternatives but prerequisites of
+(VPK), which builds some of the vehicles destined for      each other. The AU’s own architecture—including the
+the Africa Corps.                                          African Court on Human and Peoples’ Rights—should
+                                                           be activated as a complementary accountability forum
+Increase enforcement. These sanctioning authorities        for Mali, given the ICC’s prospective jurisdictional limits
+should ensure existing sanctions are rigorously            post-withdrawal.
+enforced and violations are investigated in full. This
+should include cooperating with civil society actors that  Economic Community of West African States
+can provide evidence of sanctions violations.              (ECOWAS)
+                                                           Investigate and bring to justice. The ECOWAS Court
+United Nations (UN)                                        of Justice should launch an investigation into the role
+Address and condemn. The UN Working Group on               played by Conakry port as the go-to destination for arms
+the Use of Mercenaries should put this report on the       and vehicles destined for use by the Africa Corps. The
+agenda for its next session, following which it should     Court should review statements and testimonies by
+issue a statement condemning the movement of arms          individuals and rights groups on Africa Corps human
+and vehicles into West Africa via Conakry. The Working     rights violations in Mali and bring to justice those
+Group should engage with all relevant parties in the       responsible for weapon deliveries.
+public and private sector to exert pressure to prevent
+further shipments through a full and comprehensive
+
+                  DOUBLING DOWN: RUSSIA’S MILITARY NETWORK IN WEST AFRICA | TheSentry.org 17
+ALERT APRIL 2026
+
+Private Sector
+Investigate and block. Companies operating out of the
+Conakry port, such as Conakry Port S.A., owned by
+Turkish conglomerate Albayrak Group, and MSC Group,
+should investigate and immediately block the landing of
+all Russian ships under international sanctions. It should
+then launch an internal investigation into the use of its
+port by Russia-linked Africa Corps to transport weapons
+and vehicles into West Africa. Any such investigation
+should commit to a transparent, fair and public process
+that leads to a public report on its findings.
+Exercise enhanced due diligence. Financial institutions,
+professionals, and other private sector actors that
+transact directly or indirectly with the corporate entities,
+including the shipping sector, should exercise enhanced
+due diligence. This due diligence should identify higher-
+risk entities and individuals linked to the Africa Corps
+and determine whether they are acting as enablers.
+
+                                                                                   DOUBLING DOWN: RUSSIA’S MILITARY NETWORK IN WEST AFRICA | TheSentry.org 18
+ALERT APRIL 2026
+
+Endnotes                                                               10  Assimi Goïta has discussed creating a “Malian defence in-
+                                                                       dustry.”See: Aminata24 TV, “Les troupes russes au Mali recoivent
+1  The convoy went through Sébénikoro neighborhood. See:               un important lot d’equipments militaires” (Russian troops in Mali
+                                                                       receive a large shipment of military equipment), YouTube, minute
+Le Monde, “La Russie livre des dizaines de chars et de blindés         3:39, February 5, 2025, available at: https://www.youtube.com/
+au Mali et réorganise son dispositif militaire en Afrique” (Russia     watch?v=elxgyLXYKW8
+Delivers Dozens of Tanks and Armored Vehicles to Mali and
+Reorganizes Its Military Posture in Africa), January 24, 2025, avail-  11  The Sentry interviews with a FAMA official, Bamako, March 2025,
+able at: https://www.lemonde.fr/international/article/2025/01/24/      November 2025, and February 2026.
+au-mali-la-russie-procede-a-une-importante-livraison-de-blindes-et-
+reorganise-son-dispositif-militaire_6514120_3210.html                  12  The Sentry interview with a Brussels-based EU official,
+                                                                       Brussels, March 2025.
+2  RFI, “Guinea Conakry, a Gateway for Russian Weapons in the
+Sahel,” June 20, 2025, available at: https://www.rfi.fr/en/af-         13  CBK is one of the major mining assets of UC Rusal, a large
+rica/20250620-guinea-conakry-a-gateway-for-russian-weapons-in-         global aluminum producer headquartered in Moscow. It is described
+the-sahel                                                              on UC Rusal’s site as the company’s largest raw materials asset, ac-
+                                                                       counting for roughly 25% of UC Rusal’s total bauxite output—mean-
+3  P. E. de Rohan Chabot, “From Dakar to Conakry, Goïta Walks          ing it contributes a significant share of the raw ore that feeds UC
+Tightrope With Regional Strategy,” Africa Intelligence—West Africa,    Rusal’s aluminum supply chain. See:
+December 22, 2025, available at: https://www.africaintelligence.
+com/west-africa/2025/12/22/from-dakar-to-conakry-Goïta-walks-          UC Rusal, “Compagnie des Bauxites de Kindia (CBK)” (Kindia Bauxite
+tightrope-with-regional-strategy,110583208-eve                         Company), available at: https://rusal.ru/en/about/geography/kom-
+                                                                       paniya-boksitov-kindii/ (last accessed April 2026); and
+4  Center for Strategic and International Studies, “Tracking
+the Arrival of Russia’s Wagner Group in Mali,” February                Decret N° D/2006 007 PRG/SGG: Portant Desengagement De L’Etat
+2, 2022, available at: https://www.csis.org/analysis/                  De L’Enterprise Publique Fruguia S.A Et De La Societe Alumina
+tracking-arrival-russias-wagner-group-mali                             Company of Guinea Limited (Decree No. D/2006 007 PRG/SGG:
+                                                                       Disengagement of the State from the Public Enterprise Fruguia S.A
+5  The Sentry, “Mercenary Meltdown,” August                            and the Society Alumina Company of Guinea Limited), March 30,
+2025, available at https://thesentry.org/reports/                      2006, available at: https://www.resourcecontracts.org/contract/
+mercenary-meltdown-wagner-failure-mali/                                ocds-591adf-8078738904/view#/pdf
+
+6  The Sentry, “Mercenary Meltdown,” August                            14  RFI, “Guinea Conakry, a Gateway for Russian Weapons in
+2025, available at https://thesentry.org/reports/                      the Sahel,” June 20, 2025, available at: https://www.rfi.fr/en/af-
+mercenary-meltdown-wagner-failure-mali/                                rica/20250620-guinea-conakry-a-gateway-for-russian-weapons-in-
+                                                                       the-sahel
+7  Reuters, “Africa Corps to Stay in Mali After Russia’s Wagner
+Mercenary Group Leaves,” June 6, 2025, available at: https://www.      15  France24, “Russia Steps Out From Shadows in Africa With State
+reuters.com/world/africa/russias-wagner-mercenary-group-says-it-       Paramilitary,” June 19, 2025, available at: https://www.france24.
+is-leaving-mali-after-mission-2025-06-06/                              com/en/live-news/20250619-russia-steps-out-from-shadows-in-afri-
+                                                                       ca-with-state-paramilitary
+8  A further Russian delivery took place on April 2, 2026. The Sentry
+followed the Russian ships’ movements across the Atlantic Ocean        16  F. Bryjka and J. Czerep, “Africa Corps—a New Iteration of
+but had not yet analyzed the delivery composition and its recipients   Russia’s Old Military Presence in Africa,” Polish Institute of
+as of the date of publication.                                         International Affairs, May 23, 2024, available at: https://pism.pl/pub-
+                                                                       lications/africa-corps-a-new-iteration-of-russias-old-military-pres-
+See: Djoudjousako, X (Twitter) post, April 2, 2026, available at:      ence-in-africa
+https://x.com/Djoudjou_Sako/status/2039741574033158499 (last
+accessed April 2026).                                                  17  Lansing Institute, “Russia’s Africa Corps: Wagner’s
+                                                                       Successor in Africa,” September 30, 2025, avail-
+9  ABamako.com, “Des Images d’un Convoi de Materiel Militaire          able at: https://lansinginstitute.org/2025/09/30/
+Russe au Mali sont Apparus en Ligne,” January 19, 2025, available      russias-africa-corps-wagners-successor-in-africa-2022-2025/
+at: http://news.abamako.com/h/297897.html
+
+                  DOUBLING DOWN: RUSSIA’S MILITARY NETWORK IN WEST AFRICA | TheSentry.org 19
+ALERT APRIL 2026
+
+18  W. Brown, “The Bear and the Bot Farm: Countering Russian             BAMAKO—January 18, 2025), YouTube, January 18, 2025, available
+Hybrid Warfare in Africa,” European Council on Foreign Relations,        at: https://www.youtube.com/watch?v=E31IovJ8ZmE&t=48s
+October 22, 2025, available at: https://ecfr.eu/wp-content/up-
+loads/2025/10/The-bear-and-the-bot-farm-Countering-Russian-              29  A. Rodier, “Arrivée de matériels russes au Mali” (Arrival
+hybrid-warfare-in-Africa.pdf                                             of Russian Equipment in Mali), Raids (Actu Géopolitique),
+                                                                         January 21, 2025, available at : https://raids.fr/2025/01/21/
+19  B. Roger, “Au Mali, la Russie accélère le tempo du remplace-         arrivee-de-materiels-russes-au-mali/
+ment de Wagner” (In Mali, Russia accelerates the speed of Wagner’s
+replacement), Le Monde Afrique, March 6, 2025, available at: https://    30  Frontelligence Insight, “Special Report: A Convoy of Over
+www.lemonde.fr/afrique/article/2025/03/06/au-mali-la-russie-ac-          One Hundred Russian Vehicles Arrives in Mali—Assessing the
+celere-le-tempo-du-remplacement-de-wagner_6576767_3212.html              Convoy and Its Origins,” Frontelligence Insight (Substack), January
+                                                                         18, 2025, available at: https://frontelligence.substack.com/p/
+20  After the Fall, GI-TOC, February 2025, available at: https://        special-report-a-convoy-of-over-one
+globalinitiative.net/wp-content/uploads/2025/02/After-the-
+fall-Russian-modes-of-influence-in-Africa-post-Wagner-GI-TOC-            31  BTR is short for Bronetransportyor, a series of Soviet and
+February-2025.v3.pdf                                                     post-Soviet armored personnel carriers (APCs).
+
+21  F. Bryjka and J. Czerep, “Africa Corps—a New Iteration of            32  Also called Spartak, the VPK-Ural is a Russian armored vehicle
+Russia’s Old Military Presence in Africa,” Polish Institute of           designed to withstand improvised explosive devices (IEDs). It was
+International Affairs, May 23, 2024, available at: https://pism.pl/pub-  developed by VPK, or Military Industrial Company LCC, which is
+lications/africa-corps-a-new-iteration-of-russias-old-military-pres-     sanctioned by the UK, OFAC, and Ukraine. See:
+ence-in-africa
+                                                                         Lursoft IT, “LCC Military Industrial Company,” available at: https://
+22  C. Faulkner, M. Plichta, and R. Parens, “Africa Corps: Has           sanctions.lursoft.lv/person/llc-military-industrial-company/uk-
+Russia Hit a Ceiling in Africa?,” CTC Sentinel, Volume 17, Issue         15306 (last accessed April 2026).
+11, December 2024, available at: https://ctc.westpoint.edu/
+africa-corps-has-russia-hit-a-ceiling-in-africa/                         33  The Tigr is a Russian multipurpose all-terrain 4x4 infantry mo-
+                                                                         bility vehicle manufactured by the Military Industrial Company LCC.
+23  DW News, “Mali Refugees Allege Beheadings and Rape
+by Russia’s Africa Corps,” YouTube, January 6, 2025, available           34  In the Russian Armed Forces, a platoon (взвод) typically con-
+at: https://www.youtube.com/watch?v=cdEVEqfSuO0                          sists of about 25 to 40 soldiers, depending on branch and mission.
+                                                                         See:
+24  M. Pronczuk and C. Kelly, “As Russia’s Africa Corps Fights
+in Mali, Witnesses Describe Atrocities From Beheadings to                GlobalSecurity.org, “Russian Army Units—Platoon Strength and
+Rapes,” Associated Press, December 7, 2025, available at: https://       Structure,” May 16, 2023, available at: https://www.globalsecurity.
+apnews.com/article/mali-russia-africa-corps-mauritania-refu-             org/military/world/russia/army-ue-echelons.html
+gees-abuses-2935dd1b50397242a968f69e1dde61f2
+                                                                         35  The BMP-1 is a Soviet-era amphibious infantry fighting vehicle
+25  List of victims in northern Mali, on file with The Sentry.           mounted on tracks that has been in service since 1966. BMP stands
+                                                                         for Boyevaya Mashina Pyekhoty 1, which translates as “infantry
+26  United24 Media, “Wagner’s Bloody Legacy in Mali: Torture,            fighting vehicle, 1st serial model.”
+Executions, and a Trail of Fear,” June 2025, available at: https://
+united24media.com/latest-news/wagners-bloody-legacy-in-mali-tor-         36  The Sentry interview with a retired European army general,
+ture-executions-and-a-trail-of-fear-13792                                undisclosed location, October 2025.
+
+27  O. Sanou, “From Wagner to Africa Corps: Mali’s Civilians Pay the     37  The Sentry interview with a colonel of the Malian army, Bamako,
+Price of a Ruthless War,” The Eagle Online, December 3, 2025, avail-     October 2025.
+able at: https://theeagleonline.com.ng/from-wagner-to-africa-corps-
+malis-civilians-pay-the-price-of-a-ruthless-war-by-oumarou-sanou/        38  Frontelligence Insight, “Special Report: A Convoy of Over
+                                                                         One Hundred Russian Vehicles Arrives in Mali—Assessing the
+28  Cap Mali+, “CONVOI MILITAIRE RUSSE ENTRANT DANS                      Convoy and Its Origins,” Frontelligence Insight (Substack), January
+BAMAKO—18 janvier 2025” (RUSSIAN MILITARY CONVOY ENTERING                18, 2025, available at https://frontelligence.substack.com/p/
+                                                                         special-report-a-convoy-of-over-one
+
+                  DOUBLING DOWN: RUSSIA’S MILITARY NETWORK IN WEST AFRICA | TheSentry.org 20
+ALERT APRIL 2026
+
+39  Frontelligence Insight, “Special Report: A Convoy of Over              search, available at: https://sanctionssearch.ofac.treas.gov/Details.
+One Hundred Russian Vehicles Arrives in Mali—Assessing the                 aspx?id=47745 (last accessed March 2026);
+Convoy and Its Origins,” Frontelligence Insight (Substack), January
+18, 2025, available at: https://frontelligence.substack.com/p/             European Commission, “JSC Arzamas Machine-Building Plant,”
+special-report-a-convoy-of-over-one                                        available at: https://data.europa.eu/apps/eusanctionstracker/sub-
+                                                                           jects/138938 (last accessed March 2026); and
+40  To be used on the Niger river, as one source in Gao confirmed to       Gov.UK, “JSC Arzamas Machine-Building Plant,” UK Sanctions List,
+The Sentry.                                                                available at: https://find-and-update.company-information.service.
+                                                                           gov.uk/disqualified-officers/corporate/mmooh4Zu35uMqJaIBWLVe-
+41  A. Rodier, “Arrivée de matériels russes au Mali” (Arrival              pFecJ4 (last accessed March 2026).
+of Russian Equipment in Mali), Raids (Actu Géopolitique),
+January 21, 2025, available at https://raids.fr/2025/01/21/                47  The US designated Military Industrial Company LLC under
+arrivee-de-materiels-russes-au-mali/                                       Executive Order 14024 as part of broader efforts to degrade Russia’s
+                                                                           military-industrial base, while the EU and the UK included it in their
+42  The 2A65 Msta-B is a Soviet-designed 152.4 mm towed field              respective sanctions packages against entities supplying equipment
+howitzer; the letter “B” denotes Buksiruyemaya (“towed”). It en-           to the Russian armed forces in the context of the war in Ukraine.
+tered service with the Soviet Army in the late 1980s and remains           Canada has similarly listed Military Industrial Company LLC under
+in operational use within Russian artillery formations. See: Army          its Special Economic Measures (Russia) Regulations. See:
+Recognition, “2A65 Msta-B 152mm Towed Howitzer Technical
+Data,” updated 2022, available at: https://www.armyrecognition.            US Department of the Treasury, “Treasury Targets Russia’s Military-
+com/russia_russian_army_artillery_vehicles_systems_uk/2a65_                Industrial Base and Evasion Networks,” August 23, 2024, available
+msta-b_152mm_towed_howitzer_technical_data.html; and                       at: https://home.treasury.gov/news/press-releases/jy1978;
+
+Military Today, “2A65 Msta-B Towed Howitzer,” available at: http://        Council of the European Union, “EU Restrictive Measures Against
+www.military-today.com/artillery/msta_b.htm                                Russia,” EU Sanctions Map, August 4, 2022, available at: https://
+                                                                           data.europa.eu/apps/eusanctionstracker/subjects/139900 (last
+43  S. Ezhov, “Shell Company: Russian Billionaire Oleg Deripaska’s         accessed March 2026);
+Businesses are Cashing In on the War in Ukraine—and He’s Trying
+to Hide It,” The Insider, June 11, 2025, available at: https://theins.ru/  Gov.UK, “Financial Sanctions: Military Industrial Company LLC,” UK
+en/inv/282052                                                              Sanctions List, 2022, available at: https://find-and-update.com-
+                                                                           pany-information.service.gov.uk/disqualified-officers/corpo-
+44  Beneficial owner of GAZ Group, a Russian automotive conglom-           rate/n-W8DNHdrNzKaLV54S5pOsJ-5VI (last accessed March 2026);
+erate which includes the Military Industrial Company LLC. See:
+                                                                           Government of Canada, “Special Economic Measures (Russia)
+European Commission, “Oleg Vladimirovich DERIPASKA,” EU                    Regulations—Listed Entities,” 2022, available (by searching for the
+Sanctions Tracker, available at: https://data.europa.eu/apps/eu-           name of the company) at: https://www.international.gc.ca/world-
+sanctionstracker/subjects/138212 (last accessed March 2026).               monde/international_relations-relations_internationales/sanctions/
+                                                                           consolidated-consolide.aspx?lang=eng (last accessed March 2026).
+45  Key products include the BTR-80, BTR-80A, and BTR-82A ar-
+mored personnel carriers and “Tiger.”                                      While Oleg Deripaska is on Australia’s DFAT Consolidated list,
+                                                                           Military Industrial Company LCC and its subsidiaries are not. See:
+46  SC Arzamas Machine-Building Plant (AMZ) has been designated            Australian Government Department of Foreign Affairs and Trade:
+under coordinated Western sanctions targeting Russia’s defense-in-         “Consolidated List,” available at: https://www.dfat.gov.au/interna-
+dustrial complex. The US listed the company under Executive Order          tional-relations/security/sanctions/consolidated-list (last accessed
+14024 for operating in the defense sector, while the UK designated         March 2026).
+it in June 2022 under its Russia sanctions regime. The company is
+also included in EU sanctions packages targeting defense-industrial        48  The Sentry interview with a colonel of the Malian army, Bamako,
+entities, although EU listings are embedded within consolidated            October 2025.
+annexes rather than standalone entries. See:
+                                                                           49  Le Monde Afrique, “Au Mali, des forces de sécurité russes
+OFAC, “Joint Stock Company Arzamas Machine Building Plant,”                repérées à Gao, après le retrait de l’armée française” (In Mali,
+Specifically Designated Nationals and Blocked Persons (SDN) list
+
+                  DOUBLING DOWN: RUSSIA’S MILITARY NETWORK IN WEST AFRICA | TheSentry.org 21
+ALERT APRIL 2026
+
+Russian security forces spotted in Gao, following the withdrawal         Takes Over TotalEnergies’ Operations,” February 19, 2025, available
+of the French army), August 17, 2022, available at: https://www.         at: https://www.billionaires.africa/2025/02/19/burkina-fasos-bank-
+lemonde.fr/afrique/article/2022/08/17/au-mali-des-forces-de-secu-        ing-tycoon-idrissa-nassa-takes-over-totalenergies-operations/; and
+rite-russes-apercues-a-gao-apres-le-retrait-francais_6138233_3212.
+html                                                                     Investing.com, “Nioko Completes Acquisition of Hummingbird
+                                                                         Resources,” April 17, 2025, available at: https://www.investing.com/
+50  RFI, “Wagner Mercenaries and Mali Army Accused of Killing            news/company-news/nioko-completes-acquisition-of-humming-
+Civilians Near Gao,” February 19, 2025, available at: https://www.       bird-resources-93CH-3991340
+modernghana.com/news/1380776/wagner-mercenaries-and-ma-
+li-army-accused-of-killin.html                                           58  The Sentry interview with a FAMA official, Bamako, October
+                                                                         2025.
+51  RFI, “Mali: un important convoi militaire a quitté Gao en direction
+de Kidal” (Mali: A large military convoy has left Gao bound for Kidal),  59  The Sentry interviews with a FAMA official, Mopti, November
+July 12, 2025, available at: https://www.rfi.fr/fr/afrique/20250712-     2025.
+mali-un-important-convoi-militaire-a-quitt%C3%A9-gao-en-direction-
+de-kidal                                                                 60  The Sentry interviews with a FAMA official, Mopti, November
+                                                                         2025.
+52  The Sentry interview with a colonel of the Malian army, Bamako,
+October 2025; The Sentry interview with a humanitarian worker,           61  The Sentry interview with a Malian leader based in Nouakchott,
+Nouakchott, March 2025.                                                  Mauritania, February 2025.
+
+53  The Sentry interview with a colonel of the Malian army, Bamako,      62  P.E. de Rohan Chabot, “To Resist the Jihadist Blockade, Africa
+October 2025.                                                            Corps Opens a New Base in the West,” Africa Intelligence, March 17,
+                                                                         2026, available at: https://www.africaintelligence.com/pdf/west-af-
+54  S. P. Zongo, “Mali, Banimonotie, un Nouveau Camp                     rica/2026/03/17/to-resist-the-jihadist-blockade-africa-corps-opens-
+Militaire Moderne et Securisé” (Mali, Banimonotie: A New,                a-new-base-in-the-west,110681876-art
+Modern, and Securitized Military Camp), Burkina24, January
+18, 2025, available at: https://burkina24.com/2025/01/18/                63  Frontelligence Insight, “Special Report: A Convoy of Over
+mali-banimonotie-un-nouveau-camp-militaire-moderne-et-securise/          One Hundred Russian Vehicles Arrives in Mali—Assessing the
+                                                                         Convoy and Its Origins,” Frontelligence Insight (Substack), January
+55  The Yanfolila Gold Mine, located in southern Mali, is an open-       18, 2025, available at: https://frontelligence.substack.com/p/
+pit mining operation that has been a key contributor to Mali’s gold      special-report-a-convoy-of-over-one
+production since commencing operations in 2017.
+                                                                         64  The Sentry interview with a high-ranking FAMA official, Bamako,
+56  AfricaBusinessPlus, “Inside Idrissa Nassa’s Bid for                  January 2026.
+Hummingbird Resources,” November 14, 2024, avail-
+able at: https://www.africabusinessplus.com/en/821140/                   65  Atlantic Council. “Preserving Ukraine’s Independence, Resisting
+inside-idrissa-nassas-bid-for-hummingbird-resources/                     Russian Aggression: What the United States and NATO Must
+                                                                         Do,” Atlantic Council, February 2015, available at: https://www.
+57  Nassa leads Coris Bank International (CBI) and the Coris             atlanticcouncil.org/wp-content/uploads/2015/02/UkraineReport_
+Investment Group. Through Coris Investment Group,                        February2015.pdf
+he owns the downstream petroleum distribution assets
+of TotalEnergies in Burkina Faso. Through his subsidiary Nioko           66  Tiktok video of two Russians adjusting two missiles on a pickup
+Resources, he holds a majority stake in Hummingbird Resources,           in Bamako, March 29, 2025, reviewed by The Sentry.
+which gives him control of the Yanfolila gold mine in Mali. See:
+                                                                         67  ORTM news program, March 28, 2025, reviewed by The Sentry.
+The Africa Report, “Coris Bank’s Idrissa Nassa
+Named Africa’s CEO of the Year,” May 14, 2025, avail-                    68  TplusKati. “Mali—livraisons massives de matériel militaire
+able at: https://www.theafricareport.com/383744/                         pour renforcer l’armée—27 mars 2025” (Mali—Massive Deliveries
+coris-banks-idrissa-nassa-named-africas-ceo-of-the-year/;                of Military Equipment to Strengthen the Army—March 27, 2025),
+                                                                         Facebook, March 27, 2025, available at: https://www.facebook.com/
+Billionaires Africa, “Burkina Faso’s Banking Tycoon Idrissa Nassa        TplusKati/videos/2232011740588635/
+
+                  DOUBLING DOWN: RUSSIA’S MILITARY NETWORK IN WEST AFRICA | TheSentry.org 22
+ALERT APRIL 2026
+
+69  M. Pronczuk, J. Leicester, and M. Biesecker. “Russia             at: https://ofac.treasury.gov/recent-actions/20220508.
+Skirts Western Sanctions to Ramp Up Its Military Footprint in
+Africa,” Associated Press, June 10, 2025, available at: https://     80  M Leasing LLC is a Russian shipping company incorporated in
+www.apnews.com/article/russia-africa-weaponry-ships-ma-              Moscow in March 2021, was designated by the EU on February 23,
+li-ukraine-f3383b5bbc8120b445d3df9062bf7f14                          2024, pursuant to Council Implementing Regulation (EU) 2024/753,
+                                                                     implementing Council Regulation (EU) No 269/2014 (Ukraine asset
+70  ORTM, “Direct | JT 20H de ORTm1 du 01 Juin 2025,” Youtube,       freeze regime). The company is included in the EU Consolidated
+from minute 3:38, available at: https://www.youtube.com/             Financial Sanctions List maintained by the European Commission
+watch?v=jioM_j87VgI                                                  (DG FISMA). It provides logistical support to the Russian Ministry
+                                                                     of Defense through a network of cargo vessels transporting North
+71  The Sentry interview with a FAMA official, Bamako, October       Korean armaments from the port of Najin (DPRK) to Russian military
+2025.                                                                facilities, with munitions transferred onward for use in Russia’s war
+                                                                     of aggression against Ukraine. The company is also subject to OFAC,
+72  The France 24 Observers, “Battle of Tinzawaten: The Final        UK, and Canadian sanctions. Its fleet includes the vessel Adler (IMO
+Hours of Wagner Mercenaries in the Sahara,” YouTube, available at:   9179854). See:
+https://www.youtube.com/watch?v=6s4m1j2ALkg
+                                                                     EU Sancions Map, “M Leasing LLC,” available at: https://
+73  The Sentry, “Mercenary Meltdown: The Wagner Group’s Failure      www.sanctionsmap.eu/#/main/details/36/lists?-
+in Mali,” August 27, 2025, available at:                             search=%7B%22value%22:%22M%20Leasing%20%22,%22search-
+https://thesentry.org/reports/                                       Type%22:%7B%22id%22:1,%22title%22:%22regimes,%20persons,%20
+mercenary-meltdown-wagner-failure-mali/                              entities%22%7D%7D&checked=36 (last accessed March 2026).
+
+74  Soon after its delivery and the formal landing of the Africa     81  M Leasing LLC is designated under Canada’s Special Economic
+Corps in Mali on June 14, 2025, the aforementioned Su-24 crashed in  Measures (Russia) Regulations (SOR/2014-58), enacted pursuant
+the Niger River, near Gao. It was the most powerful aircraft avail-  to the Special Economic Measures Act (SEMA) and administered by
+able to the Russian-Malian fleet as of that date. On the same day,   Global Affairs Canada. The company appears in the Consolidated
+the Malian armed forces released a communiqué in response to the     Canadian Autonomous Sanctions List, which lists all individuals and
+incident, clarifying that the crash would not have consequences on   entities subject to dealings prohibitions under SEMA. The desig-
+the war effort. See:                                                 nation prohibits any person in Canada, or any Canadian outside
+                                                                     Canada, from dealing in the company’s property, transacting with it,
+Military Africa, “Russian Su-24 Fencer lost in Mali combat oper-     or providing it with goods or services. See:
+ations,” June 30, 2025, available at: https://www.military.afri-
+ca/2025/06/russian-su-24-fencer-lost-in-mali-combat-operations/#-    Consolidated Canadian Autonomous Sanctions List: https://www.
+google_vignette                                                      international.gc.ca/world-monde/international_relations-relations_
+                                                                     internationales/sanctions/russia-russie.aspx
+75  The Sentry interview with a FAMA official, Bamako, October
+2025.                                                                82  M Leasing LLC was designated by the UK on May 18, 2023, un-
+                                                                     der the Russia (Sanctions) (EU Exit) Regulations 2019, made
+76  The Sentry interviews with a FAMA official, Bamako, March 2025,  pursuant to the Sanctions and Anti-Money Laundering Act 2018
+November 2025, and February 2026.                                    (SAMLA). The designation, reference RUS1850, is recorded in the
+                                                                     UK Sanctions List maintained by the Foreign, Commonwealth &
+77  The Sentry interview with a retired European army general,       Development Office (FCDO), which since January 28, 2026, is the sole
+undisclosed location, October 2025.                                  authoritative source for all UK sanctions designations. The desig-
+                                                                     nation triggers asset freeze obligations and transport sanctions—
+78  RFI, “Russie en Afrique: Conakry, porte d’entrée de l’armement   including port entry prohibitions for vessels owned, chartered, or
+russe au Sahel” (Russia in Africa: Conakry, Gateway for Russian      operated by the company. See:
+Weaponry to the Sahel), June 18, 2025, available at: https://www.
+rfi.fr/fr/afrique/20250618-russie-en-afrique-conakry-porte-d-en-     Gov.UK, “M Leasing,” UK Sanctions List, available at: https://search-
+tr%C3%A9e-de-l-armement-russe-au-sahel-1-2                           uk-sanctions-list.service.gov.uk/designations/RUS1850/Entity (last
+                                                                     accessed March 2026).
+79  OFAC, “Russia-related Designations and Designations Updates;
+Issuance of Russia-related General Licenses, Publication of Russia-
+related Frequently Asked Questions,” May 8, 2022, available
+
+                  DOUBLING DOWN: RUSSIA’S MILITARY NETWORK IN WEST AFRICA | TheSentry.org 23
+ALERT APRIL 2026
+
+83  The vessel Siyanie Severa (IMO 9250385, MMSI 273398650;             transit through the Port of Conakry bound for Bamako), December
+General Cargo, 6,577 GRT; built 2002; Russia flag; call sign            29, 2024, available at: https://www.guinee114.com/2024/12/29/
+UCAJ) was designated by OFAC on May 8, 2022, under Executive            russie-mali-65-mille-tonnes-de-ble-transitent-par-le-port-de-cona-
+Order 14024 (Russian Harmful Foreign Activities Sanctions, pro-         kry-pour-bamako/
+gram identifier RUSSIA-EO14024). It is listed on the Specially
+Designated Nationals and Blocked Persons (SDN) List as property         90  The Sentry interview with a worker in coordination and logistics
+in which OJSC Northern Shipping Company—itself a blocked entity—        at the Conakry port, Conakry, December 2025.
+has an interest. The vessel is one of 27 Northern Shipping Company
+vessels sanctioned on that date due to their involvement in Russian     91  The Sentry interview with a worker in coordination and logistics
+military logistics, including the transportation of military equipment  at the Conakry port, Conakry, December 2025.
+for the Russian Armed Forces. All property and interests in property
+of the vessel subject to US jurisdiction are blocked, and US persons    92  ORTM news program, March 28, 2025, reviewed by The Sentry.
+are generally prohibited from engaging in transactions with it. The
+EU, UK and Canada have not designated this vessel, or its owner         93  The Sentry interviews with a FAMA official, Bamako, March 2025,
+OJSC NORTHERN SHIPPING COMPANY. See:                                    November 2025, and February 2026.
+
+OFAC, “Siyanie Severa,” SDN List Search, available at: https://sanc-    94  WAMaps News, X (Twitter) post, March 26, 2025, available at:
+tionssearch.ofac.treas.gov/Details.aspx?id=37053 (last accessed         https://x.com/Wamaps_news/status/1904893866412585342 (last
+March 2026).                                                            accessed January 2026).
+
+84  L. Alajlouni, J. Dempsey, and A. Vidal Ribe, “Tartus                95  In an ORTM news program (dated March 28, 2025, and reviewed
+Port and Syria’s New Geo-Economic Strategy,” IISS                       by The Sentry), a journalist notes that “The Bamako population
+Online Analysis, July 2025, available at: https://www.                  assisted with pride the convoy, which carried its material all the way
+iiss.org/online-analysis/online-analysis/2025/07/                       to Kati” [“La population bamakoise à assisté avec fierté le convoy
+tartus-port-and-syrias-new-geo-economic-strategy/                       transportant ses moyens logistiques jusqu’à Kati”].
+
+85  G. Martin, “Russia Delivers Military Hardware to Mali—After the     96  The vessel Baltic Leader (IMO 9220639) was designated by
+Fall of Assad Regime,” InDepthNews, February 5, 2025, available         the US on February 22, 2022, as an SDN under the Russia-related
+at: https://indepthnews.net/russia-delivers-military-hardware-to-       sanctions program pursuant to Executive Order 14024. The desig-
+mali-after-the-fall-of-assad-regime/                                    nation appears in the Treasury notice identifying vessels linked to
+                                                                        PSB Leasing and Russian financial-sector sanctions following the
+86  The North Africa Post, “Mali Receives Massive Supplies              invasion of Ukraine. See:
+of Russian Military Hardware Amid Moscow’s Pivot From
+Syria,” January 23, 2025, available at: https://northafricapost.        OFAC, “Russia-related Designations; Issuance of Russia-related
+com/83691-mali-receives-massive-supplies-of-russian-military-           Directive 1A and General Licenses; Publication of New and
+hardware-amid-moscows-pivot-from-syria.html                             Updated Frequently Asked Questions,” February 22, 2022, available
+                                                                        at: https://ofac.treasury.gov/recent-actions/20220222 (last ac-
+87  RFI, “Russie en Afrique: Conakry, porte d’entrée de l’armement      cessed March 2026).
+russe au Sahel” (Russia in Africa: Conakry, Gateway for Russian
+Weaponry to the Sahel ), June 18, 2025, available at: https://www.      The EU operates vessel and maritime restrictive measures under
+rfi.fr/fr/afrique/20250618-russie-en-afrique-conakry-porte-d-en-        Council Regulation (EU) No 833/2014 concerning restrictive mea-
+tr%C3%A9e-de-l-armement-russe-au-sahel-1-2                              sures in view of Russia’s actions destabilizing Ukraine; consolidated
+                                                                        listings and vessel-related prohibitions are published by the Council
+88  B. Roger and P. Tchoubar, “Russia Delivers Armored Vehicles         of the European Union. See:
+to Mali and Restructures Military Presence,” Le Monde, January 24,
+2025, available at: https://www.lemonde.fr/en/international/arti-       Council of the European Union, “EU Restrictive Measures Against
+cle/2025/01/24/russia-delivers-armored-vehicles-to-mali-and-re-         Russia Over Ukraine,” available at: https://www.consilium.europa.
+structures-military-presence_6737390_4.html                             eu/en/policies/sanctions/restrictive-measures-against-russia-over-
+                                                                        ukraine/ (last accessed February 2026).
+89  Guinée114, “Russie—Mali: 65 000 tonnes de blé transitent par le
+port de Conakry pour Bamako” (Russia–Mali: 65,000 tonnes of wheat       The UK implements maritime and vessel sanctions under the
+                                                                        Russia (Sanctions) (EU Exit) Regulations 2019, with consolidated
+
+                  DOUBLING DOWN: RUSSIA’S MILITARY NETWORK IN WEST AFRICA | TheSentry.org 24
+ALERT APRIL 2026
+
+listings maintained and updated regularly by the Office of Financial   Gov.UK, “The UK Sanctions List,” available at: https://www.gov.uk/
+Sanctions Implementation. See:                                         government/publications/the-uk-sanctions-list (last accessed March
+                                                                       2026).
+Gov.UK, “The UK Sanctions List,” available at: https://www.gov.uk/
+government/publications/the-uk-sanctions-list (last accessed March     Canada’s Russia sanctions are enacted under the Special Economic
+2026).                                                                 Measures (Russia) Regulations. See:
+
+Canada administers parallel measures under the Special Economic        Government of Canada, “Consolidated Canadian Autonomous
+Measures (Russia) Regulations pursuant to the Special Economic         Sanctions List,” available at: https://www.international.gc.ca/world-
+Measures Act. See:                                                     monde/international_relations-relations_internationales/sanctions/
+                                                                       consolidated-consolide.aspx?lang=eng (last accessed February
+Government of Canada, “Consolidated Canadian Autonomous                2026).
+Sanctions List,” available at: https://www.international.gc.ca/world-
+monde/international_relations-relations_internationales/sanctions/     Australia administers corresponding measures under its
+consolidated-consolide.aspx?lang=eng (last accessed February           Autonomous Sanctions Regulations 2011 concerning Russia. See:
+2026).
+                                                                       Australian Government Department of Foreign Affairs and Trade,
+Australia enforces autonomous sanctions under the Autonomous           “Australia’s Sanctions Framework: Russia,” available at: https://
+Sanctions Regulations 2011 targeting Russia, including maritime-re-    www.dfat.gov.au/international-relations/security/sanctions/sanc-
+lated measures. See:                                                   tions-regimes/russia (last accessed March 2026).
+
+Austrialian Government Department of Foreign Affairs and Trade,        98  Russian Maritime Watch, X (Twitter) post, August 1, 2024, avail-
+“Australia’s Sanctions Framework: Russia,” available at: https://      able at: https://x.com/RFNOSBlog/status/1925836074552545749
+www.dfat.gov.au/international-relations/security/sanctions/sanc-       (last accessed April 2026).
+tions-regimes/russia (last accessed February 2026).
+                                                                       99  RFI, “Russie en Afrique: Conakry, porte d’entrée de l’armement
+97  The vessel Patria (IMO 9159921) was designated by the US           russe au Sahel” (Russia in Africa: Conakry, Gateway for Russian
+on July 20, 2023, as an SDN under the Russia-related sanctions         Weaponry to the Sahel ), June 18, 2025, available at: https://www.
+program pursuant to Executive Order 14024, identified as linked to     rfi.fr/fr/afrique/20250618-russie-en-afrique-conakry-porte-d-en-
+Public Joint Stock Company Sakhalin Shipping Company. See:             tr%C3%A9e-de-l-armement-russe-au-sahel-1-2
+
+OFAC, “Russia-related Designations; Ukraine-related Designation        100  For a comprehensive definition of Russia’s shadow fleet, see:
+Update; Russia-related Designations Removals; Issuance of Russia-
+related General Licenses,” July 20, 2023, available at: https://ofac.  Russia Fossil Tracker, “Methodology,” Centre for Research on
+treasury.gov/recent-actions/20230720 (last accessed February           Energy and Clean Air, February 10, 2025, available at: https://www.
+2026).                                                                 russiafossiltracker.com/methodology/ (last accessed April 2026).
+
+EU maritime and transport-related sanctions are grounded in            101  J. Smith, “Russian Sanctioned Ship Transported Weapons From
+Council Regulation (EU) No 833/2014 and subsequent amendments          Syria Across the English Channel,” USM Media, January 10, 2025,
+expanding prohibitions on Russian vessels and transport activi-        available at: https://en.usm.media/russian-sanctioned-ship-trans-
+ties; consolidated legal acts are available via the Council sanctions  ported-weapons-from-syria-across-the-english-channel/
+portal. See:
+                                                                       102  The Sentry interview with an Italian journalist following
+Council of the European Union, “EU Restrictive Measures Against        Russian maritime routes, Rome, June 2025.
+Russia Over Ukraine,” available at: https://www.consilium.europa.
+eu/en/policies/sanctions/restrictive-measures-against-russia-over-     103  A US intelligence aircraft flying out of Sigonella Air Base
+ukraine/ (last accessed February 2026).                                in Sicily has been keeping close watch over the same stretch of
+                                                                       Mediterranean waters where the Baltic Leader has been spotted.
+The UK’s regime is implemented under the Russia (Sanctions) (EU        The Russian ship is operating in proximity to the area patrolled by
+Exit) Regulations 2019, with vessel and shipping-linked entities       EUNAVFOR MED IRINI, the EU’s dedicated naval mission charged
+included in the consolidated list maintained by OFSI. See:             with ensuring compliance with the UN’s arms embargo against
+                                                                       Libya. See:
+
+                  DOUBLING DOWN: RUSSIA’S MILITARY NETWORK IN WEST AFRICA | TheSentry.org 25
+ALERT APRIL 2026
+
+ItaMilRadar, “Russian Sanctions-Hit Ship ‘Baltic Leader’ Monitored     US Department of the Treasury, “Treasury Designates Russian
+in Central Mediterranean by Italian P-72A,” June 11, 2025, available   Oligarchs, Officials, and Entities in Response to Worldwide Malign
+at: https://www.itamilradar.com/2025/06/11/russian-sanctions-hit-      Activity,” Press Release, April 2018, available at: https://home.trea-
+ship-baltic-leader-monitored-in-central-mediterranean-by-italian-p-    sury.gov/news/press-releases/sm0338.
+72a/
+                                                                       110  The Guardian, “US Lifts Sanctions on Oleg Deripaska and
+104  After delivering its cargo to Conakry, the Patria headed to the   Russia,” January 27, 2019, available at: https://www.theguardian.
+Russian exclave of Kaliningrad. Meanwhile, the Baltic Leader turned    com/world/2019/jan/27/us-lifts-sanctions-oleg-deripaska-russia
+up in the central Mediterranean near the Egyptian port of Port Said,
+where it was spotted by an Italian Army ATR P-72—a surveillance        111  UC Rusal operates the terminal at the port of Conakry through
+aircraft specializing in maritime reconnaissance. See:                 two entities—CBK and ACG-Fria—under a concession granted by the
+                                                                       Autonomous Port of Conakry. The arrangement covers the manage-
+RFI, “Russie en Afrique: Conakry, porte d’entrée de l’armement russe   ment and operation of the port’s bauxite and alumina terminals, in-
+au Sahel” (Russia in Africa: Conakry, Gateway for Russian Weaponry     cluding the maintenance of conceded port infrastructure and equip-
+to the Sahel), June 18, 2025, available at: https://www.rfi.fr/fr/     ment, and the handling of mineral exports and imports. Unlike other
+afrique/20250618-russie-en-afrique-conakry-porte-d-entr%C3%A9e-        concessions at the port—notably those held by Alport and Bolloré
+de-l-armement-russe-au-sahel-1-2                                       Africa Logistics, both for 25-year terms with published investment
+                                                                       commitments— publicly available documentation discloses neither
+105  The Sentry interview with a worker in coordination and logis-     the duration of UC Rusal’s concession nor its financial terms. See:
+tics at the Conakry port, Conakry, December 2025.
+                                                                       Autonomous Port of Conakry, “Nos Concessions Portuaires” (Our
+106  RFI, “Russie en Afrique: Conakry, porte d’entrée de l’armement    Port Concessions), available at: https://portconakry.gov.gn/nos-con-
+russe au Sahel” (Russia in Africa: Conakry, Gateway for Russian        cessions-portuaires/ (last accessed February 2026); and
+Weaponry to the Sahel), June 18, 2025, available at: https://www.
+rfi.fr/fr/afrique/20250618-russie-en-afrique-conakry-porte-d-en-       Autonomous Port of Conakry, “Rusal (CBK & Friguia),” available
+tr%C3%A9e-de-l-armement-russe-au-sahel-1-2                             at: https://portconakry.gov.gn/rusalcbk-friguia/ (last accessed
+                                                                       Febuary 2026).
+107  The Sentry interview with a journalist following Russian mari-
+time routes, Rome, June 2025.                                          112  RFI, “Visite de Lavrov en Guinée: Conakry et Moscou veulent
+                                                                       renforcer leur coopération bilatérale” (Lavrov’s Visit to Guinea:
+108  C. Jabbar, “Corridors of the Alliance of Sahel States:            Conakry and Moscow Seek to Strengthen Bilateral Cooperation),
+Logistical Vulnerabilities, Security Constraints, and Adaptation       YouTube, February 2025, available at: https://www.youtube.com/
+Dynamics,” Policy Brief PB-67/25, Policy Center for the New South,     watch?v=5aqNtIf3wLM&t=32s
+December 2025, available at: https://www.policycenter.ma/sites/
+default/files/2025-12/PB_67-25_Chaima%20Jabbar%20AN.pdf                113  Ministry of Defense of the Russian Federation, “Opening
+                                                                       Remarks by S.V. Lavrov, Minister of Foreign Affairs of the Russian
+109  UC Rusal, one of the world’s largest aluminum producers, has      Federation, during talks with M. Kouyaté, Minister of Foreign Affairs
+long been associated with Oleg Deripaska, an oligarch with well-doc-   of the Republic of Guinea, Conakry, June 3, 2024” (Russian), June
+umented ties to the Kremlin. The company came under US Treasury        3, 2024, available at: https://www.mid.ru/ru/press_service/video/
+sanctions in 2018 precisely on the grounds that Deripaska acted        view/1954321/ (last accessed February 2026).
+on behalf of the Russian government. Although the sanctions were
+later lifted following a restructuring of ownership, analysts have     114  Embassy of the Russian Federation in the Republic of Guinea,
+continued to flag the company’s susceptibility to Kremlin influence    “H.E. Mr. Alexey V. POPOV, Ambassador of Russia in Guinea,
+given the broader political context in which major Russian industrial  Presented his Credentials to H.E. Colonel Mamadi DOUMBOUYA,”
+assets operate. See:                                                   November 24, 2023, available at: https://guinea.mid.ru/en/embas-
+                                                                       sy/actualities/h_e_mr_alexey_v_popov_ambassador_of_russia_in_
+R. Connolly and P. Hanson, “Import Substitution and Economic           guinea_presented_his_creden-tials_to_h_e_colonel_mamadi/
+Sovereignty in Russia,” Chatham House Research Paper, June 2016,
+available at: https://www.chathamhouse.org/sites/default/files/        115  The Sentry interview with a worker in coordination and logis-
+publications/research/2016-06-09-import-substitution-russia-con-       tics at the Conakry port, Conakry, December 2025.
+nolly-hanson.pdf; and
+
+                  DOUBLING DOWN: RUSSIA’S MILITARY NETWORK IN WEST AFRICA | TheSentry.org 26
+ALERT APRIL 2026
+
+116  UC Rusal has controlled CBK in Guinea since 2001, operating       at: https://guinea.mid.ru/en/embassy/actualities/h_e_mr_alex-
+under a long-term concession agreement. This makes CBK one of          ey_v_popov_russian_ambassador_to_conakry_visited_one_of_
+UC Rusal’s key sources of raw materials. According to UC Rusal,        rusal_s_companies/
+CBK is its largest raw materials asset, supplying around a quarter of
+the company’s total bauxite output. See:                               122  UC Rusal, “Prospectus,” HKEx listing document, available
+                                                                       at: https://rusal.ru/investors/info/docs/PROSPECTUS.pdf
+UC Rusal, “Compagnie des Bauxites de Kindia (CBK), available at:
+https://rusal.ru/en/about/geography/kompaniya-boksitov-kindii/         123  The concession was signed on August 10, 2018, between the
+(last accessed March 2026).                                            Autonomous Port of Conakry and Albayrak Group (operating through
+                                                                       its subsidiary Conakry Port S.A.) for a duration of 25 years under
+117  Decret N° D/2006 007 PRG/SGG: Portant Desengagement               a build-operate-transfer model, covering the management and
+De L’Etat De L’Enterprise Publique Fruguia S.A Et De La Societe        operation of the terminal. Albayrak committed to a total investment
+Alumina Company of Guinea Limited (Decree No. D/2006 007 PRG/          of $500 million. The contract was awarded on a direct basis without
+SGG: Disengagement of the State from the Public Enterprise Fruguia     competitive tender and was never made public, prompting protests
+S.A and the Society Alumina Company of Guinea Limited), March 30,      from the dockers’ union and criticism from the Guinean press. See:
+2006, available at: https://www.resourcecontracts.org/contract/
+ocds-591adf-8078738904/view#/pdf                                       Albayrak Group, “Conakry Port,” available at: https://www.albayrak.
+                                                                       com.tr/en/sectors/logistics/conakry-port/ (last accessed March
+118  UC Rusal. “Compagnie des Bauxites de Kindia (CBK)” (Kindia        2026);
+Bauxite Company), available at: https://rusal.ru/en/about/geogra-
+phy/kompaniya-boksitov-kindii/ (last accessed March 2026).             Jeune Afrique, “À Conakry, la concession portuaire accordée à une
+                                                                       société turque crée la controverse” (In Conakry, the port concession
+119  The history of UC Rusal and OFAC sanctions is complex.            granted to a Turkish company sparks controversy), August 20, 2018,
+On January 27, 2019, OFAC announced that it had removed three          available at: https://www.jeuneafrique.com/617477/economie-en-
+Russian-linked companies—En+ Group plc, UC Rusal plc (Rusal), and      treprises/a-conakry-la-concession-portuaire-accordee-a-une-socie-
+JSC EuroSibEnergo (ESE)—from its sanctions list, having notified       te-turque-cree-la-controverse/; and
+Congress in December 2018. This followed a corporate restructur-
+ing, which significantly reduced Oleg Deripaska’s control and share-   Nordic Monitor, “Albayrak Group’s Scandals in Guinea Lay Bare
+holding in the companies in question and ensured the appointment       Shady Ties to Turkey’s Erdogan,” September 30, 2019, available
+of independent directors to their boards. As part of the conditions    at: https://nordicmonitor.com/2019/09/albayraks-scandals-in-guin-
+for delisting, the companies also agreed to enhanced transpar-         ea-lay-bare-shady-ties-to-turkeys-erdogan/.
+ency and ongoing reporting requirements to OFAC. Sanctions on
+Deripaska himself remained in place. See:                              124  The Autonomous Port of Conakry is the public entity that
+                                                                       regulates, monitors, and controls port activities, while delegating
+US Department of the Treasury, “Treasury Sanctions Russian Energy      operational management of the individual terminals (containers,
+Exporters for Ongoing Support of Government of Syria,” Press           conventional cargo, mining, hydrocarbons) to private concession-
+Release, January 27, 2019, available at: https://home.treasury.gov/    aires. As such, the Autonomous Port of Conakry itself is a Guinean
+news/press-releases/sm592                                              state body, but the terminals within it are run by private operators.
+                                                                       Albayrak Group controls the port as a whole and has subcontracted
+120  Decret N° D/2006 007 PRG/SGG: Portant Desengagement               the day-to-day running of most terminals to other companies, such
+De L’Etat De L’Enterprise Publique Fruguia S.A Et De La Societe        as Conakry Port S.A.
+Alumina Company of Guinea Limited (Decree No. D/2006 007 PRG/
+SGG: Disengagement of the State from the Public Enterprise Fruguia     125  “Conakry Port S.A.” is the name of the Albayrak-affiliated
+S.A and the Society Alumina Company of Guinea Limited), March 30,      parent company, while “Alport Conakry” is the operational entity
+2006, available at: https://www.resourcecontracts.org/contract/        on the ground. The Autonomous Port of Conakry page refers to the
+ocds-591adf-8078738904/view#/pdf                                       subsidiary as Alport Conakry S.A., while Albayrak’s own website
+                                                                       refers to the operation as Conakry Port. They are the same corpo-
+121  Embassy of the Russian Federation in the Republic of Guinea,      rate operation: Conakry Port S.A. is the legal vehicle, Alport Conakry
+“H.E. Mr. Alexey V. Popov, Russian Ambassador to Conakry,              is the trading name. Albayrak uses the “Alport” brand consistently
+Visited One of RUSAL’s Companies,” January 5, 2024, available          across all its port operations—Alport Mogadishu, Alport Banjul,
+
+                  DOUBLING DOWN: RUSSIA’S MILITARY NETWORK IN WEST AFRICA | TheSentry.org 27
+ALERT APRIL 2026
+
+Alport Pointe-Noire—following the same parent company/operation-       132  The Sentry interview with an official at the Nigerien foreign
+al brand structure in each case.                                       ministry, Niamey, October 2025.
+
+126  Swiss company Mediterranean Shipping Company (MSC),               133  L. Karr, “Africa File Special Edition: Russia’s Africa Corps
+which also operates at the port, did not reply to The Sentry’s re-     Arrives in Niger. What’s Next?,” Critical Threats Project, April 12,
+quest for comment.                                                     2024, available at: https://www.criticalthreats.org/analysis/africa-
+                                                                       file-special-edition-russias-africa-corps-arrives-in-niger-whats-next
+127  The Sentry interview with a worker in coordination and logis-
+tics at the Conakry port, Conakry, December 2025.                      134  Reuters, “Russia Sends Military Trainers and Air-Defense
+                                                                       System to Niger, Says Niger State TV,” Reuters, April 11, 2024, avail-
+128  J. Knierzinger, “Fria in Guinea: A Dismissed Bauxite Town,”       able at: https://www.reuters.com/world/russia-has-sent-military-
+2016, available at: https://www.academia.edu/103713076/                instructors-niger-says-niger-state-tv-2024-04-11/
+Fria_in_Guinea_A_Dismissed_Bauxite_Town
+                                                                       135  L. Karr, “Africa File Special Edition: Russia’s Africa Corps
+129  Le Prolétaire, “Guinée: La difficile lutte des ouvriers de        Arrives in Niger. What’s Next?,” Critical Threats Project, April 12,
+Fria contre la multinationale Rusal” (Guinea: The Workers of           2024, available at: https://www.criticalthreats.org/analysis/africa-
+Fria’s Difficult Struggle Against the Multinational Rusal), N°         file-special-edition-russias-africa-corps-arrives-in-niger-whats-next
+505, November-December 2012, available at: http://www.pcint.
+org/03_LP/505/505_guinee.htm                                           136  @fabsenbln, X (Twitter) post, March 25, 2025, available
+                                                                       at: https://x.com/fabsenbln/status/1904518895483977757 (last
+130  Rusal also had plans to exploit the rich bauxite deposit in Dian  accessed March 2026).
+Dian—located in the same region—and requested exclusive access to
+the new site from the Guinean government in exchange for resuming      137  @fabsenbln, X (Twitter) post, November 22, 2025, available at:
+its activities at the Fria plant. See:                                 https://x.com/fabsenbln/status/1992339343562924429
+
+M.O. Diallo, “En Guinée, le long combat des ouvriers de la bauxite     138  RT News, “Moscow Backs New Defense Deal With African
+et de leurs familles pour toucher leur pension” (In Guinea, the        State,” July 23, 2025, available at: https://www.rt.com/
+long struggle of bauxite workers and their families to receive their   africa/621846-moscow-approves-draft-defense-deal-togo/
+pensions), Equal Times, August 3, 2023, available at: https://www.
+equaltimes.org/en-guinee-le-long-combat-des?lang=en                    139  RT News, “Moscow Backs New Defense Deal With African
+                                                                       State,” July 23, 2025, available at: https://www.rt.com/
+131  In response to The Sentry’s request for comment, UC Rusal         africa/621846-moscow-approves-draft-defense-deal-togo/
+stated that “according to the agreements in force between the
+Republic of Guinea and UC Rusal, UC Rusal or the companies             140  B. Rukanga, “Russia Sends Instructors to Equatorial Guinea,”
+owned by UC Rusal can import into the Republic of Guinea only the      BBC, November 13, 2024, available at: https://www.bbc.com/news/
+machinery, equipment and spare parts that are required for bauxite     articles/c30pjv8vp80o
+mining and transportation, and alumina production in the Republic
+of Guinea. UC Rusal and the companies owned by UC Rusal do not         141  L. Manga, “Guinée équatoriale: Obiang Nguema reçoit le
+use for their operations any military equipment. Also, UC Rusal and    Dr Akinwumi Adesina” (Equatorial Guinee: Obiang Nguema re-
+the companies owned by UC Rusal cannot import into the Republic        ceives Dr. Akinwumi Adesina), Journal de Malabo, November
+of Guinea any goods for further shipment to third countries or par-    14, 2025, available at: https://www.journaldemalabo.com/
+ticipate in the transit of any goods to third countries. UC Rusal and  guinee-equatoriale-obiang-nguema-recoit-le-dr-akinwumi-adesina/
+the companies owned by UC Rusal operate in the Republic of Guinea
+in full compliance with these agreements in force, as well as in full  142  RT News, “Moscow Backs New Defense Deal With African
+compliance with applicable laws or regulations. Neither UC Rusal,      State,” July 23, 2025, available at: https://www.rt.com/
+Compagnie des Bauxites de Kindia, nor ACG-Fria own or operate the      africa/621846-moscow-approves-draft-defense-deal-togo/
+Conakry port, nor do they own or operate any berths in the Conakry
+port. The Autonomous Port of Conakry belongs to the Government of      143  M. Ummel and Y. Schulz, “On the Trail of African Gold:
+Guinea and is managed by Alport Conakry, a member of the Turkish       Quantifying Production and Trade to Combat Illicit Flows,” SWISSAID,
+Albayrak Group.”                                                       2024, available at: https://swissaid.kinsta.cloud/wp-content/up-
+                                                                       loads/2024/05/swissaid-on-the-trail-of-african-gold-web-ok.pdf
+
+                                                                       144  C. Faulkner and R. Parens, “Russia’s Mercenary
+
+                  DOUBLING DOWN: RUSSIA’S MILITARY NETWORK IN WEST AFRICA | TheSentry.org 28
+ALERT APRIL 2026
+
+Industrial Complex in Africa,” War on The Rocks, June 6,                 152  The Sentry interview with a high-ranking FAMA official,
+2024, available at https://warontherocks.com/2024/06/                    Bamako, January 2026.
+russias-mercenary-industrial-complex-in-africa/
+                                                                         153  Wagner had an estimated 1,000-2,000 troops based in Mali
+145  A February 2026 analysis of Russia’s influence in Africa con-       before their departure in June 2025. See:
+cludes that Moscow’s footprint remains constrained. Its economic
+influence is relatively small, its engagements vary widely across        A. Giustozzi, “A Mixed Picture: How Mali Views the Wagner Group,”
+African regions, and local governments retain significant agency in      Royal United Services Institute, March 2024, available at: https://
+shaping the relationship. The overall picture is therefore a pragmat-    www.rusi.org/explore-our-research/publications/commentary/
+ic but limited strategy, rather than a coherent continental project.     mixed-picture-how-mali-views-wagner-group
+In our “Mercenary Meltdown” report, we also show that the Malian
+junta specifically retained a certain level of power via-à-vis Wagner’s  154  Sources for the list, which is on file with The Sentry, were
+forays into the gold mining sector. See:                                 based in Aguelhoc, Timbuktu, and Gao.
+
+Carnegie Endowment for International Peace, “Russia’s                    155  For a thorough analysis with a focus on Ukraine, see: Philip
+Role in West and Southern Africa: Juntas, Wagner,                        Wasielewski, “The Roots of Russian Military Dysfunction,” Foreign
+and the Africa Corps,” February 2026, available                          Policy Research Institute, March 31, 2023, available at: https://www.
+at: https://carnegieendowment.org/research/2026/02/                      fpri.org/article/2023/03/the-roots-of-russian-military-dysfunction/
+russia-role-west-southern-africa-junta-wagner-africa-corps
+                                                                         156  The Sentry interview with a high-ranking FAMA official,
+146  D. Lewis, F. Lebedev, and G. Paravicini, “Russia Sends              Bamako, January 2026.
+200 Military Instructors to Equatorial Guinea in West Africa
+Push,” Reuters, November 12, 2024, available at: https://www.            157  B. Roger, “Au Mali, les Russes de Wagner quittent le pays, rem-
+reuters.com/world/africa/russia-deploys-up-200-military-instruc-         placés par ceux d’Africa Corps,” (In Mali, the Russians from Wagner
+tors-equatorial-guinea-sources-say-2024-11-12/                           are leaving the country, replaced by those from the Africa Corps), Le
+                                                                         Monde, June 6, 2025, available at: https://www.lemonde.fr/afrique/
+147  B. Rukanga, “Russia Sends Military Instructors to Equatorial        article/2025/06/06/au-mali-les-russes-de-wagner-quittent-le-pays-
+Guinea–Reports,” BBC, November 13, 2024, available at: https://          remplaces-par-ceux-d-africa-corps_6610872_3212.html
+www.bbc.com/news/articles/c30pjv8vp80o
+                                                                         158  The Sentry, “Mercenary Meltdown: The Wagner Group’s Failure
+148  M. Maillard, “Comment la Russie Conquiert le Sahel                  in Mali,” August 27, 2025, available at:
+de Base en Base” (How Russia Is Conquering the Sahel,                    https://thesentry.org/reports/
+Base by Base), Jeune Afrique, February 11, 2025, avail-                  mercenary-meltdown-wagner-failure-mali/
+able at: https://www.jeuneafrique.com/1656891/politique/
+enquete-comment-la-russie-conquiert-le-sahel-de-base-en-base/            159  F. Bryjka, and J. Czerep, “Africa Corps—A New Iteration
+                                                                         of Russia’s Old Military Presence in Africa,” Polish Institute of
+149  Reuters, “Russia Says Plan to Boost Role in Africa Includes         International Affairs, May 23, 2024, available at: https://pism.pl/pub-
+‘Sensitive’ Security Ties,” June 9, 2025, available at: https://www.     lications/africa-corps-a-new-iteration-of-russias-old-military-pres-
+reuters.com/world/europe/russia-says-plan-boost-role-africa-in-          ence-in-africa
+cludes-sensitive-security-ties-2025-06-09/
+                                                                         160  Arab News, “Russian Army Officials Visit Libya After Haftar
+150  F. Bryjka and J. Czerep, “Africa Corps—a New Iteration              Invite,” Arab News (English), August 22, 2023, available at: https://
+of Russia’s Old Military Presence in Africa,” Polish Institute of        arab.news/5zqj4
+International Affairs, May 23, 2024, available at: https://pism.pl/pub-
+lications/africa-corps-a-new-iteration-of-russias-old-military-pres-     161  Including, most recently, Madagascar. See: José Naranjo,
+ence-in-africa                                                           “Russian Africa Corps Mercenaries Incorporate Madagascar Into
+                                                                         Their Expansion Across the Continent,” El País, January 25, 2026,
+151  G. Vénétitay, “Torture and Forced Disappearances:                   available at: https://english.elpais.com/international/2026-01-25/
+Inside Wagner’s Secret Prisons in Mali,” Forbidden Stories,              russian-africa-corps-mercenaries-incorporate-madagascar-in-
+June 12, 2025, available at: https://forbiddenstories.org/               to-their-expansion-across-the-continent.html
+torture-wagners-prisons-mali/
+                                                                         162  African Initiative, “Russian Delegation Led by
+                                                                         Lieutenant General Averyanov Meets Equatorial Guinean
+
+                  DOUBLING DOWN: RUSSIA’S MILITARY NETWORK IN WEST AFRICA | TheSentry.org 29
+ALERT APRIL 2026
+
+Leadership,” November 14, 2025, available at: https://afrinz.ru/         Warfare in Africa,” European Council on Foreign Relations, October
+en/2025/11/russian-delegation-led-by-lieutenant-general-averyan-         22, 2025, available at: https://ecfr.eu/publication/the-bear-and-the-
+ov-meets-equatorial-guinean-leadership/                                  bot-farm-countering-russian-hybrid-warfare-in-africa/
+
+163  S. Sebt, “Notorious Russian General, Master Spy Duo Organise        171  M. Weiss, C. Grozev, and R. Dobrokhotov, “Exclusive: Inside an
+in Africa After Prigozhin’s Demise,” France 24, September 20, 2023,      Infamous Russian Spy Unit’s First Bombing in NATO,” October 20,
+available at: https://www.france24.com/en/africa/20230920-notori-        2023, The Insider, available at: https://theins.ru/en/politics/266039
+ous-russian-general-master-spy-duo-organise-in-africa-after-prigo-
+zhin-s-demise                                                            172  The EU sanctioned Averyanov under its Restrictive Measures
+                                                                         in view of Russia’s destabilizing activities (RUSDA), which refers to
+164  F. Bryjka and J. Czerep, “Africa Corps—a New Iteration              the set of restrictive measures the EU has adopted in response to
+of Russia’s Old Military Presence in Africa,” Polish Institute of        Russia’s actions—most significantly its invasion and sustained war of
+International Affairs, May 23, 2024, available at: https://pism.pl/pub-  aggression against Ukraine.
+lications/africa-corps-a-new-iteration-of-russias-old-military-pres-
+ence-in-africa                                                           173  European Commission, “Andrey Vladimirovich Averyanov,
+                                                                         Commander of GRU unit 29155,” EU Sanctions Tracker, avail-
+165  Meduza, “Still Wagner at Heart: Investigative Journalists           able at: https://data.europa.eu/apps/eusanctionstracker/sub-
+Identify Former Mercenary Commanders Now fighting in a New               jects/171201 (last accessed April 2026).
+‘Legion’ Under the Russian Defense Ministry,” December 12,
+2024, available at: https://meduza.io/en/feature/2024/12/12/             174  Gov.UK, “Andrey Averyanov,” UK Sanctions List, available
+still-wagner-at-heart                                                    at: https://search-uk-sanctions-list.service.gov.uk/designations/
+                                                                         LIB0078/Individual (last accessed April 2026).
+166  I. Shields, “GRU Unit 29155: Russia’s Foreign Covert Action
+Machine,” Grey Dynamics, January 2026, available at: https://greydy-     175  Government of Canada, “Special Economic Measures (Russia)
+namics.com/gru-unit-29155-russias-foreign-covert-action-machine/         Regulations,” March 17, 2014, available at: https://laws.justice.gc.ca/
+                                                                         eng/regulations/sor-2014-58/fulltext.html. This document lists
+167  M. Eckel, “Coup Plots, Poison, Hacking, Sabotage: What is the       Averyanov by full name and date of birth (September 29, 1967) at
+GRU’s Unit 29155?,” Radio Free Europe / Radio Liberty, April 24,         entry #1471, alongside Africa Corps as a sanctioned entity (#697).
+2021, available at: https://www.rferl.org/a/gru-unit-29155-rus-          It is published under the Special Economic Measures Act (SEMA).
+sian-military-intelligence/31220707.html                                 Australia has not designated Averyanov.
+
+168  J. Follorou, “Andrei Averyanov, the Russian General Closely         176  Commonly abbreviated TsNIIKhM (Russian: ЦНИИХМ)
+Watched by Western Intelligence,” Le Monde, August 30, 2023,
+available at: https://www.lemonde.fr/en/international/arti-              177  M. Krutov and S. Dobrynin, “‘I Brought You Some Meat’:
+cle/2023/08/30/andrei-averyanov-the-russian-general-close-               Interview with a Deserter from the Africa Corps” (Russian), Radio
+ly-watched-by-western-intelligence_6116106_4.html                        Svoboda, March 4, 2026, available at: https://www.svoboda.org/a/
+                                                                         ya-tebe-myaso-privel-intervjyu-s-dezertirom-iz-afrikanskogo-korpu-
+169  M. Schwirtz et al., “The Ex-Taxi Driver at the Center of Russia’s   sa/33693354.html.
+Shadow War,” The New York Times, February 22, 2026, available
+at: https://www.nytimes.com/2026/02/22/world/europe/rus-                 178  After Yevgeny Prigozhin’s death in August 2023, his disinfor-
+sia-gru-sabotage-europe.html                                             mation network—internally called “the Company” or Politolgy—didn’t
+                                                                         collapse. Instead, it was absorbed by Russia’s Foreign Intelligence
+170  E. Burrows, “Western Officials Say Russia is Behind a               Service (SVR) and has since expanded significantly. See:
+Campaign of Sabotage Across Europe. This AP Map Shows
+It,” Associated Press, May 10, 2024, available at: https://              E. Layan, L. Peruchon, and S. Álvarez Jurado, “Sixty Russian Agents
+apnews.com/article/russia-ukraine-war-europe-hybrid-cam-                 Identified: Prigozhin’s Influence Network Taken Over by the Foreign
+paign-d61887dd3ec6151adf354c5bd3e6273e. For more information             Intelligence Service,” Forbidden Stories, February 20, 2026, available
+on Russia’s hybrid campaigns on the African continent and else-          at: https://forbiddenstories.org/russian-agents-prigozhins-influ-
+where, see:                                                              ence-network-taken-over-by-the-intelligence-service/
+
+W. Brown, “The Bear and the Bot Farm: Countering Russian Hybrid          179  Doctors Without Borders (MSF) tried to reach Wagner merce-
+                                                                         naries through Russian expatriate networks in Bamako, individuals
+
+                  DOUBLING DOWN: RUSSIA’S MILITARY NETWORK IN WEST AFRICA | TheSentry.org 30
+ALERT APRIL 2026
+
+with ties to pro-Russian political circles, and local intermediaries   Jeune Afrique, “Mali: comment Sadio Camara a assuré son retour
+connected to Wagner fighters. This indicates that the Wagner/          en grâce à l’occasion du remaniement” (Mali: How Sadio Camara
+Africa Corps presence in Mali is not purely military but embedded      Secured His Return to Grace During the Cabinet Reshuffle), February
+in broader patronage networks, including business and political        18, 2026, available at: https://www.jeuneafrique.com/1766595/poli-
+intermediaries. According to MSF’s speaker, the Russian footprint      tique/mali-comment-sadio-camara-a-assure-son-retour-en-grace-a-
+appears networked rather than institutional. See: Crash MSF, “MSF      loccasion-du-remaniement/
+et les mercenaires russes au Sahel,” (MSF and Russian Mercenaries
+in the Sahel), Podcast, February 11, 2026, available at: https://msf-  192  Jeune Afrique, “Au Mali, Assimi Goïta remanie son gou-
+crash.org/fr/podcasts/msf-et-les-mercenaires-russes-au-sahel           vernement et promeut des ministres influents” (In Mali, Assimi
+                                                                       Goïta reshuffles his government and promotes influential minis-
+180  A. Belonogov, “Russian Military Leaders Hold Talks                ters), February 12, 2026, available at: https://www.jeuneafrique.
+with Mali’s Leadership,” African Initiative, November                  com/1765206/politique/au-mali-assimi-Goïta-remanie-son-gouver-
+12, 2025, available at: https://afrinz.ru/en/2025/11/                  nement-et-promeut-des-ministres-influents/
+russian-military-leaders-hold-talks-with-malis-leadership/
+                                                                       193  US Department of the Treasury, “Treasury Targets Malian
+181  The Sentry interview with a Malian leader based in Nouakchott,    Officials Facilitating Wagner Group,” Press Release, July 24, 2023,
+Mauritania, February 2025.                                             available at: https://home.treasury.gov/news/press-releases/
+                                                                       jy1645
+182  The Sentry interview with a Nigerien MFA representative,
+Niamey, October 2025.                                                  194  The Sentry, “Mercenary Meltdown,” August
+                                                                       2025, available at https://thesentry.org/reports/
+183  The contract was leaked in November of the following year         mercenary-meltdown-wagner-failure-mali/
+(2025) and reviewed by The Sentry.
+                                                                       195  The Sentry interviews with a FAMA official, Bamako, March
+184  M. Maillard, “Drones turcs au Mali: ce que révèle le contrat      2025, November 2025, and February 2026.
+secret conclu entre Baykar et Bamako” (Turkish drones in Mali: what
+the secret contract between Baykar and Bamako reveals), Jeune          196  The Sentry interview with a Nigerien Foreign Ministry official,
+Afrique, December 15, 2025, available at: https://www.jeuneafrique.    Niamey, October 2025.
+com/1748882/politique/drones-turcs-au-mali-ce-que-revele-le-con-
+trat-secret-conclu-entre-baykar-et-bamako/                             197  The Sentry interview with a high-ranking FAMA official,
+                                                                       Bamako, January 2026.
+185  The Sentry, “Mercenary Meltdown: The Wagner Group’s Failure
+in Mali,” August 27, 2025, available at:                               198  The Sentry interviews with a FAMA official, Bamako, March
+https://thesentry.org/reports/                                         2025, November 2025, and February 2026.
+mercenary-meltdown-wagner-failure-mali/
+                                                                       199  OFAC, “Russia-related Designations Removals; Lebanon
+186  The Sentry interview with a Nigerien MFA representative,          Designation Removal,” February 27, 2026, available at: https://ofac.
+Niamey, October 2025.                                                  treasury.gov/recent-actions/20260227
+
+187  The Sentry interviews with a FAMA official, Bamako, March         200  The Sentry interviews with a FAMA official, Bamako, March
+2025, November 2025, and February 2026.                                2025, November 2025, and February 2026.
+
+188  The Sentry interview with a Brussels-based EU official,           201  Meduza, “‘Still Wagner at Heart’: Investigative Journalists
+Brussels, March 2025.                                                  Identify Former Mercenary Commanders Now Fighting in a New
+                                                                       ‘Legion’ Under the Russian Defense Ministry,” December 12,
+189  The Sentry interview with a high-ranking FAMA official,           2024, available at: https://meduza.io/en/feature/2024/12/12/
+Bamako, January 2026.                                                  still-wagner-at-heart
+
+190  The Sentry interview with a Nigerien Foreign Ministry official,   202  All Eyes on Wagner, “Wagner Legion Istra, the
+Niamey, October 2025.                                                  Return of Veterans in Concert,” November 25, 2024, avail-
+                                                                       able at: https://alleyesonwagner.org/2024/11/25/
+191  Camara himself is still close with President Goïta. See:          wagner-legion-istra-the-return-of-veterans-in-concert/
+
+                  DOUBLING DOWN: RUSSIA’S MILITARY NETWORK IN WEST AFRICA | TheSentry.org 31
+ALERT APRIL 2026
+
+203  Meduza, “Massacres, Robberies, and No Help to                      “Consolidated List,” available at: https://www.dfat.gov.au/interna-
+Authorities: A Close Look at One Year of PMC Wagner’s                   tional-relations/security/sanctions/consolidated-list (last accessed
+‘Peacekeeping’ in Mali,” November 24, 2022, avail-                      March 2026).
+able at: https://meduza.io/en/feature/2022/11/24/
+massacres-robberies-and-no-help-to-authorities                          206  The Sentry interviews with a FAMA official, Bamako, March
+                                                                        2025, November 2025, and February 2026.
+204  M. Maillard, “De Wagner à Africa Corps: ce que l’alliance
+militaire russe a vraiment coûté au Mali” (From Wagner to the Africa    207  The Sentry interview with a former transporter, Dakar, April
+Corps: What Russia’s Military Alliance Really Cost Mali), Jeune         2025.
+Afrique, February 23, 2026, available at: https://www.jeuneafrique.
+com/1766436/politique/de-wagner-a-africa-corps-ce-que-lalliance-        208  For more information on Ivan Maslov, see: All Eyes on Wagner,
+militaire-russe-a-vraiment-coute-au-mali/                               “One Year of Wagner in Mali,” November 2022, available at: https://
+                                                                        drive.google.com/file/d/1x7qGB86RkSHIacij_9PNTyHID3WOwXCc/
+205  On May 25, 2023, pursuant to Executive Order 14024, the US         view.
+identified Ivan Aleksandrovitch Maslov as the head of the Wagner
+Group’s paramilitary units and principal administrator in Mali. He      209  One other man appears to be a relevant decision-maker in
+was then designated by the UK on July 20, 2023, under the Mali          the Africa Corps space: Anton “Lotus” Elizarov was one of the main
+(Sanctions) (EU Exit) Regulations 2020 [ref. MAL0011], identified as    Wagner commanders, mostly implicated in day-to-day operations
+head of the Wagner Group in Mali and held responsible for viola-        in the north, until the disastrous battle at Tinazaouatène. In this
+tions of international humanitarian law, including the deliberate tar-  battle, several Wagner fighters were captured or killed by Front de
+geting of civilians. Maslov was designated by the EU on February 25,    Libération de l’Azawad (FLA) rebels and JNIM fighters. According to
+2023, under Council Decision (CFSP) 2023/431 amending Decision          a Jamestown Foundation report, Elizarov was captured by the FLA
+(CFSP) 2017/1775 concerning restrictive measures in view of the         or “lost” after Tinzaouatène. Although one source told The Sentry
+situation in Mali, identified as head of the Wagner Group in Mali and   that Elizarov is still in Mali working with Maslov, The Sentry was
+held responsible for actions threatening the peace, security and        unable to verify this claim. See:
+stability of the country. And finally, he was designated by Canada
+on 19 July 2023 under the Special Economic Measures (Russia)            Sergey Sukhankin, “Wagner Suffers Another Military Setback in
+Regulations [SOR/2014-58, Schedule 1], identified as the head of        Africa, This Time in Mali,” Eurasia Daily Monitor, July 31, 2024, avail-
+Wagner Group paramilitary units in Mali. Australia targeted the         able at: https://jamestown.org/wagner-suffers-another-military-set-
+Wagner Group in 2022, but not Ivan Maslov specifically. See:            back-in-africa-this-time-in-mali/; and
+
+OFAC, “Treasury Sanctions the Head of the Wagner Group in Mali,”        The Sentry interviews with a FAMA official, Bamako, March 2025,
+Press Release, May 25, 2023, available at: https://home.treasury.       November 2025, and February 2026.
+gov/news/press-releases/jy1502.
+                                                                        210  The Sentry interviews with a FAMA official, Mopti, November
+Gov.UK, “The UK Sanctions List,” available at: https://www.gov.uk/      2025.
+government/publications/the-uk-sanctions-list (last accessed March
+2026).                                                                  211  The Sentry interviews with a FAMA official, Mopti, November
+                                                                        2025.
+Council of the European Union, Council Decision (CFSP) 2023/431 of
+February 25, 2023, Official Journal of the European Union, February     212  All Eyes on Wagner, “Wagner Legion Istra, the
+25, 2023, available at: https://eur-lex.europa.eu/legal-content/EN/     Return of Veterans in Concert,” November 25, 2024, avail-
+TXT/PDF/?uri=CELEX:32023D0431.                                          able at: https://alleyesonwagner.org/2024/11/25/
+                                                                        wagner-legion-istra-the-return-of-veterans-in-concert/
+Government of Canada, “Regulations Amending the Special
+Economic Measures (Russia) Regulations: SOR/2023-163,” August 2,        213  Robert Lansing Institute, “Russia’s Africa Corps:
+2023, available at: https://gazette.gc.ca/rp-pr/p2/2023/2023-08-02/     Wagner’s Successor in Africa (2022–2025),” September 30,
+html/sor-dors163-eng.html                                               2025, available at: https://lansinginstitute.org/2025/09/30/
+                                                                        russias-africa-corps-wagners-successor-in-africa-2022-2025/
+Australian Government Department of Foreign Affairs and Trade,
+                                                                        214  The Sentry interviews with a FAMA official, Bamako, March
+                                                                        2025, November 2025, and February 2026.
+
+                  DOUBLING DOWN: RUSSIA’S MILITARY NETWORK IN WEST AFRICA | TheSentry.org 32
+ALERT APRIL 2026
+
+215  Agentstvo, “Власти начали пиарить клон «ЧВК Вагнера».               Supporting Wagner Group Operations in Africa,” Press Release,
+Это позволило установить, кто им руководит,” December 11, 2024,          June 27, 2023, available at: https://home.treasury.gov/news/
+available at: https://www.agents.media/vlasti-nachali-piarit-klon-ch-    press-releases/jy1562.
+vk-vagnera-eto-pozvolilo-ustanovit-kto-im-rukovodit/. Note: In
+Russian bureaucratic, intelligence, and military usage, ‘куратор’        223  The Sentry interviews with a FAMA official, Mopti, November
+means something closer to ‘handler’ or ‘supervisor’ with direct          2025.
+operational responsibility. It implies an active and authoritative re-
+lationship: the ‘куратор’ is the person who owns a portfolio, directs    224  All Eyes on Wagner, “Wagner Legion Istra, the
+activity within it, and is accountable for the outcomes. See:            Return of Veterans in Concert,” November 25, 2024, avail-
+                                                                         able at: https://alleyesonwagner.org/2024/11/25/
+“Explanatory Dictionary of the Russian Language,” 1997, available        wagner-legion-istra-the-return-of-veterans-in-concert/
+at: https://gufo.me/dict/ozhegov/куратор
+                                                                         225  Agentstvo (Агентство), a Russian independent investiga-
+216  Pravda Ukraine post, “Knight of the Six Orders of Courage,”         tive outlet, identified the leadership of the Wagner Legion Istra, a
+December 17, 2024, available at https://ua.news-pravda.com/en/           Ministry of Defense-created successor unit, using Wagner’s brand-
+russia/2024/12/17/9760.html                                              ing and symbolism. Using a 40-minute interview on 360°--a Moscow
+                                                                         Oblast state channel—that featured five former Wagner commanders
+217  @WagnerMali, X (Twitter) post, February 22, 2025, available         appearing under call signs, Agentstvo established their real identi-
+at: https://x.com/wagner_mali/status/1893345683454722155 (last           ties. These included Alexander Kuznetsov (“Ratibor”), former com-
+accessed March 2026).                                                    mander of Wagner’s 1st Assault Detachment, and Igor Sukhodolsky
+                                                                         (“Marx”), former Wagner chief of staff. See:
+218  US Department of the Treasury, “Treasury Sanctions Illicit
+Gold Companies Funding Wagner Forces and Wagner Group                    Agentstvo, “Власти начали пиарить клон «ЧВК Вагнера». Это
+Facilitator,” Press Release, June 27, 2023, available at: https://home.  позволило установить, кто им руководит,” December 11, 2024,
+treasury.gov/news/press-releases/jy1581                                  available at: https://www.agents.media/vlasti-nachali-piarit-klon-ch-
+                                                                         vk-vagnera-eto-pozvolilo-ustanovit-kto-im-rukovodit/
+219  All Eyes on Wagner, “Gold thirst,” February 12, 2024, available
+at:                                                                      226  M. Pronczuk, J. Leicester, and M. Biesecker, “Russia
+https://alleyesonwagner.org/2024/02/12/gold-thirst/                      skirts Western sanctions to ramp up its military footprint in
+                                                                         Africa,” Associated Press, June 10, 2025, available at: https://ap-
+220  The Sentry interviews with a FAMA official, Mopti, November         news.com/article/f3383b5bbc8120b445d3df9062bf7f14
+2025.
+                                                                         227  All Eyes on Wagner, “Wagner Legion Istra, the
+221  The Sentry interview with a former Malian transporter, Dakar,       Return of Veterans in Concert,” November 25, 2024, avail-
+April 2025.                                                              able at: https://alleyesonwagner.org/2024/11/25/
+                                                                         wagner-legion-istra-the-return-of-veterans-in-concert/
+222  The name “Andrey Nikolaevich Ivanov” corresponds to at least
+two distinct sanctioned individuals of Russian nationality. Andrey       228  @stopwagnergroup, X (Twitter) post, February 21,
+Nicholaevich Ivanov (born on April 13, 1983) was designated by the       2025, available at: https://x.com/stopwagnergroup/sta-
+US on June 27, 2023, as an SDN under the Russia-related sanctions        tus/1892961311832641992 (last accessed March 2026).
+program pursuant to Executive Order 14024, identified as a Wagner
+Group executive who served as a facilitator for the group’s opera-       229  VPK.name, “The Logo and Chevron of the Afrika Korps
+tions and illicit gold trading activities in Mali. Andrey Nikolaevich    of Russia Have Been Approved,” February 17, 2025, available
+Ivanov (born on February 26th, 1981) is identified as a Major of the     at: https://vpk.name/en/975782_the-logo-and-chevron-of-the-afri-
+64th Separate Motorised Rifle Brigade of the 35th Combined Arms          ka-korps-of-russia-have-been-approved.html
+Army of the Russian Federation, which reportedly killed, raped, and
+tortured civilians in Bucha, Ukraine, with these atrocities described    230  The Africa Corps symbol was picked in February 2025, as
+as potentially constituting crimes against humanity and war crimes.      reported by the Military Industrial Complex news site VPK news.
+Only the US has sanctioned Wagner commander Ivanov. See:                 It says “the brave win,” the helmet is based on that of Prince
+                                                                         Alexander Nevsky, and behind it is an ancient Russian longsword
+OFAC, “Treasury Sanctions Companies and an Individual for                and the shape of the African continent. See:
+
+                  DOUBLING DOWN: RUSSIA’S MILITARY NETWORK IN WEST AFRICA | TheSentry.org 33
+ALERT APRIL 2026
+
+Grey Dynamics, Instagram Post, October 22, 2025, available at:          245  S. Vandermeersch, “Mali Under Siege: Tracking the Fuel
+https://www.instagram.com/p/DQGcYPBj-0r/?img_index=3 (last              Blockade Crippling Bamako,” Bellingcat, December 3, 2025,
+accessed February 2026).                                                available at: https://www.bellingcat.com/news/2025/12/03/
+                                                                        mali-under-siege-tracking-the-fuel-blockade-crippling-bamako/
+231  INPACT (Investigations with Impact), “Le Business
+du Désespoir,” All Eyes on Wagner, February 11, 2026,                   246  J. Gudzowska, “De Wagner à l’Africa Corps: comment la Russie
+available at: https://alleyesonwagner.org/2026/02/11/                   a sapé la stabilité du Mali,” (From Wagner to the Africa Corps: How
+le-business-du-desespoir/                                               Russia Undermined Mali’s Stability), Jeune Afrique, December 7,
+                                                                        2025, available at: https://www.jeuneafrique.com/1746256/poli-
+232  The Sentry interview with a DNA fighter recruited by Wagner in     tique/de-wagner-a-lafrica-corps-comment-la-russie-a-sape-la-stabi-
+2022, Mopti, November 2024.                                             lite-du-mali/
+
+233  The Sentry interview with a mid-rank FAMA official, Bamako,        247  The Sentry interviews with a FAMA official, Bamako, March
+March 2026.                                                             2025, November 2025, and February 2026.
+
+234  The Sentry interview with a mid-rank FAMA official, Bamako,        248  A. Jubelin and W. Nasr, “Mali: l’étau se resserre sur Bamako
+March 2026.                                                             [Zone d’affrontements #1]” (Mali: The noose tightens around Bamako
+                                                                        [Clash Zone #1]), Le Collimateur, November 14, 2025, minutes 27:00-
+235  The Sentry interviews with a FAMA official, Bamako, March          27:30, available at: https://lerubicon.org/collimateur-14-11-25/
+2025, November 2025, and February 2026.
+                                                                        249  List of victims in the north of Mali (Gao, Léré, Goundam, Méma,
+236  The Sentry interview with a former Malian transporter, Dakar,      Taoudeni, Timbuctu) throughout the second half of 2025. Sources for
+April 2025.                                                             the list were based in Aguelhoc, Timbuctu, and Gao
+
+237  The Sentry reviewed a video of the bombing dated November          250  RFI, “Mali: embuscade des rebelles du FLA contre un convoi
+21, 2025.                                                               de l’armée et de l’Africa Corps dans la région de Kidal” (Mali: FLA
+                                                                        rebels ambush an army and Africa Corps convoy in the Kidal region),
+238  This event followed an official announcement that the army         June 13, 2025, available at: https://www.rfi.fr/fr/afrique/20250613-
+had bombed N’Tahaka. See:                                               mali-embuscade-des-rebelles-du-fla-contre-un-convoi-de-l-
+                                                                        arm%C3%A9e-et-de-l-africa-corps-dans-la-r%C3%A9gion-de-kidal/
+D. Baché, “Mali: l’armée investit le vaste site d’orpaillage d’Intaha-
+ka” (Mali: The Army Moves into the Vast Intahaka Gold-Mining            251  Sahel Alerte, X (Twitter) post, November 24, 2025, available
+Site), RFI, October 24, 2025, available at: https://www.rfi.fr/fr/af-   at: https://x.com/SahelAlerte/status/1992930114485587978 (last
+rique/20251024-mali-l-arm%C3%A9e-investit-le-vaste-site-d-orpail-       accessed February 2026).
+lage-d-intahaka
+                                                                        252  C. Ewokor, “How Jihadists Have Brought a Nation to a
+239  The Sentry interview with Air Force commander, Bamako,             Standstill With Their Fuel Blockade,” BBC, November 12, 2025, avail-
+November 2025.                                                          able at: https://www.bbc.com/news/articles/c20e2lnvgpgo
+
+240  The Sentry interviews with a former Nigerien national guard        253  B. Roger, “Au Mali, la Russie accélère le tempo du remplace-
+who has been posted to the Liptako Gourma previously, Niamey,           ment de Wagner” (In Mali, Russia accelerates the pace of replacing
+September and November 2025.                                            Wagner), Le Monde Afrique, March 6, 2025, available at: https://
+                                                                        www.lemonde.fr/afrique/article/2025/03/06/au-mali-la-russie-ac-
+241  The Sentry interviews with a FAMA official, Bamako, March          celere-le-tempo-du-remplacement-de-wagner_6576767_3212.html
+2025, November 2025, and February 2026.
+                                                                        254  The Sentry reviewed a video of Vassiya paratroopers arriving
+242  The Sentry interviews with a FAMA official, Bamako, March          in Kidal, July 28, 2025.
+2025, November 2025, and February 2026.
+                                                                        255  “Uncle Vasya’s Troops” is a playful nickname for the Airborne
+243  The Sentry interviews with a FAMA official, Bamako, March          Forces (VDV), associated with General Vasily Margelov. He com-
+2025, November 2025, and February 2026.                                 manded the VDV for nearly a quarter of a century and made a huge
+                                                                        contribution to their development, earning the troops this nickname
+244  The Sentry interviews with a Nigerien Armed Forces (FAN)           in his honor.
+official, Niamey, March 2025 and February 2026.
+
+                  DOUBLING DOWN: RUSSIA’S MILITARY NETWORK IN WEST AFRICA | TheSentry.org 34
+ALERT APRIL 2026
+
+256  The Sentry interview with a colonel of the Malian army,            270  OFAC, “Russia-related Designations Removals,” US Department
+Bamako, October 2025.                                                   of the Treasury, February 27, 2026, available at: https://ofac.trea-
+                                                                        sury.gov/recent-actions/20260227
+257  The Sentry interview with a colonel of the Malian army,
+Bamako, October 2025.                                                   271  The Sentry interviews with a Russian military analyst, undis-
+                                                                        closed location, December 2025 and January 2026.
+258  The Sentry interview with an Air Force commander, Bamako,
+November 2025.
+
+259  The Sentry interview with an Air Force commander, Bamako,
+November 2025.
+
+260  The Sentry interview with a high-ranking FAMA official,
+Bamako, January 2026.
+
+261  The Sentry interviews with a FAMA official, Bamako, March
+2025, November 2025, and February 2026.
+
+262  The Sentry interviews with a FAMA official, Bamako, March
+2025, November 2025, and February 2026.
+
+263  The Sentry interview with a FAMA official, Bamako, February
+2026.
+
+264  The Sentry interviews with a Fama official, Bamako, March
+2025, November 2025, and February 2026.
+
+265  The Sentry interviews with a Fama official, Bamako, March
+2025, November 2025, and February 2026.
+
+266  @BrantPhilip_, X (Twitter) post, November 5, 2025, available
+at: https://x.com/BrantPhilip_/status/1986100225887354978 (last
+accessed February 2026).
+
+267  A. Belonogov, “Russian military leaders hold talks
+with Mali’s leadership,” African Initiative, November
+12, 2025, available at: https://afrinz.ru/en/2025/11/
+russian-military-leaders-hold-talks-with-malis-leadership/
+
+268  Jeune Afrique, “Mali: visite d’un haut responsable américain à
+Bamako pour renforcer la relation bilatérale” (Mali: Visit of a senior
+US official to Bamako to strengthen bilateral relations), February
+2, 2026, available at: https://www.jeuneafrique.com/1761752/
+politique/mali-visite-dun-haut-responsable-americain-a-bama-
+ko-pour-renforcer-la-relation-bilaterale/
+
+269  Jeune Afrique, “Au Sahel, l’Union européenne tente le difficile
+pari du ‘réalisme’ face aux juntes” (In the Sahel, the European Union
+attempts the difficult gamble of ‘realism’ in the face of military
+juntas), February 27, 2026, available at: https://www.jeuneafrique.
+com/1767923/politique/au-sahel-lunion-europeenne-tente-le-diffi-
+cile-pari-du-realisme-face-aux-juntes/
+
+                  DOUBLING DOWN: RUSSIA’S MILITARY NETWORK IN WEST AFRICA | TheSentry.org 35
+

@@ -41,7 +41,8 @@ yarn-error.log*
 next-env.d.ts
 
 # local tooling / scratch
-/.claude
+/.claude/*
+!/.claude/skills/
 /TEMP
 /dfsdf
 /Перелік приладів (1).html

@@ -1,0 +1,61 @@
+URL:         https://maritime-executive.com/article/russia-s-syria-express-convoys-may-be-combining-multiple-ais-tricks
+Кінцевий:    https://maritime-executive.com/article/russia-s-syria-express-convoys-may-be-combining-multiple-ais-tricks
+Заголовок:   Russia's "Syria Express" Convoys May Be Combining Multiple AIS Tricks
+Дата публ.:  2026-05-27
+Завантажено: 2026-09-01 13:57 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 154532
+Оригінал:    raw/10-maritime-executive.com-russia-s-syria-express-convoys-may-be-combining.html
+sha256:      54167c9c024528d68ce671a09647b7d009512ee039e678f208bebe6c48227f91
+Витяг:       trafilatura
+
+==============================================================================
+# Russia's "Syria Express" Convoys May Be Combining Multiple AIS Tricks
+
+
+After withdrawing significant military assets from Syria after the fall of Bashar al-Assad at the end of 2024, Russia appears interested in reestablishing its historical foothold in the port of Tartus. Here is a recent case study illustrating how Russia is using sanctioned commercial vessels to deliver military matériel to the port, and how Automatic Identification System (AIS) manipulation is used in an attempt to conceal the activity.
+
+Two sanctioned Russian vessels and a naval replenishment oiler set sail from Baltic ports in April 2026, bound for Tartus, Syria. The sanctioned Russian-flagged oil products tanker *General Skobelev* (IMO 9503304), sanctioned cargo vessel *Sparta* (IMO 9268710), and replenishment oiler *Akademik Pashin* (IMO 9778193) departed from Saint Petersburg, Kaliningrad, and Murmansk, respectively, on April  15, 18, and 23. They were under the escort of the Gorshkov-class frigate *Admiral Kasatonov*, declaring Port Said, Egypt as their destination. After having likely turned off their AIS transponders, the vessels were later spotted in Tartus, Syria on May 11, possibly completing the first delivery to the base since *Sparta IV* (IMO 9743033) was reported in Tartus in May 2025.
+
+On April 15, *General Skobelev* departed Saint Petersburg, Russia, sailing south to Kaliningrad, where it joined with the *Sparta* - one of the sanctioned Oboronlogistics-operated vessels. NATO navies began monitoring the convoy as it transited the Baltic Sea. The convoy was then followed in the English Channel by the Dutch Navy's DSS *Galatea* and the UK Royal Navy’s RFA *Tideforce* to monitor the convoy's movements.
+
+Meanwhile, the Russian replenishment oil tanker *Akademik Pashin* transited south from the North Sea, joining the convoy as it passed Dover Strait on 23 April. The same day, the Russian Gorshkov-class frigate *Admiral Kasatonov* took over as the primary escort through the Channel.
+
+*Figure 1: Russian convoy to Tartus, April 15 to May 11*
+
+Satellite imagery acquired west of Portugal on 26 April confirmed the convoy's position in the Atlantic, possibly capturing *General Skobelev*, *Sparta*, *Akademik Pashin*, and *Admiral Kasatonov* still sailing together in close formation. After passing the English Channel, *General Skobelev* and *Akademik Pashin* likely turned off their AIS on April 24. *Sparta*’s AIS signals appeared until April 26 before possibly going dark.
+
+*Figure 2: Sparta and the convoy*
+
+As the convoy went through the Strait of Gibraltar, they briefly reappeared on AIS trackers. Once through the strait, both vessels possibly went dark again.
+
+ In addition, on May 1 at 13:36 UTC, *General Skobelev*'s AIS appears to have been spoofed, showing its position near Estonia. Similarly, on May 8, *Sparta*’s AIS signal showed it in Kaliningrad while broadcasting a speed of 49.8 knots, far beyond the capability of a vessel of its size. Two days later, satellite imagery captured all four vessels southwest of Malta in international waters, heading east into the Mediterranean.  
+
+*Figure 3: The convoy near Malta in international waters*
+
+*Figure 4: The convoy near Crete in international waters*
+
+Satellite imagery shows the movements of the convoy on the south coast of Crete, Greece, as well as the *Admiral Kasatonov* likely operating north of Tartus, confirming the convoy was approaching its true destination (Figure 4) and not Port Said.  
+
+The first confirmed imagery of the convoy at Tartus was acquired on May 11. Images from May 13 appear to confirm *Sparta*, *General Skobelev*, *Akademik Pashin*, the Russian Navy Altay-class oil tanker *Yelnya*, and the bulk carrier *Akson Serin* all at berth. The exact cargo is unknown, though *Sparta* has historically functioned as a core asset for moving military logistics assets.
+
+After eleven days, satellite imagery acquired southeast of Spain pictured the *Sparta*, *General Skobelev*, *Yelnya*, and corvette *Stoikiy* sailing together on the return voyage  westbound, with a fifth vessel, potentially identified as *Admiral Kasatonov*, also present.
+
+*Figure 5: The Convoy Returning*
+
+On May 22, *Sparta* reappeared on AIS at 05:29 UTC and *General Skobelev* at 05:30 UTC, transiting the Strait of Gibraltar westbound and escorted by corvette *Stoikiy* and tanker *Yelnya*. Once through the strait, *Sparta* kept its AIS on while *General Skobelev* deactivated again, with *Sparta* heading to Kaliningrad and *General Skobelev* to Saint Petersburg - both returning to their ports of origin.
+
+*New Ships and Changing Tactics in the Mediterranean*
+
+The convoy likely used established evasion tactics including AIS darkness, possible AIS spoofing, and partial change of route. Although these are all well-known individual ruses, they have not been seen together in a single transit by the ships related to the ‘Syrian Express’, which so far have limited themselves to AIS darkness when close to Tartus. This time, instead, the possible deceptive tactics are significantly increased in sophistication. Moreover, the composition of the convoy changed to include the frigate *Admiral Kasatonov*. Interestingly, these are naval vessels far below the military capacity of the most recent Russian Mediterranean Squadron, already deliberately kept minimal.
+
+*Peter Boerstling studies at James Madison University, Intelligence Analysis Program, School of Integrated Sciences.*
+
+*Giangiuseppe Pili (PhD) is an Assistant Professor, James Madison University; Senior Associate Fellow, NATO Defence College; Associate Fellow, Royal United Services Institute; and Regional Director, International Association for Intelligence Education.*
+
+that matters most
+
+Get the latest maritime news delivered to your inbox daily.
+
+*Gary C. Kessler, Ph.D., is president of Gary Kessler Associates, providing maritime cybersecurity education, research, and consulting, and co-author of Maritime Cybersecurity: A Guide for Leaders and Managers, 2/e. He is also a retired professor of cybersecurity and on the advisory boards of Cydome and the CyberBoat Challenge.*
+
+*Top image courtesy  VesselFinder.*

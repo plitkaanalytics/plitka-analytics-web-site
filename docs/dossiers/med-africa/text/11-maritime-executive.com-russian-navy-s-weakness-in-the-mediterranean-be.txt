@@ -1,0 +1,39 @@
+URL:         https://maritime-executive.com/editorials/russian-navy-s-weakness-in-the-mediterranean-becomes-clear
+Кінцевий:    https://maritime-executive.com/editorials/russian-navy-s-weakness-in-the-mediterranean-becomes-clear
+Заголовок:   Russian Navy's Weakness in the Mediterranean Becomes Clear
+Дата публ.:  2025-05-11
+Завантажено: 2026-09-01 13:58 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 147485
+Оригінал:    raw/11-maritime-executive.com-russian-navy-s-weakness-in-the-mediterranean-be.html
+sha256:      9a1304ecc4b03d8b98b4d23afc8673565aa2b16a400e158fafb5961acf006a06
+Витяг:       trafilatura
+
+==============================================================================
+# Russian Navy's Weakness in the Mediterranean Becomes Clear
+
+
+Since the downscaling of its Mediterranean footprint at Tartus in Syria from a fully-fledged naval base, complete with refueling, logistics and munitions warehouses, Russia’s Mediterranean Squadron has been without an alternative facility. This might not be a serious operational impediment had Russian naval vessels been able to access the facilities they once enjoyed in Sevastopol. But since the Turkish authorities exercised their right under the Montreux Convention to restrict the passage of combatant nations through the Bosporus, such an alternative arrangement is not possible - and even if it were, the no-ship Ukrainian Navy would still be waiting in ambush.
+
+The exact status which the Russian Navy enjoys still in Tartus is unclear. Russian warships and parastatal cargo vessels still visit, and indeed the requirement to escort cargo vessels evacuating military equipment from Tartus places a major escort burden on the Russian warships which are present. But based on the long waits for entrance to the inner harbor, and the short duration of visits, the Russians no longer enjoy basing rights at Tartus, and have the same level of access that would be granted on a case by case basis to foreign warships making port calls. Russian cargo ships seem to enjoy easier access than warships, which normally have to anchor offshore.
+
+The Russians have kept more access rights at their airbase at Khmeimim, 35 miles to the north, where Russian aircraft still stop to refuel on the way to Africa and where there are still logistics facilities. But even the Russian tenancy at Khmeimim is beginning to look somewhat fragile, as there having been a number of drone attacks on the base in recent weeks. The Russians are also sitting between a local population of Assad loyalists and their old adversaries, who are seeking revenge.
+
+In the meantime, Russian naval operations in the Mediterranean have shrunk in scope. In the week to May 5, the Russian presence consisted of the cruiser *Admiral Grigorovich* (F745) off Tartus, the corvette *Soobrazitelny *(F531) and the Altay Class auxiliary *Kola* lingering off the Moroccan coast, the oiler *Vyazma* (A275) making a port visit in Alexandria, with the Vishnya Class intelligence collector *Viktor Leonov *(H175) shadowing the Royal Navy HMS *Prince of Wales* carrier strike group off Sicily and refueling in Algiers. The Kilo Class submarine *Krasnodar *(B265) left the Mediterranean without replacement (an unusual change) on April 27.
+
+Until now, the Russians have usually maintained a force double this size in the Mediterranean. The lack of local maintenance facilities means that ships now have to be home-ported in the Baltic. This means that Russia’s ships can now keep station for shorter periods, sea transits to and from the Baltic reduce endurance, and the smaller deployed footprint requires proportionally higher support from oilers and auxiliaries. Moreover, the Mediterranean Squadron is now short on air cover and support in times of trouble.
+
+Algeria has been touted as an alternative to Tartus. Russian and Algeria have historically enjoyed good relations, dating from the war of independence. Algeria still buys large volumes of Russian weapons, and there is still a large contingent of Russian instructors and technical support staff spread between five locations in Algeria. The Algerian Navy has a six-strong Kilo Class submarine fleet (and has recently taken delivery of its first 4th generation Sukhoi Su-35 fighters). But Article 31 of the Algerian constitution explicitly prohibits the establishment of foreign military bases on Algerian soil. A request from the Russians to establish a base at Mers El Kébir was rejected in 1968 and again in 2001, even though until recently Algeria was purchasing about 70% of its weapons from Russia and sourcing the bulk of its overseas technical training from Russia as well.
+
+However, tensions have crept into the relationship of late, prompted by Russia’s interference in neighboring Mali, and by Algeria’s need to keep friendly with the United States and the United Arab Emirates over their support for Algerian rival Morocco. Algeria guards its independence and non-aligned status carefully, notwithstanding its historic ties with Russia.
+
+Libya was also considered a naval base option, either in Benghazi or Tobruk. However, both ports lack infrastructure and lie in the contested area controlled for the moment by the mercurial Field Marshall Khalifa Haftar. Haftar is himself dependent on a changing cast of foreign backers, and his territory is unrecognized by the international community, making this option little more reliable than Russia’s former arrangement in Syria.
+
+that matters most
+
+Get the latest maritime news delivered to your inbox daily.
+
+Egypt is no longer within the Russian orbit, and is good only for the occasional port visit. Port Sudan in the Red Sea could provide the necessary facilities, but as it is on the south side of the Suez Canal, it lies at some distance from the Mediterranean. Serbia, Russia’s only friend to the north, doesn’t have a coastline or port to offer.
+
+For the present, Russia has no alternative but to operate in the Mediterranean with a reduced presence. It would not be so without Russia’s invasion of Ukraine, which not only has closed off the Bosporus to Russian warships, but has also cast doubt in the minds of potential alternative hosts about the wisdom of aligning with a heavily-sanctioned partner.
+
+The opinions expressed herein are the author's and not necessarily those of The Maritime Executive.

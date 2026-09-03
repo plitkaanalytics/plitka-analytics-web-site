@@ -1,0 +1,53 @@
+URL:         https://militarnyi.com/en/news/russia-sends-large-shipment-of-military-equipment-including-bmp-3-ifvs-to-mali/
+Кінцевий:    https://militarnyi.com/en/news/russia-sends-large-shipment-of-military-equipment-including-bmp-3-ifvs-to-mali/
+Заголовок:   Russia Sends Large Shipment of Military Equipment, Including BMP-3 IFVs, to Mali
+Дата публ.:  2026-08-02
+Завантажено: 2026-09-01 13:58 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 240458
+Оригінал:    raw/12-militarnyi.com-russia-sends-large-shipment-of-military-equipment-inclu.html
+sha256:      ce0274ccce8597312646000881b490f2ba2e4640e4ed84a3455952dd58eed9b6
+Витяг:       trafilatura
+
+==============================================================================
+A Russian vessel under U.S. sanctions delivered a large shipment of military equipment to Mali amid an offensive by rebel forces.
+
+This was reported in a [BBC](https://www.bbc.com/news/articles/cgk4rdley0ko) investigation.
+
+Footage broadcast by Malian state television on July 25 showed the arrival of a large convoy of armored vehicles in the capital, Bamako. The equipment included BTR-82A armored personnel carriers, BMP-3 infantry fighting vehicles, Tigr armored vehicles, and Chinese VP11 armored vehicles.
+
+The U.S.-sanctioned Russian cargo vessel Mikhail Britnev docked in Lomé on July 9.
+
+Satellite imagery indicates that the vessel was carrying the same equipment later seen in Bamako.
+
+Ship tracking data shows that the Mikhail Britnev departed the Russian port of Baltiysk on June 18 and sailed through the North Sea before entering the English Channel.
+
+According to BBC Verify, the vessel was accompanied through the English Channel by a Project 775-class landing ship. Mikhail Britnev was sanctioned by the United States in 2024.
+
+The BBC noted that the port of Baltiysk served as a transit hub for several vessels that exported military equipment to Africa.
+
+The cargo vessel Sabetta was tracked after loading what was likely military equipment at the port in February.
+
+It later docked in Conakry, Guinea — a port long associated with Russian arms deliveries to its regional allies in West Africa.
+
+Another bulk carrier that did not appear in ship tracking data was also observed loading military equipment in Baltiysk on June 6.
+
+The deliveries indicate increased Kremlin support for Mali’s ruling junta, which has faced growing pressure amid an offensive by rebel forces led by the jihadist group Jama’at Nusrat al-Islam wal-Muslimin (JNIM) and Tuareg fighters.
+
+As a result of the offensive, rebels captured significant territory in the north of the country.
+
+It was previously [reported](https://militarnyi.com/en/news/russia-s-africa-corps-abandoned-malian-troops-on-battlefield/) that Russia’s Africa Corps abandoned Malian junta forces on the battlefield, leading to significant losses among Malian troops.
+
+Popular
+
+                Підтримати нас можна через:
+
+Приват: **5169 3351 0164 7408**  PayPal - [[email protected]](/cdn-cgi/l/email-protection)   Стати нашим патроном за лінком ⬇
+
+Subscribe to our newsletter
+
+    or on ours [Telegram](https://t.me/milinua)
+  
+
+Thank you!!
+
+You are subscribed to our newsletter

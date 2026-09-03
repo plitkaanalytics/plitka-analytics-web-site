@@ -1,0 +1,134 @@
+URL:         https://www.bellingcat.com/news/africa/2026/08/25/patria-sanctioned-russian-vessel-russia-us-africa-cameroon-gabon-lagos-nigeria/
+Кінцевий:    https://www.bellingcat.com/news/africa/2026/08/25/patria-sanctioned-russian-vessel-russia-us-africa-cameroon-gabon-lagos-nigeria/
+Заголовок:   Tracking a Sanctioned Russian Vessel’s West African Odyssey - bellingcat
+Дата публ.:  2026-08-25
+Завантажено: 2026-09-01 13:58 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 111357
+Оригінал:    raw/23-bellingcat.com-patria-sanctioned-russian-vessel-russia-us-africa-camer.html
+sha256:      cdf340082b626efd22e8d3530258c28d56c3776eee7dadf2bb7bf7628e06eb13
+Витяг:       trafilatura
+
+==============================================================================
+# Tracking a Sanctioned Russian Vessel’s West African Odyssey
+
+*Sign up  here to receive Bellingcat’s biggest investigations by email* 
+
+*as soon as they are published.*
+
+A sanctioned vessel that was previously reported to have transported weapons destined for Russian mercenaries has been traversing ports on the west coast of Africa since March, exhibiting what experts told Bellingcat was an unusual set of movements and behaviours.
+
+Patria (IMO: 9159921) has been sanctioned by the [US](https://sanctionssearch.ofac.treas.gov/Details.aspx?id=44248), [Ukraine](https://war-sanctions.gur.gov.ua/en/transport/ships/193) and [Canada](https://www.international.gc.ca/world-monde/international_relations-relations_internationales/sanctions/russia_regulations-reglement_russie2.aspx?lang=eng).
+
+## Support Bellingcat
+
+Your donations directly contribute to our ability to publish groundbreaking investigations and uncover wrongdoing around the world.
+
+Radio France International (RFI) [reported](https://www.rfi.fr/en/africa/20250620-guinea-conakry-a-gateway-for-russian-weapons-in-the-sahel) last year that it was one of two ships to deliver weapons to Conakry in Guinea that were intended for the Kremlin-controlled Africa Corps and their operations in Mali.
+
+Satellite imagery and Automated Identification System (AIS) data from Lloyd’s List Intelligence shows Patria has shuttled between the Port of Douala in Cameroon and the Port of Owendo in Libreville, Gabon four times since March.
+
+It has also twice stopped in anchorage off the coast of Lagos, Nigeria: first in March and then again at the time of publication. Analysis shows the vessel also spent time in anchorage off the coast of Equatorial Guinea. 
+
+The online news site, [Modern Ghana](https://www.modernghana.com/news/1514880/a-russian-dark-fleet-ship-stranded-off-lagos.html), first reported Patria’s presence off the coast of Lagos in July after X-users @[SONNAROW_OSINT](https://x.com/SONARROW_OSINT/status/2082133501105582434) and @[RFNOSBlog](https://x.com/RFNOSBlog/status/2031759277128368195) picked up on Patria’s position.
+
+It is not clear what Patria has delivered or picked up at these ports. Nor is it clear why it has spent so long going back and forth between them. But experts Bellingcat spoke to said the unusual patterns of behaviour raised numerous questions.
+
+Charlie Brown, a former US Naval Officer and Senior Advisor at United Against Nuclear Iran said the combination of Patria’s repeated regional port calls, extended periods at anchor, and an apparent absence of a normal point-to-point trading cycle warranted scrutiny, especially as the ship is under sanction and is previously reported to have shipped arms.
+
+## Tracking the Patria
+
+
+Patria is a cargo vessel that has a distinct shape and features. Its bridge is located on the bow and it has a bright red deck that contrasts with its blue hull and two yellow cranes.
+
+At the end of the deck, the ship has a built-in ramp for vehicles (the Patria is a so-called roll on/roll off, or RoRo, vessel that is designed to transport wheeled vehicles). Its chimney is located next to the ramp.
+
+This, in combination with the length of the ship (101 m), allowed Bellingcat to pick the vessel out in satellite imagery. AIS data helped us further track its long journey which began in the Sea of Japan, in Russia’s far-east, in January.
+
+For the most part, we were able to match Patria’s AIS position with corresponding satellite imagery. We found no evidence of obvious [spoofing](https://www.kpler.com/blog/ais-spoofing-fast-track-to-sanctions) incidents (where a ship intentionally broadcasts misleading AIS data) by the vessel during its months-long voyage, however, there were some instances where satellite images were not available and thus spoofing by the vessel cannot be completely ruled out.
+
+## Port of Olga, Russia
+
+AIS data indicates that Patria loaded at the Port of Olga in the Sea of Japan between Jan. 21 and 23. Patria can also be seen on satellite imagery on these dates.
+
+## Port of Douala, Cameroon
+
+AIS data indicates that Patria unloaded some cargo in the Port of Douala between Mar. 11 and 12. Again, the ship can also be seen in satellite imagery on these dates.
+
+## Lagos Anchorage, Nigeria
+
+AIS data indicates Patria anchored off the coast of Lagos from Mar. 14 to 15.
+
+A Sentinel-2 image from the 15th appears to show another ship next to Patria. AIS data indicates that this is JS Gratitude, a bunkering tanker. This close proximity suggests that Patria was refuelling.
+
+## Bata Anchorage, Equatorial Guinea
+
+AIS data and satellite imagery indicate Patria stayed off the coast of Equatorial Guinea for several days.
+
+## Port of Owendo, Libreville, Gabon
+
+AIS data and satellite imagery indicate Patria loaded at the Port of Owendo in Libreville after spending a few days off the coast.
+
+## Port of Douala, Cameroon
+
+AIS data and satellite imagery indicate Patria stayed at the Douala Anchorage from Apr. 6 to 14, before unloading at the Port of Douala between Apr. 14 and 18.
+
+## Port of Owendo, Libreville, Gabon
+
+AIS data suggests Patria loaded in Libreville again between Apr. 22 and 26.
+
+## Port of Douala, Cameroon
+
+AIS data, supported by satellite imagery, indicates Patria stayed at the Douala Anchorage for nearly a month from Apr. 27 to May 21 before unloading in Douala from May 21 to 27.
+
+## A third trip between the Port of Owendo, Libreville to Douala, Cameroon
+
+AIS data indicates, after nearly a month’s wait in Douala anchorage, Patria again loaded at Owendo before returning to Douala to unload.
+
+## A fourth trip between the Port of Owendo, Libreville to Douala, Cameroon
+
+AIS data indicates Patria again loaded at Owendo before returning to Douala to unload.
+
+## Lagos Anchorage, Nigeria
+
+AIS data indicates, after a short visit to the Libreville anchorage, Patria anchored off the coast of Lagos where it remained at the time of publication.
+
+## Examining the Patria’s Draught
+
+We reviewed the draught of the ship at each port visit and found that the ship’s draught always dropped after a stay at the Port of Douala, suggesting it was unloading there.
+
+A ship’s “draught” is the distance from the bottom of the hull (the keel) to the waterline. When loaded, a ship is heavier and sits lower in the water (e.g. a draught of six metres) than when it is unloaded (e.g. a draught of four metres).
+
+In the period from March to July, the Patria made five port calls to Douala and each time the draught decreased. Conversely, it called four times at the Port of Owendo in Libreville, each time the draught increased, meaning the ship became heavier, suggesting it was loading.
+
+The draught is self-reported by ships but usually when it arrives at ports this kind of data is checked – reporting accurate draught is also a safety issue for ships arriving and departing at ports.
+
+Bellingcat asked the ship’s owners, managers and both ports if items were being transferred from Libreville to Douala but did not receive a response at time of publication.
+
+Brown, the former US Naval Officer and now a Senior Advisor at United Against Nuclear Iran, said Patria’s movements were unusual.
+
+“A sanctioned vessel linked to a prior military logistics shipment spending nearly six months operating between a small cluster of West African ports, Douala, and Owendo, without returning to a clear commercial trading pattern warrants scrutiny,” Brown told us.
+
+
+“While innocent explanations such as mechanical issues, commercial disputes, lack of cargo, chartering delays, or prolonged maintenance are possible, the combination of repeated regional port calls, extended periods at anchor, and an apparent absence of a normal point-to-point trading cycle is atypical for a merchant vessel.” 
+
+He added that the current period of more than 30 days at the Lagos Anchorage, in particular, is noteworthy.
+
+David Soud, Head of Research and Analysis at I.R Consilium also told Bellingcat that Patria’s prolonged Lagos Anchorage could have innocent explanations such as its need for ongoing repairs, or that its operators were out of money, but added that there could also be more calculated reasons and it was laying low for a while.
+
+Bellingcat analysed AIS data from Lagos Anchorage and found that while there has been high congestion, no other RoRo or container vessel waited longer than 10 days to enter the port in the period that Patria has been at Lagos Anchorage. At time of writing, Patria has been in anchorage for more than 30 days.
+
+Regarding the Patria’s apparent deliveries of cargo between Libreville in Gabon, and Douala in Cameroon, Soud told Bellingcat:
+
+“Given the vessel’s history of transporting military equipment to African seaports for overland delivery to Russian and allied forces in the Sahel, it’s not out of the question that some form of supplies for Russian or other forces could be picked up in Gabon, whose government has developed a closer relationship with Moscow, to be discharged in Douala, which is the main entry point for goods going to Central African Republic.”
+
+Bellingcat asked the Nigerian Ports Authority why Patria had been in anchorage for so long, whether it had applied to dock and whether the port was aware of its sanctioned status but did not receive a response at time of publication.
+
+The ports of Douala in Cameroon and Owendo in Libreville, Gabon did not respond to Bellingcat’s requests for comment about the Patria’s visits and the cargo it was carrying.
+
+Bellingcat also contacted the two companies connected to the vessel – [Hanro Shipping](https://war-sanctions.gur.gov.ua/en/transport/ships/193) and [Sakhalin Shipping Company](https://war-sanctions.gur.gov.ua/en/transport/ships/193) which are listed as the vessel’s owner and manager respectively in sanctions documents. We also contacted the company connected to JS Gratitude. We did not receive a response at time of publication.
+
+*Youri van der Weide, Galen Reich,  Yörük Işık contributed to this report.*
+
+*Cover image: Planet Lab image shows the Patria at the Port of Douala, Cameroon, on April 17, 2026. Credit: Planet Labs PBC.*
+
+*Bellingcat is a non-profit and the ability to carry out our work is dependent on the kind support of individual donors. If you would like to support our work, you can do so  here. Subscribe to our Newsletter and follow us on Bluesky here, Instagram here, Reddit here and YouTube here.*

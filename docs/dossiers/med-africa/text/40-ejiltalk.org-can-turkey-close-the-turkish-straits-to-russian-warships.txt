@@ -1,0 +1,12 @@
+URL:         https://www.ejiltalk.org/can-turkey-close-the-turkish-straits-to-russian-warships/
+Кінцевий:    https://www.ejiltalk.org/can-turkey-close-the-turkish-straits-to-russian-warships/
+Заголовок:   Can Turkey Close the Turkish Straits to Russian Warships?
+Дата публ.:  2022-02-28
+Завантажено: 2026-09-02 11:11 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 92757
+Оригінал:    raw/40-ejiltalk.org-can-turkey-close-the-turkish-straits-to-russian-warships.html
+sha256:      375f6aa5df2c54f5f01f407d0daaf55848efae4135015d0d0942a2922113378b
+Витяг:       bs4-full
+
+==============================================================================
+Can Turkey Close the Turkish Straits to Russian Warships? – EJIL: Talk!

@@ -1,0 +1,202 @@
+URL:         https://war-sanctions.gur.gov.ua/en/transport/ships/99
+Кінцевий:    https://war-sanctions.gur.gov.ua/en/transport/ships/99
+Заголовок:   BALTIC LEADER; IMO 9220639
+Дата публ.:  2026-06-02
+Завантажено: 2026-09-01 13:58 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 72789
+Оригінал:    raw/22-war-sanctions.gur.gov.ua-99.html
+sha256:      904621b99fa2598ab4ca12677d81f12f694998fa8477d24e5cc0a9996cba4cfa
+Витяг:       trafilatura
+
+==============================================================================
+# BALTIC LEADER
+
+IMO 9220639
+
+            Updated: 02.06.2026
+
+        
+                                Vessel name                            
+
+                            
+                                BALTIC LEADER
+                            
+
+                        
+                                Category                            
+
+                            Transportation of military cargo
+
+ Associated with sanctioned entities
+
+                                IMO
+                            
+
+                            
+                                                                    9220639
+                                                            
+
+                        
+                                Flag (Current)                            
+
+                            
+                                 russian federation
+                            
+
+                        
+                                MMSI
+                            
+
+                            
+                                273297850
+                            
+
+                        
+                                Call sign                            
+
+                            
+                                UBEW6
+                            
+
+                        
+                                Vessel Type                            
+
+                            
+                                Ro-Ro Cargo Ship
+                            
+
+                        
+                                Length (m)                            
+
+                            
+                                126.86
+                            
+
+                        
+                                Gross tonnage (t)                            
+
+                            
+                                8831
+                            
+
+                        
+                                DWT (t)                            
+
+                            
+                                7195
+                            
+
+                        
+                                P&I Club                            
+
+                            
+                                Sanctions lifted                            
+
+                            
+                                The person in connection with whom
+
+sanctions have been applied
+
+                            
+                        sanctions have been applied
+
+Provide additional information
+
+                        Justification
+
+            Vessel information
+
+                The vessel is the property of the sanctioned russian maritime shipping company MG-Flot LLC (formerly Transmorflot LLC). 
+
+In May 2022, USA imposed sanctions on Transmorflot LLC and its vessels involved in the transportation of weapons for the russian federation.
+
+The vessel is also affiliated with LLC PSB Leasing (TIN 7722581759, related to the sanctioned PJSC Promsvyazbank (TIN 7744000912), a systemically important russian state-owned banking institution that finances the russian defense industry, services significant volumes of state defense contracts for the russian ministry of defense, and provides banking services, including mortgage loans, to the russian military.
+
+MG-Flot LLC is associated with the Astrakhan businessman Pashayev Jamaldin Emirmagomedovich, who built his business around the commercial port of Olya in the Astrakhan region. This very place was proposed as a key logistic hub of the international transport corridor "North-South", the creation and construction of which was supervised and controlled by former russian Prime Minister Mikhail Fradkov. The key purpose of the transportation corridor was to trade with sanctioned Iran, which could import and export goods along the North-South route.
+
+As part of the application of sanctions to PJSC Promsvyazbank, in February 2022, USA imposed sanctions on five vessels (including the "Baltic Leader") owned (owned at the time) by PSB Leasing LLC as a subsidiary of PJSC Promsvyazbank.
+
+"Baltic Leader" while owned by PSB Leasing LLC was arrested by French customs for violation of Decision (EU) 2022/260 of February 23, 2022 on restrictive measures against acts undermining or threatening the territorial integrity, sovereignty and independence of Ukraine. The russian Embassy in France actively participated in the release of the vessel from arrest.
+
+In 2024, the vessel was first used on the Novorossiysk port ( russia) - Tartus port ( Syria) line, which is the only port in the Mediterranean Sea under russian control. In particular, in February 2024, the vessel made a voyage following the ‘Sparta IV’ (IMO 9743033), which was involved in the transportation of weapons from Syria to Novorossiysk. Also involved in this voyage were the tanker ‘Yaz’ (IMO 9735323) and the roller ship ‘Lady Maria’ (IMO 9220641).
+
+The vessel is likely a member of the so-called russian rescue group sent from the russian naval base in the Baltic in December 2024 to evacuate russian troops and equipment from Syria after the fall of the Assad regime.
+
+On December 31, 2024, the Portuguese Navy observed a group of russian vessels (including military vessels), including a submarine, passing near the country's coast towards the Mediterranean Sea. According to the Armed Forces of Portugal, the russian vessels included the landing ship Alexander Shabalin, civilian logistics support vessels Baltic Leader, Sparta II and the tanker General Skobelev, while the russian submarine Novorossiysk was moving along the country's economic zone. The second group included the russian amphibious warships Ivan Gren, Aleksandr Otrakovsky, and the civilian vessel Sparta, which passed the Strait of Gibraltar on the evening of December 22, 2024, and entered the Mediterranean Sea, and were supposed to arrive at the Syrian port of Tartus on January 05, 2025, but as of the morning of January 07, 2025, the Sparta is sailing off the coast of Syria, probably awaiting permission to enter the port of Tartus from the new Syrian authorities. The tanker General Skobelev and Sparta II are scheduled to call at Tartus on January 08, 2025.
+
+As of the morning of January 07, 2025, the tanker General Skobelev (declared destination Said port (Egypt)), cargo ships Ro-Ro Baltic Leader (IMO 9220639, affiliated with the sanctioned russian company MG-Flot LLC, whose vessels are involved in the transportation of weapons for the russian federation, including from Iran for use in the war against Ukraine), Sparta II (IMO 9160994, affiliated with the sanctioned russian company Oboronlogistika LLC, which meets the needs of the russian ministry of defense in the transportation, storage and production of military and special purpose goods). According to maritime information databases, the final destination of Ro-Ro cargo ships is not specified.
+
+By 2025, the ship will be sailing between russian ports (Baltiysk, Kaliningrad, Belokamenka, Murmansk) and ports in African countries (Conakry, Algiers, Alexandria).
+
+On May 23, 2026, Ukraine imposed sanctions on the vessel.
+
+            In May 2022, USA imposed sanctions on Transmorflot LLC and its vessels involved in the transportation of weapons for the russian federation.
+
+The vessel is also affiliated with LLC PSB Leasing (TIN 7722581759, related to the sanctioned PJSC Promsvyazbank (TIN 7744000912), a systemically important russian state-owned banking institution that finances the russian defense industry, services significant volumes of state defense contracts for the russian ministry of defense, and provides banking services, including mortgage loans, to the russian military.
+
+MG-Flot LLC is associated with the Astrakhan businessman Pashayev Jamaldin Emirmagomedovich, who built his business around the commercial port of Olya in the Astrakhan region. This very place was proposed as a key logistic hub of the international transport corridor "North-South", the creation and construction of which was supervised and controlled by former russian Prime Minister Mikhail Fradkov. The key purpose of the transportation corridor was to trade with sanctioned Iran, which could import and export goods along the North-South route.
+
+As part of the application of sanctions to PJSC Promsvyazbank, in February 2022, USA imposed sanctions on five vessels (including the "Baltic Leader") owned (owned at the time) by PSB Leasing LLC as a subsidiary of PJSC Promsvyazbank.
+
+"Baltic Leader" while owned by PSB Leasing LLC was arrested by French customs for violation of Decision (EU) 2022/260 of February 23, 2022 on restrictive measures against acts undermining or threatening the territorial integrity, sovereignty and independence of Ukraine. The russian Embassy in France actively participated in the release of the vessel from arrest.
+
+In 2024, the vessel was first used on the Novorossiysk port ( russia) - Tartus port ( Syria) line, which is the only port in the Mediterranean Sea under russian control. In particular, in February 2024, the vessel made a voyage following the ‘Sparta IV’ (IMO 9743033), which was involved in the transportation of weapons from Syria to Novorossiysk. Also involved in this voyage were the tanker ‘Yaz’ (IMO 9735323) and the roller ship ‘Lady Maria’ (IMO 9220641).
+
+The vessel is likely a member of the so-called russian rescue group sent from the russian naval base in the Baltic in December 2024 to evacuate russian troops and equipment from Syria after the fall of the Assad regime.
+
+On December 31, 2024, the Portuguese Navy observed a group of russian vessels (including military vessels), including a submarine, passing near the country's coast towards the Mediterranean Sea. According to the Armed Forces of Portugal, the russian vessels included the landing ship Alexander Shabalin, civilian logistics support vessels Baltic Leader, Sparta II and the tanker General Skobelev, while the russian submarine Novorossiysk was moving along the country's economic zone. The second group included the russian amphibious warships Ivan Gren, Aleksandr Otrakovsky, and the civilian vessel Sparta, which passed the Strait of Gibraltar on the evening of December 22, 2024, and entered the Mediterranean Sea, and were supposed to arrive at the Syrian port of Tartus on January 05, 2025, but as of the morning of January 07, 2025, the Sparta is sailing off the coast of Syria, probably awaiting permission to enter the port of Tartus from the new Syrian authorities. The tanker General Skobelev and Sparta II are scheduled to call at Tartus on January 08, 2025.
+
+As of the morning of January 07, 2025, the tanker General Skobelev (declared destination Said port (Egypt)), cargo ships Ro-Ro Baltic Leader (IMO 9220639, affiliated with the sanctioned russian company MG-Flot LLC, whose vessels are involved in the transportation of weapons for the russian federation, including from Iran for use in the war against Ukraine), Sparta II (IMO 9160994, affiliated with the sanctioned russian company Oboronlogistika LLC, which meets the needs of the russian ministry of defense in the transportation, storage and production of military and special purpose goods). According to maritime information databases, the final destination of Ro-Ro cargo ships is not specified.
+
+By 2025, the ship will be sailing between russian ports (Baltiysk, Kaliningrad, Belokamenka, Murmansk) and ports in African countries (Conakry, Algiers, Alexandria).
+
+On May 23, 2026, Ukraine imposed sanctions on the vessel.
+
+Cases of AIS shutdown
+
+                    Yes
+
+                Calling at russian ports
+
+                    Yes
+
+                Visited ports
+
+                    Alexandria (Egypt), Baltiysk (russia), Conakry (Guinea), Haydarpasa (Turkey), Kaliningrad (russia), Murmansk (russia), Novorossiysk (russia), Umm Qasr (Iraq), Port Said (Egypt), Marport West (Soyak) Terminal (Turkey), Zeytinburnu (Turkey), Unye port (Turkey), Port Zheleznyy Rog (russia), St Petersburg Fish Port (russia), Suez (Egypt), Chennai (India), Jeddah (Saudi Arabia), Belokamenka (russia), Akcansa Canakkale (Turkey), Adabiya (Egypt), Tartous (Syria), Pendik (Turkey), Sheskharis (russia), Bronka (russia), Kochin (India), Budge Budge (India), Kolkata (India), Gelendzhik (russia), Kronshtadt (russia), Doraleh (Djibouti)
+
+                Use Ctrl+scroll to zoom
+
+Available additional information
+
+            Ship Owner (IMO / Country / Date)
+
+                            
+                                Mg-flot LLC (6016988 / russian federation / 16.02.2022)                            
+
+                        Commercial ship manager (IMO / Country / Date)
+
+                            
+                                Mg-flot LLC (6016988 / russian federation / 25.06.2021)                            
+
+                        Ship Safety Management Manager (IMO / Country / Date)
+
+                            
+                                Mg-flot LLC (6016988 / russian federation / 25.06.2021)                            
+
+                        Former ship names
+
+                        Scan Germania / Rickmers Germania / BBC Germania / BBC Kusan / Rio Kusan / Ocean Pride / Fleet Leader
+
+                    Flags (former)
+
+                         Germany /  Isle of Man /  Great Britain /  Liberia
+
+                    Build year
+
+                        2000
+
+                    Builder (country)
+
+                        Peene-werft
+
+                    Web Resources

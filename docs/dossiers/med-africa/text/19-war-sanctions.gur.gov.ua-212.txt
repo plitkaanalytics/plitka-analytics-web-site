@@ -1,0 +1,210 @@
+URL:         https://war-sanctions.gur.gov.ua/en/transport/ships/212
+Кінцевий:    https://war-sanctions.gur.gov.ua/en/transport/ships/212
+Заголовок:   SPARTA; IMO 9268710
+Дата публ.:  2026-06-19
+Завантажено: 2026-09-01 13:58 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 66282
+Оригінал:    raw/19-war-sanctions.gur.gov.ua-212.html
+sha256:      f7f548515c8a2ff985d3af9727de0bfeada84e9fcdf8c53b49933fddc1c45b85
+Витяг:       trafilatura
+
+==============================================================================
+# SPARTA
+
+IMO 9268710
+
+            Updated: 19.06.2026
+
+        
+                                Vessel name                            
+
+                            
+                                SPARTA
+                            
+
+                        
+                                Category                            
+
+                            Transportation of military cargo
+
+ Weapons and military equipment
+
+                                IMO
+                            
+
+                            
+                                                                    9268710
+                                                            
+
+                        
+                                Flag (Current)                            
+
+                            
+                                 russian federation
+                            
+
+                        
+                                MMSI
+                            
+
+                            
+                                273389870
+                            
+
+                        
+                                Call sign                            
+
+                            
+                                UCPH
+                            
+
+                        
+                                Vessel Type                            
+
+                            
+                                Ro-Ro Cargo Ship
+                            
+
+                        
+                                Length (m)                            
+
+                            
+                                126.42
+                            
+
+                        
+                                Gross tonnage (t)                            
+
+                            
+                                8831
+                            
+
+                        
+                                DWT (t)                            
+
+                            
+                                6785
+                            
+
+                        
+                                P&I Club                            
+
+                            
+                                Sanctions                            
+
+                            [USA](https://ofac.treasury.gov/recent-actions/20220508),
+
+[EU](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202600508),
+
+[Switzerland](https://www.seco.admin.ch/seco/fr/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/exportkontrollen-und-sanktionen/sanktionen-embargos/sanktionsmassnahmen/massnahmen-zur-vermeidung-der-umgehung-internationaler-sanktione.html),
+
+[Ukraine](https://www.president.gov.ua/documents/4262026-59581),
+
+[Canada](https://www.international.gc.ca/world-monde/international_relations-relations_internationales/sanctions/russia_regulations-reglement_russie2.aspx?lang=eng)
+
+                                Sanctions lifted                            
+
+                            
+                                The person in connection with whom
+
+sanctions have been applied
+
+                            
+                        sanctions have been applied
+
+Provide additional information
+
+                        Justification
+
+            Vessel information
+
+                The vessel carries out regular logistics transport operations in the interests of the russian Armed Forces and provides regular supplies to the Kaliningrad exclave (military, industrial, and civilian cargo), bypassing land transit through EU countries.
+
+It is involved in the transportation of military cargo and military personnel from Novorossiysk (russia) to Tartus (Syria), and back, and allegedly from Tartus to the ports of the TOT Crimea (Ukraine).
+
+The vessel is involved in the russian so-called rescue group, accompanied by the russian large amphibious assault ships 'ivan gren' and 'aleksandr otrakovsky', to transport some military equipment from the russian naval base in tartus (Syria) to Libya after the fall of the Assad regime. On the territory of the base in Tartus, there are, in particular, mercenaries of the "African Corps" controlled by the russian ministry of defense. Chief of Staff of the 121st Brigade of Landing Ships of the russian aggressor fleet, captain 1st rank yuri albertovich davitian is on board the otrakovsky. On December 11, 2024, Sparta left the russian naval base in Baltiysk, and on January 05, 2025, it was spotted in the Mediterranean Sea in the Syrian EEZ. On January 05, 2025, the vessel was supposed to arrive at a Syrian port, but as of the morning of January 07, 2025, it sails off the coast of Syria, probably waiting for permission to enter the port of Tartus from the new Syrian authorities.
+
+The vessel is involved in the Ust-Luga-Baltic container ferry (transportation of containers, rolling equipment, general cargo).
+
+It belongs to the sanctioned russian shipping company SK-Yug LLC, a subsidiary of the sanctioned russian company Oboronlogistika LLC. Oboronlogistika LLC. Oboronlogistika LLC is a shipping company that operates as part of the military construction complex of the russian ministry of defence. The main objectives of Oboronlogistika LLC are to meet the needs of the russian ministry of defence in the transportation, storage and production of military and special-purpose goods. Oboronlogistika LLC is the sole provider of transport services for the ministry of defence of russia, transporting troops to certain regions of russia and delivering goods to the temporarily occupied Crimea (Ukraine).
+
+In May 2022, USA imposed sanctions on Sparta as a property of SK-Yug LLC.
+
+On April, 2026, the EU imposed sanctions on the vessel.
+
+On April 18, 2026, the vessel transported military cargo from the port of Kaliningrad (the terminal of the Baltiysk Shipbuilding Complex) to its port in Tartus, Syria.
+
+On May 23, 2026, Ukraine imposed sanctions on the vessel.
+
+Since May 22, 2026, Switzerland has imposed sanctions on the vessel.
+
+On June 12, 2026, Canada imposed sanctions on the vessel.
+
+            It is involved in the transportation of military cargo and military personnel from Novorossiysk (russia) to Tartus (Syria), and back, and allegedly from Tartus to the ports of the TOT Crimea (Ukraine).
+
+The vessel is involved in the russian so-called rescue group, accompanied by the russian large amphibious assault ships 'ivan gren' and 'aleksandr otrakovsky', to transport some military equipment from the russian naval base in tartus (Syria) to Libya after the fall of the Assad regime. On the territory of the base in Tartus, there are, in particular, mercenaries of the "African Corps" controlled by the russian ministry of defense. Chief of Staff of the 121st Brigade of Landing Ships of the russian aggressor fleet, captain 1st rank yuri albertovich davitian is on board the otrakovsky. On December 11, 2024, Sparta left the russian naval base in Baltiysk, and on January 05, 2025, it was spotted in the Mediterranean Sea in the Syrian EEZ. On January 05, 2025, the vessel was supposed to arrive at a Syrian port, but as of the morning of January 07, 2025, it sails off the coast of Syria, probably waiting for permission to enter the port of Tartus from the new Syrian authorities.
+
+The vessel is involved in the Ust-Luga-Baltic container ferry (transportation of containers, rolling equipment, general cargo).
+
+It belongs to the sanctioned russian shipping company SK-Yug LLC, a subsidiary of the sanctioned russian company Oboronlogistika LLC. Oboronlogistika LLC. Oboronlogistika LLC is a shipping company that operates as part of the military construction complex of the russian ministry of defence. The main objectives of Oboronlogistika LLC are to meet the needs of the russian ministry of defence in the transportation, storage and production of military and special-purpose goods. Oboronlogistika LLC is the sole provider of transport services for the ministry of defence of russia, transporting troops to certain regions of russia and delivering goods to the temporarily occupied Crimea (Ukraine).
+
+In May 2022, USA imposed sanctions on Sparta as a property of SK-Yug LLC.
+
+On April, 2026, the EU imposed sanctions on the vessel.
+
+On April 18, 2026, the vessel transported military cargo from the port of Kaliningrad (the terminal of the Baltiysk Shipbuilding Complex) to its port in Tartus, Syria.
+
+On May 23, 2026, Ukraine imposed sanctions on the vessel.
+
+Since May 22, 2026, Switzerland has imposed sanctions on the vessel.
+
+On June 12, 2026, Canada imposed sanctions on the vessel.
+
+Cases of AIS shutdown
+
+                    Yes
+
+                Calling at russian ports
+
+                    Yes
+
+                Visited ports
+
+                    Baltiysk (russia), Kaliningrad (russia), Ust-Luga (russia), Kronstadt (russia), St Petersburg Fish Port (russia), Primorsk (russia), Tartous (Syria), St. Petersburg (russia)
+
+                Use Ctrl+scroll to zoom
+
+Available additional information
+
+            Ship Owner (IMO / Country / Date)
+
+                            
+                                Sc-south LLC (5937219 / russian federation / 11.2019)                            
+
+                        Commercial ship manager (IMO / Country / Date)
+
+                            
+                                Sc-south LLC (5937219 / russian federation / 11.2019)                            
+
+                        Ship Safety Management Manager (IMO / Country / Date)
+
+                            
+                                Sc-south LLC (5937219 / russian federation / 23.11.2020)                            
+
+                        Former ship names
+
+                        Scan Brasil / Hyundai Buffalo / Hc Paulina
+
+                    Flags (former)
+
+                         Isle of Man /  Germany /  Antigua and Barbuda /  Belize
+
+                    Build year
+
+                        2003
+
+                    Builder (country)
+
+                        Hegemann Rolandwerft
+
+                    Web Resources

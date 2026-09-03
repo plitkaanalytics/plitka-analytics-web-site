@@ -1,0 +1,45 @@
+URL:         https://jamesdroxford.substack.com/p/russia-concludes-conventional-submarine
+Кінцевий:    https://web.archive.org/web/20250327024635id_/https://jamesdroxford.substack.com/p/russia-concludes-conventional-submarine
+Заголовок:   Russia concludes conventional submarine operations in the Mediterranean Sea
+Дата публ.:  2025-01-04
+Завантажено: 2026-09-01 14:03 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 206658
+Оригінал:    raw/09-jamesdroxford.substack.com-russia-concludes-conventional-submarine.html
+sha256:      6f6a54f29eb8fefdb064717cfddec1702152a1ef7c25e325421a33367778c2c7
+Витяг:       trafilatura
+Примітка:    оригінал недоступний (404), узято з Wayback
+
+==============================================================================
+# Russia concludes conventional submarine operations in the Mediterranean Sea
+
+### Loss of Tartus Naval base, failure of diplomatic efforts & lack of regional support facilities sees Russia abandon conventional submarine operations in the Mediterranean Sea.
+
+The overthrow of the Assad regime by HTS forces in Syria during December 2024 has dealt a major blow to Russian Naval operations not only in the Levant region but the entire Mediterranean Sea.
+
+In the early hours of 2 January 2025, almost unnoticed save perhaps for the bridge watchkeepers in HMS Cutlass, the Russian Navy Black Sea Fleet Type 636.3 class conventional diesel-electric submarine (SSK) B-261 “Novorossiysk” slipped westward through the Strait of Gibraltar (STROG) under cover of darkness and exited the Mediterranean Sea, a victim of Russia’s failed diplomatic efforts and poor regional logistic support planning by its Navy.
+
+B-261 Novorossiysk which departed the Baltic Sea on 29 August 2024 escorted by Russian Navy Baltic Fleet Pr.712 Sliva class ocean-going rescue tug (Ex SB-921) “Evgeniy Churov” entered the Mediterranean Sea on 9 September and arrived in Tartus by 19 September to relieve Kilo (T636.3) B-599 “Ufa” which was conducting an operational tour of duty in the Mediterranean Sea during its delivery voyage to the Pacific Fleet.
+
+The Mediterranean Sea SSK deployment is generally benign with only low levels of activity noted during the duty period however, the Kilo class SSK is a formidable multirole platform and provided Russia with regional ASW, ASuW and Land-Attack options as well as offensive mining, reconnaissance and limited SOF delivery capability.
+
+Of note, on 3 December 2024, B-261 Novorossiysk was reported to have fired a Kalibr missile (assessed to be SS-N-27A) at a sea-based target barge during a show-of-force[ exercise](https://tass.com/defense/1881389) along with Pr.22350 class SKR-454 “Admiral Gorshkov” and SKR-456 “Admiral Golovko” held under the direction of Russian Navy Commander-in-Chief Admiral Alexander Moiseyev.
+
+B-261 Novorossiysk and the entirety of Russia’s Naval Task Group (TG) never returned to Tartus after this exercise and despite what must have been huge diplomatic efforts by Russia towards Syria and probably Libya, Egypt and Algeria it could not find a basing solution for the submarine element, forcing its withdrawal from theatre.
+
+It is almost certain that B-261 Novorossiysk will return to Khronstadt Naval base in the Baltic Sea port of St. Petersburg however, it is uncertain how long the submarine will remain there as one thing we can be sure of is that Russian submarines will almost certainly return to the Mediterranean Sea in the medium to long term.
+
+#### Future options
+
+The necessary departure of Russia’s regional SSK leaves a huge capability gap which will be keenly felt because it severely degrades the capability of the deployed TG, limits war-fighting options and is a blow to regional influence and prestige. Russia will likely want to address this shortfall quickly and several options available.
+
+The relative lower endurance of conventional submarines compared to nuclear-powered (SSN/SSGN) submarines could see Russia conduct a roulement deployment of SSKs between Black Sea Fleet B-261 Novorossiysk & B-265 “Krasnodar” with newly commissioned and operationally-certified Pacific Fleet Kilo B-608 “Mozhaisk” (and reaching into 2026/27 timeframe with B-610 “Yakutsk”).
+
+It is highly likely Russia considered this a viable option as a UNIDENT Kilo class submarine (likely B-608 Mozhaisk) deployed out of the Baltic Sea on 29 December 2024 with escort tug “Sergey Balk” however, both the Kilo and Balk are loitering in the Skagerrak on 4 January 2025. It remains to be seen if the UNIDENT Kilo (thought to be B-608 Mozhaisk) will continue on to the Mediterranean Sea in the next 24-72 hours.
+
+Alternatively, Russia could deploy a Northern Fleet SSN/SSGN to the Mediterranean Sea either as an augmentee to the SSK roulement described above or as a separate roulement/deployment. Strong candidates for this option include Pr.885 K-560 “Severodvinsk” and Pr.885M K-561 “Kazan” as they bring very strong ASW and increased ASuW capabilities being armed with both Kalibr and Oniks. A less likely option would be Pr.949A Oscar II class SSGN deployment as these would likely need an Akula I/II class SSN consort however, Pr.971 Akula II K-157 or K-335 would be a quite formidable addition.
+
+For more information on the Russian Navy Kilo T636.3 class SSK see the Covert Shores (by HI Sutton) page [HERE](http://www.hisutton.com/Kilo-Class-Submarine.html)
+
+For more information on the Russian Navy Pr.885 Yasen class submarine see the Covert Shores (by HI Sutton) page [HERE](http://www.hisutton.com/Pr885_Severodvinsk_Class.html)
+
+James Droxford is a former Navy and Intelligence Agency Signals Intelligence Officer, and Defence Intelligence submarine Desk Officer. Now a civilian, he is an independent maritime intelligence producer, analyst and reporter.

@@ -1,0 +1,183 @@
+URL:         https://en.wikipedia.org/wiki/Russian_landing_ship_Aleksandr_Shabalin
+Кінцевий:    https://en.wikipedia.org/wiki/Russian_landing_ship_Aleksandr_Shabalin
+Заголовок:   Russian landing ship Aleksandr Shabalin - Wikipedia
+Дата публ.:  2025-04-09
+Завантажено: 2026-09-01 13:57 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 156630
+Оригінал:    raw/04-en.wikipedia.org-russian_landing_ship_aleksandr_shabalin.html
+sha256:      47f1d0016f899957597c13484363a0bd09c019e80a9b4abbc3d76c21cb7cadc3
+Витяг:       trafilatura
+
+==============================================================================
+# Russian landing ship *Aleksandr Shabalin*
+
+			
+| History | |
+|---|---|
+| Russia | |
+| Name | *BDK-60*(1985–1986)*Aleksandr Shabalin*(1986–present)
+ | 
+| Namesake | [Aleksandr Shabalin](https://en.wikipedia.org/wiki/Aleksandr_Shabalin) | 
+| Builder | [Stocznia Północna](https://en.wikipedia.org/wiki/Stocznia_Północna),[Gdańsk](https://en.wikipedia.org/wiki/Gdańsk), Poland | 
+| Laid down | 1985 | 
+| Launched | 11 June 1985 | 
+| Commissioned | 31 December 1985 | 
+| Home port | [Baltiysk](https://en.wikipedia.org/wiki/Baltiysk) | 
+| Identification | [Hull number](https://en.wikipedia.org/wiki/Hull_number)128 (1986–1987)101 (1987–1990)110 (1990–present)
+ | 
+| Status | In service | 
+| General characteristics | |
+| Class & type | [Ropucha-class](https://en.wikipedia.org/wiki/Ropucha-class_landing_ship)[landing ship](https://en.wikipedia.org/wiki/Landing_ship) | 
+| Displacement | |
+| Length | 112.5 m (369 ft 1 in) | 
+| Beam | 15.01 m (49 ft 3 in) | 
+| Draught | 4.26 m (14 ft 0 in) | 
+| Ramps | Over bows and at stern | 
+| Installed power | 3 × 750 kW (1,006 hp) [diesel generators](https://en.wikipedia.org/wiki/Diesel_generator) | 
+| Propulsion | 2 × 9,600 hp (7,159 kW) Zgoda-Sulzer 16ZVB40/48 diesel engines | 
+| Speed | 18 [knots](https://en.wikipedia.org/wiki/Knot_(unit))(33 km/h; 21 mph) | 
+| Range | 6,000 nmi (11,000 km; 6,900 mi) at 12 knots (22 km/h; 14 mph)3,500 nmi (6,500 km; 4,000 mi) at 16 knots (30 km/h; 18 mph)
+ | 
+| Endurance | 30 days | 
+| Capacity | 10 × [main battle tanks](https://en.wikipedia.org/wiki/Main_battle_tank)and 340 troopsor12 ×[BTR](https://en.wikipedia.org/wiki/BTR_(vehicle))[APC](https://en.wikipedia.org/wiki/Armoured_personnel_carrier)and 340 troopsor3 × main battle tanks, 3 ×[2S9 Nona-S](https://en.wikipedia.org/wiki/2S9_Nona)[SPG](https://en.wikipedia.org/wiki/Self-propelled_gun), 5 ×[MT-LB](https://en.wikipedia.org/wiki/MT-LB)APC, 4 trucks and 313 troopsor500 tons of cargo | 
+| Complement | 98 | 
+| Armament | 2 × [AK-725](https://en.wikipedia.org/wiki/AK-257)twin 57 mm (2.2 in)[DP guns](https://en.wikipedia.org/wiki/Dual_purpose_gun)4 × 8 [Strela 2](https://en.wikipedia.org/wiki/Strela_2)[SAM](https://en.wikipedia.org/wiki/Surface-to-air_missile)launchers2 × 22 [A-215 Grad-M](https://en.wikipedia.org/wiki/BM-21_Grad)rocket launchers
+ | 
+
+* Aleksandr Shabalin* (
+
+[Russian](https://en.wikipedia.org/wiki/Russian_language): Александр Шабалин) is a
+
+[Ropucha-class](https://en.wikipedia.org/wiki/Ropucha-class_landing_ship)
+
+[landing ship](https://en.wikipedia.org/wiki/Landing_ship)of the
+
+[Russian Navy](https://en.wikipedia.org/wiki/Russian_Navy)and part of the
+
+[Baltic Fleet](https://en.wikipedia.org/wiki/Baltic_Fleet).
+
+Named after the Soviet naval officer and twice-[Hero of the Soviet Union](https://en.wikipedia.org/wiki/Hero_of_the_Soviet_Union) [Aleksandr Shabalin](https://en.wikipedia.org/wiki/Aleksandr_Shabalin), the ship was built in [Poland](https://en.wikipedia.org/wiki/Polish_People's_Republic) and [launched](https://en.wikipedia.org/wiki/Ceremonial_ship_launching) in 1985.  She was named * BDK-60* (
+
+[Russian](https://en.wikipedia.org/wiki/Russian_language): БДК-60) for Russian: Большой десантный корабль, romanized:
+
+*Bolshoy desantnyi korabl'*, lit. 'large landing ship', from her construction until being renamed
+
+*Aleksandr Shabalin*in 1986. She is one of the subtype of the Ropucha-class landing ships, designated Project 775/II by the Russian Navy.
+
+## Construction and commissioning
+
+[[edit](/w/index.php?title=Russian_landing_ship_Aleksandr_Shabalin&action=edit§ion=1)]
+
+*Aleksandr Shabalin* was built as *BDK-60* by [Stocznia Północna](https://en.wikipedia.org/wiki/Stocznia_Północna), part of [Gdańsk Shipyard](https://en.wikipedia.org/wiki/Gdańsk_Shipyard), in [Gdańsk](https://en.wikipedia.org/wiki/Gdańsk), in what was then the [Polish People's Republic](https://en.wikipedia.org/wiki/Polish_People's_Republic).  She was laid down in 1985, and launched on 11 June 1985. She was commissioned into the [Soviet Navy](https://en.wikipedia.org/wiki/Soviet_Navy) on 31 December 1985 as part of its [Baltic Fleet](https://en.wikipedia.org/wiki/Baltic_Fleet), [homeported](https://en.wikipedia.org/wiki/Homeport) in [Baltiysk](https://en.wikipedia.org/wiki/Baltiysk), and with the [dissolution of the Soviet Union](https://en.wikipedia.org/wiki/Dissolution_of_the_Soviet_Union) in late December 1991, she went on to serve in the Russian Navy.[[1]](#cite_note-flot-1)
+
+## Career
+
+[[edit](/w/index.php?title=Russian_landing_ship_Aleksandr_Shabalin&action=edit§ion=2)]
+
+In service since 1985 as *BDK-60*, she was renamed *Aleksandr Shabalin* on 12 November 1986.[[2]](#cite_note-rus-2)*Aleksandr Shabalin* was undergoing a refit at the [Yantar Shipyard](https://en.wikipedia.org/wiki/Yantar_Shipyard) in [Kaliningrad](https://en.wikipedia.org/wiki/Kaliningrad), when a fire broke out in the engine room on 10 April 2009, subsequently spreading to the refrigeration compartment and burnt out 5 square meters. Twelve fire engines and 42 firefighters successfully extinguished the fire. [1]  Also that month a greeting card with nine compressed hashish plates glued to it was found on board during a check of letters, leading to the filling of a criminal case.
+
+
+[[1]](#cite_note-flot-1)The ship entered the Yantar Shipyard again on 16 April 2012 for repairs, but was back at sea for a two-week voyage in early July, which included a visit to [Zeebrugge](https://en.wikipedia.org/wiki/Zeebrugge) for Belgian Navy Day. [3] She was dispatched the following year to the Mediterranean as part of the 
+
+[Syrian Express](https://en.wikipedia.org/wiki/Syrian_Express), transporting personnel and equipment between
+
+[Black Sea](https://en.wikipedia.org/wiki/Black_Sea)ports and the
+
+[Russian naval facility in Tartus](https://en.wikipedia.org/wiki/Tartus_naval_base), going on to support the
+
+[Russian intervention in the Syrian civil war](https://en.wikipedia.org/wiki/Russian_intervention_in_the_Syrian_civil_war). She entered the naval base at
+
+[Novorossiysk](https://en.wikipedia.org/wiki/Novorossiysk)on 21 January and 27 March 2013, and made return visits to the Mediterranean in 2014 and 2015.
+
+
+[[1]](#cite_note-flot-1)On 18 May 2015 she was part of Maritime Interaction 2015, joint exercises with the
+
+[[4]](#cite_note-4)[People's Liberation Army Navy](https://en.wikipedia.org/wiki/People's_Liberation_Army_Navy)consisting of
+
+*Aleksandr Shabalin*and her sister ship
+
+[, the cruiser](https://en.wikipedia.org/wiki/Russian_landing_ship_Aleksandr_Otrakovsky)
+
+*Aleksandr Otrakovsky*[, the corvette](https://en.wikipedia.org/wiki/Russian_cruiser_Moskva)
+
+*Moskva*[, the frigate](https://en.wikipedia.org/wiki/Russian_corvette_Samum)
+
+*Samum*[, and the ocean-going tug](https://en.wikipedia.org/wiki/Russian_frigate_Ladny)
+
+*Ladny**MB-31*.
+
+The Chinese contingent consisted of the frigates
+
+[[5]](#cite_note-k1-5)[and](https://en.wikipedia.org/wiki/Chinese_frigate_Linyi)
+
+*Linyi*[, and the supply ship](https://en.wikipedia.org/wiki/Chinese_frigate_Weifang)
+
+*Weifang*[.](https://en.wikipedia.org/wiki/Chinese_replenishment_ship_Weishanhu)
+
+*Weishanhu*On 26 July 2015,
+
+[[5]](#cite_note-k1-5)*Aleksandr Shabalin*was present at the
+
+[Navy Day](https://en.wikipedia.org/wiki/Navy_Day_(Russia))
+
+[naval parade](https://en.wikipedia.org/wiki/Fleet_review)in Baltiysk.
+
+She took part in naval gunnery exercises on 13 July 2016.
+
+[[1]](#cite_note-flot-1)On 30 July 2017, she was present at the Navy Day naval parade on
+
+[[1]](#cite_note-flot-1)[Kronstadt](https://en.wikipedia.org/wiki/Kronstadt).
+
+
+[[1]](#cite_note-flot-1)After assessments, the ship began a refit at the [Kronstadt Marine Plant](https://en.wikipedia.org/wiki/Kronstadt_Marine_Plant) in October 2020. Work lasted until mid-2023, with [sea trials](https://en.wikipedia.org/wiki/Sea_trial) expected to begin in July that year, with approval for her return to the Baltic Fleet expected in October-November 2023. [6] The trials were delayed until February 2024, with the ship not returning to service until the summer that year.
+
+She carried out landing exercises on 8 August, and on 13 August 2024, she carried out gunnery exercises in the Baltic Sea.
+
+[[7]](#cite_note-7)
+
+[[8]](#cite_note-8)
+
+[[9]](#cite_note-9)In September, she and the Baltic Fleet corvettes
+
+[[10]](#cite_note-10)[and](https://en.wikipedia.org/wiki/Russian_corvette_Boikiy)
+
+*Boikiy*[sailed to the Northern Fleet ranges for exercise Okean 2024.](https://en.wikipedia.org/wiki/Russian_corvette_Soobrazitelny)
+
+*Soobrazitelny*
+
+[[11]](#cite_note-11)In December 2024, *Aleksandr Shabalin*, her [sister ship](https://en.wikipedia.org/wiki/Sister_ship) [ Aleksandr Otrakovsky](https://en.wikipedia.org/wiki/Russian_landing_ship_Aleksandr_Otrakovsky) and the 
+
+[landing ship](https://en.wikipedia.org/wiki/Ivan_Gren-class_landing_ship)
+
+*Ivan Gren*-class[were dispatched to the Russian naval installation at Tartus, Syria, to begin removing equipment following the](https://en.wikipedia.org/wiki/Russian_landing_ship_Ivan_Gren)
+
+*Ivan Gren*[Fall of the Assad regime](https://en.wikipedia.org/wiki/Fall_of_the_Assad_regime), and transporting it to Libya.
+
+
+[[12]](#cite_note-12)She was back in the Baltic the following year, where she carried out further exercises on 29 March 2025.
+
+[[13]](#cite_note-13)
+
+[[14]](#cite_note-14)In late September 2025 she was reported to be loitering near the border between Danish and international waters in the extreme South West of the Baltic. There were suspicions that the ship was linked to the multiple drone observations disturbing the operation on a number of Danish airports. [15] The ship remained active in 2026.
+
+
+[[16]](#cite_note-16)## References
+
+[[edit](/w/index.php?title=Russian_landing_ship_Aleksandr_Shabalin&action=edit§ion=3)]
+
+- [1](#cite_ref-flot_1-0)- [2](#cite_ref-flot_1-1)- [3](#cite_ref-flot_1-2)- [4](#cite_ref-flot_1-3)- [5](#cite_ref-flot_1-4)- [6](#cite_ref-flot_1-5)- [7](#cite_ref-flot_1-6)- [""Александр Шабалин""](https://flot.com/nowadays/strength/shabalin.htm)(in Russian). flot.com. Retrieved 9 April 2025.
+- [↑](#cite_ref-rus_2-0)- ["Large landing ships"](https://russianships.info/eng/warships/project_775.htm). russianships.info. Retrieved 9 April 2025.
+- [↑](#cite_ref-3)- ["«Александр Шабалин» вернулся из похода"](https://structure.mil.ru/structure/okruga/east/news/more.htm?id=11239510@egNews)(in Russian).- [Ministry of Defence of the Russian Federation](https://en.wikipedia.org/wiki/Ministry_of_Defence_(Russia)). 16 July 2012. Retrieved 9 April 2025.
+- [↑](#cite_ref-4)- ["Возвращение домой: из дальнего похода вернулся корабль «Александр Шабалин»"](https://ruwest.ru/news/42173/)(in Russian). ruwest.ru. 30 July 2015. Retrieved 9 April 2025.
+- [1](#cite_ref-k1_5-0)- [2](#cite_ref-k1_5-1)- ["В Средиземном море началась активная фаза российско-китайских учений"](https://www.korabel.ru/news/comments/v_sredizemnom_more_nachalas_aktivnaya_faza_rossiysko-kitayskih_ucheniy.html)(in Russian). korabel.ru. 18 May 2015. Retrieved 8 April 2025.
+- [↑](#cite_ref-6)- ["Источник: БДК "Александр Шабалин" вернется в состав Балтийского флота осенью"](https://flotprom.ru/2023/%D0%9C%D0%B2%D0%BC%D1%8120/)(in Russian). korabel.ru. 23 June 2023. Retrieved 9 April 2025.
+- [↑](#cite_ref-7)- ["Отремонтированный БДК «Александр Шабалин» приступил к ходовым испытаниям"](https://paluba.media/news/70246)(in Russian). paluba.media. 14 February 2024. Retrieved 9 April 2025.
+- [↑](#cite_ref-8)- ["Большой десантный корабль "Александр Шабалин" провел артиллерийские стрельбы на Балтике"](https://tass.ru/armiya-i-opk/21595247)(in Russian).- [TASS](https://en.wikipedia.org/wiki/TASS). 13 August 2024. Retrieved 9 April 2025.
+- [↑](#cite_ref-9)- ["Экзамен на боевую зрелость: большой десантный корабль «Александр Шабалин» провёл одиночный бой в Балтийском море"](https://klops.ru/kaliningrad/2024-08-13/301839-ekzamen-na-boevuyu-zrelost-bolshoy-desantnyy-korabl-aleksandr-shabalin-provyol-odinochnyy-boy-v-baltiyskom-more)(in Russian). klops.ru. 13 August 2024. Retrieved 9 April 2025.
+- [↑](#cite_ref-10)- ["Прошедший ремонт БДК "Александр Шабалин" провел тренировку по погрузке и выгрузке техники"](https://flot.com/2024/%D0%91%D0%B0%D0%BB%D1%82%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9%D0%A4%D0%BB%D0%BE%D1%8210/)(in Russian). flot.com. 8 August 2024. Retrieved 9 April 2025.
+- [↑](#cite_ref-11)- ["В Балтийск вернулись корабли после учений в полигонах Северного флота"](https://flot.com/2024/%D0%91%D0%B0%D0%BB%D1%82%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9%D0%A4%D0%BB%D0%BE%D1%8217/)(in Russian). flot.com. 1 October 2024. Retrieved 9 April 2025.
+- [↑](#cite_ref-12)- ["Флотилия из трех БДК и двух ролкеров направляется за российской техникой и военными в Тартус"](https://topcor.ru/54910-tri-rossijskih-bdk-i-dva-transporta-napravljajutsja-v-sirijskij-tartus.html)(in Russian). topcor.ru. 23 December 2024. Retrieved 9 April 2025.
+- [↑](#cite_ref-13)- ["Два БДК и фрегат ВМФ РФ замечены в районе сирийского порта Тартус"](https://topcor.ru/55349-dva-bdk-i-fregat-vmf-rf-zamecheny-v-rajone-sirijskogo-porta-tartus.html)(in Russian). topcor.ru. 7 January 2025. Retrieved 9 April 2025.
+- [↑](#cite_ref-14)- ["БДК Балтийского флота «Александр Шабалин» провёл артиллерийские стрельбы в море"](https://39rus.org/news/army/72011)(in Russian). 39rus.org. 29 March 2025. Retrieved 9 April 2025.
+- [↑](#cite_ref-15)- ["Russian Warship Was Loitering Off Denmark During Drone Attacks"](https://maritime-executive.com/article/russian-warship-was-loitering-off-denmark-during-drone-attacks).- *The Maritime Executive*. 25 September 2025. Retrieved 16 November 2025.
+- [↑](#cite_ref-16)- ["Routine work for the Royal Navy continues – Russian naval group shadowed in UK waters"](https://www.navylookout.com/routine-work-for-the-royal-navy-continues-russian-naval-group-shadowed-in-uk-waters/).- *Navy Lookout*. 5 March 2026. Retrieved 7 March 2026.

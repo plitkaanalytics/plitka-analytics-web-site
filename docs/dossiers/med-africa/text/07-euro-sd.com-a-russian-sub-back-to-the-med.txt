@@ -1,0 +1,44 @@
+URL:         https://euro-sd.com/2025/02/major-news/42534/a-russian-sub-back-to-the-med/
+Кінцевий:    https://euro-sd.com/2025/02/major-news/42534/a-russian-sub-back-to-the-med/
+Заголовок:   A Russian submarine could be heading back to the Mediterranean - European Security & Defence
+Дата публ.:  2025-02-11
+Завантажено: 2026-09-01 13:57 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 175530
+Оригінал:    raw/07-euro-sd.com-a-russian-sub-back-to-the-med.html
+sha256:      aa1829ca3b213ad9e229e0934040c8271d24b27d8a5c5b070448b210ba472c1d
+Витяг:       trafilatura
+
+==============================================================================
+# A Russian submarine could be heading back to the Mediterranean
+
+Hans-Uwe Mergener
+
+On 3 February 2025 the Russian Improved ‘Kilo’-class (Project 636.3) submarine *Krasnodar* moved through the Great Belt towards the Skagerrak strait above Denmark together with the Sliva-class deep sea tug *Evgeniy Churov* (SB-921). The duo has now passed through the English Channel and, according to open sources, was outside Portuguese territorial waters to the west of the Iberian Peninsula on the morning of 11 February.
+
+The Russian vessels were accompanied by the Royal Danish Navy offshore patrol vessel HDMS *Triton *(F 358) as they travelled from Bornholm to the North Sea. During their passage through the German area of interest in the Baltic Sea, they were monitored by the Federal Police Sea Patrol Vessels *Bamberg* and *Neustadt*.
+
+At the beginning of the year *Krasnodar *attracted attention when it carried out a 10-day operation in the Kattegat between Denmark and Sweden together with the submarine supply vessel *Sergey Balk*. It was only on its way back that it could be clearly identified, which is why observers initially wrongly assumed that it was *Mozhaisk*: an identical submarine intended for the Pacific Fleet. However, this assumption proved to be wrong when photos of *Mozaisk* in the Baltic Sea appeared on the internet later in January.
+
+In December 2024 *Krasnodar* demonstrated its operational readiness after a period in the shipyard in Kronstadt. The Russian Ministry of Defence reported on 23 December 2024 that the submarine had completed a torpedo-firing serial in the Baltic Sea, operating with support from Kaliningrad.
+
+It now appears that the boat and crew have fulfilled a special mission in the Kattegat beyond Orthodox Christmas. The time after arriving in Kaliningrad was used to prepare and equip for the current mission.
+
+If a passage through the Strait of Gibraltar is confirmed, a new deployment of a Russian submarine in the Mediterranean could be on the horizon. The last submarine to remain there, *Novorossiysk*, left Tartus in December 2024 and was spotted in the strait on 2 January.
+
+On 14 January *Novorossiysk* passed through the Danish straits on its way to the Baltic Sea, accompanied by the Steregshicichiy-class frigate *Boikiy*. Following the change of power in Syria and the consequently unclear future of the Russian naval base at Tartus, the Russian naval leadership apparently decided to relocate the submarine to the Baltic Sea.
+
+Like *Novorossiysk*, *Krasnodar* belongs to the Russian Black Sea Fleet, headquartered at Sevastopol. As both boats were stationed in the Mediterranean at the beginning of the Russian invasion of Ukraine in February 2022, they were unable to return to their home harbour in the Black Sea.
+
+**Wanted: a new submarine base in the Mediterranean**
+
+A stationing of *Krasnodar* in Syria would require an early agreement between the Russian government and the new Syrian rulers on the renewed use of Tartus naval base. Without a suitable port infrastructure, the submarine, which was commissioned in November 2015 and displaces 3,950 tonnes when submerged according to Russian Wikipedia, would only be partially operational.
+
+As an alternative, a stationing in Algeria could be considered. The Algerian Navy operates a base for its ‘Kilo’-class submarines in Mers El-Kébir. As these belong to the same series as Krasnodar – modified Project 636.3 ‘Kilo’ submarines – there could be synergies in terms of supply and maintenance.
+
+At the same time, there is speculation about a possible stationing of Russian naval and air forces in Libya, although the extent to which an adequate infrastructure can be created there for the operation and maintenance of a submarine remains questionable. In Tartus the Russian Navy made do with support vessels and their workshops, but a comparable logistical network would first have to be established in Libya.
+
+Syria has long been the Russian hub for mercenary operations in Africa. Tobruk could be a possible Russian base in Libya. Russia supported Khalifa Haftar, the Tobruk-based commander of the Libyan National Army, by deploying mercenaries, supplying weapons and providing training assistance. Analysts agree that a naval base in the Mediterranean remains strategically essential for Moscow. Until now, Tartus was the only naval base outside the Russian mainland. From there, as well as from the nearby Syrian Khmeimim military airbase, Moscow was able to project its power into the Mediterranean and secure its geopolitical interests. Some indications suggest that Libya is being considered as a replacement for Syria. There has also been speculation about a possible Russian naval base in the Red Sea in Port Sudan.
+
+A move to Libya could secure Russian involvement in Africa in the long term and change the security situation in the region. However, experts emphasise the associated uncertainties. The geopolitical consequences for the war against Ukraine and the impact on Russia’s reputation among its African allies, who view Moscow’s behaviour in Syria with scepticism, are still unclear.
+
+The recent movements of Russian ships indicate a strategic reorientation. The withdrawal from Syria and a possible restructuring in Libya could permanently change Russia’s role in the Mediterranean.

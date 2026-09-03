@@ -1,0 +1,152 @@
+URL:         https://foreignpolicy.com/2025/02/19/russia-putin-libya-sudan-naval-air-bases-syria-assad-fall/
+Кінцевий:    https://foreignpolicy.com/2025/02/19/russia-putin-libya-sudan-naval-air-bases-syria-assad-fall/
+Заголовок:   After Assad’s Fall, Russia Looks to Libya and Sudan
+Дата публ.:  2025-02-19
+Завантажено: 2026-09-01 13:57 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 602595
+Оригінал:    raw/08-foreignpolicy.com-russia-putin-libya-sudan-naval-air-bases-syria-assad.html
+sha256:      f0e261a68f0bac19cc216791b00c8994864acc4b65dfba3dfbd5021112267fab
+Витяг:       trafilatura
+
+==============================================================================
+# After Assad’s Fall, Russia Looks to Libya and Sudan
+
+## Moscow agrees to a Red Sea naval base near Port Sudan while working to establish airbases in Libya.
+
+Welcome to *Foreign Policy*’s Africa Brief.
+
+The highlights this week: **Rwanda**-backed rebels enter the city of Bukavu in eastern **Congo**, the **African Union** launches a new African credit ratings agency, and **South Africa** seeks allies against Trump.
+
+Welcome to *Foreign Policy*’s Africa Brief.
+
+The highlights this week: **Rwanda**-backed rebels enter the city of Bukavu in eastern **Congo**, the **African Union** launches a new African credit ratings agency, and **South Africa** seeks allies against Trump.
+
+*If you would like to receive Africa Brief in your inbox every Wednesday, please sign up **here**.*
+
+**After Assad’s Fall, Russia Looks to Libya and Sudan**
+
+Sudan’s military government has reached an [agreement](https://www.bbc.co.uk/news/articles/c30del8dz51o) for Russia to set up its first African naval base near Port Sudan, Sudanese Foreign Minister Ali Youssef Ahmed al-Sharif said last week following a meeting in Moscow with his Russian counterpart, Sergey Lavrov.
+
+By securing a military base on the Red Sea coast, Russia would join the United States and China, both of which have bases located in Djibouti. The ejection of Russian troops from Syria following the fall of Bashar al-Assad’s regime has led Russian President Vladimir Putin to reallocate military assets to Libya and Sudan, according to multiple [intelligence](https://adf-magazine.com/2025/01/after-syria-retreat-russia-turns-to-libya/) [reports](https://www.newarab.com/news/exclusive-russia-transfers-fighters-arms-syria-libya).
+
+The latest [satellite imagery](https://www.specialeurasia.com/2025/02/04/russia-libya-maaten-al-sarra/) suggests that Russia is expanding the Maaten al-Sarra airbase in southeast Libya, which is located near the borders with Chad and Sudan. The photos suggest that Russia has reconstructed the runway, built new storage facilities, and boosted its logistical capabilities.
+
+The base was last used in 2011 by the troops of the late dictator Muammar al-Qaddafi. It’s currently controlled by warlord Khalifa Haftar, who heads the Libyan National Army.
+
+“These developments are consistent with Russia’s strategy to establish multiple military bases in Libya,” [according](https://x.com/EekadFacts/status/1883946726467174636) to a post on X by Middle Eastern investigative platform Eekad. The Maaten al-Sarra base “enables Moscow to control supply routes and facilitate the movement of gear and personnel to the African Sahel while avoiding international scrutiny of major ports and airports,” Eekad added. Military planes and troops have been [tracked](https://www.bbc.co.uk/news/articles/c14nk475nd5o) by Ukrainian military intelligence at least 10 times since mid-December as they have made journeys from Russia’s Syrian airbase at Hmeimim to eastern Libya.
+
+In recent weeks, [Ahmed al-Sharaa](https://foreignpolicy.com/2024/12/11/syria-rebel-leader-jolani-hts-al-qaeda-islamic-state-isis/)—the leader of the Turkish-backed rebel coalition that ousted Assad—has suggested that he plans to maintain close links with Russia.
+
+“We don’t want Russia to exit Syria in a way that undermines its relationship with our country,” Shaara said in late December on Saudi state television channel Al Arabiya. Earlier this month, a Russian delegation went to Damascus to [negotiate](https://www.nytimes.com/2025/02/02/world/europe/russia-syria-bases.html) how Moscow could keep its military bases.
+
+Nevertheless, it makes sense for Putin to hedge his bets and spread assets. In Sudan, Russia has [supported both sides](https://www.middleeasteye.net/news/russia-sudan-war-saf-rsf-hedges-bets-both-sides-support) in the civil war, first backing the Rapid Support Forces and later pledging more [weapons](https://www.theafricareport.com/355488/sudan-russia-will-port-for-weapons-deal-bring-an-end-to-the-civil-war/) to Sudan’s army in exchange for a naval base.
+
+Sudan first floated the possibility of a Russian naval base in 2017 under former President Omar al-Bashir, who was ousted in a 2019 coup. A deal was struck [in 2020](https://apnews.com/article/international-news-sudan-moscow-africa-russia-0e1932a384bba427e13e590a4ac7a1f8), but it fell apart following the outbreak of the civil war between Sudan’s rival generals in April 2023. On the lookout for allies to sustain its war, Sudan also agreed [closer ties](https://www.bloomberg.com/news/articles/2025-02-13/iran-forges-deeper-ties-with-sudan-in-boost-to-wider-influence) with Iran last week.
+
+In turn, Libya is split between a Turkish-backed and U.N.-recognized government in Tripoli and a rival eastern administration led by Haftar, who is [backed](https://www.aljazeera.com/news/2019/11/13/point-blank-egypt-russia-and-uae-sent-arms-to-libyas-haftar) by Russia, Egypt, and the United Arab Emirates. Moscow has provided Haftar with equipment and weapons, while Russian oil giant Rosneft has a long-term deal to develop oil fields and resell Libyan oil.
+
+Syria’s Hmeimim airbase had been central to the operations of the Russian paramilitary [Wagner Group’s rebranded “Africa Corps”](https://foreignpolicy.com/2024/02/07/africa-corps-wagner-group-russia-africa-burkina-faso/) in Mali, Burkina Faso, Niger, and the Central African Republic. But a recent [CNN investigation](https://edition.cnn.com/2024/12/31/middleeast/spike-russian-flights-libya-desert-base-intl/index.html) showed a change in that strategy since Assad’s fall—with Russian flights now taking off from Libya instead of Syria to travel to Mali’s capital, Bamako.
+
+In addition to the base at Maaten al-Sarra, Moscow has been relocating equipment to Libyan airbases at al-Khadim, located east of Benghazi, and al-Jufra (a former [outpost](https://www.csis.org/analysis/moscows-next-front-russias-expanding-military-footprint-libya) of the Wagner Group) to serve as a hub for operations in Africa. The Russian Navy is [reportedly](https://cepa.org/article/putins-empire-building-base-hunt-reaches-libya/) on the lookout for a port under Haftar’s control. Syrian media reported in late January that Russia’s [49-year lease](https://maritime-executive.com/article/syria-s-new-government-cancels-russian-port-lease-at-tartus) for the Syrian port of Tartus had been [canceled](https://www.reuters.com/world/middle-east/syria-cancels-port-management-contract-with-russian-firm-sources-say-2025-01-24/).
+
+Russia’s “ability to logistically support both its military and its Private Military Contractors in Africa, as well as limiting the reputational damage incurred through the fall of the Assad regime, will almost certainly be priorities for the Russian government,” British military intelligence [said](https://x.com/DefenceHQ/status/1881639718644859137) in a statement posted to X last month.
+
+Analysts suggest that an alternative Russian [naval facility](https://www.rferl.org/a/russia-syria-tartus-exit-libya-africa-military-presence/33290554.html) could also take shape in eastern Libya’s port of Tobruk, which would allow Moscow to retain its capability in West Africa and still provide a strategic hub against NATO on the Mediterranean Sea.
+
+Ultimately, strategic Russian bases in eastern Libya would give Haftar more power in U.N.-facilitated [negotiations](https://news.un.org/en/story/2024/12/1158241) about the future of Libya—potentially prolonging an already fractured timeline for national elections.
+
+**The Week Ahead**
+
+**Wednesday, Feb. 19: **The U.N. Security Council discusses sanctions and its mission in Libya.
+
+South Africa presents its annual budget.
+
+**Wednesday, Feb. 19, to Friday, Feb. 21:** Africa’s Green Economy Summit is held in Cape Town, South Africa.
+
+**Thursday, Feb. 20, to Friday, Feb. 21:** A G-20 foreign ministers’ meeting is held in Johannesburg, South Africa.
+
+**Monday, Feb. 24, to Friday, Feb. 28:** The Southern African Development Community regional bloc holds its Sustainable Energy Week in Gaborone, Botswana.
+
+**What We’re Watching**
+
+**M23 captures Bukavu.** [Rwandan-backed March 23 Movement](https://foreignpolicy.com/2025/02/10/rwanda-congo-drc-violence-goma-m23-kagame/) (M23) rebels have seized the eastern Democratic Republic of the Congo’s second largest city, Bukavu, Congolese authorities confirmed on Sunday. “Rwanda persists in its plan to occupy, loot, and commit crimes and serious human rights violations on our soil,” read a [statement](https://x.com/Com_mediasRDC/status/1891126095157551371) posted by a Congolese ministry on X. Residents said that the militia faced [little resistance](https://apnews.com/article/congo-fighting-bukavu-m23-rwanda-9092314a99030530e43ba73bd332af50) from Congolese forces who fled the city.
+
+M23 has focused on capturing lucrative mineral sites after seizing the town of [Rubaya](https://www.voanews.com/a/residents-worry-as-drc-rebels-frantically-exploit-coltan-mine/7616007.html) in April 2024—which has large coltan deposits, a mineral used in smartphones. It took over [Nyabibwe](https://www.reuters.com/world/africa/rebels-congo-capture-town-despite-ceasefire-sources-say-2025-02-05/), another coltan mining town, earlier this month.
+
+The capture of Bukavu—along with another provincial capital, Goma, seized last month—means that Rwanda no longer shares a border with an area controlled by the Congolese government. This could allow Rwanda easier access to minerals smuggled from Congo by the M23, according to [U.N. experts](https://documents.un.org/doc/undoc/gen/n24/373/37/pdf/n2437337.pdf).
+
+As the United States retreats from Africa, it will be down to the European Union to exert the necessary financial pressure required to stop Rwanda from funding M23. More than 40 percent of Rwanda’s budget comes from foreign aid. European Union lawmakers have [called for](https://www.europarl.europa.eu/news/en/press-room/20250206IPR26752/meps-want-to-suspend-eu-rwanda-deal-on-critical-raw-materials) the bloc to “freeze direct budget support” to Rwanda until it “breaks all links with M23.”
+
+**Trump’s land spat with South Africa.** The United States has not responded to attempts to discuss President Donald Trump’s executive order cutting off aid to South Africa, according to South African Foreign Minister Ronald Lamola. “We’re hopeful that they will find a moment to respond and have the discussion with us,” Lamola [told](https://www.reuters.com/world/africa/south-africa-says-us-has-not-responded-attempts-engage-after-trump-order-2025-02-17/) Reuters, adding, “We don’t think it’s ideal that diplomatic matters can only be handled through social media.”
+
+South African President Cyril Ramaphosa had said that Pretoria would send a delegation to Washington to explain its new land law that prompted Trump to cut off aid. The country fears removal from Washington’s African Growth and Opportunity Act (AGOA), which is due to expire in September. South African economists suggest that the country will attempt to push a [trade agreement](https://finance.yahoo.com/news/south-africa-said-prefer-bilateral-152832703.html) with Washington using its critical minerals supply as [barter](https://www.bbc.co.uk/news/articles/cm27g2jzd78o). If unsuccessful, they may resort to strengthening trade ties with Europe and other BRICS members, such as China.
+
+Pretoria has rallied support from China and Europe amid U.S. Secretary of State Marco Rubio’s decision to boycott South Africa’s G-20 presidency. The ambassadors of Germany, Italy, and France expressed their support for South Africa’s commitments to equality and multilateral cooperation in a [video](https://x.com/EUinSA/status/1889274030567403971) shared on X. Lamola also [said](https://www.ft.com/content/c906711f-c6f8-4126-864f-897b1ade1a48) there was “no chance” that South Africa would back down on its genocide case against Israel at the International Court of Justice, which Trump has also panned.
+
+**USAID cuts in Nigeria.** The Nigerian government announced it would attempt to absorb the 28,000 health workers paid through the U.S. Agency for International Development (USAID) into the federal health system. All USAID staff were put [on leave](https://www.bbc.co.uk/news/articles/cx253xjnxrmo) with limited exceptions on Friday by the Trump administration.
+
+“We may be a poor country, but we are a capable country, and we are determined to own up to that responsibility. Now, if others step in and support us, we appreciate it, but we are not begging for it,” Muhammad Ali Pate, Nigeria’s coordinating minister of health and social welfare, [told](https://www.channelstv.com/2025/02/15/fg-to-take-over-salaries-of-28000-health-workers-affected-by-usaid-freeze-health-minister-pate/) Nigerian broadcaster Channels Television. Nigeria is heavily reliant on USAID for preventing [disease transmission](https://www.afro.who.int/countries/nigeria/news/nigeria-boosting-viral-hepatitis-awareness-and-treatment-0) of [HIV/AIDS](https://www.state.gov/wp-content/uploads/2019/09/Nigeria_COP19-Strategic-Directional-Summary_public.pdf) and hepatitis B from mothers to babies. Nigeria has the largest number of [children infected](https://www.sciencedirect.com/science/article/abs/pii/S0264410X24009046#:~:text=Nigeria%20is%20estimated%20to%20have,the%20global%20burden%20%5B5%5D.) with chronic hepatitis B of any country globally despite the existence of a hep B vaccine.
+
+**African Union’s toothless summit.** Mahmoud Ali Youssouf, Djibouti’s foreign minister since 2005, has been elected as the chairman of the African Union’s executive commission. The voting took place at the AU summit in Addis Ababa over the weekend. The other main contenders were former Kenyan Prime Minister Raila Odinga and [sacked](https://www.reuters.com/world/madagascar-minister-fired-voting-against-russias-ukraine-annexation-2022-10-19/) Madagascan Foreign Minister Richard Randriamandrato.
+
+The 55-member bloc has largely been an ineffective tool in dealing with Africa’s security challenges because the group is plagued by cronyism. It has offered no rebuke of Rwandan President Paul Kagame’s support of the M23 rebel group even as they seized more Congolese territory during the bloc’s gathering on Saturday and Sunday.
+
+South Africa, which has lost at least [13 soldiers](https://dirco.gov.za/statement-by-president-cyril-ramaphosa-on-the-recent-developments-in-the-eastern-drc-and-deaths-of-south-african-soldiers-29-january-2025/) in Congo as part of a peacekeeping mission facilitated by the Southern African Development Community regional bloc, has been one of the few AU member states to [condemn](https://x.com/CyrilRamaphosa/status/1884551152542404998) Rwanda’s actions, but that pressure has eased as South Africa focuses on averting a trade war with the United States.
+
+Congolese President Felix Tshisekedi skipped the AU meeting and demanded that Kagame, who arrived halfway through discussions, face sanctions. Instead, AU Peace and Security Commissioner Bankole Adeoye [said](https://www.bbc.co.uk/news/articles/c0rqr8q5v52o) that the bloc was “very concerned” by the ongoing conflict.
+
+**This Week in Money**
+
+**New African rating agency.** On Friday, the African Union launched an independent rating agency in an attempt to overcome bias in the assessments of Western credit agencies. The agency “will help provide fairer assessments of African economies and reduce the bias often observed in existing global rating agencies,” [said](https://statehouse.gov.ng/news/nigeria-calls-for-combined-maritime-task-force-for-the-gulf-of-guinea-at-au-summit-navy-to-provide-sea-lift-services/) Nigerian President Bola Tinubu.
+
+A 2023 United Nations Development Program [study](https://www.undp.org/africa/credit-ratings-resource-platform/development-context/the-credit-rating-effect-on-development) suggested that bias by ratings firms has cost Africa $75 billion in hiked costs and lost investments. Global credit rating agencies had “deliberately failed Africa,” Kenyan President William Ruto [said](https://www.bloomberg.com/news/articles/2025-02-14/african-union-creates-rating-agency-to-tackle-bias-unlock-funds) at the African Credit Rating Agency launch in Addis Ababa during the AU summit.
+
+**Ethiopian jobs lost in AGOA.** Ethiopia’s removal from Washington’s AGOA program in January 2022 led to [11,500 job](https://www.thereporterethiopia.com/43838/) losses, primarily at industrial parks manufacturing goods for exports, according to a new report by the National Bank of Ethiopia. Major brands, including Calvin Klein and Tommy Hilfiger, withdrew from manufacturing clothing in the country. Prior to the civil war between the federal government and rebels in Tigray, the Ethiopian government had banked on fast growth through its textiles sector, which had created more than 200,000 jobs as of 2020.
+
+**FP’s Most Read This Week**
+
+- **DOGE Is Hacking America**- *by Bruce Schneier and Davi Ottenheimer*
+- **Vance Leaves Europe Gobsmacked**- *by Rishi Iyengar and Keith Johnson*
+- **Jubilation in Moscow Over Trump’s Gifts to Putin**- *by Alexey Kovalev*
+
+**What We’re Reading **
+
+**Fearmongering in South Africa’s land reform.** In the *Daily Maverick*, [Sibusiso Ngalwa](https://www.dailymaverick.co.za/opinionista/2025-02-14-tensions-in-kwelera-valley-farming-community-highlight-lack-of-meaningful-reform/), a cabbage farmer and goat breeder, argues that hesitancy to implement widespread post-apartheid reforms in South Africa, including the banking sector, has left Black farming communities struggling while misinformation about being “under siege” spreads among Afrikaners.
+
+“What is likely to be lost in the debate is the need to transform the agricultural sector,” Ngalwa writes. “Already black farmers are viewed not only with suspicion—perceived to be lackeys of the ANC government—but also they are not taken seriously in some quarters. All but two of the black farmers in my area bought their own farms and are not beneficiaries of the government’s land reform programme.”
+
+**Ukraine’s stolen wheat.** Egypt imported more than 20,000 tons of wheat from a Russian vessel that Ukraine accused of selling its stolen grain, [report](https://www.occrp.org/en/scoop/russian-company-behind-egypt-wheat-cargo-had-history-of-selling-stolen-ukraine-grain) Selma Mhaoud, Shaya Laughlin, and Misha Gagarin in the Organized Crime and Corruption Reporting Project. The ship, named the *Mikhail Nenashev*, was destined for Syria but diverted to Egypt as Assad’s regime collapsed.
+
+**Oil cleanup scam.** Oil giant Shell ignored repeated warnings that a decadeslong pollution cleanup in Nigeria had been hampered by corruption, [reports](https://www.bbc.com/news/articles/c0rqe85q1jno) Simi Jolaoso for the BBC. Shell worked with the Nigerian government to fund the Hydrocarbon Pollution Remediation Project, which cost $1 billion but failed to address numerous complaints that lab results were being falsified to label polluted land and water samples as clean. Communities fear that the oil cleanup will now never happen, since Shell is soon expected to sell its Nigerian subsidiary to Renaissance Africa, a consortium of local and international companies.
+
+Correction, Feb. 19, 2025: An earlier version of this article misidentified Raila Odinga’s former post. He was the Kenyan prime minister, not the president.
+
+**Nosmot Gbadamosi** is a multimedia journalist and the writer of *Foreign Policy*’s weekly Africa Brief. She has reported on human rights, the environment, and sustainable development from across the African continent. X: [@nosmotg](http://www.twitter.com/nosmotg)
+
+## Join the Conversation
+
+Commenting is a benefit of a
+
+Foreign Policysubscription.Subscribe Subscribe
+
+Already a subscriber?
+
+Log In.View Comments
+
+## Join the Conversation
+
+Join the conversation on this and other recent
+
+Foreign Policyarticles when you subscribe now.Subscribe Subscribe
+
+Not your account?
+
+Log outView Comments
+
+## Join the Conversation
+
+Please follow our comment guidelines, stay on topic, and be civil, courteous, and respectful of others’ beliefs.
+
+View Comments
+
+You are commenting as .Change your username | Log out

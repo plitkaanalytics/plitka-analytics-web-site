@@ -1,0 +1,92 @@
+URL:         https://www.marineinsight.com/satellite-imagery-confirms-russias-withdrawal-from-key-syrian-naval-base/
+Кінцевий:    https://www.marineinsight.com/satellite-imagery-confirms-russias-withdrawal-from-key-syrian-naval-base/
+Заголовок:   Satellite Imagery Confirms Russia's Withdrawal From Key Syrian Naval Base
+Дата публ.:  2025-01-28
+Завантажено: 2026-09-01 13:58 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 921599
+Оригінал:    raw/31-marineinsight.com-satellite-imagery-confirms-russias-withdrawal-from-k.html
+sha256:      1b0360ed1bd22cb9f863672c3bed6dc13c76b2f1ec2be7dfba7a818ece29917e
+Витяг:       trafilatura
+
+==============================================================================
+# Satellite Imagery Confirms Russia’s Withdrawal From Key Syrian Naval Base
+
+Satellite imagery has confirmed that Russia’s withdrawal from its Tartus naval base in Syria has begun. The images show Russian military vehicles and other equipment being moved out of the port.
+
+The Tartus base has been a key location for Russia’s operations in the Mediterranean, and losing access to it would be a major blow to Russia’s military presence in the region.
+
+This withdrawal comes after the fall of Syrian dictator Bashar Al Assad’s regime in December 2024.
+
+On January 25, satellite images from Maxar showed two Russian-flagged roll-on/roll-off (RO/RO) cargo ships, Sparta and Sparta II, docked at Tartus. These ships had been waiting offshore for several days before receiving clearance to enter the port.
+
+A large amount of Russian military equipment vanished from the Syrian port of Tartus with Sparta II’s departure, while Sparta vessel remains in port. The nearest loading area to the vessel has become densely packed with containers, as a
+
+[@planet](https://twitter.com/planet?ref_src=twsrc%5Etfw)satellite image from Jan. 27 shows.[pic.twitter.com/RHACg4ac3C](https://t.co/RHACg4ac3C)— Mark Krutov (@kromark)
+
+[January 27, 2025](https://twitter.com/kromark/status/1883930929913336169?ref_src=twsrc%5Etfw)
+
+The images also show a major reduction in the number of Russian vehicles and materials stationed at the port, which had been accumulating there for weeks.
+
+Satellite imagery from January 27 revealed that even more vehicles and equipment had been moved away from the pier, with several vehicles now lined up for easier loading onto the ships.
+
+A large number of shipping containers were also visible in a nearby cargo area, though it is unclear whether these containers are related to the military equipment or if they are part of resumed non-military operations at the port. This withdrawal follows reports that Russia’s lease for the Tartus port has been cancelled.
+
+Satellite imagery from 19.01.2025 (Image 1) shows that the Russia military transport ship
+
+[#Sparta](https://twitter.com/hashtag/Sparta?src=hash&ref_src=twsrc%5Etfw)is still in port at[#Tartus](https://twitter.com/hashtag/Tartus?src=hash&ref_src=twsrc%5Etfw), Syria, but the[#SpartaII](https://twitter.com/hashtag/SpartaII?src=hash&ref_src=twsrc%5Etfw)had departed and the vehicle staging area at the port is empty. On 24.02.2025 (Image 2), the vehicle staging area is full again…[pic.twitter.com/i1dAXd5v8e](https://t.co/i1dAXd5v8e)— OSINT (Uri) 🇺🇸 🇨🇦 🇬🇧 🇺🇦 🇮🇱 🇬🇪 (@UKikaski)
+
+[January 26, 2025](https://twitter.com/UKikaski/status/1883470861128094181?ref_src=twsrc%5Etfw)
+
+The new Syrian government has not confirmed this, and Kremlin spokesperson Dmitry Peskov declined to comment when asked.
+
+Tartus has been vital for Russia, allowing it to refuel, repair, and resupply its vessels in the Mediterranean.
+
+Given Russia’s involvement in the Syrian Civil War, the base has held immense strategic importance. However, with the fall of Assad’s regime, there has been speculation that Russia might reduce its military presence in Syria.
+
+The arrival of Sparta and Sparta II in Tartus coincided with reports of the port’s lease being cancelled. These ships are owned by Oboronlogistika LLC, a shipping company linked to Russia’s Ministry of Defense.
+
+
+[#Russian](https://twitter.com/hashtag/Russian?src=hash&ref_src=twsrc%5Etfw)Ka-52 & Mi-8[#helicopters](https://twitter.com/hashtag/helicopters?src=hash&ref_src=twsrc%5Etfw)spotted conducting reconnaissance over[#Syria](https://twitter.com/hashtag/Syria?src=hash&ref_src=twsrc%5Etfw)‘s Tartus port, where Russian logistics vessels Sparta & Sparta II are docked. Likely tasked with transporting military equipment as[#Russia](https://twitter.com/hashtag/Russia?src=hash&ref_src=twsrc%5Etfw)consolidates forces in the region.[#ElonMusk](https://twitter.com/hashtag/ElonMusk?src=hash&ref_src=twsrc%5Etfw)[#الدعم_السكني](https://twitter.com/hashtag/%D8%A7%D9%84%D8%AF%D8%B9%D9%85_%D8%A7%D9%84%D8%B3%D9%83%D9%86%D9%8A?src=hash&ref_src=twsrc%5Etfw)[pic.twitter.com/vQNbkXhb0n](https://t.co/vQNbkXhb0n)— Breaking Now (@BreakinggNow)
+
+[January 23, 2025](https://twitter.com/BreakinggNow/status/1882503639220338956?ref_src=twsrc%5Etfw)
+
+The ships had been waiting offshore for several weeks before being allowed to [dock](https://www.marineinsight.com/naval-architecture/dock-vs-pier-what-is-the-difference/). Marine tracking sites show that the ships arrived at the port on Tuesday evening, after which they turned off their transponders.
+
+Images from the EU’s Sentinel radar satellites confirmed that these ships are docked in the military section of the port.
+
+There are also signs that other Russian naval vessels may be involved in the evacuation. Naval analyst Frederik Van Lokeren suggested that ships like the Ivan Gren and Alexander Otrakovsky could be part of the evacuation process.
+
+🇷🇺Med Sea Flotilla🇷🇺
+
+
+Heavy clouds over Tartus today but you can’t hide from synthetic aperture radar (SAR)Sentinel 1📷, 15:41 UTC on 22 Jan
+
+4-5 vessels at the piers (including Sparta & Sparta II)
+
+I don’t think they are military given the grouping of ships near the anchorage
+
+[pic.twitter.com/NPAajsQGW5](https://t.co/NPAajsQGW5)— MT Anderson (@MT_Anderson)
+
+[January 23, 2025](https://twitter.com/MT_Anderson/status/1882217083024691303?ref_src=twsrc%5Etfw)
+
+Ukrainian military intelligence has also suggested that these vessels may be involved.
+
+Frederik Van Lokeren further stated that with the cancellation of the 49-year lease, Russia is unlikely to maintain a military presence at Tartus. He added that evacuating all of Russia’s equipment from the port would take time, as much more equipment has been brought in over the years than what the ships can carry in one trip.
+
+*References: TWZ, BBC*
+
+## RELATED POSTS
+
+**Disclaimer :** 
+
+The information on this website is for general purposes only. While efforts are made to ensure accuracy, we make no warranties of any kind regarding completeness, reliability, or suitability. Any reliance you place on such information is at your own risk. We are not liable for any loss or damage arising from the use of this website.
+
+**Disclaimer :** 
+
+The information on this website is for general purposes only. While efforts are made to ensure accuracy, we make no warranties of any kind regarding completeness, reliability, or suitability. Any reliance you place on such information is at your own risk. We are not liable for any loss or damage arising from the use of this website.
+
+## Subscribe To Our Daily Newsletter
+
+By subscribing, you agree to our [Privacy Policy](https://www.marineinsight.com/privacy-policy/)  you can unsubscribe anytime.
+
+## BE THE FIRST TO COMMENT
