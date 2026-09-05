@@ -1,6 +1,7 @@
-/* Карта «Що давав Тартус» — § 00. Компонент: src/components/TartusMap.tsx
-   Полотно карти прибите до верху, а картки з текстом розділу їдуть поверх
-   нього; активна та, що ближча до середини екрана. */
+/* Прокрутна карта: рушій — src/components/ScrollMap.tsx, дані й картки —
+   у компонентах-обгортках (TartusMap, NorthRoutesMap).
+   Полотно прибите до верху, а картки з текстом розділу їдуть поверх нього;
+   активна та, що ближча до середини екрана. */
 
 /* Карта виходить за колонку тексту на всю ширину екрана. 100vw враховує й
    смугу прокрутки, тож на пару пікселів вилазить за край — обрізаємо це на
@@ -11,8 +12,8 @@ body {
   overflow-x: clip;
 }
 
-.fig.tmap {
-  --tmap-h: min(calc(100svh - var(--header-height)), 900px);
+.fig.smap {
+  --smap-h: min(calc(100svh - var(--header-height)), 900px);
   width: 100vw;
   max-width: none;
   position: relative;
@@ -22,25 +23,31 @@ body {
   background: var(--white);
 }
 
-.tmap .tmap__body {
+/* Високі маршрути — від Заполярʼя до тропіків — на низькому полотні
+   змушують карту відходити на пів світу. Тут вона займає весь екран. */
+.fig.smap--tall {
+  --smap-h: min(calc(100svh - var(--header-height)), 1200px);
+}
+
+.smap .smap__body {
   position: relative;
 }
-.tmap .tmap__mapcol {
+.smap .smap__mapcol {
   position: sticky;
   top: var(--header-height);
-  height: var(--tmap-h);
+  height: var(--smap-h);
   min-height: 420px;
   background: var(--paper-2);
   overflow: hidden;
 }
-.tmap .tmap__svg {
+.smap .smap__svg {
   width: 100%;
   height: 100%;
   display: block;
   will-change: transform;
   font-family: var(--sans);
 }
-.tmap .tmap__fail {
+.smap .smap__fail {
   position: absolute;
   inset: 0;
   display: grid;
@@ -49,21 +56,21 @@ body {
   font: 400 13px/1.5 var(--sans);
   color: var(--taupe);
 }
-.tmap .tmap__fail[hidden] {
+.smap .smap__fail[hidden] {
   display: none;
 }
 
-.tmap .tmap__rail {
+.smap .smap__rail {
   position: relative;
   z-index: 2;
   width: min(430px, 44%);
-  margin: calc(-1 * var(--tmap-h)) clamp(20px, 5vw, 110px) 0 auto;
+  margin: calc(-1 * var(--smap-h)) clamp(20px, 5vw, 110px) 0 auto;
   padding: 0;
   display: grid;
   gap: 12vh;
   pointer-events: none;
 }
-.tmap .tmap__step {
+.smap .smap__step {
   pointer-events: auto;
   padding: 26px 28px;
   display: grid;
@@ -80,112 +87,125 @@ body {
     opacity 0.25s ease,
     background 0.25s ease;
 }
-.tmap .tmap__step:first-child {
+.smap .smap__step:first-child {
   margin-top: 22vh;
 }
-.tmap .tmap__step:last-child {
+.smap .smap__step:last-child {
   margin-bottom: 26vh;
 }
-.tmap .tmap__step.is-active,
-.tmap .tmap__step:hover {
+.smap .smap__step.is-active,
+.smap .smap__step:hover {
   opacity: 1;
   background: rgba(42, 42, 42, 0.86);
 }
 /* Поки кадр їде або сторінку гортають, розмиття тла коштує дорожче, ніж
    виглядає: знімаємо його й компенсуємо щільнішим тлом. */
-.tmap.is-moving .tmap__step,
-.tmap.is-scrolling .tmap__step {
+.smap.is-moving .smap__step,
+.smap.is-scrolling .smap__step {
   -webkit-backdrop-filter: none;
   backdrop-filter: none;
   background: rgba(42, 42, 42, 0.9);
   box-shadow: none;
 }
-.tmap .tmap__steph {
+.smap .smap__steph {
   font: 700 21px/1.25 var(--sans);
   margin: 0;
   letter-spacing: -0.01em;
   text-transform: none;
   color: #fff;
 }
-.tmap .tmap__stepp {
+.smap .smap__stepp {
   font: 400 15.5px/1.6 var(--sans);
   margin: 0;
   color: rgba(255, 255, 255, 0.88);
 }
-.tmap .tmap__stepp b {
+.smap .smap__stepp b {
   font-weight: 700;
   color: #fff;
 }
 
 /* Подробиці, які не показати на карті: умови оренди, частка в прибутку. */
-.tmap .tmap__grid {
+.smap .smap__grid {
   display: grid;
   gap: 1px;
   background: rgba(255, 255, 255, 0.16);
   border: 1px solid rgba(255, 255, 255, 0.16);
   margin-top: 2px;
 }
-.tmap .tmap__cell {
+.smap .smap__cell {
   background: rgba(42, 42, 42, 0.5);
   padding: 12px 14px;
 }
-.tmap .tmap__k {
+.smap .smap__k {
   font: 700 10px/1.4 var(--sans);
   letter-spacing: 0.16em;
   text-transform: uppercase;
   color: var(--orange);
 }
-.tmap .tmap__v {
+.smap .smap__v {
   font: 400 13.5px/1.5 var(--sans);
   color: rgba(255, 255, 255, 0.86);
   margin-top: 3px;
 }
 
-.tmap .tmap__ref {
+.smap .smap__quote {
+  font: 300 italic 16px/1.55 var(--sans);
+  margin: 0;
+  color: rgba(255, 255, 255, 0.92);
+  border-left: 2px solid var(--orange);
+  padding-left: 14px;
+}
+.smap .smap__cite {
+  font: 400 12.5px/1.5 var(--sans);
+  margin: 0;
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.smap .smap__ref {
   font: 700 11.5px/1.5 var(--sans);
   letter-spacing: 0.1em;
   text-transform: uppercase;
   color: var(--warm-gray);
   margin-top: 2px;
 }
-.tmap .tmap__ref a {
+.smap .smap__ref a {
   color: #ff8a5c;
   font-weight: 700;
   border-bottom: none;
 }
-.tmap .tmap__ref a:hover {
+.smap .smap__ref a:hover {
   color: #fff;
   border-bottom: 1px solid #fff;
 }
 
 @media (max-width: 900px) {
-  .fig.tmap {
-    --tmap-h: max(300px, 52svh);
+  .fig.smap {
+    --smap-h: max(300px, 52svh);
   }
-  .tmap .tmap__mapcol {
+  .smap .smap__mapcol {
     min-height: 300px;
   }
-  .tmap .tmap__rail {
+  .smap .smap__rail {
     width: auto;
     /* Картка стає під нижній край карти й перекриває її десь наполовину —
        рівно ту частину, яку кадр лишає порожньою. Проміжок між картками
        завбільшки з пів карти: між ними читач бачить її всю. */
-    margin: calc(-0.45 * var(--tmap-h)) 12px 0;
-    gap: calc(0.55 * var(--tmap-h));
+    margin: calc(-0.4 * var(--smap-h)) 12px 0;
+    gap: calc(0.55 * var(--smap-h));
   }
-  .tmap .tmap__step {
+  .smap .smap__step {
     padding: 20px;
   }
-  .tmap .tmap__step:first-child {
+  .smap .smap__step:first-child {
     margin-top: 0;
   }
-  .tmap .tmap__step:last-child {
+  .smap .smap__step:last-child {
     margin-bottom: 24px;
   }
 }
 
 @media (prefers-reduced-motion: reduce) {
-  .tmap .tmap__step {
+  .smap .smap__step {
     transition: none;
   }
 }

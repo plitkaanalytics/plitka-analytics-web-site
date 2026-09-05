@@ -1,7 +1,9 @@
 /**
- * Готує геометрію для карти «Що давав Тартус» (§ 00 статті syriyskyi-ekspres).
+ * Готує геометрію для прокрутних карт статті syriyskyi-ekspres:
+ * «Що давав Тартус» (§ 00) і «Нові маршрути експресу» (§ 04).
  *
- *   node scripts/build-map-tartus.mjs
+ *   node scripts/build-map-region.mjs            — обидві
+ *   node scripts/build-map-region.mjs north      — тільки задану
  *
  * Бере Natural Earth 1:50m із пакета world-atlas, лишає тільки той шматок
  * світу, який карта здатна показати, і пише його в public/ у стисненому
@@ -33,7 +35,6 @@ import * as topojson from "topojson-client";
 
 const ROOT = new URL("..", import.meta.url);
 const ATLAS = new URL("node_modules/world-atlas/countries-50m.json", ROOT);
-const OUT = new URL("public/articles/syriyskyi-ekspres/tartus-map.json", ROOT);
 
 const RAD = Math.PI / 180;
 const CHUNK = 96; // точок у шматку лінії
@@ -45,14 +46,10 @@ const QUANT = 1.8e-3; // градуса на одиницю квантуванн
  * найширшому. Тримати таку саму дрібність для Атлантики, яку читач бачить
  * тільки загальним планом, немає сенсу: вона коштує півмегабайта.
  *
- * Допуск — максимальне відхилення спрощеної лінії від вихідної, у градусах.
+ * Допуск — максимальне відхилення спрощеної лінії від вихідної, у градусах;
+ * зони кожна карта задає собі сама, у своєму конфізі внизу файлу.
  */
-const ZONES = [
-  { box: [33, 32, 40, 38], tol: 0.0009 }, // Тартус і Хмеймім: 437 px на градус
-  { box: [18, 24, 48, 50], tol: 0.003 }, // Чорне море, протоки, Егейське: 100 px
-  { box: [-25, -15, 55, 58], tol: 0.02 }, // Африка й Сахель: не ближче за 33 px
-];
-const TOL_FAR = 0.08; // решта світу видно лише краєм ока, ~10 px на градус
+const TOL_FAR_DEFAULT = 0.08; // поза зонами світ видно краєм ока, ~10 px на градус
 
 /* ── Меркатор і підбір масштабу: те саме, що робить компонент ────────────── */
 
@@ -86,34 +83,22 @@ function fitPoints(pts, x0, y0, x1, y1) {
   };
 }
 
-/** Базовий кадр карти — той самий прямокутник, що й у компоненті. */
-const BASE_BOX = [
-  [-16, -2],
-  [44, 48],
-];
-function baseFit(W, H) {
-  const [[x0, y0], [x1, y1]] = BASE_BOX;
-  const pts = [
-    [x0, y0],
-    [x1, y0],
-    [x1, y1],
-    [x0, y1],
-    [(x0 + x1) / 2, y0],
-    [(x0 + x1) / 2, y1],
-    [x0, (y0 + y1) / 2],
-    [x1, (y0 + y1) / 2],
-  ];
-  return fitPoints(pts, W * 0.03, H * 0.03, W * 0.97, H * 0.97);
-}
-
 /**
- * Розміри полотна карти беремо не зі стелі, а з верстки: широка врізка
- * min(1400px, 100vw − 80px), висота min(100svh, 900px), а під 900px
- * ширини — 52svh, але не менше 300px.
+ * Регіон — усе, що взагалі може потрапити в кадр.
+ *
+ * Найширший кадр карти — той, де вміщено весь її вміст: усі точки й усі
+ * маршрути. Кадри окремих кроків завжди тісніші, а переліт між двома
+ * кроками відводить камеру рівно настільки, щоб побачити обидва — тобто теж
+ * не ширше за повний вміст. Далі до цього додається пропорція вікна: вміст
+ * вписують у ліву частину полотна (праворуч стоїть картка), а видно все
+ * полотно, тож із правого краю лишається запас.
+ *
+ * Рахуємо це для реальних пропорцій вікон і додаємо чверть кадру зверху.
  */
+const MARGIN = 0.25;
+
 function canvasSizes() {
-  // Реальні пропорції вікон, не декартів добуток: вікна 320x1200 не буває,
-  // а саме такі викрутаси й роздували регіон до цілого світу.
+  // Реальні пропорції вікон, не декартів добуток: вікна 320x1200 не буває.
   const viewports = [
     [320, 640],
     [360, 740],
@@ -131,50 +116,58 @@ function canvasSizes() {
     [1440, 900],
     [1600, 1000],
     [1920, 1080],
+    [2560, 1200],
   ];
   return viewports.map(([vw, vh]) => ({
-    W: Math.min(1400, vw - 80),
-    H: vw <= 900 ? Math.max(300, vh * 0.52) : Math.max(420, Math.min(vh, 900)),
-    rail: vw > 900, // ширші вікна тримають колонку з підписами праворуч
+    W: vw,
+    // Стелю висоти ставить сама карта (див. cfg.tall); тут — те, що дає вікно.
+    H0: vw <= 900 ? Math.max(300, vh * 0.52) : Math.max(420, vh - 70),
+    wide: vw > 900,
   }));
 }
 
-/**
- * Регіон: усе, що взагалі може потрапити в кадр. Межі заміряні на робочій
- * версії за шістнадцяти пропорцій вікна — прогін усіх перельотів між
- * кроками, з фіксацією найдальшого кадру в частках полотна:
- *
- *   без колонки підписів   x -0.23..1.19   y -0.06..1.36
- *   з колонкою праворуч    x -0.09..1.57   y -0.11..1.54
- *
- * Колонка зсуває карту ліворуч, тож праворуч лишається видимий запас —
- * звідси різні межі. Нижче до кожної додано ще чверть полотна.
- */
-const ENVELOPE = {
-  bare: [-0.35, -0.3, 1.35, 1.55],
-  rail: [-0.35, -0.35, 1.8, 1.75],
-};
-
-function region() {
+function region(cfg) {
+  const pts = [...Object.values(cfg.legs).flat(), ...(cfg.points ?? [])];
+  const box = boxOf(pts);
+  const corners = [
+    [box[0], box[1]],
+    [box[2], box[1]],
+    [box[2], box[3]],
+    [box[0], box[3]],
+  ];
   let lon0 = Infinity,
     lat0 = Infinity,
     lon1 = -Infinity,
     lat1 = -Infinity;
-  for (const { W, H, rail } of canvasSizes()) {
-    const { k, t } = baseFit(W, H);
-    const [ex0, ey0, ex1, ey1] = rail ? ENVELOPE.rail : ENVELOPE.bare;
-    const lons = [ex0 * W, ex1 * W].map((x) => (x - t[0]) / k / RAD);
-    const lats = [ey0 * H, ey1 * H].map((y) => unpsi((t[1] - y) / k));
+  for (const { W, H0, wide } of canvasSizes()) {
+    // Те саме, що робить fitStep у компоненті.
+    const H = Math.min(H0, cfg.tall ? 1200 : 900);
+    const pad = cfg.pad ?? 0.14;
+    const railW = Math.min(430, W * 0.44);
+    const right = Math.max(W * 0.5, W - (wide ? railW + 70 : 0));
+    const band = wide ? H : H * 0.45; // те саме MOBILE_BAND, що в компоненті
+    const { k, t } = fitPoints(
+      corners,
+      W * 0.13,
+      band * pad,
+      right - W * 0.03,
+      band * (1 - pad),
+    );
+    // Видно все полотно, а не тільки ту частину, куди вписали вміст.
+    const lons = [0, W].map((x) => (x - t[0]) / k / RAD);
+    const lats = [0, H].map((y) => unpsi((t[1] - y) / k));
     lon0 = Math.min(lon0, ...lons);
     lon1 = Math.max(lon1, ...lons);
     lat0 = Math.min(lat0, ...lats);
     lat1 = Math.max(lat1, ...lats);
   }
+  const dx = (lon1 - lon0) * MARGIN,
+    dy = (lat1 - lat0) * MARGIN;
   return [
-    Math.max(-180, lon0 - 1),
-    Math.max(-85, lat0 - 1),
-    Math.min(180, lon1 + 1),
-    Math.min(85, lat1 + 1),
+    Math.max(-180, lon0 - dx),
+    Math.max(-85, lat0 - dy),
+    Math.min(180, lon1 + dx),
+    Math.min(85, lat1 + dy),
   ];
 }
 
@@ -185,7 +178,7 @@ function region() {
  * і кордону. Тому спрощуємо саме їх, до складання шарів — інакше біла
  * берегова лінія поїхала б відносно заливки.
  */
-function simplifyArcs(topo) {
+function simplifyArcs(cfg, topo) {
   const [sx, sy] = topo.transform.scale;
   const [tx, ty] = topo.transform.translate;
   let before = 0,
@@ -199,7 +192,7 @@ function simplifyArcs(topo) {
       return [x * sx + tx, y * sy + ty];
     });
     before += pts.length;
-    const kept = douglasPeucker(pts, tolFor(boxOf(pts)));
+    const kept = douglasPeucker(pts, tolFor(cfg, boxOf(pts)));
     after += kept.length;
     let px = 0,
       py = 0;
@@ -216,9 +209,9 @@ function simplifyArcs(topo) {
 }
 
 /** Найдрібніший допуск із зон, яких торкається рамка. */
-function tolFor(b) {
-  let tol = TOL_FAR;
-  for (const z of ZONES) if (overlaps(b, z.box)) tol = Math.min(tol, z.tol);
+function tolFor(cfg, b) {
+  let tol = cfg.tolFar ?? TOL_FAR_DEFAULT;
+  for (const z of cfg.zones) if (overlaps(b, z.box)) tol = Math.min(tol, z.tol);
   return tol;
 }
 
@@ -259,6 +252,50 @@ function douglasPeucker(pts, tol) {
 }
 
 /* ── Обрізання по регіону ────────────────────────────────────────────────── */
+
+/**
+ * Кільця, що перетинають антимеридіан, ріжемо по ньому. Інакше відрізок із
+ * +179° у -179° лишається в геометрії як стрибок через увесь світ і на карті
+ * малюється горизонтальною смугою. Таких кілець у Natural Earth п'ять:
+ * Євразія (через Чукотку), Врангеля, Фіджі й Антарктида.
+ */
+function splitAntimeridian(ring) {
+  const pieces = [];
+  let cur = [ring[0]];
+  for (let i = 1; i < ring.length; i++) {
+    const a = ring[i - 1],
+      b = ring[i];
+    const d = b[0] - a[0];
+    if (Math.abs(d) <= 180) {
+      cur.push(b);
+      continue;
+    }
+    const east = d < 0; // a біля +180, b біля -180
+    const bx = east ? b[0] + 360 : b[0] - 360;
+    const edge = east ? 180 : -180;
+    const t = (edge - a[0]) / (bx - a[0]);
+    const lat = a[1] + t * (b[1] - a[1]);
+    cur.push([edge, lat]);
+    pieces.push(cur);
+    cur = [[-edge, lat], b];
+  }
+  if (!pieces.length) return [ring];
+  pieces[0] = cur.concat(pieces[0].slice(1)); // кільце замкнене
+  return pieces.map(closePiece);
+}
+
+/** Замикає шматок: по меридіану, а якщо кінці на різних — через полюс. */
+function closePiece(p) {
+  const a = p[0],
+    b = p[p.length - 1];
+  const out = p.slice();
+  if (Math.abs(a[0] - b[0]) > 1) {
+    const pole = a[1] > 0 ? 90 : -90;
+    out.push([b[0], pole], [a[0], pole]);
+  }
+  out.push(a.slice());
+  return out;
+}
 
 /** Сазерленд–Ходжман: кільце проти прямокутника. */
 function clipRing(ring, [x0, y0, x1, y1]) {
@@ -420,68 +457,96 @@ function quantizer(reg) {
 
 /* ── Збірка ──────────────────────────────────────────────────────────────── */
 
-const topo = JSON.parse(readFileSync(fileURLToPath(ATLAS), "utf8"));
-const countries = topo.objects.countries;
-const reg = region().map((v) => +v.toFixed(3));
-console.log("регіон, градуси:", reg.join(", "));
+// Кордони малюємо без кримської ділянки: анексію ми не показуємо.
+const CRIMEA = [31.4, 43.9, 37.0, 46.6];
 
-const { before, after } = simplifyArcs(topo);
-console.log(
-  `точок у дугах: ${before} -> ${after} (${((1 - after / before) * 100).toFixed(0)}% прибрано)`,
-);
+function build(cfg) {
+  // Свіжа копія атласу на кожну карту: спрощення переписує дуги під зони,
+  // а зони в карт різні.
+  const topo = JSON.parse(readFileSync(fileURLToPath(ATLAS), "utf8"));
+  const countries = topo.objects.countries;
+  const reg = region(cfg).map((v) => +v.toFixed(3));
 
-const merged = topojson.merge(topo, countries.geometries);
-const land = [];
-let ringsIn = 0,
-  ringsOut = 0;
-for (const poly of merged.coordinates) {
-  const clipped = [];
-  for (const ring of poly) {
-    ringsIn++;
-    if (!overlaps(boxOf(ring), reg)) continue;
-    const c = clipRing(ring, reg);
-    if (c) {
-      clipped.push(c);
-      ringsOut++;
+  const { before, after } = simplifyArcs(cfg, topo);
+
+  const merged = topojson.merge(topo, countries.geometries);
+  const land = [];
+  let ringsIn = 0,
+    ringsOut = 0;
+  for (const poly of merged.coordinates) {
+    const clipped = [];
+    for (const whole of poly) {
+      ringsIn++;
+      for (const ring of splitAntimeridian(whole)) {
+        if (!overlaps(boxOf(ring), reg)) continue;
+        const c = clipRing(ring, reg);
+        if (c) {
+          clipped.push(c);
+          ringsOut++;
+        }
+      }
     }
+    if (clipped.length) land.push(clipped);
   }
-  if (clipped.length) land.push(clipped);
+
+  // Берегова лінія — це край самого суходолу, тож окремим шаром її не
+  // тримаємо: кільце малюється із заливкою, а обведення компонент ріже сам.
+  const borders = chop(
+    topojson
+      .mesh(topo, countries, (a, b) => a !== b)
+      .coordinates.filter(
+        (seg) =>
+          !seg.every(
+            (p) =>
+              p[0] >= CRIMEA[0] &&
+              p[0] <= CRIMEA[2] &&
+              p[1] >= CRIMEA[1] &&
+              p[1] <= CRIMEA[3],
+          ),
+      ),
+    reg,
+  );
+
+  const q = quantizer(reg);
+  const data = {
+    note: "Згенеровано scripts/build-map-region.mjs з world-atlas countries-50m (Natural Earth). Руками не правити.",
+    region: reg,
+    quant: QUANT,
+    land: land.map((poly) => poly.map(q)),
+    borders: borders.map(q),
+    legs: Object.fromEntries(
+      Object.entries(cfg.legs).map(([k, v]) => [k, q(smooth(v))]),
+    ),
+    // Рамка маршруту рахується з опорних точок, а не зі згладженої лінії:
+    // саме за нею карта підбирає кадр кроку, і крива тут дала б інший масштаб.
+    legBox: Object.fromEntries(
+      Object.entries(cfg.legs).map(([k, v]) => [
+        k,
+        boxOf(v).map((n) => +n.toFixed(4)),
+      ]),
+    ),
+  };
+
+  const out = new URL(cfg.out, ROOT);
+  mkdirSync(dirname(fileURLToPath(out)), { recursive: true });
+  writeFileSync(fileURLToPath(out), JSON.stringify(data));
+  const size = readFileSync(fileURLToPath(out)).length;
+  console.log(
+    `${cfg.name}: регіон ${reg.join(", ")}
+` +
+      `  точок у дугах ${before} -> ${after} (${((1 - after / before) * 100).toFixed(0)}% прибрано)` +
+      ` · кільця суходолу ${ringsOut} з ${ringsIn} · кордони ${borders.length} шматків
+` +
+      `  ${cfg.out} — ${(size / 1024).toFixed(0)} КБ`,
+  );
 }
 
-// Берегова лінія — це край самого суходолу, тож окремим шаром її не тримаємо:
-// кільце малюється із заливкою й білим обведенням, як в оригіналі.
-// Кордони — спільні дуги, без кримської ділянки: анексію ми не малюємо.
-const CRIMEA = [31.4, 43.9, 37.0, 46.6];
-const borders = chop(
-  topojson
-    .mesh(topo, countries, (a, b) => a !== b)
-    .coordinates.filter(
-      (seg) =>
-        !seg.every(
-          (p) =>
-            p[0] >= CRIMEA[0] &&
-            p[0] <= CRIMEA[2] &&
-            p[1] >= CRIMEA[1] &&
-            p[1] <= CRIMEA[3],
-        ),
-    ),
-  reg,
-);
+/* ── Карти ───────────────────────────────────────────────────────────────── */
 
-const PORT = {
-  novoros: [37.77, 44.72],
-  bosph: [29.05, 41.15],
-  dard: [26.25, 40.15],
-  tartus: [35.87, 34.89],
-  khmeimim: [35.95, 35.42],
-  tobruk: [23.96, 32.08],
-  jufra: [15.96, 29.2],
-  khartoum: [32.53, 15.59],
-  bangui: [18.56, 4.36],
-  bamako: [-8.0, 12.65],
-  ouaga: [-1.53, 12.37],
-  niamey: [2.11, 13.51],
-};
+const KHMEIMIM = [35.95, 35.42];
+const air = (to, n) => greatCircle(KHMEIMIM, to, n);
+
+// § 00. Морський маршрут Новоросійськ — Тартус і повітряне плече в Африку.
 const seaLeg = [
   [37.77, 44.72],
   [36.2, 44.3],
@@ -501,43 +566,186 @@ const seaLeg = [
   [34.6, 34.2],
   [35.87, 34.89],
 ];
-const air = (to, n) => greatCircle(PORT.khmeimim, to, n);
-const legs = {
-  sea: seaLeg,
-  escort: seaLeg.slice(9).reverse(),
-  airLibya: air(PORT.jufra, 26),
-  airTobruk: air(PORT.tobruk, 20),
-  airSudan: air(PORT.khartoum, 26),
-  airCar: air(PORT.bangui, 30),
-  airMali: air(PORT.bamako, 34),
-  airOuaga: air(PORT.ouaga, 32),
-  airNiamey: air(PORT.niamey, 30),
+
+const TARTUS = {
+  name: "tartus",
+  out: "public/articles/syriyskyi-ekspres/tartus-map.json",
+  baseBox: [
+    [-16, -2],
+    [44, 48],
+  ],
+  zones: [
+    { box: [33, 32, 40, 38], tol: 0.0009 }, // Тартус і Хмеймім: 437 px на градус
+    { box: [18, 24, 48, 50], tol: 0.003 }, // Чорне море, протоки, Егейське: 100 px
+    { box: [-25, -15, 55, 58], tol: 0.02 }, // Африка й Сахель: не ближче за 33 px
+  ],
+  // Америки й Азія потрапляють у кадр лише на дуже широких і низьких вікнах,
+  // де на градус припадає кілька пікселів: там і чверть градуса непомітна.
+  tolFar: 0.25,
+  legs: {
+    sea: seaLeg,
+    escort: seaLeg.slice(9).reverse(),
+    airLibya: air([15.96, 29.2], 26),
+    airTobruk: air([23.96, 32.08], 20),
+    airSudan: air([32.53, 15.59], 26),
+    airCar: air([18.56, 4.36], 30),
+    airMali: air([-8.0, 12.65], 34),
+    airOuaga: air([-1.53, 12.37], 32),
+    airNiamey: air([2.11, 13.51], 30),
+  },
 };
 
-const q = quantizer(reg);
-const data = {
-  note: "Згенеровано scripts/build-map-tartus.mjs з world-atlas countries-50m (Natural Earth). Руками не правити.",
-  region: reg,
-  quant: QUANT,
-  land: land.map((poly) => poly.map(q)),
-  borders: borders.map(q),
-  legs: Object.fromEntries(
-    Object.entries(legs).map(([k, v]) => [k, q(smooth(v))]),
-  ),
-  // Рамка маршруту рахується з опорних точок, а не зі згладженої лінії:
-  // саме за нею карта підбирає кадр кроку, і крива тут дала б інший масштаб.
-  legBox: Object.fromEntries(
-    Object.entries(legs).map(([k, v]) => [
-      k,
-      boxOf(v).map((n) => +n.toFixed(4)),
-    ]),
-  ),
+// § 04. Північний маршрут у Гвінейську затоку й середземноморський у Тартус.
+// Точка розходження — біля португальського берега; далі один іде повз
+// Гібралтар, другий у нього.
+const FORK = [-9.8, 41.5];
+
+const northLeg = [
+  [33.08, 68.97],
+  [32.0, 69.9],
+  [27, 70.9],
+  [23, 71.2],
+  [17, 70.0],
+  [11, 67.5],
+  [6, 64.5],
+  [2.5, 62],
+  [0, 60.5],
+  [-2, 59.5],
+  [-5, 59],
+  [-8, 58.3],
+  [-10, 56.5],
+  [-11, 54],
+  [-11, 51],
+  [-10.5, 48],
+  [-10, 45],
+  FORK,
+  [-10, 39],
+  [-10.5, 36.5],
+  [-11, 34],
+  [-13, 31],
+  [-15, 28],
+  [-17, 24],
+  [-18, 20],
+  [-18.5, 16],
+  [-18, 13],
+  [-17.5, 11],
+  [-16, 9.5],
+  [-14.5, 9.2],
+  [-13.71, 9.51],
+];
+
+const balticLeg = [
+  [19.9, 54.65],
+  [18.5, 55.2],
+  [16, 55.3],
+  [14.5, 54.9],
+  [12.9, 55.3],
+  [11.0, 55.4],
+  [10.8, 56.6],
+  [11.2, 57.6],
+  [10.5, 57.9],
+  [8, 57.8],
+  [5, 57],
+  [3, 56],
+  [2, 54.5],
+  [1.6, 52],
+  [1.4, 51.2],
+  [0.5, 50.3],
+  [-1.5, 50.0],
+  [-4, 49.5],
+  [-6, 48.8],
+  [-8, 47.5],
+  [-9, 45],
+  FORK,
+];
+
+const medLeg = [
+  FORK,
+  [-9.5, 37.5],
+  [-7, 36.3],
+  [-5.35, 36.0],
+  [-3, 36.2],
+  [0, 37.2],
+  [4, 38],
+  [8, 38],
+  [11.5, 37.3],
+  [15, 36.2],
+  [20, 34.6],
+  [26, 34.2],
+  [32, 34.4],
+  [35.87, 34.89],
+];
+
+const gulfLeg = [
+  [-13.71, 9.51],
+  [-13, 8.5],
+  [-11, 7],
+  [-9, 4.8],
+  [-7, 4.2],
+  [-4, 4.2],
+  [-1, 4.6],
+  [0.5, 5.5],
+  [1.29, 6.14],
+];
+
+// Версія, яку розслідування спростувало: нібито з Тартуса в Конакрі.
+const assumedLeg = [
+  [35.87, 34.89],
+  [32, 34.4],
+  [26, 34.2],
+  [20, 34.6],
+  [15, 36.2],
+  [11.5, 37.3],
+  [8, 38],
+  [4, 38],
+  [0, 37.2],
+  [-5.35, 36.0],
+  [-7, 36.3],
+  [-9.5, 35],
+  [-11, 33],
+  [-13, 31],
+  [-15, 28],
+  [-17, 24],
+  [-18, 20],
+  [-18.5, 16],
+  [-18, 13],
+  [-17.5, 11],
+  [-16, 9.5],
+  [-14.5, 9.2],
+  [-13.71, 9.51],
+];
+
+const NORTH = {
+  name: "north",
+  out: "public/articles/syriyskyi-ekspres/north-routes-map.json",
+  baseBox: [
+    [-22, 3],
+    [42, 71],
+  ],
+  zones: [
+    // Уся смуга від Баренцева моря до Гвінейської затоки: найтісніший кадр
+    // тут — Кольський і протоки, це близько 125 px на градус.
+    { box: [-24, 2, 44, 73], tol: 0.003 },
+  ],
+  tolFar: 0.25,
+  // Маршрут дуже високий: від Баренцева моря до Гвінейської затоки. Щоб на
+  // широкому екрані карта не відходила на пів світу, полотно тут вище, а
+  // поле навколо вмісту менше.
+  tall: true,
+  pad: 0.06,
+  legs: {
+    north: northLeg,
+    baltic: balticLeg,
+    med: medLeg,
+    gulf: gulfLeg,
+    blacksea: seaLeg,
+    assumed: assumedLeg,
+  },
 };
 
-mkdirSync(dirname(fileURLToPath(OUT)), { recursive: true });
-writeFileSync(fileURLToPath(OUT), JSON.stringify(data));
-const size = readFileSync(fileURLToPath(OUT)).length;
-console.log(
-  `кільця суходолу: ${ringsOut} з ${ringsIn} · кордони: ${borders.length} шматків`,
-);
-console.log(`${fileURLToPath(OUT)} — ${(size / 1024).toFixed(0)} КБ`);
+const MAPS = [TARTUS, NORTH];
+const only = process.argv[2];
+for (const cfg of MAPS) {
+  if (only && cfg.name !== only) continue;
+  build(cfg);
+}
