@@ -738,7 +738,6 @@ const NORTH = {
     baltic: balticLeg,
     med: medLeg,
     gulf: gulfLeg,
-    blacksea: seaLeg,
     assumed: assumedLeg,
   },
 };

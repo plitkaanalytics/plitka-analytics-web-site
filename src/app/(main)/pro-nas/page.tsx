@@ -32,7 +32,7 @@ export default function ProNasPage() {
             className="sidecard sidecard--blue"
             style={{ marginTop: "40px" }}
           >
-            <h3>Зв&apos;яжіться з нами</h3>
+            <h3>Звʼяжіться з нами</h3>
             <p>
               Для передачі матеріалів або запиту на верифікацію:{" "}
               <strong>plitka.analytic@gmail.com</strong>

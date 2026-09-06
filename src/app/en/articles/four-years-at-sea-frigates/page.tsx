@@ -76,7 +76,7 @@ export default function Page() {
               <a href="#ship-dagestan">Dagestan</a>
             </li>
             <li>
-              <a href="#sec-next">What&apos;s Next: MRKs &amp; Submarines</a>
+              <a href="#sec-next">Whatʼs Next: MRKs &amp; Submarines</a>
             </li>
             <li>
               <a href="#sec-refs">Sources</a>
@@ -126,7 +126,7 @@ export default function Page() {
               indictments, joint General Staff assessments, verified OSINT
               analyses with satellite imagery or drone strike footage. Episodes
               circulating in the public domain without such verification are
-              explicitly marked &ldquo;<em>unconfirmed</em>&rdquo;.
+              explicitly marked “<em>unconfirmed</em>”.
             </p>
           </div>
 
@@ -141,9 +141,8 @@ export default function Page() {
             the six planned frigates of the series that Russia managed to
             complete by 2017. The remaining three — Butakov, Istomin, Kornilov —
             were frozen after 2014 following the Mykolaiv enterprise
-            Zorya-Mashproekt&apos;s refusal to supply gas turbine units.
-            Technical details, incomplete hulls, and programme constraints are
-            covered in{" "}
+            Zorya-Mashproektʼs refusal to supply gas turbine units. Technical
+            details, incomplete hulls, and programme constraints are covered in{" "}
             <Link href="/en/articles/caliber-from-the-sea#d-11356">
               <strong>the first instalment of the series</strong>
             </Link>
@@ -214,8 +213,8 @@ export default function Page() {
                 <p>
                   In 2021 the ship transited the Bosphorus southbound — for
                   another rotation to the permanent Russian Navy squadron in the
-                  Mediterranean. This proved to be Grigorovich&apos;s last
-                  passage through the Turkish straits. Eight months later,{" "}
+                  Mediterranean. This proved to be Grigorovichʼs last passage
+                  through the Turkish straits. Eight months later,{" "}
                   <strong>27 February 2022</strong>, Turkey invoked Article 19
                   of the{" "}
                   <span
@@ -249,9 +248,9 @@ export default function Page() {
                 </figure>
 
                 <p>
-                  From this point, the ship&apos;s entire subsequent trajectory
-                  was determined by geography, not tactics. Its new anchor point
-                  was the Russian naval base at Tartus, Syria. From there
+                  From this point, the shipʼs entire subsequent trajectory was
+                  determined by geography, not tactics. Its new anchor point was
+                  the Russian naval base at Tartus, Syria. From there
                   Grigorovich performed the duties of the permanent squadron:
                   patrols of the eastern Mediterranean, rotations, calls at
                   Latakia. In April 2023 the ship went for repairs via
@@ -341,12 +340,12 @@ export default function Page() {
                 <p>
                   That morning Leningrad Oblast suffered the largest drone
                   attack since the start of the war — Governor Alexander
-                  Drozdenko reported strikes on &ldquo;industrial and military
-                  facilities,&rdquo; and the Russian Ministry of Defence claimed
-                  the destruction of 51 UAVs over the region. Pulkovo airport
-                  halted operations. The main naval parade in St. Petersburg,
-                  held annually since 2017, was cancelled in advance —
-                  officially for security reasons.{" "}
+                  Drozdenko reported strikes on “industrial and military
+                  facilities,” and the Russian Ministry of Defence claimed the
+                  destruction of 51 UAVs over the region. Pulkovo airport halted
+                  operations. The main naval parade in St. Petersburg, held
+                  annually since 2017, was cancelled in advance — officially for
+                  security reasons.{" "}
                   <em>It was the first cancellation in eight years.</em>
                 </p>
 
@@ -362,10 +361,10 @@ export default function Page() {
 
                 <p>
                   The President spoke with the crew over tea, thanking them for
-                  &ldquo;successfully repelling the drone attack.&rdquo;
-                  Aksionov reported that during the ship&apos;s operational
-                  deployment it had covered over 87,000 nautical miles. This was
-                  followed by a public promotion of the commander:
+                  “successfully repelling the drone attack.” Aksionov reported
+                  that during the shipʼs operational deployment it had covered
+                  over 87,000 nautical miles. This was followed by a public
+                  promotion of the commander:
                 </p>
 
                 <div className="qtbox">
@@ -403,8 +402,8 @@ export default function Page() {
                 <p>
                   This was the episode Russian state media made the centrepiece
                   of Navy Day 2025. Instead of the traditional parade — the
-                  President on a warship&apos;s deck, a commander, a repelled
-                  attack, and a live promotion.
+                  President on a warshipʼs deck, a commander, a repelled attack,
+                  and a live promotion.
                 </p>
 
                 <div className="episode">
@@ -433,13 +432,13 @@ export default function Page() {
 
                 <p>
                   A month earlier, Prime Minister Keir Starmer had publicly
-                  stated his intention to &ldquo;push harder on the shadow
-                  fleet.&rdquo; Grigorovich&apos;s passage between the two
-                  tankers in a combat escort configuration was{" "}
+                  stated his intention to “push harder on the shadow fleet.”
+                  Grigorovichʼs passage between the two tankers in a combat
+                  escort configuration was{" "}
                   <strong>the first recorded instance</strong> of Moscow
                   deploying a warship in such an arrangement. The Kremlin
-                  officially characterised the operation as &ldquo;protecting
-                  Russian shipping from piracy&rdquo; in international waters.
+                  officially characterised the operation as “protecting Russian
+                  shipping from piracy” in international waters.
                 </p>
 
                 <div className="satfig">
@@ -480,12 +479,12 @@ export default function Page() {
                 <p>
                   Throughout spring 2026, the Russian military frigate Admiral
                   Grigorovich continued to appear off the British coast and
-                  escort tankers of Russia&apos;s so-called shadow fleet,
-                  despite London&apos;s promises to increase pressure on Russian
-                  shipping. According to British media, since April Admiral
-                  Grigorovich has escorted more than a dozen Russian tankers,
-                  auxiliary vessels, and one submarine through the waters around
-                  Great Britain.
+                  escort tankers of Russiaʼs so-called shadow fleet, despite
+                  Londonʼs promises to increase pressure on Russian shipping.
+                  According to British media, since April Admiral Grigorovich
+                  has escorted more than a dozen Russian tankers, auxiliary
+                  vessels, and one submarine through the waters around Great
+                  Britain.
                 </p>
 
                 <p>
@@ -563,18 +562,18 @@ export default function Page() {
                         Before receiving his own command he followed a standard
                         career path: junior officer on the LST Korolev of the
                         Baltic Fleet, patrol ship Neustrashimy, executive
-                        officer on LST Kaliningrad, Naval Officers&apos;
-                        Advanced Courses in St. Petersburg, executive officer on
-                        Admiral Essen, and — from December 2017 — executive
-                        officer on Grigorovich itself, the post from which he
-                        was promoted to command it.
+                        officer on LST Kaliningrad, Naval Officersʼ Advanced
+                        Courses in St. Petersburg, executive officer on Admiral
+                        Essen, and — from December 2017 — executive officer on
+                        Grigorovich itself, the post from which he was promoted
+                        to command it.
                       </p>
                       <p>
                         Among BSF commanders, Aksionov is one of those covered
                         systematically by the Russian military press: interviews
                         in Rossiyskaya Gazeta (2020), features in Gudok and the
                         Sevastopol outlet NTS (2019–2021), a portrait piece in
-                        Gazeta Kryma for Ship Commander&apos;s Day (2022).
+                        Gazeta Kryma for Ship Commanderʼs Day (2022).
                       </p>
                       <p>
                         In late 2025, having handed the ship to a successor
@@ -632,7 +631,7 @@ export default function Page() {
                         </strong>
                         , in which Kudashkin, now a Captain 2nd Rank, received a
                         church blessing aboard Grigorovich at Kronstadt ahead of
-                        the ship&apos;s departure on a distant deployment to the
+                        the shipʼs departure on a distant deployment to the
                         Mediterranean.
                         <a className="ref" href="#ref-20">
                           [20]
@@ -652,7 +651,7 @@ export default function Page() {
                 № 01.2<strong>490</strong>
               </div>
               <h2 className="ship__title">
-                Admiral Essen<em>The War&apos;s First Neptune</em>
+                Admiral Essen<em>The Warʼs First Neptune</em>
               </h2>
               <div className="ship__chips">
                 <span className="chip chip--red">5 strikes</span>
@@ -712,11 +711,11 @@ export default function Page() {
                   the 30th Division, Captain 1st rank Vitaliy Zvyagintsev — a
                   former Ukrainian Navy officer who had defected to Russia in
                   2014. Zvyagintsev ordered mooring without tugs, overriding the
-                  frigate commander Sergei Tomashkov&apos;s recommendation to
-                  wait for them. The buoys were drawn under the propellers.
-                  Tomashkov was relieved of command; Zvyagintsev was fined
-                  264,200 roubles. Essen&apos;s transfer to the Black Sea was
-                  delayed by six months.
+                  frigate commander Sergei Tomashkovʼs recommendation to wait
+                  for them. The buoys were drawn under the propellers. Tomashkov
+                  was relieved of command; Zvyagintsev was fined 264,200
+                  roubles. Essenʼs transfer to the Black Sea was delayed by six
+                  months.
                 </div>
 
                 <div className="episode">
@@ -1046,8 +1045,8 @@ export default function Page() {
                     }}
                   />
                   <figcaption>
-                    Combined strike by Ukraine&apos;s Security Forces and
-                    Defence Forces.{" "}
+                    Combined strike by Ukraineʼs Security Forces and Defence
+                    Forces.{" "}
                     <em>
                       Up to 200 UAVs combined with missile assets. Essen took
                       the hit to the midship superstructure.
@@ -1056,8 +1055,8 @@ export default function Page() {
                 </figure>
 
                 <p>
-                  In the night of 2 March 2026, Ukraine&apos;s Security Forces
-                  and Defence Forces conducted a combined strike against the
+                  In the night of 2 March 2026, Ukraineʼs Security Forces and
+                  Defence Forces conducted a combined strike against the
                   Novorossiysk naval base. Admiral Essen took a hit to the
                   midship superstructure; secondary detonations followed.
                   Confirmed damage to the PK-10 decoy system, TK-25 EW system,
@@ -1073,10 +1072,10 @@ export default function Page() {
                     Official statement · translation
                   </div>
                   <p className="qtbox__quote">
-                    &ldquo;Following additional analysis of the damage inflicted
-                    on 2 March 2026 on the Novorossiysk naval base in Krasnodar
-                    Krai, damage to two Black Sea Fleet ships — frigates Admiral
-                    Essen and Admiral Makarov — has been confirmed.&rdquo;
+                    “Following additional analysis of the damage inflicted on 2
+                    March 2026 on the Novorossiysk naval base in Krasnodar Krai,
+                    damage to two Black Sea Fleet ships — frigates Admiral Essen
+                    and Admiral Makarov — has been confirmed.”
                   </p>
                   <div className="qtbox__cite">
                     General Staff of the Armed Forces of Ukraine · statement of
@@ -1090,11 +1089,10 @@ export default function Page() {
                 </div>
 
                 <p>
-                  In the night of 6 April, Ukraine&apos;s Security Forces and
-                  Defence Forces struck the Sheskharis terminal and ships
-                  directly in the Novorossiysk naval base. According to OSINT
-                  analysis by CyberBoroshno based on satellite imagery taken on
-                  7 April,{" "}
+                  In the night of 6 April, Ukraineʼs Security Forces and Defence
+                  Forces struck the Sheskharis terminal and ships directly in
+                  the Novorossiysk naval base. According to OSINT analysis by
+                  CyberBoroshno based on satellite imagery taken on 7 April,{" "}
                   <strong>Admiral Essen was struck in the bow section</strong> —
                   in the area of the 100mm A-190 gun mount. In the same zone
                   below the waterline sits the MHK-335M Platina hydroacoustic
@@ -1156,8 +1154,8 @@ export default function Page() {
                     Kamikaze drone approaching Essen despite active air
                     defences.{" "}
                     <em>
-                      Video published by UAS Forces Commander Robert
-                      &apos;Magyar&apos; Brovdi.
+                      Video published by UAS Forces Commander Robert ʼMagyarʼ
+                      Brovdi.
                     </em>
                   </figcaption>
                 </figure>
@@ -1168,16 +1166,15 @@ export default function Page() {
                   against Admiral Essen at Novorossiysk. Several kamikaze drones
                   attacked the frigate in the hull near deck level; the ship
                   attempted to intercept them with its Osa-M surface-to-air
-                  missile system. The operation was part of the UAS Forces&apos;
-                  48-hour massed &ldquo;Birds&rdquo; raid on Novorossiysk port —
-                  alongside strikes on the Sheskharis oil terminal and the
-                  Grushova Balka oil storage facility.{" "}
+                  missile system. The operation was part of the UAS Forcesʼ
+                  48-hour massed “Birds” raid on Novorossiysk port — alongside
+                  strikes on the Sheskharis oil terminal and the Grushova Balka
+                  oil storage facility.{" "}
                   <strong>
-                    UAS Forces Commander Robert &apos;Magyar&apos; Brovdi
-                    personally confirmed the strike
+                    UAS Forces Commander Robert ʼMagyarʼ Brovdi personally
+                    confirmed the strike
                   </strong>
-                  : &ldquo;You are doomed to sink, there is nowhere to
-                  hide.&rdquo;
+                  : “You are doomed to sink, there is nowhere to hide.”
                   <a className="ref" href="#ref-12">
                     [12]
                   </a>
@@ -1186,8 +1183,7 @@ export default function Page() {
                 <div className="episode">
                   <div className="episode__date">12.08.2026 · Novorossiysk</div>
                   <h3 className="episode__h">
-                    Fourth Strike at Novorossiysk: a &ldquo;Unique
-                    Operation&rdquo;
+                    Fourth Strike at Novorossiysk: a “Unique Operation”
                   </h3>
                 </div>
 
@@ -1212,19 +1208,17 @@ export default function Page() {
                 </figure>
 
                 <p>
-                  In the night of 12 August 2026, Ukraine&apos;s Defence Forces
-                  conducted what President Volodymyr Zelensky called a
-                  &ldquo;unique operation&rdquo; against the Novorossiysk naval
-                  base —{" "}
+                  In the night of 12 August 2026, Ukraineʼs Defence Forces
+                  conducted what President Volodymyr Zelensky called a “unique
+                  operation” against the Novorossiysk naval base —{" "}
                   <strong>
-                    &ldquo;the last main stronghold of the Russian fleet in the
-                    Black Sea&rdquo;
+                    “the last main stronghold of the Russian fleet in the Black
+                    Sea”
                   </strong>
                   , more than 300 km from the front line. The strike package
-                  combined &ldquo;Palianytsia&rdquo; jet-powered drones, Neptune
-                  missiles, and naval unmanned systems; confirmed hits were
-                  recorded on air-defence positions, berths, and port
-                  infrastructure.
+                  combined “Palianytsia” jet-powered drones, Neptune missiles,
+                  and naval unmanned systems; confirmed hits were recorded on
+                  air-defence positions, berths, and port infrastructure.
                   <a className="ref" href="#ref-13">
                     [13]
                   </a>
@@ -1235,11 +1229,11 @@ export default function Page() {
                     Quote · President of Ukraine
                   </div>
                   <p className="qtbox__quote">
-                    &ldquo;I thank the soldiers of the Armed Forces, the
-                    Security Service of Ukraine, and our intelligence services
-                    for their accuracy and good results. The occupying fleet and
-                    all the infrastructure that supports it will not be safe as
-                    long as Russian aggression continues.&rdquo;
+                    “I thank the soldiers of the Armed Forces, the Security
+                    Service of Ukraine, and our intelligence services for their
+                    accuracy and good results. The occupying fleet and all the
+                    infrastructure that supports it will not be safe as long as
+                    Russian aggression continues.”
                   </p>
                   <div className="qtbox__cite">
                     Volodymyr Zelensky · statement on the operation · 12.08.2026
@@ -1250,20 +1244,19 @@ export default function Page() {
                   According to the General Staff of the Armed Forces of Ukraine,{" "}
                   <strong>four ships</strong> sustained damage of varying
                   severity: both 11356R-class frigates — Admiral Essen and
-                  Admiral Makarov — the Project 21631 &ldquo;Buyan-M&rdquo;
-                  missile corvette, and the Project 22160 patrol ship
-                  &ldquo;Vasily Bykov.&rdquo;
+                  Admiral Makarov — the Project 21631 “Buyan-M” missile
+                  corvette, and the Project 22160 patrol ship “Vasily Bykov.”
                   <a className="ref" href="#ref-14">
                     [14]
                   </a>{" "}
-                  Ukraine&apos;s Defence Intelligence (HUR) specified that the
+                  Ukraineʼs Defence Intelligence (HUR) specified that the
                   operation was a joint <em>deep-strike</em> effort: operators
-                  from HUR&apos;s Active Actions Department and Unmanned Systems
+                  from HURʼs Active Actions Department and Unmanned Systems
                   Department, the SBU, the Navy, and the State Border Guard
                   Service worked together with the General Staff. Beyond the
-                  ships, the strike also hit the &ldquo;Grushovaya&rdquo; oil
-                  depot, the Sheskharis oil-loading terminal, and a 30N6E radar
-                  from an S-300 air-defence battery.
+                  ships, the strike also hit the “Grushovaya” oil depot, the
+                  Sheskharis oil-loading terminal, and a 30N6E radar from an
+                  S-300 air-defence battery.
                   <a className="ref" href="#ref-15">
                     [15]
                   </a>
@@ -1293,13 +1286,12 @@ export default function Page() {
                     Extent of damage still being assessed
                   </div>
                   Satellite imagery makes the precise extent of damage hard to
-                  establish — Ukraine&apos;s General Staff explicitly describes
-                  the information as preliminary. Burn marks are nonetheless
-                  visible near the Caliber launch cells on both frigates. For
-                  Essen, this is already at least its <strong>fifth</strong>{" "}
-                  documented hit of the war; for Makarov, its third confirmed
-                  one (after the USV attack of 29.10.2022 and the strike of
-                  06.04.2026).
+                  establish — Ukraineʼs General Staff explicitly describes the
+                  information as preliminary. Burn marks are nonetheless visible
+                  near the Caliber launch cells on both frigates. For Essen,
+                  this is already at least its <strong>fifth</strong> documented
+                  hit of the war; for Makarov, its third confirmed one (after
+                  the USV attack of 29.10.2022 and the strike of 06.04.2026).
                 </div>
 
                 <p>
@@ -1309,15 +1301,14 @@ export default function Page() {
                   not named in the official HUR and General Staff statements: a
                   Project 266M-class minesweeper showing signs of fire,
                   infrastructure of the 4th Submarine Brigade, the Project 22160
-                  patrol ship &ldquo;Vasily Bykov&rdquo; fitted with a Tor-M2KM
-                  air-defence system, the Project 20360OS &ldquo;Viktor
-                  Cherokov,&rdquo; the Project 864 support vessel
-                  &ldquo;Priazovye,&rdquo; and an unidentified cargo ship.
+                  patrol ship “Vasily Bykov” fitted with a Tor-M2KM air-defence
+                  system, the Project 20360OS “Viktor Cherokov,” the Project 864
+                  support vessel “Priazovye,” and an unidentified cargo ship.
                 </p>
 
                 <div className="aside-note">
                   <div className="aside-note__lbl">
-                    Essen&apos;s pre-war commanding officers
+                    Essenʼs pre-war commanding officers
                   </div>
                   <p style={{ margin: 0 }}>
                     <strong>Sergei Tomashkov</strong> (2014 – December 2016) —
@@ -1369,9 +1360,9 @@ export default function Page() {
                       </p>
                       <p>
                         In spring 2023 he was promoted — appointed deputy
-                        commander of the BSF&apos;s 30th Surface Ships Division
-                        (the same post Serhiy Romanenko moved into from Makarov
-                        in late 2022).
+                        commander of the BSFʼs 30th Surface Ships Division (the
+                        same post Serhiy Romanenko moved into from Makarov in
+                        late 2022).
                       </p>
                     </div>
                   </div>
@@ -1391,7 +1382,7 @@ export default function Page() {
                         frigate <a href="#ship-makarov">Admiral Makarov</a>. In
                         spring 2023 he took command of Essen from Alexander
                         Smirnov — likely just ahead of the May festivities
-                        marking the BSF&apos;s 240th anniversary. Officially
+                        marking the BSFʼs 240th anniversary. Officially
                         confirmed in the post as of October 2025.
                       </p>
                       <div className="callout">
@@ -1410,8 +1401,8 @@ export default function Page() {
                         was based at Sevastopol.
                       </div>
                       <p>
-                        It was under Kruhlov&apos;s command that Essen went
-                        through all four documented hits at Novorossiysk in 2026
+                        It was under Kruhlovʼs command that Essen went through
+                        all four documented hits at Novorossiysk in 2026
                         described above.
                       </p>
                     </div>
@@ -1473,7 +1464,7 @@ export default function Page() {
 
                 <div className="episode">
                   <div className="episode__date">14.04.2022 · BSF</div>
-                  <h3 className="episode__h">Moskva&apos;s Legacy</h3>
+                  <h3 className="episode__h">Moskvaʼs Legacy</h3>
                 </div>
 
                 <p>
@@ -1483,9 +1474,9 @@ export default function Page() {
                   until 2020 had commanded Makarov itself, and before that{" "}
                   <a href="#ship-essen">Essen</a>. The flagship status passed to
                   Admiral Makarov — <em>by residual default</em>. Among the
-                  BSF&apos;s combat-ready ships it was the most capable and
-                  newest vessel with long-range missile armament: 8 Caliber
-                  launch cells.
+                  BSFʼs combat-ready ships it was the most capable and newest
+                  vessel with long-range missile armament: 8 Caliber launch
+                  cells.
                 </p>
 
                 <div className="callout">
@@ -1504,7 +1495,7 @@ export default function Page() {
                   The de facto flagship was at that point actually commanded by
                   Captain 2nd Rank <strong>Serhiy Romanenko</strong>, who had
                   taken over the ship back in the autumn of 2020 — he is the one
-                  who gave the orders for the war&apos;s first missile strikes.
+                  who gave the orders for the warʼs first missile strikes.
                   <a className="ref" href="#ref-17">
                     [17]
                   </a>{" "}
@@ -1545,7 +1536,7 @@ export default function Page() {
                   precision strike with two sea-launched{" "}
                   <strong>3M-14T Caliber</strong> cruise missiles against the
                   Prydniprovska thermal power station in Dnipropetrovsk Oblast.
-                  The strike caused major damage to the plant&apos;s buildings,
+                  The strike caused major damage to the plantʼs buildings,
                   property and equipment, and damaged nearby homes and cars
                   <a className="ref" href="#ref-21">
                     [21]
@@ -1559,9 +1550,9 @@ export default function Page() {
                     [7]
                   </a>{" "}
                   Then, on <strong>28 August 2026</strong>, the SBU and the
-                  Prosecutor General&apos;s Office announced suspicions against
-                  two more figures in the same strike under Part 1, Art. 438 of
-                  Ukraine&apos;s Criminal Code (war crimes). The investigation
+                  Prosecutor Generalʼs Office announced suspicions against two
+                  more figures in the same strike under Part 1, Art. 438 of
+                  Ukraineʼs Criminal Code (war crimes). The investigation
                   divides their roles as follows: Captain 1st rank{" "}
                   <strong>Oleh Kniazev</strong>, chief of staff and first deputy
                   commander of the 30th Surface Ships Division,{" "}
@@ -1585,9 +1576,9 @@ export default function Page() {
                   The SBU notice moves a boundary that until now rested on an
                   OSINT reconstruction. The handover of Makarov from Serhiy
                   Romanenko to Denys Kudashkin used to be dated to the summer of
-                  2022, on the basis of Kudashkin&apos;s own remarks, which are
-                  open to more than one reading. It is now on record that as of
-                  18 October 2022 the frigate was still commanded by Romanenko,
+                  2022, on the basis of Kudashkinʼs own remarks, which are open
+                  to more than one reading. It is now on record that as of 18
+                  October 2022 the frigate was still commanded by Romanenko,
                   while the first documentary reference to Kudashkin as
                   commanding officer is December 2022, when the fleet commander
                   presented the Best Ship cup and the fleet newspaper named him
@@ -1606,7 +1597,7 @@ export default function Page() {
                 <div className="episode">
                   <div className="episode__date">29.10.2022 · Sevastopol</div>
                   <h3 className="episode__h">
-                    The World&apos;s First USV Operation
+                    The Worldʼs First USV Operation
                   </h3>
                 </div>
 
@@ -1709,7 +1700,7 @@ export default function Page() {
                   radar armament, on the outer roadstead, under cover of
                   shore-based air defences —{" "}
                   <strong>changed that perception</strong>. Eleven months later,
-                  the BSF&apos;s surface fleet would begin relocating to
+                  the BSFʼs surface fleet would begin relocating to
                   Novorossiysk.
                 </div>
 
@@ -1741,8 +1732,8 @@ export default function Page() {
                 </div>
 
                 <p>
-                  In the night of 2 March 2026, Ukraine&apos;s Security Forces
-                  and Defence Forces conducted a combined strike against
+                  In the night of 2 March 2026, Ukraineʼs Security Forces and
+                  Defence Forces conducted a combined strike against
                   Novorossiysk. Among the ships struck were Admiral Essen and
                   Admiral Makarov. However, notwithstanding official statements
                   regarding damage to Makarov, corroborating evidence from
@@ -1788,13 +1779,12 @@ export default function Page() {
                 <p>
                   In the night of 12 August 2026, Makarov sustained another
                   confirmed hit — this time as part of a large joint deep-strike
-                  operation by Ukraine&apos;s Defence Intelligence (HUR), the
-                  SBU, the Navy, and the Defence Forces, alongside Essen, the
-                  patrol ship &ldquo;Vasily Bykov,&rdquo; and the
-                  &ldquo;Buyan-M&rdquo; missile corvette. President Zelensky
-                  called the operation &ldquo;unique&rdquo; given the
-                  target&apos;s distance — more than 300 km from the front line.
-                  A full account of the operation appears in the Admiral Essen
+                  operation by Ukraineʼs Defence Intelligence (HUR), the SBU,
+                  the Navy, and the Defence Forces, alongside Essen, the patrol
+                  ship “Vasily Bykov,” and the “Buyan-M” missile corvette.
+                  President Zelensky called the operation “unique” given the
+                  targetʼs distance — more than 300 km from the front line. A
+                  full account of the operation appears in the Admiral Essen
                   section above.
                   <a className="ref" href="#ref-13">
                     [13]
@@ -1803,7 +1793,7 @@ export default function Page() {
 
                 <div className="aside-note">
                   <div className="aside-note__lbl">
-                    Makarov&apos;s pre-war commanding officers
+                    Makarovʼs pre-war commanding officers
                   </div>
                   <p style={{ margin: "6px 0 10px" }}>
                     <strong>Hryhoriy Breev</strong> (2016 – autumn 2019, Captain
@@ -1818,10 +1808,10 @@ export default function Page() {
                       Ukrainian command and took an oath to the Russian Armed
                       Forces.
                     </strong>{" "}
-                    Ukraine&apos;s State Bureau of Investigations filed a notice
-                    of suspicion for high treason (Art. 111 Part 1 of the
-                    Criminal Code); on 7 June 2023 a court convicted him in
-                    absentia and sentenced him to 15 years.
+                    Ukraineʼs State Bureau of Investigations filed a notice of
+                    suspicion for high treason (Art. 111 Part 1 of the Criminal
+                    Code); on 7 June 2023 a court convicted him in absentia and
+                    sentenced him to 15 years.
                     <a className="ref" href="#ref-10">
                       [10]
                     </a>
@@ -1830,10 +1820,10 @@ export default function Page() {
                     <strong>Anton Kuprin</strong> (autumn 2019 – summer 2020,
                     Captain 2nd rank) — before Makarov he had commanded{" "}
                     <a href="#ship-essen">Essen</a>. In November 2019 he
-                    reported successful Caliber launches during the
-                    &ldquo;Ocean-2019&rdquo; exercises. After summer 2020 he was
-                    transferred to command the missile cruiser Moskva, where he
-                    was killed on 14 April 2022 by a Neptune missile strike.
+                    reported successful Caliber launches during the “Ocean-2019”
+                    exercises. After summer 2020 he was transferred to command
+                    the missile cruiser Moskva, where he was killed on 14 April
+                    2022 by a Neptune missile strike.
                   </p>
                 </div>
 
@@ -1857,14 +1847,14 @@ export default function Page() {
                       <p>
                         Born in Sevastopol (b. 15.06.1981). A 2004 graduate of
                         the Saint Petersburg Naval Institute, and in 2009
-                        completed the Russian Navy&apos;s Advanced Special
-                        Officer Courses. Before Makarov — executive officer on
-                        the patrol ship Smetlivy.
+                        completed the Russian Navyʼs Advanced Special Officer
+                        Courses. Before Makarov — executive officer on the
+                        patrol ship Smetlivy.
                       </p>
                       <p>
                         Took command of the ship in the autumn of 2020. Press
-                        reports cite him as the frigate&apos;s commanding
-                        officer during deployments to the Syrian port of Tartus
+                        reports cite him as the frigateʼs commanding officer
+                        during deployments to the Syrian port of Tartus
                         (30.09.2020), and in April–May 2021 he commanded the
                         ship in the Mediterranean while shadowing a US carrier
                         strike group.
@@ -1873,12 +1863,12 @@ export default function Page() {
                         </a>
                       </p>
                       <p>
-                        Was Makarov&apos;s de facto commanding officer{" "}
+                        Was Makarovʼs de facto commanding officer{" "}
                         <strong>at the start of the full-scale invasion</strong>{" "}
-                        (from February 2022), giving the orders for the
-                        war&apos;s first missile strikes. In late 2022 he moved
-                        to the post of deputy commander of the BSF&apos;s 30th
-                        Surface Ships Division.
+                        (from February 2022), giving the orders for the warʼs
+                        first missile strikes. In late 2022 he moved to the post
+                        of deputy commander of the BSFʼs 30th Surface Ships
+                        Division.
                       </p>
                     </div>
                   </div>
@@ -1919,33 +1909,31 @@ export default function Page() {
                         <a className="ref" href="#ref-18">
                           [18]
                         </a>{" "}
-                        In December 2022 the ship received the &ldquo;Best Ship
-                        (Submarine), 1st and 2nd Rank, of the Black Sea
-                        Fleet&rdquo; cup, handed over personally by the fleet
-                        commander at a session of the BSF Military Council
+                        In December 2022 the ship received the “Best Ship
+                        (Submarine), 1st and 2nd Rank, of the Black Sea Fleet”
+                        cup, handed over personally by the fleet commander at a
+                        session of the BSF Military Council
                         <a className="ref" href="#ref-22">
                           [22]
                         </a>
                         . This is the first documentary reference to Kudashkin
-                        as the frigate&apos;s commanding officer, and the point
-                        from which we date his command. In the fleet
-                        newspaper&apos;s account the commander said of the crew
-                        of Admiral Makarov,{" "}
-                        <em>
-                          &ldquo;commanded by Captain 3rd Rank Kudashkin&rdquo;
-                        </em>
-                        , that it had &ldquo;shown high proficiency and
-                        professional skill in the course of the special military
-                        operation.&rdquo; In spring 2023 he was featured in a
-                        Solovyov TV segment, where he confirmed he had
-                        &ldquo;risen through the ranks on this very ship.&rdquo;
+                        as the frigateʼs commanding officer, and the point from
+                        which we date his command. In the fleet newspaperʼs
+                        account the commander said of the crew of Admiral
+                        Makarov,{" "}
+                        <em>“commanded by Captain 3rd Rank Kudashkin”</em>, that
+                        it had “shown high proficiency and professional skill in
+                        the course of the special military operation.” In spring
+                        2023 he was featured in a Solovyov TV segment, where he
+                        confirmed he had “risen through the ranks on this very
+                        ship.”
                       </p>
                       <p>
                         Handed over command to Havrylchenko in the autumn
                         (around October) of 2023. After a pause, in late 2025 he
                         was transferred to command the sister frigate{" "}
                         <a href="#ship-grigorovich">Admiral Grigorovich</a> —
-                        detailed in that ship&apos;s section.
+                        detailed in that shipʼs section.
                       </p>
                     </div>
                   </div>
@@ -2004,10 +1992,10 @@ export default function Page() {
             hull 693) — the only two Project 11661K frigates in the Russian
             Navy. Both were laid down at the Zelenodolsk Plant named after A.M.
             Gorky during the Soviet period (1990 and 1991), but due to the
-            USSR&apos;s collapse and lack of funding took 10–20 years to
-            complete. Tatarstan was commissioned on 31 August 2003, Dagestan on
-            28 November 2012. Both ships are based at Kaspiysk and assigned to
-            the 106th Surface Ships Brigade of the Caspian Flotilla. Sharing the
+            USSRʼs collapse and lack of funding took 10–20 years to complete.
+            Tatarstan was commissioned on 31 August 2003, Dagestan on 28
+            November 2012. Both ships are based at Kaspiysk and assigned to the
+            106th Surface Ships Brigade of the Caspian Flotilla. Sharing the
             same hull and propulsion, the ships carry{" "}
             <strong>fundamentally different strike armament</strong> — and it is
             precisely this that makes them two distinct threat categories.
@@ -2117,9 +2105,9 @@ export default function Page() {
                       </p>
                       <p>
                         In October 2025 he was promoted to commander of the
-                        Caspian Flotilla&apos;s surface ships and boats division
-                        — meaning he continues to oversee Tatarstan from a
-                        higher level of the command structure.
+                        Caspian Flotillaʼs surface ships and boats division —
+                        meaning he continues to oversee Tatarstan from a higher
+                        level of the command structure.
                       </p>
                     </div>
                   </div>
@@ -2145,9 +2133,9 @@ export default function Page() {
                   <a className="ref" href="#ref-11">
                     [11]
                   </a>{" "}
-                  Governor Melikov reported only the &ldquo;destruction of a UAV
-                  by air defences&rdquo;; Makhachkala airport was suspended. The
-                  fact that within a month Tatarstan had departed on an extended
+                  Governor Melikov reported only the “destruction of a UAV by
+                  air defences”; Makhachkala airport was suspended. The fact
+                  that within a month Tatarstan had departed on an extended
                   voyage calling at Aktau allows the damage to be assessed as{" "}
                   <strong>non-critical</strong>.
                 </p>
@@ -2272,11 +2260,11 @@ export default function Page() {
                   <div className="episode__date">
                     07.10.2015 · Caspian → Syria
                   </div>
-                  <h3 className="episode__h">&ldquo;Caspian Sword&rdquo;</h3>
+                  <h3 className="episode__h">“Caspian Sword”</h3>
                 </div>
 
                 <p>
-                  Putin&apos;s birthday. That night, Dagestan and three Buyan-Ms
+                  Putinʼs birthday. That night, Dagestan and three Buyan-Ms
                   fired <strong>26 Caliber-NK cruise missiles</strong> at 11
                   ISIS targets in Syria. The missiles flew over 1,500 km above
                   Iran and Iraq.{" "}
@@ -2315,11 +2303,11 @@ export default function Page() {
                   2023–2024. Defense Express assessed the most likely period of
                   active launches as April–May 2024. The first documented video
                   confirmation of Calibers flying over the Caspian appeared on{" "}
-                  <strong>8 July 2024</strong> — the day of the strike on
-                  Kyiv&apos;s Okhmatdyt hospital; on the same day a missile that
-                  went off course fell and exploded in Kalmykia. Whether
-                  Dagestan specifically launched has not been publicly
-                  confirmed, but it is{" "}
+                  <strong>8 July 2024</strong> — the day of the strike on Kyivʼs
+                  Okhmatdyt hospital; on the same day a missile that went off
+                  course fell and exploded in Kalmykia. Whether Dagestan
+                  specifically launched has not been publicly confirmed, but it
+                  is{" "}
                   <strong>
                     the only frigate in the flotilla technically capable of
                     doing so
@@ -2336,8 +2324,8 @@ export default function Page() {
                   The first and only documented Ukrainian UAV attack in which
                   Dagestan figured among the probable targets. OSINT researcher
                   MT_Anderson published imagery showing the dispersal of the
-                  Caspian Flotilla — &ldquo;the surviving ships were scattered
-                  across the sea.&rdquo;
+                  Caspian Flotilla — “the surviving ships were scattered across
+                  the sea.”
                 </p>
 
                 <div className="callout">
@@ -2372,7 +2360,7 @@ export default function Page() {
                       <p>
                         Born in the village of Dylim, Kasbukov District,
                         Republic of Dagestan. Graduated from the St. Petersburg
-                        Naval Institute and the Advanced Special Officers&apos;
+                        Naval Institute and the Advanced Special Officersʼ
                         Courses of the Russian Navy.
                       </p>
                       <p>
@@ -2385,11 +2373,11 @@ export default function Page() {
                         <strong>since 2015</strong>.
                       </p>
                       <p>
-                        Dadaev&apos;s move to Dagestan in 2015 coincided with
-                        the pivotal moment when the ship became the Caspian
-                        Flotilla&apos;s principal Caliber carrier — he was
-                        already the commanding officer at the time of its first
-                        combat use in Syria in 2015.
+                        Dadaevʼs move to Dagestan in 2015 coincided with the
+                        pivotal moment when the ship became the Caspian
+                        Flotillaʼs principal Caliber carrier — he was already
+                        the commanding officer at the time of its first combat
+                        use in Syria in 2015.
                       </p>
                     </div>
                   </div>
@@ -2400,8 +2388,8 @@ export default function Page() {
 
           {/* ===== § 03 OUTRO ===== */}
           <h2 id="sec-next">
-            <span className="h2-num">§ 03 · What&apos;s Next</span>MRKs,
-            Karakurts, Varshavyankas
+            <span className="h2-num">§ 03 · Whatʼs Next</span>MRKs, Karakurts,
+            Varshavyankas
           </h2>
 
           <p>
@@ -2487,8 +2475,8 @@ export default function Page() {
                 Benjamin Pittet (OSINT). Imagery of Sevastopol Bay · 01.11.2022.
               </li>
               <li id="ref-9">
-                Unmanned Systems Forces / Exilenova+ / t/k &ldquo;Magyar&rdquo;.
-                Strike on Sheskharis · 06.04.2026.
+                Unmanned Systems Forces / Exilenova+ / t/k “Magyar”. Strike on
+                Sheskharis · 06.04.2026.
               </li>
               <li id="ref-10">
                 State Bureau of Investigations of Ukraine. Notice of suspicion
@@ -2531,39 +2519,39 @@ export default function Page() {
                 RIA Novosti. Graded exercises of the Caspian Flotilla · 08.2025.
               </li>
               <li id="ref-12">
-                1st Separate Centre, Unmanned Systems Forces / Robert
-                &ldquo;Magyar&rdquo; Brovdi. Fourth strike on Admiral Essen ·
-                Novorossiysk · 23.05.2026.
+                1st Separate Centre, Unmanned Systems Forces / Robert “Magyar”
+                Brovdi. Fourth strike on Admiral Essen · Novorossiysk ·
+                23.05.2026.
               </li>
               <li id="ref-13">
                 President of Ukraine Volodymyr Zelensky. Statement on the
                 Novorossiysk operation · 12.08.2026.
               </li>
               <li id="ref-14">
-                General Staff of the Armed Forces of Ukraine. &ldquo;Four enemy
-                warships struck at Novorossiysk&rdquo; · 12.08.2026.
+                General Staff of the Armed Forces of Ukraine. “Four enemy
+                warships struck at Novorossiysk” · 12.08.2026.
               </li>
               <li id="ref-15">
-                Defence Intelligence of Ukraine (HUR). &ldquo;Essen, Makarov,
-                Bykov — enemy ships and other high-value targets struck at
-                Novorossiysk&rdquo; · 12.08.2026.
+                Defence Intelligence of Ukraine (HUR). “Essen, Makarov, Bykov —
+                enemy ships and other high-value targets struck at Novorossiysk”
+                · 12.08.2026.
               </li>
               <li id="ref-16">
                 SBU. Attribution of the strike on the Flex plant in Mukachevo to
-                Admiral Makarov&apos;s commanding officer S. Havrylchenko ·
-                UA.News, ZN.UA · 08.2025.
+                Admiral Makarovʼs commanding officer S. Havrylchenko · UA.News,
+                ZN.UA · 08.2025.
               </li>
               <li id="ref-17">
-                OSINT reconstruction of S. Romanenko&apos;s command of Admiral
+                OSINT reconstruction of S. Romanenkoʼs command of Admiral
                 Makarov · Krym.Realii, 1TV, Nezavisimoye Voyennoye Obozreniye ·
                 2020–2022.
               </li>
               <li id="ref-18">
-                OSINT reconstruction of D. Kudashkin&apos;s command during the
+                OSINT reconstruction of D. Kudashkinʼs command during the
                 29.10.2022 naval drone attack · Krym.Realii.
               </li>
               <li id="ref-19">
-                Sevastopol city government. Report on the BSF&apos;s 240th
+                Sevastopol city government. Report on the BSFʼs 240th
                 anniversary celebrations — commendation of Captain 3rd Rank A.
                 Kruhlov as commanding officer of Admiral Grigorovich ·
                 Sevastopol.su, 13.05.2023.
@@ -2575,18 +2563,18 @@ export default function Page() {
                 03.02.2026.
               </li>
               <li id="ref-21">
-                SBU and the Prosecutor General&apos;s Office. Notices of
-                suspicion against Captain 1st rank O. Kniazev and Captain 2nd
-                rank S. Romanenko over the strike on the Prydniprovska thermal
-                power station · Part 1, Art. 438 of Ukraine&apos;s Criminal Code
-                · 28.08.2026.
+                SBU and the Prosecutor Generalʼs Office. Notices of suspicion
+                against Captain 1st rank O. Kniazev and Captain 2nd rank S.
+                Romanenko over the strike on the Prydniprovska thermal power
+                station · Part 1, Art. 438 of Ukraineʼs Criminal Code ·
+                28.08.2026.
               </li>
               <li id="ref-22">
-                Flag Rodiny, newspaper of Russia&apos;s Black Sea Fleet
-                (Sevastopol) — the fleet commander&apos;s remarks on the results
-                of the training year: presentation of the &ldquo;Best
-                Ship&rdquo; cup to the commanding officer of Admiral Makarov,
-                Captain 3rd Rank D. Kudashkin · December 2022.
+                Flag Rodiny, newspaper of Russiaʼs Black Sea Fleet (Sevastopol)
+                — the fleet commanderʼs remarks on the results of the training
+                year: presentation of the “Best Ship” cup to the commanding
+                officer of Admiral Makarov, Captain 3rd Rank D. Kudashkin ·
+                December 2022.
               </li>
             </ol>
           </section>
