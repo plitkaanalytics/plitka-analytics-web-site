@@ -335,7 +335,7 @@ p {
   color: var(--red);
 }
 
-/* ===== Image placeholders ===== */
+/* ===== Inline portrait frame ===== */
 
 .ph {
   background: repeating-linear-gradient(
@@ -356,71 +356,17 @@ p {
   position: relative;
   overflow: hidden;
 }
-.ph--cream {
-  background: repeating-linear-gradient(
-    135deg,
-    #f8d7c0 0 8px,
-    #f2cab0 8px 16px
-  );
-  color: var(--rust);
-}
-.ph--blue {
-  background: repeating-linear-gradient(
-    135deg,
-    #cfe0f1 0 8px,
-    #bfd3e8 8px 16px
-  );
-  color: var(--steelB);
-}
-.ph--dark {
-  background: repeating-linear-gradient(
-    135deg,
-    #1a2a3e 0 8px,
-    #0e1b2a 8px 16px
-  );
-  color: #b8c4d2;
-}
 .ph__label {
   background: rgba(255, 255, 255, 0.85);
   padding: 6px 10px;
   border: 1px solid var(--rule);
   z-index: 1;
 }
-.ph--dark .ph__label {
-  background: rgba(14, 27, 42, 0.85);
-  border-color: var(--steelB);
-  color: #deebf7;
-}
 .ph__corners {
   position: absolute;
   inset: 8px;
   border: 1px solid rgba(0, 0, 0, 0.15);
   pointer-events: none;
-}
-.ph--dark .ph__corners {
-  border-color: rgba(255, 255, 255, 0.2);
-}
-.ph__cross::before,
-.ph__cross::after {
-  content: "";
-  position: absolute;
-  background: rgba(0, 0, 0, 0.25);
-}
-.ph__cross::before {
-  left: 50%;
-  top: 8px;
-  bottom: 8px;
-  width: 1px;
-}
-.ph__cross::after {
-  top: 50%;
-  left: 8px;
-  right: 8px;
-  height: 1px;
-}
-.ph--dark.ph__cross::before,
-.ph--dark.ph__cross::after {
-  background: rgba(255, 255, 255, 0.3);
 }
 
 /* ===== Card (photo overlay, date + title — same everywhere: homepage,
@@ -504,18 +450,6 @@ p {
 .card--photo .card__title {
   position: relative;
   z-index: 2;
-}
-
-/* ===== Clickable card (stretched-link pattern) ===== */
-
-.card--link {
-  position: relative;
-}
-.stretched-link::after {
-  position: absolute;
-  inset: 0;
-  z-index: 1;
-  content: "";
 }
 
 /* ===== Section on beige ===== */
@@ -650,17 +584,6 @@ p {
 }
 .btn--red:hover {
   background: var(--orange);
-}
-.btn--ghost {
-  background: transparent;
-  color: var(--ink);
-  border: 1px solid var(--taupe);
-  padding: 11px 31px;
-}
-.btn--ghost:hover {
-  background: var(--taupe);
-  color: #fff;
-  border-color: var(--taupe);
 }
 
 /* ===== Tags / chips ===== */
@@ -895,12 +818,6 @@ p {
 .ptile--accent .ptile__code {
   color: var(--rust);
 }
-.ptile--blue {
-  background: var(--blue);
-}
-.ptile--blue .ptile__code {
-  color: var(--steelB);
-}
 .ptile--link {
   text-decoration: none;
   color: inherit;
@@ -908,37 +825,6 @@ p {
 }
 .ptile--link:hover {
   opacity: 0.8;
-}
-
-.panel-dark {
-  background: var(--navy);
-  color: #dce3eb;
-  padding: 56px 0;
-}
-.panel-dark .section__title {
-  color: #fff;
-}
-.panel-dark .section__head {
-  border-bottom-color: #28384c;
-}
-.panel-dark .section__more {
-  color: #fff;
-}
-.panel-dark .card__title {
-  color: #fff;
-}
-.panel-dark .card__title a:hover {
-  color: var(--red);
-}
-.panel-dark .card__dek {
-  color: #b8c4d2;
-}
-.panel-dark .card__tag {
-  color: #f08080;
-}
-.panel-dark .card__meta {
-  color: #8fa1b5;
-  border-top-color: #28384c;
 }
 
 .data-row {
@@ -949,26 +835,6 @@ p {
   border-bottom: 1px solid var(--rule);
   align-items: baseline;
   font-size: 15px;
-}
-.data-row--head {
-  font-family: var(--mono);
-  font-size: 11px;
-  letter-spacing: 0.14em;
-  text-transform: uppercase;
-  color: var(--slate);
-  border-bottom: 2px solid var(--navy);
-  padding-bottom: 10px;
-  font-weight: 700;
-}
-.data-row__date {
-  font-family: var(--mono);
-  font-size: 12px;
-  color: var(--steelB);
-}
-.data-row__name {
-  font-family: var(--serif);
-  font-size: 17px;
-  color: var(--navy);
 }
 .data-row__status {
   font-family: var(--mono);
@@ -990,12 +856,6 @@ p {
   color: var(--slate);
 }
 
-.twocol {
-  display: grid;
-  grid-template-columns: 2fr 1fr;
-  gap: 48px;
-}
-
 .stats {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
@@ -1009,66 +869,6 @@ p {
 }
 .stat:last-child {
   border-right: none;
-}
-.stat__num {
-  font-family: var(--serif);
-  font-size: 48px;
-  font-weight: 700;
-  line-height: 1;
-  color: var(--navy);
-  margin-bottom: 8px;
-}
-.stat__num small {
-  font-size: 22px;
-  color: var(--red);
-  font-weight: 700;
-}
-.stat__lbl {
-  font-family: var(--mono);
-  font-size: 11px;
-  letter-spacing: 0.14em;
-  text-transform: uppercase;
-  color: var(--slate);
-}
-
-.newsletter {
-  background: var(--cream);
-  padding: 48px 0;
-  border-top: 1px solid var(--rule);
-  border-bottom: 1px solid var(--rule);
-}
-.newsletter__grid {
-  display: grid;
-  grid-template-columns: 1.4fr 1fr;
-  gap: 48px;
-  align-items: center;
-}
-.newsletter h2 {
-  font-size: 36px;
-  color: var(--rust);
-  margin-bottom: 12px;
-}
-.newsletter p {
-  font-size: 16px;
-  color: var(--navy);
-  margin: 0;
-}
-.nlform {
-  display: flex;
-  gap: 8px;
-}
-.nlform input {
-  flex: 1;
-  border: 1px solid var(--rust);
-  background: #fff;
-  padding: 14px 16px;
-  font-family: var(--sans);
-  font-size: 16px;
-  color: var(--navy);
-}
-.nlform input:focus {
-  outline: 2px solid var(--rust);
-  outline-offset: -2px;
 }
 
 /* ===== Article page ===== */
@@ -1149,27 +949,6 @@ p {
   border-bottom: 1px solid var(--rule);
   text-align: left;
 }
-.meta__lbl {
-  font-family: var(--mono);
-  font-size: 10.5px;
-  letter-spacing: 0.16em;
-  text-transform: uppercase;
-  color: var(--slate);
-  display: block;
-  margin-bottom: 4px;
-  font-weight: 700;
-}
-.meta__val {
-  font-family: var(--sans);
-  font-size: 15px;
-  color: var(--navy);
-  font-weight: 600;
-}
-.meta__val--mono {
-  font-family: var(--mono);
-  font-size: 12px;
-  letter-spacing: 0.05em;
-}
 
 /* Dark intro: articles that open with a big infographic keep the head and the
    chart as one continuous dark block instead of a white-to-dark cut. */
@@ -1198,12 +977,6 @@ p {
 .dark-intro .article-head__meta {
   border-top-color: rgba(255, 255, 255, 0.25);
   border-bottom-color: rgba(255, 255, 255, 0.15);
-}
-.dark-intro .meta__lbl {
-  color: var(--warm-gray);
-}
-.dark-intro .meta__val {
-  color: #fff;
 }
 .dark-intro .chip {
   border-color: rgba(255, 255, 255, 0.35);
@@ -1241,17 +1014,6 @@ p {
 .lead-img .ph {
   aspect-ratio: 21 / 10;
   border-radius: var(--radius-card);
-}
-.lead-img__caption {
-  font-family: var(--mono);
-  font-size: 11px;
-  letter-spacing: 0.05em;
-  color: var(--slate);
-  padding: 12px 0;
-  border-bottom: 1px solid var(--rule);
-  display: flex;
-  justify-content: space-between;
-  gap: 16px;
 }
 
 /* Lede block: cover photo to the left of the opening paragraph — every
@@ -1560,15 +1322,6 @@ p {
   height: 100%;
   background: var(--red);
 }
-.bar__fill--rust {
-  background: var(--rust);
-}
-.bar__fill--steel {
-  background: var(--steelB);
-}
-.bar__fill--navy {
-  background: var(--navy);
-}
 .bar__val {
   color: var(--navy);
   text-align: right;
@@ -1607,12 +1360,6 @@ p {
 .related .section__head {
   margin-bottom: 28px;
 }
-.related__grid {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 32px;
-  align-items: start;
-}
 .related .card__img {
   aspect-ratio: 16 / 10;
 }
@@ -1624,57 +1371,6 @@ p {
   grid-template-columns: repeat(3, 1fr);
   gap: 40px 32px;
   align-items: start;
-}
-
-/* ===== Pagination ===== */
-
-.pagination {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  margin-top: 56px;
-  padding-top: 24px;
-  border-top: 1px solid var(--rule);
-  gap: 16px;
-}
-.pagination__btn {
-  font: 600 11px/1 var(--mono);
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-  color: var(--navy);
-  text-decoration: none;
-  padding: 8px 16px;
-  border: 1px solid var(--rule);
-}
-.pagination__btn:hover {
-  border-color: var(--navy);
-}
-.pagination__btn--disabled {
-  opacity: 0.3;
-  cursor: default;
-}
-.pagination__pages {
-  display: flex;
-  gap: 4px;
-}
-.pagination__num {
-  font: 600 11px/1 var(--mono);
-  color: var(--navy);
-  text-decoration: none;
-  width: 32px;
-  height: 32px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  border: 1px solid transparent;
-}
-.pagination__num:hover {
-  border-color: var(--rule);
-}
-.pagination__num--active {
-  background: var(--navy);
-  color: #fff;
-  border-color: var(--navy);
 }
 
 /* ===== Responsive ===== */
@@ -1696,15 +1392,11 @@ p {
     padding: 0 20px;
   }
   .nav,
-  .lang-switch {
+.lang-switch {
     display: none;
   }
   .nav-toggle {
     display: flex;
-  }
-  .hero__grid {
-    grid-template-columns: 1fr;
-    gap: 32px;
   }
   .grid-3 {
     grid-template-columns: 1fr;
@@ -1721,26 +1413,14 @@ p {
   .stat {
     border-bottom: 1px solid var(--rule);
   }
-  .twocol {
-    grid-template-columns: 1fr;
-  }
-  .newsletter__grid {
-    grid-template-columns: 1fr;
-  }
   .data-row {
     grid-template-columns: 1fr;
     gap: 4px;
-  }
-  .data-row--head {
-    display: none;
   }
   .article-head__meta {
     grid-template-columns: 1fr 1fr;
   }
   .articles-grid {
-    grid-template-columns: 1fr;
-  }
-  .related__grid {
     grid-template-columns: 1fr;
   }
 }
@@ -1833,7 +1513,6 @@ p {
   font-family: var(--serif);
   font-size: 21px;
   font-weight: 700;
-  margin: 6px 0 24px;
   color: var(--navy);
 }
 .article-body h4 {
@@ -2020,7 +1699,7 @@ details.expander > .expander__body {
 /* ===== Ship dossier (collapsible) ===== */
 
 .dossier {
-  margin: 36px 0 0;
+  margin: 36px 0 20px;
 }
 .dossier__intro {
   font-size: 16px;
@@ -2090,9 +1769,6 @@ details.expander > .expander__body {
 .dossier-card--sub .dossier-card__proj {
   color: var(--navy);
 }
-.dossier-card--fake .dossier-card__proj {
-  color: var(--red);
-}
 
 .dossier-card__name {
   font-family: var(--serif);
@@ -2124,10 +1800,6 @@ details.expander > .expander__body {
   border: 1px solid var(--rule);
   color: var(--slate);
 }
-.dossier-card__chip--ok {
-  color: var(--red);
-  border-color: var(--red);
-}
 .dossier-card__chip--lost {
   color: var(--rust);
   border-color: var(--rust);
@@ -2136,11 +1808,6 @@ details.expander > .expander__body {
 .dossier-card__chip--doubt {
   color: var(--steelB);
   border-color: var(--steelB);
-}
-.dossier-card__chip--fake {
-  color: #fff;
-  background: var(--red);
-  border-color: var(--red);
 }
 .dossier-card__toggle {
   font-family: var(--mono);
@@ -2193,6 +1860,10 @@ details.expander > .expander__body {
   padding: 14px;
   border: 1px solid var(--rule);
   margin-bottom: 16px;
+  /* Коли підкладка стоїть прямо в сітці картки, вона за замовчуванням
+     тягнеться на всю висоту рядка — тобто вздовж усього тексту ліворуч.
+     Обрізаємо хвіст: рамка тримається кадру й підпису. */
+  align-self: start;
 }
 .dossier-card__photo img {
   width: 100%;
@@ -2425,35 +2096,6 @@ details.expander > .expander__body {
   color: var(--navy);
   margin: 0;
 }
-.video-block__nav {
-  display: flex;
-  gap: 6px;
-}
-.video-block__nav button {
-  background: var(--paper-2);
-  border: 1px solid var(--rule);
-  color: var(--navy);
-  width: 36px;
-  height: 36px;
-  font-family: var(--serif);
-  font-size: 18px;
-  cursor: pointer;
-  transition: all 0.15s ease;
-}
-.video-block__nav button:hover {
-  background: var(--navy);
-  color: #fff;
-  border-color: var(--navy);
-}
-.video-block__nav button:disabled {
-  opacity: 0.3;
-  cursor: default;
-}
-.video-block__nav button:disabled:hover {
-  background: var(--paper-2);
-  color: var(--navy);
-  border-color: var(--rule);
-}
 .video-carousel {
   display: flex;
   gap: 18px;
@@ -2487,24 +2129,6 @@ details.expander > .expander__body {
   border: 0;
   display: block;
   object-fit: cover;
-}
-.video-card__frame--placeholder {
-  background: repeating-linear-gradient(
-    135deg,
-    #1a2a3e 0 10px,
-    #0e1b2a 10px 20px
-  );
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-.video-card__frame--placeholder::after {
-  content: "";
-  width: 0;
-  height: 0;
-  border-left: 18px solid rgba(255, 255, 255, 0.4);
-  border-top: 12px solid transparent;
-  border-bottom: 12px solid transparent;
 }
 .video-card__body {
   padding: 14px 16px 16px;
@@ -2689,14 +2313,79 @@ figure.fig figcaption em {
 
 /* Wide bleed — stays in flow, breaks out of article-body max-width with side margins */
 .fig--bleed {
-  width: min(1400px, calc(100vw - 80px));
+  /* max(100%, …) — щоб на телефоні смуга не виходила вужчою за саму колонку:
+     100vw - 80px там менше за ширину тексту. */
+  width: min(1400px, max(100%, calc(100vw - 80px)));
   position: relative;
   left: 50%;
   transform: translateX(-50%);
 }
 
-/* Hide "Ключові події" blocks inside dossier cards — high-level overview only,
-   detailed chronology lives in the standalone Хроніка матеріалі. */
+/* ===== Правило висоти кадру =====
+   Ілюстрація не займає екран цілком і не розтягується понад власну роздільну
+   здатність: висоту обмежує --fig-h, ширина підтягується за пропорцією. Тому
+   малий або майже квадратний знімок лишається меншим, замість того щоб мутніти
+   на всю смугу, а фігура стискається до кадру — підпис і його лінійка йдуть
+   від краю до краю зображення. Діє лише там, де <img> — прямий нащадок фігури:
+   карти, iframe і пари знімків мають власну геометрію. */
+figure.fig {
+  --fig-h: 78svh;
+}
+/* Виняток: креслення й карти пошкоджень, які читач розглядає, а не переглядає —
+   їм дозволено бути вищими за екран. */
+figure.fig.fig--tall {
+  --fig-h: 116svh;
+}
+figure.fig:has(> img) {
+  display: table;
+  width: max-content;
+  max-width: 100%;
+  margin-inline: auto;
+}
+figure.fig > img {
+  width: auto;
+  max-width: 100%;
+  max-height: var(--fig-h);
+}
+figure.fig:has(> img) > figcaption {
+  display: table-caption;
+  caption-side: bottom;
+}
+figure.fig.fig--bleed:has(> img) {
+  max-width: min(1400px, calc(100vw - 80px));
+}
+
+/* Два знімки поруч: менше гортання, і пара читається як одне ціле */
+.fig--pair .fig__row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 14px;
+}
+.fig--pair .fig__row img {
+  width: 100%;
+  display: block;
+}
+@media (max-width: 720px) {
+  .fig--pair .fig__row {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Вставка з X: віджет має власну ширину, тому центруємо його в колонці */
+.fig--embed {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.fig--embed .twitter-tweet {
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+.fig--embed figcaption {
+  max-width: 550px;
+}
+
+/* Hide "Ключові події" blocks inside dossier cards — high-level overview only, detailed chronology lives in the standalone Хроніка матеріалі. */
 .dossier-card .events-list {
   display: none;
 }
@@ -3078,6 +2767,12 @@ figure.fig figcaption em {
   .refs ol {
     column-count: 1;
   }
+}
+.refs__also {
+  margin: 16px 0 0;
+  font-size: 12.5px;
+  line-height: 1.55;
+  color: var(--slate);
 }
 
 /* Numbered subsection h3 label */

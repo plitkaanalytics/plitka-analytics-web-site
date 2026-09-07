@@ -37,16 +37,11 @@ function Pullquote({ children, cite }: { children: ReactNode; cite: string }) {
     </blockquote>
   );
 }
-function Figure({ url, label, cap, src, dark }: { url?: string | null; label: string; cap: string; src?: string; dark?: boolean }) {
+function Figure({ url, cap, src }: { url?: string | null; cap: string; src?: string }) {
   return (
     <div className="figure">
-      {url ? (
+      {url && (
         <img src={url} alt={cap} loading="lazy" style={{ width: '100%', display: 'block' }} />
-      ) : (
-        <div className={`ph ph__cross${dark ? ' ph--dark' : ''}`} style={{ aspectRatio: '16/9' }}>
-          <span className="ph__corners" />
-          <div className="ph__label">{label}</div>
-        </div>
       )}
       <div className="figure__cap">
         <span>{cap}</span>
@@ -133,12 +128,7 @@ export default async function ArticlePageEN({ params }: { params: Promise<{ slug
           <AutoFrame src={article.leadMapUrl} title={article.title} fallbackHeight={820} />
         ) : article.leadImage ? (
           <img src={article.leadImage} alt={article.title} style={{ width: '100%', display: 'block' }} />
-        ) : (
-          <div className="ph ph__cross ph--dark">
-            <span className="ph__corners" />
-            <div className="ph__label">{t.placeholderLabel} · {article.projectCode}</div>
-          </div>
-        )}
+        ) : null}
       </div>
 
       <article className="article-body">

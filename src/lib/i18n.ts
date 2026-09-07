@@ -31,7 +31,6 @@ export const dict = {
       home: 'Головна', projects: 'Проєкти', articles: 'Розслідування', archive: 'Архів',
       about: 'Про нас', collab: 'Співпраця', methodology: 'Методологія', contacts: 'Контакти',
     },
-    placeholderLabel: 'РОЗСЛІДУВАННЯ',
   },
   en: {
     siteTitle: 'PLITKA Analytics — OSINT analysis of the war in Ukraine',
@@ -63,6 +62,5 @@ export const dict = {
       home: 'Home', projects: 'Projects', articles: 'Investigations', archive: 'Archive',
       about: 'About us', collab: 'Partner with us', methodology: 'Methodology', contacts: 'Contacts',
     },
-    placeholderLabel: 'INVESTIGATION',
   },
 } satisfies Record<Locale, unknown>;
