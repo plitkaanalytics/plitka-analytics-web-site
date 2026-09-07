@@ -633,6 +633,107 @@ const svg = parts.join("\n") + "\n";
 const out = new URL(OUT, ROOT);
 mkdirSync(dirname(fileURLToPath(out)), { recursive: true });
 writeFileSync(fileURLToPath(out), svg);
+
+/* ── Англійська версія полотна ───────────────────────────────────────────────
+ *
+ * Підписи вросли в саму графіку, тож англійська карта — це те саме полотно з
+ * перекладеними текстовими вузлами. Геометрію лишаємо однією: два окремі
+ * скрипти розійшлися б за тиждень.
+ *
+ * Словник вимагає перекладу для кожного вузла: якщо на карті зʼявиться новий
+ * підпис, збірка впаде тут, а не тихо віддасть англійському читачеві
+ * українське слово.
+ */
+const ROLE_EN = {
+  порт: "port",
+  авіабаза: "airbase",
+  "авіабаза · штаб": "airbase · HQ",
+};
+
+const NAME_EN = {
+  Тобрук: "Tobruk",
+  "Ель-Кадім": "Al-Khadim",
+  "Ель-Джуфра": "Al-Jufra",
+  "Маатен ес-Сарра": "Maaten al-Sarra",
+  Гардабія: "Ghardabiya",
+  "Брак-еш-Шаті": "Brak al-Shati",
+};
+
+const EN = {
+  "Ель-Адем · 16 км": "Al-Adem · 16 km",
+  Триполі: "Tripoli",
+  Бенгазі: "Benghazi",
+  Сирт: "Sirte",
+  Себха: "Sabha",
+  "Бувейрат-ель-Хусун": "Bouerat al-Hsoun",
+  Алжир: "Algeria",
+  Туніс: "Tunisia",
+  Нігер: "Niger",
+  Чад: "Chad",
+  Судан: "Sudan",
+  Єгипет: "Egypt",
+  "зона Хафтара · ЛНА": "Haftar zone · LNA",
+  "схід і південь країни": "east and south of the country",
+  "уряд Триполі": "Tripoli government",
+  "визнаний ООН": "UN-recognised",
+  "Ан-124, Іл-76": "An-124, Il-76",
+  "20–26 травня 2025": "20–26 May 2025",
+  "морем: 6000 т техніки": "by sea: 6,000 t of equipment",
+  "квітень 2024": "April 2024",
+  "до кордону з Чадом ≈ 97 км": "to the Chad border ≈ 97 km",
+  порт: "port",
+  аеродром: "airfield",
+  ["Хмеймім · " + D.khmeimim]: "Khmeimim · " + D.khmeimim.replace("км", "km"),
+  ["Бамако · " + D.bamako]: "Bamako · " + D.bamako.replace("км", "km"),
+  ["далі Уагадугу · " + D.ouaga]:
+    "onward to Ouagadougou · " + D.ouaga.replace("км", "km"),
+  [SCALE_KM + " км (на " + SCALE_LAT + "° пн. ш.)"]:
+    SCALE_KM + " km (at " + SCALE_LAT + "° N)",
+};
+
+for (const o of OBJECTS) {
+  EN[o.n] = NAME_EN[o.n];
+  EN[o.i + " · " + o.role] = o.i + " · " + ROLE_EN[o.role];
+}
+
+const TITLE_EN = "Russian sites in Libya";
+
+const DESC_EN =
+  "Map of Libya. Six sites used by Russia: the port of Tobruk in the east " +
+  "and the airfields of Al-Khadim, Al-Jufra, Ghardabiya, Brak al-Shati and " +
+  "Maaten al-Sarra in the far south-east, near the borders with Chad and " +
+  "Sudan. All six lie in the eastern and southern part of the country, " +
+  "controlled by Khalifa Haftar; the UN-recognised government holds the " +
+  "north-west with Tripoli. The dashed line is the air bridge from Khmeimim " +
+  "in Syria to Al-Khadim and onward to Bamako and Ouagadougou; the solid " +
+  "line is the sea delivery to Tobruk.";
+
+const missingEn = [];
+const svgEn = svg.replace(
+  /(<(title|desc|text)\b[^>]*>)([\s\S]*?)(<\/\2>)/g,
+  (all, open, tag, body, close) => {
+    const key = body.replace(/\s+/g, " ").trim();
+    if (!key) return all;
+    if (tag === "desc") return open + DESC_EN + close;
+    if (tag === "title") return open + TITLE_EN + close;
+    const to = EN[key];
+    if (to === undefined) {
+      missingEn.push(key);
+      return all;
+    }
+    return open + to + close;
+  },
+);
+
+if (missingEn.length) {
+  throw new Error(
+    "Немає англійського підпису для: " + [...new Set(missingEn)].join(" · "),
+  );
+}
+
+const outEn = new URL(OUT.replace(".svg", "-en.svg"), ROOT);
+writeFileSync(fileURLToPath(outEn), svgEn);
+
 console.log(
   OUT + " — " + (svg.length / 1024).toFixed(0) + " КБ · полотно " + W + "x" + H +
   "\n  відстані: Хмеймім " + D.khmeimim + " · Бамако " + D.bamako +

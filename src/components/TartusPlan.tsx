@@ -1,3 +1,5 @@
+import type { Lang } from "./ScrollMap";
+
 /**
  * Схема гавані Тартуса до § 01 матеріалу «Сирійський експрес змінює курс».
  *
@@ -19,7 +21,84 @@
  * sticky, стилі — у tartus-plan.css поруч зі статтею.
  */
 
-function Item({ n, name, note }: { n?: string; name: string; note?: string }) {
+interface ItemText {
+  n?: string;
+  name: string;
+  note?: string;
+}
+
+const TEXT: Record<Lang, { alt: string; items: ItemText[]; prov: string }> = {
+  uk: {
+    alt: "Схема гавані Тартуса: дві рожеві риски з номером 5 біля північного хвилелому позначають російські плавучі причали; пунктирна лінія окреслює територію сирійського флоту з пронумерованими будівлями; праворуч унизу — великі портові басейни",
+    items: [
+      {
+        name: "Межа території сирійського флоту",
+        note: "бригада ракетних катерів",
+      },
+      { n: "1", name: "Ангари й склади", note: "на схемі три ділянки, 1a–1c" },
+      { n: "2", name: "Сухий док" },
+      { n: "3", name: "«Парк»", note: "автотехніка й озброєння" },
+      { n: "4", name: "Плац" },
+      {
+        n: "5",
+        name: "Плавучі причали",
+        note: "російські, два по 100 м, тип ПМ-61М",
+      },
+      { n: "6", name: "Бетонний причал" },
+      { n: "7", name: "Швартовий причал на палях" },
+      {
+        n: "8",
+        name: "Цивільні басейни порту",
+        note: "їх пʼять, північний — військовий",
+      },
+      { n: "9", name: "Залізнична колія", note: "вантажі з порту" },
+      {
+        n: "10",
+        name: "Хвилелом",
+        note: "вихід у відкрите море на північний захід",
+      },
+    ],
+    prov: "Схема — Bin im Garten / Вікісховище, CC BY-SA 3.0, за даними OpenStreetMap, 2012 рік",
+  },
+  en: {
+    alt: "Plan of Tartus harbour: two pink marks numbered 5 by the northern breakwater are the Russian floating piers; a dashed line encloses the Syrian navy compound with numbered buildings; the large port basins are at bottom right",
+    items: [
+      {
+        name: "Boundary of the Syrian navy compound",
+        note: "missile boat brigade",
+      },
+      {
+        n: "1",
+        name: "Hangars and warehouses",
+        note: "three plots on the plan, 1a–1c",
+      },
+      { n: "2", name: "Dry dock" },
+      { n: "3", name: "The “park”", note: "vehicles and weaponry" },
+      { n: "4", name: "Parade ground" },
+      {
+        n: "5",
+        name: "Floating piers",
+        note: "Russian, two of 100 m each, PM-61M type",
+      },
+      { n: "6", name: "Concrete quay" },
+      { n: "7", name: "Pile-founded mooring pier" },
+      {
+        n: "8",
+        name: "Civilian port basins",
+        note: "five in all; the northern one is military",
+      },
+      { n: "9", name: "Rail spur", note: "cargo out of the port" },
+      {
+        n: "10",
+        name: "Breakwater",
+        note: "exit to the open sea to the north-west",
+      },
+    ],
+    prov: "Plan — Bin im Garten / Wikimedia Commons, CC BY-SA 3.0, from OpenStreetMap data, 2012",
+  },
+};
+
+function Item({ n, name, note }: ItemText) {
   return (
     <li className="tplan__item">
       {n ? (
@@ -35,55 +114,26 @@ function Item({ n, name, note }: { n?: string; name: string; note?: string }) {
   );
 }
 
-export function TartusPlan() {
+export function TartusPlan({ lang = "uk" }: { lang?: Lang }) {
+  const t = TEXT[lang];
   return (
     <figure className="fig tplan">
       <div className="tplan__grid">
         <div className="tplan__canvas">
           <img
             src="/articles/syriyskyi-ekspres/tartus-base-plan.svg"
-            alt="Схема гавані Тартуса: дві рожеві риски з номером 5 біля північного хвилелому позначають російські плавучі причали; пунктирна лінія окреслює територію сирійського флоту з пронумерованими будівлями; праворуч унизу — великі портові басейни"
+            alt={t.alt}
           />
         </div>
 
         <div className="tplan__side">
           <ul className="tplan__items">
-            <Item
-              name="Межа території сирійського флоту"
-              note="бригада ракетних катерів"
-            />
-            <Item
-              n="1"
-              name="Ангари й склади"
-              note="на схемі три ділянки, 1a–1c"
-            />
-            <Item n="2" name="Сухий док" />
-            <Item n="3" name="«Парк»" note="автотехніка й озброєння" />
-            <Item n="4" name="Плац" />
-            <Item
-              n="5"
-              name="Плавучі причали"
-              note="російські, два по 100 м, тип ПМ-61М"
-            />
-            <Item n="6" name="Бетонний причал" />
-            <Item n="7" name="Швартовий причал на палях" />
-            <Item
-              n="8"
-              name="Цивільні басейни порту"
-              note="їх пʼять, північний — військовий"
-            />
-            <Item n="9" name="Залізнична колія" note="вантажі з порту" />
-            <Item
-              n="10"
-              name="Хвилелом"
-              note="вихід у відкрите море на північний захід"
-            />
+            {t.items.map((it) => (
+              <Item key={it.n ?? it.name} {...it} />
+            ))}
           </ul>
 
-          <p className="tplan__prov">
-            Схема — Bin im Garten / Вікісховище, CC BY-SA 3.0, за даними
-            OpenStreetMap, 2012 рік
-          </p>
+          <p className="tplan__prov">{t.prov}</p>
         </div>
       </div>
     </figure>

@@ -111,6 +111,8 @@ export interface ScrollMapProps {
   /** Більше дороги на картку. Коли під прокрутку щось їде, звичайний крок
    *  проскакує надто швидко: пів оберта колесика — і тиждень позаду. */
   slow?: boolean;
+  /** Мова підписів самого рушія: дата, стан приладу, рядок джерел. */
+  lang?: Lang;
   /** Картку не носити повз читача: вона стоїть на місці, а зміст у ній
    *  змінюється, коли доходимо до наступного кроку. Смуга карток при цьому
    *  стає невидимою драбиною — вона лишається тільки щоб дати прокрутці
@@ -148,25 +150,59 @@ const TRAIL: Record<AisState, { c: string; w: number }> = {
   spoof: { c: "#8c2d04", w: 3 },
 };
 
-const MONTHS = [
-  "січня",
-  "лютого",
-  "березня",
-  "квітня",
-  "травня",
-  "червня",
-  "липня",
-  "серпня",
-  "вересня",
-  "жовтня",
-  "листопада",
-  "грудня",
-];
+export type Lang = "uk" | "en";
 
-const AIS_WORD: Record<AisState, string> = {
-  on: "AIS увімкнено",
-  dark: "AIS вимкнено",
-  spoof: "AIS показує неправду",
+/** Усе, що рушій пише від себе. Обгортки віддають свій текст самі, а це —
+ *  підписи самої механіки: дата, стан приладу, рядок джерел, збій. */
+const UI = {
+  uk: {
+    months: [
+      "січня",
+      "лютого",
+      "березня",
+      "квітня",
+      "травня",
+      "червня",
+      "липня",
+      "серпня",
+      "вересня",
+      "жовтня",
+      "листопада",
+      "грудня",
+    ],
+    date: (d: number, m: string, y: number) => `${d} ${m} ${y}`,
+    ais: {
+      on: "AIS увімкнено",
+      dark: "AIS вимкнено",
+      spoof: "AIS показує неправду",
+    } as Record<AisState, string>,
+    fail: "Карту не завантажено — перевірте зʼєднання",
+    refs: (many: boolean) => (many ? "джерела " : "джерело "),
+  },
+  en: {
+    months: [
+      "January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October",
+      "November",
+      "December",
+    ],
+    date: (d: number, m: string, y: number) => `${m} ${d}, ${y}`,
+    ais: {
+      on: "AIS on",
+      dark: "AIS off",
+      spoof: "AIS spoofed",
+    } as Record<AisState, string>,
+    fail: "Map failed to load — check your connection",
+    refs: (many: boolean) => (many ? "sources " : "source "),
+  },
 };
 
 /* ── Проєкція ────────────────────────────────────────────────────────────── */
@@ -336,6 +372,7 @@ export function ScrollMap({
   fixedFrame = false,
   slow = false,
   pinned = false,
+  lang = "uk",
 }: ScrollMapProps) {
   const rootRef = useRef<HTMLElement>(null);
   const svgRef = useRef<SVGSVGElement>(null);
@@ -343,6 +380,8 @@ export function ScrollMap({
   const railRef = useRef<HTMLDivElement>(null);
   const failRef = useRef<HTMLParagraphElement>(null);
   const clockRef = useRef<HTMLDivElement>(null);
+
+  const ui = UI[lang];
 
   useEffect(() => {
     const shell = rootRef.current!;
@@ -560,7 +599,7 @@ export function ScrollMap({
 
     const human = (ms: number) => {
       const d = new Date(ms);
-      return `${d.getUTCDate()} ${MONTHS[d.getUTCMonth()]} ${d.getUTCFullYear()}`;
+      return ui.date(d.getUTCDate(), ui.months[d.getUTCMonth()], d.getUTCFullYear());
     };
 
     /** Дата й стан приладу. Дата йде разом із судном: між двома
@@ -596,7 +635,7 @@ export function ScrollMap({
       if (clockStep !== i) {
         clockStep = i;
         const tail = box.lastElementChild as HTMLElement;
-        tail.textContent = AIS_WORD[ais];
+        tail.textContent = ui.ais[ais];
         tail.dataset.ais = ais;
       }
     }
@@ -1353,6 +1392,7 @@ export function ScrollMap({
     fixedFrame,
     slow,
     pinned,
+    ui,
   ]);
 
   return (
@@ -1374,7 +1414,7 @@ export function ScrollMap({
             aria-label={label}
           />
           <p className="smap__fail" ref={failRef} hidden>
-            Карту не завантажено — перевірте зʼєднання
+            {ui.fail}
           </p>
           {voyages && (
             <div className="smap__clock" ref={clockRef} hidden>
@@ -1391,7 +1431,7 @@ export function ScrollMap({
                   key={i}
                   aria-hidden={i !== 0}
                 >
-                  <CardBody card={c} />
+                  <CardBody card={c} lang={lang} />
                 </section>
               ))}
             </div>
@@ -1405,7 +1445,7 @@ export function ScrollMap({
               <div className="smap__step" key={i} data-step={i} aria-hidden />
             ) : (
               <section className="smap__step" key={i} data-step={i}>
-                <CardBody card={c} />
+                <CardBody card={c} lang={lang} />
               </section>
             ),
           )}
@@ -1415,7 +1455,7 @@ export function ScrollMap({
   );
 }
 
-function CardBody({ card }: { card: MapCard }) {
+function CardBody({ card, lang }: { card: MapCard; lang: Lang }) {
   return (
     <>
       <h4 className="smap__steph">{card.h}</h4>
@@ -1436,15 +1476,15 @@ function CardBody({ card }: { card: MapCard }) {
           ))}
         </div>
       )}
-      <Refs ids={card.refs} />
+      <Refs ids={card.refs} lang={lang} />
     </>
   );
 }
 
-function Refs({ ids }: { ids: number[] }) {
+function Refs({ ids, lang }: { ids: number[]; lang: Lang }) {
   return (
     <div className="smap__ref">
-      {ids.length > 1 ? "джерела " : "джерело "}
+      {UI[lang].refs(ids.length > 1)}
       {ids.map((n, i) => (
         <span key={n}>
           {i ? " " : ""}
