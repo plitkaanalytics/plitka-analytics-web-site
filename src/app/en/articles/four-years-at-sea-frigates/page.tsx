@@ -2448,7 +2448,7 @@ export default function Page() {
                 Tartus · 08.12.2024.
               </li>
               <li id="ref-2">
-                The Telegraph. Footage from RFA <em>Tideforce</em> · Grigorovich
+                The Telegraph. Footage from RFA <em>Tideforce</em> — Grigorovich
                 between Universal and Enigma in the English Channel ·
                 08.04.2026.
               </li>
@@ -2472,7 +2472,7 @@ export default function Page() {
                 SBU. Notice of suspicion to Rear Admiral V. Kuzmin · 04.2026.
               </li>
               <li id="ref-8">
-                Benjamin Pittet (OSINT). Imagery of Sevastopol Bay · 01.11.2022.
+                Benjamin Pittet. Imagery of Sevastopol Bay · 01.11.2022.
               </li>
               <li id="ref-9">
                 Unmanned Systems Forces / Exilenova+ / t/k “Magyar”. Strike on
@@ -2485,38 +2485,6 @@ export default function Page() {
               <li id="ref-11">
                 ISW / J. Röpcke (BILD) / MT_Anderson. Analysis of A-22 strike on
                 Kaspiysk · 06–07.11.2024.
-              </li>
-              <li>
-                Ukrainian Navy, Joint Forces Command South (D. Pletenchuk).
-                Regular missile threat warnings · 2024–2026.
-              </li>
-              <li>
-                CyberBoroshno. OSINT analyses of strikes on Novorossiysk ·
-                03–04.2026.
-              </li>
-              <li>
-                Planet Labs / MT Anderson. Tartus satellite image sequences ·
-                11.2024 – 01.2025.
-              </li>
-              <li>
-                General Staff of the Armed Forces of Ukraine. Official statement
-                on damage to Essen and Makarov · 06.03.2026.
-              </li>
-              <li>
-                Dmytro Pletenchuk, Ukrainian Navy spokesman. Comments following
-                06.04.2026.
-              </li>
-              <li>
-                Morskoy Sbornik, Voyenno-Promyshlennyy Kuryer, TASS, Rossiyskaya
-                Gazeta, the Airbase.ru forum, kchf.ru, Kommersant, Krym.Realii,
-                1TV, Nezavisimoye Voyennoye Obozreniye, Sevastopol.su,
-                Komandiry.org, Milportal, vpk.name, Interfax, NTS Sevastopol,
-                Meridian.in.ua, Vzglyad, Lenta.ru, Timenote.info, Komsomolskaya
-                Pravda, MK.rbth.com, Vechernyaya Moskva, Russian-torturers.org.
-                Biographical data on BSF officers.
-              </li>
-              <li>
-                RIA Novosti. Graded exercises of the Caspian Flotilla · 08.2025.
               </li>
               <li id="ref-12">
                 1st Separate Centre, Unmanned Systems Forces / Robert “Magyar”
@@ -2542,13 +2510,12 @@ export default function Page() {
                 ZN.UA · 08.2025.
               </li>
               <li id="ref-17">
-                OSINT reconstruction of S. Romanenkoʼs command of Admiral
-                Makarov · Krym.Realii, 1TV, Nezavisimoye Voyennoye Obozreniye ·
-                2020–2022.
+                Krym.Realii, 1TV, Nezavisimoye Voyennoye Obozreniye — S.
+                Romanenkoʼs command of Admiral Makarov · 2020–2022.
               </li>
               <li id="ref-18">
-                OSINT reconstruction of D. Kudashkinʼs command during the
-                29.10.2022 naval drone attack · Krym.Realii.
+                Krym.Realii — D. Kudashkinʼs command during the naval drone
+                attack of 29.10.2022.
               </li>
               <li id="ref-19">
                 Sevastopol city government. Report on the BSFʼs 240th
@@ -2571,12 +2538,29 @@ export default function Page() {
               </li>
               <li id="ref-22">
                 Flag Rodiny, newspaper of Russiaʼs Black Sea Fleet (Sevastopol)
-                — the fleet commanderʼs remarks on the results of the training
-                year: presentation of the “Best Ship” cup to the commanding
-                officer of Admiral Makarov, Captain 3rd Rank D. Kudashkin ·
-                December 2022.
+                — presentation of the “Best Ship” cup to the commanding officer
+                of Admiral Makarov, Captain 3rd Rank D. Kudashkin · December
+                2022.
               </li>
             </ol>
+
+            <p className="refs__also">
+              Also used, without an anchor to a specific claim: Ukrainian Navy,
+              Joint Forces Command South (D. Pletenchuk) — missile threat
+              warnings, 2024–2026; CyberBoroshno — OSINT analyses of strikes on
+              Novorossiysk, 03–04.2026; Planet Labs / MT Anderson — Tartus
+              satellite image sequences, 11.2024–01.2025; General Staff of the
+              Armed Forces of Ukraine — statement on damage to Essen and
+              Makarov, 06.03.2026; RIA Novosti — graded exercises of the
+              Caspian Flotilla, 08.2025. Biographical data on Black Sea Fleet
+              officers is compiled from Morskoy Sbornik,
+              Voyenno-Promyshlennyy Kuryer, TASS, Rossiyskaya Gazeta,
+              Kommersant, Vzglyad, Lenta.ru, Komsomolskaya Pravda, Vechernyaya
+              Moskva, 1TV, Nezavisimoye Voyennoye Obozreniye, Sevastopol.su,
+              NTS Sevastopol, vpk.name, Milportal, Komandiry.org, kchf.ru, the
+              Airbase.ru forum, Interfax, Timenote.info, MK.rbth.com,
+              Krym.Realii, Meridian.in.ua and Russian-torturers.org.
+            </p>
           </section>
 
           {/* Article footer */}
@@ -2615,17 +2599,12 @@ export default function Page() {
             <div className="grid-3">
               {related.map((a) => (
                 <article className="card" key={a.slug}>
-                  {a.leadImage ? (
+                  {a.leadImage && (
                     <img
                       src={a.leadImage}
                       alt={a.title}
                       className="card__img card__img--photo"
                     />
-                  ) : (
-                    <div className="ph ph__cross card__img">
-                      <span className="ph__corners" />
-                      <div className="ph__label">{a.projectCode}</div>
-                    </div>
                   )}
                   <div>
                     <span className="card__tag">{a.project}</span>

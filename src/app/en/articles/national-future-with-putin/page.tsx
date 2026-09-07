@@ -53,7 +53,11 @@ export default function Page() {
           The chief destabiliser of the centre-right camp is General Roberto
           Vannacci — formerly Italyʼs military attaché in Moscow, now the leader
           of the newly founded party Futuro Nazionale (<em>National Future</em>
-          ). Already polling at around 7% on ultra-conservative, anti-migrant
+          )
+          <a className="ref" href="#ref1">
+            [1]
+          </a>
+          . Already polling at around 7% on ultra-conservative, anti-migrant
           rhetoric, Vannacci is not merely launching another populist movement:
           because of the way the new electoral system works, he becomes the
           golden share without which the current coalition cannot be held
@@ -423,8 +427,11 @@ export default function Page() {
 
         <p>
           Since 2022 the ruling coalition has consisted of Ms Meloniʼs Fratelli
-          dʼItalia, Forza Italia under Foreign Minister Antonio Tajani, and
-          Matteo Salviniʼs Lega. There are smaller forces too, but there is no
+          dʼItalia, Forza Italia under Foreign Minister Antonio Tajani
+          <a className="ref" href="#ref4">
+            [4]
+          </a>
+          , and Matteo Salviniʼs Lega. There are smaller forces too, but there is no
           point discussing them here.
         </p>
 
@@ -964,101 +971,245 @@ export default function Page() {
               Here and below: Futuro Nazionale translates as “National Future”.
             </li>
             <li id="ref2">
-              https://www.corriere.it/politica/26_luglio_16/stabilicum-cosa-prevede-la-legge-elettorale-tutti-i-punti-fondamentali-c73ba09b-f599-41e7-a69b-22aca5114xlk.shtml
+              Corriere della Sera, 16.07.2026 — what the electoral-system bill
+              passed by the Chamber of Deputies (“Stabilicum”) actually provides
+              for.{" "}
+              <a href="https://www.corriere.it/politica/26_luglio_16/stabilicum-cosa-prevede-la-legge-elettorale-tutti-i-punti-fondamentali-c73ba09b-f599-41e7-a69b-22aca5114xlk.shtml">
+                corriere.it
+              </a>
             </li>
             <li id="ref3">
-              https://www.youtrend.it/wp-content/uploads/2026/07/DOSSIER-LEGGE-ELETTORALE.pdf
+              YouTrend — dossier on the electoral reform, July 2026: projected
+              distribution of seats under the new system.{" "}
+              <a href="https://www.youtrend.it/wp-content/uploads/2026/07/DOSSIER-LEGGE-ELETTORALE.pdf">
+                youtrend.it (PDF)
+              </a>
             </li>
             <li id="ref4">
               Antonio Tajani — leader of Forza Italia after Berlusconiʼs death,
               currently Italyʼs foreign minister.
             </li>
             <li id="ref5">
-              https://www.linkiesta.it/2026/07/chi-sono-i-finanziatori-di-futuro-nazionale/
+              Linkiesta, July 2026 — who funds Futuro Nazionale: the sectors and
+              companies among the partyʼs donors.{" "}
+              <a href="https://www.linkiesta.it/2026/07/chi-sono-i-finanziatori-di-futuro-nazionale/">
+                linkiesta.it
+              </a>
             </li>
             <li id="ref6">
-              https://futuronazionale.it/wp-content/uploads/2026/06/Futuro-Naziona-Trasparenza_agg_23_giugno2026.pdf
+              Futuro Nazionale — the partyʼs own funding-transparency report as
+              of 23.06.2026: the total of voluntary donations. The partyʼs
+              figures about itself.{" "}
+              <a href="https://futuronazionale.it/wp-content/uploads/2026/06/Futuro-Naziona-Trasparenza_agg_23_giugno2026.pdf">
+                futuronazionale.it (PDF)
+              </a>
             </li>
             <li id="ref7">
               For comparison: Meloniʼs party had roughly 204,000 members and a
-              budget of €10.8 million in 2022; Forza Italia had 250,000 members
+              budget of €10.8 million in 2022; Forza Italia — 250,000 members
               and €7.2 million for 2025.
             </li>
             <li id="ref8">
-              https://www.kielinstitut.de/topics/war-against-ukraine/ukraine-support-tracker
+              Ukraine Support Tracker, Kiel Institute for the World Economy —
+              the volume of Italian military aid to Ukraine.{" "}
+              <a href="https://www.kielinstitut.de/topics/war-against-ukraine/ukraine-support-tracker">
+                kielinstitut.de
+              </a>
             </li>
             <li id="ref9">
-              https://www.today.it/politica/berlusconi-nuovo-audio-putin-zelensky.html
+              Today.it — the Berlusconi audio recording published by LaPresse on
+              the “rupture” of the Minsk agreements and on Donbas, 2022.{" "}
+              <a href="https://www.today.it/politica/berlusconi-nuovo-audio-putin-zelensky.html">
+                today.it
+              </a>
             </li>
             <li id="ref10">
               “Il mondo al contrario” translates as “The World Upside Down”.
             </li>
             <li id="ref11">
-              https://www.ansa.it/sito/notizie/topnews/2025/09/09/vannacci-zelensky-o-putin-scelgo-putincon-lui-benessere_7e4a238d-796b-4de4-bd52-bf21f08d982d.html
+              ANSA, 09.09.2025 — Vannacci on choosing between Zelensky and
+              Putin: he picks Putin, “with him there was prosperity”.{" "}
+              <a href="https://www.ansa.it/sito/notizie/topnews/2025/09/09/vannacci-zelensky-o-putin-scelgo-putincon-lui-benessere_7e4a238d-796b-4de4-bd52-bf21f08d982d.html">
+                ansa.it
+              </a>
             </li>
             <li id="ref12">
-              https://www.ilmessaggero.it/video/politica/vannacci_gaffe_crimea_villa_russia_correzione_conferenza_stampa-9592073.html
+              Il Messaggero — video: Vannacciʼs slip about Crimea and a “villa
+              in Russia”, and his correction at the press conference.{" "}
+              <a href="https://www.ilmessaggero.it/video/politica/vannacci_gaffe_crimea_villa_russia_correzione_conferenza_stampa-9592073.html">
+                ilmessaggero.it
+              </a>
             </li>
             <li id="ref13">
-              https://www.adnkronos.com/politica/vannacci-partito-finanziamenti-russia_5kcbbLhQh5eTPXZ50eRr1M
+              Adnkronos — Vannacci says he is open to Russian funding for the
+              party, “provided it is legal”.{" "}
+              <a href="https://www.adnkronos.com/politica/vannacci-partito-finanziamenti-russia_5kcbbLhQh5eTPXZ50eRr1M">
+                adnkronos.com
+              </a>
             </li>
             <li id="ref14">
-              https://www.open.online/2026/03/17/peter-thiel-incontro-roberto-jonghi-lavarini-roberto-vannacci-intervista/
+              Open, 17.03.2026 — interview with Roberto Jonghi Lavarini: Futuro
+              Nazionaleʼs international network, contacts with Dugin-adjacent
+              circles and the MAGA orbit, and the meeting with Peter Thiel.{" "}
+              <a href="https://www.open.online/2026/03/17/peter-thiel-incontro-roberto-jonghi-lavarini-roberto-vannacci-intervista/">
+                open.online
+              </a>
             </li>
             <li id="ref15">
-              https://www.youtube.com/watch?v=vam42AVkJDk (05:04)
+              YouTube — interview with Pietro Stramezzi (from 05:04): born in
+              Milan, moved to Russia in 2024 and works in the oil sector, in his
+              own account.{" "}
+              <a href="https://www.youtube.com/watch?v=vam42AVkJDk">
+                youtube.com
+              </a>
             </li>
             <li id="ref16">
-              https://www.valigiablu.it/remigrazione-russia-rete-propaganda-vannacci/
+              Valigia Blu — analysis of the Russian propaganda network around
+              “remigration” and Vannacci: Stramezziʼs work in the Russian oil
+              sector.{" "}
+              <a href="https://www.valigiablu.it/remigrazione-russia-rete-propaganda-vannacci/">
+                valigiablu.it
+              </a>
             </li>
             <li id="ref17">
-              https://www.audit-it.ru/contragent/1147748022542_ooo-1oyl-menedzhment
+              Audit-it — registry data on OOO 1oyl Management: year of
+              registration, headcount, net assets as of 31.12.2025.{" "}
+              <a href="https://www.audit-it.ru/contragent/1147748022542_ooo-1oyl-menedzhment">
+                audit-it.ru
+              </a>
             </li>
             <li id="ref18">
-              https://t.me/sorok40russia/81494 ; https://t.me/italianrussia/865
+              The Telegram channels Sorok Sorokov <a
+              href="https://t.me/sorok40russia/81494">t.me/sorok40russia</a> and
+              Italia — Russia <a
+              href="https://t.me/italianrussia/865">t.me/italianrussia</a> —
+              Stramezziʼs attendance at the “Back to the Future” forum. Telegram
+              channel content is presented as those channelsʼ own claims.
             </li>
-            <li id="ref19">https://t.me/italianrussia/818</li>
-            <li id="ref20">https://t.me/italianrussia/729</li>
+            <li id="ref19">
+              Telegram channel Italia — Russia — attendance at the All-Russian
+              Patriotic Forum.{" "}
+              <a href="https://t.me/italianrussia/818">
+                t.me/italianrussia
+              </a>
+            </li>
+            <li id="ref20">
+              Telegram channel Italia — Russia — attendance at the 13th Moscow
+              International Engineering Forum.{" "}
+              <a href="https://t.me/italianrussia/729">
+                t.me/italianrussia
+              </a>
+            </li>
             <li id="ref21">
-              https://x.com/PStramezzi/status/1766056705673072722
+              Pietro Stramezzi on X — post about the international youth forum
+              in Sochi.{" "}
+              <a href="https://x.com/PStramezzi/status/1766056705673072722">
+                x.com/PStramezzi
+              </a>
             </li>
-            <li id="ref22">https://t.me/italianrussia/180</li>
+            <li id="ref22">
+              Telegram channel Italia — Russia — the conference in the Russian
+              Senate building on “soft power”.{" "}
+              <a href="https://t.me/italianrussia/180">
+                t.me/italianrussia
+              </a>
+            </li>
             <li id="ref23">
-              https://www.ansa.it/sito/notizie/cronaca/2024/03/14/cassazione-conferma-5-anni-per-mercenario-filo-russo-palmeri_727e22dc-50e2-4f18-8397-d19f6f899eeb.html
+              ANSA, 14.03.2024 — the Court of Cassation upholds a five-year
+              sentence for the pro-Russian volunteer fighter Andrea Palmieri
+              over recruitment.{" "}
+              <a href="https://www.ansa.it/sito/notizie/cronaca/2024/03/14/cassazione-conferma-5-anni-per-mercenario-filo-russo-palmeri_727e22dc-50e2-4f18-8397-d19f6f899eeb.html">
+                ansa.it
+              </a>
             </li>
-            <li id="ref24">https://t.me/italianrussia/681</li>
+            <li id="ref24">
+              Telegram channel Italia — Russia — the roster of participants at
+              the Moscow gathering in September 2025.{" "}
+              <a href="https://t.me/italianrussia/681">
+                t.me/italianrussia
+              </a>
+            </li>
             <li id="ref25">
-              https://x.com/PStramezzi/status/2070249582525661400 ;
-              https://x.com/PStramezzi/status/2066269783524360293
+              Pietro Stramezzi on X — posts about the dinner with Gianni
+              Alemanno and General Vannacci, June 2026: <a
+              href="https://x.com/PStramezzi/status/2070249582525661400">first</a>
+              and <a
+              href="https://x.com/PStramezzi/status/2066269783524360293">second</a>.
             </li>
             <li id="ref26">
               “Fermare la Guerra” translates as “Stop the War”.
             </li>
-            <li id="ref27">https://t.me/italianrussia/156</li>
+            <li id="ref27">
+              Telegram channel Italia — Russia — Stramezzi as “president” of the
+              Milan branch of the Fermare la Guerra committee.{" "}
+              <a href="https://t.me/italianrussia/156">
+                t.me/italianrussia
+              </a>
+            </li>
             <li id="ref28">
-              https://www.associazionearteviva.com/musicista/larissa-yudina/
+              Arte Viva association — biographical profile of the singer Larissa
+              Yudina: Maykop, Kaliningrad, the move to Italy.{" "}
+              <a href="https://www.associazionearteviva.com/musicista/larissa-yudina/">
+                associazionearteviva.com
+              </a>
             </li>
             <li id="ref29">
-              https://www.youtube.com/watch?v=gy-j87iIpas (05:23)
+              YouTube — interview with Larissa Yudina (from 05:23): studies at
+              the Giuseppe Verdi conservatory in Milan and Italian citizenship.{" "}
+              <a href="https://www.youtube.com/watch?v=gy-j87iIpas">
+                youtube.com
+              </a>
             </li>
             <li id="ref30">
-              https://www.milanotoday.it/attualita/concerto-ucraina-propaganda.html
+              MilanoToday — the Milan charity concert “to help” Ukrainian
+              refugees and the objections to its content.{" "}
+              <a href="https://www.milanotoday.it/attualita/concerto-ucraina-propaganda.html">
+                milanotoday.it
+              </a>
             </li>
             <li id="ref31">
-              https://www.facebook.com/larisa.yudina.58/posts/linno-ditalia-con-generale-vannacci-oggi-ad-imperia-il-microfono-non-era-perfett/2561554204298957/
+              Larissa Yudina on Facebook — post about performing the Italian
+              anthem alongside General Vannacci in Imperia.{" "}
+              <a href="https://www.facebook.com/larisa.yudina.58/posts/linno-ditalia-con-generale-vannacci-oggi-ad-imperia-il-microfono-non-era-perfett/2561554204298957/">
+                facebook.com
+              </a>
             </li>
             <li id="ref32">
-              https://www.corrieredellumbria.it/news/attualita/458774/vannacci-con-giorgia-meloni-solo-con-accordo-scritto-e-nuova-linea-sull-ucraina.html
+              Corriere dellʼUmbria — Vannacci on his terms for joining a
+              coalition with Meloni: a written agreement and a new line on
+              Ukraine.{" "}
+              <a href="https://www.corrieredellumbria.it/news/attualita/458774/vannacci-con-giorgia-meloni-solo-con-accordo-scritto-e-nuova-linea-sull-ucraina.html">
+                corrieredellumbria.it
+              </a>
             </li>
             <li id="ref33">
-              https://www.ilpost.it/2026/07/10/giuseppe-conte-campo-largo-russia-minaccia/
+              Il Post, 10.07.2026 — Giuseppe Conteʼs position, and that of the
+              “broad field”, on the Russian threat.{" "}
+              <a href="https://www.ilpost.it/2026/07/10/giuseppe-conte-campo-largo-russia-minaccia/">
+                ilpost.it
+              </a>
             </li>
-            <li id="ref34">https://www.youtube.com/watch?v=PZ_5sMDGMfk</li>
+            <li id="ref34">
+              YouTube — recording of Giuseppe Conte calling for Zelensky and
+              Putin to be brought to the negotiating table.{" "}
+              <a href="https://www.youtube.com/watch?v=PZ_5sMDGMfk">
+                youtube.com
+              </a>
+            </li>
             <li id="ref35">
-              https://www.anpi.it/ucraina-torni-un-grande-movimento-la-pace
+              ANPI — the organisationʼs position on Ukraine and on recognition
+              of the separatist “republics”.{" "}
+              <a href="https://www.anpi.it/ucraina-torni-un-grande-movimento-la-pace">
+                anpi.it
+              </a>
             </li>
             <li id="ref36">
-              https://www.anpi.it/pagliarulo-lanpi-condanna-fermamente-linvasione-dellucraina-e-non-faccio-alcuna-autocritica
+              ANPI — statement by Gianfranco Pagliarulo: the organisation
+              condemns the invasion of Ukraine, and he offers no self-criticism
+              of its own line.{" "}
+              <a href="https://www.anpi.it/pagliarulo-lanpi-condanna-fermamente-linvasione-dellucraina-e-non-faccio-alcuna-autocritica">
+                anpi.it
+              </a>
             </li>
           </ol>
         </div>

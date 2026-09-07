@@ -54,7 +54,11 @@ export default function Page() {
             Головним дестабілізатором правоцентристського табору став
             генерал Роберто Ванначчі — колишній військовий аташе Італії в
             Москві, а нині лідер новоствореної партії «Футуро Націонале»
-            (<em>Futuro Nazionale</em>). Набравши вже близько 7%
+            (<em>Futuro Nazionale</em>)
+            <a className="ref" href="#ref1">
+              [1]
+            </a>
+            . Набравши вже близько 7%
             електоральної підтримки на ультраконсервативній та
             антимігрантській риториці, Ванначчі не просто створює черговий
             популістський рух — через особливості нової виборчої системи він
@@ -434,8 +438,11 @@ export default function Page() {
           <p>
             З 2022 року в складі правлячої коаліції перебувають: «Фрателлі
             д’Італія» пані Мелоні, «Форца Італія» під керівництвом
-            міністра закордонних справ Антоніо Тайані та «Леґа» Маттео
-            Сальвіні. Є і дрібніші сили, про які тут говорити немає сенсу.
+            міністра закордонних справ Антоніо Тайані
+            <a className="ref" href="#ref4">
+              [4]
+            </a>{" "}
+            та «Леґа» Маттео Сальвіні. Є і дрібніші сили, про які тут говорити немає сенсу.
           </p>
 
           <p>
@@ -977,108 +984,250 @@ export default function Page() {
             <h3>Джерела</h3>
             <ol>
               <li id="ref1">
-                Тут і далі: «Футуро Націонале» (Futuro Nazionale)
-                перекладається як «Національне майбутнє».
+                Тут і далі: «Футуро Націонале» (Futuro Nazionale) перекладається
+                як «Національне майбутнє».
               </li>
               <li id="ref2">
-                https://www.corriere.it/politica/26_luglio_16/stabilicum-cosa-prevede-la-legge-elettorale-tutti-i-punti-fondamentali-c73ba09b-f599-41e7-a69b-22aca5114xlk.shtml
+                «Corriere della Sera», 16.07.2026 — що передбачає ухвалений
+                Палатою депутатів законопроєкт про виборчу систему
+                («Стабілікум»).{" "}
+                <a href="https://www.corriere.it/politica/26_luglio_16/stabilicum-cosa-prevede-la-legge-elettorale-tutti-i-punti-fondamentali-c73ba09b-f599-41e7-a69b-22aca5114xlk.shtml">
+                  corriere.it
+                </a>
               </li>
               <li id="ref3">
-                https://www.youtrend.it/wp-content/uploads/2026/07/DOSSIER-LEGGE-ELETTORALE.pdf
+                YouTrend — досьє про виборчу реформу, липень 2026: прогноз
+                розподілу мандатів за новою системою.{" "}
+                <a href="https://www.youtrend.it/wp-content/uploads/2026/07/DOSSIER-LEGGE-ELETTORALE.pdf">
+                  youtrend.it (PDF)
+                </a>
               </li>
               <li id="ref4">
                 Антоніо Тайані — очільник «Форца Італія» після смерті
                 Берлусконі, поточний міністр закордонних справ Італії.
               </li>
               <li id="ref5">
-                https://www.linkiesta.it/2026/07/chi-sono-i-finanziatori-di-futuro-nazionale/
+                Linkiesta, липень 2026 — хто фінансує «Футуро Націонале»: галузі
+                й компанії серед донорів партії.{" "}
+                <a href="https://www.linkiesta.it/2026/07/chi-sono-i-finanziatori-di-futuro-nazionale/">
+                  linkiesta.it
+                </a>
               </li>
               <li id="ref6">
-                https://futuronazionale.it/wp-content/uploads/2026/06/Futuro-Naziona-Trasparenza_agg_23_giugno2026.pdf
+                «Футуро Націонале» — партійний звіт про прозорість фінансування
+                станом на 23.06.2026: сума добровільних пожертв. Дані партії про
+                себе.{" "}
+                <a href="https://futuronazionale.it/wp-content/uploads/2026/06/Futuro-Naziona-Trasparenza_agg_23_giugno2026.pdf">
+                  futuronazionale.it (PDF)
+                </a>
               </li>
               <li id="ref7">
-                Для порівняння: партія Мелоні у 2022 році мала приблизно
-                204 тисячі членів і бюджет 10,8 мільйона євро; «Форца
-                Італія» — 250 тисяч членів і 7,2 мільйона євро за 2025 рік.
+                Для порівняння: партія Мелоні у 2022 році мала приблизно 204
+                тисячі членів і бюджет 10,8 мільйона євро; «Форца Італія» — 250
+                тисяч членів і 7,2 мільйона євро за 2025 рік.
               </li>
               <li id="ref8">
-                https://www.kielinstitut.de/topics/war-against-ukraine/ukraine-support-tracker
+                Ukraine Support Tracker, Інститут світової економіки в Кілі —
+                обсяг італійської військової допомоги Україні.{" "}
+                <a href="https://www.kielinstitut.de/topics/war-against-ukraine/ukraine-support-tracker">
+                  kielinstitut.de
+                </a>
               </li>
               <li id="ref9">
-                https://www.today.it/politica/berlusconi-nuovo-audio-putin-zelensky.html
+                Today.it — оприлюднений LaPresse аудіозапис Берлусконі про
+                «розрив» Мінських домовленостей і Донбас, 2022.{" "}
+                <a href="https://www.today.it/politica/berlusconi-nuovo-audio-putin-zelensky.html">
+                  today.it
+                </a>
               </li>
               <li id="ref10">
                 «Il mondo al contrario» перекладається як «Світ навпаки».
               </li>
               <li id="ref11">
-                https://www.ansa.it/sito/notizie/topnews/2025/09/09/vannacci-zelensky-o-putin-scelgo-putincon-lui-benessere_7e4a238d-796b-4de4-bd52-bf21f08d982d.html
+                ANSA, 09.09.2025 — Ванначчі про вибір між Зеленським і Путіним:
+                обирає Путіна, «з ним був добробут».{" "}
+                <a href="https://www.ansa.it/sito/notizie/topnews/2025/09/09/vannacci-zelensky-o-putin-scelgo-putincon-lui-benessere_7e4a238d-796b-4de4-bd52-bf21f08d982d.html">
+                  ansa.it
+                </a>
               </li>
               <li id="ref12">
-                https://www.ilmessaggero.it/video/politica/vannacci_gaffe_crimea_villa_russia_correzione_conferenza_stampa-9592073.html
+                «Il Messaggero» — відео: обмовка Ванначчі про Крим і «віллу в
+                Росії» та її виправлення на пресконференції.{" "}
+                <a href="https://www.ilmessaggero.it/video/politica/vannacci_gaffe_crimea_villa_russia_correzione_conferenza_stampa-9592073.html">
+                  ilmessaggero.it
+                </a>
               </li>
               <li id="ref13">
-                https://www.adnkronos.com/politica/vannacci-partito-finanziamenti-russia_5kcbbLhQh5eTPXZ50eRr1M
+                Adnkronos — заява Ванначчі про відкритість до російського
+                фінансування партії, «якщо воно легальне».{" "}
+                <a href="https://www.adnkronos.com/politica/vannacci-partito-finanziamenti-russia_5kcbbLhQh5eTPXZ50eRr1M">
+                  adnkronos.com
+                </a>
               </li>
               <li id="ref14">
-                https://www.open.online/2026/03/17/peter-thiel-incontro-roberto-jonghi-lavarini-roberto-vannacci-intervista/
+                Open, 17.03.2026 — інтервʼю Роберто Йонґі Лаваріні: міжнародна
+                мережа «Футуро Націонале», контакти з дугінськими колами й
+                оточенням MAGA, зустріч із Пітером Тілем.{" "}
+                <a href="https://www.open.online/2026/03/17/peter-thiel-incontro-roberto-jonghi-lavarini-roberto-vannacci-intervista/">
+                  open.online
+                </a>
               </li>
               <li id="ref15">
-                https://www.youtube.com/watch?v=vam42AVkJDk (05:04)
+                YouTube — інтервʼю Пʼєтро Страмецці (з 05:04): народження в
+                Мілані, переїзд до Росії 2024 року й робота в нафтовій сфері за
+                його власними словами.{" "}
+                <a href="https://www.youtube.com/watch?v=vam42AVkJDk">
+                  youtube.com
+                </a>
               </li>
               <li id="ref16">
-                https://www.valigiablu.it/remigrazione-russia-rete-propaganda-vannacci/
+                Valigia Blu — розбір мережі російської пропаганди навколо
+                «реміграції» та Ванначчі: робота Страмецці в російському
+                нафтосекторі.{" "}
+                <a href="https://www.valigiablu.it/remigrazione-russia-rete-propaganda-vannacci/">
+                  valigiablu.it
+                </a>
               </li>
               <li id="ref17">
-                https://www.audit-it.ru/contragent/1147748022542_ooo-1oyl-menedzhment
+                «Аудит-іт» — реєстрові дані ТОВ «1ойл менеджмент»: рік
+                реєстрації, кількість працівників, чисті активи станом на
+                31.12.2025.{" "}
+                <a href="https://www.audit-it.ru/contragent/1147748022542_ooo-1oyl-menedzhment">
+                  audit-it.ru
+                </a>
               </li>
               <li id="ref18">
-                https://t.me/sorok40russia/81494 ;
-                https://t.me/italianrussia/865
+                Telegram-канали «Сорок Сороков» <a
+                href="https://t.me/sorok40russia/81494">t.me/sorok40russia</a> і
+                «Італія — Росія» <a
+                href="https://t.me/italianrussia/865">t.me/italianrussia</a> —
+                участь Страмецці у форумі «Назад в Будущее». Дані
+                телеграм-каналів подано як їхні власні твердження.
               </li>
-              <li id="ref19">https://t.me/italianrussia/818</li>
-              <li id="ref20">https://t.me/italianrussia/729</li>
+              <li id="ref19">
+                Telegram-канал «Італія — Росія» — участь у «Всероссийском
+                Патриотическом Форуме».{" "}
+                <a href="https://t.me/italianrussia/818">
+                  t.me/italianrussia
+                </a>
+              </li>
+              <li id="ref20">
+                Telegram-канал «Італія — Росія» — участь у XIII Московському
+                міжнародному інженерному форумі.{" "}
+                <a href="https://t.me/italianrussia/729">
+                  t.me/italianrussia
+                </a>
+              </li>
               <li id="ref21">
-                https://x.com/PStramezzi/status/1766056705673072722
+                Пʼєтро Страмецці в X — публікація про міжнародний форум молоді в
+                Сочі.{" "}
+                <a href="https://x.com/PStramezzi/status/1766056705673072722">
+                  x.com/PStramezzi
+                </a>
               </li>
-              <li id="ref22">https://t.me/italianrussia/180</li>
+              <li id="ref22">
+                Telegram-канал «Італія — Росія» — конференція в будівлі Сенату
+                РФ про «мʼяку силу».{" "}
+                <a href="https://t.me/italianrussia/180">
+                  t.me/italianrussia
+                </a>
+              </li>
               <li id="ref23">
-                https://www.ansa.it/sito/notizie/cronaca/2024/03/14/cassazione-conferma-5-anni-per-mercenario-filo-russo-palmeri_727e22dc-50e2-4f18-8397-d19f6f899eeb.html
+                ANSA, 14.03.2024 — Касаційний суд підтвердив пʼять років
+                увʼязнення проросійському бійцеві-добровольцю Андреа Пальмʼєрі
+                за вербування.{" "}
+                <a href="https://www.ansa.it/sito/notizie/cronaca/2024/03/14/cassazione-conferma-5-anni-per-mercenario-filo-russo-palmeri_727e22dc-50e2-4f18-8397-d19f6f899eeb.html">
+                  ansa.it
+                </a>
               </li>
-              <li id="ref24">https://t.me/italianrussia/681</li>
+              <li id="ref24">
+                Telegram-канал «Італія — Росія» — склад учасників московського
+                зʼїзду у вересні 2025 року.{" "}
+                <a href="https://t.me/italianrussia/681">
+                  t.me/italianrussia
+                </a>
+              </li>
               <li id="ref25">
-                https://x.com/PStramezzi/status/2070249582525661400 ;
-                https://x.com/PStramezzi/status/2066269783524360293
+                Пʼєтро Страмецці в X — публікації про вечерю з Джанні Алеманно і
+                генералом Ванначчі, червень 2026: <a
+                href="https://x.com/PStramezzi/status/2070249582525661400">перша</a>
+                і <a
+                href="https://x.com/PStramezzi/status/2066269783524360293">друга</a>.
               </li>
               <li id="ref26">
                 «Fermare la Guerra» перекладається як «Зупинити війну».
               </li>
-              <li id="ref27">https://t.me/italianrussia/156</li>
+              <li id="ref27">
+                Telegram-канал «Італія — Росія» — Страмецці як «президент»
+                міланського відділення комітету «Fermare la Guerra».{" "}
+                <a href="https://t.me/italianrussia/156">
+                  t.me/italianrussia
+                </a>
+              </li>
               <li id="ref28">
-                https://www.associazionearteviva.com/musicista/larissa-yudina/
+                Асоціація Arte Viva — біографічна довідка про співачку Ларису
+                Юдіну: Майкоп, Калінінград, переїзд до Італії.{" "}
+                <a href="https://www.associazionearteviva.com/musicista/larissa-yudina/">
+                  associazionearteviva.com
+                </a>
               </li>
               <li id="ref29">
-                https://www.youtube.com/watch?v=gy-j87iIpas (05:23)
+                YouTube — інтервʼю Лариси Юдіної (з 05:23): навчання в
+                міланській консерваторії «Джузеппе Верді» й отримання
+                італійського громадянства.{" "}
+                <a href="https://www.youtube.com/watch?v=gy-j87iIpas">
+                  youtube.com
+                </a>
               </li>
               <li id="ref30">
-                https://www.milanotoday.it/attualita/concerto-ucraina-propaganda.html
+                MilanoToday — благодійний концерт у Мілані «для допомоги»
+                українським біженцям і претензії до його змісту.{" "}
+                <a href="https://www.milanotoday.it/attualita/concerto-ucraina-propaganda.html">
+                  milanotoday.it
+                </a>
               </li>
               <li id="ref31">
-                https://www.facebook.com/larisa.yudina.58/posts/linno-ditalia-con-generale-vannacci-oggi-ad-imperia-il-microfono-non-era-perfett/2561554204298957/
+                Лариса Юдіна у Facebook — пост про виконання гімну Італії разом
+                із генералом Ванначчі в Імперії.{" "}
+                <a href="https://www.facebook.com/larisa.yudina.58/posts/linno-ditalia-con-generale-vannacci-oggi-ad-imperia-il-microfono-non-era-perfett/2561554204298957/">
+                  facebook.com
+                </a>
               </li>
               <li id="ref32">
-                https://www.corrieredellumbria.it/news/attualita/458774/vannacci-con-giorgia-meloni-solo-con-accordo-scritto-e-nuova-linea-sull-ucraina.html
+                «Corriere dellʼUmbria» — Ванначчі про умови входження в коаліцію
+                з Мелоні: письмова угода й нова лінія щодо України.{" "}
+                <a href="https://www.corrieredellumbria.it/news/attualita/458774/vannacci-con-giorgia-meloni-solo-con-accordo-scritto-e-nuova-linea-sull-ucraina.html">
+                  corrieredellumbria.it
+                </a>
               </li>
               <li id="ref33">
-                https://www.ilpost.it/2026/07/10/giuseppe-conte-campo-largo-russia-minaccia/
+                Il Post, 10.07.2026 — позиція Джузеппе Конте й «широкого поля»
+                щодо російської загрози.{" "}
+                <a href="https://www.ilpost.it/2026/07/10/giuseppe-conte-campo-largo-russia-minaccia/">
+                  ilpost.it
+                </a>
               </li>
               <li id="ref34">
-                https://www.youtube.com/watch?v=PZ_5sMDGMfk
+                YouTube — запис виступу Джузеппе Конте із закликом посадити
+                Зеленського й Путіна за стіл перемовин.{" "}
+                <a href="https://www.youtube.com/watch?v=PZ_5sMDGMfk">
+                  youtube.com
+                </a>
               </li>
               <li id="ref35">
-                https://www.anpi.it/ucraina-torni-un-grande-movimento-la-pace
+                ANPI — позиція організації щодо України й визнання
+                сепаратистських «республік».{" "}
+                <a href="https://www.anpi.it/ucraina-torni-un-grande-movimento-la-pace">
+                  anpi.it
+                </a>
               </li>
               <li id="ref36">
-                https://www.anpi.it/pagliarulo-lanpi-condanna-fermamente-linvasione-dellucraina-e-non-faccio-alcuna-autocritica
+                ANPI — заява Джанфранко Пальярулo: організація засуджує
+                вторгнення в Україну, самокритики щодо власної позиції він не
+                робить.{" "}
+                <a href="https://www.anpi.it/pagliarulo-lanpi-condanna-fermamente-linvasione-dellucraina-e-non-faccio-alcuna-autocritica">
+                  anpi.it
+                </a>
               </li>
             </ol>
           </div>

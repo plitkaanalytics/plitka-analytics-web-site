@@ -465,16 +465,16 @@ export default function Page() {
           крейсери стратегічного призначення проєктів 955 і 955А «Борей» —{" "}
           <strong>повністю накриті дрібною сіткою</strong>. Це за 7400
           кілометрів від України
-          <a className="ref" href="#ref-7">
-            [7]
+          <a className="ref" href="#ref-5">
+            [5]
           </a>
           . Причому масштаб інший: у Новоросійську ґратка накриває саму рубку, а
           в Рибачому сітку тягнуть на весь корпус. До серпня метод почали
           застосовувати активніше: знімки від 4 серпня 2026 року показують човни
           під сіткою вже масово, монтаж вели плавучими кранами з травня, а
           навколо причалів протягнули плавучі бони
-          <a className="ref" href="#ref-8">
-            [8]
+          <a className="ref" href="#ref-7">
+            [7]
           </a>
           .
         </p>
@@ -504,8 +504,8 @@ export default function Page() {
           «Павутина», коли дрони запускали з вантажівок біля самих аеродромів,
           раптовий удар з-під носа бази перестав бути гіпотетичним на будь-якій
           відстані
-          <a className="ref" href="#ref-7">
-            [7]
+          <a className="ref" href="#ref-5">
+            [5]
           </a>
           . Хоча чи вкривати сіткою цілий човен практично, надто в камчатську
           погоду, це відкрите питання, яке російським морякам доведеться
@@ -593,62 +593,49 @@ export default function Page() {
           <ol>
             <li id="ref-1">
               UK Defence Intelligence / UK MoD, серія Update on Ukraine. Два
-              повідомлення про підводні човни ЧФ у Новоросійську: зі знімком від
-              09.06.2026 (протидронові ґратки над рубками; знімок © Airbus DS
-              2026) та зі знімком від 13.06.2026 (човни занурені в гавані;
-              знімок © Vantor / European Space Imaging 2026). UK MoD © Crown
-              Copyright 2026.
+              повідомлення про підводні човни ЧФ у Новоросійську — зі знімком
+              від 09.06.2026 (© Airbus DS 2026) і зі знімком від 13.06.2026 (©
+              Vantor / European Space Imaging 2026). UK MoD © Crown Copyright
+              2026.
             </li>
             <li id="ref-2">
               ArmyRecognition — Russia Fits 3 Black Sea Kilo Submarines With
-              Drone Cages to Sustain Ukraine Strike Capability, 08.2026: переказ
-              британської оцінки, типологія пасивних ґраток, застереження про
-              неможливість приписати назви човнам за наявними даними.{" "}
+              Drone Cages to Sustain Ukraine Strike Capability, 08.2026. Видання
+              застерігає, що приписати назви човнам за наявними даними не можна.{" "}
               <a href="https://www.armyrecognition.com/news/navy-news/2026/russia-fits-3-black-sea-kilo-submarines-with-drone-cages-to-sustain-ukraine-strike-capability">
                 armyrecognition.com
               </a>
             </li>
             <li id="ref-3">
               Vantor. Супутникові знімки внутрішньої гавані Новоросійська за
-              13.06.2026 та 17.06.2026, а також бази Рибачий за 04.08.2026.
+              13.06.2026 і 17.06.2026 та бази Рибачий за 04.08.2026.
             </li>
             <li id="ref-4">
               Defense Express — New Satellite Images Show russia Protecting
               Kalibr Submarines With Cope Cages, Revealing an Interesting Clue,
-              06.07.2026: поіменний склад чотирьох човнів у Чорному морі та
-              гіпотеза щодо «Колпіно».{" "}
+              06.07.2026.{" "}
               <a href="https://en.defence-ua.com/news/new_satellite_images_show_russia_protecting_kalibr_submarines_with_cope_cages_revealing_an_interesting_clue-19048.html">
                 en.defence-ua.com
               </a>
             </li>
             <li id="ref-5">
-              H. I. Sutton (Covert Shores) — Russian Nuclear Submarines,
+              H. I. Sutton (Covert Shores) — Russian Nuclear Submarines,
               Thousands of Miles From Ukraine, Get Anti-Drone Defenses, Naval
-              News, 05.2026: оцінка ефективності сіток, ризик для екіпажу,
-              прецедент <em>Mary Rose</em>.{" "}
+              News, 05.2026: оцінка ефективності сіток і знімки бази Рибачий на
+              Камчатці від 12.05.2026 — «Бореї» проєктів 955 і 955А під сіткою.{" "}
               <a href="https://www.navalnews.com/naval-news/2026/05/russian-nuclear-submarines-thousands-of-miles-from-ukraine-get-anti-drone-defenses/">
                 navalnews.com
               </a>
             </li>
             <li id="ref-6">
               MizarVision. Супутникові знімки військової гавані Новоросійська,
-              оприлюднені 06.07.2026 (зйомка 04–05.07.2026): бонове загородження
-              на вході, маскувальне фарбування. Текстові пояснення й розмітка
-              обʼєктів на платформі генеруються автоматично й тут як
-              ідентифікація не використовуються.
+              оприлюднені 06.07.2026 (зйомка 04–05.07.2026). Підписи й розмітка
+              обʼєктів на платформі генеруються автоматично і як ідентифікація
+              не використані.
             </li>
             <li id="ref-7">
-              Naval News — знімки бази Рибачий на Камчатці від 12.05.2026:
-              «Бореї» проєктів 955 і 955А під сіткою; аргумент про раптовий удар
-              за зразком операції «Павутина».{" "}
-              <a href="https://www.navalnews.com/naval-news/2026/05/russian-nuclear-submarines-thousands-of-miles-from-ukraine-get-anti-drone-defenses/">
-                navalnews.com
-              </a>
-            </li>
-            <li id="ref-8">
               TWZ (The War Zone) — Russian Nuclear Ballistic Missile Submarines
-              Are Now Cocooned In Nets, 08.2026: знімки Рибачого від 04.08.2026,
-              монтаж плавучими кранами з травня, плавучі бони навколо причалів.{" "}
+              Are Now Cocooned In Nets, 08.2026: знімки Рибачого від 04.08.2026.{" "}
               <a href="https://www.twz.com/news-features/russian-nuclear-ballistic-missile-submarines-are-now-cocooned-in-nets">
                 twz.com
               </a>

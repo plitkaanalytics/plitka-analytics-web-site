@@ -133,7 +133,7 @@ export default function Page() {
               [5]
             </a>{" "}
             у кількості чотирьох штук
-            <a className="ref" href="#ref5">
+            <a className="ref" href="#ref6">
               [6]
             </a>
             , які запускаються з торпедних апаратів. Будівництво цих човнів, на
@@ -887,20 +887,60 @@ export default function Page() {
             <h3>Джерела</h3>
             <ol>
               <li id="ref1">
-                Delanoe, I., “Russia’s Black Sea Fleet: Toward a Multiregional
-                Force”, CNA Occasional Paper, 2019, p. 4.
+                Ігор Деланое — «Russiaʼs Black Sea Fleet: Toward a Multiregional
+                Force», CNA Occasional Paper, 2019, с. 4.
               </li>
-              <li id="ref2">Idem, pp. 1-2.</li>
-              <li id="ref3">Idem, p. 23.</li>
-              <li id="ref4">https://lenta.ru/news/2010/07/27/submarine/</li>
+              <li id="ref2">
+                Там само, с. 1–2.
+              </li>
+              <li id="ref3">
+                Там само, с. 23.
+              </li>
+              <li id="ref4">
+                Lenta.ru, 27.07.2010 — про будівництво «Варшавянок» на експорт.
+                Дані російського джерела подано як заявлені.{" "}
+                <a href="https://lenta.ru/news/2010/07/27/submarine/">
+                  lenta.ru
+                </a>
+              </li>
               <li id="ref5">
-                https://web.archive.org/web/20220701191233/https://dfnc.ru/katalog-vooruzhenij/navy/podvodnye
-                lodki/proekt-636/
+                Довідник озброєнь dfnc.ru, стаття про проєкт 636 (архівна копія
+                від 01.07.2022) — склад озброєння «Варшавянок» третьої
+                модифікації. Довідкові дані подано як заявлені.{" "}
+                <a href="https://web.archive.org/web/20220701191233/https://dfnc.ru/katalog-vooruzhenij/navy/podvodnye-lodki/proekt-636/">
+                  web.archive.org
+                </a>
               </li>
-              <li id="ref6">https://slavikap.livejournal.com/310377.html</li>
-              <li id="ref7">https://www.interfax.ru/world/838650</li>
-              <li id="ref8">https://www.interfax.ru/russia/839235</li>
-              <li id="ref9">https://tass.ru/armiya-i-opk/14700361</li>
+              <li id="ref6">
+                Блог slavikap у LiveJournal — «пр.877 / пр.636 — KILO / Improved
+                KILO», 12.01.2013: зведення ТТХ, зокрема боєкомплект «Калібрів».
+                Непрофільне джерело, дані подано як заявлені.{" "}
+                <a href="https://slavikap.livejournal.com/310377.html">
+                  slavikap.livejournal.com
+                </a>
+              </li>
+              <li id="ref7">
+                «Интерфакс» — повідомлення Міноборони РФ про пуски «Калібрів» із
+                підводних човнів у Чорному морі, 2022. Дані російського джерела
+                подано як заявлені.{" "}
+                <a href="https://www.interfax.ru/world/838650">
+                  interfax.ru
+                </a>
+              </li>
+              <li id="ref8">
+                «Интерфакс» — біографічні відомості про командира «Алроси» Івана
+                Фьодорова. Дані російського джерела подано як заявлені.{" "}
+                <a href="https://www.interfax.ru/russia/839235">
+                  interfax.ru
+                </a>
+              </li>
+              <li id="ref9">
+                ТАРС — повідомлення про базування «Алроси» в Севастополі. Дані
+                російського джерела подано як заявлені.{" "}
+                <a href="https://tass.ru/armiya-i-opk/14700361">
+                  tass.ru
+                </a>
+              </li>
             </ol>
           </div>
 
