@@ -56,6 +56,50 @@ body {
   font: 400 13px/1.5 var(--sans);
   color: var(--taupe);
 }
+/* Плашка плавання: дата тієї картки, що зараз проти очей, і стан приладу.
+   Проміжних дат вона не показує — джерело дає окремі дні, і плашка
+   перемикається на межі картки, а не тікає поперед нього. */
+.smap .smap__clock {
+  position: absolute;
+  top: 14px;
+  left: 14px;
+  z-index: 2;
+  display: grid;
+  gap: 3px;
+  padding: 9px 13px 10px;
+  background: rgba(255, 255, 255, 0.92);
+  border: 1px solid var(--rule);
+  border-left: 3px solid var(--ink);
+  pointer-events: none;
+}
+.smap .smap__clock[hidden] {
+  display: none;
+}
+.smap .smap__clock-date {
+  font: 700 15px/1.1 var(--sans);
+  color: var(--ink);
+}
+.smap .smap__clock-ais {
+  font: 700 10px/1.1 var(--mono);
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--taupe);
+}
+.smap .smap__clock-ais[data-ais="on"] {
+  color: var(--steelB);
+}
+.smap .smap__clock-ais[data-ais="spoof"] {
+  color: var(--rust);
+}
+
+/* Позначка судна: курс їй задає рушій поворотом, тут лишається поява. */
+.smap .smap__ship {
+  transition: opacity 0.25s;
+}
+.smap.is-moving .smap__ship {
+  transition: none;
+}
+
 .smap .smap__fail[hidden] {
   display: none;
 }
@@ -67,8 +111,16 @@ body {
   margin: calc(-1 * var(--smap-h)) clamp(20px, 5vw, 110px) 0 auto;
   padding: 0;
   display: grid;
-  gap: 12vh;
+  gap: var(--smap-gap, 12vh);
   pointer-events: none;
+}
+
+/* Карта, де під прокрутку рухається судно, потребує більше дороги на картку:
+   інакше три клацання колесика проганяють тиждень плавання. Проміжок між
+   картками більший — і в ньому читач бачить саму карту, без панелі поверх. */
+.fig.smap--slow {
+  --smap-gap: 58vh;
+  --smap-gap-mobile: calc(1.15 * var(--smap-h));
 }
 .smap .smap__step {
   pointer-events: auto;
@@ -118,6 +170,12 @@ body {
   font: 400 15.5px/1.6 var(--sans);
   margin: 0;
   color: rgba(255, 255, 255, 0.88);
+}
+/* Назви суден і кораблів курсивом: у тексті статті вони сталеві, а на темній
+   картці той синій майже не читається. */
+.smap .smap__stepp em {
+  font-style: italic;
+  color: inherit;
 }
 .smap .smap__stepp b {
   font-weight: 700;
@@ -178,6 +236,73 @@ body {
   border-bottom: 1px solid #fff;
 }
 
+/* ── Картка на місці ─────────────────────────────────────────────────────
+   Замість смуги, яка пливе повз читача, — одна панель у постійному місці:
+   зміст у ній замінюється, коли судно доходить до наступної дати. Смуга
+   лишається невидимою драбиною: вона й далі дає прокрутці довжину, а рушій
+   міряє по ній, де ми зараз. Висота щабля і задає темп. */
+.smap--pinned .smap__rail {
+  gap: 0;
+  pointer-events: none;
+}
+.smap--pinned .smap__step {
+  height: 88vh;
+  padding: 0;
+  pointer-events: none;
+}
+/* Щабель невидимий у будь-якому стані: базові правила картки фарбують його і
+   на прокрутці, і коли він активний, а вони вагоміші за один клас. */
+.smap--pinned .smap__step,
+.smap--pinned .smap__step.is-active,
+.smap--pinned .smap__step:hover,
+.smap--pinned.is-moving .smap__step,
+.smap--pinned.is-scrolling .smap__step {
+  background: none;
+  border: 0;
+  box-shadow: none;
+  -webkit-backdrop-filter: none;
+  backdrop-filter: none;
+  opacity: 1;
+}
+.smap--pinned .smap__step:first-child {
+  margin-top: 0;
+}
+/* Хвіст: карта лишається прибитою ще трохи після останньої картки, інакше
+   вона відклеюється рівно на ній. */
+.smap--pinned .smap__step:last-child {
+  margin-bottom: 30vh;
+}
+
+.smap__panel {
+  position: absolute;
+  z-index: 3;
+  top: 50%;
+  right: clamp(20px, 5vw, 110px);
+  width: min(430px, 44%);
+  transform: translateY(-50%);
+  display: grid;
+}
+.smap__card {
+  grid-area: 1 / 1;
+  padding: 26px 28px;
+  display: grid;
+  align-content: center;
+  gap: 12px;
+  background: rgba(42, 42, 42, 0.86);
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  box-shadow: 0 18px 44px rgba(0, 0, 0, 0.22);
+  color: #fff;
+  opacity: 0;
+  visibility: hidden;
+  transition:
+    opacity 0.3s ease,
+    visibility 0.3s;
+}
+.smap__card.is-on {
+  opacity: 1;
+  visibility: visible;
+}
+
 @media (max-width: 900px) {
   .fig.smap {
     --smap-h: max(300px, 52svh);
@@ -191,10 +316,24 @@ body {
        рівно ту частину, яку кадр лишає порожньою. Проміжок між картками
        завбільшки з пів карти: між ними читач бачить її всю. */
     margin: calc(-0.4 * var(--smap-h)) 12px 0;
-    gap: calc(0.55 * var(--smap-h));
+    gap: var(--smap-gap-mobile, calc(0.55 * var(--smap-h)));
   }
   .smap .smap__step {
     padding: 20px;
+  }
+  .smap--pinned .smap__step {
+    height: 76svh;
+    padding: 0;
+  }
+  /* На телефоні панель стає під нижній край карти — там, де кадр лишає
+     порожнє місце, і так само не рухається. */
+  .smap__panel {
+    top: auto;
+    bottom: 10px;
+    left: 12px;
+    right: 12px;
+    width: auto;
+    transform: none;
   }
   .smap .smap__step:first-child {
     margin-top: 0;

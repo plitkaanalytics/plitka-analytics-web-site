@@ -1,11 +1,16 @@
 import "../chotyry-roky-v-mori-frehaty/frigates.css";
 import "./scroll-map.css";
+import "./libya-map.css";
+import "./tartus-plan.css";
 import type { Metadata } from "next";
 import Link from "next/link";
 import { getAllArticles, formatDate } from "@/lib/articles";
 import { XPost } from "@/components/XPost";
 import { TartusMap } from "@/components/TartusMap";
 import { NorthRoutesMap } from "@/components/NorthRoutesMap";
+import { LibyaMap } from "@/components/LibyaMap";
+import { TartusPlan } from "@/components/TartusPlan";
+import { AisConvoyMap } from "@/components/AisConvoyMap";
 
 export const metadata: Metadata = {
   title: "Сирійський експрес змінює курс — PLITKA Analytics",
@@ -15,65 +20,6 @@ export const metadata: Metadata = {
   description:
     "OSINT-розбір російської морської логістики після падіння Асада: як конвої зі зброєю для Сахелю йдуть з Мурманська й Балтійська. Хто їх возить, через які порти та що насправді скасувала нова сирійська влада.",
 };
-
-/* ── ТИМЧАСОВО: плейсхолдери зображень. Видалити разом з <Ph/> ──────────── */
-function Ph({
-  kind,
-  what,
-  src,
-  cap,
-  wide,
-}: {
-  kind: string;
-  what: string;
-  src: string;
-  cap: string;
-  wide?: boolean;
-}) {
-  return (
-    <figure className={wide ? "fig fig--bleed" : "fig"}>
-      <div
-        style={{
-          border: "1px dashed var(--taupe)",
-          background: "var(--cream)",
-          padding: "26px 22px",
-          display: "grid",
-          gap: "8px",
-          minHeight: "150px",
-          alignContent: "center",
-        }}
-      >
-        <div
-          style={{
-            fontFamily: "var(--mono)",
-            fontSize: "10px",
-            letterSpacing: ".18em",
-            textTransform: "uppercase",
-            color: "var(--rust)",
-            fontWeight: 700,
-          }}
-        >
-          {kind}
-        </div>
-        <div style={{ fontFamily: "var(--serif)", fontSize: "17px" }}>
-          {what}
-        </div>
-        <div
-          style={{
-            fontFamily: "var(--mono)",
-            fontSize: "11px",
-            color: "var(--slate)",
-          }}
-        >
-          {src}
-        </div>
-      </div>
-      <figcaption>
-        {cap} <em>[ джерело й умова публікації ]</em>
-      </figcaption>
-    </figure>
-  );
-}
 
 const SLUG = "syriyskyi-ekspres";
 
@@ -98,7 +44,7 @@ export default function Page() {
       <div className="lede-block">
         <div className="lede-block__img">
           <img
-            src="/articles/syriyskyi-ekspres/cover.webp"
+            src="/articles/syriyskyi-ekspres/cover.jpg"
             alt="Порт Тартус із моря: причали, портальні крани й судна біля молу"
           />
         </div>
@@ -600,19 +546,7 @@ export default function Page() {
           </div>
         </div>
 
-        <figure className="fig fig--bleed">
-          <img
-            src="/articles/syriyskyi-ekspres/tartus-base-plan.webp"
-            alt="Схема гавані Тартуса: дві рожеві риски з номером 5 біля північного хвилелому позначають російські плавучі причали; пунктирна лінія окреслює територію сирійського флоту з пронумерованими будівлями; праворуч унизу — великі портові басейни"
-          />
-          <figcaption>
-            Що саме називали «базою». Дві рожеві риски з номером{" "}
-            <strong>5</strong> біля північного хвилелому — російські плавучі
-            причали. Решта пронумерованих обʼєктів у межах пунктиру належала
-            сирійському флоту. Саме про оренду цих кількох сотень метрів
-            причальної лінії й ішлося в договорі 2017 року.
-          </figcaption>
-        </figure>
+        <TartusPlan />
 
         {/* ===================== РОЗВОРОТ ===================== */}
         <h2>
@@ -675,7 +609,7 @@ export default function Page() {
           .
         </p>
 
-        <figure className="fig fig--bleed">
+        <figure className="fig">
           <img
             src="/articles/syriyskyi-ekspres/novorosiysk_goes_home.png"
             alt="Сіре море в серпанку: підводний човен «Новороссийск» іде у надводному положенні, видно рубку й частину корпусу; вдалині ліворуч — фрегат ВМС Франції, що супроводжує його"
@@ -832,13 +766,7 @@ export default function Page() {
           .
         </p>
 
-        <Ph
-          kind="КАРТА · наша"
-          what="Російські об'єкти в Лівії: Тобрук, Ель-Кадім, Гардабія, Ель-Джуфра, Брак-еш-Шаті, Маатен ес-Сарра — з відстанями до Сахелю"
-          src="Робимо самі"
-          cap="П'ять авіаційних об'єктів і один порт. Маатен ес-Сарра стоїть при кордонах із Чадом і Суданом."
-          wide
-        />
+        <LibyaMap />
 
         <p>
           Мережа обʼєктів у Лівії за два роки виросла помітно. Крім Ель-Джуфри,
@@ -870,14 +798,43 @@ export default function Page() {
         </p>
 
         <p>
-          Повітряний міст працює. ГУР відстежило щонайменше{" "}
-          <strong>десять перельотів</strong> із Хмейміма до східної Лівії від
-          середини грудня 2024 року. За розслідуванням CNN, російські рейси до
-          Бамако тепер злітають з Лівії, а не із Сирії
+          ГУР відстежило щонайменше <strong>десять перельотів</strong> із
+          Хмейміма до східної Лівії від середини грудня 2024 року
           <a className="ref" href="#ref-20">
             [20]
           </a>
-          . Оцінки чисельності зростали, хоч і рахують різне: 1000–1500 бійців у
+          . «Ле Монд» задокументувала <strong>вісім рейсів</strong> за грудень і
+          січень
+          <a className="ref" href="#ref-31">
+            [31]
+          </a>
+          . А Сі-Ен-Ен, яка сама аналізувала дані трекінгу, пише про{" "}
+          <strong>більше ніж один рейс на день</strong> від середини грудня —
+          Ан-124 та Іл-76 з Хмейміма на Ель-Кадім
+          <a className="ref" href="#ref-30">
+            [30]
+          </a>
+          .
+        </p>
+
+        <p>
+          Один такий рейс простежили від початку до кінця. 16 травня 2025 року
+          Ан-124 з бортовим номером <strong>RA-82030</strong> — літак 224-го
+          льотного загону, структури Міноборони РФ, — злетів біля Хмейміма, за
+          годину зник із трекерів над Середземним морем і зʼявився вже на північ
+          від Єгипту. 18 травня супутниковий знімок Maxar зафіксував його на
+          смузі Ель-Кадіма, а між 20 і 26 травня борт відмітився в Бамако й
+          Уагадугу
+          <a className="ref" href="#ref-31">
+            [31]
+          </a>
+          . Авіаційний інженер, з яким говорило RFI, назвав зникнення сигналу
+          «дуже схожим на навмисне вимкнення» — той самий прийом, що й у суден,
+          тільки в повітрі.
+        </p>
+
+        <p>
+          Оцінки чисельності зростали, хоч і рахують різне: 1000–1500 бійців у
           південній Лівії на початку квітня 2024 року — і 2000–2500 на
           військових обʼєктах по всій країні до серпня того ж року
           <a className="ref" href="#ref-21">
@@ -961,8 +918,8 @@ export default function Page() {
 
         <p>
           У лютому 2025 року контр-адмірал Майк Меттіс, директор зі стратегічних
-          ефектів ВМС США в Європі й Африці, описав, що сталося зі старим плечем
-          із Новоросійська.
+          ефектів ВМС США в Європі й Африці, описав, що сталося зі старим
+          маршрутом із Новоросійська.
         </p>
 
         <div className="qtbox">
@@ -986,9 +943,9 @@ export default function Page() {
           Меттіс говорить про сирійський маршрут, не про африканський. Вантажні
           судна в Тартус ходити не перестали — подовшав шлях: замість пʼяти-семи
           діб із Новоросійська тепер дванадцять-чотирнадцять із Балтики. Причина
-          в обох напрямків спільна: коли чорноморський вихід перестав працювати,
-          усе, що Росія відправляє на південь, почало виходити з Балтики й
-          Заполярʼя — і сирійські вантажі, і африканські
+          спільна для обох напрямків: коли чорноморський вихід перестав
+          працювати, усе, що Росія відправляє на південь, почало виходити з
+          Балтики й Заполярʼя — і сирійські вантажі, і африканські
           <a className="ref" href="#ref-2">
             [2]
           </a>
@@ -1091,6 +1048,16 @@ export default function Page() {
                   .
                 </p>
               </div>
+              <div className="dossier-card__photo">
+                <img
+                  src="/articles/syriyskyi-ekspres/sparta.webp"
+                  alt="Ролкер «Спарта» біля стінки під колишньою назвою HC Paulina: темно-синій корпус, червона підводна частина, дві вантажні колони з кранами посередині"
+                />
+                <div className="dossier-card__photo-cap">
+                  Фото · «Спарта» під колишньою назвою HC Paulina. Andreas
+                  Modersitzki / MarineTraffic, з досьє ГУР
+                </div>
+              </div>
             </div>
           </details>
 
@@ -1155,6 +1122,16 @@ export default function Page() {
                   </a>
                   .
                 </p>
+              </div>
+              <div className="dossier-card__photo">
+                <img
+                  src="/articles/syriyskyi-ekspres/sparta-iv-at-sea.webp"
+                  alt="Суховантаж «Спарта IV» на ходу: зелений корпус, надбудова в кормовій частині, дві вантажні колони з кранами над відкритими трюмами"
+                />
+                <div className="dossier-card__photo-cap">
+                  Фото · «Спарта IV» під власною назвою. Oliver Sesemann /
+                  MarineTraffic, з досьє ГУР
+                </div>
               </div>
             </div>
           </details>
@@ -1228,6 +1205,16 @@ export default function Page() {
                   .
                 </p>
               </div>
+              <div className="dossier-card__photo">
+                <img
+                  src="/articles/syriyskyi-ekspres/baltic-leader.webp"
+                  alt="Ролкер «Балтик Лідер» на ходу: червоний корпус, назва на борту латиницею й кирилицею, два крани, на палубі закріплені секції труб"
+                />
+                <div className="dossier-card__photo-cap">
+                  Фото · «Балтик Лідер» біля Свіноуйсьця, 13 жовтня 2021 року.
+                  Gestumblindi / Wikimedia Commons, CC BY-SA 4.0
+                </div>
+              </div>
             </div>
           </details>
 
@@ -1266,27 +1253,26 @@ export default function Page() {
                   самою схемою — з вимкненим транспондером.
                 </p>
               </div>
+              <div className="dossier-card__photo">
+                <img
+                  src="/articles/syriyskyi-ekspres/ursa-major.webp"
+                  alt="Суховантаж «Ursa Major» під колишньою назвою Eit Palmina, вид з носа: темно-синій корпус, висока біла надбудова, на палубі закріплений великогабаритний вантаж"
+                />
+                <div className="dossier-card__photo-cap">
+                  Фото · «Ursa Major» під колишньою назвою Eit Palmina. Juergen
+                  Braker / MarineTraffic, з досьє ГУР
+                </div>
+              </div>
             </div>
           </details>
         </div>
-
-        <figure className="fig">
-          <img
-            src="/articles/syriyskyi-ekspres/sparta-iv-at-sea.webp"
-            alt="Суховантаж «Спарта IV» у морі: синій корпус, надбудова в кормовій частині, два вантажні крани над трюмами"
-          />
-          <figcaption>
-            «Спарта IV». Два крани по 55 тонн і трюми під важку техніку — саме
-            тому судно возило танки й ракети для С-300.
-          </figcaption>
-        </figure>
 
         <h3>Куди вони переїхали у 2024 році</h3>
 
         <p>
           Рейси з Новоросійська, які стоять у картках вище, — це 2022, 2023 і
           початок 2024 року. Потім у кожного судна маршрут змінюється, на
-          користь півнчіних портів РФ.
+          користь північних портів РФ.
         </p>
 
         <table>
@@ -1354,13 +1340,6 @@ export default function Page() {
           </a>
           .
         </p>
-
-        <Ph
-          kind="ІНФОГРАФІКА · наша"
-          what="Санкційна стрічка «Спарти»: США 2022 → ЄС квітень 2026 → Швейцарія й Україна травень 2026 → Канада червень 2026, з позначкою проходу Ла-Маншу в липні 2025"
-          src="Робимо самі за досьє ГУР"
-          cap="Чотири роки між американським і європейським рішенням. Прохід Ла-Маншу випав рівно в цю прогалину."
-        />
 
         <p>
           Варто зауважити, що названі судна не є тіньовим флотом, вони не
@@ -1458,17 +1437,6 @@ export default function Page() {
           . Вийшло воно з Петербурга 11 грудня, прибуття до Владивостока
           планувалося на 22 січня 2025-го.
         </p>
-
-        <figure className="fig">
-          <img
-            src="/articles/syriyskyi-ekspres/ursa-major.webp"
-            alt="Суховантаж «Ursa Major» біля причалу: темний корпус, біла надбудова, вантажні крани"
-          />
-          <figcaption>
-            «Ursa Major», до 2022 року відома як «Спарта III». Затонула між
-            Іспанією та Алжиром у ніч проти 24 грудня 2024 року.
-          </figcaption>
-        </figure>
 
         <p>
           Далі починаються розбіжності, і вони показові — бо стосуються одного й
@@ -1749,20 +1717,7 @@ export default function Page() {
           .
         </p>
 
-        <figure className="fig fig--bleed">
-          <img
-            src="/articles/syriyskyi-ekspres/britnev-route-baltiysk-lome.webp"
-            alt="Карта маршруту судна «Михаил Бритнев» від Балтійська навколо Європи до Ломе; частина шляху позначена суцільною лінією, частина пунктиром"
-          />
-          <figcaption>
-            Маршрут «Михаила Бритнева» за даними MarineTraffic. Суцільна лінія —
-            поки транспондер працює: 18 червня вихід із Балтійська, 23 червня
-            трекінг вимкнено. Далі пунктир — до прибуття в Ломе 9 липня. Графіка
-            Бі-Бі-Сі.
-          </figcaption>
-        </figure>
-
-        <figure className="fig fig--bleed">
+        <figure className="fig">
           <img
             src="/articles/syriyskyi-ekspres/bamako-convoy.jpg"
             alt="Колона військової техніки на вулиці Бамако: бронетранспортери й бойові машини піхоти рухаються одна за одною"
@@ -2002,13 +1957,6 @@ export default function Page() {
           .
         </p>
 
-        <Ph
-          kind="ІНФОГРАФІКА · наша"
-          what="Осадка «Патрії» по заходах: зростання в Овендо, спад у Дуалі — чотири проти п'яти"
-          src="Робимо самі за даними Bellingcat"
-          cap="Що саме в трюмах, невідомо. Але осадка щоразу росла в одному порту й падала в другому."
-        />
-
         <p>
           Метод виявився промовистішим за висновок: осадка судна щоразу{" "}
           <strong>зростала</strong> після заходу в Овендо і щоразу{" "}
@@ -2079,14 +2027,6 @@ export default function Page() {
           </a>
           .
         </p>
-
-        <Ph
-          kind="КАРТА · наша"
-          what="Порти Західної Африки, задіяні в постачанні: Конакрі, Ломе, Дуала, Овендо, Лагос, Бата — і сухопутні коридори до Малі та ЦАР"
-          src="Робимо самі"
-          cap="Вузол зміщується на схід: від Конакрі до Ломе, звідки коридор іде через Буркіна-Фасо."
-          wide
-        />
 
         <p>
           Того ще й помітний експортер золота — і, за повідомленнями, слугує
@@ -2208,92 +2148,7 @@ export default function Page() {
           історію морських перевезень.
         </p>
 
-        <p>
-          У квітні 2026 року з трьох різних портів вийшли три судна: танкер
-          нафтопродуктів «Генерал Скобелев» із Петербурга 15 квітня, ролкер
-          «Спарта» з Калінінграда 18-го, танкер постачання «Академик Пашин» із
-          Мурманська 23-го. Заявлений порт призначення — єгипетський Порт-Саїд.
-          У Балтиці конвой вели кораблі НАТО, у Ла-Манші — нідерландський{" "}
-          <em>Galatea</em> і британський RFA <em>Tideforce</em>.
-          <a className="ref" href="#ref-3">
-            [3]
-          </a>
-          .
-        </p>
-
-        <p>
-          Далі почалося приховування маршруту. «Генерал Скобелев» і «Академик
-          Пашин» вимкнули AIS близько 24 квітня, «Спарта» — після 26-го. 26
-          квітня супутник зафіксував усі чотири судна на захід від Португалії у
-          щільному строю. На проході Гібралтару конвой ненадовго зʼявився на
-          трекерах і знову зник. А потім трекери показали те, чого не могло
-          бути:
-        </p>
-
-        <div className="callout callout--warn">
-          <p>
-            <strong>1 травня, 13:36 UTC</strong> — AIS «Генерала Скобелева»
-            показує його біля Естонії, за тисячі миль від фактичного місця.
-          </p>
-          <p>
-            <strong>8 травня</strong> — AIS «Спарти» показує її в Калінінграді
-            зі швидкістю <strong>49,8 вузла</strong>. Для судна такого розміру
-            це фізично неможливо
-            <a className="ref" href="#ref-3">
-              [3]
-            </a>
-            .
-          </p>
-        </div>
-
-        <Ph
-          kind="ІНФОГРАФІКА · наша"
-          what="Стрічка AIS квітневого конвою: 15 квітня — 22 травня, чотири судна, ділянки мовчання й дві точки підміни координат"
-          src="Робимо самі за даними Maritime Executive"
-          cap="Сигнал зникає після Ла-Маншу, з'являється на Гібралтарі й двічі бреше: Естонія 1 травня, Калінінград із 49,8 вузла 8 травня."
-          wide
-        />
-
-        <p>
-          10 травня супутник зняв усі чотири судна на південний захід від
-          Мальти, курсом на схід. Далі — південне узбережжя Криту, а «Касатонов»
-          працював на північ від Тартуса. Перше підтверджене зображення конвою в
-          Тартусі датоване <strong>11 травня</strong>. На знімках 13 травня біля
-          причалу стоять «Спарта», «Генерал Скобелев», «Академик Пашин», танкер
-          «Ельня» і балкер «Аксон Серин»
-          <a className="ref" href="#ref-3">
-            [3]
-          </a>
-          . Порт-Саїд у заявці був прикриттям.
-        </p>
-
-        <p>
-          Через одинадцять днів конвой пішов назад. 22 травня «Спарта» ввімкнула
-          AIS о 05:29 UTC, «Генерал Скобелев» — о 05:30; обидва проходили
-          Гібралтар на захід під ескортом корвета проєкту 20380 і танкера
-          «Ельня». За протокою «Спарта» лишила сигнал увімкненим і пішла в
-          Калінінград, «Генерал Скобелев» вимкнув його знову й пішов у Петербург
-          <a className="ref" href="#ref-3">
-            [3]
-          </a>
-          . Той самий західний прохід із Тартуса незалежно зафіксували
-          італійські трекери
-          <a className="ref" href="#ref-25">
-            [25]
-          </a>
-          .
-        </p>
-
-        <p>
-          Кожен із цих прийомів відомий окремо: мовчання в ефірі, підміна
-          координат, часткова зміна маршруту. Разом в одному переході суден
-          «сирійського експресу» їх до того не бачили — раніше росіяни
-          обмежувалися вимкненням AIS поблизу Тартуса
-          <a className="ref" href="#ref-3">
-            [3]
-          </a>
-          .
-        </p>
+        <AisConvoyMap />
 
         <p>
           Змінилася й тактика щодо ескортування: у конвої зʼявився фрегат.
@@ -2424,156 +2279,120 @@ export default function Page() {
           <ol>
             <li id="ref-1">
               The Sentry — «Doubling Down: Russiaʼs Military Network in West
-              Africa», квітень 2026: склад трьох конвоїв 2025 року, вихід суден
-              «Адлер» і «Сияние Севера» з Мурманська, роль порту Конакрі та
-              дочірніх компаній «Русалу», структура «Африканського корпусу»,
-              інтервʼю з джерелами в Бамако, Мопті й порту.{" "}
+              Africa», квітень 2026.{" "}
               <a href="https://thesentry.org/wp-content/uploads/2026/04/DoublingDown-TheSentry-April2026.pdf">
                 thesentry.org
               </a>
             </li>
             <li id="ref-2">
               CSIS — «Maritime Domain Lessons from Russia-Ukraine», стенограма
-              панелі від 27.02.2025. Цитований контр-адмірал Майк Меттіс,
-              директор зі стратегічних ефектів ВМС США в Європі й Африці.{" "}
+              панелі від 27.02.2025.{" "}
               <a href="https://www.csis.org/analysis/maritime-domain-lessons-russia-ukraine-conflict-focus">
                 csis.org
               </a>
             </li>
             <li id="ref-3">
-              Maritime Executive — «Russiaʼs «Syria Express» Convoys May Be
-              Combining Multiple AIS Tricks», автори Пітер Берстлінг і
-              Джанджузеппе Пілі: хронологія конвою 15.04–22.05.2026, два
-              зафіксовані випадки підміни AIS, супутникове підтвердження стоянки
-              в Тартусі 11–13.05.2026.{" "}
+              Maritime Executive, Пітер Берстлінг і Джанджузеппе Пілі —
+              «Russiaʼs „Syria Express“ Convoys May Be Combining Multiple AIS
+              Tricks».{" "}
               <a href="https://maritime-executive.com/article/russia-s-syria-express-convoys-may-be-combining-multiple-ais-tricks">
                 maritime-executive.com
               </a>
             </li>
             <li id="ref-4">
               ГУР МО України, база War&amp;Sanctions — досьє суден SPARTA (IMO
-              9268710), SPARTA IV (9743033), URSA MAJOR (9538892) та BALTIC
-              LEADER (9220639): маршрути, склад вантажів, санкційна хронологія,
-              перелік відвіданих портів. Дані української воєнної розвідки.{" "}
+              9268710), SPARTA IV (9743033), URSA MAJOR (9538892) і BALTIC
+              LEADER (9220639).{" "}
               <a href="https://war-sanctions.gur.gov.ua/en/transport/ships/99">
                 war-sanctions.gur.gov.ua
               </a>
             </li>
             <li id="ref-5">
               Bellingcat — «Tracking a Sanctioned Russian Vesselʼs West African
-              Odyssey», 25.08.2026: маршрут ролкера «Патрія» за даними AIS
-              Lloydʼs List Intelligence і супутниковими знімками, аналіз осадки,
-              порівняння тривалості стоянки на якорі під Лагосом, коментарі
-              Чарлі Брауна та Девіда Соуда.{" "}
+              Odyssey», 25.08.2026. Маршрут ролкера «Патрія» — за даними AIS
+              Lloydʼs List Intelligence і супутниковими знімками.{" "}
               <a href="https://www.bellingcat.com/news/africa/2026/08/25/patria-sanctioned-russian-vessel-russia-us-africa-cameroon-gabon-lagos-nigeria/">
                 bellingcat.com
               </a>
             </li>
             <li id="ref-6">
-              Eurasia.ro, 16.07.2026 — рейс «Михаила Бритнева» з Архангельська
-              до Ломе: дати виходу й заходів, супутниковий знімок завантаження в
-              Балтійську, ескорт ВДК «Александр Шабалин» із протидроновою
-              сіткою, вимкнення AIS після Ла-Маншу, значення порту Ломе,
-              ратифікація угоди з Того.{" "}
+              Eurasia.ro — рейс «Михаила Бритнева» з Архангельська до Ломе,
+              16.07.2026.{" "}
               <a href="https://eurasia.ro/2026/07/16/russian-dry-cargo-ship-escorted-by-bdk-delivered-armored-vehicles-for-the-african-corps-to-africa/">
                 eurasia.ro
               </a>
             </li>
             <li id="ref-7">
-              France 24 Observers, 14.04.2026 — «Сабетта» з Балтійська до
-              Конакрі: супутникові знімки завантаження й розвантаження, заява
-              Королівського флоту від 05.03.2026, маршрут Конакрі — Бамако,
-              ідентифікація китайської та російської техніки, коментар Джулії
-              Станьярд (GI-TOC) і Марка Шассіллана.{" "}
+              France 24 Observers — рейс «Сабетти» з Балтійська до Конакрі,
+              14.04.2026.{" "}
               <a href="https://www.france24.com/en/africa/20260414-russian-ship-sanctions-delivered-armoured-vehicles-mali">
                 france24.com
               </a>
             </li>
             <li id="ref-8">
               Militarnyi за розслідуванням BBC Verify — постачання БМП-3 та
-              іншої техніки в Малі судном «Михаил Бритнев»; звірка супутникових
-              знімків із кадрами колони в Бамако від 25.07.2026; згадка про ще
-              одне судно, зняте під час завантаження в Балтійську 06.06.{" "}
+              іншої техніки в Малі судном «Михаил Бритнев».{" "}
               <a href="https://militarnyi.com/en/news/russia-sends-large-shipment-of-military-equipment-including-bmp-3-ifvs-to-mali/">
                 militarnyi.com
               </a>
             </li>
             <li id="ref-9">
               ItaMilRadar — «From a Powerful Mediterranean Squadron to Zero
-              Warships», 01.07.2026: поіменний склад угруповання у квітні 2022
-              року та фіксація виходу останніх кораблів в Атлантику.{" "}
+              Warships», 01.07.2026.{" "}
               <a href="https://www.itamilradar.com/2026/07/01/from-a-powerful-mediterranean-squadron-to-zero-warships-how-russias-naval-presence-has-collapsed/">
                 itamilradar.com
               </a>
             </li>
             <li id="ref-10">
               The Insider — «Russia left without warships in Mediterranean for
-              first time in 13 years», 16.07.2026, та матеріал від 08.07.2025
-              про ескорт корветом «Бойкий» і маскування MMSI. Оцінка «вперше з
-              2013 року» належить OSINT-проєкту Russian Forces Spotter і подана
-              як його спостереження; коментар Марка Дагласа — Starboard Maritime
-              Intelligence.{" "}
+              first time in 13 years», 16.07.2026, і матеріал від 08.07.2025 про
+              ескорт корветом «Бойкий». Оцінка «вперше з 2013 року» належить
+              OSINT-проєкту Russian Forces Spotter і подана як його
+              спостереження.{" "}
               <a href="https://theins.press/en/news/294958">theins.press</a>
             </li>
             <li id="ref-11">
-              RUSI — Едвард Блек, Сідхарт Каушал, «Russiaʼs Options for Naval
-              Basing in the Mediterranean After Syriaʼs Tartus», 14.01.2025:
-              роль ремонтної бази, чисельність ескадри, розбір алжирського,
-              суданського й лівійського варіантів, порівняння політичних
-              ризиків.{" "}
+              RUSI, Едвард Блек і Сідхарт Каушал — «Russiaʼs Options for Naval
+              Basing in the Mediterranean After Syriaʼs Tartus», 14.01.2025.{" "}
               <a href="https://www.rusi.org/explore-our-research/publications/commentary/russias-options-naval-basing-mediterranean-after-syrias-tartus">
                 rusi.org
               </a>
             </li>
             <li id="ref-12">
               Maritime Executive — «Russian Navyʼs Weakness in the Mediterranean
-              Becomes Clear»: характер доступу до Тартуса після втрати базових
-              прав, стан Хмейміма, зріз сил на початок травня, стаття 31
-              конституції Алжиру, історія відмов 1968 і 2001 років. Матеріал
-              містить помилку в класі «Адмирала Григоровича» — див. розділ
-              «Похибка».{" "}
+              Becomes Clear». Матеріал називає «Адмирала Григоровича» крейсером
+              — це фрегат проєкту 11356.{" "}
               <a href="https://maritime-executive.com/editorials/russian-navy-s-weakness-in-the-mediterranean-becomes-clear">
                 maritime-executive.com
               </a>
             </li>
             <li id="ref-13">
               Forbes, Пол Іддон — «Russia Never Realized Full Potential Of
-              Syriaʼs Tartus Naval Base—And Never Will», 23.08.2026: зміст
-              меморандуму від 09.08.2026, історія пункту з 1971 року, умови
-              оренди 2017 року, цитата Ібрагіма Хаміді.{" "}
+              Syriaʼs Tartus Naval Base—And Never Will», 23.08.2026.{" "}
               <a href="https://www.forbes.com/sites/pauliddon/2026/08/23/russia-never-realized-full-potential-of-syrias-tartus-naval-base-and-never-will/">
                 forbes.com
               </a>
             </li>
             <li id="ref-14">
               The Moscow Times — «Syria Terminates Russian Naval Base Deal –
-              Reports», 22.01.2025: приклад формулювання, яке пізніше виявилося
-              неточним; частка Росії у прибутку порту. Повідомлення передано з
-              посиланням на сирійське опозиційне видання «Шаам».{" "}
+              Reports», 22.01.2025. Повідомлення передано з покликанням на
+              сирійське опозиційне видання «Шаам»; формулювання про розірвання
+              угоди згодом виявилося неточним.{" "}
               <a href="https://www.themoscowtimes.com/2025/01/22/syria-terminates-russian-naval-base-deal-reports-a87690">
                 themoscowtimes.com
               </a>
             </li>
             <li id="ref-15">
-              Профільні довідники (англомовна «Вікіпедія», статті Tartus naval
-              base та Mediterranean Sea Task Force) — зведена хроніка бази з
-              покликаннями на першоджерела: спостереження Droxford Maritime і
-              M T Anderson за 03.12.2024, заяви МЗС РФ і Rybar за 08.12.2024,
-              заява начальника митниці Тартуса газеті «Аль-Ватан» від
-              19.01.2025, концесія DP World від 13.11.2025, зустріч аль-Шараа з
-              Путіним 15.10.2025, склад угруповання, аварія та повернення
-              «Новороссийска» восени 2025 року, оцінка Naval News від
-              15.10.2025. Довідкові дані подано як заявлені.{" "}
+              Англомовна «Вікіпедія», статті Tartus naval base і Mediterranean
+              Sea Task Force — зведена хроніка бази з покликаннями на
+              першоджерела.{" "}
               <a href="https://en.wikipedia.org/wiki/Tartus_naval_base">
                 en.wikipedia.org
               </a>
             </li>
             <li id="ref-16">
               Джеймс Дроксфорд — «Russia concludes conventional submarine
-              operations in the Mediterranean Sea»: хронологія походу Б-261
-              «Новороссийск», прохід Гібралтару 02.01.2025, стрільба «Калібром»
-              03.12.2024 за повідомленням ТАРС, оцінка дипломатичних зусиль щодо
-              базування, припущення щодо «Можайска». Автор — колишній офіцер
+              operations in the Mediterranean Sea». Автор — колишній офіцер
               радіоелектронної розвідки ВМС Британії.{" "}
               <a href="https://jamesdroxford.substack.com/p/russia-concludes-conventional-submarine">
                 jamesdroxford.substack.com
@@ -2581,50 +2400,36 @@ export default function Page() {
             </li>
             <li id="ref-17">
               European Security &amp; Defence, Ганс-Уве Мергенер — «A Russian
-              sub could be heading back to the Med», 02.2025: прохід
-              «Новороссийска» данськими протоками 14.01.2025, похід
-              «Краснодара», супровід союзними кораблями, історія хибного
-              розпізнавання човна.{" "}
+              sub could be heading back to the Med», 02.2025.{" "}
               <a href="https://euro-sd.com/2025/02/major-news/42534/a-russian-sub-back-to-the-med/">
                 euro-sd.com
               </a>
             </li>
             <li id="ref-18">
               Newsweek — «Syriaʼs critical role in Russiaʼs Africa operations»,
-              грудень 2024: повідомлення ГУР про вивезення техніки, оцінка
-              Інституту вивчення війни та цитати російського воєнного каналу
-              Rybar. Дані російського джерела подано як заявлені.{" "}
+              грудень 2024. Цитати російського воєнного каналу Rybar подано як
+              заявлені.{" "}
               <a href="https://www.newsweek.com/syria-critical-role-russia-africa-operations-tartus-khmeimim-1998938">
                 newsweek.com
               </a>
             </li>
             <li id="ref-19">
               russianfleetanalysis — «The Russian Navy and the fall of Tartus»,
-              12.2024: розбір варіантів заміни, аргументи на користь Тобрука,
-              паливна схема, «лівійський експрес» 2024 року. Нішевий аналітичний
-              блог, оцінки авторські.{" "}
+              12.2024. Нішевий аналітичний блог, оцінки авторські.{" "}
               <a href="https://russianfleetanalysis.blogspot.com/2024/12/the-russian-navy-and-fall-of-tartus.html">
                 russianfleetanalysis.blogspot.com
               </a>
             </li>
             <li id="ref-20">
               Foreign Policy — «After Assadʼs Fall, Russia Looks to Libya and
-              Sudan», 19.02.2025: угода щодо Порт-Судана, розширення авіабази
-              Маатен ес-Сарра, оцінка платформи Eekad, перельоти з Хмейміма до
-              східної Лівії за даними ГУР, розслідування CNN щодо рейсів до
-              Бамако, заява британської воєнної розвідки, покликання на
-              повідомлення Ройтерз про розірваний контракт на управління портом
-              Тартус.{" "}
+              Sudan», 19.02.2025.{" "}
               <a href="https://foreignpolicy.com/2025/02/19/russia-putin-libya-sudan-naval-air-bases-syria-assad-fall/">
                 foreignpolicy.com
               </a>
             </li>
             <li id="ref-21">
               BISI — «The Expansion of Russiaʼs Africa Corps in Libya»,
-              13.06.2024: чисельність угруповання, 6000 тон техніки, доставленої
-              в Тобрук, роль авіабази Ель-Джуфра, заснування «Африканського
-              корпусу» в грудні 2023 року, фетва проти російської присутності.
-              Прогнозна частина матеріалу не використовувалася.{" "}
+              13.06.2024.{" "}
               <a href="https://bisi.org.uk/reports/the-expansion-of-russias-africa-corps-in-libya">
                 bisi.org.uk
               </a>
@@ -2632,12 +2437,10 @@ export default function Page() {
             <li id="ref-22">
               Альберто Прієго — «Russian strategy in the Mediterranean: A second
               front», Opinion Paper 08/2026, Іспанський інститут стратегічних
-              досліджень (IEEE), 23.01.2026: штатна чисельність ескадри,
-              радянська практика ремонту з плавмайстерень, перелік російських
-              обʼєктів у Лівії, чисельність за даними The Soufan Center,
-              буксирування «Новороссийска» восени 2025 року. Авторський
-              матеріал; позиція міністерства оборони Іспанії в ньому не
-              викладена. Містить фактичні помилки — див. розділ «Похибка».{" "}
+              досліджень (IEEE), 23.01.2026. Авторський матеріал; позиція
+              міністерства оборони Іспанії в ньому не викладена. Містить
+              фактичні помилки — зокрема хибний номер проєкту човнів «Краснодар»
+              і «Можайск».{" "}
               <a href="https://www.defensa.gob.es/documents/2073105/3095923/estrategia_rusa_en_el_mediterraneo_2026_dieeeo08_eng.pdf">
                 defensa.gob.es
               </a>
@@ -2645,67 +2448,78 @@ export default function Page() {
             <li id="ref-23">
               TWZ — «Russian Withdrawal From Prized Syrian Naval Base Now
               Underway»: знімки Maxar від 25.01.2025 і Planet Labs від
-              27.01.2025, стан причалів Тартуса, застереження щодо
-              непідтверджених повідомлень про скасування оренди.{" "}
+              27.01.2025.{" "}
               <a href="https://www.twz.com/news-features/russian-withdrawal-from-prized-syrian-naval-base-now-underway">
                 twz.com
               </a>
             </li>
             <li id="ref-24">
               Defense Mirror — «Russia Withdraws Last Submarine from
-              Mediterranean Sea; No Naval Vessels Remain at Syriaʼs Tartus»:
-              підтвердження проходу Гібралтару португальськими ВМС, плани
-              перевезення техніки із Сирії до Лівії. Бортовий номер човна
-              наведено з опискою — див. розділ «Похибка».{" "}
+              Mediterranean Sea; No Naval Vessels Remain at Syriaʼs Tartus».
+              Бортовий номер човна подано з опискою: «Б-61» замість Б-261.{" "}
               <a href="https://defensemirror.com/news/38535">
                 defensemirror.com
               </a>
             </li>
             <li id="ref-25">
               ItaMilRadar — «Russian Syrian Express Convoy Crosses Gibraltar
-              Under Naval Escort», 22.05.2026: незалежна фіксація зворотного
-              проходу «Спарти» й «Генерала Скобелева» під ескортом корвета.{" "}
+              Under Naval Escort», 22.05.2026.{" "}
               <a href="https://www.itamilradar.com/2026/05/22/russian-syrian-express-convoy-crosses-gibraltar-under-naval-escort-signaling-continued-moscow-supply-operations-from-tartus/">
                 itamilradar.com
               </a>
             </li>
             <li id="ref-26">
-              Zona Militar — про початок виведення військ і техніки з Тартуса,
-              02.2025: знімки Maxar і Planet Labs, повітряне прикриття Ка-52 і
-              Мі-8, катер проєкту 21980 у гавані, вихід «Спарти IV» із Балтики.{" "}
+              Zona Militar — про виведення військ і техніки з Тартуса, 02.2025:
+              знімки Maxar і Planet Labs.{" "}
               <a href="https://www.zona-militar.com/en/2025/02/03/the-russian-armed-forces-have-reportedly-begun-withdrawing-troops-and-equipment-from-the-strategic-tartus-naval-base-in-syria/">
                 zona-militar.com
               </a>
             </li>
             <li id="ref-27">
               WION — «From Sparta III to Ursa Major: the sanctioned history of
-              the sunken Russian cargo ship», 12.05.2026: історія перейменувань
-              судна, версії щодо вантажу. Матеріал у форматі фотогалереї;
-              твердження про реакторні установки для КНДР подано з посиланням на
-              неназваних іспанських слідчих і незалежних підтверджень не має.{" "}
+              the sunken Russian cargo ship», 12.05.2026. Твердження про
+              реакторні установки для КНДР подано з покликанням на неназваних
+              іспанських слідчих і незалежних підтверджень не має.{" "}
               <a href="https://www.wionews.com/photos/from-sparta-iii-to-ursa-major-the-sanctioned-history-of-the-sunken-russian-cargo-ship-1778582372147">
                 wionews.com
               </a>
             </li>
-
             <li id="ref-28">
               U.S. Naval Institute, Proceedings — «Russia Is Violating the
-              Montreux Convention with Civilian Ships», 09.2023: перенесення
-              воєнної логістики на цивільні борти, поіменний перелік санкційних
-              суден, що проходять протоки, структура «Оборонлогістики» та її
-              дочірньої OBL-Shipping, схема з вимкненням AIS біля сирійських
-              вод.{" "}
+              Montreux Convention with Civilian Ships», 09.2023.{" "}
               <a href="https://www.usni.org/magazines/proceedings/2023/september/russia-violating-montreux-convention-civilian-ships">
                 usni.org
               </a>
             </li>
             <li id="ref-29">
               JURIST — «The Implications of the Montreux Convention on the
-              Transit of Russian Vessels», 06.2022: обсяг конвенції, стаття 19
-              про військові кораблі воюючих держав і винятки з неї, межі
-              повноважень Туреччини за статтями 20, 21 і 24.{" "}
+              Transit of Russian Vessels», 06.2022.{" "}
               <a href="https://www.jurist.org/commentary/2022/06/akshat-goyal-montreux-convention-russia-ukraine/">
                 jurist.org
+              </a>
+            </li>
+            <li id="ref-30">
+              CNN — «Spike in Russian flights from Syria to Libyan desert base
+              as Moscow eyes new Mediterranean hub», 31.12.2024. Аналіз даних
+              трекінгу — власний.{" "}
+              <a href="https://www.cnn.com/2024/12/31/middleeast/spike-russian-flights-libya-desert-base-intl">
+                cnn.com
+              </a>
+            </li>
+            <li id="ref-31">
+              RFI, відділ розслідувань Info Vérif — «Libyaʼs Al-Khadim airbase
+              becomes a hub for Russian arms in the Sahel», 23.06.2025.{" "}
+              <a href="https://www.rfi.fr/en/africa/20250623-libya-s-al-khadim-airbase-becomes-a-hub-for-russian-arms-in-the-sahel">
+                rfi.fr
+              </a>
+            </li>
+            <li id="ref-32">
+              Asharq Al-Awsat — «From Haftar to Dbeibah: The Map of Control and
+              Influence in Libya», 05.06.2025. За описаним у матеріалі
+              розмежуванням побудовано межу зон контролю на карті обʼєктів у
+              Лівії.{" "}
+              <a href="https://english.aawsat.com/features/5151154-haftar-dbeibah-map-control-and-influence-libya">
+                english.aawsat.com
               </a>
             </li>
           </ol>
