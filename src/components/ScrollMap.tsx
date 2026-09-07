@@ -127,9 +127,9 @@ interface MapData {
   legBox: Record<string, [number, number, number, number]>;
 }
 
-/** Частка полотна, що лишається карті на вузькому екрані: решту накриває
- *  картка, коли стає проти очей. */
-const MOBILE_BAND = 0.45;
+/** Частка полотна, що лишається карті на вузькому екрані. Картка тепер їде
+ *  під картою, а не поверх неї, тож ділитися полотном більше ні з ким. */
+const MOBILE_BAND = 0.94;
 
 const STROKE: Record<LegKind, { c: string; w: number; d: string | null }> = {
   sea: { c: "#1f4e78", w: 2.2, d: null },
@@ -708,10 +708,11 @@ export function ScrollMap({
     }
 
     function setup() {
-      const r = mapcol.getBoundingClientRect();
-      if (!r.width || !r.height) return;
-      W = r.width;
-      H = r.height;
+      const r = svg.getBoundingClientRect();
+      const box = r.width && r.height ? r : mapcol.getBoundingClientRect();
+      if (!box.width || !box.height) return;
+      W = box.width;
+      H = box.height;
       svg.setAttribute("viewBox", `0 0 ${W} ${H}`);
       // Після зміни розміру геометрію перераховуємо, але вузли лишаємо на
       // місці: оновити дві тисячі path дешевше, ніж поховати й народити наново.
@@ -951,7 +952,10 @@ export function ScrollMap({
           o.node.style.transform = tr;
           o.lastTr = tr;
         }
-        const flip = o.forced || x > lim;
+        // Підпис ліворуч від точки має куди поміститися: біля самого краю
+        // кадру — вузький екран це робить постійно — він однаково обрізається,
+        // тож там кладемо його праворуч.
+        const flip = (o.forced || x > lim) && x > 118;
         if (flip !== o.lastFlip) {
           o.text.setAttribute("x", flip ? "-8" : "8");
           o.text.setAttribute("text-anchor", flip ? "end" : "start");
@@ -1183,15 +1187,12 @@ export function ScrollMap({
       resizeTmr = window.setTimeout(() => setup(), 120);
     }
     const ro = new ResizeObserver(() => {
-      if (
-        mapcol.clientWidth &&
-        mapcol.clientHeight &&
-        (Math.abs(mapcol.clientWidth - W) > 1 ||
-          Math.abs(mapcol.clientHeight - H) > 1)
-      )
+      const b = svg.getBoundingClientRect();
+      if (b.width && b.height && (Math.abs(b.width - W) > 1 || Math.abs(b.height - H) > 1))
         relayout();
     });
     ro.observe(mapcol);
+    ro.observe(svg);
     const pageRo = new ResizeObserver(() => measure());
     pageRo.observe(document.documentElement);
     window.addEventListener("load", measure);
@@ -1201,6 +1202,15 @@ export function ScrollMap({
      * змінилася, а не на кожен кадр прокрутки: у такому довгому тексті
      * кожне звіряння з розкладкою примушує браузер перерахувати всю сторінку.
      */
+    /** Куди дивиться читач: на широкому екрані — середина вікна, на вузькому
+     *  — середина смуги під прибитою картою. */
+    function pickY() {
+      if (window.innerWidth > 900) return window.innerHeight / 2;
+      const b = mapcol.getBoundingClientRect();
+      const top = Math.max(0, Math.min(b.bottom, window.innerHeight));
+      return top + (window.innerHeight - top) / 2;
+    }
+
     function measure() {
       railW = rail.getBoundingClientRect().width;
       stepMid = stepEls.map((e) => {
@@ -1211,7 +1221,7 @@ export function ScrollMap({
 
     function pickStep() {
       if (!stepMid.length) return;
-      const mid = window.scrollY + window.innerHeight / 2;
+      const mid = window.scrollY + pickY();
       let best = 0;
       if (pinned) {
         // Картка міняється на межі щабля, а не на півдорозі до наступної:
@@ -1237,7 +1247,7 @@ export function ScrollMap({
      *  їхніми серединами. Камера тим часом лишається на своїй картці. */
     function voyageFrame() {
       if (!fleet.length || stepMid.length < 2) return;
-      const mid = window.scrollY + window.innerHeight / 2;
+      const mid = window.scrollY + pickY();
       let i = 0;
       while (i + 1 < stepMid.length && stepMid[i + 1] < mid) i++;
       const a = stepMid[i],

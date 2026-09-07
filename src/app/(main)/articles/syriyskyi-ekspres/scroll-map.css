@@ -310,13 +310,16 @@ body {
   .smap .smap__mapcol {
     min-height: 300px;
   }
+  /* На телефоні картки не лізуть на карту, а їдуть під нею: смуга починається
+     від нижнього краю карти, а карта лежить вище за шаром і ховає за собою
+     те, що поїхало вгору. */
+  .smap .smap__mapcol {
+    z-index: 3;
+  }
   .smap .smap__rail {
     width: auto;
-    /* Картка стає під нижній край карти й перекриває її десь наполовину —
-       рівно ту частину, яку кадр лишає порожньою. Проміжок між картками
-       завбільшки з пів карти: між ними читач бачить її всю. */
-    margin: calc(-0.4 * var(--smap-h)) 12px 0;
-    gap: var(--smap-gap-mobile, calc(0.55 * var(--smap-h)));
+    margin: 0 12px;
+    gap: var(--smap-gap-mobile, calc(0.28 * var(--smap-h)));
   }
   .smap .smap__step {
     padding: 20px;
@@ -325,18 +328,30 @@ body {
     height: 76svh;
     padding: 0;
   }
-  /* На телефоні панель стає під нижній край карти — там, де кадр лишає
-     порожнє місце, і так само не рухається. */
-  .smap__panel {
-    top: auto;
-    bottom: 10px;
-    left: 12px;
-    right: 12px;
+  /* Прибита картка так само стає під карту, а не поверх неї: колонка
+     ділиться на дві частини, і карті лишається все, чого не забрала картка. */
+  .smap--pinned .smap__mapcol {
+    display: flex;
+    flex-direction: column;
+    height: calc(100svh - var(--header-height) - 10px);
+  }
+  .smap--pinned .smap__svg {
+    flex: 1 1 auto;
+    min-height: 0;
+    height: auto;
+  }
+  .smap--pinned .smap__panel {
+    position: static;
+    flex: 0 0 auto;
     width: auto;
+    margin: 8px 0 0;
     transform: none;
   }
+  .smap--pinned .smap__card {
+    padding: 16px 18px;
+  }
   .smap .smap__step:first-child {
-    margin-top: 0;
+    margin-top: 16px;
   }
   .smap .smap__step:last-child {
     margin-bottom: 24px;
