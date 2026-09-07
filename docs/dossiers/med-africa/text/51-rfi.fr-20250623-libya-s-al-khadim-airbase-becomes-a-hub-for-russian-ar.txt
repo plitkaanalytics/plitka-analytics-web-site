@@ -1,0 +1,95 @@
+URL:         https://www.rfi.fr/en/africa/20250623-libya-s-al-khadim-airbase-becomes-a-hub-for-russian-arms-in-the-sahel
+Кінцевий:    https://web.archive.org/web/20260902045821id_/https://www.rfi.fr/en/africa/20250623-libya-s-al-khadim-airbase-becomes-a-hub-for-russian-arms-in-the-sahel
+Заголовок:   Libya's Al-Khadim airbase becomes a hub for Russian arms in the Sahel
+Дата публ.:  2025-06-23
+Завантажено: 2026-09-06 05:51 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 406593
+Оригінал:    raw/51-rfi.fr-20250623-libya-s-al-khadim-airbase-becomes-a-hub-for-russian-ar.html
+sha256:      c957d88fb49016cd944ddb653a4e263dd43a8edb9a3bc1148df561e6c078b6a7
+Витяг:       trafilatura
+Примітка:    оригінал недоступний (403), узято з Wayback
+
+==============================================================================
+# Libya's Al-Khadim airbase becomes a hub for Russian arms in the Sahel
+
+Amid renewed relations with Libya, Russia is relying on the Al-Khadim base near Benghazi to strengthen its military presence in the Sahel region of Africa. RFI journalists were able to trace the itinerary of a Russian cargo plane from Syria to Libya, one of many flights operating on this route.
+
+Issued on:
+
+The airbase in Hmeimin in the Latakia province of Syria, along with the naval base in Tartus are key military outposts for Russia. The overthrow of longtime Syrian ruler and Russian ally Bashar al-Assad [in December](https://www.rfi.fr/en/international/20241208-france-welcomes-fall-of-syria-s-assad-calls-for-peaceful-transition) cast the future of these bases into doubt, with Western countries hoping to pressure Damascus into closing them.
+
+Russia, whose military backing helped Assad cling to power, has sought to retain the two bases and has begun discussions with the new interim leadership under former rebel leader Ahmed al-Sharaa.
+
+In the meantime, reports show that [Russia](https://www.rfi.fr/en/tag/russia/) has begun shifting some of its equipment to other bases – notably in Libya.
+
+Using satellite imagery and flight radar information, RFI’s investigative unit Info Vérif was able to trace last month's voyage of a Russian Antonov-124 plane, which took off from the Hmeimin base and arrived at the Al-Khadim base in [Libya](https://www.rfi.fr/en/tag/libya/#pager).
+
+The Antonov-124 is designed to carry heavy, bulky loads (up to 100 tonnes), but it requires long, concrete runways for lift-off. In total, there are an estimated 20 aircraft of this type still in service worldwide, mostly used by Ukraine and Russia.
+
+RFI journalists focused on an Antonov-124 (RA-82030) operated by a logistics company known as [224 Flight Unit](https://224lo.com/about), a subsidiary of the Russian Ministry of Defence.
+
+Numerous clients, both private and state-owned (including the French army), used its services for special air transport missions, before the unit's fleet was placed under international sanctions. Their website's mission history has not been updated since 2014.
+
+[Wagner replaced in Mali by Africa Corps, another Russian military group](https://www.rfi.fr/en/africa/20250609-wagner-gets-replaced-in-mali-by-africa-corp-another-russian-military-group)
+
+## 10,000km round trip
+
+Among the aircraft in its fleet is the aircraft coded RA-82030, registered as a civil aircraft.
+
+At the end of May, as indicated by data from the tracking website [Flight Radar 24](https://www.flightradar24.com/data/aircraft/ra-82030), it completed a journey of nearly 10,000km between [Syria](https://www.rfi.fr/en/tag/syria/) and sub-Saharan Africa.
+
+Its first stop was the Libyan base of Al-Khadim, located around 100km east of Benghazi, the capital of Cyrenaica – a region in the hands of Marshal [Khalifa Haftar](https://www.rfi.fr/en/tag/khalifa-haftar/), who is backed by Russia.
+
+The Russian cargo plane initially appeared on screens on 16 May, 2025, at 3:17pm, a few dozen kilometres from the Russian base in Syria.
+
+The speed and altitude at the time the data was transmitted to online open-source tracking sites confirmed that the plane took off from the Hmeimin base. But less than an hour later, the sites lost track of it before it reappeared north of Egypt, heading southwest.
+
+An aeronautical engineer who wished to remain anonymous told RFI that it is not unusual in some cases for location data to suddenly disappear.
+
+"The transponder's Automatic Dependent Surveillance-Broadcast [AIS] function can be cut off, which isn't very prudent if the crew is flying in the United States, the European Union, and a few other countries. But it's not illegal as long as the transponder's Mode S [aircraft communication mode] is maintained," he explained.
+
+"It could also be that the plane is simply flying through dead zones in terms of ADS-B receivers connected to tracking platforms. In this case, it looks very much like an intentional disconnection. It's quite typical. Moreover, the plane is over the Mediterranean and the airspace is not congested, so no one is going to come and protest," the expert added.
+
+[Sahel ministers in Russia for talks after breaking with western allies](https://www.rfi.fr/en/africa/20250403-sahel-ministers-in-russia-for-talks-after-breaking-with-western-allies)
+
+To confirm the exact whereabouts of the Antonov 124 plane, RFI contacted [Maxar](https://www.maxar.com/), a North American company specialising in satellite images and Earth observation.
+
+On 18 May, two days after leaving Syria, the aircraft was found parked on the Al-Khadim runway. No other aircraft of the same type had been reported in the area at the same time.
+
+According to flight logs, the aircraft continued its journey, stopping in the Malian capital Bamako and Ouagadougou in Burkina Faso between 20 and 26 May, before finally heading back to Russia.
+
+It is not clear what type of equipment was unloaded or loaded on this particular flight, but the aircraft's cargo bay is large enough to carry several aircraft or armoured vehicles without having to completely dismantle them.
+
+In the past, these large carriers have delivered aircraft, helicopters, radars and surface-to-air systems to countries in the Alliance of Sahel States.
+
+RFI’s investigative unit analysed the records of previous flights to get an idea of the scale of Russian activity in the region. They found that the same plane took off from Syria on 4 May, departing from Syria and reappearing later in the vicinity of the Al-Khadim base.
+
+Several open-source reports suggest that similar activities have been happening at this base in recent months.
+
+## Telegram messages
+
+Earlier this year, French newspaper *Le Monde* documented eight flights between December 2024 and January 2025 between Hmeimin and Al-Khadim.
+
+RFI reviewed several Telegram channels close to the paramilitary Wagner Group and the Kremlin-controlled Africa Corps, and found references to Russian weapons deliveries to Al-Khadim – including heavy weapons and armoured vehicles of the same type as those used by Russia in Syria.
+
+One Telegram post reads: "New organisations. New technology. Old places. Remember your roots!" The author is likely referring to Wagner's first deployments in Libya in 2018, or to the Cold War era in which the Libyan army fielded Soviet equipment.
+
+RFI was able to geolocate this video, which was filmed in front of the hangars at the Al-Khadim base.
+
+Another video broadcast on Telegram, taken from the cockpit of a transport aircraft, confirms the use of this area by Russian cargo planes.
+
+## Diplomatic moves
+
+For Lou Osborn, of the [All Eyes On Wagner](https://alleyesonwagner.org) collective, this presence can be explained by a rapprochement between Moscow and Benghazi. This became more apparent following the death of [Wagner leader Yevgeny Prigozhin](https://www.rfi.fr/en/europe/20230824-kremlin-silent-on-reported-death-of-wagner-boss-prigozhin-in-plane-crash), whose plane crashed in August 2023 shortly after he led a rebellion against Russian President Vladimir [Putin](https://www.rfi.fr/en/tag/vladimir-putin/).
+
+The fall of Bashar al-Assad’s regime in Syria also sped up a push for stronger diplomatic ties elsewhere, Osborn said. "We saw a kind of logistical ballet of Russian planes towards Libya. There is a fairly strong rapprochement, political and military, between Haftar's Libya and the Kremlin."
+
+Moscow has also tried to forge ties with the officially recognised government in Tripoli, through the opening of embassies, Osborn added, saying that there have also been overtures in Algeria and Tunisia – "countries that are very aware of what is happening in the region, with military attachés, particularly in Algeria, who travel back and forth to Libya".
+
+The flight of the RA-82030, which was also tracked in early June, is one of many signs that Russia appears to have successfully restructured its overseas presence, and is able to rely on a network of bases in Africa – ensuring the growth of the Africa Corps, and broader support for Moscow's regional allies.
+
+*This article is based on an  original report in French by Olivier Fourt and Grégory Genevrier and has been edited for clarity.*
+
+**Daily newsletter**Receive essential international news every morning
+
+[Subscribe](https://emailing.rfi.fr/en/subscribe)

@@ -1,0 +1,146 @@
+URL:         https://en.wikipedia.org/wiki/Gamal_Abdel_Nasser_Airbase
+Кінцевий:    https://en.wikipedia.org/wiki/Gamal_Abdel_Nasser_Airbase
+Заголовок:   Gamal Abdel Nasser Airbase - Wikipedia
+Дата публ.:  2009-08-24
+Завантажено: 2026-09-06 05:50 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 182445
+Оригінал:    raw/45-en.wikipedia.org-gamal_abdel_nasser_airbase.html
+sha256:      6e695162be056db8ad11b76f15654701d31de9c3cdfd1746cbf0a5c4dce73ef0
+Витяг:       trafilatura
+
+==============================================================================
+# Gamal Abdel Nasser Airbase
+
+
+| Gamal Abdel Nasser Airbase قاعدة جمال عبد الناصر الجوية Qāʿida Ǧamāl ʿAbd an-Nāṣir Ǧawwiyya | |||||||||||||||||||
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Summary | |||||||||||||||||||
+| Airport type | Military | ||||||||||||||||||
+| Operator | Government | ||||||||||||||||||
+| Location | [al-ʿAdam](https://en.wikipedia.org/wiki/Al_Adm),[Butnan District](https://en.wikipedia.org/wiki/Butnan_District),[Libya](https://en.wikipedia.org/wiki/Libya) | ||||||||||||||||||
+| Elevation [AMSL](https://en.wikipedia.org/wiki/Height_above_sea_level) | 519 ft (158 m) | ||||||||||||||||||
+| Coordinates | [31°51′41.00″N 023°54′24.4″E / 31.8613889°N 23.906778°E](https://geohack.toolforge.org/geohack.php?pagename=Gamal_Abdel_Nasser_Airbase¶ms=31_51_41.00_N_023_54_24.4_E_region:LY_type:airport) | ||||||||||||||||||
+| Map | |||||||||||||||||||
+| [Runways](https://en.wikipedia.org/wiki/Runway) | |||||||||||||||||||
+| 
+ | |||||||||||||||||||
+
+**Gamal Abdel Nasser Airbase** ([Arabic](https://en.wikipedia.org/wiki/Arabic_language): قاعدة جمال عبد الناصر الجوية, [romanized](https://en.wikipedia.org/wiki/Romanization_of_Arabic): *Qāʿida Ǧamāl ʿAbd an-Nāṣir Ǧawwiyya*) is a [Libyan Air Force](https://en.wikipedia.org/wiki/Libyan_Air_Force_(1951–2011)) ([Arabic](https://en.wikipedia.org/wiki/Arabic_language): القوات الجوية الليبية, [romanized](https://en.wikipedia.org/wiki/Romanization_of_Arabic): *al-Quwwāt al-Ǧawwiyya al-Lībiyya*, [Berber](https://en.wikipedia.org/wiki/Berber_languages): **Adwas Alibyan Ujnna**) base, located about 16 km south of [Tobruk](https://en.wikipedia.org/wiki/Tobruk).
+
+Before [World War II](https://en.wikipedia.org/wiki/World_War_II), it had been an [Italian Air Force](https://en.wikipedia.org/wiki/Italian_Air_Force) airfield. A number of the former Italian buildings were seen remaining in 2003, during a courtesy visit by former RAF personnel, at which time no military aircraft were evident.
+
+Prior to 31 March 1970, the airfield was known as **Royal Air Force Station El Adem** ([Arabic](https://en.wikipedia.org/wiki/Arabic_language): العدم, [romanized](https://en.wikipedia.org/wiki/Romanization_of_Arabic): *al-ʿAdam* after the nearby settlement [al Adm](https://en.wikipedia.org/wiki/Al_Adm)), and used by the RAF primarily as a staging post. [1] This was for RAF and civil aircraft transiting from bases in Europe to others further East.
+
+## World War II
+
+[[edit](/w/index.php?title=Gamal_Abdel_Nasser_Airbase&action=edit§ion=1)]
+
+The airfield saw heavy use during the [Western Desert Campaign](https://en.wikipedia.org/wiki/Western_Desert_Campaign) of 1941–42. [No. 211 Group RAF](https://en.wikipedia.org/wiki/No._211_Group_RAF) made its headquarters at the airfield for several months.
+
+The airfield was largely reconstructed in 1942 by the [Royal Air Force](https://en.wikipedia.org/wiki/Royal_Air_Force) (RAF) and brought into operational use again on 12 December 1942. It was used during [World War II](https://en.wikipedia.org/wiki/World_War_II) by the RAF and the [United States Army Air Forces](https://en.wikipedia.org/wiki/United_States_Army_Air_Forces) (USAAF) during the [North African Campaign](https://en.wikipedia.org/wiki/North_African_Campaign) against German and Italian forces.
+
+RAF units which used the airfield were:
+
+- No 31 Air Stores Park (8 Mar – 10 Apr 1941);
+- HQ No 262 Wing (11–20 Dec 1941);
+- HQ No 258 Wing (12–xx Dec 1941, 3–xx Feb 1942);
+- [No. 2 Squadron RAAF](https://en.wikipedia.org/wiki/No._2_Squadron_RAAF)(19–21 Dec 1941, 2–3 Feb 1942, 15–17 Feb 1942);
+- No 33 Air Stores Park (23 Dec 1941 – 31 Jan 1942);
+- No 53 Repair and Salvage Unit (26 Dec 1941 – Feb 1942);
+- [No. 80 Squadron RAF](https://en.wikipedia.org/wiki/No._80_Squadron_RAF)(28 Dec 1941 – 3 Feb 1942);
+- Air Sea Rescue Flt (10–31 Jan 1942);
+- [No. 73 Squadron RAF](https://en.wikipedia.org/wiki/No._73_Squadron_RAF)(3–18 Feb 1942, 20–27 May 1942, 17–28 Nov 1942);
+- [No. 94 Squadron RAF](https://en.wikipedia.org/wiki/No._94_Squadron_RAF)(15–17 Feb 1942);
+- HQ No 211 Group (12 Mar – xxx 1942)
+- No 211 Group Communications Flt (20 Apr 1942 – 17 Sep 1943)
+- [No. 267 Squadron RAF](https://en.wikipedia.org/wiki/No._267_Squadron_RAF)(Aug 1942 – Jan 1943)
+- HQ No 243 Wing (17–xx Nov 1942)
+- [No. 33 Squadron RAF](https://en.wikipedia.org/wiki/No._33_Squadron_RAF)(18–28 Nov 1942)
+- [No. 117 Squadron RAF](https://en.wikipedia.org/wiki/No._117_Squadron_RAF)(19 Nov 1942 – 9 Jan 1943)
+- [No. 213 Squadron RAF](https://en.wikipedia.org/wiki/No._213_Squadron_RAF)(20–25 Nov 1942)
+- [No. 238 Squadron RAF](https://en.wikipedia.org/wiki/No._238_Squadron_RAF)(20–25 Nov 1942)
+- No 12 Staging Post (8 Mar 1943 – 1 Aug 1945)
+- HQ No 7 (SAAF) Wing (17 Apr – 18 May 1943)
+- No 2915 Sqn RAF Regiment (May 1943 – xxx 194x)
+- [No. 47 Squadron RAF](https://en.wikipedia.org/wiki/No._47_Squadron_RAF)(14–25 Nov 1943)
+- HQ No 240 Wing (28 Dec 1943 – 4 Feb 1944)
+- [No. 178 Squadron RAF](https://en.wikipedia.org/wiki/No._178_Squadron_RAF)(1 Jan – 1 Mar 1944)
+- [No. 462 Squadron RAF](https://en.wikipedia.org/wiki/No._462_Squadron_RAF)(1 Jan – 15 Feb 1944)
+- [No. 336 Squadron RAF](https://en.wikipedia.org/wiki/No._336_Squadron_RAF)(31 Jan – 5 Mar 1944, 15 Jul – 16 Sep 1944)
+
+USAAF [Ninth Air Force](https://en.wikipedia.org/wiki/Ninth_Air_Force) units which used the airfield were:
+
+- [316th Troop Carrier Group](https://en.wikipedia.org/wiki/316th_Troop_Carrier_Group), 10 December 1942–January 1943,- [Douglas C-47 Skytrain](https://en.wikipedia.org/wiki/Douglas_C-47_Skytrain)
+- 379th Bombardment Squadron, ([310th Bombardment Group](https://en.wikipedia.org/wiki/310th_Bombardment_Group)), 2–26 November 1943,[North American B-25 Mitchell](https://en.wikipedia.org/wiki/North_American_B-25_Mitchell)
+
+- Attached to No 235 Wing, Royal Air Force[[2]](#cite_note-2)
+
+## Postwar to British departure
+
+[[edit](/w/index.php?title=Gamal_Abdel_Nasser_Airbase&action=edit§ion=2)]
+
+Royal Air Force Station El Adem was the fuel stop for the [BOAC](https://en.wikipedia.org/wiki/BOAC) aircraft carrying the new [Queen Elizabeth II](https://en.wikipedia.org/wiki/Queen_Elizabeth_II) on her flight from [Entebbe](https://en.wikipedia.org/wiki/Entebbe) to London on 7 February 1952.[[3]](#cite_note-3)
+
+During the first half of 1960, a high-speed low-altitude flying effects evaluation flight, the Swifter Flight, was established at the station. [4] Mainly flying the 
+
+[English Electric Canberra](https://en.wikipedia.org/wiki/English_Electric_Canberra), the flight provided data for use in the
+
+[TSR.2](https://en.wikipedia.org/wiki/TSR.2)programme as well as more general data about such flight profiles. The aircraft had to be specially strengthened.
+
+No. 1564 (Helicopter) Flight was re-formed at El Adem on 14 August 1963, flying [Bristol Sycamores](https://en.wikipedia.org/wiki/Bristol_Sycamore) and [Westland Whirlwinds](https://en.wikipedia.org/wiki/Westland_Whirlwind_(helicopter)), from an element of [103 Squadron](https://en.wikipedia.org/wiki/No._103_Squadron_RAF), disbanding on 31 December 1966 at El Adem.[[5]](#cite_note-FOOTNOTELake199995-5) [6] It was  re-formed at El Adem again on 1 May 1969, from 'D' Flight of 
+
+[202 Squadron](https://en.wikipedia.org/wiki/No._202_Squadron_RAF), only to be disbanded again on 31 March 1970 on
+
+[Cyprus](https://en.wikipedia.org/wiki/Cyprus).
+
+
+[[5]](#cite_note-FOOTNOTELake199995-5)
+
+[[6]](#cite_note-FOOTNOTESturtivantHamlin2007127-6)As a group captain, RAF officer [Peter Terry](https://en.wikipedia.org/wiki/Peter_Terry) was station commander of El Adem, from 1969 to 1970. He was there in September 1969 when [Colonel Gaddafi](https://en.wikipedia.org/wiki/Colonel_Gaddafi) overthrew King [Idris of Libya](https://en.wikipedia.org/wiki/Idris_of_Libya) in a coup. Terry oversaw withdrawal of British troops from El Adem and [Tobruk](https://en.wikipedia.org/wiki/Tobruk) in March 1970. He went on to achieve the rank of [air chief marshal](https://en.wikipedia.org/wiki/Air_chief_marshal).
+
+In 1994, the remaining wreckage of * Lady Be Good*, a USAAF 
+
+[Consolidated B-24 Liberator](https://en.wikipedia.org/wiki/Consolidated_B-24_Liberator)heavy bomber that crashed-landed deep in the Libyan desert during WWII in 1943, was brought to the air base by a local Libyan team led by Dr. Fadel Ali Mohammed (tasked with recovering the plane wreck) for storage and safekeeping. The remnants of the aircraft still remain there.
+
+Units present 1950s:
+
+- No 1900 AOP Flight (15 January – 1 July 1952)
+- [No. 249 Squadron RAF](https://en.wikipedia.org/wiki/No._249_Squadron_RAF)(11 March – 3 May 1957)
+- Swifter Trials Flight (January–July 1960) - high speed flight evaluation unit[[7]](#cite_note-7)
+- No 1564 Flight (1 May 1969 – 31 March 1970)
+- [No. 1 Squadron RAF Regiment](https://en.wikipedia.org/wiki/No._1_Squadron_RAF_Regiment)
+
+## Current use
+
+[[edit](/w/index.php?title=Gamal_Abdel_Nasser_Airbase&action=edit§ion=3)]
+
+The airbase is named after the Egyptian revolutionary [Gamal Abdel Nasser](https://en.wikipedia.org/wiki/Gamal_Abdel_Nasser), who served as President of Egypt. In 2013, the airport was officially reopened as [Tobruk International Airport](https://en.wikipedia.org/wiki/Tobruk_Airport), with flights to [Alexandria](https://en.wikipedia.org/wiki/El_Nouzha_Airport), [Egypt](https://en.wikipedia.org/wiki/Egypt).[[8]](#cite_note-8)[[9]](#cite_note-9)
+
+## See also
+
+[[edit](/w/index.php?title=Gamal_Abdel_Nasser_Airbase&action=edit§ion=4)]
+
+## References
+
+[[edit](/w/index.php?title=Gamal_Abdel_Nasser_Airbase&action=edit§ion=5)]
+
+- [↑](#cite_ref-1)Sir David Lee, 'Wings in the Sun,' Air Historical Branch/HMSO, London, 1989, 157-8.
+- [↑](#cite_ref-2)Maurer, Maurer, ed. (1982) [1969].- *Combat Squadrons of the Air Force, World War II*- [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier))- [0-405-12194-6](https://en.wikipedia.org/wiki/Special:BookSources/0-405-12194-6).- [LCCN](https://en.wikipedia.org/wiki/LCCN_(identifier))- [70605402](https://lccn.loc.gov/70605402).- [OCLC](https://en.wikipedia.org/wiki/OCLC_(identifier))- [72556](https://search.worldcat.org/oclc/72556). Archived from- [the original](http://media.defense.gov/2010/Dec/02/2001329899/-1/-1/0/AFD-101202-002.pdf)(PDF) on 20 December 2016.
+- [↑](#cite_ref-3)- *Flight and Aircraft Engineer: Official Organ of the Royal Aero Club*
+- [↑](#cite_ref-4)C, Stu (16 January 2011).- ["SWAG Trip Reports: UK - Wales Aircraft Museum - 1970s-1990s"](https://swag-trip-logs.blogspot.com/2011/11/uk-wales-aircraft-museum-1970s-1990s.html).
+- [1](#cite_ref-FOOTNOTELake199995_5-0)- [2](#cite_ref-FOOTNOTELake199995_5-1)- [Lake (1999)](#CITEREFLake1999), p. 95.
+- [1](#cite_ref-FOOTNOTESturtivantHamlin2007127_6-0)- [2](#cite_ref-FOOTNOTESturtivantHamlin2007127_6-1)- [Sturtivant & Hamlin (2007)](#CITEREFSturtivantHamlin2007), p. 127.
+- [↑](#cite_ref-7)- ["Swift Flight | Key Aero"](https://www.key.aero/forum/historic-aviation/77345-swift-flight).- *www.key.aero*.
+- [↑](#cite_ref-8)- ["Tobruk International Airport opened"](https://web.archive.org/web/20180913002311/https://www.libya-businessnews.com/2013/05/01/tobruk-international-airport-opened/).- *Libya Business News*. May 2013. Archived from the original on 13 September 2018. Retrieved 12 September 2018.
+- [↑](#cite_ref-9)- ["Tobruk International Airport officially opened"](https://www.libyaherald.com/2013/04/30/tobruk-international-airport-officially-opened/).- *Libya Herald*. 30 April 2013. Retrieved 12 September 2018.
+
+## Sources
+
+[[edit](/w/index.php?title=Gamal_Abdel_Nasser_Airbase&action=edit§ion=6)]
+
+- Lake, Alan (1999). *Flying Units of the RAF*. Shrewsbury, Shropshire, UK: Airlife Publishing.[ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier))[1-84037-086-6](https://en.wikipedia.org/wiki/Special:BookSources/1-84037-086-6).
+- [Sturtivant, Ray](https://en.wikipedia.org/wiki/Ray_Sturtivant); Hamlin, John (2007).- *RAF Flying Training And Support Units since 1912*. Tonbridge, Kent, UK: Air-Britain (Historians) Ltd.- [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier))- [978-0-85130-365-9](https://en.wikipedia.org/wiki/Special:BookSources/978-0-85130-365-9).
+
+## External links
+
+[[edit](/w/index.php?title=Gamal_Abdel_Nasser_Airbase&action=edit§ion=7)]

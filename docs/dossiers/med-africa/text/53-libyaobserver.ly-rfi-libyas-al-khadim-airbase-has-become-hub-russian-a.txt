@@ -1,0 +1,22 @@
+URL:         https://libyaobserver.ly/news/rfi-libyas-al-khadim-airbase-has-become-hub-russian-arms-transfers-sahel
+Кінцевий:    https://libyaobserver.ly/news/rfi-libyas-al-khadim-airbase-has-become-hub-russian-arms-transfers-sahel
+Заголовок:   RFI: Libya's Al-Khadim airbase has become hub for Russian arms transfers to the Sahel
+Дата публ.:  2025-06-23
+Завантажено: 2026-09-06 05:51 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 72467
+Оригінал:    raw/53-libyaobserver.ly-rfi-libyas-al-khadim-airbase-has-become-hub-russian-a.html
+sha256:      987a9a97bf8caddc14d2b4c38ca1e657ee077745383db578c771d782c94b9a7b
+Витяг:       trafilatura
+
+==============================================================================
+Radio France Internationale (RFI) has revealed in an in-depth investigation that Russia has increasingly relied on the Al-Khadim airbase, located east of Benghazi, to reinforce its military presence in the African Sahel region. This shift comes after Moscow’s influence in Syria waned following the ousting of Bashar Al-Assad’s regime in late 2024.
+
+According to RFI’s investigative unit, a large Russian Antonov-124 cargo plane was tracked departing from Syria’s Hmeimim Airbase on May 16, 2025, and landing at Libya’s Al-Khadim base. The flight is reportedly part of a broader pattern of recently observed air routes between Syria and Libya, forming what appears to be a new Russian air bridge to Africa.
+
+The aircraft, identified with the registration RA-82030 and operated by the 224th Flight Unit of the Russian Ministry of Defense, continued its journey to Sahel destinations, including Bamako, Mali, and Ouagadougou, Burkina Faso, before returning to Russia.
+
+While the exact nature of the cargo remains unconfirmed, the aircraft’s size and capacity suggest the transport of heavy equipment, such as armored vehicles or air defense systems. US satellite imaging company Maxar confirmed the plane’s presence on the runway at Al-Khadim on May 18.
+
+The investigation also featured reports and videos published on Telegram channels affiliated with the Wagner Group and the Kremlin’s Africa Corps, showing the unloading of military cargo at Al-Khadim, including heavy weaponry and vehicles resembling those previously used by Russian forces in Syria.
+
+According to Lou Osborn, an expert with the monitoring group All Eyes on Wagner, these movements highlight growing military and political ties between Moscow and the eastern Libyan leadership under Field Marshal Khalifa Haftar. Osborn notes that Russia is expanding its footprint in North Africa while simultaneously opening diplomatic channels with Tripoli and intensifying its engagement in Algeria and Tunisia.

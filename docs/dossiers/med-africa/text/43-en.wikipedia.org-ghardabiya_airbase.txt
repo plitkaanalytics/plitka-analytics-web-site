@@ -1,0 +1,105 @@
+URL:         https://en.wikipedia.org/wiki/Ghardabiya_Airbase
+Кінцевий:    https://en.wikipedia.org/wiki/Ghardabiya_Airbase
+Заголовок:   Ghardabiya Airbase - Wikipedia
+Дата публ.:  2011-03-23
+Завантажено: 2026-09-06 05:50 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 139935
+Оригінал:    raw/43-en.wikipedia.org-ghardabiya_airbase.html
+sha256:      e0e1536f1da46fd9e8dc15fe4642b5d7fb529e914435555d90b0ae4f110c69e0
+Витяг:       trafilatura
+
+==============================================================================
+# Ghardabiya Airbase
+
+| Ghardabiya Airbase Sirte Airport | |||||||||||||||
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Summary | |||||||||||||||
+| Airport type | Military/Public | ||||||||||||||
+| Serves | [Sirte](https://en.wikipedia.org/wiki/Sirte),[Libya](https://en.wikipedia.org/wiki/Libya) | ||||||||||||||
+| Elevation [AMSL](https://en.wikipedia.org/wiki/Height_above_sea_level) | 270 ft (82 m) | ||||||||||||||
+| Coordinates | [31°03′38″N 16°36′42″E / 31.06056°N 16.61167°E](https://geohack.toolforge.org/geohack.php?pagename=Ghardabiya_Airbase¶ms=31_03_38_N_16_36_42_E_type:airport_region:LI) | ||||||||||||||
+| Map | |||||||||||||||
+| [Runways](https://en.wikipedia.org/wiki/Runway) | |||||||||||||||
+| 
+ | |||||||||||||||
+| Source: GCM SkyVector[[1]](#cite_note-1)Google Maps[[2]](#cite_note-2)[[3]](#cite_note-3) | |||||||||||||||
+
+**Ghardabiya Airbase** ([IATA](https://en.wikipedia.org/wiki/International_Air_Transport_Association_airport_code): **SRX**, [ICAO](https://en.wikipedia.org/wiki/International_Civil_Aviation_Organization_airport_code): **HLGD**) is a dual-function [airbase](https://en.wikipedia.org/wiki/Airbase) for the [Libyan Air Force](https://en.wikipedia.org/wiki/Libyan_Air_Force_(1951-2011)) 15 kilometres (9.3 mi) south of the [Mediterranean](https://en.wikipedia.org/wiki/Mediterranean_Sea) coastal city of [Sirte](https://en.wikipedia.org/wiki/Sirte). [4] It also incorporates an airport for civilian use.
+
+
+[[5]](#cite_note-5)All runways have 305 metres (1,001 ft) [displaced thresholds](https://en.wikipedia.org/wiki/Displaced_threshold).
+
+The Sirte [non-directional beacon](https://en.wikipedia.org/wiki/Non-directional_beacon) (Ident: **SRT**) is located 7.8 nautical miles (14.4 km) north of the airport, in the city. The Sirte [VOR-DME](https://en.wikipedia.org/wiki/VOR-DME) (Ident: **SRT**) is located on the field.[[6]](#cite_note-6)[[7]](#cite_note-7)
+
+## Military use
+
+[[edit](/w/index.php?title=Ghardabiya_Airbase&action=edit§ion=1)]
+
+It is the home base of 1124th Bomber Squadron and 1st Fighter-Bomber Squadron which operate the [Su-22](https://en.wikipedia.org/wiki/Sukhoi_Su-17) aircraft. [8] The base also operates the 
+
+[Aero L-39 Albatros](https://en.wikipedia.org/wiki/Aero_L-39_Albatros)for counterinsurgency missions.
+
+During the [first Gulf of Sidra Incident](https://en.wikipedia.org/wiki/Gulf_of_Sidra_incident_(1981)), two Libyan Su-22s took off from this airbase and attacked two [U.S. Navy](https://en.wikipedia.org/wiki/United_States_Navy) [F-14 Tomcats](https://en.wikipedia.org/wiki/Grumman_F-14_Tomcat).
+
+## Civilian use
+
+[[edit](/w/index.php?title=Ghardabiya_Airbase&action=edit§ion=2)]
+
+Due to the [First Libyan Civil War](https://en.wikipedia.org/wiki/First_Libyan_Civil_War) of 2011, all flights were suspended; however, since the end of the conflict, [Libyan Airlines](https://en.wikipedia.org/wiki/Libyan_Airlines) has resumed service. It is unknown if [Air Libya](https://en.wikipedia.org/wiki/Air_Libya) has resumed services as well.
+
+| Airlines | Destinations | 
+|---|---|
+| [Libyan Airlines](https://en.wikipedia.org/wiki/Libyan_Airlines) | [Tripoli–Mitiga](https://en.wikipedia.org/wiki/Mitiga_International_Airport) | 
+
+## First Libyan Civil War (2011)
+
+[[edit](/w/index.php?title=Ghardabiya_Airbase&action=edit§ion=3)]
+
+It was targeted by [United States Air Force](https://en.wikipedia.org/wiki/United_States_Air_Force) [B-2 Spirit](https://en.wikipedia.org/wiki/Northrop_Grumman_B-2_Spirit) stealth bombers equipped with [precision-guided munitions](https://en.wikipedia.org/wiki/Precision-guided_munition) (PGMs) during the [First Libyan Civil War](https://en.wikipedia.org/wiki/First_Libyan_Civil_War) on 20 and 21 March 2011. [9] The 
+
+[United States Navy](https://en.wikipedia.org/wiki/United_States_Navy)also participated in the attack to deny the Libyan Air Force operational capability with the use of
+
+[Tomahawk](https://en.wikipedia.org/wiki/Tomahawk_(missile_family))
+
+[cruise missiles](https://en.wikipedia.org/wiki/Cruise_missile).
+
+
+[[10]](#cite_note-10)
+
+[[11]](#cite_note-11)## Second Libyan Civil War (2014–2020)
+
+[[edit](/w/index.php?title=Ghardabiya_Airbase&action=edit§ion=4)]
+
+In May 2015, during the [Second Libyan Civil War](https://en.wikipedia.org/wiki/Second_Libyan_Civil_War), [ISIL](https://en.wikipedia.org/wiki/Islamic_State_in_Libya) militants took control of the airport only weeks after [seizing full control](https://en.wikipedia.org/wiki/Battle_of_Sirte_(2015)) of nearby Sirte. [12] On 4 June 2016, Pro-Libyan government fighters stated that they had 
+
+[captured](https://en.wikipedia.org/wiki/Battle_of_Sirte_(2016))the airbase from ISIL.
+
+
+[[13]](#cite_note-13)In January 2020, Libyan forces loyal to the eastern-based commander [Khalifa Haftar](https://en.wikipedia.org/wiki/Khalifa_Haftar) said they had [taken control](https://en.wikipedia.org/wiki/Battle_of_Sirte_(2020)) of the strategic coastal city of Sirte, including al-Ghardabiya airbase.[[14]](#cite_note-14)
+
+## See also
+
+[[edit](/w/index.php?title=Ghardabiya_Airbase&action=edit§ion=5)]
+
+## References
+
+[[edit](/w/index.php?title=Ghardabiya_Airbase&action=edit§ion=6)]
+
+- [↑](#cite_ref-1)- ["Airport information for Ghardabiya Airbase"](http://www.gcmap.com/airport/SRX)– via Great Circle Mapper.
+- [↑](#cite_ref-2)- ["Sirte/Ghardabya International"](https://skyvector.com/airport/HLGD/Sirte-Ghardabiya-International-Airport).- *SkyVector*. Retrieved 17 September 2018.
+- [↑](#cite_ref-3)- ["Gardabya Airport"](https://www.google.com/maps/@31.06079,16.60452,7325m/data=!3m1!1e3).- *Google Maps*. Retrieved 17 September 2018.
+- [↑](#cite_ref-4)- ["Archived copy"](https://web.archive.org/web/20110530185426/http://www.defense.gov/news/DJS_Presser.pdf)(PDF). Archived from- [the original](http://www.defense.gov/news/DJS_Presser.pdf)(PDF) on 2011-05-30. Retrieved 2011-03-23.- `{{`: CS1 maint: archived copy as title (- [cite web](https://en.wikipedia.org/wiki/Template:Cite_web)}}- [link](https://en.wikipedia.org/wiki/Category:CS1_maint:_archived_copy_as_title))
+- [↑](#cite_ref-5)Dagher, Sam; Trofimov, Yaroslav; Hodge, Nathan (2011-03-21).- ["Allies Press Libya Attacks"](https://www.wsj.com/articles/SB10001424052748704021504576211690643186556).- *Wall Street Journal*.- [ISSN](https://en.wikipedia.org/wiki/ISSN_(identifier))- [0099-9660](https://search.worldcat.org/issn/0099-9660). Retrieved 2018-08-21.
+- [↑](#cite_ref-6)- ["Sirte NDB"](https://web.archive.org/web/20180917105131/http://ourairports.com/navaids/SRT/Sirte_NDB_LY/).- *Our Airports*. Archived from- [the original](http://ourairports.com/navaids/SRT/Sirte_NDB_LY/)on 17 September 2018. Retrieved 17 September 2018.
+- [↑](#cite_ref-7)- ["Sirte VOR"](https://web.archive.org/web/20180917105143/http://ourairports.com/navaids/SRT/Sirte_VOR-DME_LY/).- *Our Airports*. Archived from- [the original](http://ourairports.com/navaids/SRT/Sirte_VOR-DME_LY/)on 17 September 2018. Retrieved 17 September 2018.
+- [↑](#cite_ref-8)Pike, John.- ["Air Order of Battle"](https://www.globalsecurity.org/military/world/libya/af-orbat.htm).- *www.globalsecurity.org*. Retrieved 2018-08-21.
+- [↑](#cite_ref-9)Marcus, Jonathan (2011-03-21).- ["Who should command in Libya?"](https://www.bbc.com/news/world-africa-12813168).- *BBC News*. Retrieved 2018-08-21.
+- [↑](#cite_ref-10)- ["With Libyan Air Defense Neutralized, Coalition Air Forces Target Libyan Ground Forces | Defense Update - Military Technology & Defense News"](https://web.archive.org/web/20110325061526/http://defense-update.com/wp/20110322_air_strikes.html). Archived from- [the original](http://defense-update.com/wp/20110322_air_strikes.html)on 2011-03-25. Retrieved 2011-03-23.
+- [↑](#cite_ref-11)- ["Libyan Navy Attacked by Fighter Jets - Updated"](https://www.informationdissemination.net/2011/03/libyan-navy-attacked-by-fighter-jets.html).- *www.informationdissemination.net*. Retrieved 2018-08-21.
+- [↑](#cite_ref-12)- ["Islamic State militants in Libya 'seize Sirte airport'"](https://www.bbc.com/news/world-africa-32935412).- *bbc.com*. BBC News. 29 May 2015. Retrieved 2015-05-29.
+- [↑](#cite_ref-13)- ["Libyan brigades capture air base from Islamic State south of Sirte:..."](https://www.reuters.com/article/idUSKCN0YQ0TA)- *U.S*. Retrieved 2018-08-21.
+- [↑](#cite_ref-14)- ["Libyan general Khalifa Haftar's forces seize key city of Sirte"](https://www.theguardian.com/world/2020/jan/06/libyan-general-khalifa-haftars-forces-seize-key-city-of-sirte).- [The Guardian](https://en.wikipedia.org/wiki/The_Guardian)
+
+## External links
+
+[[edit](/w/index.php?title=Ghardabiya_Airbase&action=edit§ion=7)]

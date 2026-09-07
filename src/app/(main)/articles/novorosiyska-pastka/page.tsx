@@ -490,7 +490,7 @@ export default function Page() {
           . Це не агрегат, який знімають краном із причалу.
         </p>
 
-        <figure className="fig">
+        <figure className="fig fig--tall">
           <img
             src="/articles/novorosiyska-pastka/uksk-3s14-cutaway.jpg"
             alt="Об'ємний розріз вертикальної пускової установки 3С-14Э: багатоярусна ферма з транспортно-пусковим стаканом усередині, кришки згори, верхній і нижній фундаменти, приміщення електрогідроблока, нумерована легенда і таблиця технічних характеристик"
@@ -600,7 +600,7 @@ export default function Page() {
           .
         </p>
 
-        <figure className="fig">
+        <figure className="fig fig--tall">
           <img
             src="/articles/novorosiyska-pastka/novorossiysk-all-hits.jpg"
             alt="Зведений супутниковий колаж Новоросійської військової гавані з підписами уражених кораблів: фрегати «Адмірал Ессен» і «Адмірал Макаров», тральщик проєкту 266М, розвідувальний корабель проєкту 864 «Приазов'є», сторожовий корабель проєкту 22160, судно проєкту 20360ОС «Віктор Чероков», невстановлений суховантаж і пункт базування 4-ї бригади підводних човнів"
@@ -795,8 +795,7 @@ export default function Page() {
             </li>
             <li id="ref-2">
               Defence Express. Оцінка комбінованого удару по Новоросійську ·
-              03.2026: склад засобів ураження, тривалість пожежі на «Адміралі
-              Ессені» й перелік уражених систем.
+              03.2026.
             </li>
             <li id="ref-3">
               CyberBoroshno. OSINT-розбори ударів по ВМБ Новоросійськ за
@@ -812,7 +811,7 @@ export default function Page() {
             </li>
             <li id="ref-6">
               ГУР МО України. Повідомлення про спільну операцію в Новоросійську
-              — «Ессен», «Макаров», «Биков» та інші цілі · 12.08.2026.
+              · 12.08.2026.
             </li>
             <li id="ref-7">
               The Maritime Executive — Ukraine Confirms Hits on Four Russian
@@ -820,25 +819,21 @@ export default function Page() {
             </li>
             <li id="ref-8">
               Exilenova+ (передрук: Мілітарний) — Two Frigates, Minesweeper,
-              Recon and Patrol Ships Damaged: геолокація й розкладка уражень по
-              кораблях у гавані · 08.2026.
+              Recon and Patrol Ships Damaged · 08.2026.
             </li>
             <li id="ref-9">
               Defence Blog — Satellite images confirm damage to two Russian
-              missile frigates: знімки Vantor, сліди горіння в районі пускових
-              «Калібру» · 08.2026.
+              missile frigates: знімки Vantor · 08.2026.
             </li>
             <li id="ref-10">
               Naval News — Ukraine Strike Damages 2 Russian Frigates at
-              Novorossiysk: локалізація уражень і оцінка боєздатності · 08.2026.
-              Kyiv Post — Satellite Images Reveal Damage to 2 Russian Frigates ·
-              08.2026.
+              Novorossiysk · 08.2026. Kyiv Post — Satellite Images Reveal Damage
+              to 2 Russian Frigates · 08.2026.
             </li>
             <li id="ref-11">
               «Изделие 3С-14Э. Вертикальная пусковая установка» — експортний
-              проспект виробника: обʼємний розріз із нумерованою легендою й
-              таблиця технічних характеристик (габарити, маса модуля, кількість
-              ракетомісць, час відкриття кришки). Дані заявлені виробником.
+              проспект виробника: розріз із легендою й таблиця технічних
+              характеристик. Дані заявлені виробником.
             </li>
             <li id="ref-12">
               Exilenova+. Аматорський нічний запис пуску крилатої ракети над
@@ -848,8 +843,8 @@ export default function Page() {
             <li id="ref-13">
               Мілітарний — Russia May Have Lost Two Kalibr Missile Carriers ·
               08.2026. NV — супутникові знімки свідчать про серйозні ушкодження
-              носіїв «Калібрів» · 08.2026. RBC-Ukraine — Russia's navy may be
-              down two Kalibr launch ships · 08.2026. Charter'97 / Exilenova —
+              носіїв «Калібрів» · 08.2026. RBC-Ukraine — Russiaʼs navy may be
+              down two Kalibr launch ships · 08.2026. Charterʼ97 / Exilenova —
               Black Sea Fleet Is Trapped In Novorossiysk Bay · 08.2026.
             </li>
           </ol>

@@ -1,0 +1,56 @@
+URL:         https://en.wikipedia.org/wiki/Brak_Airport
+Кінцевий:    https://en.wikipedia.org/wiki/Brak_Airport
+Заголовок:   Brak Airport - Wikipedia
+Дата публ.:  2015-10-01
+Завантажено: 2026-09-06 05:50 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 103963
+Оригінал:    raw/44-en.wikipedia.org-brak_airport.html
+sha256:      6b935007254d120e5d54c2e8c66efc660ce020db8c9f7c470697a170f2ee2dbf
+Витяг:       trafilatura
+
+==============================================================================
+# Brak Airport
+
+Appearance
+
+	
+	
+| Brak Airport | |||||||||||
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| Summary | |||||||||||
+| Airport type | Public | ||||||||||
+| Serves | [Brak](https://en.wikipedia.org/wiki/Brak,_Libya) | ||||||||||
+| Elevation [AMSL](https://en.wikipedia.org/wiki/Height_above_sea_level) | 1,482 ft (452 m) | ||||||||||
+| Coordinates | [27°39′10″N 14°16′15″E / 27.65278°N 14.27083°E](https://geohack.toolforge.org/geohack.php?pagename=Brak_Airport¶ms=27_39_10_N_14_16_15_E_type:airport) | ||||||||||
+| Map | |||||||||||
+| [Runways](https://en.wikipedia.org/wiki/Runway) | |||||||||||
+| 
+ | |||||||||||
+| Source: Google Maps GCM[[1]](#cite_note-1)[[2]](#cite_note-2) | |||||||||||
+
+**Brak Airport** ([IATA](https://en.wikipedia.org/wiki/IATA_airport_code): **BCQ**) is an airport serving [Brak](https://en.wikipedia.org/wiki/Brak,_Libya), the capital of the [Wadi al Shatii District](https://en.wikipedia.org/wiki/Wadi_al_Shatii_District) in [Libya](https://en.wikipedia.org/wiki/Libya). The airport is in the desert 11 kilometres (6.8 mi) north of the city.
+
+Runway length does not include a 245 metres (804 ft) [displaced threshold](https://en.wikipedia.org/wiki/Displaced_threshold) on each end.
+
+The Sebha [VOR-DME](https://en.wikipedia.org/wiki/VOR-DME) (Ident: **SEB**) is located 42.7 nautical miles (79.1 km) south-southeast of the airport.[[3]](#cite_note-3)
+
+## See also
+
+[[edit](/w/index.php?title=Brak_Airport&action=edit§ion=1)]
+
+## References
+
+[[edit](/w/index.php?title=Brak_Airport&action=edit§ion=2)]
+
+- [↑](#cite_ref-1)- [Google Map - Birak Airport](https://www.google.com/maps/@27.6488819,14.2733502,5372m/data=!3m1!1e3)
+- [↑](#cite_ref-2)- ["Airport information for Brak"](http://www.gcmap.com/airport/BCQ)– via Great Circle Mapper.
+- [↑](#cite_ref-3)- ["Sebha VOR"](http://ourairports.com/navaids/SEB/Sebha_VOR-DME_LY/).- *Our Airports*. Retrieved 13 September 2018.
+
+## External links
+
+[[edit](/w/index.php?title=Brak_Airport&action=edit§ion=3)]
+
+- [OurAirports - Brak Airport](http://ourairports.com/airports/LY-BCQ/)
+- [FallingRain - Brach Airport](http://www.fallingrain.com/apts/3814.html)
+- [Accident history for Brack Airport](https://web.archive.org/web/20241217012814/https://aviation-safety.net/database/airport/airport.php?id=BCQ)at- [Aviation Safety Network](https://en.wikipedia.org/wiki/Aviation_Safety_Network)
+- Google Earth

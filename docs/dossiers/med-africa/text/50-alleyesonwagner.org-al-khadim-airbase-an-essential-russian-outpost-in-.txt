@@ -1,0 +1,70 @@
+URL:         https://alleyesonwagner.org/2024/03/18/al-khadim-airbase-an-essential-russian-outpost-in-libya/
+Кінцевий:    https://alleyesonwagner.org/2024/03/18/al-khadim-airbase-an-essential-russian-outpost-in-libya/
+Заголовок:   Al Khadim airbase, an essential Russian outpost in Libya
+Дата публ.:  2024-03-18
+Завантажено: 2026-09-06 05:51 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 192456
+Оригінал:    raw/50-alleyesonwagner.org-al-khadim-airbase-an-essential-russian-outpost-in-.html
+sha256:      2b71d2aae055a2ca204687c7ad21f1a072b3d1b084d12f4ced8a7296554c25c0
+Витяг:       trafilatura
+
+==============================================================================
+**Identifying Russian activities on al Khadim airbase**
+
+All Eyes on Wagner were able to identify and follow the path of an employee of a Russian entity specialised in the extraction of natural resources from the Libyan airbase of al Khadim to the Wagner-controlled Ndassima mine in the Central African Republic. Despite having been targeted by at least one airstrike, al Khadim remains one of the Russian outposts in Libya. It is used not only by personnel employed at the airbase, but also as a transit accommodation used by civilians working at Wagner-controlled mines in the Central African Republic.
+
+**Key Points:**
+
+- Al Khadim appears to be a key element in the Wagner Group supply and human resources chain between Libya and the Central African Republic.
+
+- Tracking an employee of a mining company linked to Wagner operations in the Central African Republic, All Eyes on Wagner identified two compounds, one used as a transit accommodation hub between Libya and the Central African Republic, and another facility apparently used by personnel employed on al Khadim.
+
+- A compound located within the airbase’s perimeter also appears to host former – possibly still current – Russian military personnel as well as Syrian citizens.
+
+## From the Arctic to Bangui
+
+A former employee of Gazprom, bent on illustrating his adventures on Instagram, published on 07th May 2023 several photos of what he termed “a stop over in Libya […] a necessary stop on the way to CZ”. CZ is the acronym routinely used to describe the Central African Republic (Tsaritsyno). Our man, a heavy machinery digger who previously worked for Gazprom in the Arctic, documented his journey from Libya to the Central African Republic on Instagram.
+
+All Eyes on Wagner were able to determine with accuracy where those pictures depicting a dormitory in a metallic hangar were taken. The location, where the employee transited from Libya to the Central African Republic is a secured compound located 8km north of the Libyan airbase of al Khadim, east of Benghazi.
+
+Al Khadim has been regularly listed as being one of the main hubs where Wagner Group and their affiliates operate from in Libya. All Eyes on Wagner demonstrated the use of the base to transfer [weapons from Libya to Sudan](https://alleyesonwagner.org/2023/04/20/libye-plateforme-logistique-du-groupe-wagner/). In late June 2023, an airstrike conducted by an undetermined actor [destroyed an Ilyushin IL76](https://libyasecuritymonitor.com/wagner-allegedly-targeted-in-drone-strikes-on-khadim-base-as-gnu-lna-deny-responsibility/) allegedly chartered by Wagner Group.
+
+Using the pictures posted by our digger, we were able to confirm that al Khadim, and more specifically the compound located north of the main airbase, was used as transit accommodation by Wagner Group and its affiliate entities towards the Central African Republic.
+
+The features described by the pictures match exactly those observed on the facility, and we were able to determine the point from which these pictures were taken. The number of beds included in one of the pictures suggest the facility can be used by at least 100 personnel. 
+
+Following his transit through al Khadim, our digger arrived in the Central African Republic, where his Instagram frenzy continued unabated. On 23rd May 2023, he posted a picture of himself on the “Avenue Russie” (Russian Avenue) in Djoubissi. Djoubissi’s main street was renamed in December 2022, and [inaugurated as “Avenue Russie”](https://nouvellesplus.com/2023/01/27/avenue-portant-le-nom-de-la-russie-est-apparue-en-centrafrique/) in January 2023. Our man published a selfie at the very same location where the avenue was inaugurated.
+
+Following his trip through the “Avenue Russia”, several selfies were published from the accommodation site used in the Central African Republic. The location where the pictures were taken was identified as the accommodation site of the Ndassima goldmine, a Wagner-controlled location.
+
+As up to date satellite imagery, we were unable to determine the exact point from which the picture was taken. The features of the picture nevertheless match those observed on the accommodation block of the Ndassima mine.
+
+## Activities on Al Khadim airbase
+
+Al Kadim itself appears to be hosting Russian personnel regularly. Using social media geolocation tools, we were able to identify a Russian citizen deployed on al Kadim. This person was a serviceman within the 102nd Motorised Rifle Infantry Division, however we were not able to determine if he still served within its ranks. We were also able to identify a Syrian Telegram user.
+
+| Date | Profile Picture | User ID | Name | Username | Phone | 
+| 24/01/2024 | 664889001 | Павел | Effect33rus | ||
+| 18/01/2024 | 81202633 | bdullah777 | +963XXXX | ||
+| 664889001 | Павел | Effect33rus | |||
+| 15/01/2024 | 664889001 | Павел | Effect33rus | ||
+| 10/01/2024 | 81202633 | bdullah777 | +963XXXX | ||
+| 664889001 | Павел | Effect33rus | 
+
+Throughout January 2024, the Telegram account belonging to this individual was located on a secured compound within the perimeter of the airbase. The accounts were located with greater accuracy by launching several geolocation searches around the base perimeter, enabling us to determine through triangulation where they are/were located.
+
+The location appears to be a heavily fortified compound protected by at least two layers of sand fortifications and HESCO walls. Looking at satellite imagery dated August 2023 and January 2024, the compound does not appear to have expanded and was still in use in January 2024 as vehicles can be seen.
+
+**Links with the Russian military**
+
+A reverse username search on multiple social media platforms revealed the Telegram account “Павел” was in 2018 serving within the Russian Ministry of Defense. He posted a picture of his unit patch. He published several selfies of him wearing a Russian military uniform bearing the same unit patches.
+
+This patch is worn by soldiers of the 102nd Motorised Infantry Regiment of the 150th Mechanised Division based in Rostov. We were unable to determine if the Telegram user identified as being located on al Kadim was still serving within the ranks of the 102nd.
+
+## Libya back in the Russian game?
+
+Since the death of Prigozhin in August 2023, the Russian Ministry of Defense has re-initiated discussions with Libya and Marechal Haftar. The Russian MoD led delegation by Yunus Bek Yevkurov came four time in Libya since August 2022 and has been by [commentators](https://twitter.com/JMJalel_H/status/1694587087599677453) as a major new impulse for Russian engagement in the country. Marechal Haftar was also invited in September 2023 to Moscow after being deemed “a flawed and outmatched military leader” by [private Russian operatives](https://www.nytimes.com/2020/04/14/world/middleeast/libya-russia-john-bolton.html) in Libya in 2020. Seems like Russia has changed its view and there to stay and expand with [a direct grip](https://www.bloomberg.com/news/articles/2023-11-05/putin-s-move-to-secure-libya-bases-is-new-regional-worry-for-us) onto the Mediterranean Sea.
+
+Visit of Russian MoD to Benghazi in August 2023
+
+## Leave a ReplyCancel reply

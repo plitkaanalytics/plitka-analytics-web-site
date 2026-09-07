@@ -1,0 +1,120 @@
+URL:         https://www.cfr.org/global-conflict-tracker/conflict/civil-war-libya
+Кінцевий:    https://www.cfr.org/global-conflict-tracker/conflict/civil-war-libya
+Заголовок:   Instability in Libya | Global Conflict Tracker
+Дата публ.:  2015-12-16
+Завантажено: 2026-09-06 05:50 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 370486
+Оригінал:    raw/49-cfr.org-civil-war-libya.html
+sha256:      7b0567e9c91598cc42874c66d32e01d95887995d35b82aa547998a369bc67c26
+Витяг:       trafilatura
+
+==============================================================================
+Since the fall of Muammar al-Qaddafi in 2011, Libya has been divided between rival governments and armed factions competing for control of its oil wealth. A 2020 ceasefire ended large-scale fighting, but elections remain indefinitely postponed as the UN-recognized Government of National Unity in Tripoli and the eastern Libyan National Army under Khalifa Haftar cannot agree on terms for a unified government—a deadlock the United States is now attempting to break by linking oil investment to a power-sharing deal.
+
+LNA Military Intelligence Chief Killed in Car Bomb
+
+According to local security sources, the LNA’s head of military intelligence, Brigadier Fowzi Mansouri, was killed in a car bomb outside his home in Benghazi, amid Washington-backed efforts to unify Libya’s rival factions (Reuters).
+
+Senior LNA officials described Mansouri as a “heroic martyr;” the group pledged to continue fighting terrorism, promoting security, and working toward the reunification of Libya (Africa News).
+
+Drones Strike Libya’s Largest Oil Refinery
+
+A drone attack on the Zawiya Oil Refining Company and subsequent fire caused a tank containing 1.2 million gallons of gasoline to collapse; Libya’s National Oil Corporation announced the situation had been brought under control, even after two additional drones targeted the plant on August 11 (DW).
+
+The General Electricity Company of Libya reports that the attack on the Zawiya station has led to widespread power outages, the suspension of work at the station by U.S. company GE, and severe limitations on the plant’s generation capacity (Reuters)
+
+Although no group has officially claimed responsibility for the attack, the GNU vowed to identify and prosecute those responsible (Africa News).
+
+Mass Escape From Jail in Western Libya
+
+Western Libyan police report that inmates staged a mass escape from Surman jail amid armed clashes between rival groups in two cities nearby; authorities have since launched investigations into the incident (Reuters).
+
+EU to Develop Maritime Center in Benghazi
+
+The EU finalized plans to establish a Maritime Rescue Coordination Center (MRCC) in Benghazi to better regulate one of Europe’s major migration routes; the EU exclusively recognizes the western Libyan government but has increased cooperation with eastern Libya since last year, following a rise in migrant departures from the region (Reuters).
+
+Protests Escalate Over Power Outages
+
+Protesters stormed key energy complexes and shut down gas lines supplying power plants as part of ongoing demonstrations across western Libya over persistent power outages; protesters are calling for better electrical services and the resignation of Prime Minister Abdul Hamid Dbeibah (AP).
+
+Background
+
+Libya has struggled [PDF] to rebuild state institutions since the ouster and subsequent death of former leader Muammar al-Qaddafi in October 2011. Libya’s transitional government ceded authority to the newly elected [PDF] General National Congress (GNC) in July 2012. The GNC faced numerous challenges over the next two years, including the September 2012 attack by Islamist militants on the U.S. consulate in Benghazi and the spread of the Islamic State and other armed groups throughout the country.
+
+In May 2014, General Khalifa Haftar launched Operation Dignity, a campaign conducted by the Libyan National Army (LNA) to attack Islamist militant groups across eastern Libya, including in Benghazi. To counter this movement, Islamist militants and armed groups—including Ansar al-Sharia—formed a coalition called Libya Dawn. Eventually, fighting broke out at Tripoli’s international airport between the Libya Dawn coalition, which controlled Tripoli and much of western Libya, and the Dignity coalition, which controlled parts of Cyrenaica and Benghazi in eastern Libya, escalating the conflict into a full-fledged civil war.
+
+The battle for control over Libya crosses tribal, regional, political, and religious lines. Each coalition has created governing institutions and named military chiefs—and each has faced internal fragmentation and division. To find a resolution to the conflict and establish a unity government, then-UN Special Envoy to Libya Bernardino Leon, followed by Martin Kobler, facilitated a series of talks between the Tobruk-based House of Representatives (HoR)—based in Libya’s east and a key supporter of Haftar—and the Tripoli-based GNC. The talks resulted in the creation of the Libyan Political Agreement [PDF] and the UN-supported Government of National Accord (GNA) in December 2015. However, the GNA faced obstacles to creating a stable, unified government in Libya.
+
+Taking advantage of the widespread political instability, armed Islamist groups, including Ansar al-Sharia—the terrorist group allegedly responsible for the attack on the U.S. consulate in 2012—and the Islamic State, have used the country as a hub to coordinate broader regional violence, further complicating efforts to create a unity government. After seizing territory [PDF] in Benghazi, Derna, and Ajdabiya, the Islamic State’s power in Libya peaked in 2016 when it captured the coastal city of Sirte—formerly the group’s most significant stronghold outside of Syria and Iraq. While in control, its members committed numerous human rights abuses for which they now face trial in Libya. In July 2018, Haftar announced that the LNA had recaptured the city of Derna, the last outpost of the Islamic State militants in eastern Libya. However, the group continues to operate throughout the country.
+
+Though the Islamic State was largely defeated in Libya in 2016, the GNA and HoR remained divided on a path to unification. In August 2018, violence in Tripoli ended the relative calm maintained for over a year. However, the UN quickly brokered a September 2018 cease-fire between the involved militias.
+
+Foreign states have also taken an interest in Libya, with Egypt, Saudi Arabia, the United Arab Emirates (UAE), France, and Russia backing Haftar’s LNA and Turkey, Qatar, and Italy supporting the UN-backed GNA. Egypt and the UAE have been particularly involved with military support for Haftar, as they fear the GNA’s connections to political Islam and the Muslim Brotherhood. Russia also allows the Wagner Group to aid Haftar in exchange for favorable strategic access to ports and other transit centers. Meanwhile, Turkey supports the GNA because of maritime oil and gas deals they have brokered. The other foreign backers have taken a more subtle approach, providing aid and diplomatic support to their preferred partner. Militarily, Turkey and Egypt have gone the farthest by approving troop deployments, though Russia also has a presence through the Wagner Group, and the UAE has conducted airstrikes for Haftar.
+
+The GNA declared a state of emergency in Libya’s capital city of Tripoli in September 2018, less than a week after a UN cease-fire went into effect. Attempts to create a unity government failed as the HoR and the GNA continued to compete for power. Both governing bodies created their own central banks [PDF] and consolidated control over oil fields. In May 2018, French President Emmanuel Macron convened a meeting between Haftar, GNA leader Fayez Seraj, and parliamentary leaders to discuss ending the conflict and future elections. Though the rival groups agreed to hold elections in December 2018, UN Special Envoy to Libya Ghassan Salame said elections would be postponed until spring 2019.
+
+Meanwhile, rival armed groups, including militias loyal to Haftar and the GNA’s security forces, continued fighting over access to and control of Libya’s National Oil Corporation (NOC) and regional oil fields. In December 2018, the NOC closed Libya’s largest oil field, El Sharara, due to security concerns; Haftar later declared the field secure and ready to restart operations but cut off all oil fields when fighting resumed.
+
+On April 3, 2019, Haftar upended peace efforts by launching a campaign to take western Libya and Tripoli with the backing of Egypt, the UAE, France, and Russia. Haftar’s LNA made fast progress until stalling on the outskirts of Tripoli, achieving only small gains over the next year. At the GNA’s request, Turkey sent troops to Tripoli in early 2020 to reinforce the city’s defense and increase the size of the force ahead of the GNA counteroffensive. Meanwhile, the UAE conducted airstrikes in support of Haftar. UN-led mediation efforts made little progress [PDF] as the war escalated and civilian casualties rose through May 2020. With Turkish support, the GNA-aligned forces achieved a breakthrough in June, pushing the LNA back to Sirte. Tensions escalated when Egypt warned that Sirte was its “red line,” and in July, authorized the deployment of troops to help prevent the GNA from taking the city.
+
+In August 2020, violence eased as the GNA declared a unilateral cease-fire. Haftar ended an oil blockade shortly after, paving the way for a nationwide cease-fire signed in October. The 2020 cease-fire established the 5+5 Joint Military Commission (JMC), comprised of officers from the GNA and LNA, to work on implementing the cease-fire and other security issues. The JMC made progress, but it has struggled to achieve the withdrawal of foreign fighters. Most importantly, despite a lack of trust and a faltering cease-fire, levels of violence remained low following the 2020 truce, allowing for a reopening of political dialogue.
+
+Improved security allowed Libya to hold its first vote in five years in May 2019, but turnout totaled only 38 percent across the nine municipalities where local elections occurred. Dozens of other municipalities held staggered elections from 2019 to 2021, delayed by violence and the pandemic. UN-led talks also established a roadmap for parliamentary and presidential elections to be held on December 24, 2021. As part of this plan, the Libyan Political Dialogue Forum (LPDF) formed a provisional government, the Government of National Unity (GNU), in March 2021 to unify the GNA and HoR in preparation for national elections. The LPDF appointed Abdulhamid al-Dbeibah as prime minister and Mohamed al-Menfi, representing the eastern faction, president. The HoR almost unanimously approved the new government’s cabinet, and Seraj’s GNA and the eastern-based parliament ceded power to the new GNU.
+
+On September 21, 2021, the HoR dashed hopes of elections when it passed a no-confidence motion against the GNU. Dbeibah called on Libyans to protest the HoR decision and reneged on his promise not to run in the election, declaring his candidacy along with Haftar and Qaddafi’s son, the other prominent candidates. However, the High National Electoral Commission indefinitely postponed the election just days before the planned vote as tensions arose over candidate eligibility and presidential and parliamentary powers. The HoR called for the dissolution of the GNU, arguing its mandate expired on December 24, but Dbeibah refused to step down and said his government would remain in place until elections are held. In March 2022, the HoR approved a new cabinet with Fathi Bashagha as prime minister, effectively setting up a rival government based in Sirte.
+
+The formation of rival governments reignited struggles for control over territory and resources. In March 2022, Haftar’s forces seized the GNU Benghazi headquarters and cut off access to oil and gas fields to deprive the GNU of revenue since it refused to give Bashagha access to state funds for his government’s budget. With no prospect of a political solution and the HoR facing protests, Bashagha entered Tripoli and tried to install his government. He failed, and fighting broke out in the capital between rival government forces in August following months of skirmishes.
+
+Recent Developments
+
+Conditions improved in late 2022, but tensions remained high as the HoR solidified its institutions and political negotiations fractured. As UN-led talks failed to gain traction, the HoR embarked on its own path, passing a constitutional amendment in March 2023 that could lay the ground for elections and proposing to appoint a new national executive committee to replace the GNC and HoR.
+
+The HoR has also engaged in talks with the High State Council (HSC), a committee established in 2015 to advise the GNA and HoR, forming a 6+6 joint council to create a roadmap for elections. In June 2023, that body recommended forming a new interim government in preparation for elections. While Haftar said he supports the proposal, Dbeibah, who has consolidated power after two years at the helm in Tripoli, rebuked any effort to form a new transitional governing body, insisting his government will continue to serve as the “interim” government until elections.
+
+Dbeibah’s nephew and Haftar’s son have engaged in direct talks in Egypt on a separate plan to see Dbeibah stay in power but concede some ministries to Haftar. Those talks follow the May 2023 replacement of Bashagha with finance minister Osama Hamad as the eastern-based prime minister. The various peace talk tracks have each seen some progress, but low-scale violence persists, and any deal that does not have strong support from Dbeibah and Haftar is likely to cause further polarization.
+
+Complicating peace prospects, Libya has also been drawn back into regional disputes over oil deposits and arms deals. In October 2022, the GNA signed an agreement with Turkey to begin oil and gas exploration off its coast, and in January 2023, it signed a deal with Italian company ENI to increase oil and gas output. Greece and Egypt have disputed maritime borders with Libya and condemned Turkey’s moves, raising the possibility of confrontation in the Mediterranean. To the dismay of the GNU, a Libyan court suspended the deal with Turkey in January 2023. A member of the Organization for Petroleum Exporting Companies (OPEC), Libya’s oil revenues constitute more than 80 percent of its total exports. As armed groups continue to fight over oil fields and restrict production, concerns have also increased over whether the country can support itself economically.
+
+Leftover weaponry from prior conflicts has turned Libya into an “open supermarket” for arms, according to the former head of the UN Support Mission in Libya, which has fueled both internal political struggles and neighboring conflicts. Haftar has been accused of supplying weapons to the Rapid Support Forces (RSF) in Sudan’s civil war, putting Haftar on the opposing side of his ally Egypt in that conflict.
+
+On September 10, 2023, Storm Daniel hit northeastern Libya, triggering catastrophic flooding. More than eleven thousand people were reported dead, with many more missing in the port city of Derna, where the flooding caused nearby dams to burst. The country’s political turmoil hampered rescue efforts and the delivery of humanitarian aid, prompting hundreds of protestors in Derna to demand government accountability. As the hope for locating survivors diminished, relief efforts turned to tackle the worsening humanitarian crisis with more than forty thousand Libyans displaced, mounting medical supply shortages, and contaminated drinking water, raising fears of possible disease outbreaks.
+
+Migration issues also continue to present grave humanitarian concerns. Libya’s porous borders and fractured security situation make it a top transit country for people trying to reach Europe, with smugglers sending migrants across the Mediterranean in unsafe, overcrowded vessels. The business has contributed to the nearly thirty thousand people who have died or disappeared crossing the sea since 2014. In 2023, the number of deaths and disappearances on the Central Mediterranean route increased compared to the previous five years. According to the UN, Libyan forces have also committed significant human rights abuses against migrants detained in Libyan facilities, including forced labor, extortion, torture, and sexual assault. A mass grave containing the bodies of sixty-five migrants was discovered in March 2024, leading the UN human rights chief to launch a full investigation. Meanwhile, the sex and labor trafficking of migrants and asylum-seekers at the hands of criminal networks, militia groups, government officials, and private employers remains largely unchecked.
+
+Key Actors
+
+Government of National Unity (GNU)
+
+The UN-recognized western government based in Tripoli, led by Prime Minister Abdul Hamid Dbeibah, which controls western Libya and key state institutions but has refused to cede power pending elections, remaining deadlocked with its eastern rival over an electoral framework since the indefinite postponement of the 2021 vote
+
+Government of National Stability (GNS)/House of Representatives (HoR)
+
+The rival eastern government based in Sirte, led by Prime Minister Osama Hammad and backed by the House of Representatives, which controls eastern Libya with military support from Haftar's LNA and favors forming a unified interim government to organize elections
+
+Libyan National Army (LNA)/Field Marshal Khalifa Haftar
+
+The dominant military force in eastern Libya commanded by Khalifa Haftar, which controls much of the country's oil infrastructure and has accumulated Chinese- and Turkish-made combat drones despite a UN arms embargo, while reportedly supplying weapons to Sudan's RSF
+
+Tripoli-Based Militias
+
+A constellation of armed factions backing the GNU in and around Tripoli whose fragmented loyalties and competition for influence complicate efforts to consolidate western governance and achieve a political settlement
+
+Turkey
+
+The GNU's primary external military backer, which deployed troops in 2020 to help repel Haftar's assault on Tripoli, maintains a significant military presence, and has deepened economic ties through energy deals and a joint offshore drilling program
+
+Russia/Africa Corps
+
+A backer of Haftar providing strategic support and port access, with Africa Corps maintaining a military presence in southern and central Libya as part of Russia’s broader Mediterranean and African include strategy
+
+United Arab Emirates
+
+A key LNA supporter that has provided Haftar with weapons, drones, and airstrikes in defiance of the UN arms embargo, driven by opposition to political Islam and the GNU’s ties to Turkey and Qatar
+
+Egypt
+
+A strong LNA backer motivated by border security concerns and opposition to the Muslim Brotherhood, having provided Haftar with military support and authorized troop deployments to prevent GNU forces from advancing eastward
+
+United Nations Support Mission in Libya (UNSMIL)
+
+The UN diplomatic mission working to broker a political settlement, having proposed a framework in 2025 to facilitate elections and institutional unification, though progress remains stalled amid persistent rivalry between the two governments

@@ -1,0 +1,69 @@
+URL:         https://en.wikipedia.org/wiki/Maaten_al-Sarra_Air_Base
+Кінцевий:    https://en.wikipedia.org/wiki/Maaten_al-Sarra_Air_Base
+Заголовок:   Maaten al-Sarra Air Base - Wikipedia
+Дата публ.:  2007-03-18
+Завантажено: 2026-09-06 05:50 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 125640
+Оригінал:    raw/41-en.wikipedia.org-maaten_al-sarra_air_base.html
+sha256:      fa72a3913f215fd5fbef27e639883065db6a225eb57705309a3c4c22a464aa52
+Витяг:       trafilatura
+
+==============================================================================
+# Maaten al-Sarra Air Base
+
+| Maaten al-Sarra Air Base [[1]](#cite_note-1) | |||||||||||||||
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Summary | |||||||||||||||
+| Airport type | Military | ||||||||||||||
+| Owner | [Libyan National Army](https://en.wikipedia.org/wiki/Libyan_National_Army) | ||||||||||||||
+| Operator | [Libyan Air Force](https://en.wikipedia.org/wiki/Libyan_Air_Force_(1951-2011)) | ||||||||||||||
+| Elevation [AMSL](https://en.wikipedia.org/wiki/Height_above_sea_level) | 1,722 ft (525 m) | ||||||||||||||
+| Coordinates | [21°41′20″N 021°49′50″E / 21.68889°N 21.83056°E](https://geohack.toolforge.org/geohack.php?pagename=Maaten_al-Sarra_Air_Base¶ms=21_41_20_N_021_49_50_E_type:airport_region:LI) | ||||||||||||||
+| Map | |||||||||||||||
+| [Runways](https://en.wikipedia.org/wiki/Runway) | |||||||||||||||
+| 
+ | |||||||||||||||
+| Source: Bing Maps Our Airports[[2]](#cite_note-2)GCM[[3]](#cite_note-3)[[4]](#cite_note-4) | |||||||||||||||
+
+The **Maaten al-Sarra Air Base** is an airbase in southernmost [Libya](https://en.wikipedia.org/wiki/Libya) located near the [Ma'tan as-Sarra](https://en.wikipedia.org/wiki/Ma'tan_as-Sarra) oasis in the [Kufra](https://en.wikipedia.org/wiki/Kufra) [district](https://en.wikipedia.org/wiki/Districts_of_Libya). It is one of the 13 military airbases in Libya.[[5]](#cite_note-5)
+
+During the final phase of the [Chadian-Libyan conflict](https://en.wikipedia.org/wiki/Chadian-Libyan_conflict), Maaten al-Sarra was the main air base in Southern Libya, [6] having three modern 
+
+[runways](https://en.wikipedia.org/wiki/Runway)and parking space for over 100
+
+[combat aircraft](https://en.wikipedia.org/wiki/Combat_aircraft).
+
+
+[[7]](#cite_note-7)## History
+
+[[edit](/w/index.php?title=Maaten_al-Sarra_Air_Base&action=edit§ion=1)]
+
+When in 1987 the [Chadian army](https://en.wikipedia.org/wiki/Military_of_Chad) attacked Libyan positions in northern [Chad](https://en.wikipedia.org/wiki/Chad), in the [Toyota War](https://en.wikipedia.org/wiki/Toyota_War), after a string of victories the Chadians were defeated in August in the [Battle of Aouzou](https://en.wikipedia.org/wiki/Battle_of_Aouzou), mainly due to Libyan airpower. The Chadian command decided that before renewing the offensive against the [Aouzou Strip](https://en.wikipedia.org/wiki/Aouzou_Strip), it was vital to deal with the threat represented by the [Libyan Air Force](https://en.wikipedia.org/wiki/Libyan_Air_Force_(1951-2011)), and thus planned [a surprise attack on Maaten al-Sarra](https://en.wikipedia.org/wiki/Battle_of_Maaten_al-Sarra), 60 miles north of the Chadian–Libyan border. The attack, which took place on September 5, was one of the most significant Chadian victories in the conflict, with 1,700 Libyans killed and 300 taken prisoner. [8] The Chadian victory, because of Libyan demoralization at home and international hostility, brought an agreed 
+
+[ceasefire](https://en.wikipedia.org/wiki/Ceasefire)on September 11 that put an end to the war.
+
+
+[[9]](#cite_note-9)## Accidents and incidents
+
+[[edit](/w/index.php?title=Maaten_al-Sarra_Air_Base&action=edit§ion=2)]
+
+On 9 February 2026, a medical helicopter crashed at the base while returning from a medical evacuation mission, killing all five occupants on board.[[10]](#cite_note-10)
+
+## See also
+
+[[edit](/w/index.php?title=Maaten_al-Sarra_Air_Base&action=edit§ion=3)]
+
+## References
+
+[[edit](/w/index.php?title=Maaten_al-Sarra_Air_Base&action=edit§ion=4)]
+
+- [↑](#cite_ref-1)"Matan as Sarra". World Aero Data.- `{{`:- [cite web](https://en.wikipedia.org/wiki/Template:Cite_web)}}- `|access-date=`requires- `|url=`(- [help](https://en.wikipedia.org/wiki/Help:CS1_errors#accessdate_missing_url))CS1 maint: deprecated archival service (- [link](https://en.wikipedia.org/wiki/Category:CS1_maint:_deprecated_archival_service))
+- [↑](#cite_ref-2)- ["Maatan As Sara Airport"](https://www.bing.com/maps/?cp=21.692~21.832&style=a&lvl=14).- *Bing Maps*. Microsoft. Retrieved 20 September 2018.
+- [↑](#cite_ref-3)- ["Matan al-Sarra Air Base"](https://web.archive.org/web/20100213120223/http://www.ourairports.com/airports/HL56/pilot-info.html#general).- *Our Airports*. Archived from- [the original](http://ourairports.com/airports/HL56/pilot-info.html#general)on 13 February 2010. Retrieved 20 September 2018.
+- [↑](#cite_ref-4)- ["Airport information for Matan As Sarra"](http://www.gcmap.com/airport/HL56)– via Great Circle Mapper.
+- [↑](#cite_ref-5)- [Middle East Military Balance: Libya](http://www.tau.ac.il/jcss/balance/Libya.pdf)- [Archived](https://web.archive.org/web/20070314013013/http://www.tau.ac.il/jcss/balance/Libya.pdf)March 14, 2007, at the- [Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine)
+- [↑](#cite_ref-6)Vanderwalle, Dirk J. (2006).- *A History of Modern Libya*- [Cambridge University Press](https://en.wikipedia.org/wiki/Cambridge_University_Press). p.- [148](https://archive.org/details/historyofmodernl0000vand/page/148).- [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier))- [0-5218-5048-7](https://en.wikipedia.org/wiki/Special:BookSources/0-5218-5048-7).
+- [↑](#cite_ref-7)Popper, Steven W. (1989).- *The Economic Cost of Soviet Military Manpower Requirements*.- [RAND](https://en.wikipedia.org/wiki/RAND). p. 145.- [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier))- [0-8330-0934-6](https://en.wikipedia.org/wiki/Special:BookSources/0-8330-0934-6).
+- [↑](#cite_ref-8)- [Pollack, Kenneth M.](https://en.wikipedia.org/wiki/Kenneth_Pollack)(2002).- *Arabs at War: Military Effectiveness, 1948–1991*.- [University of Nebraska Press](https://en.wikipedia.org/wiki/University_of_Nebraska_Press). p. 396.- [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier))- [0-8032-3733-2](https://en.wikipedia.org/wiki/Special:BookSources/0-8032-3733-2).
+- [↑](#cite_ref-9)- [Nolutshungu, Sam C.](https://en.wikipedia.org/wiki/Sam_Nolutshungu)(1995).- *Limits of Anarchy: Intervention and State Formation in Chad*. University of Virginia Press. pp. 222–223.- [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier))- [0-8139-1628-3](https://en.wikipedia.org/wiki/Special:BookSources/0-8139-1628-3).
+- [↑](#cite_ref-10)Assad, Abdul Kader (10 February 2026).- ["Five people killed in ambulance helicopter crash in southern Libya"](https://libyaobserver.ly/news/five-people-killed-ambulance-helicopter-crash-southern-libya).- *Libya Observer*. Retrieved 20 February 2026.

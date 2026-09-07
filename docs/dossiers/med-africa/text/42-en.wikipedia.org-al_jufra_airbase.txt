@@ -1,0 +1,65 @@
+URL:         https://en.wikipedia.org/wiki/Al_Jufra_Airbase
+Кінцевий:    https://en.wikipedia.org/wiki/Al_Jufra_Airbase
+Заголовок:   Al Jufra Airbase - Wikipedia
+Дата публ.:  2008-01-01
+Завантажено: 2026-09-06 05:50 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 116486
+Оригінал:    raw/42-en.wikipedia.org-al_jufra_airbase.html
+sha256:      ef761319f848e6b875fc40ace17182707f6a066c1a7e022350cc07968a3e41fa
+Витяг:       trafilatura
+
+==============================================================================
+# Al Jufra Airbase
+
+| Al Jufra Airbase Al Jufra Airbase | |||||||||||
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| Summary | |||||||||||
+| Airport type | Military | ||||||||||
+| Operator | [Libyan Air Force](https://en.wikipedia.org/wiki/Libyan_Air_Force_(1951-2011)) | ||||||||||
+| Serves | [Aljufra , Libya](https://en.wikipedia.org/wiki/Aljufra_,_Libya?action=edit&redlink=1) | ||||||||||
+| Elevation [AMSL](https://en.wikipedia.org/wiki/Height_above_sea_level) | 846 ft (258 m) | ||||||||||
+| Coordinates | [29°11′53″N 16°00′04″E / 29.19806°N 16.00111°E](https://geohack.toolforge.org/geohack.php?pagename=Al_Jufra_Airbase¶ms=29_11_53_N_16_00_04_E_type:airport) | ||||||||||
+| Map | |||||||||||
+| [Runways](https://en.wikipedia.org/wiki/Runway) | |||||||||||
+| 
+ | |||||||||||
+| Source: GCM Google Maps[[1]](#cite_note-1)[[2]](#cite_note-2) | |||||||||||
+
+**Al Jufra Airbase** ([ICAO](https://en.wikipedia.org/wiki/ICAO_airport_code): **HL69**) is a [Libyan Air Force](https://en.wikipedia.org/wiki/Libyan_Air_Force) base in Al Jufra , 9 kilometres (5.6 mi) northwest of [Waddan](https://en.wikipedia.org/wiki/Waddan,_Libya). It was originally used by the Libyan Arab Air Force during the [Gaddafi-era](https://en.wikipedia.org/wiki/History_of_Libya_under_Muammar_Gaddafi) from 1969 to 2011.
+
+The runway length does not include 198 metres (650 ft) paved overruns on each end.
+
+## History
+
+[[edit](/w/index.php?title=Al_Jufra_Airbase&action=edit§ion=1)]
+
+Prior to the [First Libyan Civil War](https://en.wikipedia.org/wiki/Libyan_Civil_War_(2011)), during the 1980s, the No. 1025 Squadron operated [Mig-25PDs](https://en.wikipedia.org/wiki/Mikoyan-Gurevich_MiG-25) at the Al Jufra-Hun Airbase for defense of the north coast. [TU-22](https://en.wikipedia.org/wiki/TU-22), [G.222](https://en.wikipedia.org/wiki/G.222), and [An-26](https://en.wikipedia.org/wiki/An-26) were based at Jufra, parked on open pavement, sand berm shielded pads, and in aircraft shelters. [3] Considering the positioning of many of the aircraft visible in the satellite imagery, and what is known of the maintenance record of the 
+
+[Libyan Air Force](https://en.wikipedia.org/wiki/Libyan_Air_Force_(1951-2011)), the operational inventory of combat aircraft based at Jufra in 2011 can be assumed to be quite low. The G.222 is believed to have not flown for more than a decade.
+
+## No-Fly Zone enforcement
+
+[[edit](/w/index.php?title=Al_Jufra_Airbase&action=edit§ion=2)]
+
+The airbase was bombed on 24 March 2011 by French aircraft, in accordance with the UN-backed enforcement of the No-Fly Zone over Libya. [4] Over two and a half months later, on 13 June, the area was again struck by NATO forces.
+
+
+[[5]](#cite_note-5)## See also
+
+[[edit](/w/index.php?title=Al_Jufra_Airbase&action=edit§ion=3)]
+
+## References
+
+[[edit](/w/index.php?title=Al_Jufra_Airbase&action=edit§ion=4)]
+
+- [↑](#cite_ref-1)- ["Airport information for Al Jufra Airport"](http://www.gcmap.com/airport/HL69)– via Great Circle Mapper.
+- [↑](#cite_ref-2)- ["al Jufrah Airbase"](https://www.google.com/maps/@29.2021761,16.0022067,7667m/data=!3m1!1e3).- *Google Maps*. Retrieved 17 September 2018.
+- [↑](#cite_ref-3)- [Al Jufra](https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Al+Jufra+Air+Base,+Surt,+Libya&aq=1&sll=28.921631,16.171875&sspn=0.020171,0.042272&ie=UTF8&hq=Al+Jufra+Air+Base,+Surt,+Libya&ll=29.200498,16.003819&spn=0.040234,0.084543&t=h&z=14)- Google Maps
+- [↑](#cite_ref-4)- [Libyan Air Force](https://www.forbes.com/feeds/ap/2011/03/24/general-af-libya_8372740.html)- [- [dead link](https://en.wikipedia.org/wiki/Wikipedia:Link_rot)- *Forbes*
+- [↑](#cite_ref-5)- [Strike on Libyan airbase](http://www.irishtimes.com/newspaper/breaking/2011/0613/breaking3.html)- *Irish Times*
+
+## External links
+
+[[edit](/w/index.php?title=Al_Jufra_Airbase&action=edit§ion=5)]
+
+[29°11′53″N 16°00′04″E / 29.198056°N 16.001111°E](https://geohack.toolforge.org/geohack.php?pagename=Al_Jufra_Airbase¶ms=29.198056_N_16.001111_E_type:airport_region:)

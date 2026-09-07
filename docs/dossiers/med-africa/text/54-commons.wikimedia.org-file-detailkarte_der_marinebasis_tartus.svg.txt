@@ -1,0 +1,109 @@
+URL:         https://commons.wikimedia.org/wiki/File:Detailkarte_der_Marinebasis_Tartus.svg
+Кінцевий:    https://commons.wikimedia.org/wiki/File:Detailkarte_der_Marinebasis_Tartus.svg
+Заголовок:   File:Detailkarte der Marinebasis Tartus.svg - Wikimedia Commons
+Дата публ.:  2026-04-23
+Завантажено: 2026-09-07 06:54 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 104333
+Оригінал:    raw/54-commons.wikimedia.org-file-detailkarte_der_marinebasis_tartus.svg.html
+sha256:      dfe418ae89bb1e9244d1475610e21c6a4672abc2c5e271fca4366dcd59bf04c0
+Витяг:       trafilatura
+
+==============================================================================
+# File:Detailkarte der Marinebasis Tartus.svg
+
+Tools
+
+	
+	
+		Actions
+	
+
+	
+		General
+	
+
+	
+		Print/export
+	
+
+	
+		In other projects
+	
+
+	Appearance
+
+	
+	
+From Wikimedia Commons, the free media repository
+
+					Size of the above preview of this SVG file: 
+
+[960 × 720 pixels](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Detailkarte_der_Marinebasis_Tartus.svg/960px-Detailkarte_der_Marinebasis_Tartus.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail). Other resolutions:[330 × 248 pixels](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Detailkarte_der_Marinebasis_Tartus.svg/330px-Detailkarte_der_Marinebasis_Tartus.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail)|[1,280 × 960 pixels](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Detailkarte_der_Marinebasis_Tartus.svg/1280px-Detailkarte_der_Marinebasis_Tartus.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail)|[3,840 × 2,880 pixels](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Detailkarte_der_Marinebasis_Tartus.svg/3840px-Detailkarte_der_Marinebasis_Tartus.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail).[Original file](https://upload.wikimedia.org/wikipedia/commons/2/20/Detailkarte_der_Marinebasis_Tartus.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)(SVG file, nominally 3,200 × 2,400 pixels, file size: 41 KB)
+
+File information
+
+Structured data
+
+## Captions
+
+## Summary
+
+[[edit](/w/index.php?title=File:Detailkarte_der_Marinebasis_Tartus.svg&action=edit§ion=1)]
+
+| DescriptionDetailkarte der Marinebasis Tartus.svg | العربية: مخطط مرافق وأقسام ميناء طرطوس: 1أ، 1ب، 1ج صهاريج مياه، 2 حوض جاف، 3 ساحة مواقف السيارات، 4 ساحة تخزين، 5 جسر عائم يعمل كرصيف، 6 جسر إسمنتي كرصيف، 7 جسر إسمنتي كرصيف، 8 ألسنة الميناء، 9 خط السكة الحديدية لنقل البضائع، 10 المكسر الرئيسي للميناء لصدّ أمواج البحر.Deutsch: Marinebasis Tartus; von Openstreetmap umzeichnet; Detailkarte der Marinebasis im Hafen von Tartus. 1a, b, c: Hallen; 2: Trockendock; 3 Abstellfläche für KFZ und WAffentechnik ("Park"); 4 Appellplatz; 5 Pontonbrücken die als Schiffsanleger dienen; 6 Betonsteg als Schiffanleger; 7 Leinenfestmachersteg; 8 zivile Hafenbecken; 9 Bahnlinie; 10 Hafenschutzmauer zum offenen Meer; Norden ist oben.English: Tartus naval base, from OpenStreetMap; detailed map of the naval base in the port of Tartus. 1a, b, c: Warehouses, 2 dry dock, 3 Parking area for vehicles and equipment (the "Park"), 4 Roll call square, 5 Pontoon bridges that serve as piers, 6 Concrete jetty used as pier, 7 Mooring jetty, 8 Civilian harbour, 9 Railway line, 10 Harbour protection wall. | 
+| Date | |
+| Source | Own work | 
+| Author | [Bin im Garten](/wiki/User:Bin_im_Garten) | 
+| Permission ( [Reusing this file](/wiki/Commons:Reusing_content_outside_Wikimedia)) | Own work | 
+
+## Licensing
+
+[[edit](/w/index.php?title=File:Detailkarte_der_Marinebasis_Tartus.svg&action=edit§ion=2)]
+
+I, the copyright holder of this work, hereby publish it under the following license:
+
+This file is licensed under the 
+
+[Creative Commons](https://en.wikipedia.org/wiki/en:Creative_Commons)[Attribution-Share Alike 3.0 Unported](//creativecommons.org/licenses/by-sa/3.0/deed.en)license.- You are free:
+- **to share**– to copy, distribute and transmit the work
+- **to remix**– to adapt the work
+ 
+- Under the following conditions:
+- **attribution**– You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+- **share alike**– If you remix, transform, or build upon the material, you must distribute your contributions under the- [same or compatible license](https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses)as the original.
+ 
+
+## File history
+
+Click on a date/time to view the file as it appeared at that time.
+
+| Date/Time | Thumbnail | Dimensions | User | Comment | |
+|---|---|---|---|---|---|
+| current | [15:54, 11 June 2012](https://upload.wikimedia.org/wikipedia/commons/2/20/Detailkarte_der_Marinebasis_Tartus.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original) | 3,200 × 2,400 (41 KB) | [Bin im Garten](/wiki/User:Bin_im_Garten)([talk](/wiki/User_talk:Bin_im_Garten)|[contribs](/wiki/Special:Contributions/Bin_im_Garten)) | 
+
+You cannot overwrite this file.
+
+## File usage on Commons
+
+The following page uses this file:
+
+## File usage on other wikis
+
+The following other wikis use this file:
+
+- Usage on ar.wikipedia.org
+- Usage on be.wikipedia.org
+- Usage on bg.wikipedia.org
+- Usage on de.wikipedia.org
+- Usage on en.wikipedia.org
+- Usage on es.wikipedia.org
+- Usage on fr.wikipedia.org
+- Usage on it.wikipedia.org
+- Usage on ja.wikipedia.org
+- Usage on pl.wikipedia.org
+- Usage on ru.wikipedia.org
+- Usage on ru.wikinews.org
+- Usage on tr.wikipedia.org
+- Usage on tt.wikipedia.org
+- Usage on uk.wikipedia.org
+- Usage on www.wikidata.org

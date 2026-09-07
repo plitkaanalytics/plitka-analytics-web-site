@@ -47,6 +47,23 @@
 | 38 | [Russia Is Violating the Montreux Convention with Civilian Ships](https://www.usni.org/magazines/proceedings/2023/september/russia-violating-montreux-convention-civilian-ships) | 2023-09-21 | прочитано | 12742 | ? | `text/38-usni.org-russia-violating-montreux-convention-civilian-ships.txt` |
 | 39 | [The Implications of the Montreux Convention on the Transit of Russian ](https://www.jurist.org/commentary/2022/06/akshat-goyal-montreux-convention-russia-ukraine/) | 2022-06-10 | прочитано | 11711 | ? | `text/39-jurist.org-akshat-goyal-montreux-convention-russia-ukraine.txt` |
 | 40 | [Can Turkey Close the Turkish Straits to Russian Warships?](https://www.ejiltalk.org/can-turkey-close-the-turkish-straits-to-russian-warships/) | 2022-02-28 | МАЛО ТЕКСТУ (71 зн.) — перевірити вручну | 71 | ? | `text/40-ejiltalk.org-can-turkey-close-the-turkish-straits-to-russian-warships.txt` |
+| 41 | [Maaten al-Sarra Air Base - Wikipedia](https://en.wikipedia.org/wiki/Maaten_al-Sarra_Air_Base) | 2007-03-18 | прочитано | 6412 | довідник | `text/41-en.wikipedia.org-maaten_al-sarra_air_base.txt` |
+| 42 | [Al Jufra Airbase - Wikipedia](https://en.wikipedia.org/wiki/Al_Jufra_Airbase) | 2008-01-01 | прочитано | 4005 | довідник | `text/42-en.wikipedia.org-al_jufra_airbase.txt` |
+| 43 | [Ghardabiya Airbase - Wikipedia](https://en.wikipedia.org/wiki/Ghardabiya_Airbase) | 2011-03-23 | прочитано | 8628 | довідник | `text/43-en.wikipedia.org-ghardabiya_airbase.txt` |
+| 44 | [Brak Airport - Wikipedia](https://en.wikipedia.org/wiki/Brak_Airport) | 2015-10-01 | прочитано | 2391 | довідник | `text/44-en.wikipedia.org-brak_airport.txt` |
+| 45 | [Gamal Abdel Nasser Airbase - Wikipedia](https://en.wikipedia.org/wiki/Gamal_Abdel_Nasser_Airbase) | 2009-08-24 | прочитано | 12275 | довідник | `text/45-en.wikipedia.org-gamal_abdel_nasser_airbase.txt` |
+| 46 | [Tobruk - Wikipedia](https://en.wikipedia.org/wiki/Tobruk) | 2003-12-17 | прочитано | 31396 | довідник | `text/46-en.wikipedia.org-tobruk.txt` |
+| 47 | [Government of National Stability - Wikipedia](https://en.wikipedia.org/wiki/Government_of_National_Stability) | 2022-08-28 | прочитано | 16322 | довідник | `text/47-en.wikipedia.org-government_of_national_stability.txt` |
+| 48 | [From Haftar to Dbeibah: The Map of Control and Influence in Libya](https://english.aawsat.com/features/5151154-haftar-dbeibah-map-control-and-influence-libya) | 2025-06-05 | прочитано | 26413 | видання | `text/48-english.aawsat.com-5151154-haftar-dbeibah-map-control-and-influence-li.txt` |
+| 49 | [Instability in Libya / Global Conflict Tracker](https://www.cfr.org/global-conflict-tracker/conflict/civil-war-libya) | 2015-12-16 | прочитано | 18795 | аналітичний центр | `text/49-cfr.org-civil-war-libya.txt` |
+| 50 | [Al Khadim airbase, an essential Russian outpost in Libya](https://alleyesonwagner.org/2024/03/18/al-khadim-airbase-an-essential-russian-outpost-in-libya/) | 2024-03-18 | прочитано | 7194 | розслідування | `text/50-alleyesonwagner.org-al-khadim-airbase-an-essential-russian-outpost-in-.txt` |
+| 51 | [Libya's Al-Khadim airbase becomes a hub for Russian arms in the Sahel](https://www.rfi.fr/en/africa/20250623-libya-s-al-khadim-airbase-becomes-a-hub-for-russian-arms-in-the-sahel) | 2025-06-23 | прочитано | 8406 | розслідування | `text/51-rfi.fr-20250623-libya-s-al-khadim-airbase-becomes-a-hub-for-russian-ar.txt` |
+| 52 | [Spike in Russian flights from Syria to Libyan desert base as Moscow ey](https://www.cnn.com/2024/12/31/middleeast/spike-russian-flights-libya-desert-base-intl) | 2024-12-31 | прочитано | 6656 | розслідування | `text/52-cnn.com-spike-russian-flights-libya-desert-base-intl.txt` |
+| 53 | [RFI: Libya's Al-Khadim airbase has become hub for Russian arms transfe](https://libyaobserver.ly/news/rfi-libyas-al-khadim-airbase-has-become-hub-russian-arms-transfers-sahel) | 2025-06-23 | прочитано | 1967 | видання (передрук) | `text/53-libyaobserver.ly-rfi-libyas-al-khadim-airbase-has-become-hub-russian-a.txt` |
+| 54 | [File:Detailkarte der Marinebasis Tartus.svg - Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Detailkarte_der_Marinebasis_Tartus.svg) | 2026-04-23 | прочитано | 5078 | довідник | `text/54-commons.wikimedia.org-file-detailkarte_der_marinebasis_tartus.svg.txt` |
+| 55 | [Marinebasis Tartus – Wikipedia](https://de.wikipedia.org/wiki/Marinebasis_Tartus) | 2012-06-17 | прочитано | 88783 | довідник | `text/55-de.wikipedia.org-marinebasis_tartus.txt` |
+| 56 | [720-й пункт матеріально-технічного забезпечення ВМФ Росії — Вікіпедія](https://uk.wikipedia.org/wiki/720-%D0%B9_%D0%BF%D1%83%D0%BD%D0%BA%D1%82_%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE-%D1%82%D0%B5%D1%85%D0%BD%D1%96%D1%87%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B7%D0%B0%D0%B1%D0%B5%D0%B7%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%BD%D1%8F_%D0%92%D0%9C%D0%A4_%D0%A0%D0%BE%D1%81%D1%96%D1%97) | 2012-08-29 | прочитано | 41095 | довідник | `text/56-uk.wikipedia.org-720--d0-b9_-d0-bf-d1-83-d0-bd-d0-ba-d1-82_-d0-bc-d0-b.txt` |
+| 57 | [Пункт материально-технического обеспечения ВМФ России в Сирии — Википе](https://ru.wikipedia.org/wiki/%D0%9F%D1%83%D0%BD%D0%BA%D1%82_%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE-%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D1%8F_%D0%92%D0%9C%D0%A4_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8_%D0%B2_%D0%A1%D0%B8%D1%80%D0%B8%D0%B8) | 2011-11-01 | прочитано | 52356 | довідник | `text/57-ru.wikipedia.org--d0-9f-d1-83-d0-bd-d0-ba-d1-82_-d0-bc-d0-b0-d1-82-d0-.txt` |
 
 ## Проблемні джерела
 
@@ -55,6 +72,7 @@
 - **№27** https://www.france24.com/en/africa/20260414-russian-ship-sanctions-delivered-armoured-vehicles-mali — оригінал недоступний (403), узято з Wayback
 - **№36** https://www.wionews.com/photos/from-sparta-iii-to-ursa-major-the-sanctioned-history-of-the-sunken-russian-cargo-ship-1778582372147 — оригінал недоступний (403), узято з Wayback
 - **№38** https://www.usni.org/magazines/proceedings/2023/september/russia-violating-montreux-convention-civilian-ships — оригінал недоступний (403), узято з Wayback
+- **№51** https://www.rfi.fr/en/africa/20250623-libya-s-al-khadim-airbase-becomes-a-hub-for-russian-arms-in-the-sahel — оригінал недоступний (403), узято з Wayback
 
 ---
 

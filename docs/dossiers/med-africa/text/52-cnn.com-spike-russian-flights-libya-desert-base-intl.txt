@@ -1,0 +1,78 @@
+URL:         https://www.cnn.com/2024/12/31/middleeast/spike-russian-flights-libya-desert-base-intl
+Кінцевий:    https://edition.cnn.com/2024/12/31/middleeast/spike-russian-flights-libya-desert-base-intl
+Заголовок:   Spike in Russian flights from Syria to Libyan desert base as Moscow eyes new Mediterranean hub | CNN
+Дата публ.:  2024-12-31
+Завантажено: 2026-09-06 05:51 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 4456632
+Оригінал:    raw/52-cnn.com-spike-russian-flights-libya-desert-base-intl.html
+sha256:      a7569686a287662bb89933ac3a5e536ee04fd470f11867873c81795b3dec23b7
+Витяг:       trafilatura
+
+==============================================================================
+In the weeks since Bashar al-Assad was ousted as Syrian leader, Russia has launched multiple flights to an airbase in the Libyan desert.
+
+Moscow’s goal appears to be to find an alternative stopover for its growing military involvement in Africa – and a way to retain its military presence in the Mediterranean. For nearly a decade, the Hmeimim air base and Tartus naval facility on the Syrian coast have served both purposes.
+
+Now the conflict-riven North African nation of Libya is central to Russian efforts to project power into the Mediterranean.
+
+Flight-tracking data analyzed by CNN show more than one flight a day since mid-December – by Moscow’s giant Antonov AN-124 transport planes, as well as Ilyushin IL-76 aircraft – from Hmeimim to al-Khadim, a base near Benghazi in eastern Libya.
+
+            Earlier this month, US and Western officials told CNN that Russia had [begun withdrawing a large amount of military equipment ](https://www.cnn.com/2024/12/16/politics/russia-military-syria-withdrawal/index.html)and troops from Syria.
+    
+
+The equipment transferred may have included advanced Russian air defense systems. CNN saw imagery of these systems waiting to be flown out of Syria shortly before the Russian flights started.
+
+On December 28, an Antonov returned to Hmeimim from Libya.
+
+Jalel Harchaoui, an associate fellow at the London-based Royal United Services Institute (RUSI) think tank, told CNN there has been an “undeniable spike in Russian aircraft landing in Libya from Syria, Russia and Belarus” in recent weeks.
+
+Hmeimim has been the hub from which Russian mercenary operations in Africa – at first in the Central African Republic and later in Sudan, Libya, Mali and Burkina Faso – were sustained.
+
+By strengthening its presence in Libya, Moscow may retain enough capability to pursue its broader ambitions further south in Africa, absorbing the new costs inevitably associated with Assad’s downfall, Harchaoui said.
+
+Geolocated video shows at least one of the planes that recently arrived at al-Khadim flew on to Bamako in Mali, where Russia has recently supplanted long-term French influence.
+
+“Russian flights to Bamako via Libya demonstrate that Russia has already turned to Libya as an alternative to its Syrian bases,” analysts at the American Enterprise Institute’s Critical Threats project said in a briefing note.
+
+The flights are not consistent with the previous pattern of Russian Africa Corps rotations to Bamako, it added. Russia’s Africa Corps, under the aegis of its defense ministry, is the successor to the Wagner mercenary group in Africa.
+
+The Russians have had a foothold at al-Khadim for several years, while supplying mercenary fighters and weapons to support Gen. Khalifa Haftar, the self-declared ruler of much of eastern Libya. The investigative outfit All Eyes on Wagner reported earlier this year that a secure compound had been built near the base for Russian personnel transiting to other parts of Africa.
+
+A deputy Russian defense minister, Yunus-Bek Yevkurov, has made several visits to Libya to consolidate links with Haftar in the past two years.
+
+That relationship may be set to deepen if the Russian navy is eyeing a port under Haftar’s control as an alternative to its facility at Tartus in Syria.
+
+## NATO concerns
+
+The prospect is not going down well in NATO capitals. Italian Defense Minister Guido Crosetto told Italian daily La Repubblica that, “Russian ships and submarines in the Mediterranean are always a concern, and even more so if instead of being 1,000 kilometers away they are two steps from us.”
+
+It’s no coincidence perhaps that a week ago the Italian military’s chief of staff, Gen. Luciano Portolano, visited Tripoli – where Haftar’s United Nations-backed rivals govern.
+
+According to a senior NATO official, the 32-member defensive alliance is monitoring activity in both Tobruk and Benghazi in Libya.
+
+A Mediterranean home for Russian warships is critical to Moscow as the Black Sea fleet is not permitted to transit the Bosphorus while Russia is at war with Ukraine.
+
+“Russia has not deployed naval vessels to Tobruk just yet, which is very smart since such a brazen move could have provoked NATO’s mobilization prematurely,” Harchaoui said.
+
+Haftar is a mercurial and ageing leader in a chronically divided and volatile country. “Haftar is often switching allegiances, only controls half of the country and is, at an age of 81, not exactly a youthful figure,” said Ulf Laessing, head of the Sahel Program at the Konrad Adenauer Foundation in Mali.
+
+“There is no legal agreement like with Syria, and Haftar could anytime show the Russians the door,” Laessing added. He could exploit his position to demand more sophisticated Russian hardware – which Moscow can ill afford to spare.
+
+In some ways, Libya is a poor substitute for Syria. Transport planes can only practically reach Libya from Russia if they are allowed to overfly Turkey, providing Turkish President Recep Tayyip Erdogan with a handy bargaining chip.
+
+## Damascus ambivalent
+
+            It’s not clear that Syria’s new leadership is determined to kick the Russian military out of Hmeimim and Tartus. Interim leader Ahmed al-Sharaa said in an [interview this week](https://www.cnn.com/2024/12/30/middleeast/syria-elections-four-years-intl/index.html) that the new government does not want Russia to leave the country “in a manner that does not fit its relations with Syria.”
+    
+
+But given Syria’s uncertain trajectory, Moscow will want to hedge its bets in a region of growing strategic importance.
+
+“Even if the new rulers allow Russia to keep the Hmeimim air and Tartus naval bases it will have to cut down its troop levels and logistics such as ammunition warehouses in Syria as they are no longer needed to support Assad,” Laessing said.
+
+Harchaoui agreed, saying that even if Russia maintains some presence in Syria, the level of comfort, logistical ease and security it once enjoyed under Assad will never return.
+
+Russian President Vladimir Putin has shrugged off Assad’s ouster but Laessing said his fall was a real blow to Putin’s Africa ambitions.
+
+African governments that have leaned towards Moscow for their security may now think twice about its reliability, which “will hamper its ability to strike new deals for the Africa Corps mercenaries,” said Laessing. “It didn’t (go) unnoticed in Mali or Niger that Russia did not come to Assad’s help.”
+
+Even so, Russia has dragged a coal from the fire of Assad’s demise, said Harchaoui. Its “logistical network has neither been destroyed nor entirely decimated; it has merely been degraded and rendered more costly, more uncertain, and shakier.”
