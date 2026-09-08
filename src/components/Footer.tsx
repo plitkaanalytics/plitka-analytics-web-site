@@ -21,10 +21,8 @@ export default function Footer({ locale = "uk" }: { locale?: Locale }) {
               <img src="/images/plitka-logo.svg" alt="PLITKA" className="logo__img" />
             </Link>
           </div>
-          <p className="footer__mission">
-            Незалежна OSINT-аналітика війни в Україні. Працюємо з відкритими даними — супутниковими знімками, AIS, ADS-B, портовими реєстрами та геолокацією фото- й відеоматеріалів.
-          </p>
-          <p className="footer__meta">© 2026 PLITKA Analytics · Матеріали поширюються за ліцензією CC BY-NC 4.0</p>
+          <p className="footer__mission">{t.footerDesc}</p>
+          <p className="footer__meta">{t.footerMeta}</p>
         </div>
         <div className="footer__divider" />
         <nav className="footer__nav" aria-label="Footer navigation">
