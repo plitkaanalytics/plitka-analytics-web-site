@@ -14,6 +14,9 @@ export interface ArticleFrontmatter {
   category: string;
   leadImage?: string;
   leadMapUrl?: string;
+  /** Слаг того самого матеріалу іншою мовою. Пара живе у фронтматері обох
+   *  сторін: так перемикач мов веде на двійник, а не на стрічку. */
+  twin?: string;
 }
 
 export interface ArticleListItem extends ArticleFrontmatter {
@@ -92,6 +95,25 @@ export function getArticleData(slug: string): unknown | null {
   const dataPath = path.join(process.cwd(), 'content/articles', slug, 'data.json');
   if (!fs.existsSync(dataPath)) return null;
   return JSON.parse(fs.readFileSync(dataPath, 'utf-8'));
+}
+
+/**
+ * Пари «українська стаття ↔ англійська». Беремо з фронтматера й лишаємо
+ * тільки ті, де двійник справді існує й посилається назад: односторонній або
+ * битий twin краще проігнорувати, ніж вести читача в 404.
+ */
+export function getTwinMap(): Record<'uk' | 'en', Record<string, string>> {
+  const uk = getAllArticles('uk');
+  const en = getAllArticles('en');
+  const byEnSlug = new Map(en.map((a) => [a.slug, a]));
+  const map: Record<'uk' | 'en', Record<string, string>> = { uk: {}, en: {} };
+  for (const a of uk) {
+    const twin = a.twin && byEnSlug.get(a.twin);
+    if (!twin || twin.twin !== a.slug) continue;
+    map.uk[a.slug] = twin.slug;
+    map.en[twin.slug] = a.slug;
+  }
+  return map;
 }
 
 export function formatDate(dateStr: string, locale: 'uk' | 'en' = 'uk', format: 'long' | 'short' = 'long'): string {

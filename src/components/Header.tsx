@@ -5,7 +5,12 @@ import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { dict } from '@/lib/i18n';
 
-export default function Header() {
+export default function Header({
+  twins,
+}: {
+  /** Пари слагів UA↔EN: із чим перемикач мов має піти на двійник статті. */
+  twins?: Record<'uk' | 'en', Record<string, string>>;
+}) {
   const pathname = usePathname();
   const isEN = pathname.startsWith('/en');
   const base = isEN ? '/en' : '';
@@ -30,12 +35,17 @@ export default function Header() {
     { href: `${base}/pro-nas`,     label: t.nav.about },
   ];
 
+  /** Той самий матеріал іншою мовою, якщо пара відома; інакше — стрічка. */
   function otherLocaleHref() {
-    if (isEN) {
-      const without = pathname.slice(3) || '/';
-      return without.match(/^\/articles\/.+/) ? '/articles' : without;
+    const article = pathname.match(/^(?:\/en)?\/articles\/([^/?#]+)/);
+    if (article) {
+      const from = isEN ? 'en' : 'uk';
+      const twin = twins?.[from]?.[article[1]];
+      if (twin) return isEN ? `/articles/${twin}` : `/en/articles/${twin}`;
+      return isEN ? '/articles' : '/en/articles';
     }
-    return pathname.match(/^\/articles\/.+/) ? '/en/articles' : `/en${pathname}`;
+    if (isEN) return pathname.slice(3) || '/';
+    return `/en${pathname}`;
   }
 
   function isActive(href: string) {
