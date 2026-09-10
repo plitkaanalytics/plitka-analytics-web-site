@@ -25,7 +25,7 @@ export default function Page() {
           <span className="eyebrow article-head__eyebrow">Investigation</span>
           <h1>{article.title}</h1>
           <p className="article-head__metaline">
-            Part 1 | {article.readingTime} min read | updated 13.08.2026
+            Part 1 | {article.readingTime} min read | updated 10.09.2026
           </p>
           <p className="article-head__dek">{article.dek}</p>
         </div>
@@ -654,7 +654,7 @@ export default function Page() {
                 Admiral Essen<em>The Warʼs First Neptune</em>
               </h2>
               <div className="ship__chips">
-                <span className="chip chip--red">5 strikes</span>
+                <span className="chip chip--red">6 strikes</span>
                 <span className="chip">BSF</span>
               </div>
             </header>
@@ -673,7 +673,7 @@ export default function Page() {
                 </div>
               </div>
               <div className="status-bar__cell">
-                <div className="status-bar__k">Base 05.2026</div>
+                <div className="status-bar__k">Base 09.2026</div>
                 <div className="status-bar__v">
                   Novorossiysk<em>from 10.2023</em>
                 </div>
@@ -681,7 +681,7 @@ export default function Page() {
               <div className="status-bar__cell is-bad">
                 <div className="status-bar__k">Status</div>
                 <div className="status-bar__v">
-                  Not operational<em>after 12.08.2026</em>
+                  Not operational<em>after 09.09.2026 · lengthy repair</em>
                 </div>
               </div>
             </div>
@@ -1306,6 +1306,185 @@ export default function Page() {
                   support vessel “Priazovye,” and an unidentified cargo ship.
                 </p>
 
+                <div className="episode">
+                  <div className="episode__date">09.09.2026 · Novorossiysk</div>
+                  <h3 className="episode__h">
+                    Fifth strike on Novorossiysk: the “Long Neptune”
+                  </h3>
+                </div>
+
+                <p>
+                  On the night of 8–9 September 2026, Ukraineʼs Defence Forces
+                  struck the Novorossiysk naval base once more. Ukraineʼs
+                  Defence Intelligence (HUR) reported that operators of its
+                  Active Actions Department, working within a joint{" "}
+                  <em>deep-strike</em> operation, hit the baseʼs infrastructure
+                  and the frigate Admiral Essen. A fire broke out on the shipʼs
+                  deck superstructure.
+                  <a className="ref" href="#ref-23">
+                    [23]
+                  </a>{" "}
+                  The same day the Ukrainian Navy named the weapon — a Neptune
+                  missile —
+                  <a className="ref" href="#ref-24">
+                    [24]
+                  </a>{" "}
+                  and a day later specified that it was the extended-range
+                  variant, the “Long Neptune.”
+                  <a className="ref" href="#ref-26">
+                    [26]
+                  </a>
+                </p>
+
+                <figure className="fig">
+                  <img
+                    src="/articles/chotyry-roky-v-mori-frehaty/essen-dovhyi-neptun.jpg"
+                    alt="Satellite image: the frigate Admiral Essen moored in Novorossiysk, with the damaged superstructure outlined by a dashed line"
+                  />
+                  <figcaption>
+                    Admiral Essen at its pier in Novorossiysk after the 9
+                    September strike.{" "}
+                    <em>
+                      The dashed line marks the damaged superstructure. Image
+                      and markup from a Ukrainian Navy graphic, 10.09.2026.
+                    </em>
+                  </figcaption>
+                </figure>
+
+                <div className="qtbox">
+                  <div className="qtbox__lang">Quote · Ukrainian Navy</div>
+                  <p className="qtbox__quote">
+                    “Satellite imagery confirms the ship was hit in the upper
+                    superstructure. The damage sustained prevents the ship from
+                    performing combat missions. The missile carrier will require
+                    lengthy and costly repairs.”
+                  </p>
+                  <div className="qtbox__cite">
+                    Naval Forces of the Armed Forces of Ukraine · 10.09.2026
+                  </div>
+                </div>
+
+                <p>
+                  According to an analysis by Defense Express, the missile
+                  struck the forward part of the superstructure, destroying the
+                  bridge and a number of control stations for the shipʼs combat
+                  systems and machinery.
+                  <a className="ref" href="#ref-29">
+                    [29]
+                  </a>{" "}
+                  The first combat launch of a Neptune in this war was aimed at
+                  this same frigate — in early April 2022, at sea off the Tendra
+                  Spit, where the missile detonated close alongside rather than
+                  striking the hull (see above). Eleven days after that launch,
+                  two Neptunes sank the cruiser Moskva. Four years on, the
+                  extended-range variant of the same missile reached Essen at
+                  its pier: the Neptune-D system, firing RK360L missiles with a
+                  range of up to 1,000 km and a 260 kg warhead, whose use
+                  President Volodymyr Zelensky confirmed in late 2025.
+                </p>
+
+                <p>
+                  The frigate was not the only target along the Krasnodar Krai
+                  coast that night. Unmanned Systems Forces commander Robert
+                  “Madyar” Brovdi reported that a Su-33 carrier-based fighter
+                  and an Mi-8 helicopter had been destroyed near Anapa, and that
+                  two radars — a Kasta-2E2 and a 92N6 from an S-300/S-400
+                  battery — had been hit in the Gelendzhik area. In Novorossiysk
+                  itself the fuel oil terminal was burning; it handles roughly
+                  20 million tonnes of petroleum products a year.
+                  <a className="ref" href="#ref-25">
+                    [25]
+                  </a>
+                </p>
+
+                <p>
+                  Sources differ on which other ships were hit. After analysing
+                  additional data, Ukraineʼs General Staff named at least three
+                  damaged vessels;
+                  <a className="ref" href="#ref-27">
+                    [27]
+                  </a>{" "}
+                  the OSINT project Exilenova+, working from satellite imagery,
+                  also named three — but not the same ones.
+                  <a className="ref" href="#ref-28">
+                    [28]
+                  </a>{" "}
+                  Essen is the only ship on both lists.
+                </p>
+
+                <table>
+                  <thead>
+                    <tr>
+                      <th>Ship</th>
+                      <th>General Staff</th>
+                      <th>Exilenova+</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <td>frigate Admiral Essen</td>
+                      <td>hit</td>
+                      <td>hit in the superstructure</td>
+                    </tr>
+                    <tr>
+                      <td>frigate Admiral Makarov</td>
+                      <td>—</td>
+                      <td>hit again in the superstructure</td>
+                    </tr>
+                    <tr>
+                      <td>missile corvette “Buyan-M,” Proj. 21631</td>
+                      <td>—</td>
+                      <td>hit</td>
+                    </tr>
+                    <tr>
+                      <td>small sea minesweeper “Zheleznyakov”</td>
+                      <td>hit</td>
+                      <td>—</td>
+                    </tr>
+                    <tr>
+                      <td>large landing ship “Pyotr Morgunov,” Proj. 11711</td>
+                      <td>hit</td>
+                      <td>—</td>
+                    </tr>
+                  </tbody>
+                </table>
+
+                <p>
+                  The General Staff says “at least,” so its list is not
+                  exhaustive, while Exilenova+ shows only what is visible from
+                  orbit. Hits on Makarov and the Buyan-M have not been
+                  officially confirmed; for Makarov, see{" "}
+                  <a href="#ship-makarov">its section</a> below.
+                </p>
+
+                <p>
+                  Russia reported no strike on the ships. Novorossiysk mayor
+                  Andrey Kravchenko initially attributed the fires to falling
+                  debris; Krasnodar Krai governor Veniamin Kondratyev later
+                  claimed four people had been killed, among them a child, and
+                  29 injured in the townʼs residential areas.
+                </p>
+
+                <div className="callout callout--warn">
+                  <div className="callout__label">Where to repair them</div>
+                  For Essen this is the second hit in a month, and the question
+                  is no longer only how badly it is damaged. Project 11356R
+                  frigates draw 4.2–4.6 m depending on the source, while the
+                  Volga–Don Canal is 3–3.5 m deep: they cannot be moved to
+                  inland shipyards, and the Bosporus is closed to Russian
+                  warships. In Defense Expressʼs assessment, the only place they
+                  could be fully repaired is Sevastopol.
+                  <a className="ref" href="#ref-29">
+                    [29]
+                  </a>{" "}
+                  How Novorossiysk became a trap for the frigates is the subject
+                  of{" "}
+                  <Link href="/en/articles/novorossiysk-trap">
+                    <strong>“The Novorossiysk Trap”</strong>
+                  </Link>
+                  .
+                </div>
+
                 <div className="aside-note">
                   <div className="aside-note__lbl">
                     Essenʼs pre-war commanding officers
@@ -1402,7 +1581,7 @@ export default function Page() {
                       </div>
                       <p>
                         It was under Kruhlovʼs command that Essen went through
-                        all four documented hits at Novorossiysk in 2026
+                        all the documented hits at Novorossiysk in 2026
                         described above.
                       </p>
                     </div>
@@ -1789,6 +1968,48 @@ export default function Page() {
                   <a className="ref" href="#ref-13">
                     [13]
                   </a>
+                </p>
+
+                <div className="episode">
+                  <div className="episode__date">09.09.2026 · Novorossiysk</div>
+                  <h3 className="episode__h">A repeat hit, per OSINT</h3>
+                </div>
+
+                <figure className="fig">
+                  <img
+                    src="/articles/chotyry-roky-v-mori-frehaty/makarov-2026-09-10.jpg"
+                    alt="Satellite image: two Project 11356R frigates moored on either side of the same pier in Novorossiysk; a circle marks damage to the forward superstructure of the upper ship"
+                  />
+                  <figcaption>
+                    Both frigates at the same pier in Novorossiysk after the 9
+                    September strike.{" "}
+                    <em>
+                      The circle marks damage to the forward superstructure,
+                      which Exilenova+ attributes to Admiral Makarov. Image and
+                      markup by Exilenova+, 10.09.2026.
+                    </em>
+                  </figcaption>
+                </figure>
+
+                <p>
+                  After the 9 September strike, the OSINT project Exilenova+
+                  reported that Makarov had taken a repeat hit to its
+                  superstructure.
+                  <a className="ref" href="#ref-28">
+                    [28]
+                  </a>{" "}
+                  This has not been officially confirmed: Ukraineʼs General
+                  Staff does not list Makarov among the ships hit that night,
+                  <a className="ref" href="#ref-27">
+                    [27]
+                  </a>{" "}
+                  and according to Defense Express the extent of its damage is
+                  yet to be established.
+                  <a className="ref" href="#ref-29">
+                    [29]
+                  </a>{" "}
+                  A full account of the operation appears in the{" "}
+                  <a href="#ship-essen">Admiral Essen</a> section.
                 </p>
 
                 <div className="aside-note">
@@ -2542,6 +2763,40 @@ export default function Page() {
                 of Admiral Makarov, Captain 3rd Rank D. Kudashkin · December
                 2022.
               </li>
+              <li id="ref-23">
+                Defence Intelligence of Ukraine (HUR). “Missile carrier Admiral
+                Essen and other targets hit: details of the HUR and Ukrainian
+                Defence Forces operation at Novorossiysk” · 09.09.2026.
+              </li>
+              <li id="ref-24">
+                Naval Forces of the Armed Forces of Ukraine. Statement on the
+                Neptune missile strike against Admiral Essen · Facebook ·
+                09.09.2026.
+              </li>
+              <li id="ref-25">
+                Unmanned Systems Forces of Ukraine / Robert “Madyar” Brovdi.
+                Results of the strike on Novorossiysk, Anapa and Gelendzhik ·
+                09.09.2026.
+              </li>
+              <li id="ref-26">
+                Naval Forces of the Armed Forces of Ukraine. “The Long Neptune
+                finally got Essen” — satellite confirmation of the hit ·
+                Facebook · 10.09.2026.
+              </li>
+              <li id="ref-27">
+                General Staff of the Armed Forces of Ukraine. “Makhachkala sea
+                port hit. Hits on three ships in Novorossiysk confirmed” ·
+                Telegram · 10.09.2026.
+              </li>
+              <li id="ref-28">
+                Exilenova+. Satellite imagery of ships in Novorossiysk after the
+                9 September strike · Telegram · 10.09.2026. OSINT project.
+              </li>
+              <li id="ref-29">
+                Defense Express. “Can Russia repair the Buyan-M, Admiral Essen
+                and Admiral Makarov hit by Neptunes — and, above all, where?” ·
+                10.09.2026. In Ukrainian.
+              </li>
             </ol>
 
             <p className="refs__also">
@@ -2551,15 +2806,15 @@ export default function Page() {
               Novorossiysk, 03–04.2026; Planet Labs / MT Anderson — Tartus
               satellite image sequences, 11.2024–01.2025; General Staff of the
               Armed Forces of Ukraine — statement on damage to Essen and
-              Makarov, 06.03.2026; RIA Novosti — graded exercises of the
-              Caspian Flotilla, 08.2025. Biographical data on Black Sea Fleet
-              officers is compiled from Morskoy Sbornik,
-              Voyenno-Promyshlennyy Kuryer, TASS, Rossiyskaya Gazeta,
-              Kommersant, Vzglyad, Lenta.ru, Komsomolskaya Pravda, Vechernyaya
-              Moskva, 1TV, Nezavisimoye Voyennoye Obozreniye, Sevastopol.su,
-              NTS Sevastopol, vpk.name, Milportal, Komandiry.org, kchf.ru, the
-              Airbase.ru forum, Interfax, Timenote.info, MK.rbth.com,
-              Krym.Realii, Meridian.in.ua and Russian-torturers.org.
+              Makarov, 06.03.2026; RIA Novosti — graded exercises of the Caspian
+              Flotilla, 08.2025. Biographical data on Black Sea Fleet officers
+              is compiled from Morskoy Sbornik, Voyenno-Promyshlennyy Kuryer,
+              TASS, Rossiyskaya Gazeta, Kommersant, Vzglyad, Lenta.ru,
+              Komsomolskaya Pravda, Vechernyaya Moskva, 1TV, Nezavisimoye
+              Voyennoye Obozreniye, Sevastopol.su, NTS Sevastopol, vpk.name,
+              Milportal, Komandiry.org, kchf.ru, the Airbase.ru forum, Interfax,
+              Timenote.info, MK.rbth.com, Krym.Realii, Meridian.in.ua and
+              Russian-torturers.org.
             </p>
           </section>
 
@@ -2580,7 +2835,7 @@ export default function Page() {
               <span className="chip">USV</span>
             </div>
             <div>
-              <span>27 min read</span> · <span>27 sources</span>
+              <span>45 min read</span> · <span>34 sources</span>
             </div>
           </div>
         </article>

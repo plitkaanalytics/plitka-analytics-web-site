@@ -58,7 +58,7 @@ const DATA = {
     { "id": "p_ess_01", "ship": "essen",       "from": "2016-06-07", "to": "2016-10-10", "location": "baltiysk",    "note": "Commissioned into the fleet, still in the Baltic before transfer to the Black Sea Fleet" },
     { "id": "p_ess_02", "ship": "essen",       "from": "2016-10-10", "to": "2017-04-28", "location": "baltiysk",    "note": "Repairs to damaged propellers following berthing accident" },
     { "id": "p_ess_03", "ship": "essen",       "from": "2017-04-28", "to": "2023-10-01", "location": "sevastopol",  "note": "Transferred to the Black Sea Fleet; home port Sevastopol" },
-    { "id": "p_ess_04", "ship": "essen",       "from": "2023-10-01", "to": "2026-08-12", "location": "novorossiysk", "note": "Relocated from Sevastopol due to threat of Ukrainian strikes" },
+    { "id": "p_ess_04", "ship": "essen",       "from": "2023-10-01", "to": "2026-09-09", "location": "novorossiysk", "note": "Relocated from Sevastopol due to threat of Ukrainian strikes" },
 
     { "id": "p_mak_01", "ship": "makarov",     "from": "2017-12-27", "to": "2023-10-01", "location": "sevastopol",  "note": "Commissioned into the fleet, home-ported in Sevastopol" },
     { "id": "p_mak_02", "ship": "makarov",     "from": "2023-10-01", "to": "2026-08-12", "location": "novorossiysk", "note": "Relocated from Sevastopol together with Essen" },
@@ -668,10 +668,33 @@ const DATA = {
       "ships": ["essen"],
       "location": "sevastopol",
       "title": "Kruhlov — Essen's fourth, current commanding officer",
-      "description": "Captain 2nd Rank Anton Kruhlov took command of Essen in spring 2023, likely just ahead of the May festivities marking the BSF's 240th anniversary. Officially confirmed in the post as of October 2025. Under his command the frigate went through all four documented hits at Novorossiysk in 2026. On 13 May 2023 the Sevastopol city government mistakenly thanked Kruhlov as commanding officer of Admiral Grigorovich — most likely a local reporting error, since Grigorovich was physically thousands of kilometres away (Mediterranean/Baltic) at the time.",
+      "description": "Captain 2nd Rank Anton Kruhlov took command of Essen in spring 2023, likely just ahead of the May festivities marking the BSF's 240th anniversary. Officially confirmed in the post as of October 2025. Under his command the frigate went through all the documented hits at Novorossiysk in 2026. On 13 May 2023 the Sevastopol city government mistakenly thanked Kruhlov as commanding officer of Admiral Grigorovich — most likely a local reporting error, since Grigorovich was physically thousands of kilometres away (Mediterranean/Baltic) at the time.",
       "sources": ["MK.rbth.com", "Vechernyaya Moskva", "Sevastopol.su 13.05.2023"],
       "importance": 4
+    },
+    {
+      "id": "e_057",
+      "type": "strike_incoming",
+      "date": "2026-09-09",
+      "ships": ["essen"],
+      "location": "novorossiysk",
+      "title": "Sixth hit on Essen: the 'Long Neptune'",
+      "description": "On the night of 8-9 September 2026, Ukraine's Defence Forces struck the Novorossiysk naval base for the fifth time. Ukraine's Defence Intelligence (HUR) reported that operators of its Active Actions Department, within a joint deep-strike operation, hit the base's infrastructure and the frigate Admiral Essen: a fire broke out on the ship's deck superstructure. The Ukrainian Navy named the weapon as the extended-range variant, the 'Long Neptune' (Neptune-D system, RK360L missiles). On 10 September the Navy stated: “Satellite imagery confirms the ship was hit in the upper superstructure. The damage sustained prevents the ship from performing combat missions. The missile carrier will require lengthy and costly repairs.” According to Defense Express, the hit landed on the forward superstructure, destroying the bridge and combat-system control stations. The first combat launch of a Neptune in this war was aimed at this same frigate, in early April 2022. Sources differ on the other ships: Ukraine's General Staff confirmed hits on at least three — Essen, the small sea minesweeper Zheleznyakov and the large landing ship Pyotr Morgunov; the OSINT project Exilenova+ names Essen, Admiral Makarov and a Buyan-M corvette from satellite imagery. The same night a Su-33 and an Mi-8 were destroyed near Anapa, Kasta-2E2 and 92N6 radars were hit near Gelendzhik, and the Novorossiysk fuel oil terminal was burning.",
+      "sources": ["Defence Intelligence of Ukraine (HUR)", "Ukrainian Navy", "General Staff of Ukraine", "Exilenova+", "Defense Express"],
+      "importance": 5
+    },
+    {
+      "id": "e_058",
+      "type": "strike_incoming",
+      "date": "2026-09-09",
+      "ships": ["makarov"],
+      "location": "novorossiysk",
+      "title": "Makarov: a repeat hit, per OSINT",
+      "description": "After the 9 September strike, the OSINT project Exilenova+ published satellite imagery marking a repeat hit on Admiral Makarov's superstructure, in the forward section. This has not been officially confirmed: Ukraine's General Staff does not list Makarov among the ships hit that night. According to Defense Express, the extent of its damage is yet to be established.",
+      "sources": ["Exilenova+", "Defense Express"],
+      "importance": 3
     }
   ]
 }
+
 ;

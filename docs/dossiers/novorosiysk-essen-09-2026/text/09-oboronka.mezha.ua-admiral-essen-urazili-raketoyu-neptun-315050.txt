@@ -1,0 +1,26 @@
+URL:         https://oboronka.mezha.ua/en/admiral-essen-urazili-raketoyu-neptun-315050/
+Кінцевий:    https://oboronka.mezha.ua/en/admiral-essen-urazili-raketoyu-neptun-315050/
+Заголовок:   Ukrainian Navy: The frigate'Admiral Essen in Novorossiysk was struck by a Neptune missile
+Дата публ.:  2026-09-09
+Завантажено: 2026-09-10 06:47 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 205570
+Оригінал:    raw/09-oboronka.mezha.ua-admiral-essen-urazili-raketoyu-neptun-315050.html
+sha256:      3d74f643dc3787152b345f949191b21931a074b8efd1e5774e7847f8c0e0e94c
+Витяг:       trafilatura
+
+==============================================================================
+The strike on the Russian frigate "Admiral Essen", which was hit on the night of September 9, was carried out by a Ukrainian "Neptune" missile. This [was reported](https://www.facebook.com/navy.mil.gov.ua/posts/pfbid0yRDtEfNfQSKpqMopXRL7mvhcyig5epcQJgDipQQjjSmS5fZmy21sckxGXcWDpkBSl?locale=uk_UA) by the Naval Forces of the Armed Forces of Ukraine.
+
+A Russian Navy ship was attacked with a missile during a combined strike by the Ukrainian Defense Forces, which included units of the SBS, GUR, SBU, and other components of the Ukrainian military.
+
+"The Navy sailors used the Neptune to hit the Caliber cruise missile carrier frigate Admiral Essen," the Navy commented on the defeat.
+
+A satellite image of the Russian base in Novorossiysk after the night attack [was published](https://t.me/exile_plus/2490) in the OSINT project "Exilenova+". According to the DIU, the frigate's superstructure was hit.
+
+"Admiral Essen" is a Russian frigate of project 11356R "Burevestnik", launched in 2014 and included in the Russian Black Sea Fleet. The ship participated in missile strikes on Syria in 2017 and on Ukraine since 2022. It is armed with 3M14 "Kalibr" cruise missiles, a "Shtil-1" anti-aircraft missile system and a 100-mm A-190 artillery mount.
+
+The R-360 Neptune cruise missile is designed to destroy ships with a displacement of up to 5,000 tons, and like all missiles of this class, can be used from land, surface, and air platforms. In April 2022, this missile [sank](https://mezha.ua/en/2022/04/14/ukrainian-navy-shot-and-likely-sank-moskva-missile-cruiser/) the Russian cruiser Moskva.
+
+At the end of 2025, Zelensky [confirmed](https://oboronka.mezha.ua/en/ukrajina-uspishno-zastosuvala-raketi-dovgiy-neptun-306303/) that Ukraine is also using an updated version of the Long Neptune. The Neptune D complex operates with RK360L cruise missiles. Their flight range is up to 1,000 km, and the weight of the warhead is 260 kg. The missile is designed to hit ground and sea targets.
+
+Earlier, Defense reported that on the night of September 9, the Ukrainian Defense Forces, with the participation of the Unmanned Systems Forces, [struck](https://oboronka.mezha.ua/en/vmb-novorosiyska-za-nich-vtratila-raketonosiji-315021/) a number of military targets in Novorossiysk and Anapa. Among the confirmed hits were a Su-33 carrier-based fighter and an Mi-8 helicopter, two Kasta-2E2 and 92N6 radars from the S-300/S-400 air defense system in the Gelendzhik area, as well as the Admiral Essen frigate of project 11356.
