@@ -1,0 +1,13 @@
+URL:         https://ukr.warspotting.net/view/46495/
+Кінцевий:    https://ukr.warspotting.net/view/46495/
+Заголовок:   Just a moment...
+Дата публ.:  не вказана на сторінці
+Завантажено: 2026-09-10 20:45 UTC
+HTTP:        403   Тип: text/html; charset=UTF-8   Байтів: 5720
+Оригінал:    raw/02-ukr.warspotting.net-46495.html
+sha256:      dac378adf1dc1b8e485b331da6f971b506ed2c2cf9cfff764e92198e159faed2
+Витяг:       bs4-full
+Примітка:    оригінал 403; знімка немає в Wayback
+
+==============================================================================
+Just a moment...

@@ -1,0 +1,30 @@
+URL:         https://www.navalnews.com/naval-news/2026/08/ukrainian-drone-strike-russian-frigates-novorossiysk/
+Кінцевий:    https://www.navalnews.com/naval-news/2026/08/ukrainian-drone-strike-russian-frigates-novorossiysk/
+Заголовок:   Ukraine Strike Damages 2 Russian Frigates at Novorossiysk
+Дата публ.:  2026-08-13
+Завантажено: 2026-09-10 20:45 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 389499
+Оригінал:    raw/06-navalnews.com-ukrainian-drone-strike-russian-frigates-novorossiysk.html
+sha256:      718a1eb495e31359247375e07d473f95a5ec25deecf35581a1fefcfc3e852736
+Витяг:       trafilatura
+
+==============================================================================
+**Early in the morning on Wednesday, August 12th, Ukrainian drones savaged Russian warships and supporting infrastructure at the Black Sea Fleet’s reactivated main port, Novorossiysk, striking at least 4 vessels** **in the process**.
+
+The Russian Black Sea Fleet (BSF) had at least 4 surface combatants damaged in the attack, including two out of three of its most capable ships in the form of two Project 11356R *Admiral Grigorovich*-class frigates, the *Admiral Essen* and the *Admiral Makarov*. These vessels became the most capable surface combatants within the Black Sea Fleet’s roster following the sinking of the cruiser *Moskva *in April of 2022.
+
+As highlighted in the [Vantor satellite imagery](https://x.com/byjepstein/status/2087602432528261287) above, satellite analysis confirms moderate damage to both frigates, with hits concentrated near or on the forward Vertical Launch System (VLS) cell banks which lead to additional fire damage. It is likely that the damage is severe enough to disable the VLS systems, robbing each frigate of the ability to launch both surface to surface and surface to air missiles, crippling two thirds the Black Sea Fleet’s premier warships.
+
+In addition to the pair of Frigates, Ukraine claimed a Buyan-M type corvette, an enticing target given the vessel’s demonstrated capability to launch up to 8 Kalibr and Oniks cruise missiles. Additionally, A Project 22160 large patrol ship represents the final vessel that had been targeted and damaged, rounding out the night’s total.
+
+Ukrainian droves also battered Novorossiysk’s on-shore facilities, damaging the port’s grain terminal, a 30N6E radar part of an S-300 air defense system, and a claimed strike on a tanker moored near the port’s oil terminal. Ukraine reportedly utilized a combination of jet powered drones, Neptune cruise missiles, and sea-based suicide drones in a coordinated hit.
+
+## Successful Strikes
+
+This further crippling of the BSF came on the heels of a several weeks long strike campaign conducted by Ukrainain forces to cripple Russian resupply efforts to Crimea and to limit the exportation of Russian goods. [This campaign](https://www.navalnews.com/naval-news/2026/07/ukrainian-drone-raid-russian-ships-crimea-supply-lines/) ultimately claimed over 100 Russian cargo and fuel vessels, severely degrading the ability for Russian resupply to Crimea, but also heavily disrupting the shipment of goods to and from Russian ports on the Black Sea and the Sea of Azov.
+
+Whilst recent rounds have focused on more logistics based vessels, this night of strikes has likely hammered one of the final nails in the BSF’s coffin, with almost half of their long range missile launching capability disabled in home-port and the fact that there is almost nowhere else for the fleet to run.
+
+However, even as the BSF has largely been bottled in to Novorossiysk and with Russian shipping massively disrupted, Russian strikes on shipping heading to and from Ukrainian ports has continued. Thus, the simultaneous ability to launch maritime strikes leaves the Black Sea in a precarious state, with neither side able to project force out into the Black Sea proper whilst both suffer reduced effectiveness of Black Sea based exports.
+
+Yet, the near complete failure of the BSF is stark, with the group being reduced from the most powerful surface force in the Black Sea to an anemic fleet contained within its main port, rarely venturing out for fear of losses, even as the vessels continue to take a beating.

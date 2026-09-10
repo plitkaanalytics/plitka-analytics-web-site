@@ -1,0 +1,57 @@
+URL:         https://euromaidanpress.com/2026/08/22/five-kalibr-shooters/
+Кінцевий:    https://euromaidanpress.com/2026/08/22/five-kalibr-shooters/
+Заголовок:   Ukraine finally hit three Russian Kalibr ships on 12 August. On the 19th, an untouched one hit Kyiv
+Дата публ.:  2026-08-22
+Завантажено: 2026-09-10 20:45 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 362921
+Оригінал:    raw/01-euromaidanpress.com-five-kalibr-shooters.html
+sha256:      e6162f03f5ec8d5d454b5cae2c207b0a45172b998a3b7347a508146ecafae757
+Витяг:       trafilatura
+
+==============================================================================
+- After months of trying, Ukrainian forces may have finally hit some of the Russian Black Sea Fleet's Kalibr missile-armed warships
+- The 2,500-km Kalibr is often in the mix when Russian forces bombard Ukrainian cities
+- Hitting any Kalibr shooter is a win for Ukraine, but Russia still has no less than four intact Kalibr-compatible ships on the Black Sea
+
+The Russian navy still has enough missile-armed warships in its battered Black Sea Fleet to sustain Kalibr cruise missile attacks on Ukrainian cities, if recent launches are any indication.
+
+Overnight on 19 August, an unscathed Russian corvette lobbed eight Kalibrs at Ukraine. Seven were intercepted. The eighth [struck](https://x.com/OSINTWarfare/status/2090210721975930972) the Antonov Aircraft Plant in Kyiv, according to the open-source monitor OSINT Warfare, in an attack that killed 15 overall. Ukrainian commanders had hoped that wouldn't be possible. A week earlier, they thought they had knocked the Kalibr shooters out of the fight.
+
+Overnight on 12 August, Ukrainian drones and missiles targeted the Black Sea Fleet's main anchorage in Novorossiysk in southern Russia. Russians on the ground recorded fireballs billowing into the night sky, seemingly indicating significant damage to the port or its moored warships, potentially including the Black Sea Fleet's seven or eight surviving frigates, corvettes, and submarines that are compatible with the 2,500-km Kalibr.
+
+The Ukrainian general staff in Kyiv [claimed](https://www.facebook.com/story.php?story_fbid=1409253924721015&id=100069092624537&rdid=P6gX4mwvQDFLTRZT) its forces had struck three Kalibr carriers—the frigates *Admiral Makarov* and *Admiral Essen* and a *Buyan-M* corvette—as well as a lightly armed guard ship. But the uncertainty was, and still is, high. Even the general staff stressed its munitions had inflicted "varying degrees" of damage "according to preliminary information."
+
+"Information is being clarified," the general staff stressed.
+
+When the sun rose over the following days, commercial satellites snapped high-resolution photos of Novorossiysk, helping analysts assess damage from the 12 August strikes. The photos were hard to interpret. Yes, there were dark patches on the hulls of the two frigates and single corvette, but the discoloration didn't necessarily indicate drone or missile damage—to say nothing of confirming serious damage.
+
+The pro-Ukraine Conflict Intelligence Team [concluded](https://notes.citeam.org/dispatch-aug-10-13-2026) *Admiral Makarov* and *Admiral Essen* "sustained [damage](https://militarnyi.com/en/news/ukraine-strikes-russian-navy-base-and-port-in-novorossiysk-with-neptune-palianytsia-missles-and-naval-drones/) in the [area](https://www.navalnews.com/naval-news/2026/08/ukrainian-drone-strike-russian-frigates-novorossiysk/) of their launchers," potentially impacting the ships' ability to fire Kalibrs. 
+
+A later [battle-damage assessment by OSINT account Absolutely Reliable Source](https://x.com/absreliable/status/2090087133188890887) said both frigates had suffered critical damage. It assessed that direct hits on *Admiral Essen* destroyed its eight-cell 3S14 vertical launch system for Kalibr missiles, while strikes on *Admiral Makarov* caused an internal detonation and burned out its 3S14 launch cells. The account said both ships had lost their strike capability and would require extensive repairs.
+
+### Uncertainty
+
+Caution was prudent. In the first three years of Russia's wider war on Ukraine, Ukrainian forces succeeded in destroying or damaging around two dozen of the roughly 85 large ships in the Black Sea Fleet. Perhaps most notably, a pair of Ukrainian Neptune cruise missiles holed and sank the Russian missile cruiser *Moskva* in April 2022.
+
+But the strikes mostly missed the Kalibr carriers. Yes, the Ukrainians took out a Kalibr-armed *Improved Kilo*-class submarine in September 2023 and a *Karakurt*-class corvette, also armed with Kalibrs, in November 2023. But that left at least seven Kalibr shooters in the Black Sea Fleet. Eight if the Russians have managed to repair the* Improved Kilo* that apparently suffered some damage from a Ukrainian one-way unmanned attack submarine back in December. 
+
+It wasn't for a lack of trying that Ukrainian forces failed to eliminate, or even seriously dent, the Black Sea Fleet's Kalibr capacity prior to the 12 August raid on Novorossiysk. On 22 May, Fire Point FP-1 drones operated by the Ukrainian 414th Separate Unmanned Strike Aviation System Brigade motored the roughly 430 km to Novorossiysk and spotted a warship moored to a pier.
+
+
+#### Putin’s Mach-10 wonder weapon misses by 30 meters. Russia stopped building it in April.
+
+The 414th Brigade believed it was *Admiral Essen*—and also believed it may have hit the ship. "The frigate *Admiral Essen* … entered the strike zone," the brigade [crowed](https://x.com/414magyarbirds/status/2058168505334133216). "Damage level unknown."
+
+In fact, it seems the ship the propeller-driven FP-1 barreled toward, and potentially struck with its warhead, wasn't *Admiral Essen*. The vessel in the FP-1's video feed, relayed via satellite or a mesh radio network, appeared to be a derelict *Krivak*-class frigate. Not *Admiral Essen*.
+
+## Trending Now
+
+It was yet another near miss. Earlier, on 6 April, FP-1s dove down on *Admiral Makarov*. The Ukrainian Unmanned Systems Forces posted footage from the FP-1s' forward-facing thermal cameras that indicated the drones got close to *Admiral Makarov*. But the footage *didn't* point to an obvious hit.
+
+Overhead satellite imagery from later on 6 April [seemingly told a more complete story](https://t.me/exilenova_plus/18545#). The drones may have left a scorch mark on the frigate's bow, but there was no sign of structural damage. If the 12 August raid really did inflict meaningful damage on *Admiral Makarov* and *Admiral Essen* and a *Buyan-M*, it represented a profound reversal for Ukrainian forces. After trying and trying again for months, they'd finally hit some of the ships that really mattered among the survivors of the Black Sea Fleet. 
+
+The problem for the Ukrainians is that, even if three Kalibr shooters are temporarily out of the fight, there are still four, possibly five, Kalibr shooters left. And that's enough to sustain frequent attacks on Ukrainian cities. A single *Buyan-M* corvette can fire eight Kalibrs at a time. And eight, as it turns out, is [a typical number of Kalibrs in the mix](https://x.com/AMK_Mapping_/status/2082682958025289964) when Russian air, sea, and ground forces launch their combined drone and missile barrages.
+
+The Black Sea Fleet reminded everyone of that uncomfortable fact overnight on 19 August. A *Buyan-M* corvette at Novorossiysk fired eight Kalibrs—exactly one magazine—into a barrage that also carried Onyx and Zircon missiles, Iskander-M and KN-23 ballistic missiles, three dozen air-launched cruise missiles, and 168 drones. Ukrainian air defenses stopped seven of the eight Kalibrs. They could not stop the ballistic missiles, and the eighth Kalibr got through to the Antonov plant, which had already been hit that night by Iskanders and Zircons.
+
+If the attack on 12 August actually did eliminate or even just temporarily sideline three Kalibr carriers, it still represents a partial victory for Ukraine. It's likely no fewer than four shooters remain. And given how long it took Ukrainian deep strike forces to *maybe *damage *Admiral Makarov* and *Admiral Essen* and that *Buyan-M*, the Black Sea Fleet may be able to continue blasting away at Ukrainian cities for many months to come.

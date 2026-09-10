@@ -1,0 +1,27 @@
+URL:         https://defence-blog.com/satellite-images-confirm-ukraines-strike-on-russian-warship/
+Кінцевий:    https://defence-blog.com/satellite-images-confirm-ukraines-strike-on-russian-warship/
+Заголовок:   Satellite images confirm Ukraine’s strike on Russian warship
+Дата публ.:  2026-09-10
+Завантажено: 2026-09-10 20:45 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 391057
+Оригінал:    raw/11-defence-blog.com-satellite-images-confirm-ukraines-strike-on-russian-w.html
+sha256:      14df6781d39ed00b12ae0d0c72148c7aa8cdb3e169b8fa80b5794b1a0ca554fd
+Витяг:       trafilatura
+
+==============================================================================
+- Ukraine's Defense Forces struck Russia's Novorossiysk naval base overnight on September 8-9, hitting the frigate Admiral Essen and starting a fire on its superstructure.
+- Ukraine's General Staff also reported hits on the frigate Admiral Makarov, the small missile ship Buyan-M and the patrol ship Vasily Bykov.
+
+Ukraine’s Defense Forces struck Russia’s naval base at Novorossiysk overnight on September 8-9, hitting the Kalibr-missile frigate Admiral Essen and starting a fire on its deck superstructure, according to Ukraine’s Defense Intelligence agency, known as HUR.
+
+HUR said operators from its Active Operations Department carried out the strike as part of a joint deep-strike operation with other branches of Ukraine’s Defense Forces, targeting both port infrastructure and the Project 11356 frigate. Ukraine’s General Staff separately said the attack also hit a second Kalibr-capable frigate, the Admiral Makarov, the Project 21631 small missile ship Buyan-M, and the Project 22160 patrol ship Vasily Bykov.
+
+Commander of Ukraine’s Unmanned Systems Forces Robert Brovdi said the operation additionally destroyed several Russian missile boats in the port, a Su-33 fighter jet and a Mi-8 helicopter near Anapa, roughly 50 kilometers (31 miles) northwest of Novorossiysk, along with two air-defense radar systems near Gelendzhik. Ukraine has not disclosed how many drones or missiles took part in the operation.
+
+Satellite imagery published by the Ukrainian OSINT monitoring group [Exilenova+](https://x.com/Exilenova_plus/status/2097996981679374720?s=20) shows fires and apparent damage at the port consistent with the reported strikes on the Admiral Essen, the Admiral Makarov and the Buyan-M. The same channel said the attack combined drones with at least one Ukrainian Neptune cruise missile, a detail that has not appeared in HUR’s or the General Staff’s own statements on the operation.
+
+Both the Admiral Essen and the Admiral Makarov have been hit before. Ukraine’s Defense Forces struck both frigates in August 2026, along with the Vasily Bykov, in an earlier raid on the same base. Novorossiysk has served as the Black Sea Fleet’s main operating base since repeated Ukrainian strikes pushed Russian warships out of Sevastopol in occupied Crimea.
+
+Russian officials in Novorossiysk said debris from intercepted drones struck a church, industrial sites and residential buildings, killing four people and injuring about 30. Moscow has not issued its own account of damage to the naval vessels named by Ukraine.
+
+The extent of damage to the Admiral Essen, the Admiral Makarov, the Buyan-M and the Vasily Bykov has not been independently confirmed, and Ukraine’s General Staff said assessments of some of the reported strikes were still being finalized.

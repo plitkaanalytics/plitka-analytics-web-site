@@ -1,0 +1,49 @@
+URL:         https://militarnyi.com/en/news/buyan-m-out-of-commission-in-novorossiysk/
+Кінцевий:    https://militarnyi.com/en/news/buyan-m-out-of-commission-in-novorossiysk/
+Заголовок:   Buyan-M Class Ship and the Frigate Admiral Essen Have Been Put Out of Commission in Novorossiysk – Photos
+Дата публ.:  2026-09-10
+Завантажено: 2026-09-10 20:45 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 240623
+Оригінал:    raw/05-militarnyi.com-buyan-m-out-of-commission-in-novorossiysk.html
+sha256:      3e3908b9351079cbf4cd5bfb614b2037001b14b6c8b2b71193d78c446eafa724
+Витяг:       trafilatura
+
+==============================================================================
+Satellite images show that the Project 21631 Buyan-M small missile ship and the frigate Admiral Essen, which carry Kalibr cruise missiles and are based in Novorossiysk, have been disabled.
+
+The OSINT project [Exilenova+](https://t.me/exilenova_plus/30668) published the images.
+
+The released images likely show the aftermath of a Neptune anti-ship missile strike on the Russian frigate, whose destruction was reported on September 9 by the [Ukrainian Navy](https://www.facebook.com/navy.mil.gov.ua/posts/pfbid0yRDtEfNfQSKpqMopXRL7mvhcyig5epcQJgDipQQjjSmS5fZmy21sckxGXcWDpkBSl?locale=uk_UA). It is currently unknown what struck the Buyan-M.
+
+The Admiral Essen is a Project 11356R frigate, while the Buyan-M is a Project 21631 small missile and artillery ship. Both ships are equipped with Kalibr cruise missiles.
+
+The ships carry 3S14 universal vertical launchers capable of carrying eight missiles. These launchers also allow for the deployment of Onyx anti-ship missiles.
+
+The General Staff of the Armed Forces of Ukraine [reported](https://t.me/GeneralStaffZSU/41861) on the attack in Novorossiysk on August 12.
+
+At that time, the [Admiral Essen](https://militarnyi.com/en/news/russia-may-have-lost-two-kalibr-missile-carriers-admiral-makarov-and-admiral-essen/), the frigate Admiral Makarov, the small missile ship Buyan-M, and the patrol ship Vasyl Bykov sustained damage of varying degrees.
+
+During the attack, the Defense Forces used strike UAVs, Palianytsia jet drones, Neptune missiles, and maritime unmanned platforms.
+
+This is not the first time that ships of the [Buyan-M class](https://militarnyi.com/uk/articles/urazhennya-buyan-m-na-azovi-skilky-yih-vzhe-poshkodyly-yak-yih-bagato-i-skilky-zastosovayut-proty-ukrayiny/#google_vignette) have been damaged.
+
+In June 2022, one of them—presumably the Veliky Ustyug—was spotted being towed along the Volga River, and in April 2024, the Serpukhov was disabled by an arson attack in Baltiysk.
+
+Ukrainian intelligence operatives [struck](https://militarnyi.com/en/news/sof-drones-destroy-buyan-m-missile-corvette/) another Buyan-M in the Sea of Azov in 2025. An unmanned aerial vehicle damaged the ship’s radar station, after which DIU special forces attacked the vessel.
+
+Novorossiysk became the main base of Russia’s Black Sea Fleet after Ukrainian strikes forced the occupiers to relocate a significant portion of their ships from the temporarily occupied Crimea.
+
+Popular
+
+                Підтримати нас можна через:
+
+Приват: **5169 3351 0164 7408**  PayPal - [[email protected]](/cdn-cgi/l/email-protection)   Стати нашим патроном за лінком ⬇
+
+Subscribe to our newsletter
+
+    or on ours [Telegram](https://t.me/milinua)
+  
+
+Thank you!!
+
+You are subscribed to our newsletter

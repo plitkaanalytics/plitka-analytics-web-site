@@ -10,7 +10,7 @@ const DATA = {
       { "id": "serpukhov",      "name": "Serpukhov",         "hull_number": "563", "commissioned": "2015-12-12", "color": "#27AE60" },
       { "id": "vyshniy_volochek","name": "Vyshniy Volochek", "hull_number": "609", "commissioned": "2018-12-18", "color": "#C8102E" },
       { "id": "orekhovo_zuevo", "name": "Orekhovo-Zuevo",   "hull_number": "626", "commissioned": "2018-12-24", "color": "#E74C3C" },
-      { "id": "ingushetia",     "name": "Ingushetia",        "hull_number": "600", "commissioned": "2019-12-20", "color": "#E67E22" },
+      { "id": "ingushetia",     "name": "Ingushetiya",        "hull_number": "600", "commissioned": "2019-12-20", "color": "#E67E22" },
       { "id": "grayvoron",      "name": "Grayvoron",         "hull_number": "622", "commissioned": "2021-01-30", "color": "#F39C12" },
       { "id": "grad",           "name": "Grad",              "hull_number": "575", "commissioned": "2022-12-29", "color": "#9B59B6" },
       { "id": "naro_fominsk",   "name": "Naro-Fominsk",     "hull_number": "577", "commissioned": "2023-12-25", "color": "#8E44AD" },
@@ -71,17 +71,17 @@ const DATA = {
 
     // ──────────────────── BLACK SEA FLEET ────────────────────
     { "id": "p_vv_01",   "ship": "vyshniy_volochek","from": "2018-12-18", "to": "2023-10-01", "location": "sevastopol", "note": "41st Missile Boat Brigade BSF, Sevastopol" },
-    { "id": "p_vv_02",   "ship": "vyshniy_volochek","from": "2023-10-01", "to": "2026-05-31", "location": "novorossiysk","note": "Novorossiysk — after BSF withdrawal from Sevastopol" },
+    { "id": "p_vv_02",   "ship": "vyshniy_volochek","from": "2023-10-01", "to": "2026-09-09", "location": "novorossiysk","note": "Novorossiysk — after BSF withdrawal from Sevastopol" },
 
     { "id": "p_oz_01",   "ship": "orekhovo_zuevo",  "from": "2018-12-24", "to": "2022-01-21", "location": "sevastopol", "note": "41st Brigade BSF, Sevastopol" },
     { "id": "p_oz_02",   "ship": "orekhovo_zuevo",  "from": "2022-01-21", "to": "2024-12-08", "location": "med_east",   "note": "Mediterranean Squadron — via Tartus; blocked by Montreux Convention" },
     { "id": "p_oz_03",   "ship": "orekhovo_zuevo",  "from": "2024-12-08", "to": "2026-05-31", "location": "kronstadt",  "note": "Baltic — after leaving Tartus (fall of Assad regime)" },
 
     { "id": "p_ing_01",  "ship": "ingushetia",       "from": "2019-12-20", "to": "2023-10-01", "location": "sevastopol", "note": "41st Brigade BSF, Sevastopol" },
-    { "id": "p_ing_02",  "ship": "ingushetia",       "from": "2023-10-01", "to": "2026-05-31", "location": "novorossiysk","note": "Novorossiysk — after BSF withdrawal from Sevastopol" },
+    { "id": "p_ing_02",  "ship": "ingushetia",       "from": "2023-10-01", "to": "2026-09-09", "location": "novorossiysk","note": "Novorossiysk — after BSF withdrawal from Sevastopol" },
 
     { "id": "p_grav_01", "ship": "grayvoron",        "from": "2021-01-30", "to": "2023-10-01", "location": "sevastopol", "note": "41st Brigade BSF, Sevastopol" },
-    { "id": "p_grav_02", "ship": "grayvoron",        "from": "2023-10-01", "to": "2026-05-31", "location": "novorossiysk","note": "Novorossiysk — combat duty rotations in Temryuk Bay" },
+    { "id": "p_grav_02", "ship": "grayvoron",        "from": "2023-10-01", "to": "2026-09-09", "location": "novorossiysk","note": "Novorossiysk — combat duty rotations in Temryuk Bay" },
 
     // ──────────────────── BALTIC FLEET ─────────────────────
     { "id": "p_zd_01",   "ship": "zeleny_dol",       "from": "2015-12-12", "to": "2016-10-28", "location": "sevastopol", "note": "Initially BSF, 41st Brigade" },
@@ -145,7 +145,7 @@ const DATA = {
       "ships": ["vyshniy_volochek", "ingushetia", "grayvoron", "veliky_ustyug"],
       "location": "black_sea",
       "title": "Full-scale invasion begins — Buyan-Ms in combat positions",
-      "description": "On 24 February 2022, three combat-ready Buyan-Ms of the BSF are based in the Black Sea: Vyshniy Volochek, Ingushetia, Grayvoron (Sevastopol). Orekhovo-Zuevo has been in the Mediterranean for three weeks. Veliky Ustyug (Caspian) — route unknown; will appear in the Black/Azov Sea during 2022. Zeleny Dol and Serpukhov — in the Baltic.",
+      "description": "On 24 February 2022, three combat-ready Buyan-Ms of the BSF are based in the Black Sea: Vyshniy Volochek, Ingushetiya, Grayvoron (Sevastopol). Orekhovo-Zuevo has been in the Mediterranean for three weeks. Veliky Ustyug (Caspian) — route unknown; will appear in the Black/Azov Sea during 2022. Zeleny Dol and Serpukhov — in the Baltic.",
       "sources": ["BlackSeaNews; Ukrainian Naval Forces"],
       "importance": 4
     },
@@ -279,7 +279,7 @@ const DATA = {
       "ships": ["grayvoron"],
       "location": "temryuk",
       "title": "Operation Prymary (GUR): drone strikes Buyan-M radar in Temryuk Bay",
-      "description": "On 28 August 2025 — a joint operation by the DAD and GUR special unit Prymary. An aerial drone struck the ship's radar; a second drone attacked the hull. GUR published video. According to GUR, the ship had deployed to the bay for a launch mission (a mass strike on Kyiv that night) — the launch did not happen and the ship left the area. The specific ship was not publicly named; probably Grayvoron or Ingushetia.",
+      "description": "On 28 August 2025 — a joint operation by the DAD and GUR special unit Prymary. An aerial drone struck the ship's radar; a second drone attacked the hull. GUR published video. According to GUR, the ship had deployed to the bay for a launch mission (a mass strike on Kyiv that night) — the launch did not happen and the ship left the area. The specific ship was not publicly named; probably Grayvoron or Ingushetiya.",
       "sources": ["GUR MoU; DAD GUR; GUR MoU video"],
       "importance": 5
     },
@@ -360,6 +360,41 @@ const DATA = {
       "title": "Calibers over the Caspian recorded on the day of the Okhmatdyt strike",
       "description": "8 July 2024 — first documented video confirmation of Calibers flying over the Caspian Sea during a strike on Ukraine. On the same day a Caliber struck the Okhmatdyt children's hospital in Kyiv. The specific carrier was not publicly attributed; Caspian carriers are the Buyan-Ms and Dagestan (Pr. 11661K). A missile that went off-course fell in Kalmykia (300 km from the Ukrainian border) the same day.",
       "sources": ["Ukrainian Naval Forces; OSINT video from Caspian; Defence Express"],
+      "importance": 4,
+      "verified": false
+    },
+    {
+      "id": "e_024",
+      "type": "context",
+      "date": "2026-08-12",
+      "ships": ["vyshniy_volochek", "ingushetia", "grayvoron"],
+      "location": "novorossiysk",
+      "title": "Novorossiysk: General Staff reports a Buyan-M hit",
+      "description": "On the night of 11–12 August 2026, Ukraine's Defence Forces carried out a combined strike on the Novorossiysk naval base. According to Ukraine's General Staff, four ships sustained damage of varying severity: the frigates Admiral Essen and Admiral Makarov, the patrol ship Vasily Bykov, and a Project 21631 Buyan-M missile corvette. The General Staff did not say which of the three Buyan-Ms based at Novorossiysk — Vyshniy Volochek, Ingushetiya or Grayvoron — was hit, and open sources do not name the ship.",
+      "sources": ["General Staff of Ukraine", "Naval News"],
+      "importance": 4
+    },
+    {
+      "id": "e_025",
+      "type": "context",
+      "date": "2026-08-20",
+      "ships": ["vyshniy_volochek", "ingushetia", "grayvoron"],
+      "location": "novorossiysk",
+      "title": "Eight Kalibrs at Kyiv — per EP, from a Buyan-M at Novorossiysk",
+      "description": "On the night of 19–20 August 2026, Russia launched a combined attack on Kyiv and the surrounding region, including eight Kalibr cruise missiles. According to Ukraine's Air Force, all eight were shot down. Euromaidan Press reports that the Kalibrs were fired by a Buyan-M at Novorossiysk — one full magazine — and that this ship had not been damaged on 12 August; citing an OSINT account, the outlet also claims one missile hit the Antonov plant. The ship has not been named, and the launch platform was not officially reported.",
+      "sources": ["Ukrainian Air Force", "Euromaidan Press"],
+      "importance": 4,
+      "verified": false
+    },
+    {
+      "id": "e_026",
+      "type": "context",
+      "date": "2026-09-09",
+      "ships": ["vyshniy_volochek", "ingushetia", "grayvoron"],
+      "location": "novorossiysk",
+      "title": "Novorossiysk: a Buyan-M hit, per OSINT",
+      "description": "After the strike on the night of 8–9 September 2026, the OSINT project Exilenova+ published satellite imagery of damaged ships, including a Buyan-M; CyberBoroshno described it as the ship that had recently fired Kalibrs at Kyiv. According to Defense Express, the stern, which houses the machinery spaces, is 'completely wrecked' — the ship is unlikely to move under its own power. No one gives its name or hull number. Ukraine's General Staff does not list a Buyan-M among the ships hit that night: its list names Zheleznyakov, Admiral Essen and Pyotr Morgunov.",
+      "sources": ["Exilenova+", "CyberBoroshno", "Defense Express", "General Staff of Ukraine"],
       "importance": 4,
       "verified": false
     }

@@ -1,0 +1,1846 @@
+<!doctype html>
+<html lang="uk" class='hg-fw-br'>
+<head><script>if(navigator.userAgent.match(/MSIE|Internet Explorer/i)||navigator.userAgent.match(/Trident\/7\..*?rv:11/i)){var href=document.location.href;if(!href.match(/[?&]nowprocket/)){if(href.indexOf("?")==-1){if(href.indexOf("#")==-1){document.location.href=href+"?nowprocket=1"}else{document.location.href=href.replace("#","?nowprocket=1#")}}else{if(href.indexOf("#")==-1){document.location.href=href+"&nowprocket=1"}else{document.location.href=href.replace("#","&nowprocket=1#")}}}}</script><script>class RocketLazyLoadScripts{constructor(e){this.triggerEvents=e,this.eventOptions={passive:!0},this.userEventListener=this.triggerListener.bind(this),this.delayedScripts={normal:[],async:[],defer:[]},this.allJQueries=[]}_addUserInteractionListener(e){this.triggerEvents.forEach((t=>window.addEventListener(t,e.userEventListener,e.eventOptions)))}_removeUserInteractionListener(e){this.triggerEvents.forEach((t=>window.removeEventListener(t,e.userEventListener,e.eventOptions)))}triggerListener(){this._removeUserInteractionListener(this),"loading"===document.readyState?document.addEventListener("DOMContentLoaded",this._loadEverythingNow.bind(this)):this._loadEverythingNow()}async _loadEverythingNow(){this._delayEventListeners(),this._delayJQueryReady(this),this._handleDocumentWrite(),this._registerAllDelayedScripts(),this._preloadAllScripts(),await this._loadScriptsFromList(this.delayedScripts.normal),await this._loadScriptsFromList(this.delayedScripts.defer),await this._loadScriptsFromList(this.delayedScripts.async),await this._triggerDOMContentLoaded(),await this._triggerWindowLoad(),window.dispatchEvent(new Event("rocket-allScriptsLoaded"))}_registerAllDelayedScripts(){document.querySelectorAll("script[type=rocketlazyloadscript]").forEach((e=>{e.hasAttribute("src")?e.hasAttribute("async")&&!1!==e.async?this.delayedScripts.async.push(e):e.hasAttribute("defer")&&!1!==e.defer||"module"===e.getAttribute("data-rocket-type")?this.delayedScripts.defer.push(e):this.delayedScripts.normal.push(e):this.delayedScripts.normal.push(e)}))}async _transformScript(e){return await this._requestAnimFrame(),new Promise((t=>{const n=document.createElement("script");let r;[...e.attributes].forEach((e=>{let t=e.nodeName;"type"!==t&&("data-rocket-type"===t&&(t="type",r=e.nodeValue),n.setAttribute(t,e.nodeValue))})),e.hasAttribute("src")?(n.addEventListener("load",t),n.addEventListener("error",t)):(n.text=e.text,t()),e.parentNode.replaceChild(n,e)}))}async _loadScriptsFromList(e){const t=e.shift();return t?(await this._transformScript(t),this._loadScriptsFromList(e)):Promise.resolve()}_preloadAllScripts(){var e=document.createDocumentFragment();[...this.delayedScripts.normal,...this.delayedScripts.defer,...this.delayedScripts.async].forEach((t=>{const n=t.getAttribute("src");if(n){const t=document.createElement("link");t.href=n,t.rel="preload",t.as="script",e.appendChild(t)}})),document.head.appendChild(e)}_delayEventListeners(){let e={};function t(t,n){!function(t){function n(n){return e[t].eventsToRewrite.indexOf(n)>=0?"rocket-"+n:n}e[t]||(e[t]={originalFunctions:{add:t.addEventListener,remove:t.removeEventListener},eventsToRewrite:[]},t.addEventListener=function(){arguments[0]=n(arguments[0]),e[t].originalFunctions.add.apply(t,arguments)},t.removeEventListener=function(){arguments[0]=n(arguments[0]),e[t].originalFunctions.remove.apply(t,arguments)})}(t),e[t].eventsToRewrite.push(n)}function n(e,t){let n=e[t];Object.defineProperty(e,t,{get:()=>n||function(){},set(r){e["rocket"+t]=n=r}})}t(document,"DOMContentLoaded"),t(window,"DOMContentLoaded"),t(window,"load"),t(window,"pageshow"),t(document,"readystatechange"),n(document,"onreadystatechange"),n(window,"onload"),n(window,"onpageshow")}_delayJQueryReady(e){let t=window.jQuery;Object.defineProperty(window,"jQuery",{get:()=>t,set(n){if(n&&n.fn&&!e.allJQueries.includes(n)){n.fn.ready=n.fn.init.prototype.ready=function(t){e.domReadyFired?t.bind(document)(n):document.addEventListener("rocket-DOMContentLoaded",(()=>t.bind(document)(n)))};const t=n.fn.on;n.fn.on=n.fn.init.prototype.on=function(){if(this[0]===window){function e(e){return e.split(" ").map((e=>"load"===e||0===e.indexOf("load.")?"rocket-jquery-load":e)).join(" ")}"string"==typeof arguments[0]||arguments[0]instanceof String?arguments[0]=e(arguments[0]):"object"==typeof arguments[0]&&Object.keys(arguments[0]).forEach((t=>{delete Object.assign(arguments[0],{[e(t)]:arguments[0][t]})[t]}))}return t.apply(this,arguments),this},e.allJQueries.push(n)}t=n}})}async _triggerDOMContentLoaded(){this.domReadyFired=!0,await this._requestAnimFrame(),document.dispatchEvent(new Event("rocket-DOMContentLoaded")),await this._requestAnimFrame(),window.dispatchEvent(new Event("rocket-DOMContentLoaded")),await this._requestAnimFrame(),document.dispatchEvent(new Event("rocket-readystatechange")),await this._requestAnimFrame(),document.rocketonreadystatechange&&document.rocketonreadystatechange()}async _triggerWindowLoad(){await this._requestAnimFrame(),window.dispatchEvent(new Event("rocket-load")),await this._requestAnimFrame(),window.rocketonload&&window.rocketonload(),await this._requestAnimFrame(),this.allJQueries.forEach((e=>e(window).trigger("rocket-jquery-load"))),window.dispatchEvent(new Event("rocket-pageshow")),await this._requestAnimFrame(),window.rocketonpageshow&&window.rocketonpageshow()}_handleDocumentWrite(){const e=new Map;document.write=document.writeln=function(t){const n=document.currentScript,r=document.createRange(),i=n.parentElement;let o=e.get(n);void 0===o&&(o=n.nextSibling,e.set(n,o));const a=document.createDocumentFragment();r.setStart(a,0),a.appendChild(r.createContextualFragment(t)),i.insertBefore(a,o)}}async _requestAnimFrame(){return new Promise((e=>requestAnimationFrame(e)))}static run(){const e=new RocketLazyLoadScripts(["keydown","mousemove","touchmove","touchstart","touchend","wheel"]);e._addUserInteractionListener(e)}}RocketLazyLoadScripts.run();
+</script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta property="fb:app_id" content="1152928305102382" />
+	   
+  <link rel='profile' href='https://gmpg.org/xfn/11'>
+	<link rel='apple-touch-icon' sizes='180x180' href='/wp-content/themes/kyivnews/favicon/apple-touch-icon.png'>
+	<link rel='icon' type='image/png' sizes='32x32' href='/wp-content/themes/kyivnews/favicon/favicon-32x32.png'>
+	<link rel='icon' type='image/png' sizes='16x16' href='/wp-content/themes/kyivnews/favicon/favicon-16x16.png'>
+		
+	<meta name="theme-color" content="#ffffff">
+	<meta name="it-rating" content="it-rat-1320b27f41502b183e5f4961dd00e5c0" />
+	
+	<link rel='preload' href='/wp-content/themes/kyivnews/fonts/ProximaNova-Bold.woff2' as='font' type='font/woff2' crossorigin>
+	<link rel='preload' href='/wp-content/themes/kyivnews/fonts/ProximaNova-Regular.woff2' as='font' type='font/woff2' crossorigin>
+
+	
+    <link rel='preload' fetchpriority='high' as='image' href='/wp-content/uploads/2026/09/photo_2026-09-10_13-21-45-1200x878.jpg'>    <script>window.addEventListener('DOMContentLoaded', function() {
+    if (typeof window.jQuery === 'undefined') {
+        // Створюємо універсальний пустий об'єкт, який повертає сам себе на будь-які виклики методів
+        var createProxy = function() {
+            var obj = function(handler) {
+                window._jqReadyQueue = window._jqReadyQueue || [];
+                if (typeof handler === 'function') {
+                    window._jqReadyQueue.push(handler);
+                }
+                return obj;
+            };
+            // Дозволяємо ланцюжкові виклики будь-яких методів (.ready, .on, .attr тощо)
+            obj.ready = function(fn) { 
+                window._jqReadyQueue = window._jqReadyQueue || [];
+                if (typeof fn === 'function') window._jqReadyQueue.push(fn); 
+                return obj; 
+            };
+            obj.on = obj.find = obj.attr = obj.addClass = obj.removeClass = obj.css = obj.html = obj.append = function() { 
+                return obj; 
+            };
+            obj.fn = obj.prototype = obj;
+            return obj;
+        };
+        
+        window.jQuery = window.$ = createProxy();
+    }
+    });</script>
+    
+	<!-- This site is optimized with the Yoast SEO plugin v14.4.1 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>У Новоросійську знищено ворожий ракетний корабель "Буян-М", який є носієм "Калібрів" та "Оніксів" - КИЇВ24</title><link rel="stylesheet" href="https://kyiv24.news/wp-content/cache/min/1/b11ea701a430c9b7af088e6e6c00ce16.css" media="all" data-minify="1" />
+	<meta name="googlebot" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<meta name="bingbot" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<link rel="canonical" href="https://kyiv24.news/news/u-novorosijsku-znyshheno-vorozhyj-raketnyj-korabel-buyan-m-yakyj-ye-nosiyem-kalibriv-ta-oniksiv" />
+	<meta property="og:locale" content="uk_UA" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="У Новоросійську знищено ворожий ракетний корабель "Буян-М", який є носієм "Калібрів" та "Оніксів" - КИЇВ24" />
+	<meta property="og:description" content="Українські військові під час удару по російському чорноморському порту Новоросійськ «разом із побратимами» уразили фрегат «Адмірал Ессен»." />
+	<meta property="og:url" content="https://kyiv24.news/news/u-novorosijsku-znyshheno-vorozhyj-raketnyj-korabel-buyan-m-yakyj-ye-nosiyem-kalibriv-ta-oniksiv" />
+	<meta property="og:site_name" content="КИЇВ24" />
+	<meta property="article:published_time" content="2026-09-10T10:40:44+00:00" />
+	<meta property="article:modified_time" content="2026-09-10T10:50:43+00:00" />
+	<meta property="og:image" content="https://kyiv24.news/wp-content/uploads/2026/09/photo_2026-09-10_13-21-45.jpg" />
+	<meta property="og:image:width" content="1280" />
+	<meta property="og:image:height" content="937" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:creator" content="@msaienko" />
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='amphtml' href='/news/u-novorosijsku-znyshheno-vorozhyj-raketnyj-korabel-buyan-m-yakyj-ye-nosiyem-kalibriv-ta-oniksiv/amp' /><meta name="generator" content="AMP for WP 1.0.96"/>
+<link rel='alternate' type='application/rss+xml' title='КИЇВ24 » стрічка' href='/feed' />
+<link rel='alternate' type='application/rss+xml' title='КИЇВ24 » Канал коментарів' href='/comments/feed' />
+<style id='rocket-lazyload-inline-css' type='text/css'>
+.rll-youtube-player{position:relative;padding-bottom:56.23%;height:0;overflow:hidden;max-width:100%;}.rll-youtube-player iframe{position:absolute;top:0;left:0;width:100%;height:100%;z-index:100;background:0 0}.rll-youtube-player img{bottom:0;display:block;left:0;margin:auto;max-width:100%;width:100%;position:absolute;right:0;top:0;border:none;height:auto;cursor:pointer;-webkit-transition:.4s all;-moz-transition:.4s all;transition:.4s all}.rll-youtube-player img:hover{-webkit-filter:brightness(75%)}.rll-youtube-player .play{height:72px;width:72px;left:50%;top:50%;margin-left:-36px;margin-top:-36px;position:absolute;background:url(https://kyiv24.news/wp-content/plugins/wp-rocket/assets/img/youtube.png) no-repeat;cursor:pointer}
+</style>
+<link rel='https://api.w.org/' href='/wp-json/' />
+<link rel='EditURI' type='application/rsd+xml' title='RSD' href='/xmlrpc.php?rsd' />
+<link rel='wlwmanifest' type='application/wlwmanifest+xml' href='/wp-includes/wlwmanifest.xml' /> 
+<meta name="generator" content="WordPress 5.4.2" />
+<link rel='shortlink' href='/?p=536834' />
+<meta name="robots" content="index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large">
+<script type="rocketlazyloadscript">document.addEventListener('DOMContentLoaded', () => {
+   const newsContainer = document.querySelector('.post-content');
+
+  if (newsContainer) {
+       const links = newsContainer.querySelectorAll('a');
+    
+    links.forEach(link => {
+      link.setAttribute('target', '_blank');
+      link.setAttribute('rel', 'noopener noreferrer');
+    });
+  }
+});</script><style class="wpcode-css-snippet">/* Універсальний динамічний відступ для всіх пристроїв */
+.site.main-wrapper .content-main-wrapper,
+.site.main-wrapper .container-main.columns {
+    /* calc(70px + 2vh) означає: базова висота шапки + відсоток від висоти поточного екрана */
+    margin-top: calc(35px + 2vh) !important; 
+}
+
+/* Автоматичне коригування для адмінів на будь-якому екрані */
+body.logged-in .site.main-wrapper .content-main-wrapper,
+body.logged-in .site.main-wrapper .container-main.columns {
+    /* До базового відступу додається динамічна висота адмін-бару */
+    margin-top: calc(35px + 2vh) !important;
+}
+
+/* ==========================================
+   ІНШІ СТИЛІ (Дати та кнопка)
+   ========================================== */
+time.post-time,
+span.date,
+span.wpp-date {
+    color: #222222 !important;  
+    font-weight: 500 !important;  
+    font-size: 12px !important;  
+    display: inline-block !important;
+    opacity: 1 !important;                 
+}
+
+#hg_load_more {
+    font-weight: 700 !important;  
+    font-size: 19px !important;
+}</style><link rel='icon' href='/wp-content/uploads/2023/07/kyiv24-favicon.jpg' sizes='32x32' />
+<link rel='icon' href='/wp-content/uploads/2023/07/kyiv24-favicon.jpg' sizes='192x192' />
+<link rel='apple-touch-icon' href='/wp-content/uploads/2023/07/kyiv24-favicon.jpg' />
+<meta name="msapplication-TileImage" content="https://kyiv24.news/wp-content/uploads/2023/07/kyiv24-favicon.jpg" />
+		<style type="text/css" id="wp-custom-css">
+			/* ==========================================================================
+   1. ШРИФТИ ТА СТАБІЛЬНИЙ SWAP
+   ========================================================================== */
+@font-face {
+    font-family: 'ProximaNova';
+    src: url('/wp-content/themes/kyivnews/fonts/ProximaNova-Bold.woff2') format('woff2'),
+         url('/wp-content/themes/kyivnews/fonts/ProximaNova-Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap !important;
+}
+
+@font-face {
+    font-family: 'ProximaNova';
+    src: url('/wp-content/themes/kyivnews/fonts/ProximaNova-Regular.woff2') format('woff2'),
+         url('/wp-content/themes/kyivnews/fonts/ProximaNova-Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap !important;
+}
+
+body, h1, h2, h3, h4, h5, h6, p, span, a {
+    font-display: swap !important;
+}
+
+/* ==========================================================================
+   2. СПЕЦИФІЧНІ НАЛАШТУВАННЯ ЕЛЕМЕНТІВ (ВИПРАВЛЕНО)
+   ========================================================================== */
+.hg_p_clm .inline-publication-time {
+    display: table-footer-group;
+}
+
+body .specials-slider .glide__slide>a img {
+    width: 100%;
+    height: 100%;
+    -o-object-fit: contain;
+    object-fit: contain;
+}
+
+body .widget_leftadvbanner img {
+    width: 100%;
+    height: auto;
+}
+
+/* ==========================================================================
+   3. КНОПКИ ЗАКРИТТЯ ТА РЕКЛАМНІ БЛОКИ
+   ========================================================================== */
+#close-v-ads,
+#close-f-ads {
+    position: absolute;
+    top: -2em;
+    right: 0;
+    width: 2em;
+    height: 2em;
+    background: #f0f0f0;
+    display: block;
+    cursor: pointer;
+}
+
+.v-ads #close-v-ads {
+    top: 0;
+}
+
+#close-v-ads> figure:last-child,
+#close-f-ads > figure:last-child {
+    -webkit-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+
+#close-v-ads> figure,
+#close-f-ads > figure {
+    width: 50%;
+    border-bottom: 1px solid #000;
+    top: 50%;
+    display: block;
+    margin: 0 auto;
+    position: absolute;
+    left: 0;
+    right: 0;
+    -webkit-transform: rotate(-45deg);
+    -o-transform: rotate(-45deg);
+    -moz-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+}
+
+#footer_fix_ads img {
+    width: 100%;
+    height: auto;
+}
+
+#footer_fix_ads .hg-adv-item {
+    padding: 1em;
+}
+
+#footer_fix_ads .hg-adv-item a.ads-des {
+    bottom: auto;
+    top: 0;
+    right: 1em;
+    left: auto;
+}
+
+#footer_fix_ads .hg-adv-item .ads-des {
+    top: 0;
+}
+
+#footer_fix_ads .hg-adv-item > div {
+    width: 100%;
+    text-align: center;
+}
+
+#footer_fix_ads {
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    z-index: 222;
+}
+
+.hg-adv-item {
+    background-color: #f0f0f0;
+    display: table;
+    width: 100%;
+    position: relative;
+    padding: 2em 1em;
+}
+
+.hg-adv-item > div {
+    width: auto;
+    position: relative;
+    margin: 0 auto;
+    display: table;
+}
+
+.hg-adv-item a.ads-des {
+    top: auto;
+    bottom: 1em;
+}
+
+.hg-adv-item .ads-des {
+    position: absolute;
+    top: 1em;
+    left: 1em;
+    text-transform: uppercase;
+    font-size: .5em;
+    line-height: normal;
+    opacity: .5;
+}
+
+.v-ads {
+    margin-top: 2em;
+}
+
+.ads_video {
+    position: relative;
+    display: table;
+    width: 100%;
+    height: auto;
+}
+
+/* ==========================================================================
+   4. ДЕСКТОПНА СІТКА БРЕНДУВАННЯ (МІНІМУМ 1025px)
+   ========================================================================== */
+@media (min-width: 1025px) {
+    html.hg-fw-br {
+        margin-top: 0 !important;
+    }
+
+    .hg-fw-br .container-main,
+    .hg-fw-br footer {
+        position: relative;
+        z-index: 2;
+    }
+
+    #br_hg_all {
+        position: fixed;
+        top: 0;
+        left: 0;
+        z-index: 1;
+        background-color: transparent;
+        width: 100vw;
+        height: 100vh;
+    }
+
+    #br_hg_all .hg-bg-cov {
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: top center;
+    }
+
+    #br_hg_all .hg-bg-cov,
+    #br_hg_all a {
+        display: table;
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
+
+    .hg-fw-br header,
+    .hg-fw-br body {
+        background: transparent;
+    }
+
+    .hg-fw-br #page {
+        margin-top: 100px;
+    }
+
+    .hg-fw-br .site-header {
+        position: absolute;
+        top: 100px;
+    }
+
+    .hg-fw-br .content-main-wrapper {
+        padding-top: 0;
+    }
+
+    .hg-fw-br footer .container-main {
+        background: transparent;
+        margin-top: 0;
+    }
+
+    .hg-fw-br footer {
+        margin-top: 0;
+    }
+
+    .hg-fw-br .dropdown-menu .container-main {
+        background: #1a1b2b;
+    }
+
+    .hg-fw-br .container-main {
+        padding: 0 2vw;
+        width: 74vw;
+        margin: 0 auto;
+        background-color: #fff;
+    }
+
+    .hg-fw-br #content .container-main {
+        padding-top: 1.82291667vw;
+        padding-bottom: 1.82291667vw;
+    }
+}
+
+@media only screen and (min-width:1px) and (max-width: 1000px) {
+    .hg-adv-item.v-ads iframe {
+        width: 100% !important;
+        height: auto;
+    }
+}
+
+/* ==========================================================================
+   5. МОБІЛЬНІ НАЛАШТУВАННЯ ТА ПРИМУСОВЕ ПРИХОВУВАННЯ ЛІНІЙ
+   ========================================================================== */
+@media (max-width: 600px) {
+    .header-socials { display: none !important; }
+}
+
+@media (max-width: 1023px) {
+    .google-news, .google-news-new, .platforms-block, 
+    .external-socials, .post-socials.share-block,
+    .widget_text .google-news, .single-post .right-bar-area .google-news {
+        display: none !important;
+    }
+    #page { margin-top: 0 !important; }
+    .site-header { position: fixed !important; top: 0 !important; width: 100% !important; }
+    .container-main { width: 100% !important; max-width: 100% !important; padding: 0 15px !important; }
+}
+
+/* ТОТАЛЬНЕ ЗАКРИТТЯ СІРИХ ЛІНІЙ МІЖ НОВИНАМИ */
+.feed-news + .feed-news, 
+article + article, 
+.widget_feed_news .feed-news {
+    border-top: none !important;
+    border-bottom: none !important;
+    box-shadow: none !important;
+}
+/* колір дати на головній новині */
+div.news-section:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(3) > span:nth-child(1) {
+    color: #ffffff !important;
+}		</style>
+		<noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript>
+    
+        <link rel='alternate' hreflang='uk' href="https://kyiv24.news/news/u-novorosijsku-znyshheno-vorozhyj-raketnyj-korabel-buyan-m-yakyj-ye-nosiyem-kalibriv-ta-oniksiv" />
+    <link rel='alternate' hreflang='x-default' href="https://kyiv24.news/news/u-novorosijsku-znyshheno-vorozhyj-raketnyj-korabel-buyan-m-yakyj-ye-nosiyem-kalibriv-ta-oniksiv" />
+
+   
+        
+    </head>
+
+<body class="post-template-default single single-post postid-536834 single-format-standard hg_p_clm">
+
+<div id="page" class="site main-wrapper">
+    <div class="content-main-wrapper">
+        <header id="masthead" class="site-header">
+            <div class="container-main">
+                <div class="main-menu">
+                    <a href="/" class="logo" aria-label="Головна сторінка КИЇВ24">
+                        <svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="23.76 9.28 2462.38 1059.17">
+							<path d="m355.9,591.68h-97.22l-160.81-173.95v173.95H23.76V219.08h74.1v173.95l146.62-173.95h93.54l-158.71,181.31,176.58,191.29Z"/>
+							<path d="m689.08,216.98h38.89v374.7h-74.1v-235.44l-220.73,237.54h-39.41V219.08h74.1v235.96l221.25-238.07Z"/>
+							<path d="m783.15,183.35c-12.27,0-22.68-4.29-31.27-12.88-8.58-8.58-12.88-19-12.88-31.27s4.29-22.68,12.88-31.27c8.59-8.58,19-12.87,31.27-12.87s22.07,4.29,30.48,12.87c8.41,8.59,12.61,19.01,12.61,31.27s-4.2,22.69-12.61,31.27c-8.41,8.59-18.57,12.88-30.48,12.88Zm19.45,408.33V219.08h76.2v372.6h-76.2Zm98.27-408.33c-12.27,0-22.69-4.29-31.27-12.88-8.59-8.58-12.88-19-12.88-31.27s4.29-22.68,12.88-31.27c8.58-8.58,19-12.87,31.27-12.87s22.07,4.29,30.48,12.87c8.41,8.59,12.61,19.01,12.61,31.27s-4.2,22.69-12.61,31.27c-8.41,8.59-18.57,12.88-30.48,12.88Z"/>
+							<path d="m1192.54,391.98c24.17,5.26,43.44,15.69,57.81,31.27,14.36,15.6,21.55,35.3,21.55,59.12,0,72.88-46.6,109.31-139.79,109.31h-178.15V219.08h167.12c39.94,0,70.33,7.89,91.18,23.65,20.84,15.76,31.27,38.36,31.27,67.79,0,41.7-17,68.85-50.98,81.46Zm-164.49-108.78v90.92h85.66c38.54,0,57.81-15.77,57.81-47.3,0-14.36-4.73-25.22-14.19-32.58-9.46-7.36-22.78-11.04-39.94-11.04h-89.34Zm104.58,243.85c41.69,0,62.54-15.77,62.54-47.3s-23.3-46.25-69.89-46.25h-97.22v93.55h104.58Z"/>
+							<path d="m1364.9,523.89h206.53v67.79h-286.41v-23.12c1.4-29.78,10.42-54.74,27.07-74.89,16.63-20.14,44.93-43,84.87-68.59,35.38-22.07,59.91-39.59,73.57-52.55,13.66-12.96,20.49-28.38,20.49-46.25,0-15.41-5.96-27.33-17.87-35.73-11.92-8.41-26.99-12.61-45.2-12.61-22.78,0-40.73,5.96-53.87,17.87-13.14,11.91-19.71,28.03-19.71,48.35v10.51h-69.9v-14.72c0-39.59,12.78-70.77,38.36-93.54,25.57-22.77,60.96-34.16,106.16-34.16,40.99,0,74.63,9.38,100.9,28.12,26.28,18.74,39.42,45.29,39.42,79.62,0,14.02-1.93,26.81-5.78,38.36-3.86,11.56-8.59,21.73-14.19,30.48-5.61,8.76-14.11,17.79-25.49,27.07-11.39,9.28-22.07,17.26-32.06,23.91-9.98,6.66-23.74,15.24-41.25,25.75-4.2,2.46-10.86,6.3-19.97,11.56-9.12,5.26-15.42,8.94-18.92,11.04-3.51,2.1-8.33,5.08-14.45,8.94-6.13,3.86-10.69,7.01-13.66,9.46-2.98,2.46-6.22,5.18-9.72,8.15-3.51,2.98-6.49,6.04-8.93,9.19Z"/>
+							<path d="m1858.98,462.4h58.33v63.59h-58.33v65.69h-73.05v-65.69h-199.18v-38.89l219.15-269.6h53.08v244.9Zm-180.26,3.68h112.99v-138.74l-112.99,138.74Z"/>
+							<path d="m1284.5,776.5v-131.07h31.93v12.01c12.16-9.92,26.17-14.88,42.01-14.88,16.8,0,29.32,4.28,37.57,12.84,8.24,8.56,12.36,22.85,12.36,42.85v78.26h-32.89v-70.1c0-12.48-2.36-21.28-7.09-26.41-4.72-5.12-11.56-7.68-20.52-7.68-11.36,0-21.45,4.56-30.25,13.68v90.5h-33.13Z"/>
+							<path d="m1583.33,710.96c0,4.8-.09,8.08-.24,9.84h-101.78c1.76,9.76,5.96,17.28,12.61,22.57,6.64,5.28,15.32,7.92,26.04,7.92,16.32,0,28.96-5.6,37.93-16.81l20.89,17.76c-12.96,17.93-33.37,26.89-61.21,26.89-21.77,0-38.85-6.16-51.26-18.48-12.4-12.32-18.61-29.05-18.61-50.17s6.32-37.25,18.97-49.81c12.64-12.56,29.04-18.85,49.21-18.85,21.93,0,38.65,6.29,50.17,18.85,11.53,12.57,17.29,29.33,17.29,50.29Zm-67.46-41.53c-23.52,0-35.28,7.84-35.28,23.52h70.56c0-15.68-11.76-23.52-35.28-23.52Z"/>
+							<path d="m1770.21,645.43h33.85l-45.85,131.79h-18.48l-33.61-79.22-32.89,79.22h-18.48l-45.85-131.79h34.57l23.52,77.06,30.97-77.54h16.81l31.45,78.02,24-77.54Z"/>
+							<path d="m1869.48,779.86c-20.65,0-39.13-3.84-55.45-11.52l10.56-26.17c12.96,7.85,27.61,11.77,43.93,11.77,15.21,0,22.81-4.64,22.81-13.92,0-3.84-2-6.8-6.01-8.88-4-2.08-11.68-4.4-23.04-6.96-15.84-3.52-27.57-8.32-35.17-14.4-7.6-6.08-11.4-14.96-11.4-26.65,0-13.12,4.67-23.13,14.04-30.01,9.36-6.88,22.13-10.32,38.29-10.32s33.77,3.44,51.37,10.32l-10.8,26.41c-12.64-6.72-26.25-10.08-40.81-10.08-12.8,0-19.2,3.76-19.2,11.28,0,4,1.88,7.04,5.64,9.12,3.76,2.08,11.32,4.48,22.69,7.2,16.48,4,28.6,8.92,36.37,14.76,7.76,5.85,11.64,14.21,11.64,25.09,0,28.65-18.48,42.97-55.45,42.97Z"/>
+							<path d="m1957.35,595.19c-12.74,0-23.54-4.36-32.39-13.08-8.86-8.72-13.29-19.31-13.29-31.77s4.43-22.7,13.29-31.56c8.86-8.86,19.65-13.29,32.39-13.29s23.12,4.43,31.98,13.29c8.86,8.86,13.29,19.38,13.29,31.56s-4.43,23.05-13.29,31.77c-8.86,8.72-19.52,13.08-31.98,13.08Z"/>
+							<path d="m1604.12,252.05c19.05-22.13,42.48-45.57,71.23-67.64,28.76-22,74.49-48.7,101.65-59.29,27.15-10.58,43.33-15.62,61.91-21.09,18.58-5.47,44.34-9.36,68.13-12.7s66.72-2.7,72.93-2.32c24.88,1.08,50.13,4.5,75.45,9.81,50.66,10.54,101.28,30.71,148.1,59.88,46.82,29.13,89.75,67.52,124.79,113.33,35.13,45.73,62.05,98.98,78.22,155.89,16.22,56.87,21.51,117.48,15.67,177.02-5.82,59.52-23.1,117.92-50.53,170.67-27.35,52.81-64.52,99.96-108.03,138.48-43.49,38.6-93.25,68.5-145.16,88.83-26,10.08-52.55,17.66-79.1,23.05-26.55,5.33-66.02,10.97-118.26,9.48-52.24-1.49-104.42-15.86-110.2-17.41-46.21-12.68-88.13-31.29-124.39-53.2-36.26-21.94-67.26-46.59-92.7-71.6-25.53-24.97-45.72-49.98-62.23-72.42,13.9,23.91,31.77,50.84,55.54,78.21,23.68,27.4,53.51,54.88,89.42,79.99,35.86,25.14,78.35,47.16,126.15,63.2,6,1.96,56.36,20.4,115.53,24.49,59.17,4.08,98.06.28,126.91-4.13,28.84-4.52,57.93-11.4,86.58-21.2,57.26-19.63,112.98-50.07,162.4-90.71,49.43-40.55,92.49-91.23,124.95-149.09,32.53-57.79,54.12-122.77,62.68-189.71,8.58-66.89,4.58-135.66-12.23-201.13-16.73-65.45-46.12-127.3-85.26-180.88-39.09-53.65-87.66-99.09-141.31-133.99-53.65-34.92-112.25-59.61-171.27-72.97-29.49-6.74-58.99-11.13-88.06-12.92-7.26-.48-58.47-1.87-85.38,1.44-26.9,3.31-50.88,6.67-80.29,13.88-29.42,7.2-67.56,21.43-73.22,24.04-46.04,19.13-86.37,43.11-120.4,68.82-34.01,25.82-61.73,53.28-84.11,79.32l63.91,54.59Z"/>
+						</svg>
+                    </a>
+
+                    <nav class="main-navigation">
+					    <ul id="primary-menu" class="menu"><li id="menu-item-666" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-666"><a href='/news'>Новини</a></li>
+<li id="menu-item-140" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-140"><a href='https://tv.kyiv24.news/'>Київ ТБ</a></li>
+<li id="menu-item-139" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-139"><a href='https://radio.kyiv24.news/'>Київ FM</a></li>
+</ul>                    </nav>
+                    <div class="menu-controllers">
+                        <div class="header-socials">
+						                                        <a rel='nofollow' target='_blank' href='https://t.me/kyivtv' class='social-link icon'>
+                                        <img src="https://kyiv24.news/wp-content/uploads/2020/04/telegram-dark.svg" alt="social icon"></a>
+							                                        <a rel='nofollow' target='_blank' href='https://twitter.com/kyiv_tv' class='social-link icon'>
+                                        <img src="https://kyiv24.news/wp-content/uploads/2023/11/x_logo_2023-black.svg" alt="social icon"></a>
+							                                        <a rel='nofollow' target='_blank' href='https://www.facebook.com/kyiv24tv' class='social-link icon'>
+                                        <img src="https://kyiv24.news/wp-content/uploads/2020/04/facebook-dark.svg" alt="social icon"></a>
+							                                        <a rel='nofollow' target='_blank' href='https://www.youtube.com/@kyivchannel' class='social-link icon'>
+                                        <img src="https://kyiv24.news/wp-content/uploads/2020/04/youtube-dark.svg" alt="social icon"></a>
+							                                        <a rel='nofollow' target='_blank' href='https://www.instagram.com/kyiv24_tv/' class='social-link icon'>
+                                        <img src="https://kyiv24.news/wp-content/uploads/2020/04/insta-dark.svg" alt="social icon"></a>
+							                                        <a rel='nofollow' target='_blank' href='https://www.threads.net/@kyiv24_tv' class='social-link icon'>
+                                        <img src="https://kyiv24.news/wp-content/uploads/2023/11/threads.svg" alt="social icon"></a>
+							                                        <a rel='nofollow' target='_blank' href='https://www.tiktok.com/@kyiv24?_r=1' class='social-link icon'>
+                                        <img src="https://kyiv24.news/wp-content/uploads/2023/11/tiktok-logo-black.svg" alt="social icon"></a>
+							                            </div>
+                        <div class="search">
+                            <div class="search-form-wrap">
+                                <form role="search" method="get" class="search-form" action="https://kyiv24.news/">
+				<label>
+					<input type="search" class="search-field" placeholder="Пошук …" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Шукати" />
+			</form>                            </div>
+                            <div class="icon">
+                                <svg>
+                                    <use xlink:href="#search"></use>
+                                </svg>
+                            </div>
+                        </div>
+                        
+                        
+                                               
+                        <div class="burger icon">
+                            <svg>
+                                <use xlink:href="#burger"></use>
+                            </svg>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header><!-- #masthead -->
+
+	<div id="br_hg_all">
+				<a href="" >
+			<div class="hg-bg-cov st-ll-bg" data-p-img="" data-b-img=""></div>
+
+		</a>
+							<style>
+					body #br_hg_all .hg-bg-cov{
+						background-position: top left ;
+					} 
+				</style>
+									</div>
+
+<div class="dropdown-menu">
+    <div class="container-main">
+        <div class="dropdown-menu-header">
+            <div class="dropdown-menu-socials">
+                <a rel='nofollow' target='_blank' href='/feed/ukrnet' class='social-link icon'>
+                    <span>RSS</span>
+                    <span class="icon"><svg><use xlink:href="#rss"></use></svg></span></a>
+				                        <a rel='nofollow' target='_blank' href='https://t.me/kyivtv' class='social-link'>
+                            <span>Telegram</span>
+                            <img src="https://kyiv24.news/wp-content/uploads/2020/04/telegram.svg" alt="social-icon"></a>
+					                        <a rel='nofollow' target='_blank' href='https://twitter.com/kyiv_tv' class='social-link'>
+                            <span>X (Twitter)</span>
+                            <img src="https://kyiv24.news/wp-content/uploads/2023/11/x_logo_2023.svg" alt="social-icon"></a>
+					                        <a rel='nofollow' target='_blank' href='https://www.facebook.com/kyiv24tv' class='social-link'>
+                            <span>Facebook</span>
+                            <img src="https://kyiv24.news/wp-content/uploads/2020/04/facebook-light.svg" alt="social-icon"></a>
+					                        <a rel='nofollow' target='_blank' href='https://www.youtube.com/@kyivchannel' class='social-link'>
+                            <span>Youtube</span>
+                            <img src="https://kyiv24.news/wp-content/uploads/2020/04/youtube-light.svg" alt="social-icon"></a>
+					                        <a rel='nofollow' target='_blank' href='https://www.instagram.com/kyiv24_tv/' class='social-link'>
+                            <span>Instagram</span>
+                            <img src="https://kyiv24.news/wp-content/uploads/2020/04/insta-light.svg" alt="social-icon"></a>
+					                        <a rel='nofollow' target='_blank' href='https://www.threads.net/@kyiv24_tv' class='social-link'>
+                            <span>Threads</span>
+                            <img src="https://kyiv24.news/wp-content/uploads/2023/11/threads-white.svg" alt="social-icon"></a>
+					                        <a rel='nofollow' target='_blank' href='https://www.tiktok.com/@kyiv24?_r=1' class='social-link'>
+                            <span>TikTok</span>
+                            <img src="https://kyiv24.news/wp-content/uploads/2023/11/tiktok-logo-white.svg" alt="social-icon"></a>
+					            </div>
+            <div class="dropdown-menu-actions">
+                <div class="search">
+                    <div class="search-form-wrap">
+						<form role="search" method="get" class="search-form" action="https://kyiv24.news/">
+				<label>
+					<input type="search" class="search-field" placeholder="Пошук …" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Шукати" />
+			</form>                    </div>
+                    <div class="icon">
+                        <svg>
+                            <use xlink:href="#search"></use>
+                        </svg>
+                    </div>
+                </div>
+                <div class="close icon">
+                    <svg>
+                        <use xlink:href="#close"></use>
+                    </svg>
+                </div>
+            </div>
+        </div>
+
+        <div class="dropdown-menu-content">
+
+            <div class="menu-block vertical-menu big-links">
+				                    <!-- <p class="menu-name"></p> -->
+				<ul id="menu-bolshoe-menyu-1-kolonka" class="menu"><li id="menu-item-251413" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-251413"><a href='/news'>Новини</a></li>
+<li id="menu-item-251412" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-251412"><a href='/'>Головна</a></li>
+<li id="menu-item-251415" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-251415"><a href='/audio-player'>Аудио плеер</a></li>
+<li id="menu-item-251422" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-251422"><a href='/reklama'>Реклама на сайті</a></li>
+<li id="menu-item-251418" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-251418"><a href='/about'>Про нас</a></li>
+<li id="menu-item-251421" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-251421"><a href='/redakcziya'>Редакція</a></li>
+<li id="menu-item-251420" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-251420"><a href='/redakczijna-polityka'>Редакційна політика</a></li>
+<li id="menu-item-251417" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-251417"><a href='/socials'>Ми у соцмережах</a></li>
+<li id="menu-item-251416" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-251416"><a href='/kalendar-novyn'>Календар новин</a></li>
+<li id="menu-item-251414" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-251414"><a href='/privacy-policy'>Політика конфіденційності</a></li>
+</ul>            </div>
+
+            <div class="platforms-block menu-block big-links vertical-menu">
+                <p class="menu-name">Перейти на:</p>
+                <ul>
+					                        <li>
+                            <a href='//tv.kyiv24.news'>
+								Телеканал Київ</a>
+                            <div class="external-socials">
+								                                        <a href='https://www.facebook.com/kyiv24tv' class='social-link icon'>
+                                            <span>Facebok</span>
+                                            <img src="https://kyiv24.news/wp-content/uploads/sites/3/2020/05/facebook-light.svg"
+                                                 alt="social-icon"></a>
+									                                        <a href='https://www.instagram.com/kyiv24_tv/' class='social-link icon'>
+                                            <span>Instagram</span>
+                                            <img src="https://kyiv24.news/wp-content/uploads/sites/3/2020/05/insta-light.svg"
+                                                 alt="social-icon"></a>
+									                                        <a href='https://t.me/kyivtv' class='social-link icon'>
+                                            <span>Telegram</span>
+                                            <img src="https://kyiv24.news/wp-content/uploads/sites/3/2020/05/telegram-light.svg"
+                                                 alt="social-icon"></a>
+									                                        <a href='https://twitter.com/kyiv_tv' class='social-link icon'>
+                                            <span>Twitter</span>
+                                            <img src="https://kyiv24.news/wp-content/uploads/sites/3/2020/05/twitter-light.svg"
+                                                 alt="social-icon"></a>
+									                                        <a href='https://www.youtube.com/kievchannel' class='social-link icon'>
+                                            <span>Youtube</span>
+                                            <img src="https://kyiv24.news/wp-content/uploads/sites/3/2020/05/youtube-light.svg"
+                                                 alt="social-icon"></a>
+									                            </div>
+                        </li>
+					                        <li>
+                            <a href='//life.kyiv24.news'>
+								КИЇВ24 Life</a>
+                            <div class="external-socials">
+								                                        <a href='https://t.me/kyivtv' class='social-link icon'>
+                                            <span>Telegram</span>
+                                            <img src="https://kyiv24.news/wp-content/uploads/sites/4/2022/05/telegram.svg"
+                                                 alt="social-icon"></a>
+									                                        <a href='https://twitter.com/kyiv_tv' class='social-link icon'>
+                                            <span>Twitter</span>
+                                            <img src="https://kyiv24.news/wp-content/uploads/sites/4/2022/05/twitter.svg"
+                                                 alt="social-icon"></a>
+									                                        <a href='https://www.facebook.com/kyivtv/' class='social-link icon'>
+                                            <span>Facebook</span>
+                                            <img src="https://kyiv24.news/wp-content/uploads/sites/4/2022/05/facebook-light.svg"
+                                                 alt="social-icon"></a>
+									                                        <a href='https://www.youtube.com/kievchannel' class='social-link icon'>
+                                            <span>Youtube</span>
+                                            <img src="https://kyiv24.news/wp-content/uploads/sites/4/2022/05/youtube-light.svg"
+                                                 alt="social-icon"></a>
+									                                        <a href='https://www.instagram.com/kyiv_tv/' class='social-link icon'>
+                                            <span>Instagram</span>
+                                            <img src="https://kyiv24.news/wp-content/uploads/sites/4/2022/05/insta-light.svg"
+                                                 alt="social-icon"></a>
+									                            </div>
+                        </li>
+					                        <li>
+                            <a href='//en.kyiv24.news'>
+								Kyiv News</a>
+                            <div class="external-socials">
+								                                        <a href='https://t.me/kyivtv' class='social-link icon'>
+                                            <span>Telegram</span>
+                                            <img src="https://kyiv24.news/wp-content/uploads/sites/6/2022/05/telegram.svg"
+                                                 alt="social-icon"></a>
+									                                        <a href='https://twitter.com/kyiv_tv' class='social-link icon'>
+                                            <span>Twitter</span>
+                                            <img src="https://kyiv24.news/wp-content/uploads/sites/6/2022/05/twitter.svg"
+                                                 alt="social-icon"></a>
+									                                        <a href='https://www.facebook.com/kyivtv/' class='social-link icon'>
+                                            <span>Facebook</span>
+                                            <img src="https://kyiv24.news/wp-content/uploads/sites/6/2022/05/facebook-light.svg"
+                                                 alt="social-icon"></a>
+									                                        <a href='https://www.youtube.com/kievchannel' class='social-link icon'>
+                                            <span>Youtube</span>
+                                            <img src="https://kyiv24.news/wp-content/uploads/sites/6/2022/05/youtube-light.svg"
+                                                 alt="social-icon"></a>
+									                                        <a href='https://www.instagram.com/kyiv_tv/' class='social-link icon'>
+                                            <span>Instagram</span>
+                                            <img src="https://kyiv24.news/wp-content/uploads/sites/6/2022/05/insta-light.svg"
+                                                 alt="social-icon"></a>
+									                            </div>
+                        </li>
+					                        <li>
+                            <a href='//radio.kyiv24.news'>
+								Київ FM</a>
+                            <div class="external-socials">
+								                                        <a href='https://www.facebook.com/kyivfm' class='social-link icon'>
+                                            <span>Facebook</span>
+                                            <img src="https://kyiv24.news/wp-content/uploads/sites/2/2020/05/facebook-light.svg"
+                                                 alt="social-icon"></a>
+									                                        <a href='https://www.youtube.com/user/radiokiev98fm' class='social-link icon'>
+                                            <span>Youtube</span>
+                                            <img src="https://kyiv24.news/wp-content/uploads/sites/2/2020/05/youtube-light.svg"
+                                                 alt="social-icon"></a>
+									                                        <a href='https://www.instagram.com/kyiv_fm/' class='social-link icon'>
+                                            <span>Instagram</span>
+                                            <img src="https://kyiv24.news/wp-content/uploads/sites/2/2020/05/insta-light.svg"
+                                                 alt="social-icon"></a>
+									                                        <a href='https://tunein.com/radio/Radio-Kyiv-FM-980-s81360/?fbclid=IwAR3OYXYoxhtU8ZZjmwxQjY_CDT8BusMnYQWF6tAbnN9jtvlD-BhONlhz6jM' class='social-link icon'>
+                                            <span>TuneIn</span>
+                                            <img src="https://kyiv24.news/wp-content/uploads/sites/2/2020/07/tunein-white.svg"
+                                                 alt="social-icon"></a>
+									                            </div>
+                        </li>
+					                </ul>
+            </div>
+
+            <div class="menu-block tags-menu">
+				                    <p class="menu-name">Теги</p>
+				<ul id="menu-tegy" class="menu"><li id="menu-item-273370" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-273370"><a href='/tag/vijna'>Війна</a></li>
+<li id="menu-item-273374" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-273374"><a href='/tag/metropolitan'>Столичне</a></li>
+<li id="menu-item-1714" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-1714"><a href='/tag/polityka'>Політика</a></li>
+<li id="menu-item-273371" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-273371"><a href='/tag/helpukraine'>Допомога Україні</a></li>
+<li id="menu-item-1707" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-1707"><a href='/tag/suspilstvo'>Суспільство</a></li>
+<li id="menu-item-1713" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-1713"><a href='/tag/biznes'>Економіка</a></li>
+<li id="menu-item-251449" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-251449"><a href='/tag/osvita'>Освіта</a></li>
+<li id="menu-item-1710" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-1710"><a href='/tag/kultura'>Культура</a></li>
+<li id="menu-item-1708" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-1708"><a href='/tag/transport'>Транспорт</a></li>
+<li id="menu-item-1712" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-1712"><a href='/tag/sport'>Спорт</a></li>
+<li id="menu-item-469" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-469"><a href='/tag/mediczina'>Здоров’я</a></li>
+<li id="menu-item-273372" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-273372"><a href='/tag/weather'>Погода</a></li>
+<li id="menu-item-273373" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-273373"><a href='/tag/svit'>Світ</a></li>
+<li id="menu-item-251452" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-251452"><a href='/tag/kyyiv-fm'>Київ FM</a></li>
+<li id="menu-item-251453" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-251453"><a href='/tag/kyyiv-tb'>Київ ТБ</a></li>
+</ul>            </div>
+        </div>
+
+        <div class="dropdown-menu-footer">
+            <div class="other-links-menu menu-block">
+
+                <ul></ul>
+				            </div>
+        </div>
+    </div>
+</div>
+    <div id="content" class="site-content">
+        <div class="container-main columns">
+        <div id="primary" class="content-area">
+            <main id="main" class="site-main typical-post">
+
+
+
+<article id="post-536834" class="post-536834 post type-post status-publish format-standard has-post-thumbnail hentry category-cat-news">
+    <div class="page-header">
+        <h1 class="listing-page-title">
+            У Новоросійську знищено ворожий ракетний корабель “Буян-М”, який є носієм “Калібрів” та “Оніксів”                                </h1>
+    </div>
+    <div class="post-meta">
+                    	        <div class="post-author post-author--inline">
+            <div class="post-author-desc">
+                <a href='/news/author/msaienko' class='author-name'>
+                    Микита Саєнко</a>
+                <span class="post-author__dash">—</span>
+            </div>
+        </div>
+                    <time class="post-time" datetime="2026-09-10 13:40" title="10 Вересня, 13:40">
+            10 Вересня 2026, 13:40        </time>
+
+        <div class="post-socials">
+                        <span class="share-notice">Share</span>
+            <a rel='noopener nofollow' href='https://t.me/share/url?url=https%3A%2F%2Fkyiv24.news%2Fnews%2Fu-novorosijsku-znyshheno-vorozhyj-raketnyj-korabel-buyan-m-yakyj-ye-nosiyem-kalibriv-ta-oniksiv&text=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96%20%D0%B2%D1%96%D0%B9%D1%81%D1%8C%D0%BA%D0%BE%D0%B2%D1%96%20%D0%BF%D1%96%D0%B4%20%D1%87%D0%B0%D1%81%20%D1%83%D0%B4%D0%B0%D1%80%D1%83%20%D0%BF%D0%BE%20%D1%80%D0%BE%D1%81%D1%96%D0%B9%D1%81%D1%8C%D0%BA%D0%BE%D0%BC%D1%83%20%D1%87%D0%BE%D1%80%D0%BD%D0%BE%D0%BC%D0%BE%D1%80%D1%81%D1%8C%D0%BA%D0%BE%D0%BC%D1%83%20%D0%BF%D0%BE%D1%80%D1%82%D1%83%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%80%D0%BE%D1%81%D1%96%D0%B9%D1%81%D1%8C%D0%BA%20%C2%AB%D1%80%D0%B0%D0%B7%D0%BE%D0%BC%20%D1%96%D0%B7%20%D0%BF%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D0%B8%D0%BC%D0%B0%D0%BC%D0%B8%C2%BB%20%D1%83%D1%80%D0%B0%D0%B7%D0%B8%D0%BB%D0%B8%20%D1%84%D1%80%D0%B5%D0%B3%D0%B0%D1%82%20%C2%AB%D0%90%D0%B4%D0%BC%D1%96%D1%80%D0%B0%D0%BB%20%D0%95%D1%81%D1%81%D0%B5%D0%BD%C2%BB.' onclick='window.open(this.href, 'Telegram','left=50,top=50,width=600,height=550,toolbar=0'); return false;' class='social-link icon'>
+                <img src="https://kyiv24.news/wp-content/uploads/2020/04/telegram-dark.svg" alt="social-icon"></a>
+            <a rel='noopener nofollow' href='https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fkyiv24.news%2Fnews%2Fu-novorosijsku-znyshheno-vorozhyj-raketnyj-korabel-buyan-m-yakyj-ye-nosiyem-kalibriv-ta-oniksiv' onclick='window.open(this.href, 'Facebook','left=50,top=50,width=600,height=550,toolbar=0'); return false;' class='social-link icon'>
+                <img src="https://kyiv24.news/wp-content/uploads/2020/04/facebook-dark.svg" alt="social-icon"></a>
+            <a rel='noopener nofollow' href='https://twitter.com/intent/tweet?url=https%3A%2F%2Fkyiv24.news%2Fnews%2Fu-novorosijsku-znyshheno-vorozhyj-raketnyj-korabel-buyan-m-yakyj-ye-nosiyem-kalibriv-ta-oniksiv' onclick='window.open(this.href, 'Twitter','left=50,top=50,width=600,height=550,toolbar=0'); return false;' class='social-link icon'>
+                <img src="https://kyiv24.news/wp-content/uploads/2023/11/x_logo_2023-black.svg" alt="social-icon"></a>
+            <a rel='noopener nofollow' href='viber://forward?text=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96%20%D0%B2%D1%96%D0%B9%D1%81%D1%8C%D0%BA%D0%BE%D0%B2%D1%96%20%D0%BF%D1%96%D0%B4%20%D1%87%D0%B0%D1%81%20%D1%83%D0%B4%D0%B0%D1%80%D1%83%20%D0%BF%D0%BE%20%D1%80%D0%BE%D1%81%D1%96%D0%B9%D1%81%D1%8C%D0%BA%D0%BE%D0%BC%D1%83%20%D1%87%D0%BE%D1%80%D0%BD%D0%BE%D0%BC%D0%BE%D1%80%D1%81%D1%8C%D0%BA%D0%BE%D0%BC%D1%83%20%D0%BF%D0%BE%D1%80%D1%82%D1%83%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%80%D0%BE%D1%81%D1%96%D0%B9%D1%81%D1%8C%D0%BA%20%C2%AB%D1%80%D0%B0%D0%B7%D0%BE%D0%BC%20%D1%96%D0%B7%20%D0%BF%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D0%B8%D0%BC%D0%B0%D0%BC%D0%B8%C2%BB%20%D1%83%D1%80%D0%B0%D0%B7%D0%B8%D0%BB%D0%B8%20%D1%84%D1%80%D0%B5%D0%B3%D0%B0%D1%82%20%C2%AB%D0%90%D0%B4%D0%BC%D1%96%D1%80%D0%B0%D0%BB%20%D0%95%D1%81%D1%81%D0%B5%D0%BD%C2%BB. | ТРК Київ https%3A%2F%2Fkyiv24.news%2Fnews%2Fu-novorosijsku-znyshheno-vorozhyj-raketnyj-korabel-buyan-m-yakyj-ye-nosiyem-kalibriv-ta-oniksiv' class='social-link icon'>
+                <img src="https://kyiv24.news/wp-content/uploads/2020/05/viber-icon.svg" alt="social-icon"></a>
+        </div>
+    </div>
+
+    <p class="post-preview">Українські військові під час удару по російському чорноморському порту Новоросійськ «разом із побратимами» уразили фрегат «Адмірал Ессен».</p>
+
+    
+			<figure class="post-thumbnail">
+				<img width="640" height="468" src="https://kyiv24.news/wp-content/uploads/2026/09/photo_2026-09-10_13-21-45-1200x878.jpg" class="wp-post-image wp-post-image" alt="КИЇВ24" loading="eager" fetchpriority="high" />				<figcaption
+					class="post-thumbnail-title"
+					style="font-style: italic; text-align: center"
+				>
+				Уражений російський корабель.
+Фото: 				</figcaption>
+							</figure>
+    <div class="post-content editor-content">
+                <p>Про це <a href='https://t.me/ukrainian_navy/22252' target='_blank' rel='noopener noreferrer'><strong>повідомили</strong></a> Військово-морські сили України.</p>
+<p>Нові дані уточнюють масштаб удару, завданого 9 вересня по військових та інфраструктурних об’єктах противника в Новоросійську Краснодарського краю рф.</p>
+<p>Підтверджено ураження щонайменше трьох кораблів Чорноморського флоту рф:</p>
+<ul>
+<li>малого морського тральщика «Железняков»;</li>
+<li>фрегата «Адмірал Ессен»;</li>
+<li>великого десантного корабля проєкту 11711 «Петр Моргунов».</li>
+</ul>
+<p>Крім того, за результатами аналізу додаткових даних підтверджено ураження мазутних сховищ у Новоросійську та знищення ворожого ракетного корабля “Буян-М”, який є носієм “Калібрів” та “Оніксів”.</p>
+<p>Нагадаємо, що у ніч на 12 серпня Сили оборони України <a href='/news/u-novorosijsku-urazheno-chotyry-vijskovi-korabli-rf-genshtab' target='_blank' rel='noopener noreferrer'><strong>провели операцію зі знищення та ураження</strong></a> об’єктів російської військової інфраструктури в Новоросійську Краснодарського краю РФ.</p>
+    </div><!-- .entry-content -->
+
+        
+
+</article><!-- #post-536834 -->
+<!-- <section class="google-news">
+	<div class="g-content"><p>Читайте актуальні новини на Telegram "Телеканал Київ"</p></div>
+	<div class="g-btn btn cian-btn"><a href='https://t.me/kyivtv' target='_blank' title='Читати новини'>Читати новини</a></div>
+</section> -->
+<section class="google-news google-news-new">
+	<div class="g-title">Читайте КИЇВ24 на інших платформах</div>
+	<div class="g-wrapper">
+		
+					<a href='https://news.google.com/publications/CAAqBwgKMJmVogsw3J-6Aw?hl=uk&gl=UA&ceid=UA%3Auk' class='g-item btn cian-btn' rel='nofollow' target='_blank'>
+				<img class="g-icon dark" src="https://kyiv24.news/wp-content/uploads/2023/10/google-news-dark.svg" alt="Google News" />
+				<img class="g-icon light" src="https://kyiv24.news/wp-content/uploads/2023/10/google-news.svg" alt="Google News" />
+				<p class="g-text">Google News</p></a>
+					<a href='https://t.me/kyivtv' class='g-item btn cian-btn' rel='nofollow' target='_blank'>
+				<img class="g-icon dark" src="https://kyiv24.news/wp-content/uploads/2020/04/telegram-dark.svg" alt="Telegram" />
+				<img class="g-icon light" src="https://kyiv24.news/wp-content/uploads/2020/04/telegram.svg" alt="Telegram" />
+				<p class="g-text">Telegram</p></a>
+					<a href='https://twitter.com/kyiv_tv' class='g-item btn cian-btn' rel='nofollow' target='_blank'>
+				<img class="g-icon dark" src="https://kyiv24.news/wp-content/uploads/2023/11/x_logo_2023-black.svg" alt="X (Twitter)" />
+				<img class="g-icon light" src="https://kyiv24.news/wp-content/uploads/2023/11/x_logo_2023.svg" alt="X (Twitter)" />
+				<p class="g-text">X (Twitter)</p></a>
+					<a href='https://www.facebook.com/kyiv24tv' class='g-item btn cian-btn' rel='nofollow' target='_blank'>
+				<img class="g-icon dark" src="https://kyiv24.news/wp-content/uploads/2020/04/facebook-dark.svg" alt="Facebook" />
+				<img class="g-icon light" src="https://kyiv24.news/wp-content/uploads/2020/04/facebook-light.svg" alt="Facebook" />
+				<p class="g-text">Facebook</p></a>
+					<a href='https://www.youtube.com/@kyivchannel' class='g-item btn cian-btn' rel='nofollow' target='_blank'>
+				<img class="g-icon dark" src="https://kyiv24.news/wp-content/uploads/2020/04/youtube-dark.svg" alt="Youtube" />
+				<img class="g-icon light" src="https://kyiv24.news/wp-content/uploads/2020/04/youtube-light.svg" alt="Youtube" />
+				<p class="g-text">Youtube</p></a>
+					<a href='https://www.instagram.com/kyiv24_tv/' class='g-item btn cian-btn' rel='nofollow' target='_blank'>
+				<img class="g-icon dark" src="https://kyiv24.news/wp-content/uploads/2020/04/insta-dark.svg" alt="Instagram" />
+				<img class="g-icon light" src="https://kyiv24.news/wp-content/uploads/2020/04/insta-light.svg" alt="Instagram" />
+				<p class="g-text">Instagram</p></a>
+					<a href='https://www.threads.net/@kyiv24_tv' class='g-item btn cian-btn' rel='nofollow' target='_blank'>
+				<img class="g-icon dark" src="https://kyiv24.news/wp-content/uploads/2023/11/threads.svg" alt="Threads" />
+				<img class="g-icon light" src="https://kyiv24.news/wp-content/uploads/2023/11/threads-white.svg" alt="Threads" />
+				<p class="g-text">Threads</p></a>
+					<a href='https://www.tiktok.com/@kyiv24?_r=1' class='g-item btn cian-btn' rel='nofollow' target='_blank'>
+				<img class="g-icon dark" src="https://kyiv24.news/wp-content/uploads/2023/11/tiktok-logo-black.svg" alt="TikTok" />
+				<img class="g-icon light" src="https://kyiv24.news/wp-content/uploads/2023/11/tiktok-logo-white.svg" alt="TikTok" />
+				<p class="g-text">TikTok</p></a>
+			</div>
+</section>
+
+
+   
+            </main>
+        </div>
+
+        <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "NewsArticle",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://kyiv24.news/news/u-novorosijsku-znyshheno-vorozhyj-raketnyj-korabel-buyan-m-yakyj-ye-nosiyem-kalibriv-ta-oniksiv"
+            },
+            "dateline": "10 Вересня, 13:40",
+            "headline": "У Новоросійську знищено ворожий ракетний корабель “Буян-М”, який є носієм “Калібрів” та “Оніксів”",
+            "image": [
+                "https://kyiv24.news/wp-content/uploads/2026/09/photo_2026-09-10_13-21-45.jpg" 
+            ],
+            "datePublished": "2026-09-10T13:40:44+03:00",
+            "dateModified": "2026-09-10T13:50:43+03:00",
+            "author": {
+                "@type": "Person",
+                "name": "Редакція ТК Київ",
+                "url": "https://kyiv24.news/editors/"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "КИЇВ24",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": "https://kyiv24.news/wp-content/uploads/2023/08/logo_kyiv24_black_60_137.png",
+                    "width": "180",
+                    "height": "60"
+                }
+            },
+            "description": "Українські військові під час удару по російському чорноморському порту Новоросійськ «разом із побратимами» уразили фрегат «Адмірал Ессен»."
+        }
+        </script>
+
+        <div class="right-bar-area">
+            <div class="news-feed">
+    <h2 class="widget-name">ЗАРАЗ ЧИТАЮТЬ</h2>
+	        
+	
+<!-- WordPress Popular Posts -->
+<ul class="top-posts-list"><li class='top-post'><div class='top-post-main'><a class='top-post-name' href='/news/prezentacziya-apple-pershyj-skladanyj-iphone-duo-iphone-18-pro-ta-pro-max-apple-watch-series-12' title='Презентація Apple — перший складаний iPhone Duo, iPhone 18 Pro та Pro Max, Apple Watch Series 12'>Презентація Apple — перший складаний iPhone Duo, iPhone 18 Pro та Pro Max, Apple Watch Series 12</a></div><div class="wpp-stats"><span class="wpp-date">10 Вересня, 08:43</span></div></li>
+<li class='top-post'><div class='top-post-main'><a class='top-post-name' href='/news/ukrayinska-balistychna-raketa-fp-7-bude-gotova-do-bojovogo-zastosuvannya-vzhe-za-kilka-tyzhniv-fire-point' title='Українська балістична ракета FP-7 буде готова до бойового застосування вже за кілька тижнів — Fire Point'>Українська балістична ракета FP-7 буде готова до бойового застосування вже за кілька тижнів — Fire Point</a></div><div class="wpp-stats"><span class="wpp-date">10 Вересня, 17:11</span></div></li>
+<li class='top-post'><div class='top-post-main'><a class='top-post-name' href='/news/novyj-trudovyj-kodeks-praczivnykam-hochut-skorotyty-soczvidpustku' title='Новий Трудовий кодекс: які зміни передбачені?'>Новий Трудовий кодекс: які зміни передбачені?</a></div><div class="wpp-stats"><span class="wpp-date">10 Вересня, 12:55</span></div></li>
+<li class='top-post'><div class='top-post-main'><a class='top-post-name' href='/news/ponad-200-shkil-kyyivshhyny-rozpochaly-navchalnyj-rik-iz-mriyeyu' title='Понад 200 шкіл Київщини розпочали навчальний рік із «Мрією»'>Понад 200 шкіл Київщини розпочали навчальний рік із «Мрією»</a></div><div class="wpp-stats"><span class="wpp-date">10 Вересня, 15:40</span></div></li>
+<li class='top-post'><div class='top-post-main'><a class='top-post-name' href='/news/apple-nareshti-skladayetsya-znajomtes-iz-iphone-duo' title='Apple нарешті складається: знайомтесь із iPhone Duo'>Apple нарешті складається: знайомтесь із iPhone Duo</a></div><div class="wpp-stats"><span class="wpp-date">10 Вересня, 08:19</span></div></li>
+</ul>    </div>
+
+<style>
+.news-feed-holder {
+    display: block;
+    margin-top: 35px; /* Ось цей відступ, щоб блоки не зліпалися */
+}
+.news-feed-holder.not-active img {
+    content-visibility: hidden;
+    display: none !important;
+}
+</style>
+
+<div id="smart-news-feed-wrapper" class="news-feed-holder not-active">
+    <div class="news-feed">
+        <h2 class="widget-name">Останні новини</h2>
+            <div class="news-feed-overflow">
+        <div class="news-feed-body">
+	 <div class="feed-news">
+    <div class="feed-news-main">
+                            <a class='news-feed-thumbnail thumbnail-anim' href='/news/kanada-peredavatyme-ukrayini-tretynu-vsih-vygotovlenyh-bojovyh-droniv' title='Канада передаватиме Україні третину всіх виготовлених бойових дронів'>
+                <img width="150" height="150" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E" class="wp-post-image wp-post-image" alt="КИЇВ24" loading="lazy" fetchpriority="low" data-lazy-src="https://kyiv24.news/wp-content/uploads/2026/09/67ef78f2-1ed5-45a9-aa76-b334598fd7f3-150x150.jpg" /><noscript><img width="150" height="150" src="https://kyiv24.news/wp-content/uploads/2026/09/67ef78f2-1ed5-45a9-aa76-b334598fd7f3-150x150.jpg" class="wp-post-image wp-post-image" alt="КИЇВ24" loading="lazy" fetchpriority="low" /></noscript></a>
+                <a href='/news/kanada-peredavatyme-ukrayini-tretynu-vsih-vygotovlenyh-bojovyh-droniv' style='color:#000'>
+
+            Канада передаватиме Україні третину всіх виготовлених бойових дронів</a>
+    </div>
+    <div class="feed-news-other">
+        <span class="date">10 Вересня, 21:54</span>
+            </div>
+</div>				<div class="feed-news">
+    <div class="feed-news-main">
+                            <a class='news-feed-thumbnail thumbnail-anim' href='/news/policziya-nimechchyny-otochyla-genkonsulstvo-ukrayiny-v-dyusseldorfi-jde-speczoperacziya' title='Поліція Німеччини оточила генконсульство України в Дюссельдорфі: йде спецоперація'>
+                <img width="150" height="150" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E" class="wp-post-image wp-post-image" alt="КИЇВ24" loading="lazy" fetchpriority="low" data-lazy-src="https://kyiv24.news/wp-content/uploads/2026/09/rwybdapf3k-v2-ax-w800h450-150x150.jpeg" /><noscript><img width="150" height="150" src="https://kyiv24.news/wp-content/uploads/2026/09/rwybdapf3k-v2-ax-w800h450-150x150.jpeg" class="wp-post-image wp-post-image" alt="КИЇВ24" loading="lazy" fetchpriority="low" /></noscript></a>
+                <a href='/news/policziya-nimechchyny-otochyla-genkonsulstvo-ukrayiny-v-dyusseldorfi-jde-speczoperacziya' style='color:#000'>
+
+            Поліція Німеччини оточила генконсульство України в Дюссельдорфі: йде спецоперація</a>
+    </div>
+    <div class="feed-news-other">
+        <span class="date">10 Вересня, 21:42</span>
+            </div>
+</div>				<div class="feed-news">
+    <div class="feed-news-main">
+                            <a class='news-feed-thumbnail thumbnail-anim' href='/news/ukrayina-ta-kanada-spilno-vygotovlyatymut-drony-ta-boyeprypasy' title='Україна та Канада спільно виготовлятимуть дрони та боєприпаси'>
+                <img width="150" height="150" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E" class="wp-post-image wp-post-image" alt="КИЇВ24" loading="lazy" fetchpriority="low" data-lazy-src="https://kyiv24.news/wp-content/uploads/2026/09/photo_2026-09-10_19-40-49-150x150.jpg" /><noscript><img width="150" height="150" src="https://kyiv24.news/wp-content/uploads/2026/09/photo_2026-09-10_19-40-49-150x150.jpg" class="wp-post-image wp-post-image" alt="КИЇВ24" loading="lazy" fetchpriority="low" /></noscript></a>
+                <a href='/news/ukrayina-ta-kanada-spilno-vygotovlyatymut-drony-ta-boyeprypasy' style='color:#000'>
+
+            Україна та Канада спільно виготовлятимуть дрони та боєприпаси</a>
+    </div>
+    <div class="feed-news-other">
+        <span class="date">10 Вересня, 21:30</span>
+            </div>
+</div>				<div class="feed-news">
+    <div class="feed-news-main">
+                            <a class='news-feed-thumbnail thumbnail-anim' href='/news/iranskyj-udar-po-amerykanskij-aviabazi-v-jordaniyi-urazyv-8-litakiv-cbs-news' title='Іранський удар по американській авіабазі в Йорданії уразив 8 літаків — CBS News'>
+                <img width="150" height="150" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E" class="wp-post-image wp-post-image" alt="КИЇВ24" loading="lazy" fetchpriority="low" data-lazy-src="https://kyiv24.news/wp-content/uploads/2026/03/znimok-ekrana-2026-03-02-o-14.45.53-150x150.png" /><noscript><img width="150" height="150" src="https://kyiv24.news/wp-content/uploads/2026/03/znimok-ekrana-2026-03-02-o-14.45.53-150x150.png" class="wp-post-image wp-post-image" alt="КИЇВ24" loading="lazy" fetchpriority="low" /></noscript></a>
+                <a href='/news/iranskyj-udar-po-amerykanskij-aviabazi-v-jordaniyi-urazyv-8-litakiv-cbs-news' style='color:#000'>
+
+            Іранський удар по американській авіабазі в Йорданії уразив 8 літаків — CBS News</a>
+    </div>
+    <div class="feed-news-other">
+        <span class="date">10 Вересня, 21:26</span>
+            </div>
+</div>				<div class="feed-news">
+    <div class="feed-news-main">
+                            <a class='news-feed-thumbnail thumbnail-anim' href='/news/ukrayina-ta-kanada-pidpysaly-deklaracziyu-pro-storichne-partnerstvo-j-oboronnu-ugodu-drone-deal' title='Україна та Канада підписали Декларацію про сторічне партнерство й оборонну угоду Drone Deal'>
+                <img width="150" height="150" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E" class="wp-post-image wp-post-image" alt="КИЇВ24" loading="lazy" fetchpriority="low" data-lazy-src="https://kyiv24.news/wp-content/uploads/2026/09/7313076f-8c8c-4efb-a9af-3af3e4bd538f-150x150.jpg" /><noscript><img width="150" height="150" src="https://kyiv24.news/wp-content/uploads/2026/09/7313076f-8c8c-4efb-a9af-3af3e4bd538f-150x150.jpg" class="wp-post-image wp-post-image" alt="КИЇВ24" loading="lazy" fetchpriority="low" /></noscript></a>
+                <a href='/news/ukrayina-ta-kanada-pidpysaly-deklaracziyu-pro-storichne-partnerstvo-j-oboronnu-ugodu-drone-deal' style='color:#000'>
+
+            Україна та Канада підписали Декларацію про сторічне партнерство й оборонну угоду Drone Deal</a>
+    </div>
+    <div class="feed-news-other">
+        <span class="date">10 Вересня, 21:02</span>
+            </div>
+</div>				<div class="feed-news">
+    <div class="feed-news-main">
+                            <a class='news-feed-thumbnail thumbnail-anim' href='/news/rosiya-mozhe-atakuvaty-punkty-propusku-na-kordoni-z-polshheyu-tusk' title='Росія може атакувати пункти пропуску на кордоні з Польщею — Туск'>
+                <img width="150" height="150" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E" class="wp-post-image wp-post-image" alt="КИЇВ24" loading="lazy" fetchpriority="low" data-lazy-src="https://kyiv24.news/wp-content/uploads/2025/05/000l2kqogdjnm5vx-c123-f4-150x150.jpeg" /><noscript><img width="150" height="150" src="https://kyiv24.news/wp-content/uploads/2025/05/000l2kqogdjnm5vx-c123-f4-150x150.jpeg" class="wp-post-image wp-post-image" alt="КИЇВ24" loading="lazy" fetchpriority="low" /></noscript></a>
+                <a href='/news/rosiya-mozhe-atakuvaty-punkty-propusku-na-kordoni-z-polshheyu-tusk' style='color:#000'>
+
+            Росія може атакувати пункти пропуску на кордоні з Польщею — Туск</a>
+    </div>
+    <div class="feed-news-other">
+        <span class="date">10 Вересня, 20:56</span>
+            </div>
+</div>				<div class="feed-news">
+    <div class="feed-news-main">
+                            <a class='news-feed-thumbnail thumbnail-anim' href='/news/kilkist-zagyblyh-u-pavlogradi-zrosla-do-pyaty-osib-sered-desyatkiv-poranenyh-dity' title='Кількість загиблих у Павлограді зросла до п’яти осіб, серед десятків поранених — діти'>
+                <img width="150" height="150" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E" class="wp-post-image wp-post-image" alt="КИЇВ24" loading="lazy" fetchpriority="low" data-lazy-src="https://kyiv24.news/wp-content/uploads/2026/09/photo_2026-09-10_20-40-13-150x150.jpg" /><noscript><img width="150" height="150" src="https://kyiv24.news/wp-content/uploads/2026/09/photo_2026-09-10_20-40-13-150x150.jpg" class="wp-post-image wp-post-image" alt="КИЇВ24" loading="lazy" fetchpriority="low" /></noscript></a>
+                <a href='/news/kilkist-zagyblyh-u-pavlogradi-zrosla-do-pyaty-osib-sered-desyatkiv-poranenyh-dity' style='color:#000'>
+
+            Кількість загиблих у Павлограді зросла до п’яти осіб, серед десятків поранених — діти</a>
+    </div>
+    <div class="feed-news-other">
+        <span class="date">10 Вересня, 20:41</span>
+            </div>
+</div>				<div class="feed-news">
+    <div class="feed-news-main">
+                            <a class='news-feed-thumbnail thumbnail-anim' href='/news/kanada-nadast-ukrayini-novyj-paket-dopomogy-dlya-ppo-volodymyr-zelenskyj' title='Канада надасть Україні новий пакет допомоги для ППО — Володимир Зеленський'>
+                <img width="150" height="150" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E" class="wp-post-image wp-post-image" alt="КИЇВ24" loading="lazy" fetchpriority="low" data-lazy-src="https://kyiv24.news/wp-content/uploads/2026/09/photo_2026-09-10_20-31-49-150x150.jpg" /><noscript><img width="150" height="150" src="https://kyiv24.news/wp-content/uploads/2026/09/photo_2026-09-10_20-31-49-150x150.jpg" class="wp-post-image wp-post-image" alt="КИЇВ24" loading="lazy" fetchpriority="low" /></noscript></a>
+                <a href='/news/kanada-nadast-ukrayini-novyj-paket-dopomogy-dlya-ppo-volodymyr-zelenskyj' style='color:#000'>
+
+            Канада надасть Україні новий пакет допомоги для ППО — Володимир Зеленський</a>
+    </div>
+    <div class="feed-news-other">
+        <span class="date">10 Вересня, 20:36</span>
+            </div>
+</div>				<div class="feed-news">
+    <div class="feed-news-main">
+                            <a class='news-feed-thumbnail thumbnail-anim' href='/news/ukrayinski-kinoteatry-praczyuvatymut-pid-chas-zhovtoyi-povitryanoyi-tryvogy' title='Українські кінотеатри працюватимуть під час «жовтої» повітряної тривоги '>
+                <img width="150" height="150" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E" class="wp-post-image wp-post-image" alt="Київ Media" loading="lazy" fetchpriority="low" data-lazy-src="https://kyiv24.news/wp-content/uploads/2022/08/kinoteatr-film-kinozal-5-08-2022-fb-150x150.jpg" /><noscript><img width="150" height="150" src="https://kyiv24.news/wp-content/uploads/2022/08/kinoteatr-film-kinozal-5-08-2022-fb-150x150.jpg" class="wp-post-image wp-post-image" alt="Київ Media" loading="lazy" fetchpriority="low" /></noscript></a>
+                <a href='/news/ukrayinski-kinoteatry-praczyuvatymut-pid-chas-zhovtoyi-povitryanoyi-tryvogy' style='color:#000'>
+
+            Українські кінотеатри працюватимуть під час «жовтої» повітряної тривоги </a>
+    </div>
+    <div class="feed-news-other">
+        <span class="date">10 Вересня, 20:21</span>
+            </div>
+</div>				<div class="feed-news">
+    <div class="feed-news-main">
+                            <a class='news-feed-thumbnail thumbnail-anim' href='/news/u-buchanskomu-rajoni-cherez-ataku-rosijskyh-droniv-spalahnula-pozhezha-na-skladi' title='У Бучанському районі через атаку російських дронів спалахнула пожежа на складі'>
+                <img width="150" height="150" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E" class="wp-post-image wp-post-image" alt="КИЇВ24" loading="lazy" fetchpriority="low" data-lazy-src="https://kyiv24.news/wp-content/uploads/2026/09/793029188_28188280707481237_6389851270696255616_n-150x150.jpg" /><noscript><img width="150" height="150" src="https://kyiv24.news/wp-content/uploads/2026/09/793029188_28188280707481237_6389851270696255616_n-150x150.jpg" class="wp-post-image wp-post-image" alt="КИЇВ24" loading="lazy" fetchpriority="low" /></noscript></a>
+                <a href='/news/u-buchanskomu-rajoni-cherez-ataku-rosijskyh-droniv-spalahnula-pozhezha-na-skladi' style='color:#000'>
+
+            У Бучанському районі через атаку російських дронів спалахнула пожежа на складі</a>
+    </div>
+    <div class="feed-news-other">
+        <span class="date">10 Вересня, 20:17</span>
+            </div>
+</div>				<div class="feed-news">
+    <div class="feed-news-main">
+                            <a class='news-feed-thumbnail thumbnail-anim' href='/news/u-kyyevi-vorozhi-drony-poshkodyly-biznes-czentr-ta-ofisnu-budivlyu-u-dvoh-rajonah' title='У Києві ворожі дрони пошкодили бізнес-центр та офісну будівлю у двох районах'>
+                <img width="150" height="150" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E" class="wp-post-image wp-post-image" alt="КИЇВ24" loading="lazy" fetchpriority="low" data-lazy-src="https://kyiv24.news/wp-content/uploads/2026/09/002dcd7b-aa45-4261-b602-22dbdcc4f635-150x150.jpg" /><noscript><img width="150" height="150" src="https://kyiv24.news/wp-content/uploads/2026/09/002dcd7b-aa45-4261-b602-22dbdcc4f635-150x150.jpg" class="wp-post-image wp-post-image" alt="КИЇВ24" loading="lazy" fetchpriority="low" /></noscript></a>
+                <a href='/news/u-kyyevi-vorozhi-drony-poshkodyly-biznes-czentr-ta-ofisnu-budivlyu-u-dvoh-rajonah' style='color:#000'>
+
+            У Києві ворожі дрони пошкодили бізнес-центр та офісну будівлю у двох районах</a>
+    </div>
+    <div class="feed-news-other">
+        <span class="date">10 Вересня, 19:58</span>
+                    <div class="post-types">
+                                    <span class="post-type"
+                          style="color:#000; border-color:#000">
+                                    МІСТО                                </span>
+                            </div>
+            </div>
+</div>				<div class="feed-news">
+    <div class="feed-news-main">
+                            <a class='news-feed-thumbnail thumbnail-anim' href='/news/urazheni-ssha-tankery-iranu-vyyavylysya-povyazanymy-z-rosijskym-tinovym-flotom' title='Уражені США танкери Ірану виявилися пов’язаними з російським «тіньовим флотом»'>
+                <img width="150" height="150" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E" class="wp-post-image wp-post-image" alt="КИЇВ24" loading="lazy" fetchpriority="low" data-lazy-src="https://kyiv24.news/wp-content/uploads/2024/12/630_360_1715100288-680-150x150.jpg" /><noscript><img width="150" height="150" src="https://kyiv24.news/wp-content/uploads/2024/12/630_360_1715100288-680-150x150.jpg" class="wp-post-image wp-post-image" alt="КИЇВ24" loading="lazy" fetchpriority="low" /></noscript></a>
+                <a href='/news/urazheni-ssha-tankery-iranu-vyyavylysya-povyazanymy-z-rosijskym-tinovym-flotom' style='color:#000'>
+
+            Уражені США танкери Ірану виявилися пов’язаними з російським «тіньовим флотом»</a>
+    </div>
+    <div class="feed-news-other">
+        <span class="date">10 Вересня, 19:42</span>
+            </div>
+</div>				<div class="feed-news">
+    <div class="feed-news-main">
+                            <a class='news-feed-thumbnail thumbnail-anim' href='/news/yaponiya-vymagaye-vid-oon-zminyty-novu-kartu-svitu-cherez-kurylski-ostrovy' title='Японія вимагає від ООН змінити нову карту світу через Курильські острови'>
+                <img width="150" height="150" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E" class="wp-post-image wp-post-image" alt="КИЇВ24" loading="lazy" fetchpriority="low" data-lazy-src="https://kyiv24.news/wp-content/uploads/2026/09/354635645-150x150.png" /><noscript><img width="150" height="150" src="https://kyiv24.news/wp-content/uploads/2026/09/354635645-150x150.png" class="wp-post-image wp-post-image" alt="КИЇВ24" loading="lazy" fetchpriority="low" /></noscript></a>
+                <a href='/news/yaponiya-vymagaye-vid-oon-zminyty-novu-kartu-svitu-cherez-kurylski-ostrovy' style='color:#000'>
+
+            Японія вимагає від ООН змінити нову карту світу через Курильські острови</a>
+    </div>
+    <div class="feed-news-other">
+        <span class="date">10 Вересня, 19:06</span>
+            </div>
+</div>				<div class="feed-news">
+    <div class="feed-news-main">
+                            <a class='news-feed-thumbnail thumbnail-anim' href='/news/u-kyyevi-komunalni-apteky-farmacziya-pryzupynyatymut-robotu-pid-chas-chervonyh-tryvog' title='У Києві комунальні аптеки «Фармація» призупинятимуть роботу під час «червоних» тривог'>
+                <img width="150" height="150" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E" class="wp-post-image wp-post-image" alt="КИЇВ24" loading="lazy" fetchpriority="low" data-lazy-src="https://kyiv24.news/wp-content/uploads/2026/09/images-25-150x150.jpg" /><noscript><img width="150" height="150" src="https://kyiv24.news/wp-content/uploads/2026/09/images-25-150x150.jpg" class="wp-post-image wp-post-image" alt="КИЇВ24" loading="lazy" fetchpriority="low" /></noscript></a>
+                <a href='/news/u-kyyevi-komunalni-apteky-farmacziya-pryzupynyatymut-robotu-pid-chas-chervonyh-tryvog' style='color:#000'>
+
+            У Києві комунальні аптеки «Фармація» призупинятимуть роботу під час «червоних» тривог</a>
+    </div>
+    <div class="feed-news-other">
+        <span class="date">10 Вересня, 18:52</span>
+                    <div class="post-types">
+                                    <span class="post-type"
+                          style="color:#000; border-color:#000">
+                                    МІСТО                                </span>
+                            </div>
+            </div>
+</div>				<div class="feed-news">
+    <div class="feed-news-main">
+                            <a class='news-feed-thumbnail thumbnail-anim' href='/news/speczpryznachenczi-gur-provely-unikalnu-operacziyu-iz-zahystu-neba-kyyeva-za-dopomogoyu-platform-katran-ta-f-16' title='Спецпризначенці ГУР провели унікальну операцію із захисту неба Києва за допомогою платформ Katran та F-16'>
+                <img width="150" height="150" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E" class="wp-post-image wp-post-image" alt="КИЇВ24" loading="lazy" fetchpriority="low" data-lazy-src="https://kyiv24.news/wp-content/uploads/2026/09/423141234123-150x150.png" /><noscript><img width="150" height="150" src="https://kyiv24.news/wp-content/uploads/2026/09/423141234123-150x150.png" class="wp-post-image wp-post-image" alt="КИЇВ24" loading="lazy" fetchpriority="low" /></noscript></a>
+                <a href='/news/speczpryznachenczi-gur-provely-unikalnu-operacziyu-iz-zahystu-neba-kyyeva-za-dopomogoyu-platform-katran-ta-f-16' style='color:#000'>
+
+            Спецпризначенці ГУР провели унікальну операцію із захисту неба Києва за допомогою платформ Katran та F-16</a>
+    </div>
+    <div class="feed-news-other">
+        <span class="date">10 Вересня, 18:25</span>
+                    <div class="post-types">
+                                    <span class="post-type"
+                          style="color:#000; border-color:#000">
+                                    відео                                </span>
+                            </div>
+            </div>
+</div>				<div class="feed-news">
+    <div class="feed-news-main">
+                            <a class='news-feed-thumbnail thumbnail-anim' href='/news/udar-po-trcz-v-pavlogradi-kilkist-zagyblyh-zrosla-do-troh-osib-34-lyudyny-poraneni' title='Удар по ТРЦ в Павлограді: кількість загиблих зросла до трьох осіб, 34 людини поранені'>
+                <img width="150" height="150" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E" class="wp-post-image wp-post-image" alt="КИЇВ24" loading="lazy" fetchpriority="low" data-lazy-src="https://kyiv24.news/wp-content/uploads/2026/09/photo_2026-09-10_17-58-47-150x150.jpg" /><noscript><img width="150" height="150" src="https://kyiv24.news/wp-content/uploads/2026/09/photo_2026-09-10_17-58-47-150x150.jpg" class="wp-post-image wp-post-image" alt="КИЇВ24" loading="lazy" fetchpriority="low" /></noscript></a>
+                <a href='/news/udar-po-trcz-v-pavlogradi-kilkist-zagyblyh-zrosla-do-troh-osib-34-lyudyny-poraneni' style='color:#000'>
+
+            Удар по ТРЦ в Павлограді: кількість загиблих зросла до трьох осіб, 34 людини поранені</a>
+    </div>
+    <div class="feed-news-other">
+        <span class="date">10 Вересня, 18:13</span>
+            </div>
+</div>				<div class="feed-news">
+    <div class="feed-news-main">
+                            <a class='news-feed-thumbnail thumbnail-anim' href='/news/rozvytok-ukryttiv-ta-modernizacziya-zhytla-kmda-vrahuvala-majzhe-100-propozyczij-kyyan-do-tryrichnoyi-programy-rozvytku-mista' title='Розвиток укриттів та модернізація житла: КМДА врахувала майже 100 пропозицій киян до трирічної програми розвитку міста'>
+                <img width="150" height="150" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E" class="wp-post-image wp-post-image" alt="Kyiv Media" loading="lazy" fetchpriority="low" data-lazy-src="https://kyiv24.news/wp-content/uploads/2020/09/kyyivrada-sajt-kmr-10-09-2020-150x150.jpg" /><noscript><img width="150" height="150" src="https://kyiv24.news/wp-content/uploads/2020/09/kyyivrada-sajt-kmr-10-09-2020-150x150.jpg" class="wp-post-image wp-post-image" alt="Kyiv Media" loading="lazy" fetchpriority="low" /></noscript></a>
+                <a href='/news/rozvytok-ukryttiv-ta-modernizacziya-zhytla-kmda-vrahuvala-majzhe-100-propozyczij-kyyan-do-tryrichnoyi-programy-rozvytku-mista' style='color:#000'>
+
+            Розвиток укриттів та модернізація житла: КМДА врахувала майже 100 пропозицій киян до трирічної програми розвитку міста</a>
+    </div>
+    <div class="feed-news-other">
+        <span class="date">10 Вересня, 18:02</span>
+                    <div class="post-types">
+                                    <span class="post-type"
+                          style="color:#000; border-color:#000">
+                                    МІСТО                                </span>
+                            </div>
+            </div>
+</div>				<div class="feed-news">
+    <div class="feed-news-main">
+                            <a class='news-feed-thumbnail thumbnail-anim' href='/news/dushyly-podushkoyu-pid-chas-gry-v-tczk-u-sportshkoli-spalahnuv-skandal-cherez-buling-syna-geroya-ukrayiny' title='Душили подушкою під час «гри в ТЦК»: у спортшколі спалахнув скандал через булінг сина Героя України '>
+                <img width="150" height="150" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E" class="wp-post-image wp-post-image" alt="КИЇВ24" loading="lazy" fetchpriority="low" data-lazy-src="https://kyiv24.news/wp-content/uploads/2026/09/780x520-3-150x150.jpg" /><noscript><img width="150" height="150" src="https://kyiv24.news/wp-content/uploads/2026/09/780x520-3-150x150.jpg" class="wp-post-image wp-post-image" alt="КИЇВ24" loading="lazy" fetchpriority="low" /></noscript></a>
+                <a href='/news/dushyly-podushkoyu-pid-chas-gry-v-tczk-u-sportshkoli-spalahnuv-skandal-cherez-buling-syna-geroya-ukrayiny' style='color:#000'>
+
+            Душили подушкою під час «гри в ТЦК»: у спортшколі спалахнув скандал через булінг сина Героя України </a>
+    </div>
+    <div class="feed-news-other">
+        <span class="date">10 Вересня, 17:41</span>
+                    <div class="post-types">
+                                    <span class="post-type"
+                          style="color:#000; border-color:#000">
+                                    МІСТО                                </span>
+                            </div>
+            </div>
+</div>				<div class="feed-news">
+    <div class="feed-news-main">
+                            <a class='news-feed-thumbnail thumbnail-anim' href='/news/dvoye-lyudej-zagynuly-shhe-18-poraneni-rosiyany-atakuvaly-pavlograd' title='Двоє людей загинули, ще 18 поранені: Росіяни атакували Павлоград'>
+                <img width="150" height="150" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E" class="wp-post-image wp-post-image" alt="КИЇВ24" loading="lazy" fetchpriority="low" data-lazy-src="https://kyiv24.news/wp-content/uploads/2026/09/screenshot-2026-09-10-172137-150x150.png" /><noscript><img width="150" height="150" src="https://kyiv24.news/wp-content/uploads/2026/09/screenshot-2026-09-10-172137-150x150.png" class="wp-post-image wp-post-image" alt="КИЇВ24" loading="lazy" fetchpriority="low" /></noscript></a>
+                <a href='/news/dvoye-lyudej-zagynuly-shhe-18-poraneni-rosiyany-atakuvaly-pavlograd' style='color:#000'>
+
+            Двоє людей загинули, ще 18 поранені: Росіяни атакували Павлоград</a>
+    </div>
+    <div class="feed-news-other">
+        <span class="date">10 Вересня, 17:22</span>
+            </div>
+</div>				<div class="feed-news">
+    <div class="feed-news-main">
+                            <a class='news-feed-thumbnail thumbnail-anim' href='/news/ukrayinska-balistychna-raketa-fp-7-bude-gotova-do-bojovogo-zastosuvannya-vzhe-za-kilka-tyzhniv-fire-point' title='Українська балістична ракета FP-7 буде готова до бойового застосування вже за кілька тижнів — Fire Point'>
+                <img width="150" height="150" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E" class="wp-post-image wp-post-image" alt="КИЇВ24" loading="lazy" fetchpriority="low" data-lazy-src="https://kyiv24.news/wp-content/uploads/2026/09/213423423-150x150.png" /><noscript><img width="150" height="150" src="https://kyiv24.news/wp-content/uploads/2026/09/213423423-150x150.png" class="wp-post-image wp-post-image" alt="КИЇВ24" loading="lazy" fetchpriority="low" /></noscript></a>
+                <a href='/news/ukrayinska-balistychna-raketa-fp-7-bude-gotova-do-bojovogo-zastosuvannya-vzhe-za-kilka-tyzhniv-fire-point' style='color:#000'>
+
+            Українська балістична ракета FP-7 буде готова до бойового застосування вже за кілька тижнів — Fire Point</a>
+    </div>
+    <div class="feed-news-other">
+        <span class="date">10 Вересня, 17:11</span>
+            </div>
+</div>				<div class="feed-news">
+    <div class="feed-news-main">
+                            <a class='news-feed-thumbnail thumbnail-anim' href='/news/rosiyany-provely-propagandystskyj-dyktant-na-okupovanyh-terytoriyah' title='Росіяни провели пропагандистський диктант на окупованих територіях'>
+                <img width="150" height="150" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E" class="wp-post-image wp-post-image" alt="КИЇВ24" loading="lazy" fetchpriority="low" data-lazy-srcset="https://kyiv24.news/wp-content/uploads/2026/09/photo_2026-09-09_16-57-29-150x150.jpg 150w, https://kyiv24.news/wp-content/uploads/2026/09/photo_2026-09-09_16-57-29-400x400.jpg 400w, https://kyiv24.news/wp-content/uploads/2026/09/photo_2026-09-09_16-57-29-1200x1200.jpg 1200w, https://kyiv24.news/wp-content/uploads/2026/09/photo_2026-09-09_16-57-29-768x768.jpg 768w, https://kyiv24.news/wp-content/uploads/2026/09/photo_2026-09-09_16-57-29.jpg 1280w" data-lazy-sizes="(max-width: 150px) 100vw, 150px" data-lazy-src="https://kyiv24.news/wp-content/uploads/2026/09/photo_2026-09-09_16-57-29-150x150.jpg" /><noscript><img width="150" height="150" src="https://kyiv24.news/wp-content/uploads/2026/09/photo_2026-09-09_16-57-29-150x150.jpg" class="wp-post-image wp-post-image" alt="КИЇВ24" loading="lazy" fetchpriority="low" srcset="https://kyiv24.news/wp-content/uploads/2026/09/photo_2026-09-09_16-57-29-150x150.jpg 150w, https://kyiv24.news/wp-content/uploads/2026/09/photo_2026-09-09_16-57-29-400x400.jpg 400w, https://kyiv24.news/wp-content/uploads/2026/09/photo_2026-09-09_16-57-29-1200x1200.jpg 1200w, https://kyiv24.news/wp-content/uploads/2026/09/photo_2026-09-09_16-57-29-768x768.jpg 768w, https://kyiv24.news/wp-content/uploads/2026/09/photo_2026-09-09_16-57-29.jpg 1280w" sizes="(max-width: 150px) 100vw, 150px" /></noscript></a>
+                <a href='/news/rosiyany-provely-propagandystskyj-dyktant-na-okupovanyh-terytoriyah' style='color:#000'>
+
+            Росіяни провели пропагандистський диктант на окупованих територіях</a>
+    </div>
+    <div class="feed-news-other">
+        <span class="date">10 Вересня, 17:00</span>
+            </div>
+</div>				<div class="feed-news">
+    <div class="feed-news-main">
+                            <a class='news-feed-thumbnail thumbnail-anim' href='/news/sud-zaareshtuvav-pidozryuvanogo-u-spravi-pro-pidkydannya-narkotykiv-ekskombatu-shyrshynu-z-pravom-zastavy-u-majzhe-15-mln-grn' title='Суд заарештував підозрюваного у справі про підкидання наркотиків екскомбату Ширшину з правом застави у майже 15 млн грн'>
+                <img width="150" height="150" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E" class="wp-post-image wp-post-image" alt="КИЇВ24" loading="lazy" fetchpriority="low" data-lazy-src="https://kyiv24.news/wp-content/uploads/2026/09/780x585-1-150x150.jpg" /><noscript><img width="150" height="150" src="https://kyiv24.news/wp-content/uploads/2026/09/780x585-1-150x150.jpg" class="wp-post-image wp-post-image" alt="КИЇВ24" loading="lazy" fetchpriority="low" /></noscript></a>
+                <a href='/news/sud-zaareshtuvav-pidozryuvanogo-u-spravi-pro-pidkydannya-narkotykiv-ekskombatu-shyrshynu-z-pravom-zastavy-u-majzhe-15-mln-grn' style='color:#000'>
+
+            Суд заарештував підозрюваного у справі про підкидання наркотиків екскомбату Ширшину з правом застави у майже 15 млн грн</a>
+    </div>
+    <div class="feed-news-other">
+        <span class="date">10 Вересня, 16:59</span>
+            </div>
+</div>				<div class="feed-news">
+    <div class="feed-news-main">
+                            <a class='news-feed-thumbnail thumbnail-anim' href='/news/rosijski-drony-atakuvaly-vantazhne-sudno-tedy-u-chornomu-mori-zagynuly-gromadyany-azerbajdzhanu' title='Російські дрони атакували вантажне судно TEDY у Чорному морі: загинули громадяни Азербайджану'>
+                <img width="150" height="150" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E" class="wp-post-image wp-post-image" alt="КИЇВ24" loading="lazy" fetchpriority="low" data-lazy-src="https://kyiv24.news/wp-content/uploads/2026/09/3vrikykp-150x150.png" /><noscript><img width="150" height="150" src="https://kyiv24.news/wp-content/uploads/2026/09/3vrikykp-150x150.png" class="wp-post-image wp-post-image" alt="КИЇВ24" loading="lazy" fetchpriority="low" /></noscript></a>
+                <a href='/news/rosijski-drony-atakuvaly-vantazhne-sudno-tedy-u-chornomu-mori-zagynuly-gromadyany-azerbajdzhanu' style='color:#000'>
+
+            Російські дрони атакували вантажне судно TEDY у Чорному морі: загинули громадяни Азербайджану</a>
+    </div>
+    <div class="feed-news-other">
+        <span class="date">10 Вересня, 16:43</span>
+            </div>
+</div>				<div class="feed-news">
+    <div class="feed-news-main">
+                            <a class='news-feed-thumbnail thumbnail-anim' href='/news/skilky-koshtuye-robota-odnogo-nardepa-ponad-435-tysyach-gryven-na-misyacz' title='Скільки коштує робота одного нардепа: понад 435 тисяч гривень на місяць'>
+                <img width="150" height="150" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E" class="wp-post-image wp-post-image" alt="КИЇВ24" loading="lazy" fetchpriority="low" data-lazy-src="https://kyiv24.news/wp-content/uploads/2023/05/zarplata-vidkryti-dzherela-29-05-2023-150x150.jpg" /><noscript><img width="150" height="150" src="https://kyiv24.news/wp-content/uploads/2023/05/zarplata-vidkryti-dzherela-29-05-2023-150x150.jpg" class="wp-post-image wp-post-image" alt="КИЇВ24" loading="lazy" fetchpriority="low" /></noscript></a>
+                <a href='/news/skilky-koshtuye-robota-odnogo-nardepa-ponad-435-tysyach-gryven-na-misyacz' style='color:#000'>
+
+            Скільки коштує робота одного нардепа: понад 435 тисяч гривень на місяць</a>
+    </div>
+    <div class="feed-news-other">
+        <span class="date">10 Вересня, 16:40</span>
+            </div>
+</div>				<div class="feed-news">
+    <div class="feed-news-main">
+                            <a class='news-feed-thumbnail thumbnail-anim' href='/news/vyrobnycztvo-stali-v-ukrayini-obvalylosya-na-57-galuz-u-kryzi' title='Виробництво сталі в Україні обвалилося на 57%: галузь у кризі'>
+                <img width="150" height="150" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E" class="wp-post-image wp-post-image" alt="КИЇВ24" loading="lazy" fetchpriority="low" data-lazy-src="https://kyiv24.news/wp-content/uploads/2026/09/inner-150x150.jpg" /><noscript><img width="150" height="150" src="https://kyiv24.news/wp-content/uploads/2026/09/inner-150x150.jpg" class="wp-post-image wp-post-image" alt="КИЇВ24" loading="lazy" fetchpriority="low" /></noscript></a>
+                <a href='/news/vyrobnycztvo-stali-v-ukrayini-obvalylosya-na-57-galuz-u-kryzi' style='color:#000'>
+
+            Виробництво сталі в Україні обвалилося на 57%: галузь у кризі</a>
+    </div>
+    <div class="feed-news-other">
+        <span class="date">10 Вересня, 16:33</span>
+            </div>
+</div>				<div class="feed-news">
+    <div class="feed-news-main">
+                            <a class='news-feed-thumbnail thumbnail-anim' href='/news/rosijskyj-udar-znyshhyv-mysteczku-instalyacziyu-nova-czilisnist' title='Російський удар знищив мистецьку інсталяцію «Нова цілісність»'>
+                <img width="150" height="150" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E" class="wp-post-image wp-post-image" alt="КИЇВ24" loading="lazy" fetchpriority="low" data-lazy-src="https://kyiv24.news/wp-content/uploads/2026/09/nova-czilisnist-150x150.png" /><noscript><img width="150" height="150" src="https://kyiv24.news/wp-content/uploads/2026/09/nova-czilisnist-150x150.png" class="wp-post-image wp-post-image" alt="КИЇВ24" loading="lazy" fetchpriority="low" /></noscript></a>
+                <a href='/news/rosijskyj-udar-znyshhyv-mysteczku-instalyacziyu-nova-czilisnist' style='color:#000'>
+
+            Російський удар знищив мистецьку інсталяцію «Нова цілісність»</a>
+    </div>
+    <div class="feed-news-other">
+        <span class="date">10 Вересня, 16:22</span>
+                    <div class="post-types">
+                                    <span class="post-type"
+                          style="color:#000; border-color:#000">
+                                    МІСТО                                </span>
+                            </div>
+            </div>
+</div>				<div class="feed-news">
+    <div class="feed-news-main">
+                            <a class='news-feed-thumbnail thumbnail-anim' href='/news/pid-chas-ataky-na-kyyiv-zagynula-zaviduvachka-bakteriologichnoyi-laboratoriyi-lyudmyla-perehod' title='Під час атаки на Київ загинула завідувачка бактеріологічної лабораторії Людмила Переход'>
+                <img width="150" height="150" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E" class="wp-post-image wp-post-image" alt="КИЇВ24" loading="lazy" fetchpriority="low" data-lazy-src="https://kyiv24.news/wp-content/uploads/2026/09/b55121873a61064e-150x150.jpg" /><noscript><img width="150" height="150" src="https://kyiv24.news/wp-content/uploads/2026/09/b55121873a61064e-150x150.jpg" class="wp-post-image wp-post-image" alt="КИЇВ24" loading="lazy" fetchpriority="low" /></noscript></a>
+                <a href='/news/pid-chas-ataky-na-kyyiv-zagynula-zaviduvachka-bakteriologichnoyi-laboratoriyi-lyudmyla-perehod' style='color:#000'>
+
+            Під час атаки на Київ загинула завідувачка бактеріологічної лабораторії Людмила Переход</a>
+    </div>
+    <div class="feed-news-other">
+        <span class="date">10 Вересня, 16:18</span>
+                    <div class="post-types">
+                                    <span class="post-type"
+                          style="color:#000; border-color:#000">
+                                    МІСТО                                </span>
+                            </div>
+            </div>
+</div>				<div class="feed-news">
+    <div class="feed-news-main">
+                            <a class='news-feed-thumbnail thumbnail-anim' href='/news/rosiyany-vchergove-atakuvaly-zavod-olejna-u-dnipri-filatov-zaklykav-mzs-reaguvaty' title='Росіяни вчергове атакували завод «Олейна» у Дніпрі: Філатов закликав МЗС реагувати'>
+                <img width="150" height="150" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E" class="wp-post-image wp-post-image" alt="КИЇВ24" loading="lazy" fetchpriority="low" data-lazy-src="https://kyiv24.news/wp-content/uploads/2026/09/dym-pislya-vybuhu-ilyustratyvne-150x150.png" /><noscript><img width="150" height="150" src="https://kyiv24.news/wp-content/uploads/2026/09/dym-pislya-vybuhu-ilyustratyvne-150x150.png" class="wp-post-image wp-post-image" alt="КИЇВ24" loading="lazy" fetchpriority="low" /></noscript></a>
+                <a href='/news/rosiyany-vchergove-atakuvaly-zavod-olejna-u-dnipri-filatov-zaklykav-mzs-reaguvaty' style='color:#000'>
+
+            Росіяни вчергове атакували завод «Олейна» у Дніпрі: Філатов закликав МЗС реагувати</a>
+    </div>
+    <div class="feed-news-other">
+        <span class="date">10 Вересня, 16:10</span>
+            </div>
+</div>				<div class="feed-news">
+    <div class="feed-news-main">
+                            <a class='news-feed-thumbnail thumbnail-anim' href='/news/u-nimechchyni-po-vsij-krayini-lunayut-syreny-vlada-testuye-systemu-tryvogy' title='У Німеччині по всій країні лунають сирени: влада тестує систему тривоги'>
+                <img width="150" height="150" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E" class="wp-post-image wp-post-image" alt="КИЇВ24" loading="lazy" fetchpriority="low" data-lazy-src="https://kyiv24.news/wp-content/uploads/2026/07/znimok-ekrana-2026-07-21-130722-150x150.png" /><noscript><img width="150" height="150" src="https://kyiv24.news/wp-content/uploads/2026/07/znimok-ekrana-2026-07-21-130722-150x150.png" class="wp-post-image wp-post-image" alt="КИЇВ24" loading="lazy" fetchpriority="low" /></noscript></a>
+                <a href='/news/u-nimechchyni-po-vsij-krayini-lunayut-syreny-vlada-testuye-systemu-tryvogy' style='color:#000'>
+
+            У Німеччині по всій країні лунають сирени: влада тестує систему тривоги</a>
+    </div>
+    <div class="feed-news-other">
+        <span class="date">10 Вересня, 15:50</span>
+            </div>
+</div>				<div class="feed-news">
+    <div class="feed-news-main">
+                            <a class='news-feed-thumbnail thumbnail-anim' href='/news/nbu-ta-uanimals-zaklykayut-ukrayincziv-doluchytysya-do-zboru-monet-na-dopomogu-tvarynam' title='НБУ та UAnimals закликають українців долучитися до збору монет на допомогу тваринам'>
+                <img width="150" height="150" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E" class="wp-post-image wp-post-image" alt="КИЇВ24" loading="lazy" fetchpriority="low" data-lazy-src="https://kyiv24.news/wp-content/uploads/2026/09/znimok-ekrana-2026-09-10-154142-150x150.png" /><noscript><img width="150" height="150" src="https://kyiv24.news/wp-content/uploads/2026/09/znimok-ekrana-2026-09-10-154142-150x150.png" class="wp-post-image wp-post-image" alt="КИЇВ24" loading="lazy" fetchpriority="low" /></noscript></a>
+                <a href='/news/nbu-ta-uanimals-zaklykayut-ukrayincziv-doluchytysya-do-zboru-monet-na-dopomogu-tvarynam' style='color:#000'>
+
+            НБУ та UAnimals закликають українців долучитися до збору монет на допомогу тваринам</a>
+    </div>
+    <div class="feed-news-other">
+        <span class="date">10 Вересня, 15:43</span>
+                    <div class="post-types">
+                                    <span class="post-type"
+                          style="color:#000; border-color:#000">
+                                    промо                                </span>
+                            </div>
+            </div>
+</div>						</div>
+ <script type="rocketlazyloadscript">
+var hg_load_params = 
+{"ajaxurl":"https:\/\/kyiv24.news\/wp-admin\/admin-ajax.php","posts":"{\"post_type\":\"post\",\"post_status\":\"publish\",\"posts_per_page\":30,\"post__not_in\":[],\"orderby\":\"date\",\"order\":\"DESC\",\"error\":\"\",\"m\":\"\",\"p\":0,\"post_parent\":\"\",\"subpost\":\"\",\"subpost_id\":\"\",\"attachment\":\"\",\"attachment_id\":0,\"name\":\"\",\"pagename\":\"\",\"page_id\":0,\"second\":\"\",\"minute\":\"\",\"hour\":\"\",\"day\":0,\"monthnum\":0,\"year\":0,\"w\":0,\"category_name\":\"\",\"tag\":\"\",\"cat\":\"\",\"tag_id\":\"\",\"author\":\"\",\"author_name\":\"\",\"feed\":\"\",\"tb\":\"\",\"paged\":0,\"meta_key\":\"\",\"meta_value\":\"\",\"preview\":\"\",\"s\":\"\",\"sentence\":\"\",\"title\":\"\",\"fields\":\"\",\"menu_order\":\"\",\"embed\":\"\",\"category__in\":[],\"category__not_in\":[],\"category__and\":[],\"post__in\":[],\"post_name__in\":[],\"tag__in\":[],\"tag__not_in\":[],\"tag__and\":[],\"tag_slug__in\":[],\"tag_slug__and\":[],\"post_parent__in\":[],\"post_parent__not_in\":[],\"author__in\":[],\"author__not_in\":[],\"ignore_sticky_posts\":false,\"suppress_filters\":false,\"cache_results\":true,\"update_post_term_cache\":true,\"lazy_load_term_meta\":true,\"update_post_meta_cache\":true,\"nopaging\":false,\"comments_per_page\":\"50\",\"no_found_rows\":false}","current_page":1,"max_page":4278}</script>
+<div id="hg_load_more" class="btn red-btn" style="width: 100%; text-align: center;">Більше новин</div>
+</div>
+
+<script defer src="/wp-content/themes/kyivnews/js/jquery-3.5.1.min.js"></script>
+
+<script>
+// Чекаємо, поки браузер обробить усі defer-скрипти
+document.addEventListener('DOMContentLoaded', function () {
+    if (window.jQuery) {
+        // Закриття нижнього банера
+        jQuery('#close-f-ads').on('click', function() {
+            jQuery('#footer_fix_ads').hide();
+        });
+
+        // Закриття відео-банера
+        jQuery('#close-v-ads').on('click', function() {
+            jQuery(this).parent().find('video').trigger('pause');
+            jQuery('.hg-adv-item.v-ads').hide();
+        });
+    }
+});
+</script>
+
+<script type="rocketlazyloadscript" data-minify="1" defer data-rocket-type="text/javascript" src="https://kyiv24.news/wp-content/cache/min/1/wp-content/themes/kyivnews/hg80/hgloadmore.js?ver=1786356277"></script>
+<script type="rocketlazyloadscript" data-minify="1"  data-rocket-type="text/javascript" src="https://kyiv24.news/wp-content/cache/min/1/wp-content/themes/kyivnews/hg80/hg_fr.js?ver=1786356277" defer></script>
+<style>	
+
+
+@-webkit-keyframes hgrotat{
+50% {  
+    background: #f04e45;
+    color: #fff;
+	} 
+100% {  
+    background: transparent;
+    color: #f04e45;
+	} 
+}
+@-moz-keyframes hgrotat{
+50% {  
+    background: #f04e45;
+    color: #fff;
+	} 
+100% {  
+    background: transparent;
+    color: #f04e45;
+	} 
+}
+@keyframes hgrotat{
+50% {  
+    background: #f04e45;
+    color: #fff;
+	} 
+100% {  
+    background: transparent;
+    color: #f04e45;
+	} 
+}
+</style>    </div>
+</div>
+
+<script type="rocketlazyloadscript">
+(function() {
+    let activated = false;
+    const wrapper = document.getElementById('smart-news-feed-wrapper');
+
+    function activateNewsFeed() {
+        if (activated || !wrapper) return;
+        activated = true;
+
+        wrapper.classList.remove('not-active');
+
+        const images = wrapper.querySelectorAll('img');
+        images.forEach(img => {
+            img.style.display = 'block';
+            const src = img.getAttribute('data-lazy-src') || img.getAttribute('data-src');
+            const srcset = img.getAttribute('data-lazy-srcset') || img.getAttribute('data-srcset');
+            if (src) img.src = src;
+            if (srcset) img.srcset = srcset;
+        });
+
+        if (window.RocketLazyLoadScripts && typeof window.RocketLazyLoadScripts.update === 'function') {
+            window.RocketLazyLoadScripts.update();
+        }
+
+        removeListeners();
+    }
+
+    function removeListeners() {
+        window.removeEventListener('scroll', activateNewsFeed);
+        window.removeEventListener('mousemove', activateNewsFeed);
+        window.removeEventListener('touchstart', activateNewsFeed);
+        document.removeEventListener('wheel', activateNewsFeed);
+    }
+
+    function initSmartFeed() {
+        window.addEventListener('scroll', activateNewsFeed, { passive: true });
+        window.addEventListener('mousemove', activateNewsFeed, { passive: true });
+        window.addEventListener('touchstart', activateNewsFeed, { passive: true });
+        document.addEventListener('wheel', activateNewsFeed, { passive: true });
+        
+        setTimeout(activateNewsFeed, 3000);
+    }
+
+    if (document.readyState === 'interactive' || document.readyState === 'complete') {
+        initSmartFeed();
+    } else {
+        document.addEventListener('DOMContentLoaded', initSmartFeed);
+    }
+})();
+</script>        </div>
+    </div>
+   
+
+</div></div>
+<footer id="colophon" class="site-footer">
+<div class="container-main">
+        <div class="footer-widgets">
+			<div class="footer-area">
+        <h2 class="widget-name"></h2>
+
+		<div class="tags-cloud-wrap">
+			                        <a href='/tag/vijna'>Війна,</a>
+		                        <a href='/tag/metropolitan'>Столичне,</a>
+		                        <a href='/tag/polityka'>Політика,</a>
+		                        <a href='/tag/helpukraine'>Допомога Україні,</a>
+		                        <a href='/tag/suspilstvo'>Суспільство,</a>
+		                        <a href='/tag/biznes'>Економіка,</a>
+		                        <a href='/tag/kultura'>Культура,</a>
+		                        <a href='/tag/osvita'>Освіта,</a>
+		                        <a href='/tag/transport'>Транспорт,</a>
+		                        <a href='/tag/sport'>Спорт,</a>
+		                        <a href='/tag/mediczina'>Здоров'я,</a>
+		                        <a href='/tag/weather'>Погода</a>
+			</div>
+
+
+		</div><div class="central-area"><div class="footer-area">
+        <h2 class="widget-name"></h2>
+
+				            <a href='/'>Головна</a>
+		            <a href='/news'>Особисте: Новини</a>
+		            <a href='/about'>Про нас</a>
+		            <a href='/redakcziya'>Редакція</a>
+		            <a href='/socials'>Ми у соцмережах</a>
+			
+		</div><div class="footer-area">
+        <h2 class="widget-name"></h2>
+
+				            <a href='/reklama'>Реклама на сайті</a>
+			
+		</div><div class="footer-area">
+        <h2 class="widget-name"></h2>
+
+				            <a href='/redakczijna-polityka'>Редакційна політика</a>
+		            <a href='/privacy-policy'>Політика конфіденційності</a>
+			
+		</div></div><div class="footer-area">        <div class="widget-inner custom-text-widget">
+
+            <h2 class="widget-name"></h2>
+
+			<div class="footer-free-text">
+	<p><strong>Релізи та запити</strong><strong>:</strong><br />
+e-mail: <a href='mailto:smm@kievtv.com.ua'>press@kyivtv.com</a></p>
+</div>
+        </div>
+
+		</div>        </div>
+        <div class="copyright-wrap">
+            <div class="footer-socials">
+                <a rel='nofollow' target='_blank' href='/feed/ukrnet' class='social-link icon'>
+                    <span class="icon"><svg><use xlink:href="#rss"></use></svg></span></a>
+				                        <a rel='nofollow' target='_blank' href='https://t.me/kyivtv' class='social-link icon'>
+                            <img src="https://kyiv24.news/wp-content/uploads/2020/04/telegram.svg" alt="social-icon"></a>
+					                        <a rel='nofollow' target='_blank' href='https://twitter.com/kyiv_tv' class='social-link icon'>
+                            <img src="https://kyiv24.news/wp-content/uploads/2023/11/x_logo_2023.svg" alt="social-icon"></a>
+					                        <a rel='nofollow' target='_blank' href='https://www.facebook.com/kyiv24tv' class='social-link icon'>
+                            <img src="https://kyiv24.news/wp-content/uploads/2020/04/facebook-light.svg" alt="social-icon"></a>
+					                        <a rel='nofollow' target='_blank' href='https://www.youtube.com/@kyivchannel' class='social-link icon'>
+                            <img src="https://kyiv24.news/wp-content/uploads/2020/04/youtube-light.svg" alt="social-icon"></a>
+					                        <a rel='nofollow' target='_blank' href='https://www.instagram.com/kyiv24_tv/' class='social-link icon'>
+                            <img src="https://kyiv24.news/wp-content/uploads/2020/04/insta-light.svg" alt="social-icon"></a>
+					                        <a rel='nofollow' target='_blank' href='https://www.threads.net/@kyiv24_tv' class='social-link icon'>
+                            <img src="https://kyiv24.news/wp-content/uploads/2023/11/threads-white.svg" alt="social-icon"></a>
+					                        <a rel='nofollow' target='_blank' href='https://www.tiktok.com/@kyiv24?_r=1' class='social-link icon'>
+                            <img src="https://kyiv24.news/wp-content/uploads/2023/11/tiktok-logo-white.svg" alt="social-icon"></a>
+					            </div>
+        </div>
+
+        <div class="copyright-advertisement-wrap">
+            <div class="copyright">
+				Будь-яке копіювання, передрук та відтворення Фото та/або Відео Творів правовласника Getty Images - суворо забороняється. Всі комерційні рекламні матеріали позначені словами «спецпроєкт», «новини компаній», «промо» або «партнерський матеріал». Детальніше щодо реклами та правил цитування можна ознайомитись в правилах користування сайтом. Усі права захищені. © 2020—2025, КП КМР ТК «Київ».            </div>
+        </div>
+
+    </div>
+	        <a class='hidden-btn icon bvi-open'
+       data-scripts='{"css": {"1": ""}, "js": {"0": "/wp-includes/js/jquery/jquery.min.js", "1": "/wp-includes/js/jquery/jquery-migrate.min.js", "2": "", "3": "", "4": ""}}'>
+        <svg>
+            <use xlink:href="#eye"></use>
+        </svg>
+    </a>
+    </footer></div><!--svg-->
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none">
+
+    <symbol id="logo" viewBox="0 0 141 29">
+        <path d="M42.8 19H41V25.9H37V8.70001H41V15.5H42.4L46.2 8.70001H51.2L45.8 16.5L51.6 26H46.7L42.8 19Z" fill="black"/>
+        <path d="M62.9 8.70001H66.9V26H62.9V15.2H62.8L56.5 25.9H52.5V8.70001H56.5V19.4H56.6L62.9 8.70001Z" fill="black"/>
+        <path d="M70.5 6.9H67.1V4.5H70.5V6.9ZM73.8 25.9H69.8V8.7H73.8V25.9ZM76.6 6.9H73.2V4.5H76.6V6.9Z" fill="black"/>
+        <path d="M76.8 25.9V8.70001H82.7C84.8 8.70001 86.5 9.10001 87.7 9.90001C88.9 10.7 89.5 11.9 89.5 13.5C89.5 14.3 89.3 15.1 88.9 15.7C88.5 16.3 87.9 16.8 87.1 17.1C88.1 17.3 88.9 17.8 89.3 18.5C89.8 19.2 90 20 90 20.9C90 22.6 89.4 23.9 88.3 24.7C87.2 25.6 85.5 26 83.4 26H76.8V25.9ZM80.8 15.9H82.8C83.7 15.9 84.4 15.7 84.8 15.4C85.2 15.1 85.5 14.6 85.5 13.9C85.5 13.2 85.3 12.6 84.8 12.3C84.3 12 83.6 11.8 82.7 11.8H80.8V15.9ZM80.8 18.5V22.8H83.6C84.5 22.8 85.1 22.6 85.5 22.3C85.9 22 86.1 21.4 86.1 20.8C86.1 20 85.9 19.5 85.5 19.1C85.1 18.7 84.5 18.5 83.7 18.5H80.8Z" fill="black"/>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M18 20.6L8.5 6.5L14.1 0L21.9 4L18 20.6Z" fill="black"/>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M18.3 22.1L16.9 28L21.8 27.1L18.3 22.1Z" fill="black"/>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M19.4 21.5L27.6 19.8L29.7 23.1L26.4 25.8L19.4 21.5Z" fill="black"/>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M17.2 21.9L8.7 23.4L8 27.2L11.9 28.5L17.2 21.9Z" fill="black"/>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M19 20.4L25.3 7.39999L32.5 8.59999L32.9 15.5L19 20.4ZM17 20.8L6.3 11.1L0 14.9L2.2 21.5L17 20.8Z" fill="black"/>
+        <path d="M96 25.4H95.2V23.7H93.5V25.4H92.7V21.2H93.5V23H95.2V21.2H96V25.4Z" fill="black"/>
+        <path d="M99 24.5H97.5L97.2 25.4H96.4L97.8 21.2H98.7L100.1 25.4H99.3L99 24.5ZM97.7 23.8H98.8L98.3 22.2L97.7 23.8Z" fill="black"/>
+        <path d="M104.9 21.8H103.7V25.3H102.9V21.8H101.7V21.2H104.9V21.8Z" fill="black"/>
+        <path d="M105.3 25.4V21.2H106.7C107.2 21.2 107.6 21.3 107.9 21.5C108.2 21.7 108.3 22 108.3 22.4C108.3 22.6 108.2 22.8 108.1 22.9C108 23.1 107.8 23.2 107.7 23.2C108 23.3 108.1 23.4 108.3 23.5C108.5 23.6 108.5 23.9 108.5 24.1C108.5 24.5 108.4 24.8 108.1 25C107.8 25.2 107.5 25.3 107 25.3H105.3V25.4ZM106.2 22.9H106.8C107 22.9 107.2 22.9 107.3 22.8C107.4 22.7 107.5 22.6 107.5 22.4C107.5 22.2 107.4 22.1 107.3 22C107.2 21.9 107 21.9 106.8 21.9H106.2V22.9ZM106.2 23.5V24.7H107C107.2 24.7 107.4 24.7 107.5 24.6C107.6 24.5 107.7 24.4 107.7 24.2C107.7 24 107.7 23.8 107.6 23.7C107.5 23.6 107.3 23.5 107.1 23.5H106.2Z" fill="black"/>
+        <path d="M112.5 23.6C112.5 24.1 112.3 24.5 112 24.9C111.7 25.2 111.3 25.4 110.7 25.4C110.2 25.4 109.8 25.2 109.4 24.9C109.1 24.6 108.9 24.1 108.9 23.6V22.8C108.9 22.3 109.1 21.9 109.4 21.5C109.7 21.2 110.1 21 110.7 21C111.2 21 111.6 21.2 112 21.5C112.3 21.8 112.5 22.3 112.5 22.8V23.6ZM111.6 22.9C111.6 22.6 111.5 22.3 111.4 22.1C111.3 21.9 111 21.8 110.7 21.8C110.4 21.8 110.2 21.9 110 22.1C109.8 22.3 109.8 22.6 109.8 22.9V23.7C109.8 24 109.9 24.3 110 24.5C110.2 24.7 110.4 24.8 110.7 24.8C111 24.8 111.2 24.7 111.4 24.5C111.6 24.3 111.6 24 111.6 23.7V22.9Z" fill="black"/>
+        <path d="M116.3 23.9C116.3 24.4 116.2 24.7 115.9 25C115.6 25.3 115.2 25.4 114.7 25.4C114.2 25.4 113.8 25.2 113.5 24.9C113.2 24.6 113 24.2 113 23.7V22.9C113 22.4 113.2 22 113.5 21.7C113.8 21.4 114.2 21.2 114.7 21.2C115.2 21.2 115.6 21.3 115.9 21.6C116.2 21.9 116.3 22.2 116.3 22.7H115.5C115.5 22.4 115.4 22.2 115.3 22.1C115.2 22 115 21.9 114.7 21.9C114.4 21.9 114.3 22 114.1 22.2C114 22.4 113.9 22.7 113.9 23V23.1H115.2V23.7H113.9V23.8C113.9 24.1 114 24.4 114.1 24.6C114.3 24.8 114.5 24.9 114.7 24.9C115 24.9 115.2 24.8 115.3 24.7C115.4 24.6 115.5 24.4 115.5 24.1H116.3V23.9Z" fill="black"/>
+        <path d="M117.9 21.2L119 24.3L120.1 21.2H121.2V25.4H120.4V24.2L120.5 22.4L119.4 25.5H118.8L117.7 22.4L117.8 24.2V25.4H117V21.2H117.9Z" fill="black"/>
+        <path d="M123.4 23L123.5 23.2L124.3 21.1H125.2L123.8 24.5C123.7 24.8 123.5 25 123.4 25.1C123.2 25.2 123 25.3 122.7 25.3C122.7 25.3 122.6 25.3 122.5 25.3C122.4 25.3 122.4 25.3 122.4 25.3V24.7H122.5H122.6C122.8 24.7 122.9 24.7 122.9 24.6C123 24.5 123 24.4 123.1 24.3L123.2 24.1L121.7 21.1H122.6L123.4 23Z" fill="black"/>
+        <path d="M129.8 21.8H128V22.6H128.7C129.2 22.6 129.6 22.7 129.8 23C130.1 23.3 130.2 23.6 130.2 24C130.2 24.4 130.1 24.7 129.8 25C129.5 25.3 129.1 25.4 128.7 25.4H127.1V21.2H129.8V21.8V21.8ZM127.9 23.3V24.7H128.6C128.8 24.7 129 24.6 129.1 24.5C129.2 24.4 129.3 24.2 129.3 24C129.3 23.8 129.2 23.6 129.1 23.5C129 23.4 128.8 23.3 128.6 23.3H127.9Z" fill="black"/>
+        <path d="M134.2 23.6C134.2 24.1 134 24.5 133.7 24.9C133.4 25.2 133 25.4 132.4 25.4C131.9 25.4 131.5 25.2 131.1 24.9C130.8 24.6 130.6 24.1 130.6 23.6V22.8C130.6 22.3 130.8 21.9 131.1 21.5C131.4 21.2 131.8 21 132.4 21C132.9 21 133.3 21.2 133.7 21.5C134 21.8 134.2 22.3 134.2 22.8V23.6ZM133.3 22.9C133.3 22.6 133.2 22.3 133.1 22.1C133 21.9 132.7 21.8 132.4 21.8C132.1 21.8 131.9 21.9 131.7 22.1C131.5 22.3 131.5 22.6 131.5 22.9V23.7C131.5 24 131.6 24.3 131.7 24.5C131.9 24.7 132.1 24.8 132.4 24.8C132.7 24.8 132.9 24.7 133.1 24.5C133.3 24.3 133.3 24 133.3 23.7V22.9Z" fill="black"/>
+        <path d="M134.8 21.2H135.6V24.7H137.3V21.2H138.1V24.7H138.6V26.4H137.8V25.4H134.8V21.2Z" fill="black"/>
+        <path d="M140.2 25.4H139.4V21.2H140.2V25.4Z" fill="black"/>
+        <path d="M95.7 9.89999L98 17L100.3 9.89999H103.4V20H101V17.5L101.2 12.9L98.7 20H97.1L94.7 13L94.9 17.5V20H92.6V9.89999H95.7Z" fill="black"/>
+        <path d="M112.6 15.7H108.6V18.2H113.3V20H106.3V9.89999H113.3V11.7H108.6V13.9H112.6V15.7Z" fill="black"/>
+        <path d="M115.6 20V9.89999H119.2C120.4 9.89999 121.4 10.3 122.2 11.1C123 11.9 123.4 12.9 123.4 14.1V15.9C123.4 17.1 123 18.1 122.2 18.9C121.4 19.7 120.4 20.1 119.2 20.1H115.6V20ZM118 11.7V18.2H119.1C119.7 18.2 120.2 18 120.6 17.6C121 17.2 121.1 16.6 121.1 15.9V14C121.1 13.3 120.9 12.7 120.6 12.3C120.3 11.9 119.8 11.7 119.1 11.7H118V11.7Z" fill="black"/>
+        <path d="M128.7 20H126.4V9.89999H128.7V20Z" fill="black"/>
+        <path d="M137.3 18H134.1L133.5 20H131.1L134.4 9.89999H136.9L140.2 20H137.8L137.3 18ZM134.6 16.2H136.7L135.6 12.6L134.6 16.2Z" fill="black"/>
+
+
+    </symbol>
+
+    <symbol id="logo-old" viewBox="0 0 161.351 47.84">
+        <g id="Group_1" transform="translate(55.102 0.929)">
+            <path d="M68.21,42.414V11.11H75.1V24.754L87.8,11.11h8.321L83.389,24.391,96.718,42.414H88.43L78.736,29.084,75.1,32.833v9.581Z"
+                  transform="translate(-68.21 -3.064)"/>
+            <path d="M133.692,42.414h-6.8v-19.9l-15.155,19.9H105.87V11.11h6.8V30.385l14.67-19.275h6.35Z"
+                  transform="translate(-75.447 -3.064)" fill-rule="evenodd"/>
+            <path d="M166.76,42.414V11.11H181.3q5.4,0,8.183,2.771a7.343,7.343,0,0,1,2.149,5.412,7.359,7.359,0,0,1-4.112,6.753,10.251,10.251,0,0,1,4.387,2.932,7.448,7.448,0,0,1,1.478,4.847,7.319,7.319,0,0,1-3.126,6.4q-3.134,2.189-8.587,2.189Zm6.705-18.653h6.35q4.968,0,4.968-3.4a2.755,2.755,0,0,0-1.163-2.424,5.76,5.76,0,0,0-3.352-.808h-6.794Zm0,12.61h8.183q4.847,0,4.847-3.49t-5.1-3.4h-7.957Z"
+                  transform="translate(-87.148 -3.064)"/>
+            <path d="M149.71,42.414V11.11H156.6v31.3Z" transform="translate(-83.872 -3.064)"/>
+            <rect width="6.891" height="5.041" transform="translate(60.345)"/>
+            <rect width="6.891" height="5.041" transform="translate(69.918)"/>
+        </g>
+        <circle cx="23.92" cy="23.92" r="23.92"/>
+        <g transform="translate(3.231 5.582)">
+            <path d="M28.832,32.413,17.11,14.988,24.033,6.91l9.678,4.92Z" transform="translate(-6.519 -6.91)"
+                  fill="#fff" fill-rule="evenodd"/>
+            <path d="M31.633,40.73,29.88,48.106l6.107-1.163Z" transform="translate(-8.973 -13.409)" fill="#fff"
+                  fill-rule="evenodd"/>
+            <path d="M33.77,39.314,43.916,37.23l2.545,4.047-4.047,3.344Z" transform="translate(-9.721 -12.737)"
+                  fill="#fff" fill-rule="evenodd"/>
+            <path d="M27.687,40.45,17.129,42.316l-.889,4.7,4.9,1.64Z" transform="translate(-6.352 -13.355)" fill="#fff"
+                  fill-rule="evenodd"/>
+            <path d="M27.581,34.356,35.433,18.28l8.959,1.535h0l.533,8.579ZM25,34.849,11.8,22.788,4,27.505H4l2.666,8.175Z"
+                  transform="translate(-4 -9.095)" fill="#fff" fill-rule="evenodd"/>
+        </g>
+    </symbol>
+
+    <symbol id="search" viewBox="0 0 22.541 22.54">
+        <path d="M13.415,0a9.122,9.122,0,0,0-7.1,14.852L.284,20.885a.972.972,0,0,0,1.374,1.374l6.03-6.029A9.124,9.124,0,1,0,13.415,0Zm0,16.845a7.721,7.721,0,1,1,7.721-7.721A7.728,7.728,0,0,1,13.415,16.849Z"
+              transform="translate(0 -0.004)" fill="currentColor"/>
+    </symbol>
+
+    <symbol id="burger" viewBox="0 0 22 16">
+        <g transform="translate(1 1)">
+            <line x1="20" transform="translate(0 7)" fill="none" stroke="currentColor" stroke-linecap="round"
+                  stroke-width="2"/>
+            <line x1="10" transform="translate(10)" fill="none" stroke="currentColor" stroke-linecap="round"
+                  stroke-width="2"/>
+            <line x1="10" transform="translate(10 14)" fill="none" stroke="currentColor" stroke-linecap="round"
+                  stroke-width="2"/>
+        </g>
+    </symbol>
+
+    <symbol id="arrow" viewBox="0 0 16.8 11.561">
+        <path d="M.229,47.144l5-5a.781.781,0,0,1,1.1,1.1L2.667,46.915H16.018a.781.781,0,1,1,0,1.562H2.667l3.666,3.666a.781.781,0,0,1-1.1,1.1l-5-5A.781.781,0,0,1,.229,47.144Z"
+              transform="translate(0 -41.916)" fill="currentColor"/>
+    </symbol>
+
+    <symbol id="telegram" viewBox="0 0 22.881 20.11">
+        <path d="M5.505,11.652l2.846,7.114,3.7-3.7,6.352,5.049L22.881,0,0,9.531ZM16.343,5.77l-7,6.388-.872,3.288L6.855,11.416Zm0,0"
+              fill="currentColor"/>
+    </symbol>
+
+    <symbol id="twitter" viewBox="0 0 24.696 20.912">
+        <path d="M23.971,44.6q-.183.053-.365.1c-.744.188-.813-.06-.274-.607a4.965,4.965,0,0,0,.64-.8c.415-.646.055-.927-.651-.626q-.378.161-.768.292a3.21,3.21,0,0,1-2.408-.535,5.329,5.329,0,0,0-6.524.765,5.087,5.087,0,0,0-1.544,3.733,5.574,5.574,0,0,0,.034.608c.037.334-.526.577-1.286.469a14.6,14.6,0,0,1-4.686-1.494,15.028,15.028,0,0,1-3.887-2.859c-.537-.549-1.263-.5-1.463.239a5.288,5.288,0,0,0-.18,1.386,5.141,5.141,0,0,0,.637,2.516,5.4,5.4,0,0,0,.743,1.045c.478.525.4.829-.26.642a8.571,8.571,0,0,1-1.152-.445v.033a5.1,5.1,0,0,0,1.2,3.357A5.252,5.252,0,0,0,3.494,53.8c.688.341,1.009.531.624.581a5.455,5.455,0,0,1-.7.045q-.238,0-.5-.022c-.275-.023-.325.55.093,1.195a5.284,5.284,0,0,0,1.273,1.352,5.164,5.164,0,0,0,1.7.854c.738.21.887.594.228.989A10.312,10.312,0,0,1,.8,60.257q-.334,0-.638-.015c-.352-.017-.116.293.564.649a14.654,14.654,0,0,0,6.9,1.669,15.43,15.43,0,0,0,5.277-.89,13.421,13.421,0,0,0,4.215-2.385,15.962,15.962,0,0,0,3.015-3.439,15.34,15.34,0,0,0,1.887-4.06,15,15,0,0,0,.621-4.24c0-.128,0-.242,0-.343,0-.19.5-.7,1.057-1.228q.379-.356.724-.747C24.933,44.652,24.708,44.388,23.971,44.6Z"
+              transform="translate(-0.003 -41.648)" fill="currentColor"/>
+    </symbol>
+
+    <symbol id="eye" viewBox="0 0 20.333 13.863">
+        <path d="M173.44,170.667a2.773,2.773,0,1,0,2.773,2.773A2.775,2.775,0,0,0,173.44,170.667Z"
+              transform="translate(-163.273 -166.508)" fill="currentColor"/>
+        <path d="M10.166,74.667A10.931,10.931,0,0,0,0,81.6a10.921,10.921,0,0,0,20.333,0A10.926,10.926,0,0,0,10.166,74.667Zm0,11.553A4.621,4.621,0,1,1,14.788,81.6,4.623,4.623,0,0,1,10.166,86.22Z"
+              transform="translate(0 -74.667)" fill="currentColor"/>
+    </symbol>
+
+    <symbol id="quote" viewBox="0 0 95.333 95.332">
+        <path fill="#F04E45" d="M30.512,43.939c-2.348-0.676-4.696-1.019-6.98-1.019c-3.527,0-6.47,0.806-8.752,1.793
+			c2.2-8.054,7.485-21.951,18.013-23.516c0.975-0.145,1.774-0.85,2.04-1.799l2.301-8.23c0.194-0.696,0.079-1.441-0.318-2.045
+			s-1.035-1.007-1.75-1.105c-0.777-0.106-1.569-0.16-2.354-0.16c-12.637,0-25.152,13.19-30.433,32.076
+			c-3.1,11.08-4.009,27.738,3.627,38.223c4.273,5.867,10.507,9,18.529,9.313c0.033,0.001,0.065,0.002,0.098,0.002
+			c9.898,0,18.675-6.666,21.345-16.209c1.595-5.705,0.874-11.688-2.032-16.851C40.971,49.307,36.236,45.586,30.512,43.939z"/>
+        <path fill="#F04E45" d="M92.471,54.413c-2.875-5.106-7.61-8.827-13.334-10.474c-2.348-0.676-4.696-1.019-6.979-1.019
+			c-3.527,0-6.471,0.806-8.753,1.793c2.2-8.054,7.485-21.951,18.014-23.516c0.975-0.145,1.773-0.85,2.04-1.799l2.301-8.23
+			c0.194-0.696,0.079-1.441-0.318-2.045c-0.396-0.604-1.034-1.007-1.75-1.105c-0.776-0.106-1.568-0.16-2.354-0.16
+			c-12.637,0-25.152,13.19-30.434,32.076c-3.099,11.08-4.008,27.738,3.629,38.225c4.272,5.866,10.507,9,18.528,9.312
+			c0.033,0.001,0.065,0.002,0.099,0.002c9.897,0,18.675-6.666,21.345-16.209C96.098,65.559,95.376,59.575,92.471,54.413z"/>
+    </symbol>
+
+    <symbol id="close" viewBox="0 0 17.827 16.827">
+        <g transform="translate(-3.587 1.413)">
+            <line x1="15" y2="14" transform="translate(5)" fill="none" stroke="currentColor" stroke-linecap="round"
+                  stroke-width="2"/>
+            <line x1="15" y1="14" transform="translate(5)" fill="none" stroke="currentColor" stroke-linecap="round"
+                  stroke-width="2"/>
+        </g>
+    </symbol>
+
+    <symbol id="mail" viewBox="0 0 27.018 19.564">
+        <g transform="translate(0 -64)">
+            <path d="M9.863,105.863l9.875,9.875a1.856,1.856,0,0,0,2.655,0L34.086,104H8Z"
+                  transform="translate(-7.534 -37.671)" fill="#f04e45"/>
+            <g transform="translate(0 64)">
+                <path d="M24.688,64H2.329A2.306,2.306,0,0,0,0,66.329V81.235a2.306,2.306,0,0,0,2.329,2.329H24.688a2.306,2.306,0,0,0,2.329-2.329V66.329A2.306,2.306,0,0,0,24.688,64Zm1.4,17.235a1.373,1.373,0,0,1-1.4,1.4H2.329a1.373,1.373,0,0,1-1.4-1.4V66.329a1.373,1.373,0,0,1,1.4-1.4H24.688a1.373,1.373,0,0,1,1.4,1.4Z"
+                      transform="translate(0 -64)" fill="#1a1b2b"/>
+                <path d="M54.5,96.14l-9.875,9.875a1.351,1.351,0,0,1-1.956,0L32.792,96.14a.461.461,0,0,0-.652.652l9.875,9.875a2.34,2.34,0,0,0,1.63.7,2.26,2.26,0,0,0,1.63-.7l9.875-9.875a.461.461,0,0,0-.652-.652Z"
+                      transform="translate(-30.137 -94.137)" fill="#1a1b2b"/>
+                <path d="M64.792,260.518l3.727-3.727a.461.461,0,0,0-.652-.652l-3.727,3.727a.45.45,0,0,0,0,.652.45.45,0,0,0,.652,0Z"
+                      transform="translate(-60.273 -244.82)" fill="#1a1b2b"/>
+                <path d="M320.792,256.14a.461.461,0,1,0-.652.652l5.59,5.59a.45.45,0,0,0,.652,0,.45.45,0,0,0,0-.652Z"
+                      transform="translate(-301.367 -244.82)" fill="#1a1b2b"/>
+                <path d="M192.466,132.658a.423.423,0,0,0,.326-.14l3.727-3.727a.461.461,0,0,0-.652-.652l-3.727,3.727a.45.45,0,0,0,0,.652A.423.423,0,0,0,192.466,132.658Z"
+                      transform="translate(-180.82 -124.273)" fill="#1a1b2b"/>
+                <path d="M192.466,130.795a.423.423,0,0,0,.326-.14l1.863-1.863a.461.461,0,0,0-.652-.652L192.14,130a.45.45,0,0,0,0,.652A.423.423,0,0,0,192.466,130.795Z"
+                      transform="translate(-180.82 -124.273)" fill="#1a1b2b"/>
+                <path d="M226,160.14,224.14,162a.45.45,0,0,0,0,.652.45.45,0,0,0,.652,0l1.863-1.863a.461.461,0,0,0-.652-.652Z"
+                      transform="translate(-210.957 -154.41)" fill="#1a1b2b"/>
+                <path d="M36.192,261.59H32.932v-5.124a.466.466,0,0,0-.932,0v5.124a.934.934,0,0,0,.932.932h3.261a.466.466,0,0,0,0-.932Z"
+                      transform="translate(-30.137 -244.82)" fill="#1a1b2b"/>
+                <path d="M143.372,352H128.466a.466.466,0,0,0,0,.932h14.906a.466.466,0,0,0,0-.932Z"
+                      transform="translate(-120.547 -335.23)" fill="#1a1b2b"/>
+            </g>
+        </g>
+    </symbol>
+
+    <symbol id="white-logo" viewBox="0 0 210 43">
+        <path d="M64.1084 28.4594H61.4123V38.7946H55.4208V13.0314H61.4123V23.2169H63.5093L69.2012 13.0314H76.6905L68.602 24.7147L77.2896 38.9444H69.9501L64.1084 28.4594Z" fill="white"/>
+        <path d="M94.2154 13.0314H100.207V38.9444H94.2154V22.7675H94.0657L84.6291 38.7946H78.6377V13.0314H84.6291V29.0585H84.7789L94.2154 13.0314Z" fill="white"/>
+        <path d="M105.599 10.3353H100.506V6.74039H105.599V10.3353ZM110.542 38.7946H104.551V13.0314H110.542V38.7946ZM114.736 10.3353H109.643V6.74039H114.736V10.3353Z" fill="white"/>
+        <path d="M115.036 38.7946V13.0314H123.873C127.019 13.0314 129.565 13.6305 131.362 14.8288C133.16 16.0271 134.058 17.8246 134.058 20.2211C134.058 21.4194 133.759 22.6177 133.16 23.5164C132.561 24.4151 131.662 25.1641 130.464 25.6134C131.961 25.913 133.16 26.6619 133.759 27.7104C134.508 28.7589 134.807 29.9572 134.807 31.3053C134.807 33.8517 133.909 35.7989 132.261 36.9972C130.613 38.3452 128.067 38.9444 124.922 38.9444H115.036V38.7946ZM121.027 23.816H124.023C125.371 23.816 126.419 23.5164 127.019 23.0671C127.618 22.6177 128.067 21.8688 128.067 20.8203C128.067 19.7718 127.767 18.8731 127.019 18.4237C126.27 17.9743 125.221 17.6748 123.873 17.6748H121.027V23.816ZM121.027 27.7104V34.1512H125.221C126.569 34.1512 127.468 33.8517 128.067 33.4023C128.666 32.9529 128.966 32.0542 128.966 31.1555C128.966 29.9572 128.666 29.2083 128.067 28.6091C127.468 28.01 126.569 27.7104 125.371 27.7104H121.027Z" fill="white"/>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M26.9615 30.8559L12.7318 9.73609L21.1198 0L32.8031 5.99144L26.9615 30.8559Z" fill="white"/>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M27.4109 33.1027L25.3139 41.9401L32.6534 40.592L27.4109 33.1027Z" fill="white"/>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M29.0585 32.204L41.341 29.6576L44.4865 34.6006L39.5436 38.6448L29.0585 32.204Z" fill="white"/>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M25.7632 32.8031L13.0314 35.0499L11.9829 40.7418L17.8246 42.689L25.7632 32.8031Z" fill="white"/>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M28.4593 30.5564L37.8959 11.0842L48.6805 12.8816L49.2796 23.2168L28.4593 30.5564ZM25.4636 31.1555L9.43652 16.6263L0 22.3181L3.29529 32.204L25.4636 31.1555Z" fill="white"/>
+        <path d="M143.795 38.0456H142.596V35.4993H140.05V38.0456H138.852V31.7546H140.05V34.4508H142.596V31.7546H143.795V38.0456Z" fill="white"/>
+        <path d="M148.288 36.6976H146.041L145.592 38.0456H144.394L146.491 31.7546H147.839L149.936 38.0456H148.738L148.288 36.6976ZM146.341 35.6491H147.989L147.24 33.2525L146.341 35.6491Z" fill="white"/>
+        <path d="M157.126 32.6534H155.328V37.8959H154.13V32.6534H152.332V31.7546H157.126V32.6534Z" fill="white"/>
+        <path d="M157.725 38.0456V31.7546H159.822C160.571 31.7546 161.17 31.9044 161.619 32.204C162.069 32.5036 162.218 32.9529 162.218 33.5521C162.218 33.8516 162.069 34.1512 161.919 34.301C161.769 34.6006 161.469 34.7504 161.32 34.7504C161.769 34.9001 161.919 35.0499 162.218 35.1997C162.518 35.3495 162.518 35.7989 162.518 36.0984C162.518 36.6976 162.368 37.1469 161.919 37.4465C161.469 37.7461 161.02 37.8959 160.271 37.8959H157.725V38.0456ZM159.073 34.301H159.972C160.271 34.301 160.571 34.301 160.721 34.1512C160.87 34.0014 161.02 33.8516 161.02 33.5521C161.02 33.2525 160.87 33.1027 160.721 32.9529C160.571 32.8031 160.271 32.8031 159.972 32.8031H159.073V34.301ZM159.073 35.1997V36.9971H160.271C160.571 36.9971 160.87 36.9971 161.02 36.8474C161.17 36.6976 161.32 36.5478 161.32 36.2482C161.32 35.9486 161.32 35.6491 161.17 35.4993C161.02 35.3495 160.721 35.1997 160.421 35.1997H159.073Z" fill="white"/>
+        <path d="M168.509 35.3495C168.509 36.0984 168.21 36.6976 167.76 37.2967C167.311 37.7461 166.712 38.0456 165.813 38.0456C165.064 38.0456 164.465 37.7461 163.866 37.2967C163.417 36.8473 163.117 36.0984 163.117 35.3495V34.1512C163.117 33.4023 163.417 32.8031 163.866 32.204C164.315 31.7546 164.914 31.455 165.813 31.455C166.562 31.455 167.161 31.7546 167.76 32.204C168.21 32.6533 168.509 33.4023 168.509 34.1512V35.3495ZM167.161 34.301C167.161 33.8516 167.011 33.4023 166.862 33.1027C166.712 32.8031 166.263 32.6533 165.813 32.6533C165.364 32.6533 165.064 32.8031 164.765 33.1027C164.465 33.4023 164.465 33.8516 164.465 34.301V35.4993C164.465 35.9486 164.615 36.398 164.765 36.6976C165.064 36.9971 165.364 37.1469 165.813 37.1469C166.263 37.1469 166.562 36.9971 166.862 36.6976C167.161 36.398 167.161 35.9486 167.161 35.4993V34.301Z" fill="white"/>
+        <path d="M174.201 35.7989C174.201 36.5478 174.051 36.9971 173.602 37.4465C173.153 37.8959 172.553 38.0456 171.805 38.0456C171.056 38.0456 170.456 37.7461 170.007 37.2967C169.558 36.8474 169.258 36.2482 169.258 35.4993V34.301C169.258 33.5521 169.558 32.9529 170.007 32.5036C170.456 32.0542 171.056 31.7546 171.805 31.7546C172.553 31.7546 173.153 31.9044 173.602 32.3538C174.051 32.8031 174.201 33.2525 174.201 34.0014H173.003C173.003 33.5521 172.853 33.2525 172.703 33.1027C172.553 32.9529 172.254 32.8031 171.805 32.8031C171.355 32.8031 171.205 32.9529 170.906 33.2525C170.756 33.5521 170.606 34.0014 170.606 34.4508V34.6006H172.553V35.4993H170.606V35.6491C170.606 36.0984 170.756 36.5478 170.906 36.8474C171.205 37.1469 171.505 37.2967 171.805 37.2967C172.254 37.2967 172.553 37.1469 172.703 36.9971C172.853 36.8474 173.003 36.5478 173.003 36.0984H174.201V35.7989Z" fill="white"/>
+        <path d="M176.598 31.7546L178.245 36.398L179.893 31.7546H181.541V38.0457H180.342V36.2482L180.492 33.5521L178.845 38.1954H177.946L176.298 33.5521L176.448 36.2482V38.0457H175.25V31.7546H176.598Z" fill="white"/>
+        <path d="M184.836 34.4508L184.986 34.7504L186.184 31.6049H187.532L185.435 36.6976C185.285 37.1469 184.986 37.4465 184.836 37.5963C184.536 37.7461 184.237 37.8959 183.787 37.8959C183.787 37.8959 183.638 37.8959 183.488 37.8959C183.338 37.8959 183.338 37.8959 183.338 37.8959V36.9972H183.488H183.638C183.937 36.9972 184.087 36.9972 184.087 36.8474C184.237 36.6976 184.237 36.5478 184.387 36.398L184.536 36.0984L182.29 31.6049H183.638L184.836 34.4508Z" fill="white"/>
+        <path d="M194.422 32.6534H191.726V33.8516H192.775C193.524 33.8516 194.123 34.0014 194.422 34.4508C194.872 34.9001 195.021 35.3495 195.021 35.9486C195.021 36.5478 194.872 36.9971 194.422 37.4465C193.973 37.8959 193.374 38.0456 192.775 38.0456H190.378V31.7546H194.422V32.6534V32.6534ZM191.576 34.9001V36.9971H192.625C192.924 36.9971 193.224 36.8474 193.374 36.6976C193.524 36.5478 193.673 36.2482 193.673 35.9486C193.673 35.6491 193.524 35.3495 193.374 35.1997C193.224 35.0499 192.924 34.9001 192.625 34.9001H191.576Z" fill="white"/>
+        <path d="M201.013 35.3495C201.013 36.0984 200.713 36.6976 200.264 37.2967C199.815 37.7461 199.215 38.0456 198.317 38.0456C197.568 38.0456 196.969 37.7461 196.37 37.2967C195.92 36.8473 195.621 36.0984 195.621 35.3495V34.1512C195.621 33.4023 195.92 32.8031 196.37 32.204C196.819 31.7546 197.418 31.455 198.317 31.455C199.066 31.455 199.665 31.7546 200.264 32.204C200.713 32.6533 201.013 33.4023 201.013 34.1512V35.3495ZM199.665 34.301C199.665 33.8516 199.515 33.4023 199.365 33.1027C199.215 32.8031 198.766 32.6533 198.317 32.6533C197.867 32.6533 197.568 32.8031 197.268 33.1027C196.969 33.4023 196.969 33.8516 196.969 34.301V35.4993C196.969 35.9486 197.118 36.398 197.268 36.6976C197.568 36.9971 197.867 37.1469 198.317 37.1469C198.766 37.1469 199.066 36.9971 199.365 36.6976C199.665 36.398 199.665 35.9486 199.665 35.4993V34.301Z" fill="white"/>
+        <path d="M201.912 31.7546H203.11V36.9971H205.656V31.7546H206.855V36.9971H207.603V39.5435H206.405V38.0456H201.912V31.7546Z" fill="white"/>
+        <path d="M210 38.0456H208.802V31.7546H210V38.0456Z" fill="white"/>
+        <path d="M143.345 14.8288L146.79 25.4636L150.235 14.8288H154.879V29.9572H151.284V26.2125L151.583 19.3224L147.839 29.9572H145.442L141.847 19.4722L142.147 26.2125V29.9572H138.702V14.8288H143.345Z" fill="white"/>
+        <path d="M168.659 23.5164H162.668V27.261H169.708V29.9572H159.223V14.8288H169.708V17.5249H162.668V20.8202H168.659V23.5164Z" fill="white"/>
+        <path d="M173.153 29.9572V14.8288H178.545C180.342 14.8288 181.84 15.4279 183.039 16.6262C184.237 17.8245 184.836 19.3224 184.836 21.1198V23.816C184.836 25.6134 184.237 27.1112 183.039 28.3095C181.84 29.5078 180.342 30.107 178.545 30.107H173.153V29.9572ZM176.748 17.5249V27.261H178.395C179.294 27.261 180.043 26.9615 180.642 26.3623C181.241 25.7632 181.391 24.8645 181.391 23.816V20.97C181.391 19.9215 181.091 19.0228 180.642 18.4237C180.193 17.8245 179.444 17.5249 178.395 17.5249H176.748V17.5249Z" fill="white"/>
+        <path d="M192.775 29.9572H189.329V14.8288H192.775V29.9572Z" fill="white"/>
+        <path d="M205.656 26.9615H200.863L199.964 29.9572H196.369L201.312 14.8288H205.057L210 29.9572H206.405L205.656 26.9615ZM201.612 24.2653H204.757L203.11 18.873L201.612 24.2653Z" fill="white"/>
+    </symbol>
+
+
+    <symbol id="play" viewBox="0 0 17.755 20.076">
+        <path d="M134.62,109.551l-14.408-8.4c-1.313-.766-2.372-.154-2.365,1.365l.074,16.679c.007,1.518,1.079,2.137,2.4,1.376l14.3-8.255C135.93,111.554,135.933,110.318,134.62,109.551Z"
+              transform="translate(-117.848 -100.818)" fill="currentColor"/>
+    </symbol>
+
+    <symbol id="volume" viewBox="0 0 480 480" fill="currentColor">
+        <path d="M278.944,17.577c-5.568-2.656-12.128-1.952-16.928,1.92L106.368,144.009H32c-17.632,0-32,14.368-32,32v128
+	c0,17.664,14.368,32,32,32h74.368l155.616,124.512c2.912,2.304,6.464,3.488,10.016,3.488c2.368,0,4.736-0.544,6.944-1.6
+	c5.536-2.656,9.056-8.256,9.056-14.4v-416C288,25.865,284.48,20.265,278.944,17.577z"/>
+        <path d="M368.992,126.857c-6.304-6.208-16.416-6.112-22.624,0.128c-6.208,6.304-6.144,16.416,0.128,22.656
+	C370.688,173.513,384,205.609,384,240.009s-13.312,66.496-37.504,90.368c-6.272,6.176-6.336,16.32-0.128,22.624
+	c3.136,3.168,7.264,4.736,11.36,4.736c4.064,0,8.128-1.536,11.264-4.64C399.328,323.241,416,283.049,416,240.009
+	S399.328,156.777,368.992,126.857z"/>
+        <path d="M414.144,81.769c-6.304-6.24-16.416-6.176-22.656,0.096c-6.208,6.272-6.144,16.416,0.096,22.624
+	C427.968,140.553,448,188.681,448,240.009s-20.032,99.424-56.416,135.488c-6.24,6.24-6.304,16.384-0.096,22.656
+	c3.168,3.136,7.264,4.704,11.36,4.704c4.064,0,8.16-1.536,11.296-4.64C456.64,356.137,480,299.945,480,240.009
+	S456.64,123.881,414.144,81.769z"/>
+    </symbol>
+
+    <symbol id="playlist" viewBox="0 0 320 320" fill="currentColor">
+        <rect y="96" width="256" height="42.667"/>
+        <rect y="10.667" width="256" height="42.667"/>
+        <rect y="181.333" width="170.667" height="42.667"/>
+        <polygon points="213.333,181.333 213.333,309.333 320,245.333 "/>
+    </symbol>
+
+    <symbol id="pause" viewBox="-45 0 327 327" fill="currentColor">
+        <path d="m158 0h71c4.417969 0 8 3.582031 8 8v311c0 4.417969-3.582031 8-8 8h-71c-4.417969 0-8-3.582031-8-8v-311c0-4.417969 3.582031-8 8-8zm0 0"/>
+        <path d="m8 0h71c4.417969 0 8 3.582031 8 8v311c0 4.417969-3.582031 8-8 8h-71c-4.417969 0-8-3.582031-8-8v-311c0-4.417969 3.582031-8 8-8zm0 0"/>
+    </symbol>
+
+    <symbol id="thin-arrow" viewBox="0 0 512.002 512.002">
+        <path d="M388.425,241.951L151.609,5.79c-7.759-7.733-20.321-7.72-28.067,0.04c-7.74,7.759-7.72,20.328,0.04,28.067l222.72,222.105
+			L123.574,478.106c-7.759,7.74-7.779,20.301-0.04,28.061c3.883,3.89,8.97,5.835,14.057,5.835c5.074,0,10.141-1.932,14.017-5.795
+			l236.817-236.155c3.737-3.718,5.834-8.778,5.834-14.05S392.156,245.676,388.425,241.951z" fill="currentColor"/>
+    </symbol>
+
+    <symbol id="double-arrow" viewBox="0 0 9 9">
+        <path d="M4.763 3.9L1.036 0.178004C0.921052 0.0700889 0.76862 0.0111371 0.61097 0.0136255C0.45332 0.0161139 0.302825 0.0798471 0.191336 0.191336C0.0798471 0.302825 0.0161139 0.45332 0.0136255 0.61097C0.0111371 0.76862 0.0700889 0.921052 0.178004 1.036L3.478 4.336L0.178004 7.636C0.0700889 7.75096 0.0111371 7.90339 0.0136255 8.06104C0.0161139 8.21869 0.0798471 8.36918 0.191336 8.48067C0.302825 8.59216 0.45332 8.65589 0.61097 8.65838C0.76862 8.66087 0.921052 8.60192 1.036 8.494L4.763 4.763C4.87671 4.64919 4.94058 4.49489 4.94058 4.334C4.94058 4.17312 4.87671 4.01882 4.763 3.905V3.9Z" fill="currentColor"/>
+        <path d="M8.763 3.9L5.036 0.178004C4.92105 0.0700889 4.76862 0.0111371 4.61097 0.0136255C4.45332 0.0161139 4.30283 0.0798471 4.19134 0.191336C4.07985 0.302825 4.01611 0.45332 4.01363 0.61097C4.01114 0.76862 4.07009 0.921052 4.178 1.036L7.478 4.336L4.178 7.636C4.07009 7.75096 4.01114 7.90339 4.01363 8.06104C4.01611 8.21869 4.07985 8.36918 4.19134 8.48067C4.30283 8.59216 4.45332 8.65589 4.61097 8.65838C4.76862 8.66087 4.92105 8.60192 5.036 8.494L8.763 4.763C8.87671 4.64919 8.94058 4.49489 8.94058 4.334C8.94058 4.17312 8.87671 4.01882 8.763 3.905V3.9Z" fill="currentColor"/>
+    </symbol>
+
+    <symbol id="bell" viewBox="-21 0 512 512">
+        <path fill="currentColor" d="m448 232.148438c-11.777344 0-21.332031-9.554688-21.332031-21.332032 0-59.839844-23.296875-116.074218-65.601563-158.402344-8.339844-8.339843-8.339844-21.820312 0-30.164062 8.339844-8.339844 21.824219-8.339844 30.164063 0 50.371093 50.367188 78.101562 117.335938 78.101562 188.566406 0 11.777344-9.554687 21.332032-21.332031 21.332032zm0 0"/>
+        <path fill="currentColor" d="m21.332031 232.148438c-11.773437 0-21.332031-9.554688-21.332031-21.332032 0-71.230468 27.734375-138.199218 78.101562-188.566406 8.339844-8.339844 21.824219-8.339844 30.164063 0 8.34375 8.34375 8.34375 21.824219 0 30.164062-42.304687 42.304688-65.597656 98.5625-65.597656 158.402344 0 11.777344-9.558594 21.332032-21.335938 21.332032zm0 0"/>
+        <path fill="currentColor" d="m434.753906 360.8125c-32.257812-27.265625-50.753906-67.117188-50.753906-109.335938v-59.476562c0-75.070312-55.765625-137.214844-128-147.625v-23.042969c0-11.796875-9.558594-21.332031-21.332031-21.332031-11.777344 0-21.335938 9.535156-21.335938 21.332031v23.042969c-72.253906 10.410156-128 72.554688-128 147.625v59.476562c0 42.21875-18.496093 82.070313-50.941406 109.503907-8.300781 7.105469-13.058594 17.429687-13.058594 28.351562 0 20.589844 16.746094 37.335938 37.335938 37.335938h352c20.585937 0 37.332031-16.746094 37.332031-37.335938 0-10.921875-4.757812-21.246093-13.246094-28.519531zm0 0"/>
+        <path fill="currentColor" d="m234.667969 512c38.632812 0 70.953125-27.542969 78.378906-64h-156.757813c7.421876 36.457031 39.742188 64 78.378907 64zm0 0"/>
+    </symbol>
+
+    <symbol id="eye" viewBox="0 0 27 18">
+        <path d="M13.2 5.40001C12.488 5.40001 11.792 5.61114 11.2 6.00671C10.6079 6.40229 10.1465 6.96453 9.87404 7.62234C9.60157 8.28016 9.53027 9.004 9.66918 9.70233C9.80809 10.4007 10.151 11.0421 10.6544 11.5456C11.1579 12.0491 11.7994 12.3919 12.4977 12.5308C13.196 12.6697 13.9198 12.5984 14.5777 12.326C15.2355 12.0535 15.7977 11.5921 16.1933 11.0001C16.5889 10.408 16.8 9.71201 16.8 9C16.8 8.04522 16.4207 7.12955 15.7456 6.45442C15.0705 5.77929 14.1548 5.40001 13.2 5.40001Z" fill="currentColor"/>
+        <path d="M13.2 0C10.3506 0.00164241 7.56759 0.860983 5.2133 2.46618C2.85902 4.07137 1.04244 6.34809 0 9C1.04105 11.6529 2.85729 13.9305 5.21188 15.5359C7.56648 17.1413 10.3502 18 13.2 18C16.0498 18 18.8335 17.1413 21.1881 15.5359C23.5427 13.9305 25.359 11.6529 26.4 9C25.3583 6.34761 23.5418 4.07044 21.1874 2.46514C18.833 0.859839 16.0496 0.000821686 13.2 0V0ZM13.2 15C12.0133 15 10.8533 14.6481 9.86658 13.9888C8.87988 13.3295 8.11085 12.3925 7.65672 11.2961C7.2026 10.1997 7.08378 8.99335 7.31529 7.82946C7.5468 6.66557 8.11824 5.59648 8.95736 4.75736C9.79647 3.91825 10.8656 3.3468 12.0295 3.11529C13.1933 2.88378 14.3997 3.0026 15.4961 3.45673C16.5925 3.91085 17.5295 4.67989 18.1888 5.66658C18.8481 6.65328 19.2 7.81331 19.2 9C19.2 10.5913 18.5679 12.1174 17.4426 13.2426C16.3174 14.3679 14.7913 15 13.2 15Z" fill="currentColor"/>
+    </symbol>
+
+    <symbol id="eye-crossed" viewBox="0 0 469.44 469.44">
+        <path fill="currentColor" d="M231.147,160.373l67.2,67.2l0.32-3.52c0-35.307-28.693-64-64-64L231.147,160.373z"/>
+        <path fill="currentColor" d="M234.667,117.387c58.88,0,106.667,47.787,106.667,106.667c0,13.76-2.773,26.88-7.573,38.933l62.4,62.4
+				c32.213-26.88,57.6-61.653,73.28-101.333c-37.013-93.653-128-160-234.773-160c-29.867,0-58.453,5.333-85.013,14.933l46.08,45.973
+				C207.787,120.267,220.907,117.387,234.667,117.387z"/>
+        <path fill="currentColor" d="M21.333,59.253l48.64,48.64l9.707,9.707C44.48,145.12,16.64,181.707,0,224.053c36.907,93.653,128,160,234.667,160
+				c33.067,0,64.64-6.4,93.547-18.027l9.067,9.067l62.187,62.293l27.2-27.093L48.533,32.053L21.333,59.253z M139.307,177.12
+				l32.96,32.96c-0.96,4.587-1.6,9.173-1.6,13.973c0,35.307,28.693,64,64,64c4.8,0,9.387-0.64,13.867-1.6l32.96,32.96
+				c-14.187,7.04-29.973,11.307-46.827,11.307C175.787,330.72,128,282.933,128,224.053C128,207.2,132.267,191.413,139.307,177.12z"/>
+    </symbol>
+
+    <symbol id="rss" viewBox="0 0 331.947 331.947" fill="white">
+        <circle cx="46.507" cy="285.333" r="46.507"/>
+        <path d="M0,120.64v60.373c83.307,0,150.827,67.627,150.827,150.827H211.2C211.2,215.253,116.587,120.64,0,120.64z"/>
+        <path d="M0,0v60.373c149.973,0,271.573,121.6,271.573,271.573h60.373C331.84,148.587,183.253,0,0,0z"/>
+    </symbol>
+
+
+</svg>
+
+
+<!--Usage-->
+<!--<svg><use xlink:href="#person"></use></svg>-->
+
+<!-- Google Analytics -->
+<script type="rocketlazyloadscript" async src="https://www.googletagmanager.com/gtag/js?id=G-JWME66RW3P"></script>
+<script type="rocketlazyloadscript">
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-JWME66RW3P', { 'transport_type': 'beacon' });
+</script>        <script type="rocketlazyloadscript" data-rocket-type="text/javascript">
+            (function(){
+                document.addEventListener('DOMContentLoaded', function(){
+                    let wpp_widgets = document.querySelectorAll('.popular-posts-sr');
+
+                    if ( wpp_widgets ) {
+                        for (let i = 0; i < wpp_widgets.length; i++) {
+                            let wpp_widget = wpp_widgets[i];
+                            WordPressPopularPosts.theme(wpp_widget);
+                        }
+                    }
+                });
+            })();
+        </script>
+        <script type="rocketlazyloadscript" data-minify="1" data-rocket-type='text/javascript' async="async" defer="defer" src='https://kyiv24.news/wp-content/cache/min/1/wp-content/themes/kyivnews/js/polyfill.js?ver=1786356280'></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript'>
+/* <![CDATA[ */
+var viewsCacheL10n = {"admin_ajax_url":"https:\/\/kyiv24.news\/wp-admin\/admin-ajax.php","nonce":"f190305c22","post_id":"536834"};
+/* ]]> */
+</script>
+<script type="rocketlazyloadscript" data-minify="1" data-rocket-type='text/javascript' src='https://kyiv24.news/wp-content/cache/min/1/wp-content/plugins/wp-postviews/postviews-cache.js?ver=1786356277' defer></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript'>
+/* <![CDATA[ */
+var wpp_params = {"sampling_active":"1","sampling_rate":"1","ajax_url":"https:\/\/kyiv24.news\/wp-json\/wordpress-popular-posts\/v1\/popular-posts","ID":"536834","token":"1a765acb15","debug":""};
+/* ]]> */
+</script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' async="async" defer="defer" src='https://kyiv24.news/wp-content/plugins/wordpress-popular-posts/assets/js/wpp-5.0.0.min.js?ver=5.1.0'></script>
+<script>window.lazyLoadOptions={elements_selector:"img[data-lazy-src],.rocket-lazyload,iframe[data-lazy-src]",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,callback_loaded:function(element){if(element.tagName==="IFRAME"&&element.dataset.rocketLazyload=="fitvidscompatible"){if(element.classList.contains("lazyloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}};window.addEventListener('LazyLoad::Initialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(i=0;i<mutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){continue}
+if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){continue}
+images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
+if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script data-no-minify="1" async src="https://kyiv24.news/wp-content/plugins/wp-rocket/assets/js/lazyload/16.1/lazyload.min.js"></script><script>function lazyLoadThumb(e){var t='<img loading="lazy" data-lazy-src="https://i.ytimg.com/vi/ID/hqdefault.jpg" alt="" width="480" height="360"><noscript><img src="https://i.ytimg.com/vi/ID/hqdefault.jpg" alt="" width="480" height="360"></noscript>',a='<div class="play"></div>';return t.replace("ID",e)+a}function lazyLoadYoutubeIframe(){var e=document.createElement("iframe"),t="ID?autoplay=1";t+=0===this.dataset.query.length?'':'&'+this.dataset.query;e.setAttribute("src",t.replace("ID",this.dataset.src)),e.setAttribute("frameborder","0"),e.setAttribute("allowfullscreen","1"),e.setAttribute("allow", "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"),this.parentNode.replaceChild(e,this)}document.addEventListener("DOMContentLoaded",function(){var e,t,a=document.getElementsByClassName("rll-youtube-player");for(t=0;t<a.length;t++)e=document.createElement("div"),e.setAttribute("data-id",a[t].dataset.id),e.setAttribute("data-query", a[t].dataset.query),e.setAttribute("data-src", a[t].dataset.src),e.innerHTML=lazyLoadThumb(a[t].dataset.id),e.onclick=lazyLoadYoutubeIframe,a[t].appendChild(e)});</script>
+<script type="rocketlazyloadscript" data-minify="1" defer src="https://kyiv24.news/wp-content/cache/min/1/wp-content/themes/kyivnews/js/system.js?ver=1786356277"></script>
+<script data-minify="1" defer src="https://kyiv24.news/wp-content/cache/min/1/wp-content/themes/kyivnews/js/app.js?ver=1786356277"></script>
+<style id='bvi-style-inline-css' type='text/css'>
+    a.bvi-link-widget, a.bvi-link-shortcode {
+        color: #ffffff !important;
+        background-color: #e53935 !important;
+    }
+</style>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript'>
+    /* <![CDATA[ */
+    var bvi_init = {
+        "settings": {
+            "bvi_theme": "white",
+            "bvi_font": "arial",
+            "bvi_font_size": 20,
+            "bvi_letter_spacing": "normal",
+            "bvi_line_height": "normal",
+            "bvi_images": true,
+            "bvi_reload": true,
+            "bvi_fixed": false,
+            "bvi_tts": false,
+            "bvi_flash_iframe": false,
+            "bvi_hide": false
+        }
+    };
+    /* ]]> */
+</script>
+
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "NewsMediaOrganization",
+        "url": "https://kyiv24.news",
+        "name": "КИЇВ24",
+        "email": "press@kyivtv.com",
+        "logo": {
+                "@type": "ImageObject",
+                "url": "https://kyiv24.news/wp-content/uploads/2023/08/logo_kyiv24_black_60_137.png",
+                "width": "137",
+                "height": "60"
+            },
+        "description": "Новини Києва, України та світу",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Київ",
+            "postalCode": " 04052",
+            "streetAddress": "вул. Глибочицька, 17-М",
+            "addressCountry":"UA"
+        },
+        "foundingDate": "2020",
+        "contactPoint" : [
+            {
+                "@type" : "ContactPoint",
+                "telephone" : "+380442785991",
+                "contactType" : "Приймальня"
+            }],		"sameAs" : [
+				
+								"https://t.me/kyivtv",
+					
+				
+								"https://twitter.com/kyiv_tv",
+					
+				
+								"https://www.facebook.com/kyiv24tv",
+					
+				
+								"https://www.youtube.com/@kyivchannel",
+					
+				
+								"https://www.instagram.com/kyiv24_tv/",
+					
+				
+								"https://www.threads.net/@kyiv24_tv",
+					
+				
+											"https://www.tiktok.com/@kyiv24?_r=1"
+					
+						]
+			    }
+</script>
+
+
+<style>
+.hgn-tpl .posts-listing article .inline-publication-content{ display: table; }
+.hgn-tpl .posts-listing article{ width: 29%; display: inline-table; vertical-align: top; }
+.hgn-tpl .posts-listing article .inline-card-thumbnail{ display: table-header-group; padding-bottom: 1em; }
+.hgn-tpl .posts-listing article .inline-publication-desc,
+.hgn-tpl .posts-listing article .inline-publication-card{ display: table; width: 100%; }
+#hg_load_more.bn-load{ -webkit-animation:hgrotat 1s linear infinite; -moz-animation:hgrotat 1s linear infinite; animation:hgrotat 1s linear infinite; }
+</style>
+
+<script defer src="/wp-content/themes/kyivnews/js/jquery-ui.min.js"></script>
+
+
+<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a391468e7ff8cb7b',t:'MTc4OTA3MzExOA=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1789066650 -->

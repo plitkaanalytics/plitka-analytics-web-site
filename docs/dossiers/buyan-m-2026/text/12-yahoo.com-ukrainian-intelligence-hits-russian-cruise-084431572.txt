@@ -1,0 +1,26 @@
+URL:         https://www.yahoo.com/news/articles/ukrainian-intelligence-hits-russian-cruise-084431572.html
+Кінцевий:    https://www.yahoo.com/news/articles/ukrainian-intelligence-hits-russian-cruise-084431572.html
+Заголовок:   Ukrainian intelligence hits Russian cruise missile carrier in Azov Sea – video
+Дата публ.:  2025-08-28
+Завантажено: 2026-09-10 20:45 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 576020
+Оригінал:    raw/12-yahoo.com-ukrainian-intelligence-hits-russian-cruise-084431572.html
+sha256:      545d0fa3eedf7055e2bd770e747e514af76d07be1cf47499026eb87ff9a0b6aa
+Витяг:       trafilatura
+
+==============================================================================
+# Ukrainian intelligence hits Russian cruise missile carrier in Azov Sea – video
+
+Units from Defence Intelligence of Ukraine struck a Buyan-M class missile vessel in the Sea of Azov on 28 August 2025.
+
+**Source**: [Defence Intelligence of Ukraine](https://fb.watch/BLRX_b7YCZ/) (DIU) on Facebook
+
+**Quote**: "A small missile vessel belonging to the aggressor state of Russia, Project 21631 Buyan-M – a carrier of Kalibr cruise missiles – was struck in the Sea of Azov near temporarily occupied Crimea as a result of a joint operation by the Department of Active Operations and the Prymary Special Unit of Defence Intelligence of Ukraine on 28 August 2025." 
+
+**Details**: DIU noted that the Prymary Special Unit had damaged the vessel's radar system using an aerial drone, while special forces from the Department of Active Operations attacked a side of its hull.
+
+As a result, the Russian corvette, which was in the potential launch zone for Kalibr missiles in Temryuk Bay, "sustained damage and was forced to leave the area of combat duty".
+
+**Background**: DIU recently reported that an uncrewed surface vessel had reached Novorossiysk Bay during a Black Sea operation where it exploded, [killing five elite Russian divers](https://www.pravda.com.ua/eng/news/2025/08/22/7527316/).
+
+**Support Ukrainska Pravda on ****Patreon****!**
