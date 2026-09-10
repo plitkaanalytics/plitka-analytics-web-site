@@ -159,6 +159,34 @@ function shipBaseNoteAt(shipId, date) {
 }
 
 // ─────────────────────────────────────────────────────────────────
+// BASEMAP
+// ─────────────────────────────────────────────────────────────────
+
+function hasWebGL() {
+  try {
+    const c = document.createElement('canvas');
+    return !!(window.WebGLRenderingContext &&
+      (c.getContext('webgl') || c.getContext('experimental-webgl')));
+  } catch (e) { return false; }
+}
+
+function addBasemap(map) {
+  const style = (window.FLEET_LOCALE && window.FLEET_LOCALE.basemapStyle) || './basemap-style.json';
+  if (window.maplibregl && L.maplibreGL && hasWebGL()) {
+    L.maplibreGL({
+      style: style,
+      attribution: '&copy; OpenFreeMap &copy; OpenMapTiles &copy; OpenStreetMap',
+    }).addTo(map);
+    return;
+  }
+  // Відкат без WebGL: Esri Ocean політичних кордонів не малює взагалі.
+  L.tileLayer(
+    'https://services.arcgisonline.com/ArcGIS/rest/services/Ocean/World_Ocean_Base/MapServer/tile/{z}/{y}/{x}',
+    { attribution: '&copy; Esri', maxZoom: 13 }
+  ).addTo(map);
+}
+
+// ─────────────────────────────────────────────────────────────────
 // MAP
 // ─────────────────────────────────────────────────────────────────
 let map, locationMarkers = {}, shipMarkers = {}, eventMarkers = [];
@@ -173,11 +201,13 @@ function initMap() {
     attributionControl: true,
   });
 
-  // OpenStreetMap — reliable basemap (no API key)
-  L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    attribution: '&copy; OpenStreetMap',
-    maxZoom: 19,
-  }).addTo(map);
+  // Підкладка. Растрові тайли OSM малюють кордон через Перекоп і російські
+  // підписи в Криму, а ні ключа, ні мовного параметра в них немає. Тому
+  // підкладка векторна: стиль лежить поруч (scripts/build-basemap-style.mjs),
+  // у ньому прибрано шар спірних кордонів і підписи переведені на мову
+  // матеріалу. Без WebGL відкочуємось на Esri Ocean — він не малює
+  // політичних кордонів узагалі, тож анексію не показує й він.
+  addBasemap(map);
 
   // Fit initial view to wider area
   map.fitBounds([[33, 18], [66, 53]]);

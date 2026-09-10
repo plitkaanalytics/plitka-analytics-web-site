@@ -1,6 +1,9 @@
 // English locale for fleet-engine infographics.
 // Loaded by *-en.html before fleet-engine-app1.js / fleet-engine-app2.js.
 window.FLEET_LOCALE = {
+  // Підписи підкладки англійською; стиль той самий, лише інша мова.
+  basemapStyle: './basemap-style-en.json',
+
   // ── Calendar ──────────────────────────────────────────────────────
   months:      ['January','February','March','April','May','June','July','August','September','October','November','December'],
   monthsShort: ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'],

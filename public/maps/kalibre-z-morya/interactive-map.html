@@ -5,9 +5,18 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Радіус ураження «Калібру»</title>
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<link rel="stylesheet" href="/embeds/maplibre-gl.css" />
 <style>
   * { margin: 0; padding: 0; box-sizing: border-box; }
   html, body, #map { width: 100%; height: 100%; font-family: sans-serif; }
+
+  /* Підкладка тут навмисно бліда: карту читають по колах ураження, а не по
+     самій місцевості. Раніше цю роль виконував світлий растр CARTO; вектор
+     кольоровіший, тож глушимо його тим самим фільтром, що й на сусідній
+     карті внутрішніх водних шляхів. */
+  .leaflet-tile-pane {
+    filter: saturate(0.15) brightness(1.05) contrast(0.95);
+  }
 
   /* Legend */
   .legend {
@@ -92,6 +101,8 @@
 <body>
 <div id="map"></div>
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="/embeds/maplibre-gl.js"></script>
+<script src="/embeds/leaflet-maplibre-gl.js"></script>
 <script>
 const BASES = [
   { name: 'Севастополь', fleet: 'Чорноморський флот', lat: 44.6166, lng: 33.5254, dir: 'bottom', off: [0, 10]  },
@@ -108,17 +119,30 @@ const map = L.map('map', {
   attributionControl: true,
 });
 
-// Custom pane for labels tile (above circles/markers, below tooltips)
-map.createPane('labelsPane');
-map.getPane('labelsPane').style.zIndex = 450;
-map.getPane('labelsPane').style.pointerEvents = 'none';
-
-// CARTO base – no labels
-L.tileLayer('https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}{r}.png', {
-  attribution: '&copy; <a href="https://carto.com">CARTO</a> &copy; <a href="https://openstreetmap.org">OSM</a>',
-  subdomains: 'abcd',
-  maxZoom: 19,
-}).addTo(map);
+// Підкладка. Растрові тайли малюють кордон через Перекоп і російські підписи
+// в Криму, а CARTO ще й вимагає ключ. Тому підкладка векторна: стиль лежить у
+// /embeds/ (scripts/build-basemap-style.mjs), спірні кордони в ньому не
+// малюються, підписи — мовою матеріалу. Без WebGL відкочуємось на Esri Ocean,
+// який політичних кордонів не малює взагалі.
+(function () {
+  let webgl = false;
+  try {
+    const c = document.createElement('canvas');
+    webgl = !!(window.WebGLRenderingContext &&
+      (c.getContext('webgl') || c.getContext('experimental-webgl')));
+  } catch (e) { webgl = false; }
+  if (webgl && window.maplibregl && L.maplibreGL) {
+    L.maplibreGL({
+      style: '/embeds/basemap-style.json',
+      attribution: '&copy; OpenFreeMap &copy; OpenMapTiles Data from OpenStreetMap',
+    }).addTo(map);
+  } else {
+    L.tileLayer(
+      'https://services.arcgisonline.com/ArcGIS/rest/services/Ocean/World_Ocean_Base/MapServer/tile/{z}/{y}/{x}',
+      { attribution: '&copy; Esri', maxZoom: 13 }
+    ).addTo(map);
+  }
+})();
 
 // Radius circles (below labels layer)
 BASES.forEach(b => {
@@ -133,12 +157,7 @@ BASES.forEach(b => {
   }).addTo(map);
 });
 
-// CARTO labels overlay (on custom pane, above circles)
-L.tileLayer('https://{s}.basemaps.cartocdn.com/light_only_labels/{z}/{x}/{y}{r}.png', {
-  subdomains: 'abcd',
-  maxZoom: 19,
-  pane: 'labelsPane',
-}).addTo(map);
+// Підписи тепер у самій підкладці, окремої накладки не треба.
 
 // Base markers
 function baseIcon() {
