@@ -2724,7 +2724,7 @@ export default function Page() {
               <span className="chip">USV</span>
             </div>
             <div>
-              <span>38 хв читання</span> · <span>42 джерела</span>
+              <span>37 хв читання</span> · <span>29 джерел</span>
             </div>
           </div>
         </article>

@@ -2798,24 +2798,6 @@ export default function Page() {
                 10.09.2026. In Ukrainian.
               </li>
             </ol>
-
-            <p className="refs__also">
-              Also used, without an anchor to a specific claim: Ukrainian Navy,
-              Joint Forces Command South (D. Pletenchuk) — missile threat
-              warnings, 2024–2026; CyberBoroshno — OSINT analyses of strikes on
-              Novorossiysk, 03–04.2026; Planet Labs / MT Anderson — Tartus
-              satellite image sequences, 11.2024–01.2025; General Staff of the
-              Armed Forces of Ukraine — statement on damage to Essen and
-              Makarov, 06.03.2026; RIA Novosti — graded exercises of the Caspian
-              Flotilla, 08.2025. Biographical data on Black Sea Fleet officers
-              is compiled from Morskoy Sbornik, Voyenno-Promyshlennyy Kuryer,
-              TASS, Rossiyskaya Gazeta, Kommersant, Vzglyad, Lenta.ru,
-              Komsomolskaya Pravda, Vechernyaya Moskva, 1TV, Nezavisimoye
-              Voyennoye Obozreniye, Sevastopol.su, NTS Sevastopol, vpk.name,
-              Milportal, Komandiry.org, kchf.ru, the Airbase.ru forum, Interfax,
-              Timenote.info, MK.rbth.com, Krym.Realii, Meridian.in.ua and
-              Russian-torturers.org.
-            </p>
           </section>
 
           {/* Article footer */}
@@ -2835,7 +2817,7 @@ export default function Page() {
               <span className="chip">USV</span>
             </div>
             <div>
-              <span>45 min read</span> · <span>34 sources</span>
+              <span>44 min read</span> · <span>29 sources</span>
             </div>
           </div>
         </article>
