@@ -1,10 +1,10 @@
 import "../chotyry-roky-v-mori-frehaty/frigates.css";
 import type { Metadata } from "next";
 import Link from "next/link";
-import { getAllArticles, getArticleBySlug, formatDate } from "@/lib/articles";
+import { getAllArticles, getArticleBySlug, formatDate, requireVisibleArticle } from "@/lib/articles";
 import { AutoFrame } from "@/components/AutoFrame";
 
-export const metadata: Metadata = {
+const metadata: Metadata = {
   title: "МРК «Буян-М». Чотири роки війни в морі — PLITKA Analytics",
   description:
     "Дванадцять кораблів, три флоти, одна диверсія і удар в Онезькому озері. Хроніка кожного «Буяна-М» від лютого 2022 року.",
@@ -15,7 +15,13 @@ export const metadata: Metadata = {
 
 const SLUG = "chotyry-roky-v-mori-buyan-m";
 
+export async function generateMetadata(): Promise<Metadata> {
+  requireVisibleArticle(SLUG);
+  return metadata;
+}
+
 export default function Page() {
+  requireVisibleArticle(SLUG);
   const article = getArticleBySlug(SLUG);
   const all = getAllArticles();
   const related = all.filter((a) => a.slug !== SLUG).slice(0, 3);

@@ -1,10 +1,10 @@
-import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import type { ReactNode } from 'react';
 import { MDXRemote } from 'next-mdx-remote/rsc';
-import { getAllArticles, getArticleBySlug, getArticleData, formatDate } from '@/lib/articles';
+import { getAllArticles, getArticleBySlug, getArticleData, formatDate, requireVisibleArticle } from '@/lib/articles';
 import VideoCarousel from '@/components/VideoCarousel';
 import ShipChronology, { type ChronologyData } from '@/components/ShipChronology';
+import IfArticleVisible from '@/components/IfArticleVisible';
 
 function Methodology({ children }: { children: ReactNode }) {
   return <div className="methodology">{children}</div>;
@@ -92,7 +92,7 @@ function Barchart({ title, sub, data }: { title: string; sub: string; data: stri
   );
 }
 
-const mdxComponents = { Methodology, StatGrid, Pullquote, Figure, Barchart, Callout, VideoCarousel };
+const mdxComponents = { Methodology, StatGrid, Pullquote, Figure, Barchart, Callout, VideoCarousel, IfArticleVisible };
 
 
 export async function generateStaticParams() {
@@ -101,25 +101,21 @@ export async function generateStaticParams() {
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
+  requireVisibleArticle(slug);
   const article = getArticleBySlug(slug);
   return { title: `${article.title} — PLITKA Analytics` };
 }
 
 export default async function ArticlePage({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
-
-  let article;
-  try {
-    article = getArticleBySlug(slug);
-  } catch {
-    notFound();
-  }
+  requireVisibleArticle(slug);
+  const article = getArticleBySlug(slug);
 
   const all = getAllArticles();
   const related = all.filter((a) => a.slug !== slug).slice(0, 3);
 
   const articleData = getArticleData(slug);
-  const ReadingTime = () => <span>{article!.readingTime} хв читання</span>;
+  const ReadingTime = () => <span>{article.readingTime} хв читання</span>;
   const BoundShipChronology = articleData
     ? () => <ShipChronology data={articleData as ChronologyData} />
     : () => null;

@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { getAllArticles, formatDate } from "@/lib/articles";
+import { getAllArticles, formatDate, requireVisibleArticle } from "@/lib/articles";
 
-export const metadata: Metadata = {
+const metadata: Metadata = {
   title: "«Національне майбутнє (з Путіним?)»",
   description:
     "Частина 1 циклу про проросійський вплив у політикумі Європи. Хто фінансує генерала Роберто Ванначчі, які російські зв'язки тягнуться за його оточенням та чим це загрожує військовій допомозі Україні.",
@@ -13,7 +13,13 @@ export const metadata: Metadata = {
 
 const SLUG = "natsionalne-maibutnie-z-putinym";
 
+export async function generateMetadata(): Promise<Metadata> {
+  requireVisibleArticle(SLUG);
+  return metadata;
+}
+
 export default function Page() {
+  requireVisibleArticle(SLUG);
   const all = getAllArticles();
   const related = all.filter((a) => a.slug !== SLUG).slice(0, 3);
 

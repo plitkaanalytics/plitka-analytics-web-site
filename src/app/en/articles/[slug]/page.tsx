@@ -1,10 +1,10 @@
-import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import type { ReactNode } from 'react';
 import { MDXRemote } from 'next-mdx-remote/rsc';
-import { getAllArticles, getArticleBySlug, formatDate } from '@/lib/articles';
+import { getAllArticles, getArticleBySlug, formatDate, requireVisibleArticle } from '@/lib/articles';
 import VideoCarousel from '@/components/VideoCarousel';
 import { AutoFrame } from '@/components/AutoFrame';
+import IfArticleVisible from '@/components/IfArticleVisible';
 import { dict } from '@/lib/i18n';
 
 const t = dict.en;
@@ -80,7 +80,15 @@ function Barchart({ title, sub, data }: { title: string; sub: string; data: stri
   );
 }
 
-const mdxComponents = { Methodology, StatGrid, Pullquote, Figure, Barchart, Callout, VideoCarousel };
+// У MDX досить писати <IfArticleVisible slug="…">: мова тут завжди англійська.
+function IfArticleVisibleEN({ slug, children }: { slug: string; children: ReactNode }) {
+  return <IfArticleVisible slug={slug} locale="en">{children}</IfArticleVisible>;
+}
+
+const mdxComponents = {
+  Methodology, StatGrid, Pullquote, Figure, Barchart, Callout, VideoCarousel,
+  IfArticleVisible: IfArticleVisibleEN,
+};
 
 export async function generateStaticParams() {
   return getAllArticles('en').map((a) => ({ slug: a.slug }));
@@ -88,28 +96,20 @@ export async function generateStaticParams() {
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
-  try {
-    const article = getArticleBySlug(slug, 'en');
-    return { title: `${article.title} — PLITKA Analytics` };
-  } catch {
-    return { title: 'PLITKA Analytics' };
-  }
+  requireVisibleArticle(slug, 'en');
+  const article = getArticleBySlug(slug, 'en');
+  return { title: `${article.title} — PLITKA Analytics` };
 }
 
 export default async function ArticlePageEN({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
-
-  let article;
-  try {
-    article = getArticleBySlug(slug, 'en');
-  } catch {
-    notFound();
-  }
+  requireVisibleArticle(slug, 'en');
+  const article = getArticleBySlug(slug, 'en');
 
   const all = getAllArticles('en');
   const related = all.filter((a) => a.slug !== slug).slice(0, 3);
 
-  const ReadingTime = () => <span>{article!.readingTime} min read</span>;
+  const ReadingTime = () => <span>{article.readingTime} min read</span>;
   const components = { ...mdxComponents, ReadingTime };
 
   return (

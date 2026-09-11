@@ -1,9 +1,10 @@
 import "../chotyry-roky-v-mori-frehaty/frigates.css";
 import type { Metadata } from "next";
 import Link from "next/link";
-import { getAllArticles, formatDate } from "@/lib/articles";
+import { getAllArticles, formatDate, requireVisibleArticle } from "@/lib/articles";
+import IfArticleVisible from "@/components/IfArticleVisible";
 
-export const metadata: Metadata = {
+const metadata: Metadata = {
   title:
     "Новоросійська пастка. Як два фрегати ЧФ перестали бути носіями «Калібрів» — PLITKA Analytics",
   description:
@@ -15,7 +16,13 @@ export const metadata: Metadata = {
 
 const SLUG = "novorosiyska-pastka";
 
+export async function generateMetadata(): Promise<Metadata> {
+  requireVisibleArticle(SLUG);
+  return metadata;
+}
+
 export default function Page() {
+  requireVisibleArticle(SLUG);
   const all = getAllArticles();
   const related = all.filter((a) => a.slug !== SLUG).slice(0, 3);
 
@@ -94,12 +101,15 @@ export default function Page() {
           Після виходу «Адмірала Григоровича» з Чорного моря в Новоросійську
           лишилася пара фрегатів проєкту 11356Р — «Адмірал Ессен» і «Адмірал
           Макаров». Це два з небагатьох надводних кораблів ЧФ, здатних стріляти
-          «Калібрами» із восьмикоміркової універсальної пускової установки. Їхня
-          доля до 2026 року — у нашій{" "}
-          <Link href="/articles/chotyry-roky-v-mori-frehaty">
-            хроніці фрегатів
-          </Link>
-          . Цей матеріал — про те, що з ними зробили в Новоросійську.
+          «Калібрами» із восьмикоміркової універсальної пускової установки.{" "}
+          <IfArticleVisible slug="chotyry-roky-v-mori-frehaty">
+            Їхня доля до 2026 року — у нашій{" "}
+            <Link href="/articles/chotyry-roky-v-mori-frehaty">
+              хроніці фрегатів
+            </Link>
+            .{" "}
+          </IfArticleVisible>
+          Цей матеріал — про те, що з ними зробили в Новоросійську.
         </p>
 
         {/* ===================== ХРОНІКА ===================== */}
@@ -660,10 +670,14 @@ export default function Page() {
           Реакція на це видима з орбіти. Улітку 2026 року над рубками човнів у
           Новоросійську з'явилися протидронові ґратки, самі човни лягли у воду з
           послабленими швартовами, а вхід до внутрішньої гавані перекрив бон
-          проти безекіпажних катерів. Ці заходи, їхню дієвість і те, чому такі
-          самі сітки постали над стратегічними ракетоносцями за 7400 кілометрів
-          від України, ми розібрали окремо —{" "}
-          <Link href="/articles/chovny-pid-sitkoyu">«Човни під сіткою»</Link>.
+          проти безекіпажних катерів.
+          <IfArticleVisible slug="chovny-pid-sitkoyu">
+            {" "}
+            Ці заходи, їхню дієвість і те, чому такі самі сітки постали над
+            стратегічними ракетоносцями за 7400 кілометрів від України, ми
+            розібрали окремо —{" "}
+            <Link href="/articles/chovny-pid-sitkoyu">«Човни під сіткою»</Link>.
+          </IfArticleVisible>
         </p>
 
         {/* ===================== ГЕОЛОКАЦІЯ ===================== */}
@@ -866,24 +880,26 @@ export default function Page() {
         </section>
 
         {/* ===================== NEXT UP ===================== */}
-        <div className="next-up">
-          <span className="next-up__label">Цикл · Ракетоносці ВМФ РФ</span>
-          <div>
-            <p className="next-up__title">
-              Фрегати ВМФ РФ. Чотири роки війни в морі
-            </p>
-            <p className="next-up__dek">
-              Повна хроніка кожного фрегата-носія «Калібрів» від лютого 2022
-              року: пуски, удари по носіях, переміщення, командири.
-            </p>
+        <IfArticleVisible slug="chotyry-roky-v-mori-frehaty">
+          <div className="next-up">
+            <span className="next-up__label">Цикл · Ракетоносці ВМФ РФ</span>
+            <div>
+              <p className="next-up__title">
+                Фрегати ВМФ РФ. Чотири роки війни в морі
+              </p>
+              <p className="next-up__dek">
+                Повна хроніка кожного фрегата-носія «Калібрів» від лютого 2022
+                року: пуски, удари по носіях, переміщення, командири.
+              </p>
+            </div>
+            <a
+              className="btn btn--red"
+              href="/articles/chotyry-roky-v-mori-frehaty"
+            >
+              Читати
+            </a>
           </div>
-          <a
-            className="btn btn--red"
-            href="/articles/chotyry-roky-v-mori-frehaty"
-          >
-            Читати
-          </a>
-        </div>
+        </IfArticleVisible>
 
         {/* ===================== ARTICLE FOOT ===================== */}
         <div className="article-foot">

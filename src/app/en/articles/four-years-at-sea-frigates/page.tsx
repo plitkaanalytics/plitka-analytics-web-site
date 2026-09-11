@@ -1,10 +1,10 @@
 ﻿import "../../../(main)/articles/chotyry-roky-v-mori-frehaty/frigates.css";
 import type { Metadata } from "next";
 import Link from "next/link";
-import { getAllArticles, getArticleBySlug, formatDate } from "@/lib/articles";
+import { getAllArticles, getArticleBySlug, formatDate, requireVisibleArticle } from "@/lib/articles";
 import { AutoFrame } from "@/components/AutoFrame";
 
-export const metadata: Metadata = {
+const metadata: Metadata = {
   title: "Russian Navy Frigates. Four Years of War at Sea — PLITKA Analytics",
   description:
     "Part 1 — Frigates. What happened to each Caliber carrier platform from February 2022: launches, strikes against carriers, movements, losses.",
@@ -12,7 +12,13 @@ export const metadata: Metadata = {
 
 const SLUG = "four-years-at-sea-frigates";
 
+export async function generateMetadata(): Promise<Metadata> {
+  requireVisibleArticle(SLUG, "en");
+  return metadata;
+}
+
 export default function Page() {
+  requireVisibleArticle(SLUG, "en");
   const article = getArticleBySlug(SLUG, "en");
   const all = getAllArticles("en");
   const related = all.filter((a) => a.slug !== SLUG).slice(0, 3);

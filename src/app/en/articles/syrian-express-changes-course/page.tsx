@@ -4,7 +4,7 @@ import "../../../(main)/articles/syriyskyi-ekspres/libya-map.css";
 import "../../../(main)/articles/syriyskyi-ekspres/tartus-plan.css";
 import type { Metadata } from "next";
 import Link from "next/link";
-import { getAllArticles, formatDate } from "@/lib/articles";
+import { getAllArticles, formatDate, requireVisibleArticle } from "@/lib/articles";
 import { XPost } from "@/components/XPost";
 import { TartusMap } from "@/components/TartusMap";
 import { NorthRoutesMap } from "@/components/NorthRoutesMap";
@@ -12,7 +12,7 @@ import { LibyaMap } from "@/components/LibyaMap";
 import { TartusPlan } from "@/components/TartusPlan";
 import { AisConvoyMap } from "@/components/AisConvoyMap";
 
-export const metadata: Metadata = {
+const metadata: Metadata = {
   title: "The Syrian Express Changes Course — PLITKA Analytics",
   openGraph: {
     images: ["/articles/syriyskyi-ekspres/cover.jpg"],
@@ -23,7 +23,13 @@ export const metadata: Metadata = {
 
 const SLUG = "syrian-express-changes-course";
 
+export async function generateMetadata(): Promise<Metadata> {
+  requireVisibleArticle(SLUG, "en");
+  return metadata;
+}
+
 export default function Page() {
+  requireVisibleArticle(SLUG, "en");
   const all = getAllArticles("en");
   const related = all.filter((a) => a.slug !== SLUG).slice(0, 3);
 

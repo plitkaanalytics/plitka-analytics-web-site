@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { getAllArticles, formatDate } from "@/lib/articles";
+import { getAllArticles, formatDate, requireVisibleArticle } from "@/lib/articles";
 
-export const metadata: Metadata = {
+const metadata: Metadata = {
   title: "«Лада» - нове покоління підводних човнів, що не вдалося",
   description:
     "OSINT-огляд проєкту 677 «Лада» — нового покоління дизельних  підводних каліброносців ВМФ РФ. Частина 5 циклу про ракетоносці ВМФ РФ.",
@@ -13,7 +13,13 @@ export const metadata: Metadata = {
 
 const SLUG = "lada-proekt-677";
 
+export async function generateMetadata(): Promise<Metadata> {
+  requireVisibleArticle(SLUG);
+  return metadata;
+}
+
 export default function Page() {
+  requireVisibleArticle(SLUG);
   const all = getAllArticles();
   const related = all.filter((a) => a.slug !== SLUG).slice(0, 3);
 

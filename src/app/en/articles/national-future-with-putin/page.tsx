@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { getAllArticles, formatDate } from "@/lib/articles";
+import { getAllArticles, formatDate, requireVisibleArticle } from "@/lib/articles";
 
-export const metadata: Metadata = {
+const metadata: Metadata = {
   title: "A National Future (With Putin?) — PLITKA Analytics",
   description:
     "Part 1 of a series on pro-Russian influence in European politics. Who funds General Roberto Vannacci, what Russian connections trail his inner circle, and how it threatens military aid to Ukraine.",
@@ -13,7 +13,13 @@ export const metadata: Metadata = {
 
 const SLUG = "national-future-with-putin";
 
+export async function generateMetadata(): Promise<Metadata> {
+  requireVisibleArticle(SLUG, "en");
+  return metadata;
+}
+
 export default function Page() {
+  requireVisibleArticle(SLUG, "en");
   const all = getAllArticles("en");
   const related = all.filter((a) => a.slug !== SLUG).slice(0, 3);
 

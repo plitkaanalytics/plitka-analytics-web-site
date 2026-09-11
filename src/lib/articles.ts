@@ -1,6 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
+import { notFound } from 'next/navigation';
 
 export interface ArticleFrontmatter {
   title: string;
@@ -17,6 +18,9 @@ export interface ArticleFrontmatter {
   /** Слаг того самого матеріалу іншою мовою. Пара живе у фронтматері обох
    *  сторін: так перемикач мов веде на двійник, а не на стрічку. */
   twin?: string;
+  /** Матеріал живе тільки на staging: на проді його немає ні в стрічках, ні
+   *  за прямим посиланням (404). Ставиться окремо в обох мовних версіях. */
+  stagingOnly?: boolean;
 }
 
 export interface ArticleListItem extends ArticleFrontmatter {
@@ -29,6 +33,18 @@ export interface Article extends ArticleListItem {
 
 const articlesDir = path.join(process.cwd(), 'content/articles');
 const articlesEnDir = path.join(process.cwd(), 'content/articles/en');
+
+/**
+ * Staging — це preview-деплої Vercel (гілка `staging`), плюс локальний
+ * `next dev`. Усе інше, зокрема невідоме середовище, вважаємо продом:
+ * краще сховати зайве, ніж випадково показати ексклюзив.
+ */
+const SHOW_STAGING_ONLY =
+  process.env.VERCEL_ENV === 'preview' || process.env.NODE_ENV === 'development';
+
+function isShown(data: { stagingOnly?: boolean }): boolean {
+  return !data.stagingOnly || SHOW_STAGING_ONLY;
+}
 
 function dirForLocale(locale: 'uk' | 'en') {
   return locale === 'en' ? articlesEnDir : articlesDir;
@@ -75,19 +91,41 @@ export function getAllArticles(locale: 'uk' | 'en' = 'uk'): ArticleListItem[] {
       const readingTime = (data.readingTime as number | undefined) ?? calcReadingTime(content);
       return { slug, ...(data as ArticleFrontmatter), readingTime };
     })
+    .filter(isShown)
     .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
 }
 
-export function getArticleBySlug(slug: string, locale: 'uk' | 'en' = 'uk'): Article {
+function articleFilePath(slug: string, locale: 'uk' | 'en'): string {
   const dir = dirForLocale(locale);
   // Try directory-based first, then flat
   const dirIndex = path.join(dir, slug, 'index.mdx');
   const flatFile = path.join(dir, `${slug}.mdx`);
-  const filePath = fs.existsSync(dirIndex) ? dirIndex : flatFile;
-  const raw = fs.readFileSync(filePath, 'utf-8');
+  return fs.existsSync(dirIndex) ? dirIndex : flatFile;
+}
+
+export function getArticleBySlug(slug: string, locale: 'uk' | 'en' = 'uk'): Article {
+  const raw = fs.readFileSync(articleFilePath(slug, locale), 'utf-8');
   const { data, content } = matter(raw);
   const readingTime = (data.readingTime as number | undefined) ?? calcReadingTime(content);
   return { slug, ...(data as ArticleFrontmatter), readingTime, content };
+}
+
+/** Чи є стаття в цьому середовищі. Неіснуючої теж «немає». */
+export function isArticleVisible(slug: string, locale: 'uk' | 'en' = 'uk'): boolean {
+  const filePath = articleFilePath(slug, locale);
+  if (!fs.existsSync(filePath)) return false;
+  return isShown(matter(fs.readFileSync(filePath, 'utf-8')).data);
+}
+
+/**
+ * 404, якщо статті тут бути не повинно. Кличеться першим рядком і в
+ * сторінці, і в generateMetadata. Статичний `export const metadata` для
+ * сторінок статей не годиться: Next віддає його навіть у відповіді 404, і
+ * заголовок, лід та обкладинка прихованого матеріалу потрапляють у теги
+ * для соцмереж.
+ */
+export function requireVisibleArticle(slug: string, locale: 'uk' | 'en' = 'uk'): void {
+  if (!isArticleVisible(slug, locale)) notFound();
 }
 
 // Returns parsed JSON from content/articles/{slug}/data.json, or null if absent.

@@ -3,7 +3,7 @@ import Link from 'next/link';
 import type { ReactNode } from 'react';
 import type { Metadata } from 'next';
 import { MDXRemote } from 'next-mdx-remote/rsc';
-import { getAllArticles, getArticleBySlug, getArticleData, formatDate } from '@/lib/articles';
+import { getAllArticles, getArticleBySlug, getArticleData, formatDate, requireVisibleArticle } from '@/lib/articles';
 import VideoCarousel from '@/components/VideoCarousel';
 import ShipChronology, { type ChronologyData } from '@/components/ShipChronology';
 
@@ -98,11 +98,13 @@ function Barchart({ title, sub, data }: { title: string; sub: string; data: stri
 const mdxComponents = { Methodology, StatGrid, Pullquote, Figure, Barchart, Callout, VideoCarousel };
 
 export async function generateMetadata(): Promise<Metadata> {
+  requireVisibleArticle(SLUG);
   const article = getArticleBySlug(SLUG);
   return { title: `${article.title} — PLITKA Analytics` };
 }
 
 export default async function KalibreZMoryaPage() {
+  requireVisibleArticle(SLUG);
   const article = getArticleBySlug(SLUG);
   const all = getAllArticles();
   const related = all.filter((a) => a.slug !== SLUG).slice(0, 3);

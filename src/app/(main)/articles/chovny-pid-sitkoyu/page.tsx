@@ -1,9 +1,9 @@
 import "../chotyry-roky-v-mori-frehaty/frigates.css";
 import type { Metadata } from "next";
 import Link from "next/link";
-import { getAllArticles, formatDate } from "@/lib/articles";
+import { getAllArticles, formatDate, requireVisibleArticle } from "@/lib/articles";
 
-export const metadata: Metadata = {
+const metadata: Metadata = {
   title:
     "Човни під сіткою. Як ВМФ РФ обороняє підводні човни на власних базах — PLITKA Analytics",
   description:
@@ -15,7 +15,13 @@ export const metadata: Metadata = {
 
 const SLUG = "chovny-pid-sitkoyu";
 
+export async function generateMetadata(): Promise<Metadata> {
+  requireVisibleArticle(SLUG);
+  return metadata;
+}
+
 export default function Page() {
+  requireVisibleArticle(SLUG);
   const all = getAllArticles();
   const related = all.filter((a) => a.slug !== SLUG).slice(0, 3);
 

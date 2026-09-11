@@ -1,14 +1,23 @@
 import type { Metadata } from "next";
 import "../chotyry-roky-v-mori-frehaty/frigates.css";
 import { AutoFrame } from "@/components/AutoFrame";
+import { requireVisibleArticle } from "@/lib/articles";
 
-export const metadata: Metadata = {
+const metadata: Metadata = {
   title: "Підводні човни ВМФ РФ. Чотири роки війни в морі",
   description:
     "Частина 4 — Підводні човни. Що сталося з кожною підводною платформою-носієм «Калібру» від лютого 2022 року: пуски, удари по носіях, переміщення, втрати.",
 };
 
+const SLUG = "chotyry-roky-v-mori-pidvodni-chovny";
+
+export async function generateMetadata(): Promise<Metadata> {
+  requireVisibleArticle(SLUG);
+  return metadata;
+}
+
 export default function Page() {
+  requireVisibleArticle(SLUG);
   return (
     <main>
       <main data-screen-label="Стаття · Підводні човни 636.3">

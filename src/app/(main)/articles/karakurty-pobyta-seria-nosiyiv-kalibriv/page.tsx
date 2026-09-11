@@ -1,10 +1,10 @@
 import "../chotyry-roky-v-mori-frehaty/frigates.css";
 import type { Metadata } from "next";
 import Link from "next/link";
-import { getAllArticles, formatDate } from "@/lib/articles";
+import { getAllArticles, formatDate, requireVisibleArticle } from "@/lib/articles";
 import { AutoFrame } from "@/components/AutoFrame";
 
-export const metadata: Metadata = {
+const metadata: Metadata = {
   title: "МРК «Каракурт». Чотири роки війни в морі — PLITKA Analytics",
   description:
     "OSINT-реконструкція долі малих ракетних кораблів проєкту 22800 «Каракурт» у війні 2022–2026: Чорне море, Каспій, Балтика, Тихий океан. Втрати, втечі та удари по носіях «Калібрів» за відкритими джерелами.",
@@ -15,7 +15,13 @@ export const metadata: Metadata = {
 
 const SLUG = "karakurty-pobyta-seria-nosiyiv-kalibriv";
 
+export async function generateMetadata(): Promise<Metadata> {
+  requireVisibleArticle(SLUG);
+  return metadata;
+}
+
 export default function Page() {
+  requireVisibleArticle(SLUG);
   const all = getAllArticles();
   const related = all.filter((a) => a.slug !== SLUG).slice(0, 3);
 

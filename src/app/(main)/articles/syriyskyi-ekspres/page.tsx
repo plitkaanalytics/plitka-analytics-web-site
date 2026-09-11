@@ -4,7 +4,7 @@ import "./libya-map.css";
 import "./tartus-plan.css";
 import type { Metadata } from "next";
 import Link from "next/link";
-import { getAllArticles, formatDate } from "@/lib/articles";
+import { getAllArticles, formatDate, requireVisibleArticle } from "@/lib/articles";
 import { XPost } from "@/components/XPost";
 import { TartusMap } from "@/components/TartusMap";
 import { NorthRoutesMap } from "@/components/NorthRoutesMap";
@@ -12,7 +12,7 @@ import { LibyaMap } from "@/components/LibyaMap";
 import { TartusPlan } from "@/components/TartusPlan";
 import { AisConvoyMap } from "@/components/AisConvoyMap";
 
-export const metadata: Metadata = {
+const metadata: Metadata = {
   title: "Сирійський експрес змінює курс — PLITKA Analytics",
   openGraph: {
     images: ["/articles/syriyskyi-ekspres/cover.jpg"],
@@ -23,7 +23,13 @@ export const metadata: Metadata = {
 
 const SLUG = "syriyskyi-ekspres";
 
+export async function generateMetadata(): Promise<Metadata> {
+  requireVisibleArticle(SLUG);
+  return metadata;
+}
+
 export default function Page() {
+  requireVisibleArticle(SLUG);
   const all = getAllArticles();
   const related = all.filter((a) => a.slug !== SLUG).slice(0, 3);
 
