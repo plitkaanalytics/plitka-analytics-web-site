@@ -1,0 +1,61 @@
+URL:         https://euromaidanpress.com/2026/04/03/ukraine-may-be-using-libya-as-launchpad-for-mediterranean-strikes-on-russian-shadow-fleet/
+Кінцевий:    https://euromaidanpress.com/2026/04/03/ukraine-may-be-using-libya-as-launchpad-for-mediterranean-strikes-on-russian-shadow-fleet/
+Заголовок:   Ukrainian troops in Libya: a launchpad for Mediterranean strikes on Russian shadow fleet – RFI
+Дата публ.:  2026-04-03
+Завантажено: 2026-09-12 14:11 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 352531
+Оригінал:    raw/62-euromaidanpress.com-ukraine-may-be-using-libya-as-launchpad-for-medite.html
+sha256:      df73c737bc9cb513ccc2d84495c4cf93b671772708f14a3f194a1300036ab5f9
+Витяг:       trafilatura
+
+==============================================================================
+An investigation by French outlet RFI claims Ukraine has deployed more than 200 military personnel to western Libya, raising the possibility that Kyiv is conducting or preparing strikes against Russian “shadow fleet” tankers in the Mediterranean.
+
+The report links the deployment to a growing campaign targeting vessels used by Russia to bypass sanctions on oil and gas exports. These ships, often operating under opaque ownership and flags, have become a key economic lifeline for Moscow during the war – and a high-value target for Ukrainian long-range and naval drone operations.
+
+### Covert deployment in western Libya
+
+According to [RFI](https://www.rfi.fr/fr/afrique/20260402-exclusif-rfi-ces-militaires-ukrainiens-pr%C3%A9sents-dans-l-ouest-libyen), citing Libyan sources, more than 200 Ukrainian officers and technical specialists are stationed across three locations in western Libya, with the approval of the Tripoli-based government led by Abdelhamid Dbeibah.
+
+Ukrainian personnel are reportedly based at an air force academy in Misrata, alongside Turkish, Italian and US forces, as well as a British intelligence presence. A second site near Zaouïa – close to the major Mellitah oil and gas complex – is said to host a dedicated drone launch facility with direct access to the Mediterranean.
+
+A third location in Tripoli is reportedly used for coordination between Ukrainian and Libyan military officials.
+
+### Shadow fleet attacks tied to Libyan coast
+
+RFI reports that Ukrainian forces were behind a March 4 [attack](https://euromaidanpress.com/2026/03/04/russia-claims-ukrainian-drones-attacked-its-gas-tanker-in-the-mediterranean-sea/) on the Russian LNG carrier Arctic Metagaz in the Mediterranean, an incident Moscow had previously blamed on Ukraine and British intelligence.
+
+The vessel is described as part of Russia’s shadow fleet. Russia’s shadow fleet is a network of aging tankers used to bypass sanctions, often operating under shell companies, false flags, and manipulated tracking data. It allows Russia to keep exporting oil and gas despite restrictions, while raising concerns over safety and enforcement in international waters.
+
+The Arctic Metagaz, a sanctioned LNG carrier, caught fire and sank in early March after explosions in waters between Libya and Malta. According to the report, it was likely struck by a Ukrainian-made naval drone – similar to those used extensively in the Black Sea – launched from the Libyan coast, which Russian authorities also initially claimed.
+
+A [previous incident](https://euromaidanpress.com/2025/12/19/ukraine-strikes-russian-shadow-fleet-tanker-in-mediterranean/) in December 2025 also targeted a Russian tanker – the QENDIL – traveling between Greece and Libya. Ukrainian sources at the time claimed responsibility but did not disclose the launch point. 
+
+RFI also [said](https://www.rfi.fr/fr/afrique/20260403-libye-haut-responsable-du-renseignement-russe-tu%C3%A9-rivalite-ukraine-enquete) the QENDIL strike may have killed Andrey Averianov, a senior Russian military intelligence figure who was reportedly aboard the vessel. Moscow has not confirmed the claim.
+
+Together, the incidents suggest a potential expansion of Ukraine’s maritime strike operations beyond the Black Sea into the Mediterranean, targeting Russian energy logistics at greater range.
+
+### Drones extend battlefield beyond Ukraine
+
+The use of naval drones fits into Ukraine’s broader strategy of using unmanned systems to strike high-value targets far from the front lines. In the Black Sea, such drones have already been used to damage or destroy Russian warships and disrupt maritime supply routes.
+
+If confirmed, operations from Libya would mark a geographic expansion – bringing the shadow fleet operating in the Mediterranean within reach of similar tactics.
+
+### Strategic and political implications
+
+The reported deployment appears to be part of a broader agreement between Kyiv and the Tripoli government, involving military training, potential arms deals, and future cooperation in Libya’s energy sector.
+
+However, RFI reports that the presence of Ukrainian forces has drawn criticism inside Libya, with some officials warning the country risks becoming a proxy battleground between Russia and Ukraine.
+
+Moscow has previously accused the Tripoli authorities of supporting Ukrainian operations, claims that have not been publicly addressed by either side. Ukrainian officials also declined to comment to RFI on the reported deployment.
+
+If accurate, the report points to an increasingly global dimension of the war, where economic targets – particularly energy shipments – are becoming central to Ukraine’s strategy against Russia.
+
+## Read also
+
+- 
+						### A Russian intelligence operative and a Belarusian petty criminal: Germany names the Leipzig bomb-drone suspects
+- 
+						### Second fire in a month hits the Bulgarian plant that ships ammunition to Ukraine, and sabotage is on the table
+- 
+						### Ukraine’s parliament changes how military budget is cleared, and freezes money behind one of war’s cleverest supply schemes, defense-industry council says

@@ -1,0 +1,202 @@
+URL:         https://www.itamilradar.com/2026/09/07/lady-mariia-hit-by-drones-in-the-mediterranean-exposing-russias-maritime-logistics-route/
+Кінцевий:    https://www.itamilradar.com/2026/09/07/lady-mariia-hit-by-drones-in-the-mediterranean-exposing-russias-maritime-logistics-route/
+Заголовок:   Lady Mariia hit by drones in the Mediterranean, exposing Russia’s maritime logistics route
+Дата публ.:  2026-09-07
+Завантажено: 2026-09-12 14:10 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 272245
+Оригінал:    raw/55-itamilradar.com-lady-mariia-hit-by-drones-in-the-mediterranean-exposin.html
+sha256:      f183d58f3ba183217f74eaf1585a1766da25c12e06136f256647389c595ea9fa
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 27
+==============================================================================
+Lady Mariia hit by drones in the Mediterranean, exposing Russia’s maritime logistics route – itamilradar
+Lady Mariia hit by drones in the Mediterranean, exposing Russia’s maritime logistics route
+[Discover more and become a Supporter on Patreon]
+Monitoring military aircraft and ships movements over Italy and Mediterranean Sea
+US Air Force RC-135W Returns to Kola Peninsula as KC-135 Supports New Northern ISR Mission
+French AWACS and Two MRTTs Converge on the Black Sea, Signalling a Coordinated NATO Air Operation
+Your email address will not be published.
+Save my name, email, and website in this browser for the next time I comment.
+Notify me of follow-up comments by email.
+Notify me of new posts by email.
+Swedish SIGINT aircraft and RAF Rivet Joint operate simultaneously on NATO’s northern and Black Sea flanks
+Italy Orders Two More MQ-9A Reaper Block 5s
+Subscribe to itamilradar via Email
+Enter your email address to subscribe to itamilradar and receive notifications of new posts by email.
+Italian P-72A monitors Russian flotilla as second group moves east through the Mediterranean
+The Italian Air Force is monitoring a second Russian naval group transiting...
+Russian Navy returns to the Mediterranean after two months
+It had been about two months since the presence of Russian warships...
+From a Powerful Mediterranean Squadron to Zero Warships: How Russia’s Naval Presence Has Collapsed
+For the first time since Russia launched its full-scale invasion of Ukraine,...
+Russian Frigate Admiral Kasatonov Reappears South of Sardinia
+An Italian Air Force Beechcraft King Air 350ER SPYDR (reg. MM62300) was...
+Copyright 2026 itamilradar. All rights reserved, powered by
+This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish.
+This website uses cookies to improve your experience while you navigate through the website. Out of these cookies, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may have an effect on your browsing experience.
+Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.
+Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Lady Mariia hit by drones in the Mediterranean, exposing Russia’s maritime logistics route – itamilradar
+HOME
+Categories
+Italian AF
+Italian Navy
+USAF
+USNavy
+NATO
+Turkish AF
+Russian Navy
+RAF
+French AF
+Support us
+About us
+HOME
+Categories
+Italian AF
+Italian Navy
+USAF
+USNavy
+NATO
+Turkish AF
+Russian Navy
+RAF
+French AF
+Support us
+About us
+Russian Navy
+Lady Mariia hit by drones in the Mediterranean, exposing Russia’s maritime logistics route
+itamilradar
+September 7, 2026
+2 Mins read
+538
+Share
+Share
+The Russian-flagged Ro-Ro cargo ship
+Lady Mariia (IMO 9220641)
+was reportedly struck by multiple aerial drones in the Mediterranean on September 6 while sailing east toward Syria. Video circulating online shows several munitions being dropped onto the vessel, followed by localized fires. The attack is not officially attributed to Ukraine, but the ship is sanctioned by both Washington and Kyiv for its role in Russia’s military logistics.
+The last track before the attack
+The incident is particularly interesting when compared with the vessel’s AIS track.
+Our latest recorded contact, shown in the tracking data above, dates to September 5 at 19:51 UTC, when Lady Mariia was sailing at 9.4 knots on a 106.2° course in the central Mediterranean. Other tracking sources place the vessel on a similar eastbound route after its departure from Oran, Algeria, with the reported attack taking place farther east, in the broader area between Libya and Crete.
+The vessel is a 126.9-metre, 7,184-DWT Ro-Ro cargo ship operated by the Russian MG-Flot company. Its importance goes well beyond commercial shipping: Ukraine’s Defence Intelligence lists Lady Mariia specifically under vessels involved in the transportation of military cargo and weapons, noting previous movements between Syria and Russia and particularly the Novorossiysk–Tartus route.
+The ship has also been under US sanctions since 2022, originally listed under its former name Stella-Maria and linked to TransMorFlot, now MG-Flot. Ukraine imposed additional sanctions on the vessel in May 2026.
+A strike aimed at the ship — or its cargo?
+The video released by Russian opposition journalist Alexander Nevzorov appears to show aerial drones approaching the ship and dropping small explosive devices onto its deck. Several impacts are visible, followed by fires.
+Claims that the vessel suffered as many as 12 direct hits, or that it was carrying Iranian weapons and armoured vehicles destined for Russia, remain unverified. Likewise, reports that the drones were launched from Libyan territory have not been independently confirmed, and Kyiv has not officially claimed responsibility.
+What is clearer is the apparent nature of the attack. Available footage does not show obvious catastrophic hull damage or the rapid flooding that would normally indicate an attempt to sink the ship. Instead, several impacts appear concentrated around the deck and shipboard equipment. This could point to an operation designed to disable cargo-handling systems or damage the military cargo rather than destroy the vessel outright.
+That distinction matters strategically. A sanctioned Russian logistics ship operating hundreds of kilometres from the Ukrainian coastline represents a very different target from the merchant vessels normally associated with the Black Sea. If the attribution to Ukrainian forces is eventually confirmed, the incident would demonstrate an ability to reach Russian military logistics well into the Mediterranean.
+Whether this marks the start of a longer campaign against Russian military-linked shipping in the Mediterranean remains unclear.
+For now, Lady Mariia’s disappearance from publicly available AIS tracking after its last reported position is an important detail. The vessel’s condition, its ability to continue toward Syria, and whether it will attempt to reach a port of refuge should become clearer in the coming hours and days. If it has been seriously disabled, the impact could extend beyond a single ship by forcing Russia to reconsider how it moves military cargo through the Mediterranean.
+Keep ItaMilRadar independent 📡
+If you appreciate the daily tracking and OSINT analysis, you can support my work on Patreon, helping me cover server and radar costs while keeping the website free and independent. Check out the support tiers to unlock exclusive perks, such as
+Early Access radar alerts
+on strategic movements and a direct line for your questions.
+👉
+[Discover more and become a Supporter on Patreon]
+Share
+Written by
+itamilradar
+-
+Monitoring military aircraft and ships movements over Italy and Mediterranean Sea
+Previous post
+US Air Force RC-135W Returns to Kola Peninsula as KC-135 Supports New Northern ISR Mission
+Next post
+French AWACS and Two MRTTs Converge on the Black Sea, Signalling a Coordinated NATO Air Operation
+1 Comment
+A.
+says:
+September 12, 2026 at 12:55
+12.9.2026, 12:54
+The Lady Mariia is now anchored off Port Said.
+The damage does not appear to have been too significant.
+Reply
+Leave a Reply
+Cancel reply
+Your email address will not be published.
+Required fields are marked
+*
+Comment
+*
+Name
+*
+Email
+*
+Website
+Save my name, email, and website in this browser for the next time I comment.
+Notify me of follow-up comments by email.
+Notify me of new posts by email.
+Δ
+Recent Posts
+RAF
+Swedish AF
+Swedish SIGINT aircraft and RAF Rivet Joint operate simultaneously on NATO’s northern and Black Sea flanks
+September 12, 2026
+Italian AF
+Italy Orders Two More MQ-9A Reaper Block 5s
+September 11, 2026
+Subscribe to itamilradar via Email
+Enter your email address to subscribe to itamilradar and receive notifications of new posts by email.
+Email Address
+Subscribe
+Related Articles
+Italian AF
+Russian Navy
+Italian P-72A monitors Russian flotilla as second group moves east through the Mediterranean
+The Italian Air Force is monitoring a second Russian naval group transiting...
+itamilradar
+September 10, 2026
+Russian Navy
+Russian Navy returns to the Mediterranean after two months
+It had been about two months since the presence of Russian warships...
+itamilradar
+August 29, 2026
+Russian Navy
+From a Powerful Mediterranean Squadron to Zero Warships: How Russia’s Naval Presence Has Collapsed
+For the first time since Russia launched its full-scale invasion of Ukraine,...
+itamilradar
+July 1, 2026
+Italian AF
+Russian Navy
+Russian Frigate Admiral Kasatonov Reappears South of Sardinia
+An Italian Air Force Beechcraft King Air 350ER SPYDR (reg. MM62300) was...
+itamilradar
+June 19, 2026
+Beyond the track
+Keep in touch
+Follow us on social media
+Facebook
+Likes
+Follows
+Instagram
+Follows
+Telegram
+Followers
+Copyright 2026 itamilradar. All rights reserved, powered by
+Wordpress
+itamilradar
+This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish.
+Accept
+Reject
+Read More
+Privacy & Cookies Policy
+Close
+Privacy Overview
+This website uses cookies to improve your experience while you navigate through the website. Out of these cookies, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may have an effect on your browsing experience.
+Necessary
+Necessary
+Always Enabled
+Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.
+Non-necessary
+Non-necessary
+Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.
+SAVE & ACCEPT
+HOME
+Support Us
+About us /
+Search

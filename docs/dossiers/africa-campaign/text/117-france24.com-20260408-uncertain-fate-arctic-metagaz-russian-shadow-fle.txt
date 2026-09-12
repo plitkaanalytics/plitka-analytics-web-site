@@ -1,0 +1,142 @@
+URL:         https://www.france24.com/en/africa/20260408-uncertain-fate-arctic-metagaz-russian-shadow-fleet-lng-tanker-adrift-mediterranean
+Кінцевий:    https://web.archive.org/web/20260811200359id_/https://www.france24.com/en/africa/20260408-uncertain-fate-arctic-metagaz-russian-shadow-fleet-lng-tanker-adrift-mediterranean
+Заголовок:   Arctic Metagaz: Russian ‘shadow fleet’ tanker adrift in the Mediterranean faces uncertain fate
+Дата публ.:  2026-04-08
+Завантажено: 2026-09-12 14:23 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 414531
+Оригінал:    raw/117-france24.com-20260408-uncertain-fate-arctic-metagaz-russian-shadow-fle.html
+sha256:      f9de0d858f1601c2332441552f06c4942cef7edf8f40329b270af0d03c206c6d
+Витяг:       trafilatura
+Примітка:    оригінал недоступний (403), узято з Wayback
+
+==============================================================================
+# Arctic Metagaz: Russian ‘shadow fleet’ tanker adrift in the Mediterranean faces uncertain fate
+
+More than a month after being hit by an explosion, the Arctic Metagaz, a liquid natural gas (LNG) carrier belonging to Russia’s "shadow fleet", is adrift in the Mediterranean following a failed Libyan towing operation. The incident underscores the risks and crisis management challenges posed by these shadow vessels.
+
+According to [ Libyan media reports](https://www.facebook.com/watch/?v=837932679339896), forces loyal to the strongman of eastern 
+
+[Libya](https://www.france24.com/en/tag/libya/)
+
+[Khalifa Haftar](https://www.france24.com/en/tag/khalifa-haftar/)dispatched a naval patrol vessel and a team of divers to monitor the Arctic Metagaz on Monday, April 6. The Russian LNG tanker has been drifting in the Mediterranean since a
+
+[failed four days earlier.](https://www.france24.com/en/live-news/20260322-damaged-russian-tanker-to-be-towed-to-libya-state-owned-company)
+
+__Libyan towing operation__This is the latest twist in a maritime saga that began on March 3 off the Libyan coast. The Arctic Metagaz caught [fire](https://www.france24.com/en/tag/fire/) following an explosion while carrying 60,000 tonnes of liquefied natural gas (LNG) – natural gas cooled to -160°C to facilitate transport. All crew members were rescued.
+
+Although [Ukraine](https://www.france24.com/en/tag/ukraine/) has not claimed responsibility for the incident, [Russia](https://www.france24.com/en/tag/russia/) has accused Kyiv of targeting the tanker with naval [drones](https://www.france24.com/en/tag/drones/) launched from Libya. An [ investigation by RFI](https://www.rfi.fr/en/international/20260406-ukrainian-forces-operating-in-western-libya-as-covert-war-grows-rfi-investigation) appears to support this claim.
+
+To display this content from X (Twitter), you must enable advertisement tracking and audience measurement.
+
+The vessel, sanctioned by the [ US](https://sanctionssearch.ofac.treas.gov/Details.aspx?id=50528) and the 
+
+[, was part of the](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025D0394)
+
+__European Union__[from the Arctic, notably](https://observers.france24.com/en/europe/20240828-phantom-fleet-suspected-of-transporting-russian-liquefied-natural-gas-from-the-arctic)
+
+__dark fleet carrying Russian LNG__[.](https://www.france24.com/en/europe/20251212-russia-deliveries-liquefied-natural-gas-lng-china-sanctions-united-states)
+
+__bound for China__Read more['They're no longer hiding': How Russia is shipping liquefied natural gas to China despite sanctions](https://www.france24.com/en/europe/20251212-russia-deliveries-liquefied-natural-gas-lng-china-sanctions-united-states)
+
+On February 19, it [ loaded LNG](https://gcaptain.com/russia-executes-first-triple-lng-ship-to-ship/) at the Saam FSU, a 
+
+[floating storage unit located near northern Russia’s Murmansk, before heading](https://sanctionssearch.ofac.treas.gov/Details.aspx?id=45034)
+
+__sanctioned__[.](https://globalfishingwatch.org/map/fishing-activity/default-public/vessel/bcf495ee1-1aa6-f5d7-1171-6f9aaee5eac8?longitude=26&latitude=19&zoom=1.49&vDi=public-global-vessel-identity:v4.0&vIs=selfReportedInfo&vSRi=bcf495ee1-1aa6-f5d7-1171-6f9aaee5eac8&vE[0]=loitering&vE[1]=encounter&vE[2]=port_visit&vE[3]=gaps&start=2026-02-19T00:00:00.000Z&end=2026-04-02T00:00:00.000Z)
+
+__towards the Mediterranean Sea__**Drifting vessel**
+
+ While Libyan authorities first said the vessel [ had sunk](https://www.tradewindsnews.com/gas/fire-hit-sanctioned-russian-lng-carrier-sinks-in-mysterious-circumstances/2-1-1954499) following the fire, the Artic Metagaz actually remained 
+
+[, initially drifting toward](https://www.tradewindsnews.com/gas/fire-hit-russian-lng-carrier-still-afloat-says-libya/2-1-1956408)
+
+__afloat__[Malta](https://www.france24.com/en/tag/malta/)and
+
+[Italy](https://www.france24.com/en/tag/italy/)while staying in international waters.
+
+To display this content from X (Twitter), you must enable advertisement tracking and audience measurement.
+
+On March 16, nine European countries sounded the alarm in [ a letter](https://www.reuters.com/business/energy/mediterranean-states-say-adrift-russian-tanker-is-imminent-serious-threat-2026-03-16/) to the European Commission, warning that "the precarious condition of the vessel, combined with the nature of its specialised cargo, gives rise to an imminent and serious risk of a major ecological disaster".
+
+Images show that the vessel is listing, with two large holes on the wreck on the port and starboard sides.
+
+To display this content from X (Twitter), you must enable advertisement tracking and audience measurement.
+
+However, while Malta said it activated [ an emergency plan](https://www.tradewindsnews.com/gas/malta-activates-emergency-plan-for-russia-s-dangerously-drifting-and-damaged-lng-carrier/2-1-1960321) for the drifting ship, neither Malta nor Italy has taken action to secure it.
+
+**‘Failure’ of Libyan towing operation**
+
+ The Libyan National Oil Corporation finally announced a towing operation [ on March 21](https://www.facebook.com/story.php?story_fbid=1258135236509461&id=100069389887586&rdid=ck67zklTNbtIkaDe), after the 
+
+[vessel drifted toward Libyan shores](https://x.com/scandura/status/2035146927235637387?ref_src=twsrc^tfw|twcamp^tweetembed|twterm^2035146927235637387|twgr^9aec93098553d9e92b29a1038e85d22437aa809f|twcon^s1_&ref_url=https://www.france24.com/fr/afrique/20260407-arctic-metagaz-mC3A9thanier-flotte-fantC3B4me-russe-dC3A9rive-mC3A9diterranC3A9e). The move followed concerns about the ship's potential threat to nearby oil facilities.
+
+Images of the operation captured men on the deck of the Arctic Metagaz, rigging a cable between the wreck and the tugboat.
+
+To display this content from , you must enable advertisement tracking and audience measurement.
+
+While initial reports [ suggested](https://www.tradewindsnews.com/casualties/libya-set-to-take-on-explosion-hit-russian-shadow-lng-carrier/2-1-1963746) the vessel would be towed to a Libyan port to offload its cargo, it was ultimately moved offshore, as documented by 
+
+[.](https://x.com/scandura/status/2038750028626530377?s=20)
+
+__specialised accounts on X__To display this content from X (Twitter), you must enable advertisement tracking and audience measurement.
+
+On April 2, the [ Libyan Ports and Maritime Transport Authority (LPMA)](https://www.facebook.com/lpma.gov.ly/posts/pfbid0hMTo2TpcekcfERJ5hTKa4f9oV9JuznwXwkUSxKHYAkjuSmksbifJet4vzdjRCuVUl?__cft__[0]=AZbkkJq0yVPfm-veAfaFcqhZk1BMo983wSzr1bcFxeeDNGN2QfR6Dl3PnY9G_ch-7JZrj77staLLy9P_1qvQS6UyrXnR2Ax4yxUH6KwlkErH8qLE0KQsbhgZWscEhozl6oyVzv6t2dL_L-SmTg_IiZwUqeSUxhOhyYVkiPdWMr8rX52LIGuo31VeHECiH8GEQH4&__tn__=,O,P-R) announced that the operation had "failed" due to "severe weather conditions". The authority warned that the vessel was "out of control" and instructed all ships to maintain a distance of at least 10 nautical miles (18 kilometres). Speaking to the publication 
+
+[, the LPMA president stated that he had approached the International Maritime Organisation (IMO) and the](https://www.tradewindsnews.com/gas/tow-dropped-in-storm-leaving-russia-s-damaged-lng-carrier-arctic-metagaz-adrift/2-1-1969343)
+
+__TradeWinds__[European Union](https://www.france24.com/en/tag/european-union/)for help, emphasising that the situation was "not only a Libyan problem".
+
+**Vessel under surveillance**
+
+ On Monday, April 6, taking advantage of improved weather conditions, the eastern Libyan forces resumed monitoring of the vessel. To date, however, it has not specified whether towing operations will be restarted.
+
+According to the [maritime publication gCaptain](https://gcaptain.com/libya-resumes-arctic-metagaz-salvage-as-imo-monitors-probe-links-attack-to-ukraine-operations-in-libya/), the IMO has said it was "ready to provide assistance", yet uncertainty remains about whether international support will actually be granted.
+
+To display this content from X (Twitter), you must enable advertisement tracking and audience measurement.
+
+As early as mid-March, the [ NGO WWF](https://www.wwfmmi.org/?20860091/Russian-LNG-carrier-adrift-in-the-Strait-of-Sicily) sounded the alarm regarding the risks posed by the vessel, warning that a spill could cause “cryogenic clouds that are lethal to marine wildlife”, and “large, long-lasting pollution of water and atmosphere”.
+
+We spoke with several experts who outlined various scenarios in the event of an LNG leak.
+
+"The LNG will evaporate and disperse into the atmosphere; it won't remain in the sea," said Jean-Christian Heintz, an independent consultant and LNG expert. "Furthermore, it is not that easy to ignite LNG."
+
+For his part, Mark Douglas, an analyst at Starboard Maritime Intelligence, told us:
+
+“Reportedly two of the four cargo tanks exploded, while another two are now venting explosive gas – LNG tankers have temperature control systems to keep the liquid gas heating and turning into vapour, but those are no longer operational. Any spark could cause another explosion.”
+
+
+Doug Weir, director of the Conflict and Environment Observatory, added that LNG residuals would also have an "impact on the climate", as they would be "released as methane", a potent greenhouse gas.
+
+Beyond the LNG cargo, there are growing concerns over the approximately 900 tons of fuel oil on board. The fuel, which was used for the ship’s propulsion, would “pose a risk to the marine environment if spilt”, Weir says.
+
+**‘This vessel is in a void where nobody has to do something about it’**
+
+ But how can this apparent reluctance to intervene be explained?
+
+While Russia maintains that it is up to coastal states to resolve the issue, maritime law expert Ian Ralby explains that the legal responsibility actually lies with the ship’s owner and the flag state.
+
+“Part of the problem is that there is no willingness on the part of the owner to take responsibility and no willingness on the part of the Russian flag state to impose that responsibility. And the protection and indemnity insurance on this vessel does not seem to exist.
+
+
+That means that whoever take a move to do something about this vessel is likely going to be stuck with the cost and this is an expensive and precarious situation. It's kind of stuck in limbo. This vessel is in a void where nobody has to do something about it.”
+
+According to the Equasis database, the vessel is owned by an Indian company, while a Russian firm was listed as the mere "manager" at the time of the incident. However, this type of structure is common among so-called "dark ships". “The Indian company is likely to be a front, or possibly manage administrative matters while the vessel operates as directed by Russian interests,” Douglas said.
+
+“Here, it has to be assumed that Russia and [Russian LNG producer] Novatek simply want the ship to sink,” said Kjell Eikland, the director of energy shipping analysis firm Eikland Energy.
+
+Coastal states appear to be all the more hesitant given the sheer complexity of the operation. "You have to tow a 300-metre ship weighing tens of thousands of tons, and that is already half-flooded," Heintz said. "There is absolutely nothing routine about this."
+
+To display this content from X (Twitter), you must enable advertisement tracking and audience measurement.
+
+**‘They want no retaliation for sanctions violations’**
+
+ Claudia Gazzini, an analyst at the International Crisis Group, said specialised companies were also reluctant to intervene because of the sanctions targeting the LNG carrier:
+
+
+“EU sanctions are not an impediment to salvaging the boat because the EU sanctions clause allows for intervention in the case of a maritime or environmental disaster.
+
+But a handful of other countries have also sanctioned this vessel. This means that companies have to apply for sanctions exemptions to these countries. They want guarantees that they will have no retaliation for sanctions violations and will not bear the responsibility should there be a spillover of diesel or LNG.”
+
+The question also remains as to what could be done with the vessel. “Recovering oil is relatively straightforward, but recovering LNG without the proper infrastructure is complicated," Heintz said. The LPMA president also [ noted](https://www.tradewindsnews.com/gas/tow-dropped-in-storm-leaving-russia-s-damaged-lng-carrier-arctic-metagaz-adrift/2-1-1969343) that Libya has no port large enough to handle such a damaged LNG carrier.
+
+For Ian Ralby, the incident highlights a pressing need for an international or regional body capable of managing such crises. "Somebody must have both the will and the authority to act," he said.

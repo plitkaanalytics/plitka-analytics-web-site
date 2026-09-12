@@ -1,0 +1,54 @@
+URL:         https://www.aljazeera.com/news/2026/3/4/russia-accuses-ukraine-of-drone-attack-as-gas-tanker-sinks-in-mediterranean
+Кінцевий:    https://www.aljazeera.com/news/2026/3/4/russia-accuses-ukraine-of-drone-attack-as-gas-tanker-sinks-in-mediterranean
+Заголовок:   Russia accuses Ukraine of drone attack as gas tanker sinks in Mediterranean
+Дата публ.:  2026-03-04
+Завантажено: 2026-09-12 14:22 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 206087
+Оригінал:    raw/113-aljazeera.com-russia-accuses-ukraine-of-drone-attack-as-gas-tanker-sin.html
+sha256:      6d1217686e1c32b6294c554668cc0b75934317fb4004b84d18719bb37df484b9
+Витяг:       trafilatura
+
+==============================================================================
+# Russia accuses Ukraine of drone attack as gas tanker sinks in Mediterranean
+
+*Russian President Vladimir Putin accuses Ukraine of carrying out a ‘terrorist attack.’*
+
+A Russian tanker carrying liquefied natural gas (LNG) has sunk in the Mediterranean between Libya and Malta, as Moscow accused Ukraine of attacking the vessel.
+
+The Libyan port authority said the tanker was hit by “sudden explosions followed by a massive fire, which ultimately led to its complete sinking” on Tuesday night north of the port of Sirte, Libya.
+
+## Recommended Stories
+
+list of 3 items- list 1 of 3[Russia-Ukraine war: List of key events, day 1,465](/news/2026/2/28/russia-ukraine-war-list-of-key-events-day-1465)
+- list 2 of 3[Ukraine to help down Iran’s drones: How Russia’s war rewrote the playbook](/news/2026/3/2/ukraine-to-help-down-irans-drones-how-russias-war-rewrites-the-playbook)
+- list 3 of 3[Why QatarEnergy’s LNG production halt could shake up global gas markets](/economy/2026/3/2/why-qatarenergys-lng-production-halt-could-shake-up-global-gas-markets)
+
+Russian President Vladimir Putin accused Ukraine of attacking the gas carrier.
+
+“This is a terrorist attack. This isn’t the first time we’ve seen this kind of thing,” Russia’s Putin told a reporter from Russian state television on Wednesday, accusing Kyiv of responsibility.
+
+There was no immediate comment from Ukraine.
+
+Russia’s Transport Ministry said that the Arctic Metagaz, which had been carrying LNG from the Arctic port of Murmansk, was attacked by Ukrainian naval drones launched from the coast of Libya.
+
+It said the 30 crew members, all Russian nationals, were safe, and thanked Maltese rescue services.
+
+“We qualify what happened as an act of international terrorism and maritime piracy, a gross violation of the fundamental norms of international maritime law,” the ministry said.
+
+According to an advisory from Libya’s maritime rescue agency, the Arctic Metagaz sank in waters between Libya and Malta after catching fire on Tuesday night.
+
+It warned vessels to avoid the site where the carrier sank and asked them to report any pollution in the area.
+
+The Libyan port authority said the ship was carrying an estimated 62,000 metric tons of liquefied natural gas (LNG) on its way to Port Said, Egypt.
+
+Egypt’s Petroleum Ministry has denied any connection with the tanker.
+
+“The tanker is not listed under any contracts to supply or receive LNG cargoes to Egypt,” the ministry said.
+
+
+
+The Arctic Metagaz has been sanctioned by the United States and the European Union as part of Russia’s fleet of ageing tankers that carry oil and gas exports around the world, skirting Western restrictions.
+
+Ukraine has frequently [targeted](/news/2026/3/2/ukraine-to-help-down-irans-drones-how-russias-war-rewrites-the-playbook) Russian oil refineries and other energy infrastructure in an attempt to deprive Russia’s war machine of funding.
+
+In December, Ukraine said it had hit a Russian tanker with aerial drones in the neutral waters of the Mediterranean Sea, in what was the first such strike there in Russia and Ukraine’s more than four-year war.

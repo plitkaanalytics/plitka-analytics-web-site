@@ -1,0 +1,125 @@
+URL:         https://en.wikipedia.org/wiki/Russian_replenishment_oiler_Academic_Pashin
+Кінцевий:    https://en.wikipedia.org/wiki/Russian_replenishment_oiler_Academic_Pashin
+Заголовок:   Russian replenishment oiler Academic Pashin - Wikipedia
+Дата публ.:  2019-03-25
+Завантажено: 2026-09-12 14:10 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 119429
+Оригінал:    raw/52-en.wikipedia.org-russian_replenishment_oiler_academic_pashin.html
+sha256:      76f52e1fba91cd84a48d336fe023adb857a0da5119aec5d05e1674fa137508fe
+Витяг:       trafilatura
+
+==============================================================================
+# Russian replenishment oiler *Academic Pashin*
+
+			
+
+| History | |
+|---|---|
+| Russia | |
+| Name | Academic Pashin | 
+| Namesake | [Valentin Pashin](https://en.wikipedia.org/wiki/Valentin_Pashin) | 
+| Owner | [Russian Federation](https://en.wikipedia.org/wiki/Russian_Federation) | 
+| Operator | [Russian Navy](https://en.wikipedia.org/wiki/Russian_Navy) | 
+| Port of registry | [Murmansk](https://en.wikipedia.org/wiki/Murmansk) | 
+| Builder | [Nevsky Shipyard](https://en.wikipedia.org/wiki/Nevsky_Shipyard?action=edit&redlink=1) | 
+| Cost | RUB3.08 billion (US$85 million) [[1]](#cite_note-ship-technology-1) | 
+| Yard number | 901 | 
+| Laid down | 26 April 2014 | 
+| Launched | 26 May 2016 | 
+| Commissioned | 21 January 2020 | 
+| In service | 2020–present | 
+| Identification | [Call sign](https://en.wikipedia.org/wiki/Maritime_call_sign): UHCZ[IMO number](https://en.wikipedia.org/wiki/IMO_number):[9778193](https://www.marinetraffic.com/ais/details/ships/imo:9778193)[MMSI number](https://en.wikipedia.org/wiki/Maritime_Mobile_Service_Identity):[273399750](https://www.marinetraffic.com/ais/details/ships/mmsi:273399750)
+ | 
+| Status | Active | 
+| General characteristics | |
+| Class & type | [Project 23130 replenishment oiler](https://en.wikipedia.org/wiki/Project_23130_replenishment_oiler) | 
+| Tonnage | 9,000 [DWT](https://en.wikipedia.org/wiki/Deadweight_tonnage) | 
+| Displacement | 5,000 tons (standard load)14,000 tons (full load)
+ | 
+| Length | 130 m (430 ft) | 
+| Beam | 21.5 m (71 ft) | 
+| Draught | 7 m (23 ft) | 
+| Propulsion | 2 × 6310 hp diesels, 1 × bow thruster | 
+| Speed | 16 kn (30 km/h; 18 mph) | 
+| Range | 8,000 nmi (15,000 km; 9,200 mi) | 
+| Endurance | 60 days | 
+| Capacity | 7,350 tons | 
+| Complement | 24 | 
+
+* Academic Pashin* is a 
+
+[replenishment oiler](https://en.wikipedia.org/wiki/Replenishment_oiler)of
+
+[Project 23130](https://en.wikipedia.org/wiki/Project_23130_replenishment_oiler)and the lead vessel of the class. Developed by the Spetssudoproect JSC, it is the first replenishment oiler commissioned with the
+
+[Russian Navy](https://en.wikipedia.org/wiki/Russian_Navy)since the end of the
+
+[Cold War](https://en.wikipedia.org/wiki/Cold_War).
+
+The ship is named after the
+
+[[1]](#cite_note-ship-technology-1)[Hero of the Russian Federation](https://en.wikipedia.org/wiki/Hero_of_the_Russian_Federation)
+
+[Valentin Pashin](https://en.wikipedia.org/wiki/Valentin_Pashin).
+
+She is assigned to the
+
+[[2]](#cite_note-2)[Northern Fleet](https://en.wikipedia.org/wiki/Northern_Fleet).
+
+## History
+
+[[edit](/w/index.php?title=Russian_replenishment_oiler_Academic_Pashin&action=edit§ion=1)]
+
+The construction of *Academic Pashin* was carried out under a state contract for the [Russian Defence Ministry](https://en.wikipedia.org/wiki/Ministry_of_Defence_(Russia)), signed in November 2013. [1] The ship was laid down on 26 May 2014, during a keel lying ceremony at the Nevsky Shipyard in 
+
+[Saint Petersburg](https://en.wikipedia.org/wiki/Saint_Petersburg). It was first scheduled for delivery by late 2016.
+
+
+[[3]](#cite_note-3)On 18 March 2016, the ship's hull was rolled out of the construction hall, to start pre-finishing works before its launching on the water. [4] It was launched on 26 May 2016.
+
+
+[[5]](#cite_note-5)On 17 May 2018, it has started first stage of its sea trials in the [Ladoga Lake](https://en.wikipedia.org/wiki/Ladoga_Lake). [6] In September 2018, the ship arrived in 
+
+[Kronstadt](https://en.wikipedia.org/wiki/Kronstadt), where it was to join the Russian Navy by the year end.
+
+
+[[7]](#cite_note-7)
+
+[[8]](#cite_note-8)In early 2019, the trials continued in the [Baltic Sea](https://en.wikipedia.org/wiki/Baltic_Sea), where the ship's interaction with deck helicopters was worked out. The [Ka-27PS](https://en.wikipedia.org/wiki/Kamov_Ka-27#Variants) helicopters were delivering various cargoes onto the ship and back to shore.[[9]](#cite_note-9)*Academic Pashin* successfully completed the trials in late June 2019, [10] and was commissioned on 21 January 2020.
+
+
+[[11]](#cite_note-11)In April 2020, *Academic Pashin* was spotted in the [Channel](https://en.wikipedia.org/wiki/English_Channel) off [Cherbourg](https://en.wikipedia.org/wiki/Cherbourg_Naval_Base) during the first sea trials of the French Navy's submarine * Suffren*.
+
+
+[[12]](#cite_note-12)On 23 August 2022, she entered the Mediterranean. [13] In December 2022 the ship positioned herself above the 
+
+[TAP pipeline](https://en.wikipedia.org/wiki/Trans_Adriatic_Pipeline), off the coast of
+
+[Otranto](https://en.wikipedia.org/wiki/Otranto), Italy. The Italian Navy and other NATO ships immediately moved next to the Academic Pashin ship.
+
+
+[[14]](#cite_note-14)In June 2024, *Academic Pashin* was part of a flotilla of four Russian vessels that will visit Havana from June 12 to June 17. It sailed close to the East Coast of the United States, while remaining in international waters. [15] As of June 2026, the ship was reported operating with the 
+
+[frigate Admiral Kasatonov](https://en.wikipedia.org/wiki/Russian_frigate_Admiral_Kasatonov)in the Mediterranean.
+
+
+[[16]](#cite_note-16)## References
+
+[[edit](/w/index.php?title=Russian_replenishment_oiler_Academic_Pashin&action=edit§ion=2)]
+
+- [1](#cite_ref-ship-technology_1-0)- [2](#cite_ref-ship-technology_1-1)- [3](#cite_ref-ship-technology_1-2)- ["Academician Pashin Medium-Sized Sea Tanker"](https://www.ship-technology.com/projects/academician-pashin-medium-sized-sea-tanker/).- *ship-technology.com*. Retrieved 25 March 2019.
+- [↑](#cite_ref-2)- ["Nevsky Shipyard continues testing of unique replenishment system"](https://www.hellenicshippingnews.com/nevsky-shipyard-continues-testing-of-unique-replenishment-system/).- *hellenicshippingnews.com*. 18 August 2018. Retrieved 25 March 2019.
+- [↑](#cite_ref-3)- ["Keel Laid for Russian Navy's Replenishment Oiler "Academician Pashin""](https://navaltoday.com/2014/04/29/keel-laid-for-russian-navys-replenishment-oiler-academician-pashin/).- *navaltoday.com*. 29 April 2014. Retrieved 25 March 2019.
+- [↑](#cite_ref-4)- ["The rolling out of Medium-sized sea tanker "ACADEMIC PASHIN" of the project 23130 took place at the Nevsky Shipyard"](http://www.nssz.ru/en/novosti/2016/the-rolling-out-of-medium-sized-sea-tanker-academic-pashin-of-the-project-23130-took-place-at-the-nevsky-shipyard.html).- *nssz.ru*. Retrieved 25 March 2019.
+- [↑](#cite_ref-5)- ["Спуск на воду морского танкера "Академик Пашин""](https://bmpd.livejournal.com/1922023.html).- *bmpd.livejournal.com*. 27 May 2016. Retrieved 25 March 2019.
+- [↑](#cite_ref-sea_trials_6-0)- ["Medium sea tanker of the project 23130 "Academic Pashin" started sea trial"](http://www.nssz.ru/en/novosti/2018/medium-sea-tanker-of-the-project-23130-academic-pashin-started-sea-trial.html).- *nssz.ru*. Retrieved 25 March 2019.
+- [↑](#cite_ref-7)- ["Танкер "Академик Пашин" взял курс на Кронштадт"](https://flotprom.ru/2018/%D0%9D%D1%81%D1%81%D0%B74/).- *flotprom.ru*. 10 September 2018. Retrieved 25 March 2019.
+- [↑](#cite_ref-8)- ["The Akademik Pashin tanker delivered to Kronshtadt"](http://en.portnews.ru/news/264412/).- *en.portnews.ru*. 13 September 2018. Retrieved 25 March 2019.
+- [↑](#cite_ref-9)- ["К испытаниям танкера "Академик Пашин" привлекли палубные вертолеты Балтийского флота"](https://flotprom.ru/2019/%D0%98%D1%81%D0%BF%D1%8B%D1%82%D0%B0%D0%BD%D0%B8%D1%8F3/).- *flotprom.ru*. 28 January 2019. Retrieved 25 March 2019.
+- [↑](#cite_ref-10)- ["Akademik Pashin tanker completes trials"](https://www.armyrecognition.com/archives/archives-naval-defense/naval-defense-2019/akademik-pashin-tanker-completes-trials).- *navyrecognition.com*. 8 July 2019. Retrieved 6 August 2019.
+- [↑](#cite_ref-11)- ["Новейший морской танкер "Академик Пашин" вошёл в состав Северного флота"](https://function.mil.ru/news_page/country/more.htm?id=12271766@egNews)(Press release) (in Russian). Ministry of Defence of Russian. 21 January 2020. Retrieved 21 January 2020.
+- [↑](#cite_ref-12)Guibert, Nathalie (8 May 2020).- ["La marine russe aux premières loges des essais du " Suffren ""](https://www.lemonde.fr/international/article/2020/05/07/la-marine-russe-aux-premieres-loges-des-essais-du-suffren_6038961_3210.html)[Russian navy have a front row seat for "Suffren" trials].- [Le Monde](https://en.wikipedia.org/wiki/Le_Monde)
+- [↑](#cite_ref-13)- ["Russian forces in the Mediterranean - Wk34/2022"](https://russianfleetanalysis.blogspot.com/2022/08/russian-forces-in-mediterranean-wk342022.html).
+- [↑](#cite_ref-14)Di Feo, Gianluca (22 December 2022).- ["La flotta russa a Otranto minaccia il gasdotto Tap"](https://www.repubblica.it/esteri/2022/12/22/news/otranto_flotta_russia_gasdotto_tap-380270375/)[The Russian fleet in Otranto threatens the TAP pipeline].- [la Repubblica](https://en.wikipedia.org/wiki/La_Repubblica)
+- [↑](#cite_ref-15)Trevithick, Joseph (11 June 2024).- ["Russian Naval Group Shadowed Off Florida By U.S., Allies (Updated)"](https://www.twz.com/news-features/russian-naval-group-shadowed-off-florida-by-u-s-allies).- *The War Zone*. Retrieved 12 June 2024.
+- [↑](#cite_ref-16)- ["Russian Navy Struggling to Maintain a Mediterranean Presence"](https://maritime-executive.com/article/russian-navy-struggling-to-maintain-a-mediterranean-presence).- *The Maritime Executive*. 20 June 2026. Retrieved 23 June 2026.

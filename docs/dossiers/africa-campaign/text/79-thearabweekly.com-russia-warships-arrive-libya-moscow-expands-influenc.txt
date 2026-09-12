@@ -1,0 +1,13 @@
+URL:         https://thearabweekly.com/russia-warships-arrive-libya-moscow-expands-influence
+Кінцевий:    https://thearabweekly.com/russia-warships-arrive-libya-moscow-expands-influence
+Заголовок:   Just a moment...
+Дата публ.:  не вказана на сторінці
+Завантажено: 2026-09-12 14:20 UTC
+HTTP:        403   Тип: text/html; charset=UTF-8   Байтів: 5848
+Оригінал:    raw/79-thearabweekly.com-russia-warships-arrive-libya-moscow-expands-influenc.html
+sha256:      a256960d5cb440395a4b0a82fdd2b047cf424c770d5028c9be07c3e5fe99feab
+Витяг:       bs4-full
+Примітка:    оригінал 403; знімка немає в Wayback
+
+==============================================================================
+Just a moment...

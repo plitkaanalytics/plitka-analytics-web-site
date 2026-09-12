@@ -1,0 +1,58 @@
+URL:         https://www.twz.com/news-features/ukraine-strikes-russia-linked-tanker-in-the-mediterranean-with-bomber-drone
+Кінцевий:    https://www.twz.com/news-features/ukraine-strikes-russia-linked-tanker-in-the-mediterranean-with-bomber-drone
+Заголовок:   Ukraine Strikes Russia-Linked Tanker In The Mediterranean With ‘Bomber Drone’
+Дата публ.:  2025-12-19
+Завантажено: 2026-09-12 14:21 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 182505
+Оригінал:    raw/105-twz.com-ukraine-strikes-russia-linked-tanker-in-the-mediterranean-with.html
+sha256:      d4f8355c67fa14008c2922cce7c47503020f79211ab33aa091711488d7f8578c
+Витяг:       trafilatura
+
+==============================================================================
+In a significant escalation of the ‘tanker war’ between Russia and Ukraine, which has so far [played out mainly in the Black Sea](https://www.twz.com/sea/russian-retaliation-strike-raises-stakes-in-black-sea-shipping-war), Ukrainian aerial drones have struck a tanker belonging to Russia’s so-called ‘shadow fleet’ in the Mediterranean. The latest incident comes after a tit-for-tat series of attacks, and a warning earlier this month from Russian President Vladimir Putin that he would “[cut Ukraine off from the sea](https://www.reuters.com/world/europe/putin-threatens-cut-ukraine-off-sea-after-attacks-tankers-2025-12-02/)” in response to Kyiv stepping up its campaign against Russian commercial shipping. 
+
+A source from within the Security Service of Ukraine (SBU), the government’s main internal security agency, told *TWZ* that “a new, unprecedented special operation” was carried out “more than 2,000 kilometers” (1,243 miles) from Ukrainian territory.
+
+The target was the Oman-flagged crude oil tanker * Qendil*, empty at the time of the attack and sailing from the Indian port of Jamnagar, where it had been unloaded on December 1. 
+
+“Accordingly, this attack did not pose any threat to the ecological situation in the region,” the SBU said.
+
+Before unloading, the tanker had left Russia’s Black Sea port of Novorossiysk on November 4, sailing through the Bosphorus and Mediterranean, then passing the Suez Canal en route to India. The vessel was built in 2006 and has a capacity of 115,338 deadweight tonnes.
+
+According to [Lloyd’s List Intelligence](https://www.lloydslistintelligence.com/) vessel tracking, the attack likely occurred when the tanker was heading west in the Mediterranean between Malta and Crete, which would put it around 930 miles from Ukraine. According to AIS data, the vessel made a U-turn immediately before midnight and then turned toward the east, for unknown reasons, changing its destination to Port Said in Egypt.
+
+The SBU explained that aerial drones were used as part of a “multi-stage” operation that was conducted by forces from its Special Group “Alpha.” The same group was responsible for yesterday’s aerial drone attack on Belbek Air Base in Crimea, which you can read more about [here](https://www.twz.com/air/mig-31-foxhound-among-russian-air-defense-assets-targeted-in-crimean-drone-strike).
+
+The SBU shared a video with us that purports to show the attack on the tanker. Here, munitions can be seen dropped onto the deck from a hexacopter-type aerial drone, indicating a short-range attack, with ‘bomber drones’ likely having been launched from a nearby vessel. The launch of these drones from a neighboring country would only be possible if the target was half a dozen or so miles off the coast.
+
+The SBU claims that the tanker “suffered critical damage and cannot be used for its intended purpose.” The video evidence suggests that damage was inflicted on the tanker’s topside infrastructure, although it’s unclear how severe this was.
+
+“Russia used this tanker to circumvent sanctions and earn money that went to the war against Ukraine,” the agency added in a statement. “Therefore, from the point of view of international law and the laws and customs of war, this is an absolutely legitimate target for the SBU. The enemy must understand that Ukraine will not stop and will strike it anywhere in the world, wherever it may be.”
+
+In a statement, the security firm Vanguard said that the attack reflected “a stark expansion of Ukraine’s use of uncrewed aerial systems against maritime assets associated with Russia’s sanctioned oil export network.”
+
+The EU and the United Kingdom sanctioned *Qendil*, since it is considered part of the shadow fleet, a term for vessels used by Russia (as well as by Iran and [Venezuela](https://www.twz.com/news-features/u-s-pressure-campaign-against-venezuela-has-entered-a-new-phase)) to evade sanctions with deceptive practices. These include changing flags and complex chains of ownership, often using shell companies.
+
+It might not be a coincidence that the attack took place on the day of Putin’s annual end-of-year press conference. During this, Putin said that Russia would respond to recent Ukrainian attacks on shadow fleet tankers.
+
+Since the start of the full-scale invasion of Ukraine, Russia has relied heavily on the shadow fleet, estimated to number more than 1,000 ships, to circumvent sanctions and export crude oil, bringing much-needed revenue.
+
+Putin said today that Russia would “definitely respond” to Ukraine’s campaign against its shadow fleet. “Ultimately, this will not lead to the expected result,” he said. “It will not disrupt any supplies, but will only create additional threats,” Putin added.
+
+Ukraine has previously used drone strikes to target Russian shadow tankers in the Black Sea.
+
+[As we have previously reported,](https://www.twz.com/sea/russian-oil-tanker-struck-in-aerial-attack-hundreds-of-miles-from-ukraine) Ukraine carried out three attacks on Russian-connected oil tankers in the Black Sea in late November and early December. This campaign has drawn a response in kind from Russia, using a [Shahed-type drone](https://www.twz.com/news-features/russia-is-using-modified-shahed-136s-to-strike-dynamic-targets-near-the-front-lines), as you can read about [here](https://www.twz.com/sea/russian-retaliation-strike-raises-stakes-in-black-sea-shipping-war).
+
+However, the first confirmed Ukrainian strike on a Russian-linked vessel this far from the Black Sea theater is a significant development. It is highly likely that the clandestine anti-ship war waged between Iran and Israel — [something we](https://www.twz.com/41871/everything-we-just-learned-about-the-fatal-iranian-drone-attack-on-a-tanker) have [reported](https://www.twz.com/40088/iran-confirms-its-covert-mothership-in-the-red-sea-was-attacked) on [for years](https://www.twz.com/39734/israel-has-been-launching-clandestine-attacks-on-iranian-oil-tankers-and-other-ships-report) now —likely provided a template for this.
+
+The ability to use short-range drones to prosecute attacks in the Mediterranean indicates that vessels could be under threat elsewhere in European waters or even beyond. Beyond that, we could see Ukraine start to use longer-range systems, including one-way attack drones equipped with [Starlink](https://www.twz.com/ukrainian-drone-boat-scores-direct-hit-on-russian-warship) terminals, in the future.
+
+Regardless, this development not only makes it potentially harder for Russia to export oil but also means that other commercial shipping will have to be aware of the increasing risks and potentially take measures to enhance their protection.
+
+While the attack on *Qendil* appears to be the first of its kind in the Mediterranean, a further geographical expansion of Kyiv’s campaign against the Russian shadow fleet should not be ruled out.
+
+*Contact the author: thomas@thewarzone.com*
+
+Loading comments…
+
+Comments couldn’t be loaded. Please refresh the page.

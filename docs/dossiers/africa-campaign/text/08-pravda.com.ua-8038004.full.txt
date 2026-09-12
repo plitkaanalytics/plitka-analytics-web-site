@@ -1,0 +1,174 @@
+URL:         https://www.pravda.com.ua/eng/news/2026/06/06/8038004/
+Кінцевий:    https://www.pravda.com.ua/eng/news/2026/06/06/8038004/
+Заголовок:   Ukraine apologises to Greece over sea drone incident near Lefkada
+Дата публ.:  2026-06-06
+Завантажено: 2026-09-12 14:06 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 156950
+Оригінал:    raw/08-pravda.com.ua-8038004.html
+sha256:      23b033f4acfb08141abf056e25c9a3b47ae6e2d8163e0523aeaa57e02d880647
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 20
+==============================================================================
+Ukraine apologises to Greece over sea drone found near Lefkada | Ukrainska Pravda
+Projects of "Ukrainian Pravda"
+Ukrainian military should not have to ask for help: the story of the Liberty Ukraine charity
+Life under constant stress: rebuilding a sense of safety for little Ukrainians
+Швидкий вхід, якщо ви вже авторизовані на УП/ЕП
+An Uncrewed Surface Vehicle. Photo: Kathimerini.gr
+Add UP as preferred source in Google
+Ukraine's acting foreign minister discusses Black Sea situation with Greek counterpart as Russian attacks continue
+NATO and EU pressure Greece to transfer Patriot missiles to Ukraine – Greek media
+Right to self-defence: Ukraine tells Greece Russian vessels remain a target
+© 2000-2026, Ukrainska Pravda,
+Principles and Rules of UP Work
+The use of site materials is allowed only with a reference (for online publications — a hyperlink) to "Ukrainska Pravda" no lower than the third paragraph.
+Any copying, publication, reprinting, or further distribution of information containing a reference to "
+Any copying, reprinting, or reproduction of photographic works and/or audiovisual works owned by Getty Images is strictly prohibited.
+Materials marked as PROMOTED are advertisements and are published as advertising. The editorial board may not share the views promoted in them. Materials marked as SPECIAL PROJECT and WITH SUPPORT are also advertisements, but the editorial team participates in preparing this content and shares the views expressed in these materials.
+The editorial board is not responsible for the facts and value judgments published in advertising materials. According to Ukrainian law, the advertiser is responsible for the content of the advertisements.
+Project founder: Georgiy Gongadze,
+Registered online media entity; media identifier — R40-02280.
+Address: 01032, Kyiv, Zhylianska St., 48, 50A.
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Ukraine apologises to Greece over sea drone found near Lefkada | Ukrainska Pravda
+Ukrainska Pravda
+Укр
+Рос
+Eng
+Support Us
+Укр
+Рос
+Eng
+Sections
+News
+Stories
+Opinions
+Interview
+Podcasts
+Special Projects
+Archive
+Projects of "Ukrainian Pravda"
+Ukrainska Pravda (UKR)
+Ekonomichna Pravda (UKR)
+Life (UKR)
+Sport (UKR)
+European Pravda (ENG)
+Blogs
+Istorychna Pravda (ENG)
+Tabloid
+Mezha (ENG)
+Defence (ENG)
+Topics
+ATACMS
+Russia-Ukraine war
+Special projects
+Ukrainian military should not have to ask for help: the story of the Liberty Ukraine charity
+Life under constant stress: rebuilding a sense of safety for little Ukrainians
+Увійти або зареєструватися
+Увійти з Google
+або
+Email
+Пароль
+Забули пароль?
+Увійти
+Швидкий вхід, якщо ви вже авторизовані на УП/ЕП
+Ще не маєте підписки?
+Долучайтеся до клубу УП!
+News
+Stories
+Opinions
+Interview
+Podcasts
+Special Projects
+Archive
+Ukraine apologises to Greece over sea drone incident near Lefkada
+Ivan Diakonov
+—
+                6 June, 03:39
+An Uncrewed Surface Vehicle. Photo: Kathimerini.gr
+Посилання скопійовано
+Add UP as preferred source in Google
+Ukrainian Foreign Ministry spokesperson Heorhii Tykhyi has apologised to Greece over an incident involving a sea drone that was discovered in Greek territorial waters near the island of Lefkada in the Ionian Sea in May.
+Source:
+Tykhyi on
+X (Twitter)
+Details:
+Tykhyi stressed that the appearance of the drone had been the result of circumstances caused by Russia's aggression against Ukraine.
+Advertisement:
+Quote:
+"As current challenges to international and regional security, particularly maritime security and the activities of Russia's 'shadow fleet' constitute a shared concern of both Greece and Ukraine, Ukraine emphasises its commitment to the norms of international law and the principles of civilian maritime safety, noting its interest in preventing similar occurrences in the future."
+Details:
+Tykhyi said the incident had demonstrated that Russia's war poses a threat not only to Ukraine, but also to
+"neighbouring friendly states, Europe and the world at large"
+.
+He added that Kyiv highly values its friendly relations with Athens and is grateful to the Greek people for their support since the first days of the full-scale invasion.
+"Ukraine remains committed, along with Greece, to further deepening friendly relations between our two countries and developing a constructive dialogue in all areas of mutual interest,"
+Tykhyi stressed.
+Background:
+The uncrewed surface vessel – identified by Greek media as a Kozak Mamai model – was discovered by fishermen near the island of Lefkada after apparently suffering a
+remote-control malfunction
+. Reports said it was carrying 100 kg of explosives. Greek officials suspect it was intended to strike a vessel belonging to Russia's shadow fleet operating in the Mediterranean.
+Athens warned that it would
+not allow the Mediterranean Sea to become a theatre of military operations
+. In May, Greek Defence Minister Nikos Dendias said that "Ukraine owes us a very large apology".
+Ukraine's Ministry of Foreign Affairs said there is
+no evidence that the vessel was linked to Ukrainian operators
+.
+On 3 June, Greece
+lodged an official diplomatic protest
+with Ukraine over the sea drone found off the coast of Lefkada.
+Support Ukrainska Pravda on
+Patreon
+!
+Greece
+Foreign Affairs Ministry
+Ukraine
+drones
+Advertisement:
+Top news of today
+All news
+Greece
+Ukraine's acting foreign minister discusses Black Sea situation with Greek counterpart as Russian attacks continue
+NATO and EU pressure Greece to transfer Patriot missiles to Ukraine – Greek media
+Right to self-defence: Ukraine tells Greece Russian vessels remain a target
+Latest news
+Advertisement:
+Advertisement:
+Ukrainska Pravda
+© 2000-2026, Ukrainska Pravda,
+LLC "UP Media Plus"
+. All rights reserved.
+Advertising on the site
+Events
+Rules for using UP materials
+AI policy
+Gender policy
+Principles and Rules of UP Work
+How to Write for UP
+Internship
+Promocodes
+The use of site materials is allowed only with a reference (for online publications — a hyperlink) to "Ukrainska Pravda" no lower than the third paragraph.
+Any copying, publication, reprinting, or further distribution of information containing a reference to "
+Interfax-Ukraine
+" is strictly prohibited.
+Any copying, reprinting, or reproduction of photographic works and/or audiovisual works owned by Getty Images is strictly prohibited.
+Materials marked as PROMOTED are advertisements and are published as advertising. The editorial board may not share the views promoted in them. Materials marked as SPECIAL PROJECT and WITH SUPPORT are also advertisements, but the editorial team participates in preparing this content and shares the views expressed in these materials.
+The editorial board is not responsible for the facts and value judgments published in advertising materials. According to Ukrainian law, the advertiser is responsible for the content of the advertisements.
+Project founder: Georgiy Gongadze,
+Editor-in-chief:
+Sevgil Musaeva
+,
+Founding editor:
+Olena Prytula
+,
+Editorial e-mail:
+[email protected]
+Registered online media entity; media identifier — R40-02280.
+Address: 01032, Kyiv, Zhylianska St., 48, 50A.
+Phone: +380 95 641 22 07

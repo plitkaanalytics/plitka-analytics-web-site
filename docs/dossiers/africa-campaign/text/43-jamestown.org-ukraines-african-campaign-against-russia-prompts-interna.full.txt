@@ -1,0 +1,243 @@
+URL:         https://jamestown.org/ukraines-african-campaign-against-russia-prompts-international-backlash/
+Кінцевий:    https://jamestown.org/ukraines-african-campaign-against-russia-prompts-international-backlash/
+Заголовок:   Ukraine's African Campaign Against Russia Prompts International Backlash - Jamestown
+Дата публ.:  2024-09-11
+Завантажено: 2026-09-12 14:09 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 195938
+Оригінал:    raw/43-jamestown.org-ukraines-african-campaign-against-russia-prompts-interna.html
+sha256:      ec7174fae748fbbaf00d85ab1a51a430882135eb8eadda01d88056732a581091
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 14
+==============================================================================
+Ukraine's African Campaign Against Russia Prompts International Backlash - Jamestown
+Russian Black Sea Fleet Intrudes Bulgarian Waters, Harasses Turkish Grain Freighter
+Russia’s Combat Losses in Ukraine Deduced From Rosstat’s ‘Unassigned Deaths’ Category
+Russia Exhausts Soviet-Era Arms Storage Bases
+Russia Militarizing Occupied Ukraine (Part I)
+(Source: Donetsk Occupation Administration)
+Rosoboronexport’s International Arms Sales Status Uncertain
+Lessons Learned From Russia’s War Against Ukraine: The Case of Lithuania
+(Source: Lithuanian Ministry of Defense)
+We use cookies to enhance your browsing experience, serve personalized ads or content, and analyze our traffic. By clicking "Accept All", you consent to our use of cookies.
+This website uses cookies so that we can provide you with the best user experience possible. Cookie information is stored in your browser and performs functions such as recognising you when you return to our website and helping our team to understand which sections of the website you find most interesting and useful.
+Strictly Necessary Cookie should be enabled at all times so that we can save your preferences for cookie settings.
+This website uses Google Analytics to collect anonymous information such as the number of visitors to the site, and the most popular pages.
+Keeping this cookie enabled helps us to improve our website.
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Ukraine's African Campaign Against Russia Prompts International Backlash - Jamestown
+Skip to content
+China Brief
+Eurasia Daily Monitor
+Terrorism Monitor
+Subscribe
+Account
+Donate
+About Us
+Who We Are
+Our Team
+History
+Careers
+Funding
+Publications
+China Brief
+China Brief Notes
+Eurasia Daily Monitor
+Terrorism Monitor
+Militant Leadership Monitor
+Issue Briefs
+Jamestown Perspectives
+Projects
+Black Sea
+Commentaries
+Guardians of the Belt
+New Versus Old
+Topics
+Military & Security
+Foreign Policy
+Information Warfare
+Economics & Energy
+Politics & Society
+Technology
+Media
+Foundation Updates
+Mentions
+Books
+Events
+Technology
+Politics & Society
+Economics & Energy
+Information Warfare
+Foreign Policy
+Military & Security
+Ukraine’s African Campaign Against Russia Prompts International Backlash
+Foreign Policy
+Publication
+Eurasia Daily Monitor
+Ukraine
+Volume 21 Issue 130
+09.11.2024
+Andrew McGregor
+Top Stories
+Russian Black Sea Fleet Intrudes Bulgarian Waters, Harasses Turkish Grain Freighter
+Foreign Policy
+Russia’s Combat Losses in Ukraine Deduced From Rosstat’s ‘Unassigned Deaths’ Category
+Military & Security
+Russia Exhausts Soviet-Era Arms Storage Bases
+Military & Security
+Ukraine’s African Campaign Against Russia Prompts International Backlash
+Executive Summary:
+The July attack by Tuareg rebels in Mali that killed Malian government troops and Wagner Group mercenaries has been connected to Ukraine, causing substantial international backlash for Kyiv.
+The death of multiple members of Mali’s army in the attack would mean Ukraine was involved in the killing of regular army members of a sovereign state unengaged in any hostilities with Ukraine, past or present.
+If Ukraine were involved in the clash at Tinzawatène, it would find little in international law to support its intervention, which could risk international support for Kyiv.
+During fighting that took place on July 25, 26 and 27 around the north Malian border town of Tinzawatène, where Tuareg rebels launched a devastating ambush that killed scores of Malian government troops and their Russian Africa Corps allies, members of the Wagner Group private military company (see
+EDM
+, July 31). Reports later emerged that the Tuareg fighters had received substantial aid and training from Ukraine, quickly sparking international backlash, specifically from surrounding African nations, including Niger (
+Al Jazeera
+, August 20).
+The Tuareg forces involved in the battle hailed from a coalition of armed separatist groups consisting of the Cadre Stratégique pour la Défense du Peuple de l’Azawad (CSP-DPA) and the al-Qaeda-affiliated Group for Supporters of Islam and Muslims (JNIM) (
+Voice of America
+, August 1). Ukraine’s alleged involvement with the latter has contributed most to creating an international incident. After the ambush, a photo of victorious Tuareg fighters holding a Ukrainian flag was posted in
+Kyiv Post
+. Sources in Ukraine’s defense and security forces confirmed the photo’s authenticity, asserting that Ukraine fully supports any forces in the various parts of Africa fighting against Wagner terrorists (
+Kyiv Post
+;
+Ukrainska Pravda
+, July 29). Ukraine’s support of the attackers  and the international backlash that ensued have the potential to threaten future Western support for the war-torn country.
+Russia’s foreign ministry seized the opportunity to declare that Kyiv’s support for al-Qaeda-affiliated terrorist groups was “not surprising at all,”
+citing Ukraine’s alleged “terrorist methods on the territory of the Russian Federation, committing sabotage, political assassinations and regularly bombing civilian targets” (
+Agence de Presse Africaine
+, August 7).
+Malian media described the ambush as a “secret project” of the Main Directorate of Intelligence of the Ukrainian Ministry of Defense (GUR), including the training of “terrorists in combat techniques and supplying equipment, drones and weapons” for destabilization operations (
+Maliweb
+, August 17). The alleged director of this project is an employee of the GUR, Andrii Romanenko, though the source of this information appears to be Anatoliy Shari, a controversial Ukrainian journalist and politician (
+Maliweb
+, August 16). Shari is generally viewed as pro-Russian (though he denies this) and was suspected of high treason by the Ukrainian Security Service (SBU) in 2021 (
+SBU
+, February 16, 2021) .
+The first cohort of Tuareg fighters reportedly started combat training under Ukrainian direction in early 2024 (
+LeFaso.net
+, August 15). An investigation by Malian authorities reported that the training was carried out in Mauritania, where local authorities have launched their own investigation at Bamako’s request (
+LeFaso.net
+, August 5). It has also been reported that some members of the Tuareg alliance were sent to Ukraine for intensive training (
+Le Monde
+, August 7).
+Andrii Yusov, spokesman for the GUR, told Ukrainian public broadcaster Suspilne TV
+that
+the rebel fighters had received “useful information [from Ukraine], and not just that, which allowed them to carry out a successful military operation against Russian war criminals” (
+The Kyiv Independent
+, August 5). Despite this, a CSP-DPA spokesman downplayed any special ties to Ukraine’s intelligence services, saying, “We have links with the Ukrainians, but just as we have with everyone else, the French, Americans, and others” (
+Le Monde
+, August 2).
+Mali’s transitional government announced it had learned “with deep shock” of Yusov’s admission that Ukraine was involved “in a cowardly, treacherous, and barbaric attack by armed terrorist groups.” These actions had not only violated Mali’s sovereignty but constituted “a clear aggression against Mali and support for international terrorism, in flagrant violation of international law, including the Charter of the United Nations” (
+Maliweb
+, August 4). Yusov later retracted his remarks, claiming he was not speaking of the involvement of Ukrainian intelligence services (
+Maliweb
+, August 17).
+Matters worsened when Yurii Pyvovarov, Ukraine’s Dakar-based ambassador to Senegal, published a Facebook video that Senegalese authorities described as providing “unequivocal and unqualified support for the terrorist attack” in Mali (
+Al Jazeera
+, August 7). While the post was deleted within 24 hours, Pyvovarov was summoned by Senegalese authorities to account for it.he pro-Russian Alliance des États du Sahel (AES—Mali, Niger, and Burkina Faso) encouraged Senegal to break diplomatic relations with Ukraine (
+Sputnik
+, August 5;
+Maliweb
+, August 10). Mali severed diplomatic relations with Ukraine on August 4, referring to the “neo-Nazi and villainous nature” of Ukrainian authorities (
+Maliweb
+, August 4). Niger followed suit on August 6 (
+Le Monde
+/AFP
+, August 6).
+Ukraine’s foreign ministry described Mali’s break as “unfriendly … short-sighted and hasty,” adding that Bamako had failed to provide “any evidence of Ukraine’s involvement” in the ambush. The ministry further denied Ukrainian support for terrorism and reiterated its commitment to international law and “the inviolability of the sovereignty and territorial integrity of other countries” (
+Kyiv Independent
+, August 5).
+On August 19, the foreign ministers of the AES states sent a joint letter to the United Nations Security Council (UNSC) denouncing Ukraine’s alleged support for international terrorism and calling upon the council to take appropriate measures against Ukraine (
+L’Essor
+;
+Asharq al-Awsat
+, August 22). As the UNSC does not have a mandate to address conflicts between member states, the letter could be a preliminary step to bringing the matter before international courts (
+RFI
+, August 22).
+Accusations of Ukrainian support for terrorism will be welcomed by Putin-admiring Western politicians seeking to defund Western support for Ukraine’s defense. The death of multiple members of Mali’s army in the attack would mean Ukraine was involved in the killing of regular army members of a sovereign nation (albeit a military dictatorship) unengaged in any hostilities with Ukraine, past or present.
+Mali has the right to partner with another country (e.g., Russia) for defensive purposes. This does not give the right to a nation belligerent with that partner to combat its forces on Mali’s sovereign territory. In May 2023, GUR director General Kyrylo Budanov famously declared, “We’ve been killing Russians, and we will keep killing Russians anywhere on the face of this world until the complete victory of Ukraine” (
+Yahoo! News
+, May 5, 2023). If Ukraine were involved in the clash at Tinzawatène, however, it would find little in international law to support its intervention. Kyiv’s decision to expand its war against Russia may prove to have been a serious misstep.
+Related Articles
+Russia Militarizing Occupied Ukraine (Part I)
+09.10.2026
+Maksym Beznosiuk
+Military & Security
+(Source: Donetsk Occupation Administration)
+Rosoboronexport’s International Arms Sales Status Uncertain
+09.08.2026
+John C. K. Daly
+Military & Security
+(Source: Tekhnosfera Rossiya)
+Lessons Learned From Russia’s War Against Ukraine: The Case of Lithuania
+08.18.2026
+Eitvydas Bajarūnas
+Military & Security
+(Source: Lithuanian Ministry of Defense)
+1310 L St. NW, Suite 810,
+Washington DC, 20005
+Phone:
++1 202 483 8888
+Email:
+pubs@jamestown.org
+Quick Links
+Who We Are
+Our Team
+Events
+Funding
+Foundation Updates
+Contact Us
+Publications
+China Brief Notes
+China Brief
+Eurasia Monitor
+Terrorism Monitor
+Militant Leadership Monitor
+Jamestown Perspectives
+Topics
+Military & Security
+Foreign Policy
+Information Warfare
+Economics & Energy
+Politics & Society
+Technology
+Projects
+Black Sea
+Commentaries
+Guardians of the Belt
+New Versus Old
+Privacy Policy
+© 2026 Jamestown
+Design by Cast from Clay
+We use cookies to enhance your browsing experience, serve personalized ads or content, and analyze our traffic. By clicking "Accept All", you consent to our use of cookies.
+Accept all
+Reject all
+Customize
+Close GDPR Cookie Settings
+Privacy Overview
+Strictly Necessary Cookies
+Analytics
+Powered by
+GDPR Cookie Compliance
+Privacy Overview
+This website uses cookies so that we can provide you with the best user experience possible. Cookie information is stored in your browser and performs functions such as recognising you when you return to our website and helping our team to understand which sections of the website you find most interesting and useful.
+Strictly Necessary Cookies
+Strictly Necessary Cookie should be enabled at all times so that we can save your preferences for cookie settings.
+Enable or Disable Cookies
+Enabled
+Disabled
+Analytics
+This website uses Google Analytics to collect anonymous information such as the number of visitors to the site, and the most popular pages.
+Keeping this cookie enabled helps us to improve our website.
+Enable or Disable Cookies
+Enabled
+Disabled
+Enable All
+Save Settings

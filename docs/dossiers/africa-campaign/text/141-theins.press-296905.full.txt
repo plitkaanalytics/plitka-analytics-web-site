@@ -1,0 +1,159 @@
+URL:         https://theins.press/en/news/296905
+Кінцевий:    https://theins.press/en/news/296905
+Заголовок:   Sanctioned Russian ship Lady Mariia, tied to arms shipments, attacked by drones in the Mediterranean Sea
+Дата публ.:  2026-09-07
+Завантажено: 2026-09-12 16:11 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 140002
+Оригінал:    raw/141-theins.press-296905.html
+sha256:      875aecf5eed07d7d02cebc578263cf481d28bd8d6699cd7698bf217f9c5b9b59
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 21
+==============================================================================
+Sanctioned Russian ship Lady Mariia, tied to arms shipments, attacked by drones in the Mediterranean Sea — The Insider
+We depend on contributions from readers like you
+Sign up for regular contributions
+Sanctioned Russian ship Lady Mariia, tied to arms shipments, attacked by drones in the Mediterranean Sea
+Source: Andrii Klymenko / Facebook
+The route of the Russian roll-on/roll-off cargo ship Lady Mariia
+Source: Starboard Maritime Intelligence / The Insider
+Ukraine says it attacked a Russian “shadow fleet” tanker in the Mediterranean Sea for the first time
+Russian LNG carrier damaged by Ukrainian sea drone to be towed to Libyan port
+RFI reports Ukrainian servicemen stationed in Libya carried out attack on Russian LNG carrier Arctic Metagaz
+SBU drones strike Russian “shadow fleet” oil tankers Louise 1 and Banda in the Black Sea
+Russian ships in Black Sea use nets, cages, and World War-era camouflage against Ukrainian drones
+Add The Insider as a preferred source on Google and our reporting will show up in your Top Stories more often. Every reader who chooses The Insider helps show Google that our journalism matters.
+Unraveling Havana Syndrome: New evidence links the GRU's assassination Unit 29155 to mysterious attacks on U.S. officials and their families
+Lost in translation: How Russia’s new elite hit squad was compromised by an idiotic lapse in tradecraft
+The Czech illegals: Husband and wife outed as GRU spies aiding bombings and poisonings across Europe
+A most wanted man: Fugitive Wirecard COO Jan Marsalek exposed as decade-long GRU spy
+The Lab: How FSB chemical weapons experts tried to poison Alexei Navalny
+Subscribe to our Sunday Digest
+By subscribing, you agree to The Insider's
+, as well as Google's reCAPTCHA terms
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Sanctioned Russian ship Lady Mariia, tied to arms shipments, attacked by drones in the Mediterranean Sea — The Insider
+Reports
+Analytics
+Investigations
+OIL
+104.32
+USD
+84.26
+EUR
+97.87
+Donate
+Русский
+РУ
+We depend on contributions from readers like you
+Sign up for regular contributions
+678
+News
+Sanctioned Russian ship Lady Mariia, tied to arms shipments, attacked by drones in the Mediterranean Sea
+The Insider
+September 7, 2026 at 05:09 PM
+Source: Andrii Klymenko / Facebook
+Доступно на русском
+The Russian roll-on/roll-off cargo ship
+Lady Mariia
+(IMO: 9220641), which is under U.S. and Ukrainian sanctions, was attacked by drones in the Mediterranean Sea, according to the head of Ukraine’s Institute for Black Sea Strategic Studies, Andrii Klymenko, who
+reported
+that the vessel had been heading toward Syria.
+Klymenko published footage of the attack, while a longer video was
+posted
+on the Telegram channel of Russian opposition commentator Alexander Nevzorov. The footage shows drones dropping munitions onto the vessel, with a fire breaking out after one explosion. Nevzorov claimed the
+Lady Mariia
+was hit 12 times and suggested that the drones had been launched by Ukrainian forces from the territory of Libya. He added that the ship was carrying Iranian weapons and armored vehicles intended for Russia.
+Klymenko also hinted that the drones had been launched from Libyan territory, writing: “And it wasn’t us. Those were some nice, unknown drones from Libyan territory. What do we have to do with it?”
+Ukrainian authorities have not officially commented on the attack. The number of hits, the origin of the drones, and the nature of the cargo on board have not been independently confirmed. The Ukrainian outlet UNITED24 Media also
+noted
+that claims about Iranian weapons and a Libyan launch point were based on Nevzorov’s reporting and had not been independently verified.
+According to the vessel tracking platform
+Starboard Maritime Intelligence
+, the
+Lady Mariia
+left St. Petersburg in early August. The vessel passed through the Strait of Gibraltar on Aug. 29 and then called at the Algerian port of Oran. It later headed east across the Mediterranean. On the evening of Sept. 5, the
+Lady Mariia
+stopped transmitting its AIS (Automatic Identification System) signal.
+The route of the Russian roll-on/roll-off cargo ship Lady Mariia
+Source: Starboard Maritime Intelligence / The Insider
+Starboard Maritime Intelligence data also shows that since the spring of 2020, the
+Lady Mariia
+has made three calls at the Syrian port of Tartus and three at the Iranian ports of Bandar Abbas and Khorramshahr. The platform also recorded two calls at the Libyan port of Al-Buraika.
+Ukraine’s military intelligence agency (HUR) lists the
+Lady Mariia
+among the vessels that have been used to transport military cargo and weapons for Russia.
+The ship is owned by the Russian company MG-Flot LLC, formerly known as Transmorflot. In May 2022, the U.S. imposed sanctions on Transmorflot and vessels linked to it. The
+Lady Mariia
+, which was previously named
+Stella-Maria
+, was also placed under U.S. restrictions. Ukraine imposed sanctions on the
+Lady Mariia
+on May 23, 2026.
+According to HUR, MG-Flot is linked to Astrakhan businessman Dzhamaldin Pashayev, who built his business around the Port of Olya in Russia’s southern Astrakhan Region. The port is seen as one of Russia’s key logistics hubs for the International North-South Transport Corridor, which connects Russia with Iran.
+See also
+Ukraine says it attacked a Russian “shadow fleet” tanker in the Mediterranean Sea for the first time
+December 19, 2025
+Russian LNG carrier damaged by Ukrainian sea drone to be towed to Libyan port
+March 23, 2026
+RFI reports Ukrainian servicemen stationed in Libya carried out attack on Russian LNG carrier Arctic Metagaz
+April 3, 2026
+SBU drones strike Russian “shadow fleet” oil tankers Louise 1 and Banda in the Black Sea
+July 16, 2026
+Russian ships in Black Sea use nets, cages, and World War-era camouflage against Ukrainian drones
+August 12, 2026
+We depend on contributions from readers like you
+Sign up for regular contributions
+Another way to support us
+Add The Insider as a preferred source on Google and our reporting will show up in your Top Stories more often. Every reader who chooses The Insider helps show Google that our journalism matters.
+Want to share it?
+Publication:
+“
+Sanctioned Russian ship Lady Mariia, tied to arms shipments, attacked by drones in the Mediterranean Sea
+”
+Popular
+Unraveling Havana Syndrome: New evidence links the GRU's assassination Unit 29155 to mysterious attacks on U.S. officials and their families
+Lost in translation: How Russia’s new elite hit squad was compromised by an idiotic lapse in tradecraft
+The Czech illegals: Husband and wife outed as GRU spies aiding bombings and poisonings across Europe
+A most wanted man: Fugitive Wirecard COO Jan Marsalek exposed as decade-long GRU spy
+The Lab: How FSB chemical weapons experts tried to poison Alexei Navalny
+Subscribe to our Sunday Digest
+By subscribing, you agree to The Insider's
+Terms of Service
+and
+Privacy Policy
+, as well as Google's reCAPTCHA terms
+(
+Privacy Policy
+,
+Terms of Service
+).
+About the project
+User agreement
+Privacy policy
+Follow Us:
+18+
+2026
+The Insider
+News
+Investigations
+ECONOMICS
+Antifake
+SOCIETY
+OPINION
+CORRUPTION
+POLITICS
+Confession
+History
+Books
+Investigation Topics
+Fakesperts
+Subscribe to our Sunday Digest
+Subscribe to RSS Feed
+Follow Us:
+About the project

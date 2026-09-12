@@ -1,0 +1,20 @@
+URL:         https://x.com/bayraktar_1love/status/2096532362905485433
+Кінцевий:    https://api.fxtwitter.com/status/2096532362905485433
+Заголовок:   bayraktar_1love: The sanctioned Russian Ro-Ro cargo ship LADY MARIIA, IMO 9220641, was struck by 
+Дата публ.:  Sun Sep 06 09:34:01 +0000 2026
+Завантажено: 2026-09-12 14:20 UTC
+HTTP:        200   Тип: application/json   Байтів: 5434
+Оригінал:    raw/61-x.com-2096532362905485433.json
+sha256:      1d5bdf6ea52004bf60fd3c19bde1f359fea73d7b63127ffedf06b6b5e20479a0
+Витяг:       fxtwitter
+
+==============================================================================
+Автор: Special Kherson Cat 🐈🇺🇦 (@bayraktar_1love)
+Дата: Sun Sep 06 09:34:01 +0000 2026
+
+The sanctioned Russian Ro-Ro cargo ship LADY MARIIA, IMO 9220641, was struck by multiple drones in the Mediterranean while sailing from Oran, Algeria, toward the eastern Mediterranean.
+
+Footage circulating online shows a series of strikes on the vessel, with claims of up to 12 hits. 
+
+Ukraine’s DIU lists the vessel specifically in the category of ships involved in transporting weapons and military equipment, including previous arms shipments from Syria to Russia. The vessel itself is also under U.S. sanctions.
+[медіа: video https://video.twimg.com/amplify_video/2096532334522609664/vid/avc1/640x352/OSsW-JNIVxZrZHc3.mp4?tag=29]

@@ -1,0 +1,117 @@
+URL:         https://www.bellingcat.com/news/2023/10/07/examining-videos-of-suspected-ukrainian-riflemen-in-sudan/
+Кінцевий:    https://www.bellingcat.com/news/2023/10/07/examining-videos-of-suspected-ukrainian-riflemen-in-sudan/
+Заголовок:   Examining Videos of Suspected Ukrainian Riflemen in Sudan - bellingcat
+Дата публ.:  2023-10-07
+Завантажено: 2026-09-12 19:23 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 106474
+Оригінал:    raw/159-bellingcat.com-examining-videos-of-suspected-ukrainian-riflemen-in-sud.html
+sha256:      1f24d44256bd8b2b0d13c7c42a79c86fb87201f879056d8fcbdd04424b405a8d
+Витяг:       trafilatura
+
+==============================================================================
+# Examining Videos of Suspected Ukrainian Riflemen in Sudan
+
+It is well-established that Russian mercenaries have been operating in Sudan [since 2017](https://www.bbc.com/news/world-africa-65328165), among them members of the notorious Wagner paramilitary group.
+
+But, since the outbreak of war in Sudan earlier this year, there have also been reported [suspicions](https://edition.cnn.com/2023/09/19/africa/ukraine-military-sudan-wagner-cmd-intl/index.html) of Ukrainian mercenaries fighting on the side of the Sudanese Armed Forces (SAF) in their battle against the Rapid Support Forces (RSF). This April, CNN [reported](https://edition.cnn.com/2023/04/20/africa/wagner-sudan-russia-libya-intl/index.html) that Wagner had supplied RSF paramilitaries with missiles.
+
+Recent videos have surfaced showing fair-skinned men handling sniper rifles in an arid landscape alongside claims that these videos show Ukrainian special operations forces in Sudan. When segments of this footage appeared publicly it renewed the rumour mill, prompting Bellingcat to investigate.  
+
+A higher quality and slightly longer video was sent to a Bellingcat contributor and other journalists, suggesting that its spread could be an attempt to influence public opinion. 
+
+The video featuring alleged Ukrainian figures in Sudan began circulating online on October 6, 2023. It was subsequently shared by Telegram channels such as Trukha Ukraine and the news website Babel.ua. The latter claimed that sources in the country’s intelligence community had confirmed that the men in the video are Ukrainians fighting against the RSF.
+
+Babel reported that Kyrylo Budanov, the head of Ukraine’s military intelligence service HUR MOU, commented simply, “Ukraine will destroy Russian war criminals wherever in the world they may be.” 
+
+## The Marksman
+
+The video, which has been shared independently by several different sources, is actually several pieces of footage edited together. 
+
+Included in this compilation were three clips that Bellingcat was unable to geolocate — one of a sniper shooting at what may be a truck, one of shooting taking place in an urban area at night, and one of a man on a cream-coloured roof shooting a heavy machine gun.
+
+It starts with a man wearing camouflage, shooting a sniper rifle from the top of a mountain. [Some have claimed](https://twitter.com/MalcolmNance/status/1710060360248492336) that he is a Ukrainian paramilitary.
+
+Bellingcat was able to geolocate his position to the Al-Markhiyat mountains just west of Omdurman ([15.708352, 32.426962](https://maps.app.goo.gl/UXKbXTLCSjxUma1G8)). Here’s how.
+
+The hills in the background can be matched to this location using a panorama on Google Earth Pro.
+
+Further confirmation came in the form of an elongated building with a white roof, highlighted in the image below in the green box. In the distance, to the right of the first building, is another structure or group of structures, which are highlighted in the purple box.
+
+These structures can both be seen from the shooter’s field of view, as highlighted in the red triangle in as Google Earth imagery below.
+
+A further indication this video was filmed at least in the Middle East or North Africa can be seen in the empty bottles and cans lying on the ground near the soldier. The label of the bottle with the blue cap, which can be seen in reverse, is that of Lavie, an Egyptian bottled water brand. The yellow and black can between the two bottles has the label of LiftUp, a Saudi energy drink. The brand of the third bottle, with the green lid, is unclear.
+
+But are there any useful clues to the man’s affiliation? Is he a Ukrainian paramilitary? Neither the weapon nor the camouflage pattern can conclusively answer this important question.
+
+Camouflage features on the man’s trousers resemble the [Multicam pattern](https://multicampattern.com/multicam_patterns/), according to [Camopedia](https://www.camopedia.org/index.php/Multicam), an independent project to catalogue military camouflage patterns. It is important to note that this pattern cannot be used to conclusively establish this man’s affiliation; as New Lines Magazine put it in an [article](https://newlinesmag.com/reportage/the-empires-new-clothes/#:~:text=The%20pattern%20has%20spread%20to,fighting%20on%20the%20Russian%20side.) about the successful camo pattern in May, Multicam patterns now “appears on all sides of today’s convoluted conflicts”, including that between Russia and Ukraine. Bellingcat also found several private companies online selling tactical gear and clothing which displays the Multicam camouflage pattern.
+
+The weapons expert who uses the pseudonym [Calibre Obscura](https://www.calibreobscura.com/about/) told Bellingcat that the precise model of the firearm likely could not be determined, partly due to the quality of the footage and partly because it is obscured by camouflage webbing. “It’s a modern, suppressed bolt-action rifle similar to those used by Special Operations forces across the world”, the analyst told Bellingcat.
+
+## The Four Marksmen
+
+Another section of the footage circulating shows four men in fatigues lying behind rifles. They are situated on a mountain ridge with terrain similar to that seen in the earlier scene of the man with the rifle. 
+
+The camera films the men from behind, from a small distance. 
+
+A closer look at the landscape, when compared with Google Earth’s panorama, shows that this is the same hill where the solitary rifleman was seen in the other clip. Notable are a hill in the distance (highlighted in the red box below) a rocky outcrop to the left of the men, highlighted in blue.
+
+## Scenes of Drone Strikes
+
+The rest of the videos in the compilation circulating on social media show drone footage similar to footage analysed by [CNN in September](https://www.cnn.com/2023/09/19/africa/ukraine-military-sudan-wagner-cmd-intl/index.html), mostly of suicide drones like the ones used in Ukraine. The CNN investigation concluded that Ukrainian special forces were “likely” behind strikes on a Wagner-backed militia in Sudan.
+
+Bellingcat was able to geolocate several pieces of the newer drone footage included in the compilation. However, their locations differ from locations in Sudan where CNN reported on drone strikes last month.
+
+The **first** piece of drone footage showed luxurious townhouses with gardens. The camera zooms in and we see a cloud of smoke emerging from the side of the townhouse in the centre of the images below. We were able to geolocate the footage to ([15.656855, 32.514080](https://maps.app.goo.gl/NgjXxSPaRtxL4GRz8)), a house on Al-Ameen El-Karab Street in Khartoum, on the banks of the River Nile which divides Omdurman from the Sudanese capital.
+
+A **second** piece of footage from the compilation initially offers a view of an urban area from afar.
+
+*Left: An image capture from the video compilation. Right: Image capture of the same area from Google Earth*
+
+As the drone approaches, we can get a clearer view of the area that was targeted.
+
+*Images captured from the video compilation*
+
+Matching features in this footage correspond to the Abu-Rof District in the east of Omdurman shown in Google Earth satellite imagery ([15.658564, 32.504158](https://www.google.com/maps/place/15%C2%B039'40.6%22N+32%C2%B029'23.6%22E/@15.6614975,32.4720727,14z/data=!4m4!3m3!8m2!3d15.6612778!4d32.4898889?entry=ttu)).
+
+*Left: image captured from the video compliation. Right: image capture of the same area from Google Earth. Annotations by Bellingcat (coloured boxes and circles show matching features, such as distinctive buildings and a large tree)*
+
+We could also geolocate a **third** video taken from a drone that was included in the compilation circulating online. This video shows strikes in the Wad Nubawi district of Omdurman ([15.661269, 32.489888](https://maps.app.goo.gl/iTFhcXZWoy6X9Gbf6)).
+
+*An image captured from the video compilation*
+
+*Image captures of the same area from Google Earth*
+
+A **fourth** piece of drone footage showed five strikes against near distinctive buildings — a single-storey structure (highlighted by Bellingcat in the green box in the images below) and a white multi-storey structure (in the yellow box) — in an urban area. 
+
+A useful orientation point in this complex urban environment is a billboard beside the road between the two apparent targets, highlighted in the small red box.
+
+Bellingcat geolocated this video to the Wad Nubawi district of Omdurman ([15.659761, 32.498806](https://www.google.com/maps/place/Aljblab+Square/@15.6601798,32.4990307,130m/data=!3m1!1e3!4m12!1m5!3m4!2zMTXCsDM5JzM1LjEiTiAzMsKwMjknNTUuNyJF!8m2!3d15.65975!4d32.4988056!3m5!1s0x168e8d041fea6ce5:0xf8107de0ec15b12d!8m2!3d15.6600731!4d32.4989979!16s%2Fg%2F11csb2s0_g?entry=ttu)).
+
+*All images captured from the video compilation, annotations by Bellingcat*
+
+*Image capture of the same area from Google Earth, annotations by Bellingcat*
+
+A **fifth** piece of drone footage showed strikes around a square in the Abu Rof district of Omdurman ([15.659942, 32.503282](https://www.google.com/maps/place/15%C2%B039'35.8%22N+32%C2%B030'11.8%22E/@15.6600969,32.5010021,1043m/data=!3m1!1e3!4m5!3m4!4b1!8m2!3d15.6599444!4d32.5032778?entry=ttu)). Several of these target buildings adjacent to a courtyard near the edge of the square at ([15.659994, 32.502753](https://www.google.com/maps/place/15%C2%B039'35.9%22N+32%C2%B030'09.5%22E/@15.659968,32.5019929,261m/data=!3m2!1e3!4b1!4m4!3m3!8m2!3d15.659968!4d32.502638?entry=ttu)).
+
+*Left: An image capture from the video compilation. Right: Image capture of the same area from Google Earth. Note that north is oriented towards the left in both images.*
+
+
+A **sixth** piece of drone footage shows a strike on a building just a few blocks away from the aforementioned square, also in the Abu Rof district at ([15.659434, 32.501828](https://www.google.com/maps/place/15%C2%B039'34.0%22N+32%C2%B030'06.6%22E/@15.659434,32.5011829,261m/data=!3m2!1e3!4b1!4m4!3m3!8m2!3d15.659434!4d32.501828?entry=ttu)).
+
+*Left: An image capture from the video compilation. Right: Image capture of the same area from Google Eart*
+
+The exact purpose of these strikes cannot be ascertained from this footage alone, nor can the exact identity of the drone operators. However, as this footage had not been seen online before the appearance of the compilation video it is highly likely that the strikes were recent.
+
+(Included in the compilation of videos were three clips that Bellingcat was unable to geolocate — one of a sniper shooting at what may be a truck, one of shooting taking place in an urban area at night, and one of a man on a cream-coloured roof shooting a heavy machine gun.)
+
+## ‘Common Challenges’
+
+This footage comes after reports of growing Ukrainian engagement with African states. On September 23, Ukrainian President Volodymyr Zelensky [met](https://www.reuters.com/world/ukraines-zelenskiy-meets-sudanese-leader-discusses-russian-paramilitaries-2023-09-23/) Abdel-Fattah Al-Burhan, head of Sudan’s Transitional Council, at a stopover at Shannon airport in Ireland. 
+
+The two men discussed “common security challenges, namely the activities of illegal armed groups financed by Russia”, said Zelensky.
+
+However, while Bellingcat can confirm that this new footage was indeed filmed in Sudan, no firm determination can yet be made from open sources that the footage shows Ukrainian special forces operations.
+
+Bellingcat continues to analyse this video, with a view to verifying the likely allegiance of the armed men and fact-checking claims that they are members of the Ukrainian military or special forces.
+
+*Klement Anders contributed research to this article*

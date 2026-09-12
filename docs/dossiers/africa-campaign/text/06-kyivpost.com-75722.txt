@@ -1,0 +1,49 @@
+URL:         https://www.kyivpost.com/post/75722
+Кінцевий:    https://www.kyivpost.com/post/75722
+Заголовок:   Ukrainian Magura V3 Drone Found in Greek Cave, Triggers Probe into Smuggling, Russia Links
+Дата публ.:  2026-05-08
+Завантажено: 2026-09-12 14:06 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 113329
+Оригінал:    raw/06-kyivpost.com-75722.html
+sha256:      cef341c2daf7f5095b4e7fcda8962604309a0b005a81bf92f69b4701d5f9c96b
+Витяг:       trafilatura
+
+==============================================================================
+A naval drone identified as a Ukrainian-designed Magura V3 was discovered near the Greek island of Lefkada, prompting an investigation by authorities, local media reported on Friday, May 8.
+
+According to Greek outlet [Kathimerini](https://www.kathimerini.gr/society/564215524/leykada-choris-ekriktika-to-naytiko-drone-ta-senaria-poy-exetazontai/), the unmanned vessel was found in a coastal cave and retrieved by fishermen, who towed it to port.
+
+### JOIN US ON TELEGRAM
+
+Follow our coverage of the war on the [@Kyivpost_official](https://t.me/Kyivpost_official).
+
+Initial reports said the drone contained detonators but no explosives, leading bomb disposal units to secure the device before it was taken for further examination.
+
+Greek authorities said the drone was equipped with advanced communication systems and was still operational when discovered.
+
+Specialists removed three detonators from the vessel, which is not expected to be destroyed but instead examined further.
+
+## Possible scenarios under investigation
+
+Officials are considering several scenarios, including the possibility that the drone was used for smuggling operations.
+
+Another line of inquiry is whether it could be linked to planned attacks on vessels from Russia’s so-called shadow fleet, used to transport oil to avoid sanctions.
+
+## Magura naval drone: capabilities and recent use
+
+The Magura V3 is a Ukrainian-designed unmanned surface vessel used for reconnaissance and strike missions. It can travel up to 800 km (500 miles) with a top speed of around 80 km/h (50 mph) and operate autonomously for up to 60 hours. The drone is equipped with satellite communication systems and real-time video transmission, and can carry an explosive payload estimated at up to 200-300 kg, depending on configuration.
+
+
+### 
+                                [How Russia’s Cultural Projects Conceal Their Human Atrocities](https://www.kyivpost.com/post/83259)
+                            
+
+Ukrainian sea drones on May 3 [attacked and damaged a pair of Russian shadow fleet tankers](https://www.kyivpost.com/post/75296) near the entrance to the port of Novorossiysk, the naval base the once-mighty Black Sea Fleet retreated to after being forced to abandon its pre-full-scale-invasion base in Crimea earlier in the war.
+
+Both vessels were sanctioned illegal transporters of Russian oil and were set afire and “put out of service,” a joint statement by the Ukrainian Navy and national intelligence service (the SBU) said.
+
+Three days before the two tankers were hit off Novorossiysk, on April 29, a pair of Ukrainian [Magura sea drones targeted and hit the reported shadow tanker Marquise](https://www.kyivpost.com/post/75020), in open Black Sea waters some 210 kilometers (130 miles) southeast of Tuapse. The tanker was hit in the stern near the engine and propellers, and at the time reported disabled and drifting.
+
+You can also highlight the text and press
+
+__Ctrl + Enter__

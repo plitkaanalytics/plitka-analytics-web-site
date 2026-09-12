@@ -1,0 +1,120 @@
+URL:         https://www.wsj.com/world/ukraine-is-now-fighting-russia-in-sudan-87caf1d8
+Кінцевий:    https://web.archive.org/web/20260811214647id_/https://www.wsj.com/world/ukraine-is-now-fighting-russia-in-sudan-87caf1d8
+Заголовок:   WSJ News Exclusive | Ukraine Is Now Fighting Russia in Sudan
+Дата публ.:  2024-03-06
+Завантажено: 2026-09-12 14:25 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 690865
+Оригінал:    raw/129-wsj.com-ukraine-is-now-fighting-russia-in-sudan-87caf1d8.html
+sha256:      2b224ed16aa53ebcba098a8d341518406617145e121cd1d0ddb0d498a6d3b1ac
+Витяг:       trafilatura
+Примітка:    оригінал недоступний (401), узято з Wayback
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 14
+==============================================================================
+Exclusive | Ukraine Is Now Fighting Russia in Sudan - WSJ
+Use Alt + Down Arrow to expand.
+This copy is for your personal, non-commercial use only. Distribution and use of this material are governed by
+our Subscriber Agreement and by copyright law. For non-personal use or to order multiple copies, please contact
+Dow Jones Reprints at 1-800-843-0008 or visit www.djreprints.com.
+https://www.wsj.com/world/ukraine-is-now-fighting-russia-in-sudan-87caf1d8
+Ukraine Is Now Fighting Russia in Sudan
+In fighting against Russian-backed rebels in Sudan, Ukraine hopes to make the war more costly for Moscow
+Ukrainian special forces are using drones and night-vision technology to fight Sudanese rebels backed by Russia’s Wagner mercenary group. WSJ’s Ian Lovett explains how the front line in the war between Ukraine and Russia expanded into Africa. Photo: Marwan Ali/AP
+Ukrainian TrophyLab Widens the Cracks in Russia’s Military Facade
+Russia Charges Telegram Founder Durov With Aiding Terrorism
+Impressed by Ukraine’s Battlefield Gains, Trump Warms to Zelensky
+Two Wars Converge in the Caspian Sea as Ukraine Hits Iranian Supply Line to Russia
+Chevron Is Trying to Keep Its Kazakh Assets Out of the Russia-Ukraine War
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Exclusive | Ukraine Is Now Fighting Russia in Sudan - WSJ
+Skip to Main Content
+The Wall Street Journal
+English Edition
+Edition
+Use Alt + Down Arrow to expand.
+English
+中文 (Chinese)
+日本語 (Japanese)
+Print Edition
+Video
+Audio
+Latest Headlines
+Puzzles
+More
+More
+Other Products from WSJ
+WSJ | Buy Side
+The Journal Collection
+WSJ Shop
+WSJ Wine
+World
+Business
+U.S.
+Politics
+Economy
+Tech
+Markets & Finance
+Opinion
+Free Expression
+Arts
+Lifestyle
+Real Estate
+Personal Finance
+Health
+Style
+Sports
+Advertisement
+This copy is for your personal, non-commercial use only. Distribution and use of this material are governed by
+our Subscriber Agreement and by copyright law. For non-personal use or to order multiple copies, please contact
+Dow Jones Reprints at 1-800-843-0008 or visit www.djreprints.com.
+https://www.wsj.com/world/ukraine-is-now-fighting-russia-in-sudan-87caf1d8
+exclusive
+World
+Ukraine Is Now Fighting Russia in Sudan
+In fighting against Russian-backed rebels in Sudan, Ukraine hopes to make the war more costly for Moscow
+By
+Ian Lovett
+and
+Nikita Nikolaienko
+in Kyiv, Ukraine and
+Nicholas Bariyo
+in Kampala, Uganda
+Listen
+(2 min)
+Ukrainian special forces are using drones and night-vision technology to fight Sudanese rebels backed by Russia’s Wagner mercenary group. WSJ’s Ian Lovett explains how the front line in the war between Ukraine and Russia expanded into Africa. Photo: Marwan Ali/AP
+When Lt. Gen. Abdel Fattah al-Burhan, Sudan’s military ruler, found himself besieged by
+rebel forces
+in the country’s capital last summer, he called an unlikely ally for help: Ukrainian President
+Volodymyr Zelensky
+.
+Zelensky had reasons to take the request seriously: Burhan had been quietly supplying Kyiv with weapons since shortly after
+Russia
+invaded Ukraine in 2022, according to Ukrainian and Sudanese military officials. In addition, the
+Sudanese rebels
+were backed by
+Russia
+’s Wagner paramilitary group, which has also mined gold in the country and used it to fund Moscow’s war in Ukraine.
+Within a few weeks of the call, Ukrainian commandos landed in Sudan and began fighting to push the rebel forces out of the capital, Khartoum, according to several Ukrainian soldiers involved in the operation.
+The front line in the
+war between Ukraine and Russia
+now extends into Africa.
+Copyright ©
+2026
+Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8
+Videos
+Most Popular News
+Most Popular
+OPINION
+Further Reading
+opinion
+Ukrainian TrophyLab Widens the Cracks in Russia’s Military Facade
+Russia Charges Telegram Founder Durov With Aiding Terrorism
+Impressed by Ukraine’s Battlefield Gains, Trump Warms to Zelensky
+Two Wars Converge in the Caspian Sea as Ukraine Hits Iranian Supply Line to Russia
+Chevron Is Trying to Keep Its Kazakh Assets Out of the Russia-Ukraine War
+Advertisement

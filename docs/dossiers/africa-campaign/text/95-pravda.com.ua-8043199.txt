@@ -1,0 +1,51 @@
+URL:         https://www.pravda.com.ua/eng/news/2026/07/09/8043199/
+Кінцевий:    https://www.pravda.com.ua/eng/news/2026/07/09/8043199/
+Заголовок:   Right to self-defence: Ukraine tells Greece Russian vessels remain a target
+Дата публ.:  2026-07-09
+Завантажено: 2026-09-12 14:20 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 158845
+Оригінал:    raw/95-pravda.com.ua-8043199.html
+sha256:      a2eb6275f13338716cfb41a3c83c5af7dee320f1355454fd263a6c21716ba159
+Витяг:       trafilatura
+
+==============================================================================
+# Right to self-defence: Ukraine tells Greece Russian vessels remain a target
+
+Ukraine has told Greece that it will continue striking Russian vessels on the open sea, citing its right to self-defence under the UN Charter.
+
+	**Source:** [European Pravda](https://www.eurointegration.com.ua/news/2026/07/9/7241283/), citing [Euractiv](https://www.euractiv.com/news/russian-ships-on-high-seas-remain-a-target-ukraine-tells-greece/), an EU-focused news and analysis website
+
+	**Details:** The move is reportedly causing controversy following the recent discovery of a Ukrainian naval drone carrying 100 kg of explosives near the Greek island of Lefkada in the Ionian Sea.
+
+According to diplomatic sources in Athens, intelligence gathered by Kyiv suggests the drone's target was a Russian tanker in the Mediterranean Sea.
+
+The issue resurfaced earlier this week after Russian government-aligned pranksters Vovan and Lexus – Vladimir Kuznetsov and Alexei Stolyarov – carried out a prank call with Thanos Dokos, the national security adviser to the Greek prime minister.
+
+The drone incident prompted a strong reaction from Athens, which demanded an apology from Kyiv and guarantees that such an incident will not be repeated, in order to prevent the Mediterranean from becoming a theatre of war.
+
+Greece has issued three diplomatic démarches to Kyiv over the incident.
+
+	Ukraine [formally apologised](https://www.pravda.com.ua/eng/news/2026/06/06/8038004/) for the incident, stressing that it was the result of circumstances caused by Russia's aggression against Ukraine.
+
+Unofficially, however, Kyiv has made clear it has no intention of holding back from attacks on Russian vessels in the Mediterranean.
+
+During several in-person meetings held since the 7 May incident, Ukrainian diplomats said Kyiv will continue striking Russian tankers on the open sea under its right to self-defence in accordance with Article 51 of the UN Charter, diplomatic sources in Athens said.
+
+The Ukrainian side referred to the 1996 Treaty of Friendship between the two countries, under which they are obliged to hold consultations should such a situation arise.
+
+"Should a situation arise that could pose a threat to, or jeopardise, international peace and order, the Parties shall enter into immediate consultations in order to assess the situation," the agreement states.
+
+Ukraine said Athens has failed to comply with this provision, and pointed out that the issue was excessively politicised in the Greek media before any preliminary consultations were held with Kyiv.
+
+	**Background:**
+
+- 
+		
+			In early June, a naval drone (a Kozak Mamai model, according to Greek media) was discovered by fishermen near the island of Lefkada after it [apparently suffered a remote-control malfunction](https://www.reuters.com/world/greek-probe-finds-suspected-ukrainian-sea-drone-lost-course-after-malfunction-2026-05-15/).
+- It was reportedly carrying 100 kg of explosives.
+- 
+		
+			Athens has warned it will not allow the Mediterranean to become a theatre of war. In May, Greek Defence Minister Nikos Dendias said "[Ukraine owes us a very big apology](https://www.ekathimerini.com/politics/foreign-policy/1303750/fm-says-ukraine-war-spilling-over-into-mediterranean-will-not-be-tolerated/)".
+
+
+Subscribe onPatreonto back our journalism long-term.
