@@ -167,6 +167,13 @@ The sanctioned russian](https://x.com/midobecker_1/status/2096699086753706092) |
 | 156 | [Proxy Battlespaces: A New Perspective on Ukraine’s Use of Special Oper](https://interpopulum.org/proxy-battlespaces-a-new-perspective-on-ukraines-use-of-special-operations-forces-in-syria-sudan-and-mali/) | 2026-01-13 | прочитано | 86650 | ? | `text/156-interpopulum.org-proxy-battlespaces-a-new-perspective-on-ukraines-use-.txt` |
 | 157 | [Why are Ukrainian special forces fighting in Sudan’s war?](https://www.newarab.com/analysis/why-are-ukrainian-special-forces-fighting-sudans-war) | 2024-02-26 | прочитано | 7178 | ? | `text/157-newarab.com-why-are-ukrainian-special-forces-fighting-sudans-war.txt` |
 | 158 | [403 Forbidden](https://www.ispionline.it/en/publication/expanding-influence-russias-involvement-in-sudan-amid-the-war-in-ukraine-238002) | — | HTTP 403 — НЕ ПРОЧИТАНО | 37 | ? | `text/158-ispionline.it-expanding-influence-russias-involvement-in-sudan-amid-th.txt` |
+| 159 | [Examining Videos of Suspected Ukrainian Riflemen in Sudan - bellingcat](https://www.bellingcat.com/news/2023/10/07/examining-videos-of-suspected-ukrainian-riflemen-in-sudan/) | 2023-10-07 | прочитано | 11682 | ? | `text/159-bellingcat.com-examining-videos-of-suspected-ukrainian-riflemen-in-sud.txt` |
+| 160 | [Керівник спецпідрозділу ГУР Тимур: Коли Буданов виходить з нами на опе](https://www.pravda.com.ua/articles/2024/02/13/7441562/) | 2024-02-13 | прочитано | 13306 | ? | `text/160-pravda.com.ua-7441562.txt` |
+| 161 | [Ukrainian footage from Sudan casts an Irish meeting in new light](https://www.rte.ie/news/primetime/2023/1115/1416502-ukrainian-footage-from-sudan-casts-an-irish-meeting-in-new-light/) | 2023-11-15 | прочитано | 7106 | ? | `text/161-rte.ie-1416502-ukrainian-footage-from-sudan-casts-an-irish-meeting-in-.txt` |
+| 162 | [Ukraine Fights Russia in Sudan](https://english.aawsat.com/features/4901321-ukraine-fights-russia-sudan) | 2024-03-09 | прочитано | 32500 | ? | `text/162-english.aawsat.com-4901321-ukraine-fights-russia-sudan.txt` |
+| 163 | [Mali insurgents hit military bases in ‘complex attacks’ claimed by al ](https://www.cnn.com/2026/04/25/africa/mali-bamako-gunmen-attacks-intl) | 2026-04-25 | прочитано | 4715 | ? | `text/163-cnn.com-mali-bamako-gunmen-attacks-intl.txt` |
+| 164 | [Page Not Found](https://www.hrw.org/news/2025/07/24/mali-russian-forces-malian-army-killed-civilians) | 2020-06-02 | HTTP 404 — НЕ ПРОЧИТАНО | 5066 | ? | `text/164-hrw.org-mali-russian-forces-malian-army-killed-civilians.txt` |
+| 165 | [Ukraine claims to be fighting Russia in a secret war in Sudan](https://www.nzz.ch/english/ukraine-claims-to-be-fighting-russia-in-a-secret-war-in-sudan-ld.1819984) | 2024-03-01 | прочитано | 6967 | ? | `text/165-nzz.ch-ukraine-claims-to-be-fighting-russia-in-a-secret-war-in-sudan-l.txt` |
 
 ## Проблемні джерела
 
@@ -196,6 +203,7 @@ The sanctioned russian](https://x.com/midobecker_1/status/2096699086753706092) |
 - **№150** https://adf-magazine.com/2026/02/airport-in-libya-used-to-route-weapons-to-sudan/ — оригінал недоступний (200), узято з Wayback
 - **№157** https://www.newarab.com/analysis/why-are-ukrainian-special-forces-fighting-sudans-war — оригінал недоступний (403), узято з Wayback
 - **№158** https://www.ispionline.it/en/publication/expanding-influence-russias-involvement-in-sudan-amid-the-war-in-ukraine-238002 — оригінал 403; знімка немає в Wayback
+- **№164** https://www.hrw.org/news/2025/07/24/mali-russian-forces-malian-army-killed-civilians — оригінал 404; знімка немає в Wayback
 
 ---
 
