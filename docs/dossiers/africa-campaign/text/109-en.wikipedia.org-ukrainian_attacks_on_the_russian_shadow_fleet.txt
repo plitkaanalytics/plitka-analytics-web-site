@@ -1,0 +1,327 @@
+URL:         https://en.wikipedia.org/wiki/Ukrainian_attacks_on_the_Russian_shadow_fleet
+Кінцевий:    https://en.wikipedia.org/wiki/Ukrainian_attacks_on_the_Russian_shadow_fleet
+Заголовок:   Ukrainian attacks on the Russian shadow fleet - Wikipedia
+Дата публ.:  2025-12-19
+Завантажено: 2026-09-12 14:22 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 360030
+Оригінал:    raw/109-en.wikipedia.org-ukrainian_attacks_on_the_russian_shadow_fleet.html
+sha256:      cbbf74c5e969d82a9c85fc4f887d864497d1384910d2169aba2e74c956bd1a67
+Витяг:       trafilatura
+
+==============================================================================
+# Ukrainian attacks on the Russian shadow fleet
+
+
+| Ukrainian attacks on Russian shadow fleet Part of [Russo-Ukrainian war](https://en.wikipedia.org/wiki/Russo-Ukrainian_war) | |
+|---|---|
+| Location | |
+| Target | [Russian shadow fleet](https://en.wikipedia.org/wiki/Russian_shadow_fleet) | 
+| Date | 28 November 2025 | 
+| Executed by | [Security Service of Ukraine](https://en.wikipedia.org/wiki/Security_Service_of_Ukraine) | 
+
+**Ukrainian** **attacks on Russian vessels**, including [oil tankers](https://en.wikipedia.org/wiki/Oil_tanker) from the "[Russian shadow fleet](https://en.wikipedia.org/wiki/Russian_shadow_fleet)", are actions conducted by the [Security Service of Ukraine](https://en.wikipedia.org/wiki/Security_Service_of_Ukraine) (SBU) targeting Russia-linked ships. Primarily carried out in the [Black Sea](https://en.wikipedia.org/wiki/Black_Sea) and [Mediterranean Sea](https://en.wikipedia.org/wiki/Mediterranean_Sea), these strikes represent a significant escalation of Ukraine's maritime warfare strategy. Among their targets are vessels allegedly used to circumvent [international sanctions on Russian](https://en.wikipedia.org/wiki/International_sanctions_during_the_Russo-Ukrainian_war) energy exports.[[1]](#cite_note-:0-1)[[2]](#cite_note-:1-2)[[3]](#cite_note-cbsnews-3)
+
+## Background
+
+[[edit](/w/index.php?title=Ukrainian_attacks_on_the_Russian_shadow_fleet&action=edit§ion=1)]
+
+Ukraine has conducted maritime operations against Russian forces since the 2022 invasion. However, 2025 marked a dramatic shift in scale and geographic scope, with Ukraine developing and deploying advanced unmanned naval systems known as "[Sea Baby](https://en.wikipedia.org/wiki/Sea_Baby)" and "Sub Sea Baby" drones. The campaign focused on two primary objectives: degrading the [Russian Black Sea Fleet](https://en.wikipedia.org/wiki/Black_Sea_Fleet) and disrupting Russia's "shadow fleet" — a network of roughly 1,000 vessels used to transport Russian oil in violation of Western sanctions and the [G7](https://en.wikipedia.org/wiki/G7) oil [price cap](https://en.wikipedia.org/wiki/2022_Russian_crude_oil_price_cap_sanctions).[[1]](#cite_note-:0-1)[[2]](#cite_note-:1-2)[[4]](#cite_note-4)
+
+According to a report by * The Atlantic*, citing U.S. and Ukrainian officials, the Trump administration did not object to the Ukrainian strikes on the "shadow fleet", and approved assistance for the strikes, with the US considering the strikes an "important tool" to put pressure on the Kremlin to 
+
+[negotiate peace](https://en.wikipedia.org/wiki/Peace_negotiations_in_the_Russo-Ukrainian_war_(2022–present)). The publication details that
+
+[Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump)did not object to attacks on Russian oil logistics in international waters and, in several instances, approved sharing intelligence with Kyiv. This intelligence was subsequently used to target Russian oil infrastructure.
+
+
+[[5]](#cite_note-w493-5)## Maritime sabotage
+
+[[edit](/w/index.php?title=Ukrainian_attacks_on_the_Russian_shadow_fleet&action=edit§ion=2)]
+
+Multiple vessels which had recently called at Russian ports have been attacked with [limpet mines](https://en.wikipedia.org/wiki/Limpet_mine) or underwater explosives in the Mediterranean, many operated by Athens-based [shipping company](https://en.wikipedia.org/wiki/Shipping_line) [Thenamaris](https://en.wikipedia.org/wiki/Thenamaris?action=edit&redlink=1).[[6]](#cite_note-6)[[7]](#cite_note-7)[[8]](#cite_note-8)
+
+A report from the security company Ambrey concludes that the attacks were perpetrated by "an unnamed state actor targeting ships calling at oil ports" likely using limpet mines with delay action planted by divers using [small submarines](https://en.wikipedia.org/wiki/Midget_submarine). [9] Two vessels were sunk, the 9500 ton freighter 
+
+*off Spain on 24 December 2024 and the 164000 ton super tanker*
+
+[Ursa Major](https://en.wikipedia.org/wiki/MV_Ursa_Major)*Koala*while moored at
+
+[Ust-Luga](https://en.wikipedia.org/wiki/Ust-Luga),
+
+[Leningrad Oblast](https://en.wikipedia.org/wiki/Leningrad_Oblast),
+
+on 9 February 2025
+
+[[10]](#cite_note-:2-10)and three others,
+
+[[11]](#cite_note-11)*Seajewel*,
+
+*Seacharm*and
+
+*Grace Ferrum*were damaged.
+
+
+[[10]](#cite_note-:2-10)Despite the lack of concrete evidence or official results from investigations, the repeated targeting of ships associated with Russian trade has led security analysts and maritime industry bodies to privately assess a probable link to the ongoing war in Ukraine.[[10]](#cite_note-:2-10) [12] Despite the fact that the Ambrey report attributed the attacks to an unspecified state actor without naming Ukraine, private discussions among security professionals from both private firms and government agencies have frequently identified Ukrainian actors as the most likely perpetrators.
+
+
+[[12]](#cite_note-:12-12)According to [Lloyd's List](https://en.wikipedia.org/wiki/Lloyd's_List), U.S. is believed to have used diplomatic backchannels to convey a warning to the [Ukrainian government](https://en.wikipedia.org/wiki/Government_of_Ukraine) in early 2025. The message reportedly indicated that if Ukraine had any involvement in the attacks, such operations should be halted immediately.[[12]](#cite_note-:12-12)
+
+Former [Royal Navy](https://en.wikipedia.org/wiki/Royal_Navy) officer Tom Sharpe believes that the series of targeted explosions on tankers exporting Russian oil is very likely carried out by Ukrainian special operations forces using limpet mines as a tool of precise sabotage. He assesses these operations as a form of highly effective unconventional warfare that hits the infrastructure supporting Russia's oil revenues without causing direct escalation to open conflict with the West.[[13]](#cite_note-13)
+
+## Confirmed and suspected operations
+
+[[edit](/w/index.php?title=Ukrainian_attacks_on_the_Russian_shadow_fleet&action=edit§ion=3)]
+
+### 2025
+
+[[edit](/w/index.php?title=Ukrainian_attacks_on_the_Russian_shadow_fleet&action=edit§ion=4)]
+
+On 29 November 2025, Ukraine claimed responsibility for striking two Russian "shadow fleet" tankers, the [ Kairos](https://en.wikipedia.org/wiki/MT_Kairos) and 
+
+*, using Sea Baby naval drones equipped with enhanced warheads. Both vessels, flagged to*
+
+[Virat](https://en.wikipedia.org/wiki/MT_Virat?action=edit&redlink=1)[Gambia](https://en.wikipedia.org/wiki/The_Gambia)and previously sanctioned by the
+
+[United States](https://en.wikipedia.org/wiki/United_States), European Union, and
+
+[United Kingdom](https://en.wikipedia.org/wiki/United_Kingdom), were en route to the Russian port of
+
+[Novorossiysk](https://en.wikipedia.org/wiki/Novorossiysk_Commercial_Sea_Port)when struck approximately 28 to 35 nautical miles (52 to 65 km; 32 to 40 mi) off
+
+[Turkey](https://en.wikipedia.org/wiki/Turkey)'s northern coast. The Kairos sustained critical damage and caught fire, with its 25-member crew evacuated safely. The
+
+*Virat*was struck again the following morning, suffering minor damage above the waterline. Neither vessel was carrying cargo at the time of the attacks.
+
+
+[[1]](#cite_note-:0-1)
+
+[[14]](#cite_note-14)
+
+[[15]](#cite_note-15)On 2 December, the Turkish company Besiktas Shipping said that it was "ceasing all shipping operations involving Russian interests" after one of its vessels, *Mersin*, was damaged by four explosions the previous week near [Dakar](https://en.wikipedia.org/wiki/Dakar). The cause of the explosions were reported as unclear.[[16]](#cite_note-v830-16)
+
+On the same day, the tanker *Midvolga 2* came under attack approximately 80 nautical miles (about 148 km) off the coast of Turkey. The vessel was en route from Russia to [Georgia](https://en.wikipedia.org/wiki/Georgia_(country)), carrying a shipment of [sunflower oil](https://en.wikipedia.org/wiki/Sunflower_oil). Regional security sources cited by Lloyd's List reported that the tanker was likely struck by a shrapnel-equipped drone, an attack which injured the master and the second engineer. [Ukraine's Ministry of Foreign Affairs](https://en.wikipedia.org/wiki/Ministry_of_Foreign_Affairs_of_Ukraine) stated that the country "has nothing to do with this incident" and accused Russia of staging it.[[17]](#cite_note-:9-17)
+
+On 10 December, Ukrainian forces attacked the tanker *Dashan* (formerly called *Eurochampion*) in the Black Sea, while it was on its way to Novorossiysk with its transponders turned off. The vessel was apparently damaged in the stern section by several naval drones. [18] On 17 December 2024 the tanker was put under sanction by the 
+
+[EU](https://en.wikipedia.org/wiki/European_Union).
+
+A spokesman for Ukraine's SBU stated: "The SBU is actively pursuing measures to diminish petrodollar income to the Russian budget. This is the third tanker from the shadow fleet rendered inoperative in the last two weeks, which had been aiding the Kremlin in bypassing international sanctions".
+
+[[19]](#cite_note-:7-19)
+
+[[20]](#cite_note-20)On 18 December, Ukraine performed its first claimed attack on a Russian vessel in the [Mediterranean Sea](https://en.wikipedia.org/wiki/Mediterranean_Sea). The target was the *Qendil*, an [Omani](https://en.wikipedia.org/wiki/Oman)-flagged "shadow fleet" tanker allegedly used by Russia to circumvent sanctions. The strike, conducted using aerial bomber style drones around was, according to Lloyd's List Intelligence, most likely carried out between Crete and Malta. [21] The attack reportedly caused critical damage, rendering the vessel inoperable. The SBU confirmed the 
+
+*Qendil*was not carrying oil at the time of the attack, mitigating environmental risks.
+
+
+[[2]](#cite_note-:1-2)
+
+[[3]](#cite_note-cbsnews-3)An unnamed SBU source told Business Insider: "Russia used the Qendil to circumvent sanctions and earn money that went to the war against Ukraine... The enemy must understand that Ukraine will not stop and will beat him anywhere in the world, wherever he is".
+
+[[22]](#cite_note-itamilradar-22)According to
+
+[[2]](#cite_note-:1-2)[sources, the attack was carried out by a drone launched from](https://en.wikipedia.org/wiki/Radio_France_Internationale)
+
+*RFI*[Misrata](https://en.wikipedia.org/wiki/Misrata).
+
+
+[[23]](#cite_note-:13-23)### 2026
+
+[[edit](/w/index.php?title=Ukrainian_attacks_on_the_Russian_shadow_fleet&action=edit§ion=5)]
+
+On 8 January 2026, a Russian "shadow fleet" oil tanker, *the Elbus*, was struck by a drone off the coast of Turkey. According to the ASTRA Telegram channel the tanker was headed to Novorossiysk. The Elbus "sustained damage, but no crew members were injured".[[24]](#cite_note-k973-24)
+
+On 3 March, the Russian-flagged [liquefied natural gas](https://en.wikipedia.org/wiki/Liquefied_natural_gas) [tanker](https://en.wikipedia.org/wiki/LNG_carrier) [MV Arctic Metagaz](https://en.wikipedia.org/wiki/Arctic_Metagaz), which was under U.S. and UK sanctions and reportedly associated with Russia's shadow fleet, caught fire[[25]](#cite_note-:11-25) [26] with 62,000 tons of LNG. As of 14 March, it is 
+
+[adrift](https://en.wikipedia.org/wiki/List_of_ship_directions)with a
+
+[severe list](https://en.wikipedia.org/wiki/Angle_of_list)and large holes in the side, and much of the hull has burn damage. It floats in the central Mediterranean Sea southeast of
+
+[Malta](https://en.wikipedia.org/wiki/Malta).
+
+
+[[27]](#cite_note-27)According to shipping security firm EOS Risk Group and other maritime sources, the tanker may have been struck by a drone after departing
+
+[[28]](#cite_note-28)[Murmansk](https://en.wikipedia.org/wiki/Murmansk)with cargo bound for
+
+[Suez](https://en.wikipedia.org/wiki/Suez).
+
+
+[[29]](#cite_note-29)*quoted a security source stating that Ukraine is suspected of carrying out the operation.*
+
+[Reuters](https://en.wikipedia.org/wiki/Reuters)Russia stated that all 30 crew members had been rescued and claimed that the tanker, which it said was carrying cargo "documented in accordance with all international regulations", had been attacked by Ukrainian uncrewed boats operating from
+
+[[30]](#cite_note-30)[Libya](https://en.wikipedia.org/wiki/Libya).
+
+[Russia's Ministry of Transport](https://en.wikipedia.org/wiki/Ministry_of_Transport_(Russia))described the incident as an act of "international terrorism and maritime piracy".
+
+
+[[25]](#cite_note-:11-25)According to an investigation by
+
+[[31]](#cite_note-:10-31)[, the](https://en.wikipedia.org/wiki/Radio_France_Internationale)
+
+*RFI**Arctic Metagaz*was attacked by a Ukrainian-made
+
+[Magura V5](https://en.wikipedia.org/wiki/MAGURA_V5)surface drone, which was launched from the Libyan coast near Mellitah and struck the vessel's engine room.
+
+
+[[23]](#cite_note-:13-23)On 10 June, Ukraine struck a Russian shadow fleet WEST Horizon tanker in the Black Sea.[[32]](#cite_note-32)
+
+#### Operation MoLoChKa
+
+[[edit](/w/index.php?title=Ukrainian_attacks_on_the_Russian_shadow_fleet&action=edit§ion=6)]
+
+Starting from 6 July 2026, the [Unmanned Systems Forces of Ukraine](https://en.wikipedia.org/wiki/Unmanned_Systems_Forces_of_Ukraine) carried out multi-day operation, referred to as "Operation MoLoChKa" on Russian shadow fleet ships in the [Sea of Azov](https://en.wikipedia.org/wiki/Sea_of_Azov), with over 100 vessels hit.[[33]](#cite_note-UNN-ShadowFleet-20260714-33)[[34]](#cite_note-KyivPost-20260709-34)[[35]](#cite_note-apa-35)[[36]](#cite_note-Guardian-AzovShipping-20260712-36) [37] On 15 July 2026, 
+
+[Robert Brovdi](https://en.wikipedia.org/wiki/Robert_Brovdi)said that the Sea of Azov chapter of the operation had extended to the Black Sea.
+
+
+[[38]](#cite_note-KomersantUA-MoLoChKa-20260715-38)## Weapons
+
+[[edit](/w/index.php?title=Ukrainian_attacks_on_the_Russian_shadow_fleet&action=edit§ion=7)]
+
+### Sea Baby naval drones
+
+[[edit](/w/index.php?title=Ukrainian_attacks_on_the_Russian_shadow_fleet&action=edit§ion=8)]
+
+The Sea Baby is an [unmanned surface vessel](https://en.wikipedia.org/wiki/Unmanned_surface_vehicle) developed and operated by Ukraine's SBU. The upgraded variant unveiled in October 2025 features an operational range of 1,500 kilometres (930 miles) and can carry payloads of up to 2,000 kilograms (4,400 pounds). Specifications include a length of 6 metres, width of 2 metres, and maximum speed of 49 knots. The platform supports multiple weaponized variants, including a gyro-stabilized remote machine gun with automatic target recognition and a ten-tube Grad-class multiple rocket launcher. Advanced features include [AI](https://en.wikipedia.org/wiki/Artificial_intelligence)-assisted targeting systems, the ability to launch reconnaissance drones, and layered self-destruct mechanisms.[[39]](#cite_note-39)[[40]](#cite_note-40)
+
+The Sea Baby platform is designed for reusability rather than single-use attrition, with operations controlled from mobile command nodes. Development has been partially financed through the [UNITED24](https://en.wikipedia.org/wiki/United24) public fundraising platform, reflecting a distributed civil-military approach to wartime production.[[41]](#cite_note-41)
+
+### Sub Sea Baby underwater drones
+
+[[edit](/w/index.php?title=Ukrainian_attacks_on_the_Russian_shadow_fleet&action=edit§ion=9)]
+
+The Sub Sea Baby represents an evolution of Sea Baby technology for underwater operations. These drones executed the 15 December 2025 submarine strike, marking the first known use of underwater drones to attack a submerged or port-based submarine target.[[42]](#cite_note-:3-42)[[43]](#cite_note-:4-43)
+
+### One way attack drones
+
+[[edit](/w/index.php?title=Ukrainian_attacks_on_the_Russian_shadow_fleet&action=edit§ion=10)]
+
+Vessels were hit by guided [mid range](https://en.wikipedia.org/wiki/Middle_strike_campaign) [one way drones](https://en.wikipedia.org/wiki/One-way_attack_drone), including the [FP-1](https://en.wikipedia.org/wiki/Fire_Point_FP-1) and FP-2 drones by [Firepoint](https://en.wikipedia.org/wiki/Fire_Point_(Ukrainian_firm)).[[44]](#cite_note-EuromaidanPress-BlackSeaFleet-20260715-44)
+
+## Reactions
+
+[[edit](/w/index.php?title=Ukrainian_attacks_on_the_Russian_shadow_fleet&action=edit§ion=11)]
+
+### Turkey
+
+[[edit](/w/index.php?title=Ukrainian_attacks_on_the_Russian_shadow_fleet&action=edit§ion=12)]
+
+Turkey condemned the attacks, citing threats to maritime safety and environmental protection. Foreign Ministry spokesman Oncu Keceli stated that the 29 November attacks "have posed serious risks to navigation, life, property and environmental safety in the region," and noted that the strikes occurred within Turkey's exclusive economic zone. Turkish foreign minister [Hakan Fidan](https://en.wikipedia.org/wiki/Hakan_Fidan) characterized the attacks as "very scary" and warned that they demonstrated the war's expanding reach. Turkey emphasized the necessity of suspending attacks on port and energy infrastructure in the Black Sea.[[42]](#cite_note-:3-42)[[45]](#cite_note-45)[[46]](#cite_note-:5-46)
+
+### Russia
+
+[[edit](/w/index.php?title=Ukrainian_attacks_on_the_Russian_shadow_fleet&action=edit§ion=13)]
+
+Russia's foreign ministry condemned the attacks as "acts of terrorism" that threatened maritime freedom of navigation. Russian president [Vladimir Putin](https://en.wikipedia.org/wiki/Vladimir_Putin) issued explicit threats in response, stating on 2 December 2025: "The most extreme measure would be to isolate Ukraine from the sea, which would fundamentally eliminate the possibility of piracy". Putin threatened to escalate strikes against Ukrainian ports and shipping infrastructure. However, Russia denied Ukrainian claims regarding the submarine strike, with Black Sea Fleet spokesman Alexei Rulev stating the underwater attack "failed".[[42]](#cite_note-:3-42)[[47]](#cite_note-47)[[48]](#cite_note-48)
+
+On 11–12 December 2025, Russia conducted retaliatory strikes, launching a [Shahed](https://en.wikipedia.org/wiki/Shahed_drones) kamikaze drone at the Turkish-owned cargo ship *CENK-T* in [Chornomorsk](https://en.wikipedia.org/wiki/Chornomorsk) port, reportedly in direct retaliation for Ukrainian attacks on Russian tankers. Although the strike caused minimal damage to the vessel, it demonstrated Russian willingness to escalate strikes on Ukrainian ports.[[49]](#cite_note-:6-49)
+
+### Ukraine
+
+[[edit](/w/index.php?title=Ukrainian_attacks_on_the_Russian_shadow_fleet&action=edit§ion=14)]
+
+Ukrainian president [Volodymyr Zelensky](https://en.wikipedia.org/wiki/Volodymyr_Zelenskyy) characterized Russian retaliation as evidence of Moscow's rejection of peace negotiations. In his statement following the CENK-T attack, he declared: "This demonstrates yet again that the Russians not only disregard the current diplomatic opportunities but also persist in their efforts to undermine normalcy in Ukraine". Ukrainian officials argued that attacks on "shadow fleet" tankers represent legitimate targeting of infrastructure used to fund Russia's war effort.[[2]](#cite_note-:1-2)[[3]](#cite_note-cbsnews-3)[[49]](#cite_note-:6-49)
+
+Zelensky met with SBU director [Vasily Maliuk](https://en.wikipedia.org/wiki/Vasyl_Malyuk) on 10 December 2025 to discuss maritime operations, and in the official readout urged the SBU chief to continue delivering "maximum precision in our long-range operations and in dismantling Russia's logistics". An unnamed aide close to Zelensky stated: "The entire purpose of the sanctions dissipates if they are not enforced", justifying the attacks as necessary enforcement of international sanctions.[[50]](#cite_note-theatlantic-50)
+
+### European and NATO
+
+[[edit](/w/index.php?title=Ukrainian_attacks_on_the_Russian_shadow_fleet&action=edit§ion=15)]
+
+The European Union expanded sanctions on 13 December 2025, with nine shipping companies and individuals being sanctioned for involvement in "shadow fleet" operations. Ukraine itself signed sanctions decrees against 656 ships allegedly part of Russia's shadow fleet on 13 December 2025. [NATO](https://en.wikipedia.org/wiki/NATO)'s response remained constrained by mandate limitations, with initiatives such as the [Operation Eastern Sentry](https://en.wikipedia.org/wiki/Operation_Eastern_Sentry) focusing on deterrence and critical infrastructure protection rather than sanctions enforcement.[[43]](#cite_note-:4-43)[[51]](#cite_note-51)
+
+## Implications
+
+[[edit](/w/index.php?title=Ukrainian_attacks_on_the_Russian_shadow_fleet&action=edit§ion=16)]
+
+Analysts have characterized the campaign as part of Ukraine's broader "long-range sanctions" strategy, targeting Russia's primary revenue source during a period of difficult military circumstances on land. The expansion to the Mediterranean represents an unprecedented geographic escalation, suggesting Ukraine possesses technical capabilities and intelligence networks extending far beyond the Black Sea theater.[[2]](#cite_note-:1-2)[[22]](#cite_note-itamilradar-22)[[50]](#cite_note-theatlantic-50)
+
+According to Control Risks maritime security analyst Arran Kennedy, Russia is expected to soon launch retaliatory strikes targeting Ukrainian port infrastructure and commercial vessels in or near Odesa, as well as ships trading with Ukraine in the Black Sea outside NATO waters.[[17]](#cite_note-:9-17)
+
+The operations have raised legal and diplomatic questions regarding the distinction between legitimate military targeting of sanctions-evasion infrastructure and potential violations of international maritime law. Turkish protest highlight concerns that the conflict is expanding into areas previously considered isolated from direct military operations.[[43]](#cite_note-:4-43)[[52]](#cite_note-smallwarsjournal-52)
+
+The campaign has also prompted increases in maritime insurance rates in the Black Sea and prompted some commercial shipping firms, including Turkish operator Besiktas Shipping, to suspend operations related to Russian trade due to security concerns.[[46]](#cite_note-:5-46)
+
+## Legal debate
+
+[[edit](/w/index.php?title=Ukrainian_attacks_on_the_Russian_shadow_fleet&action=edit§ion=17)]
+
+According to Wolff Heintschel von Heinegg of the [European University Viadrina](https://en.wikipedia.org/wiki/European_University_Viadrina), Ukrainian strikes on vessels associated with Russia's "shadow fleet" are assessed not under ordinary [maritime law](https://en.wikipedia.org/wiki/Maritime_law) or sanctions enforcement, but under the law of armed conflict and the law of naval warfare, given the ongoing international armed conflict following the Russian invasion of Ukraine in 2022. Under these norms, belligerents may attack lawful military objectives and merchant vessels that make an effective contribution to the enemy's military action outside neutral waters.[[53]](#cite_note-:8-53)
+
+Heintschel von Heinegg notes that while Gambian-flagged tankers like Kairos and Virat are prima facie neutral, they may be classified as enemy merchant vessels if they operate under the control or employment of the Russian government or serve Russia's war-sustaining economic activities, such as transporting oil that funds military operations. This classification would render them lawful targets under recognized naval warfare doctrine.[[53]](#cite_note-:8-53)
+
+## See also
+
+[[edit](/w/index.php?title=Ukrainian_attacks_on_the_Russian_shadow_fleet&action=edit§ion=18)]
+
+- [Deep strike campaign](https://en.wikipedia.org/wiki/Deep_strike_campaign)(Ukrainian long-range drones, attacking targets 200 km and farther away inside the strategic depth of Russia, and causing the- [2025–2026 Russian fuel crisis](https://en.wikipedia.org/wiki/2025–2026_Russian_fuel_crisis))
+- [Middle strike campaign](https://en.wikipedia.org/wiki/Middle_strike_campaign)(Ukrainian mid-range drones, up to 200 km, working to affect a "logistics lockdown" in- [Russian-occupied Ukraine](https://en.wikipedia.org/wiki/Russian-occupied_Ukraine), especially- [Crimea](https://en.wikipedia.org/wiki/Crimea), mostly by targeting the "Highway of Death")
+- [Maritime warfare](https://en.wikipedia.org/wiki/Maritime_warfare)
+- [Tanker war](https://en.wikipedia.org/wiki/Tanker_war)
+- [Unmanned surface vessel](https://en.wikipedia.org/wiki/Unmanned_surface_vessel)
+
+## Further reading
+
+[[edit](/w/index.php?title=Ukrainian_attacks_on_the_Russian_shadow_fleet&action=edit§ion=19)]
+
+- Cavalcanti de Mello Filho, Eduardo (8 October 2024). ["Armed attacks against merchant vessels: 'Looking behind the Flag' to find the victim State"](https://doi.org/10.1093/jcsl/krae013).*Journal of Conflict and Security Law*. Vol. 29, no. 3.
+
+## References
+
+[[edit](/w/index.php?title=Ukrainian_attacks_on_the_Russian_shadow_fleet&action=edit§ion=20)]
+
+- [1](#cite_ref-:0_1-0)- [2](#cite_ref-:0_1-1)- [3](#cite_ref-:0_1-2)Lister, Tim (29 November 2025).- ["Ukraine says it hit Russian 'shadow fleet' tankers with underwater blasts in Black Sea"](https://www.cnn.com/2025/11/29/europe/russia-shadow-fleet-ukraine-explosions-intl).- *CNN*. Retrieved 19 December 2025.
+- [1](#cite_ref-:1_2-0)- [2](#cite_ref-:1_2-1)- [3](#cite_ref-:1_2-2)- [4](#cite_ref-:1_2-3)- [5](#cite_ref-:1_2-4)- [6](#cite_ref-:1_2-5)Epstein, Jake.- ["Ukrainian drones hit a Russian 'shadow fleet' tanker in the Mediterranean Sea for the first time, security official says"](https://www.businessinsider.com/ukraine-attacks-russian-shadow-fleet-tanker-in-mediterranean-first-time-2025-12).- *Business Insider*. Retrieved 19 December 2025.
+- [1](#cite_ref-cbsnews_3-0)- [2](#cite_ref-cbsnews_3-1)- [3](#cite_ref-cbsnews_3-2)- ["Putin says Ukraine not ready for peace, as Kyiv claims fist strike on "shadow fleet" tanker in Mediterranean – CBS News"](https://www.cbsnews.com/news/russia-putin-ukraine-war-kyiv-claims-strike-shadow-fleet-tanker-mediterranean/).- *www.cbsnews.com*. 19 December 2025. Retrieved 19 December 2025.
+- [↑](#cite_ref-4)Altman, Howard (12 December 2025).- ["Russian Retaliation Strike Raises Stakes In Black Sea Shipping War"](https://www.twz.com/sea/russian-retaliation-strike-raises-stakes-in-black-sea-shipping-war).- *The War Zone*. Retrieved 19 December 2025.
+- [↑](#cite_ref-w493_5-0)Yana, Porokhnia (12 December 2025).- ["The Atlantic: Trump doesn't mind Ukraine's attacks on Russia's "shadow fleet" – approves aid"](https://news.liga.net/en/politics/news/the-atlantic-trump-doesnt-mind-ukraines-attacks-on-russias-shadow-fleet-approves-aid).- *LIGA.net*. Retrieved 16 December 2025.
+- [↑](#cite_ref-6)- ["Three tankers damaged by blasts in Mediterranean in the last month, causes unknown, sources say"](https://www.reuters.com/business/energy/three-tankers-damaged-by-blasts-mediterranean-last-month-causes-unknown-sources-2025-02-19/).- *Reuters*. 19 February 2025.
+- [↑](#cite_ref-7)- ["Italians Investigating After Explosion Damages Greek Tanker at Savona"](https://maritime-executive.com/article/italians-investigating-after-explosion-damages-greek-tanker-at-savona).- *The Maritime Executive*. Retrieved 9 March 2025.
+- [↑](#cite_ref-8)- ["Italian incident with suspected Russian shadow tanker"](https://decode39.com/9953/italian-incident-with-suspected-russian-shadow-tanker/).- *Decode39*. 18 February 2025. Retrieved 9 March 2025.
+- [↑](#cite_ref-9)- ["AMBREY THREAT CIRCULAR – INCREASED THREAT TO MERCHANT SHIPPING CALLING RUSSIAN OIL EXPORT HUBS"](https://ambrey.com/app/uploads/2025/03/AMBREY-THREAT-CIRCULAR-INCREASED-THREAT-TO-MERCHANT-SHIPPING-CALLING-RUSSIAN-OIL-EXPORT-HUBS.pdf)(PDF).- *ambrey.com*. 7 March 2025.- [Archived](https://web.archive.org/web/20250326232701if_/https://ambrey.com/app/uploads/2025/03/AMBREY-THREAT-CIRCULAR-INCREASED-THREAT-TO-MERCHANT-SHIPPING-CALLING-RUSSIAN-OIL-EXPORT-HUBS.pdf)(PDF) from the original on 26 March 2025.
+- [1](#cite_ref-:2_10-0)- [2](#cite_ref-:2_10-1)- [3](#cite_ref-:2_10-2)Peachey, Paul (7 March 2025).- ["Mine attacks on Russian port call ships carried out by divers backed by submersibles, experts say"](https://www.tradewindsnews.com/tankers/mine-attacks-on-russian-port-call-ships-carried-out-by-divers-backed-by-submersibles-experts-say/2-1-1789834).- *TradeWinds*. Retrieved 9 March 2025.
+- [↑](#cite_ref-11)Kypriotaki, Anastasia (10 February 2025).- ["Tanker suffers explosion at Russia's Ust-Luga port"](https://safety4sea.com/tanker-suffers-explosion-at-russias-ust-luga-port/).- *SAFETY4SEA*. Retrieved 9 March 2025.
+- [1](#cite_ref-:12_12-0)- [2](#cite_ref-:12_12-1)- [3](#cite_ref-:12_12-2)- ["Fear and speculation mount after another tanker is hit by unexplained blast"](https://www.lloydslist.com/LL1154049/Fear-and-speculation-mount-after-another-tanker-is-hit-by-unexplained-blast).- *Lloyd's List*. 30 June 2025. Retrieved 23 November 2025.
+- [↑](#cite_ref-13)Martyniuk, Yevheniia (9 July 2025).- ["Ukraine targeting Russia's shadow oil fleet with limpet mines"](https://euromaidanpress.com/2025/07/09/ukraine-limpet-mines-russia-shadow-oil-fleet/).- *Euromaidan Press*. Retrieved 23 November 2025.
+- [↑](#cite_ref-14)maritimescrimes (1 December 2025).- ["Black Sea: Ukraine targets Russia's 'shadow fleet' and hits Novorossiysk CPC terminal"](https://maritimescrimes.com/2025/12/01/black-sea-ukraine-shadow-fleet-cpc-terminal-attack/).- *MariTimes Crimes*. Retrieved 19 December 2025.
+- [↑](#cite_ref-15)- ["War reaches the Mediterranean as Ukraine strikes Russia's shadow fleet tanker"](https://newsukraine.rbc.ua/news/war-reaches-the-mediterranean-as-ukraine-1766143808.html).- *RBC-Ukraine*. Retrieved 19 December 2025.
+- [↑](#cite_ref-v830_16-0)- ["Owner of oil tanker damaged near Senegal says it is ceasing all Russian operations"](https://www.reuters.com/world/owner-oil-tanker-damaged-near-senegal-says-it-is-ceasing-all-russian-operations-2025-12-02/).- *Reuters*. 2 December 2025. Retrieved 3 December 2025.
+- [1](#cite_ref-:9_17-0)- [2](#cite_ref-:9_17-1)- ["Ukraine denies latest tanker attack"](https://www.lloydslist.com/LL1155743/Ukraine-denies-latest-tanker-attack).- *Lloyd's List*. 3 December 2025. Retrieved 23 December 2025.
+- [↑](#cite_ref-18)- ["Дроны СБУ поразили в Черном море танкер "теневого флота" РФ – DW – 11 December 2025"](https://www.dw.com/ru/drony-sbu-porazili-v-cernom-more-tanker-tenevogo-flota-rf/a-75100133).- *dw.com*(in Russian). Retrieved 23 December 2025.
+- [↑](#cite_ref-:7_19-0)- ["DASHAN; IMO 9299666"](https://war-sanctions.gur.gov.ua/en/transport/shadow-fleet/491).- *War & Sanctions*. Retrieved 20 December 2025.
+- [↑](#cite_ref-20)- ["Ukraine targets shadow fleet tanker in Mediterranean"](https://www.lloydslist.com/LL1155927/Ukraine-targets-shadow-fleet-tanker-in-Mediterranean).- *Lloyd's List*. 19 December 2025. Retrieved 19 December 2025.
+- [↑](#cite_ref-Newdickbomber_21-0)Newdick, Thomas; Altman, Howard (19 December 2025).- ["Ukraine Strikes Russia-Linked Tanker In The Mediterranean With 'Bomber Drone'"](https://www.twz.com/news-features/ukraine-strikes-russia-linked-tanker-in-the-mediterranean-with-bomber-drone).- *The War zone*. Recurrent Ventures. Retrieved 20 December 2025.
+- [1](#cite_ref-itamilradar_22-0)- [2](#cite_ref-itamilradar_22-1)itamilradar (19 December 2025).- ["Ukrainian strike reaches the central Mediterranean: tanker Qendil hit overnight"](https://www.itamilradar.com/2025/12/19/ukrainian-strike-reaches-the-central-mediterranean-tanker-qendil-hit-overnight/).- *ItaMilRadar*. Retrieved 19 December 2025.
+- [1](#cite_ref-:13_23-0)- [2](#cite_ref-:13_23-1)- ["Des militaires ukrainiens déployés dans l'ouest de la Libye"](https://www.rfi.fr/fr/afrique/20260402-exclusif-rfi-ces-militaires-ukrainiens-pr%C3%A9sents-dans-l-ouest-libyen).- *RFI*(in French). 2 April 2026. Retrieved 4 April 2026.
+- [↑](#cite_ref-k973_24-0)Jonathan Spicer, Jonathan Saul (8 January 2026).- ["Russian-bound tanker hit by drone in Black Sea, maritime sources say"](https://www.reuters.com/world/russian-bound-tanker-hit-by-drone-black-sea-maritime-sources-say-2026-01-08/).- *Reuters*. Retrieved 9 January 2026.
+- [1](#cite_ref-:11_25-0)- [2](#cite_ref-:11_25-1)- ["Putin accuses Ukraine of attacking gas tanker that exploded and sank off Libya"](https://www.theguardian.com/world/2026/mar/04/putin-accuses-ukraine-of-attacking-gas-tanker-that-exploded-and-sank-off-libya).- *The Guardian*. 4 March 2026.- [ISSN](https://en.wikipedia.org/wiki/ISSN_(identifier))- [0261-3077](https://search.worldcat.org/issn/0261-3077). Retrieved 7 March 2026.
+- [↑](#cite_ref-26)- [https://lemarin.ouest-france.fr/shipping/selon-les-autorites-libyennes-le-methanier-arctic-metagaz-na-pas-coule-et-derive-en-mediterranee-e7e36c88-1b81-11f1-a3b0-65a4a3dce1a8](https://lemarin.ouest-france.fr/shipping/selon-les-autorites-libyennes-le-methanier-arctic-metagaz-na-pas-coule-et-derive-en-mediterranee-e7e36c88-1b81-11f1-a3b0-65a4a3dce1a8)
+- [↑](#cite_ref-27)- ["Transport Malta engages international salvage company as Arctic Metagaz drifts closer to shore"](https://www.maltatoday.com.mt/news/national/140340/transport_malta_engages_international_salvage_company_as_arctic_metagaz_drifts_closer_to_shore).- *MaltaToday.com.mt*. 14 March 2026.
+- [↑](#cite_ref-28)- ["Blackened, wrecked Russian tanker nears Malta"](https://www.france24.com/en/live-news/20260315-blackened-wrecked-russian-tanker-nears-malta).- *France 24*. 15 March 2026.
+- [↑](#cite_ref-29)Grech, Herman (3 March 2026).- ["Russian gas tanker explodes between Malta and Libya"](https://timesofmalta.com/article/russialinked-gas-tanker-ablaze-150-miles-off-malta.1124914).- *Times of Malta*. Retrieved 4 March 2026.
+- [↑](#cite_ref-30)- ["Russian-flagged sanctioned LNG tanker on fire in the Mediterranean, sources say, crew located in lifeboat off Libya"](https://www.reuters.com/business/energy/russian-flagged-sanctioned-lng-tanker-fire-mediterranean-crew-fate-unknown-2026-03-03/).- *Reuters*. 3 March 2026.- `{{`: CS1 maint: url-status (- [cite web](https://en.wikipedia.org/wiki/Template:Cite_web)}}- [link](https://en.wikipedia.org/wiki/Category:CS1_maint:_url-status))
+- [↑](#cite_ref-:10_31-0)Times, The Moscow (4 March 2026).- ["Ukraine Behind 'Terrorist' Attack on Russian LNG Tanker, Putin Says"](https://www.themoscowtimes.com/2026/03/04/ukraine-behind-terrorist-attack-on-russian-lng-tanker-putin-says-a92113).- *The Moscow Times*. Retrieved 11 March 2026.
+- [↑](#cite_ref-32)- ["Ukrainian forces strike shadow fleet tanker in the Black Sea and multiple targets"](https://newsukraine.rbc.ua/news/ukrainian-forces-strike-shadow-fleet-tanker-1781088318.html).- *RBC-Ukraine*. Retrieved 16 June 2026.
+- [↑](#cite_ref-UNN-ShadowFleet-20260714_33-0)- ["Unmanned Systems Forces struck 11 vessels of Russia's shadow fleet in the Sea of Azov overnight"](https://unn.ua/en/news/unmanned-systems-forces-struck-11-vessels-of-russias-shadow-fleet-in-the-sea-of-azov-overnight).- *UNN*. 14 July 2026. Retrieved 14 July 2026.
+- [↑](#cite_ref-KyivPost-20260709_34-0)- ["Ukraine Hits 14 Russian Vessels Overnight, Says 35 Shadow Fleet Ships Struck in 4 Days"](https://www.kyivpost.com/post/79909).- *Kyiv Post*. 9 July 2026. Retrieved 9 July 2026.
+- [↑](#cite_ref-apa_35-0)- ["Ukraine strikes nearly 28 vessels in Sea of Azov overnight, Russia closes sea access"](https://en.apa.az/cis-countries/ukraine-strikes-nearly-28-vessels-in-sea-of-azov-overnight-russia-closes-sea-access-515607).- *APA*. 11 July 2026. Retrieved 11 July 2026.
+- [↑](#cite_ref-Guardian-AzovShipping-20260712_36-0)- ["Ukrainian drone strikes force Russia to suspend shipping in Sea of Azov"](https://www.theguardian.com/world/2026/jul/12/ukrainian-drone-strikes-force-russia-to-suspend-shipping-in-sea-of-azov).- *The Guardian*. 12 July 2026. Retrieved 12 July 2026.
+- [↑](#cite_ref-KyivPost-ShadowFleet-20260713_37-0)- ["Ukraine Says It Struck 105 Russian Shadow Fleet Vessels in 8 Days, 15 Overnight"](https://www.kyivpost.com/post/80156).- *Kyiv Post*. 13 July 2026. Retrieved 13 July 2026.
+- [↑](#cite_ref-KomersantUA-MoLoChKa-20260715_38-0)- ["The Black Sea is ablaze: "Madyar" reports a record-breaking strike against the Russian Navy"](https://komersant.ua/en/chorne-more-pala-d1-94-c2-abmadyar-c2-bb-povidomiv-pro-rekordnij-udar-po-flotu-rf/).- *Komersant Ukrainian*. 15 July 2026. Retrieved 15 July 2026.
+- [↑](#cite_ref-39)Lukatsky, Efrem; español, DEREK GATOPOULOS Leer en (22 October 2025).- ["Ukraine unveils upgraded sea drone it says can strike anywhere in the Black Sea"](https://apnews.com/article/russia-ukraine-war-sea-drones-0719211dd0314f2b9d15422e81ca66e3).- *AP News*. Retrieved 19 December 2025.
+- [↑](#cite_ref-40)Encarnacion, Ethan M. (23 October 2025).- ["Ukraine's 'Sea Baby' Naval Drone Grows Teeth, Now With Expanded Firepower"](https://nextgendefense.com/sea-baby-naval-drone/). Retrieved 19 December 2025.
+- [↑](#cite_ref-41)Nicanci.- ["Ukraine Presents New Generation of Sea Baby Naval Drones to Sustain Pressure in the Black Sea"](https://www.armyrecognition.com/news/navy-news/2025/ukraine-presents-new-generation-of-sea-baby-naval-drones-to-sustain-pressure-in-the-black-sea).- *www.armyrecognition.com*. Retrieved 19 December 2025.
+- [1](#cite_ref-:3_42-0)- [2](#cite_ref-:3_42-1)- [3](#cite_ref-:3_42-2)- ["Türkiye Condemns Ukrainian Strikes on Russian Oil Tankers off Black Sea Coast"](https://english.aawsat.com/node/5214405).- *english.aawsat.com*. Retrieved 19 December 2025.
+- [1](#cite_ref-:4_43-0)- [2](#cite_ref-:4_43-1)- [3](#cite_ref-:4_43-2)Oidsalu, Meelis (18 December 2025).- ["Why Russia's Shadow Fleet Sails Unhindered"](https://cepa.org/article/why-russias-shadow-fleet-sails-unhindered/).- *CEPA*. Retrieved 19 December 2025.
+- [↑](#cite_ref-EuromaidanPress-BlackSeaFleet-20260715_44-0)- ["The Azov Sea wasn't enough—Ukraine's drones followed Russia's oil fleet into the Black Sea"](https://euromaidanpress.com/2026/07/15/the-azov-sea-wasnt-enough-ukraines-drones-followed-russias-oil-fleet-into-the-black-sea/).- *Euromaidan Press*. 15 July 2026. Retrieved 15 July 2026.
+- [↑](#cite_ref-45)Gumrukcu, Tuvan (3 December 2025).- ["Turkey says 'very scary' attacks on Russia-linked tankers threaten Black Sea safety"](https://www.reuters.com/world/europe/turkey-discusses-black-sea-safety-with-nato-after-attacks-russian-ships-2025-12-03/).- *reuters.com*.- `{{`: CS1 maint: url-status (- [cite web](https://en.wikipedia.org/wiki/Template:Cite_web)}}- [link](https://en.wikipedia.org/wiki/Category:CS1_maint:_url-status))
+- [1](#cite_ref-:5_46-0)- [2](#cite_ref-:5_46-1)McCready, Alastair.- ["Russia damages Turkish-owned vessels in attacks on two Ukrainian ports"](https://www.aljazeera.com/news/2025/12/13/russia-damages-turkish-owned-vessels-in-attack-on-ukrainian-ports).- *Al Jazeera*. Retrieved 19 December 2025.
+- [↑](#cite_ref-47)News Agencies.- ["Russian tanker struck off Turkiye as Ukraine targets 'shadow fleet'"](https://www.aljazeera.com/news/2025/12/2/russian-tanker-struck-off-turkiye-as-ukraine-targets-shadow-fleet).- *Al Jazeera*. Retrieved 19 December 2025.
+- [↑](#cite_ref-48)- ["Putin threatens to 'cut Ukraine off from the sea' after attacks on tankers"](https://www.reuters.com/world/europe/putin-threatens-cut-ukraine-off-sea-after-attacks-tankers-2025-12-02/).- *reuters.com*. 2 December 2025.- `{{`: CS1 maint: url-status (- [cite web](https://en.wikipedia.org/wiki/Template:Cite_web)}}- [link](https://en.wikipedia.org/wiki/Category:CS1_maint:_url-status))
+- [1](#cite_ref-:6_49-0)- [2](#cite_ref-:6_49-1)- ["Russian Retaliation Strike Raises Stakes In Black Sea Shipping War"](https://www.yahoo.com/news/articles/russian-retaliation-strike-raises-stakes-225622515.html).- *Yahoo News*. 12 December 2025. Retrieved 19 December 2025.
+- [1](#cite_ref-theatlantic_50-0)- [2](#cite_ref-theatlantic_50-1)Shuster, Simon; Lemire, Jonathan (10 December 2025).- ["The War Moves From Ukraine to the High Seas"](https://www.theatlantic.com/national-security/2025/12/russia-ukraine-war-putin-zelensky-oil/685194/).- *The Atlantic*. Retrieved 19 December 2025.
+- [↑](#cite_ref-51)Max, Lin (15 December 2025).- ["EU sanctions nine shipping firms, businessmen in Russian shadow fleet crackdown"](https://www.spglobal.com/energy/en/news-research/latest-news/shipping/121525-eu-sanctions-nine-shipping-firms-businessmen-in-russian-shadow-fleet-crackdown).- *spglobal.com*.- [Archived](https://web.archive.org/web/20251217130808if_/https://www.spglobal.com/energy/en/news-research/latest-news/shipping/121525-eu-sanctions-nine-shipping-firms-businessmen-in-russian-shadow-fleet-crackdown)from the original on 17 December 2025.
+- [↑](#cite_ref-smallwarsjournal_52-0)Rolander, Andrew (11 December 2025).- ["Irregular Warfare at Sea: How Russia's Shadow Fleet Undermines Maritime Security"](https://smallwarsjournal.com/2025/12/11/irregular-warfare-at-sea/).- *Small Wars Journal by Arizona State University*. Retrieved 19 December 2025.
+- [1](#cite_ref-:8_53-0)- [2](#cite_ref-:8_53-1)Heinegg, Wolff Heintschel von (8 December 2025).- ["The Ukrainian Attacks Against Gambian-Flagged Oil Tankers in the Black Sea"](https://lieber.westpoint.edu/ukrainian-attacks-against-gambian-flagged-oil-tankers-black-sea/).- *Lieber Institute West Point*. Retrieved 21 December 2025.

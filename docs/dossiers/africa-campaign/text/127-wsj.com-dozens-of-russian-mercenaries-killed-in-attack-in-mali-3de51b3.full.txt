@@ -1,0 +1,100 @@
+URL:         https://www.wsj.com/world/africa/dozens-of-russian-mercenaries-killed-in-attack-in-mali-3de51b36
+Кінцевий:    https://web.archive.org/web/20260818043135id_/https://www.wsj.com/world/africa/dozens-of-russian-mercenaries-killed-in-attack-in-mali-3de51b36
+Заголовок:   Dozens of Russian Mercenaries Killed in Attack in Mali
+Дата публ.:  2024-07-28
+Завантажено: 2026-09-12 14:25 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 621698
+Оригінал:    raw/127-wsj.com-dozens-of-russian-mercenaries-killed-in-attack-in-mali-3de51b3.html
+sha256:      357f4f4bf20658b89ded1f4088672c252044c56fc6e88d492e31c4fc123f71a0
+Витяг:       trafilatura
+Примітка:    оригінал недоступний (401), узято з Wayback
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 11
+==============================================================================
+Dozens of Russian Mercenaries Killed in Attack in Mali - WSJ
+Use Alt + Down Arrow to expand.
+This copy is for your personal, non-commercial use only. Distribution and use of this material are governed by
+our Subscriber Agreement and by copyright law. For non-personal use or to order multiple copies, please contact
+Dow Jones Reprints at 1-800-843-0008 or visit www.djreprints.com.
+https://www.wsj.com/world/africa/dozens-of-russian-mercenaries-killed-in-attack-in-mali-3de51b36
+Dozens of Russian Mercenaries Killed in Attack in Mali
+Malian officers hired Wagner Group to help fight insurgencies by jihadists and Tuareg rebels
+After the death of Wagner leader Yevgeny Prigozhin, the Kremlin is putting a new power structure in place that will take over the group’s sprawling operations in Africa, which have advanced Russian influence on the continent for almost a decade. Photo illustration: JJ Lin
+Russia Charges Telegram Founder Durov With Aiding Terrorism
+War Risk to Oil Supplies Grows With Red and Black Sea Disruptions
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Dozens of Russian Mercenaries Killed in Attack in Mali - WSJ
+Skip to Main Content
+The Wall Street Journal
+English Edition
+Edition
+Use Alt + Down Arrow to expand.
+English
+中文 (Chinese)
+日本語 (Japanese)
+Print Edition
+Video
+Audio
+Latest Headlines
+Puzzles
+More
+More
+Other Products from WSJ
+WSJ | Buy Side
+The Journal Collection
+WSJ Shop
+WSJ Wine
+World
+Business
+U.S.
+Politics
+Economy
+Tech
+Markets & Finance
+Opinion
+Free Expression
+Arts
+Lifestyle
+Real Estate
+Personal Finance
+Health
+Style
+Sports
+Advertisement
+This copy is for your personal, non-commercial use only. Distribution and use of this material are governed by
+our Subscriber Agreement and by copyright law. For non-personal use or to order multiple copies, please contact
+Dow Jones Reprints at 1-800-843-0008 or visit www.djreprints.com.
+https://www.wsj.com/world/africa/dozens-of-russian-mercenaries-killed-in-attack-in-mali-3de51b36
+World
+Africa
+Dozens of Russian Mercenaries Killed in Attack in Mali
+Malian officers hired Wagner Group to help fight insurgencies by jihadists and Tuareg rebels
+By
+Benoit Faucon
+,
+Bojan Pancevski
+and
+Michael M. Phillips
+Listen
+(2 min)
+After the death of Wagner leader Yevgeny Prigozhin, the Kremlin is putting a new power structure in place that will take over the group’s sprawling operations in Africa, which have advanced Russian influence on the continent for almost a decade. Photo illustration: JJ Lin
+Tuareg rebels seeking autonomy in the West African country of Mali killed dozens of Russian mercenaries last week in what appeared to be one of the deadliest attacks on
+Russian personnel on the continent
+since Moscow first sent Wagner Group guns-for-hire there in 2017.
+It was unclear exactly how many Russians were killed in the attack, which took place near Mali’s northern border with Algeria and targeted a column of both Russian fighters and Malian troops. But several Telegram channels associated with the Russian military and mercenary groups presented it as a major setback for Moscow’s efforts in Africa.
+Copyright ©
+2026
+Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8
+Videos
+Most Popular News
+Most Popular
+OPINION
+Further Reading
+Russia Charges Telegram Founder Durov With Aiding Terrorism
+War Risk to Oil Supplies Grows With Red and Black Sea Disruptions
+Advertisement

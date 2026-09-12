@@ -1,0 +1,123 @@
+URL:         https://www.middleeasteye.net/news/russia-sudan-war-saf-rsf-hedges-bets-both-sides-support
+Кінцевий:    https://www.middleeasteye.net/news/russia-sudan-war-saf-rsf-hedges-bets-both-sides-support
+Заголовок:   Russia moves to play both sides in Sudan war
+Дата публ.:  2024-05-06
+Завантажено: 2026-09-12 18:58 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 62391
+Оригінал:    raw/153-middleeasteye.net-russia-sudan-war-saf-rsf-hedges-bets-both-sides-supp.html
+sha256:      4501565ddbde90b1cc8f4e3da030cc4aa66c924749f81d5dd89d78ac2cfbbab6
+Витяг:       trafilatura
+
+==============================================================================
+# Sudan war: Russia hedges bets by aiding both sides in conflict
+
+
+[Russia](https://www.middleeasteye.net/countries/russia) is moving to develop and secure its strategic interests in [Sudan](https://www.middleeasteye.net/countries/sudan), offering the Sudanese Armed Forces (SAF) weapons while continuing to help supply the SAF’s enemy, the Rapid Support Forces (RSF) paramilitary, through the Wagner Group.
+
+Analysts told Middle East Eye that Russia is acting to fill a power vacuum left by the [US ](https://www.middleeasteye.net/countries/us)and to counter Ukraine’s military presence in Sudan - there are between 100 and 300 Ukrainian troops on the ground, operating mostly at night alongside the SAF.
+
+At the same time, sources in the Central African Republic’s armed opposition told MEE that Wagner, the Russian military group, was still operating there, facilitating the supply of arms from the [United Arab Emirates](https://www.middleeasteye.net/countries/united-arab-emirates) to the RSF. The sources said that they had captured Wagner fighters in CAR as recently as last week.
+
+Russia has maintained relations with both the RSF and army since before Sudan’s war started on 15 April last year. Now over a year old, the war has left tens of thousands of people dead and displaced eight million more, becoming the world’s largest humanitarian catastrophe.
+
+In the weeks before it began, Russian Foreign Minister Sergei Lavrov visited Khartoum, [where he held ](https://www.middleeasteye.net/news/russia-sudan-sergei-lavrov-defends-wagner-group-attacks-west)separate meetings with army chief Abdel Fattah al-Burhan and RSF leader Mohamed Hamdan Dagalo, the former Janjaweed commander known as Hemeti.
+
+## New MEE newsletter: Jerusalem Dispatch
+
+#### Sign up to get the latest insights and analysis on Israel-Palestine, alongside Turkey Unpacked and other MEE newsletters
+
+Multiple sources have confirmed that Wagner operatives have been involved in the supply of weapons from the UAE to the RSF throughout the war, though Sudan’s army-aligned government has said publicly that this is no longer the case.
+
+The Wagner Group has claimed that it is no longer operating inside Sudan, but a diplomatic source and eyewitnesses in Khartoum and Darfur have said that there are still Russian mercenaries there.
+
+### Russian focus shifts
+
+There are signs, though, that Russia is now focusing more on its relationship with Burhan and the army-aligned government.
+
+'The Kremlin backs Burhan and the Wagner Group, which is an arm of Russian foreign policy, backs the RSF'
+
+-
+
+Kholood Khair, Sudanese analyst
+
+Speaking [in Arabic](https://x.com/AsharqNewsSUD/status/1784571352818536956) in Port Sudan on 28 April, Russian Deputy Foreign Minister Mikhail Bogdanov was clear that it is the army-controlled Sovereignty Council of Sudan that truly represents the Sudanese people.
+
+The Russian minister, who led a delegation that included military officers, met with Burhan in the Red Sea city, from where the army-controlled government is operating.
+
+Hailing the “rich experience” Russia and Sudan had together in mining projects, Bogdanov said his visit could lead to increased cooperation and expressed support for “the existing legitimacy in the country represented by the Sovereignty Council”.
+
+Malik Agar, vice president of the Sovereignty Council, [hailed](https://x.com/MalikAgarEyre/status/1784978769469464757) the “deep-rooted history and joint cooperation in various fields” between the two countries and “stressed the need to strengthen cooperation and joint coordination between Sudan and Russia in international platforms, especially the United Nations”. 
+
+### Weapons, fuel and gold
+
+Bogdanov’s visit did not come out of the blue. According to two army-aligned officials who spoke to Middle East Eye on the condition of anonymity, Sudanese intelligence chief Ahmed Mufaddal was in Russia meeting with his counterparts a week before Bogdanov, who is also Russian President Vladimir Putin’s special representative for the Middle East and Africa, arrived in Sudan.
+
+Earlier in April, the sources said, Russia’s ambassador to Sudan, Andrey Chernovol, had approached Burhan offering to supply the SAF with weapons.
+
+The Sudan Tribune [reported](https://sudantribune.com/article285164/) that during the discussions between Bogdanov’s delegation and army-aligned officials, the Russians offered the SAF “unrestricted qualitative military aid”. This offer could “involve specialised expertise and, potentially, a Russian presence in Sudan”. 
+
+'Russia is by no means married to the UAE, which is doubling down on Hemeti right now'
+
+-
+
+Jalel Harchaoui, North Africa analyst
+
+On 4 May, a Russian-registered transport plane landed in Port Sudan from Dubai.
+
+The Abakan Air Ilyushin Il-76MD had made multiple trips from Dubai to Aktau in Kazakhstan in the days leading up to the Port Sudan flight, [according ](https://www.flightradar24.com/data/aircraft/ra-76370.)to data from Flightradar 24.
+
+At the beginning of April, Russia began exporting diesel to Sudan, with two fuel tankers, Pavo Rock and Conga, delivering a total of about 70,000 metric tonnes of diesel to Port Sudan on 2 April and 5 April, according to LSEG data.
+
+Another oil tanker, the Marabella Sun, is currently at anchor in Port Sudan, [according](https://www.marinetraffic.com/en/ais/details/ships/shipid:712155/mmsi:518998923/imo:9323376/vessel:MARABELLA_SUN) to the Marine Traffic website. Russia has been scrambling to find new markets for its refined products since a full EU embargo was imposed on it in February 2023.
+
+Russian companies have longstanding interests in Sudan, particularly in gold mining, with western diplomats in Khartoum [previously saying ](https://www.middleeasteye.net/news/sudan-russia-wagner-group-getting-rich-gold-mines-government-partnership)that the Wagner Group was working with the Dagalo family to ship gold out of Darfur.
+
+Hemeti and his family own a gold mining company that operates on lands he seized in Darfur, in western Sudan, in 2017. He has talked openly about not being the “first man to own goldmines”, but they provide him and the RSF with a key source of power and wealth.
+
+Speaking to Middle East Eye [in April last year](https://www.middleeasteye.net/news/sudan-attack-burhan-rsf-set-tone-bitter-conflict), a US official based in North Africa said that an estimated 32.7 tonnes of gold were smuggled out of Sudan on 16 charter flights with an estimated value of $1.9bn between February 2022 to February 2023.
+
+The cargo was sometimes flown to a Russian controlled airbase in Syria and was always labelled as cookies, the official [said](https://www.middleeasteye.net/news/sudan-attack-burhan-rsf-set-tone-bitter-conflict). It was used by Moscow to help keep its economy afloat in the wake of its war in Ukraine.
+
+### Red Sea base
+
+In Port Sudan, according to the two-army aligned sources, the Russian delegation also discussed Ukraine’s military presence in Sudan and the prospect of a Russian naval base on the Red Sea coast, which was first agreed upon during the days of autocrat Omar al-Bashir.
+
+Russia hopes to establish a naval base on Sudan’s Red Sea coastline close to Port Sudan - in February 2023, Russian Foreign Minister Sergei Lavrov told a press conference in Khartoum that an agreement for this to happen had been “signed earlier between the two countries and is only waiting to be legalised”.
+
+'The Russians may very well leverage a decrease in military aid to Hemeti’s Rapid Support Forces, in exchange for a comprehensive deal with Burhan'
+
+-
+
+Jalel Harchaoui, Rusi
+
+“Russia sees opportunity anywhere the US isn’t operating,” Cameron Hudson, a former CIA analyst and fellow at the CSIS Africa Programme told MEE. “And remember, they haven’t given up on their ambition for a Red Sea port. I think everything they are doing in Sudan is in service of that objective.”
+
+Jalel Harchaoui, an associate fellow at the Royal United Services Institute for Defence and Security Studies (Rusi), described Bogdanov’s visit as a “significant event”.
+
+“Russia has had a long-term agreement regarding Port Sudan, a strategic asset that Burhan’s enemy General Hemeti never had any chance of capturing,” Harchaoui told MEE.
+
+“Thus far, Russia has backed Hemeti, but it is also very much aware of Hemeti’s current difficulties, especially considering Iran’s growing support for Burhan this year.”
+
+“This gives Moscow a golden opportunity. The Russians may very well leverage a decrease in military aid to Hemeti’s Rapid Support Forces, in exchange for a comprehensive deal with Burhan,” Harchaoui said.
+
+“Russia is by no means married to the UAE, which is doubling down on Hemeti right now.”
+
+### Diplomatic games
+
+Middle East Eye has[ reported extensively ](https://www.middleeasteye.net/news/sudan-uae-war-arms-trade-rsf)on the routes used by the UAE to keep the RSF supplied. Those routes remain intact and the US recently alluded, for the first time in public, to having spoken to Emirati officials about their support for the paramilitary.
+
+“We do know that both sides are receiving support, both with weapons and other support to fuel their efforts to continue to destroy Sudan. And yes, we have engaged with parties on that, including with our colleagues from the UAE,” Linda Thomas-Greenfield, the US ambassador to the United Nations, [said](https://usun.usmission.gov/remarks-by-ambassador-linda-thomas-greenfield-at-the-un-security-council-stakeout-on-the-situation-in-sudan/) on 29 April.
+
+According to [al-Sharq](https://x.com/AsharqNewsSUD/status/1787123992861540520), a US security delegation arrived in Port Sudan on Sunday to hold a round of joint discussions with army-aligned state officials.
+
+Sources close to the Sudanese army told MEE that ceasefire talks brokered by the US and [Saudi Arabia](https://www.middleeasteye.net/countries/saudi-arabia) are scheduled to begin again in the Saudi Arabian port city of Jeddah on 15 May.
+
+Details of Iranian support for the Sudanese Armed Forces have emerged in the last couple of months. According [to Africa Confidential](https://www.africa-confidential.com/article-preview/id/14941/Facing_no_pressure%2c_the_generals_escalate_their_war_again), Iran's drones, notably the Mohajer-4, Mohajer-6, and Ababil, have been operating since January from the SAF’s Wadi Saydna air force base, north of Khartoum.
+
+Kholood Khair, a Sudanese analyst and founder of Confluence Advisory, agreed that Russia was “countering Ukraine” and filling a vacuum left by the US.
+
+“Russia, the UAE and Israel play both sides, they don’t pick favourites,” Khair said. “The timing is because the Ukrainians were there not so long ago but the policy has always been the same, which is that the Kremlin backs Burhan and the Wagner Group, which is an arm of course of Russian foreign policy, backs the RSF,” she told MEE.
+
+“That way they have a horse in the race no matter how this shakes out.”
+
+Middle East Eye delivers independent and unrivalled coverage and analysis of the Middle East, North Africa and beyond. To learn more about republishing this content and the associated fees, please fill out this. More about MEE can be found[form](https://middleeasteye.net/form/mee-syndication).[here](https://middleeasteye.net/about-middle-east-eye)

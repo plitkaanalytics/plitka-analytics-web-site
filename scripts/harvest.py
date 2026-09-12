@@ -320,7 +320,10 @@ def harvest_one(url, n, topic_dir, do_archive):
     status, final, ctype = curl(fetch_url, tmp_raw)
 
     note = ""
-    if status >= 400 or status == 0 or not os.path.getsize(tmp_raw):
+    # Коли curl не створив файл узагалі (DNS, обрив зʼєднання), getsize кидає
+    # виняток і валить увесь прогін — тому спершу перевіряємо існування.
+    if (status >= 400 or status == 0 or not os.path.exists(tmp_raw)
+            or not os.path.getsize(tmp_raw)):
         orig_status = status
         snap, err = wayback_snapshot(url)
         if snap:

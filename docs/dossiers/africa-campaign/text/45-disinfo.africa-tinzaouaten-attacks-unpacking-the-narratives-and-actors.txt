@@ -1,0 +1,22 @@
+URL:         https://disinfo.africa/tinzaouaten-attacks-unpacking-the-narratives-and-actors-fe74008c7c00
+Кінцевий:    https://disinfo.africa/tinzaouaten-attacks-unpacking-the-narratives-and-actors-fe74008c7c00?gi=72a3c1286c97
+Заголовок:   Medium
+Дата публ.:  2024-09-29
+Завантажено: 2026-09-12 14:20 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 159431
+Оригінал:    raw/45-disinfo.africa-tinzaouaten-attacks-unpacking-the-narratives-and-actors.html
+sha256:      9de1a13e2d3afbc1c1ecc35a5d1a008899106783be43968ea516bf0ce13733d5
+Витяг:       bs4-full
+
+==============================================================================
+Medium
+Sitemap
+Open in app
+Sign up
+Sign in
+Medium Logo
+Get app
+Write
+Search
+Sign up
+Sign in

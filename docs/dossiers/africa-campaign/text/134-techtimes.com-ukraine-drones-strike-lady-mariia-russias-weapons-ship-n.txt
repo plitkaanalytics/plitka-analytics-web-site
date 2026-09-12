@@ -1,0 +1,98 @@
+URL:         https://www.techtimes.com/articles/326906/20260907/ukraine-drones-strike-lady-mariia-russias-weapons-ship-not-oil-tanker.htm
+Кінцевий:    https://www.techtimes.com/articles/326906/20260907/ukraine-drones-strike-lady-mariia-russias-weapons-ship-not-oil-tanker.htm
+Заголовок:   Ukraine Drones Strike Lady Mariia: Russia's Weapons Ship, Not Oil Tanker
+Дата публ.:  2026-09-07
+Завантажено: 2026-09-12 14:26 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 338304
+Оригінал:    raw/134-techtimes.com-ukraine-drones-strike-lady-mariia-russias-weapons-ship-n.html
+sha256:      ca9e323f228a6bf2be11838d016bec79593c3dffe3b97f8acab6f774b0d5d9eb
+Витяг:       trafilatura
+
+==============================================================================
+Ukraine's drone campaign against Russian shipping pushed into new territory on Sunday when aerial drones struck the sanctioned Russian roll-on/roll-off cargo vessel Lady Mariia in the Mediterranean Sea near Crete — marking the first reported hit on a vessel that Western and Ukrainian intelligence specifically classify as a military supply ship, not an oil or energy tanker. The attack signals a deliberate shift from disrupting Russia's oil revenue to interdicting its weapons logistics — a categorically different escalation that threatens a supply corridor Moscow has relied upon to move armor and military equipment between Russia and its naval base in Syria.
+
+The Lady Mariia (IMO 9220641), a 7,184 deadweight-ton (DWT), 126.9-meter (416-foot) Russian-flagged vessel operated by the Kremlin-linked firm MG-Flot LLC, was [sailing eastward toward Syria](https://splash247.com/russian-military-linked-roro-targeted-near-crete/) when multiple drones approached and dropped ordnance onto its deck, setting a fire aboard. Neither Kyiv nor Moscow has officially confirmed the attack. No government has claimed responsibility.
+
+### Who Is the Lady Mariia — and Why Does Its Cargo Type Matter?
+
+The Lady Mariia — formerly registered as the Stella-Maria — is not a tanker. It is a roll-on/roll-off (ro-ro) cargo vessel, a class of ship designed specifically to load and unload wheeled or tracked vehicles using built-in ramps, without requiring cranes. That design makes the ro-ro class uniquely suited for transporting armored vehicles, artillery, trucks, and other rolling military equipment — and it is precisely why Ukraine's Defence Intelligence (HUR) maintains a dedicated category for it in its war-sanctions database. HUR [designates Lady Mariia as military cargo](https://war-sanctions.gur.gov.ua/en/transport/ships/65) — a category reserved for vessels that directly serve Russia's armed forces, not oil sanctions evaders.
+
+HUR identifies the vessel as having operated on the Novorossiysk–Tartus route — the primary maritime corridor linking Russia's Black Sea port to its naval base in Tartus, Syria — and as having been used to transport weapons back from Syria to Russia as well. MG-Flot LLC, the vessel's operator, was previously known as TransMorFlot LLC and was sanctioned under [OFAC Executive Order 14024](https://opensanctions.org/entities/NK-kUvoqN5z2TtzoZKyAZRiLn) in May 2022 for its role in supplying transportation for Russian military logistics. Ukraine added the Lady Mariia itself to its own sanctions list on May 23, 2026.
+
+Prior Mediterranean strikes — on the tanker Qendil in December 2025 and the liquefied natural gas carrier Arctic Metagaz in March 2026 — targeted vessels tied to Russia's energy-export revenue stream: they were part of what analysts call the "shadow fleet," a network of roughly 600 to 1,400 vessels estimated to be helping Russia circumvent the G7 oil price cap. Lady Mariia operates in a different domain. Its sanctioned status stems from its [documented weapons-transport function,](https://en.wikipedia.org/wiki/Ukrainian_attacks_on_the_Russian_shadow_fleet) not its involvement in oil-price-cap evasion. Hitting it means Ukraine is no longer solely pressuring Russia's war chest — it is now actively targeting Russia's ability to move military hardware.
+
+### What the Attack Looked Like
+
+Automatic Identification System (AIS) tracking data, publicly broadcast by vessels at sea, placed Lady Mariia in the [central Mediterranean on September 5](https://www.itamilradar.com/2026/09/07/lady-mariia-hit-by-drones-in-the-mediterranean-exposing-russias-maritime-logistics-route/) at 9.4 knots on a heading of 106.2° — course consistent with an eastbound route from Oran, Algeria, toward Syria. The vessel had departed the Algerian port of Oran before entering the Mediterranean. The attack reportedly occurred the following day in the area between Crete and Libya.
+
+Video footage of the strike, first circulated by Russian opposition journalist Alexander Nevzorov, showed a series of multi-rotor aerial drones approaching the ship and [dropping ordnance directly onto its deck](https://www.ibtimes.co.uk/russian-cargo-ship-drones-mediterranean-1818175) — a bomb-dropping delivery mechanism distinct from the kamikaze sea-surface drone approach used in earlier Black Sea attacks. Nevzorov claimed the vessel sustained 12 direct hits and alleged the drones were launched from Libyan territory, and further alleged the ship carried Iranian weapons and armored vehicles. Those specific cargo and launch-origin claims have not been independently confirmed and should be treated as alleged.
+
+Andrey Klimenko of the Ukrainian Institute of Black Sea Strategic Studies confirmed, via the Russian outlet The Insider, that the vessel was in the area of Crete heading toward Syria at the time of the attack. A fire broke out aboard after the strikes. Maritime tracking sources noted that the munitions appeared to be relatively small — enough to [damage deck equipment and superstructure,](https://splash247.com/russian-military-linked-roro-targeted-near-crete/) but unlikely to penetrate below decks and risk sinking the vessel.
+
+### Libya as a Launch Platform: How Ukraine Built a Mediterranean Strike Network
+
+The specific launch point for the Lady Mariia attack remains unconfirmed, but the attribution to Libya is consistent with a documented Ukrainian military presence in that country that security sources and investigative journalists have established over the preceding months.
+
+In April 2026, French public broadcaster RFI published an investigation — subsequently corroborated by the Associated Press, which cited two Libyan officials — reporting that more than 200 Ukrainian officers and specialists had established a military presence in western Libya, [operating from three primary sites:](https://maritime-executive.com/article/libya-resumes-monitoring-arctic-metagaz-as-report-ids-attack-by-ukrainians) the Air Force Academy in Misrata, a coastal drone facility near Zawiya adjacent to the Mellitah oil and gas complex, and a coordination hub in Tripoli. The arrangement, reached in late 2025 with the Tripoli government led by Prime Minister Abdul Hamid Dbeibah, reportedly involved Ukraine providing drone-operations training to Libyan forces in exchange for basing access.
+
+That Libyan infrastructure was used in the March 2026 strike on the Arctic Metagaz, according to the RFI investigation and AP corroboration. The Mellitah facility's coastal access — [confirmed by two Libyan officials](https://aapnews.aap.com.au/news/ukraine-forces-in-libya-struck-russia-tanker-officials) speaking to the Associated Press — positions it to launch both surface drones (Magura V5 naval drones, with a range of up to 800 kilometers or 497 miles) and aerial bomb-dropping drones like those filmed in the Lady Mariia attack. Whether the specific Lady Mariia strike used the same Libyan infrastructure is unconfirmed; the vessel was struck in the broader area between Crete and Libya that places it within range of the documented facilities.
+
+In May 2026, Greek fishermen discovered a Ukrainian Magura V5 naval drone near the island of Lefkada in the Ionian Sea — independently establishing a Ukrainian operational footprint in the broader region.
+
+### Russia's Ro-Ro Dependency: Why This Vessel Class Is Hard to Replace
+
+The Lady Mariia strike is strategically significant in part because Russia has a limited number of vessels capable of performing its function. The Novorossiysk–Tartus weapons corridor does not require a tanker; it requires a ship that can transport armored vehicles, artillery, and heavy military equipment under their own power. That is specifically what a ro-ro vessel does.
+
+Russia's ability to use its own Navy for this role has been severely degraded. Ukrainian drone and missile strikes have [degraded Russia's landing ship fleet](https://en.wikipedia.org/wiki/Ukrainian_attacks_on_the_Russian_shadow_fleet) — destroying or badly damaging multiple Black Sea Fleet vessels that would ordinarily move such cargo — since the war began. The Navy's response has been to rely increasingly on civilian-contracted vessels like the Lady Mariia to perform military sealift on routes its warships can no longer safely use.
+
+By the time of the Lady Mariia strike, the nearest Russian destroyer flotilla — led by the Admiral Levchenko — had been in the Mediterranean for approximately ten days, having entered through the Strait of Gibraltar on August 27, and was not positioned to render direct assistance to the stricken vessel. The flotilla's [entry into the Mediterranean](https://maritime-executive.com/article/russian-mediterranean-flotilla-heads-for-tartus-after-syrian-agreement) followed a weeks-long absence of any Russian naval ships in that sea. Russia has no large naval surface combatants permanently stationed in the western Mediterranean.
+
+If the Lady Mariia has been seriously damaged, the loss compounds Russia's already strained military sealift capacity on the Syrian corridor. The December 2024 sinking of the Ursa Major — another [sanctioned Russian military cargo vessel](https://twz.com/news-features/what-we-know-about-the-russian-cargo-ship-that-sank-in-mediterranean) owned by the Ministry of Defense contractor Oboronlogistika — off the coast of Spain was an earlier blow to the same logistical network.
+
+### From Tanker War to Arms Interdiction: How Ukraine's Maritime Campaign Evolved
+
+The Lady Mariia attack is the latest chapter in a rapidly evolving campaign that has progressively expanded in both geographic reach and target type since late 2024.
+
+Ukraine's maritime drone campaign began in the Black Sea, where the Security Service of Ukraine (SBU) deployed [Sea Baby drone vessels](https://en.wikipedia.org/wiki/Ukrainian_attacks_on_the_Russian_shadow_fleet) — "Sea Baby" and "Sub Sea Baby" unmanned surface craft, each carrying up to 2,000 kilograms (4,400 pounds) of payload — against Russian naval and commercial targets. Starting from July 6, 2026, Ukraine's Unmanned Systems Forces carried out multi-day "Operation MoLoChKa," [striking over 100 vessels](https://kyivpost.com/post/80156) in the Sea of Azov.
+
+The campaign pushed into the Mediterranean in December 2025, when Ukraine struck the Qendil — an Omani-flagged shadow-fleet tanker — more than 2,000 kilometers (1,243 miles) from Ukrainian territory, in what British maritime risk-management firm Vanguard called "a stark expansion of Ukraine's use of uncrewed aerial systems against maritime assets associated with Russia's [sanctioned oil export network."](https://www.nbcnews.com/world/russia/ukraine-strikes-russian-shadow-fleet-tanker-mediterranean-rcna250101) The March 2026 Arctic Metagaz strike set a liquefied natural gas carrier ablaze, creating an environmental crisis that left the vessel drifting near Malta for weeks.
+
+The Lady Mariia strike differs from both in a specific, consequential way: the target is not a vessel involved in oil revenue. It is a vessel documented as carrying weapons and military equipment. If confirmed as deliberate, the attack demonstrates that Ukraine's maritime interdiction campaign has graduated from financial warfare — cutting off oil revenues — to kinetic targeting of active military logistics pipelines.
+
+Legal scholars have noted the distinction matters under international law. Wolff Heintschel von Heinegg of the European University Viadrina has assessed that Ukrainian strikes on Russia-linked vessels are governed by the law of armed conflict and naval warfare, not ordinary maritime law — meaning enemy merchant vessels that make an effective contribution to military action can be lawfully targeted. Under that framework, a vessel explicitly documented by Ukraine's own military intelligence as transporting weapons for the Russian armed forces would present a substantially clearer [lawful naval warfare target case](https://lieber.westpoint.edu/ukrainian-attacks-against-gambian-flagged-oil-tankers-black-sea/) than an energy tanker whose connection to Russia's war effort is economic rather than direct.
+
+### Who Carried Out the Attack?
+
+No government has officially claimed or confirmed the Lady Mariia strike as of publication. Ukraine has followed a consistent pattern of neither confirming nor denying specific Mediterranean strikes while publicly supporting the broader campaign.
+
+Analysts have not ruled out Israel as a potential actor. Israeli forces have previously struck Iranian-linked ports — including Bandar-e Anzali on the Caspian Sea — and the unverified allegations about Iranian weapons aboard Lady Mariia provide a plausible Israeli motive. However, the operational profile — aerial multi-rotor drones dropping ordnance, launched from a sea-based or coastal Mediterranean position — is consistent with documented Ukrainian capabilities and with the established Libya-based drone-launch infrastructure. No evidence points specifically to Israeli involvement in this strike.
+
+Russia has not confirmed the incident. Moscow has previously described similar attacks as "international terrorism and maritime piracy" and has warned of retaliation against Ukrainian port infrastructure, though formal escalatory steps in direct response to [Mediterranean strikes have not materialized.](https://en.wikipedia.org/wiki/Ukrainian_attacks_on_the_Russian_shadow_fleet)
+
+### What Comes Next
+
+The Lady Mariia's operational status remains unclear. Maritime trackers indicated the vessel's next port of call and condition would become clearer in the days following the attack. If seriously damaged, Russia faces the challenge of finding alternative vessels capable of performing military sealift on the Tartus route — a challenge that has grown harder with each vessel lost or damaged in the campaign.
+
+Maritime security analyst Arran Kennedy of Control Risks has assessed that Russia is expected to launch retaliatory strikes targeting Ukrainian port infrastructure and commercial vessels in and near Odesa, as well as ships trading with Ukraine in the Black Sea outside NATO waters. Ukraine's expansion into the Mediterranean has, to date, avoided triggering that escalation — but the targeting of a vessel with a direct documented weapons-supply function, rather than an oil-revenue function, may change Moscow's calculus.
+
+The condition of the Lady Mariia and whether it can complete its voyage toward Syria will become clearer in the coming days.
+
+## Frequently Asked Questions
+
+### What is the difference between Russia's shadow fleet and military supply vessels like Lady Mariia?
+
+Russia's shadow fleet — estimated at 600 to 1,400 vessels — is primarily composed of oil and energy tankers used to circumvent Western sanctions on Russian crude exports by operating under flags of convenience, opaque ownership structures, and AIS manipulation. The Lady Mariia is a different type of vessel: a roll-on/roll-off cargo ship sanctioned by the US in 2022 specifically because it transports weapons and military equipment for the Russian armed forces. Ukraine's intelligence agency categorizes it explicitly as a military cargo vessel, not an energy shipper. Striking it means Ukraine is targeting Russia's ability to move arms — not just the oil revenues that fund the war.
+
+### Is it legal under international law for Ukraine to strike sanctioned Russian vessels in international waters?
+
+Legal scholars who have analyzed the broader campaign — including Wolff Heintschel von Heinegg of the European University Viadrina — argue that under the law of armed conflict and naval warfare, Ukraine may target merchant vessels that make an effective contribution to Russia's military operations, including those that transport weapons or provide war-sustaining economic support. This is a different legal framework from ordinary maritime law: because an international armed conflict exists between Russia and Ukraine, the rules of naval warfare apply, not peacetime shipping conventions. The legality of any specific strike depends on the facts of that strike, and neither Ukraine nor Russia has offered a legal analysis of the Lady Mariia incident.
+
+### How is Ukraine able to strike ships so far from its territory?
+
+Ukraine has developed two main systems for long-range maritime strikes. The Magura V5 naval drone — a 5.5-meter (18-foot) unmanned surface vessel with a range of up to 800 kilometers (497 miles) and a payload capacity of up to 300 kilograms (661 pounds) — has been used in prior Mediterranean strikes, reportedly launched from the Libyan coast. For aerial bomb-dropping attacks like the one on Lady Mariia, Ukraine appears to use multi-rotor drones deployed from positions in western Libya, where Ukrainian military specialists have reportedly established drone-launch facilities in an arrangement with the Tripoli government. The AP confirmed Ukrainian operatives launched drones from Libya for the March 2026 Arctic Metagaz strike.
+
+### Does the Lady Mariia attack mean Russia's Syria arms route is now shut down?
+
+Not necessarily. Russia operates multiple vessels on the Novorossiysk–Tartus corridor, and the Lady Mariia's actual damage level — whether it can continue or must divert for repairs — was unknown at publication. What the attack demonstrates is that the route is no longer beyond Ukraine's operational reach. With drone-launch infrastructure established in the Mediterranean basin, any sanctioned Russian military supply vessel transiting open waters is now a potential target. Russia will need to weigh whether to reroute, increase naval escort, or accept the risk — all of which add cost and complexity to what was previously a low-risk logistical run.
+
+ⓒ 2026 TECHTIMES.com All rights reserved. Do not reproduce without permission.

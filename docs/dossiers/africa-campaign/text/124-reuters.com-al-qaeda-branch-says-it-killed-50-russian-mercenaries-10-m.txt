@@ -1,0 +1,47 @@
+URL:         https://www.reuters.com/world/africa/al-qaeda-branch-says-it-killed-50-russian-mercenaries-10-malian-soldiers-mali-2024-07-30/
+Кінцевий:    https://web.archive.org/web/20250325010936id_/https://www.reuters.com/world/africa/al-qaeda-branch-says-it-killed-50-russian-mercenaries-10-malian-soldiers-mali-2024-07-30/
+Заголовок:   Al Qaeda branch says it killed 50 Russian mercenaries, 10 Malian soldiers in Mali
+Дата публ.:  2024-07-30
+Завантажено: 2026-09-12 14:24 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 323980
+Оригінал:    raw/124-reuters.com-al-qaeda-branch-says-it-killed-50-russian-mercenaries-10-m.html
+sha256:      2b5af784c9160260c97e32a1af41bd3dd6c1f60ae88b16e90249c78bfd3de8f7
+Витяг:       trafilatura
+Примітка:    оригінал недоступний (401), узято з Wayback
+
+==============================================================================
+# Al Qaeda branch says it killed 50 Russian mercenaries, 10 Malian soldiers in Mali
+
+BAMAKO, July 30 (Reuters) - An al Qaeda affiliate said it killed 50 Russian Wagner mercenaries and 10 Malian soldiers in an ambush in Mali's northern Kidal region near the border with Algeria on Saturday, according to the SITE Intelligence Group.
+
+The ambush occurred on the same day a Tuareg rebel movement known as the Permanent Strategic Framework for Peace, Security and Development (CSP-PSD) said it had 
+
+[killed and injured](/world/africa/mali-rebels-say-they-killed-injured-dozens-soldiers-wagner-mercenaries-fighting-2024-07-27/)dozens of Malian soldiers and Wagner mercenaries during days of fighting at the border town of Tinzaouaten. Sign up  [here.](undefined?location=article-paragraph)
+
+The death toll is a significant blow, amounting to what appears to be Wagner's heaviest defeat since it stepped in two years ago to help Mali's junta fight Islamist groups that have been waging insurgencies across the Sahel region since 2012.
+
+Mali, where the army seized power in coups in 2020 and 2021, has said Russian forces there are not Wagner mercenaries but trainers helping local troops with equipment bought from Russia.
+
+However, Wagner 
+
+[said in a rare statement](/world/africa/russias-wagner-says-it-took-losses-heavy-fighting-against-rebels-mali-2024-07-29/)on Monday that its fighters battled alongside Malian soldiers from July 22-27 near Tinzaouaten and suffered heavy losses, including the death of their commander Sergei Shevchenko.Several Russian military bloggers reported at least 20 Wagner deaths.
+
+SITE on Sunday quoted a statement by al Qaeda branch Jama'a Nusrat ul-Islam wa al-Muslimin (JNIM) saying its militants had managed to "ensnare a convoy of the Malian army and Wagner mercenaries in a complex ambush" south of Tinzaouaten.
+
+The Malian army and Wagner forces were ambushed after they withdrew from Tinzaouaten, which they had tried to seize from Tuareg-led separatists.
+
+Two security sources said the convoy came under attack from both the separatists and JNIM in remote terrain, but that the extent of coordination between the two groups was unclear.
+
+Malian authorities have accused Tuareg and jihadist groups of collaborating.
+
+Mali's army said in a statement on Monday that it had started a "stabilisation operation" in the rebel-plagued area on July 19 and launched an attack on July 25.
+
+Sandstorms then played to their opponents' favour, allowing them to regroup around the convoy. Violent clashes broke out and there were heavy human and material losses, the statement said, without providing further detail.
+
+The Tuareg are an ethnic group who inhabit the Sahara region, including parts of northern Mali. Many of them feel marginalised by the Malian government.
+
+Tuareg-led separatists launched a rebellion in 2012 that was pushed back into Mali's arid north and later hijacked by Islamist militant groups.
+
+Reporting by David Lewis and Tiemoko Diallo; writing by Sofia Christensen; editing by Mark Heinrich
+
+Our Standards: [The Thomson Reuters Trust Principles.](https://www.thomsonreuters.com/en/about-us/trust-principles.html)

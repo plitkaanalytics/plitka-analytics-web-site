@@ -1,0 +1,40 @@
+URL:         https://sudantribune.com/article277588/
+Кінцевий:    https://web.archive.org/web/20250817053118id_/https://sudantribune.com/article277588/
+Заголовок:   Sudan's al-Burhan, Ukraine's Zelensky discuss security challenges - Sudan Tribune
+Дата публ.:  2023-09-24
+Завантажено: 2026-09-12 14:08 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 144980
+Оригінал:    raw/28-sudantribune.com-article277588.html
+sha256:      263b4fc090df8bd667e3a201f4c566c0592907595de829a0d4847e7ed47ef7aa
+Витяг:       trafilatura
+Примітка:    оригінал недоступний (403), узято з Wayback
+
+==============================================================================
+[Europe](https://sudantribune.com/articlecategory/international/europe/)
+
+# Sudan’s al-Burhan, Ukraine’s Zelensky discuss security challenges
+
+September 23, 2023 (KHARTOUM) – Chairman of the Sovereign Council, Abdel Fattah al-Burhan, and President Volodymyr Zelensky of Ukraine held an unplanned meeting at Shannon Airport in Ireland.
+
+The circumstances surrounding the organization of the meeting remain unclear, but Shannon Airport is a refuelling stop for transatlantic carriers, situated in western Ireland.
+
+President Zelensky disclosed via a Twitter post that he engaged in an “unscheduled meeting” with al-Burhan, during which they deliberated on pressing security concerns. Their discussion encompassed the activities of illegal armed groups reportedly funded by Russia.
+
+The statement alluded to the Wagner group, which is believed to be providing support to the Rapid Support Forces (RSF), a paramilitary organization that has conflicted with the Sudanese army since April 2023.
+
+Although the Sovereign Council did not issue an official statement regarding the meeting, they released photographs of the two leaders and a brief video from their encounter.
+
+This meeting occurred in the wake of reported drone strikes by Ukrainian special services targeting the Wagner-backed RSF in Khartoum.
+
+It is worth noting that prior to the demise of Wagner Chief Yevgeny Prigozhin in August, the Russian government had distanced itself from the activities of the mercenary group in Sudan. However, recent developments suggest that the group continues its operations in the country and other African nations.
+
+President Zelensky also invited Al-Burhan to support the Grain From Ukraine initiative and participate in this year’s summit.
+
+“We considered possible platforms for intensifying cooperation between Ukraine and African countries,” Zelensky emphasized.
+
+The Grain From Ukraine initiative, inaugurated on November 26, 2022, by President Zelenskyy, is a humanitarian food program aimed at supplying grain to the most impoverished countries in Africa and Asia.
+
+Several Western countries, including EU member states, the United Kingdom, the United States, and Qatar, have pledged approximately $200 million to support this humanitarian endeavour.
+
+
+(ST)

@@ -1,0 +1,52 @@
+URL:         https://www.armyrecognition.com/news/navy-news/2026/russian-ship-lady-mariia-drone-strike-mediterranean
+Кінцевий:    https://www.armyrecognition.com/news/navy-news/2026/russian-ship-lady-mariia-drone-strike-mediterranean
+Заголовок:   Ukraine strikes sanctioned Russian cargo ship Lady Mariia with bomber drones in the Mediterranean
+Дата публ.:  2026-09-12
+Завантажено: 2026-09-12 16:11 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 104294
+Оригінал:    raw/139-armyrecognition.com-russian-ship-lady-mariia-drone-strike-mediterranea.html
+sha256:      3cd48217a896ec619180c59d818de53297c3b699b43cc205b55724eeb10c7ef2
+Витяг:       trafilatura
+
+==============================================================================
+### Breaking News
+
+# Ukraine strikes sanctioned Russian cargo ship Lady Mariia with bomber drones in the Mediterranean.
+
+**The sanctioned Russian-flagged cargo vessel Lady Mariia was reportedly struck by Ukrainian drone-dropped munitions in the Mediterranean on September 6, 2026, near Crete following its departure from Oran, Algeria. Aerial video shows multiple small explosive devices impacting the deck, cranes, and funnel area of the 126.88-meter Ro-Ro ship, starting localized fires without causing major hull penetration or structural failure. The precision strike targeted cargo-handling systems and shipboard infrastructure to disrupt independent heavy-lift logistics without attempting to sink the hull.**
+
+Operating under registered owner MG-Flot LLC, the 7,184-DWT vessel features two 150-ton cranes, 3,942.3 square meters of cargo deck space, and a tank top rated at 10 t/m² for high-density military loads. While claims regarding Iranian armaments and Libyan launch sites remain unconfirmed, the ship was sanctioned by Ukraine in May 2026 for moving weapons between Syria and Russia.
+
+**Related topic: ****Russia arms LNG tanker with heavy machine guns for first time to defy NATO boarding teams in Baltic Sea**
+
+The sanctioned Russian-flagged cargo vessel, Lady Mariia, was severely damaged off Crete by repeated Ukrainian drone strikes targeting its deck equipment and logistics systems. (Picture source: Telegram/Nezvorov)
+
+According to [ Nevzorov](https://t.me/nevzorovtv/36849) on September 6, 2026, the Russian-flagged Ro-Ro cargo ship Lady Mariia (IMO 9220641) was reportedly struck by roughly a dozen Ukrainian UAV-dropped explosive devices near Crete after leaving Oran, Algeria, on September 1. Its last Mediterranean AIS report, on September 6, showed 9.1 knots, course 108.6°, heading 104°, and draught 4.8 m against a 6.7 m maximum, indicating it was not at maximum loaded draught. Video shows small free-falling munitions dropped from bomber drones hitting the deck, cranes, and funnel or stack area, causing fire but no visible major hull penetration, flooding, or structural failure. The strike pattern was therefore better suited to damaging cargo-handling and shipboard equipment than sinking the 126.88 m vessel.
+
+Current claims that the Lady Mariia carried Iranian weapons and armored vehicles, that the UAVs originated in Libya, and that Ukraine conducted the attack remain independently unconfirmed, but are yet plausible. However, the ship itself has an established military logistics role and was sanctioned by Ukraine on May 23, 2026, for transporting weapons and military equipment from Syria to Russia, including through the Bosporus. Built in 2000 at Peene-Werft, the Lady Mariia measures 126.88 m long, 20.19 m wide, and 11.5 m deep, with 8,831 GT, 2,793 NT, 7,184-7,200 DWT, and ice class 1A. Cargo capacity reaches 15,008 m³ for bale cargo, 15,010 m³ for grain, and 623 TEU or 299 FEU, including 24 reefer connections.
+
+Its 3,942.3 m² of cargo area comprises 788.4 m² on the main deck, 1,678.9 m² on the tween deck, and 1,475 m² on the weather deck, representing 20.0%, 42.6%, and 37.4% of the total, respectively. The internal cargo space measures roughly 103 × 16.3 × 6.2 m, with a 91 × 16.3 m main hatch. This combination allows the ship to carry wheeled vehicles, containers, ammunition, machinery, and oversized break-bulk cargo rather than being restricted to one cargo type. The ship is structurally configured for dense loads: its tank top is rated at 10 t/m², against 4.5 t/m² for the tween deck and 1.8 t/m² for the weather deck. Maximum container stack weights are 96 tons in the hold and 45 tons on deck for 20-foot units, and 125 versus 60 tons for 40-foot units. Two 150-ton cranes provide independent heavy-lift capability, although the available specifications do not establish a 300-ton tandem-lift rating.
+
+Combined with Ro-Ro access, this allows dense equipment to be carried low in the hull while vehicles and lighter cargo occupy upper spaces. Damage to the cranes therefore can remove the ship's ability to independently handle heavy loads and force it to use ports with suitable shore cranes. Lady Mariia has operated across a network extending well beyond the Novorossiysk-Tartus military route. Recorded calls include Novorossiysk, Kaliningrad, St. Petersburg, Bronka, Kronshtadt and Seskharis in Russia; Tartus in Syria; Zeytinburnu and Ünye in Turkey; Suez, Alexandria and Sadat in Egypt; Oran and Algiers in Algeria; Zarzis in Tunisia; Marsa El Brega in Libya; Pointe-Noire in Congo; four Indian ports; Sharjah in the UAE; and Thilawa in Myanmar. VesselFinder recorded 27 port calls in 2025, with an average speed of 9.2 knots and a maximum of 12.8 knots.
+
+Its pre-strike speed of 9.1 knots was therefore essentially its normal operating average, equivalent to 218.4 nautical miles per day if maintained. Immediately before the attack, its declared destination was simply "TO ORDER," while previous AIS shutdowns have created gaps in its movement history. MG-Flot LLC has been Lady Mariia's registered owner, commercial manager, and safety-management manager since June 21, 2021. The Russian company, formerly TransMorFlot and registered under IMO company number 6016988, has been associated with a fleet of 21 to 26 ships, including the Lady Mariia. Its military logistics span two separate supply corridors. Across the Caspian, MG-Flot vessels, including Rasul Gamzatov (IMO 8861058), have apparently transported Iranian weapons, ammunition, and UAV components into Russia.
+
+In the Far East, the company has reportedly moved North Korean armaments to Dunai in Primorsky Krai for onward transport toward depots on Russia's western border. Disabling Lady Mariia can therefore disrupt one Ro-Ro and heavy-lift transport asset without eliminating MG-Flot's broader Iranian or North Korean supply networks. The United States sanctioned TransMorFlot and associated vessels in May 2022, while Ukraine sanctioned Lady Mariia on May 23, 2026, specifically for transporting military cargo and weapons between Syria and Russia. MG-Flot has also faced restrictions in the EU, UK, Canada, Australia, Switzerland, France, Belgium, New Zealand, and Ukraine, including measures connected to North Korean armaments and Iranian UAV, missile, weapons, and ammunition transfers.
+
+Yet Lady Mariia remained operational more than four years after the first U.S. measures, calling at St. Petersburg on August 5, 2026, Oran on August 31, and departing Algeria on September 1. The 26-year-old hull has also operated under the names Scan Finlandia, Rickmers Finlandia, BBC Finlandia, BBC Konan, Rio Konan, Ocean Dream, Global Carrier and Stella-Maria, and previously under Isle of Man, German, British and Liberian flags. Sanctions therefore restricted the vessel commercially and financially but had not removed IMO 9220641 from international service. The strike follows a widening Ukrainian campaign against Russian-linked shadow fleet shipping. Sea Baby USVs hit the empty Kairos and Virat on November 29, 2025, with Kairos critically damaged and its 25 crew evacuated.
+
+Aerial UAVs then disabled the empty Qendil between Crete and Malta on December 18, followed by damage to Elbus off Turkey on January 8, 2026. On March 3, Arctic Metagaz, carrying 62,000 tons of LNG, suffered fire, large hull openings, and a severe list southeast of Malta after a Magura V5 reportedly launched near Mellitah struck its engine-room area; all 30 crew survived. WEST Horizon was hit on June 10, while Operation MoLoChKa began July 6 and resulted in Ukrainian claims of more than 100 shadow-fleet vessels struck in the Sea of Azov before expansion into the Black Sea on July 15. Russia has responded by arming at least one strategically important civilian LNG ship.
+
+Gazprom's Marshal Vasilevskiy (IMO 9778313) is a 294.83 m, 118,423-GT, 93,292-DWT LNG carrier and FSRU with four tanks holding 174,000 m³ of LNG, 14 million m³/day regasification throughput and 5 bcm/year capacity, equal to 167-200% of Kaliningrad's annual demand. In May 2026, it was photographed carrying two permanently mounted 12.7×108 mm Kord 6P50 machine guns, each providing direct fire against USVs, RHIBs, boarding teams, and low-altitude drones, in a tentative effort to counter the expanding threat against Russia's merchant and energy shipping.
+
+**Explore More Defense News**
+
+• **Land Defense News**
+
+• **Naval Defense News**
+
+• **Defense Aerospace News**
+
+Written by Jérôme Brahy
+
+Jérôme Brahy is a defense analyst and documentalist at Army Recognition. He specializes in naval modernization, aviation, drones, armored vehicles, and artillery, with a focus on strategic developments in the United States, China, Ukraine, Russia, South Korea, Türkiye, and Belgium. His analyses go beyond the facts, providing context, identifying key actors, and explaining why defense news matters on a global scale.

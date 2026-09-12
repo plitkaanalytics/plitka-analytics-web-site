@@ -1,0 +1,81 @@
+URL:         https://www.globalsecurity.org/wmd/library/news/ukraine/2023/09/ukraine-230923-ukraine-president04.htm
+Кінцевий:    https://www.globalsecurity.org/wmd/library/news/ukraine/2023/09/ukraine-230923-ukraine-president04.htm
+Заголовок:   Weapons of Mass Destruction (WMD)
+Дата публ.:  2023-09-23
+Завантажено: 2026-09-12 14:07 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 17962
+Оригінал:    raw/25-globalsecurity.org-ukraine-230923-ukraine-president04.html
+sha256:      4f99de7db6e9984ad1ba59886668b1065b109cebcce07b454fdbe7ade1f8f40f
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 3
+==============================================================================
+Weapons of Mass Destruction (WMD)
+Do Not Sell My Personal Information
+© 2000-2026 GlobalSecurity.org All rights reserved.
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+President of Ukraine had a meeting with President of the Transitional Sovereign Council of Sudan
+Home
+::
+WMD
+::
+Library
+::
+News
+::
+Ukraine
+::
+2023
+::
+September
+::
+Military
+WMD Menu
+Introduction
+Systems
+Facilities
+Agencies
+Operations
+Countries
+Hot Documents
+News
+Reports
+Policy
+Budget
+Congress
+Links
+Intelligence
+Homeland Security
+Space
+Weapons of Mass Destruction (WMD)
+President of Ukraine had a meeting with President of the Transitional Sovereign Council of Sudan
+In-Depth Coverage
+President of Ukraine
+23 September 2023 - 16:03
+At Shannon Airport (Ireland), President of Ukraine Volodymyr Zelenskyy held an unscheduled meeting with President of the Transitional Sovereign Council of Sudan Abdel Fattah al-Burhan.
+The Head of State expressed gratitude for the consistent support of Ukraine's sovereignty and territorial integrity by Sudan.
+The interlocutors discussed common security challenges, in particular the activities of illegal armed groups financed by Russia.
+Volodymyr Zelenskyy invited Abdel Fattah al-Burhan to support the Grain From Ukraine humanitarian initiative, which aims to supply food to the most vulnerable countries in Africa, and to join the Global Peace Summit.
+The two leaders also discussed possible platforms for intensifying cooperation between Ukraine and the countries of the African continent.
+NEWS
+LETTER
+Join the GlobalSecurity.org mailing list
+Enter Your Email Address
+Do Not Sell My Personal Information
+Advertise with Us
+|
+About Us
+|
+Site Map
+|
+Privacy
+Copyright
+© 2000-2026 GlobalSecurity.org All rights reserved.
+Site maintained by:
+John Pike
+Privacy Manager

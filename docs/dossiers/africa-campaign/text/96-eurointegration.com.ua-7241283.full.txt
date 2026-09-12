@@ -1,0 +1,139 @@
+URL:         https://www.eurointegration.com.ua/eng/news/2026/07/9/7241283/
+Кінцевий:    https://www.eurointegration.com.ua/eng/news/2026/07/9/7241283/
+Заголовок:   Media: Ukraine tells Greece Russian vessels remain a target
+Дата публ.:  2026-07-09
+Завантажено: 2026-09-12 14:20 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 30947
+Оригінал:    raw/96-eurointegration.com.ua-7241283.html
+sha256:      a2438117144b5486d907d759fd9b76182a38589df00f2badc42497c3a601d369
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 20
+==============================================================================
+Media: Ukraine tells Greece Russian vessels remain a target | European Pravda
+Aligning Ukraine and EU since 2014
+If you notice an error, select the required text and press Ctrl + Enter to report it to the editors.
+EU dismisses false Russian claim that it wants Ukraine to mobilise women
+More than 50% of Ukrainian refugees in Poland plan to return to Ukraine
+Ukraine urges Poland to respond to damaged UPA monument
+EU insists that it still does not know Ukraine's needs for additional funding
+Marine Le Pen’s secret weapon: why three presidential losses have not stopped her rise
+Le Pen's advantage is not that France has embraced her, but that the old machinery for stopping her has weakened.
+Timothy Snyder: how US failed after 9/11 and what Ukraine should learn from its mistakes
+What is most obviously terroristic is the daily launch of drones and missiles targeting Ukrainian civilians.
+Russian technologies inside the EU: Is Germany ignoring the risks of cooperation with Rosatom?
+Is it worth creating a long-term dependence on Russian technology in critical infrastructure if the EU’s strategic goal is to move in the opposite direction?
+4 September 2026 — Mykhailo Babiichuk, DiXi Group
+Entity in the field of online media; media identifier - R40-02162.
+editors@eurointegration.com.ua
+News at our website are free-to-republish with a link (hyperlink) to
+Longread articles, interviews and op-eds can be republished in full only on written permission. All content posted on this website with reference to the
+news agency are not subject to further reproduction and/or distribution in any form, except with the written permission of the "Interfax-Ukraine" news agency.
+This website was created with the support of international donors. Its content is the exclusive responsibility of the authors and does not necessarily reflect the views of the donors.
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Media: Ukraine tells Greece Russian vessels remain a target | European Pravda
+Українська правда
+Політика
+Економіка
+Європа
+Форум
+Блоги
+Історична правда
+Життя
+Чемпіон
+ТаблоID
+Mezha
+Доступ
+Укр
+Рус
+Eng
+European Pravda
+Aligning Ukraine and EU since 2014
+News
+Long-reads
+Interviews
+In Brief
+Search
+About Us / Donate
+War with Russia
+7241283
+News
+Long-reads
+Interviews
+In Brief
+Search
+About Us / Donate
+War with Russia
+Media: Ukraine tells Greece Russian vessels remain a target
+Thursday, 9 July 2026 —
+Iryna Kutielieva
+Ukraine has told Greece that it will continue striking Russian vessels on the open sea, citing its right to self-defence under the UN Charter.
+As reported by
+Euractiv
+, the move is reportedly causing controversy following the recent discovery of a Ukrainian naval drone carrying 100 kg of explosives near the Greek island of Lefkada in the Ionian Sea.
+According to diplomatic sources in Athens, intelligence gathered by Kyiv suggests the drone's target was a Russian tanker in the Mediterranean Sea.
+The issue resurfaced earlier this week after Russian government-aligned pranksters Vovan and Lexus – Vladimir Kuznetsov and Alexei Stolyarov – carried out a prank call with Thanos Dokos, the national security adviser to the Greek prime minister.
+The drone incident prompted a strong reaction from Athens, which demanded an apology from Kyiv and guarantees that such an incident will not be repeated, in order to prevent the Mediterranean from becoming a theatre of war.
+Greece has issued three diplomatic démarches to Kyiv over the incident.
+Ukraine
+formally apologised
+for the incident, stressing that it was the result of circumstances caused by Russia's aggression against Ukraine.
+Unofficially, however, Kyiv has made clear it has no intention of holding back from attacks on Russian vessels in the Mediterranean.
+During several in-person meetings held since the 7 May incident, Ukrainian diplomats said Kyiv will continue striking Russian tankers on the open sea under its right to self-defence in accordance with Article 51 of the UN Charter, diplomatic sources in Athens said.
+The Ukrainian side referred to the 1996 Treaty of Friendship between the two countries, under which they are obliged to hold consultations should such a situation arise.
+"Should a situation arise that could pose a threat to, or jeopardise, international peace and order, the Parties shall enter into immediate consultations in order to assess the situation," the agreement states.
+Ukraine said Athens has failed to comply with this provision, and pointed out that the issue was excessively politicised in the Greek media before any preliminary consultations were held with Kyiv.
+In early June, a naval drone (a Kozak Mamai model, according to Greek media) was discovered by fishermen near the island of Lefkada after it
+apparently suffered a remote-control malfunction
+.
+It was reportedly carrying 100 kg of explosives.
+Athens has warned it will not allow the Mediterranean to become a theatre of war. In May, Greek Defence Minister Nikos Dendias said "
+Ukraine owes us a very big apology
+".
+If you notice an error, select the required text and press Ctrl + Enter to report it to the editors.
+War with Russia
+Advertisement:
+Advertisement:
+News
+EU dismisses false Russian claim that it wants Ukraine to mobilise women
+11 September 2026
+POLL
+More than 50% of Ukrainian refugees in Poland plan to return to Ukraine
+11 September 2026
+Ukraine urges Poland to respond to damaged UPA monument
+11 September 2026
+EU insists that it still does not know Ukraine's needs for additional funding
+11 September 2026
+Long-reads and interviews
+Marine Le Pen’s secret weapon: why three presidential losses have not stopped her rise
+Le Pen's advantage is not that France has embraced her, but that the old machinery for stopping her has weakened.
+11 September 2026 —
+Charlotte Guillou-Clerc
+, for European Pravda
+Timothy Snyder: how US failed after 9/11 and what Ukraine should learn from its mistakes
+What is most obviously terroristic is the daily launch of drones and missiles targeting Ukrainian civilians.
+11 September 2026 —
+Timothy Snyder
+, Project Syndicate
+Russian technologies inside the EU: Is Germany ignoring the risks of cooperation with Rosatom?
+Is it worth creating a long-term dependence on Russian technology in critical infrastructure if the EU’s strategic goal is to move in the opposite direction?
+4 September 2026 — Mykhailo Babiichuk, DiXi Group
+European Pravda
+© 2014-2026,
+European Pravda
+, eurointegration.com.ua
+Entity in the field of online media; media identifier - R40-02162.
+e-mail:
+editors@eurointegration.com.ua
+News at our website are free-to-republish with a link (hyperlink) to
+European pravda
+("Європейська правда").
+Longread articles, interviews and op-eds can be republished in full only on written permission. All content posted on this website with reference to the
+"Interfax-Ukraine"
+news agency are not subject to further reproduction and/or distribution in any form, except with the written permission of the "Interfax-Ukraine" news agency.
+This website was created with the support of international donors. Its content is the exclusive responsibility of the authors and does not necessarily reflect the views of the donors.

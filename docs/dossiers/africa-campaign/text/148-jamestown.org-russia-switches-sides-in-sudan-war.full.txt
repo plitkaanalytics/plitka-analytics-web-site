@@ -1,0 +1,228 @@
+URL:         https://jamestown.org/russia-switches-sides-in-sudan-war/
+Кінцевий:    https://jamestown.org/russia-switches-sides-in-sudan-war/
+Заголовок:   Russia Switches Sides in Sudan War - Jamestown
+Дата публ.:  2024-07-08
+Завантажено: 2026-09-12 18:56 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 194086
+Оригінал:    raw/148-jamestown.org-russia-switches-sides-in-sudan-war.html
+sha256:      b1596760ec4ec986949a24bc4422b5120715914af8b058b1f9ae06f835a149c0
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 13
+==============================================================================
+Russia Switches Sides in Sudan War - Jamestown
+Russian Black Sea Fleet Intrudes Bulgarian Waters, Harasses Turkish Grain Freighter
+Russia’s Combat Losses in Ukraine Deduced From Rosstat’s ‘Unassigned Deaths’ Category
+Russia Exhausts Soviet-Era Arms Storage Bases
+Rosoboronexport’s International Arms Sales Status Uncertain
+Lessons Learned From Russia’s War Against Ukraine: The Case of Lithuania
+(Source: Lithuanian Ministry of Defense)
+Russia Sustaining War Machine Despite Western Sanctions
+We use cookies to enhance your browsing experience, serve personalized ads or content, and analyze our traffic. By clicking "Accept All", you consent to our use of cookies.
+This website uses cookies so that we can provide you with the best user experience possible. Cookie information is stored in your browser and performs functions such as recognising you when you return to our website and helping our team to understand which sections of the website you find most interesting and useful.
+Strictly Necessary Cookie should be enabled at all times so that we can save your preferences for cookie settings.
+This website uses Google Analytics to collect anonymous information such as the number of visitors to the site, and the most popular pages.
+Keeping this cookie enabled helps us to improve our website.
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Russia Switches Sides in Sudan War - Jamestown
+Skip to content
+China Brief
+Eurasia Daily Monitor
+Terrorism Monitor
+Subscribe
+Account
+Donate
+About Us
+Who We Are
+Our Team
+History
+Careers
+Funding
+Publications
+China Brief
+China Brief Notes
+Eurasia Daily Monitor
+Terrorism Monitor
+Militant Leadership Monitor
+Issue Briefs
+Jamestown Perspectives
+Projects
+Black Sea
+Commentaries
+Guardians of the Belt
+New Versus Old
+Topics
+Military & Security
+Foreign Policy
+Information Warfare
+Economics & Energy
+Politics & Society
+Technology
+Media
+Foundation Updates
+Mentions
+Books
+Events
+Technology
+Politics & Society
+Economics & Energy
+Information Warfare
+Foreign Policy
+Military & Security
+Russia Switches Sides in Sudan War
+Foreign Policy
+Publication
+Eurasia Daily Monitor
+Russia
+Volume 21 Issue 102
+07.08.2024
+Andrew McGregor
+Top Stories
+Russian Black Sea Fleet Intrudes Bulgarian Waters, Harasses Turkish Grain Freighter
+Foreign Policy
+Russia’s Combat Losses in Ukraine Deduced From Rosstat’s ‘Unassigned Deaths’ Category
+Military & Security
+Russia Exhausts Soviet-Era Arms Storage Bases
+Military & Security
+Russia Switches Sides in Sudan War
+Executive Summary:
+The Kremlin has reconsidered its support for the Sudanese Rapid Support Forces, throwing more weight behind the Sudan Armed Forces (SAF) and Transitional Sovereignty Council.
+The move serves to align Moscow’s position more closely with that of Iran, seeks to dampen the SAF’s cooperation with Ukraine, and highlights the ongoing interest in establishing a Russian naval base in Port Sudan.
+Should Russia possess naval bases in both Libya and Sudan, it will have an opportunity to establish supply lines into the landlocked nations of the African interior that now host units of Moscow’s Africa Corps.
+The Kremlin is backing away from its support of the Sudanese Rapid Support Forces (RSF) in Sudan’s ongoing internal war. Russian Deputy Foreign Minister Mikhail Bogdanov confirmed Moscow’s gradual shift on April 29 during a visit to Port Sudan (
+Sudan Tribune
+, April 29). Russia once saw RSF leader Muhammad Hamdan Daglo “Hemetti” as vital to establishing a Russian port on the Red Sea in Port Sudan (see
+EDM
+, November 14, 2023). The situation has since changed. Before his death, notorious Wagner Group chief Yevgeny Prigozhin worked closely with the RSF, supplying arms in return for gold (see
+Terrorism Monitor
+, December 15, 2023). Simultaneously, however, the Kremlin maintained open channels with their opposition, the Sudan Armed Forces (SAF) and the Transitional Sovereignty Council (TSC) government. Moscow is now exploiting these openings.
+Supporting the SAF and TSC, with control over Port Sudan, aligns Russian policy with Iran’s. For its part, Tehran has been supplying advanced drones to the SAF. The switch also helps sever the SAF’s relationship with Ukraine, which has been supplying drones and special forces assistance to General Abdel al-Fatah al-Burhan’s SAF since the summer of 2023 (
+Kyiv Independent
+, September 20, 2023; see
+EDM
+, November 14, 2023).
+Bogdanov confirmed the Kremlin’s shift during his two-day visit to Port Sudan (
+Sudan Tribune
+, April 29). His military-heavy delegation offered Sudan “unrestricted qualitative military aid” while disapproving of Sudan’s military cooperation with Ukraine (
+Sudan Tribune
+, April 30). Bogdanov later clarified that Russia recognizes the TSC as the legitimate representative of the Sudanese people (
+Al-Mayadeen
+, May 31). The Russian official had met with Iranian Deputy Prime Minister Ali Bagheri Kani two days earlier in an apparent effort to align the Kremlin’s new approach with that of Tehran (
+Nour News
+, April 25).
+Some reports have claimed that operatives of the “Timur” unit of Ukraine’s Main Directorate of Intelligence (GUR) have been active in Sudan. While the leader of the unit neither confirms nor denies their presence, he declared, “Wherever there are soldiers, officers, or persons engaged by the special services of the Russian Federation, we catch up with them” (
+Ukrainska Pravda
+, February 13;
+New Arab
+, February 26). Ukrainian sources have reported months-long operations carried out in Sudan by Ukrainian special forces against “Russian mercenaries and their local terrorist partners” (
+Kyiv Post
+, January 30). Sources suggested that, during Bogdanov’s April visit, Sudan pledged to abandon military cooperation with the Ukrainians, while Russia agreed likewise to halt assistance to the RSF (
+Mada Madr
+, June 7).  The RSF has steadily become reliant on support from the United Arab Emirates in the face of diminishing Russian supplies since Prigozhin’s death.
+Kyiv likely sought to interrupt the RSF-assisted flow of Sudanese gold that was helping Russia overcome international sanctions. In changing support from the RSF to the SAF, Moscow would temporarily forgo the gold shipments that have helped the Russian economy. The diminishing size of these shipments due to Sudan’s conflict, however, removes much of Russia’s incentive to continue supporting the RSF. Meanwhile, the Libyan port of Tobruk is effectively becoming a Russian naval base (see
+EDM
+, March 12). Should Russia possess naval bases in both Libya and Sudan, it will have an opportunity to establish supply lines into the landlocked nations of the African interior that now host units of Moscow’s Africa Corps.
+Moscow is eager to implement a 2019 deal with Sudan to establish a Russian Red Sea naval base near Port Sudan capable of accommodating up to four ships at a time, including those with a nuclear power plant. Progress has been halted, however, due to the ongoing absence of a parliament or other legislative body in Sudan capable of ratifying the agreement (
+Military Review
+, February 13).
+On May 25, Yasir al-Atta, a member of the Sovereignty Council and deputy commander of the army, declared that the TSC was ready to approve the deal, though the port was no longer described as a naval base. He stated, “Russia proposed military cooperation through a logistics supply center, not a full military base, in exchange for urgent supplies of weapons and ammunition” (
+Radio Dabanga
+, May 29;
+Mada Madr
+, June 7). While Atta said a partnership agreement with Russia was expected soon, he stressed that Sudan was open to similar agreements with countries including Egypt, Saudi Arabia, and the United States. Riyadh, which opposes the Russian port, has offered greater investment in Sudan if it drops the deal (
+Sudan Tribune
+, May 25).
+The Sudanese ambassador to Russia has assured Moscow that Sudan is not backing away from its commitment to construct a Russian naval base. Yet, Bogdanov confirmed on June 12 that while discussions on the port continued, “there are no firm agreements at this time” (
+Sputnik
+, June 1;
+Sudan Tribune
+, June 12). Many civilian leaders in Sudan question the TSC and the SAF’s right to implement an agreement with sovereignty implications. They also fear that the arrival of Russian military aid might only prolong the devastating conflict (
+Mada Madr
+, June 7).
+Sudan may be looking to the Djibouti for-profit model of hosting naval bases for various countries. Jibril Ibrahim, Sudan’s finance minister (also the leader of Darfur’s rebel Justice and Equality Movement, now allied to the SAF), recently characterized the proposed Russian facility as “not a large base, but rather a service center for Russian ships to obtain supplies.” He added that Sudan’s Red Sea coast could “accommodate everyone if the United States wants to buy a similar port” (
+Asharq al-Awsat
+, June 8).
+TSC leaders in Port Sudan may be using the extended negotiations with the Kremlin as a means of focusing Western attention on the conflict and the need to interrupt the supply of weapons and personnel to the RSF. Sudan routinely says its cooperation with Russia and Iran is unavoidable without Western support (
+Sudan Tribune
+, May 3). Otherwise, the degree of military cooperation between Sudan and Russia will depend greatly on how badly the politicians and generals in Port Sudan seek potentially game-changing Russian arms.
+Related Articles
+Rosoboronexport’s International Arms Sales Status Uncertain
+09.08.2026
+John C. K. Daly
+Military & Security
+(Source: Tekhnosfera Rossiya)
+Lessons Learned From Russia’s War Against Ukraine: The Case of Lithuania
+08.18.2026
+Eitvydas Bajarūnas
+Military & Security
+(Source: Lithuanian Ministry of Defense)
+Russia Sustaining War Machine Despite Western Sanctions
+07.29.2026
+Taras Kuzio
+Military & Security
+(Source: Getty Images)
+1310 L St. NW, Suite 810,
+Washington DC, 20005
+Phone:
++1 202 483 8888
+Email:
+pubs@jamestown.org
+Quick Links
+Who We Are
+Our Team
+Events
+Funding
+Foundation Updates
+Contact Us
+Publications
+China Brief Notes
+China Brief
+Eurasia Monitor
+Terrorism Monitor
+Militant Leadership Monitor
+Jamestown Perspectives
+Topics
+Military & Security
+Foreign Policy
+Information Warfare
+Economics & Energy
+Politics & Society
+Technology
+Projects
+Black Sea
+Commentaries
+Guardians of the Belt
+New Versus Old
+Privacy Policy
+© 2026 Jamestown
+Design by Cast from Clay
+We use cookies to enhance your browsing experience, serve personalized ads or content, and analyze our traffic. By clicking "Accept All", you consent to our use of cookies.
+Accept all
+Reject all
+Customize
+Close GDPR Cookie Settings
+Privacy Overview
+Strictly Necessary Cookies
+Analytics
+Powered by
+GDPR Cookie Compliance
+Privacy Overview
+This website uses cookies so that we can provide you with the best user experience possible. Cookie information is stored in your browser and performs functions such as recognising you when you return to our website and helping our team to understand which sections of the website you find most interesting and useful.
+Strictly Necessary Cookies
+Strictly Necessary Cookie should be enabled at all times so that we can save your preferences for cookie settings.
+Enable or Disable Cookies
+Enabled
+Disabled
+Analytics
+This website uses Google Analytics to collect anonymous information such as the number of visitors to the site, and the most popular pages.
+Keeping this cookie enabled helps us to improve our website.
+Enable or Disable Cookies
+Enabled
+Disabled
+Enable All
+Save Settings

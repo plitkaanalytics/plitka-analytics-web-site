@@ -156,6 +156,17 @@ The sanctioned russian](https://x.com/midobecker_1/status/2096699086753706092) |
 | 145 | [У Середземному морі дрони атакували підсанкційне російське судно — ана](https://nv.ua/ukr/world/geopolitics/droni-atakuvali-rosiyske-pidsankciyne-sudno-lady-mariia-bilya-kritu-shcho-vidomo-foto-i-video-50638961.html) | 2026-09-06 | прочитано | 2521 | ? | `text/145-nv.ua-droni-atakuvali-rosiyske-pidsankciyne-sudno-lady-mariia-bilya-kr.txt` |
 | 146 | [Підсанкційний корабель РФ атакований невідомими БПЛА у Середземному мо](https://vesti-ua.net/uk/news/world/289031-pdsankcyniy-korabel-rf-atakovaniy-nevdomimi-bpla-u-seredzemnomu-mor.html) | 2026-09-06 | прочитано | 8543 | ? | `text/146-vesti-ua.net-289031-pdsankcyniy-korabel-rf-atakovaniy-nevdomimi-bpla-u.txt` |
 | 147 | [Лівійський фронт війни з Москвою, або українські дрони біля середземно](https://enovosty.com/uk/service-ukr/topnews-ukr/full/livijskij-front-vijni-z-moskvoyu-abo-ukrainski-droni-bilya-seredzemnomorskix-beregiv-afriki) | 2026-04-06 | прочитано | 12612 | ? | `text/147-enovosty.com-livijskij-front-vijni-z-moskvoyu-abo-ukrainski-droni-bily.txt` |
+| 148 | [Russia Switches Sides in Sudan War - Jamestown](https://jamestown.org/russia-switches-sides-in-sudan-war/) | 2024-07-08 | прочитано | 9379 | ? | `text/148-jamestown.org-russia-switches-sides-in-sudan-war.txt` |
+| 149 | [Drone Attacks on Port Sudan Jeopardize Plan for Russian Red Sea Naval ](https://jamestown.org/drone-attacks-on-port-sudan-jeopardize-plan-for-russian-red-sea-naval-base/) | 2025-05-28 | прочитано | 13010 | ? | `text/149-jamestown.org-drone-attacks-on-port-sudan-jeopardize-plan-for-russian-.txt` |
+| 150 | [Airport in Libya Used to Route Weapons to Sudan - Africa Defense Forum](https://adf-magazine.com/2026/02/airport-in-libya-used-to-route-weapons-to-sudan/) | 2026-02-03 | прочитано | 4644 | ? | `text/150-adf-magazine.com-airport-in-libya-used-to-route-weapons-to-sudan.txt` |
+| 151 | [Russian aircraft spotted flying from Libya’s Kufra to RSF-controlled a](https://libyaobserver.ly/news/russian-aircraft-spotted-flying-libyas-kufra-rsf-controlled-areas-sudan) | 2025-07-17 | прочитано | 4968 | ? | `text/151-libyaobserver.ly-russian-aircraft-spotted-flying-libyas-kufra-rsf-cont.txt` |
+| 152 | [Russia continues to send arms to Sudanese militia through Libya Maghre](https://maghrebi.org/2025/07/19/russia-continues-to-send-arms-to-sudanese-militia-through-libya/) | 2025-07-19 | прочитано | 11445 | ? | `text/152-maghrebi.org-russia-continues-to-send-arms-to-sudanese-militia-through.txt` |
+| 153 | [Russia moves to play both sides in Sudan war](https://www.middleeasteye.net/news/russia-sudan-war-saf-rsf-hedges-bets-both-sides-support) | 2024-05-06 | прочитано | 11288 | ? | `text/153-middleeasteye.net-russia-sudan-war-saf-rsf-hedges-bets-both-sides-supp.txt` |
+| 154 | [Khartoum Gave Weapons to Kyiv so Zelensky Sent Ukrainian Special Force](https://www.kyivpost.com/post/29106) | 2024-03-06 | прочитано | 3736 | ? | `text/154-kyivpost.com-29106.txt` |
+| 155 | [Putin’s African Naval Dream Sinks: Sudan War Halts Russia’s Red Sea Ba](https://www.kyivpost.com/post/63969) | 2025-11-10 | прочитано | 4489 | ? | `text/155-kyivpost.com-63969.txt` |
+| 156 | [Proxy Battlespaces: A New Perspective on Ukraine’s Use of Special Oper](https://interpopulum.org/proxy-battlespaces-a-new-perspective-on-ukraines-use-of-special-operations-forces-in-syria-sudan-and-mali/) | 2026-01-13 | прочитано | 86650 | ? | `text/156-interpopulum.org-proxy-battlespaces-a-new-perspective-on-ukraines-use-.txt` |
+| 157 | [Why are Ukrainian special forces fighting in Sudan’s war?](https://www.newarab.com/analysis/why-are-ukrainian-special-forces-fighting-sudans-war) | 2024-02-26 | прочитано | 7178 | ? | `text/157-newarab.com-why-are-ukrainian-special-forces-fighting-sudans-war.txt` |
+| 158 | [403 Forbidden](https://www.ispionline.it/en/publication/expanding-influence-russias-involvement-in-sudan-amid-the-war-in-ukraine-238002) | — | HTTP 403 — НЕ ПРОЧИТАНО | 37 | ? | `text/158-ispionline.it-expanding-influence-russias-involvement-in-sudan-amid-th.txt` |
 
 ## Проблемні джерела
 
@@ -182,6 +193,9 @@ The sanctioned russian](https://x.com/midobecker_1/status/2096699086753706092) |
 - **№127** https://www.wsj.com/world/africa/dozens-of-russian-mercenaries-killed-in-attack-in-mali-3de51b36 — оригінал недоступний (401), узято з Wayback
 - **№129** https://www.wsj.com/world/ukraine-is-now-fighting-russia-in-sudan-87caf1d8 — оригінал недоступний (401), узято з Wayback
 - **№131** https://www.reuters.com/world/ukraines-zelenskiy-meets-sudanese-leader-discusses-russian-paramilitaries-2023-09-23/ — оригінал недоступний (401), узято з Wayback
+- **№150** https://adf-magazine.com/2026/02/airport-in-libya-used-to-route-weapons-to-sudan/ — оригінал недоступний (200), узято з Wayback
+- **№157** https://www.newarab.com/analysis/why-are-ukrainian-special-forces-fighting-sudans-war — оригінал недоступний (403), узято з Wayback
+- **№158** https://www.ispionline.it/en/publication/expanding-influence-russias-involvement-in-sudan-amid-the-war-in-ukraine-238002 — оригінал 403; знімка немає в Wayback
 
 ---
 

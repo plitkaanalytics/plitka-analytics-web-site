@@ -1,0 +1,50 @@
+URL:         https://kyivindependent.com/ukraine-russia-waging-shadow-war-in-libya-rfi-reports/
+Кінцевий:    https://kyivindependent.com/ukraine-russia-waging-shadow-war-in-libya-rfi-reports/
+Заголовок:   Ukraine, Russia waging shadow war in Libya, RFI reports
+Дата публ.:  2026-04-03
+Завантажено: 2026-09-12 14:14 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 262497
+Оригінал:    raw/67-kyivindependent.com-ukraine-russia-waging-shadow-war-in-libya-rfi-repo.html
+sha256:      cf8d7a9b53273d0ebaf4a3814f539b7560e3ab6b619ec3b40d8ffe2f3c22223e
+Витяг:       trafilatura
+
+==============================================================================
+Ukrainian military personnel have been deployed to western Libya, Radio France Internationale (RFI) reported on April 3 as part of an investigation into Kyiv and Moscow's proxy war in African nations.
+
+The claim comes after [Russia](https://kyivindependent.com/tag/russia/) accused Ukraine of attacking a Russian shadow fleet tanker, the [Arctic Metagaz](https://kyivindependent.com/russian-tanker-reportedly-on-fire-in-mediterranean-sea-media-reports/), off the coast of Libya on March 3. 
+
+Ukraine has stationed hundreds of troops in Libya, RFI [reported](https://www.rfi.fr/fr/afrique/20260402-exclusif-rfi-ces-militaires-ukrainiens-présents-dans-l-ouest-libyen), citing "highly informed" Libyan sources. Military personnel are based in multiple locations and are reportedly operating in cooperation with the government in Tripoli. 
+
+The Ukrainian military is also responsible for striking the Arctic Metagaz with [naval drones](https://kyivindependent.com/tag/magura-drone/), according to RFI. 
+
+The Kyiv Independent has reached out to the Ukrainian government for comment on these claims, but has not yet received a response.
+
+### read also
+
+According to RFI's sources, around 200 Ukrainian officers and other experts are currently based in Libya. They are stationed at the Air Force Academy in the northwestern city of Misrata, which hosts personnel from the United States Africa Command (AFRICOM) as well as a U.K. intelligence center.
+
+Ukrainian troops also reportedly have access to a launch site for aerial and naval drones near the Mellitah Oil and Gas Complex, one of the largest energy facilities in the country.
+
+Libyan and Ukrainian troops also liaise with one another at the headquarters of the Libyan military's 111th Brigade, located en route to Tripoli Airport.
+
+The Ukrainian military's presence in Libya dates back to an agreement signed between Kyiv and Tripoli in October 2025, sources told RFI. Under the agreement, Ukraine will offer Libya training in drone operations, investment in the country's oil sector, and a promise of future arms sales in exchange for establishing troops in Libya.
+
+Neither Libyan nor Ukrainian officials have publicly confirmed the deal, and the Kyiv Independent could not verify RFI's reporting at the time of publication.
+
+Moscow, meanwhile, also maintains a military presence in Libya through the [Africa Corps](https://kyivindependent.com/russia-pushes-to-replace-wagner-with-africa-corps-in-car/) — a paramilitary group controlled by the Russian Defense Ministry. The corps was established as part of the Kremlin's broader effort to centralize control over foreign military operations once handled by the [Wagner Group](https://kyivindependent.com/tag/wagner-group/).
+
+Russian-controlled African Corps troops reportedly [operate](https://bisi.org.uk/reports/the-expansion-of-russias-africa-corps-in-libya) in southern and eastern Libya, in cooperation with General Khalifa Haftar, the de facto military dictator of eastern Libya who opposes the internationally recognized government in Tripoli. 
+
+In October 2025, Moscow [accused](https://tanzaniatimes.net/russia-accuses-libya-of-colluding-with-ukraine-in-staging-terrorism-attacks-across-africa/) Libya's Prime Minister Abdul Hamid Dbeibeh of supporting "Ukrainian groups" in coordination with U.K. intelligence. 
+
+The attack on the Arctic Metagaz drew further outrage from the Kremlin. The Russian-flagged tanker was transporting liquefied natural gas (LNG) when it caught fire in the Mediterranean Sea, with its crew safely recovered aboard a lifeboat within Libya's search-and-rescue zone.
+
+The vessel belongs to Russia's shadow fleet, consisting of ships that rely on opaque ownership, flags of convenience, and irregular shipping practices to move Russian oil despite Western sanctions.
+
+Sources told RFI that the tanker was struck by a Ukrainian [Magura V5](https://kyivindependent.com/ukraines-magura-naval-drones/) naval drone launched from the base in Mellitah.
+
+Earlier, in December 2025, Kyiv [struck](https://kyivindependent.com/ukrainian-drone-strike-hits-russias-shadow-fleet-tanker-in-mediterranean-sea-for-the-first-time-source-says/) a Russian tanker in the Mediterranean Sea for the first time. A source in Ukraine's Security Service (SBU) told the Kyiv Independent that the shadow fleet vessel QENDIL was struck in neutral waters more than 2,000 kilometers from Ukraine.
+
+RFI reported that the attack was launched from Misrata and that the QENDIL was struck 250 kilometers off the Libyan coast.
+
+### read also

@@ -1,0 +1,23 @@
+URL:         https://x.com/mdnGovDz/status/2069124571920286063
+Кінцевий:    https://api.fxtwitter.com/status/2069124571920286063
+Заголовок:   mdnGovDz: 📌التعاون العسكري الجزائري-الروسي / توقف مفرزة تابعة للأسطول الروسي لبحر الشمال ب
+Дата публ.:  Mon Jun 22 18:25:15 +0000 2026
+Завантажено: 2026-09-12 14:26 UTC
+HTTP:        200   Тип: application/json   Байтів: 5219
+Оригінал:    raw/135-x.com-2069124571920286063.json
+sha256:      ddc881fdfa9a874e72b980dde0826905da791dfc84f8198ace7808988fd3acae
+Витяг:       fxtwitter
+
+==============================================================================
+Автор: وزارة الدفاع الوطني الجزائرية (@mdnGovDz)
+Дата: Mon Jun 22 18:25:15 +0000 2026
+
+📌التعاون العسكري الجزائري-الروسي / توقف مفرزة تابعة للأسطول الروسي لبحر الشمال بميناء وهران بالناحية العسكرية الثانية
+
+في إطار تجسيد برنامج التعاون العسكري الجزائري –الروسي، رست اليوم الإثنين 22 جوان 2026، المفرزة التابعة للأسطول الروسي لبحر الشمال المكونة من الفرقاطة "Admiral de la flotte Kasatonov" وناقلة الوقود المتوسطة "Akademik Pashin"، في توقف يدوم 04 أيام.
+
+#وزارة_الدفاع_الوطني_الجزائرية
+[медіа: photo https://pbs.twimg.com/media/HLcBzIHXIAANns7.jpg?name=orig]
+[медіа: photo https://pbs.twimg.com/media/HLcBzH5WMAEEub6.jpg?name=orig]
+[медіа: photo https://pbs.twimg.com/media/HLcBzH9WUAAiROz.jpg?name=orig]
+[медіа: photo https://pbs.twimg.com/media/HLcBzILWUAAmo95.jpg?name=orig]

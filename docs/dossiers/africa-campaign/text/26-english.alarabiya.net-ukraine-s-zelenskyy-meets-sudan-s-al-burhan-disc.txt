@@ -1,0 +1,33 @@
+URL:         https://english.alarabiya.net/News/world/2023/09/23/Ukraine-s-Zelenskyy-meets-Sudan-s-al-Burhan-discusses-Russian-paramilitaries
+Кінцевий:    https://web.archive.org/web/20231210135241id_/https://english.alarabiya.net/News/world/2023/09/23/Ukraine-s-Zelenskyy-meets-Sudan-s-al-Burhan-discusses-Russian-paramilitaries
+Заголовок:   Ukraine’s Zelenskyy meets Sudan’s al-Burhan, discusses Russian paramilitaries
+Дата публ.:  2023-09-23
+Завантажено: 2026-09-12 14:08 UTC
+HTTP:        200   Тип: text/html;charset=UTF-8   Байтів: 134055
+Оригінал:    raw/26-english.alarabiya.net-ukraine-s-zelenskyy-meets-sudan-s-al-burhan-disc.html
+sha256:      4fb6e5739a74fd8d794c5499f9dd9fa844db537ef1e57f09f894de8de1b6e6a6
+Витяг:       trafilatura
+Примітка:    оригінал недоступний (403), узято з Wayback
+
+==============================================================================
+[AlArabiya](/)
+
+# Ukraine’s Zelenskyy meets Sudan’s al-Burhan, discusses Russian paramilitaries
+
+Ukrainian President Volodymyr Zelenskyy said on Saturday he held an impromptu meeting in Ireland’s Shannon airport with the head of the Sudanese Sovereign Council, Abdel Fattah al-Burhan, and that they discussed Russia-funded armed groups.
+
+              
+
+“We discussed our common security challenges, namely the activities of illegal armed groups financed by Russia,” Zelenskyy wrote on Telegram.
+
+              
+
+He thanked Sudan, which is currently in the midst of a deadly [civil war](https://english.alarabiya.net/News/north-africa/2023/09/23/Sudan-s-army-chief-says-he-favors-negotiated-settlement-to-war), for its support of Ukraine’s territorial integrity.[For all the latest headlines follow our Google News channel online or via the app.](https://news.google.com/publications/CAAqBwgKMOnQlwswi_quAw?oc=3&ceid=US:en&hl=en-US&gl=US)              
+
+Russia’s Wagner mercenary group has operated in Ukraine throughout Moscow’s invasion. Western diplomats and media have said the group is also present in Sudan, although [Wagner denied this](https://english.alarabiya.net/News/world/2023/04/19/Russia-s-private-Wagner-Group-denies-it-is-operating-in-Sudan). **Read more:**
+
+[Kyiv breaks through Russian lines in south: General](https://english.alarabiya.net/News/world/2023/09/23/Kyiv-breaks-through-Russian-lines-in-south-General)
+
+[More than 1,200 children died in war-torn Sudan’s camps since May: UN](https://english.alarabiya.net/News/north-africa/2023/09/19/More-than-1-200-children-died-in-war-torn-Sudan-s-camps-since-May-UN-)
+
+[Sudan’s army chief warns UN of potential regional spillover from ongoing conflict](https://english.alarabiya.net/News/north-africa/2023/09/22/Sudan-s-army-chief-warns-UN-of-potential-regional-spillover-from-ongoing-conflict)

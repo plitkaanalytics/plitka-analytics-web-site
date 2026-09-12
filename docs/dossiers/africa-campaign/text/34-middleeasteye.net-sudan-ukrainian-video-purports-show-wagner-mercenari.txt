@@ -1,0 +1,53 @@
+URL:         https://www.middleeasteye.net/news/sudan-ukrainian-video-purports-show-wagner-mercenaries-captued-country
+Кінцевий:    https://www.middleeasteye.net/news/sudan-ukrainian-video-purports-show-wagner-mercenaries-captued-country
+Заголовок:   Sudan: Video claims to show Ukrainian special forces hunting down Wagner mercenaries
+Дата публ.:  2024-02-06
+Завантажено: 2026-09-12 14:09 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 54012
+Оригінал:    raw/34-middleeasteye.net-sudan-ukrainian-video-purports-show-wagner-mercenari.html
+sha256:      5c3cfac65efbd1fc856700d6781382e72e082a11c77a7c61f765fbc4b1445514
+Витяг:       trafilatura
+
+==============================================================================
+# Sudan: Video claims to show Ukrainian special forces hunting down Wagner mercenaries
+
+
+A [Ukrainian ](https://www.middleeasteye.net/tags/ukraine)outlet has released video footage purporting to show an interrogation of captured [Wagner Group](https://www.middleeasteye.net/topics/wagner-group) mercenaries by Ukrainian special forces in [Sudan](https://www.middleeasteye.net/countries/sudan).
+
+In the video, obtained by Kyiv Post, members of Timur, part of Ukraine's Military Intelligence Directorate (HUR), can be seen speaking to three bound and blindfolded men. Two of the men are African, while the third man can be heard speaking [Russian](https://www.middleeasteye.net/countries/russia).
+
+The man, who admits to belonging to the Wagner Group, tells his interrogator that he and his men drove from the neighbouring Central African Republic (CAR) to Sudan in order to "overthrow the local government".
+
+The [video ](https://www.youtube.com/watch?v=6i1h3lyeGQ8)cannot be independently verified by Middle East Eye.
+
+Last year, Lt Gen Kyrylo Budanov, chief of Ukranian military intelligence, vowed to “destroy Russian war criminals anywhere in the world, wherever they are”.
+
+## New MEE newsletter: Jerusalem Dispatch
+
+#### Sign up to get the latest insights and analysis on Israel-Palestine, alongside Turkey Unpacked and other MEE newsletters
+
+Since then there have been rumours and unverified reports of Ukrainian forces operating in Sudan, targeting Russian operatives in the country.
+
+### Conflict in Sudan
+
+Fighting in Sudan has been ongoing since 15 April, with more than 12,000 people killed and seven million displaced, according to the [United Nations](https://www.middleeasteye.net/news/sudan-west-darfur-mass-graves-un-envoy-resigned-says).
+
+Unicef says that in Darfur alone, at least five million children are facing extreme deprivation of their rights and protection due to the ongoing conflict.
+
+The most recent conflict in Sudan began after tensions arose between Rapid Support Forces (RSF) leader Mohamad Hamdan Dagalo, also known as Hemeti, and the head of the Sudanese Armed Forces (SAF) General Abdul Fattah al-Burhan.
+
+The two were previously allies when, in 2021, they overthrew the civilian-led government in Sudan that was formed in the wake of the toppling of longtime ruler Omar al-Bashir.
+
+However, tensions between the two leaders emerged, chief among them the plan to integrate the RSF into the Sudanese military, and the RSF and SAF now see themselves as implacable opponents in a devastating conflict.
+
+The RSF began attacking SAF positions in the capital Khartoum and other areas of Sudan, setting off a bloody conflict that has continued to this day.
+
+The US has repeatedly accused the Wagner Group of supplying weapons to the RSF.
+
+In September, Ukrainian President Volodymyr Zelensky met with Burhan at Ireland’s Shannon airport.
+
+“We discussed our common security challenges, namely the activities of illegal armed groups financed by Russia,” he said at the time.
+
+The mercenary group's status has been thrown into doubt since August, when in Russia the plane carrying Wagner mercenary group leader Yevgeny Prigozhin crashed on a [flight ](https://www.middleeasteye.net/news/wagner-yevgeny-prigozhin-plane-crash-russia)from Moscow to St Petersburg.
+
+Middle East Eye delivers independent and unrivalled coverage and analysis of the Middle East, North Africa and beyond. To learn more about republishing this content and the associated fees, please fill out this. More about MEE can be found[form](https://middleeasteye.net/form/mee-syndication).[here](https://middleeasteye.net/about-middle-east-eye)

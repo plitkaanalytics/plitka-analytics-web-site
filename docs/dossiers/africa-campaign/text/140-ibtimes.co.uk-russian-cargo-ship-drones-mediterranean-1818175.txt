@@ -1,0 +1,60 @@
+URL:         https://www.ibtimes.co.uk/russian-cargo-ship-drones-mediterranean-1818175
+Кінцевий:    https://www.ibtimes.co.uk/russian-cargo-ship-drones-mediterranean-1818175
+Заголовок:   Russian Ship Reportedly Hit by Drones in Mediterranean as Ukraine Link Remains Unconfirmed
+Дата публ.:  2026-09-07
+Завантажено: 2026-09-12 16:11 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 284648
+Оригінал:    raw/140-ibtimes.co.uk-russian-cargo-ship-drones-mediterranean-1818175.html
+sha256:      3734d8c56fa49dede29ace7b94c82e450e1b12beb1aa079916c3a1d64c778f81
+Витяг:       trafilatura
+
+==============================================================================
+# Russian Ship Reportedly Hit by Drones in Mediterranean as Ukraine Link Remains Unconfirmed
+
+## Unverified reports suggest the Lady Mariia was carrying Iranian weapons when attacked by drones near Crete.
+
+A Russian-flagged cargo ship was reportedly hit 12 times by drones in the Mediterranean Sea after leaving Algeria, with a Russian opposition journalist alleging that the vessel was carrying Iranian weapons and armoured vehicles destined for Russia.
+
+The Lady Mariia, also known by its former name Stella-Maria, was reportedly attacked on Sunday 6 September while sailing near Crete towards Syria. Footage circulating online appears to show [drones repeatedly striking the vessel](https://www.ibtimes.co.uk/ai-driven-russian-drone-attack-raises-global-concerns-1816085) before a fire broke out on board. Links connecting Ukraine to the reported attack remain unconfirmed.
+
+The claims surrounding the incident remain unverified, including the identity of those behind the strikes, the vessel's cargo and the alleged launch location of the drones.
+
+## Lady Mariia Reportedly Hit Repeatedly
+
+Russian opposition journalist Alexander Nevzorov, who published footage of the incident, claimed the vessel suffered 12 direct hits.
+
+Nevzorov also claimed that the drones were launched from Libyan territory and that the ship was transporting Iranian weapons and armoured vehicles from Algeria for delivery to Russia. Those claims have not been independently verified.
+
+The Lady Mariia had reportedly departed the Algerian port of Oran before entering the Mediterranean, with vessel-tracking information placing it near Crete as it travelled towards the eastern Mediterranean.
+
+The reported strikes appear to have caused a fire, although there were no immediate confirmed reports of casualties or the vessel sinking. The available footage has also not independently established the full extent of the damage sustained by the ship.
+
+## Sanctioned Ship Has Russian Military Links
+
+The vessel's significance extends beyond the reported incident.
+
+Ukraine's Defence Intelligence identifies the Lady Mariia, IMO 9220641, as a Russian-flagged roll-on/roll-off cargo vessel involved in transporting military cargo and weapons. The agency lists MG-Flot LLC, formerly known as Transmorflot, as the company associated with the vessel. Ukraine imposed sanctions on the ship on 23 May 2026.
+
+Ukraine's military-sanctions database also says the vessel has been involved in transporting weapons from Syria to Russia and records previous voyages between Russian and Syrian ports, including Novorossiysk and Tartus.
+
+These details establish the vessel's documented connection to Russian military logistics, but they do not independently establish what cargo it was carrying during the latest reported voyage.
+
+The United States previously imposed sanctions on Transmorflot and vessels linked to the company over their involvement in transporting weapons for Russia.
+
+## Ukraine Link Remains Unconfirmed
+
+If Ukrainian involvement is confirmed, the reported strike could demonstrate the growing reach of efforts to [disrupt Russian military logistics](https://www.ibtimes.co.uk/ukraine-drone-strikes-russia-oil-infrastructure-1815990) beyond the Black Sea.
+
+However, there is currently no public confirmation from Ukrainian authorities that Kyiv carried out the attack.
+
+The alleged Iranian contents of the ship and the claim that drones were launched from Libya also remain unverified. The reported figure of 12 strikes comes from Nevzorov and should be treated as an allegation rather than an independently confirmed assessment.
+
+The distinction is important because the Lady Mariia's established sanctions history does not by itself prove that it was carrying Iranian weapons during this particular journey.
+
+For now, the available evidence points to a reported drone incident involving a Russian-flagged vessel with documented links to sanctioned Russian shipping interests, while several of the most significant details remain unresolved.
+
+Further information from maritime authorities or the governments involved could establish who carried out the reported attack, what the vessel was carrying, and the extent of the damage.
+
+Until then, claims that Ukraine deliberately attacked an Iranian weapons shipment should be treated as unconfirmed, rather than fact.
+
+© Copyright IBTimes 2026. All rights reserved.

@@ -1,0 +1,225 @@
+URL:         https://war-sanctions.gur.gov.ua/en/transport/ships/65
+Кінцевий:    https://war-sanctions.gur.gov.ua/en/transport/ships/65
+Заголовок:   LADY MARIIA; IMO 9220641
+Дата публ.:  2026-06-02
+Завантажено: 2026-09-12 14:10 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 69000
+Оригінал:    raw/53-war-sanctions.gur.gov.ua-65.html
+sha256:      46e017abcfbf9157744cc2eeaf46dc10da022ff110412d2536abf8cf5dbd2079
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 13
+==============================================================================
+Aggressor`s military-industrial complex
+https://www.state.gov/state-department-actions-to-promote-accountability-and-impose-costs-on-the-russian-government-for-putins-aggression-against-ukraine/
+https://sanctionssearch.ofac.treas.gov/Details.aspx?id=37089
+https://gisis.imo.org/Public/SHIPS/ShipDetails.aspx?IMONumber=9220641
+https://www.vesselfinder.com/ru/vessels/details/9220641
+https://magicport.ai/vessels/ro-ro/lady-mariia-mmsi-273292160
+https://checko.ru/company/mg-flot-1053001124483
+https://postinfosociety.com/rosijskyj-bank-shho-finansuye-rosijsk/
+https://odesa.novyny.live/korabel-iakii-perevozit-siriisku-zbroiu-zaishov-do-portu-novorosiiska-181715.html
+https://infonavigator.com.ua/novosti/sirijskij-ekspress-rossiya-ispolzuet-novuju-taktiku-perevozki-oruzhiya-v-chernom-more-foto/
+https://www.unian.net/world/rossiya-perestala-zavozit-oruzhie-iz-sirii-cherez-turciyu-smi-12565407.html
+The pages will soon open, and even more of those who are guilty of supporting this criminal war will be held accountable
+A confidential and secure communication channel with us
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+LADY MARIIA
+Portal News
+ENG
+УКР
+РУС
+Components in weapons
+Weapons
+Components
+Involved enterprises
+Logistics of war
+Marine vessels
+Shadow Fleet
+Masters
+Partner`s sanctions lists
+Individuals
+Legal entities
+Aggressor`s military-industrial complex
+Instruments of war
+Unmanned systems
+Rostec
+Executives of War
+Engineers of aggression
+Cultural genocide
+Child kidnappers
+Stolen Heritage
+Agents of influence
+Kremlin Mouthpieces
+Champions of terror
+Home
+Marine vessels
+LADY MARIIA
+LADY MARIIA
+IMO 9220641
+Updated:
+02.06.2026
+Vessel name
+LADY MARIIA
+Category
+Transportation of military cargo
+Weapons and military equipment
+IMO
+9220641
+Flag (Current)
+russian federation
+MMSI
+273292160
+Call sign
+UBGW3
+Vessel Type
+Ro-Ro Cargo Ship
+Length (m)
+126.88
+Gross tonnage (t)
+8831
+DWT (t)
+7184
+P&I Club
+Sanctions
+USA
+,
+Ukraine
+Sanctions lifted
+The person in connection with whom
+sanctions have been applied
+MG-FLOT LLC
+Provide additional information
+Justification
+Vessel information
+The vessel is involved in the transportation of weapons from Syria to russia (in particular, through the Bosporus strait).
+It is owned by the sanctioned russian maritime shipping company MG-Flot LLC (previous name Transmorflot LLC).
+In May 2022, USA imposed sanctions on Transmorflot LLC and its vessels involved in the transportation of weapons for the russian federation.
+MG-Flot LLC is linked to Astrakhan businessman Pashayev Jamaldin Emirmagomedovich, who built his business around the commercial port of Olya in the Astrakhan region. This place was proposed as a key logistic hub of the international transport corridor "North-South", the creation and construction of which was supervised and controlled by former russian Prime Minister Mikhail Fradkov. The key purpose of the transportation corridor was to trade with sanctioned Iran, which could import and export goods via the North-South route.
+On May 23, 2026, Ukraine imposed sanctions on the vessel.
+Cases of AIS shutdown
+Yes
+Calling at russian ports
+Yes
+Visited ports
+Alger
+(Algeria)
+, Alexandria
+(Egypt)
+, Kaliningrad
+(russia)
+, Novorossiysk
+(russia)
+, Oran
+(Algeria)
+, Zarzis
+(Tunisia)
+, Marport West (Soyak) Terminal
+(Turkey)
+, Zeytinburnu
+(Turkey)
+, Unye port
+(Turkey)
+, Mumbai
+(India)
+, St Petersburg Fish Port
+(russia)
+, Suez
+(Egypt)
+, Sadat
+(Egypt)
+, Chennai
+(India)
+, Pointe-Noire
+(Republic of the Congo)
+, Sharjah
+(UAE)
+, Cochin
+(India)
+, Seskharis
+(russia)
+, Tartous
+(Syria)
+, Bronka
+(russia)
+, Nhava Sheva
+(India)
+, Thilawa
+(Myanmar)
+, Kronshtadt
+(russia)
+, St. Petersburg
+(russia)
+, Marsa El Brega
+(Libya)
+Use Ctrl+scroll to zoom
+Available additional information
+Ship Owner (IMO / Country / Date)
+Mg-flot LLC (6016988 / russian federation / 21.06.2021)
+Commercial ship manager (IMO / Country / Date)
+Mg-flot LLC (6016988 / russian federation / 21.06.2021)
+Ship Safety Management Manager (IMO / Country / Date)
+Mg-flot LLC (6016988 / russian federation / 21.06.2021)
+Former ship names
+Scan Finlandia / Rickmers Finlandia / BBC Finlandia / BBC Konan / Rio Konan / Ocean Dream / Global Carrier / Stella-Maria
+Flags (former)
+Isle of Man
+/
+Germany
+/
+Great Britain
+/
+Liberia
+Build year
+2000
+Builder (country)
+Peene-werft
+Web Resources
+Links
+https://www.state.gov/state-department-actions-to-promote-accountability-and-impose-costs-on-the-russian-government-for-putins-aggression-against-ukraine/
+https://sanctionssearch.ofac.treas.gov/Details.aspx?id=37089
+https://gisis.imo.org/Public/SHIPS/ShipDetails.aspx?IMONumber=9220641
+https://www.vesselfinder.com/ru/vessels/details/9220641
+https://magicport.ai/vessels/ro-ro/lady-mariia-mmsi-273292160
+https://checko.ru/company/mg-flot-1053001124483
+https://postinfosociety.com/rosijskyj-bank-shho-finansuye-rosijsk/
+https://odesa.novyny.live/korabel-iakii-perevozit-siriisku-zbroiu-zaishov-do-portu-novorosiiska-181715.html
+https://infonavigator.com.ua/novosti/sirijskij-ekspress-rossiya-ispolzuet-novuju-taktiku-perevozki-oruzhiya-v-chernom-more-foto/
+https://www.unian.net/world/rossiya-perestala-zavozit-oruzhie-iz-sirii-cherez-turciyu-smi-12565407.html
+Go to site
+Components in weapons
+Weapons
+Components
+Involved enterprises
+Logistics of war
+Marine vessels
+Shadow Fleet
+Masters
+Partner`s sanctions lists
+Individuals
+Legal entities
+Aggressor`s military-industrial complex
+Instruments of war
+Unmanned systems
+Rostec
+Executives of War
+Engineers of aggression
+Cultural genocide
+Child kidnappers
+Stolen Heritage
+Agents of influence
+Kremlin Mouthpieces
+Champions of terror
+API
+Portal News
+War & Sanctions 2026
+The pages will soon open, and even more of those who are guilty of supporting this criminal war will be held accountable
+A confidential and secure communication channel with us
+Send
+Site search
+Find

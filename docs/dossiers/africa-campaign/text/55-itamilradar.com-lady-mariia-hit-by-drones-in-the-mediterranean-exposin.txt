@@ -1,0 +1,46 @@
+URL:         https://www.itamilradar.com/2026/09/07/lady-mariia-hit-by-drones-in-the-mediterranean-exposing-russias-maritime-logistics-route/
+Кінцевий:    https://www.itamilradar.com/2026/09/07/lady-mariia-hit-by-drones-in-the-mediterranean-exposing-russias-maritime-logistics-route/
+Заголовок:   Lady Mariia hit by drones in the Mediterranean, exposing Russia’s maritime logistics route
+Дата публ.:  2026-09-07
+Завантажено: 2026-09-12 14:10 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 272245
+Оригінал:    raw/55-itamilradar.com-lady-mariia-hit-by-drones-in-the-mediterranean-exposin.html
+sha256:      f183d58f3ba183217f74eaf1585a1766da25c12e06136f256647389c595ea9fa
+Витяг:       trafilatura
+
+==============================================================================
+The Russian-flagged Ro-Ro cargo ship** Lady Mariia (IMO 9220641)** was reportedly struck by multiple aerial drones in the Mediterranean on September 6 while sailing east toward Syria. Video circulating online shows several munitions being dropped onto the vessel, followed by localized fires. The attack is not officially attributed to Ukraine, but the ship is sanctioned by both Washington and Kyiv for its role in Russia’s military logistics.
+
+## The last track before the attack
+
+The incident is particularly interesting when compared with the vessel’s AIS track.
+
+Our latest recorded contact, shown in the tracking data above, dates to September 5 at 19:51 UTC, when Lady Mariia was sailing at 9.4 knots on a 106.2° course in the central Mediterranean. Other tracking sources place the vessel on a similar eastbound route after its departure from Oran, Algeria, with the reported attack taking place farther east, in the broader area between Libya and Crete.
+
+The vessel is a 126.9-metre, 7,184-DWT Ro-Ro cargo ship operated by the Russian MG-Flot company. Its importance goes well beyond commercial shipping: Ukraine’s Defence Intelligence lists Lady Mariia specifically under vessels involved in the transportation of military cargo and weapons, noting previous movements between Syria and Russia and particularly the Novorossiysk–Tartus route.
+
+The ship has also been under US sanctions since 2022, originally listed under its former name Stella-Maria and linked to TransMorFlot, now MG-Flot. Ukraine imposed additional sanctions on the vessel in May 2026.
+
+## A strike aimed at the ship — or its cargo?
+
+The video released by Russian opposition journalist Alexander Nevzorov appears to show aerial drones approaching the ship and dropping small explosive devices onto its deck. Several impacts are visible, followed by fires.
+
+Claims that the vessel suffered as many as 12 direct hits, or that it was carrying Iranian weapons and armoured vehicles destined for Russia, remain unverified. Likewise, reports that the drones were launched from Libyan territory have not been independently confirmed, and Kyiv has not officially claimed responsibility.
+
+What is clearer is the apparent nature of the attack. Available footage does not show obvious catastrophic hull damage or the rapid flooding that would normally indicate an attempt to sink the ship. Instead, several impacts appear concentrated around the deck and shipboard equipment. This could point to an operation designed to disable cargo-handling systems or damage the military cargo rather than destroy the vessel outright.
+
+That distinction matters strategically. A sanctioned Russian logistics ship operating hundreds of kilometres from the Ukrainian coastline represents a very different target from the merchant vessels normally associated with the Black Sea. If the attribution to Ukrainian forces is eventually confirmed, the incident would demonstrate an ability to reach Russian military logistics well into the Mediterranean.
+
+Whether this marks the start of a longer campaign against Russian military-linked shipping in the Mediterranean remains unclear.
+
+For now, Lady Mariia’s disappearance from publicly available AIS tracking after its last reported position is an important detail. The vessel’s condition, its ability to continue toward Syria, and whether it will attempt to reach a port of refuge should become clearer in the coming hours and days. If it has been seriously disabled, the impact could extend beyond a single ship by forcing Russia to reconsider how it moves military cargo through the Mediterranean.
+
+*Keep ItaMilRadar independent 📡*
+
+If you appreciate the daily tracking and OSINT analysis, you can support my work on Patreon, helping me cover server and radar costs while keeping the website free and independent. Check out the support tiers to unlock exclusive perks, such as **Early Access radar alerts** on strategic movements and a direct line for your questions.
+
+12.9.2026, 12:54
+
+The Lady Mariia is now anchored off Port Said.
+
+The damage does not appear to have been too significant.

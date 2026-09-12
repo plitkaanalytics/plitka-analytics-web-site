@@ -1,0 +1,28 @@
+URL:         https://www.tovima.com/politics/ukraine-apologizes-over-drone-found-in-lefkada
+Кінцевий:    https://www.tovima.com/politics/ukraine-apologizes-over-drone-found-in-lefkada
+Заголовок:   Ukraine Apologizes Over Drone Found in Lefkada - tovima.com
+Дата публ.:  2026-06-06
+Завантажено: 2026-09-12 14:21 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 165774
+Оригінал:    raw/99-tovima.com-ukraine-apologizes-over-drone-found-in-lefkada.html
+sha256:      be3452092bdf3240f59632a63d379ef90eff5f6cda52be4b9f235fa97d075272
+Витяг:       trafilatura
+
+==============================================================================
+[Μake us preferred on Google](https://google.com/preferences/source?q=tovima.com)
+
+Ukraine’s Foreign Ministry spokesperson has apologized to Greece for a [military drone that drifted into Greek territorial waters](https://www.tovima.com/tag/lefkada-drone/) and washed ashore on the Ionian island of Lefkada in early May, acknowledging it was a Ukrainian vessel and attributing the incident to conditions created by Russia’s ongoing war against Ukraine.
+
+The apology follows [formal diplomatic protests](https://www.tovima.com/uncategorized/greece-lodges-protest-with-ukraine-over-ionian-drone/) filed by Athens on May 28 and 29, in which Greece warned that the drone had posed a serious threat to maritime traffic and that an explosion could have caused civilian casualties and irreparable environmental damage. Athens made clear in those protests that any spillover of the war into the Mediterranean directly threatens Greece’s national security and could deal a severe blow to its economy, which is heavily dependent on tourism and shipping.
+
+In its response, Kyiv expressed gratitude for what it described as Greece’s unwavering support since the first days of the Russian invasion in February 2022, while reaffirming Ukraine’s commitment to international law and maritime safety. The Foreign Ministry spokesperson added that Ukrainian authorities would take steps to prevent similar incidents in the future.
+
+Ukraine framed the Lefkada incident, as well as other similar episodes, as a direct consequence of Russian aggression, which it said constitutes a threat not only to Ukraine but to neighboring friendly states and to Europe as a whole. The statement effectively positions such incidents within the broader context of Ukraine’s right to self-defense, a right Athens also considers inviolable.
+
+**A diplomatic mobilization**
+
+The discovery of the drone prompted a swift diplomatic response from Athens. Foreign Minister [George Gerapetritis](https://www.tovima.com/politics/greek-fm-raises-maritime-drone-incident-ahead-of-eu-foreign-affairs-council/) personally briefed EU High Representative Kaja Kallas and held talks with his Ukrainian counterpart, Andrii Sybiha, on the sidelines of an informal EU Foreign Affairs Council meeting in Nicosia last month. Gerapetritis also contacted NATO Secretary General Mark Rutte, with Athens deliberately involving the Western alliance to signal the gravity of its concerns and the imperative of preventing the war from spreading from the Black Sea to the Mediterranean.
+
+Kyiv’s response to Athens came only hours after a Ukrainian [naval drone self-destructed](https://www.tovima.com/world/naval-drone-explodes-at-romanias-port-of-constanta-videos/) near an oil terminal in Romania’s Black Sea port of Constanta on Friday, the latest in a string of incidents suggesting Ukraine is losing control of parts of its unmanned vessel network. Ukrainian authorities said the drone had been jammed by Russian electronic warfare and drifted off course, and that they contacted Romanian authorities in advance to enable an evacuation. Romanian President Nicusor Dan placed the blame squarely on Moscow. “The entry of this drone into Romanian sovereign space is a direct consequence of the war waged by Russia against Ukraine,” he said. The incident came one week after a [Russian drone](https://www.tovima.com/world/russian-drone-hits-romanian-flats-injures-two/) struck an apartment building in the southeastern Romanian city of Galati, near the border with Ukraine, injuring two people in what was reported as the first time in the conflict that a drone had hit a densely populated area in a NATO member state.
+
+Greek government spokesperson Lana Zochiou stated that Greece continues to support efforts to end the war and achieve a just peace, but insists on absolute respect for international law, human life, and the marine environment. Ukraine, for its part, said it remains committed, alongside Greece, to deepening bilateral relations and developing constructive dialogue across all areas of mutual interest.

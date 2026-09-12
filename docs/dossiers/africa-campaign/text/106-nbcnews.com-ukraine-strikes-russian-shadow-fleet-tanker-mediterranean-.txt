@@ -1,0 +1,50 @@
+URL:         https://www.nbcnews.com/world/russia/ukraine-strikes-russian-shadow-fleet-tanker-mediterranean-rcna250101
+Кінцевий:    https://www.nbcnews.com/world/russia/ukraine-strikes-russian-shadow-fleet-tanker-mediterranean-rcna250101
+Заголовок:   Ukraine strikes Russian 'shadow fleet' tanker in Mediterranean
+Дата публ.:  2025-12-19
+Завантажено: 2026-09-12 14:21 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 279224
+Оригінал:    raw/106-nbcnews.com-ukraine-strikes-russian-shadow-fleet-tanker-mediterranean-.html
+sha256:      017503a7f2bddcdad73d7df4ce1cbb3598125895078690084876d7c4d02c61bf
+Витяг:       trafilatura
+
+==============================================================================
+[Reuters](https://www.reuters.com)
+
+Ukraine has struck a Russian "shadow fleet" oil tanker in the Mediterranean Sea with aerial drones for the first time, an official said on Friday, reflecting the growing intensity of Kyiv's attacks on [Russian oil shipping.](https://www.nbcnews.com/world/ukraine/ukraine-russian-shadow-fleet-oil-tankers-naval-drones-rcna246520)
+
+The vessel - the Qendil - was empty when it was struck by drones in neutral waters more than 2,000 km (1,250 miles) from Ukraine, sustaining critical damage, the official at the SBU security service said in a written statement.
+
+The tanker was located off Libya's coast earlier on Friday, MarineTraffic data showed. The Ukrainian official, who declined to be named, did not say exactly where the tanker had been at the time of the attack or when it happened.
+
+Overhead footage provided by the source showed a small explosion on the deck of a tanker. Reuters confirmed the vessel shown in the video was the Qendil by comparing it with file imagery, but could not verify the time or location.
+
+Ukraine has been attacking Russian oil refineries throughout 2024 and 2025, but has visibly widened its campaign in recent weeks, striking oil rigs in the Caspian Sea and claiming credit for sea-drone attacks on three tankers in the Black Sea.
+
+Those tankers as well as the Oman-flagged Qendil are part of [Russia's so-called "shadow fleet"](https://www.nbcnews.com/world/europe/france-arrests-crew-boracay-tanker-russia-shadow-fleet-denmark-drones-rcna235113) - unregulated ships that Kyiv says are helping Moscow export large quantities of oil and fund its war in Ukraine despite Western sanctions.
+
+Russian President [Vladimir Putin](https://www.nbcnews.com/world/russia/live-blog/live-updates-vladimir-putin-news-conference-russia-ukraine-trump-peace-rcna249474), who ordered a full-scale invasion of Ukraine in February 2022, has threatened to sever Ukraine's access to the Black Sea in response to the attacks on tankers, which he has derided as piracy.
+
+There was no fresh comment from Moscow on the latest attack.
+
+The Qendil was en route to the Russian port of Ust Luga in the Baltic Sea from the Indian port of Sikka, MarineTraffic data showed.
+
+India is a major consumer of Russian oil, although it has faced pressure from U.S. President Donald Trump to curb its purchases to reduce the oil revenue that Ukraine says is fuelling Russia's full-scale war.
+
+"We understand that it is returning to a port that is currently unknown," an official from a European Union country told Reuters.
+
+## Multi-stage measures
+
+The strike on the Qendil is notable not only because it was further away in the Mediterranean but also because it used aerial drones.
+
+"This development reflects a stark expansion of Ukraine’s use of uncrewed aerial systems against maritime assets associated with Russia’s sanctioned oil export network," British maritime risk-management group Vanguard said.
+
+The Ukrainian official did not say how the drones reached the ship, but said the operation involved "multi-stage" measures.
+
+The SBU, the vast security agency behind the attack, has conducted highly sophisticated attacks against Russia, smuggling in dozens of drones for an operation to destroy strategic bombers at air bases far beyond the front in June.
+
+There have also been a string of unexplained blasts on tankers that have called at Russian ports since December 2024.
+
+Ukraine has neither confirmed nor denied its involvement in them, but maritime security sources suspect Kyiv is behind them, some involving limpet mines on vessels in the Mediterranean.
+
+Two crew members of the Russian-flagged tanker Valeriy Gorchakov were killed this week in a Ukrainian drone attack on the southern Russian port of Rostov-on-Don.

@@ -1,0 +1,17 @@
+URL:         https://www.wsj.com/world/africa/dozens-of-russian-mercenaries-killed-in-attack-in-mali-3de51b36
+Кінцевий:    https://web.archive.org/web/20260818043135id_/https://www.wsj.com/world/africa/dozens-of-russian-mercenaries-killed-in-attack-in-mali-3de51b36
+Заголовок:   Dozens of Russian Mercenaries Killed in Attack in Mali
+Дата публ.:  2024-07-28
+Завантажено: 2026-09-12 14:25 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 621698
+Оригінал:    raw/127-wsj.com-dozens-of-russian-mercenaries-killed-in-attack-in-mali-3de51b3.html
+sha256:      357f4f4bf20658b89ded1f4088672c252044c56fc6e88d492e31c4fc123f71a0
+Витяг:       trafilatura
+Примітка:    оригінал недоступний (401), узято з Wayback
+
+==============================================================================
+Tuareg rebels seeking autonomy in the West African country of Mali killed dozens of Russian mercenaries last week in what appeared to be one of the deadliest attacks on [Russian personnel on the continent](https://www.wsj.com/world/africa/prigozhin-built-an-empire-in-africa-can-it-survive-him-b566755c?mod=article_inline) since Moscow first sent Wagner Group guns-for-hire there in 2017.
+
+It was unclear exactly how many Russians were killed in the attack, which took place near Mali’s northern border with Algeria and targeted a column of both Russian fighters and Malian troops. But several Telegram channels associated with the Russian military and mercenary groups presented it as a major setback for Moscow’s efforts in Africa.
+
+Copyright ©2026 Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8

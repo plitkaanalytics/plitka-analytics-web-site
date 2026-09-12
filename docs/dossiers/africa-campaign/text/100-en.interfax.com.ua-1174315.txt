@@ -1,0 +1,26 @@
+URL:         https://en.interfax.com.ua/news/general/1174315.html
+Кінцевий:    https://en.interfax.com.ua/news/general/1174315.html
+Заголовок:   Ukraine apologizes to Greece for incident involving naval drone off Lefkada island
+Дата публ.:  2026-06-06
+Завантажено: 2026-09-12 14:21 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 181263
+Оригінал:    raw/100-en.interfax.com.ua-1174315.html
+sha256:      7e86305915afa7a5f564506c73b2b0ee23c844852035407216db680e1b5118e3
+Витяг:       trafilatura
+
+==============================================================================
+Ukraine has apologized to Greece for the incident involving a maritime drone discovered near the island of Lefkada and emphasized its commitment to international law and the principles of civilian maritime security, Foreign Ministry spokesman Heorgiy Tykhyi said.
+
+“Ukraine emphasises its commitment to the norms of international law and the principles of civilian maritime safety, noting its interest in preventing similar occurrences in the future. In this respect, the Ukrainian side expresses its apologies for the incident stressing that it was the result of circumstances brought about by the ongoing Russian aggression against Ukraine,” he said on X.
+
+He noted that “as current challenges to international and regional security, particularly maritime security and the activities of Russia’s "shadow fleet” constitute shared concern of both Greece and Ukraine.”
+
+According to Tykhyi, following the incident with the naval drone found near the Greek island of Lefkada, the Ukrainian side expresses its gratitude to Greece and the Greek people for their unwavering support from the first days of Russia’s full-scale invasion. He emphasized that Ukraine highly values its friendly relations with Greece.
+
+Tykhyi also noted that the Ukrainian side is convinced that this incident, like similar cases in other regions, demonstrates that Russia’s ongoing aggression against Ukraine poses a threat not only to Ukraine, but also to neighboring friendly states, Europe, and the world as a whole.
+
+“Ukraine remains committed, along with Greece, to further deepening friendly relations between our two countries and developing a constructive dialogue in all areas of mutual interest,” the representative of the Ukrainian Foreign Ministry emphasized.
+
+A Magura V3 drone was reportedly discovered by fishermen near Cape Ducato in a coastal cave on the island of Lefkada, Greece. Its engine was reportedly still running. The drone was equipped with advanced technology, including antennas and communication systems, which raised immediate concerns. The fishermen seized the drone and towed it to the port of Vasiliki, where it was handed over to the Greek Coast Guard. The Greek government has launched an investigation into the incident.
+
+The Greek Foreign Ministry has lodged an official protest with Ukraine over the discovery of an unmanned boat loaded with explosives off the coast of Lefkada Island, which Athens believes to be Ukrainian, according to Greek Foreign Ministry spokesperson Lana Zochiou.

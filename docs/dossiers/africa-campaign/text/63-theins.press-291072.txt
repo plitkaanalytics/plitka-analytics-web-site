@@ -1,0 +1,24 @@
+URL:         https://theins.press/en/news/291072
+Кінцевий:    https://theins.press/en/news/291072
+Заголовок:   RFI reports Ukrainian servicemen stationed in Libya carried out attack on Russian LNG carrier Arctic Metagaz
+Дата публ.:  2026-04-03
+Завантажено: 2026-09-12 14:20 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 134628
+Оригінал:    raw/63-theins.press-291072.html
+sha256:      40f9728075e4627652b3bc8b74fcd3ef2eded516dfd1a112f3565a9c32846dc1
+Витяг:       trafilatura
+
+==============================================================================
+More than 200 Ukrainian military officers and specialists are stationed in Libya under an agreement with the government in Tripoli, according to an [investigation](https://www.rfi.fr/fr/afrique/20260402-exclusif-rfi-ces-militaires-ukrainiens-pr%C3%A9sents-dans-l-ouest-libyen?fbclid=IwY2xjawQ7tARleHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEezD7pWRTDVk5HNsqupzC9WmBz4CmcgCEnH6yO-xEQsuicOS9WPPg9QVjnrA4_aem_2EBcEz8Asa0I7WxmeYDSBw) by *Radio France Internationale* (RFI). Most notably, however, the outlet reports that Ukrainian naval drones launched from the North African coast were indeed behind the attack against the Russian gas carrier *Arctic Metagaz* (IMO: 9243148), which was damaged near Malta in early March. Russian authorities were the first to [accuse](https://theins.press/en/news/289972) Ukraine of carrying out the attack.
+
+According to two Libyan sources cited by the outlet, Ukrainian military personnel are stationed at three bases, including at the air force academy in Misrata, where forces from the Turkish, Italian, and U.S. contingents are also present. Another base, intended for launching drones — including naval drones — is located in the city of Zawiya, 50 kilometers north of the capital, in the area of the Mellitah oil complex. A third, at the headquarters of the Libyan army’s 111th Brigade on the road to Tripoli airport, is used for coordination meetings between Ukrainian forces and the Libyan army.
+
+The Libyan government has also made a coastal plot of land available to Ukrainian specialists, where an airstrip has been built.
+
+According to *RFI*, cooperation between Libya and Ukraine began in the fall of 2025. The agreement was signed in October at the initiative of Ukraine’s military attaché in Algeria, Andriy Bayuk. Under the arrangement, Ukrainian military personnel train Libyan forces in the use of drones. The long-term agreement also provides for weapons supplies and investment in Libya’s oil sector.
+
+*RFI *reported that the attack on the Russian gas carrier *Arctic Metagaz* involved a Magura V5-type surface drone launched from the base in Zawiya. Ukraine uses uncrewed of this type of boats in operations in the Black Sea ([1](https://t.me/arrowsmap/9623), [2](https://t.me/uniannet/164513), [3](https://t.me/DIUkraine/5792)). The drone hit the vessel’s engine room, causing it to fill with water.
+
+Russia’s Transport Ministry was the first to [accuse](https://theins.press/en/news/289972) Ukraine of attacking the *Arctic Metagaz*. There were 30 Russian sailors on board at the time of the strike, all of whom were evacuated. The ministry insisted the tanker had departed from the port of Murmansk carrying cargo “processed in full compliance with international rules.” Russia’s Maritime Board also said last week that the damage from the attack “must be compensated by the aggressor.”
+
+Earlier this week, news emerged that Libyan personnel had [failed to tow](https://theins.press/en/news/291034) the damaged vessel to one of its ports. A cable connecting the *Arctic Metagaz* to a tugboat snapped due to adverse weather in the Mediterranean, leading Libyan authorities to request that other countries assist it in bringing the vessel under control.
