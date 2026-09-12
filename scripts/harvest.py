@@ -76,6 +76,44 @@ def tg_variant(url):
     return None
 
 
+def x_variant(url):
+    """
+    x.com/<акаунт>/status/<id> -> fxtwitter API.
+
+    Сторінка X без JS порожня, oEmbed мовчить, а синдикаційний ендпоінт
+    обрізає довгі дописи на ~275 знаках. fxtwitter віддає повний текст
+    разом із цитованим дописом і медіа.
+    """
+    m = re.match(r"^https?://(?:www\.|mobile\.)?(?:x|twitter)\.com/"
+                 r"[^/]+/status/(\d+)", url)
+    if m:
+        return "https://api.fxtwitter.com/status/%s" % m.group(1)
+    return None
+
+
+def text_from_fx(raw_bytes):
+    """JSON fxtwitter -> текст допису з автором, датою, цитатою й медіа."""
+    d = json.loads(raw_bytes.decode("utf-8", "replace"))
+    t = d.get("tweet") or {}
+
+    def block(tw, lbl):
+        a = tw.get("author") or {}
+        out = ["%s: %s (@%s)" % (lbl, a.get("name", ""), a.get("screen_name", "")),
+               "Дата: %s" % tw.get("created_at", ""),
+               "", tw.get("text", "")]
+        media = (tw.get("media") or {}).get("all") or []
+        for mm in media:
+            out.append("[медіа: %s %s]" % (mm.get("type", ""), mm.get("url", "")))
+        return out
+
+    lines = block(t, "Автор")
+    if t.get("quote"):
+        lines += ["", "--- цитований допис ---"] + block(t["quote"], "Автор")
+    title = "%s: %s" % ((t.get("author") or {}).get("screen_name", ""),
+                        (t.get("text") or "")[:80])
+    return "\n".join(lines), title, (t.get("created_at") or "")
+
+
 # ---------------------------------------------------------------- качання
 
 def curl(url, out_path):
@@ -173,6 +211,10 @@ def text_from_html(raw_bytes):
     Два проходи. trafilatura бере основний текст із розміткою, таблицями
     й коментарями; bs4 — усе, що є на сторінці. Якщо перший віддав помітно
     менше, лишаємо повний дамп: для OSINT недобір гірший за сміття.
+
+    Повертає (текст, метод, повний_дамп). Дамп пишеться окремим файлом
+    завжди, коли основним лишився витяг trafilatura: той відкидає підписи
+    до фото, вбудовані дописи, врізки й оновлення внизу сторінки.
     """
     from bs4 import BeautifulSoup
     import trafilatura
@@ -196,8 +238,39 @@ def text_from_html(raw_bytes):
         pass
 
     if len(main) < 0.3 * len(full) or len(main) < 400:
-        return (full, "bs4-full") if full else (main, "trafilatura")
-    return main, "trafilatura"
+        return ((full, "bs4-full", full) if full
+                else (main, "trafilatura", full))
+    return main, "trafilatura", full
+
+
+def write_full(txt_dir, slug, header, main, full):
+    """
+    Сусідній NN-slug.full.txt: повний дамп сторінки плюс перелік рядків,
+    яких немає в основному витягу, — щоб підписи й врізки не губилися.
+    """
+    def norm(s):
+        s = re.sub(r"\[([^\]]*)\]\([^)]*\)", r"\1", s)   # markdown-лінки
+        s = re.sub(r"[*_#`>|]+", " ", s)
+        return re.sub(r"\s+", " ", s).strip()
+
+    blob = norm(main)
+    extra, seen = [], set()
+    for l in full.splitlines():
+        n = norm(l)
+        if len(n) >= 30 and n not in blob and n not in seen:
+            seen.add(n)
+            extra.append(l.strip())
+    path = os.path.join(txt_dir, slug + ".full.txt")
+    with io.open(path, "w", encoding="utf-8", newline="\n") as f:
+        f.write("\n".join(header[:-3] + [
+            "Файл:        повний дамп сторінки (bs4)",
+            "", "=" * 78,
+            "РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): %d" % len(extra),
+            "=" * 78, ""]))
+        f.write("\n".join(extra))
+        f.write("\n\n" + "=" * 78 + "\nПОВНИЙ ДАМП\n" + "=" * 78 + "\n")
+        f.write(full)
+    return len(extra)
 
 
 def html_meta(raw_bytes):
@@ -241,7 +314,8 @@ def harvest_one(url, n, topic_dir, do_archive):
     raw_dir = os.path.join(topic_dir, "raw")
     txt_dir = os.path.join(topic_dir, "text")
 
-    fetch_url = tg_variant(url) or url
+    xfx = x_variant(url)
+    fetch_url = tg_variant(url) or xfx or url
     tmp_raw = os.path.join(raw_dir, slug + ".bin")
     status, final, ctype = curl(fetch_url, tmp_raw)
 
@@ -268,7 +342,8 @@ def harvest_one(url, n, topic_dir, do_archive):
 
     size = os.path.getsize(tmp_raw) if os.path.exists(tmp_raw) else 0
     is_pdf = "pdf" in (ctype or "").lower() or url.lower().endswith(".pdf")
-    ext = ".pdf" if is_pdf else ".html"
+    is_fx = bool(xfx) and "json" in (ctype or "").lower()
+    ext = ".pdf" if is_pdf else (".json" if is_fx else ".html")
     raw_path = os.path.join(raw_dir, slug + ext)
     if os.path.exists(tmp_raw):
         if os.path.exists(raw_path):
@@ -281,13 +356,18 @@ def harvest_one(url, n, topic_dir, do_archive):
                 "chars": 0, "method": "-", "sha256": "",
                 "note": note or "порожня відповідь — потрібен текст від редакції"}
 
+    full = ""
     if is_pdf:
         text, method = text_from_pdf(raw_path)
         title, pubdate = os.path.basename(url), ""
+    elif is_fx:
+        with open(raw_path, "rb") as f:
+            text, title, pubdate = text_from_fx(f.read())
+        method = "fxtwitter"
     else:
         with open(raw_path, "rb") as f:
             blob = f.read()
-        text, method = text_from_html(blob)
+        text, method, full = text_from_html(blob)
         title, pubdate = html_meta(blob)
 
     archived = wayback_save(url) if do_archive else ""
@@ -300,6 +380,8 @@ def harvest_one(url, n, topic_dir, do_archive):
         r"сторінк\w+ не знайдено", title, re.I))
     if status >= 400 or soft404:
         access = "HTTP %s — НЕ ПРОЧИТАНО" % (status or "?")
+    elif is_fx and text.strip():
+        access = "прочитано"          # допис короткий за природою
     elif len(text.strip()) < 1200:
         access = "МАЛО ТЕКСТУ (%d зн.) — перевірити вручну" % len(text.strip())
     else:
@@ -327,10 +409,41 @@ def harvest_one(url, n, topic_dir, do_archive):
         f.write("\n".join(header))
         f.write(text)
 
+    extra = None
+    if method == "trafilatura" and full:
+        extra = write_full(txt_dir, slug, header, text, full)
+
     return {"n": n, "url": url, "slug": slug, "status": status,
             "access": access, "title": title, "pubdate": pubdate,
-            "chars": len(text), "method": method,
+            "chars": len(text), "method": method, "extra_lines": extra,
             "sha256": sha256(raw_path), "archived": archived, "note": note}
+
+
+def refull(topic_dir, man):
+    """
+    Повні дампи для вже скачаного — з raw/, без мережі. Для старих досьє,
+    зібраних до того, як дамп почав писатися поруч з основним витягом.
+    """
+    txt_dir = os.path.join(topic_dir, "text")
+    done = 0
+    for r in man["sources"]:
+        raw_path = os.path.join(topic_dir, "raw", r["slug"] + ".html")
+        txt_path = os.path.join(txt_dir, r["slug"] + ".txt")
+        if not (os.path.exists(raw_path) and os.path.exists(txt_path)):
+            continue
+        with open(raw_path, "rb") as f:
+            text, method, full = text_from_html(f.read())
+        if method != "trafilatura" or not full:
+            continue
+        with io.open(txt_path, encoding="utf-8") as f:
+            head = f.read().split("=" * 78, 1)[0].rstrip("\n").split("\n")
+        r["extra_lines"] = write_full(txt_dir, r["slug"],
+                                      head + ["", "=" * 78, ""], text, full)
+        done += 1
+        print("%2d  +%4d рядків поза витягом  %s" % (
+            r["n"], r["extra_lines"], r["url"]))
+    save_manifest(topic_dir, man)
+    print("\nповних дампів: %d" % done)
 
 
 def write_index(topic_dir, man):
@@ -370,6 +483,8 @@ def main():
                     help="здати кожен URL у Wayback (зовнішня публікація)")
     ap.add_argument("--force", action="store_true", help="перекачати наявні")
     ap.add_argument("--status", action="store_true", help="показати реєстр")
+    ap.add_argument("--refull", action="store_true",
+                    help="дописати повні дампи з raw/ для вже скачаного")
     a = ap.parse_args()
 
     topic_dir = os.path.join(ROOT, "docs", "dossiers", a.topic)
@@ -381,6 +496,10 @@ def main():
         for r in man["sources"]:
             print("%2d  %-28s %s" % (r["n"], r["access"], r["url"]))
         print("\nусього: %d" % len(man["sources"]))
+        return
+
+    if a.refull:
+        refull(topic_dir, man)
         return
 
     urls = list(a.url)
