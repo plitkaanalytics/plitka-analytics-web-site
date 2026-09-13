@@ -9,6 +9,10 @@
 тексту.
 
 Після --fix обов'язково прогнати prettier: скрипт пише рядки як є.
+
+Покликання бувають і в компонентах, які сторінка імпортує з `@/components/`
+(врізка з картою, наприклад). Їх скрипт теж знаходить — інакше перенумерація
+тихо ламає покликання, якого не видно в page.tsx.
 """
 
 import argparse
@@ -34,6 +38,22 @@ def page_path(slug):
 
 def read(path):
     return io.open(path, encoding="utf-8").read()
+
+
+def component_refs(page_src):
+    """Покликання в компонентах, які сторінка імпортує з `@/components/`.
+
+    Повертає {номер: [файли]}. Порядок появи тут не рахується: компонент
+    вставляють у розмітку, і де саме — знає тільки сторінка.
+    """
+    out = {}
+    for name in re.findall(r'from "@/components/([A-Za-z0-9_]+)"', page_src):
+        path = "src/components/%s.tsx" % name
+        if not os.path.exists(path):
+            continue
+        for n in re.findall(r'href="#ref-(\d+)"', read(path)):
+            out.setdefault(int(n), []).append(path)
+    return out
 
 
 def first_appearance(body):
@@ -67,9 +87,10 @@ def main():
 
     order = first_appearance(body)
     defined = [int(m) for m in re.findall(r'<li id="ref-(\d+)">', tail)]
+    comp = component_refs(s)
 
-    broken = [n for n in order if n not in defined]
-    orphan = [n for n in defined if n not in order]
+    broken = [n for n in order + sorted(comp) if n not in defined]
+    orphan = [n for n in defined if n not in order and n not in comp]
     dupes = sorted(set(n for n in defined if defined.count(n) > 1))
     gaps = [n for n in range(1, max(defined) + 1) if n not in defined] if defined else []
 
@@ -79,6 +100,9 @@ def main():
     print("дублі id:", dupes or "—")
     print("дірки в нумерації:", gaps or "—")
     print("порядок за першою появою:", "так" if order == sorted(order) else "ЗБИТИЙ")
+    if comp:
+        for n in sorted(comp):
+            print("  у компоненті: [%d] — %s" % (n, ", ".join(sorted(set(comp[n])))))
 
     w = words_in(body)
     print("слів: %d → readingTime: %d" % (len(w), math.ceil(len(w) / 200.0)))
