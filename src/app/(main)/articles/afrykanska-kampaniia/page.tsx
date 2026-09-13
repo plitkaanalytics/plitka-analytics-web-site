@@ -6,7 +6,7 @@ import { requireVisibleArticle } from "@/lib/articles";
 import { AfricaMap } from "@/components/AfricaMap";
 
 const metadata: Metadata = {
-  title: "Африканська кампанія — PLITKA Analytics",
+  title: "Україна проти «Африканського корпусу» — PLITKA Analytics",
   description:
     "Удар по ролкеру Lady Mariia в Середземному морі, український плацдарм у Лівії, операції ГУР у Судані й Малі: як Україна дістає Росію в її африканському тилу.",
 };
@@ -26,7 +26,10 @@ export default function Page() {
       {/* ============ ARTICLE HEAD ============ */}
       <div className="article-head">
         <span className="eyebrow article-head__eyebrow">Розслідування</span>
-        <h1>Африканська кампанія</h1>
+        <h1>
+          Україна проти «Африканського корпусу». Три роки операцій, яких Київ не
+          визнає
+        </h1>
         <p className="article-head__metaline">час читання 45 хв</p>
         <p className="article-head__dek">
           Звідки біля берегів Лівії беруться дрони, які бʼють по російських
@@ -329,8 +332,9 @@ export default function Page() {
           <a className="ref" href="#ref-15">
             [15]
           </a>
-          , і не єдиний слід української присутності південніше Європи. Про
-          українських військових у західній Лівії ще навесні написали RFI й AP
+          Проте, атаки на морі це не єдине свідчення української присутності у
+          регіоні. Про українських військових у західній Лівії ще навесні
+          написали RFI й AP
           <a className="ref" href="#ref-15">
             [15]
           </a>
