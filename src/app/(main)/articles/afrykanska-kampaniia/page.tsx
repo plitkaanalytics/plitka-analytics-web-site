@@ -198,109 +198,114 @@ export default function Page() {
           .
         </p>
 
-        <div className="aside-note">
-          <div className="aside-note__lbl">Уточнення · близнюки</div>
-          <table>
-            <thead>
-              <tr>
-                <th />
-                <th>Lady Mariia</th>
-                <th>«Балтик Лідер»</th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr>
-                <td>Вигляд</td>
-                <td>
-                  <img
-                    src="/articles/afrykanska-kampaniia/lady-mariia.jpg"
-                    alt="Червоний ролкер на ходу: біла надбудова в носовій частині, два вантажні крани на корпусі"
-                    style={{
-                      width: "100%",
-                      display: "block",
-                      borderRadius: "2px",
-                    }}
-                  />
-                  <span
-                    style={{
-                      display: "block",
-                      marginTop: "5px",
-                      fontSize: "10px",
-                      letterSpacing: "0.04em",
-                      lineHeight: 1.35,
-                      opacity: 0.65,
-                    }}
-                  >
-                    Знімок під імʼям Global Carrier — одним із восьми, під якими
-                    ходив цей корпус
-                  </span>
-                </td>
-                <td>
-                  <img
-                    src="/articles/afrykanska-kampaniia/baltic-leader.jpg"
-                    alt="Червоний ролкер біля причалу: та сама біла надбудова в носовій частині й два вантажні крани"
-                    style={{
-                      width: "100%",
-                      display: "block",
-                      borderRadius: "2px",
-                    }}
-                  />
-                  <span
-                    style={{
-                      display: "block",
-                      marginTop: "5px",
-                      fontSize: "10px",
-                      letterSpacing: "0.04em",
-                      lineHeight: 1.35,
-                      opacity: 0.65,
-                    }}
-                  >
-                    Знімок під імʼям Fleet Leader — останнім перед нинішнім
-                  </span>
-                </td>
-              </tr>
-              <tr>
-                <td>IMO</td>
-                <td>9220641</td>
-                <td>9220639</td>
-              </tr>
-              <tr>
-                <td>Верф, рік</td>
-                <td>Peene-Werft, 2000</td>
-                <td>Peene-Werft, 2000</td>
-              </tr>
-              <tr>
-                <td>Довжина, дедвейт</td>
-                <td>126,88 м, 7184 т</td>
-                <td>126,86 м, 7195 т</td>
-              </tr>
-              <tr>
-                <td>Перше й останнє з колишніх імен</td>
-                <td>Scan Finlandia … Stella-Maria</td>
-                <td>Scan Germania … Fleet Leader</td>
-              </tr>
-              <tr>
-                <td>У МГ-Флот</td>
-                <td>з 21 червня 2021</td>
-                <td>з 16 лютого 2022</td>
-              </tr>
-            </tbody>
-          </table>
-          <p className="amap__cred">
-            {/* TODO(права): знімки взяті з відкритих баз, у кадрі видно
-                копірайт автора. Перед публікацією отримати дозвіл або
-                замінити. */}
-            Знімки суден: MarineTraffic, автор Вольфґанґ Плапп (Fleet Leader).
-            Дані суднових досьє ГУР
-            <a className="ref" href="#ref-4">
-              [4]
-            </a>
-            <a className="ref" href="#ref-12">
-              [12]
-            </a>
-            .
-          </p>
-        </div>
+        <table>
+          <thead>
+            <tr>
+              <th />
+              <th>Lady Mariia</th>
+              <th>«Балтик Лідер»</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Вигляд</td>
+              <td>
+                <img
+                  src="/articles/afrykanska-kampaniia/lady-mariia.jpg"
+                  alt="Червоний ролкер на ходу: біла надбудова в носовій частині, два вантажні крани на корпусі"
+                  style={{
+                    width: "100%",
+                    display: "block",
+                    borderRadius: "2px",
+                  }}
+                />
+                <span
+                  style={{
+                    display: "block",
+                    marginTop: "5px",
+                    fontSize: "10px",
+                    letterSpacing: "0.04em",
+                    lineHeight: 1.35,
+                    opacity: 0.65,
+                  }}
+                >
+                  Знімок під імʼям Global Carrier — одним із восьми, під якими
+                  ходив цей корпус
+                </span>
+              </td>
+              <td>
+                <img
+                  src="/articles/afrykanska-kampaniia/baltic-leader.jpg"
+                  alt="Червоний ролкер на ходу річкою, на палубі — довгі труби; та сама біла надбудова в носовій частині й два вантажні крани"
+                  style={{
+                    width: "100%",
+                    display: "block",
+                    borderRadius: "2px",
+                  }}
+                />
+                <span
+                  style={{
+                    display: "block",
+                    marginTop: "5px",
+                    fontSize: "10px",
+                    letterSpacing: "0.04em",
+                    lineHeight: 1.35,
+                    opacity: 0.65,
+                  }}
+                >
+                  Знімок під нинішнім імʼям: на борту воно стоїть і кирилицею, і
+                  латиницею
+                </span>
+              </td>
+            </tr>
+            <tr>
+              <td>IMO</td>
+              <td>9220641</td>
+              <td>9220639</td>
+            </tr>
+            <tr>
+              <td>Верф, рік</td>
+              <td>Peene-Werft, 2000</td>
+              <td>Peene-Werft, 2000</td>
+            </tr>
+            <tr>
+              <td>Довжина, дедвейт</td>
+              <td>126,88 м, 7184 т</td>
+              <td>126,86 м, 7195 т</td>
+            </tr>
+            <tr>
+              <td>Перше й останнє з колишніх імен</td>
+              <td>Scan Finlandia … Stella-Maria</td>
+              <td>Scan Germania … Fleet Leader</td>
+            </tr>
+            <tr>
+              <td>У МГ-Флот</td>
+              <td>з 21 червня 2021</td>
+              <td>з 16 лютого 2022</td>
+            </tr>
+          </tbody>
+        </table>
+
+        {/* TODO(права): для лівого кадру потрібен дозвіл, для правого —
+            автор і назва ліцензії з картки файлу на Вікісховищі. */}
+        <p
+          style={{
+            marginTop: "-18px",
+            fontSize: "11px",
+            lineHeight: 1.5,
+            opacity: 0.65,
+          }}
+        >
+          Дані суднових досьє ГУР
+          <a className="ref" href="#ref-4">
+            [4]
+          </a>
+          <a className="ref" href="#ref-12">
+            [12]
+          </a>
+          . Знімок «Балтик Лідера» — з Вікісховища; автора й ліцензію вказати
+          перед публікацією.
+        </p>
 
         <p>
           Попередню статтю ми завершили висновком, що втрата Тартуса логістику
