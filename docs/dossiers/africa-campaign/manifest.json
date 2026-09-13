@@ -2462,6 +2462,66 @@
       "sha256": "9a5b38b21ba22c2ffa851884d9f7beb16d65707e0ba33812c0e7ef7093d44c93",
       "archived": "",
       "note": ""
+    },
+    {
+      "n": 166,
+      "url": "https://libyaobserver.ly/news/cell-behind-al-zawiya-and-tripoli-attacks-linked-pro-haftar-commander",
+      "slug": "166-libyaobserver.ly-cell-behind-al-zawiya-and-tripoli-attacks-linked-pro-",
+      "status": 200,
+      "access": "прочитано",
+      "title": "Cell behind Al-Zawiya and Tripoli attacks linked to pro-Haftar commander",
+      "pubdate": "2026-09-08",
+      "chars": 2386,
+      "method": "trafilatura",
+      "extra_lines": 21,
+      "sha256": "eaaf29c19b2a03be222fa9718891f8473272f920c81d939ec4ba85b82b4bef3f",
+      "archived": "",
+      "note": ""
+    },
+    {
+      "n": 167,
+      "url": "https://libyaobserver.ly/news/ukrainian-foreign-ministry-denies-supplying-drones-libya",
+      "slug": "167-libyaobserver.ly-ukrainian-foreign-ministry-denies-supplying-drones-li",
+      "status": 200,
+      "access": "прочитано",
+      "title": "Ukrainian Foreign Ministry denies supplying drones to Libya",
+      "pubdate": "2025-08-28",
+      "chars": 4544,
+      "method": "bs4-full",
+      "extra_lines": null,
+      "sha256": "a2ad284399abaff4faed8343197c8e59c8c016b5d8adb63ea31f06f7f430d200",
+      "archived": "",
+      "note": ""
+    },
+    {
+      "n": 168,
+      "url": "https://libyaobserver.ly/news/russian-official-claims-ukrainian-personnel-trained-libyan-forces-operate-drones-and-uncrewed",
+      "slug": "168-libyaobserver.ly-russian-official-claims-ukrainian-personnel-trained-l",
+      "status": 200,
+      "access": "прочитано",
+      "title": "Russian official claims Ukrainian personnel trained Libyan forces to operate drones and uncrewed boats",
+      "pubdate": "2026-07-19",
+      "chars": 1797,
+      "method": "trafilatura",
+      "extra_lines": 21,
+      "sha256": "4f4f1e8b03cb4357fb090ca123768cc6c07eba8eee9a98c80a6e4885145851ce",
+      "archived": "",
+      "note": ""
+    },
+    {
+      "n": 169,
+      "url": "https://libyaobserver.ly/news/russia-accuses-ukraine-and-gnu-backing-terrorism-africas-sahel",
+      "slug": "169-libyaobserver.ly-russia-accuses-ukraine-and-gnu-backing-terrorism-afri",
+      "status": 200,
+      "access": "прочитано",
+      "title": "Russia accuses Ukraine and GNU of backing terrorism in Africa’s Sahel",
+      "pubdate": "2025-10-09",
+      "chars": 4602,
+      "method": "bs4-full",
+      "extra_lines": null,
+      "sha256": "5000b73d0c866700dc54c75c1344b931882cee9936263707235ddf5cee674639",
+      "archived": "",
+      "note": ""
     }
   ]
 }

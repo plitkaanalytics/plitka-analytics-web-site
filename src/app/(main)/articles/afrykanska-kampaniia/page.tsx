@@ -1,7 +1,9 @@
 import "../chotyry-roky-v-mori-frehaty/frigates.css";
+import "./africa-map.css";
 import type { Metadata } from "next";
 import Link from "next/link";
 import { requireVisibleArticle } from "@/lib/articles";
+import { AfricaMap } from "@/components/AfricaMap";
 
 const metadata: Metadata = {
   title: "Африканська кампанія — PLITKA Analytics",
@@ -44,7 +46,7 @@ export default function Page() {
             [2]
           </a>
           . Вибухи припали на палубу, вантажні крани й район надбудови, на борту
-          спалахнула пожежа, але серйозних пробоїн на відео не видно
+          спалахнула пожежа, але дійсно серйозних ушкоджень на відео не видно
           <a className="ref" href="#ref-3">
             [3]
           </a>
@@ -58,8 +60,8 @@ export default function Page() {
           <a className="ref" href="#ref-5">
             [5]
           </a>
-          . Станом на 12 вересня Lady Mariia стоїть на якорі біля Порт-Саїда;
-          пошкодження, за оцінкою ItaMilRadar, незначні
+          . Станом на 12 вересня Lady Mariia стоїть на якорі біля Порт-Саїда,
+          Єгипет; пошкодження, за оцінкою ItaMilRadar, незначні
           <a className="ref" href="#ref-1">
             [1]
           </a>
@@ -78,12 +80,11 @@ export default function Page() {
             textAlign: "center",
           }}
         >
-          [ ФОТО: ролкер Lady Mariia на ходу ]
+          [ ФОТО: ролкер Lady Mariia під час удару ]
         </div>
         <figcaption>
-          Lady Mariia до удару. Потрібне фото судна з підписом власника знімка й
-          умовою публікації (VesselFinder / MarineTraffic — права в автора
-          кадру).
+          Lady Mariia під час удару. Кадр знятий з дрону фіксує пожежу на порту
+          ролкера.
         </figcaption>
       </figure>
 
@@ -2511,6 +2512,8 @@ export default function Page() {
           території. Спільним лишалося одне: мішенню щоразу була не країна, в
           якій усе відбувалося, а російська присутність у ній.
         </p>
+
+        <AfricaMap />
 
         <p>
           Для Росії підсумок цих трьох років неоднозначний. Вона втратила

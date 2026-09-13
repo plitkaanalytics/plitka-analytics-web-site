@@ -1,0 +1,24 @@
+URL:         https://libyaobserver.ly/news/russian-official-claims-ukrainian-personnel-trained-libyan-forces-operate-drones-and-uncrewed
+Кінцевий:    https://libyaobserver.ly/news/russian-official-claims-ukrainian-personnel-trained-libyan-forces-operate-drones-and-uncrewed
+Заголовок:   Russian official claims Ukrainian personnel trained Libyan forces to operate drones and uncrewed boats
+Дата публ.:  2026-07-19
+Завантажено: 2026-09-12 19:50 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 72841
+Оригінал:    raw/168-libyaobserver.ly-russian-official-claims-ukrainian-personnel-trained-l.html
+sha256:      4f4f1e8b03cb4357fb090ca123768cc6c07eba8eee9a98c80a6e4885145851ce
+Витяг:       trafilatura
+
+==============================================================================
+Russian Deputy Foreign Minister Georgy Borisenko claimed that Ukrainian military personnel trained local forces in Libya to operate drones and uncrewed surface vessels, alleging that the training was linked to the attack on the Russian gas carrier Arctic Metagas in the Mediterranean Sea.
+
+In remarks to Russia’s TASS news agency, Borisenko said Ukrainian military personnel are deployed in several African countries and are working to “open a second front” against Russia.
+
+Asked about growing Ukrainian activity in Africa, the Russian official said this was “particularly true in Mali,” claiming that Ukrainian trainers, including drone specialists, were operating alongside armed groups. He also alleged that Ukrainians were present in Libya.
+
+Borisenko further claimed that “Ukrainian mercenaries” had been seen in other African countries, including Sudan, alleging that they had fought alongside the Rapid Support Forces in military operations in the city of El Fasher.
+
+Earlier, Russian Foreign Minister Sergey Lavrov accused the West of supporting Ukrainian militants in an effort to undermine Moscow’s relations with countries across the Sahel region.
+
+The statements come in the wake of an incident involving the Russian gas carrier Arctic Metagas on March 3, when explosions and a fire occurred about 130 nautical miles north of the port of Sirte. The vessel later refloated and drifted in the Mediterranean.
+
+Russian authorities had previously suggested that the vessel may have been attacked using drones or uncrewed surface vessels, but have not publicly presented evidence identifying those responsible. Borisenko’s claims regarding Libya and Ukraine have not been independently verified, and neither the Libyan nor Ukrainian authorities have officially commented on the allegations.

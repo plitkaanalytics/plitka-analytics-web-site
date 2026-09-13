@@ -174,6 +174,10 @@ The sanctioned russian](https://x.com/midobecker_1/status/2096699086753706092) |
 | 163 | [Mali insurgents hit military bases in ‘complex attacks’ claimed by al ](https://www.cnn.com/2026/04/25/africa/mali-bamako-gunmen-attacks-intl) | 2026-04-25 | прочитано | 4715 | ? | `text/163-cnn.com-mali-bamako-gunmen-attacks-intl.txt` |
 | 164 | [Page Not Found](https://www.hrw.org/news/2025/07/24/mali-russian-forces-malian-army-killed-civilians) | 2020-06-02 | HTTP 404 — НЕ ПРОЧИТАНО | 5066 | ? | `text/164-hrw.org-mali-russian-forces-malian-army-killed-civilians.txt` |
 | 165 | [Ukraine claims to be fighting Russia in a secret war in Sudan](https://www.nzz.ch/english/ukraine-claims-to-be-fighting-russia-in-a-secret-war-in-sudan-ld.1819984) | 2024-03-01 | прочитано | 6967 | ? | `text/165-nzz.ch-ukraine-claims-to-be-fighting-russia-in-a-secret-war-in-sudan-l.txt` |
+| 166 | [Cell behind Al-Zawiya and Tripoli attacks linked to pro-Haftar command](https://libyaobserver.ly/news/cell-behind-al-zawiya-and-tripoli-attacks-linked-pro-haftar-commander) | 2026-09-08 | прочитано | 2386 | ? | `text/166-libyaobserver.ly-cell-behind-al-zawiya-and-tripoli-attacks-linked-pro-.txt` |
+| 167 | [Ukrainian Foreign Ministry denies supplying drones to Libya](https://libyaobserver.ly/news/ukrainian-foreign-ministry-denies-supplying-drones-libya) | 2025-08-28 | прочитано | 4544 | ? | `text/167-libyaobserver.ly-ukrainian-foreign-ministry-denies-supplying-drones-li.txt` |
+| 168 | [Russian official claims Ukrainian personnel trained Libyan forces to o](https://libyaobserver.ly/news/russian-official-claims-ukrainian-personnel-trained-libyan-forces-operate-drones-and-uncrewed) | 2026-07-19 | прочитано | 1797 | ? | `text/168-libyaobserver.ly-russian-official-claims-ukrainian-personnel-trained-l.txt` |
+| 169 | [Russia accuses Ukraine and GNU of backing terrorism in Africa’s Sahel](https://libyaobserver.ly/news/russia-accuses-ukraine-and-gnu-backing-terrorism-africas-sahel) | 2025-10-09 | прочитано | 4602 | ? | `text/169-libyaobserver.ly-russia-accuses-ukraine-and-gnu-backing-terrorism-afri.txt` |
 
 ## Проблемні джерела
 
