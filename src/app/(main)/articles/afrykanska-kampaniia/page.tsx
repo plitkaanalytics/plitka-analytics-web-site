@@ -25,7 +25,7 @@ export default function Page() {
       <div className="article-head">
         <span className="eyebrow article-head__eyebrow">Розслідування</span>
         <h1>Африканська кампанія</h1>
-        <p className="article-head__metaline">час читання 18 хв</p>
+        <p className="article-head__metaline">час читання 45 хв</p>
         <p className="article-head__dek">
           Звідки біля берегів Лівії беруться дрони, які бʼють по російських
           суднах, — і як Україна опинилася в африканському тилу Кремля

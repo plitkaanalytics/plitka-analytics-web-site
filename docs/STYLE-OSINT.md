@@ -183,8 +183,13 @@
 npx prettier --write "src/app/(main)/articles/<slug>/page.tsx"
 npx tsc --noEmit
 npm run build
+python scripts/audit-refs.py <slug>
 grep -i "корпус" src/app/\(main\)/articles/<slug>/page.tsx
 ```
+
+`audit-refs.py` перевіряє биті й осиротілі покликання, порядок нумерації за
+першою появою, обсяг для `readingTime`, кількість плейсхолдерів і латиницю
+всередині кириличних слів. З `--fix` перенумеровує.
 
 Далі вручну:
 
