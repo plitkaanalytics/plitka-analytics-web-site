@@ -9,6 +9,9 @@ const metadata: Metadata = {
   title: "Україна проти «Африканського корпусу» — PLITKA Analytics",
   description:
     "Удар по ролкеру Lady Mariia в Середземному морі, український плацдарм у Лівії, операції ГУР у Судані й Малі: як Україна дістає Росію в її африканському тилу.",
+  openGraph: {
+    images: ["/articles/afrykanska-kampaniia/cover.webp"],
+  },
 };
 
 const SLUG = "afrykanska-kampaniia";
@@ -39,6 +42,12 @@ export default function Page() {
 
       {/* ============ LEDE ============ */}
       <div className="lede-block">
+        <div className="lede-block__img">
+          <img
+            src="/articles/afrykanska-kampaniia/cover.webp"
+            alt="Шеренга бійців у пустелі тримає прапор Азаваду й прапор України"
+          />
+        </div>
         <p className="lede">
           6 вересня 2026 року в Середземному морі, між Критом і Лівією, кілька
           дронів скинули боєприпаси на російський ролкер Lady Mariia
@@ -71,25 +80,6 @@ export default function Page() {
           .
         </p>
       </div>
-
-      {/* TODO(медіа): замінити на справжній кадр. Перед публікацією жодного
-          плейсхолдера лишитися не має — STYLE-OSINT §5. */}
-      <figure className="fig" data-placeholder>
-        <div
-          style={{
-            border: "1px dashed currentColor",
-            opacity: 0.55,
-            padding: "2.5rem 1rem",
-            textAlign: "center",
-          }}
-        >
-          [ ФОТО: ролкер Lady Mariia під час удару ]
-        </div>
-        <figcaption>
-          Lady Mariia під час удару. Кадр знятий з дрону фіксує пожежу на порту
-          ролкера.
-        </figcaption>
-      </figure>
 
       {/* ============ ARTICLE BODY ============ */}
       <div className="article-body">
@@ -149,24 +139,26 @@ export default function Page() {
           .
         </p>
 
-        {/* TODO(медіа): замінити на справжній кадр. Перед публікацією жодного
-            плейсхолдера лишитися не має — STYLE-OSINT §5. */}
-        <figure className="fig" data-placeholder>
-          <div
-            style={{
-              border: "1px dashed currentColor",
-              opacity: 0.55,
-              padding: "2.5rem 1rem",
-              textAlign: "center",
-            }}
-          >
-            [ ВІДЕО: https://youtu.be/QtJvB5nZiBo ]
-          </div>
+        <figure className="fig">
+          <iframe
+            src="https://www.youtube.com/embed/QtJvB5nZiBo?rel=0"
+            title="Удар дронів по ролкеру Lady Mariia, 6 вересня 2026 року"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowFullScreen
+            loading="lazy"
+            style={{ aspectRatio: "16/9", height: "auto" }}
+          />
           <figcaption>
-            Кадри, які 6 вересня оприлюднив канал «НЕВЗОРОВ»: дрони скидають
-            боєприпаси на палубу, після одного з влучань займається пожежа.
-            Вставляти через XPost (допис @midobecker_1 із тим самим відео) або
-            кадром із підписом джерела.
+            Дрони скидають боєприпаси на палубу Lady Mariia; після одного з
+            влучань займається пожежа.{" "}
+            <em>
+              Кадри 6 вересня оприлюднив канал «НЕВЗОРОВ», на них посилається
+              Militarnyi
+            </em>
+            <a className="ref" href="#ref-3">
+              [3]
+            </a>
+            .
           </figcaption>
         </figure>
 
@@ -216,6 +208,39 @@ export default function Page() {
               </tr>
             </thead>
             <tbody>
+              {/* TODO(медіа): замінити на справжні кадри. Потрібні знімки обох
+                  суден бортом, одного ракурсу, з підписом власника кадру. */}
+              <tr>
+                <td>Вигляд</td>
+                <td>
+                  <div
+                    data-placeholder
+                    style={{
+                      border: "1px dashed currentColor",
+                      opacity: 0.55,
+                      padding: "1.6rem 0.5rem",
+                      textAlign: "center",
+                      fontSize: "11px",
+                    }}
+                  >
+                    [ ФОТО: Lady Mariia бортом ]
+                  </div>
+                </td>
+                <td>
+                  <div
+                    data-placeholder
+                    style={{
+                      border: "1px dashed currentColor",
+                      opacity: 0.55,
+                      padding: "1.6rem 0.5rem",
+                      textAlign: "center",
+                      fontSize: "11px",
+                    }}
+                  >
+                    [ ФОТО: «Балтик Лідер» бортом ]
+                  </div>
+                </td>
+              </tr>
               <tr>
                 <td>IMO</td>
                 <td>9220641</td>
@@ -254,44 +279,6 @@ export default function Page() {
             .
           </p>
         </div>
-
-        {/* TODO(медіа): замінити на справжні кадри. Перед публікацією жодного
-            плейсхолдера лишитися не має — STYLE-OSINT §5. */}
-        <figure className="fig" data-placeholder>
-          <div
-            style={{
-              display: "grid",
-              gridTemplateColumns: "1fr 1fr",
-              gap: "12px",
-            }}
-          >
-            <div
-              style={{
-                border: "1px dashed currentColor",
-                opacity: 0.55,
-                padding: "2.5rem 1rem",
-                textAlign: "center",
-              }}
-            >
-              [ ФОТО: ролкер Lady Mariia ]
-            </div>
-            <div
-              style={{
-                border: "1px dashed currentColor",
-                opacity: 0.55,
-                padding: "2.5rem 1rem",
-                textAlign: "center",
-              }}
-            >
-              [ ФОТО: ролкер «Балтик Лідер» ]
-            </div>
-          </div>
-          <figcaption>
-            Два однакові силуети — саме те, що таблиця каже цифрами. Потрібні
-            знімки обох суден одного ракурсу (борт), з підписом власника кадру й
-            умовою публікації.
-          </figcaption>
-        </figure>
 
         <p>
           Попередню статтю ми завершили висновком, що втрата Тартуса логістику
@@ -1193,25 +1180,6 @@ export default function Page() {
           </a>
           .
         </p>
-
-        {/* TODO(медіа) */}
-        <figure className="fig" data-placeholder>
-          <div
-            style={{
-              border: "1px dashed currentColor",
-              opacity: 0.55,
-              padding: "2.5rem 1rem",
-              textAlign: "center",
-            }}
-          >
-            [ ФОТО: туарезькі бійці з українським прапором, липень 2024 ]
-          </div>
-          <figcaption>
-            Знімок, який опублікувало Kyiv Post і автентичність якого
-            підтвердили джерела в українських силових структурах. Потрібні права
-            на публікацію.
-          </figcaption>
-        </figure>
 
         <p>
           Далі пішло лавиною. 4 серпня Малі розірвало дипломатичні відносини з

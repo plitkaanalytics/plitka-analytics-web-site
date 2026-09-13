@@ -1525,7 +1525,10 @@ p {
   margin: 24px 0 10px;
 }
 
-.article-body a.ref {
+/* Лід лежить поза `.article-body`, тому покликання в ньому лишалися звичайним
+   текстом і злипалися зі словом: «Lady Mariia[1][2]». */
+.article-body a.ref,
+.lede-block a.ref {
   color: var(--red);
   border: none;
   font-family: var(--mono);
