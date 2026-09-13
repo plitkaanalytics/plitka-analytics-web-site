@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Де зняті відео з Судану: геолокації Bellingcat</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<link rel="stylesheet" href="/embeds/maplibre-gl.css" />
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html, body, #map { width: 100%; height: 100%; font-family: sans-serif; }
+
+  /* Підкладка приглушена, але не знебарвлена: на міському масштабі читач має
+     бачити Ніл і вулиці — саме по них ці кадри й геолокували. */
+  .leaflet-tile-pane { filter: saturate(0.3) brightness(1.04) contrast(0.96); }
+
+  .legend {
+    background: rgba(8, 15, 40, 0.90);
+    color: #fff;
+    padding: 12px 16px;
+    border-radius: 4px;
+    font-size: 12px;
+    line-height: 1.5;
+    max-width: 300px;
+  }
+  .legend__title {
+    font-weight: 700;
+    font-size: 10px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: rgba(255,255,255,0.5);
+    margin-bottom: 8px;
+  }
+  .legend__item { display: flex; align-items: center; gap: 8px; margin-bottom: 5px; }
+  .legend__note {
+    margin-top: 8px;
+    padding-top: 8px;
+    border-top: 1px solid rgba(255,255,255,0.18);
+    font-size: 11px;
+    color: rgba(255,255,255,0.72);
+  }
+  .legend__dot, .legend__sq {
+    width: 12px; height: 12px;
+    border: 2px solid #fff;
+    flex-shrink: 0;
+  }
+  .legend__dot { border-radius: 50%; background: #f24c06; }
+  .legend__sq { background: #1f4e78; transform: rotate(45deg); }
+
+  /* Позначка удару. Пульсації тут немає навмисно: це зафіксоване місце, а не
+     чинна загроза. */
+  .gm { position: relative; width: 16px; height: 16px; }
+  .gm__dot {
+    width: 12px; height: 12px;
+    background: #f24c06;
+    border-radius: 50%;
+    border: 2px solid #fff;
+    box-shadow: 0 0 0 1px rgba(0,0,0,0.25);
+    position: absolute; top: 50%; left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .gm--pos .gm__dot {
+    background: #1f4e78;
+    border-radius: 2px;
+    transform: translate(-50%, -50%) rotate(45deg);
+  }
+
+  .leaflet-tooltip.geo-tip {
+    background: rgba(8,15,40,0.88) !important;
+    border: none !important;
+    border-radius: 3px !important;
+    color: #fff !important;
+    font-size: 12px !important;
+    padding: 5px 9px !important;
+    box-shadow: none !important;
+    max-width: 260px !important;
+    white-space: normal !important;
+  }
+  .leaflet-tooltip.geo-tip::before { display: none !important; }
+  .geo-tip__c {
+    display: block;
+    margin-top: 3px;
+    font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+    font-size: 10.5px;
+    opacity: 0.7;
+  }
+</style>
+</head>
+<body>
+<div id="map"></div>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="/embeds/maplibre-gl.js"></script>
+<script src="/embeds/leaflet-maplibre-gl.js"></script>
+<script>
+/**
+ * Геолокації Bellingcat із розбору жовтневого відео 2023 року.
+ * Джерело координат — docs/dossiers/africa-campaign/text/159-bellingcat*.txt,
+ * стаття «Examining Videos of Suspected Ukrainian Riflemen in Sudan».
+ *
+ * `kind`: position — позиція стрільця, strike — місце удару дрона.
+ * Жодної точки поза цим списком тут немає: те, що CNN геолокувала окремо
+ * (міст Шамбат, передмістя Омбада), Bellingcat прямо називає іншими місцями,
+ * а координат до них джерело не дає.
+ */
+const POINTS = [
+  {
+    kind: 'position',
+    name: 'Позиція стрільця',
+    note: 'Гори Аль-Мархіят, на захід від Омдурмана',
+    lat: 15.708352, lng: 32.426962, dir: 'right',
+  },
+  {
+    kind: 'strike',
+    name: 'Будинок на березі Нілу',
+    note: 'Вулиця Аль-Амін Ель-Караб, Хартум',
+    lat: 15.656855, lng: 32.514080, dir: 'right',
+  },
+  {
+    kind: 'strike',
+    name: 'Район Абу-Роф',
+    note: 'Схід Омдурмана',
+    lat: 15.658564, lng: 32.504158, dir: 'bottom',
+  },
+  {
+    kind: 'strike',
+    name: 'Район Вад-Нубаві',
+    note: 'Захід від площі Аль-Джблаб',
+    lat: 15.661269, lng: 32.489888, dir: 'left',
+  },
+  {
+    kind: 'strike',
+    name: 'Площа Аль-Джблаб',
+    note: 'Вад-Нубаві, Омдурман',
+    lat: 15.659761, lng: 32.498806, dir: 'top',
+  },
+  {
+    kind: 'strike',
+    name: 'Площа в Абу-Роф',
+    note: 'Удари по будівлях біля подвірʼя на краю площі',
+    lat: 15.659942, lng: 32.503282, dir: 'top',
+  },
+  {
+    kind: 'strike',
+    name: 'Будівля в Абу-Роф',
+    note: 'За кілька кварталів від тієї самої площі',
+    lat: 15.659434, lng: 32.501828, dir: 'bottom',
+  },
+];
+
+const map = L.map('map', { zoomControl: true, attributionControl: true });
+
+(function () {
+  let webgl = false;
+  try {
+    const c = document.createElement('canvas');
+    webgl = !!(window.WebGLRenderingContext &&
+      (c.getContext('webgl') || c.getContext('experimental-webgl')));
+  } catch (e) { webgl = false; }
+  if (webgl && window.maplibregl && L.maplibreGL) {
+    L.maplibreGL({
+      style: '/embeds/basemap-style.json',
+      attribution: '&copy; OpenFreeMap &copy; OpenMapTiles Data from OpenStreetMap',
+    }).addTo(map);
+  } else {
+    L.tileLayer(
+      'https://services.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}',
+      { attribution: '&copy; Esri', maxZoom: 17 }
+    ).addTo(map);
+  }
+})();
+
+map.fitBounds(L.latLngBounds(POINTS.map(p => [p.lat, p.lng])), {
+  padding: [80, 80],
+  maxZoom: 13,
+});
+
+POINTS.forEach(p => {
+  const cls = p.kind === 'position' ? 'gm gm--pos' : 'gm';
+  const icon = L.divIcon({
+    className: '',
+    html: `<div class="${cls}"><div class="gm__dot"></div></div>`,
+    iconSize: [16, 16],
+    iconAnchor: [8, 8],
+  });
+  const off = { right: [9, 0], left: [-9, 0], top: [0, -9], bottom: [0, 9] }[p.dir] || [9, 0];
+  L.marker([p.lat, p.lng], { icon, zIndexOffset: 100 })
+    .bindTooltip(
+      `<strong>${p.name}</strong><br><span style="opacity:.75;font-size:11px">${p.note}</span>` +
+      `<span class="geo-tip__c">${p.lat.toFixed(6)}, ${p.lng.toFixed(6)}</span>`,
+      { permanent: p.kind === 'position', direction: p.dir, offset: off, className: 'geo-tip' }
+    )
+    .addTo(map);
+});
+
+const legend = L.control({ position: 'bottomleft' });
+legend.onAdd = () => {
+  const div = L.DomUtil.create('div', 'legend');
+  div.innerHTML = `
+    <div class="legend__title">Геолокації Bellingcat</div>
+    <div class="legend__item"><div class="legend__sq"></div><span>позиція стрільця</span></div>
+    <div class="legend__item"><div class="legend__dot"></div><span>місце удару дрона</span></div>
+    <div class="legend__note">
+      Удари, про які окремо повідомляла CNN — міст Шамбат і передмістя Омбада, —
+      Bellingcat називає іншими місцями; координат до них джерело не дає, тому
+      на карті їх немає.
+    </div>
+  `;
+  L.DomEvent.disableClickPropagation(div);
+  return div;
+};
+legend.addTo(map);
+
+// Висоту вбудови сторінка задає сама (AutoFrame fallbackHeight): тіло тут
+// займає всі 100 % кадру, тож міряти його зсередини — замкнене коло.
+</script>
+</body>
+</html>

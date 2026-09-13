@@ -99,6 +99,17 @@ def main():
     print("осиротілі (є в списку, немає в тексті):", orphan or "—")
     print("дублі id:", dupes or "—")
     print("дірки в нумерації:", gaps or "—")
+    # Покликання, у якому текст не збігається з адресою: `[35][36]` в одному
+    # <a> веде лише на перше джерело, а друге число просто намальоване.
+    malformed = []
+    for m in re.finditer(r'<a className="ref" href="#ref-(\d+)">(.*?)</a>', body, re.S):
+        nums = re.findall(r"\[(\d+)\]", m.group(2))
+        if nums != [m.group(1)]:
+            shown = "".join("[%s]" % n for n in nums) or "порожньо"
+            line = body[: m.start()].count("\n") + 1
+            malformed.append("#ref-%s → %s (рядок %d)" % (m.group(1), shown, line))
+    print("текст покликання = адреса:", "так" if not malformed else "НІ — " + "; ".join(malformed))
+
     print("порядок за першою появою:", "так" if order == sorted(order) else "ЗБИТИЙ")
     if comp:
         for n in sorted(comp):
@@ -119,10 +130,10 @@ def main():
     print("мішані слова (латиниця в кирилиці):", mixed or "—")
 
     if not args.fix:
-        return 0 if not (broken or orphan or dupes or gaps) else 1
+        return 0 if not (broken or orphan or dupes or gaps or malformed) else 1
 
-    if broken or orphan or dupes or gaps:
-        sys.exit("--fix працює лише на чистому списку: спершу полагодити биті й осиротілі")
+    if broken or orphan or dupes or gaps or malformed:
+        sys.exit("--fix працює лише на чистому списку: спершу полагодити знайдене вище")
     if order == sorted(order):
         print("\nнумерація вже за першою появою, нічого не міняю")
         return 0
