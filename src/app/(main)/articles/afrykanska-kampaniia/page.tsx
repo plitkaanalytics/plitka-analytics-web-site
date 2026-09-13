@@ -209,37 +209,54 @@ export default function Page() {
               </tr>
             </thead>
             <tbody>
-              {/* TODO(медіа): замінити на справжні кадри. Потрібні знімки обох
-                  суден бортом, одного ракурсу, з підписом власника кадру. */}
               <tr>
                 <td>Вигляд</td>
                 <td>
-                  <div
-                    data-placeholder
+                  <img
+                    src="/articles/afrykanska-kampaniia/lady-mariia.jpg"
+                    alt="Червоний ролкер на ходу: біла надбудова в носовій частині, два вантажні крани на корпусі"
                     style={{
-                      border: "1px dashed currentColor",
-                      opacity: 0.55,
-                      padding: "1.6rem 0.5rem",
-                      textAlign: "center",
-                      fontSize: "11px",
+                      width: "100%",
+                      display: "block",
+                      borderRadius: "2px",
+                    }}
+                  />
+                  <span
+                    style={{
+                      display: "block",
+                      marginTop: "5px",
+                      fontSize: "10px",
+                      letterSpacing: "0.04em",
+                      lineHeight: 1.35,
+                      opacity: 0.65,
                     }}
                   >
-                    [ ФОТО: Lady Mariia бортом ]
-                  </div>
+                    Знімок під імʼям Global Carrier — одним із восьми, під якими
+                    ходив цей корпус
+                  </span>
                 </td>
                 <td>
-                  <div
-                    data-placeholder
+                  <img
+                    src="/articles/afrykanska-kampaniia/baltic-leader.jpg"
+                    alt="Червоний ролкер біля причалу: та сама біла надбудова в носовій частині й два вантажні крани"
                     style={{
-                      border: "1px dashed currentColor",
-                      opacity: 0.55,
-                      padding: "1.6rem 0.5rem",
-                      textAlign: "center",
-                      fontSize: "11px",
+                      width: "100%",
+                      display: "block",
+                      borderRadius: "2px",
+                    }}
+                  />
+                  <span
+                    style={{
+                      display: "block",
+                      marginTop: "5px",
+                      fontSize: "10px",
+                      letterSpacing: "0.04em",
+                      lineHeight: 1.35,
+                      opacity: 0.65,
                     }}
                   >
-                    [ ФОТО: «Балтик Лідер» бортом ]
-                  </div>
+                    Знімок під імʼям Fleet Leader — останнім перед нинішнім
+                  </span>
                 </td>
               </tr>
               <tr>
@@ -269,7 +286,11 @@ export default function Page() {
               </tr>
             </tbody>
           </table>
-          <p>
+          <p className="amap__cred">
+            {/* TODO(права): знімки взяті з відкритих баз, у кадрі видно
+                копірайт автора. Перед публікацією отримати дозвіл або
+                замінити. */}
+            Знімки суден: MarineTraffic, автор Вольфґанґ Плапп (Fleet Leader).
             Дані суднових досьє ГУР
             <a className="ref" href="#ref-4">
               [4]
@@ -525,6 +546,23 @@ export default function Page() {
           .
         </p>
 
+        <figure className="fig">
+          <img
+            src="/articles/afrykanska-kampaniia/zelensky-burhan.jpg"
+            alt="Двоє чоловіків сидять один навпроти одного в кріслах у залі аеропорту; між ними низький скляний столик"
+            style={{ width: "100%", display: "block" }}
+          />
+          <figcaption>
+            Зеленський і аль-Бурхан у Шенноні, 23 вересня 2023 року. Знімок
+            поширив Офіс президента; за чотири дні до зустрічі CNN опублікувала
+            розслідування про удари по RSF в Омдурмані
+            <a className="ref" href="#ref-26">
+              [26]
+            </a>
+            .
+          </figcaption>
+        </figure>
+
         <p>
           6 жовтня 2023 року в українських телеграм-каналах і на сайті «Бабель»
           зʼявилося ще одне відео — світлошкірі чоловіки зі снайперськими
@@ -538,6 +576,28 @@ export default function Page() {
           </a>
           .
         </p>
+
+        <figure className="fig">
+          <iframe
+            src="https://www.youtube.com/embed/OQD-wnaZ3-I?rel=0"
+            title="Добірка кадрів із Судану, яку розбирав Bellingcat: стрілець у горах і удари дронів"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowFullScreen
+            loading="lazy"
+            style={{ aspectRatio: "16/9", height: "auto" }}
+          />
+          <figcaption>
+            Та сама добірка, яку розбирав Bellingcat: починається зі стрільця в
+            горах, далі — кадри ударів дронів по кварталах Омдурмана. Копію
+            кращої якості хтось надіслав дописувачу Bellingcat та іншим
+            журналістам — тобто відео не просто «витекло», його свідомо
+            поширювали
+            <a className="ref" href="#ref-27">
+              [27]
+            </a>
+            .
+          </figcaption>
+        </figure>
 
         <figure className="fig">
           <AutoFrame
@@ -607,24 +667,25 @@ export default function Page() {
           .
         </p>
 
-        {/* TODO(медіа): замінити на справжній кадр. Перед публікацією жодного
-            плейсхолдера лишитися не має — STYLE-OSINT §5. */}
-        <figure className="fig" data-placeholder>
-          <div
-            style={{
-              border: "1px dashed currentColor",
-              opacity: 0.55,
-              padding: "2.5rem 1rem",
-              textAlign: "center",
-            }}
-          >
-            [ ВІДЕО: нічний штурм будівлі в ІЧ-діапазоні, Kyiv Post, листопад
-            2023 ]
-          </div>
+        <figure className="fig">
+          <iframe
+            src="https://www.youtube.com/embed/zEgQq9g5zMg?rel=0"
+            title="Нічний штурм будівлі в Судані, зйомка з дрона в інфрачервоному діапазоні"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowFullScreen
+            loading="lazy"
+            style={{ aspectRatio: "16/9", height: "auto" }}
+          />
           <figcaption>
-            Зйомка з дрона: постріл із гранатомета у вікно, далі — денні кадри з
-            висоти двісті–чотириста метрів. Видання наголошує, що незалежно
-            перевірити записи не може. Потрібен дозвіл Kyiv Post.
+            Нічний штурм, знятий з дрона в інфрачервоному діапазоні: постріл із
+            гранатомета у вікно. Kyiv Post, яке оприлюднило запис, наголошує, що
+            незалежно перевірити його не може; джерело в українському
+            безпековому секторі назвало це «ймовірно, роботою спецпідрозділів
+            ГУР»
+            <a className="ref" href="#ref-29">
+              [29]
+            </a>
+            .
           </figcaption>
         </figure>
 
@@ -852,10 +913,10 @@ export default function Page() {
         </h2>
 
         <p>
-          Малі з 2020 року керують військові, які прийшли двома переворотами
-          поспіль. Вони вигнали французький контингент і місію ООН, а натомість
-          покликали «Вагнер»: угоду уклали наприкінці 2021-го на прохання хунти,
-          і, за оцінкою Держдепартаменту США, вона коштувала десять мільйонів
+          Малі з 2020 року керується хунтою, яка прийшла до влади двома
+          переворотами поспіль. Врешті вони вигнали французький контингент та
+          місію ООН, а натомість покликали в країну «Вагнер», за оцінкою
+          Держдепартаменту США, угода з найманцяси коштувала десять мільйонів
           доларів на місяць
           <a className="ref" href="#ref-19">
             [19]
