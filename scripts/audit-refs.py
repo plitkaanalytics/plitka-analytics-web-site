@@ -132,10 +132,15 @@ def main():
     if not args.fix:
         return 0 if not (broken or orphan or dupes or gaps or malformed) else 1
 
-    if broken or orphan or dupes or gaps or malformed:
+    # Дірка в нумерації --fix не блокує: саме він її й закриває — так буває
+    # щоразу, коли зі списку прибирають джерело, яке більше не цитується.
+    if broken or orphan or dupes or malformed:
         sys.exit("--fix працює лише на чистому списку: спершу полагодити знайдене вище")
-    if order == sorted(order):
-        print("\nнумерація вже за першою появою, нічого не міняю")
+    # Монотонного порядку замало: після вилучення джерела номери йдуть по
+    # порядку, але з дірою — читач бачить стрибок із [52] на [54]. Міняти
+    # нічого не треба лише тоді, коли номери вже є суцільним 1…N.
+    if order == list(range(1, len(order) + 1)):
+        print("\nнумерація вже суцільна й за першою появою, нічого не міняю")
         return 0
 
     mapping = {old: k + 1 for k, old in enumerate(order)}
