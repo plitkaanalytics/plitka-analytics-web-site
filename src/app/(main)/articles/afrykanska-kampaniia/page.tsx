@@ -12,7 +12,7 @@ const metadata: Metadata = {
   description:
     "Удар по ролкеру Lady Mariia в Середземному морі, український плацдарм у Лівії, операції ГУР у Судані й Малі: як Україна дістає Росію в її африканському тилу.",
   openGraph: {
-    images: ["/articles/afrykanska-kampaniia/cover.webp"],
+    images: ["/articles/afrykanska-kampaniia/cover.jpg"],
   },
 };
 
@@ -46,8 +46,8 @@ export default function Page() {
       <div className="lede-block">
         <div className="lede-block__img">
           <img
-            src="/articles/afrykanska-kampaniia/cover.webp"
-            alt="Шеренга бійців у пустелі тримає прапор Азаваду й прапор України"
+            src="/articles/afrykanska-kampaniia/cover.jpg"
+            alt="Обличчя туарега в синьому тагельмусті: відкриті лише очі"
           />
         </div>
         <p className="lede">
@@ -151,16 +151,7 @@ export default function Page() {
             style={{ aspectRatio: "16/9", height: "auto" }}
           />
           <figcaption>
-            Дрони скидають боєприпаси на палубу Lady Mariia; після одного з
-            влучань займається пожежа.{" "}
-            <em>
-              Кадри 6 вересня оприлюднив канал «НЕВЗОРОВ», на них посилається
-              Militarnyi
-            </em>
-            <a className="ref" href="#ref-3">
-              [3]
-            </a>
-            .
+            Кадри удару по Lady Mariia, 6 вересня 2026 року.
           </figcaption>
         </figure>
 
@@ -216,6 +207,8 @@ export default function Page() {
                   alt="Червоний ролкер на ходу: біла надбудова в носовій частині, два вантажні крани на корпусі"
                   style={{
                     width: "100%",
+                    aspectRatio: "16 / 9",
+                    objectFit: "cover",
                     display: "block",
                     borderRadius: "2px",
                   }}
@@ -240,6 +233,8 @@ export default function Page() {
                   alt="Червоний ролкер на ходу річкою, на палубі — довгі труби; та сама біла надбудова в носовій частині й два вантажні крани"
                   style={{
                     width: "100%",
+                    aspectRatio: "16 / 9",
+                    objectFit: "cover",
                     display: "block",
                     borderRadius: "2px",
                   }}
@@ -537,13 +532,7 @@ export default function Page() {
             style={{ width: "100%", display: "block" }}
           />
           <figcaption>
-            Зеленський і аль-Бурхан у Шенноні, 23 вересня 2023 року. Знімок
-            поширив Офіс президента; за чотири дні до зустрічі CNN опублікувала
-            розслідування про удари по RSF в Омдурмані
-            <a className="ref" href="#ref-26">
-              [26]
-            </a>
-            .
+            Зеленський і аль-Бурхан у Шенноні, 23 вересня 2023 року.
           </figcaption>
         </figure>
 
@@ -571,15 +560,8 @@ export default function Page() {
             style={{ aspectRatio: "16/9", height: "auto" }}
           />
           <figcaption>
-            Та сама добірка, яку розбирав Bellingcat: починається зі стрільця в
-            горах, далі — кадри ударів дронів по кварталах Омдурмана. Копію
-            кращої якості хтось надіслав дописувачу Bellingcat та іншим
-            журналістам — тобто відео не просто «витекло», його свідомо
-            поширювали
-            <a className="ref" href="#ref-27">
-              [27]
-            </a>
-            .
+            Добірка, яку розбирав Bellingcat: стрілець у горах, далі — удари
+            дронів.
           </figcaption>
         </figure>
 
@@ -590,16 +572,7 @@ export default function Page() {
             fallbackHeight={620}
             mobileFallbackHeight={480}
           />
-          <figcaption>
-            Сім точок, які Bellingcat визначив за кадрами. Позиція стрільця
-            стоїть за дванадцять кілометрів від решти, а всі шість ударів лягли
-            у два сусідні квартали Омдурмана — Абу-Роф і Вад-Нубаві — та в один
-            будинок на протилежному березі Нілу, вже в Хартумі
-            <a className="ref" href="#ref-27">
-              [27]
-            </a>
-            .
-          </figcaption>
+          <figcaption>Де зняли ці кадри: сім геолокацій Bellingcat.</figcaption>
         </figure>
 
         <p>
@@ -661,15 +634,7 @@ export default function Page() {
             style={{ aspectRatio: "16/9", height: "auto" }}
           />
           <figcaption>
-            Нічний штурм, знятий з дрона в інфрачервоному діапазоні: постріл із
-            гранатомета у вікно. Kyiv Post, яке оприлюднило запис, наголошує, що
-            незалежно перевірити його не може; джерело в українському
-            безпековому секторі назвало це «ймовірно, роботою спецпідрозділів
-            ГУР»
-            <a className="ref" href="#ref-29">
-              [29]
-            </a>
-            .
+            Нічний штурм будинку в Омдурмані, зйомка з дрона в ІЧ-діапазоні.
           </figcaption>
         </figure>
 
@@ -940,7 +905,8 @@ export default function Page() {
             style={{ width: "100%", display: "block" }}
           />
           <figcaption>
-            Наслідки бою: бійці позують перед покинутою бронемашиною.
+            Наслідки бою під Тінзаватеном. Кадри з тілами загиблих і полоненими,
+            які розійшлися ширше, ми не беремо.
           </figcaption>
         </figure>
 
@@ -1244,7 +1210,7 @@ export default function Page() {
             style={{ aspectRatio: "16/9", height: "auto" }}
           />
           <figcaption>
-            Росіяни залишають Кідаль без бою. Кадри поширили туарезькі бійці
+            «Африканський корпус» залишає Кідаль, квітень 2026 року.
           </figcaption>
         </figure>
 
@@ -1509,13 +1475,7 @@ export default function Page() {
             style={{ aspectRatio: "16/9", height: "auto" }}
           />
           <figcaption>
-            Боєприпаси скидає гексакоптер — а це мала дистанція. Саме звідси
-            висновок, що дрони запускали з сусіднього судна, а не з берега: з
-            берега це було б можливо лише за кілька миль від нього
-            <a className="ref" href="#ref-57">
-              [57]
-            </a>
-            .
+            Удар по танкеру Qendil: боєприпаси скидає гексакоптер.
           </figcaption>
         </figure>
 
@@ -1559,22 +1519,16 @@ export default function Page() {
           .
         </p>
 
-        {/* TODO(медіа) */}
-        <figure className="fig" data-placeholder>
-          <div
-            style={{
-              border: "1px dashed currentColor",
-              opacity: 0.55,
-              padding: "2.5rem 1rem",
-              textAlign: "center",
-            }}
-          >
-            [ ФОТО: корпус Arctic Metagaz із пробоїнами, дрейф у Середземному
-            морі ]
-          </div>
+        {/* TODO(права): знімок треба атрибутувати — автор і умова публікації. */}
+        <figure className="fig">
+          <img
+            src="/articles/afrykanska-kampaniia/arctic-metagaz-hull.jpg"
+            alt="Вигорілий газовоз із зеленим корпусом дрейфує у відкритому морі; надбудова в кормовій частині зруйнована пожежею"
+            style={{ width: "100%", display: "block" }}
+          />
           <figcaption>
-            Arctic Metagaz з чіткими слідами масштабної пожежі в районі
-            машинного відділення
+            Те, що лишилося від Arctic Metagaz. На носі ще читається назва
+            кирилицею.
           </figcaption>
         </figure>
 
@@ -1739,76 +1693,20 @@ export default function Page() {
           .
         </p>
 
-        <table>
-          <thead>
-            <tr>
-              <th>Питання</th>
-              <th>Що казали спершу</th>
-              <th>Що казали потім</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td>Модель</td>
-              <td>
-                Magura V3, за заявами грецьких посадовців
-                <a className="ref" href="#ref-64">
-                  [64]
-                </a>
-              </td>
-              <td>
-                Не Magura, і версії V3 не існує — виробник
-                <a className="ref" href="#ref-66">
-                  [66]
-                </a>
-                ; «Козак Мамай» — грецькі військові
-                <a className="ref" href="#ref-67">
-                  [67]
-                </a>
-              </td>
-            </tr>
-            <tr>
-              <td>Вибухівка</td>
-              <td>
-                Детонатори без вибухівки; знято три детонатори
-                <a className="ref" href="#ref-64">
-                  [64]
-                </a>
-              </td>
-              <td>
-                Близько 70 кілограмів
-                <a className="ref" href="#ref-68">
-                  [68]
-                </a>
-                ; в інших переказах — 100 кілограмів
-                <a className="ref" href="#ref-69">
-                  [69]
-                </a>
-              </td>
-            </tr>
-            <tr>
-              <td>Звідки прийшов</td>
-              <td>
-                Несправність, некерований рух
-                <a className="ref" href="#ref-65">
-                  [65]
-                </a>
-                ; слідство: подолав невелику відстань, тож запуск із Лівії
-                малоймовірний
-                <a className="ref" href="#ref-70">
-                  [70]
-                </a>
-              </td>
-              <td>
-                Утік від українських операторів у північно-західній Лівії —
-                джерело в ГУР
-                <a className="ref" href="#ref-17">
-                  [17]
-                </a>
-              </td>
-            </tr>
-          </tbody>
-        </table>
+        {/* TODO(медіа): підставити знімок буксирування, коли він буде в теці. */}
+        <figure className="fig" data-placeholder>
+          <div
+            style={{
+              border: "1px dashed currentColor",
+              opacity: 0.55,
+              padding: "2.5rem 1rem",
+              textAlign: "center",
+            }}
+          >
+            [ ФОТО: буксирування катера, Лефкада, травень 2026 ]
+          </div>
+          <figcaption>Катер, знайдений рибалками біля мису Дукато.</figcaption>
+        </figure>
 
         <p>
           Остання розбіжність — найцікавіша. 15 травня Reuters із посиланням на
@@ -1817,8 +1715,8 @@ export default function Page() {
           з берега, «потенційно аж із Лівії». Попередній висновок був такий:
           дрон подолав невелику відстань, що робить запуск із Лівії менш
           імовірним, і ключовим чинником оцінки був рівень пального
-          <a className="ref" href="#ref-70">
-            [70]
+          <a className="ref" href="#ref-68">
+            [68]
           </a>
           . Через чотири місяці джерело в ГУР сказало CNN протилежне: катер утік
           саме від українських операторів у північно-західній Лівії
@@ -1840,8 +1738,8 @@ export default function Page() {
           . Того ж дня речник МЗС України Георгій Тихий сказав, що «немає жодних
           свідчень про його приналежність до українських операторів морських
           дронів»
-          <a className="ref" href="#ref-71">
-            [71]
+          <a className="ref" href="#ref-69">
+            [69]
           </a>
           . Міністр оборони України Михайло Федоров на відеоконференції з
           європейськими колегами відмовився коментувати тему, коли Дендіас її
@@ -1865,15 +1763,15 @@ export default function Page() {
           атакувати судна, що працюють на російські інтереси. Афіни повідомили
           Києву, що знають про цей план, і сказали, що хочуть визнання помилки й
           виведення з Середземного моря решти бойових дронів
-          <a className="ref" href="#ref-71">
-            [71]
+          <a className="ref" href="#ref-69">
+            [69]
           </a>
           . Наприкінці травня Греція вручила ноти протесту: «Присутність
           безекіпажного катера в грецьких територіальних водах створювала
           серйозну небезпеку для судноплавства й могла коштувати невинних
           життів», а «право України на самооборону не може виправдати таких дій»
-          <a className="ref" href="#ref-68">
-            [68]
+          <a className="ref" href="#ref-70">
+            [70]
           </a>
           .
         </p>
@@ -1882,8 +1780,8 @@ export default function Page() {
           5 червня Тихий вибачився: «Українська сторона висловлює перепрошення
           за інцидент, наголошуючи, що він став наслідком обставин, спричинених
           російською агресією проти України»
-          <a className="ref" href="#ref-72">
-            [72]
+          <a className="ref" href="#ref-71">
+            [71]
           </a>
           . Заява не визнавала ні походження катера, ні його місії. А в закритих
           розмовах, за даними дипломатичних джерел в Афінах, українські
@@ -1893,8 +1791,8 @@ export default function Page() {
           Договір про дружбу 1996 року, який зобовʼязує сторони консультуватися
           в таких ситуаціях, і докоряла, що Афіни винесли справу в медіа раніше,
           ніж у консультації
-          <a className="ref" href="#ref-69">
-            [69]
+          <a className="ref" href="#ref-72">
+            [72]
           </a>
           .
         </p>
@@ -2008,17 +1906,17 @@ export default function Page() {
             <li>
               <strong>Греція, травень–червень 2026.</strong> Спершу «немає
               жодних свідчень про його приналежність до українських операторів»
+              <a className="ref" href="#ref-69">
+                [69]
+              </a>
+              , потім вибачення «за інцидент» без визнання походження катера
               <a className="ref" href="#ref-71">
                 [71]
               </a>
-              , потім вибачення «за інцидент» без визнання походження катера
-              <a className="ref" href="#ref-72">
-                [72]
-              </a>
               , а в закритих розмовах — обіцянка й далі бити по російських
               суднах за статтею 51 Статуту ООН
-              <a className="ref" href="#ref-69">
-                [69]
+              <a className="ref" href="#ref-72">
+                [72]
               </a>
             </li>
           </ul>
@@ -2180,8 +2078,8 @@ export default function Page() {
               [47]
             </a>
             , ноти Греції
-            <a className="ref" href="#ref-68">
-              [68]
+            <a className="ref" href="#ref-70">
+              [70]
             </a>
             . Найслабші — ті, де все тримається на одному анонімному голосі, і
             таких тут теж чимало.
@@ -2700,25 +2598,13 @@ export default function Page() {
               </a>
             </li>
             <li id="ref-68">
-              Kyiv Post — «Athens Accuses Ukraine of Endangering Mediterranean
-              Security After Explosive-Laden Sea Drone Incident», 03.06.2026.{" "}
-              <a href="https://www.kyivpost.com/post/77459">kyivpost.com</a>
-            </li>
-            <li id="ref-69">
-              «Українська правда» за Euractiv — «Right to self-defence: Ukraine
-              tells Greece Russian vessels remain a target», 09.07.2026.{" "}
-              <a href="https://www.pravda.com.ua/eng/news/2026/07/09/8043199/">
-                pravda.com.ua
-              </a>
-            </li>
-            <li id="ref-70">
               Reuters — «Greek probe finds suspected Ukrainian sea drone lost
               course after malfunction, sources say», 15.05.2026.{" "}
               <a href="https://www.reuters.com/world/greek-probe-finds-suspected-ukrainian-sea-drone-lost-course-after-malfunction-2026-05-15/">
                 reuters.com
               </a>
             </li>
-            <li id="ref-71">
+            <li id="ref-69">
               «Українська правда» — «Greece lodges protest with Ukraine over
               naval drone found in its waters», 03.06.2026, і «No evidence that
               drone found off Greek coast belongs to Ukrainian operators»,
@@ -2727,10 +2613,22 @@ export default function Page() {
                 pravda.com.ua
               </a>
             </li>
-            <li id="ref-72">
+            <li id="ref-70">
+              Kyiv Post — «Athens Accuses Ukraine of Endangering Mediterranean
+              Security After Explosive-Laden Sea Drone Incident», 03.06.2026.{" "}
+              <a href="https://www.kyivpost.com/post/77459">kyivpost.com</a>
+            </li>
+            <li id="ref-71">
               Георгій Тихий, речник МЗС України, допис у X, 05.06.2026.{" "}
               <a href="https://x.com/SpoxUkraineMFA/status/2062992746122789353">
                 x.com
+              </a>
+            </li>
+            <li id="ref-72">
+              «Українська правда» за Euractiv — «Right to self-defence: Ukraine
+              tells Greece Russian vessels remain a target», 09.07.2026.{" "}
+              <a href="https://www.pravda.com.ua/eng/news/2026/07/09/8043199/">
+                pravda.com.ua
               </a>
             </li>
             <li id="ref-73">

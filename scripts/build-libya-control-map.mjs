@@ -59,15 +59,14 @@ function projection(reg, width, ox = 0, oy = 0) {
 const main = projection(REG, W);
 const H = Math.round(main.h);
 
-/* Врізка — не «вікно» поверх карти, а окрема панель під нею: пʼять підписів у
-   прямокутник, вписаний у море, не влізають за жодних зсувів. */
+/* Врізка лягає на Феццан. Пустеля на півдні для цієї теми не принципова, а
+   полотно лишається одним кадром, без пришитої знизу смуги. */
 const INSET_REG = [11.6, 32.0, 15.65, 33.3];
-const INSET_W = 560;
-const insetX = Math.round((W - INSET_W) / 2);
-const insetY = H + 34;
+const INSET_W = 460;
+const insetX = 276;
+const insetY = 560;
 const ins = projection(INSET_REG, INSET_W, insetX, insetY);
 const insetH = Math.round(ins.h);
-const CANVAS_H = insetY + insetH + 14;
 
 const f = (n) => n.toFixed(1);
 let PR = main;
@@ -245,7 +244,7 @@ const BAND = BAND_S.concat(BAND_N.slice().reverse());
 const SITES = [
   // Захід
   { i: "01", n: "Місрата", role: "академія ВПС", c: [15.061, 32.325], side: "ua", kind: "air", dx: 12, dy: -8, a: "start", ix: -12, iy: -8, ia: "end" },
-  { i: "02", n: "Завія", role: "запуск дронів", c: [12.7278, 32.7522], side: "ua", kind: "air", dx: -12, dy: -8, a: "end", ix: -12, iy: -6, ia: "end" },
+  { i: "02", n: "Завія", role: "запуск дронів", c: [12.7278, 32.7522], side: "ua", kind: "air", dx: -12, dy: -8, a: "end", ix: 0, iy: -20, ia: "middle" },
   { i: "03", n: "111-та бригада", role: "штаб · координація", c: [13.16, 32.7], side: "ua", kind: "hq", dx: 12, dy: 20, a: "start", ix: 12, iy: 5, ia: "start" },
   // Схід і південь
   { i: "04", n: "Тобрук", role: "порт", c: [23.9614, 32.0761], side: "ru", kind: "port", dx: 13, dy: -8, a: "start" },
@@ -276,8 +275,6 @@ const CITIES = [
 const GEO = [
   { n: "Алжир", c: [8.3, 29.0] },
   { n: "Туніс", c: [9.5, 33.6] },
-  { n: "Нігер", c: [11.0, 21.3] },
-  { n: "Чад", c: [17.6, 19.6] },
   { n: "Судан", c: [26.0, 20.0] },
   { n: "Єгипет", c: [26.15, 27.0] },
 ];
@@ -362,7 +359,7 @@ const parts = [];
 const add = (s) => parts.push(s);
 
 add(
-  '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ' + W + " " + CANVAS_H +
+  '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ' + W + " " + H +
   '" class="lcmap" role="img" aria-labelledby="lc-t lc-d">',
 );
 add("<title id=\"lc-t\">Лівія: хто що контролює й де чиї обʼєкти</title>");
@@ -452,16 +449,10 @@ add('<path d="' + dLibya + '" fill="none" stroke="' + C.taupe + '" stroke-width=
 
 for (const g of GEO) add(txt("lbl-geo", X(g.c[0]), Y(g.c[1]), "middle", g.n));
 
-add(txt("lbl-zone", X(10.6), Y(32.2), "middle", "уряд у Триполі"));
-add(txt("lbl-note minor", X(10.6), Y(32.2) + 16, "middle", "визнаний ООН"));
+add(txt("lbl-zone", X(12.4), Y(31.3), "middle", "уряд у Триполі"));
+add(txt("lbl-note minor", X(12.4), Y(31.3) + 16, "middle", "визнаний ООН"));
 add(txt("lbl-zone", X(21.5), Y(26.5), "middle", "зона Хафтара"));
 add(txt("lbl-note minor", X(21.5), Y(26.5) + 16, "middle", "схід і південь країни"));
-
-// Феццан: за AP він у зоні Хафтара, за іншим джерелом влада там фактично в
-// місцевих командирів. Розбіжність показана, а не розвʼязана.
-add(txt("lbl-sm minor", X(13.0), Y(24.4), "middle", "Феццан"));
-add(txt("lbl-note minor", X(13.0), Y(24.4) + 15, "middle", "за одним з описів — ні в кого:"));
-add(txt("lbl-note minor", X(13.0), Y(24.4) + 29, "middle", "влада в місцевих командирів"));
 
 for (const c of CITIES) {
   const m = c.minor ? " minor" : "";
@@ -543,21 +534,16 @@ PR = main;
 /* ── Легенда й лінійка ───────────────────────────────────────────────────── */
 
 const kx = 62;
-const ky = 54;
+const ky = H - 118;
 add('<g class="key">');
 add(
-  '<rect x="' + (kx - 20) + '" y="' + (ky - 24) + '" width="250" height="96" rx="3" fill="#fbfaf6" opacity=".93" stroke="' +
+  '<rect x="' + (kx - 20) + '" y="' + (ky - 24) + '" width="250" height="72" rx="3" fill="#fbfaf6" opacity=".93" stroke="' +
   C.border + '" stroke-width="1"/>',
 );
 add('<circle cx="' + kx + '" cy="' + ky + '" r="5.6" fill="' + C.ua + '" stroke="#fff" stroke-width="1.6"/>');
 add(txt("lbl-sm", kx + 16, ky + 4, "start", "український майданчик"));
 add('<circle cx="' + kx + '" cy="' + (ky + 24) + '" r="5.6" fill="' + C.ru + '" stroke="#fff" stroke-width="1.6"/>');
 add(txt("lbl-sm", kx + 16, ky + 28, "start", "обʼєкт «Африканського корпусу»"));
-add(
-  '<rect x="' + (kx - 10) + '" y="' + (ky + 42) + '" width="20" height="10" fill="#fff" opacity=".9" stroke="' +
-  C.border + '" stroke-width="1"/>',
-);
-add(txt("lbl-sm", kx + 16, ky + 52, "start", "смуга — межа не названа точно"));
 add("</g>");
 
 const sx = 62;
