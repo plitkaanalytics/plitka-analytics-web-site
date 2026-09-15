@@ -65,28 +65,28 @@
 <text class="lbl" x="341.5" y="410.2" text-anchor="end">Брак-еш-Шаті</text><text class="lbl-num" x="341.5" y="424.2" text-anchor="end">08 · авіабаза</text>
 <circle cx="731.5" cy="734.6" r="5.6" fill="#8c2d04" stroke="#fff" stroke-width="1.6"/>
 <text class="lbl" x="744.5" y="738.6" text-anchor="start">Маатен ес-Сарра</text><text class="lbl-num" x="744.5" y="752.6" text-anchor="start">09 · авіабаза</text>
-<clipPath id="lc-inset"><rect x="276" y="560" width="460" height="175"/></clipPath>
+<clipPath id="lc-inset"><rect x="42" y="560" width="460" height="175"/></clipPath>
 <rect x="220.0" y="78.4" width="202.5" height="77.2" fill="none" stroke="#2a2a2a" stroke-width="1.2" stroke-dasharray="4 3" opacity=".65"/>
 <g clip-path="url(#lc-inset)">
-<rect x="276" y="560" width="460" height="175" fill="#eceff0"/>
-<path d="M736.0,560.0L736.0,735.4L276.0,735.4L276.0,581.4L282.7,584.7L300.3,588.0L353.4,619.9L369.8,623.9L407.0,627.7L450.7,614.5L467.1,612.2L496.1,624.4L508.8,627.9L530.0,628.8L566.4,639.9L575.4,643.8L596.7,661.4L606.9,666.8L682.2,682.9L692.4,693.6L703.0,713.9L703.4,735.4L736.0,735.4L736.0,560.0L736.0,560.0Z" fill="#e5e0d9" fill-rule="evenodd"/>
-<path d="M276.0,735.4L276.0,581.4L282.7,584.7L300.3,588.0L353.4,619.9L369.8,623.9L407.0,627.7L450.7,614.5L467.1,612.2L496.1,624.4L508.8,627.9L530.0,628.8L566.4,639.9L575.4,643.8L596.7,661.4L606.9,666.8L682.2,682.9L692.4,693.6L703.0,713.9L703.4,735.4L276.0,735.4Z" fill="#ded8cd"/>
-<path d="M276.0,735.4L276.0,581.4L282.7,584.7L300.3,588.0L353.4,619.9L369.8,623.9L407.0,627.7L450.7,614.5L467.1,612.2L496.1,624.4L508.8,627.9L530.0,628.8L566.4,639.9L575.4,643.8L596.7,661.4L606.9,666.8L682.2,682.9L692.4,693.6L703.0,713.9L703.4,735.4L276.0,735.4Z" fill="#7d9bb0" opacity=".22"/>
-<path d="M276.0,735.4L276.0,581.4L282.7,584.7L300.3,588.0L353.4,619.9L369.8,623.9L407.0,627.7L450.7,614.5L467.1,612.2L496.1,624.4L508.8,627.9L530.0,628.8L566.4,639.9L575.4,643.8L596.7,661.4L606.9,666.8L682.2,682.9L692.4,693.6L703.0,713.9L703.4,735.4L276.0,735.4Z" fill="url(#lc-hatch-g)"/>
-<path d="M736.0,560.0L736.0,735.4L276.0,735.4L276.0,581.4L282.7,584.7L300.3,588.0L353.4,619.9L369.8,623.9L407.0,627.7L450.7,614.5L467.1,612.2L496.1,624.4L508.8,627.9L530.0,628.8L566.4,639.9L575.4,643.8L596.7,661.4L606.9,666.8L682.2,682.9L692.4,693.6L703.0,713.9L703.4,735.4L736.0,735.4L736.0,560.0L736.0,560.0Z" fill="none" stroke="#ffffff" stroke-width="1" fill-rule="evenodd"/>
-<circle cx="456.7" cy="616.0" r="2.8" fill="#2a2a2a" opacity=".7"/>
-<text class="lbl-city" x="466.7" y="612.0" text-anchor="start">Триполі</text>
-<circle cx="324.8" cy="621.0" r="3.4" fill="#fff" stroke="#898270" stroke-width="1.5"/>
-<text class="lbl-sm" x="324.8" y="611.0" text-anchor="middle">Мелліта</text>
-<circle cx="669.1" cy="691.8" r="5.6" fill="#f24c06" stroke="#fff" stroke-width="1.6"/>
-<text class="lbl" x="657.1" y="683.8" text-anchor="end">Місрата</text><text class="lbl-num" x="657.1" y="696.8" text-anchor="end">01 · академія ВПС</text>
-<circle cx="404.1" cy="634.2" r="5.6" fill="#f24c06" stroke="#fff" stroke-width="1.6"/>
-<text class="lbl" x="404.1" y="614.2" text-anchor="middle">Завія</text><text class="lbl-num" x="404.1" y="627.2" text-anchor="middle">02 · запуск дронів</text>
-<path d="M453.2,634.9L459.6,641.3L453.2,647.7L446.8,641.3Z" fill="#f24c06" stroke="#fff" stroke-width="1.6"/>
-<text class="lbl" x="465.2" y="646.3" text-anchor="start">111-та бригада</text><text class="lbl-num" x="465.2" y="659.3" text-anchor="start">03 · штаб · координація</text>
+<rect x="42" y="560" width="460" height="175" fill="#eceff0"/>
+<path d="M502.0,560.0L502.0,735.4L42.0,735.4L42.0,581.4L48.7,584.7L66.3,588.0L119.4,619.9L135.8,623.9L173.0,627.7L216.7,614.5L233.1,612.2L262.1,624.4L274.8,627.9L296.0,628.8L332.4,639.9L341.4,643.8L362.7,661.4L372.9,666.8L448.2,682.9L458.4,693.6L469.0,713.9L469.4,735.4L502.0,735.4L502.0,560.0L502.0,560.0Z" fill="#e5e0d9" fill-rule="evenodd"/>
+<path d="M42.0,735.4L42.0,581.4L48.7,584.7L66.3,588.0L119.4,619.9L135.8,623.9L173.0,627.7L216.7,614.5L233.1,612.2L262.1,624.4L274.8,627.9L296.0,628.8L332.4,639.9L341.4,643.8L362.7,661.4L372.9,666.8L448.2,682.9L458.4,693.6L469.0,713.9L469.4,735.4L42.0,735.4Z" fill="#ded8cd"/>
+<path d="M42.0,735.4L42.0,581.4L48.7,584.7L66.3,588.0L119.4,619.9L135.8,623.9L173.0,627.7L216.7,614.5L233.1,612.2L262.1,624.4L274.8,627.9L296.0,628.8L332.4,639.9L341.4,643.8L362.7,661.4L372.9,666.8L448.2,682.9L458.4,693.6L469.0,713.9L469.4,735.4L42.0,735.4Z" fill="#7d9bb0" opacity=".22"/>
+<path d="M42.0,735.4L42.0,581.4L48.7,584.7L66.3,588.0L119.4,619.9L135.8,623.9L173.0,627.7L216.7,614.5L233.1,612.2L262.1,624.4L274.8,627.9L296.0,628.8L332.4,639.9L341.4,643.8L362.7,661.4L372.9,666.8L448.2,682.9L458.4,693.6L469.0,713.9L469.4,735.4L42.0,735.4Z" fill="url(#lc-hatch-g)"/>
+<path d="M502.0,560.0L502.0,735.4L42.0,735.4L42.0,581.4L48.7,584.7L66.3,588.0L119.4,619.9L135.8,623.9L173.0,627.7L216.7,614.5L233.1,612.2L262.1,624.4L274.8,627.9L296.0,628.8L332.4,639.9L341.4,643.8L362.7,661.4L372.9,666.8L448.2,682.9L458.4,693.6L469.0,713.9L469.4,735.4L502.0,735.4L502.0,560.0L502.0,560.0Z" fill="none" stroke="#ffffff" stroke-width="1" fill-rule="evenodd"/>
+<circle cx="222.7" cy="616.0" r="2.8" fill="#2a2a2a" opacity=".7"/>
+<text class="lbl-city" x="232.7" y="612.0" text-anchor="start">Триполі</text>
+<circle cx="90.8" cy="621.0" r="3.4" fill="#fff" stroke="#898270" stroke-width="1.5"/>
+<text class="lbl-sm" x="90.8" y="611.0" text-anchor="middle">Мелліта</text>
+<circle cx="435.1" cy="691.8" r="5.6" fill="#f24c06" stroke="#fff" stroke-width="1.6"/>
+<text class="lbl" x="423.1" y="683.8" text-anchor="end">Місрата</text><text class="lbl-num" x="423.1" y="696.8" text-anchor="end">01 · академія ВПС</text>
+<circle cx="170.1" cy="634.2" r="5.6" fill="#f24c06" stroke="#fff" stroke-width="1.6"/>
+<text class="lbl" x="160.1" y="649.2" text-anchor="end">Завія</text><text class="lbl-num" x="160.1" y="662.2" text-anchor="end">02 · база</text>
+<path d="M219.2,634.9L225.6,641.3L219.2,647.7L212.8,641.3Z" fill="#f24c06" stroke="#fff" stroke-width="1.6"/>
+<text class="lbl" x="231.2" y="646.3" text-anchor="start">111-та бригада</text><text class="lbl-num" x="231.2" y="659.3" text-anchor="start">03 · штаб · координація</text>
 </g>
-<rect x="276" y="560" width="460" height="175" fill="none" stroke="#2a2a2a" stroke-width="1.2" opacity=".65"/>
-<text class="lbl-sm" x="276.0" y="552.0" text-anchor="start">Триполітанія крупним планом</text>
+<rect x="42" y="560" width="460" height="175" fill="none" stroke="#2a2a2a" stroke-width="1.2" opacity=".65"/>
+<text class="lbl-sm" x="42.0" y="552.0" text-anchor="start">Триполітанія крупним планом</text>
 <g class="key">
 <rect x="42" y="757" width="250" height="72" rx="3" fill="#fbfaf6" opacity=".93" stroke="#c9c1b5" stroke-width="1"/>
 <circle cx="62" cy="781" r="5.6" fill="#f24c06" stroke="#fff" stroke-width="1.6"/>

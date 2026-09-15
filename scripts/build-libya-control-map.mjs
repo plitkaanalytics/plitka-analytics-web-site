@@ -63,7 +63,7 @@ const H = Math.round(main.h);
    полотно лишається одним кадром, без пришитої знизу смуги. */
 const INSET_REG = [11.6, 32.0, 15.65, 33.3];
 const INSET_W = 460;
-const insetX = 276;
+const insetX = 42;
 const insetY = 560;
 const ins = projection(INSET_REG, INSET_W, insetX, insetY);
 const insetH = Math.round(ins.h);
@@ -244,7 +244,7 @@ const BAND = BAND_S.concat(BAND_N.slice().reverse());
 const SITES = [
   // Захід
   { i: "01", n: "Місрата", role: "академія ВПС", c: [15.061, 32.325], side: "ua", kind: "air", dx: 12, dy: -8, a: "start", ix: -12, iy: -8, ia: "end" },
-  { i: "02", n: "Завія", role: "запуск дронів", c: [12.7278, 32.7522], side: "ua", kind: "air", dx: -12, dy: -8, a: "end", ix: 0, iy: -20, ia: "middle" },
+  { i: "02", n: "Завія", role: "база", c: [12.7278, 32.7522], side: "ua", kind: "air", dx: -12, dy: -8, a: "end", ix: -10, iy: 15, ia: "end" },
   { i: "03", n: "111-та бригада", role: "штаб · координація", c: [13.16, 32.7], side: "ua", kind: "hq", dx: 12, dy: 20, a: "start", ix: 12, iy: 5, ia: "start" },
   // Схід і південь
   { i: "04", n: "Тобрук", role: "порт", c: [23.9614, 32.0761], side: "ru", kind: "port", dx: 13, dy: -8, a: "start" },
