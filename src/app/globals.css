@@ -2771,6 +2771,19 @@ figure.fig.fig--bleed:has(> img) {
     column-count: 1;
   }
 }
+/* Адреса джерела — єдине клікабельне місце в рядку, тож вона має читатися як
+   посилання ще до наведення. Глобальне правило для `a` лишає межу прозорою і
+   колір успадкованим, через що в списку джерел лінк виглядав звичайним
+   текстом, і клікати на нього ніхто не здогадувався. */
+.refs a[href^="http"] {
+  color: var(--rust);
+  border-bottom-color: var(--rust);
+}
+.refs a[href^="http"]:hover {
+  color: var(--red);
+  border-bottom-color: var(--red);
+}
+
 .refs__also {
   margin: 16px 0 0;
   font-size: 12.5px;
