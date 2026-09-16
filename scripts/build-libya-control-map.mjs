@@ -561,6 +561,103 @@ const out = new URL(OUT, ROOT);
 mkdirSync(dirname(fileURLToPath(out)), { recursive: true });
 writeFileSync(fileURLToPath(out), svg);
 
+/* ── Англійське полотно ──────────────────────────────────────────────────── */
+
+/**
+ * Підписи для англійської версії. Той самий підхід, що й у лівійської карти
+ * «Експресу»: перекладаємо готовий SVG по текстових вузлах, а не малюємо
+ * друге полотно. Геометрія в обох мов спільна, тож розходитися нема чому.
+ *
+ * Ключ — точний текст вузла з українського полотна. Якщо десь бракує
+ * підпису, збірка впаде тут, а не тихо віддасть англійському читачеві
+ * українське слово.
+ */
+const ROLE_EN = {
+  порт: "port",
+  авіабаза: "airbase",
+  "авіабаза · штаб": "airbase · HQ",
+  "академія ВПС": "air force academy",
+  база: "base",
+  "штаб · координація": "HQ · liaison",
+};
+
+const NAME_EN = {
+  Тобрук: "Tobruk",
+  "Ель-Кадім": "Al-Khadim",
+  Гардабія: "Ghardabiya",
+  "Ель-Джуфра": "Al-Jufra",
+  "Брак-еш-Шаті": "Brak al-Shati",
+  "Маатен ес-Сарра": "Maaten al-Sarra",
+  Місрата: "Misrata",
+  Завія: "Zawiya",
+  "111-та бригада": "111th Brigade",
+};
+
+const EN = {
+  Триполі: "Tripoli",
+  Бенгазі: "Benghazi",
+  Сирт: "Sirte",
+  Себха: "Sabha",
+  Алжир: "Algeria",
+  Туніс: "Tunisia",
+  Судан: "Sudan",
+  Єгипет: "Egypt",
+  "уряд у Триполі": "Tripoli government",
+  "визнаний ООН": "UN-recognised",
+  "зона Хафтара": "Haftar zone",
+  "схід і південь країни": "east and south of the country",
+  Мелліта: "Mellitah",
+  "Триполітанія крупним планом": "Tripolitania close-up",
+  "український майданчик": "Ukrainian site",
+  "обʼєкт «Африканського корпусу»": "Africa Corps site",
+  [SCALE_KM + " км (на " + SCALE_LAT + "° пн. ш.)"]:
+    SCALE_KM + " km (at " + SCALE_LAT + "° N)",
+};
+
+for (const o of SITES) {
+  EN[o.n] = NAME_EN[o.n];
+  EN[o.i + " · " + o.role] = o.i + " · " + ROLE_EN[o.role];
+}
+
+const TITLE_EN = "Libya: who controls what, and whose sites sit where";
+
+const DESC_EN =
+  "Map of Libya. The country is split: the north-west with Tripoli is held " +
+  "by the UN-recognised Government of National Unity, the east and south by " +
+  "the forces of Field Marshal Khalifa Haftar. The boundary between them is " +
+  "drawn as a broad band, because the sources describe control only by " +
+  "direction. In the west, inside the Tripoli governmentʼs zone, are the " +
+  "three sites reported by RFI and AP: the air force academy at Misrata, the " +
+  "base at Zawiya and the 111th Brigade headquarters outside Tripoli. In the " +
+  "east and south, inside Haftarʼs zone, are the port of Tobruk and five " +
+  "airfields tied to the Africa Corps: Al-Khadim, Ghardabiya, Al-Jufra, " +
+  "Brak al-Shati and Maaten al-Sarra near the borders with Chad and Sudan.";
+
+const missingEn = [];
+const svgEn = svg.replace(
+  /(<(title|desc|text)\b[^>]*>)([\s\S]*?)(<\/\2>)/g,
+  (all, open, tag, body, close) => {
+    const key = body.replace(/\s+/g, " ").trim();
+    if (!key) return all;
+    if (tag === "desc") return open + DESC_EN + close;
+    if (tag === "title") return open + TITLE_EN + close;
+    const to = EN[key];
+    if (to === undefined) {
+      missingEn.push(key);
+      return all;
+    }
+    return open + to + close;
+  },
+);
+
+if (missingEn.length) {
+  throw new Error(
+    "Немає англійського підпису для: " + [...new Set(missingEn)].join(" · "),
+  );
+}
+
+writeFileSync(fileURLToPath(new URL(OUT.replace(".svg", "-en.svg"), ROOT)), svgEn);
+
 console.log(
   OUT + " — " + (svg.length / 1024).toFixed(0) + " КБ · полотно " + W + "x" + H +
   "\n  майданчиків: " + SITES.filter((s) => s.side === "ua").length +
