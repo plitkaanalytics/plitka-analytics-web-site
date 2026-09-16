@@ -1,0 +1,24 @@
+/* Карта контролю в Лівії (§ 03). Полотна малює
+   scripts/build-libya-control-map.mjs, вклеює src/components/LibyaControlMap.tsx.
+
+   Ширша за колонку тексту, але не на весь екран: підписів тут небагато, а
+   панель-врізка вже вбудована в саме полотно, тож розкладка з переліком збоку
+   цій карті не потрібна. */
+
+figure.fig.lcfig {
+  width: min(100vw - 32px, 1080px);
+  max-width: none;
+  margin: 32px calc(50% - min(50vw - 16px, 540px));
+}
+
+.lcfig__canvas {
+  /* Підписи всередині SVG міряють ширину полотна, а не вікна. */
+  container-type: inline-size;
+}
+
+.lcfig__canvas svg {
+  width: 100%;
+  height: auto;
+  display: block;
+  border: 1px solid var(--rule);
+}

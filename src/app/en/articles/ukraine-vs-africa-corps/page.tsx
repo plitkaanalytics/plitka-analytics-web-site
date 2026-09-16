@@ -1,5 +1,5 @@
 import "../../../(main)/articles/chotyry-roky-v-mori-frehaty/frigates.css";
-import "../../../(main)/articles/afrykanska-kampaniia/africa-map.css";
+import "../../../(main)/articles/afrykanska-kampaniia/libya-control.css";
 import type { Metadata } from "next";
 import Link from "next/link";
 import { requireVisibleArticle } from "@/lib/articles";
@@ -294,7 +294,8 @@ export default function Page() {
         </table>
 
         {/* TODO(rights): the left image needs permission; the right one needs
-            the author and licence name from its Wikimedia Commons file page. */}
+            the author and licence name from its Wikimedia Commons file
+            page. */}
         <p
           style={{
             marginTop: "-18px",
@@ -412,7 +413,9 @@ export default function Page() {
         </p>
 
         <div className="aside-note">
-          <div className="aside-note__lbl">Where the Africa Corps came from</div>
+          <div className="aside-note__lbl">
+            Where the Africa Corps came from
+          </div>
           <p>
             Until 2023 the Russian presence in Africa was built by the private
             company Wagner. After Prigozhinʼs mutiny and death, its networks of
@@ -2421,7 +2424,9 @@ export default function Page() {
             </li>
             <li id="ref-64">
               eKathimerini — “Ukrainian Magura V3 naval drone found off Lefkada
-              sparks investigation”, 08.05.2026.{" "}
+              sparks investigation”, 08.05.2026. The URL slug still says V5: the
+              headline was corrected after publication, the body says V3
+              throughout.{" "}
               <a href="https://www.ekathimerini.com/politics/foreign-policy/1303182/ukrainian-magura-v5-naval-drone-found-off-lefkada-sparks-investigation/">
                 ekathimerini.com
               </a>
