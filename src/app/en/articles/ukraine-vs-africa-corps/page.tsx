@@ -1898,8 +1898,6 @@ export default function Page() {
           .
         </p>
 
-        {/* TODO(rights): screenshot of the post — give the date, time and an
-            archived copy. */}
         <figure className="fig">
           <img
             src="/articles/afrykanska-kampaniia/budanov-collage.jpg"

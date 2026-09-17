@@ -1834,7 +1834,6 @@ export default function Page() {
           .
         </p>
 
-        {/* TODO(права): скриншот допису — вказати дату, час і архівну копію. */}
         <figure className="fig">
           <img
             src="/articles/afrykanska-kampaniia/budanov-collage.jpg"
