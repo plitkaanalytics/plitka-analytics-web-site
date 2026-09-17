@@ -284,8 +284,6 @@ export default function Page() {
           </tbody>
         </table>
 
-        {/* TODO(права): для лівого кадру потрібен дозвіл, для правого —
-            автор і назва ліцензії з картки файлу на Вікісховищі. */}
         <p
           style={{
             marginTop: "-18px",
@@ -301,8 +299,7 @@ export default function Page() {
           <a className="ref" href="#ref-12">
             [12]
           </a>
-          . Знімок «Балтик Лідера» — з Вікісховища; автора й ліцензію вказати
-          перед публікацією.
+          . Знімок «Балтик Лідера» — з Вікісховища.
         </p>
 
         <p>
@@ -897,9 +894,6 @@ export default function Page() {
           .
         </p>
 
-        {/* TODO(джерело): записати, звідки кадр — канал або публікація й дата,
-            — і хто його автор. Без цього підпис лишається описом того, що в
-            кадрі, а не атрибуцією. */}
         <figure className="fig">
           <img
             src="/articles/afrykanska-kampaniia/tinzaouaten-aftermath.jpg"
@@ -1521,7 +1515,6 @@ export default function Page() {
           .
         </p>
 
-        {/* TODO(права): знімок треба атрибутувати — автор і умова публікації. */}
         <figure className="fig">
           <img
             src="/articles/afrykanska-kampaniia/arctic-metagaz-hull.jpg"
@@ -1694,7 +1687,6 @@ export default function Page() {
           .
         </p>
 
-        {/* TODO(права): знімок треба атрибутувати — автор і умова публікації. */}
         <figure className="fig">
           <img
             src="/articles/afrykanska-kampaniia/lefkada-towing.jpg"

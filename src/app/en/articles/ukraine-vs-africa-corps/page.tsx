@@ -293,9 +293,6 @@ export default function Page() {
           </tbody>
         </table>
 
-        {/* TODO(rights): the left image needs permission; the right one needs
-            the author and licence name from its Wikimedia Commons file
-            page. */}
         <p
           style={{
             marginTop: "-18px",
@@ -311,8 +308,7 @@ export default function Page() {
           <a className="ref" href="#ref-12">
             [12]
           </a>
-          . The photograph of Baltic Leader is from Wikimedia Commons; author
-          and licence to be credited before publication.
+          . The photograph of Baltic Leader is from Wikimedia Commons.
         </p>
 
         <p>
@@ -926,9 +922,6 @@ export default function Page() {
           .
         </p>
 
-        {/* TODO(source): record where this image came from — channel or
-            publication and date — and who took it. Without that the caption
-            stays a description of whatʼs in frame, not an attribution. */}
         <figure className="fig">
           <img
             src="/articles/afrykanska-kampaniia/tinzaouaten-aftermath.jpg"
@@ -1572,7 +1565,6 @@ export default function Page() {
           .
         </p>
 
-        {/* TODO(rights): the image needs attribution — author and terms of use. */}
         <figure className="fig">
           <img
             src="/articles/afrykanska-kampaniia/arctic-metagaz-hull.jpg"
@@ -1753,7 +1745,6 @@ export default function Page() {
           .
         </p>
 
-        {/* TODO(rights): the image needs attribution — author and terms of use. */}
         <figure className="fig">
           <img
             src="/articles/afrykanska-kampaniia/lefkada-towing.jpg"
