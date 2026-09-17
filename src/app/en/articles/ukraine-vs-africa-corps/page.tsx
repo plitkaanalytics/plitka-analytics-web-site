@@ -1903,12 +1903,12 @@ export default function Page() {
         <figure className="fig">
           <img
             src="/articles/afrykanska-kampaniia/budanov-collage.jpg"
-            alt="A collage of six images: armed men in the desert, a gunner with a machine gun, officials in suits on a staircase, pickup trucks with machine guns, a man with a bullet-holed Ukrainian flag"
+            alt="A collage of three images: armed men in civilian clothes in the desert, a gunner with a machine gun lying in front of a row of prisoners, pickup trucks with machine guns and four armed men. Faces are blurred in every frame"
             style={{ width: "100%", display: "block" }}
           />
           <figcaption>
-            The collage from that same Budanov post: suits — and camouflage in
-            desert landscapes.
+            The collage from that same Budanov post: desert landscapes, a
+            machine gun and pickups. The faces are blurred in the post itself.
           </figcaption>
         </figure>
 
