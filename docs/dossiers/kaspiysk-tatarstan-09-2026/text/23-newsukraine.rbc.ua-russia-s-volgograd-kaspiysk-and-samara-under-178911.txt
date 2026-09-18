@@ -1,0 +1,45 @@
+URL:         https://newsukraine.rbc.ua/news/russia-s-volgograd-kaspiysk-and-samara-under-1789110346.html
+Кінцевий:    https://newsukraine.rbc.ua/news/russia-s-volgograd-kaspiysk-and-samara-under-1789110346.html
+Заголовок:   Russia's Volgograd, Kaspiysk and Samara under attack: Details
+Дата публ.:  2026-09-11
+Завантажено: 2026-09-18 07:38 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 101480
+Оригінал:    raw/23-newsukraine.rbc.ua-russia-s-volgograd-kaspiysk-and-samara-under-178911.html
+sha256:      2ea371be69b6c4babb1e76a792fb647ab624d136c8f38fff01ddef14a885bf1e
+Витяг:       trafilatura
+
+==============================================================================
+# Russia's Volgograd, Kaspiysk and Samara under attack: Details
+
+
+On the night of September 11, several Russian cities, Kaspiysk, Samara, and Volgograd, came under fire; an oil refinery and a port were reportedly attacked, according to OSINT sources.
+
+**Volgograd**
+
+Volgograd was reportedly hit by a missile attack, as eyewitnesses have also reported. In a video from Volgograd, Russians can be heard swearing as a drone buzzes overhead, followed by the sound of an explosion.
+
+Social media groups, in turn, reported an attack on an oil refinery in Volgograd.
+
+Regional Governor Andrei Bocharov confirmed on the region's Telegram channel that debris had been found on the grounds of an industrial facility in southern Volgograd. Emergency services are on the scene, and cleanup efforts are ongoing.
+
+**Kaspiysk**
+
+In Kaspiysk, the port was reportedly attacked by a drone strike; public Telegram channels shared several photos of the incident. Early this morning, the city administration posted only advice on how to behave during drone attacks on its Telegram channel; no further information is available at this time.
+
+**Samara**
+
+Overnight, the city's official Telegram channel warned Samara residents about the drone threat and urged them to be cautious; there have been no other official statements so far.
+
+However, residents reported on public channels that explosions could be heard, and there are reports of air defense systems in operation.
+
+Russia's Volgograd, Kaspiysk and Samara under attack: Details
+
+— RBC-Ukraine (@NewsUkraineRBC)[pic.twitter.com/zJ77oaJynD](https://t.co/zJ77oaJynD)[September 11, 2026](https://x.com/NewsUkraineRBC/status/2098306431086735725?ref_src=twsrc%5Etfw)
+
+Russia's Volgograd, Kaspiysk and Samara under attack: Details
+
+— RBC-Ukraine (@NewsUkraineRBC)[pic.twitter.com/75LbqODjEf](https://t.co/75LbqODjEf)[September 11, 2026](https://x.com/NewsUkraineRBC/status/2098306518512787469?ref_src=twsrc%5Etfw)
+
+Also, on the night of September 11, the [Russian city of Saratov was attacked by drones](https://newsukraine.rbc.ua/news/drone-attack-hits-russia-s-saratov-as-oil-1789106697.html); following the strikes, an oil refinery and an OZON warehouse caught fire.
+
+Ukraine broke the record for the longest-range strike against Russian targets. This refers to a [powerful strike by FP-1 drones on the Novy Urengoy and Purovsk gas plants in Russia.](https://newsukraine.rbc.ua/news/ukraine-s-drone-attack-on-russian-gas-plants-1789062200.html)

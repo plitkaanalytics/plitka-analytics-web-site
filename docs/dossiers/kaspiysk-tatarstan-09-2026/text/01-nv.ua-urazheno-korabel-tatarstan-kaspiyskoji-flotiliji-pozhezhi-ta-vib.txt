@@ -1,0 +1,26 @@
+URL:         https://nv.ua/ukr/ukraine/events/urazheno-korabel-tatarstan-kaspiyskoji-flotiliji-pozhezhi-ta-vibuhi-u-rf-50640717.html
+Кінцевий:    https://nv.ua/ukr/ukraine/events/urazheno-korabel-tatarstan-kaspiyskoji-flotiliji-pozhezhi-ta-vibuhi-u-rf-50640717.html
+Заголовок:   OSINT-аналітики: Сили оборони уразили головний корабель Каспійської флотилії — Татарстан
+Дата публ.:  2026-09-11
+Завантажено: 2026-09-18 07:37 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 103613
+Оригінал:    raw/01-nv.ua-urazheno-korabel-tatarstan-kaspiyskoji-flotiliji-pozhezhi-ta-vib.html
+sha256:      1e74be1f5fe98f4825ef4b9ecc555cf2581a62006b13b7c97ac86425f898f541
+Витяг:       trafilatura
+
+==============================================================================
+# OSINT-аналітики: Сили оборони уразили головний корабель Каспійської флотилії — Татарстан
+
+Головне завдання корабля Татарстан — пошук та знищення надводних, підводних і повітряних цілей противника (Фото: Exilenova+ /Telegram)
+
+У ніч проти п’ятниці, 11 вересня, в Каспійську, ймовірно, [було уражено](https://nv.ua/ukr/world/countries/udar-po-skladu-ozon-pid-saratovom-11-veresnya-ob-yekt-povnistyu-vigoriv-50640652.html) головний корабель Каспійської флотилії - Татарстан.
+
+Про це [повідомили](https://t.me/exilenova_plus/30809) OSINT-аналітики Exilenova+ у Telegram.
+
+Кораблі проєкту 11661 побудовані за технологією зниження радіолокаційної помітності. Головним завданням Татарстана в акваторії Каспійського моря було патрулювання, охорона морських кордонів, пошук та знищення надводних, підводних і повітряних цілей противника.
+
+Корабель озброєний протикорабельним ракетним комплексом Уран та зенітно-ракетним комплексом Оса-МА, що призначений для самооборони від повітряних цілей на ближній дистанції.
+
+У ніч проти 11 вересня [Саратов у РФ атакували безпілотники](https://nv.ua/ukr/world/countries/ataka-bezpilotnikiv-na-saratov-spalahnula-pozhezha-na-npz-i-skladi-ozon-50640428.html), після чого спалахнули пожежі на місцевому нафтопереробному заводі та складі маркетплейсу Ozon. Пізніше у Fire Point [підтвердили ураження логістичного центру Ozon](https://nv.ua/ukr/world/countries/kompaniya-fire-point-pidtverdila-urazhennya-ozon-u-rosiyskomu-saratovi-ta-pokazala-naslidki-ataki-50640471.html), заявивши, що його атакували дрони FP-1. Площа знищеного складського комплексу становила 85 тисяч квадратних метрів, він міг одночасно зберігати понад 30 млн товарів.
+
+Крім цього, у ніч проти 11 вересня [Волгоград атакували ракети](https://nv.ua/ukr/world/countries/volgograd-atakuvali-raketi-ye-vluchannya-u-promislove-pidpriyemstvo-foto-50640432.html), після чого в місті пролунали потужні вибухи та спалахнули пожежі. Місцева влада заявила про падіння «уламків» на територію промислового підприємства.
