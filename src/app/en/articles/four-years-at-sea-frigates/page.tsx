@@ -1,7 +1,12 @@
 ﻿import "../../../(main)/articles/chotyry-roky-v-mori-frehaty/frigates.css";
 import type { Metadata } from "next";
 import Link from "next/link";
-import { getAllArticles, getArticleBySlug, formatDate, requireVisibleArticle } from "@/lib/articles";
+import {
+  getAllArticles,
+  getArticleBySlug,
+  formatDate,
+  requireVisibleArticle,
+} from "@/lib/articles";
 import { AutoFrame } from "@/components/AutoFrame";
 
 const metadata: Metadata = {
@@ -31,7 +36,7 @@ export default function Page() {
           <span className="eyebrow article-head__eyebrow">Investigation</span>
           <h1>{article.title}</h1>
           <p className="article-head__metaline">
-            Part 1 | {article.readingTime} min read | updated 10.09.2026
+            Part 1 | {article.readingTime} min read | updated 11.09.2026
           </p>
           <p className="article-head__dek">{article.dek}</p>
         </div>
@@ -2263,9 +2268,9 @@ export default function Page() {
                 </div>
               </div>
               <div className="status-bar__cell">
-                <div className="status-bar__k">Status 05.2026</div>
+                <div className="status-bar__k">Status 09.2026</div>
                 <div className="status-bar__v">
-                  In service<em>A-22 strike 06.11.2024 — non-critical</em>
+                  Unknown<em>reported hit 11.09.2026 · unconfirmed</em>
                 </div>
               </div>
             </div>
@@ -2381,6 +2386,72 @@ export default function Page() {
                   </strong>{" "}
                   — a direct acknowledgement that the flotilla is deliberately
                   preparing for further Ukrainian naval drone strikes.
+                </p>
+
+                <div className="episode">
+                  <div className="episode__date">11.09.2026 · Kaspiysk</div>
+                  <h3 className="episode__h">A Report of a Second Strike</h3>
+                </div>
+
+                <p>
+                  On the night of 10–11 September 2026 Kaspiysk came under
+                  attack. Around 05:30 local residents’ footage of explosions
+                  and fire glow over the port began circulating on OSINT
+                  channels.
+                  <a className="ref" href="#ref-30">
+                    [30]
+                  </a>{" "}
+                  That evening the Exilenova+ project published a satellite
+                  image and reported that Tatarstan — “the lead ship of the
+                  Caspian Flotilla, Project 11661K Gepard, armed with Uran
+                  anti-ship missiles and the Osa-MA air defence system” — had
+                  “probably” been hit in Kaspiysk.
+                  <a className="ref" href="#ref-31">
+                    [31]
+                  </a>{" "}
+                  That is the only source for this episode.
+                  <a className="ref" href="#ref-34">
+                    [34]
+                  </a>
+                </p>
+
+                <figure className="fig">
+                  <img
+                    src="/articles/chotyry-roky-v-mori-frehaty/tatarstan-kaspiysk-11-09-2026.jpg"
+                    alt="Satellite image: a section of pier in the port of Kaspiysk with two naval vessels; no traces of fire or damage are visible"
+                  />
+                  <figcaption>
+                    The only image offered in support of the report that
+                    Tatarstan had been hit. <em>Exilenova+.</em>
+                  </figcaption>
+                </figure>
+
+                <p>
+                  The image does not allow the report to be checked. No fire
+                  blackening or damaged equipment is visible.
+                  <a className="ref" href="#ref-33">
+                    [33]
+                  </a>{" "}
+                  Identifying this ship as Tatarstan, or establishing from the
+                  image that a strike took place at all, is difficult.
+                </p>
+
+                <p>
+                  President Volodymyr Zelensky listed the targets of that
+                  night’s long-range strikes the same day — Dagestan among them,
+                  alongside Udmurtia and the Tula, Nizhny Novgorod, Perm and
+                  Samara regions.
+                  <a className="ref" href="#ref-32">
+                    [32]
+                  </a>{" "}
+                  Russia’s Defence Ministry claimed 777 Ukrainian drones had
+                  been launched overnight and also named Dagestan among the
+                  regions hit.
+                  <a className="ref" href="#ref-33">
+                    [33]
+                  </a>{" "}
+                  No one mentioned the ship. Neither General Staff report, for
+                  10 or for 11 September, mentions the Caspian.
                 </p>
               </div>
             </div>
@@ -2803,6 +2874,30 @@ export default function Page() {
                 and Admiral Makarov hit by Neptunes — and, above all, where?” ·
                 10.09.2026. In Ukrainian.
               </li>
+              <li id="ref-30">
+                Exilenova+, Supernova+. Residents’ footage of explosions in
+                Kaspiysk · Telegram · 11.09.2026. OSINT projects.
+              </li>
+              <li id="ref-31">
+                Exilenova+. Satellite image of Tatarstan after the strike on
+                Kaspiysk · Telegram · 11.09.2026. OSINT project; the hit is
+                reported as probable.
+              </li>
+              <li id="ref-32">
+                President of Ukraine Volodymyr Zelensky. Statement on the
+                results of long-range strikes · Telegram · 11.09.2026. In
+                Ukrainian.
+              </li>
+              <li id="ref-33">
+                Focus. “Drones attacked Tatarstan, the lead ship of the Caspian
+                Flotilla: what is known” · 11.09.2026. In Ukrainian; describes
+                the satellite image.
+              </li>
+              <li id="ref-34">
+                NV, Oboronka, Ukrainska Pravda, United24 Media and other reports
+                of a hit on Tatarstan · 11–12.09.2026. All cite the same
+                Exilenova+ post and add no evidence of their own.
+              </li>
             </ol>
           </section>
 
@@ -2823,7 +2918,7 @@ export default function Page() {
               <span className="chip">USV</span>
             </div>
             <div>
-              <span>44 min read</span> · <span>29 sources</span>
+              <span>45 min read</span> · <span>34 sources</span>
             </div>
           </div>
         </article>
