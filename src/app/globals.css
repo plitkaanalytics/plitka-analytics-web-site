@@ -2802,3 +2802,151 @@ figure.fig.fig--bleed:has(> img) {
   display: block;
   margin-bottom: 2px;
 }
+
+/* ===== Партнери і публікації (сторінка «Співпраця») ===== */
+
+/* Картка партнера клікабельна цілком, тому глобальне підкреслення посилань тут
+   зайве: плашка й зміна тла самі показують, що це лінк. */
+.partner-card {
+  display: flex;
+  flex-direction: column;
+  background: var(--paper);
+  border: 1px solid var(--rule);
+  color: inherit;
+  transition: background 0.15s ease;
+}
+/* Глобальне `a:hover` інакше підкреслить усю картку червоним. */
+.partner-card:hover {
+  background: var(--paper-2);
+  border-bottom-color: var(--rule);
+  color: inherit;
+}
+
+/* Плашка у фірмовому кольорі видання — на всю ширину картки, без відступів. */
+.partner-card__plate {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  height: 72px;
+  padding: 0 20px;
+  transition: opacity 0.15s ease;
+}
+.partner-card:hover .partner-card__plate {
+  opacity: 0.85;
+}
+.partner-card__plate--bare {
+  background: var(--paper-2);
+}
+
+.partner-card__mark {
+  height: 34px;
+  width: auto;
+  flex: none;
+}
+/* Слот однакової висоти для всіх вордмарків: довгий тонкий логотип упирається
+   в max-width і сідає нижчим — так і має бути, інакше він перекричить сусіда. */
+.partner-card__logo {
+  height: 26px;
+  width: auto;
+  max-width: 190px;
+  object-fit: contain;
+}
+
+.partner-card__body {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  padding: 16px 22px 20px;
+}
+.partner-card__name {
+  font-family: var(--serif);
+  font-size: 21px;
+  font-weight: 700;
+  line-height: 1.2;
+}
+.partner-card__kicker {
+  font-family: var(--mono);
+  font-size: 10.5px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: var(--slate);
+}
+.partner-card__desc {
+  font-size: 14.5px;
+  line-height: 1.55;
+  color: var(--slate);
+}
+
+.publist {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  border-top: 1px solid var(--rule);
+}
+.publist__item {
+  border-bottom: 1px solid var(--rule);
+}
+.publist__link {
+  display: flex;
+  align-items: baseline;
+  gap: 20px;
+  padding: 16px 0;
+  color: inherit;
+  transition: color 0.15s ease;
+}
+/* Рядок уже відбитий межею `li`, тож глобальне підкреслення тут гасимо. */
+.publist__link:hover {
+  color: var(--orange);
+  border-bottom-color: transparent;
+}
+/* Видання й дата — фіксована колонка, щоб заголовки вирівнялись у стовпчик. */
+.publist__meta {
+  flex: 0 0 180px;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  font-family: var(--mono);
+  font-size: 10.5px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+.publist__outlet {
+  color: var(--rust);
+}
+.publist__date {
+  color: var(--slate);
+  letter-spacing: 0.08em;
+}
+.publist__title {
+  font-family: var(--serif);
+  font-size: 17px;
+  line-height: 1.4;
+  font-weight: 600;
+}
+
+@media (max-width: 700px) {
+  .publist__link {
+    flex-direction: column;
+    gap: 6px;
+  }
+  .publist__meta {
+    flex: none;
+    flex-direction: row;
+    gap: 10px;
+  }
+}
+
+.publist__body {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+}
+/* Пояснення, чим ми в матеріалі: авторство, коментар, згадка. */
+.publist__note {
+  font-size: 13px;
+  line-height: 1.45;
+  color: var(--slate);
+}
