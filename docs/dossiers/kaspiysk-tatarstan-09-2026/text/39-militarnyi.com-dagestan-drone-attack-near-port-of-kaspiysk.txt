@@ -1,0 +1,39 @@
+URL:         https://militarnyi.com/en/news/dagestan-drone-attack-near-port-of-kaspiysk/
+Кінцевий:    https://militarnyi.com/en/news/dagestan-drone-attack-near-port-of-kaspiysk/
+Заголовок:   Dagestan Attacked by Drones, Explosions Heard Near Port of Kaspiysk
+Дата публ.:  2026-09-19
+Завантажено: 2026-09-21 14:36 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 241972
+Оригінал:    raw/39-militarnyi.com-dagestan-drone-attack-near-port-of-kaspiysk.html
+sha256:      a3ff86ba04a5c67f85297d461b2da5d220f830a3233413290b6c26f547acee87
+Витяг:       trafilatura
+
+==============================================================================
+On the morning of September 19, reports emerged from Kaspiysk in Dagestan, Russia, of numerous explosions near the local port.
+
+This was reported by the OSINT project [Exilenova+](https://t.me/exilenova_plus/31140).
+
+Footage released shows a drone flying over the city. The Russian Defense Ministry [stated](https://t.me/mod_russia/67454) that on the night of September 19, air defense forces allegedly shot down 344 Ukrainian drones over 16 regions of the country. Among the regions where the Russian side reported air defense operations was the Republic of Dagestan.
+
+Amid the drone threat, the Federal Air Transport Agency Rosaviatsya also temporarily restricted the air traffic at Makhachkala Uytash Airport, located near Kaspiysk. The restrictions were in effect in the morning and were later lifted.
+
+At this time, it is not known exactly which facility may have been the target of the attack or whether any strikes hit their mark. As of this writing, Russian authorities have not reported any damage to port or military infrastructure.
+
+Kaspiysk is home to the main base of the Russian Navy’s Caspian Flotilla, which houses, among other things, ships capable of launching Kalibr cruise missiles. As previously [reported](https://militarnyi.com/en/news/missile-ship-minesweeper-hit-kaspiysk-base/) by Militarnyi, the flotilla’s facilities in Kaspiysk have already been targeted by Ukrainian strikes.
+
+In addition, on September 10, Ukrainian drones [attacked](https://militarnyi.com/en/news/ukrainian-drones-strike-makhachkala-port-on-the-caspian-sea-for-the-first-time/) for the first time the Makhachkala International Sea Trade Port, located approximately 15 km from Kaspiysk. At that time, Russian authorities confirmed a fire at the port’s infrastructure.
+
+Popular
+
+                Підтримати нас можна через:
+
+Приват: **5169 3351 0164 7408**  PayPal - [[email protected]](/cdn-cgi/l/email-protection)   Стати нашим патроном за лінком ⬇
+
+Subscribe to our newsletter
+
+    or on ours [Telegram](https://t.me/milinua)
+  
+
+Thank you!!
+
+You are subscribed to our newsletter

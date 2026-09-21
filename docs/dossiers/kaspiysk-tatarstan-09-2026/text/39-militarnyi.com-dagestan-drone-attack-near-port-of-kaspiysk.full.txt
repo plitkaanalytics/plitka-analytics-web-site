@@ -1,0 +1,275 @@
+URL:         https://militarnyi.com/en/news/dagestan-drone-attack-near-port-of-kaspiysk/
+Кінцевий:    https://militarnyi.com/en/news/dagestan-drone-attack-near-port-of-kaspiysk/
+Заголовок:   Dagestan Attacked by Drones, Explosions Heard Near Port of Kaspiysk
+Дата публ.:  2026-09-19
+Завантажено: 2026-09-21 14:36 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 241972
+Оригінал:    raw/39-militarnyi.com-dagestan-drone-attack-near-port-of-kaspiysk.html
+sha256:      a3ff86ba04a5c67f85297d461b2da5d220f830a3233413290b6c26f547acee87
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 33
+==============================================================================
+Dagestan Attacked by Drones, Explosions Heard Near Port of Kaspiysk
+A Ukrainian drone flying near the port of Kaspiysk, Dagestan. September 2026. Photo credits: Exilenova+
+EU Will Maintain a Moratorium on the Development of New Oil and Gas Fields in the Arctic
+Russia May Use Real Estate in Sweden as Bases for Espionage
+Vluchnyk Unveils New Zorelit v5 Interceptor Drone
+European Intelligence Warns of Russian Threat as Baltics Urge Calm
+U.S. Relocates MQ-9 Reaper Drones from Africa to Latin America
+Helicopters in the Republic of Dagestan, presumably hunting Ukrainian drones. September 2026. Photo credits: Supernova+
+bc1qg0z99m95fte7kj8faa7h2kvnq92wvc53exe8gm
+0x8676644fA7B6d328310283cAC1065Ae01d97CEe7
+0xfD02863D3289416fcF50975c9DFda13623f97758
+You Can Copy the Paperwork. You Can’t Copy the Deadline
+EW vs Starlink: What Actually Works?
+Iran Strikes U.S. Bases in the Region in New Escalation Cycle
+NB8 in a Week: Billion-Dollar Deals in Kyiv, an Alarming Signal From Moscow, and Air Defense Systems Near Vilnius
+Drone Swarms: Where Tactics End and Strategy Begins
+Russia Plans 16,000–20,000 Hospital Beds for Wounded Soldiers Near the Baltic States
+In autumn 2026, Russia plans to add 16,000–20,000 beds in civilian hospitals for military use, mainly in the Northwestern Federal District near the...
+In Canada, Ukrainian Pilots Prepare to Fly Gripen Fighter Jets
+Ukrainian military pilots are undergoing training at the International Pilot Training School in Canada to eventually fly fighter jets, including th...
+Russians Painted Houses on Project 1331-M Ships to Protect Against Drones
+Russia’s Baltic Fleet has applied unusual camouflage to its ships to mislead drones equipped with artificial intelligence.
+Russia Demanded Japan Remove U.S. Typhon Missile Systems
+Russia lodged an official protest with Japan, demanding the removal from Japanese territory of U.S. Typhon systems capable of launching Tomahawk cr...
+Russian Oil Refineries Begin Using Shipping Containers for Protection
+At some Russian oil refineries, walls made of shipping containers are being installed around storage tanks and processing units to strengthen prote...
+Spanish Navy Officer Suspended from Duty Due to Relationship with a Russian-Born Woman
+A senior officer in the Spanish Navy was suspended from duty after security services suspected his Russian partner of having possible ties to Russi...
+Submit news or press releases:
+Publications may be cited under condition of source indication
+Web resources are required to provide a direct hyperlink available for search engines for the original publication
+Offline media should provide MILITARNYI.COM website address. Materials of "Special Projects" are published as advertising.
+© 2026              Militarnyi All rights reserved.
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Dagestan Attacked by Drones, Explosions Heard Near Port of Kaspiysk
+Mon, 21 September 2026
+Ukr
+Eng
+Donate
+Ukr
+Eng
+News
+Articles
+Blogs
+Videocontent
+Partners
+About Us
+Advertising
+Special projects
+Donate
+Dagestan Attacked by Drones, Explosions Heard Near Port of Kaspiysk
+#Caucasus
+#Europe
+#Russia
+#UAV
+#Ukraine
+#War with Russia
+Zalutsky Ilya
+September 19, 2026
+15:59
+A Ukrainian drone flying near the port of Kaspiysk, Dagestan. September 2026. Photo credits: Exilenova+
+News
+EU Will Maintain a Moratorium on the Development of New Oil and Gas Fields in the Arctic
+September 21, 2026
+17:04
+Russia May Use Real Estate in Sweden as Bases for Espionage
+September 21, 2026
+16:05
+Vluchnyk Unveils New Zorelit v5 Interceptor Drone
+September 21, 2026
+15:08
+European Intelligence Warns of Russian Threat as Baltics Urge Calm
+September 21, 2026
+14:12
+U.S. Relocates MQ-9 Reaper Drones from Africa to Latin America
+September 21, 2026
+13:36
+All news
+On the morning of September 19, reports emerged from Kaspiysk in Dagestan, Russia, of numerous explosions near the local port.
+This was reported by the OSINT project
+Exilenova+
+.
+Footage released shows a drone flying over the city. The Russian Defense Ministry
+stated
+that on the night of September 19, air defense forces allegedly shot down 344 Ukrainian drones over 16 regions of the country. Among the regions where the Russian side reported air defense operations was the Republic of Dagestan.
+Amid the drone threat,
+the Federal Air Transport Agency
+Rosaviatsya also temporarily restricted the air traffic at Makhachkala Uytash Airport, located near Kaspiysk. The restrictions were in effect in the morning and were later lifted.
+At this time, it is not known exactly which facility may have been the target of the attack or whether any strikes hit their mark. As of this writing, Russian authorities have not reported any damage to port or military infrastructure.
+Kaspiysk is home to the main base of the Russian Navy’s Caspian Flotilla, which houses, among other things, ships capable of launching Kalibr cruise missiles. As previously
+reported
+by Militarnyi, the flotilla’s facilities in Kaspiysk have already been targeted by Ukrainian strikes.
+Helicopters in the Republic of Dagestan, presumably hunting Ukrainian drones. September 2026. Photo credits: Supernova+
+In addition, on September 10, Ukrainian drones
+attacked
+for the first time the Makhachkala International Sea Trade Port, located approximately 15 km from Kaspiysk. At that time, Russian authorities confirmed a fire at the port’s infrastructure.
+Share this post:
+SUPPORT MILITARNYI
+PrivatBank ( Bank card )
+5169 3351 0164 7408
+copied
+Bank Account in UAH (IBAN)
+UA043052990000026007015028783
+copied
+Patreon
+PayPal
+Crypto
+BTC
+bc1qg0z99m95fte7kj8faa7h2kvnq92wvc53exe8gm
+copied
+USDT
+0x8676644fA7B6d328310283cAC1065Ae01d97CEe7
+copied
+ETH
+0xfD02863D3289416fcF50975c9DFda13623f97758
+copied
+Blogs
+You Can Copy the Paperwork. You Can’t Copy the Deadline
+Artem Veselov
+September 17, 2026
+20:18
+EW vs Starlink: What Actually Works?
+Volodymyr Stepanets
+September 4, 2026
+20:49
+Iran Strikes U.S. Bases in the Region in New Escalation Cycle
+Urich
+September 2, 2026
+11:44
+NB8 in a Week: Billion-Dollar Deals in Kyiv, an Alarming Signal From Moscow, and Air Defense Systems Near Vilnius
+Anna Okrepka
+August 30, 2026
+15:56
+Drone Swarms: Where Tactics End and Strategy Begins
+Artem Veselov
+August 25, 2026
+22:03
+All blogs
+Popular
+Russia Plans 16,000–20,000 Hospital Beds for Wounded Soldiers Near the Baltic States
+In autumn 2026, Russia plans to add 16,000–20,000 beds in civilian hospitals for military use, mainly in the Northwestern Federal District near the...
+#Baltic States
+#Medicine
+#Neighbors
+#Russia
+#War with Russia
+#World
+September 13, 2026
+14:19
+In Canada, Ukrainian Pilots Prepare to Fly Gripen Fighter Jets
+Ukrainian military pilots are undergoing training at the International Pilot Training School in Canada to eventually fly fighter jets, including th...
+#Aviation
+#Canada
+#F-16
+#Fighter jet
+#Military AID
+#Military assistance
+#Training
+#Ukraine
+#World
+September 12, 2026
+17:18
+Russians Painted Houses on Project 1331-M Ships to Protect Against Drones
+Russia’s Baltic Fleet has applied unusual camouflage to its ships to mislead drones equipped with artificial intelligence.
+
+Massimo Frantarelli p...
+#Baltic States
+#Navy
+#Neighbor nations
+#Russia
+#Russian Navy
+#War with Russia
+#World
+September 14, 2026
+18:50
+Russia Demanded Japan Remove U.S. Typhon Missile Systems
+Russia lodged an official protest with Japan, demanding the removal from Japanese territory of U.S. Typhon systems capable of launching Tomahawk cr...
+#Asia
+#Cruise missiles
+#Japan
+#Russia
+#Training
+#USA
+#World
+September 18, 2026
+20:11
+Russian Oil Refineries Begin Using Shipping Containers for Protection
+At some Russian oil refineries, walls made of shipping containers are being installed around storage tanks and processing units to strengthen prote...
+#Neighbors
+#Russia
+#UAV
+#Ukraine
+#War with Russia
+September 13, 2026
+14:38
+Spanish Navy Officer Suspended from Duty Due to Relationship with a Russian-Born Woman
+A senior officer in the Spanish Navy was suspended from duty after security services suspected his Russian partner of having possible ties to Russi...
+#NATO
+#Navy
+#Russia
+#Spain
+#United Kingdom
+September 14, 2026
+18:07
+Button Text
+NGO "MILITARNYI"
+Donate
+Submit news or press releases:
+[email protected]
+| Advertising inquiries:
+[email protected]
+Publications may be cited under condition of source indication
+Web resources are required to provide a direct hyperlink available for search engines for the original publication
+Offline media should provide MILITARNYI.COM website address. Materials of "Special Projects" are published as advertising.
+Content
+News
+Articles
+Blogs
+Special projects
+Videocontent
+About Militarnyi
+Advertisement
+Contact us
+Popular tags
+#Defense industry of Ukraine
+#Ukraine
+#World
+#War with Russia
+#Europe
+#Russia
+#UAV
+#USA
+Follow us
+X
+Facebook
+LinkedIn
+Youtube
+Instagram
+Telegram
+Threads
+BlueSky
+© 2026              Militarnyi All rights reserved.
+Developed by:
+Privacy Policy
+Terms of Service
+Підтримати нас можна через:
+Приват:
+5169 3351 0164 7408
+PayPal -
+[email protected]
+Стати нашим патроном за лінком ⬇
+Patreon
+Subscribe to our newsletter
+Subscribe
+or on ours
+Telegram
+Thank you!!
+You are subscribed to our newsletter

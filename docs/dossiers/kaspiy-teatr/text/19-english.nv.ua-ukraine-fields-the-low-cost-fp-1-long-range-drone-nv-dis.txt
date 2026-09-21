@@ -1,0 +1,71 @@
+URL:         https://english.nv.ua/nation/ukraine-fields-the-low-cost-fp-1-long-range-drone-nv-discloses-the-uav-specs-50559428.html
+Кінцевий:    https://english.nv.ua/nation/ukraine-fields-the-low-cost-fp-1-long-range-drone-nv-discloses-the-uav-specs-50559428.html
+Заголовок:   Exclusive: How Ukraine-made FP-1 drone reshapes long-range strikes - NV video
+Дата публ.:  2025-11-10
+Завантажено: 2026-09-21 14:38 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 94384
+Оригінал:    raw/19-english.nv.ua-ukraine-fields-the-low-cost-fp-1-long-range-drone-nv-dis.html
+sha256:      4037ce8f8fceed682f8971c1f47ffabeeb20b40d55ff04f8f338fb00309f3bd1
+Витяг:       trafilatura
+
+==============================================================================
+# How Ukraine-made FP-1 drone reshapes long-range strikes - NV video
+
+A few months ago Ukraine publicly unveiled its long-range FP-1 drone for the first time - now producing up to **3,000** of these unmanned systems per month.
+
+The FP-1 story stretches back to 2022, with mass use beginning in 2024. NV traces the development, capabilities and operational record of the platform, which has already proven effective against military-industrial facilities and energy infrastructure in Russia.
+
+[Ukraine unveils several new combat drones](https://english.nv.ua/nation/ukraine-unveils-several-new-combat-drones-50511976.html)
+
+**What FP-1 is?**
+
+FP-1 is a Ukrainian long-range kamikaze drone built to strike deep rear-area targets. Developers and users say it has repeatedly hit depots, energy nodes and other strategic sites.
+
+Denis Shtilerman, *Fire Point*’s chief designer and one of the drone’s lead developers, [told ZN.ua](https://zn.ua/ukr/war/tochka-vohnju-rozmova-pro-droni-raketi-ta-mindicha-z-holovnim-konstruktorom-fire-point-denisom-shtilermanom.html) that FP-1 is the cheapest and most efficient drone in its class. The system entered mass and effective operational use in 2024, and its performance is “confirmed by many hundreds of uses and analytics.”
+
+**The drone's key specs**
+
+- 
+**Origin:**Ukraine
+- 
+**Range:**~1,600 km
+- 
+**Warhead mass:**~50 kg
+- 
+**Unit cost:**~$55,000
+- 
+**Propulsion / structure:**two-cylinder engine; twin-boom layout; load-bearing structure made from plywood
+- 
+**Airframe:**inverted joined-V tail, straight broad wing, narrow fuselage; no wheeled landing gear
+- 
+**Launch:**sloped ramp with a solid-fuel booster
+- 
+**Sensors & navigation:**onboard optical stations can transmit imagery; navigation uses a purpose-built algorithm resistant to GPS spoofing
+
+**FP-2 modification**
+
+In September 2025, Fire Point introduced FP-2, a short-/medium-range derivative. Its warhead was increased to **~120 kg**, which reduced range to roughly **200 km**. In October 2025, FP-2 was fitted with a fragmenting high-explosive aerial bomb (without a tail section), and in November 2025 FP-2 attacked enemy depots and bases on temporarily occupied Ukrainian territory.
+
+**Development timeline and operational record**
+
+Shtilerman [told Radio NV](https://nv.ua/ukr/ukraine/events/raketi-flamingo-droni-fp-1-mindich-i-vkidi-shchodo-kompaniji-fire-point-shtilerman-novini-ukrajini-50553728.html) that early FP-1 prototypes began late in 2022. Flight trials were completed by May 2023, and the firm received initial contracts around October 2023. After a quiet stretch in early 2024, public tests took place in March on a western Ukrainian range with participation by the Defense Forces and the U.S. embassy. According to Shtilerman, FP-1 was the only system among several manufacturers that completed a complex route under electronic-warfare conditions, reach the target and engage it — which triggered a wave of orders.
+
+Shtilerman credits close cooperation with Ukraine’s Special Operations Forces for helping *Fire Point* refine production, navigation algorithms and employment concepts. He says that in 2024 FP-1 strikes produced high-profile hits — citing locations such as Tikhoretsk and Toropets and reporting that [an A-50 radar aircraft was destroyed in Taganrog](https://english.nv.ua/nation/attack-on-taganrog-the-target-was-the-aviation-plant-where-the-a-50-aircraft-were-being-repaired-50399721.html) — and that demand rose further in 2025.
+
+He also stressed that the platform continues to be iteratively improved: FP-1 conducts multiple daily test flights to validate navigation solutions, engine systems, altitude control, anti-spoofing measures and other subsystems.
+
+**The military war may be swinging in our favor, but the information war continues.**
+
+Just as an army needs soldiers, so does a free society need its journalists to ensure that people have access to honest, trustworthy voices to understand the world around them.
+
+For the past five years, The New Voice of Ukraine has been working tirelessly to push back against Russian narratives and defend democracy. But we cannot do it alone.
+
+                            Please consider [supporting us on Patreon](https://link.nv.ua/promo_en_nv_ua) for just $5 a month – your donation does directly to supporting journalists and ensuring that this front of the infowar says solid and defended.
+                            
+
+                        
+
+Thank you.
+
+Follow us on [Twitter](https://twitter.com/NewVoiceUkraine), [Facebook](https://www.facebook.com/TheNewVoiceUkraine) and
+                    [Google News](https://news.google.com/publications/CAAqBwgKMLeesQswxLnIAw)

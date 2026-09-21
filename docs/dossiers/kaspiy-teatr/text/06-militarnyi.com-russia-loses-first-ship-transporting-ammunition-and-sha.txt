@@ -1,0 +1,80 @@
+URL:         https://militarnyi.com/en/news/russia-loses-first-ship-transporting-ammunition-and-shahed-drone-parts-from-iran-how-many-vessels-still-remain/
+Кінцевий:    https://militarnyi.com/en/news/russia-loses-first-ship-transporting-ammunition-and-shahed-drone-parts-from-iran-how-many-vessels-still-remain/
+Заголовок:   Russia Loses First Ship Transporting Ammunition and Shahed Drone Parts From Iran — How Many Vessels Still Remain?
+Дата публ.:  2025-08-15
+Завантажено: 2026-09-21 14:37 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 249029
+Оригінал:    raw/06-militarnyi.com-russia-loses-first-ship-transporting-ammunition-and-sha.html
+sha256:      874f1563376aceeffea3a0b50cc41ecb37e3ae275a08a8c45c85982e32af0199
+Витяг:       trafilatura
+
+==============================================================================
+Ukrainian forces have struck a Russian vessel in the Caspian Sea that was transporting military cargo from Iran, marking the first confirmed loss of its kind.
+
+The cargo ship Port Olya-4 was hit in an airstrike by Ukraine’s Special Operations Forces.
+
+Ship tracking data from [MarineTraffic](https://www.marinetraffic.com/ua/ais/details/ships/shipid:2246542/mmsi:273390550/imo:9481934/vessel:PORT_OLYA_4) shows the vessel was off the Iranian coast on August 1. By August 12th, it was en route to Russia, and on August 14th, it was [struck](https://militarnyi.com/en/news/general-staff-ukrainian-sof-strike-vessel-carrying-shahed-drone-components-in-astrakhan-region/) near the port of Olya in the Astrakhan region.
+
+The vessel partially sank following the attack.
+
+Astrakhan region governor Igor Babushkin [claimed](https://t.me/babushkin30/8726) the damage had been caused by “fragments of drones, all of which were shot down.”
+
+Port Olya-4 was used to transport Shahed drone components and ammunition from Iran.
+
+It is owned by sanctioned Russian shipping firm MG-Flot LLC, formerly TRANSMORFLOT LLC, linked to Astrakhan businessman Jamaldin Pashayev.
+
+Pashayev built his business around the commercial port of Olya, promoted as a key hub for the ‘North-South’ transport corridor intended for trade with sanctioned Iran.
+
+His companies have handled Russian military exports since 2021, signing more than 200 contracts for shipping weapons to various countries.
+
+According to Defence Intelligence of Ukraine, Pashayev and his firms are [part of the supply chain](https://war-sanctions.gur.gov.ua/transport/ships-company/3730) to sanctioned Alabuga JSC, which manufactures Shahed drones.
+
+The US sanctioned Port Olya-4 in September 2024 as property of MG-Flot LLC. The company owns 26 vessels, some used to transport weapons for Russia.
+
+Ukrainian intelligence says MG-Flot still operates sanctioned ships for military cargo, including:
+
+- Anastasiia,
+- Askar-Sarydzha,
+- Sapfir,
+- Gasret Aliev (also carries stolen Ukrainian grain),
+- Genrikh Gasanov,
+- Kompozitor Elza Ibragimova,
+- Lady D,
+- Lady Mariia,
+- Lady R,
+- Maia-1,
+- Olga,
+- Port Olya-1,
+- Port Olya-2,Rasul Gamzatov,
+- Sona,
+- Valentin Emirov,
+- Port Olya-3,
+- Boris Kustodiev,
+- Kompozitor Rakhmaninov.
+
+In order to move Iranian components and equipment to Alabuga, listed in documents under the cover name ‘Irlandia’, Russia uses three ‘North-South’ corridor routes: Trans-Caspian, Western and Eastern.
+
+The Trans-Caspian route relies on maritime transport across the Caspian Sea, using Russian, Iranian, Kazakh, Turkmen and Azerbaijani ports:
+
+- Russia: Astrakhan, Olya, Makhachkala
+- Iran: Enzeli, Nowshahr, Amirabad
+- Kazakhstan: Aktau, Kuryk
+- Turkmenistan: Turkmenbashi
+- Azerbaijan: Alat
+
+Standard 20- and 40-foot containers are used, each carrying four or eight boxes, before being transferred to road or rail transport.
+
+Popular
+
+                Підтримати нас можна через:
+
+Приват: **5169 3351 0164 7408**  PayPal - [[email protected]](/cdn-cgi/l/email-protection)   Стати нашим патроном за лінком ⬇
+
+Subscribe to our newsletter
+
+    or on ours [Telegram](https://t.me/milinua)
+  
+
+Thank you!!
+
+You are subscribed to our newsletter
