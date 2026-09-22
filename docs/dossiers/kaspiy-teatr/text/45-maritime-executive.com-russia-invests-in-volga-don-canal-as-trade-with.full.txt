@@ -1,0 +1,193 @@
+URL:         https://maritime-executive.com/article/russia-invests-in-volga-don-canal-as-trade-with-iran-booms
+Кінцевий:    https://maritime-executive.com/article/russia-invests-in-volga-don-canal-as-trade-with-iran-booms
+Заголовок:   Russia Invests in Volga-Don Canal as Trade With Iran Booms
+Дата публ.:  2022-12-21
+Завантажено: 2026-09-22 07:15 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 143725
+Оригінал:    raw/45-maritime-executive.com-russia-invests-in-volga-don-canal-as-trade-with.html
+sha256:      e24954e927a4fed341273b5c1ba453cc7fc94ffe959672e4f8bfbcfa01d12a80
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 19
+==============================================================================
+Report: AI Mistake Nearly Led U.S. Military to Board a Chinese Ship
+Calls Grow for a U.S. Diesel Export Ban - But Economists Express Caution
+EU's Top Diplomat Calls for Bigger Naval Force in the Red Sea
+Stay on Top of the Daily Maritime News
+Germany's Largest Offshore Wind Farm Inaugurated as Commissioning Proceeds
+South Korea Increases Budget to Expand Coast Guard Operations
+U.S. Landing-Drone Startup Gets Support From a Small Japanese Shipyard
+Giant Japanese Bulker Remains Aground Off Australia After Four Days
+IRGC Profiteer Babak Zanjani Skims Iran’s Hormuz Tolls
+Africa’s Red Sea States Face Growing Risks as Houthis Expand Their Reach
+Conflict in Close Quarters: When Work is Also Home
+Hormuz Route Negotiations Would Have Handed Entry and Exit Control to Iran
+The Liner’s Dilemma: Schedule Integrity vs. Contractual Flexibility
+The latest news in your inbox daily.
+All users of AI are familiar with its tendency to produce false results from time to time, particularly when using older, lower-end chatbots. While more recent frontier models are less likely to feed out made-up results, they are still capable of error, which is why corporate adopters emphasize that accountability for the product remains with the human who delivers it - not the AI agent behind the scenes. The U.S. military also uses AI extensively for data analysis, and nearly...
+The ship registry industry is undergoing a sea change. As business booms with the global fleet reaching approximately 112,500 vessels and 2.44 billion deadweight tons in 2025, growth is consolidating around the most trusted and capable flags. These have evolved into sophisticated, round-the-clock regulatory service organizations built on compliance, predictable pricing and White List performance. Nearly 50 percent of registered tonnage is now held by the three largest flags: Liberia with 17.4 percent, Panama with 15.2 percent and the Marshall...
+As fuel prices continue to rise amidst the ongoing Hormuz crisis, and the U.S. midterm election approaches, the idea of a diesel fuel export ban is gaining currency on the campaign trail - especially in farming states in the Midwest, where diesel pricing is a hot-button issue. Energy analysts say that an export ban would likely suppress diesel prices for a short period in refining regions of the South and Midwest, though the knock-on effects for the nation and for...
+EU foreign policy chief Kaja Kallas has called for a substantial increase in the European commitment to maritime security patrols in the Red Sea. After recent aggression by Yemen's Houthi rebel faction, she suggested, it is time for a 10-warship EU mission in the region. In a letter released over the weekend, Kallas called for EU member states to increase their contributions to the Operation Aspides security mission. The Houthi attacks on Saudi energy infrastructure and tanker traffic have contributed...
+© Copyright 2026 The Maritime Executive, LLC. All rights reserved.
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Russia Invests in Volga-Don Canal as Trade With Iran Booms
+Go
+SUBSCRIBE NOW
+Media Kit
+news
+Features
+Podcasts
+Magazine
+Newsletter
+Advertise
+Directory
+Subscribe
+news
+features
+Podcasts
+magazine
+newsletter
+Jobs
+advertise
+subscribe
+TOP
+STORIES
+Report: AI Mistake Nearly Led U.S. Military to Board a Chinese Ship
+Published
+				by
+The Maritime Executive
+Big Three
+Published
+				by
+Sean Hogue
+Calls Grow for a U.S. Diesel Export Ban - But Economists Express Caution
+Published
+				by
+The Maritime Executive
+EU's Top Diplomat Calls for Bigger Naval Force in the Red Sea
+Published
+				by
+The Maritime Executive
+16175
+Views
+Russia Invests in Volga-Don Canal as Trade With Iran Booms
+Traffic on the Soviet-built Volga-Don Canal (Michael Clarke / CC BY-SA 2.0)
+Published
+					Dec 21, 2022 9:01 PM        		by
+The Maritime Executive
+Russia and Iran are working on an infrastructure expansion program that would vastly increase their inland trade ties, including a substantial investment in the Volga-Don route connecting the Sea of Azov with the Caspian.
+The tiny but strategic Volga-Don Canal connects up the two river systems with a 63-mile waterway, allowing small freighters to navigate between the Caspian and the Sea of Azov (and onwards to the high seas). A series of 13 locks carry marine traffic up and over the gentle rise between the two waterways. The Soviet Volga-Don-class freighters, built precisely for the canal's dimensions, are an icon of Russia's inland trade. However, these ships are limited to a draft of 12 feet and a maximum load of about 5,000 tonnes (and just 3,000 tonnes in some shallow sections of the Volga and Don, according to Bloomberg). Wintertime navigation usually ends in December when the canal freezes over.
+This is limiting for the burgeoning trade between Russia and Iran, which connects in part via a trans-Caspian route. Russia plans to spend $1 billion improving inland connections to the Caspian, including removing impediments to shipping on the Volga-Don complex. Shipping between the mouth of the Volga and Iranian ports at the southern end of the Caspian is increasing in volume, according to Bloomberg, and Russia's inland waterway network feeds this growing trade.
+Phó Nháy
+/
+CC BY-SA 4.0
+A share of the $5 billion-a-year trade between the two nations is in the form of armaments. Iran is supplying the government of Russia with hundreds of so-called "suicide" drones, which Russian forces are using en masse to target Ukraine's power infrastructure. In return for this simple but much-desired technology, Russia is believed to be supplying Iran with some of its best military systems, including helicopters and potentially the next-generation Su-35 fighter, according to U.S. defense officials. American intelligence believes that Iran has also asked for extra Russian help with its nuclear program, and it is unclear whether the aid would be for strictly civilian purposes.
+In addition to boosting sanctions-proof trade and arms shipping, another major goal of the partnership is to create a Russia-to-India trade corridor that fully bypasses Europe. The so-called International North–South Transport Corridor (INSTC) connects the Russian heartland with India by way of the Don, the Volga, the Caspian Sea and an intermodal transfer over the Iranian rail network. (A rail-only variant of this route passes through Azerbaijan, bypassing the Caspian.) Iranian shipping company IRISL announced the completion of its first cargo ever on this corridor in June 2022, and Iran's government is investing heavily in its rail system to increase capacity.
+As a sign of the times, IRISL recently announced that it would put $10 million into terminal improvements at the port of Astrakhan, on the Russian side of the Caspian Sea. The investment is partly funded by Russian loans and is aimed at strengthening the INSTC.
+Stay on Top of the Daily Maritime News
+The maritime news
+that matters most
+Get the latest maritime news delivered to your inbox daily.
+Subscribe Now
+However, for the corridor to truly take off, Iran may have to take steps to make its financial system easier to navigate for shipping.
+According
+to Reuters, dozens of ships carrying Iran-bound agricultural cargoes are stuck at anchor in the Persian Gulf, delayed by heavy Western sanctions on Iranian financial institutions. With no reliable way to pay for delivery, the much-needed food is stuck aboard ship, awaiting a solution to Iran's banking difficulties.
+Top image:
+Traffic on the Soviet-built Volga-Don Canal
+(Michael Clarke /
+CC BY-SA 2.0
+)
+MORE
+TOP STORIES
+Germany's Largest Offshore Wind Farm Inaugurated as Commissioning Proceeds
+South Korea Increases Budget to Expand Coast Guard Operations
+U.S. Landing-Drone Startup Gets Support From a Small Japanese Shipyard
+Giant Japanese Bulker Remains Aground Off Australia After Four Days
+EDITORIALS
+TOP STORIES
+IRGC Profiteer Babak Zanjani Skims Iran’s Hormuz Tolls
+Africa’s Red Sea States Face Growing Risks as Houthis Expand Their Reach
+Conflict in Close Quarters: When Work is Also Home
+Hormuz Route Negotiations Would Have Handed Entry and Exit Control to Iran
+The Liner’s Dilemma: Schedule Integrity vs. Contractual Flexibility
+The maritime news
+that matters most
+The latest news in your inbox daily.
+Subscribe Now
+SUBSCRIPTIONS
+SUBSCRIBE
+Print
+Digital
+Newsletter
+Renew
+Subscribe Now
+RELATED
+STORIES
+Government
+Report: AI Mistake Nearly Led U.S. Military to Board a Chinese Ship
+Published
+					Sep 21, 2026 10:49 PM        		by
+The Maritime Executive
+All users of AI are familiar with its tendency to produce false results from time to time, particularly when using older, lower-end chatbots. While more recent frontier models are less likely to feed out made-up results, they are still capable of error, which is why corporate adopters emphasize that accountability for the product remains with the human who delivers it - not the AI agent behind the scenes. The U.S. military also uses AI extensively for data analysis, and nearly...
+Continue Reading...
+Shipping
+Big Three
+Published
+					Sep 21, 2026 10:25 PM        		by
+Sean Hogue
+The ship registry industry is undergoing a sea change. As business booms with the global fleet reaching approximately 112,500 vessels and 2.44 billion deadweight tons in 2025, growth is consolidating around the most trusted and capable flags. These have evolved into sophisticated, round-the-clock regulatory service organizations built on compliance, predictable pricing and White List performance. Nearly 50 percent of registered tonnage is now held by the three largest flags: Liberia with 17.4 percent, Panama with 15.2 percent and the Marshall...
+Continue Reading...
+Government
+Calls Grow for a U.S. Diesel Export Ban - But Economists Express Caution
+Published
+					Sep 21, 2026 10:08 PM        		by
+The Maritime Executive
+As fuel prices continue to rise amidst the ongoing Hormuz crisis, and the U.S. midterm election approaches, the idea of a diesel fuel export ban is gaining currency on the campaign trail - especially in farming states in the Midwest, where diesel pricing is a hot-button issue. Energy analysts say that an export ban would likely suppress diesel prices for a short period in refining regions of the South and Midwest, though the knock-on effects for the nation and for...
+Continue Reading...
+Shipping
+EU's Top Diplomat Calls for Bigger Naval Force in the Red Sea
+Published
+					Sep 21, 2026 9:05 PM        		by
+The Maritime Executive
+EU foreign policy chief Kaja Kallas has called for a substantial increase in the European commitment to maritime security patrols in the Red Sea. After recent aggression by Yemen's Houthi rebel faction, she suggested, it is time for a 10-warship EU mission in the region. In a letter released over the weekend, Kallas called for EU member states to increase their contributions to the Operation Aspides security mission. The Houthi attacks on Saudi energy infrastructure and tanker traffic have contributed...
+Continue Reading...
+SUBSCRIPTIONS
+SUBSCRIBE
+Print
+Digital
+Newsletter
+Renew
+Subscribe Now
+Show Comments
+About Us
+Advertise
+Newsletter
+Contact Us
+Privacy Policy
+Site Map
+News
+Features
+Podcasts
+Magazine
+Newsletter
+Piracy News
+Shipbuilding News
+Cruise Ship News
+Ports News
+Salvage News
+Training News
+Government News
+Environment News
+Corporate News
+Subscribe
+Facebook
+LinkedIn
+Twitter
+RSS Feed
+Instagram
+© Copyright 2026 The Maritime Executive, LLC. All rights reserved.

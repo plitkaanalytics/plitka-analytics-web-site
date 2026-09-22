@@ -47,6 +47,13 @@
 | 38 | [СБУ уразила у Каспійському морі російський ракетний катер, два вантажн](https://nv.ua/ukr/ukraine/events/sbu-urazila-raketniy-kater-ta-dva-vantazhnih-sudna-rf-u-kaspiyskomu-mori-50627192.html) | 2026-07-25 | прочитано | 1652 | ? | `text/38-nv.ua-sbu-urazila-raketniy-kater-ta-dva-vantazhnih-sudna-rf-u-kaspiysk.txt` |
 | 39 | [Судна з вантажами з Ірану та бойовий корабель: Зеленський розповів про](https://focus.ua/uk/voennye-novosti/762246-udar-po-kaspiyu-sbu-urazili-sudna-begey-ta-port-olya-2) | 2026-07-25 | прочитано | 2643 | ? | `text/39-focus.ua-762246-udar-po-kaspiyu-sbu-urazili-sudna-begey-ta-port-olya-2.txt` |
 | 40 | [Сили оборони очікувано вдарили по суднах у Каспійському морю, які вози](https://defence-ua.com/news/chi_tse_vpershe_sili_oboroni_bili_po_sudnah_u_kaspijskomu_mori_ta_chomu_novi_udari_dosit_ochikuvani-23760.html) | 2026-07-25 | прочитано | 3017 | ? | `text/40-defence-ua.com-chi_tse_vpershe_sili_oboroni_bili_po_sudnah_u_kaspijsko.txt` |
+| 41 | [Виноваты украинские БПЛА: грузооборот Волго-Донского канала за месяц у](https://bloknot-volgodonsk.ru/news/vinovaty-ukrainskie-bpla-gruzooborot-volgo-donskog) | 2026-08-17 | прочитано | 9268 | ? | `text/41-bloknot-volgodonsk.ru-vinovaty-ukrainskie-bpla-gruzooborot-volgo-donsk.txt` |
+| 42 | [По Волго-Донскому судоходному каналу перевезли 4 млн тонн](https://seanews.ru/2026/07/28/ru-po-volgo-donskomu-sudohodnomu-kanalu-perevezli-4-mln-tonn) | 2026-07-28 | прочитано | 5604 | ? | `text/42-seanews.ru-ru-po-volgo-donskomu-sudohodnomu-kanalu-perevezli-4-mln-ton.txt` |
+| 43 | [Объем грузоперевозок по Волго-Донскому судоходному каналу вырос на чет](https://www.korabel.ru/news/comments/obem_gruzoperevozok_po_volgo-donskomu_sudohodnomu_kanalu_vyros_na_chetvert.html) | 2024-11-07 | прочитано | 8164 | ? | `text/43-korabel.ru-obem_gruzoperevozok_po_volgo-donskomu_sudohodnomu_kanalu_vy.txt` |
+| 44 | [На Волго-Донском судоходном канале завершена навигация 2025 года](https://portnews.ru/news/385683/) | 2025-12-11 | прочитано | 7554 | ? | `text/44-portnews.ru-385683.txt` |
+| 45 | [Russia Invests in Volga-Don Canal as Trade With Iran Booms](https://maritime-executive.com/article/russia-invests-in-volga-don-canal-as-trade-with-iran-booms) | 2022-12-21 | прочитано | 3826 | ? | `text/45-maritime-executive.com-russia-invests-in-volga-don-canal-as-trade-with.txt` |
+| 46 | [Russia & Iran boost trade movement through the Volga-Don canal / Marit](https://www.maritimegateway.com/russia-iran-boost-trade-movement-through-the-volga-don-canal/) | 2022-12-23 | прочитано | 3471 | ? | `text/46-maritimegateway.com-russia-iran-boost-trade-movement-through-the-volga.txt` |
+| 47 | [The International North–South Transport Corridor: Russia’s Geoeconomic](https://bakuresearchinstitute.org/en/the-international-north-south-transport-corridor-russias-geoeconomic-and-geopolitical-interests/) | 2024-09-11 | прочитано | 38640 | ? | `text/47-bakuresearchinstitute.org-the-international-north-south-transport-corr.txt` |
 
 ## Проблемні джерела
 
@@ -54,6 +61,7 @@
 - **№26** https://fleetphoto.ru/vessel/3205/ — оригінал недоступний (0), узято з Wayback
 - **№27** http://russianships.info/vspomog/20360.htm — оригінал недоступний (0), узято з Wayback
 - **№31** https://caspian.institute/product/mozgovoj-aleksandr/kaspijskaya-flotiliya-sovremennoe-sostoyanie-i-perspektivy-razvitiya-38392.shtml — оригінал недоступний (0), узято з Wayback
+- **№43** https://www.korabel.ru/news/comments/obem_gruzoperevozok_po_volgo-donskomu_sudohodnomu_kanalu_vyros_na_chetvert.html — оригінал недоступний (0), узято з Wayback
 
 ---
 
