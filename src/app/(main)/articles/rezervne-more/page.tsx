@@ -267,9 +267,175 @@ export default function Page() {
           перетворюється на накопичувач.
         </p>
 
-        {/* TODO: § 02 закрите море — Актауська конвенція, чому маршрут не перехопити
-            → § 03 хто возить: «МГ-ФЛОТ», Пашаєв, «Порт Оля» → § 04 хто прикриває:
-            флотилія → § 05 удари 2024–2026 → висновок: дагестанський вузол */}
+        {/* ===================== § 02 ===================== */}
+        <h2 id="sec-carrier">
+          <span className="h2-num">§ 02 · Перевізник</span>Одна астраханська
+          фірма й двадцять шість суден
+        </h2>
+
+        <p>
+          Нафта — лише половина вантажу. Другу половину маршруту описує
+          конкретна компанія, і вона ж пояснює, чому удари по каспійських портах
+          стали регулярними.
+        </p>
+
+        <p>
+          14 серпня 2025 року Сили спеціальних операцій уразили біля порту Оля в
+          Астраханській області суховантаж <strong>«Порт Оля-4»</strong>. Судно
+          частково затонуло. Воно везло <strong>компоненти «шахедів»</strong> і
+          боєприпаси з Ірану; за даними MarineTraffic, 1 серпня воно стояло біля
+          іранського берега, 12-го рушило до Росії, а 14-го його не стало
+          <a className="ref" href="#ref-8">
+            [8]
+          </a>
+          . Губернатор Астраханської області Ігор Бабушкін пояснив пошкодження
+          «уламками дронів, які всі були збиті»
+          <a className="ref" href="#ref-8">
+            [8]
+          </a>
+          .
+        </p>
+
+        <p>
+          Власник судна — <strong>«МГ-ФЛОТ»</strong>, колишній «ТрансМорФлот»,
+          пов&apos;язаний з астраханським підприємцем{" "}
+          <strong>Джамалдіном Пашаєвим</strong>. Його компанії возять російський
+          військовий експорт із 2021 року й підписали понад{" "}
+          <strong>200 контрактів</strong> на перевезення зброї. За даними
+          Головного управління розвідки, Пашаєв і його фірми входять до ланцюга
+          постачання <strong>«Алабуги»</strong> — заводу, де складають «шахеди».
+          США внесли «Порт Оля-4» до санкційного списку у вересні 2024 року; в
+          «МГ-ФЛОТ» — <strong>26 суден</strong>
+          <a className="ref" href="#ref-8">
+            [8]
+          </a>
+          .
+        </p>
+
+        <div className="aside-note">
+          <p>
+            Порт Оля — не випадкова адреса. Бізнес Пашаєва виріс саме навколо
+            нього, а сам порт просували як ключовий вузол коридору «Північ —
+            Південь», тобто торгівлі з підсанкційним Іраном
+            <a className="ref" href="#ref-8">
+              [8]
+            </a>
+            .
+          </p>
+        </div>
+
+        <h3>Що возять у зворотний бік</h3>
+
+        <p>
+          Каспійський маршрут не односторонній. Перші партії «шахедів» Росія
+          отримала саме ним, ще на початку повномасштабної війни
+          <a className="ref" href="#ref-9">
+            [9]
+          </a>
+          . У 2024 році Мінфін США оцінив, що Міноборони Росії використовувало
+          судно <strong>«Порт Оля-3»</strong> для перевезення з Ірану
+          балістичних ракет малої дальності
+          <a className="ref" href="#ref-9">
+            [9]
+          </a>
+          .
+        </p>
+
+        <p>
+          Улітку 2026-го потік розвернувся. 18 серпня, з посиланням на документ
+          європейського уряду, стало відомо, що тепер{" "}
+          <strong>Росія відправляє Ірану</strong> вибухівку, боєприпаси й
+          компоненти для дронів — щоб Тегеран поповнив запаси після ударів США
+          та Ізраїлю
+          <a className="ref" href="#ref-10">
+            [10]
+          </a>
+          .
+        </p>
+
+        <figure
+          className="fig"
+          data-placeholder="[ схема маршруту: Бандар-Ензелі й Амірабад ↔ Астрахань, Оля, Махачкала; підписати, що йшло в який бік і коли розвернулося. Умова: власна побудова ]"
+        />
+
+        <h3>Удари пішли за вантажем</h3>
+
+        <p>
+          У січні 2026 року на Каспії дістало пошкоджень іранське судно{" "}
+          <strong>Caspian Shiva</strong> — походження ушкоджень лишилося
+          невстановленим
+          <a className="ref" href="#ref-11">
+            [11]
+          </a>
+          . А в ніч на 25 липня Служба безпеки України відзвітувала про найширшу
+          на той момент операцію в цій акваторії: уражено нафтовидобувну
+          платформу імені Філановського, суховантаж{" "}
+          <strong>«Порт Оля-2»</strong> — те саме «МГ-ФЛОТ», — суховантаж{" "}
+          <strong>Begey</strong> і ракетний катер проєкту{" "}
+          <strong>12418 «Молнія»</strong>
+          <a className="ref" href="#ref-12">
+            [12]
+          </a>
+          .
+        </p>
+
+        <p>
+          Присутність бойового катера в цьому переліку не випадкова: флотилія
+          дедалі більше працює охороною того самого коридору, яким іде вантаж.
+        </p>
+
+        <div className="callout callout--warn">
+          <p>
+            <strong>Версії сторін розходяться.</strong> Президент України
+            повідомив, що серед цілей були «судна, що перевозили військовий
+            вантаж з Ірану, а також бойовий корабель». Іран заявив, що уражено
+            його <strong>комерційне</strong> судно з вантажем заліза, яке йшло з
+            Астрахані в Ензелі, і що{" "}
+            <strong>загинув один моряк, ще троє дістали поранення</strong>;
+            судно Тегеран не назвав. Губернатор іранської провінції Хаді
+            Хаг-Шенас назвав маршрут Астрахань — Ензелі «безпечним і надійним
+            коридором для комерційного обміну», речник МЗС Ірану Есмаїл Багаї
+            заявив, що «небезпечний авантюризм України точно не лишиться без
+            нашої відповіді», а повіреного у справах України викликали до
+            іранського МЗС
+            <a className="ref" href="#ref-9">
+              [9]
+            </a>
+            . Пояснення розбіжності сторони не дали.
+          </p>
+        </div>
+
+        <h3>Дагестанська прописка</h3>
+
+        <p>
+          6 вересня 2026 року, за чотири дні до першого удару по Махачкалі,
+          дрони атакували в Середземному морі біля Криту ролкер{" "}
+          <strong>Lady Mariia</strong>. Це судно теж належить «МГ-ФЛОТ» і теж
+          перебуває під санкціями — США внесли оператора за указом 14024 ще в
+          травні 2022 року, Україна додала саме це судно до власного списку 23
+          травня 2026-го
+          <a className="ref" href="#ref-13">
+            [13]
+          </a>
+          .{" "}
+          <IfArticleVisible slug="afrykanska-kampaniia">
+            Рейси Lady Mariia й те, що вона везла в Африку, розібрані{" "}
+            <Link href="/articles/afrykanska-kampaniia">окремо</Link>.{" "}
+          </IfArticleVisible>
+        </p>
+
+        <p>
+          Деталь, яка зшиває обидва театри: юридична адреса «МГ-ФЛОТ» —{" "}
+          <strong>селище Ахти, Республіка Дагестан</strong>
+          <a className="ref" href="#ref-14">
+            [14]
+          </a>
+          . Та сама республіка, у портах якої стоять уражені у вересні судна.
+        </p>
+
+        {/* TODO: § 03 закрите море — Актауська конвенція, тіньовий флот, страхування
+            → § 04 флотилія: що може → § 05 флотилія під ударом → § 06 куди йде
+            → висновок: дагестанський вузол */}
 
         {/* ===================== ДЖЕРЕЛА ===================== */}
         <section className="refs" id="sec-refs">
@@ -327,6 +493,58 @@ export default function Page() {
               Trade With Iran Booms», 21.12.2022. Конструктивні обмеження
               каналу; фінансові показники в джерелі станом на 2022 рік.{" "}
               <a href="https://maritime-executive.com/article/russia-invests-in-volga-don-canal-as-trade-with-iran-booms">
+                maritime-executive.com
+              </a>
+            </li>
+            <li id="ref-8">
+              Militarnyi — «Russia Loses First Ship Transporting Ammunition and
+              Shahed Drone Parts From Iran», 15.08.2025. Дані MarineTraffic;
+              власність «МГ-ФЛОТ», зв&apos;язок із «Алабугою» за даними ГУР.{" "}
+              <a href="https://militarnyi.com/en/news/russia-loses-first-ship-transporting-ammunition-and-shahed-drone-parts-from-iran-how-many-vessels-still-remain/">
+                militarnyi.com
+              </a>
+            </li>
+            <li id="ref-9">
+              CNN — «The Iran and Ukraine wars are colliding on the world&apos;s
+              biggest lake», 27.07.2026. Позиції Києва й Тегерана щодо липневих
+              ударів; оцінка Мінфіну США щодо «Порт Оля-3».{" "}
+              <a href="https://www.cnn.com/2026/07/27/middleeast/caspian-sea-iran-ukraine-wars-collide-intl">
+                cnn.com
+              </a>
+            </li>
+            <li id="ref-10">
+              UNITED24 Media — «Russia Has Started Supplying Explosives to Iran
+              to Replenish Weapons Stocks», 18.08.2026.{" "}
+              <a href="https://united24media.com/world/russia-has-started-supplying-explosives-to-iran-to-replenish-weapons-stocks-21791">
+                united24media.com
+              </a>
+            </li>
+            <li id="ref-11">
+              Militarnyi — «Iranian Vessel Suffers Damage of &laquo;Unknown
+              Origin&raquo; in the Caspian Sea», 29.01.2026.{" "}
+              <a href="https://militarnyi.com/en/news/iranian-vessel-suffers-damage-of-unknown-origin-in-the-caspian-sea/">
+                militarnyi.com
+              </a>
+            </li>
+            <li id="ref-12">
+              «АрміяInform» — «СБУ влаштувала „нічний рейд“ по рф: уражено ППО,
+              ракетний катер і судна з військовими вантажами», 25.07.2026.{" "}
+              <a href="https://armyinform.com.ua/2026/07/25/sbu-vlashtuvala-nichnyj-rejd-po-rf-urazheno-ppo-raketnyj-kater-i-sudna-z-vijskovymy-vantazhamy/">
+                armyinform.com.ua
+              </a>
+            </li>
+            <li id="ref-13">
+              Tech Times — «Ukraine Drones Strike Lady Mariia: Russia&apos;s
+              Weapons Ship, Not Oil Tanker», 07.09.2026. Санкційний статус судна
+              й оператора.{" "}
+              <a href="https://www.techtimes.com/articles/326906/20260907/ukraine-drones-strike-lady-mariia-russias-weapons-ship-not-oil-tanker.htm">
+                techtimes.com
+              </a>
+            </li>
+            <li id="ref-14">
+              The Maritime Executive — «Russian Military Cargo Vessel Attacked
+              in the Mediterranean», 07.09.2026. Юридична адреса «МГ-ФЛОТ».{" "}
+              <a href="https://maritime-executive.com/article/russian-military-cargo-vessel-attacked-in-the-mediterranean">
                 maritime-executive.com
               </a>
             </li>
