@@ -175,8 +175,8 @@ export default function Page() {
 
         {/* ===================== § 01 ===================== */}
         <h2 id="sec-flotilla">
-          <span className="h2-num">§ 01 · Флотилія</span>Тридцять дві комірки
-          під «Калібри»
+          <span className="h2-num">§ 01 · Флотилія</span>Сорок вісім комірок під
+          «Калібри»
         </h2>
 
         <p>
@@ -202,15 +202,38 @@ export default function Page() {
 
         <p>
           Також флотилія має три малих ракетних кораблі проєкту 21631 «Буян-М» —
-          «Град Свияжск», «Углич» і «Великий Устюг»,що несуть таку саму
+          «Град Свияжск», «Углич» і «Великий Устюг», що несуть таку саму
           установку 3С14 на вісім «Калібрів» кожен
           <a className="ref" href="#ref-8">
             [8]
           </a>
-          . Разом із «Дагестаном» це{" "}
-          <strong>тридцять дві комірки під крилаті ракети</strong> — стільки
-          флотилія може випустити в одному залпі під час одного бойового виходу.
+          . Разом із «Дагестаном» це <strong>тридцять дві комірки</strong> —
+          стільки постійний склад флотилії може випустити в одному залпі.
         </p>
+
+        <p>
+          До них додаються двоє чужих. На Каспії стоять малі ракетні кораблі
+          проєкту 22800 «Каракурт» — <strong>«Туча»</strong> і{" "}
+          <strong>«Тайфун»</strong>, теж із восьмикомірковою установкою 3С14
+          кожен. Формально обидва приписані до Чорноморського флоту: це кораблі,
+          які так і не дісталися «свого» моря й лишилися в басейні, для якого не
+          призначалися.{" "}
+          <IfArticleVisible slug="karakurty-pobyta-seria-nosiyiv-kalibriv">
+            Як вони туди потрапили — у{" "}
+            <Link href="/articles/karakurty-pobyta-seria-nosiyiv-kalibriv">
+              хроніці «Каракуртів»
+            </Link>
+            .{" "}
+          </IfArticleVisible>
+        </p>
+
+        <div className="callout">
+          <p>
+            Разом із ними з акваторії Каспію можна випустити{" "}
+            <strong>до сорока восьми крилатих ракет</strong> одним залпом — і
+            для цього кораблям не треба нікуди йти.
+          </p>
+        </div>
 
         <div className="aside-note">
           <p>
@@ -290,23 +313,22 @@ export default function Page() {
         />
 
         <p>
-          Зіставлення цього переліку зі складом флотилії дає незручний
-          результат. <strong>Жодного з чотирьох носіїв «Калібрів»</strong> у
-          ньому немає.
+          Зіставлення цього переліку зі складом угруповання дає чіткий поділ. З
+          усіх носіїв «Калібрів» під удар потрапив{" "}
+          <strong>рівно один клас — «Каракурти»</strong>, тобто ті два кораблі,
+          які прийшли сюди з Чорного моря. Генеральний штаб тоді прямо зазначив,
+          що уражений корабель є носієм «Калібрів», а який саме з двох — «Туча»
+          чи «Тайфун» — офіційно не називали
+          <a className="ref" href="#ref-14">
+            [14]
+          </a>
+          .
         </p>
 
         <p>
-          «Каракурти», уражені 7 травня, — це «Туча» і «Тайфун», які пішли на
-          Каспій із Чорного моря й застрягли у внутрішньому морі.{" "}
-          <IfArticleVisible slug="karakurty-pobyta-seria-nosiyiv-kalibriv">
-            Як вони туди потрапили — у{" "}
-            <Link href="/articles/karakurty-pobyta-seria-nosiyiv-kalibriv">
-              хроніці «Каракуртів»
-            </Link>
-            .{" "}
-          </IfArticleVisible>
-          «Татарстан» — флагман, але не носій крилатих ракет. Решта переліку —
-          тральщик, прикордонний катер, ракетний катер і портова інфраструктура.{" "}
+          Решта переліку носіїв не стосується зовсім. «Татарстан» — флагман, але
+          крилатих ракет не несе. Тральщик, прикордонний і ракетний катери та
+          портова інфраструктура — це кораблі охорони й забезпечення.{" "}
           <IfArticleVisible slug="chotyry-roky-v-mori-buyan-m">
             За нашою хронікою МРК, жодного підтвердженого знищення каспійського
             «Буяна-М» за час війни немає:{" "}
@@ -319,10 +341,15 @@ export default function Page() {
 
         <div className="callout">
           <p>
-            Станом на кінець вересня 2026 року{" "}
-            <strong>залп у тридцять дві комірки лишається неушкодженим</strong>.
-            Два роки ударів по Каспійську зменшили кількість кораблів навколо
-            носіїв, але не кількість ракет, які флотилія може випустити.
+            Поділ виходить такий: із сорока восьми комірок під ударом опинилися{" "}
+            <strong>шістнадцять</strong> — ті, що належать двом прибульцям з
+            Чорного моря, причому ступінь пошкоджень так і лишився
+            невстановленим. А{" "}
+            <strong>
+              тридцять дві комірки власного складу флотилії за два роки ударів
+              не постраждали жодного разу
+            </strong>
+            .
           </p>
         </div>
 
@@ -334,8 +361,8 @@ export default function Page() {
           озброєння проєкту 20360, призначений для завантаження ракет і
           боєприпасів на бойові кораблі, — і що справжньою ціллю був «Дагестан»,
           який стояв поряд
-          <a className="ref" href="#ref-14">
-            [14]
+          <a className="ref" href="#ref-15">
+            [15]
           </a>
           . Судно з такою назвою справді існує й числиться серед допоміжних
           суден флотилії
@@ -370,14 +397,14 @@ export default function Page() {
         <p>
           Перші партії «шахедів» Росія отримала, ще на початку повномасштабної
           війни саме морським маршрутом через Каспійське море
-          <a className="ref" href="#ref-15">
-            [15]
+          <a className="ref" href="#ref-16">
+            [16]
           </a>
           . У 2024 році Мінфін США оцінив, що Міноборони Росії використовувало
           судно <strong>«Порт Оля-3»</strong> для перевезення з Ірану
           балістичних ракет малої дальності
-          <a className="ref" href="#ref-15">
-            [15]
+          <a className="ref" href="#ref-16">
+            [16]
           </a>
           .
         </p>
@@ -388,13 +415,13 @@ export default function Page() {
           частково затонуло. Воно везло <strong>компоненти «шахедів»</strong> і
           боєприпаси з Ірану; за даними MarineTraffic, 1 серпня воно стояло біля
           іранського берега, 12-го рушило до Росії, а 14-го його не стало
-          <a className="ref" href="#ref-16">
-            [16]
+          <a className="ref" href="#ref-17">
+            [17]
           </a>
           . Губернатор Астраханської області Ігор Бабушкін пояснив пошкодження
           «уламками дронів, які всі були збиті»
-          <a className="ref" href="#ref-16">
-            [16]
+          <a className="ref" href="#ref-17">
+            [17]
           </a>
           .
         </p>
@@ -404,8 +431,8 @@ export default function Page() {
             Порт Оля — не випадкова адреса. Бізнес Пашаєва виріс саме навколо
             нього, а сам порт просували як ключовий вузол коридору «Північ —
             Південь», тобто торгівлі з підсанкційним Іраном
-            <a className="ref" href="#ref-16">
-              [16]
+            <a className="ref" href="#ref-17">
+              [17]
             </a>
             .
           </p>
@@ -417,8 +444,8 @@ export default function Page() {
           <strong>Росія відправляє Ірану</strong> вибухівку, боєприпаси й
           компоненти для дронів — щоб Тегеран поповнив запаси після ударів США
           та Ізраїлю
-          <a className="ref" href="#ref-17">
-            [17]
+          <a className="ref" href="#ref-18">
+            [18]
           </a>
           .
         </p>
@@ -432,8 +459,8 @@ export default function Page() {
           У січні 2026 року на Каспії дістало пошкоджень іранське судно{" "}
           <strong>Caspian Shiva</strong> — походження ушкоджень лишилося
           невстановленим
-          <a className="ref" href="#ref-18">
-            [18]
+          <a className="ref" href="#ref-19">
+            [19]
           </a>
           . А в ніч на 25 липня Служба безпеки України відзвітувала про найширшу
           на той момент операцію в цій акваторії: уражено нафтовидобувну
@@ -463,8 +490,8 @@ export default function Page() {
             обміну», речник МЗС Ірану Есмаїл Багаї заявив, що «небезпечний
             авантюризм України точно не лишиться без нашої відповіді», а
             повіреного у справах України викликали до іранського МЗС
-            <a className="ref" href="#ref-15">
-              [15]
+            <a className="ref" href="#ref-16">
+              [16]
             </a>
             .
           </p>
@@ -486,8 +513,8 @@ export default function Page() {
           постачання <strong>«Алабуги»</strong> — заводу, де складають «шахеди».
           США внесли «Порт Оля-4» до санкційного списку у вересні 2024 року; в
           «МГ-ФЛОТ» — <strong>26 суден</strong>
-          <a className="ref" href="#ref-16">
-            [16]
+          <a className="ref" href="#ref-17">
+            [17]
           </a>
           .
         </p>
@@ -531,8 +558,8 @@ export default function Page() {
         <p>
           Юридична адреса «МГ-ФЛОТ» —{" "}
           <strong>селище Ахти, Республіка Дагестан</strong>
-          <a className="ref" href="#ref-19">
-            [19]
+          <a className="ref" href="#ref-20">
+            [20]
           </a>
           . Та сама республіка, у портах якої стоять уражені у вересні судна.
         </p>
@@ -545,8 +572,8 @@ export default function Page() {
             <strong>Lady Mariia</strong> — теж «МГ-ФЛОТ» і теж під санкціями:
             США внесли оператора за указом 14024 ще в травні 2022 року, Україна
             додала саме це судно до власного списку 23 травня 2026-го
-            <a className="ref" href="#ref-20">
-              [20]
+            <a className="ref" href="#ref-21">
+              [21]
             </a>
             . Рейси Lady Mariia й те, що вона везла в Африку, розібрані{" "}
             <Link href="/articles/afrykanska-kampaniia">
@@ -614,14 +641,14 @@ export default function Page() {
           <strong>«МоЛоЧКа»</strong>. За перші дев&apos;ять діб, з 6 по 14
           липня, в Азовському морі було уражено <strong>116 суден</strong> так
           званого тіньового флоту
-          <a className="ref" href="#ref-21">
-            [21]
+          <a className="ref" href="#ref-22">
+            [22]
           </a>
           . Станом на 22 вересня, за одинадцять тижнів, підсумок становив{" "}
           <strong>300 плавзасобів</strong>: 134 в Азовському морі та 166 у
           Чорному
-          <a className="ref" href="#ref-22">
-            [22]
+          <a className="ref" href="#ref-14">
+            [14]
           </a>
           .
         </p>
@@ -674,8 +701,8 @@ export default function Page() {
           <strong>близько 20% російської сирої нафти</strong> — про це говорив
           речник Військово-Морських Сил ЗСУ капітан другого рангу Дмитро
           Плетенчук
-          <a className="ref" href="#ref-21">
-            [21]
+          <a className="ref" href="#ref-22">
+            [22]
           </a>
           . Тимчасово окупованому Криму, за словами самого Путіна, потрібно не
           менш як <strong>70 тисяч тонн пального на місяць</strong>, і
@@ -698,8 +725,8 @@ export default function Page() {
             бюджету. Азовське море стоїть і стоятиме, разом з Керченською
             протокою. Північною та північно-східною частиною Чорного моря діє
             режим „авось проскочим“. „МоЛоЧКа“ у дії»
-            <a className="ref" href="#ref-22">
-              [22]
+            <a className="ref" href="#ref-14">
+              [14]
             </a>
           </p>
           <p className="qtbox__src">
@@ -712,8 +739,8 @@ export default function Page() {
           Ефект видно й із незалежних даних: за знімками супутникової
           радіолокації станом на 14 липня кількість танкерів і суховантажів, які
           лишалися в зоні, скоротилася в кілька разів проти періоду до операції
-          <a className="ref" href="#ref-21">
-            [21]
+          <a className="ref" href="#ref-22">
+            [22]
           </a>
           . У серпні підсанкційні танкери почали ставити{" "}
           <strong>антидронові сітки</strong>, металеві конструкції та резервуари
@@ -949,12 +976,20 @@ export default function Page() {
               </a>
             </li>
             <li id="ref-14">
+              «АрміяInform» — «За 11 тижнів СБС уразили 300 суден російського
+              „тіньового флоту“», 22.09.2026. Підсумок операції та цитата
+              командувача СБС.{" "}
+              <a href="https://armyinform.com.ua/2026/09/22/za-11-tyzhniv-sbs-urazyly-300-suden-rosijskogo-%C2%ABtinovogo-flotu%C2%BB/">
+                armyinform.com.ua
+              </a>
+            </li>
+            <li id="ref-15">
               Telegram-канал «Абсолютно надійне джерело», допис від 20.09.2026
               про ВТР-79. <strong>Анонімне джерело</strong>; наведене із
               зазначенням характеру, незалежних підтверджень немає.{" "}
               <a href="https://t.me/absolutely_reliable/111">t.me</a>
             </li>
-            <li id="ref-15">
+            <li id="ref-16">
               CNN — «The Iran and Ukraine wars are colliding on the world&apos;s
               biggest lake», 27.07.2026. Позиції Києва й Тегерана щодо липневих
               ударів; оцінка Мінфіну США щодо «Порт Оля-3».{" "}
@@ -962,7 +997,7 @@ export default function Page() {
                 cnn.com
               </a>
             </li>
-            <li id="ref-16">
+            <li id="ref-17">
               Militarnyi — «Russia Loses First Ship Transporting Ammunition and
               Shahed Drone Parts From Iran», 15.08.2025. Дані MarineTraffic;
               власність «МГ-ФЛОТ», зв&apos;язок із «Алабугою» за даними ГУР.{" "}
@@ -970,28 +1005,28 @@ export default function Page() {
                 militarnyi.com
               </a>
             </li>
-            <li id="ref-17">
+            <li id="ref-18">
               UNITED24 Media — «Russia Has Started Supplying Explosives to Iran
               to Replenish Weapons Stocks», 18.08.2026.{" "}
               <a href="https://united24media.com/world/russia-has-started-supplying-explosives-to-iran-to-replenish-weapons-stocks-21791">
                 united24media.com
               </a>
             </li>
-            <li id="ref-18">
+            <li id="ref-19">
               Militarnyi — «Iranian Vessel Suffers Damage of &laquo;Unknown
               Origin&raquo; in the Caspian Sea», 29.01.2026.{" "}
               <a href="https://militarnyi.com/en/news/iranian-vessel-suffers-damage-of-unknown-origin-in-the-caspian-sea/">
                 militarnyi.com
               </a>
             </li>
-            <li id="ref-19">
+            <li id="ref-20">
               The Maritime Executive — «Russian Military Cargo Vessel Attacked
               in the Mediterranean», 07.09.2026. Юридична адреса «МГ-ФЛОТ».{" "}
               <a href="https://maritime-executive.com/article/russian-military-cargo-vessel-attacked-in-the-mediterranean">
                 maritime-executive.com
               </a>
             </li>
-            <li id="ref-20">
+            <li id="ref-21">
               Tech Times — «Ukraine Drones Strike Lady Mariia: Russia&apos;s
               Weapons Ship, Not Oil Tanker», 07.09.2026. Санкційний статус судна
               й оператора.{" "}
@@ -999,20 +1034,12 @@ export default function Page() {
                 techtimes.com
               </a>
             </li>
-            <li id="ref-21">
+            <li id="ref-22">
               «АрміяInform» — «Південний плацдарм окупантів задихається: як
               „Молочка“ перетворила Азовське море на пастку для росіян»,
               16.07.2026. Перші девʼять діб операції, дані SAR, коментар речника
               ВМС ЗСУ.{" "}
               <a href="https://armyinform.com.ua/2026/07/16/pivdennyj-placzdarm-okupantiv-zadyhayetsya-yak-molochka-peretvoryla-azovske-more-na-pastku-dlya-rosiyan/">
-                armyinform.com.ua
-              </a>
-            </li>
-            <li id="ref-22">
-              «АрміяInform» — «За 11 тижнів СБС уразили 300 суден російського
-              „тіньового флоту“», 22.09.2026. Підсумок операції та цитата
-              командувача СБС.{" "}
-              <a href="https://armyinform.com.ua/2026/09/22/za-11-tyzhniv-sbs-urazyly-300-suden-rosijskogo-%C2%ABtinovogo-flotu%C2%BB/">
                 armyinform.com.ua
               </a>
             </li>
