@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import "../chotyry-roky-v-mori-frehaty/frigates.css";
 import { AutoFrame } from "@/components/AutoFrame";
 import { requireVisibleArticle } from "@/lib/articles";
+import IfArticleVisible from "@/components/IfArticleVisible";
 
 const metadata: Metadata = {
   title: "Підводні човни ВМФ РФ. Чотири роки війни в морі",
@@ -954,22 +955,24 @@ export default function Page() {
           </div>
 
           {/* ===================== NEXT UP ===================== */}
-          <div className="next-up">
-            <span className="next-up__label">Цикл · Флот РФ</span>
-            <div>
-              <p className="next-up__title">
-                Обіцяне покоління: підводні човни «Лада»
-              </p>
-              <p className="next-up__dek">
-                Проєкт 677 подають як нове покоління каліброносців — до 10
-                «Калібрів» проти 4 у «Варшавянки». Три човни за 28 років,
-                головний на брухті й жодного пуску за всю війну.
-              </p>
+          <IfArticleVisible slug="lada-proekt-677">
+            <div className="next-up">
+              <span className="next-up__label">Цикл · Флот РФ</span>
+              <div>
+                <p className="next-up__title">
+                  Обіцяне покоління: підводні човни «Лада»
+                </p>
+                <p className="next-up__dek">
+                  Проєкт 677 подають як нове покоління каліброносців — до 10
+                  «Калібрів» проти 4 у «Варшавянки». Три човни за 28 років,
+                  головний на брухті й жодного пуску за всю війну.
+                </p>
+              </div>
+              <a className="btn btn--red" href="/articles/lada-proekt-677">
+                Читати
+              </a>
             </div>
-            <a className="btn btn--red" href="/articles/lada-proekt-677">
-              Читати
-            </a>
-          </div>
+          </IfArticleVisible>
 
           {/* ===================== ARTICLE FOOT ===================== */}
           <div className="article-foot">
