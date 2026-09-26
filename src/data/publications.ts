@@ -89,6 +89,16 @@ export const publications: ExternalPublication[] = [
     date: '2026-09-11',
   },
   {
+    kind: 'ours',
+    outlet: 'Оборонка',
+    title: '«Варшавянки» під прицілом. Як Україна вибиває російські підводні носії «Калібрів»',
+    url: 'https://oboronka.mezha.ua/polyuvannya-za-pidvodnimi-chovnami-315567/',
+    titleEn:
+      '“Varshavyanka” submarines in the crosshairs. How Ukraine is taking out Russian submarines carrying Kalibr missiles',
+    urlEn: 'https://oboronka.mezha.ua/en/polyuvannya-za-pidvodnimi-chovnami-315567/',
+    date: '2026-09-25',
+  },
+  {
     kind: 'about',
     outlet: 'Радіо Хартія',
     title:
