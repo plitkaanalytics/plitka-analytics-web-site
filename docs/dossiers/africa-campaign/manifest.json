@@ -2522,6 +2522,36 @@
       "sha256": "5000b73d0c866700dc54c75c1344b931882cee9936263707235ddf5cee674639",
       "archived": "",
       "note": ""
+    },
+    {
+      "n": 170,
+      "url": "https://www.thegeopoliticaldesk.com/ukraines-libya-launchpad/",
+      "slug": "170-thegeopoliticaldesk.com-ukraines-libya-launchpad",
+      "status": 200,
+      "access": "прочитано",
+      "title": "Ukraine’s Libya launchpad",
+      "pubdate": "2026-09-25",
+      "chars": 8461,
+      "method": "bs4-full",
+      "extra_lines": null,
+      "sha256": "bea8643d21df24c6808202d9c2539366ecbb98b36787aa4fb1d9461c7540bb88",
+      "archived": "",
+      "note": ""
+    },
+    {
+      "n": 171,
+      "url": "https://t.me/in_factum/48191",
+      "slug": "171-t.me-in_factum-48191",
+      "status": 200,
+      "access": "прочитано",
+      "title": "Telegram Widget",
+      "pubdate": "2026-09-27",
+      "chars": 8767,
+      "method": "trafilatura",
+      "extra_lines": 1,
+      "sha256": "eac2bffad83caeb6621ad8225c485961206dc0984b20eec95a9da36912f1d1b4",
+      "archived": "",
+      "note": ""
     }
   ]
 }
