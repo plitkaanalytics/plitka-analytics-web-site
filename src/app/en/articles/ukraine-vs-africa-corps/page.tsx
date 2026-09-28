@@ -1446,7 +1446,7 @@ export default function Page() {
           </a>
           . Sabotage on Libyan soil began in December 2023, when an expensive
           Russian military transport aircraft was destroyed at the Al-Jufra
-          airbase; such incidents have long been linked to Ukrainian operators
+          airbase. Such incidents have long been linked to Ukrainian operators
           with probable NATO assistance
           <a className="ref" href="#ref-57">
             [57]
@@ -1482,13 +1482,13 @@ export default function Page() {
           individual players in Tripoliʼs security network hire Ukrainian
           mercenaries and contractors directly. What worries the capital, in the
           outletʼs assessment, is less the war with Russia than the balance
-          between armed groups. Among them — both those allied to the government
-          and those hostile to it — a drone race is under way: they hunt for
-          engineers, buy drones on the black market and build improvised ones.
-          Until now the most powerful drones held by forces loyal to Tripoli
-          were Turkish, which gave Ankara a say in when and how they were used.
-          Ukrainian expertise could speed up home-grown production and repair
-          and reduce dependence on Turkey
+          between armed groups. Groups both allied to the government and hostile
+          to it are competing over drones, hunting for engineers, buying drones
+          on the black market and building improvised ones. Until now the most
+          powerful drones held by forces loyal to Tripoli were Turkish, which
+          gave Ankara a say in when and how they were used. Ukrainian expertise
+          could speed up home-grown production and repair and reduce dependence
+          on Turkey
           <a className="ref" href="#ref-56">
             [56]
           </a>
