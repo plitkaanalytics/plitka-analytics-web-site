@@ -4,6 +4,8 @@ import Link from "next/link";
 import { getArticleBySlug, requireVisibleArticle } from "@/lib/articles";
 import IfArticleVisible from "@/components/IfArticleVisible";
 import ArticleHead from "@/components/ArticleHead";
+import AzovShipTraffic from "@/components/AzovShipTraffic";
+import MakhachkalaGrowth from "@/components/MakhachkalaGrowth";
 
 const SLUG = "rezervne-more";
 
@@ -714,6 +716,19 @@ export default function Page() {
           .
         </p>
 
+        <figure className="fig">
+          <AzovShipTraffic />
+          <figcaption>
+            Судна з активними AIS-транспондерами в Азовському морі та
+            Керченській протоці, 30 червня — 11 липня 2026 року. Спад почався за
+            кілька днів до операції й поглибився після неї: з 275 суден 1 липня
+            до 120 одинадцятого. Дані Інституту вивчення війни за передплатою
+            Starboard Maritime Intelligence, перемальовано в нашу палітру. AIS
+            можна підміняти й глушити, тому це підрахунок транспондерів, які
+            повідомляли координати, а не точна кількість суден у районі.
+          </figcaption>
+        </figure>
+
         <p>
           За даними Адміністрації Волго-Донського басейну внутрішніх водних
           шляхів, у навігацію 2020 року каналом пройшло{" "}
@@ -781,11 +796,20 @@ export default function Page() {
           . Це <strong>майже три чверті</strong> всього, що проходить через
           порт.
         </p>
-
-        <figure
-          className="fig"
-          data-placeholder="[ графік: вантажообіг Махачкалинського порту 2024–2026 із виділенням наливних, поруч — крива Волго-Дону; вертикальна лінія 6 липня. Умова: власна побудова ]"
-        />
+        <figure className="fig">
+          <MakhachkalaGrowth />
+          <figcaption>
+            Приріст вантажообігу Махачкалинського порту рік до року. За 2025 рік
+            джерело дає діапазон, тому цей стовпець показано смугою, а не однією
+            висотою. Періоди 2026-го — наростальні підсумки, кожен порівняно з
+            тим самим періодом попереднього року. Дані — профільні видання з
+            посиланням на порт
+            <a className="ref" href="#ref-1">
+              [1]
+            </a>
+            , подаються як заявлені.
+          </figcaption>
+        </figure>
 
         <p>
           Причину цього стрибка профільні джерела називають прямо: тиск по
