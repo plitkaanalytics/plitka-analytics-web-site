@@ -810,6 +810,36 @@
       "sha256": "9469b149c2c7855e0bb0bc42a19a894fd9517d8ab530eab684b712c3085440be",
       "archived": "",
       "note": ""
+    },
+    {
+      "n": 55,
+      "url": "https://english.nv.ua/nation/isw-reports-55-drop-in-russian-ships-using-ais-in-sea-of-azov-50623793.html",
+      "slug": "55-english.nv.ua-isw-reports-55-drop-in-russian-ships-using-ais-in-sea-of",
+      "status": 200,
+      "access": "прочитано",
+      "title": "Russian ship numbers in the Sea of Azov may have halved since July – ISW",
+      "pubdate": "2026-07-12",
+      "chars": 3687,
+      "method": "trafilatura",
+      "extra_lines": 18,
+      "sha256": "7e579077a692495d46c82eb6ecbe61640d7ad0dadfb1d04876db801764487efa",
+      "archived": "",
+      "note": ""
+    },
+    {
+      "n": 56,
+      "url": "https://www.lloydslistintelligence.com/resources/blog/jump-in-ais-gaps-mask-russian-maritime-activity",
+      "slug": "56-lloydslistintelligence.com-jump-in-ais-gaps-mask-russian-maritime-acti",
+      "status": 200,
+      "access": "прочитано",
+      "title": "Jump in AIS gaps mask Russian maritime activity | Lloyd's List Intelligence",
+      "pubdate": "2026-05-06",
+      "chars": 10867,
+      "method": "bs4-full",
+      "extra_lines": null,
+      "sha256": "e5800f5e01d333f0e90a1369c4f5648edc51d6fe071cdf39574596edabc877ce",
+      "archived": "",
+      "note": ""
     }
   ]
 }

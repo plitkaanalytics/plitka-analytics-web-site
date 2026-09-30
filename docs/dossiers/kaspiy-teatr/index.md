@@ -61,6 +61,8 @@
 | 52 | [Спецоперация Азов. Привет российским танкерам от Мадяра](https://nv.ua/opinion/udary-po-tankeram-v-azovskom-more-v-2026-godu-chto-daet-eta-specoperaciya-ukrainy-istoricheskie-posledstviya-50623649.html) | 2026-07-13 | прочитано | 3646 | ? | `text/52-nv.ua-udary-po-tankeram-v-azovskom-more-v-2026-godu-chto-daet-eta-spec.txt` |
 | 53 | [Операция "Молочка". Удары по судам РФ в Азовском и Черном морях](https://www.svoboda.org/a/piraty-azovskogo-morya-ukraina-atakuet-rossiyskie-korabli/33806483.html) | 2026-07-18 | прочитано | 15987 | ? | `text/53-svoboda.org-33806483.txt` |
 | 54 | [Місце злочину – Чорне море. Як війна отруює воду, вбиває тварин і змін](https://www.pravda.com.ua/articles/2026/09/22/8054497/) | 2026-09-22 | прочитано | 12218 | ? | `text/54-pravda.com.ua-8054497.txt` |
+| 55 | [Russian ship numbers in the Sea of Azov may have halved since July – I](https://english.nv.ua/nation/isw-reports-55-drop-in-russian-ships-using-ais-in-sea-of-azov-50623793.html) | 2026-07-12 | прочитано | 3687 | ? | `text/55-english.nv.ua-isw-reports-55-drop-in-russian-ships-using-ais-in-sea-of.txt` |
+| 56 | [Jump in AIS gaps mask Russian maritime activity / Lloyd's List Intelli](https://www.lloydslistintelligence.com/resources/blog/jump-in-ais-gaps-mask-russian-maritime-activity) | 2026-05-06 | прочитано | 10867 | ? | `text/56-lloydslistintelligence.com-jump-in-ais-gaps-mask-russian-maritime-acti.txt` |
 
 ## Проблемні джерела
 
