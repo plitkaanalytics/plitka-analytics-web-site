@@ -1392,7 +1392,7 @@ p {
     padding: 0 20px;
   }
   .nav,
-.lang-switch {
+  .lang-switch {
     display: none;
   }
   .nav-toggle {
@@ -2356,6 +2356,27 @@ figure.fig:has(> img) > figcaption {
 }
 figure.fig.fig--bleed:has(> img) {
   max-width: min(1400px, calc(100vw - 80px));
+}
+
+/* Заглушка під ілюстрацію. Порожня figure не малює нічого, і про неї легко
+   забути аж до публікації. Показуємо рамку з описом того, що має стати на це
+   місце. Перед публікацією жодної заглушки лишитися не має — STYLE-OSINT §5. */
+figure.fig[data-placeholder] {
+  min-height: 120px;
+  display: grid;
+  place-items: center;
+  padding: 20px 24px;
+  border: 2px dashed var(--orange);
+  background: var(--paper-2);
+}
+figure.fig[data-placeholder]::before {
+  content: attr(data-placeholder);
+  max-width: 62ch;
+  font-family: var(--mono);
+  font-size: 12px;
+  line-height: 1.55;
+  color: var(--rust);
+  text-align: center;
 }
 
 /* Два знімки поруч: менше гортання, і пара читається як одне ціле */
