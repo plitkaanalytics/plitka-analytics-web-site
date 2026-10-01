@@ -554,7 +554,7 @@ export default function Page() {
           </a>
           .
         </p>
-        <figure className="fig fig--tall">
+        <figure className="fig">
           <CaspianRoutesMap />
           <figcaption>Морські шляхи між портами Росії та Ірану.</figcaption>
         </figure>
