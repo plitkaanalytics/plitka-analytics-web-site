@@ -7,6 +7,7 @@ import ArticleHead from "@/components/ArticleHead";
 import MakhachkalaGrowth from "@/components/MakhachkalaGrowth";
 import KaspiyskStrikes from "@/components/KaspiyskStrikes";
 import CaspianRoutesMap from "@/components/CaspianRoutesMap";
+import FeederChain from "@/components/FeederChain";
 
 const SLUG = "rezervne-more";
 
@@ -668,11 +669,12 @@ export default function Page() {
           </a>
           .
         </p>
-
-        <figure
-          className="fig"
-          data-placeholder="[ схема фідерної логістики: волзькі НПЗ → Волго-Дон → Азов → перекачування в порту Кавказ → океанський танкер; 14–15 фідерів на один великий. Умова: власна побудова ]"
-        />
+        <figure className="fig">
+          <FeederChain />
+          <figcaption>
+            Як нафтопродукти з волзьких заводів потрапляли на океанські танкери.
+          </figcaption>
+        </figure>
 
         <p>
           Через Азово-Чорноморський регіон експортується{" "}

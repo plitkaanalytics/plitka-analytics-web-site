@@ -362,3 +362,10 @@ const out = new URL(OUT, ROOT);
 mkdirSync(dirname(fileURLToPath(out)), { recursive: true });
 writeFileSync(fileURLToPath(out), svg);
 console.log(OUT, "—", W + "×" + H, "—", (svg.length / 1024).toFixed(1), "КБ");
+console.log(
+  "Полотно читається через readFileSync при завантаженні модуля, і для збирача
+" +
+    "воно не є залежністю. Щоб next dev показав нову версію, перезапустіть його
+" +
+    "або торкніться src/components/CaspianRoutesMap.tsx.",
+);
