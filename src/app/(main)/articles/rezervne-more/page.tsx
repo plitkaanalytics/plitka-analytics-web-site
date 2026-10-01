@@ -1,5 +1,4 @@
 import "../chotyry-roky-v-mori-frehaty/frigates.css";
-import "./strikes-timeline.css";
 import type { Metadata } from "next";
 import Link from "next/link";
 import { getArticleBySlug, requireVisibleArticle } from "@/lib/articles";
@@ -343,7 +342,12 @@ export default function Page() {
           .
         </p>
 
-        <KaspiyskStrikes />
+        <figure className="fig">
+          <KaspiyskStrikes />
+          <figcaption>
+            Удари по каспійських цілях, листопад 2024 — вересень 2026.
+          </figcaption>
+        </figure>
 
         <p>
           Зіставлення цього переліку зі складом угруповання показує, що з усіх
