@@ -31,7 +31,22 @@ const ROWS_TOP = 26;
 const BIG_TOP = ROWS_TOP + 3 * (SMALL_H + ROW_GAP) + 46;
 const H = BIG_TOP + BIG_H + 10;
 
-export default function TankerProportion() {
+type Lang = "uk" | "en";
+
+const T = {
+  uk: {
+    aria: "Пʼятнадцять силуетів фідерних танкерів по сім тисяч тонн у трьох рядах і один великий силует океанського танкера на сто тисяч тонн під ними",
+    feeders: "15 рейсів фідера, по 7000 тонн",
+    ocean: "один океанський танкер, близько 100 000 тонн",
+  },
+  en: {
+    aria: "Fifteen silhouettes of 7,000-tonne feeder tankers in three rows, and one large silhouette of a 100,000-tonne ocean tanker below them",
+    feeders: "15 feeder runs, 7,000 t each",
+    ocean: "one ocean tanker, about 100,000 t",
+  },
+};
+
+export default function TankerProportion({ lang = "uk" }: { lang?: Lang }) {
   const rowW = PER_ROW * SMALL_W + (PER_ROW - 1) * COL_GAP;
   const rowX = (W - rowW) / 2;
 
@@ -40,7 +55,7 @@ export default function TankerProportion() {
       viewBox={`0 0 ${W} ${H}`}
       width="100%"
       role="img"
-      aria-label="Пʼятнадцять силуетів фідерних танкерів по сім тисяч тонн у трьох рядах і один великий силует океанського танкера на сто тисяч тонн під ними"
+      aria-label={T[lang].aria}
     >
       <text
         x={W / 2}
@@ -50,7 +65,7 @@ export default function TankerProportion() {
         fontWeight="600"
         fill="var(--ink)"
       >
-        15 рейсів фідера, по 7000 тонн
+        {T[lang].feeders}
       </text>
 
       {Array.from({ length: FEEDERS }, (_, i) => {
@@ -77,7 +92,7 @@ export default function TankerProportion() {
         fontWeight="600"
         fill="var(--ink)"
       >
-        один океанський танкер, близько 100 000 тонн
+        {T[lang].ocean}
       </text>
       <image
         href={ICON}

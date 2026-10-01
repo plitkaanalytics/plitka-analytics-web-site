@@ -31,20 +31,49 @@ const Y2025: Pt[] = [
   { month: 12, value: 3.5 },
 ];
 
-const MONTHS = [
-  "січ",
-  "лют",
-  "бер",
-  "кві",
-  "тра",
-  "чер",
-  "лип",
-  "сер",
-  "вер",
-  "жов",
-  "лис",
-  "гру",
-];
+type Lang = "uk" | "en";
+
+const MONTHS: Record<Lang, string[]> = {
+  uk: [
+    "січ",
+    "лют",
+    "бер",
+    "кві",
+    "тра",
+    "чер",
+    "лип",
+    "сер",
+    "вер",
+    "жов",
+    "лис",
+    "гру",
+  ],
+  en: [
+    "Jan",
+    "Feb",
+    "Mar",
+    "Apr",
+    "May",
+    "Jun",
+    "Jul",
+    "Aug",
+    "Sep",
+    "Oct",
+    "Nov",
+    "Dec",
+  ],
+};
+
+const UNIT: Record<Lang, string> = { uk: "млн т", en: "mn t" };
+
+/** Десятковий роздільник: кома в українській, крапка в англійській. */
+const num = (v: number, lang: Lang) =>
+  lang === "uk" ? String(v).replace(".", ",") : String(v);
+
+const ARIA: Record<Lang, string> = {
+  uk: "Лінійний графік: вантажообіг Махачкалинського порту наростальним підсумком від початку року. У 2026 році 1,4 мільйона тонн на кінець квітня, 2,11 на кінець червня і 2,9 на кінець серпня проти приблизно 0,95, 1,41 і 2,04 за ті самі місяці 2025 року, коли за весь рік порт обробив 3,5 мільйона тонн",
+  en: "Line chart: cargo turnover at the port of Makhachkala, cumulative from the start of the year. In 2026, 1.4 million tonnes by the end of April, 2.11 by the end of June and 2.9 by the end of August, against roughly 0.95, 1.41 and 2.04 for the same months of 2025, a year in which the port handled 3.5 million tonnes in total",
+};
 
 const W = 680;
 const H = 340;
@@ -59,7 +88,7 @@ const y = (v: number) => PAD.top + PLOT_H - (v / MAX_V) * PLOT_H;
 const path = (pts: Pt[]) =>
   pts.map((p, i) => `${i ? "L" : "M"}${x(p.month)},${y(p.value)}`).join(" ");
 
-export default function MakhachkalaGrowth() {
+export default function MakhachkalaGrowth({ lang = "uk" }: { lang?: Lang }) {
   const vTicks = [0, 1, 2, 3, 4];
   const half = PLOT_W / MAX_M / 2;
 
@@ -68,7 +97,7 @@ export default function MakhachkalaGrowth() {
       viewBox={`0 0 ${W} ${H}`}
       width="100%"
       role="img"
-      aria-label="Лінійний графік: вантажообіг Махачкалинського порту наростальним підсумком від початку року. У 2026 році 1,4 мільйона тонн на кінець квітня, 2,11 на кінець червня і 2,9 на кінець серпня проти приблизно 0,95, 1,41 і 2,04 за ті самі місяці 2025 року, коли за весь рік порт обробив 3,5 мільйона тонн"
+      aria-label={ARIA[lang]}
     >
       {vTicks.map((t) => (
         <g key={t}>
@@ -99,10 +128,10 @@ export default function MakhachkalaGrowth() {
         fontSize="10"
         fill="var(--taupe)"
       >
-        млн т
+        {UNIT[lang]}
       </text>
 
-      {MONTHS.map((name, i) => (
+      {MONTHS[lang].map((name, i) => (
         <g key={name}>
           <line
             x1={x(i + 1)}
@@ -165,7 +194,7 @@ export default function MakhachkalaGrowth() {
             fontWeight="600"
             fill="var(--ink)"
           >
-            {String(p.value).replace(".", ",")}
+            {num(p.value, lang)}
           </text>
         </g>
       ))}
@@ -189,7 +218,7 @@ export default function MakhachkalaGrowth() {
         2025
       </text>
       <text x={x(12) + 6} y={y(3.5) + 19} fontSize="11" fill="var(--taupe)">
-        3,5
+        {num(3.5, lang)}
       </text>
     </svg>
   );

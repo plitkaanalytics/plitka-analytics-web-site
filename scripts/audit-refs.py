@@ -22,7 +22,8 @@ import os
 import re
 import sys
 
-SPLIT = "===================== ДЖЕРЕЛА"
+# Англійська сторінка несе той самий маркер своєю мовою.
+SPLITS = ("===================== ДЖЕРЕЛА", "===================== SOURCES")
 
 
 def page_path(slug):
@@ -80,7 +81,8 @@ def main():
 
     path = page_path(args.slug)
     s = read(path)
-    if SPLIT not in s:
+    SPLIT = next((m for m in SPLITS if m in s), None)
+    if SPLIT is None:
         sys.exit("у сторінці немає секції джерел")
     i = s.index("{/* " + SPLIT)
     body, tail = s[:i], s[i:]

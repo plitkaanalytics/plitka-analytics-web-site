@@ -39,11 +39,30 @@ const FILL: Record<Kind, string> = {
   unconfirmed: "var(--warm-gray)",
 };
 
-const LEGEND: { kind: Kind; label: string }[] = [
-  { kind: "carrier", label: "носій «Калібрів»" },
-  { kind: "other", label: "інші кораблі та інфраструктура" },
-  { kind: "unconfirmed", label: "без підтвердження" },
-];
+type Lang = "uk" | "en";
+
+const LEGEND: Record<Lang, { kind: Kind; label: string }[]> = {
+  uk: [
+    { kind: "carrier", label: "носій «Калібрів»" },
+    { kind: "other", label: "інші кораблі та інфраструктура" },
+    { kind: "unconfirmed", label: "без підтвердження" },
+  ],
+  en: [
+    { kind: "carrier", label: "Kalibr carrier" },
+    { kind: "other", label: "other ships and infrastructure" },
+    { kind: "unconfirmed", label: "unconfirmed" },
+  ],
+};
+
+const QUARTERS: Record<Lang, string[]> = {
+  uk: ["", "кві", "лип", "жов"],
+  en: ["", "Apr", "Jul", "Oct"],
+};
+
+const ARIA: Record<Lang, string> = {
+  uk: "Смуга ударів по каспійських цілях від листопада 2024 до вересня 2026 року: два удари в листопаді 2024, пауза завдовжки рік, пʼять ударів у грудні 2025 переважно по нафтовидобутку, три в травні 2026, один у липні і три у вересні",
+  en: "Strip of strikes on Caspian targets from November 2024 to September 2026: two strikes in November 2024, a pause of a year, five in December 2025 mostly against oil production, three in May 2026, one in July and three in September",
+};
 
 const W = 680;
 const H = 190;
@@ -61,7 +80,7 @@ const x = (iso: string) => {
   return PAD.left + ((Date.UTC(y, m - 1, d) - START) / span) * PLOT_W;
 };
 
-export default function KaspiyskStrikes() {
+export default function KaspiyskStrikes({ lang = "uk" }: { lang?: Lang }) {
   const quarters: { at: number; label: string }[] = [];
   for (let y = 2024; y <= 2026; y++) {
     for (let m = 0; m < 12; m += 3) {
@@ -69,7 +88,7 @@ export default function KaspiyskStrikes() {
       if (t < START || t > END) continue;
       quarters.push({
         at: PAD.left + ((t - START) / span) * PLOT_W,
-        label: m === 0 ? String(y) : ["", "кві", "лип", "жов"][m / 3],
+        label: m === 0 ? String(y) : QUARTERS[lang][m / 3],
       });
     }
   }
@@ -79,7 +98,7 @@ export default function KaspiyskStrikes() {
       viewBox={`0 0 ${W} ${H}`}
       width="100%"
       role="img"
-      aria-label="Смуга ударів по каспійських цілях від листопада 2024 до вересня 2026 року: два удари в листопаді 2024, пауза завдовжки рік, пʼять ударів у грудні 2025 переважно по нафтовидобутку, три в травні 2026, один у липні і три у вересні"
+      aria-label={ARIA[lang]}
     >
       <line
         x1={PAD.left}
@@ -125,7 +144,7 @@ export default function KaspiyskStrikes() {
         />
       ))}
 
-      {LEGEND.map((l, i) => (
+      {LEGEND[lang].map((l, i) => (
         <g
           key={l.kind}
           transform={`translate(${PAD.left + i * 215}, ${H - 14})`}
