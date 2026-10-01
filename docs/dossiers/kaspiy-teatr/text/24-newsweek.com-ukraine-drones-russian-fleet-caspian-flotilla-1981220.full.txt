@@ -1,0 +1,267 @@
+URL:         https://www.newsweek.com/ukraine-drones-russian-fleet-caspian-flotilla-1981220
+Кінцевий:    https://www.newsweek.com/ukraine-drones-russian-fleet-caspian-flotilla-1981220
+Заголовок:   Ukrainian drones strike Russian fleet's Caspian hideout
+Дата публ.:  2024-11-06
+Завантажено: 2026-09-21 14:38 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 446832
+Оригінал:    raw/24-newsweek.com-ukraine-drones-russian-fleet-caspian-flotilla-1981220.html
+sha256:      bf5041cbbbde0f7a3001e00b9f9762a9f61a3ed727c3330b57544c85be1255f7
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 7
+==============================================================================
+Ukrainian Drones Strike Russian Fleet’s Caspian Hideout - Newsweek
+Trump Says Planned Washington Arch Will House Drones and Snipers
+Ukrainian Drones Strike Russian Fleet’s Caspian Hideout
+Newsweek is a Trust Project member
+See more of our trusted coverage when you search.
+to see more of our trusted coverage when you search.
+View Editorial & AI Guidelines
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Ukrainian Drones Strike Russian Fleet’s Caspian Hideout - Newsweek
+The Latest
+Trump Says Planned Washington Arch Will House Drones and Snipers
+U.S.
+News
+Politics
+Tech
+Fact Check
+Sports
+Global
+Iran War
+Russia-Ukraine
+Middle East
+China And Asia
+Live Blog
+Better Planet
+All World News
+Lifestyle
+Family & Parenting
+Entertainment
+Travel
+Pets
+Automotive
+Relationships
+Science
+Health
+Personal Finance
+Better Workplaces
+Readers Choice
+Opinion
+My Turn
+All Opinion
+Rankings
+Health
+Finance
+Products
+Education
+Workplaces
+Corporate Responsibility
+All Rankings
+Social
+Facebook
+Instagram
+Threads
+YouTube
+Reddit
+TikTok
+Twitter/X
+Extra
+Newsletters
+Newsmakers
+Dare to Dream
+Unconventional
+Events
+Essays
+Podcasts
+Vantage
+Insights
+Magazine
+CEO Circle
+Announcements
+Leadership
+Dev Pragad
+Subscribe
+Sign In
+U.S.
+News
+Politics
+Tech
+Fact Check
+Sports
+Global
+Iran War
+Russia-Ukraine
+Middle East
+China And Asia
+Live Blog
+Better Planet
+All World News
+Lifestyle
+Family & Parenting
+Entertainment
+Travel
+Pets
+Automotive
+Relationships
+Science
+Health
+Personal Finance
+Better Workplaces
+Readers Choice
+Opinion
+My Turn
+All Opinion
+Rankings
+Health
+Finance
+Products
+Education
+Workplaces
+Corporate Responsibility
+All Rankings
+Social
+Facebook
+Instagram
+Threads
+YouTube
+Reddit
+TikTok
+Twitter/X
+Extra
+Newsletters
+Newsmakers
+Dare to Dream
+Unconventional
+Events
+Essays
+Podcasts
+Vantage
+Insights
+Magazine
+CEO Circle
+Announcements
+Leadership
+Dev Pragad
+Kyiv has attacked Russian vessels in the Caspian Sea, hundreds of miles from Ukrainian territory, according to a Ukrainian and Russian official. "A port was attacked in Kaspiysk, Russia," said Andriy Kovalenko, the head of countering disinformation under Ukraine's National Security and Defense Council, in a post to messaging app Telegram early Wednesday. The Russian city of Kaspiysk sits on the Caspian Sea, part of the southwestern republic of Dagestan. Dagestan's regional governor, Sergey Melikov, said on Wednesday that Russian air defenses had "destroyed an unmanned aerial vehicle over Kaspiysk," and authorities were investigating the incident. But Russia's Defense Ministry did not report any Ukrainian drones over the Dagestan region overnight. Several Ukrainian media outlets reported that at least two missile ships, the Dagestan and the Tatarstan, were damaged. Other vessels may have been hit, but this could not yet be verified, according to the domestic reports. The port is just under 1,000 miles from the Ukrainian border and was flagged in 2021 for expansion to be able to berth at least 50 Caspian Flotilla ships. Russian Telegram channels and open-source intelligence agencies shared footage purporting to show the Ukrainian attacks on Kaspiysk, with what appears to be at least one drone heading for port facilities and vessels and exploding. Newsweek could not independently verify the footage. The Russian Defense Ministry has been contacted for comment via email. Ukraine has kept up a persistent campaign of targeting Russia's high-value assets inside Russian territory and in Moscow-controlled parts of Ukraine, homing in on air and naval bases, typically with long-range explosive drones. Kyiv has managed this, despite not being allowed to use long-range Western weapons to strike deep inside internationally-recognized Russian territory and attacks typically focus on Russia's Black Sea Fleet, partly based in the Crimean port city of Sevastopol. The Washington, D.C.-based Caspian Policy Center think tank has described the Volga-Don Canal, which links the Caspian Sea to the Sea of Azov and on to the Black Sea, as "a crucial hub for the movement of military equipment." "Russia utilizes this route, particularly during the non-winter seasons, to transport warships and military supplies between the Caspian and Black Seas," the nonprofit wrote earlier this year. Kyiv does not have a major navy or large warships, but its strikes have forced Moscow to rein in its activity in the western Black Sea, where Ukraine can more easily threaten its fleet, according to British intelligence. Ukraine has also targeted the Novorossiysk Black Sea Fleet base further to the east. Ukraine's GUR military intelligence agency said last month that its operatives had "disabled" a Russian minesweeping vessel belonging to the Kremlin's Baltic Fleet in the Kaliningrad city of Baltiysk, around 400 miles from Kyiv's territory.
+World
+Russia-Ukraine War
+Black Sea
+Russia-Ukraine War
+Black Sea
+News Article
+Ukrainian Drones Strike Russian Fleet’s Caspian Hideout
+Published
+Nov 06, 2024 at 07:46 AM EST
+updated
+Nov 06, 2024 at 10:21 PM EST
+...
+By
+Ellie Cook
+Senior Defense Reporter
+0
+Share
+Newsweek is a Trust Project member
+See more of our trusted coverage when you search.
+Prefer Newsweek on Google
+to see more of our trusted coverage when you search.
+Kyiv has attacked Russian vessels in the Caspian Sea, hundreds of miles from Ukrainian territory, according to a Ukrainian and Russian official.
+"A port was attacked in Kaspiysk, Russia," said Andriy Kovalenko, the head of countering disinformation under Ukraine's National Security and Defense Council, in a post to messaging app Telegram early Wednesday.
+The Russian city of Kaspiysk sits on the Caspian Sea, part of the southwestern republic of Dagestan.
+Read More
+on
+World
+Dagestan's regional governor, Sergey Melikov, said on Wednesday that Russian air defenses had "destroyed an unmanned aerial vehicle over Kaspiysk," and authorities were investigating the incident. But Russia's Defense Ministry did not report any Ukrainian drones over the Dagestan region overnight.
+...
+Several Ukrainian media outlets reported that at least two missile ships, the
+Dagestan
+and the
+Tatarstan,
+were damaged. Other vessels may have been hit, but this could not yet be verified, according to the domestic reports. The port is just under 1,000 miles from the Ukrainian border and was flagged in 2021 for expansion to be able to berth at least 50 Caspian Flotilla ships.
+Russian Telegram channels and open-source intelligence agencies shared footage purporting to show the Ukrainian attacks on Kaspiysk, with what appears to be at least one drone heading for port facilities and vessels and exploding.
+Newsweek
+could not independently verify the footage. The Russian Defense Ministry has been contacted for comment via email.
+Ukraine has kept up a persistent campaign of targeting Russia's high-value assets inside Russian territory and in Moscow-controlled parts of Ukraine, homing in on air and naval bases, typically with long-range explosive drones.
+Kyiv has managed this, despite not being allowed to use long-range Western weapons to strike deep inside internationally-recognized Russian territory and attacks typically focus on Russia's Black Sea Fleet, partly based in the Crimean port city of Sevastopol.
+The Washington, D.C.-based Caspian Policy Center think tank has described the Volga-Don Canal, which links the Caspian Sea to the Sea of Azov and on to the Black Sea, as "a crucial hub for the movement of military equipment."
+"Russia utilizes this route, particularly during the non-winter seasons, to transport warships and military supplies between the Caspian and Black Seas," the nonprofit wrote earlier this year.
+Kyiv does not have a major navy or large warships, but its strikes have forced Moscow to rein in its activity in the western Black Sea, where Ukraine can more easily threaten its fleet, according to British intelligence. Ukraine has also targeted the Novorossiysk Black Sea Fleet base further to the east.
+Ukraine's GUR military intelligence agency said last month that its operatives had "disabled" a Russian minesweeping vessel belonging to the Kremlin's Baltic Fleet in the Kaliningrad city of Baltiysk, around 400 miles from Kyiv's territory.
+View
+0
+Comments
+Request Reprint & Licensing
+Submit Correction
+View Editorial & AI Guidelines
+sections
+U.S.
+Global
+Lifestyle
+Health
+Opinion
+Rankings
+company
+About Us
+Masthead
+Careers
+Diversity & Inclusion
+Mission Statement
+Leadership
+editions
+U.S. Edition
+日本
+Polska
+România
+contact
+Advertise
+Corrections
+Announcements
+Press Center
+Contact Us
+terms of use
+Cookie Policy
+Copyright
+Privacy Policy
+Terms & Conditions
+Terms of Sale
+Privacy Settings
+sections
+U.S.
+Global
+Lifestyle
+Health
+Opinion
+Rankings
+company
+About Us
+Masthead
+Careers
+Diversity & Inclusion
+Mission Statement
+Leadership
+editions
+U.S. Edition
+日本
+Polska
+România
+contact
+Advertise
+Corrections
+Announcements
+Press Center
+Contact Us
+terms of use
+Cookie Policy
+Copyright
+Privacy Policy
+Terms & Conditions
+Terms of Sale
+Privacy Settings
+©
+2026
+Newsweek Digital LLC

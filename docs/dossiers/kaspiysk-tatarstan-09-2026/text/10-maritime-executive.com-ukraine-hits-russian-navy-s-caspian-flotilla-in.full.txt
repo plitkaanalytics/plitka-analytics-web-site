@@ -1,0 +1,200 @@
+URL:         https://maritime-executive.com/article/ukraine-hits-russian-navy-s-caspian-flotilla-in-long-range-strike
+Кінцевий:    https://maritime-executive.com/article/ukraine-hits-russian-navy-s-caspian-flotilla-in-long-range-strike
+Заголовок:   Ukraine Hits Russian Navy's Caspian Flotilla With Long-Range Drone Strike
+Дата публ.:  2024-11-06
+Завантажено: 2026-09-18 07:37 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 139902
+Оригінал:    raw/10-maritime-executive.com-ukraine-hits-russian-navy-s-caspian-flotilla-in.html
+sha256:      67adff61682ffcb16604b9d67c05bd0c387d018f068489b14978eaad7d7ece33
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 21
+==============================================================================
+Indonesia Takes Delivery of a "Free" Aircraft Carrier
+Interview: John Rowley, CEO, Wallem Group
+US Sanctions Bitcoin Exchange for Handling Iran's Hormuz Transit Fees
+Turkey Proposes an Expanded "Grain Initiative" to End Black Sea Strikes
+Ukrainian drone (center left) homes in on a target at Kaspiysk, Dagestan (Russian social media)
+Stay on Top of the Daily Maritime News
+Germany Receives Next FSRU as It Adds LNG Import Capacity
+Report: Some Foreign Ships Aren't Reporting Jones Act Waiver Voyages
+Finland, Sweden, and EU Work Together to Improve Baltic Security
+Scotland Plans Stopgap Work to Save Troubled Ferguson Shipyard
+Conflict Without Exit: When Work Is Home for Thousands
+Hormuz Route Negotiations Would Have Handed Entry and Exit Control to Iran
+The Liner’s Dilemma: Schedule Integrity vs. Contractual Flexibility
+Surging Social Program Costs Dampen UK's Hopes for a Stronger Royal Navy
+Challenges Involving the Future of Commercial Ground Effect Transport
+The latest news in your inbox daily.
+The Indonesian Navy is giving new life to Italy's first aircraft carrier, the 1985-built ITS Giuseppe Garibaldi, which arrived in Jakarta on Friday to begin a career as KRI Gajah Mada. The vessel served Italy in multiple conflicts over the span of 40 years, but has been out of commission since 2024; she has been gifted to the Indonesian government and will be revived as a helicopter carrier. Garibaldi was envisioned as a cruiser-carrier, capable of combat in her own...
+Welcome, John, great to have you! Let's start with your background and education. Tell us about yourself. Yes, thank you, I'm British. I was educated at the University of Reading in the U.K. and then the Royal Military Academy, Sandhurst, and eventually the Tuck School of Business at Dartmouth College in the U.S. I'm married, have two daughters and live in Hong Kong, where Wallem is headquartered. I previously lived in Singapore, Shanghai and Sydney, so have spent most of...
+The U.S. Treasury's Office of Foreign Asset Control has identified and sanctioned an Iranian bitcoin exchange linked to the "Hormuz Safe Marine Services Authority," a front company that enables the Islamic Revolutionary Guard Corps' fee-for-transit scheme for the Strait of Hormuz. In March, just weeks after the U.S.-Israeli strikes began, Iranian forces began an informal practice of charging safe-passage fees for the Strait of Hormuz at a rumored rate of up to $2 million per transit. This was later formalized...
+The Turkish government has formulated a draft peace plan that proposes to bring an end to the Russian and Ukrainian maritime strikes in the Black Sea - and relieve the pressure on Turkish shipping interests. A Turkish diplomat told AFP that Ankara has forwarded the draft MOU to Moscow and Kyiv for consideration; Wednesday's intense strikes suggest that the two sides have not yet adopted the recommendation. Russia has attacked civilian shipping on and off throughout the war, with the...
+© Copyright 2026 The Maritime Executive, LLC. All rights reserved.
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Ukraine Hits Russian Navy's Caspian Flotilla With Long-Range Drone Strike
+Go
+SUBSCRIBE NOW
+Media Kit
+news
+Features
+Podcasts
+Magazine
+Newsletter
+Advertise
+Directory
+Subscribe
+news
+features
+Podcasts
+magazine
+newsletter
+Jobs
+advertise
+subscribe
+TOP
+STORIES
+Indonesia Takes Delivery of a "Free" Aircraft Carrier
+Published
+				by
+The Maritime Executive
+Interview: John Rowley, CEO, Wallem Group
+Published
+				by
+Jack O'Connell
+US Sanctions Bitcoin Exchange for Handling Iran's Hormuz Transit Fees
+Published
+				by
+The Maritime Executive
+Turkey Proposes an Expanded "Grain Initiative" to End Black Sea Strikes
+Published
+				by
+The Maritime Executive
+8478
+Views
+Ukraine Hits Russian Navy's Caspian Flotilla With Long-Range Drone Strike
+Ukrainian drone (center left) homes in on a target at Kaspiysk, Dagestan (Russian social media)
+Published
+					Nov 6, 2024 10:41 PM        		by
+The Maritime Executive
+Ukrainian forces have attacked a Russian naval base in the Caspian Sea for the first time, according to local authorities in the Russian province of Dagestan.
+The Russian base at the port of Kaspiysk is far from the front lines of the war. The small seaport is located about 800 nautical miles east of Odesa, and it is home to Russia's Caspian Flotilla.
+The strike targeted the Gepard-class missile frigates
+Tatarstan
+and
+Dagestan,
+according to Ukrainian intelligence agency HUR. Alexander Kovalenko, the head of Countering Disinformation at Ukraine’s National Security and Defense Council, claimed that both of these vessels were damaged in the attack.
+Videos circulating on Telegram and X appear to confirm that at least one drone struck a target within the naval base, though the extent of damage is not clear.
+Reports appeard that two warships were hit in Russian Kaspiysk.
+The "Tatarstan" and "Dagestan" missile ships were reportedly damaged in a drone strike on the Caspian Fleet in Dagestan.
+Small missile ships of Project 21631 Buyan-M were also damaged.
+https://t.co/B0Q9QBRJO9
+pic.twitter.com/x06v45zlvz
+— Anton Gerashchenko (@Gerashchenko_en)
+November 6, 2024
+The Gepard-class vessels are small missile frigates designed for patrol duties. They are equipped for either the Kh-35 antiship missile or Russia's modern multirole cruise missile, the Kalibr. Both
+Tatarstan
+and
+Dagestan
+have reportedly engaged targets far outside of the Caspian Sea using their cruise missile armament, striking targets in Syria - about 1,000 miles away - during the Syrian civil war in 2015.
+Naval analyst H.I. Sutton identified the drone as a Ukrainian A-22 Foxbat, a large UAV based on a civilian ultralight aircraft design. The small planes have a payload of about 400-600 pounds in a civilian configuration, and the militarized version has been used to target Russian refineries in deep-strike drone operations.
+Stay on Top of the Daily Maritime News
+The maritime news
+that matters most
+Get the latest maritime news delivered to your inbox daily.
+Subscribe Now
+Ukraine has repeatedly attacked the Russian Navy's Black Sea Fleet with drone boats and missile strikes, and it has effectively driven Russian surface combatants and submarines out of the Crimean peninsula. The majority of the fleet is now homeported in Novorossiysk, in the northeastern corner of the Black Sea, to avoid the risk of further attacks. Strikes on the distant Caspian Flotilla - which Russia has used repeatedly to launch cruise missiles - indicate that Ukraine's reach has grown.
+MORE
+TOP STORIES
+Germany Receives Next FSRU as It Adds LNG Import Capacity
+Report: Some Foreign Ships Aren't Reporting Jones Act Waiver Voyages
+Finland, Sweden, and EU Work Together to Improve Baltic Security
+Scotland Plans Stopgap Work to Save Troubled Ferguson Shipyard
+EDITORIALS
+TOP STORIES
+Conflict Without Exit: When Work Is Home for Thousands
+Hormuz Route Negotiations Would Have Handed Entry and Exit Control to Iran
+The Liner’s Dilemma: Schedule Integrity vs. Contractual Flexibility
+Surging Social Program Costs Dampen UK's Hopes for a Stronger Royal Navy
+Challenges Involving the Future of Commercial Ground Effect Transport
+The maritime news
+that matters most
+The latest news in your inbox daily.
+Subscribe Now
+SUBSCRIPTIONS
+SUBSCRIBE
+Print
+Digital
+Newsletter
+Renew
+Subscribe Now
+RELATED
+STORIES
+Government
+Indonesia Takes Delivery of a "Free" Aircraft Carrier
+Published
+					Sep 17, 2026 10:06 PM        		by
+The Maritime Executive
+The Indonesian Navy is giving new life to Italy's first aircraft carrier, the 1985-built ITS Giuseppe Garibaldi, which arrived in Jakarta on Friday to begin a career as KRI Gajah Mada. The vessel served Italy in multiple conflicts over the span of 40 years, but has been out of commission since 2024; she has been gifted to the Indonesian government and will be revived as a helicopter carrier. Garibaldi was envisioned as a cruiser-carrier, capable of combat in her own...
+Continue Reading...
+Business
+Interview: John Rowley, CEO, Wallem Group
+Published
+					Sep 17, 2026 10:06 PM        		by
+Jack O'Connell
+Welcome, John, great to have you! Let's start with your background and education. Tell us about yourself. Yes, thank you, I'm British. I was educated at the University of Reading in the U.K. and then the Royal Military Academy, Sandhurst, and eventually the Tuck School of Business at Dartmouth College in the U.S. I'm married, have two daughters and live in Hong Kong, where Wallem is headquartered. I previously lived in Singapore, Shanghai and Sydney, so have spent most of...
+Continue Reading...
+Government
+US Sanctions Bitcoin Exchange for Handling Iran's Hormuz Transit Fees
+Published
+					Sep 17, 2026 10:01 PM        		by
+The Maritime Executive
+The U.S. Treasury's Office of Foreign Asset Control has identified and sanctioned an Iranian bitcoin exchange linked to the "Hormuz Safe Marine Services Authority," a front company that enables the Islamic Revolutionary Guard Corps' fee-for-transit scheme for the Strait of Hormuz. In March, just weeks after the U.S.-Israeli strikes began, Iranian forces began an informal practice of charging safe-passage fees for the Strait of Hormuz at a rumored rate of up to $2 million per transit. This was later formalized...
+Continue Reading...
+Government
+Turkey Proposes an Expanded "Grain Initiative" to End Black Sea Strikes
+Published
+					Sep 17, 2026 8:41 PM        		by
+The Maritime Executive
+The Turkish government has formulated a draft peace plan that proposes to bring an end to the Russian and Ukrainian maritime strikes in the Black Sea - and relieve the pressure on Turkish shipping interests. A Turkish diplomat told AFP that Ankara has forwarded the draft MOU to Moscow and Kyiv for consideration; Wednesday's intense strikes suggest that the two sides have not yet adopted the recommendation. Russia has attacked civilian shipping on and off throughout the war, with the...
+Continue Reading...
+SUBSCRIPTIONS
+SUBSCRIBE
+Print
+Digital
+Newsletter
+Renew
+Subscribe Now
+Show Comments
+About Us
+Advertise
+Newsletter
+Contact Us
+Privacy Policy
+Site Map
+News
+Features
+Podcasts
+Magazine
+Newsletter
+Piracy News
+Shipbuilding News
+Cruise Ship News
+Ports News
+Salvage News
+Training News
+Government News
+Environment News
+Corporate News
+Subscribe
+Facebook
+LinkedIn
+Twitter
+RSS Feed
+Instagram
+© Copyright 2026 The Maritime Executive, LLC. All rights reserved.

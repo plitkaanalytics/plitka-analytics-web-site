@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="uk">
+<head>
+<meta charset="utf-8">
+<title>Геоколаж · PLITKA</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;800&display=swap" rel="stylesheet">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='154 -8 33 24'%3E%3Cpath fill='%23f24c06' d='M156.296 4.18309C158.902 2.27578 162.058 1.04903 165.313 0.58737C168.185 0.179898 170.93 0.823617 173.649 1.66674C175.192 2.14573 178.266 3.80813 179.679 2.25194C181.76 -0.041177 185.331 0 185.331 0C185.331 0 184.842 2.16741 182.108 3.8038C182.108 3.8038 184.982 5.13458 185.214 7.22613C185.214 7.22613 182.191 7.50356 179.743 5.32748C178.628 4.33481 178.115 4.51471 176.75 5.21261C174.362 6.43503 172.297 7.25214 169.538 7.50139C165.964 7.82433 162.065 7.44287 158.768 6.02755C155.197 4.4952 156.291 4.18526 156.296 4.18309Z'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="kolazh.css">
+</head>
+<body>
+<header class="top">
+  <div class="brand">
+    <svg class="fish" viewBox="155.5 -0.2 30 8.2" aria-hidden="true"><path fill="currentColor" d="M156.296 4.18309C158.902 2.27578 162.058 1.04903 165.313 0.58737C168.185 0.179898 170.93 0.823617 173.649 1.66674C175.192 2.14573 178.266 3.80813 179.679 2.25194C181.76 -0.041177 185.331 0 185.331 0C185.331 0 184.842 2.16741 182.108 3.8038C182.108 3.8038 184.982 5.13458 185.214 7.22613C185.214 7.22613 182.191 7.50356 179.743 5.32748C178.628 4.33481 178.115 4.51471 176.75 5.21261C174.362 6.43503 172.297 7.25214 169.538 7.50139C165.964 7.82433 162.065 7.44287 158.768 6.02755C155.197 4.4952 156.291 4.18526 156.296 4.18309Z"/></svg>
+    <b>PLITKA</b><span>Геоколаж</span>
+  </div>
+  <div class="grp">
+    <button type="button" class="btn" id="addPhoto" title="Фото чи скриншот. Можна й перетягнути файл або вставити Ctrl+V">+ Фото</button>
+    <button type="button" class="btn" id="addPano" title="Широка панель на всю ширину полотна">+ Панорама</button>
+    <button type="button" class="btn" id="addMap" title="Супутникова карта з пошуком за координатами">+ Карта</button>
+  </div>
+  <div class="grp">
+    <button type="button" class="btn icon" id="undo" title="Скасувати (Ctrl+Z)" aria-label="Скасувати"><svg viewBox="0 0 24 24"><path d="M9 14L4 9l5-5"/><path d="M4 9h10.5a5.5 5.5 0 0 1 0 11H11"/></svg></button>
+    <button type="button" class="btn icon" id="redo" title="Повторити (Ctrl+Shift+Z)" aria-label="Повторити"><svg viewBox="0 0 24 24"><path d="M15 14l5-5-5-5"/><path d="M20 9H9.5a5.5 5.5 0 0 0 0 11H13"/></svg></button>
+  </div>
+  <div class="menu" id="projMenu">
+    <button type="button" class="btn ghost" id="pMenuBtn" aria-haspopup="menu" aria-expanded="false">Проєкт <svg viewBox="0 0 24 24" class="chev"><path d="M7 10l5 5 5-5"/></svg></button>
+    <div class="menu-list" role="menu" hidden>
+      <button type="button" role="menuitem" id="pNew">Новий колаж</button>
+      <button type="button" role="menuitem" id="pOpen">Відкрити з файлу…</button>
+      <button type="button" role="menuitem" id="pSave">Зберегти у файл <kbd>Ctrl+S</kbd></button>
+      <p>Робота й так зберігається в цьому браузері. Файл — щоб повернутися на іншому комп’ютері чи передати колезі.</p>
+    </div>
+  </div>
+  <div class="spacer"></div>
+  <div class="grp export">
+    <input id="exName" class="name" spellcheck="false" aria-label="Ім’я файлу" title="Ім’я файлу — латиницею, без пробілів (кирилицю буде транслітеровано)">
+    <select id="exFmt" aria-label="Формат"><option value="png">PNG</option><option value="jpg">JPG</option></select>
+    <select id="exScale" aria-label="Роздільність" title="2× — удвічі більше пікселів, карта вантажиться детальнішими тайлами"><option value="1">1×</option><option value="2">2×</option></select>
+    <button type="button" class="btn" id="exCopy" title="Скопіювати готове зображення в буфер обміну">Копіювати</button>
+    <button type="button" class="btn primary" id="exSave" title="Ctrl+E">Зберегти PNG</button>
+  </div>
+  <button type="button" class="btn icon" id="helpBtn" title="Як працювати (?)" aria-label="Довідка">?</button>
+</header>
+
+<div class="main">
+  <nav class="tools" id="tools" aria-label="Інструменти"></nav>
+  <section class="stage" id="stageWrap">
+    <canvas id="stage"></canvas>
+    <textarea id="textEdit" spellcheck="false" aria-label="Текст напису"></textarea>
+  </section>
+  <aside class="side" id="side" aria-label="Властивості"></aside>
+</div>
+
+<footer class="status">
+  <span id="stCoords"></span>
+  <span id="stHint"></span>
+  <span id="stSave"></span>
+  <div class="zoomctl">
+    <button type="button" id="zOut" title="Віддалити полотно (−)" aria-label="Віддалити">−</button>
+    <button type="button" id="zFit" title="Вмістити полотно у вікно (Ctrl+0)">100%</button>
+    <button type="button" id="zIn" title="Наблизити полотно (+)" aria-label="Наблизити">+</button>
+  </div>
+</footer>
+
+<div id="toast" class="toast" role="status" aria-live="polite"></div>
+<div id="busy" class="busy" hidden><div><span class="spin"></span><span id="busyText">Готую зображення…</span></div></div>
+
+<div id="help" class="modal" hidden>
+  <div class="card" role="dialog" aria-labelledby="helpTitle">
+    <button type="button" class="btn icon close" data-close aria-label="Закрити">×</button>
+    <h2 id="helpTitle">Геоколаж PLITKA</h2>
+    <p class="lead">Колажі для геолокації: кадр, панорама, супутник — і розмітка, що зводить їх між собою.</p>
+    <div class="cols">
+      <div>
+        <h3>Як зібрати колаж</h3>
+        <ol>
+          <li>Клацніть по порожньому місці полотна й виберіть <b>макет</b> праворуч. Або додавайте панелі вільно й розставляйте мишею — краї прилипають.</li>
+          <li>Клацніть по порожній панелі й виберіть <b>Фото</b> чи <b>Карту</b>. Файли можна перетягнути, скриншоти — вставити через <kbd>Ctrl</kbd>+<kbd>V</kbd>.</li>
+          <li>Карту наводьте пошуком: координати в будь-якому вигляді, посилання Google Maps або назва місця.</li>
+          <li>Інструментом <b>Кадр</b> (<kbd>H</kbd>) або подвійним кліком зсуньте фото чи карту в рамці, коліщатком — масштаб.</li>
+          <li><b>Панорама 360°.</b> Рівнокутний знімок (2:1) — з 360-камери, «фотосфери» телефона чи надісланий — вмикає режим сфери сам: у ньому «Кадр» крутить огляд, а мітки тримаються об’єктів. Впишіть праворуч азимут того, що в центрі кадру, — і кожна мітка покаже справжній азимут, який можна перенести в промінь на карті. Зі Street View чи Яндекс-панорам сферу не витягнути: там наводять ракурс (посилання на точку є в панелі карти) і вставляють знімок екрана звичайним кадром.</li>
+          <li><b>Нахил карти.</b> Повзунок «Нахил» (або <kbd>Ctrl</kbd> і тягнути в режимі «Кадр») ставить супутниковий знімок у ракурс, близький до кадру з землі. Розмітка лягає на саму землю, промені сходяться до обрію.</li>
+          <li>Розмітка: <b>промінь</b> від точки зйомки, <b>сектор огляду</b>, <b>мітки</b> 1-2-3 на тих самих об’єктах у різних панелях, <b>зв’язок</b> — лінія між панелями.</li>
+          <li><b>Зберегти PNG</b> — готовий файл із вотермаркою. Робота сама зберігається в браузері, а «Зберегти проєкт» кладе її у файл, щоб повернутися пізніше чи передати колезі.</li>
+        </ol>
+      </div>
+      <div>
+        <h3>Інструменти</h3>
+        <table>
+          <tr><td><kbd>V</kbd></td><td>Вибір і переміщення</td></tr>
+          <tr><td><kbd>H</kbd></td><td>Кадр: зсув фото чи карти в рамці</td></tr>
+          <tr><td><kbd>L</kbd> <kbd>A</kbd></td><td>Лінія, стрілка</td></tr>
+          <tr><td><kbd>R</kbd></td><td>Промінь до краю панелі, з азимутом</td></tr>
+          <tr><td><kbd>F</kbd></td><td>Сектор огляду камери</td></tr>
+          <tr><td><kbd>P</kbd> <kbd>B</kbd></td><td>Ламана, олівець</td></tr>
+          <tr><td><kbd>M</kbd> <kbd>E</kbd></td><td>Прямокутник, еліпс</td></tr>
+          <tr><td><kbd>N</kbd></td><td>Нумерована мітка</td></tr>
+          <tr><td><kbd>T</kbd></td><td>Напис</td></tr>
+          <tr><td><kbd>C</kbd></td><td>Зв’язок між панелями</td></tr>
+          <tr><td><kbd>U</kbd></td><td>Розмиття облич і номерів</td></tr>
+        </table>
+        <h3>Керування</h3>
+        <table>
+          <tr><td>Коліщатко</td><td>над панеллю — масштаб у ній, поза панеллю — масштаб полотна</td></tr>
+          <tr><td><kbd>Ctrl</kbd>+тягнути</td><td>у режимі «Кадр» по карті — нахил і поворот</td></tr>
+          <tr><td><kbd>Пробіл</kbd>, права кнопка</td><td>рухати полотно</td></tr>
+          <tr><td><kbd>Alt</kbd>+клік</td><td>по карті — скопіювати координати</td></tr>
+          <tr><td><kbd>Shift</kbd></td><td>кут кроком 15°, квадрат, коло, пропорції</td></tr>
+          <tr><td><kbd>Ctrl</kbd>+<kbd>Z</kbd> / <kbd>D</kbd></td><td>скасувати / дублювати</td></tr>
+          <tr><td><kbd>Ctrl</kbd>+<kbd>]</kbd> <kbd>[</kbd></td><td>панель вище / нижче</td></tr>
+          <tr><td><kbd>Del</kbd>, <kbd>Esc</kbd></td><td>видалити, зняти виділення</td></tr>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>
+
+<input type="file" id="fileImg" accept="image/*" multiple hidden>
+<input type="file" id="fileProj" accept=".json,application/json" hidden>
+
+<script src="lib.js"></script>
+<script src="gl.js"></script>
+<script src="render.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,29 @@
+URL:         https://www.pravda.com.ua/eng/news/2026/09/11/8053022/
+Кінцевий:    https://www.pravda.com.ua/eng/news/2026/09/11/8053022/
+Заголовок:   Ukrainian forces likely struck flagship of Russia's Caspian Flotilla – OSINT analysts
+Дата публ.:  2026-09-11
+Завантажено: 2026-09-18 07:37 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 152646
+Оригінал:    raw/09-pravda.com.ua-8053022.html
+sha256:      2203d9b7c0a040f2a6d23f779988fd8e18c1dff09c943226d8e3abf7f078e68f
+Витяг:       trafilatura
+
+==============================================================================
+# Ukrainian forces likely struck flagship of Russia's Caspian Flotilla – OSINT analysts
+
+Ukrainian forces likely struck the Tatarstan vessel in Russia's Kaspiysk on the night of 10-11 September.
+
+	**Source:** OSINT analysts from the [Exilenova+](https://t.me/exilenova_plus/30809) project, which posted a satellite image of the vessel
+
+	**Details:** The Tatarstan is the flagship of Russia's Caspian Flotilla.
+
+"Last night in Kaspiysk, the Tatarstan was likely struck – the main vessel of the Caspian Flotilla, Project 11661K Gepard, armed with Uran anti-ship missiles and Osa-MA surface-to-air missile systems," the OSINT analysts reported.
+
+	The Tatarstan is a Project 11661K Gepard warship. It was designed by the [sanctioned](https://war-sanctions.gur.gov.ua/en/sanctions/companies/5743) Zelenodolsk Design Bureau. The Tatarstan was launched in August 2003 and became the flagship of Russia's Caspian Flotilla.
+
+The vessel is designed to search for and engage underwater, surface and airborne assets, conduct patrols and convoy operations, and protect Russia's maritime economic zone. The Tatarstan is also equipped with artillery, anti-ship, anti-aircraft and anti-submarine weapons.
+
+	**Background:** On 9 September, Ukrainian forces struck the Zheleznyakov minesweeper, the Admiral Essen frigate and the Project 11711 Pyotr Morgunov large landing ship in the port of Novorossiysk.
+
+
+Your support onPatreonhelps us keep the news free and accessible.

@@ -1,0 +1,34 @@
+URL:         https://kyivindependent.com/ukraine-strikes-russian-port-used-for-iranian-arms-shipments-general-staff-says/
+Кінцевий:    https://kyivindependent.com/ukraine-strikes-russian-port-used-for-iranian-arms-shipments-general-staff-says/
+Заголовок:   Ukraine strikes Russian port used for Iranian arms shipments, military says
+Дата публ.:  2025-08-15
+Завантажено: 2026-09-21 14:37 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 278321
+Оригінал:    raw/04-kyivindependent.com-ukraine-strikes-russian-port-used-for-iranian-arms.html
+sha256:      7677603c064595e132c4b85e1dffd84d38ea3170ac7884183ecbeeac1d01d4b3
+Витяг:       trafilatura
+
+==============================================================================
+*Editor's note: This story has been updated to reflect the latest casualty figures in Russia’s Kursk Oblast, as reported by acting Governor Alexander Khinshtein.*
+
+Ukraine's Special Operations Forces on Aug. 14 struck the Russian port of Olya in Astrakhan Oblast, a region in southern Russia at the Caspian Sea coast, the General Staff of the Ukrainian Armed Forces reported.
+
+The [attack targeted](https://t.me/GeneralStaffZSU/27823) what Kyiv says is a key logistics hub for Iranian-made military supplies bound for Russia.
+
+Iran has been a key ally to [Moscow](https://kyivindependent.com/tag/russia/) and provided the country with ballistic missiles and thousands of Shahed kamikaze drones for its war against [Ukraine](https://kyivindependent.com/tag/ukraine/). Russia has also launched production of its own Shahed equivalents called [Gerans](https://kyivindependent.com/how-russia-modified-irans-shahed-136-drones-and-what-it-means-for-ukraine/).
+
+The Olya port is used by Moscow to receive Shahed-type drone components and munitions from [Iran](https://kyivindependent.com/tag/iran/), according to the military. Preliminary reports indicate that the vessel Port Olya 4, loaded with such cargo, was hit in the attack. The extent of the damage is reportedly still being assessed.
+
+The port lies roughly 800 kilometers (500 miles) from the front line in Ukraine.
+
+The strike is part of Ukraine's broader campaign to degrade Russia's ability to launch air attacks and sustain its war effort, the [General Staff](https://kyivindependent.com/tag/general-staff/) said.
+
+Russian authorities reported attacks elsewhere in the country the same day, including an alleged deadly [drone strike](https://kyivindependent.com/tag/drone-attack/) in Kursk on Aug. 14. Acting Governor Alexander Khinshtein claimed a Ukrainian drone hit an apartment building on Soyuznaya Street, killing one person and injuring 12 others, including a 15-year-old. 
+
+The blast and fire allegedly damaged the top four floors of the building and shattered windows in neighboring houses and a school.
+
+Ukraine has not commented on the attack. The Kyiv Independent cannot verify these claims.
+
+Russia's [Defense Ministry](https://kyivindependent.com/tag/russias-defense-ministry/) said its air defenses shot down 53 Ukrainian [drones](https://kyivindependent.com/tag/drones/) overnight across multiple regions, including 13 over Kursk Oblast, 11 over Rostov Oblast, seven over Samara Oblast, six over Belgorod Oblast, five over Oryol Oblast, four each over the Bryansk and Voronezh oblasts, one over Saratov Oblast, one over Kalmykia, and one over the Azov Sea.
+
+In Samara Oblast, an oil refinery in Syzran [caught](https://kyivindependent.com/drones-reportedly-attack-oil-refinery-in-russias-samara-oblast-sparking-fire/) fire after a reported drone strike early on Aug. 15. Syzran hosts one of Rosneft's largest facilities, which supplies fuel to Russian forces in central and southern Russia, according to pro-Ukrainian Telegram channel Crimean Wind.

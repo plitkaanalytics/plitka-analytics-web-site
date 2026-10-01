@@ -1,0 +1,138 @@
+URL:         https://english.nv.ua/nation/isw-reports-55-drop-in-russian-ships-using-ais-in-sea-of-azov-50623793.html
+Кінцевий:    https://english.nv.ua/nation/isw-reports-55-drop-in-russian-ships-using-ais-in-sea-of-azov-50623793.html
+Заголовок:   Russian ship numbers in the Sea of Azov may have halved since July – ISW
+Дата публ.:  2026-07-12
+Завантажено: 2026-09-30 16:38 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 86939
+Оригінал:    raw/55-english.nv.ua-isw-reports-55-drop-in-russian-ships-using-ais-in-sea-of.html
+sha256:      7e579077a692495d46c82eb6ecbe61640d7ad0dadfb1d04876db801764487efa
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 18
+==============================================================================
+ISW reports 55% drop in Russian ships using AIS in Sea of Azov / The New Voice of Ukraine
+The number of Russian ships in the Sea of ​​Azov has decreased since the beginning of July (Photo: Commander of Unmanned Aerial Systems Force/Handout via REUTERS)
+Ukrainian forces hit 28 Russian vessels in the Sea of Azov overnight
+Russia halts Don-Azov Channel traffic after vessel attacks
+If you find an error in the text, select it with the mouse and click
+Аудіоверсії матеріалів, доступ до закритих матеріалів та багато іншого в передплаті NV Преміум від 1 грн.
+Ваша подписка на NV Премиум закончилась!
+Доступ к закрытым материалам сайта
+Отключение коммерческой баннерной рекламы
+Возможность открывать статьи NV Премиум для друзей
+Email и/или пароль введены неверно
+Слишком много попыток, попробуйте позже
+Вы ввели неверный логин/пароль
+Ссылка на смену пароля была отправлена на ваш email
+Мы отправили вам письмо с ссылкой на создание нового пароля
+Если письмо не пришло в течение нескольких минут, пожалуйста, проверьте папку Спам.
+В случае возникновения проблем, пожалуйста, напишите в службу поддержки
+By continuing to browse NV.ua, you confirm that you have read the Terms of Use of the site and agree to the use of cookies.
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+ISW reports 55% drop in Russian ships using AIS in Sea of Azov / The New Voice of Ukraine
+Exclusive
+Nation
+business
+life
+opinion
+Russian war
+Nation
+Russian ship numbers in the Sea of Azov may have halved since July – ISW
+12 July, 03:00 PM
+Read NV on Google
+The number of Russian ships in the Sea of ​​Azov has decreased since the beginning of July (Photo: Commander of Unmanned Aerial Systems Force/Handout via REUTERS)
+Russian-flagged vessels operating with active Automatic Identification System (AIS) transponders in the Sea of Azov may have dropped by 55% between June 30 and July 11,
+according to Starboard Maritime Intelligence data cited by the Institute for the Study of War in a report released
+on July 12.
+According to vessel-tracking data, 267 vessels with active AIS transponders were detected in the Sea of Azov on June 30. By July 11, that number had fallen to 120.
+On June 30, vessels with active AIS transponders were distributed across the Sea of Azov, along the Russian coast and Russian-occupied areas of Ukraine, as well as in Russian ports and ports in occupied Ukrainian territories.
+Ad
+By contrast, Starboard data for July 11 showed significantly fewer vessels transmitting AIS signals in the Sea of Azov. Most were concentrated near ports, along the coastline or in Taganrog Bay. Starboard data for both June 30 and July 11 also showed several AIS signals originating from inland areas of Russia and Russian-occupied parts of Ukraine.
+Read also:
+Ukrainian forces hit 28 Russian vessels in the Sea of Azov overnight
+The analysts noted that AIS data can be spoofed or jammed, causing signals to appear on land or outside a vessel's actual route. Starboard's data reflects a methodologically consistent count of AIS transponders actively broadcasting location data — whether genuine or spoofed — in the Sea of Azov and the Kerch Strait, and therefore does not represent the exact number of vessels operating in those waters.
+Earlier, Reuters reported that Russia had temporarily suspended shipping through the Don-Azov Canal and the Kerch Strait, which connects the Sea of Azov and the Black Sea, following Ukrainian attacks on Russian vessels. The decision came after Ukraine struck 13 Russian vessels in the Sea of Azov, including 10 tankers.
+On July 11, Russian authorities said drones had attacked four vessels overnight in Taganrog Bay in the Sea of Azov, including a methanol tanker. Russian officials claimed the vessels sustained only "minor damage" and that there was no risk of a cargo leak.
+Read also:
+Russia halts Don-Azov Channel traffic after vessel attacks
+On July 10, Ukraine's Unmanned Systems Forces reported striking another 13 Russian shadow fleet tankers. Overall, Ukrainian drones hit 48 Russian vessels in the Sea of Azov over a five-day period.
+According to Defense Express analysts, about 120 Russian vessels may currently be operating in the Sea of Azov, the majority of them bulk carriers.
+The military war may be swinging in our favor, but the information war continues.
+Just as an army needs soldiers, so does a free society need its journalists to ensure that people have access to honest, trustworthy voices to understand the world around them.
+For the past five years, The New Voice of Ukraine has been working tirelessly to push back against Russian narratives and defend democracy.
+But we cannot do it alone.
+Please consider
+supporting us on Patreon
+for just $5 a month – your donation does directly to supporting journalists and ensuring that this front of the infowar says solid and defended.
+Thank you.
+Follow us on
+Twitter
+,
+Facebook
+and
+Google News
+Editor:
+Alona Sonko
+Read NV on Google
+If you find an error in the text, select it with the mouse and click
+Ctrl + Enter
+Теги:
+Russian ships
+Sea of Azov
+ISW
+vessel explosion
+Kerch Strait
+Реклама:
+loading...
+Реклама:
+Show more news
+X
+NV Преміум
+Передплатіть, щоб послухати
+аудіоверсію матеріалу
+Аудіоверсії матеріалів, доступ до закритих матеріалів та багато іншого в передплаті NV Преміум від 1 грн.
+Передплатити
+Вже є передплата?
+Авторизуватись
+Ваша подписка на NV Премиум закончилась!
+NV Премиум это:
+Доступ к закрытым материалам сайта
+Отключение коммерческой баннерной рекламы
+Возможность открывать статьи NV Премиум для друзей
+ПРОДОЛЖИТЬ ПОДПИСКУ
+or
+Продолжить читать
+материалы открытого доступа
+Вы вышли из системы
+Войти
+Email и/или пароль введены неверно
+Слишком много попыток, попробуйте позже
+Вы ввели неверный логин/пароль
+Войти
+Забыли пароль?
+Войти через соцсети
+Восстановление пароля
+Ссылка на смену пароля была отправлена на ваш email
+Вы ввели неверный логин/пароль
+восстановить пароль
+назад ко входу
+Письмо
+отправлено
+Мы отправили вам письмо с ссылкой на создание нового пароля
+Готово
+Если еще нет подписки
+Подписаться
+Отдел поддержки
+support@nv.ua
+Если письмо не пришло в течение нескольких минут, пожалуйста, проверьте папку Спам.
+В случае возникновения проблем, пожалуйста, напишите в службу поддержки
+support@nv.ua
+About using cookies
+By continuing to browse NV.ua, you confirm that you have read the Terms of Use of the site and agree to the use of cookies.
+About cookies
+Agree

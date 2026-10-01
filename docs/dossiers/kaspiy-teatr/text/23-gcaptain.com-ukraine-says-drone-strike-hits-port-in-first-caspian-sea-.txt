@@ -1,0 +1,24 @@
+URL:         https://gcaptain.com/ukraine-says-drone-strike-hits-port-in-first-caspian-sea-attack/
+Кінцевий:    https://gcaptain.com/ukraine-says-drone-strike-hits-port-in-first-caspian-sea-attack/
+Заголовок:   Ukraine Says Drone Strike Hits Port in First Caspian Sea Attack
+Дата публ.:  2024-11-06
+Завантажено: 2026-09-21 14:38 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 232447
+Оригінал:    raw/23-gcaptain.com-ukraine-says-drone-strike-hits-port-in-first-caspian-sea-.html
+sha256:      42eb449b01375134c0da425cea35ef0743c29114a2d41f7530804cf087e7af0b
+Витяг:       trafilatura
+
+==============================================================================
+(Bloomberg) —
+
+Ukraine said a drone strike hit a naval base in a port city on [Russia’s](https://gcaptain.com/tag/russia/) Caspian Sea coast, in Kyiv’s first-ever [attack](https://gcaptain.com/tag/ukraine-war/) on a target in the region some 1,500 kilometers (930 miles) from the frontline.   
+
+Several ships, including missile carriers, were damaged in the attack in the city of Kaspiysk, said an official in Ukraine’s military intelligence service who asked not to be named. Photos and videos shared by Ukrainian and Russian social media channels on Wednesday appeared to show a low-flying drone and explosions at Kaspiysk’s port, but the exact damage couldn’t be independently verified. Russia’s Defense Ministry didn’t comment on the matter.
+
+The city, in Russia’s Republic of Dagestan in the North Caucasus, hosts part of the nation’s Caspian Sea flotilla. Russia’s Tass state news agency, citing local authorities, reported that the airport in the regional capital Makhachkala was closed during the attack.
+
+Ukraine has repeatedly asked its allies to lift restrictions on the use of Western-made weapons for long-range strikes on military targets inside Russia. Kyiv managed to produce its own long-range drones, which have increasingly already hit far-flung Russian airfields, naval bases and fuel depots.
+
+The attack on Kaspiysk is Ukraine’s fourth long-range strike inside Russia this fall. In September, Kyiv destroyed a large ammunition depot in Toropets, nearly 500 kilometers (310 miles) from Ukraine’s northern border and a weapons stockpile in Kotluban, about 600 kilometers (375 miles) away. In late October, Ukrainian long-range drones hit the military production facility in Dzerzhinsk, about 900 kilometers from the Ukrainian border and targeted Chechnya, which neighbors Dagestan, for the first time.
+
+*© 2024 Bloomberg L.P.*

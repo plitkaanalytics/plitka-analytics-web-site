@@ -1,0 +1,260 @@
+URL:         https://kyivindependent.com/ukraine-strikes-russian-port-used-for-iranian-arms-shipments-general-staff-says/
+Кінцевий:    https://kyivindependent.com/ukraine-strikes-russian-port-used-for-iranian-arms-shipments-general-staff-says/
+Заголовок:   Ukraine strikes Russian port used for Iranian arms shipments, military says
+Дата публ.:  2025-08-15
+Завантажено: 2026-09-21 14:37 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 278321
+Оригінал:    raw/04-kyivindependent.com-ukraine-strikes-russian-port-used-for-iranian-arms.html
+sha256:      7677603c064595e132c4b85e1dffd84d38ea3170ac7884183ecbeeac1d01d4b3
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 41
+==============================================================================
+Ukraine strikes Russian port used for Iranian arms shipments, military says
+The Russian port of Olya in Astrakhan Oblast, Russia. (Olya Sea Trade Port/Website)
+Trump doesn’t have enough leverage to stop Russia, Ukrainian soldiers say ahead of Alaska talks
+Anna Fratsyvir is an assistant opinion editor at the Kyiv Independent, with a background in broadcast journalism and international affairs. Previously, she worked as a news editor at the Kyiv Independent, and as a TV journalist at Ukraine’s public broadcaster Suspilne, covering global politics and international developments. Anna holds a Bachelor's degree in International Communications from Taras Shevchenko National University and is currently an MA candidate in International Relations at the Johns Hopkins School of Advanced International Studies (SAIS).
+All EU sanctions linked to Russia's war may expire as France, Slovakia seek to delist oligarchs
+Exclusive: Ukraine, Russia are done with Steve Witkoff. Trump sees no problem
+Putin confiscates Nestle, Auchan assets in Russia
+No tanks, lone soldiers — Ukraine details new Russian assault tactics
+Moscow Oil Refinery ablaze after 'largest-ever' Ukraine missile, drone blitz on Russian capital
+Russia 'lost control' of its diesel industry due to Ukraine's attacks, Trump says ahead of Zelensky meeting.
+A large number of Russian "refineries have been blown up and are, at least temporarily, out of commission," Trump said, urging an end to the fighting.
+EU sanctions U-turn: France and Slovakia force bloc to delist two Russian oligarchs.
+In exchange, EU ambassadors have provisionally agreed to extend the sanctions for 36 months rather than the originally planned 12 months, three national diplomats told the Kyiv Independent.
+Investigation: Western machinery at the heart of Russian arms producers like Kalashnikov
+Putin's ruling party set to claim 'victory' in Russian parliamentary election, in results deemed predetermined.
+As is typical of elections in Russia, the results are widely considered by independent election monitors to be predetermined by Putin and his regime.
+Ukraine's oil and gas giant to build storage sites in Hungary amid fears of Russian winter strikes.
+"Amid ongoing Russian attacks on our fuel infrastructure, diversifying supply routes and creating additional storage capacity outside the areas facing attacks is a matter of stability for the entire market," Naftogaz's acting head Serhii Fedorenko said.
+Romania's pro-Russian ex-presidential candidate investigated for fraud, media reports.
+Romanian authorities are conducting searches at addresses linked to Calin Georgescu in connection with an alleged 1.1 million euro ($1.3 million) fraud scheme, Romanian media reported.
+Ukraine's Culture Ministry announces major fundraising initiative to help publishers struggling after Russian attacks.
+According to the Culture Ministry, financial losses for the Ukrainian book industry have already reached at least Hr 1.75 billion ($32 million). The $500,000 grant initiative will help small publishers continue their work.
+Russian attacks kill at least 6, wound 38 across Ukraine, as overnight strike hit shopping mall in Zaporizhzhia.
+The Air Force said Russian forces launched attacks against Ukraine overnight with 172 drones, of which 148 were intercepted.
+Ukraine's top negotiator praises Witkoff, pushes back against Kyiv Independent's reporting.
+U.S. envoy Steve Witkoff "has done a great job" in Washington-led efforts to help end the Russia-Ukraine war, Foreign Intelligence Chief Rustem Umerov told Axios.
+General Staff: Russia has lost 1,519,650 troops in Ukraine since Feb. 24, 2022.
+The number includes 1,660 casualties that Russian forces suffered over the past day.
+Russia launched more than 2,000 drones at Ukraine over past week, Zelensky says.
+In addition to the drones, most of which Zelensky said were jet-powered and capable of reaching 600 kilometers per hour (nearly 370 miles per hour), Russian forces launched 1,700 air bombs and 19 missiles of various types.
+Merz decries 'disaster' as far-right AfD party set for big win in regional German elections.
+The far-right, Kremlin-friendly Alternative for Germany (AfD) party was projected to take first place in regional elections in Germany on Sept. 20, delivering a stinging defeat for Chancellor Friedrich Merz's center-right party.
+Zelensky, Trump to meet in New York in talks that ‘could change a lot’.
+President Volodymyr Zelensky and U.S. President Donald Trump are planning to meet in New York, Zelensky said on Sept. 20 following a phone call between the two leaders.
+Ukraine war latest: Zelensky approves 'new long-range operations' in response to Russian strikes.
+Russian drone attack damages warehouses, businesses across Kyiv Oblast.
+Warehouse facilities caught fire and businesses and vehicles were damaged across Kyiv Oblast following a Russian drone attack on Sept. 20, regional authorities reported.
+How a dissident poet became Ukraine’s moral compass
+Inside Russia's 2026 parliamentary election: Banned opposition, rigging, and war
+The winter that will reach Russia's rear
+Explainer: How a corruption scandal and loyalty to Zelensky brought down Ukraine’s prosecutor general
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Ukraine strikes Russian port used for Iranian arms shipments, military says
+Sign up for our Newsletters
+→
+About
+Team
+Jobs
+Advertising
+Store
+London Event
+War
+Politics
+Business
+Russia
+Europe
+Opinion
+Video
+Culture
+Investigations
+War Crimes
+Explaining Ukraine
+News Feed
+Ukraine strikes Russian port used for Iranian arms shipments, military says
+August 15, 2025 9:15 am
+(Updated:
+August 15, 2025 10:33 am
+)
+•
+2
+min read
+Prefer
+on Google
+by
+Anna Fratsyvir
+The Russian port of Olya in Astrakhan Oblast, Russia. (Olya Sea Trade Port/Website)
+Editor's note: This story has been updated to reflect the latest casualty figures in Russia’s Kursk Oblast, as reported by acting Governor Alexander Khinshtein.
+Ukraine's Special Operations Forces on Aug. 14 struck the Russian port of Olya in Astrakhan Oblast, a region in southern Russia at the Caspian Sea coast, the General Staff of the Ukrainian Armed Forces reported.
+The
+attack targeted
+what Kyiv says is a key logistics hub for Iranian-made military supplies bound for Russia.
+Iran has been a key ally to
+Moscow
+and provided the country with ballistic missiles and thousands of Shahed kamikaze drones for its war against
+Ukraine
+. Russia has also launched production of its own Shahed equivalents called
+Gerans
+.
+The Olya port is used by Moscow to receive Shahed-type drone components and munitions from
+Iran
+, according to the military. Preliminary reports indicate that the vessel Port Olya 4, loaded with such cargo, was hit in the attack. The extent of the damage is reportedly still being assessed.
+The port lies roughly 800 kilometers (500 miles) from the front line in Ukraine.
+The strike is part of Ukraine's broader campaign to degrade Russia's ability to launch air attacks and sustain its war effort, the
+General Staff
+said.
+Russian authorities reported attacks elsewhere in the country the same day, including an alleged deadly
+drone strike
+in Kursk on Aug. 14. Acting Governor Alexander Khinshtein claimed a Ukrainian drone hit an apartment building on Soyuznaya Street, killing one person and injuring 12 others, including a 15-year-old.
+The blast and fire allegedly damaged the top four floors of the building and shattered windows in neighboring houses and a school.
+Ukraine has not commented on the attack. The Kyiv Independent cannot verify these claims.
+Russia's
+Defense Ministry
+said its air defenses shot down 53 Ukrainian
+drones
+overnight across multiple regions, including 13 over Kursk Oblast, 11 over Rostov Oblast, seven over Samara Oblast, six over Belgorod Oblast, five over Oryol Oblast, four each over the Bryansk and Voronezh oblasts, one over Saratov Oblast, one over Kalmykia, and one over the Azov Sea.
+In Samara Oblast, an oil refinery in Syzran
+caught
+fire after a reported drone strike early on Aug. 15. Syzran hosts one of Rosneft's largest facilities, which supplies fuel to Russian forces in central and southern Russia, according to pro-Ukrainian Telegram channel Crimean Wind.
+read also
+Trump doesn’t have enough leverage to stop Russia, Ukrainian soldiers say ahead of Alaska talks
+War
+Ukraine
+Russia
+Attacks on Russia
+Iran
+Shahed drones
+General Staff
+Anna Fratsyvir
+Assistant Opinion Editor
+Anna Fratsyvir is an assistant opinion editor at the Kyiv Independent, with a background in broadcast journalism and international affairs. Previously, she worked as a news editor at the Kyiv Independent, and as a TV journalist at Ukraine’s public broadcaster Suspilne, covering global politics and international developments. Anna holds a Bachelor's degree in International Communications from Taras Shevchenko National University and is currently an MA candidate in International Relations at the Johns Hopkins School of Advanced International Studies (SAIS).
+Read more
+Most Popular
+All EU sanctions linked to Russia's war may expire as France, Slovakia seek to delist oligarchs
+Exclusive: Ukraine, Russia are done with Steve Witkoff. Trump sees no problem
+Putin confiscates Nestle, Auchan assets in Russia
+No tanks, lone soldiers — Ukraine details new Russian assault tactics
+Moscow Oil Refinery ablaze after 'largest-ever' Ukraine missile, drone blitz on Russian capital
+News Feed
+Monday
+,
+September
+21
+3:36 pm
+(Updated:
+September 21, 2026 5:26 pm
+)
+Russia 'lost control' of its diesel industry due to Ukraine's attacks, Trump says ahead of Zelensky meeting.
+A large number of Russian "refineries have been blown up and are, at least temporarily, out of commission," Trump said, urging an end to the fighting.
+1:26 pm
+(Updated:
+September 21, 2026 5:03 pm
+)
+EU sanctions U-turn: France and Slovakia force bloc to delist two Russian oligarchs.
+In exchange, EU ambassadors have provisionally agreed to extend the sanctions for 36 months rather than the originally planned 12 months, three national diplomats told the Kyiv Independent.
+3:53 pm
+Investigations
+Investigation: Western machinery at the heart of Russian arms producers like Kalashnikov
+2:04 am
+(Updated:
+September 21, 2026 1:00 pm
+)
+Putin's ruling party set to claim 'victory' in Russian parliamentary election, in results deemed predetermined.
+As is typical of elections in Russia, the results are widely considered by independent election monitors to be predetermined by Putin and his regime.
+10:30 am
+(Updated:
+September 21, 2026 12:55 pm
+)
+Ukraine's oil and gas giant to build storage sites in Hungary amid fears of Russian winter strikes.
+"Amid ongoing Russian attacks on our fuel infrastructure, diversifying supply routes and creating additional storage capacity outside the areas facing attacks is a matter of stability for the entire market," Naftogaz's acting head Serhii Fedorenko said.
+12:41 pm
+Romania's pro-Russian ex-presidential candidate investigated for fraud, media reports.
+Romanian authorities are conducting searches at addresses linked to Calin Georgescu in connection with an alleged 1.1 million euro ($1.3 million) fraud scheme, Romanian media reported.
+12:05 pm
+Ukraine's Culture Ministry announces major fundraising initiative to help publishers struggling after Russian attacks.
+According to the Culture Ministry, financial losses for the Ukrainian book industry have already reached at least Hr 1.75 billion ($32 million). The $500,000 grant initiative will help small publishers continue their work.
+11:30 am
+Russian attacks kill at least 6, wound 38 across Ukraine, as overnight strike hit shopping mall in Zaporizhzhia.
+The Air Force said Russian forces launched attacks against Ukraine overnight with 172 drones, of which 148 were intercepted.
+11:12 am
+Ukraine's top negotiator praises Witkoff, pushes back against Kyiv Independent's reporting.
+U.S. envoy Steve Witkoff "has done a great job" in Washington-led efforts to help end the Russia-Ukraine war, Foreign Intelligence Chief Rustem Umerov told Axios.
+9:28 am
+General Staff: Russia has lost 1,519,650 troops in Ukraine since Feb. 24, 2022.
+The number includes 1,660 casualties that Russian forces suffered over the past day.
+7:17 am
+Russia launched more than 2,000 drones at Ukraine over past week, Zelensky says.
+In addition to the drones, most of which Zelensky said were jet-powered and capable of reaching 600 kilometers per hour (nearly 370 miles per hour), Russian forces launched 1,700 air bombs and 19 missiles of various types.
+4:04 am
+Merz decries 'disaster' as far-right AfD party set for big win in regional German elections.
+The far-right, Kremlin-friendly Alternative for Germany (AfD) party was projected to take first place in regional elections in Germany on Sept. 20, delivering a stinging defeat for Chancellor Friedrich Merz's center-right party.
+Sunday
+,
+September
+20
+10:42 pm
+Zelensky, Trump to meet in New York in talks that ‘could change a lot’.
+President Volodymyr Zelensky and U.S. President Donald Trump are planning to meet in New York, Zelensky said on Sept. 20 following a phone call between the two leaders.
+10:12 pm
+Ukraine war latest: Zelensky approves 'new long-range operations' in response to Russian strikes.
+8:43 pm
+Russian drone attack damages warehouses, businesses across Kyiv Oblast.
+Warehouse facilities caught fire and businesses and vehicles were damaged across Kyiv Oblast following a Russian drone attack on Sept. 20, regional authorities reported.
+Show More
+Editors' Picks
+How a dissident poet became Ukraine’s moral compass
+Inside Russia's 2026 parliamentary election: Banned opposition, rigging, and war
+The winter that will reach Russia's rear
+Explainer: How a corruption scandal and loyalty to Zelensky brought down Ukraine’s prosecutor general
+Support us on Gofund.me
+Support us on Patreon
+Buy Our Merch
+Follow us
+We are a member center of
+Sections
+News Feed
+Newsletters
+War
+Politics
+Business
+Russia
+Europe
+Opinion
+Video
+Culture
+Investigations
+War Crimes
+Explaining Ukraine
+Featured
+War Analysis
+Photos
+Field Report
+Interview
+Human Story
+Company News
+More
+About
+Contacts
+Team
+Jobs
+Join the team
+Advertising
+Submit an Opinion
+Content Licensing
+J-School
+Store
+Copyright ©
+2026
+The Kyiv Independent
+Help Center
+Cookie Policy
+Privacy Policy
+Comments policy
+Community Policy

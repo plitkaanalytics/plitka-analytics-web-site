@@ -1,0 +1,150 @@
+URL:         https://www.pravda.com.ua/eng/news/2026/09/11/8053022/
+Кінцевий:    https://www.pravda.com.ua/eng/news/2026/09/11/8053022/
+Заголовок:   Ukrainian forces likely struck flagship of Russia's Caspian Flotilla – OSINT analysts
+Дата публ.:  2026-09-11
+Завантажено: 2026-09-18 07:37 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 152646
+Оригінал:    raw/09-pravda.com.ua-8053022.html
+sha256:      2203d9b7c0a040f2a6d23f779988fd8e18c1dff09c943226d8e3abf7f078e68f
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 17
+==============================================================================
+Ukraine likely struck flagship of Russia's Caspian Flotilla | Ukrainska Pravda
+Projects of "Ukrainian Pravda"
+Ukrainian military should not have to ask for help: the story of the Liberty Ukraine charity
+Life under constant stress: rebuilding a sense of safety for little Ukrainians
+Швидкий вхід, якщо ви вже авторизовані на УП/ЕП
+Add UP as preferred source in Google
+The Tatarstan after the attack
+© 2000-2026, Ukrainska Pravda,
+Principles and Rules of UP Work
+The use of site materials is allowed only with a reference (for online publications — a hyperlink) to "Ukrainska Pravda" no lower than the third paragraph.
+Any copying, publication, reprinting, or further distribution of information containing a reference to "
+Any copying, reprinting, or reproduction of photographic works and/or audiovisual works owned by Getty Images is strictly prohibited.
+Materials marked as PROMOTED are advertisements and are published as advertising. The editorial board may not share the views promoted in them. Materials marked as SPECIAL PROJECT and WITH SUPPORT are also advertisements, but the editorial team participates in preparing this content and shares the views expressed in these materials.
+The editorial board is not responsible for the facts and value judgments published in advertising materials. According to Ukrainian law, the advertiser is responsible for the content of the advertisements.
+Project founder: Georgiy Gongadze,
+Registered online media entity; media identifier — R40-02280.
+Address: 01032, Kyiv, Zhylianska St., 48, 50A.
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Ukraine likely struck flagship of Russia's Caspian Flotilla | Ukrainska Pravda
+Ukrainska Pravda
+Укр
+Рос
+Eng
+Support Us
+Укр
+Рос
+Eng
+Sections
+News
+Stories
+Opinions
+Interview
+Podcasts
+Special Projects
+Archive
+Projects of "Ukrainian Pravda"
+Ukrainska Pravda (UKR)
+Ekonomichna Pravda (UKR)
+Life (UKR)
+Sport (UKR)
+European Pravda (ENG)
+Blogs
+Istorychna Pravda (ENG)
+Tabloid
+Mezha (ENG)
+Defence (ENG)
+Topics
+ATACMS
+Russia-Ukraine war
+Special projects
+Ukrainian military should not have to ask for help: the story of the Liberty Ukraine charity
+Life under constant stress: rebuilding a sense of safety for little Ukrainians
+Увійти або зареєструватися
+Увійти з Google
+або
+Email
+Пароль
+Забули пароль?
+Увійти
+Швидкий вхід, якщо ви вже авторизовані на УП/ЕП
+Ще не маєте підписки?
+Долучайтеся до клубу УП!
+News
+Stories
+Opinions
+Interview
+Podcasts
+Special Projects
+Archive
+Ukrainian forces likely struck flagship of Russia's Caspian Flotilla – OSINT analysts
+Andrii Konyk
+—
+                11 September, 20:47
+Посилання скопійовано
+Add UP as preferred source in Google
+Ukrainian forces likely struck the Tatarstan vessel in Russia's Kaspiysk on the night of 10-11 September.
+Source:
+OSINT analysts from the
+Exilenova+
+project, which posted a satellite image of the vessel
+Details:
+The Tatarstan is the flagship of Russia's Caspian Flotilla.
+Advertisement:
+"Last night in Kaspiysk, the Tatarstan was likely struck – the main vessel of the Caspian Flotilla, Project 11661K Gepard, armed with Uran anti-ship missiles and Osa-MA surface-to-air missile systems," the OSINT analysts reported.
+The Tatarstan after the attack
+Photo: Exilenova+
+The Tatarstan is a Project 11661K Gepard warship. It was designed by the
+sanctioned
+Zelenodolsk Design Bureau. The Tatarstan was launched in August 2003 and became the flagship of Russia's Caspian Flotilla.
+The vessel is designed to search for and engage underwater, surface and airborne assets, conduct patrols and convoy operations, and protect Russia's maritime economic zone. The Tatarstan is also equipped with artillery, anti-ship, anti-aircraft and anti-submarine weapons.
+Background:
+On 9 September, Ukrainian forces struck the Zheleznyakov minesweeper, the Admiral Essen frigate and the Project 11711 Pyotr Morgunov large landing ship in the port of Novorossiysk.
+Your support on
+Patreon
+helps us keep the news free and accessible.
+Advertisement:
+Top news of today
+All news
+Latest news
+Advertisement:
+Advertisement:
+Ukrainska Pravda
+© 2000-2026, Ukrainska Pravda,
+LLC "UP Media Plus"
+. All rights reserved.
+Advertising on the site
+Events
+Rules for using UP materials
+AI policy
+Gender policy
+Principles and Rules of UP Work
+How to Write for UP
+Internship
+Promocodes
+The use of site materials is allowed only with a reference (for online publications — a hyperlink) to "Ukrainska Pravda" no lower than the third paragraph.
+Any copying, publication, reprinting, or further distribution of information containing a reference to "
+Interfax-Ukraine
+" is strictly prohibited.
+Any copying, reprinting, or reproduction of photographic works and/or audiovisual works owned by Getty Images is strictly prohibited.
+Materials marked as PROMOTED are advertisements and are published as advertising. The editorial board may not share the views promoted in them. Materials marked as SPECIAL PROJECT and WITH SUPPORT are also advertisements, but the editorial team participates in preparing this content and shares the views expressed in these materials.
+The editorial board is not responsible for the facts and value judgments published in advertising materials. According to Ukrainian law, the advertiser is responsible for the content of the advertisements.
+Project founder: Georgiy Gongadze,
+Editor-in-chief:
+Sevgil Musaeva
+,
+Founding editor:
+Olena Prytula
+,
+Editorial e-mail:
+[email protected]
+Registered online media entity; media identifier — R40-02280.
+Address: 01032, Kyiv, Zhylianska St., 48, 50A.
+Phone: +380 95 641 22 07

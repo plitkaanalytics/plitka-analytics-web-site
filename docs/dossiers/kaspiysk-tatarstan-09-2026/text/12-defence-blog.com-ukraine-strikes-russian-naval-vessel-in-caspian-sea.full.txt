@@ -1,0 +1,191 @@
+URL:         https://defence-blog.com/ukraine-strikes-russian-naval-vessel-in-caspian-sea/
+Кінцевий:    https://defence-blog.com/ukraine-strikes-russian-naval-vessel-in-caspian-sea/
+Заголовок:   Ukraine strikes Russian naval vessel in Caspian Sea
+Дата публ.:  2026-05-17
+Завантажено: 2026-09-18 07:37 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 396793
+Оригінал:    raw/12-defence-blog.com-ukraine-strikes-russian-naval-vessel-in-caspian-sea.html
+sha256:      c8291ba42c993ba300b5f0035614b9ce25c14b61835379d8c8c21aab0284c4b9
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 23
+==============================================================================
+Ukraine strikes Russian naval vessel in Caspian Sea
+- ADVERTISEMENT - CONTINUE READING BELOW -
+Readers who wish to follow our weekly coverage can subscribe to the
+If you wish to report a grammatical or factual error in this article, please let us know by using the
+Independent reporting takes resources. Join us on Patreon.
+Ukraine claims 6 aircraft hit at Russian airbase in Rostov
+Ukrainian combat robot maker Ratel sells for up to $224M
+Disinformation follows latest Russia-linked drone incident in Poland
+Russia builds new foothold in Africa
+Israeli drone helicopter clears key U.S. flight hurdle
+U.S. Air Force pays $148M to keep 1960s jet engine flying
+The U.S. Air Force is paying close to $148.3 million to keep an engine that has powered its supersonic jet trainer since the 1960s...
+Germany’s special forces get their first new TAHR vehicle
+Lockheed Martin restores F-117 Nighthawk stealth jet
+Lockheed hopes to sell a new F-16 to U.S. Air Force
+U.S. Army spends $18M turning cavalry regiment into tank brigade
+The Defence Blog is an independent defense news outlet reporting on military technology,
+industry activity, and security affairs.
+Coverage is based on open sources,
+official releases, and direct reporting.
+Use of materials published on this website is permitted only with proper attribution to The Defence Blog. For online publications, a direct hyperlink to The Defence Blog must be included no later than the third paragraph of the republished material.
+Any copying, publication, reprinting, or further distribution of information that includes references to our information partners is strictly prohibited without prior permission from the respective rights holders.
+© 2014-2026 The Defence Blog media group. All Rights Reserved.
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Ukraine strikes Russian naval vessel in Caspian Sea
+Facebook
+Patreon
+X
+Youtube
+Bluesky
+Home
+News
+Army
+Aviation
+Maritime Security
+Space Force
+PRESS RELEASES
+Trending News
+Analysis
+Opinion
+About Us
+Contact
+Search
+DEFENCE BLOG
+DEFENCE BLOG
+Home
+News
+Army
+Aviation
+Maritime Security
+Space Force
+PRESS RELEASES
+Trending News
+Analysis
+Opinion
+About Us
+Contact
+type here...
+Search
+Ukraine strikes Russian naval vessel in Caspian Sea
+News
+Maritime Security
+By
+Dylan Malyasov
+May 17, 2026
+Modified date:
+May 17, 2026
+Ukrainian drone forces have struck a Russian naval vessel in the Caspian Sea for at least the third time in recent months, publishing footage on May 17 showing a Fire Point FP-1 attack drone successfully locating and hitting a Project 10410 Svetlyak-class patrol boat in the port area of Kaspiisk, Dagestan, more than 1,500 kilometers from Ukraine’s borders.
+The Unmanned Systems Forces of Ukraine released the strike footage, which shows the FP-1 drone approaching the Svetlyak from the stern. Russian military monitoring communities that analyzed the drone footage noted that the strike came “directly from the side of the stern automatic artillery mount AK-630, which, judging by the heating of the barrel block, had recently fired,” per their published analysis, suggesting the vessel had been actively engaging incoming drones before the successful hit.
+That detail implies the attack unfolded in a contested close-in defense environment rather than a surprise strike against an unprepared target, making the successful intercept of the ship’s defenses and the subsequent hit operationally significant beyond the physical damage to the vessel itself.
+- ADVERTISEMENT - CONTINUE READING BELOW -
+The Project 10410 Svetlyak is a Soviet and Russian-designed small patrol boat that entered service in the 1990s, displacing approximately 375 tons and armed with a 76mm automatic cannon, AK-630 close-in weapon systems, and surface-to-air missiles. The Caspian Flotilla operates several Svetlyak-class vessels, which have served primarily in coastal patrol and law enforcement roles in the Caspian but gained military significance after Russia began using the flotilla to launch Kalibr cruise missile strikes against targets in Syria and, according to Ukrainian and Western assessments, potentially to support logistics and training operations relevant to the broader war effort.
+The Ukraine General Staff reported in mid-May that drones struck two Russian military vessels directly in the port of Kaspiisk, and local residents recorded video showing drones overflying the area, explosions, and what witnesses described as chaotic Russian air defense fire, according to Ukrainian media outlet Militarnyi. The combination of official Ukrainian claims, independently recorded civilian footage, and the drone strike video released by the Unmanned Systems Forces provides a relatively robust corroboration chain by the standards of Caspian Sea strike reporting, where independent verification has historically been difficult to obtain quickly.
+Kaspiisk sits in the Republic of Dagestan on Russia’s Caspian coast, hosting the headquarters of the Russian Caspian Flotilla and its associated naval infrastructure. Its distance from Ukraine’s internationally recognized borders, estimated at between 1,000 and 1,500 kilometers depending on the route, makes any successful drone strike there a demonstration of operational reach that significantly exceeds what most observers considered plausible for Ukrainian unmanned systems even twelve months ago. That range extension reflects both the development of longer-endurance Ukrainian drone platforms and the accumulated operational experience of Ukrainian crews in planning and executing complex long-range strike missions.
+- ADVERTISEMENT - CONTINUE READING BELOW -
+The Kaspiisk strikes are part of a
+developing
+pattern of Ukrainian operations in the Caspian domain that has escalated through late 2024 and into 2025 and 2026. In November 2024, Ukraine’s Main Intelligence Directorate conducted what it described as the first-ever attack on the Caspian Flotilla, damaging Gepard-class missile ships Tatarstan and Dagestan, both Project 11661 vessels armed with Kalibr cruise missiles. In December 2025, Ukrainian drones struck a Project 22460 Okhotnik patrol boat near the Filanovsky oil field extraction platform in the Caspian. The May 2026 strikes represent the third distinct phase of this campaign, adding the Svetlyak patrol boat and, according to Ukrainian Special Operations Forces and General Staff reporting, strikes against three Lukoil offshore drilling platforms.
+The Lukoil platform strikes, if confirmed through independent damage assessment, carry economic and strategic significance beyond the naval dimension. The platforms targeted, named after V. Filanovsky, Yuri Korchagin, and Valery Graifer, are active hydrocarbon extraction facilities in the Russian sector of the Caspian, and Ukraine’s stated rationale for targeting them was their use by Russia to support the logistical and economic needs of the occupation force. Striking energy infrastructure at this distance from Ukrainian territory represents a significant escalation in the geographic scope of Ukraine’s economic warfare campaign against Russian industrial capacity, extending a targeting logic that has previously been applied to refineries and energy facilities in western and central Russia into a completely different theater.
+Ukraine has been steadily expanding the geographic boundaries of its long-range strike campaign since the full-scale invasion began, and the Caspian has now become a recurring operational theater rather than a one-off demonstration. Whether Russian forces can adapt their Caspian defenses fast enough to prevent further losses will be one of the more consequential tactical questions of the coming months, in a body of water where Moscow has long assumed it was operating far beyond the reach of any adversary.
+Share
+Facebook
+X
+Linkedin
+ReddIt
+Email
+Copy URL
+Readers who wish to follow our weekly coverage can subscribe to the
+Weekly Defense Roundup
+.
+If you wish to report a grammatical or factual error in this article, please let us know by using the
+online form.
+Executive Editor
+In this story
+Drone warfare
+Fire Point
+Russia
+Ukraine
+War in Ukraine
+Support The Defence Blog
+Independent reporting takes resources. Join us on Patreon.
+Become a patron
+More Like This
+Aviation
+Ukraine claims 6 aircraft hit at Russian airbase in Rostov
+Dylan Malyasov
+-
+Sep 17, 2026
+Read more
+Army
+Ukrainian combat robot maker Ratel sells for up to $224M
+Dylan Malyasov
+-
+Sep 16, 2026
+Read more
+Aviation
+Disinformation follows latest Russia-linked drone incident in Poland
+Dylan Malyasov
+-
+Sep 16, 2026
+Read more
+Army
+Russia builds new foothold in Africa
+Dylan Malyasov
+-
+Sep 16, 2026
+Read more
+Aviation
+Israeli drone helicopter clears key U.S. flight hurdle
+Emily Ryan Miller
+-
+Sep 15, 2026
+Read more
+Most Read:
+U.S. Air Force pays $148M to keep 1960s jet engine flying
+Colton Jones
+-
+Sep 16, 2026
+The U.S. Air Force is paying close to $148.3 million to keep an engine that has powered its supersonic jet trainer since the 1960s...
+Germany’s special forces get their first new TAHR vehicle
+Army
+Sep 16, 2026
+Lockheed Martin restores F-117 Nighthawk stealth jet
+Aviation
+Sep 15, 2026
+Lockheed hopes to sell a new F-16 to U.S. Air Force
+Aviation
+Sep 17, 2026
+U.S. Army spends $18M turning cavalry regiment into tank brigade
+Army
+Sep 16, 2026
+Corrections
+Corrections Policy
+Our Readers
+About Us
+Contact
+Membership
+Send a Press Release
+Editorial Standards
+Ethics & Transparency
+Terms of Use
+About The Defence Blog
+The Defence Blog is an independent defense news outlet reporting on military technology,
+  industry activity, and security affairs.
+Coverage is based on open sources,
+  official releases, and direct reporting.
+Facebook
+Linkedin
+X
+Bluesky
+Change privacy settings
+Use of materials published on this website is permitted only with proper attribution to The Defence Blog. For online publications, a direct hyperlink to The Defence Blog must be included no later than the third paragraph of the republished material.
+Any copying, publication, reprinting, or further distribution of information that includes references to our information partners is strictly prohibited without prior permission from the respective rights holders.
+© 2014-2026 The Defence Blog media group. All Rights Reserved.

@@ -1,3 +1,5 @@
+import Publications, { PartnerGrid } from "@/components/Publications";
+
 export const metadata = { title: "Співпраця — PLITKA Analytics" };
 
 export default function SpivpratsiaPage() {
@@ -17,11 +19,25 @@ export default function SpivpratsiaPage() {
               marginBottom: "32px",
             }}
           >
+            Наші матеріали виходять у партнерських виданнях, аналітики
+            коментують для медіа.
+          </p>
+          <PartnerGrid locale="uk" />
+        </div>
+      </section>
+
+      <Publications locale="uk" />
+
+      <section className="section">
+        <div className="container" style={{ maxWidth: "880px" }}>
+          <div className="section__head">
+            <h2 className="section__title">Напишіть нам</h2>
+          </div>
+          <p style={{ marginBottom: "28px" }}>
             Ми відкриті до співпраці з журналістами, редакціями та
             дослідницькими організаціями.
           </p>
-
-          <div className="grid-2" style={{ marginBottom: "40px" }}>
+          <div className="grid-2">
             <div className="sidecard sidecard--cream">
               <h3>Для журналістів</h3>
               <p>
