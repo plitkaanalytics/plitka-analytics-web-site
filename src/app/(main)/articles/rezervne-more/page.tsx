@@ -5,6 +5,7 @@ import { getArticleBySlug, requireVisibleArticle } from "@/lib/articles";
 import IfArticleVisible from "@/components/IfArticleVisible";
 import ArticleHead from "@/components/ArticleHead";
 import MakhachkalaGrowth from "@/components/MakhachkalaGrowth";
+import RouteShiftMap from "@/components/RouteShiftMap";
 import KaspiyskStrikes from "@/components/KaspiyskStrikes";
 import CaspianRoutesMap from "@/components/CaspianRoutesMap";
 import TankerProportion from "@/components/TankerProportion";
@@ -616,7 +617,7 @@ export default function Page() {
 
         {/* ===================== § 03 ===================== */}
         <h2 id="sec-molochka">
-          <span className="h2-num">§ 03 · Наслідки «МоЛоЧКи»</span>Резервне море
+          <span className="h2-num">§ 03 · Наслідки «МоЛоЧКи»</span>«Мадяр»
         </h2>
 
         <p>
@@ -871,6 +872,14 @@ export default function Page() {
           </a>
           .
         </p>
+
+        <figure className="fig fig--bleed">
+          <RouteShiftMap />
+          <figcaption>
+            Під Волгоградом вантаж має два виходи: каналом на захід і Волгою на
+            південь. Геометрія — Natural Earth.
+          </figcaption>
+        </figure>
 
         <p>
           Врешті можемо констатувати, що операція «МоЛоЧКа» не зупинила
