@@ -6,6 +6,7 @@ import IfArticleVisible from "@/components/IfArticleVisible";
 import ArticleHead from "@/components/ArticleHead";
 import MakhachkalaGrowth from "@/components/MakhachkalaGrowth";
 import KaspiyskStrikes from "@/components/KaspiyskStrikes";
+import CaspianRoutes from "@/components/CaspianRoutes";
 
 const SLUG = "rezervne-more";
 
@@ -265,11 +266,6 @@ export default function Page() {
             їхні відмінності варто тримати на увазі.
           </p>
         </div>
-
-        <figure
-          className="fig"
-          data-placeholder="[ схема: дуга дальності «Калібру» з акваторії Каспію на карті України, з позначенням пускових районів. Умова: власна побудова ]"
-        />
 
         <p>
           Росіяни флотилію активно розвивали саме у напрямку ракетоносців. У
@@ -558,11 +554,12 @@ export default function Page() {
           </a>
           .
         </p>
-
-        <figure
-          className="fig"
-          data-placeholder="[ схема маршруту: Бандар-Ензелі й Амірабад ↔ Астрахань, Оля, Махачкала; підписати, що йшло в який бік і коли розвернулося. Умова: власна побудова ]"
-        />
+        <figure className="fig">
+          <CaspianRoutes />
+          <figcaption>
+            Морські шляхи між портами Росії та Ірану. Схема, не карта.
+          </figcaption>
+        </figure>
 
         <p>
           У січні 2026 року було повідомлено, що на Каспії дістало пошкоджень
