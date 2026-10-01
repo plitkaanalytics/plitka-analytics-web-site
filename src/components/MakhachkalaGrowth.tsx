@@ -1,11 +1,15 @@
 /**
  * Вантажообіг Махачкалинського порту наростальним підсумком, 2026 проти 2025.
  *
- * Лінія 2026 року — опубліковані портові підсумки за чотири місяці,
- * півріччя й вісім місяців. Лінія 2025-го — **наш розрахунок**: ті самі
- * періоди відновлені з опублікованого приросту рік до року (плюс 48%, 50% і
- * 42,5%), плюс відомий підсумок цілого року. Приріст у джерелі округлений,
- * тому торішня крива приблизна, і намальована пунктиром саме тому.
+ * Вісь — справжня шкала дванадцяти місяців, обидві криві виходять з нуля.
+ * Крапки позначають точки, для яких є опубліковані дані; між ними пряма, бо
+ * проміжних місячних значень джерело не дає.
+ *
+ * Лінія 2026 року — портові підсумки за чотири місяці, півріччя й вісім
+ * місяців. Лінія 2025-го — наш розрахунок: ті самі періоди відновлені з
+ * опублікованого приросту рік до року (плюс 48%, 50% і 42,5%), плюс відомий
+ * підсумок цілого року. Приріст у джерелі округлений, тому торішня крива
+ * приблизна, і намальована пунктиром саме тому.
  *
  * Статичний SVG: сторінка статті — серверний компонент.
  */
@@ -13,21 +17,38 @@
 type Pt = { month: number; value: number };
 
 const Y2026: Pt[] = [
+  { month: 0, value: 0 },
   { month: 4, value: 1.4 },
   { month: 6, value: 2.11 },
   { month: 8, value: 2.9 },
 ];
 
 const Y2025: Pt[] = [
+  { month: 0, value: 0 },
   { month: 4, value: 0.95 },
   { month: 6, value: 1.41 },
   { month: 8, value: 2.04 },
   { month: 12, value: 3.5 },
 ];
 
+const MONTHS = [
+  "січ",
+  "лют",
+  "бер",
+  "кві",
+  "тра",
+  "чер",
+  "лип",
+  "сер",
+  "вер",
+  "жов",
+  "лис",
+  "гру",
+];
+
 const W = 680;
 const H = 340;
-const PAD = { top: 34, right: 96, bottom: 52, left: 46 };
+const PAD = { top: 34, right: 78, bottom: 48, left: 46 };
 const PLOT_W = W - PAD.left - PAD.right;
 const PLOT_H = H - PAD.top - PAD.bottom;
 const MAX_M = 12;
@@ -40,19 +61,14 @@ const path = (pts: Pt[]) =>
 
 export default function MakhachkalaGrowth() {
   const vTicks = [0, 1, 2, 3, 4];
-  const mTicks = [
-    { m: 4, label: "4 міс." },
-    { m: 6, label: "півріччя" },
-    { m: 8, label: "8 міс." },
-    { m: 12, label: "рік" },
-  ];
+  const half = PLOT_W / MAX_M / 2;
 
   return (
     <svg
       viewBox={`0 0 ${W} ${H}`}
       width="100%"
       role="img"
-      aria-label="Лінійний графік: вантажообіг Махачкалинського порту наростальним підсумком. У 2026 році 1,4 мільйона тонн за чотири місяці, 2,11 за півріччя і 2,9 за вісім місяців проти приблизно 0,95, 1,41 і 2,04 за ті самі періоди 2025 року, коли за весь рік порт обробив 3,5 мільйона тонн"
+      aria-label="Лінійний графік: вантажообіг Махачкалинського порту наростальним підсумком від початку року. У 2026 році 1,4 мільйона тонн на кінець квітня, 2,11 на кінець червня і 2,9 на кінець серпня проти приблизно 0,95, 1,41 і 2,04 за ті самі місяці 2025 року, коли за весь рік порт обробив 3,5 мільйона тонн"
     >
       {vTicks.map((t) => (
         <g key={t}>
@@ -86,17 +102,26 @@ export default function MakhachkalaGrowth() {
         млн т
       </text>
 
-      {mTicks.map((t) => (
-        <text
-          key={t.m}
-          x={x(t.m)}
-          y={H - 30}
-          textAnchor="middle"
-          fontSize="11"
-          fill="var(--taupe)"
-        >
-          {t.label}
-        </text>
+      {MONTHS.map((name, i) => (
+        <g key={name}>
+          <line
+            x1={x(i + 1)}
+            x2={x(i + 1)}
+            y1={PAD.top + PLOT_H}
+            y2={PAD.top + PLOT_H + 4}
+            stroke="var(--warm-gray)"
+            strokeWidth="1"
+          />
+          <text
+            x={x(i + 1) - half}
+            y={PAD.top + PLOT_H + 18}
+            textAnchor="middle"
+            fontSize="10"
+            fill="var(--taupe)"
+          >
+            {name}
+          </text>
+        </g>
       ))}
 
       <path
@@ -106,7 +131,7 @@ export default function MakhachkalaGrowth() {
         strokeWidth="2"
         strokeDasharray="6 5"
       />
-      {Y2025.map((p) => (
+      {Y2025.filter((p) => p.month > 0).map((p) => (
         <circle
           key={p.month}
           cx={x(p.month)}
@@ -122,7 +147,7 @@ export default function MakhachkalaGrowth() {
         stroke="var(--orange)"
         strokeWidth="3"
       />
-      {Y2026.map((p) => (
+      {Y2026.filter((p) => p.month > 0).map((p) => (
         <g key={p.month}>
           <circle
             cx={x(p.month)}
@@ -146,8 +171,8 @@ export default function MakhachkalaGrowth() {
       ))}
 
       <text
-        x={x(8) + 12}
-        y={y(2.9) + 4}
+        x={x(8) + 10}
+        y={y(2.9) - 4}
         fontSize="12"
         fontWeight="600"
         fill="var(--orange)"
@@ -155,7 +180,7 @@ export default function MakhachkalaGrowth() {
         2026
       </text>
       <text
-        x={x(12) + 8}
+        x={x(12) + 6}
         y={y(3.5) + 4}
         fontSize="12"
         fontWeight="600"
@@ -163,12 +188,8 @@ export default function MakhachkalaGrowth() {
       >
         2025
       </text>
-      <text x={x(12) + 8} y={y(3.5) + 19} fontSize="11" fill="var(--taupe)">
-        3,5 за рік
-      </text>
-
-      <text x={PAD.left} y={H - 8} fontSize="10" fill="var(--taupe)">
-        торішня крива відновлена з опублікованого приросту, тому пунктир
+      <text x={x(12) + 6} y={y(3.5) + 19} fontSize="11" fill="var(--taupe)">
+        3,5
       </text>
     </svg>
   );
