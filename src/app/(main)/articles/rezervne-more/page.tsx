@@ -6,7 +6,7 @@ import IfArticleVisible from "@/components/IfArticleVisible";
 import ArticleHead from "@/components/ArticleHead";
 import MakhachkalaGrowth from "@/components/MakhachkalaGrowth";
 import KaspiyskStrikes from "@/components/KaspiyskStrikes";
-import CaspianRoutes from "@/components/CaspianRoutes";
+import CaspianRoutesMap from "@/components/CaspianRoutesMap";
 
 const SLUG = "rezervne-more";
 
@@ -554,11 +554,9 @@ export default function Page() {
           </a>
           .
         </p>
-        <figure className="fig">
-          <CaspianRoutes />
-          <figcaption>
-            Морські шляхи між портами Росії та Ірану. Схема, не карта.
-          </figcaption>
+        <figure className="fig fig--tall">
+          <CaspianRoutesMap />
+          <figcaption>Морські шляхи між портами Росії та Ірану.</figcaption>
         </figure>
 
         <p>
