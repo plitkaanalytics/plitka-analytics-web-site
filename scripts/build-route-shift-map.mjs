@@ -436,12 +436,15 @@ function text(
     style,
     spacing,
     skipCheck,
+    box,
   } = {},
 ) {
   const w = s.length * size * 0.56 + (spacing ? s.length * spacing : 0);
   const x0 = anchor === "middle" ? x - w / 2 : anchor === "end" ? x - w : x;
   if (!skipCheck)
-    BOXES.push({ s, x0, y0: y - size * 0.78, x1: x0 + w, y1: y + size * 0.24 });
+    BOXES.push(
+      box || { s, x0, y0: y - size * 0.78, x1: x0 + w, y1: y + size * 0.24 },
+    );
   add(
     "<text" +
       ' x="' +
@@ -458,7 +461,8 @@ function text(
       (weight ? ' font-weight="' + weight + '"' : "") +
       (style ? ' font-style="' + style + '"' : "") +
       (spacing ? ' letter-spacing="' + spacing + '"' : "") +
-      ' fill="' +
+      ' paint-order="stroke" stroke="#ffffff" stroke-width="3.2"' +
+      ' stroke-linejoin="round" fill="' +
       fill +
       '">' +
       s +
@@ -489,38 +493,6 @@ add(
 
 add('<rect width="' + W + '" height="' + H + '" fill="' + C.sea + '"/>');
 add('<path d="' + polyPath(land) + '" fill="' + C.land + '"/>');
-
-/* Доріжки під підписи річок: текст має йти вздовж русла. */
-const RIVER_LABELS = [
-  {
-    name: "Волга",
-    river: "Volga",
-    a: [46.78, 51.74],
-    b: [45.66, 50.22],
-    dy: -6,
-    offset: "45%",
-  },
-  {
-    name: "Дон",
-    river: "Don",
-    a: [41.2, 50.0],
-    b: [39.6, 51.3],
-    dy: -6,
-    offset: "45%",
-  },
-];
-
-add("<defs>");
-RIVER_LABELS.forEach((l, i) => {
-  let pts = simplify(reach(l.river, l.a, l.b), 0.004);
-  // Текст на доріжці йде за її напрямком: якщо вона веде вліво й угору,
-  // підпис стане догори дриґом. Розвертаємо.
-  const s = [X(pts[0][0]), Y(pts[0][1])];
-  const e = [X(pts[pts.length - 1][0]), Y(pts[pts.length - 1][1])];
-  if (e[0] < s[0] && e[1] < s[1]) pts = pts.slice().reverse();
-  add('<path id="rl' + i + '" d="' + path(pts, false) + '"/>');
-});
-add("</defs>");
 
 add(
   '<g fill="none" stroke="' +
@@ -567,21 +539,45 @@ for (const l of SEAS)
     fill: C.seaInk,
   });
 
-RIVER_LABELS.forEach((l, i) => {
-  add(
-    '<text font-family="Georgia, serif" font-size="12" font-style="italic" fill="' +
-      C.riverInk +
-      '" dy="' +
-      l.dy +
-      '"><textPath href="#rl' +
-      i +
-      '" startOffset="' +
-      l.offset +
-      '" text-anchor="middle">' +
-      l.name +
-      "</textPath></text>",
-  );
-});
+/**
+ * Підпис уздовж русла. Беремо дотичну в найближчій до `near` точці річки,
+ * повертаємо текст на її кут і зсуваємо по нормалі, щоб літери не лежали на
+ * самій лінії. Якщо кут вивернув би підпис догори дриґом, додаємо 180°.
+ *
+ * textPath тут не годиться: на крутій ділянці, що йде праворуч наліво, він
+ * дає дзеркальний текст, а розвернути доріжку не завжди можна — вона та сама
+ * для обох напрямків.
+ */
+function riverLabel(river, near, label, side) {
+  let best = { d: Infinity };
+  for (const seg of riversRaw[river])
+    seg.forEach((p, i) => {
+      const d = d2(p, near);
+      if (d < best.d) best = { d, seg, i };
+    });
+  const { seg, i } = best;
+  const a = seg[Math.max(0, i - 3)];
+  const b = seg[Math.min(seg.length - 1, i + 3)];
+  let ang = (Math.atan2(Y(b[1]) - Y(a[1]), X(b[0]) - X(a[0])) * 180) / Math.PI;
+  if (ang > 90 || ang < -90) ang += 180;
+  const rad = (ang * Math.PI) / 180;
+  const cx = X(seg[i][0]) - Math.sin(rad) * side;
+  const cy = Y(seg[i][1]) + Math.cos(rad) * side;
+  const size = 12;
+  // Повернутий підпис займає приблизно квадрат — так перевірка накладань не
+  // проґавить сусіда з будь-якого боку.
+  const r = (label.length * size * 0.56) / 2;
+  add('<g transform="rotate(' + f(ang) + " " + f(cx) + " " + f(cy) + ')">');
+  text(cx, cy, label, {
+    anchor: "middle",
+    size,
+    style: "italic",
+    family: "Georgia, serif",
+    fill: C.riverInk,
+    box: { s: label, x0: cx - r, y0: cy - r, x1: cx + r, y1: cy + r },
+  });
+  add("</g>");
+}
 
 /* Плеча маршруту. */
 add(
@@ -622,9 +618,13 @@ function arrow(from, to, fill, size = 8) {
   );
 }
 
-// Угорі — звідки вантаж приходить, унизу — куди йде далі.
-arrow(EAST[2], EAST[0], C.grown);
+// Лише внизу, на виході з кадру. Угорі стрілка лізла на власний підпис, а
+// напис «з волзьких НПЗ» і без неї каже, звідки вантаж приходить.
 arrow(EAST[EAST.length - 2], EAST[EAST.length - 1], C.grown);
+
+/* Гідроніми-річки: уздовж русел, поверх маршруту. */
+riverLabel("Volga", [45.9, 50.6], "Волга", 9);
+riverLabel("Don", [40.6, 50.6], "Дон", -9);
 
 /* Хрест на вході в Керченську протоку. */
 {
@@ -676,13 +676,28 @@ text(
   { size: 11.5, weight: 600, fill: C.grown },
 );
 
-/* Канал: окремий колір, бо це єдина лінія, якої в геометрії немає. */
-text(X(44.0), Y(48.7) + 17, "Волго-Донський канал", {
-  anchor: "middle",
-  size: 11.5,
-  weight: 700,
-  fill: C.dried,
-});
+/* Канал: окремий колір, бо це єдина лінія, якої в геометрії немає. Сам
+   підпис утричі довший за відрізок, тому стоїть у вільному степу між Доном
+   і Волгою, а до лінії веде виноска. */
+{
+  const lx = X(44.25),
+    ly = Y(47.95);
+  add(
+    '<path d="M' + f(X(44.05)) + "," + f(Y(48.66)) + "L" + f(lx) + "," +
+      f(ly - 26) + '" fill="none" stroke="' + C.dried +
+      '" stroke-width="1"/>',
+  );
+  for (const [k, line] of [
+    [0, "Волго-Донський"],
+    [1, "канал"],
+  ])
+    text(lx, ly - 13 + k * 14, line, {
+      anchor: "middle",
+      size: 11.5,
+      weight: 700,
+      fill: C.dried,
+    });
+}
 
 /* Міста: найтемніше й найжирніше на карті. */
 for (const p of DOTS) {
