@@ -8,6 +8,7 @@ import MakhachkalaGrowth from "@/components/MakhachkalaGrowth";
 import KaspiyskStrikes from "@/components/KaspiyskStrikes";
 import CaspianRoutesMap from "@/components/CaspianRoutesMap";
 import FeederChain from "@/components/FeederChain";
+import TankerProportion from "@/components/TankerProportion";
 
 const SLUG = "rezervne-more";
 
@@ -672,8 +673,15 @@ export default function Page() {
         <figure className="fig">
           <FeederChain />
           <figcaption>
-            Як нафтопродукти з волзьких заводів потрапляли на океанські танкери.
-            Силует судна — Вікісховище, Goran tek-en, CC BY-SA 4.0.
+            Ланцюг, яким нафтопродукти з волзьких заводів ішли на експорт.
+          </figcaption>
+        </figure>
+
+        <figure className="fig">
+          <TankerProportion />
+          <figcaption>
+            Скільки рейсів фідера вміщує один океанський танкер. Силует судна —
+            Вікісховище, Goran tek-en, CC BY-SA 4.0.
           </figcaption>
         </figure>
 
