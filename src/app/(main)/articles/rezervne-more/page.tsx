@@ -673,8 +673,7 @@ export default function Page() {
           <FeederChain />
           <figcaption>
             Як нафтопродукти з волзьких заводів потрапляли на океанські танкери.
-            Знімки суден — Вікісховище: «Волгонефть-239», автор VladimirPF, CC
-            BY 4.0; VLCC Pertamina Prime, автор kees torn, CC BY-SA 2.0.
+            Силует судна — Вікісховище, Goran tek-en, CC BY-SA 4.0.
           </figcaption>
         </figure>
 
