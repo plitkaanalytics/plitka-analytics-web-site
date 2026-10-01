@@ -877,7 +877,11 @@ export default function Page() {
           <RouteShiftMap />
           <figcaption>
             Під Волгоградом вантаж має два виходи: каналом на захід і Волгою на
-            південь. Геометрія — Natural Earth.
+            південь
+            <a className="ref" href="#ref-22">
+              [22]
+            </a>
+            .
           </figcaption>
         </figure>
 
