@@ -38,8 +38,8 @@ export default function Page() {
       <div className="lede-block">
         <div className="lede-block__img">
           <img
-            src="/articles/rezervne-more/Cover.webp"
-            alt="Океанський танкер «Евентін» під прапором Панами стоїть у відкритому морі без ходу, поряд тримається буксир"
+            src="/articles/rezervne-more/cover.jpg"
+            alt="Десятки танкерів і суховантажів на рейді проти низького сонця: судна видно самими силуетами"
           />
         </div>
         <p className="lede">

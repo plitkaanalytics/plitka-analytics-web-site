@@ -922,9 +922,10 @@ p {
   margin: 0;
 }
 .article-head__metaline {
-  font: 700 24px/33px var(--sans);
-  color: var(--navy);
-  margin: 24px auto 0;
+  font: 500 13px/18px var(--sans);
+  letter-spacing: 0.02em;
+  color: var(--taupe);
+  margin: 14px auto 0;
   max-width: 70ch;
 }
 .article-head__dek {
