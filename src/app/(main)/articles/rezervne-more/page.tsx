@@ -7,7 +7,6 @@ import ArticleHead from "@/components/ArticleHead";
 import MakhachkalaGrowth from "@/components/MakhachkalaGrowth";
 import KaspiyskStrikes from "@/components/KaspiyskStrikes";
 import CaspianRoutesMap from "@/components/CaspianRoutesMap";
-import FeederChain from "@/components/FeederChain";
 import TankerProportion from "@/components/TankerProportion";
 
 const SLUG = "rezervne-more";
@@ -670,12 +669,6 @@ export default function Page() {
           </a>
           .
         </p>
-        <figure className="fig">
-          <FeederChain />
-          <figcaption>
-            Ланцюг, яким нафтопродукти з волзьких заводів ішли на експорт.
-          </figcaption>
-        </figure>
 
         <figure className="fig">
           <TankerProportion />
