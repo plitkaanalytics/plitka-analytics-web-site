@@ -15,16 +15,23 @@ import { join } from "node:path";
  * Читається на збірці, не в запиті: компонент серверний, клієнтського коду
  * в ньому немає.
  */
-const SVG = readFileSync(
-  join(process.cwd(), "public/articles/rezervne-more/caspian-routes.svg"),
-  "utf8",
-);
+const read = (f: string) =>
+  readFileSync(join(process.cwd(), "public/articles/rezervne-more", f), "utf8");
 
-export default function CaspianRoutesMap() {
+const SVG: Record<"uk" | "en", string> = {
+  uk: read("caspian-routes.svg"),
+  en: read("caspian-routes-en.svg"),
+};
+
+export default function CaspianRoutesMap({
+  lang = "uk",
+}: {
+  lang?: "uk" | "en";
+}) {
   return (
     <div
       style={{ maxWidth: 420, margin: "0 auto" }}
-      dangerouslySetInnerHTML={{ __html: SVG }}
+      dangerouslySetInnerHTML={{ __html: SVG[lang] }}
     />
   );
 }

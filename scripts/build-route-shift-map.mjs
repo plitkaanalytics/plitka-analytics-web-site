@@ -781,10 +781,74 @@ console.log("Підписи:");
 }
 
 const svg = parts.join("");
+
+/* ── Англійська версія ───────────────────────────────────────────────────── */
+
+const EN = {
+  РОСІЯ: "RUSSIA",
+  УКРАЇНА: "UKRAINE",
+  КАЗАХСТАН: "KAZAKHSTAN",
+  АЗЕРБАЙДЖАН: "AZERBAIJAN",
+  Азовське: "Sea of Azov",
+  "Чорне море": "Black Sea",
+  "Каспійське море": "Caspian Sea",
+  Волга: "Volga",
+  Дон: "Don",
+  Саратов: "Saratov",
+  Волгоград: "Volgograd",
+  "Ростов-на-Дону": "Rostov-on-Don",
+  Астрахань: "Astrakhan",
+  Махачкала: "Makhachkala",
+  "Керченська протока": "Kerch Strait",
+  "з волзьких НПЗ": "from the Volga refineries",
+  "на іранські порти": "to Iranian ports",
+  "Волго-Донський": "Volga-Don",
+  канал: "Canal",
+  "через Каспій на Іран: потік зріс": "across the Caspian to Iran: traffic up",
+  "каналом в Азов: потік усох": "by canal to the Azov: traffic dried up",
+};
+
+const TITLE_EN = "The fork on the Volga: two ways out for the same cargo";
+
+const DESC_EN =
+  "Map from the Kerch Strait to the Kazakh shore of the Caspian. The Volga " +
+  "enters the frame from the north, carrying fuel down from the Volga " +
+  "refineries. Below Volgograd the route forks. The western arm runs through " +
+  "the Volga-Don Canal into the Don, past Rostov-on-Don into the Sea of Azov " +
+  "and stops at the Kerch Strait, which is crossed out; it is drawn in a " +
+  "muted colour. The southern arm runs down the Volga through Astrakhan into " +
+  "the Caspian Sea, branches to Makhachkala and leaves the frame at the " +
+  "bottom towards Iranian ports; it is drawn in orange.";
+
+const missingEn = [];
+const svgEn = svg.replace(
+  /(<(title|desc|text)\b[^>]*>)([\s\S]*?)(<\/\2>)/g,
+  (all, open, tag, body, close) => {
+    const key = body.replace(/\s+/g, " ").trim();
+    if (!key) return all;
+    if (tag === "desc") return open + DESC_EN + close;
+    if (tag === "title") return open + TITLE_EN + close;
+    const to = EN[key];
+    if (to === undefined) {
+      missingEn.push(key);
+      return all;
+    }
+    return open + to + close;
+  },
+);
+if (missingEn.length)
+  throw new Error(
+    "Немає англійського підпису для: " + [...new Set(missingEn)].join(" · "),
+  );
+
 const out = new URL(OUT, ROOT);
 mkdirSync(dirname(fileURLToPath(out)), { recursive: true });
 writeFileSync(fileURLToPath(out), svg);
-console.log(OUT, "—", W + "×" + H, "—", (svg.length / 1024).toFixed(1), "КБ");
+writeFileSync(
+  fileURLToPath(new URL(OUT.replace(".svg", "-en.svg"), ROOT)),
+  svgEn,
+);
+console.log(OUT, "— uk + en —", W + "×" + H, "—", (svg.length / 1024).toFixed(1), "КБ");
 if (!clean)
   console.log("Є попередження вище — полотно записано, але його треба правити.");
 console.log(

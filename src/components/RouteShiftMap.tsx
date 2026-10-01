@@ -14,11 +14,14 @@ import { join } from "node:path";
  *
  * Читається на збірці, не в запиті: компонент серверний.
  */
-const SVG = readFileSync(
-  join(process.cwd(), "public/articles/rezervne-more/route-shift.svg"),
-  "utf8",
-);
+const read = (f: string) =>
+  readFileSync(join(process.cwd(), "public/articles/rezervne-more", f), "utf8");
 
-export default function RouteShiftMap() {
-  return <div dangerouslySetInnerHTML={{ __html: SVG }} />;
+const SVG: Record<"uk" | "en", string> = {
+  uk: read("route-shift.svg"),
+  en: read("route-shift-en.svg"),
+};
+
+export default function RouteShiftMap({ lang = "uk" }: { lang?: "uk" | "en" }) {
+  return <div dangerouslySetInnerHTML={{ __html: SVG[lang] }} />;
 }

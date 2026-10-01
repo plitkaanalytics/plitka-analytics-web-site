@@ -358,14 +358,64 @@ add("</g>");
 add("</svg>");
 
 const svg = parts.join("");
+
+/* ── Англійська версія ───────────────────────────────────────────────────── */
+
+const EN = {
+  РОСІЯ: "RUSSIA",
+  КАЗАХСТАН: "KAZAKHSTAN",
+  ТУРКМЕНІСТАН: "TURKMENISTAN",
+  АЗЕРБАЙДЖАН: "AZERBAIJAN",
+  ІРАН: "IRAN",
+  Астрахань: "Astrakhan",
+  Оля: "Olya",
+  Махачкала: "Makhachkala",
+  Каспійськ: "Kaspiysk",
+  "Бандар-Ензелі": "Bandar-e Anzali",
+  Ношехр: "Nowshahr",
+  Амірабад: "Amirabad",
+};
+
+const TITLE_EN = "Shipping lanes between Russian and Iranian ports";
+
+const DESC_EN =
+  "Map of the Caspian Sea with the shores of its five littoral states. On " +
+  "the Russian side are the ports of Astrakhan, Olya and Makhachkala and the " +
+  "naval base at Kaspiysk; on the Iranian side, Bandar-e Anzali, Nowshahr " +
+  "and Amirabad. The lines show the sea routes ships run between these " +
+  "ports without ever leaving the sea.";
+
+const missingEn = [];
+const svgEn = svg.replace(
+  /(<(title|desc|text)\b[^>]*>)([\s\S]*?)(<\/\2>)/g,
+  (all, open, tag, body, close) => {
+    const key = body.replace(/\s+/g, " ").trim();
+    if (!key) return all;
+    if (tag === "desc") return open + DESC_EN + close;
+    if (tag === "title") return open + TITLE_EN + close;
+    const to = EN[key];
+    if (to === undefined) {
+      missingEn.push(key);
+      return all;
+    }
+    return open + to + close;
+  },
+);
+if (missingEn.length)
+  throw new Error(
+    "Немає англійського підпису для: " + [...new Set(missingEn)].join(" · "),
+  );
+
 const out = new URL(OUT, ROOT);
 mkdirSync(dirname(fileURLToPath(out)), { recursive: true });
 writeFileSync(fileURLToPath(out), svg);
-console.log(OUT, "—", W + "×" + H, "—", (svg.length / 1024).toFixed(1), "КБ");
+writeFileSync(
+  fileURLToPath(new URL(OUT.replace(".svg", "-en.svg"), ROOT)),
+  svgEn,
+);
+console.log(OUT, "— uk + en —", W + "×" + H, "—", (svg.length / 1024).toFixed(1), "КБ");
 console.log(
-  "Полотно читається через readFileSync при завантаженні модуля, і для збирача
-" +
-    "воно не є залежністю. Щоб next dev показав нову версію, перезапустіть його
-" +
+  "Полотно читається через readFileSync при завантаженні модуля, і для збирача\n" +
+    "воно не є залежністю. Щоб next dev показав нову версію, перезапустіть його\n" +
     "або торкніться src/components/CaspianRoutesMap.tsx.",
 );
