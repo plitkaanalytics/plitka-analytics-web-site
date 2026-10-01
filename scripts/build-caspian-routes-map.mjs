@@ -14,8 +14,10 @@
  * docs/dossiers/kaspiy-teatr/notes.md, секція «Маршрут: вузли». Руками сюди
  * портів не дописувати: спершу джерело.
  *
- * Геометрія — Natural Earth 1:50m із пакета world-atlas, та сама, що в
- * лівійських карт.
+ * Геометрія — Natural Earth 1:10m із пакета world-atlas. Дрібніша за ту, що в
+ * лівійських карт, бо тут важлива дельта Волги: без неї Астрахань виглядає
+ * містом посеред суходолу, хоч вона й стоїть на річці за шістдесят кілометрів
+ * від моря.
  */
 
 import { readFileSync, writeFileSync, mkdirSync } from "node:fs";
@@ -24,7 +26,7 @@ import { fileURLToPath } from "node:url";
 import * as topojson from "topojson-client";
 
 const ROOT = new URL("..", import.meta.url);
-const ATLAS = new URL("node_modules/world-atlas/countries-50m.json", ROOT);
+const ATLAS = new URL("node_modules/world-atlas/countries-10m.json", ROOT);
 const OUT = "public/articles/rezervne-more/caspian-routes.svg";
 
 /* ── Рамка й полотно ─────────────────────────────────────────────────────── */
@@ -65,6 +67,7 @@ const C = {
   taupe: "#898270",
   route: "#f24c06",
   base: "#8c2d04",
+  country: "#6f6758",
 };
 
 /* ── Порти ───────────────────────────────────────────────────────────────── */
@@ -119,10 +122,10 @@ const ROUTES = [
 ];
 
 const LABELS = [
-  { text: "РОСІЯ", lon: 46.7, lat: 47.35 },
+  { text: "РОСІЯ", lon: 46.9, lat: 47.3 },
   { text: "КАЗАХСТАН", lon: 54.2, lat: 46.4 },
   { text: "ТУРКМЕНІСТАН", lon: 54.2, lat: 39.3 },
-  { text: "АЗЕРБАЙДЖАН", lon: 46.6, lat: 40.4 },
+  { text: "АЗЕРБАЙДЖАН", lon: 47.1, lat: 40.2 },
   { text: "ІРАН", lon: 52.4, lat: 36.35 },
 ];
 
@@ -223,7 +226,7 @@ const ringsOf = (geom) =>
 const path = (pts, close) =>
   pts.map((p, i) => (i ? "L" : "M") + P(p)).join("") + (close ? "Z" : "");
 
-const TOL = 0.006;
+const TOL = 0.0025;
 
 const topo = JSON.parse(readFileSync(fileURLToPath(ATLAS), "utf8"));
 const countries = topo.objects.countries;
@@ -291,9 +294,9 @@ for (const l of borders) add('<path d="' + path(l, false) + '"/>');
 add("</g>");
 
 add(
-  '<g font-family="system-ui, sans-serif" font-size="12" fill="' +
-    C.taupe +
-    '" letter-spacing="1.2">',
+  '<g font-family="system-ui, sans-serif" font-size="13.5" font-weight="600" fill="' +
+    C.country +
+    '" letter-spacing="2">',
 );
 for (const l of LABELS)
   add(
