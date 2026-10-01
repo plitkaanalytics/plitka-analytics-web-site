@@ -1,10 +1,12 @@
 import "../chotyry-roky-v-mori-frehaty/frigates.css";
+import "./strikes-timeline.css";
 import type { Metadata } from "next";
 import Link from "next/link";
 import { getArticleBySlug, requireVisibleArticle } from "@/lib/articles";
 import IfArticleVisible from "@/components/IfArticleVisible";
 import ArticleHead from "@/components/ArticleHead";
 import MakhachkalaGrowth from "@/components/MakhachkalaGrowth";
+import KaspiyskStrikes from "@/components/KaspiyskStrikes";
 
 const SLUG = "rezervne-more";
 
@@ -216,6 +218,17 @@ export default function Page() {
           стільки постійний склад флотилії може випустити в одному залпі.
         </p>
 
+        <figure className="fig">
+          <img
+            src="/articles/rezervne-more/buyan_with_protection.jpg"
+            alt="Малий ракетний корабель проєкту 21631 «Буян-М» біля причалу: над надбудовою змонтовано ґратчасті конструкції, на палубі мішки з піском, уздовж борту поставлено іржаву баржу як екран"
+          />
+          <figcaption>
+            «Буян-М» на базі в Каспійську під антидроновим захистом. Кадр —
+            «Кібер Борошно».
+          </figcaption>
+        </figure>
+
         <p>
           До них додаються двоє чужих. На Каспії стоять малі ракетні кораблі
           проєкту 22800 «Каракурт» — <strong>«Туча»</strong> і{" "}
@@ -330,10 +343,7 @@ export default function Page() {
           .
         </p>
 
-        <figure
-          className="fig"
-          data-placeholder="[ хронологічна смуга ударів по Каспійську 11.2024 — 09.2026 з типами уражених одиниць; окремим кольором — носії «Калібрів», яких у переліку немає. Умова: власна побудова ]"
-        />
+        <KaspiyskStrikes />
 
         <p>
           Зіставлення цього переліку зі складом угруповання показує, що з усіх
@@ -827,12 +837,12 @@ export default function Page() {
         <figure className="fig">
           <MakhachkalaGrowth />
           <figcaption>
-            Вантажообіг Махачкалинського порту наростальним підсумком. Дані
-            порту в переказі профільних видань
+            Вантажообіг Махачкалинського порту. Дані порту в переказі профільних
+            видань
             <a className="ref" href="#ref-1">
               [1]
             </a>
-            , подаються як заявлені.
+            .
           </figcaption>
         </figure>
 
@@ -900,7 +910,7 @@ export default function Page() {
 
         {/* ===================== ВИСНОВОК ===================== */}
         <h2 id="sec-conclusion">
-          <span className="h2-num">Висновок</span>Дагестанський вузол
+          <span className="h2-num">Висновок</span>Каспійський вузол
         </h2>
 
         <p>

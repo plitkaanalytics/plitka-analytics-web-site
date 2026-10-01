@@ -1,0 +1,108 @@
+/* Хронологія ударів по Каспійську. Вертикальна смуга: на вузькому екрані
+   читається тим самим стовпцем, що й текст, без горизонтального гортання. */
+
+.strikes {
+  list-style: none;
+  margin: 32px 0;
+  padding: 0;
+  position: relative;
+}
+
+/* рейка, уздовж якої стоять крапки подій */
+.strikes::before {
+  content: "";
+  position: absolute;
+  left: 7px;
+  top: 8px;
+  bottom: 8px;
+  width: 2px;
+  background: var(--rule);
+}
+
+.strikes__item {
+  position: relative;
+  padding: 0 0 26px 34px;
+}
+
+.strikes__item:last-child {
+  padding-bottom: 0;
+}
+
+/* крапка події; колір несе клас цілі, але не сам по собі — поруч є підпис */
+.strikes__item::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 5px;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: var(--paper);
+  border: 3px solid var(--taupe);
+  box-sizing: border-box;
+}
+
+.strikes__item--carrier::before {
+  border-color: var(--rust);
+  background: var(--rust);
+}
+
+.strikes__item--unconfirmed::before {
+  border-style: dashed;
+  border-color: var(--warm-gray);
+}
+
+.strikes__date {
+  font-family: var(--mono);
+  font-size: 11px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--taupe);
+  margin-bottom: 4px;
+}
+
+.strikes__title {
+  margin: 0 0 4px;
+  font-size: 17px;
+  line-height: 1.3;
+}
+
+.strikes__item--carrier .strikes__title {
+  color: var(--rust);
+}
+
+.strikes__text {
+  margin: 0 0 8px;
+  font-size: 15px;
+  line-height: 1.5;
+}
+
+.strikes__chip {
+  display: inline-block;
+  font-family: var(--mono);
+  font-size: 10px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  padding: 3px 8px;
+  border: 1px solid var(--rule);
+  color: var(--taupe);
+}
+
+.strikes__chip--carrier {
+  border-color: var(--rust);
+  color: var(--rust);
+  font-weight: 600;
+}
+
+.strikes__chip--unconfirmed {
+  border-style: dashed;
+}
+
+@media (max-width: 560px) {
+  .strikes__item {
+    padding-left: 28px;
+  }
+  .strikes__title {
+    font-size: 16px;
+  }
+}
