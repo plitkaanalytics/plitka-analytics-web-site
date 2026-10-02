@@ -319,3 +319,33 @@ sometimes sending armed men on their ships and deploying drones» [28, р. 121].
 - Панель Mauger/Sulmeyer [3, р. 1007]: запису немає, лише опис. Одне речення.
 - Кліфф Нев (MAD Security, засновник CGCYBER) — доповідь «Maritime Threat
   Hunting» [3]; потенційний експерт для коментаря.
+
+---
+
+## Доповнення: ручні джерела №201, №202
+
+**№201, опис доповіді на DEF CON 34.** Неділя, 13:30, Main Track 3, 30 хв.
+«Little known to the public, Coast Guard Cyber Command was deploying its Cyber
+Protection Teams (CPTs) onboard these vessels» [201, р. 16]. Мільтенбергер —
+перший командир 2003 CPT (Аламіда, Каліфорнія), команда наймолодша й єдина
+віддалена від штабу CGCYBER; раніше заснував Red Team Берегової охорони,
+інженер NAVSEA, розробляв корабельну платформу кібербезпеки [201, р. 20–22].
+Канчілла — мережевий інженер 2003 CPT, раніше Ліверморська й Берклійська
+національні лабораторії [201, р. 32–34].
+
+**№202, USNI News про Marinera, 07.01.2026.**
+- Захопила «A U.S. Coast Guard team and additional federal law enforcement, with
+  support from the U.S. military» [202, р. 17]; за ордером федерального суду
+  після стеження катером Munro [202, р. 21].
+- Порожній танкер ішов до Венесуели по нафту (Mercogliano) [202, р. 27].
+- Ішов під прапором Гаяни, перереєструвався на Росію, перейменований на ходу;
+  за WSJ, отримав супровід ВМФ РФ, щонайменше один ударний підводний човен
+  [202, р. 30].
+- Ймовірно MH-6 Little Bird 160-го полку (фото з RT) [202, р. 29, 34].
+- Британське Міноборони: «initially flying a false flag, turned off its
+  transponders while at sea and sought to reflag while being pursued» [202, р. 46];
+  допомогли плануванням, базуванням, розвідкою RAF і танкером RFA Tideforce [202, р. 44].
+- Того ж дня Sophia: команда Берегової охорони спускається з MH-60S на палубу
+  й іде на місток; судно, схоже, повне [202, р. 36].
+- Skipper 10.12 захопила Maritime Security Response Team з авіаносця Gerald Ford
+  [202, р. 38].

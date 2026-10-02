@@ -22,13 +22,13 @@
       "url": "https://defcon.org/html/defcon-34/dc-34-speakers.html",
       "slug": "02-defcon.org-dc-34-speakers",
       "status": 0,
-      "access": "НЕ ВІДКРИЛОСЯ",
+      "access": "замінено №201 (текст від редакції)",
       "title": "",
       "pubdate": "",
       "chars": 0,
       "method": "-",
       "sha256": "",
-      "note": "оригінал 0; знімок Wayback теж не взявся (429)",
+      "note": "defcon.org недоступний; текст у text/201-…",
       "kind": "програма конференції"
     },
     {
@@ -562,7 +562,7 @@
       "url": "https://news.usni.org/2026/01/07/coast-guard-seizes-russian-flagged-tanker-in-north-atlantic-second-tanker-in-caribbean",
       "slug": "36-news.usni.org-coast-guard-seizes-russian-flagged-tanker-in-north-atlan",
       "status": 403,
-      "access": "HTTP 403 — НЕ ПРОЧИТАНО",
+      "access": "замінено №202 (текст від редакції)",
       "title": "Just a moment...",
       "pubdate": "2026-01-07",
       "chars": 16,
@@ -570,7 +570,7 @@
       "extra_lines": null,
       "sha256": "737c690e086301e4015c2811999290ac0a8be84b780d6499a70282161aeb3a42",
       "archived": "",
-      "note": "оригінал 403; знімок Wayback теж не взявся (429)"
+      "note": "403; текст у text/202-…"
     },
     {
       "n": 37,
@@ -601,6 +601,38 @@
       "sha256": "9818759148fcc62ea095f74398dba7f7d029b2b1a9459c3f6be326450911144b",
       "archived": "",
       "note": ""
+    },
+    {
+      "n": 201,
+      "url": "https://defcon.org/html/defcon-34/dc-34-speakers.html#manual",
+      "slug": "201-defcon34-main-stage-taking-on-the-dark-fleet",
+      "status": 0,
+      "access": "прочитано (вручну)",
+      "title": "DEF CON 34 Main Stage: Taking on the Dark Fleet… (опис і біографії)",
+      "pubdate": "—",
+      "chars": 3426,
+      "method": "вручну",
+      "extra_lines": null,
+      "sha256": "—",
+      "archived": null,
+      "note": "текст від редакції",
+      "kind": "програма конференції"
+    },
+    {
+      "n": 202,
+      "url": "https://news.usni.org/2026/01/07/coast-guard-seizes-russian-flagged-tanker-in-north-atlantic-second-tanker-in-caribbean#manual",
+      "slug": "202-usni-coast-guard-seizes-russian-flagged-tanker",
+      "status": 0,
+      "access": "прочитано (вручну)",
+      "title": "USNI News: Coast Guard Seizes Russian-flagged Tanker in North Atlantic",
+      "pubdate": "2026-01-07",
+      "chars": 5687,
+      "method": "вручну",
+      "extra_lines": null,
+      "sha256": "—",
+      "archived": null,
+      "note": "текст від редакції",
+      "kind": "профільне видання"
     }
   ]
 }

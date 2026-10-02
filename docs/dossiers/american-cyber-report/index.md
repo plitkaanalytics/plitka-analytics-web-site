@@ -8,7 +8,7 @@
 | № | Джерело | Дата | Статус | Знаків | Тип | Файл |
 |---|---|---|---|---|---|---|
 | 1 | [Taking on the Dark Fleet... in Cyberspace! (Miltenberger, Cancilla, US](https://media.defcon.org/DEF%20CON%2034/DEF%20CON%2034%20presentations/DEF%20CON%2034%20-%20Kenneth%20Miltenberger,%20Shane%20Cancilla%20-%20Taking%20on%20the%20Dark%20Fleet...%20in%20Cyberspace!.pdf) | 2026-08 | прочитано | 11912 | офіційне США | `text/01-uscg-defcon34-dark-fleet.txt` |
-| 2 | [defcon.org](https://defcon.org/html/defcon-34/dc-34-speakers.html) | — | НЕ ВІДКРИЛОСЯ | 0 | програма конференції | `text/02-defcon.org-dc-34-speakers.txt` |
+| 2 | [defcon.org](https://defcon.org/html/defcon-34/dc-34-speakers.html) | — | замінено №201 (текст від редакції) | 0 | програма конференції | `text/02-defcon.org-dc-34-speakers.txt` |
 | 3 | [DEF CON® 34 Hacking Conference - Creator Stage Talks](https://defcon.org/html/defcon-34/dc-34-creator-talks.html) | — | прочитано | 449463 | програма конференції | `text/03-defcon.org-dc-34-creator-talks.txt` |
 | 4 | [How Shadow Fleet Conceals Its Activities: Details of Such Vessels Reve](https://militarnyi.com/en/news/shadow-fleet-concealment-details-reveal-usa/) | 2026-09-25 | прочитано | 2670 | профільне видання (переказ) | `text/04-militarnyi.com-shadow-fleet-concealment-details-reveal-usa.txt` |
 | 5 | [Тіньовий флот Росії: у Береговій охороні США розповіли, як судна прихо](https://my.ua/uk/news/cluster/2026-09-25-tinovii-flot-rosiyi-u-beregovii-okhoroni-ssha-rozpovili-iak-sudna-prikhovuiut-mistseznakhodzhennia) | 2026-09-25 | прочитано | 3389 | агрегатор (переказ) | `text/05-my.ua-2026-09-25-tinovii-flot-rosiyi-u-beregovii-okhoroni-ssha-rozpovi.txt` |
@@ -42,21 +42,25 @@
 | 33 | [Maritime Cyber Incidents Test Coast Guard Cyber Preparedness](https://www.fdd.org/analysis/2026/09/23/maritime-cyber-incidents-test-coast-guard-cyber-preparedness/) | 2026-09-23 | прочитано | 6622 | аналітичний центр | `text/33-fdd.org-maritime-cyber-incidents-test-coast-guard-cyber-preparedness.txt` |
 | 34 | [Cyber Trends and Insights in the Marine Environment (CTIME) 2025](https://www.uscg.mil/Portals/0/Images/cyber/CTIME2025.pdf) | 2026-06 | прочитано | 97219 | офіційне США | `text/34-uscg.mil-ctime2025.pdf.txt` |
 | 35 | [From Shanghai to the Shore: The Silent Threat in Global Shipping (Milt](https://media.defcon.org/DEF%20CON%2033/) | 2025-08 | прочитано | 5784 | офіційне США | `text/35-defcon33-from-shanghai-to-the-shore.txt` |
-| 36 | [Just a moment...](https://news.usni.org/2026/01/07/coast-guard-seizes-russian-flagged-tanker-in-north-atlantic-second-tanker-in-caribbean) | 2026-01-07 | HTTP 403 — НЕ ПРОЧИТАНО | 16 | ? | `text/36-news.usni.org-coast-guard-seizes-russian-flagged-tanker-in-north-atlan.txt` |
+| 36 | [Just a moment...](https://news.usni.org/2026/01/07/coast-guard-seizes-russian-flagged-tanker-in-north-atlantic-second-tanker-in-caribbean) | 2026-01-07 | замінено №202 (текст від редакції) | 16 | ? | `text/36-news.usni.org-coast-guard-seizes-russian-flagged-tanker-in-north-atlan.txt` |
 | 37 | [A painted flag, a Russian bluff and an 18-day chase across the Atlanti](https://www.cnn.com/2026/01/10/politics/a-painted-flag-a-russian-bluff-and-an-18-day-chase-across-the-atlantic) | 2026-01-10 | прочитано | 14291 | ? | `text/37-cnn.com-a-painted-flag-a-russian-bluff-and-an-18-day-chase-across-the-.txt` |
 | 38 | [Law of the Sea Assessment of the seizure of Bella 1 / Marinera](https://www.justsecurity.org/128760/law-sea-assessment-boarding-bella1-marinera/) | 2026-01-14 | прочитано | 17296 | ? | `text/38-justsecurity.org-law-sea-assessment-boarding-bella1-marinera.txt` |
+| 201 | [DEF CON 34 Main Stage: Taking on the Dark Fleet… (опис і біографії)](https://defcon.org/html/defcon-34/dc-34-speakers.html#manual) | — | прочитано (вручну) | 3426 | програма конференції | `text/201-defcon34-main-stage-taking-on-the-dark-fleet.txt` |
+| 202 | [USNI News: Coast Guard Seizes Russian-flagged Tanker in North Atlantic](https://news.usni.org/2026/01/07/coast-guard-seizes-russian-flagged-tanker-in-north-atlantic-second-tanker-in-caribbean#manual) | 2026-01-07 | прочитано (вручну) | 5687 | профільне видання | `text/202-usni-coast-guard-seizes-russian-flagged-tanker.txt` |
 
 ## Проблемні джерела
 
 - **№1** https://media.defcon.org/DEF%20CON%2034/DEF%20CON%2034%20presentations/DEF%20CON%2034%20-%20Kenneth%20Miltenberger,%20Shane%20Cancilla%20-%20Taking%20on%20the%20Dark%20Fleet...%20in%20Cyberspace!.pdf — скачано редакцією вручну в браузері: media.defcon.org обриває зʼєднання з робочої машини
-- **№2** https://defcon.org/html/defcon-34/dc-34-speakers.html — оригінал 0; знімок Wayback теж не взявся (429)
+- **№2** https://defcon.org/html/defcon-34/dc-34-speakers.html — defcon.org недоступний; текст у text/201-…
 - **№3** https://defcon.org/html/defcon-34/dc-34-creator-talks.html — збережено редакцією вручну в браузері (Ctrl+S): defcon.org обриває зʼєднання з робочої машини
 - **№14** https://news.usni.org/2026/01/22/u-s-targeting-shadow-oil-fleets-using-u-n-law-of-the-sea-convention-former-coast-guard-jags-say — оригінал недоступний (403), узято з Wayback
 - **№31** https://www.news.uscg.mil/maritime-commons/Article/4518729/cyber-command-releases-fifth-annual-cyber-trends-and-insights-in-the-marine-env/ — оригінал 403; знімка немає в Wayback
 - **№33** https://www.fdd.org/analysis/2026/09/23/maritime-cyber-incidents-test-coast-guard-cyber-preparedness/ — оригінал недоступний (403), узято з Wayback
 - **№34** https://www.uscg.mil/Portals/0/Images/cyber/CTIME2025.pdf — скачано редакцією вручну: uscg.mil віддає 403 скрипту
 - **№35** https://media.defcon.org/DEF%20CON%2033/ — скачано редакцією вручну; точний URL файлу не збережено
-- **№36** https://news.usni.org/2026/01/07/coast-guard-seizes-russian-flagged-tanker-in-north-atlantic-second-tanker-in-caribbean — оригінал 403; знімок Wayback теж не взявся (429)
+- **№36** https://news.usni.org/2026/01/07/coast-guard-seizes-russian-flagged-tanker-in-north-atlantic-second-tanker-in-caribbean — 403; текст у text/202-…
+- **№201** https://defcon.org/html/defcon-34/dc-34-speakers.html#manual — текст від редакції
+- **№202** https://news.usni.org/2026/01/07/coast-guard-seizes-russian-flagged-tanker-in-north-atlantic-second-tanker-in-caribbean#manual — текст від редакції
 
 ---
 
