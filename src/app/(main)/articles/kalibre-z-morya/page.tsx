@@ -1,23 +1,53 @@
 ﻿import "./kalibre-z-morya.css";
-import Link from 'next/link';
-import type { ReactNode } from 'react';
-import type { Metadata } from 'next';
-import { MDXRemote } from 'next-mdx-remote/rsc';
-import { getAllArticles, getArticleBySlug, getArticleData, formatDate, requireVisibleArticle } from '@/lib/articles';
-import VideoCarousel from '@/components/VideoCarousel';
-import ShipChronology, { type ChronologyData } from '@/components/ShipChronology';
+import Link from "next/link";
+import type { ReactNode } from "react";
+import type { Metadata } from "next";
+import { dict } from "@/lib/i18n";
+import { MDXRemote } from "next-mdx-remote/rsc";
+import {
+  getAllArticles,
+  getArticleBySlug,
+  getArticleData,
+  formatDate,
+  requireVisibleArticle,
+} from "@/lib/articles";
+import VideoCarousel from "@/components/VideoCarousel";
+import ShipChronology, {
+  type ChronologyData,
+} from "@/components/ShipChronology";
 
-const SLUG = 'kalibre-z-morya';
+const SLUG = "kalibre-z-morya";
 
 function Methodology({ children }: { children: ReactNode }) {
   return <div className="methodology">{children}</div>;
 }
 
-function StatGrid({ v1, l1, d1, v2, l2, d2, v3, l3, d3, v4, l4, d4 }: {
-  v1: string; l1: string; d1: string;
-  v2: string; l2: string; d2: string;
-  v3: string; l3: string; d3: string;
-  v4: string; l4: string; d4: string;
+function StatGrid({
+  v1,
+  l1,
+  d1,
+  v2,
+  l2,
+  d2,
+  v3,
+  l3,
+  d3,
+  v4,
+  l4,
+  d4,
+}: {
+  v1: string;
+  l1: string;
+  d1: string;
+  v2: string;
+  l2: string;
+  d2: string;
+  v3: string;
+  l3: string;
+  d3: string;
+  v4: string;
+  l4: string;
+  d4: string;
 }) {
   return (
     <div className="stat-2col">
@@ -46,7 +76,11 @@ function Pullquote({ children, cite }: { children: ReactNode; cite: string }) {
   );
 }
 
-function Figure({ url, cap, src }: {
+function Figure({
+  url,
+  cap,
+  src,
+}: {
   url?: string | null;
   cap: string;
   src?: string;
@@ -54,7 +88,12 @@ function Figure({ url, cap, src }: {
   return (
     <div className="figure">
       {url && (
-        <img src={url} alt={cap} loading="lazy" style={{ width: '100%', display: 'block' }} />
+        <img
+          src={url}
+          alt={cap}
+          loading="lazy"
+          style={{ width: "100%", display: "block" }}
+        />
       )}
       <div className="figure__cap">
         <span>{cap}</span>
@@ -73,10 +112,22 @@ function Callout({ title, children }: { title: string; children: ReactNode }) {
   );
 }
 
-function Barchart({ title, sub, data }: { title: string; sub: string; data: string }) {
-  const bars = data.split(',').map((entry) => {
-    const [lbl, pct, color] = entry.split('|');
-    return { lbl: lbl.trim(), pct: Number(pct.trim()), color: (color ?? '').trim() };
+function Barchart({
+  title,
+  sub,
+  data,
+}: {
+  title: string;
+  sub: string;
+  data: string;
+}) {
+  const bars = data.split(",").map((entry) => {
+    const [lbl, pct, color] = entry.split("|");
+    return {
+      lbl: lbl.trim(),
+      pct: Number(pct.trim()),
+      color: (color ?? "").trim(),
+    };
   });
   return (
     <div className="barchart">
@@ -86,7 +137,10 @@ function Barchart({ title, sub, data }: { title: string; sub: string; data: stri
         <div className="bar" key={lbl}>
           <span className="bar__lbl">{lbl}</span>
           <div className="bar__bg">
-            <div className={`bar__fill${color ? ` bar__fill--${color}` : ''}`} style={{ width: `${pct}%` }} />
+            <div
+              className={`bar__fill${color ? ` bar__fill--${color}` : ""}`}
+              style={{ width: `${pct}%` }}
+            />
           </div>
           <span className="bar__val">{pct}%</span>
         </div>
@@ -95,7 +149,15 @@ function Barchart({ title, sub, data }: { title: string; sub: string; data: stri
   );
 }
 
-const mdxComponents = { Methodology, StatGrid, Pullquote, Figure, Barchart, Callout, VideoCarousel };
+const mdxComponents = {
+  Methodology,
+  StatGrid,
+  Pullquote,
+  Figure,
+  Barchart,
+  Callout,
+  VideoCarousel,
+};
 
 export async function generateMetadata(): Promise<Metadata> {
   requireVisibleArticle(SLUG);
@@ -114,48 +176,94 @@ export default async function KalibreZMoryaPage() {
   const BoundShipChronology = articleData
     ? () => <ShipChronology data={articleData as ChronologyData} />
     : () => null;
-  const components = { ...mdxComponents, ReadingTime, ShipChronology: BoundShipChronology };
+  const components = {
+    ...mdxComponents,
+    ReadingTime,
+    ShipChronology: BoundShipChronology,
+  };
+
+  // Лід-абзац має стояти всередині .lede-block: це сітка з двох колонок,
+  // картинка плюс текст. У MDX він іде першим абзацом тіла, тож виймаємо.
+  const LEDE = /<p className="lede">[\s\S]*?<\/p>/;
+  const hit = article.content.match(LEDE);
+  const lede = hit && hit[0];
+  const body = lede ? article.content.replace(LEDE, "") : article.content;
+
+  const head = (
+    <div className="article-head">
+      <span className="eyebrow article-head__eyebrow">Розслідування</span>
+      <h1>{article.title}</h1>
+      <p className="article-head__metaline">
+        Час читання {article.readingTime} хв
+      </p>
+      <p className="article-head__dek">{article.dek}</p>
+    </div>
+  );
 
   return (
     <main>
-      <div className="article-head">
-        <span className="eyebrow article-head__eyebrow">Розслідування</span>
-        <h1>{article.title}</h1>
-        <p className="article-head__metaline">
-          Час читання {article.readingTime} хв
-        </p>
-        <p className="article-head__dek">{article.dek}</p>
-      </div>
+      {/* Матеріал із інтерактивною інфографікою в ліді, як решта циклу:
+          шапка стоїть усередині темного блоку поверх вбудованого кадру. */}
+      {article.leadMapUrl ? (
+        <div className="dark-intro">
+          {head}
+          <div className="infographic-embed">
+            <iframe
+              src={article.leadMapUrl}
+              style={{
+                width: "100%",
+                height: "520px",
+                display: "block",
+                border: "none",
+              }}
+              title={article.title}
+            />
+          </div>
+          {article.leadImage && (
+            <div className="infographic-mobile-note">
+              <img
+                src={article.leadImage}
+                alt={article.title}
+                style={{ width: "100%", display: "block" }}
+              />
+              <p className="infographic-mobile-note__text">
+                {dict.uk.infographicDesktopOnly}
+              </p>
+            </div>
+          )}
+        </div>
+      ) : (
+        head
+      )}
 
-      <div className="lead-img">
-        {article.leadMapUrl ? (
-          <iframe
-            src={article.leadMapUrl}
-            style={{ width: '100%', height: '520px', display: 'block', border: 'none' }}
-            title={article.title}
-          />
-        ) : article.leadImage ? (
-          <img src={article.leadImage} alt={article.title} style={{ width: '100%', display: 'block' }} />
-        ) : null}
+      <div className="lede-block">
+        {article.leadImage && (
+          <div className="lede-block__img">
+            <img src={article.leadImage} alt={article.title} />
+          </div>
+        )}
+        {lede && <MDXRemote source={lede} components={components} />}
       </div>
 
       <article className="article-body">
-        <MDXRemote source={article.content} components={components} />
+        <MDXRemote source={body} components={components} />
       </article>
 
       {related.length > 0 && (
-        <section className="section">
+        <section className="section section--beige">
           <div className="container">
             <div className="section__head">
               <h2 className="section__title">Інші матеріали</h2>
-              <Link href="/articles" className="section__more">Архів →</Link>
+              <Link href="/articles" className="section__more">
+                Архів →
+              </Link>
             </div>
             <div className="grid-3">
               {related.map((a) => (
                 <Link
                   key={a.slug}
                   href={`/articles/${a.slug}`}
-                  className={`card${a.leadImage ? ' card--photo' : ''}`}
+                  className={`card${a.leadImage ? " card--photo" : ""}`}
                 >
                   {a.leadImage && (
                     <img src={a.leadImage} alt="" className="card__media" />
@@ -171,4 +279,3 @@ export default async function KalibreZMoryaPage() {
     </main>
   );
 }
-

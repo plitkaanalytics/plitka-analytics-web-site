@@ -2,7 +2,11 @@ import "../../../(main)/articles/chotyry-roky-v-mori-frehaty/frigates.css";
 import "../../../(main)/articles/afrykanska-kampaniia/libya-control.css";
 import type { Metadata } from "next";
 import Link from "next/link";
-import { requireVisibleArticle } from "@/lib/articles";
+import {
+  requireVisibleArticle,
+  formatDate,
+  getAllArticles,
+} from "@/lib/articles";
 import IfArticleVisible from "@/components/IfArticleVisible";
 import { LibyaControlMap } from "@/components/LibyaControlMap";
 import { AutoFrame } from "@/components/AutoFrame";
@@ -25,6 +29,9 @@ export async function generateMetadata(): Promise<Metadata> {
 
 export default function Page() {
   requireVisibleArticle(SLUG, "en");
+  const related = getAllArticles("en")
+    .filter((a) => a.slug !== SLUG)
+    .slice(0, 3);
 
   return (
     <main data-screen-label="Story · The Africa campaign">
@@ -2527,6 +2534,35 @@ export default function Page() {
           </ol>
         </section>
       </div>
+
+      {/* ============ RELATED ARTICLES ============ */}
+      {related.length > 0 && (
+        <section className="section section--beige">
+          <div className="container">
+            <div className="section__head">
+              <h2 className="section__title">More articles</h2>
+              <Link href="/en/articles" className="section__more">
+                Archive →
+              </Link>
+            </div>
+            <div className="grid-3">
+              {related.map((a) => (
+                <Link
+                  key={a.slug}
+                  href={`/en/articles/${a.slug}`}
+                  className={`card${a.leadImage ? " card--photo" : ""}`}
+                >
+                  {a.leadImage && (
+                    <img src={a.leadImage} alt="" className="card__media" />
+                  )}
+                  <span className="card__date">{formatDate(a.date, "en")}</span>
+                  <span className="card__title">{a.title}</span>
+                </Link>
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
     </main>
   );
 }

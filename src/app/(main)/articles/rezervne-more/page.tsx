@@ -1,7 +1,12 @@
 import "../chotyry-roky-v-mori-frehaty/frigates.css";
 import type { Metadata } from "next";
 import Link from "next/link";
-import { getArticleBySlug, requireVisibleArticle } from "@/lib/articles";
+import {
+  getArticleBySlug,
+  requireVisibleArticle,
+  formatDate,
+  getAllArticles,
+} from "@/lib/articles";
 import IfArticleVisible from "@/components/IfArticleVisible";
 import ArticleHead from "@/components/ArticleHead";
 import MakhachkalaGrowth from "@/components/MakhachkalaGrowth";
@@ -27,6 +32,9 @@ export async function generateMetadata(): Promise<Metadata> {
 
 export default function Page() {
   requireVisibleArticle(SLUG);
+  const related = getAllArticles()
+    .filter((a) => a.slug !== SLUG)
+    .slice(0, 3);
 
   return (
     <main data-screen-label="Стаття · Каспій">
@@ -1157,6 +1165,35 @@ export default function Page() {
           </ol>
         </section>
       </div>
+
+      {/* ============ RELATED ARTICLES ============ */}
+      {related.length > 0 && (
+        <section className="section section--beige">
+          <div className="container">
+            <div className="section__head">
+              <h2 className="section__title">Інші матеріали</h2>
+              <Link href="/articles" className="section__more">
+                Архів →
+              </Link>
+            </div>
+            <div className="grid-3">
+              {related.map((a) => (
+                <Link
+                  key={a.slug}
+                  href={`/articles/${a.slug}`}
+                  className={`card${a.leadImage ? " card--photo" : ""}`}
+                >
+                  {a.leadImage && (
+                    <img src={a.leadImage} alt="" className="card__media" />
+                  )}
+                  <span className="card__date">{formatDate(a.date)}</span>
+                  <span className="card__title">{a.title}</span>
+                </Link>
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
     </main>
   );
 }

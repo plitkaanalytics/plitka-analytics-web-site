@@ -2926,7 +2926,7 @@ export default function Page() {
 
       {/* Related articles */}
       {related.length > 0 && (
-        <section className="section">
+        <section className="section section--beige">
           <div className="container">
             <div className="section__head">
               <h2 className="section__title">More articles</h2>
