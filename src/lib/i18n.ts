@@ -13,6 +13,8 @@ export const dict = {
     latestMaterials: 'Останні матеріали',
     archive: 'Архів →',
     otherMaterials: 'Інші матеріали',
+    infographicDesktopOnly:
+      'Інтерактивна хронологія доступна лише на десктопі — відкрийте цю сторінку з компʼютера або планшета в горизонтальному режимі.',
     readingTimeUnit: 'хв читання',
     metaAuthors: 'Автори',
     metaProject: 'Проєкт',
@@ -45,6 +47,8 @@ export const dict = {
     latestMaterials: 'Latest materials',
     archive: 'Archive →',
     otherMaterials: 'More articles',
+    infographicDesktopOnly:
+      'The interactive timeline works on desktop only — open this page on a computer or on a tablet in landscape.',
     readingTimeUnit: 'min read',
     metaAuthors: 'Authors',
     metaProject: 'Project',
