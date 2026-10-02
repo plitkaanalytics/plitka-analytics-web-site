@@ -2936,28 +2936,17 @@ export default function Page() {
             </div>
             <div className="grid-3">
               {related.map((a) => (
-                <article className="card" key={a.slug}>
+                <Link
+                  key={a.slug}
+                  href={`/en/articles/${a.slug}`}
+                  className={`card${a.leadImage ? " card--photo" : ""}`}
+                >
                   {a.leadImage && (
-                    <img
-                      src={a.leadImage}
-                      alt={a.title}
-                      className="card__img card__img--photo"
-                    />
+                    <img src={a.leadImage} alt="" className="card__media" />
                   )}
-                  <div>
-                    <span className="card__tag">{a.project}</span>
-                  </div>
-                  <h3 className="card__title">
-                    <Link href={`/en/articles/${a.slug}`}>{a.title}</Link>
-                  </h3>
-                  <p className="card__dek">{a.dek}</p>
-                  <div className="card__meta">
-                    <span>{formatDate(a.date, "en")}</span>
-                    <span>
-                      {a.authors[0]?.split(" ").at(-1)?.toUpperCase()}
-                    </span>
-                  </div>
-                </article>
+                  <span className="card__date">{formatDate(a.date, "en")}</span>
+                  <span className="card__title">{a.title}</span>
+                </Link>
               ))}
             </div>
           </div>
