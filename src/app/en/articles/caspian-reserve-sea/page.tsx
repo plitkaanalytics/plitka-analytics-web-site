@@ -23,7 +23,7 @@ export async function generateMetadata(): Promise<Metadata> {
   return {
     title: `${getArticleBySlug(SLUG, "en").title} — PLITKA Analytics`,
     description: DESCRIPTION,
-    openGraph: { images: ["/articles/rezervne-more/cover.jpg"] },
+    openGraph: { images: ["/articles/rezervne-more/cover.avif"] },
   };
 }
 
@@ -40,8 +40,8 @@ export default function Page() {
       <div className="lede-block">
         <div className="lede-block__img">
           <img
-            src="/articles/rezervne-more/cover.jpg"
-            alt="Dozens of tankers and dry cargo ships at anchor against a low sun, visible only as silhouettes"
+            src="/articles/rezervne-more/cover.avif"
+            alt="The Russian-flagged vessel Sarmat-1 under tow; a tug to the right and a port city skyline behind in the evening haze"
           />
         </div>
         <p className="lede">

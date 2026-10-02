@@ -38,8 +38,8 @@ export default function Page() {
       <div className="lede-block">
         <div className="lede-block__img">
           <img
-            src="/articles/rezervne-more/cover.jpg"
-            alt="Десятки танкерів і суховантажів на рейді проти низького сонця: судна видно самими силуетами"
+            src="/articles/rezervne-more/cover.avif"
+            alt="Судно «Сармат-1» під російським прапором іде на буксирі; праворуч буксир, на задньому плані портове місто в надвечірньому серпанку"
           />
         </div>
         <p className="lede">
