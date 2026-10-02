@@ -42,10 +42,39 @@
 | 33 | [Telegram Widget](https://t.me/supernova_plus/59750) | 2026-09-11 | МАЛО ТЕКСТУ (240 зн.) — перевірити вручну | 240 | OSINT-канал | `text/33-t.me-supernova_plus-59750.txt` |
 | 34 | [Tarantul-class corvette was hit in the Caspian Sea](https://militarnyi.com/en/news/tarantul-class-corvette-was-hit-in-the-caspian-sea/) | 2024-11-06 | прочитано | 2566 | ? | `text/34-militarnyi.com-tarantul-class-corvette-was-hit-in-the-caspian-sea.txt` |
 | 35 | [Telegram Widget](https://t.me/GeneralStaffZSU/42201) | 2026-09-11 | МАЛО ТЕКСТУ (689 зн.) — перевірити вручну | 689 | ? | `text/35-t.me-generalstaffzsu-42201.txt` |
+| 36 | [У Каспійську вночі пролунали потужні вибухи поблизу порту](https://www.slovoidilo.ua/2026/09/19/novyna/bezpeka/kaspijsku-vnochi-prolunaly-potuzhni-vybuxy-portu) | 2026-09-19 | прочитано | 2375 | ? | `text/36-slovoidilo.ua-kaspijsku-vnochi-prolunaly-potuzhni-vybuxy-portu.txt` |
+| 37 | [Дагестан атакували дрони: вибухи пролунали поблизу порту Каспійськ — в](https://nv.ua/ukr/world/countries/droni-atakuvali-port-kaspiysk-u-dagestani-chislenni-vibuhi-bilya-viyskovoji-bazi-50642758.html) | 2026-09-19 | прочитано | 1454 | ? | `text/37-nv.ua-droni-atakuvali-port-kaspiysk-u-dagestani-chislenni-vibuhi-bilya.txt` |
+| 38 | [Explosions reported near Russia’s Caspian Flotilla base in Kaspiysk](https://english.nv.ua/russian-war/drones-attack-dagestan-explosions-reported-near-russia-s-kaspiysk-naval-base-50642768.html) | 2026-09-19 | прочитано | 3105 | ? | `text/38-english.nv.ua-drones-attack-dagestan-explosions-reported-near-russia-s.txt` |
+| 39 | [Dagestan Attacked by Drones, Explosions Heard Near Port of Kaspiysk](https://militarnyi.com/en/news/dagestan-drone-attack-near-port-of-kaspiysk/) | 2026-09-19 | прочитано | 2078 | ? | `text/39-militarnyi.com-dagestan-drone-attack-near-port-of-kaspiysk.txt` |
+| 40 | [Дрони атакували Дагестан: серія вибухи пролунала поблизу порту в Каспі](https://24tv.ua/port-kaspiysk-vibuhi-video-ataki-droniv_n3144906) | 2026-09-19 | прочитано | 2061 | ? | `text/40-24tv.ua-port-kaspiysk-vibuhi-video-ataki-droniv_n3144906.txt` |
+| 41 | [Дрони атакують Каспійськ у Дагестані: повідомляють про серію вибухів і](https://ukranews.com/ua/news/1175873-drony-atakuyut-kaspijsk-u-dagestani-povidomlyayut-pro-seriyu-vybuhiv-i-proloty-droniv-pabliky) | 2026-09-19 | прочитано | 1989 | ? | `text/41-ukranews.com-1175873-drony-atakuyut-kaspijsk-u-dagestani-povidomlyayut.txt` |
+| 42 | [v102.ru](https://v102.ru/news/163919.html) | — | НЕ ВІДКРИЛОСЯ | 0 | ? | `text/42-v102.ru-163919.txt` |
+| 43 | [Беспилотники атаковали побережье Дагестана и акваторию Каспийского мор](https://abnews.ru/skfo/news/dagestan/2026/9/18/bespilotniki-atakovali-poberezhe-dagestana-i-akvatoriyu-kaspijskogo-morya-drony-u-kaspiya-dagestan-utrom-okazalsya-v-zone-bespilotnoj-opasnosti) | 2026-09-18 | прочитано | 5873 | ? | `text/43-abnews.ru-bespilotniki-atakovali-poberezhe-dagestana-i-akvatoriyu-kasp.txt` |
+| 44 | [Обломки повредили кровлю. Атака БПЛА на Махачкалу 18 сентября: что изв](https://kazan.aif.ru/incidents/details/oblomki-povredili-krovlyu-ataka-bpla-na-mahachkalu-18-sentyabrya-chto-izvestno) | 2026-09-18 | прочитано | 4045 | ? | `text/44-kazan.aif.ru-oblomki-povredili-krovlyu-ataka-bpla-na-mahachkalu-18-sen.txt` |
+| 45 | [В російській Махачкалі під атакою дронів був порт](https://www.pravda.com.ua/news/2026/09/10/8052711/) | 2026-09-10 | прочитано | 2275 | ? | `text/45-pravda.com.ua-8052711.txt` |
+| 46 | [Необхідно виконати дію](https://censor.net/ua/news/4022683/mahachkalu-atakuvaly-drony-vybuhy-prolunaly-v-rayioni-morskogo-portu) | 2024-01-01 | HTTP 403 — НЕ ПРОЧИТАНО | 626 | ? | `text/46-censor.net-mahachkalu-atakuvaly-drony-vybuhy-prolunaly-v-rayioni-morsk.txt` |
+| 47 | [Сили оборони атакували пункти управління дронами та склади рф](https://www.slovoidilo.ua/2026/09/19/novyna/bezpeka/syly-oborony-atakuvaly-punkty-upravlinnya-dronamy-ta-sklady-rf) | 2026-09-19 | прочитано | 2509 | ? | `text/47-slovoidilo.ua-syly-oborony-atakuvaly-punkty-upravlinnya-dronamy-ta-skl.txt` |
+| 48 | [У російському Каспійську міг бути уражений військовий корабель: кажуть](https://war.obozrevatel.com/ukr/u-rosijskomu-kaspijsku-mig-buti-urazhenij-vijskovij-korabel-kazhut-scho-e-bagato-poranenih.htm) | 2026-05-15 | прочитано | 2678 | ? | `text/48-war.obozrevatel.com-u-rosijskomu-kaspijsku-mig-buti-urazhenij-vijskovi.txt` |
+| 49 | [Telegram Widget](https://t.me/absolutely_reliable/111) | 2026-09-19 | МАЛО ТЕКСТУ (432 зн.) — перевірити вручну | 432 | ? | `text/49-t.me-absolutely_reliable-111.txt` |
+| 50 | [Telegram Widget](https://t.me/exilenova_plus/31140) | 2026-09-19 | МАЛО ТЕКСТУ (280 зн.) — перевірити вручну | 280 | ? | `text/50-t.me-exilenova_plus-31140.txt` |
+| 51 | [Telegram Widget](https://t.me/supernova_plus/60113) | 2026-09-19 | МАЛО ТЕКСТУ (250 зн.) — перевірити вручну | 250 | ? | `text/51-t.me-supernova_plus-60113.txt` |
+| 52 | [Telegram Widget](https://t.me/mod_russia/67454) | 2026-09-19 | МАЛО ТЕКСТУ (514 зн.) — перевірити вручну | 514 | ? | `text/52-t.me-mod_russia-67454.txt` |
+| 53 | [Ukrainian Drones Strike Makhachkala Port on the Caspian Sea for the Fi](https://militarnyi.com/en/news/ukrainian-drones-strike-makhachkala-port-on-the-caspian-sea-for-the-first-time/) | 2026-09-10 | прочитано | 4023 | ? | `text/53-militarnyi.com-ukrainian-drones-strike-makhachkala-port-on-the-caspian.txt` |
+| 54 | [Small Missile Ship and Minesweeper Struck at Kaspiysk Base](https://militarnyi.com/en/news/missile-ship-minesweeper-hit-kaspiysk-base/) | 2026-05-15 | прочитано | 5792 | ? | `text/54-militarnyi.com-missile-ship-minesweeper-hit-kaspiysk-base.txt` |
+| 55 | [Вісім атакованих об'єктів за добу: Сили оборони уразили єдиний незамер](https://nv.ua/ukr/ukraine/events/dagestan-i-yamal-atakuvali-droni-fp-1-urazheno-unikalniy-port-mahachkali-i-npz-50640136.html) | 2026-09-10 | прочитано | 1375 | ? | `text/55-nv.ua-dagestan-i-yamal-atakuvali-droni-fp-1-urazheno-unikalniy-port-ma.txt` |
+| 56 | [Сили оборони уразили у Дагестані корабель-носій ракет Калібр — Генштаб](https://nv.ua/ukr/ukraine/events/sili-oboroni-urazili-u-dagestani-korabel-nosiy-raket-kalibr-genshtab-50606189.html) | 2026-05-07 | прочитано | 1851 | ? | `text/56-nv.ua-sili-oboroni-urazili-u-dagestani-korabel-nosiy-raket-kalibr-gens.txt` |
+| 57 | [Від 1500 до 6000 км вглиб: 12 рекордних за дальністю ударів України по](https://www.slovoidilo.ua/2026/05/19/infografika/suspilstvo/1500-6000-km-vhlyb-12-rekordnyx-dalnistyu-udariv-ukrayiny-po-vijskovyx-czilyax-rf) | 2026-05-19 | прочитано | 7465 | ? | `text/57-slovoidilo.ua-1500-6000-km-vhlyb-12-rekordnyx-dalnistyu-udariv-ukrayin.txt` |
+| 58 | [Telegram Widget](https://t.me/Glava_RD/488) | 2026-09-10 | МАЛО ТЕКСТУ (412 зн.) — перевірити вручну | 412 | ? | `text/58-t.me-glava_rd-488.txt` |
+| 59 | [Telegram Widget](https://t.me/V_Zelenskiy_official/20795) | 2026-09-10 | МАЛО ТЕКСТУ (492 зн.) — перевірити вручну | 492 | ? | `text/59-t.me-v_zelenskiy_official-20795.txt` |
+| 60 | [Telegram Widget](https://t.me/GeneralStaffZSU/38325) | 2026-05-07 | МАЛО ТЕКСТУ (1015 зн.) — перевірити вручну | 1015 | ? | `text/60-t.me-generalstaffzsu-38325.txt` |
 
 ## Проблемні джерела
 
 - **№14** https://charter97.org/en/news/2026/9/12/698156 — оригінал 403; знімка немає в Wayback
+- **№41** https://ukranews.com/ua/news/1175873-drony-atakuyut-kaspijsk-u-dagestani-povidomlyayut-pro-seriyu-vybuhiv-i-proloty-droniv-pabliky — оригінал недоступний (403), узято з Wayback
+- **№42** https://v102.ru/news/163919.html — оригінал 0; знімка немає в Wayback
+- **№43** https://abnews.ru/skfo/news/dagestan/2026/9/18/bespilotniki-atakovali-poberezhe-dagestana-i-akvatoriyu-kaspijskogo-morya-drony-u-kaspiya-dagestan-utrom-okazalsya-v-zone-bespilotnoj-opasnosti — оригінал недоступний (0), узято з Wayback
+- **№46** https://censor.net/ua/news/4022683/mahachkalu-atakuvaly-drony-vybuhy-prolunaly-v-rayioni-morskogo-portu — оригінал 403; знімка немає в Wayback
 
 ---
 

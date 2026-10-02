@@ -1,0 +1,212 @@
+URL:         https://maritime-executive.com/article/ukraine-attacks-iranian-arms-shipments-on-the-caspian-sea
+Кінцевий:    https://maritime-executive.com/article/ukraine-attacks-iranian-arms-shipments-on-the-caspian-sea
+Заголовок:   Ukraine Attacks Iranian Arms Shipments on the Caspian Sea
+Дата публ.:  2026-07-27
+Завантажено: 2026-09-21 14:37 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 149550
+Оригінал:    raw/05-maritime-executive.com-ukraine-attacks-iranian-arms-shipments-on-the-c.html
+sha256:      26dc25687789670a9edea3f3adb1ab00b21132b3196b4772f67f3281b48b8816
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 20
+==============================================================================
+U.S. Coast Guard Sets Up Long-Range Medevac for Critically-Ill Seafarer
+U.S. Southern Command Destroys 70th Suspected Drug Boat
+Capesize Bulker Suffers Flooding off Dung Quat, Vietnam
+NGOs Urge EU to Keep South Asian Yards Off Authorized Ship Recycling List
+Ukraine damaged the Port Olya 4 in August 2025 (Telegram)
+Stay on Top of the Daily Maritime News
+Video: Chinese Fishing Vessel Survives Dangerous Encounter With a Bulker
+After Diplomatic Dustup, China Coast Guard Rams a Philippine Patrol Vessel
+Chattogram Port Workers Plan Protests Over Privatization Deal
+IRGC Profiteer Babak Zanjani Skims Iran’s Hormuz Tolls
+Africa’s Red Sea States Face Growing Risks as Houthis Expand Their Reach
+Conflict in Close Quarters: When Work is Also Home
+Hormuz Route Negotiations Would Have Handed Entry and Exit Control to Iran
+The Liner’s Dilemma: Schedule Integrity vs. Contractual Flexibility
+The latest news in your inbox daily.
+Over the weekend, the U.S. Coast Guard arranged a long-range rescue for a boxship crewmember who was suffering from a serious, growing infection. Last week, the 1996-built boxship Kotka (ex names Maersk Kotka, Knud Maersk) was under way on a long voyage from Colombo, Sri Lanka, bound for New York. On Wednesday night, the master of the Kotka contacted shoreside authorities and reported that a crewmember had developed a "severe, non-ambulatory infection" that was not getting better with onboard medical...
+On Saturday, U.S. forces in the Caribbean destroyed another suspected drug-running vessel with an airstrike, killing four people. It is the 70th publicized instance of use of lethal force against a drug boat in the region, and highlights the dual-mode structure of U.S. counternarcotics operations in the region: lethal when aerial assets are the sole means of engagement, nonlethal when Coast Guard or Marine Corps boarding teams are involved. The strike targeted a small vessel operating on "established narco-trafficking routes"...
+Authorities at the port of Quang Ngai, Vietnam are working on a plan to offload a bulker that began taking on water during a transit into the port of Dung Quat. On Friday morning, the bulker Merchant Mariner was inbound for the industrial port of Dung Quat, home of the giant Hoa Phat steel plant. She had a cargo of 174,000 tonnes of Malaysian iron ore on board, and had a draft of about 18.4 meters. At about 1130 hours,...
+As the European Union gears to announce its updated list of approved ship recycling facilities, pressure is mounting for the bloc not to include two Indian yards over allegations that they rely on hazardous beaching methods. The European Commission is expected to unveil the 16th edition of its approved list next month, which for the first time is proposing to include yards in South Asia. Indian yards Shree Ram and YSI Recyclers applied to be included in the list; if...
+© Copyright 2026 The Maritime Executive, LLC. All rights reserved.
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Ukraine Attacks Iranian Arms Shipments on the Caspian Sea
+Go
+SUBSCRIBE NOW
+Media Kit
+news
+Features
+Podcasts
+Magazine
+Newsletter
+Advertise
+Directory
+Subscribe
+news
+features
+Podcasts
+magazine
+newsletter
+Jobs
+advertise
+subscribe
+TOP
+STORIES
+U.S. Coast Guard Sets Up Long-Range Medevac for Critically-Ill Seafarer
+Published
+				by
+The Maritime Executive
+U.S. Southern Command Destroys 70th Suspected Drug Boat
+Published
+				by
+The Maritime Executive
+Capesize Bulker Suffers Flooding off Dung Quat, Vietnam
+Published
+				by
+The Maritime Executive
+NGOs Urge EU to Keep South Asian Yards Off Authorized Ship Recycling List
+Published
+				by
+The Maritime Executive
+5316
+Views
+Ukraine Attacks Iranian Arms Shipments on the Caspian Sea
+Ukraine damaged the Port Olya 4 in August 2025 (Telegram)
+Published
+					Jul 27, 2026 10:21 AM        		by
+The Maritime Executive
+Details of Ukraine’s attack on shipping in the Caspian Sea over the weekend are still not clear. However, the Iranian reaction suggests that the attacks were both serious and effective, leading to the comic situation in which the Iranian Foreign Minister complained both to the European Union and the United Nations about Ukraine’s actions.
+Media reports have not named the Iranian cargo ship which was struck by Ukraine. But reports describe how it was hit on the bridge, a sailor was killed, and the ship was sufficiently damaged to need rescue by the maritime authorities in Astrakhan, thereby positioning the attack.
+Caspian ports, the Volga-Don river-canal system (blue) and the disused railway through Azerbaijan (orange), connecting Iran with southern Russia (LandSat/Copernicus/CJRC)
+President Zelensky, normally a reliable source of information, also announced that ‘vessels involved in shipping military cargo between Russia and Iran, as well as a military ship, were hit”. Other Ukrainian media suggest that the targets included the Russian cargo vessel
+Port Olya 2
+(IMO 9481881) and the dry cargo ship
+Begey
+(IMO 8943210), sanctioned respectively by the US (OFAC) and the UK (OFSI).
+The Ana, which from social media footage was evidently carrying an explosive cargo when it was attacked by Ukrainian drones (
+VesselFinder
+)
+Subsequent reporting identified the Iranian vessel, which was destroyed, as the specialist 90m Caspian cargo vessel
+Ana
+(IMO 8934491), based on the death notice of the sailor from Bandar Anzali who died aboard the vessel. The Russian Navy vessel has been identified as the Project 12418 Tarantul Class corvette RFS
+Stupinets
+(P705), which was acting as an escort when it was hit alongside the Russian merchant vessels attacked.
+The Maritime Executive has frequently described the vessels and arms cargos which are shipped from two Iranian ports, Bandar Anzali and Amirabadport, cargos that are landed either in Machachkala or Kaspiyisk, or further north in Olya or Astrakhan, at the head of Russia’s Volga-Don internal sea canal system.
+Sister-ship to the vessel attacked, Port Olya-3 unloads on the Volga, September 2024 (Maxar)
+Before the current war in the Gulf, Iran’s principal military exports to Russia were 122mm and 152mm ammunition shells, and thousands of Shahed-136 drones. Iran cannot rely on rail routes through Azerbaijan into Chechnya, and uses shipping instead. In one of the best documented
+instances
+, in January 2025 Iranian social media images showed air defense systems and truck-mounted Fatah-360 tactical ballistic missile launchers (comparable in capability to the M142 HIMARS) at the dockside at Bandar Anzali, awaiting loading. The Fatah-360s were part of a Russian order for 220 such systems. Since the outbreak of war in the Gulf, Iranian arms shipments to Russia have continued, such is the Iranian needs for funds, but the nature of cargos will have changed.
+Ukraine began attacking maritime targets on the Caspian in 2024. In November,
+Ukrainian drones attacked
+Russian naval vessels docked at Kaspiysk, damaging the Gepard Class frigates corvettes
+Tatarstan
+(F691) and
+Dagestan
+(F693), among others. In response, the Russians fired an RS-26 Rubezh ballistic missile from a launch site near Astrakhan, which was immediately counter-attacked by Ukrainian drones. Iranian abilities to defend against attacks on their shipping on the Caspian also disappeared that November, when most the Iranian Northern Fleet, notably its flagship Moudge Class frigate IRINS
+Deylaman
+(F78), along with most of the Fleet’s Sina Class fast attack craft, were sunk in the harbor at Bander Anzali.
+Fath-360 systems under tarpaulins at the Bandar Anzali IRISL dock facility (Iranian social media posts seen on MilitaryNewsUA)
+Stay on Top of the Daily Maritime News
+The maritime news
+that matters most
+Get the latest maritime news delivered to your inbox daily.
+Subscribe Now
+Further Ukrainian attacks became inevitable this July, after Ukraine’s Long Range Command launched a concentrated campaign to
+close down Russian shipping movements
+on the Sea of Azov, from where the Volga-Don Canal provides a heavy transport route via Volgograd to the Caspian.
+With the US blockade on Iranian shipping and ports in force along the whole of the southern Iranian coastline, and the railway link to China through the border crossing point with Turkmenistan at Inche-Buren damaged, the route across the Caspian has become the only cargo route for heavy traffic which remains under Iranian sovereign control. Otherwise, with relations with Azerbaijan irreparably worsened since Iran launched drone attacks in March 2026 on targets in the Azeri enclave of Nakhchivan, Iran has had to rely on trucking routes through Iraq and Turkey. The principal truck route into Iran from Turkey crosses the border at Barzargan. One might expect traffic on these truck routes to be subject to heavy surveillance and monitoring, nor to be immune from initiatives taken under the Ukrainian long range sanctions program.
+MORE
+TOP STORIES
+Video: Chinese Fishing Vessel Survives Dangerous Encounter With a Bulker
+After Diplomatic Dustup, China Coast Guard Rams a Philippine Patrol Vessel
+Chattogram Port Workers Plan Protests Over Privatization Deal
+IRGC Profiteer Babak Zanjani Skims Iran’s Hormuz Tolls
+EDITORIALS
+TOP STORIES
+IRGC Profiteer Babak Zanjani Skims Iran’s Hormuz Tolls
+Africa’s Red Sea States Face Growing Risks as Houthis Expand Their Reach
+Conflict in Close Quarters: When Work is Also Home
+Hormuz Route Negotiations Would Have Handed Entry and Exit Control to Iran
+The Liner’s Dilemma: Schedule Integrity vs. Contractual Flexibility
+The maritime news
+that matters most
+The latest news in your inbox daily.
+Subscribe Now
+SUBSCRIPTIONS
+SUBSCRIBE
+Print
+Digital
+Newsletter
+Renew
+Subscribe Now
+RELATED
+STORIES
+Tugs & Salvage
+U.S. Coast Guard Sets Up Long-Range Medevac for Critically-Ill Seafarer
+Published
+					Sep 20, 2026 11:18 PM        		by
+The Maritime Executive
+Over the weekend, the U.S. Coast Guard arranged a long-range rescue for a boxship crewmember who was suffering from a serious, growing infection. Last week, the 1996-built boxship Kotka (ex names Maersk Kotka, Knud Maersk) was under way on a long voyage from Colombo, Sri Lanka, bound for New York. On Wednesday night, the master of the Kotka contacted shoreside authorities and reported that a crewmember had developed a "severe, non-ambulatory infection" that was not getting better with onboard medical...
+Continue Reading...
+Tugs & Salvage
+U.S. Southern Command Destroys 70th Suspected Drug Boat
+Published
+					Sep 20, 2026 10:12 PM        		by
+The Maritime Executive
+On Saturday, U.S. forces in the Caribbean destroyed another suspected drug-running vessel with an airstrike, killing four people. It is the 70th publicized instance of use of lethal force against a drug boat in the region, and highlights the dual-mode structure of U.S. counternarcotics operations in the region: lethal when aerial assets are the sole means of engagement, nonlethal when Coast Guard or Marine Corps boarding teams are involved. The strike targeted a small vessel operating on "established narco-trafficking routes"...
+Continue Reading...
+Tugs & Salvage
+Capesize Bulker Suffers Flooding off Dung Quat, Vietnam
+Published
+					Sep 20, 2026 10:04 PM        		by
+The Maritime Executive
+Authorities at the port of Quang Ngai, Vietnam are working on a plan to offload a bulker that began taking on water during a transit into the port of Dung Quat. On Friday morning, the bulker Merchant Mariner was inbound for the industrial port of Dung Quat, home of the giant Hoa Phat steel plant. She had a cargo of 174,000 tonnes of Malaysian iron ore on board, and had a draft of about 18.4 meters. At about 1130 hours,...
+Continue Reading...
+Tugs & Salvage
+NGOs Urge EU to Keep South Asian Yards Off Authorized Ship Recycling List
+Published
+					Sep 20, 2026 8:27 PM        		by
+The Maritime Executive
+As the European Union gears to announce its updated list of approved ship recycling facilities, pressure is mounting for the bloc not to include two Indian yards over allegations that they rely on hazardous beaching methods. The European Commission is expected to unveil the 16th edition of its approved list next month, which for the first time is proposing to include yards in South Asia. Indian yards Shree Ram and YSI Recyclers applied to be included in the list; if...
+Continue Reading...
+SUBSCRIPTIONS
+SUBSCRIBE
+Print
+Digital
+Newsletter
+Renew
+Subscribe Now
+Show Comments
+About Us
+Advertise
+Newsletter
+Contact Us
+Privacy Policy
+Site Map
+News
+Features
+Podcasts
+Magazine
+Newsletter
+Piracy News
+Shipbuilding News
+Cruise Ship News
+Ports News
+Salvage News
+Training News
+Government News
+Environment News
+Corporate News
+Subscribe
+Facebook
+LinkedIn
+Twitter
+RSS Feed
+Instagram
+© Copyright 2026 The Maritime Executive, LLC. All rights reserved.

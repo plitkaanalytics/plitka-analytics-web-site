@@ -1,0 +1,24 @@
+URL:         https://www.maritimegateway.com/russia-iran-boost-trade-movement-through-the-volga-don-canal/
+Кінцевий:    https://www.maritimegateway.com/russia-iran-boost-trade-movement-through-the-volga-don-canal/
+Заголовок:   Russia & Iran boost trade movement through the Volga-Don canal | Maritime Gateway
+Дата публ.:  2022-12-23
+Завантажено: 2026-09-22 07:15 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 203214
+Оригінал:    raw/46-maritimegateway.com-russia-iran-boost-trade-movement-through-the-volga.html
+sha256:      82c2baecdea7dac03b4726b28e896ceba6578d0a56acfd287369345d0f9eea25
+Витяг:       trafilatura
+
+==============================================================================
+Russia and Iran are working on an infrastructure expansion program that would vastly increase their inland trade ties, including a substantial investment in the Volga-Don route connecting the Sea of Azov with the Caspian.
+
+The tiny but strategic Volga-Don Canal connects up the two river systems with a 63-mile waterway, allowing small freighters to navigate between the Caspian and the Sea of Azov (and onwards to the high seas). A series of 13 locks carry marine traffic up and over the gentle rise between the two waterways. The Soviet Volga-Don-class freighters, built precisely for the canal’s dimensions, are an icon of Russia’s inland trade. However, these ships are limited to a draft of 12 feet and a maximum load of about 5,000 tonnes (and just 3,000 tonnes in some shallow sections of the Volga and Don, according to Bloomberg). Wintertime navigation usually ends in December when the canal freezes over.
+
+This is limiting for the burgeoning trade between Russia and Iran, which connects in part via a trans-Caspian route. Russia plans to spend $1 billion improving inland connections to the Caspian, including removing impediments to shipping on the Volga-Don complex. Shipping between the mouth of the Volga and Iranian ports at the southern end of the Caspian is increasing in volume, according to Bloomberg, and Russia’s inland waterway network feeds this growing trade.
+
+A share of the $5 billion-a-year trade between the two nations is in the form of armaments. Iran is supplying the government of Russia with hundreds of so-called “suicide” drones, which Russian forces are using en masse to target Ukraine’s power infrastructure. In return for this simple but much-desired technology, Russia is believed to be supplying Iran with some of its best military systems, including helicopters and potentially the next-generation Su-35 fighter, according to U.S. defense officials. American intelligence believes that Iran has also asked for extra Russian help with its nuclear program, and it is unclear whether the aid would be for strictly civilian purposes.
+
+In addition to boosting sanctions-proof trade and arms shipping, another major goal of the partnership is to create a Russia-to-India trade corridor that fully bypasses Europe. The so-called International North–South Transport Corridor (INSTC) connects the Russian heartland with India by way of the Don, the Volga, the Caspian Sea and an intermodal transfer over the Iranian rail network. (A rail-only variant of this route passes through Azerbaijan, bypassing the Caspian.) Iranian shipping company IRISL announced the completion of its first cargo ever on this corridor in June 2022, and Iran’s government is investing heavily in its rail system to increase capacity.
+
+As a sign of the times, IRISL recently announced that it would put $10 million into terminal improvements at the port of Astrakhan, on the Russian side of the Caspian Sea. The investment is partly funded by Russian loans and is aimed at strengthening the INSTC.
+
+However, for the corridor to truly take off, Iran may have to take steps to make its financial system easier to navigate for shipping. According to Reuters, dozens of ships carrying Iran-bound agricultural cargoes are stuck at anchor in the Persian Gulf, delayed by heavy Western sanctions on Iranian financial institutions. With no reliable way to pay for delivery, the much-needed food is stuck aboard ship, awaiting a solution to Iran’s banking difficulties.

@@ -1,0 +1,468 @@
+URL:         https://en.wikipedia.org/wiki/Fire_Point_FP-1
+Кінцевий:    https://en.wikipedia.org/wiki/Fire_Point_FP-1
+Заголовок:   Fire Point FP-1 - Wikipedia
+Дата публ.:  2025-08-24
+Завантажено: 2026-09-21 14:37 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 126091
+Оригінал:    raw/17-en.wikipedia.org-fire_point_fp-1.html
+sha256:      1d948bb628ee7f2ac39faa08ffb10ce2fd924a30b8f8ddcd2ca407a8a4d4bddc
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 13
+==============================================================================
+From Wikipedia, the free encyclopedia
+Ukrainian long-range one-way attack drone
+https://en.wikipedia.org/w/index.php?title=Fire_Point_FP-1&oldid=1374572273
+Unmanned military aircraft of Ukraine
+Military equipment of the Russian invasion of Ukraine
+Single-engined pusher aircraft
+Wikipedia extended-confirmed-protected pages
+Articles with short description
+Short description matches Wikidata
+This page was last edited on 12 September 2026, at 21:36
+Creative Commons Attribution-ShareAlike 4.0 License
+additional terms may apply. By using this site, you agree to the
+. Wikipedia® is a registered trademark of the
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Fire Point FP-1 - Wikipedia
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main page
+Contents
+Current events
+Random article
+About Wikipedia
+Contact us
+Contribute
+Help
+Learn to edit
+Community portal
+Recent changes
+Upload file
+Special pages
+Search
+Search
+Appearance
+Donate
+Create account
+Log in
+Personal tools
+Donate
+Create account
+Log in
+Contents
+move to sidebar
+hide
+(Top)
+1
+Development
+2
+Design
+3
+Operational history
+4
+See also
+5
+References
+Toggle the table of contents
+Fire Point FP-1
+10 languages
+العربية
+Deutsch
+Español
+Suomi
+Français
+한국어
+Polski
+Русский
+Українська
+中文
+Edit links
+Article
+Talk
+English
+Read
+View source
+View history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+Read
+View source
+View history
+General
+What links here
+Related changes
+Upload file
+Permanent link
+Page information
+Cite this page
+Get shortened URL
+Switch to legacy parser
+Print/export
+Download as PDF
+Printable version
+In other projects
+Wikimedia Commons
+Wikidata item
+Appearance
+move to sidebar
+hide
+From Wikipedia, the free encyclopedia
+Ukrainian long-range one-way attack drone
+FP-1
+FP-1/FP-2 drone
+Type
+Loitering munition
+/ One-way attack drone
+Place
+of
+origin
+Ukraine
+Service history
+In
+service
+2024–present
+Used
+by
+Armed Forces of Ukraine
+Wars
+Russian invasion of Ukraine
+Production history
+Designer
+Fire Point
+Designed
+2022–2024
+Manufacturer
+Fire Point
+Unit
+cost
+US$55,000
+Produced
+October 2024
+–present
+No.
+built
+5,000+
+Variants
+FPV carrier (dual wing-mounted FPV drones)
+Specifications
+Wingspan
+Fixed straight wings
+Effective
+firing
+range
+1,600 km (990 mi)
+Warhead
+Modular (
+Fragmentation
+or
+shaped-charge
+)
+Warhead
+weight
+60 kg to 120 kg
+Armor
+Radar-absorbent materials
+Main
+armament
+Integral warhead
+Secondary
+armament
+2 × deployable
+FPV
+drones (optional)
+Engine
+Two-cylinder engine
+Payload
+capacity
+120 kg
+Propellant
+Solid rocket booster
+(launch)
+Operational
+range
+1,600 km
+Boost time
+Solid rocket
+Guidance
+system
+Inertial
+and
+satellite guidance
+with
+ECCM
+FP-1
+is a Ukrainian long-range,
+one-way attack drone
+developed and produced by the defence technology company
+Fire Point
+. Introduced in late 2024 in response to the
+Russian invasion of Ukraine
+, the FP-1 is designed for deep-strike missions, capable of delivering a
+warhead
+over distances up to 1,600
+km. It has been deployed by the
+Armed Forces of Ukraine
+to target high-value military and logistical sites.
+[
+1
+]
+[
+2
+]
+[
+3
+]
+Development
+Conceived in mid-2022 by a team of former aerospace engineers and defence analysts, the FP-1 programme aimed to produce a low-cost, high-performance
+one-way attack drone
+. Initial operational prototypes of the FP-1 drone flew in early 2024, demonstrating a loitering munition delivery system.
+[
+4
+]
+Full-scale production commenced in October 2024 at covert facilities near Kyiv.
+[
+2
+]
+Design
+The FP-1 features a slender
+fuselage
+with a two-cylinder engine driving a propeller, a solid rocket booster for launching, and fixed straight wings.
+[
+4
+]
+[
+5
+]
+It carries a modular warhead weighing between 60
+kg and 120
+kg, selectable for fragmentation or shaped-charge effects. The airframe employs
+radar-absorbent materials
+to reduce detectability. Navigation relies on
+inertial systems
+augmented by satellite guidance, with
+electronic counter-countermeasure
+capabilities to resist jamming.
+[
+4
+]
+Operational history
+By mid-2025, Fire Point had increased production from 30 to over 100 FP-1 units per day, reporting total manufacture of more than 5,000 drones. The UAV has been credited with striking ammunition depots, command posts, and air defence batteries at ranges exceeding 1,200
+km. 
+Analysts attribute Ukraine's ability to disrupt rear-area
+logistics
+to the FP-1's
+cost-effectiveness
+– estimated at US$55,000 per unit versus US$200,000 for comparable systems.
+[
+1
+]
+[
+3
+]
+Recent capability expansions include carrying two deployable FPV drones on the wings.
+On 12 May 2026, a Ukrainian FP-1/2 attacked an air defence system, in Crimea, using unguided missiles for the first time. According to the Russian Telegram channel, footage showed it launching one of four missiles attached to its wings.
+[
+6
+]
+On 6 July 2026, Ukrainian drones, reported to be FP-1, travelled over 2,500 km and hit Russia's
+Omsk refinery
+, the largest oil refinery in Russia.
+[
+7
+]
+See also
+Ukraine portal
+Aviation portal
+FP-5 Flamingo
+– Ukrainian cruise missile
+UJ-25 Skyline
+– Ukrainian unmanned aerial vehicle
+UJ-26
+Bober (drone)
+– Ukrainian long-range UAV
+AN-196
+Liutyi
+– Ukrainian long-range UAV
+References
+1
+2
+Labott, Elisabeth (21 August 2025).
+"Ukraine becoming the 'Silicon Valley' of defense as startups develop long-range drones and missiles"
+. PBS NewsHour
+. Retrieved
+23 August
+2025
+.
+1
+2
+Petriv, Liubava (20 August 2025).
+"FP-1 vs Shahed: Ukraine Ramps Up Production of Low-Cost Long-Range Drones"
+.
+United24 Media
+. Retrieved
+23 August
+2025
+.
+1
+2
+Pokotylo, Olha (8 May 2025).
+"What's known about Ukraine's FP-1 deep strike drone"
+.
+thedefender.media
+. Retrieved
+22 November
+2025
+.
+1
+2
+3
+"Ukraine's FP-1 OWA Drone is Cheaper Than Shahed, and Is Now Produced Just as Fast"
+.
+en.defence-ua.com
+. 22 August 2025
+. Retrieved
+26 August
+2025
+.
+↑
+"FP-1 Deepstrike Drones Scale Up in Number and Break Through Moscow Defenses, Ukraine's Attack on Krasnozavodsk Shows"
+.
+en.defence-ua.com
+. Retrieved
+2025-08-25
+.
+↑
+Taras Safronov (2026-05-13).
+"Drone Launched Missiles at Russian Mobile Air Defense Unit In Crimea"
+.
+militarnyi
+. Retrieved
+2026-05-13
+.
+↑
+"Russian largest oil refinery hit for first time by Ukrainian drones"
+.
+Politico Europe
+. 2026-07-06
+. Retrieved
+2026-07-07
+.
+v
+t
+e
+Unmanned vehicles of the
+Armed Forces of Ukraine
+Air
+Bombers
+Aerorozvidka R18
+Barrage ammunition
+Peklo
+RAM-2X
+Dracarys
+Deep strike
+FP-1
+Bober
+Liutyi
+UJ-25 Skyline
+Scythe
+Sichen
+Interceptors
+Sting
+Bullet
+Shahed Hunter
+OSIRIS UEB-1
+Osa
+Alexa Spatium
+Octopus-100
+Multipurpose and impact
+Backfire
+Punisher
+UJ-22 Airborne
+Vampire
+Turtledove
+Falcon-300
+Owl
+Pugach
+RZ-500
+Dovbush T10
+Reconnaissance
+Furia
+Leleka-100
+Raybird-3
+PD-2
+Shark
+Marine
+Surface
+Sea Baby
+MAGURA V5
+Mamai
+Katran
+Sargan
+Underwater
+Marichka
+Toloka
+Sea Trident
+Ground
+Phantom
+Retrieved from "
+https://en.wikipedia.org/w/index.php?title=Fire_Point_FP-1&oldid=1374572273
+"
+Categories
+:
+One-way attack drones
+Unmanned military aircraft of Ukraine
+Fire Point aircraft
+Military equipment of the Russian invasion of Ukraine
+Single-engined pusher aircraft
+Twin-boom aircraft
+V-tail aircraft
+High-wing aircraft
+Hidden categories:
+Wikipedia extended-confirmed-protected pages
+Articles with short description
+Short description matches Wikidata
+This page was last edited on 12 September 2026, at 21:36
+(UTC)
+.
+Page was rendered with
+Parsoid
+.
+Text is available under the
+Creative Commons Attribution-ShareAlike 4.0 License
+;
+additional terms may apply. By using this site, you agree to the
+Terms of Use
+and
+Privacy Policy
+. Wikipedia® is a registered trademark of the
+Wikimedia Foundation, Inc.
+, a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Legal & safety contacts
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+Search
+Search
+Toggle the table of contents
+Fire Point FP-1
+10 languages
+Add topic

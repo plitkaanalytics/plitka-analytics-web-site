@@ -2,7 +2,11 @@ import "../chotyry-roky-v-mori-frehaty/frigates.css";
 import "./libya-control.css";
 import type { Metadata } from "next";
 import Link from "next/link";
-import { requireVisibleArticle } from "@/lib/articles";
+import {
+  requireVisibleArticle,
+  formatDate,
+  getAllArticles,
+} from "@/lib/articles";
 import { LibyaControlMap } from "@/components/LibyaControlMap";
 import { AutoFrame } from "@/components/AutoFrame";
 
@@ -24,6 +28,9 @@ export async function generateMetadata(): Promise<Metadata> {
 
 export default function Page() {
   requireVisibleArticle(SLUG);
+  const related = getAllArticles()
+    .filter((a) => a.slug !== SLUG)
+    .slice(0, 3);
 
   return (
     <main data-screen-label="Стаття · Африканська кампанія">
@@ -880,9 +887,9 @@ export default function Page() {
           </a>
           . Проте, під час відходу, військові колони накрили піщані бурі, що,
           напевно, було звичною справою для туарегів і не було нею для росіян:
-          перші змогли перегрупуватися, організувати засідку й застати противника
-          зненацька, після чого почалися запеклі бої з важкими втратами в людях
-          і техніці
+          перші змогли перегрупуватися, організувати засідку й застати
+          противника зненацька, після чого почалися запеклі бої з важкими
+          втратами в людях і техніці
           <a className="ref" href="#ref-40">
             [40]
           </a>
@@ -1120,14 +1127,14 @@ export default function Page() {
         </p>
 
         <p>
-          Восени 2024-го Le Monde помітило значні зміни в тактиці ведення
-          бою племенами туарегів, легкі квадрокоптери з саморобною системою
-          скидання підходять до цілі, скидають невеликі заряди й відходять. 4
-          жовтня такі дрони відпрацювали по табору армії в Гундамі в області
-          Томбукту, де стоять «вагнерівці», — за словами представника CSP,
-          загинули «щонайменше девʼять найманців»; у вересні така сама тактика
-          була застосована в Гундаму й по Лере за 150 кілометрів на південний
-          захід. Кожну таку атаку повстанці викладали в соцмережі
+          Восени 2024-го Le Monde помітило значні зміни в тактиці ведення бою
+          племенами туарегів, легкі квадрокоптери з саморобною системою скидання
+          підходять до цілі, скидають невеликі заряди й відходять. 4 жовтня такі
+          дрони відпрацювали по табору армії в Гундамі в області Томбукту, де
+          стоять «вагнерівці», — за словами представника CSP, загинули
+          «щонайменше девʼять найманців»; у вересні така сама тактика була
+          застосована в Гундаму й по Лере за 150 кілометрів на південний захід.
+          Кожну таку атаку повстанці викладали в соцмережі
           <a className="ref" href="#ref-49">
             [49]
           </a>
@@ -1370,19 +1377,22 @@ export default function Page() {
         </p>
 
         <p>
-          Навіщо це Тріполі — окреме питання, і відповідь на нього не про
-          Україну. Жалель Гаршауї, фахівець з Лівії, повʼязаний з RUSI, нагадує:
-          коли у вересні 2019 року російські бійці зʼявилися під Тріполі на боці
-          Хафтара, НАТО ухвалило просту доктрину — столиця має лишатися поза
-          досяжністю Росії. Саме тому Вашингтон підтримав масштабне турецьке
-          втручання
+          У вересні 2026-го, після розслідування CNN, міністерство оборони уряду
+          Тріполі заперечило, що базу в Місраті чи будь-який інший військовий
+          обʼєкт країни надавали для атак на іноземні держави. Про саму
+          присутність українців у заяві не йшлося
           <a className="ref" href="#ref-56">
             [56]
           </a>
-          . Диверсії на лівійській землі почалися ще раніше за нинішню
-          присутність: у грудні 2023-го на авіабазі Аль-Джуфра знищили дорогий
-          російський військово-транспортний літак, і ці випадки давно повʼязують
-          з українськими операторами за ймовірного сприяння НАТО
+          . Проте лівійські посадовці та дипломати з Тріполі в розмові з
+          аналітичним виданням The Geopolitical Desk (GPD) присутність не
+          заперечили. За їхніми словами, головне завдання українців — навчання,
+          насамперед бою й застосуванню дронів. Українські техніки також
+          допомагають розробляти й обслуговувати безпілотники та ремонтують
+          радянську техніку лівійських сил. Найбільше від цього виграли окремі
+          особи при владі, як, наприклад, заступник міністра оборони Абдельсалам
+          аз-Зубі й підпорядковані йому сили. Неофіційно Тріполі запевняв
+          Москву, що не дозволяє атакувати російські обʼєкти зі своєї території
           <a className="ref" href="#ref-56">
             [56]
           </a>
@@ -1390,20 +1400,58 @@ export default function Page() {
         </p>
 
         <p>
-          Далі — місцева політика. За словами Гаршауї, з травня по грудень 2025
-          року лідер країни Дбейба опинився в реальній небезпеці: напруга в
-          Тріполі, тиск з боку Хафтара й побоювання, що Туреччина, традиційний
-          покровитель заходу, дедалі більше «намагається догодити» східному
-          суперникові. Прем’єр шукав спосіб показати себе унікальним і цінним
-          для НАТО — а «один зі способів бути не таким, як проросійський Хафтар,
-          — бути антиросійським»
-          <a className="ref" href="#ref-56">
-            [56]
+          Чи був це прямий контакт — відкрите питання, але все могло початися за
+          сприяння НАТО. Жалель Гаршауї, фахівець з Лівії, повʼязаний з RUSI,
+          нагадує: коли у вересні 2019 року російські бійці зʼявилися під
+          Тріполі на боці Хафтара, НАТО ухвалило просту доктрину — столиця має
+          лишатися поза досяжністю Росії. Саме тому Вашингтон підтримав
+          масштабне турецьке втручання
+          <a className="ref" href="#ref-57">
+            [57]
+          </a>
+          . Диверсії на лівійській землі почалися в грудні 2023 року, коли на
+          авіабазі Аль-Джуфра знищили дорогий російський військово-транспортний
+          літак. Такі випадки давно повʼязують з українськими операторами за
+          ймовірного сприяння НАТО
+          <a className="ref" href="#ref-57">
+            [57]
+          </a>
+          .
+        </p>
+
+        <p>
+          За словами Гаршауї, з травня по грудень 2025 року лідер країни Дбейба
+          опинився в реальній небезпеці: напруга в Тріполі, тиск з боку Хафтара
+          й побоювання, що Туреччина, традиційний покровитель заходу, дедалі
+          більше «намагається догодити» східному суперникові. Прем’єр шукав
+          спосіб показати себе унікальним і цінним для НАТО — а «один зі
+          способів бути не таким, як проросійський Хафтар, — бути
+          антиросійським»
+          <a className="ref" href="#ref-57">
+            [57]
           </a>
           . Україна ж, за словами того самого аналітика, стала «дроновою
           столицею світу», і навколо цього виросли цілком комерційні структури —
           невеликі компанії, юридично зареєстровані в Болгарії, Сербії чи
           Туреччині, які возять фахівців і менторів туди, де за це платять
+          <a className="ref" href="#ref-57">
+            [57]
+          </a>
+          .
+        </p>
+
+        <p>
+          При цьому слід враховувати, що не всі українці на заході країни
+          перебувають там у межах офіційного розгортання: лівійські безпекові
+          джерела GPD вважають, що окремі гравці в силовій мережі Тріполі
+          наймають українських найманців і підрядників напряму. Саму столицю, за
+          оцінкою видання, турбує не так війна з Росією, як баланс між збройними
+          угрупованнями. І союзні уряду, і ворожі до нього угруповання
+          змагаються в дронах, шукають інженерів, купують дрони на чорному ринку
+          й збирають саморобні. Досі найпотужніші дрони лояльних до Тріполі сил
+          були турецькими, і це давало Анкарі голос у тому, коли і як їх
+          застосовувати. Українська експертиза може пришвидшити власне
+          виробництво й ремонт і зменшити залежність від Туреччини
           <a className="ref" href="#ref-56">
             [56]
           </a>
@@ -1422,23 +1470,23 @@ export default function Page() {
           «Альфа» уразила повітряними дронами танкер Qendil під прапором Оману.
           Судно йшло порожнім з індійського Джамнагара, де розвантажилося 1
           грудня, а до того вийшло з Новоросійська 4 листопада
-          <a className="ref" href="#ref-57">
-            [57]
+          <a className="ref" href="#ref-58">
+            [58]
           </a>
           . За даними Lloydʼs List Intelligence, удар стався, коли танкер ішов
           на захід між Мальтою й Критом — приблизно за 930 миль від України
-          <a className="ref" href="#ref-57">
-            [57]
+          <a className="ref" href="#ref-58">
+            [58]
           </a>
           . На відео, яке СБУ дала журналістам, боєприпаси скидає гексакоптер:
           це означає малу дистанцію, тобто дрони, найімовірніше, запускали з
           сусіднього судна
-          <a className="ref" href="#ref-57">
-            [57]
-          </a>
-          . RFI натомість пише, що дрон летів із Місрати
           <a className="ref" href="#ref-58">
             [58]
+          </a>
+          . RFI натомість пише, що дрон летів із Місрати
+          <a className="ref" href="#ref-59">
+            [59]
           </a>
           .
         </p>
@@ -1446,17 +1494,17 @@ export default function Page() {
         <p>
           СБУ наголосила, що танкер був порожній, тож екологічної загрози не
           було, і що з погляду міжнародного права це «абсолютно законна ціль»
-          <a className="ref" href="#ref-57">
-            [57]
+          <a className="ref" href="#ref-58">
+            [58]
           </a>
           . Відео оприлюднив волонтер Сергій Стерненко
-          <a className="ref" href="#ref-59">
-            [59]
+          <a className="ref" href="#ref-60">
+            [60]
           </a>
           . Того ж дня Путін на щорічній пресконференції пообіцяв «неодмінно
           відповісти» на українську кампанію проти тіньового флоту
-          <a className="ref" href="#ref-57">
-            [57]
+          <a className="ref" href="#ref-58">
+            [58]
           </a>
           .
         </p>
@@ -1481,12 +1529,12 @@ export default function Page() {
           на Порт-Саїд. Вантаж він узяв 18 лютого з плавучого сховища «Саам»
           біля Мурманська, а ввечері 2 березня вимкнув AIS на виході з виключної
           економічної зони Мальти
-          <a className="ref" href="#ref-60">
-            [60]
-          </a>
-          . Усіх тридцятьох членів екіпажу, громадян Росії, зняли з судна
           <a className="ref" href="#ref-61">
             [61]
+          </a>
+          . Усіх тридцятьох членів екіпажу, громадян Росії, зняли з судна
+          <a className="ref" href="#ref-62">
+            [62]
           </a>
           .
         </p>
@@ -1495,13 +1543,13 @@ export default function Page() {
           Путін назвав це «терористичною атакою», Мінтранс РФ — «актом
           міжнародного тероризму й морського піратства» й заявив, що судно
           уразили українські морські дрони, запущені з узбережжя Лівії
-          <a className="ref" href="#ref-61">
-            [61]
+          <a className="ref" href="#ref-62">
+            [62]
           </a>
           . Єгипет, до якого йшов вантаж, заперечив, що має з цим судном
           контракти
-          <a className="ref" href="#ref-61">
-            [61]
+          <a className="ref" href="#ref-62">
+            [62]
           </a>
           . За даними джерел RFI, це був надводний дрон типу «Магура V5», який
           влучив у машинне відділення; два з чотирьох цистерн із газом
@@ -1509,8 +1557,8 @@ export default function Page() {
           <a className="ref" href="#ref-15">
             [15]
           </a>
-          <a className="ref" href="#ref-58">
-            [58]
+          <a className="ref" href="#ref-59">
+            [59]
           </a>
           .
         </p>
@@ -1532,27 +1580,27 @@ export default function Page() {
           16 березня девʼять європейських країн написали Єврокомісії, що стан
           судна разом із характером вантажу створює «неминучий і серйозний ризик
           великої екологічної катастрофи»
-          <a className="ref" href="#ref-62">
-            [62]
+          <a className="ref" href="#ref-63">
+            [63]
           </a>
           . Мальта оголосила план реагування, але ні вона, ні Італія судно не
           забрали
-          <a className="ref" href="#ref-62">
-            [62]
+          <a className="ref" href="#ref-63">
+            [63]
           </a>
           . 21 березня лівійська державна нафтова корпорація почала
           буксирування, 2 квітня трос обірвався в шторм, і лівійська морська
           адміністрація визнала операцію невдалою, попередивши судна триматися
           щонайменше за десять миль
-          <a className="ref" href="#ref-62">
-            [62]
+          <a className="ref" href="#ref-63">
+            [63]
           </a>
           . 28 квітня буксир нарешті поставив газовоз на якір; наприкінці місяця
           він стояв за вісім миль на північний захід від Дарʼяни, приблизно за
           вісімнадцять миль від Бенгазі — тобто в тій частині Лівії, яку
           контролює Хафтар
-          <a className="ref" href="#ref-63">
-            [63]
+          <a className="ref" href="#ref-64">
+            [64]
           </a>
           .
         </p>
@@ -1567,20 +1615,20 @@ export default function Page() {
             хто візьметься щось робити, найімовірніше, залишиться з рахунком на
             товар. Судно опинилося в юридичному вакуумі, де ніхто нічого не
             мусить»
-            <a className="ref" href="#ref-62">
-              [62]
+            <a className="ref" href="#ref-63">
+              [63]
             </a>
             . За базою Equasis, власник судна — індійська компанія, а російська
             фірма на момент інциденту значилася лише «менеджером»; аналітик
             Starboard Марк Дуглас називає індійську структуру ймовірною ширмою
-            <a className="ref" href="#ref-62">
-              [62]
+            <a className="ref" href="#ref-63">
+              [63]
             </a>
             . Директор Eikland Energy К’єлл Ейкланд формулює ще різкіше: «Тут
             доводиться припустити, що Росія й „Новатек“ просто хочуть, щоб судно
             затонуло»
-            <a className="ref" href="#ref-62">
-              [62]
+            <a className="ref" href="#ref-63">
+              [63]
             </a>
             .
           </p>
@@ -1590,13 +1638,13 @@ export default function Page() {
           Ризики рахували окремо. WWF попереджав про «кріогенні хмари,
           смертельні для морської фауни», і тривале забруднення води й
           атмосфери. Крім газу, на борту лишалося близько девʼятисот тонн мазуту
-          <a className="ref" href="#ref-62">
-            [62]
+          <a className="ref" href="#ref-63">
+            [63]
           </a>
           . Лівійська нафтова корпорація згодом повідомила, що більшість газу,
           ймовірно, уже випарувалася
-          <a className="ref" href="#ref-63">
-            [63]
+          <a className="ref" href="#ref-64">
+            [64]
           </a>
           .
         </p>
@@ -1605,8 +1653,8 @@ export default function Page() {
           Наслідок зафіксували морські трекери: після березня російські газовози
           почали уникати Середземного моря й ходити довшим шляхом навколо
           Південної Африки
-          <a className="ref" href="#ref-63">
-            [63]
+          <a className="ref" href="#ref-64">
+            [64]
           </a>
           .
         </p>
@@ -1650,39 +1698,39 @@ export default function Page() {
           прибережній печері біля мису Дукато чорний безекіпажний катер. Двигун
           працював. Вони відбуксирували його в порт Василікі й передали
           береговій охороні
-          <a className="ref" href="#ref-64">
-            [64]
-          </a>
-          . Наступного дня катер перевезли на материк, вибухівку згодом знищили
           <a className="ref" href="#ref-65">
             [65]
+          </a>
+          . Наступного дня катер перевезли на материк, вибухівку згодом знищили
+          <a className="ref" href="#ref-66">
+            [66]
           </a>
           . «Схоже, він мав якусь несправність і рухався некеровано, — сказав
           заступник міністра морської політики Стефанос Гікас. — Тобто ця штука
           — чорна річ без навігації, з вибухівкою — могла протаранити туристичне
           судно»
-          <a className="ref" href="#ref-65">
-            [65]
+          <a className="ref" href="#ref-66">
+            [66]
           </a>
           .
         </p>
 
         <p>
           Грецькі посадовці спершу назвали катер українським Magura V3
-          <a className="ref" href="#ref-64">
-            [64]
+          <a className="ref" href="#ref-65">
+            [65]
           </a>
           . Компанія UFORCE, яка виробляє Magura, відповіла: «Ми маємо всі
           підстави заявити: судно, знайдене біля Лефкади, не є дроном Magura… До
           того ж UFORCE ніколи не виробляла версії V3, такої моделі не існує»
-          <a className="ref" href="#ref-66">
-            [66]
+          <a className="ref" href="#ref-67">
+            [67]
           </a>
           . Reuters виправив свою замітку, прибравши модель. За тиждень грецькі
           військові попередньо визначили тип інакше — «Козак Мамай», модель, яку
           українські сили застосовують у Чорному морі
-          <a className="ref" href="#ref-67">
-            [67]
+          <a className="ref" href="#ref-68">
+            [68]
           </a>
           .
         </p>
@@ -1705,8 +1753,8 @@ export default function Page() {
           Лівії». Попередній висновок був такий: дрон подолав невелику відстань,
           що робить запуск із Лівії менш імовірним, і ключовим чинником оцінки
           був рівень пального
-          <a className="ref" href="#ref-68">
-            [68]
+          <a className="ref" href="#ref-69">
+            [69]
           </a>
           . Через чотири місяці джерело в ГУР сказало CNN протилежне: катер утік
           саме від українських операторів у північно-західній Лівії
@@ -1721,26 +1769,26 @@ export default function Page() {
           12 травня міністр оборони Греції Нікос Дендіас заявив: «Тепер ми маємо
           певність, що це український безекіпажний катер», назвавши інцидент
           «надзвичайно серйозним питанням»
-          <a className="ref" href="#ref-65">
-            [65]
+          <a className="ref" href="#ref-66">
+            [66]
           </a>
           . Того ж дня речник МЗС України Георгій Тихий сказав, що «немає жодних
           свідчень про його приналежність до українських операторів морських
           дронів»
-          <a className="ref" href="#ref-69">
-            [69]
+          <a className="ref" href="#ref-70">
+            [70]
           </a>
           . Міністр оборони України Михайло Федоров на відеоконференції з
           європейськими колегами відмовився коментувати тему, коли Дендіас її
           підняв
-          <a className="ref" href="#ref-67">
-            [67]
+          <a className="ref" href="#ref-68">
+            [68]
           </a>
           . 14 травня грецький міністр закордонних справ Йоргос Геропетріс
           сформулював позицію Афін: «Перетворення Середземного моря на театр
           воєнних дій не буде толеруватися»
-          <a className="ref" href="#ref-67">
-            [67]
+          <a className="ref" href="#ref-68">
+            [68]
           </a>
           .
         </p>
@@ -1752,15 +1800,15 @@ export default function Page() {
           атакувати судна, що працюють на російські інтереси. Афіни повідомили
           Києву, що знають про цей план, і сказали, що хочуть визнання помилки й
           виведення з Середземного моря решти бойових дронів
-          <a className="ref" href="#ref-69">
-            [69]
+          <a className="ref" href="#ref-70">
+            [70]
           </a>
           . Наприкінці травня Греція вручила ноти протесту: «Присутність
           безекіпажного катера в грецьких територіальних водах створювала
           серйозну небезпеку для судноплавства й могла коштувати невинних
           життів», а «право України на самооборону не може виправдати таких дій»
-          <a className="ref" href="#ref-70">
-            [70]
+          <a className="ref" href="#ref-71">
+            [71]
           </a>
           .
         </p>
@@ -1769,8 +1817,8 @@ export default function Page() {
           5 червня Тихий вибачився: «Українська сторона висловлює перепрошення
           за інцидент, наголошуючи, що він став наслідком обставин, спричинених
           російською агресією проти України»
-          <a className="ref" href="#ref-71">
-            [71]
+          <a className="ref" href="#ref-72">
+            [72]
           </a>
           . Заява не визнавала ні походження катера, ні його місії. А в закритих
           розмовах, за даними дипломатичних джерел в Афінах, українські
@@ -1780,8 +1828,8 @@ export default function Page() {
           Договір про дружбу 1996 року, який зобовʼязує сторони консультуватися
           в таких ситуаціях, і докоряла, що Афіни винесли справу в медіа раніше,
           ніж у консультації
-          <a className="ref" href="#ref-72">
-            [72]
+          <a className="ref" href="#ref-73">
+            [73]
           </a>
           .
         </p>
@@ -1833,8 +1881,8 @@ export default function Page() {
             style={{ width: "100%", display: "block" }}
           />
           <figcaption>
-            Колаж із того самого допису Буданова: пустельні краєвиди, кулемет
-            і пікапи. Обличчя затерті в самому дописі.
+            Колаж із того самого допису Буданова: пустельні краєвиди, кулемет і
+            пікапи. Обличчя затерті в самому дописі.
           </figcaption>
         </figure>
 
@@ -2282,6 +2330,12 @@ export default function Page() {
               </a>
             </li>
             <li id="ref-56">
+              The Geopolitical Desk — «Ukraineʼs Libya launchpad», 25.09.2026.{" "}
+              <a href="https://www.thegeopoliticaldesk.com/ukraines-libya-launchpad/">
+                thegeopoliticaldesk.com
+              </a>
+            </li>
+            <li id="ref-57">
               Forbes, Пол Іддон — «How Ukraine Could Launch Drones From Libya To
               Strike Russiaʼs Tanker», 29.04.2026. З інтервʼю Жалеля Гаршауї
               (RUSI).{" "}
@@ -2289,7 +2343,7 @@ export default function Page() {
                 forbes.com
               </a>
             </li>
-            <li id="ref-57">
+            <li id="ref-58">
               The War Zone, Томас Ньюдік і Говард Олтман — «Ukraine Strikes
               Russia-Linked Tanker In The Mediterranean With “Bomber Drone”»,
               19.12.2025.{" "}
@@ -2297,28 +2351,28 @@ export default function Page() {
                 twz.com
               </a>
             </li>
-            <li id="ref-58">
+            <li id="ref-59">
               The Maritime Executive — «Libya Resumes Monitoring Arctic Metagaz
               as Report Details Ukrainian Attack», 07.04.2026.{" "}
               <a href="https://maritime-executive.com/article/libya-resumes-monitoring-arctic-metagaz-as-report-ids-attack-by-ukrainians">
                 maritime-executive.com
               </a>
             </li>
-            <li id="ref-59">
+            <li id="ref-60">
               Militarnyi — «Ukraine Hits Russian “Shadow Fleet” Tanker in
               Neutral Mediterranean Waters», 19.12.2025.{" "}
               <a href="https://militarnyi.com/en/news/ukraine-hits-russian-shadow-fleet-tanker-in-neutral-mediterranean-waters/">
                 militarnyi.com
               </a>
             </li>
-            <li id="ref-60">
+            <li id="ref-61">
               Militarnyi — «Sanctioned Arctic Metagaz Tanker Suffers Irreparable
               Damage After Strike», 04.03.2026.{" "}
               <a href="https://militarnyi.com/en/news/arctic-metagaz-suffers-irreparable-damage/">
                 militarnyi.com
               </a>
             </li>
-            <li id="ref-61">
+            <li id="ref-62">
               Al Jazeera — «Russia accuses Ukraine of drone attack as gas tanker
               sinks in Mediterranean», 04.03.2026. Повідомлення про затоплення
               згодом не підтвердилося.{" "}
@@ -2326,7 +2380,7 @@ export default function Page() {
                 aljazeera.com
               </a>
             </li>
-            <li id="ref-62">
+            <li id="ref-63">
               France 24 — «Arctic Metagaz: Russian “shadow fleet” tanker adrift
               in the Mediterranean faces uncertain fate», 08.04.2026. З
               коментарями Ієна Ралбі, Марка Дугласа (Starboard), Кʼєлла Ейкланда
@@ -2335,14 +2389,14 @@ export default function Page() {
                 france24.com
               </a>
             </li>
-            <li id="ref-63">
+            <li id="ref-64">
               Marine Insight — «Stricken Russian LNG Tanker Arctic Metagaz
               Anchors Off Libya After Drifting For Two Months», 05.05.2026.{" "}
               <a href="https://www.marineinsight.com/stricken-russian-lng-tanker-arctic-metagaz-anchors-off-libya-after-drifting-for-two-months/">
                 marineinsight.com
               </a>
             </li>
-            <li id="ref-64">
+            <li id="ref-65">
               eKathimerini — «Ukrainian Magura V3 naval drone found off Lefkada
               sparks investigation», 08.05.2026. У слагу URL лишилася V5:
               заголовок виправили після публікації, у тексті всюди V3.{" "}
@@ -2350,35 +2404,35 @@ export default function Page() {
                 ekathimerini.com
               </a>
             </li>
-            <li id="ref-65">
+            <li id="ref-66">
               AP через WTOP — «Greece says attack sea drone found on island is
               Ukrainian, calls incident “extremely serious”», 12.05.2026.{" "}
               <a href="https://wtop.com/russia-ukraine-war-news/2026/05/greece-says-attack-sea-drone-found-on-island-is-ukrainian-calls-incident-extremely-serious/">
                 wtop.com
               </a>
             </li>
-            <li id="ref-66">
+            <li id="ref-67">
               Militarnyi — «UFORCE: Marine Drone Found Off the Coast of Greece
               Is Not a Magura», 12.05.2026.{" "}
               <a href="https://militarnyi.com/en/news/marine-drone-coast-of-greece-not-a-magura/">
                 militarnyi.com
               </a>
             </li>
-            <li id="ref-67">
+            <li id="ref-68">
               eKathimerini — «FM says Ukraine war spilling over into
               Mediterranean “will not be tolerated”», 14.05.2026.{" "}
               <a href="https://www.ekathimerini.com/politics/foreign-policy/1303750/fm-says-ukraine-war-spilling-over-into-mediterranean-will-not-be-tolerated/">
                 ekathimerini.com
               </a>
             </li>
-            <li id="ref-68">
+            <li id="ref-69">
               Reuters — «Greek probe finds suspected Ukrainian sea drone lost
               course after malfunction, sources say», 15.05.2026.{" "}
               <a href="https://www.reuters.com/world/greek-probe-finds-suspected-ukrainian-sea-drone-lost-course-after-malfunction-2026-05-15/">
                 reuters.com
               </a>
             </li>
-            <li id="ref-69">
+            <li id="ref-70">
               «Українська правда» — «Greece lodges protest with Ukraine over
               naval drone found in its waters», 03.06.2026, і «No evidence that
               drone found off Greek coast belongs to Ukrainian operators»,
@@ -2387,18 +2441,18 @@ export default function Page() {
                 pravda.com.ua
               </a>
             </li>
-            <li id="ref-70">
+            <li id="ref-71">
               Kyiv Post — «Athens Accuses Ukraine of Endangering Mediterranean
               Security After Explosive-Laden Sea Drone Incident», 03.06.2026.{" "}
               <a href="https://www.kyivpost.com/post/77459">kyivpost.com</a>
             </li>
-            <li id="ref-71">
+            <li id="ref-72">
               Георгій Тихий, речник МЗС України, допис у X, 05.06.2026.{" "}
               <a href="https://x.com/SpoxUkraineMFA/status/2062992746122789353">
                 x.com
               </a>
             </li>
-            <li id="ref-72">
+            <li id="ref-73">
               «Українська правда» за Euractiv — «Right to self-defence: Ukraine
               tells Greece Russian vessels remain a target», 09.07.2026.{" "}
               <a href="https://www.pravda.com.ua/eng/news/2026/07/09/8043199/">
@@ -2408,6 +2462,35 @@ export default function Page() {
           </ol>
         </section>
       </div>
+
+      {/* ============ RELATED ARTICLES ============ */}
+      {related.length > 0 && (
+        <section className="section section--beige">
+          <div className="container">
+            <div className="section__head">
+              <h2 className="section__title">Інші матеріали</h2>
+              <Link href="/articles" className="section__more">
+                Архів →
+              </Link>
+            </div>
+            <div className="grid-3">
+              {related.map((a) => (
+                <Link
+                  key={a.slug}
+                  href={`/articles/${a.slug}`}
+                  className={`card${a.leadImage ? " card--photo" : ""}`}
+                >
+                  {a.leadImage && (
+                    <img src={a.leadImage} alt="" className="card__media" />
+                  )}
+                  <span className="card__date">{formatDate(a.date)}</span>
+                  <span className="card__title">{a.title}</span>
+                </Link>
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
     </main>
   );
 }

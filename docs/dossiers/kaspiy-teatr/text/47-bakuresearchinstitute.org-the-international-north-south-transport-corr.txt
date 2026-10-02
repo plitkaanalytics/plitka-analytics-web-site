@@ -1,0 +1,214 @@
+URL:         https://bakuresearchinstitute.org/en/the-international-north-south-transport-corridor-russias-geoeconomic-and-geopolitical-interests/
+Кінцевий:    https://bakuresearchinstitute.org/en/the-international-north-south-transport-corridor-russias-geoeconomic-and-geopolitical-interests/
+Заголовок:   The International North–South Transport Corridor: Russia’s Geoeconomic and Geopolitical Interests
+Дата публ.:  2024-09-11
+Завантажено: 2026-09-22 07:15 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 288914
+Оригінал:    raw/47-bakuresearchinstitute.org-the-international-north-south-transport-corr.html
+sha256:      79a8949113d6effb8059625056c1f413a9ef8980b62c11c35c2fd5cb1d0a99a0
+Витяг:       trafilatura
+
+==============================================================================
+During a meeting with Russian president Vladimir Putin, Azerbaijani president Ilham Aliyev noted the possibility of transporting cargo between 15 and 30 million tons per year through the western route of the International North–South Transport Corridor (INSTC). He also stated that this year Azerbaijan has already allocated funds of about 120 million dollars for the modernization of this railway section in order to reach the required throughput capacity.[[1]](#_ftn1) According to Russian and Azerbaijani government-affiliated experts, the transport corridor was one of the main discussed topics of Putin-Aliyev’s negotiations in Baku. Moreover, currently Moscow’s interests in the peace negotiations between Baku and Yerevan also focus on that transport corridor. Russian experts are increasingly discussing an alternative route for the western branch of the INSTC. These discussions focus on Astara (Iran) or Julfa (Azerbaijan), in other words the Sunik/Zangazur corridor.
+
+After the invasion of Ukraine in 2020, the INSTC is as important for the Russian economy as the Road of Life was for besieged Leningrad during WWII. Currently, among other problems, Moscow faces a lack of financial resources for the development of the transport project. In this respect, investments by participant countries such as Azerbaijan help Moscow to achieve access to markets of the Gulf countries, India and Africa through routes outside western control. Additionally, a transportation corridor through the former Soviet republics may help strengthen Russia’s presence in Central Asia and the South Caucasus where Moscow faces adversaries. This paper explores Moscow’s interests, expectations, challenges and benefits in the International North–South Transport Corridor.
+
+**What is the International North–South Transport Corridor?**
+
+The agreement creating the International North–South Transport Corridor (INSTC) was signed on 12 September 2000 by India, Iran and Russia. Later several countries joined the project (Kazakhstan, Belarus, the Sultanate of Oman, Tajikistan, Azerbaijan, Kyrgyzstan, Türkiye and Ukraine).[[2]](#_ftn2) Armenia, Syria and Bulgaria have been observers since 2006. Turkmenistan has not yet joined despite one of the INSTC’s Eastern route lines passing through its territory.[[3]](#_ftn3)
+
+The INSTC is a multimodal network of sea, rail and road routes. It connects the north-western part of Europe to the countries of Central Asia, the Persian Gulf and the Indian Ocean.[[4]](#_ftn4) The 7.200-km-long (from St. Petersburg to India) project was designed to promote economic cooperation among the participant countries and link the Indian Ocean and the Persian Gulf to the Caspian Sea, Russia and Europe via Iran.
+
+According to the Federation of Freight Forwarders’ Associations, the route would be 30% cheaper and 40% shorter than the current traditional Suez Canal route which takes 45-60 days, whereas the INSTC takes 25-30 days.[[5]](#_ftn5) According to other estimations, the 9.389 km-long New Delhi-Helsinki rail route initially proposed under the INSTC will take 21 days, compared to 45 days with the conventional 16.129 km-long sea route.[[6]](#_ftn6) However, recently it was estimated that INSTC railway routes can take more than 40 days to transport from India to Russia, and 35 days from Russia to India.[[7]](#_ftn7)
+
+The main product categories capable of containerization in all trading pairs of the transport corridor are food products (excluding grain and bulk oil), metals (ferrous and non-ferrous), metal products, wood, wood products, and paper, machinery and equipment, mineral fertilizers, textiles, textile products, and footwear. Grain is the main non-containerized cargo transported.[[8]](#_ftn8)
+
+Starting at the Russian-Finnish border and the port of St. Petersburg to the port of Bandar Abbas of Iran, the three main routes of the INSTC – *Western*, *Trans-Caspian*” and *Eastern* – are different in length, mode of transport, and level of development of main and ancillary infrastructure.
+
+• The Western route, which runs along the western coast of the Caspian Sea through Russia and Azerbaijan, is approximately 5.100 km. It has the best connections to railway and road networks of the South Caucasus
+
+• The Trans-Caspian route, which uses ferry and feeder container lines across the Caspian Sea, is approximately 4.900 km
+
+• The Eastern route runs along the eastern coast of the Caspian Sea through Kazakhstan and Turkmenistan and is approximately 6.100 km[[9]](#_ftn9)
+
+**Figure 1: The North-South Trade Corridor (A map created by Nurlan Aliyev and Dr. Oleh Skrynyk).**
+
+Although the INSTC is dubbed “a multimodal project” because it is a network of interconnected motor roads, railways, ports, and aviation hubs, the railways are the main transportation means. The share of the Western and Eastern routes in total potential container freight traffic is about 60% and 24%, respectively.[[10]](#_ftn10)
+
+**Why Russia’s interest in the INSTC is increasing**
+
+Economically speaking, the INSTC’s advantage for Russia compared to other transport routes, and above all sea shipments through the Suez Canal, is that it may reduce transit times. The INSTC also offers the economic benefit of using a Trans-Caspian multimodal route. It’s especially important for trade between Russia and Iran, and the continental route of the INSTC.
+
+The INSTC is of critical importance for the economies of some Russian regions, such as Volgograd, Astrakhan and Dagestan. Kazakhstan, Azerbaijan and Turkmenistan are key foreign trade partners for those regions.
+
+Many experts believe that the INSTC and a sea container line from China to St. Petersburg will help optimize logistics by unburdening the Far East. The traditional Vladivostok-Yekaterinburg-St. Petersburg route has several problems. These include an acute shortage of carrying capacity of the Eastern railway polygon; an excess of import over export; the necessity of transporting empty flatcars; and the idleness of ships at anchorage due to an overload of port infrastructure. At the same time, the number of empty containers in warehouses of transport and logistics centers is growing. A way to avoid those problems could be the involvement of the INSTC through the Iranian port of Bandar Abbas. The movement of cargo along this route from China to St. Petersburg takes 49-59 days (compared to 40-45 days on the traditional route), however, it will free up the scarce carrying capacity of the Eastern railway polygon for export cargo, optimize the logistics of empty and loaded containers, and promote the development of the INSTC, reducing operating losses due to the growth in traffic volumes.[[11]](#_ftn11)
+
+Russia aims to develop the INSTC routes and the total development investment in the INSTC from 2022-2030 will be about 280 billion rubles.[[12]](#_ftn12) The development of transit routes in the directions of the Caspian region, South and Southeast Asia, and the Persian Gulf countries is a priority for Russia. Moscow consistently tries to increase trade with these countries and aims to double the cargo turnover in the INSTC to at least 30 million tons by 2025, and by 2030 – up to 35 million tons, 155% more than in 2021.[[13]](#_ftn13)
+
+Besides the economic benefits, the INSTC has strategic importance for Moscow. Even before the start of the war in Ukraine, Russia considered the INSTC a geopolitical project. The INSTC provides Russia with control of access over the main transport routes in Eurasia and an alternative to the Western-controlled routes between Russia and the Global South. It’s a strategic issue for Russia considering their increasing grievances toward and the deterioration of relations with the West since the end of the 2000s. The Russian political elite also believes the INSTC is required by the great power competition.[[14]](#_ftn14) The importance of such a route significantly increased after the 2022 invasion. As Russia’s political and economic relations with the West deteriorate, its trade with India and Iran increases and relations with the countries of Central Asia and the South Caucasus have vital strategic significance. Exports of high-tech services and technologies from India and other Asian countries is a key priority for Russia after 24 February 2022. 
+
+Russian Railways is actively involved in railway and connectivity projects in Central Asia. In 2022, Russia, Kazakhstan, Turkmenistan and Iran established lower uniform container kilometer rates for the use of the eastern route’s infrastructure. Turkmenistan also agreed that Russian Railways will modernize the logistics route of the eastern route’s lines in the country.[[15]](#_ftn15) In April 2023, Kazakhstan, Turkmenistan and Russia agreed to create a single logistics operator for the development of transportation in the INSTC’s eastern route.[[16]](#_ftn16)
+
+In the western route, Russia and Azerbaijan signed an agreement on the coordinated development of checkpoints across state borders and transport routes which is important for the facilitation of trade and transportation.[[17]](#_ftn17) Russia promotes such agreements among all project participants.
+
+After the second Karabakh War, transport routes maintained their importance in relations between Baku and Yerevan with the active involvement of Moscow. Moscow is considering re-opening routes between Armenia and Azerbaijan to have railway access to Armenia and Turkey. Russia also seeks to control with Russian border guards the railway connection between Azerbaijan and its enclave Nakhichevan, which can connect to Türkiye.[[18]](#_ftn18) The latter is one of the issues under discussion in talks towards a final peace agreement between Armenia and Azerbaijan, and Moscow has been trying to coordinate those negotiations between Baku and Yerevan.
+
+**Julfa or Astara?**
+
+In recent months Russian logistic companies and experts stress that the construction of the Rasht-Astara railway line is not the only and perhaps not the optimal way to launch rail traffic along the western route of the North-South International Transport Corridor. An alternative could be the revival of transit through the Julfa station in Nakhichevan, through which freight traffic from the USSR to Iran went under the Soviet Union. In the late 1980s, the Julfa station on the border of Iran and the Nakhichevan ASSR handled up to 350 freight cars per day. The annual freight turnover at that time was about 3,5 million tons per year.
+
+According to Alexander Sharov, head of the RusIranExpo Group of Companies, the cargo capacity of Julfa is 5 million tons per year. For comparison, according to the calculations of the ANO Directorate of International Transport Corridors, 22,6 million tons of various cargo were transported along all three branches of the INSTC in 2023. Alexander Sharov, whose company imports raw chemicals and basic polymers for many Russian companies, believes that this figure is overstated. Currently, 60% of cargo along the western branch of the INSTC goes through Astara, 30% through the Armenian city of Meghri (this is the route by which cargo from Russia gets to Armenia through Iran), and 10% through another checkpoint on the Iranian-Azerbaijani border, in Bilesuvar (Bileh Savar).[[19]](#_ftn19)
+
+Although the agreement between Russia and Iran on the construction of the Rasht-Astara section over the course of five years was signed in May 2023, when it will start is still unclear. At the moment, the Russian Ministry of Transport says that the Iranian side is ready to provide less than 20% of the future route (about 30 out of 162 km) for geodetic and design and survey work. Unlike Astara and Bilesuvar, Julfa is already connected to other Iranian cities by railway with a single-track electrified line to the Tabriz junction station. Then a direct road opens to Tehran and further to one of the main points of the corridor: the port of Bandar Abbas on the coast of the Persian Gulf, from where cargo is sent to Mumbai (India).[[20]](#_ftn20)
+
+The thawing relations between Moscow and Tbilisi in recent months, allows Russia to attempt a restoration of rail links with Armenia through Abkhazia. If Moscow succeeds, Russia will have a railway connection with Armenia and further Iran.[[21]](#_ftn21)    
+
+**Strategic importance**
+
+Besides the INSTC’s role in trade relations, the network has strategic importance for Moscow as a way to avoid Western eyes and control. Reportedly, Russia and Iran mainly use the Caspian Sea for transportation of military equipment. In 2022, data intelligence revealed a September spike in the number of gaps in vessel tracking data in the Caspian. That’s shortly after the United States and Ukrainian governments reported that Moscow had acquired drones from Tehran. Suspected weapons transfers from Tehran to Moscow are taking place using this route, and that by turning off AIS vessel tracking, vessels are able to hide parts of their journeys, destinations or ship-to-ship transfers.[[22]](#_ftn22)
+
+Despite the media hype and statements from politicians of Russia and its strategic partners (Azerbaijan, Kazakhstan and Turkmenistan) in the Caspian Basin, Moscow still does not seem to trust the strategic route of trade and military equipment with Iran to other participants in the North-South Transport Corridor. A key role in this is given to the Makhachkala commercial port in Dagestan. According to the Head of Dagestan, the railway tracks adjacent to the port have a reserve capacity of up to 10 million tons of cargo per year. Makhachkala is connected by shipping routes to the Iranian ports of Astara, Enezeli, Noushehr and Amirabad. The further development of these connections is considered a priority area for the port’s activities. There are also plans to resume ferry services. This will allow the port to further develop the shipment of container cargo. The port already has two specialized berths with a total capacity of 1,6 million tons per year to receive railway and car ferries.[[23]](#_ftn23) A strategic investor will be involved in modernizing the port, according to the decree signed by Putin on 19 March. The Russian Federal government established JSC North-South, to which 100% of the shares of JSC Makhachkala Sea Commercial Port were transferred.[[24]](#_ftn24)
+
+**Prospects for the future**
+
+Besides increasing its own projects for the development of the INSTC, Russia is also attempting to increase the involvements of other participants.
+
+In order to increase the transport volume of the corridor, Moscow supports trade agreements between the Eurasian Economic Union (EAEU) and other INSTC participant countries. The EAEU-Iran preferential trade agreement (PTA), signed in May 2018, enables the formation of a free trade area (FTA) between the EAEU and Iran.[[25]](#_ftn25) The PTA offers lower tariffs on 862 commodity types, of which 502 are Iranian exports to the EAEU.[[26]](#_ftn26) Between October 2019 and October 2020 trade volume increased by 84%.[[27]](#_ftn27) The turnover between the EAEU and Iran amounted to 5.037,5 million US dollars in 2021, increasing by 73,5% compared to 2020 (2.904,3 million dollars).[[28]](#_ftn28) Recently the EAEU and Iran signed a Free Trade Agreement (FTA).[[29]](#_ftn29) EAEU also decided to speed up the proposed free trade agreement with India, which would give Indian companies market access to five post-Soviet countries.[[30]](#_ftn30)
+
+A new rail line linking Rasht–Astara (Iran)–Astara (Azerbaijan), the last unfinished link for establishing direct rail service along the Western route, will play an essential role in developing the INSTC. According to the intergovernmental agreement signed by Moscow and Tehran in May 2023, Russia will allocate an interstate loan in the amount of 1,3 billion euros for the construction of this railway.[[31]](#_ftn31)
+
+Sergey Shishkarev, head of the largest Russian container transportation company, the Delo Group of Companies, messaged Moscow that investors from Qatar, the UAE, Oman and Saudi Arabia were interested in investing in broad gauge through Dagestan to Astara – Rasht and double-track broad gauge through the Astara-Bandar Abbas (Iran) routes of the North-South Trade Corridor. He urged Russia to invest before China or India.[[32]](#_ftn32) According to him, his company is already working on the construction of a container hub in Sri Lanka as well. It plans the construction of a new port terminal for the transportation and shipment of containers in Sri Lanka, and the company hopes to attract investments from DP World and AD Ports (the UAE). is the company also plans to supply container ships with a capacity of up to 20 thousand TEU on the Bandar Abbas-Sri Lanka route. It also plans to build a railway, “Orthodox Cross”—to cross Africa horizontally through Ethiopia to the west coast, “to make part of the trans-African road from Egypt to South Africa, or to build chords from Egypt through the Central African Republic.” According to Shishkarev, the goal is “to ensure the transport sovereignty of Russia and its geopolitical influences in international markets.”[[33]](#_ftn33)
+
+The INSTC is already used for the Russian-Indian joint project, Reliance Sibur Elastomers Private Limited, a butyl and halogenated butyl rubber production facility at Jamnagar. Its main raw material—isoprene—is to be delivered from Togliatti.[[34]](#_ftn34) In July 2022, the first shipment through the INSTC arrived at Mumbai’s Jawaharlal Nehru Port from Russia’s Astrakhan Port.[[35]](#_ftn35) After the start of the Ukrainian invasion, trade between India and Russia increased, mainly because of the supply of the cheap Russian crude oil. In 2022, trade turnover between the two countries grew 2,6 times, exceeding $35 billion.[[36]](#_ftn36) In May, India and Iran signed a 10-year contract to develop and operate the Iranian port of Chabahar. The development of this port is a strategic issue that may influence geoeconomics of Eurasia. The idea is to increase competition and cooperation between regional and great powers and grow the economies of small countries of the region.[[37]](#_ftn37) The contract may give a boost to regional connectivity and India’s linkages with Afghanistan, Central Asia and Eurasia. In particular, Delhi hopes that the port of Chabahar, as a link with Afghanistan, Central Asia and greater Eurasia, will be able to compete with the Pakistani port of Gwadar controlled by Beijing and the Chinese Belt and Road Initiative. Moreover, India has proposed including Chabahar in the eastern route of the International North-South Transport Corridor, establishing a route from India to Russia through Iran, the South Caucasus and Central Asia.
+
+There are possibilities to achieve connectivity between the INSTC and other international routes in Eurasia. Especially in the Caspian ports, the INSTC’s Eastern route along the Caspian coast forms a single network with the China–Kazakhstan–Iran transport corridor and the INSTC. On the western route, Azerbaijan’s transport hub was initially seen as an intersection of the north–south and east–west corridors.[[38]](#_ftn38) Russian experts believe that “synergies” (their word) arising from interlinking the INSTC and the Eurasian east–west latitudinal transport corridors might be equivalent to 127.000–246.000 TEU (2,3–4,4 million tons), or about 40% of the total potential container freight traffic.[[39]](#_ftn39)
+
+Recently railway connection between China and Iran has been relaunched. Trains are running along the eastern route of the International North-South Transport Corridor through Kazakhstan and Turkmenistan. The first train carrying minerals from Iran to China departed on 21 July 2024. The country’s largest dry port of Aprin, located near Tehran, became the starting point. This terminal is located at the junction of Iran’s latitudinal and meridional railway corridors, making it a key logistics hub.[[40]](#_ftn40)
+
+However, those are rather positive scenarios, and other challenges for linking the INSTC and the BRI exist. The main challenge may be geopolitical competition between India and China. Russian experts stress that as the Eurasian transport backbone reaches out to China, India and the European Union, it can become a driver for implementing the idea of a Greater Eurasia and an efficient trans-Eurasian connectivity.
+
+Transportation by rail along three routes of the INSTC for the first quarter of 2023 increased two to three times compared to the same period in 2022. During this period, 2,2 million tons were transported along the western route (a several-fold increase), the Transcaspian route 74,7 thousand tons (a three-fold increase) and along the eastern route 234,8 thousand tons (double).[[41]](#_ftn41)
+
+**Challenges**
+
+Despite the prospects the INSTC has, without infrastructure modernization, it cannot develop.
+
+In March 2023, the terms of transportation from India, Iran and other countries of Southwest Asia along the Trans-Caspian route increased year-on-year to 60 days, and the price doubled to $7.000 for a 20-foot container (TEU). Capacity cannot cope with the growing volume of traffic, so delivery time on the Trans-Caspian route increased from 45 to 60 days. Delivery time from India to Russia is 55 days. Shipping from remote countries in Africa and South America takes 65 days. Against the backdrop of hype, tariffs doubled from $3.450 to $6.000-7.000 for a 40-foot container.[[42]](#_ftn42)
+
+Russian ports in the Caspian cannot cope with the growing cargo flow due to lack of berths, terminals, cranes and other infrastructure in Astrakhan, the small number of ships on Iran-Russia voyages, and congestion in the shoaled Volga-Don Canal. Due to lack of winter capacity, ships stand idle in the Astrakhan roadstead anywhere from 5 to 30 days. Vessels can stay idle for up to two weeks due to a lack of port facilities. The capacity is also limited by sand and silt pollution of the Volga-Don Canal.[[43]](#_ftn43) Several problems in the Russian railways are reflected even in official documents. For instance, the average annual investment in transport in the Russian Federation for 2014-2019 amounted to 2,3% of GDP, which is 1,4 times lower than the global average.[[44]](#_ftn44)
+
+The eastern route has challenges in increasing transportation such as restrictions on train passage because lines pass through mountain dips; passenger trains use the same railways and have priority which affects delivery time; weight restrictions and train car limits, and it passes the borders of more countries between Russia and India than other routes, which means more customs procedures.[[45]](#_ftn45)
+
+The only relatively developed route of the INSTC is the western one. There the transportation transit time from India to Russia is 40 days. The cost of delivery on the western route has decreased by half over the past year to $6,500 per TEU.[[46]](#_ftn46)
+
+In addition to the INSTC’s lack of carrying capacity—both sea and rail—when transiting through Iran, Iran’s northern ports have around 20% of modern infrastructure, southern ones around 60%, and the electrification of Iranian railways is quite low.[[47]](#_ftn47)
+
+Moreover, the INSTC project does not have a permanent coordination institution for participant countries. Differences in national policies of participant countries around transportation requirements and customs tariffs are also challenges for the development of the INSTC.
+
+**Conclusion**
+
+Since 2000, despite hope for trade and economic growth, subsequent economic and security issues in Eurasia have affected the INSTC’s development. Moreover, political statements and assurances of the participant countries, less was done to improve the INSTC. On the other hand, the invasion of Ukraine and Western sanctions have been a driver for Moscow’s increasing attempts to find alternative routes to global markets, such as India, South Asia, the Gulf States and East Africa. The volume of deliveries from India, Iran, Azerbaijan and Central Asia to Russia have increased since 2022. A steady growth in traffic in 2023 has been observed on all INSTC routes. However, without infrastructure modernization, the INSTC cannot develop towards the ends participant countries want to see.
+
+The prospectives of the INSTC are related to the BRI. In the near future, whether these two mega transport projects will connect or compete may determine the development of the INSTC. The geopolitical competition between the West and Russia, India and China, and the United States and China may hugely impact the future of the INSTC.
+
+Despite Russia, Iran, Azerbaijan and the Central Asian countries’ calls for connectivity between the two projects, concerns in New Delhi and Beijing regarding the other’s transport projects are strong. Moreover, the geopolitical interests of Russia, Iran, India and Turkey in the Caucasus and Central Asia do not always coincide.
+
+The United States and the EU can influence this competition mainly in the form of sanctions and investments. However, it is also possible that the West may provide waivers from the sanctions for India or the Central Asian countries in order to balance China’s strengthening economic relations in Eurasia. Such a scenario did, in fact, already happen in 2019 when the Trump administration exempted the Chabahar port from secondary US sanctions on Iran as a gesture toward India to allow them to increase their economic relations with Central Asia. However, given current relations among the West, Russia and Iran, such exemptions seem doubtful.
+
+**A more detailed, full version of the article is forthcoming at Asian Perspective, in the Spring 2025 issue**.
+
+[[1]](#_ftnref1) President.az. 2024. Il’kham Aliyev i Prezident Vladimir Putin vystupili s zayavleniyami dlya pressy August 19, [https://president.az/ru/articles/view/66707](https://president.az/ru/articles/view/66707).
+
+[[2]](#_ftnref2) The Ministry of Foreign Affairs of the Russian Federation.2016. “Mezhdunarodnyy transportnyy koridor ‘Sever – Yug’ (spravka)” , Nov 11, [https://www.mid.ru/print/?id=1537456&lang=ru](https://www.mid.ru/print/?id=1537456&lang=ru).
+
+[[3]](#_ftnref3) Internet Portal-SNG.2023.” Razvitiye Mezhdunarodnogo transportnogo koridora «Sever – Yug»” March 27, [https://e-cis.info/news/566/107838/](https://e-cis.info/news/566/107838/).
+
+[[4]](#_ftnref4) Vinokurov, E., Jadraliyev, M., & Shcherbanin, Y. 2009. The EurAsEC transport corridors.
+
+Almaty: Eurasian Development Bank, [https://vinokurov.info/wp-content/uploads/2019/12/corridors_eng.pdf](https://vinokurov.info/wp-content/uploads/2019/12/corridors_eng.pdf).
+
+[[5]](#_ftnref5) Ashok Sajjanhar.2018. “North-South Corridor and BRI are not incompatible”,  November 26, [https://news.cgtn.com/news/3d3d514e3459444f30457a6333566d54/share_p.html](https://news.cgtn.com/news/3d3d514e3459444f30457a6333566d54/share_p.html).
+
+[[6]](#_ftnref6) Hriday Ch Sarma and Dwayne R Menezes.2018.“The International North-South Transport Corridor (INSTC)”, Polar Research and Policy Initiative: The Polar Connection, June 6, [https://polarconnection.org/india-instc-nordic-arctic/](https://polarconnection.org/india-instc-nordic-arctic/).
+
+[[7]](#_ftnref7) Anna Rostovtseva.2022. “Transportnyy koridor “Sever-Yug” preimushchestva nedostatki i perspektivy”, NOVELCO LLC YouTube channel, December 22, minutes 19:46-20:17, [https://www.youtube.com/watch?v=6CX05sQeSco](https://www.youtube.com/watch?v=6CX05sQeSco).
+
+[[8]](#_ftnref8)   Evgeny Y. Vinokurov , Arman Ahunbaev and Alexander I. Zaboev.2022. “International North–South Transport Corridor: Boosting Russia’s “pivot to the South” and Trans‑Eurasian connectivity”, p.168.
+
+[[9]](#_ftnref9) Evgeny Y. Vinokurov , Arman Ahunbaev and Alexander I. Zaboev…, p. 165.
+
+[[10]](#_ftnref10) Evgeny Vinokurov. 2020. “Trans-Eurasian container traffic: A Belt and Road success story”, AFCA Working Paper, No. WP 20-03/69. AFCA: Beijing: Financial Cooperation Association. [https://vinokurov.info/wp-content/uploads/2020/02/afca-working-paper-no.2020.03-694-1.pdf](https://vinokurov.info/wp-content/uploads/2020/02/afca-working-paper-no.2020.03-694-1.pdf).
+
+[[11]](#_ftnref11) PortNews.2022.” MTK «Sever — Yug» i morskaya liniya iz KNR v Peterburg pomogut razgruzit’ vostochnoye napravleniye”, November 22, [https://portnews.ru/news/338987/](https://portnews.ru/news/338987/).
+
+[[12]](#_ftnref12) The Russian Government.2023.” Marat Khusnullin: Gruzopotok po mezhdunarodnomu transportnomu koridoru «Sever – Yug» k 2030 godu mozhet vyrasti do 35 mln tonn”, May 18, [http://government.ru/news/48506/](http://government.ru/news/48506/).
+
+[[13]](#_ftnref13) The Russian Government.2023.” Marat Khusnullin: Gruzopotok po mezhdunarodnomu transportnomu koridoru «Sever – Yug» k 2030 godu mozhet vyrasti do 35 mln tonn”, May 18, [http://government.ru/news/48506/](http://government.ru/news/48506/).
+
+[[14]](#_ftnref14) Nurlan Aliyev.2020. “Determinants of Russia’s Political Elite Security Thought: Similarities and Differences between the Soviet Union and Contemporary Russia”, an academic article, Problems of Post-Communism, Volume 67,  Issue 6, pp.467-477, DOI: 10.1080/10758216.2019.1689827.
+
+[[15]](#_ftnref15) Bolshaia Aziya.2022. “RZHD pomozhet Turkmenistanu modernizirovat’ zheleznyye dorogi”, June 11, [https://bigasia.ru/rzhd-pomozhet-turkmenistanu-modernizirovat-zheleznye-dorogi/](https://bigasia.ru/rzhd-pomozhet-turkmenistanu-modernizirovat-zheleznye-dorogi/).
+
+[[16]](#_ftnref16) Asel Shaikhynova.2023.“Edinogo logisticheskogo operatora sozdadut na marshrute koridora Sever – Yug”, April 21, [https://rail-news.kz/ru/news/14372-edinogo-logisticeskogo-operatora-sozdadut-na-marsrute-koridora-sever-iug.html](https://rail-news.kz/ru/news/14372-edinogo-logisticeskogo-operatora-sozdadut-na-marsrute-koridora-sever-iug.html).
+
+[[17]](#_ftnref17) Russian Government.2022. ““Rossiysko-azerbaydzhanskiye peregovory”,  November 17, [http://government.ru/news/47066/#docs](http://government.ru/news/47066/#docs).
+
+[[18]](#_ftnref18) Nurlan Aliyev.2021.“Russia’s approaches towards Armenia and Azerbaijan: evolution of the policy or interests come first?”, Sprawy Międzynarodowe (International Relations) Volume 74, Issue 4 (2021): pp. 151-168: [https://doi.org/10.35757/SM.2021.74.4.03](https://doi.org/10.35757/SM.2021.74.4.03).
+
+[[19]](#_ftnref19) Dmitriy Koptev .2024. “Astara ili Dzhul’fa: mneniya ekspertov”, July, [https://1520international.com/content/2024/iyul-2024/astara-or-julfa-expert-opinions/](https://1520international.com/content/2024/iyul-2024/astara-or-julfa-expert-opinions/).
+
+[[20]](#_ftnref20) Ibid.
+
+[[21]](#_ftnref21) Ekho Kavkaza.2023. “RF ‘prilagayet usiliya’ dlya vosstanovleniya zh/d soobshcheniya cherez Abkhaziyu – Zakharova”, June 29, [https://www.ekhokavkaza.com/a/32481716.html?utm_source=pocket_saves](https://www.ekhokavkaza.com/a/32481716.html?utm_source=pocket_saves).
+
+[[22]](#_ftnref22) “Lauren Kent and Salma Abdelaziz. 2023. “Iran has a direct route to send Russia weapons – and Western powers can do little to stop the shipments”, CNN, May 26, [https://edition.cnn.com/2023/05/26/europe/iran-russia-shipments-caspian-sea-intl-cmd/index.html](https://edition.cnn.com/2023/05/26/europe/iran-russia-shipments-caspian-sea-intl-cmd/index.html).
+
+[[23]](#_ftnref23) Press office of the Government of the Dagestan Republic.2024. “Dagestan za god na 28% narastil tovarooborot so stranami Prikaspiya i Belarus’yu” , July 15, [https://riadagestan.ru/news/the_government_of_the/dagestan_za_god_na_28_narastil_tovarooborot_so_stranami_prikaspiya_i_belarusyu/](https://riadagestan.ru/news/the_government_of_the/dagestan_za_god_na_28_narastil_tovarooborot_so_stranami_prikaspiya_i_belarusyu/).
+
+[[24]](#_ftnref24) RBK.2024. “Putin podpisal ukaz o peredache Makhachkalinskogo porta novoy kompanii”, March 19, [https://www.rbc.ru/business/19/03/2024/65f997a29a794752cc746d14](https://www.rbc.ru/business/19/03/2024/65f997a29a794752cc746d14).
+
+[[25]](#_ftnref25) [Eurasian Economic Comission.2022.”EAEU and Iran continued negotiations on Free Trade Agreement”, 27 April, ][https://eec.eaeunion.org/en/news/eaes-i-iran-prodolzhili-peregovory-po-soglasheniyu-o-svobodnoy-torgovle/](https://eec.eaeunion.org/en/news/eaes-i-iran-prodolzhili-peregovory-po-soglasheniyu-o-svobodnoy-torgovle/).
+
+[[26]](#_ftnref26) Financial Tribune,.2021. “EEU Official Says Bloc Yet to Receive Accession Request From Iran”, February 19, [https://financialtribune.com/articles/economy/107563/eeu-official-says-bloc-yet-to-receive-accession-request-from-iran](https://financialtribune.com/articles/economy/107563/eeu-official-says-bloc-yet-to-receive-accession-request-from-iran).
+
+[[27]](#_ftnref27) Vali Kaleji.2022. “Iran and Eurasian Economic Union Negotiations: Upgrading EAEU-Iran Preferential Trade Agreement into a Free Trade Agreement”, RIAC, January 24, [https://russiancouncil.ru/en/analytics-and-comments/columns/middle-east-policy/iran-and-eurasian-economic-union-negotiations-upgrading-eaeu-iran-preferential-trade-agreement-into-/](https://russiancouncil.ru/en/analytics-and-comments/columns/middle-east-policy/iran-and-eurasian-economic-union-negotiations-upgrading-eaeu-iran-preferential-trade-agreement-into-/).
+
+[[28]](#_ftnref28) Yevraziyskaya ekonomicheskaya komissiya. 2022. “YEAES i Iran prodolzhili peregovory po soglasheniyu o svobodnoy torgovle”, April 27, [https://eec.eaeunion.org/news/eaes-i-iran-prodolzhili-peregovory-po-soglasheniyu-o-svobodnoy-torgovle/](https://eec.eaeunion.org/news/eaes-i-iran-prodolzhili-peregovory-po-soglasheniyu-o-svobodnoy-torgovle/).
+
+[[29]](#_ftnref29) The Russian Government.2023. “The Eurasian Economic Union and the Islamic Republic of Iran sign free trade agreement”, December 25, [http://government.ru/en/news/50509/](http://government.ru/en/news/50509/).
+
+[[30]](#_ftnref30) Dipanjan Roy Chaudhury.2023.“Eurasian economic union meets to speed up proposed FTA with India”, May 26, [https://economictimes.indiatimes.com/news/economy/foreign-trade/eurasian-economic-union-meets-to-speed-up-proposed-fta-with-india/articleshow/100510786.cms](https://economictimes.indiatimes.com/news/economy/foreign-trade/eurasian-economic-union-meets-to-speed-up-proposed-fta-with-india/articleshow/100510786.cms).
+
+[[31]](#_ftnref31) Delovoy Peterburg.2023. Rossiya dast 1,3 mlrd yevro kredita na zheleznuyu dorogu v Irane dlya MTK “Sever-Yug”, May 17, [https://www.dp.ru/a/2023/05/17/rossija-dast-1-3-mlrd-evro](https://www.dp.ru/a/2023/05/17/rossija-dast-1-3-mlrd-evro).
+
+[[32]](#_ftnref32) Natal’ya Skorlygina. 2024.”Vot takiye u nas grandioznyye plany”, Gazeta «Kommersant”» №69,April 18, stp. 10.
+
+[[33]](#_ftnref33) Ibid.
+
+[[34]](#_ftnref34) Reliance Industries Ltd and Sibur. 2023.“A Partnership of Excellence”, [https://www.reliancesibur.com/about-us.html](https://www.reliancesibur.com/about-us.html).
+
+[[35]](#_ftnref35)  Indrajit Roy.2022. “Bringing Eurasia closer”, The Hindu, August 01, [https://www.thehindu.com/opinion/op-ed/bringing-eurasia-closer/article65706597.ece](https://www.thehindu.com/opinion/op-ed/bringing-eurasia-closer/article65706597.ece).
+
+[[36]](#_ftnref36) The Russian Government.2023.” Denis Manturov: Tovarooborot Rossii i Indii prevysil 35 mlrd dollarov”, April 18, [http://government.ru/news/48282/](http://government.ru/news/48282/).
+
+[[37]](#_ftnref37) The Economic Times.2024. “India’s counter to Pakistan’s Gwadar port: New Delhi signs 10-year Chabahar Port pact with Iran”, May 14, [https://economictimes.indiatimes.com/news/economy/foreign-trade/indias-counter-to-pakistans-gwadar-port-new-delhi-signs-10-year-chabahar-port-pact-with-iran/articleshow/110072344.cms](https://economictimes.indiatimes.com/news/economy/foreign-trade/indias-counter-to-pakistans-gwadar-port-new-delhi-signs-10-year-chabahar-port-pact-with-iran/articleshow/110072344.cms).
+
+[[38]](#_ftnref38) Alexander Karavayev  and Mandana Tishehyar .2019 “International North–South Transport Corridor and Transregional Integration Scenarios”…, p. 7.
+
+[[39]](#_ftnref39) Evgeny Y. Vinokurov , Arman Ahunbaev and Alexander I. Zaboev.2022. “International North–South Transport Corridor: Boosting Russia’s ‘pivot to the South’ and Trans‑Eurasian connectivity”, Russian Journal of Economics 8 (2022) 159–173, p.167.  DOI 10.32609/j.ruje.8.86617,
+
+[[40]](#_ftnref40) IRNA.2024. “China-Iran, Iran-China container trains relaunched”, July 21, [https://en.irna.ir/news/85544299/China-Iran-Iran-China-container-trains-relaunched](https://en.irna.ir/news/85544299/China-Iran-Iran-China-container-trains-relaunched), and,   Dmitry Koptev.2024. “MTK Sever – Yug svyazal Kitay s Iranom”, [https://1520international.com/content/2024/iyul-2024/north-south-links-china-with-iran/](https://1520international.com/content/2024/iyul-2024/north-south-links-china-with-iran/).
+
+[[41]](#_ftnref41) TASS.2023.” Perevozki zh/d transportom po koridoru Sever – Yug v I kvartale vyrosli v dva-tri raza”, May 3, [https://tass.ru/ekonomika/17670009](https://tass.ru/ekonomika/17670009).
+
+[[42]](#_ftnref42)   Kseniya Potayeva i Arina Litova.2023.Koridor «Sever – Yug» ne spravlyayetsya s vozrosshim gruzopotokom, 28 March, Vedomosti, [https://www.vedomosti.ru/business/articles/2023/03/28/968353-koridor-sever-yug-ne-spravlyaetsya-s-vozrosshim-gruzopotokom](https://www.vedomosti.ru/business/articles/2023/03/28/968353-koridor-sever-yug-ne-spravlyaetsya-s-vozrosshim-gruzopotokom).
+
+[[43]](#_ftnref43) Vitaliy Chernov. 2023. “Na ‘Sever — Yug’ i obratno”, PortNews,   April 10, https://portnews.ru/comments/3342/.
+
+[[44]](#_ftnref44) PRAVITEL’STVO ROSSIYSKOY FEDERATSII RASPORYAZHENIYe ot 27 noyabrya 2021 goda N 3363-r [O Transportnoy strategii Rossiyskoy Federatsii do 2030 goda s prognozom na period do 2035 goda] (Ofitsial’nyy internet-portal pravovoy informatsii www.pravo.gov.ru, 03.12.2021, p.21,  [https://docs.cntd.ru/document/727294161](https://docs.cntd.ru/document/727294161).
+
+[[45]](#_ftnref45) Anna Rostovtseva.2022. “Transportnyy koridor “Sever-Yug” preimushchestva nedostatki i perspektivy”, NOVELCO LLC YouTube channel, December 22, minutes 16:20-18:58, [https://www.youtube.com/watch?v=6CX05sQeSco](https://www.youtube.com/watch?v=6CX05sQeSco).
+
+[[46]](#_ftnref46)   Vitaliy Chernov. 2023. “Na ‘Sever — Yug’ i obratno”, PortNews,   April 10, [https://portnews.ru/comments/3342/](https://portnews.ru/comments/3342/).
+
+[[47]](#_ftnref47) Anna Rostovtseva.2022. “Transportnyy koridor “Sever-Yug” preimushchestva nedostatki i perspektivy”, NOVELCO LLC YouTube channel, December 22, minutes 16:20-18:58. [https://www.youtube.com/watch?v=6CX05sQeSco](https://www.youtube.com/watch?v=6CX05sQeSco).

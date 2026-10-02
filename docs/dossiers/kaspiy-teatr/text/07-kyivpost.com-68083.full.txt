@@ -1,0 +1,296 @@
+URL:         https://www.kyivpost.com/post/68083
+Кінцевий:    https://www.kyivpost.com/post/68083
+Заголовок:   Suspected Arms Cargo Ship From Iran Sinks in the Caspian
+Дата публ.:  2026-01-15
+Завантажено: 2026-09-21 14:37 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 115759
+Оригінал:    raw/07-kyivpost.com-68083.html
+sha256:      8a877b65a7cc7d42db513de43ac8c3ea916d69d9bf8835383c1b39a3fb2fccba
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 28
+==============================================================================
+Suspected Arms Cargo Ship From Iran Sinks in the Caspian
+The Iranian-flagged “Rona” was sailing a route well-known as an arms corridor, visiting the same ports on Russia’s Caspian shore that have been the targets of Ukraine’s covert operations in the past.
+(FILES) A file handout photo taken and released by the German Central Command for Maritime Emergencies (Havariekommando) on January 10, 2025 shows an aerial view taken from the sensor aircraft DO228 of the tanker 'Eventin', flying the Panama flag, as a towing connection is established from the emergency tug boat Bremen Fighter (back R) at sea north of the German Baltic Sea island of Ruegen. Germany said on March 21, 2025 it is holding the ageing oil tanker that is labelled part of Russia's sanctions-breaching "shadow fleet" after the vessel lost engine power in the Baltic Sea, north of the island of Ruegen, on January 10, 2025, unable to manoeuver. News weekly Der Spiegel said the German customs service had seized the vessel and its cargo, but officials declined to confirm this, saying "the customs measures have not yet been legally concluded". (Photo by Handout / Havariekommando / AFP) / RESTRICTED TO EDITORIAL USE - MANDATORY CREDIT "AFP PHOTO / HAVARIEKOMMANDO" - NO MARKETING NO ADVERTISING CAMPAIGNS - DISTRIBUTED AS A SERVICE TO CLIENTS
+Finnish President Alexander Stubb dismissed warnings of a potential Russian attack on NATO, citing the alliance’s strong deterrence and Moscow’s troop losses.
+To suggest a correction or clarification, write to us here
+Please leave your suggestions or corrections here
+Kyiv Post is Ukraine’s first and oldest English news organization, reporting since 1995. Its international reach – 97% of readers are outside of Ukraine – make it truly Ukraine’s global voice.
+Putin Signs Three Secret Decrees as CIA Chief Makes Surprise Moscow Visit
+CIA Chief Told Kremlin Russia’s War Is Going Badly – and Putin May Not Know It, NYT Says
+Ukraine Planned 1,000-Drone Swarm to Paralyze Moscow Airports
+Ukraine May Have Left 2 Russian Frigates Unable to Launch Missiles After Novorossiysk Strike
+Ukrainian Military Adds Jet-Powered 'Alexa Spatium' Interceptor Drones to Its Arsenal
+UK Allows Release of Storm Shadow Missile Data to Boost Ukraine Production
+Iran Eyes US Military Targets in Europe if War Escalates
+US Awards Raytheon $22.9 Billion Deal to Boost Tomahawk
+Moscow Sentences Ex-Ukrainian Adviser Arestovych to 11 Years in Prison
+EU Prepares New Sanctions Package Targeting 1,600 Russian Entities
+Russia Vows Major Strikes on Ukrainian Energy Grid
+Brussels Refuses to Confirm Greenland Covered by EU Defense Clause as Trump Escalates Threats
+Real NATO Crisis Isn’t Europe – It’s Washington, McConnell Warns
+The decrees, numbered 605, 606 and 607, were signed but not published, leaving their contents unknown.
+Web links to Kyiv Post material are allowed provided that they contain a hyperlink to the
+stories and only a brief extract (not more than 10 percent) of the text.
+Online media registration number: R40-05383
+All materials, including photographs, contained on this site are protected by copyright law and
+not be reproduced without the prior written permission of BIZNESGRUPP TOV at
+All Interfax-Ukraine news agency stories cannot be reproduced or distributed in any form without
+written permission of Interfax-Ukraine.
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Suspected Arms Cargo Ship From Iran Sinks in the Caspian
+War
+Ukraine
+World
+North America
+Latin America
+Europe
+Eastern Europe
+Middle East
+Africa
+Asia
+Economy
+Business
+Technology
+Finance
+Energy
+Agriculture
+Videos
+Podcasts
+Analysis
+Corruption Watch
+Opinions
+Culture
+Reviews
+History
+Sports
+Classifieds
+Spotlight
+Cartoons
+War
+Ukraine
+World
+Economy
+Videos
+Analysis
+Opinions
+Classifieds
+Spotlight
+EN
+UK
+EN
+UK
+War
+Ukraine
+World
+North America
+Europe
+Eastern Europe
+Middle East
+Asia
+Economy
+Business
+Technology
+Finance
+Energy
+Agriculture
+Videos
+Analysis
+Opinions
+Classifieds
+Spotlight
+Home
+Ukraine
+Suspected Arms Cargo Ship From Iran Sinks in the Caspian
+Weapons
+Iran
+Russia
+Suspected Arms Cargo Ship From Iran Sinks in the Caspian
+In brief:
+The Iranian-flagged “Rona” was sailing a route well-known as an arms corridor, visiting the same ports on Russia’s Caspian shore that have been the targets of Ukraine’s covert operations in the past.
+by
+Kyiv Post
+|
+                    
+                    Jan. 15, 2026, 3:21 am
+Make us preferred on Google
+Flip
+Share
+Facebook
+X (Twitter)
+LinkedIn
+Bluesky
+Email
+Copy
+Copied
+(FILES) A file handout photo taken and released by the German Central Command for Maritime Emergencies (Havariekommando) on January 10, 2025 shows an aerial view taken from the sensor aircraft DO228 of the tanker 'Eventin', flying the Panama flag, as a towing connection is established from the emergency tug boat Bremen Fighter (back R) at sea north of the German Baltic Sea island of Ruegen. Germany said on March 21, 2025 it is holding the ageing oil tanker that is labelled part of Russia's sanctions-breaching "shadow fleet" after the vessel lost engine power in the Baltic Sea, north of the island of Ruegen, on January 10, 2025, unable to manoeuver. News weekly Der Spiegel said the German customs service had seized the vessel and its cargo, but officials declined to confirm this, saying "the customs measures have not yet been legally concluded". (Photo by Handout / Havariekommando / AFP) / RESTRICTED TO EDITORIAL USE - MANDATORY CREDIT "AFP PHOTO / HAVARIEKOMMANDO" - NO MARKETING NO ADVERTISING CAMPAIGNS - DISTRIBUTED AS A SERVICE TO CLIENTS
+Content
+Share
+Facebook
+X (Twitter)
+LinkedIn
+Bluesky
+Email
+Copy
+Copied
+Flip
+Make us preferred on Google
+An Iranian-flagged, ship sunk in the Caspian Sea as it was
+returning from a voyage
+to Russia on Wednesday, according to authorities in Turkmenistan. The cargo freighter was suspected of carrying weapons from Iran to Russia through a route popular for that purpose.
+The bulk carrier, the Rona, had a displacement of 2,453 tons, and was 114 meters long (about 350 feet) and 13 meters (about 40 feet) wide. Turkmenistan’s Ministry of Foreign Affairs said that rescuers saved all 14 people on board the Rona, all of them citizens of Iran and India, after an SOS signal went out from the vessel.
+JOIN US ON TELEGRAM
+Follow our coverage of the war on the
+@Kyivpost_official
+.
+Tracking data shows that the Rona called at the Russian ports of Astrakhan, Makhachkala and Azov some 20 times between October 2024 and December 2025. It sailed there from the Iranian ports of Amirabad and Anzali. Again, the Rona’s destination this time was Astrakhan.
+Advertisement
+Last month, a unit from Ukraine’s Special Operations Forces, in cooperation with the resistance movement Chornaya Iskra (Black Spark), carried out a
+special operation
+in the Caspian Sea that resulted in the striking of two Russian vessels transporting weapons and military equipment.
+In August 2025, Ukrainian forces
+struck the Olya seaport
+in the Astrakhan region, hitting a ship loaded with Shahed
+drone
+components and ammunition from Iran. Olya serves as a key logistics hub for importing military supplies from Iran.
+Other Topics of Interest
+Finnish President Stubb Dismisses Imminent Russian Threat to NATO
+Finnish President Alexander Stubb dismissed warnings of a potential Russian attack on NATO, citing the alliance’s strong deterrence and Moscow’s troop losses.
+According to a
+statement
+from Ukraine’s Armed Forces at the time, Special Operations Forces (
+SSO
+), in coordination with other units of the Defense Forces targeted the port to reduce Russia’s capacity to launch airstrikes.
+A
+CNN report in 2023
+zeroed in on the shipping routes used by suspected arms shipments, cataloguing the hundreds of ships that turned off their transponders at certain points in the trips, or “going dark”.
+“Most gaps in the tracking data for Russia-flagged and Iran-flagged cargo ships have occurred near Iran’s Amirabad and Anzali ports, as well as in Russia’s Volga River and its port in Astrakhan,” the CNN report read.
+Advertisement
+“There is no risk to Iranian exports in the Caspian Sea because of the bordering countries – they don’t have the capability or motive to interdict in these sorts of exchanges,” Martin Kelly, lead intelligence analyst at security company EOS Risk Group, told CNN.
+It’s a “perfect environment for this trade to go unopposed,” Kelly added.
+A Wall Street Journal Report, also in 2023, verified that “Russian ships are ferrying large quantities of Iranian artillery shells and other ammunition across the Caspian Sea to resupply troops fighting in Ukraine.”
+To suggest a correction or clarification, write to us here
+You can also highlight the text and press
+Ctrl + Enter
+Contact Us
+Please leave your suggestions or corrections here
+Cancel
+Send
+Kyiv Post
+Kyiv Post is Ukraine’s first and oldest English news organization, reporting since 1995. Its international reach – 97% of readers are outside of Ukraine – make it truly Ukraine’s global voice.
+POPULAR
+Putin Signs Three Secret Decrees as CIA Chief Makes Surprise Moscow Visit
+By
+                                                                                        Alisa Orlova
+Aug. 26, 2026
+CIA Chief Told Kremlin Russia’s War Is Going Badly – and Putin May Not Know It, NYT Says
+By
+                                                                                        Kyiv Post
+Aug. 28, 2026
+Ukraine Planned 1,000-Drone Swarm to Paralyze Moscow Airports
+By
+                                                                                        Kyiv Post
+Aug. 21, 2026
+Ukraine May Have Left 2 Russian Frigates Unable to Launch Missiles After Novorossiysk Strike
+By
+                                                                                        Julia Struck-Feshchenko
+Aug. 20, 2026
+More on Weapons
+War in Ukraine
+Ukrainian Military Adds Jet-Powered 'Alexa Spatium' Interceptor Drones to Its Arsenal
+By
+                    Kyiv Post
+Aug. 26, 2026
+War in Ukraine
+UK Allows Release of Storm Shadow Missile Data to Boost Ukraine Production
+By
+                    Kyiv Post
+Updated: Aug. 24, 2026
+Ukraine
+Iran Eyes US Military Targets in Europe if War Escalates
+By
+                    Kyiv Post
+Aug. 19, 2026
+US
+US Awards Raytheon $22.9 Billion Deal to Boost Tomahawk
+By
+                    Kyiv Post
+Aug. 18, 2026
+Read Next
+Ukraine
+Moscow Sentences Ex-Ukrainian Adviser Arestovych to 11 Years in Prison
+By
+                    Kyiv Post
+5m ago
+Europe
+EU Prepares New Sanctions Package Targeting 1,600 Russian Entities
+By
+                    Kyiv Post
+1h ago
+Europe
+Finnish President Stubb Dismisses Imminent Russian Threat to NATO
+By
+                    Kyiv Post
+2h ago
+War in Ukraine
+Russia Vows Major Strikes on Ukrainian Energy Grid
+By
+                    Kyiv Post
+3h ago
+« Previous
+Brussels Refuses to Confirm Greenland Covered by EU Defense Clause as Trump Escalates Threats
+Next »
+Real NATO Crisis Isn’t Europe – It’s Washington, McConnell Warns
+POPULAR
+Putin Signs Three Secret Decrees as CIA Chief Makes Surprise Moscow Visit
+The decrees, numbered 605, 606 and 607, were signed but not published, leaving their contents unknown.
+By
+                                                                                                    Alisa Orlova
+Aug. 26, 2026
+CIA Chief Told Kremlin Russia’s War Is Going Badly – and Putin May Not Know It, NYT Says
+By
+                                                                                        Kyiv Post
+Aug. 28, 2026
+Ukraine Planned 1,000-Drone Swarm to Paralyze Moscow Airports
+By
+                                                                                        Kyiv Post
+Aug. 21, 2026
+back to top
+Menu
+Ukraine
+World
+Business
+Economy
+Classifieds
+Spotlight
+PDF Archive
+Multimedia
+Video
+Podcasts
+Cartoons
+About
+About Us
+Contact Us
+Advertising
+Newsletter
+Policies
+Privacy Policy
+Cookie Policy
+Terms & Conditions
+Web links to Kyiv Post material are allowed provided that they contain a hyperlink to the
+                            stories and only a brief extract (not more than 10 percent) of the text.
+Online media registration number: R40-05383
+© 1995-2026 BISNESGROUPP LLC
+All materials, including photographs, contained on this site are protected by copyright law and
+                    may
+                    not be reproduced without the prior written permission of BIZNESGRUPP TOV at
+[email protected]
+.
+All Interfax-Ukraine news agency stories cannot be reproduced or distributed in any form without
+                    written permission of Interfax-Ukraine.

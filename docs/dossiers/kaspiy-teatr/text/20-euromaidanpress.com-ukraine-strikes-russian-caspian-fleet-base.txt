@@ -1,0 +1,53 @@
+URL:         https://euromaidanpress.com/2026/05/15/ukraine-strikes-russian-caspian-fleet-base/
+Кінцевий:    https://euromaidanpress.com/2026/05/15/ukraine-strikes-russian-caspian-fleet-base/
+Заголовок:   Ukraine strikes Russian Caspian Fleet base deep inside Russia, home to missile-capable ships used in Kalibr strikes – General Staff
+Дата публ.:  2026-05-15
+Завантажено: 2026-09-21 14:38 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 364077
+Оригінал:    raw/20-euromaidanpress.com-ukraine-strikes-russian-caspian-fleet-base.html
+sha256:      58811a696d847f5d1617af9a4183672285b674e842fc52fff3be08c22ae651ba
+Витяг:       trafilatura
+
+==============================================================================
+Ukraine’s General Staff says its forces struck Russian naval assets at the Kaspiysk base in the Caspian Sea, damaging a small missile ship and a minesweeper.
+
+The [strikes](https://t.me/GeneralStaffZSU/38684) were carried out overnight on 15 May, with the extent of damage still being assessed.
+
+### Naval assets hit in Caspian Sea base
+
+Kaspiysk has served as the main base of Russia’s Caspian Flotilla since 2020, hosting missile-capable small warships as well as support vessels.
+
+The flotilla includes small missile ships such as the Buyan, Buyan-M and Karakurt classes, alongside missile boats and minesweepers. Some of these platforms are capable of launching Kalibr cruise missiles, which have been used extensively in strikes against Ukraine.
+
+Unverified reports from OSINT channel Exilenova+ [suggest](https://t.me/exilenova_plus/20603) a significant number of casualties among Russian personnel, with mention of 30 wounded. Local accounts describe ongoing emergency response activity in the area following the strike. 
+
+Ukraine has previously targeted Russian military assets in the Caspian Sea region on several occasions, despite its distance from the front line, reflecting an expanding strike range against strategic naval infrastructure supporting long-range missile operations.
+
+### Major fire reported at Ryazan oil refinery
+
+In the same wave of strikes, Ukrainian forces hit the [Ryazan oil refinery](https://euromaidanpress.com/2026/05/15/moscows-fuel-supplier-under-fire-ukrainian-drones-strike-rosnefts-ryazan-refinery/) in Russia’s Ryazan Oblast.
+
+The General Staff reported a large fire at the site following the strike, describing it as one of the country’s key fuel production facilities.
+
+The refinery is among Russia’s largest, with an annual processing capacity of around 17 million tonnes of crude oil. It produces gasoline, diesel, and jet fuel, including supplies used by Russian military aviation.
+
+Kyiv has repeatedly targeted Russia’s fuel infrastructure in an effort to disrupt logistics and reduce the military’s ability to sustain operations.
+
+### Ammunition and logistics sites across occupied territories
+
+Ukraine also reports strikes on ammunition depots in the occupied Luhansk region, including areas near Yepifanivka and Rovenky.
+
+Additional targets included a logistics storage facility in Raihorodka and an electronic warfare equipment depot in Dmytrivka in occupied Donetsk Oblast.
+
+In Mariupol, Ukrainian forces struck a Russian FSB technical reconnaissance post, reportedly damaging radar systems and optical-electronic modules. A fuel and lubricants depot in the city was also hit.
+
+The latest wave of strikes is part of Ukraine’s sustained efforts to degrade Russian fuel supply chains, ammunition reserves, and military infrastructure across multiple directions.
+
+## Read also
+
+- 
+						### Russia’s secret drone math: one Tatarstan plant could yield 28,000 more drone bodies a year
+- 
+						### Ukraine and Hungary have a rare moment of cooperation, agreeing to build fuel storage beyond Russia’s reach
+- 
+						### Russia has already destroyed more than two-fifths of Ukraine’s modern warehouse space as it escalates attacks on economic infrastructure – FT

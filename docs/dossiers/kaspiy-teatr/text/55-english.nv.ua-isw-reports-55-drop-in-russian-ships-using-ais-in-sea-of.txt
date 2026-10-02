@@ -1,0 +1,48 @@
+URL:         https://english.nv.ua/nation/isw-reports-55-drop-in-russian-ships-using-ais-in-sea-of-azov-50623793.html
+Кінцевий:    https://english.nv.ua/nation/isw-reports-55-drop-in-russian-ships-using-ais-in-sea-of-azov-50623793.html
+Заголовок:   Russian ship numbers in the Sea of Azov may have halved since July – ISW
+Дата публ.:  2026-07-12
+Завантажено: 2026-09-30 16:38 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 86939
+Оригінал:    raw/55-english.nv.ua-isw-reports-55-drop-in-russian-ships-using-ais-in-sea-of.html
+sha256:      7e579077a692495d46c82eb6ecbe61640d7ad0dadfb1d04876db801764487efa
+Витяг:       trafilatura
+
+==============================================================================
+# Russian ship numbers in the Sea of Azov may have halved since July – ISW
+
+The number of Russian ships in the Sea of Azov has decreased since the beginning of July (Photo: Commander of Unmanned Aerial Systems Force/Handout via REUTERS)
+
+Russian-flagged vessels operating with active Automatic Identification System (AIS) transponders in the Sea of Azov may have dropped by 55% between June 30 and July 11, [according to Starboard Maritime Intelligence data cited by the Institute for the Study of War in a report released](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-july-11-2026/) on July 12.
+
+According to vessel-tracking data, 267 vessels with active AIS transponders were detected in the Sea of Azov on June 30. By July 11, that number had fallen to 120.
+
+On June 30, vessels with active AIS transponders were distributed across the Sea of Azov, along the Russian coast and Russian-occupied areas of Ukraine, as well as in Russian ports and ports in occupied Ukrainian territories.
+
+By contrast, Starboard data for July 11 showed significantly fewer vessels transmitting AIS signals in the Sea of Azov. Most were concentrated near ports, along the coastline or in Taganrog Bay. Starboard data for both June 30 and July 11 also showed several AIS signals originating from inland areas of Russia and Russian-occupied parts of Ukraine.
+
+The analysts noted that AIS data can be spoofed or jammed, causing signals to appear on land or outside a vessel's actual route. Starboard's data reflects a methodologically consistent count of AIS transponders actively broadcasting location data — whether genuine or spoofed — in the Sea of Azov and the Kerch Strait, and therefore does not represent the exact number of vessels operating in those waters.
+
+Earlier, Reuters reported that Russia had temporarily suspended shipping through the Don-Azov Canal and the Kerch Strait, which connects the Sea of Azov and the Black Sea, following Ukrainian attacks on Russian vessels. The decision came after Ukraine struck 13 Russian vessels in the Sea of Azov, including 10 tankers.
+
+On July 11, Russian authorities said drones had attacked four vessels overnight in Taganrog Bay in the Sea of Azov, including a methanol tanker. Russian officials claimed the vessels sustained only "minor damage" and that there was no risk of a cargo leak.
+
+On July 10, Ukraine's Unmanned Systems Forces reported striking another 13 Russian shadow fleet tankers. Overall, Ukrainian drones hit 48 Russian vessels in the Sea of Azov over a five-day period.
+
+According to Defense Express analysts, about 120 Russian vessels may currently be operating in the Sea of Azov, the majority of them bulk carriers.
+
+**The military war may be swinging in our favor, but the information war continues.**
+
+Just as an army needs soldiers, so does a free society need its journalists to ensure that people have access to honest, trustworthy voices to understand the world around them.
+
+For the past five years, The New Voice of Ukraine has been working tirelessly to push back against Russian narratives and defend democracy. But we cannot do it alone.
+
+                            Please consider [supporting us on Patreon](https://link.nv.ua/promo_en_nv_ua) for just $5 a month – your donation does directly to supporting journalists and ensuring that this front of the infowar says solid and defended.
+                            
+
+                        
+
+Thank you.
+
+Follow us on [Twitter](https://twitter.com/NewVoiceUkraine), [Facebook](https://www.facebook.com/TheNewVoiceUkraine) and
+                    [Google News](https://news.google.com/publications/CAAqBwgKMLeesQswxLnIAw)

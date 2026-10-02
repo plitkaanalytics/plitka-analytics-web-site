@@ -2,7 +2,11 @@ import "../../../(main)/articles/chotyry-roky-v-mori-frehaty/frigates.css";
 import "../../../(main)/articles/afrykanska-kampaniia/libya-control.css";
 import type { Metadata } from "next";
 import Link from "next/link";
-import { requireVisibleArticle } from "@/lib/articles";
+import {
+  requireVisibleArticle,
+  formatDate,
+  getAllArticles,
+} from "@/lib/articles";
 import IfArticleVisible from "@/components/IfArticleVisible";
 import { LibyaControlMap } from "@/components/LibyaControlMap";
 import { AutoFrame } from "@/components/AutoFrame";
@@ -25,6 +29,9 @@ export async function generateMetadata(): Promise<Metadata> {
 
 export default function Page() {
   requireVisibleArticle(SLUG, "en");
+  const related = getAllArticles("en")
+    .filter((a) => a.slug !== SLUG)
+    .slice(0, 3);
 
   return (
     <main data-screen-label="Story · The Africa campaign">
@@ -1090,9 +1097,9 @@ export default function Page() {
         </figure>
 
         <p>
-          On 4 August Mali broke off diplomatic relations with Ukraine,
-          accusing it of “supporting international terrorism” and invoking the
-          “neo-Nazi and cowardly nature” of the Ukrainian authorities
+          On 4 August Mali broke off diplomatic relations with Ukraine, accusing
+          it of “supporting international terrorism” and invoking the “neo-Nazi
+          and cowardly nature” of the Ukrainian authorities
           <a className="ref" href="#ref-42">
             [42]
           </a>
@@ -1187,9 +1194,8 @@ export default function Page() {
           <a className="ref" href="#ref-51">
             [51]
           </a>
-          . The army said it had killed “several hundred” attackers and
-          repelled the assault; a government spokesman gave a figure of sixteen
-          wounded
+          . The army said it had killed “several hundred” attackers and repelled
+          the assault; a government spokesman gave a figure of sixteen wounded
           <a className="ref" href="#ref-51">
             [51]
           </a>
@@ -1244,9 +1250,7 @@ export default function Page() {
             loading="lazy"
             style={{ aspectRatio: "16/9", height: "auto" }}
           />
-          <figcaption>
-            The Africa Corps leaves Kidal, April 2026.
-          </figcaption>
+          <figcaption>The Africa Corps leaves Kidal, April 2026.</figcaption>
         </figure>
 
         <p>
@@ -1414,19 +1418,23 @@ export default function Page() {
         </p>
 
         <p>
-          Why Tripoli wants this is a separate question, and the answer is not
-          about Ukraine. Jalel Harchaoui, a Libya specialist associated with
-          RUSI, recalls that when Russian fighters appeared outside Tripoli on
-          Haftarʼs side in September 2019, NATO adopted a simple doctrine: the
-          capital must stay out of Russiaʼs reach. That is precisely why
-          Washington backed the large-scale Turkish intervention
+          In September 2026, after the CNN investigation, the Tripoli
+          governmentʼs defence ministry denied that the base in Misrata or any
+          other military facility in the country had been made available for
+          attacks on foreign states. The statement said nothing about whether
+          Ukrainians were present at all
           <a className="ref" href="#ref-56">
             [56]
           </a>
-          . Sabotage on Libyan soil began earlier than the present presence: in
-          December 2023 an expensive Russian military transport aircraft was
-          destroyed at the Al-Jufra airbase, and such incidents have long been
-          linked to Ukrainian operators with probable NATO assistance
+          . Libyan officials and diplomats in Tripoli, speaking to the analysis
+          outlet The Geopolitical Desk (GPD), did not deny it. According to
+          them, the Ukrainiansʼ main task is training, above all in combat and
+          drone use. Ukrainian technicians also help develop and maintain drones
+          and repair the Soviet-era equipment of Libyan forces. The main
+          beneficiaries are individual figures in power, such as deputy defence
+          minister Abdelsalam al-Zoubi and the forces under his command.
+          Unofficially, Tripoli has assured Moscow that it does not allow
+          Russian assets to be attacked from its territory
           <a className="ref" href="#ref-56">
             [56]
           </a>
@@ -1434,21 +1442,60 @@ export default function Page() {
         </p>
 
         <p>
-          Then comes local politics. According to Harchaoui, between May and
-          December 2025 the countryʼs leader Dbeibah was in real danger: tension
-          in Tripoli, pressure from Haftar, and fears that Turkey, the
-          traditional patron of the west, was increasingly “trying to please”
-          his eastern rival. The prime minister was looking for a way to show
-          himself unique and valuable to NATO — and “one way of not being like
-          the pro-Russian Haftar is to be anti-Russian”
-          <a className="ref" href="#ref-56">
-            [56]
+          Whether this began as direct contact is an open question, but it may
+          all have started with NATOʼs help. Jalel Harchaoui, a Libya specialist
+          associated with RUSI, recalls that when Russian fighters appeared
+          outside Tripoli on Haftarʼs side in September 2019, NATO adopted a
+          simple doctrine: the capital must stay out of Russiaʼs reach. That is
+          precisely why Washington backed the large-scale Turkish intervention
+          <a className="ref" href="#ref-57">
+            [57]
+          </a>
+          . Sabotage on Libyan soil began in December 2023, when an expensive
+          Russian military transport aircraft was destroyed at the Al-Jufra
+          airbase. Such incidents have long been linked to Ukrainian operators
+          with probable NATO assistance
+          <a className="ref" href="#ref-57">
+            [57]
+          </a>
+          .
+        </p>
+
+        <p>
+          According to Harchaoui, between May and December 2025 the countryʼs
+          leader Dbeibah was in real danger: tension in Tripoli, pressure from
+          Haftar, and fears that Turkey, the traditional patron of the west, was
+          increasingly “trying to please” his eastern rival. The prime minister
+          was looking for a way to show himself unique and valuable to NATO —
+          and “one way of not being like the pro-Russian Haftar is to be
+          anti-Russian”
+          <a className="ref" href="#ref-57">
+            [57]
           </a>
           . Ukraine, in the same analystʼs words, has become “the drone capital
           of the world”, and around that have grown up entirely commercial
           structures — small companies legally registered in Bulgaria, Serbia or
           Turkey, which ferry specialists and mentors to wherever they are paid
           for
+          <a className="ref" href="#ref-57">
+            [57]
+          </a>
+          .
+        </p>
+
+        <p>
+          Not every Ukrainian in western Libya is there as part of an official
+          deployment, however: GPDʼs Libyan security sources believe that
+          individual players in Tripoliʼs security network hire Ukrainian
+          mercenaries and contractors directly. What worries the capital, in the
+          outletʼs assessment, is less the war with Russia than the balance
+          between armed groups. Groups both allied to the government and hostile
+          to it are competing over drones, hunting for engineers, buying drones
+          on the black market and building improvised ones. Until now the most
+          powerful drones held by forces loyal to Tripoli were Turkish, which
+          gave Ankara a say in when and how they were used. Ukrainian expertise
+          could speed up home-grown production and repair and reduce dependence
+          on Turkey
           <a className="ref" href="#ref-56">
             [56]
           </a>
@@ -1468,24 +1515,24 @@ export default function Page() {
           The ship was sailing empty from Jamnagar in India, where it had
           discharged on 1 December, having left Novorossiysk on 4 November
           before that
-          <a className="ref" href="#ref-57">
-            [57]
+          <a className="ref" href="#ref-58">
+            [58]
           </a>
           . According to Lloydʼs List Intelligence the strike came as the tanker
           was heading west between Malta and Crete — roughly 930 miles from
           Ukraine
-          <a className="ref" href="#ref-57">
-            [57]
+          <a className="ref" href="#ref-58">
+            [58]
           </a>
           . In the video the SBU gave journalists, the munitions are dropped by
           a hexacopter: that implies a short range, so the drones were most
           likely launched from a nearby vessel
-          <a className="ref" href="#ref-57">
-            [57]
-          </a>
-          . RFI, by contrast, writes that the drone flew from Misrata
           <a className="ref" href="#ref-58">
             [58]
+          </a>
+          . RFI, by contrast, writes that the drone flew from Misrata
+          <a className="ref" href="#ref-59">
+            [59]
           </a>
           .
         </p>
@@ -1494,17 +1541,17 @@ export default function Page() {
           The SBU stressed that the tanker was empty, so there was no
           environmental threat, and that in terms of international law it was an
           “absolutely legitimate target”
-          <a className="ref" href="#ref-57">
-            [57]
+          <a className="ref" href="#ref-58">
+            [58]
           </a>
           . The video was released by the volunteer Serhiy Sternenko
-          <a className="ref" href="#ref-59">
-            [59]
+          <a className="ref" href="#ref-60">
+            [60]
           </a>
           . That same day, at his annual press conference, Putin promised to
           “certainly respond” to the Ukrainian campaign against the shadow fleet
-          <a className="ref" href="#ref-57">
-            [57]
+          <a className="ref" href="#ref-58">
+            [58]
           </a>
           .
         </p>
@@ -1530,12 +1577,12 @@ export default function Page() {
           course for Port Said. She had taken her cargo on 18 February from the
           floating storage unit Saam off Murmansk, and on the evening of 2 March
           switched off her AIS as she left Maltaʼs exclusive economic zone
-          <a className="ref" href="#ref-60">
-            [60]
-          </a>
-          . All thirty crew members, Russian citizens, were taken off the ship
           <a className="ref" href="#ref-61">
             [61]
+          </a>
+          . All thirty crew members, Russian citizens, were taken off the ship
+          <a className="ref" href="#ref-62">
+            [62]
           </a>
           .
         </p>
@@ -1545,13 +1592,13 @@ export default function Page() {
           ministry an “act of international terrorism and maritime piracy”,
           stating that the ship had been hit by Ukrainian naval drones launched
           from the Libyan coast
-          <a className="ref" href="#ref-61">
-            [61]
+          <a className="ref" href="#ref-62">
+            [62]
           </a>
           . Egypt, where the cargo was bound, denied having contracts with the
           vessel
-          <a className="ref" href="#ref-61">
-            [61]
+          <a className="ref" href="#ref-62">
+            [62]
           </a>
           . According to RFIʼs sources it was a surface drone of the Magura V5
           type, which hit the engine room; two of the four gas tanks exploded,
@@ -1559,8 +1606,8 @@ export default function Page() {
           <a className="ref" href="#ref-15">
             [15]
           </a>
-          <a className="ref" href="#ref-58">
-            [58]
+          <a className="ref" href="#ref-59">
+            [59]
           </a>
           .
         </p>
@@ -1578,32 +1625,32 @@ export default function Page() {
         </figure>
 
         <p>
-          The ship did not sink; for two months she drifted on the
-          Mediterranean currents. On 16 March nine European countries wrote to
-          the European Commission that the state of the vessel together with the
-          nature of her cargo created an “imminent and serious risk of a major
+          The ship did not sink; for two months she drifted on the Mediterranean
+          currents. On 16 March nine European countries wrote to the European
+          Commission that the state of the vessel together with the nature of
+          her cargo created an “imminent and serious risk of a major
           environmental disaster”
-          <a className="ref" href="#ref-62">
-            [62]
+          <a className="ref" href="#ref-63">
+            [63]
           </a>
           . Malta announced a response plan, but neither Malta nor Italy took
           the ship
-          <a className="ref" href="#ref-62">
-            [62]
+          <a className="ref" href="#ref-63">
+            [63]
           </a>
           . On 21 March Libyaʼs national oil corporation began towing her, on 2
           April the line parted in a storm, and the Libyan maritime
           administration declared the operation a failure, warning ships to keep
           at least ten miles away
-          <a className="ref" href="#ref-62">
-            [62]
+          <a className="ref" href="#ref-63">
+            [63]
           </a>
           . On 28 April a tug finally brought the gas carrier to anchor; at the
           end of the month she lay eight miles north-west of Daryanah, about
           eighteen miles from Benghazi — that is, in the part of Libya
           controlled by Haftar
-          <a className="ref" href="#ref-63">
-            [63]
+          <a className="ref" href="#ref-64">
+            [64]
           </a>
           .
         </p>
@@ -1618,21 +1665,21 @@ export default function Page() {
             takes it upon themselves to do something will most likely be left
             with the bill for the goods. The ship has ended up in a legal vacuum
             where nobody owes anything”
-            <a className="ref" href="#ref-62">
-              [62]
+            <a className="ref" href="#ref-63">
+              [63]
             </a>
             . According to the Equasis database the shipʼs owner is an Indian
             company, while at the time of the incident a Russian firm was listed
             only as “manager”; Starboard analyst Mark Douglas calls the Indian
             structure a likely front
-            <a className="ref" href="#ref-62">
-              [62]
+            <a className="ref" href="#ref-63">
+              [63]
             </a>
             . Eikland Energy director Kjell Eikland puts it more bluntly still:
             “Here one has to assume that Russia and Novatek simply want the ship
             to sink”
-            <a className="ref" href="#ref-62">
-              [62]
+            <a className="ref" href="#ref-63">
+              [63]
             </a>
             .
           </p>
@@ -1643,13 +1690,13 @@ export default function Page() {
           lethal to marine fauna” and of long-term contamination of water and
           air. Besides the gas, about nine hundred tonnes of fuel oil remained
           on board
-          <a className="ref" href="#ref-62">
-            [62]
+          <a className="ref" href="#ref-63">
+            [63]
           </a>
           . Libyaʼs oil corporation later reported that most of the gas had
           probably already evaporated
-          <a className="ref" href="#ref-63">
-            [63]
+          <a className="ref" href="#ref-64">
+            [64]
           </a>
           .
         </p>
@@ -1658,8 +1705,8 @@ export default function Page() {
           The consequence was recorded by maritime trackers: after March,
           Russian gas carriers began avoiding the Mediterranean and taking the
           longer route around southern Africa
-          <a className="ref" href="#ref-63">
-            [63]
+          <a className="ref" href="#ref-64">
+            [64]
           </a>
           .
         </p>
@@ -1706,41 +1753,41 @@ export default function Page() {
           black uncrewed boat in a coastal cave near Cape Doukato. Its engine
           was running. They towed it into the port of Vasiliki and handed it
           over to the coastguard
-          <a className="ref" href="#ref-64">
-            [64]
+          <a className="ref" href="#ref-65">
+            [65]
           </a>
           . The next day the craft was taken to the mainland, and the explosives
           were later destroyed
-          <a className="ref" href="#ref-65">
-            [65]
+          <a className="ref" href="#ref-66">
+            [66]
           </a>
           . “It appears to have had some kind of malfunction and was moving
           without control”, said deputy shipping minister Stefanos Gikas. “That
           is, this thing — a black object with no navigation, carrying
           explosives — could have rammed a tourist vessel”
-          <a className="ref" href="#ref-65">
-            [65]
+          <a className="ref" href="#ref-66">
+            [66]
           </a>
           .
         </p>
 
         <p>
           Greek officials at first called the craft a Ukrainian Magura V3
-          <a className="ref" href="#ref-64">
-            [64]
+          <a className="ref" href="#ref-65">
+            [65]
           </a>
           . UFORCE, the company that makes the Magura, responded: “We have every
           reason to state: the vessel found off Lefkada is not a Magura drone…
           Moreover, UFORCE has never produced a V3 version, no such model
           exists”
-          <a className="ref" href="#ref-66">
-            [66]
+          <a className="ref" href="#ref-67">
+            [67]
           </a>
           . Reuters corrected its report, removing the model. A week later the
           Greek military gave a different preliminary identification — Kozak
           Mamai, a model Ukrainian forces use in the Black Sea
-          <a className="ref" href="#ref-67">
-            [67]
+          <a className="ref" href="#ref-68">
+            [68]
           </a>
           .
         </p>
@@ -1765,8 +1812,8 @@ export default function Page() {
           that the drone had covered only a short distance, which makes a launch
           from Libya less likely, and that the key factor in the assessment was
           the fuel level
-          <a className="ref" href="#ref-68">
-            [68]
+          <a className="ref" href="#ref-69">
+            [69]
           </a>
           . Four months later a source in HUR told CNN the opposite: the craft
           had in fact got away from Ukrainian operators in north-western Libya
@@ -1781,26 +1828,26 @@ export default function Page() {
           On 12 May Greeceʼs defence minister Nikos Dendias declared: “We now
           have certainty that this is a Ukrainian uncrewed surface vessel”,
           calling the incident an “extremely serious matter”
-          <a className="ref" href="#ref-65">
-            [65]
+          <a className="ref" href="#ref-66">
+            [66]
           </a>
           . The same day the spokesman for Ukraineʼs foreign ministry, Heorhiy
           Tykhyi, said there was “no evidence whatsoever that it belongs to
           Ukrainian naval drone operators”
-          <a className="ref" href="#ref-69">
-            [69]
+          <a className="ref" href="#ref-70">
+            [70]
           </a>
           . Ukraineʼs defence minister Mykhailo Fedorov declined to comment on
           the subject during a video conference with European colleagues when
           Dendias raised it
-          <a className="ref" href="#ref-67">
-            [67]
+          <a className="ref" href="#ref-68">
+            [68]
           </a>
           . On 14 May the Greek foreign minister Giorgos Gerapetritis set out
           Athensʼ position: “Turning the Mediterranean into a theatre of war
           will not be tolerated”
-          <a className="ref" href="#ref-67">
-            [67]
+          <a className="ref" href="#ref-68">
+            [68]
           </a>
           .
         </p>
@@ -1813,15 +1860,15 @@ export default function Page() {
           informed Kyiv that it knew about the plan, and said it wanted an
           admission of error and the withdrawal of the remaining combat drones
           from the Mediterranean
-          <a className="ref" href="#ref-69">
-            [69]
+          <a className="ref" href="#ref-70">
+            [70]
           </a>
           . At the end of May Greece delivered notes of protest: “The presence
           of an uncrewed surface vessel in Greek territorial waters created a
           serious danger to shipping and could have cost innocent lives”, and
           “Ukraineʼs right to self-defence cannot justify such actions”
-          <a className="ref" href="#ref-70">
-            [70]
+          <a className="ref" href="#ref-71">
+            [71]
           </a>
           .
         </p>
@@ -1830,8 +1877,8 @@ export default function Page() {
           On 5 June Tykhyi apologised: “The Ukrainian side expresses its
           apologies for the incident, stressing that it was a consequence of
           circumstances caused by Russian aggression against Ukraine”
-          <a className="ref" href="#ref-71">
-            [71]
+          <a className="ref" href="#ref-72">
+            [72]
           </a>
           . The statement acknowledged neither the craftʼs origin nor its
           mission. In closed conversations, though, according to diplomatic
@@ -1842,8 +1889,8 @@ export default function Page() {
           of Friendship, which obliges the parties to consult in such
           situations, and reproached Athens for taking the matter to the media
           before taking it to consultations
-          <a className="ref" href="#ref-72">
-            [72]
+          <a className="ref" href="#ref-73">
+            [73]
           </a>
           .
         </p>
@@ -2351,6 +2398,14 @@ export default function Page() {
               </a>
             </li>
             <li id="ref-56">
+              The Geopolitical Desk — “Ukraineʼs Libya launchpad”, 25.09.2026.
+              Paywalled; cited from a summary by the In Factum Telegram channel
+              (<a href="https://t.me/in_factum/48191">t.me/in_factum</a>).{" "}
+              <a href="https://www.thegeopoliticaldesk.com/ukraines-libya-launchpad/">
+                thegeopoliticaldesk.com
+              </a>
+            </li>
+            <li id="ref-57">
               Forbes, Paul Iddon — “How Ukraine Could Launch Drones From Libya
               To Strike Russiaʼs Tanker”, 29.04.2026. With an interview with
               Jalel Harchaoui (RUSI).{" "}
@@ -2358,7 +2413,7 @@ export default function Page() {
                 forbes.com
               </a>
             </li>
-            <li id="ref-57">
+            <li id="ref-58">
               The War Zone, Thomas Newdick and Howard Altman — “Ukraine Strikes
               Russia-Linked Tanker In The Mediterranean With ‘Bomber Drone’”,
               19.12.2025.{" "}
@@ -2366,28 +2421,28 @@ export default function Page() {
                 twz.com
               </a>
             </li>
-            <li id="ref-58">
+            <li id="ref-59">
               The Maritime Executive — “Libya Resumes Monitoring Arctic Metagaz
               as Report Details Ukrainian Attack”, 07.04.2026.{" "}
               <a href="https://maritime-executive.com/article/libya-resumes-monitoring-arctic-metagaz-as-report-ids-attack-by-ukrainians">
                 maritime-executive.com
               </a>
             </li>
-            <li id="ref-59">
+            <li id="ref-60">
               Militarnyi — “Ukraine Hits Russian ‘Shadow Fleet’ Tanker in
               Neutral Mediterranean Waters”, 19.12.2025.{" "}
               <a href="https://militarnyi.com/en/news/ukraine-hits-russian-shadow-fleet-tanker-in-neutral-mediterranean-waters/">
                 militarnyi.com
               </a>
             </li>
-            <li id="ref-60">
+            <li id="ref-61">
               Militarnyi — “Sanctioned Arctic Metagaz Tanker Suffers Irreparable
               Damage After Strike”, 04.03.2026.{" "}
               <a href="https://militarnyi.com/en/news/arctic-metagaz-suffers-irreparable-damage/">
                 militarnyi.com
               </a>
             </li>
-            <li id="ref-61">
+            <li id="ref-62">
               Al Jazeera — “Russia accuses Ukraine of drone attack as gas tanker
               sinks in Mediterranean”, 04.03.2026. The report that she sank was
               not subsequently confirmed.{" "}
@@ -2395,7 +2450,7 @@ export default function Page() {
                 aljazeera.com
               </a>
             </li>
-            <li id="ref-62">
+            <li id="ref-63">
               France 24 — “Arctic Metagaz: Russian ‘shadow fleet’ tanker adrift
               in the Mediterranean faces uncertain fate”, 08.04.2026. With
               comments from Ian Ralby, Mark Douglas (Starboard), Kjell Eikland
@@ -2404,14 +2459,14 @@ export default function Page() {
                 france24.com
               </a>
             </li>
-            <li id="ref-63">
+            <li id="ref-64">
               Marine Insight — “Stricken Russian LNG Tanker Arctic Metagaz
               Anchors Off Libya After Drifting For Two Months”, 05.05.2026.{" "}
               <a href="https://www.marineinsight.com/stricken-russian-lng-tanker-arctic-metagaz-anchors-off-libya-after-drifting-for-two-months/">
                 marineinsight.com
               </a>
             </li>
-            <li id="ref-64">
+            <li id="ref-65">
               eKathimerini — “Ukrainian Magura V3 naval drone found off Lefkada
               sparks investigation”, 08.05.2026. The URL slug still says V5: the
               headline was corrected after publication, the body says V3
@@ -2420,35 +2475,35 @@ export default function Page() {
                 ekathimerini.com
               </a>
             </li>
-            <li id="ref-65">
+            <li id="ref-66">
               AP via WTOP — “Greece says attack sea drone found on island is
               Ukrainian, calls incident ‘extremely serious’”, 12.05.2026.{" "}
               <a href="https://wtop.com/russia-ukraine-war-news/2026/05/greece-says-attack-sea-drone-found-on-island-is-ukrainian-calls-incident-extremely-serious/">
                 wtop.com
               </a>
             </li>
-            <li id="ref-66">
+            <li id="ref-67">
               Militarnyi — “UFORCE: Marine Drone Found Off the Coast of Greece
               Is Not a Magura”, 12.05.2026.{" "}
               <a href="https://militarnyi.com/en/news/marine-drone-coast-of-greece-not-a-magura/">
                 militarnyi.com
               </a>
             </li>
-            <li id="ref-67">
+            <li id="ref-68">
               eKathimerini — “FM says Ukraine war spilling over into
               Mediterranean ‘will not be tolerated’”, 14.05.2026.{" "}
               <a href="https://www.ekathimerini.com/politics/foreign-policy/1303750/fm-says-ukraine-war-spilling-over-into-mediterranean-will-not-be-tolerated/">
                 ekathimerini.com
               </a>
             </li>
-            <li id="ref-68">
+            <li id="ref-69">
               Reuters — “Greek probe finds suspected Ukrainian sea drone lost
               course after malfunction, sources say”, 15.05.2026.{" "}
               <a href="https://www.reuters.com/world/greek-probe-finds-suspected-ukrainian-sea-drone-lost-course-after-malfunction-2026-05-15/">
                 reuters.com
               </a>
             </li>
-            <li id="ref-69">
+            <li id="ref-70">
               Ukrainska Pravda — “Greece lodges protest with Ukraine over naval
               drone found in its waters”, 03.06.2026, and “No evidence that
               drone found off Greek coast belongs to Ukrainian operators”,
@@ -2457,19 +2512,19 @@ export default function Page() {
                 pravda.com.ua
               </a>
             </li>
-            <li id="ref-70">
+            <li id="ref-71">
               Kyiv Post — “Athens Accuses Ukraine of Endangering Mediterranean
               Security After Explosive-Laden Sea Drone Incident”, 03.06.2026.{" "}
               <a href="https://www.kyivpost.com/post/77459">kyivpost.com</a>
             </li>
-            <li id="ref-71">
+            <li id="ref-72">
               Heorhiy Tykhyi, spokesman for Ukraineʼs foreign ministry, post on
               X, 05.06.2026.{" "}
               <a href="https://x.com/SpoxUkraineMFA/status/2062992746122789353">
                 x.com
               </a>
             </li>
-            <li id="ref-72">
+            <li id="ref-73">
               Ukrainska Pravda, after Euractiv — “Right to self-defence: Ukraine
               tells Greece Russian vessels remain a target”, 09.07.2026.{" "}
               <a href="https://www.pravda.com.ua/eng/news/2026/07/09/8043199/">
@@ -2479,6 +2534,35 @@ export default function Page() {
           </ol>
         </section>
       </div>
+
+      {/* ============ RELATED ARTICLES ============ */}
+      {related.length > 0 && (
+        <section className="section section--beige">
+          <div className="container">
+            <div className="section__head">
+              <h2 className="section__title">More articles</h2>
+              <Link href="/en/articles" className="section__more">
+                Archive →
+              </Link>
+            </div>
+            <div className="grid-3">
+              {related.map((a) => (
+                <Link
+                  key={a.slug}
+                  href={`/en/articles/${a.slug}`}
+                  className={`card${a.leadImage ? " card--photo" : ""}`}
+                >
+                  {a.leadImage && (
+                    <img src={a.leadImage} alt="" className="card__media" />
+                  )}
+                  <span className="card__date">{formatDate(a.date, "en")}</span>
+                  <span className="card__title">{a.title}</span>
+                </Link>
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
     </main>
   );
 }

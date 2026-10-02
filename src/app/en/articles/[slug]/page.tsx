@@ -1,31 +1,63 @@
-import Link from 'next/link';
-import type { ReactNode } from 'react';
-import { MDXRemote } from 'next-mdx-remote/rsc';
-import { getAllArticles, getArticleBySlug, formatDate, requireVisibleArticle } from '@/lib/articles';
-import VideoCarousel from '@/components/VideoCarousel';
-import { AutoFrame } from '@/components/AutoFrame';
-import IfArticleVisible from '@/components/IfArticleVisible';
-import { dict } from '@/lib/i18n';
+import Link from "next/link";
+import type { ReactNode } from "react";
+import { MDXRemote } from "next-mdx-remote/rsc";
+import {
+  getAllArticles,
+  getArticleBySlug,
+  formatDate,
+  requireVisibleArticle,
+} from "@/lib/articles";
+import VideoCarousel from "@/components/VideoCarousel";
+import { AutoFrame } from "@/components/AutoFrame";
+import IfArticleVisible from "@/components/IfArticleVisible";
+import { dict } from "@/lib/i18n";
 
 const t = dict.en;
 
 function Methodology({ children }: { children: ReactNode }) {
   return <div className="methodology">{children}</div>;
 }
-function StatGrid({ v1, l1, d1, v2, l2, d2, v3, l3, d3, v4, l4, d4 }: {
-  v1: string; l1: string; d1: string; v2: string; l2: string; d2: string;
-  v3: string; l3: string; d3: string; v4: string; l4: string; d4: string;
+function StatGrid({
+  v1,
+  l1,
+  d1,
+  v2,
+  l2,
+  d2,
+  v3,
+  l3,
+  d3,
+  v4,
+  l4,
+  d4,
+}: {
+  v1: string;
+  l1: string;
+  d1: string;
+  v2: string;
+  l2: string;
+  d2: string;
+  v3: string;
+  l3: string;
+  d3: string;
+  v4: string;
+  l4: string;
+  d4: string;
 }) {
   return (
     <div className="stat-2col">
-      {[{ v: v1, l: l1, d: d1 }, { v: v2, l: l2, d: d2 }, { v: v3, l: l3, d: d3 }, { v: v4, l: l4, d: d4 }]
-        .map(({ v, l, d }) => (
-          <div className="stat-2col__cell" key={l}>
-            <div className="stat-2col__num">{v}</div>
-            <div className="stat-2col__lbl">{l}</div>
-            <p className="stat-2col__dek">{d}</p>
-          </div>
-        ))}
+      {[
+        { v: v1, l: l1, d: d1 },
+        { v: v2, l: l2, d: d2 },
+        { v: v3, l: l3, d: d3 },
+        { v: v4, l: l4, d: d4 },
+      ].map(({ v, l, d }) => (
+        <div className="stat-2col__cell" key={l}>
+          <div className="stat-2col__num">{v}</div>
+          <div className="stat-2col__lbl">{l}</div>
+          <p className="stat-2col__dek">{d}</p>
+        </div>
+      ))}
     </div>
   );
 }
@@ -37,11 +69,24 @@ function Pullquote({ children, cite }: { children: ReactNode; cite: string }) {
     </blockquote>
   );
 }
-function Figure({ url, cap, src }: { url?: string | null; cap: string; src?: string }) {
+function Figure({
+  url,
+  cap,
+  src,
+}: {
+  url?: string | null;
+  cap: string;
+  src?: string;
+}) {
   return (
     <div className="figure">
       {url && (
-        <img src={url} alt={cap} loading="lazy" style={{ width: '100%', display: 'block' }} />
+        <img
+          src={url}
+          alt={cap}
+          loading="lazy"
+          style={{ width: "100%", display: "block" }}
+        />
       )}
       <div className="figure__cap">
         <span>{cap}</span>
@@ -58,10 +103,22 @@ function Callout({ title, children }: { title: string; children: ReactNode }) {
     </div>
   );
 }
-function Barchart({ title, sub, data }: { title: string; sub: string; data: string }) {
-  const bars = data.split(',').map((entry) => {
-    const [lbl, pct, color] = entry.split('|');
-    return { lbl: lbl.trim(), pct: Number(pct.trim()), color: (color ?? '').trim() };
+function Barchart({
+  title,
+  sub,
+  data,
+}: {
+  title: string;
+  sub: string;
+  data: string;
+}) {
+  const bars = data.split(",").map((entry) => {
+    const [lbl, pct, color] = entry.split("|");
+    return {
+      lbl: lbl.trim(),
+      pct: Number(pct.trim()),
+      color: (color ?? "").trim(),
+    };
   });
   return (
     <div className="barchart">
@@ -71,7 +128,10 @@ function Barchart({ title, sub, data }: { title: string; sub: string; data: stri
         <div className="bar" key={lbl}>
           <span className="bar__lbl">{lbl}</span>
           <div className="bar__bg">
-            <div className={`bar__fill${color ? ` bar__fill--${color}` : ''}`} style={{ width: `${pct}%` }} />
+            <div
+              className={`bar__fill${color ? ` bar__fill--${color}` : ""}`}
+              style={{ width: `${pct}%` }}
+            />
           </div>
           <span className="bar__val">{pct}%</span>
         </div>
@@ -81,78 +141,147 @@ function Barchart({ title, sub, data }: { title: string; sub: string; data: stri
 }
 
 // У MDX досить писати <IfArticleVisible slug="…">: мова тут завжди англійська.
-function IfArticleVisibleEN({ slug, children }: { slug: string; children: ReactNode }) {
-  return <IfArticleVisible slug={slug} locale="en">{children}</IfArticleVisible>;
+function IfArticleVisibleEN({
+  slug,
+  children,
+}: {
+  slug: string;
+  children: ReactNode;
+}) {
+  return (
+    <IfArticleVisible slug={slug} locale="en">
+      {children}
+    </IfArticleVisible>
+  );
 }
 
 const mdxComponents = {
-  Methodology, StatGrid, Pullquote, Figure, Barchart, Callout, VideoCarousel,
+  Methodology,
+  StatGrid,
+  Pullquote,
+  Figure,
+  Barchart,
+  Callout,
+  VideoCarousel,
   IfArticleVisible: IfArticleVisibleEN,
 };
 
 export async function generateStaticParams() {
-  return getAllArticles('en').map((a) => ({ slug: a.slug }));
+  return getAllArticles("en").map((a) => ({ slug: a.slug }));
 }
 
-export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }) {
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ slug: string }>;
+}) {
   const { slug } = await params;
-  requireVisibleArticle(slug, 'en');
-  const article = getArticleBySlug(slug, 'en');
+  requireVisibleArticle(slug, "en");
+  const article = getArticleBySlug(slug, "en");
   return { title: `${article.title} — PLITKA Analytics` };
 }
 
-export default async function ArticlePageEN({ params }: { params: Promise<{ slug: string }> }) {
+export default async function ArticlePageEN({
+  params,
+}: {
+  params: Promise<{ slug: string }>;
+}) {
   const { slug } = await params;
-  requireVisibleArticle(slug, 'en');
-  const article = getArticleBySlug(slug, 'en');
+  requireVisibleArticle(slug, "en");
+  const article = getArticleBySlug(slug, "en");
 
-  const all = getAllArticles('en');
+  const all = getAllArticles("en");
   const related = all.filter((a) => a.slug !== slug).slice(0, 3);
 
   const ReadingTime = () => <span>{article.readingTime} min read</span>;
   const components = { ...mdxComponents, ReadingTime };
 
+  // Лід-абзац має стояти всередині .lede-block: це сітка з двох колонок,
+  // картинка плюс текст, і розірвати їх не можна. У MDX він іде першим
+  // абзацом тіла, тож виймаємо його звідти.
+  const LEDE = /<p className="lede">[\s\S]*?<\/p>/;
+  const hit = article.content.match(LEDE);
+  const lede = hit && hit[0];
+  const body = lede ? article.content.replace(LEDE, "") : article.content;
+
+  const head = (
+    <div className="article-head">
+      <span className="eyebrow article-head__eyebrow">
+        {t.breadcrumbArticles}
+      </span>
+      <h1>{article.title}</h1>
+      <p className="article-head__metaline">
+        {article.readingTime} {t.readingTimeUnit}
+      </p>
+      <p className="article-head__dek">{article.dek}</p>
+    </div>
+  );
+
   return (
     <main>
-      <div className="article-head">
-        <span className="eyebrow article-head__eyebrow">{t.breadcrumbArticles}</span>
-        <h1>{article.title}</h1>
-        <p className="article-head__metaline">
-          {article.readingTime} {t.readingTimeUnit}
-        </p>
-        <p className="article-head__dek">{article.dek}</p>
-      </div>
+      {/* Матеріали з інтерактивною інфографікою в ліді відкриваються темним
+          блоком, у якому шапка стоїть поверх вбудованого кадру. На вузькому
+          екрані кадр не працює, тож замість нього показуємо обкладинку. */}
+      {article.leadMapUrl ? (
+        <div className="dark-intro">
+          {head}
+          <div className="infographic-embed">
+            <AutoFrame
+              src={article.leadMapUrl}
+              title={article.title}
+              fallbackHeight={820}
+            />
+          </div>
+          {article.leadImage && (
+            <div className="infographic-mobile-note">
+              <img
+                src={article.leadImage}
+                alt={article.title}
+                style={{ width: "100%", display: "block" }}
+              />
+              <p className="infographic-mobile-note__text">
+                {t.infographicDesktopOnly}
+              </p>
+            </div>
+          )}
+        </div>
+      ) : (
+        head
+      )}
 
-      <div className="lead-img">
-        {article.leadMapUrl ? (
-          <AutoFrame src={article.leadMapUrl} title={article.title} fallbackHeight={820} />
-        ) : article.leadImage ? (
-          <img src={article.leadImage} alt={article.title} style={{ width: '100%', display: 'block' }} />
-        ) : null}
+      <div className="lede-block">
+        {article.leadImage && (
+          <div className="lede-block__img">
+            <img src={article.leadImage} alt={article.title} />
+          </div>
+        )}
+        {lede && <MDXRemote source={lede} components={components} />}
       </div>
 
       <article className="article-body">
-        <MDXRemote source={article.content} components={components} />
+        <MDXRemote source={body} components={components} />
       </article>
 
       {related.length > 0 && (
-        <section className="section">
+        <section className="section section--beige">
           <div className="container">
             <div className="section__head">
               <h2 className="section__title">{t.otherMaterials}</h2>
-              <Link href="/en/articles" className="section__more">{t.archive}</Link>
+              <Link href="/en/articles" className="section__more">
+                {t.archive}
+              </Link>
             </div>
             <div className="grid-3">
               {related.map((a) => (
                 <Link
                   key={a.slug}
                   href={`/en/articles/${a.slug}`}
-                  className={`card${a.leadImage ? ' card--photo' : ''}`}
+                  className={`card${a.leadImage ? " card--photo" : ""}`}
                 >
                   {a.leadImage && (
                     <img src={a.leadImage} alt="" className="card__media" />
                   )}
-                  <span className="card__date">{formatDate(a.date, 'en')}</span>
+                  <span className="card__date">{formatDate(a.date, "en")}</span>
                   <span className="card__title">{a.title}</span>
                 </Link>
               ))}

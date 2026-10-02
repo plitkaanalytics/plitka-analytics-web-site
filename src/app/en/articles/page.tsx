@@ -3,6 +3,14 @@ import { getAllArticles, formatDate } from '@/lib/articles';
 
 export const metadata = { title: 'Investigations — PLITKA Analytics' };
 
+/**
+ * Дзеркало української стрічки з src/app/(main)/articles/page.tsx: та сама
+ * розмітка картки, лише інша мова даних і префікс /en у посиланнях.
+ *
+ * Розходитися їм не можна. Після редизайну англійська стрічка лишалася на
+ * старих класах card__tag, card__dek і card__meta, яких у globals.css немає
+ * зовсім, тож половина картки виводилася без стилів.
+ */
 export default async function ArticlesPageEN({
   searchParams,
 }: {
@@ -34,23 +42,19 @@ export default async function ArticlesPageEN({
               <h2 className="section__title">{title}</h2>
               <span className="section__more">{code}</span>
             </div>
-
             <div className="articles-grid">
               {articles.map((a) => (
-                <article className="card" key={a.slug}>
+                <Link
+                  key={a.slug}
+                  href={`/en/articles/${a.slug}`}
+                  className={`card${a.leadImage ? ' card--photo' : ''}`}
+                >
                   {a.leadImage && (
-                    <img src={a.leadImage} alt={a.title} className="card__img card__img--photo" />
+                    <img src={a.leadImage} alt="" className="card__media" />
                   )}
-                  <div><span className="card__tag">{a.project}</span></div>
-                  <h3 className="card__title">
-                    <Link href={`/en/articles/${a.slug}`}>{a.title}</Link>
-                  </h3>
-                  <p className="card__dek">{a.dek}</p>
-                  <div className="card__meta">
-                    <span>{formatDate(a.date, 'en')}</span>
-                    <span>{a.authors.map((n) => n.split(' ').at(-1)?.toUpperCase()).join(' · ')}</span>
-                  </div>
-                </article>
+                  <span className="card__date">{formatDate(a.date, 'en')}</span>
+                  <span className="card__title">{a.title}</span>
+                </Link>
               ))}
             </div>
           </div>

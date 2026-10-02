@@ -1,7 +1,12 @@
 import type { Metadata } from "next";
+import Link from "next/link";
 import "../chotyry-roky-v-mori-frehaty/frigates.css";
 import { AutoFrame } from "@/components/AutoFrame";
-import { requireVisibleArticle } from "@/lib/articles";
+import {
+  requireVisibleArticle,
+  formatDate,
+  getAllArticles,
+} from "@/lib/articles";
 import IfArticleVisible from "@/components/IfArticleVisible";
 
 const metadata: Metadata = {
@@ -19,6 +24,9 @@ export async function generateMetadata(): Promise<Metadata> {
 
 export default function Page() {
   requireVisibleArticle(SLUG);
+  const related = getAllArticles()
+    .filter((a) => a.slug !== SLUG)
+    .slice(0, 3);
   return (
     <main>
       <main data-screen-label="Стаття · Підводні човни 636.3">
@@ -900,12 +908,8 @@ export default function Page() {
                 Ігор Деланое — «Russiaʼs Black Sea Fleet: Toward a Multiregional
                 Force», CNA Occasional Paper, 2019, с. 4.
               </li>
-              <li id="ref2">
-                Там само, с. 1–2.
-              </li>
-              <li id="ref3">
-                Там само, с. 23.
-              </li>
+              <li id="ref2">Там само, с. 1–2.</li>
+              <li id="ref3">Там само, с. 23.</li>
               <li id="ref4">
                 Lenta.ru, 27.07.2010 — про будівництво «Варшавянок» на експорт.
                 Дані російського джерела подано як заявлені.{" "}
@@ -933,23 +937,17 @@ export default function Page() {
                 «Интерфакс» — повідомлення Міноборони РФ про пуски «Калібрів» із
                 підводних човнів у Чорному морі, 2022. Дані російського джерела
                 подано як заявлені.{" "}
-                <a href="https://www.interfax.ru/world/838650">
-                  interfax.ru
-                </a>
+                <a href="https://www.interfax.ru/world/838650">interfax.ru</a>
               </li>
               <li id="ref8">
                 «Интерфакс» — біографічні відомості про командира «Алроси» Івана
                 Фьодорова. Дані російського джерела подано як заявлені.{" "}
-                <a href="https://www.interfax.ru/russia/839235">
-                  interfax.ru
-                </a>
+                <a href="https://www.interfax.ru/russia/839235">interfax.ru</a>
               </li>
               <li id="ref9">
                 ТАРС — повідомлення про базування «Алроси» в Севастополі. Дані
                 російського джерела подано як заявлені.{" "}
-                <a href="https://tass.ru/armiya-i-opk/14700361">
-                  tass.ru
-                </a>
+                <a href="https://tass.ru/armiya-i-opk/14700361">tass.ru</a>
               </li>
             </ol>
           </div>
@@ -990,6 +988,35 @@ export default function Page() {
       </main>
 
       {/* ============ FOOTER ============ */}
+
+      {/* ============ RELATED ARTICLES ============ */}
+      {related.length > 0 && (
+        <section className="section section--beige">
+          <div className="container">
+            <div className="section__head">
+              <h2 className="section__title">Інші матеріали</h2>
+              <Link href="/articles" className="section__more">
+                Архів →
+              </Link>
+            </div>
+            <div className="grid-3">
+              {related.map((a) => (
+                <Link
+                  key={a.slug}
+                  href={`/articles/${a.slug}`}
+                  className={`card${a.leadImage ? " card--photo" : ""}`}
+                >
+                  {a.leadImage && (
+                    <img src={a.leadImage} alt="" className="card__media" />
+                  )}
+                  <span className="card__date">{formatDate(a.date)}</span>
+                  <span className="card__title">{a.title}</span>
+                </Link>
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
     </main>
   );
 }

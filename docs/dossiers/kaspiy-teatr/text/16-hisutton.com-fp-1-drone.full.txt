@@ -1,0 +1,61 @@
+URL:         https://www.hisutton.com/FP-1-Drone.html
+Кінцевий:    https://www.hisutton.com/FP-1-Drone.html
+Заголовок:   Ukrainian FP-1 / FP-2 Deep Strike Drones
+Дата публ.:  2026-07-23
+Завантажено: 2026-09-21 14:37 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 11692
+Оригінал:    raw/16-hisutton.com-fp-1-drone.html
+sha256:      0e0d5411256379b29388d1c19d2d40fccf469c6ca22e33b1dad9eecd715224f3
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 3
+==============================================================================
+Ukrainian FP-1 / FP-2 Deep Strike Drones | Covert Shores
+hisutton.author+blog@gmail.com
+Independent Defence Analysis ◆ Unconventional Naval Warfare ◆ Open-source Intelligence (OSINT) ◆ Submarines ◆ Naval Special Forces ◆ Original Artwork
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Ukrainian FP-1 / FP-2 Deep Strike Drones | Covert Shores
+INDEX of popular articles
+RSS
+Search
+Ukrainian FP-1 / FP-2 Deep Strike Drones
+Jul 23, 2026
+CLICK to Enlarge
+The FP-1 & FP-2 are probably Ukraine’s best known deep strike drones at the moment, slipping into the public consciousness in a similar way to the infamous Shahed. They are, in some respects, Ukraine’s answer to the Shahed, an affordable, reliable, versatile system which can be produced in quantity.
+Designed and built by Ukrainian company Fire Point (hence FP…), they are the most visible, and likely one of the most used, mid-and deep strike systems. Flown by various units in the SBS (unmanned systems forces), and likely also by the HUR and SBU, they have spearheaded the latest strikes on Moscow and St Petersburg. At the moment they are leading the charge against Russian shipping in the Sea Of Azov and Novorossiysk areas.
+The FP-1 was first revealed by Ukrainian media interview in October 2023. It is a utilitarian twin boom arrangement with inverted V tail, box-like fuselage and pusher propeller. The booms, fuselage spar and skin are made of carbon fibre. As well as the wings and body, Fire Point make the warhead and most of the engine. This is more than most drone manufacturers who rely to a greater extent on COTS components.
+Screen shots from a media report from October 2023, and also a crashed example in Russia. Note the wingtip endplates present on early examples.
+Variants
+The baseline FP-1 deep-strike version carries a 60 kg warhead over 1,000 km, with reports generally claiming a maximum range of 1,600km. The mid-strike FP-2 trades range for a larger warhead. It carries a 105kg warhead (120kg TNT equivalent) around 200 km. Reportedly the range of the FP-2 has been increased significantly since its introduction, possibly by the addition of fuel tanks in the wings.
+A further development of the FP-1, the FP-1ER (extended range) has a demonstrated range of at least 2,500 km, with 3,400 km reported. To achieve this, it has new tapered outer wing sections and additional integral fuel tanks in the wings.
+Rare images of the extended-range FP-1ER over Russia. The wings appear longer and tapered.
+This image shows the scale of FP-1 production in Ukraine. It appears to show at least 137 tail sections, likely many more.
+The Secrets of Success
+The operational success of FP-1/2 is largely down to its use of Starlink Mini satellite communications (SATCOM) which allow it to be steered by a pilot during the final phase of the mission. This provides FPV (first person view) levels of control normally only associated with battlefield drones. With Starlink the drones can be steered onto targets with greater accuracy and can abort or fly around of the target is already destroyed or is better approached from another angle. Videos shared by drone units clearly show FP-1s providing battle damage assessment (BDA) of their wingman’s strikes. The second drone can select another target or finish the job as needed.
+It should be noted that Fire Point are not alone in using Starlink in this way. Other Ukrainian drone manufacturers achieve similar results. And the Russians have too before Starlink access was closed to them. More recently Russian Shahed (Geran) drones have achieved similar effects using mesh radio with other drones acting as relays instead.
+Novel Payloads
+FP-1 can be used to carry two smaller FPV quadcopter drones, acting as a mothership. This arrangement appears to have been used to pick off air defence systems, often approaching y them from knee height where the drone cannot be engaged.
+An FP-1 crashed into inland water with two FPV drones over the wings, seen from a Russian FPV drone.
+FP-1s also sometimes carry two quad-packs of Soviet era S-5 unguided rockets under the wings. These may be particularly suited to certain targets.
+Quad S-5 rocket tubes under the wing of an FP-1 drone.
+Related articles
+(Full index of popular Covert Shores articles)
+Ukraine’s
+long-ranged attack drones (OWA-UAVs)
+Guide to Russia’s
+Shahed / Geran
+strike drones
+Ukraine’s
+longer-ranged missiles
+Covert Shores
+Covert Shores
+hisutton.author+blog@gmail.com
+covertshores
+HISuttonCovertShores
+RSS feed
+Independent Defence Analysis ◆ Unconventional Naval Warfare ◆ Open-source Intelligence (OSINT) ◆ Submarines ◆ Naval Special Forces ◆ Original Artwork

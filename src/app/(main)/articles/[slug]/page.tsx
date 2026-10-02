@@ -153,7 +153,7 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
 
       {/* Related articles */}
       {related.length > 0 && (
-        <section className="section">
+        <section className="section section--beige">
           <div className="container">
             <div className="section__head">
               <h2 className="section__title">Інші матеріали</h2>

@@ -1,0 +1,204 @@
+URL:         https://www.rusi.org/explore-our-research/publications/commentary/iran-israel-war-presents-problem-russias-military-supply-chains
+Кінцевий:    https://www.rusi.org/explore-our-research/publications/commentary/iran-israel-war-presents-problem-russias-military-supply-chains
+Заголовок:   The Iran-Israel War Presents a Problem for Russia’s Military Supply Chains
+Дата публ.:  2026-05-01
+Завантажено: 2026-09-21 14:36 UTC
+HTTP:        200   Тип: text/html   Байтів: 632438
+Оригінал:    raw/02-rusi.org-iran-israel-war-presents-problem-russias-military-supply-chai.html
+sha256:      0901eec74bca9c7cd45ffcd66936bec432ec1081a82fd400174f7528c812ad74
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 11
+==============================================================================
+The Iran-Israel War Presents a Problem for Russia’s Military Supply Chains | Royal United Services Institute
+Caspian Sea trade route: The Bandar Anzali port in Iran is one of the central nodes in Russia’s broader plans for the International North-South Transport Corridor (INSTC). Image: dpa picture alliance / Alamy Stock
+Enjoy our analysis and research? Ensure it shows up first on Google
+Add as a preferred source on Google
+Subscribe to the International Security Newsletter
+Subscribe to the RUSI Newsletter
+Get a weekly round-up of the latest commentary and research straight into your inbox.
+Russia, Eurasia and Black Sea Security
+Receive updates on publications and events from RUSI straight into your inbox.
+As an independent institution, we produce evidence-based research, publications and events on defence, security and international affairs to help build a safer UK and a more secure, equitable and stable world.
+Copyright 2026 | The Royal United Services Institute for Defence and Security Studies | RUSI is registered as a charity in England and Wales - Charity number: 210639 | VAT number: GB752275038
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+The Iran-Israel War Presents a Problem for Russia’s Military Supply Chains | Royal United Services Institute
+menu
+Explore our Research
+plus
+Events
+News & Comment
+Membership
+Support us
+About
+Our Offices
+search
+Log in / Register
+Explore our Research
+Events
+News & Comment
+Membership
+Support us
+About
+Our Offices
+Log in / Register
+search
+Explore Our Research
+Publications
+Commentary
+Commentary
+The Iran-Israel War Presents a Problem for Russia’s Military Supply Chains
+Emily
+Ferris
+1 May 2026
+clock
+5 Minute Read
+Caspian Sea trade route: The Bandar Anzali port in Iran is one of the central nodes in Russia’s broader plans for the International North-South Transport Corridor (INSTC). Image: dpa picture alliance / Alamy Stock
+Israel and the US’s targeting of Iran’s supply chain routes are starting to have a discernible impact on Russia’s long-term infrastructure plans.
+Much of the practical fallout from the Iran-Israel war has understandably focused on the shuttering of the Strait of Hormuz. But for Russia, there are other vulnerabilities along its supply chain routes that war in the Middle East have laid bare.
+As has been
+noted
+, Russia’s role in the war was constrained by necessity, the practical limitations of its own military resources, as well as diplomatic caution over its nascent relationship with the US. But that has not made the Kremlin immune to spillover from the conflict. While rising oil prices presented a brief economic boon to a power reliant on hydrocarbon production and export, this war revealed the persistent vulnerability of Russia’s long-distance supply chains in the Caspian Sea, a geographical area that it does not fully control.
+Supply Chains Bombed
+While it received little media attention outside of Israel at the time, an Israeli Air Force
+strike
+in late March targeted a well-known Russia-Iran trade route in the Caspian Sea. Here, Russian and Iranian ships transfer cargo between the Iranian ports of Bandar Anzali and Amirabad, and Russia’s Astrakhan, Olya and Makhachkala ports. The Bandar Anzali port is one of the central nodes in Russia’s broader plans for the International North-South Transport Corridor (INSTC), a long-term infrastructure project whose progress has been repeatedly thwarted by diplomatic and practical problems. Since 2022, this Caspian supply route has become increasingly important for Russia, facilitating the exchange of weapons and oil between Russia and Iran, and was a key node in the transportation of Iranian Shahed drones, before Russia managed to localise production.
+This supply chain and the transfer of technology and arms between Iran and Russia was no secret – the US had in
+2024
+sanctioned Russian shipping companies transporting drone technology and munitions across this route. Indeed, the Ukrainians have tried several times to reduce Russia’s operational capabilities in the Caspian; Ukrainian forces in November 2024
+hit
+Russia’s naval base at the Kaspiysk port in Dagestan, damaging two ships, and then in August 2025 targeted a Russian cargo vessel carrying equipment and ammunition from Iran. Targeting Russia’s assets in the landlocked Caspian presents a practical and diplomatic challenge – its littoral states are Turkmenistan, Kazakhstan and Azerbaijan, which have cultivated relatively positive ties with both Russia and Europe.
+quote
+For Moscow, developing the INSTC is a strategic priority. It would open up supply chains from North to South, circumventing both Europe and China
+But this was the first time that the Israeli Air Force had targeted Russia’s supply chain in this way, and the aftermath was telling. Russia’s response was to deny the strikes took place at all – partly to maintain strategic distance from acknowledging their role in weapons trafficking, but also to prevent a diplomatic crisis with Israel. Following the attack, Kremlin spokesman Dmitry Peskov
+maintained
+that the Kremlin had no information about vessels carrying Russian weapons in the Caspian. But in a thinly veiled warning, he did however
+add
+that Russia would view any potential expansion of the Iran-Israel war into the Caspian region ‘extremely negatively’.
+This does not suggest that the Caspian could become a new war theatre. But it does demonstrate a key vulnerability within one of Russia’s most important weapons trade arteries.
+Russia’s Control of Supply Chains Abroad
+The International North South Transport Corridor (INSTC) is an important means for Russia to implement some of its foreign policies, continue its war in Ukraine, and exert influence abroad.
+For Moscow, developing the INSTC is a strategic priority. It would open up supply chains from North to South, circumventing both Europe and China. This 7,200km land and sea infrastructure project
+aims
+to connect up Iran, Russia, Central Asia and India to Europe, and has been under discussion since the early 2000s – it was resurrected with renewed urgency since Russia’s invasion of Ukraine, for which Russia required new supply chain routes. Although the project has long been beset by other political, practical and financial problems – such as Iran’s own economic
+woes
+and disagreements with Central Asian countries about transiting through their states – the ultimate success of the INSTC depends on regional stability, which Russia cannot guarantee.
+Enjoy our analysis and research? Ensure it shows up first on Google
+Help your search results show more from RUSI. Adding RUSI as a preferred source on Google means our analysis appears more prominently.
+Add as a preferred source on Google
+chevron-right
+Subscribe to the International Security Newsletter
+Stay up to date with the latest publications and events with the International Security Research Group
+Sign up
+chevron-right
+Subscribe to the RUSI Newsletter
+Get a weekly round-up of the latest commentary and research straight into your inbox.
+Sign up
+chevron-right
+Israel’s targeting of the IRGC leadership presents a problem for Moscow’s plans. Although Russia’s lower-level engagement with Iranian regional ministers will remain unchanged, the assassination of the Secretary of Iran’s National Security Council, Ali Larijani, in March 2026, is likely to have a discernible impact on the project. Larijani frequently
+met
+with Russian officials to discuss the INSTC, most recently in December 2025. Even without regime change in Iran – which appears increasingly unlikely – political instability there, damaged infrastructure and uncertainty around investments in the country risk derailing many of Russia’s infrastructure projects.
+Russian officials have been circumspect about the future of the INSTC throughout the war but nevertheless fought to keep it on the agenda. Senior presidential aide and head of the Maritime Board Nikolai Patrushev is closely involved in the project, a sign of its importance. He gave a long
+interview
+to Kommersant in mid-March, downplaying the war’s impact on Russian infrastructure and suggesting that Russia had many ways of future proofing its maritime projects. Dmitry Peskov appeared
+pessimistic
+about prospects for the INSTC at all, but by the end of March 2026 Minister of Transport Andrei Nikitin
+maintained
+that Russia still intended to continue construction once the region stabilises.
+Amid the ongoing diplomatic negotiations between Iran and Israel over the ceasefire, a few days ago Patrushev rather optimistically
+chaired
+a meeting in the southern Astrakhan region on the future of the INSTC, discussing prospects for investment in Russian ports and partnerships with Persian Gulf countries to upgrade logistics hubs. While progress on the INSTC depends on geopolitical variables that are beyond Moscow’s control, this meeting was ordered by Putin personally. This makes it both more likely that the project will be given greater visibility but also raises the stakes if it fails.
+© RUSI, 2026.
+The views expressed in this Commentary are the author's, and do not represent those of RUSI or any other institution.
+For terms of use, see
+Website Terms and Conditions of Use
+.
+Have an idea for a Commentary you'd like to write for us? Send a short pitch to
+commentaries@rusi.org
+and we'll get back to you if it fits into our research interests.
+View full guidelines for contributors
+.
+keywords
+Topics
+Hybrid and State Threats
+Global Security
+Regions and Country Groups
+Middle East and North Africa
+Iran
+Russia and Eurasia
+Russia
+Research Groups
+International Security
+Projects
+Russia, Eurasia and Black Sea Security
+WRITTEN BY
+Emily Ferris
+RUSI Senior Associate Fellow, International Security
+View profile
+Caspian Sea trade route: The Bandar Anzali port in Iran is one of the central nodes in Russia’s broader plans for the International North-South Transport Corridor (INSTC). Image: dpa picture alliance / Alamy Stock
+WRITTEN BY
+Emily Ferris
+RUSI Senior Associate Fellow, International Security
+View profile
+Media Enquiries
+Jim McLean
+Media Relations Manager
++44 (0)7917 373 069
+JimMc@rusi.org
+Reading options
+print
+Print this page
+Share this page
+facebook
+twitter
+linkedin
+email
+bluesky
+Media Enquiries
+Jim McLean
+Media Relations Manager
++44 (0)7917 373 069
+JimMc@rusi.org
+Reading options
+print
+Print this page
+Explore our related content
+Stay up to date with RUSI
+Receive updates on publications and events from RUSI straight into your inbox.
+Sign up
+Connect with us
+facebook
+twitter
+youtube
+linkedin
+rss
+instagram
+whatsapp
+bluesky
+Explore RUSI
+Topics
+Regions
+Research Groups & Experts
+Publications
+Popular Links
+Events
+News & Comment
+Membership
+About
+Our Offices
+Report a problem
+Google preferred source
+As an independent institution, we produce evidence-based research, publications and events on defence, security and international affairs to help build a safer UK and a more secure, equitable and stable world.
+Cookie Policy
+Privacy Policy
+Ethics Statement
+Ts&Cs
+Legal
+DEI Policy
+Carbon Reduction Plan
+Copyright 2026 | The Royal United Services Institute for Defence and Security Studies | RUSI is registered as a charity in England and Wales - Charity number: 210639 | VAT number: GB752275038

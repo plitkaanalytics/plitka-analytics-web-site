@@ -1,0 +1,486 @@
+URL:         https://www.lloydslistintelligence.com/resources/blog/jump-in-ais-gaps-mask-russian-maritime-activity
+Кінцевий:    https://www.lloydslistintelligence.com/resources/blog/jump-in-ais-gaps-mask-russian-maritime-activity
+Заголовок:   Jump in AIS gaps mask Russian maritime activity | Lloyd's List Intelligence
+Дата публ.:  2026-05-06
+Завантажено: 2026-09-30 16:38 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 306154
+Оригінал:    raw/56-lloydslistintelligence.com-jump-in-ais-gaps-mask-russian-maritime-acti.html
+sha256:      e5800f5e01d333f0e90a1369c4f5648edc51d6fe071cdf39574596edabc877ce
+Витяг:       bs4-full
+
+==============================================================================
+Jump in AIS gaps mask Russian maritime activity | Lloyd's List Intelligence
+Industries
+From nomination to approval: how vessel vetters can make faster, safer decisions
+Read more
+Trade Finance
+Insurance
+Commodities
+Shipping
+All Industries
+Government
+Legal
+Academia
+Software
+Solutions
+Products & Services
+Use Cases
+Seasearcher
+Add-Ons
+Advanced Compliance
+Counterparty Risk
+Nautical Charts
+Trade Risk
+Vessel Due Diligence
+Fleet Awareness
+Data & API
+AIS SeaOrbis
+Smart Connect
+Cloud Delivery
+Lloyd’s List
+Maritime Domain Awareness
+Maritime Trade 360
+Marketing Solutions
+Insurance Day
+i-law
+Infospectrum Veritas
+All Products & Services
+Customer Intelligence
+Ownership (UBO) Discovery
+Credit Assessment
+Screen & Monitor for Sanctions
+Vessel Intelligence
+Vessel Tracking
+Voyage Investigations
+Fleet Optimisation
+Trade Intelligence
+Finding Business Opportunities
+Trade Based Money Laundering
+Market Intelligence
+All Use Cases
+Intelligence
+Strait of Hormuz Brief: 24 September, 2026
+Read more
+Our Data & Tech
+Data Quality
+Sanctions
+Deceptive Practices
+AIS Network
+AI Capabilities
+Data Partners
+Our Human Expertise
+Lloyd's Agency Network
+Our Experts
+Maritime Intelligence Unit
+Strait of Hormuz Transit Monitor
+Red Sea Transit Monitor
+Learn more about our Intelligence
+Resources
+Why Maritime Compliance Needs a New Benchmark
+Read more
+Blog
+Events & webinars
+Reports & white papers
+All our resources
+Case studies
+Press & media
+Company
+Lloyd’s List Intelligence recognised among maritime’s most innovative organisations in Thetius Top 150 2026
+Read more
+Careers
+Our History
+Our People
+Our Offices
+FAQs
+Get In Touch
+EMEA:
++44 (0)20 7509 6499
+Americas:
+‍
++1 (929) 819-4737
+APAC:
+‍
++65 6028 3988
+Email
+Log In
+Seasearcher
+Lloyd’s List
+i-law
+Insurance Day
+Request a demo
+Home
+Resources
+Blog
+Jump in AIS gaps mask Russian maritime activity
+Jump in AIS gaps mask Russian maritime activity
+May 6, 2026
+3
+min read
+Share
+https://www.lloydslistintelligence.com/blog/
+jump-in-ais-gaps-mask-russian-maritime-activity
+Russia’s maritime trading patterns out of Sea of Azov ports is increasingly being obfuscated by vessels switching off their automatic identification systems (AIS).
+While the frequency of ships switching off AIS in the Kerch Strait has been elevated since the outset of the military activity in Ukraine,
+the number of AIS gaps has risen dramatically since September
+.
+There were 92 instances in August where a ship’s automatic identification system was switched off and back on while in the Kerch Strait, compared with 53 in the year-earlier period, according to Lloyd’s List Intelligence vessel-tracking data.
+By September, the number of AIS gaps being recorded had jumped to 196 instances and then 177 in October. Last month, Lloyd’s List Intelligence recorded at least 242 cases of AIS being switched off in the strait.
+There are several legitimate reasons for a vessel to go ‘dark’, including passing through dangerous waters and issues with infrastructure, which would prevent AIS messages from being received. However, this backdrop was the same before September.
+The more common and well-established pattern to explain AIS gaps is that ships are deliberately turning off AIS to obfuscate their movements.
+A few observations based on the data gathered are:
+The number of distinct vessels recording AIS gaps, as well as the overall number of AIS gaps, in August-November 2022 is significantly up on the January-July 2022 period
+The overall number of AIS gaps peaked at 242 in November. The monthly average for AIS gaps is 177 for August-November 2022, compared with 32 per month in January-July 2022, around 25 per month for the whole of 2021 and just 14 per month in 2020
+Gaps between 96 and 168 hours have been the most common in August-November
+Russian-flagged vessels are responsible for most of the gaps
+Depending on the length of time the vessel tracking data is shut off, it is possible for ships to complete ship-to-ship transfers, call at a port in Crimea or travel to one of Russia’s Sea of Azov ports, such as Rostov-na-Donu.
+There are two major ship-to-ship areas in the southern part of the Kerch Strait that have been operating for more than 20 years. Oil and oil products as well as bulk commodities, mainly grain, are transported there onto larger ships, which take the cargoes to foreign buyers.
+It is difficult to pinpoint the driving force behind the gaps, but there are several factors likely contributing to this shift in pattern, according to analysts such as Yörük Işık from the Istanbul-based consultancy Bosphorus Observer.
+One potential explanation is that Russia’s plundering of Ukrainian grain has become busier and more sophisticated with increased levels of dark activity as a result - the vessels do not want to show they are coming from ports such as Mariupol and Berdyansk, for example.
+Another potential scenario is that vessels in the area have realised that the wider world is tracking their movements and have gone dark as a result.
+Keep exploring
+Related content
+Browse our resources
+Why Maritime Compliance Needs a New Benchmark
+September 29, 2026
+5
+min read
+Strait of Hormuz Brief: 24 September, 2026
+September 24, 2026
+6
+min read
+From nomination to approval: how vessel vetters can make faster, safer decisions
+September 10, 2026
+4
+min read
+Experience the power of real-time global trade intelligence with our comprehensive platform and expert support.
+Request a demo
+Get in touch
+Enquiries:
++44 (0) 20 7509 6499
+Email
+LinkedIn
+How we help
+Industries
+Use Cases
+Products & Services
+Intelligence
+Data Partners
+Data Quality
+Our Experts
+Lloyd's Agency Network
+Resources
+Case Studies
+Events & Webinars
+Whitepapers
+Blog
+Press & Media
+Company
+Careers
+Our History
+Our People
+Our Offices
+FAQs
+Privacy policy
+Terms
+Modern slavery
+Cookie policy
+Copyright © 2026 Maritime Insights & Intelligence Limited. Maritime Insights & Intelligence Limited is registered in England and Wales with company number 13831625 and address 5th Floor, 10 St Bride Street, London, EC4A 4AD, United Kingdom. Lloyd’s List Intelligence is a trading name of Maritime Insights & Intelligence Limited.
+Lloyd’s is the registered trademark of the Society Incorporated by the Lloyd’s Act 1871 by the name of Lloyd’s.
+Request a demo
+Select a country...
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia, Plurinational State of
+Bonaire, Sint Eustatius and Saba
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+Brunei Darussalam
+Bulgaria
+Burkina Faso
+Burundi
+Cabo Verde
+Cambodia
+Cameroon
+Canada
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo
+Congo, the Democratic Republic of the
+Cook Islands
+Costa Rica
+Cote d'Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands (Malvinas)
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Holy See (Vatican City State)
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran(Islamic Republic of)
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Korea(Democratic People's Republic of)
+Korea(Republic of)
+Kuwait
+Kyrgyzstan
+Lao People's Democratic Republic
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova, Republic of
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+Norway
+Oman
+Pakistan
+Palau
+Palestine
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Republic of North Macedonia
+Reunion
+Romania
+Russian Federation
+Rwanda
+Saint Barthélemy
+Saint Helena, Ascension and Tristan da Cunha
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten (Dutch part)
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syrian Arab Republic
+Taiwan
+Tajikistan
+Tanzania, United Republic of
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United States Minor Outlying Islands
+United Arab Emirates
+United Kingdom
+United States
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela, Bolivarian Republic of
+Vietnam
+Virgin Islands(British)
+Virgin Islands(U.S.)
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+Select area of business...
+Academic
+Asset Management
+Classification Society
+Commercial Insurance
+Commercial Law
+Commodity Producer
+Commodity Trader
+Consultancy
+Energy Producer
+Energy Trader
+Equipment Manufacturer/Services
+Financial Commodity Trading
+Investment Bank
+Logistics
+Maritime Insurance
+Maritime Law
+National Security
+P&I club
+Policy & Regulation
+Port/Terminal Operator
+Reinsurance
+Reunion
+Salvage Company
+Ship Agency
+Ship Broker
+Ship Charterer
+Ship Finance
+Ship Manager/Operator
+Ship Owner
+Ship Supplies
+Software/Content Provider
+Trade Finance
+Other
+Terms and Conditions
+I am an existing customer of Lloyd's List Intelligence
+By ticking this box, you agree to receive emails such as promotional offers from Lloyd's List Intelligence and selected 3rd party companies
+Privacy Policy
+Terms & Conditions
+When submitting a form, we request some personal details, including a work email address. In addition to supporting your query, this data is used for marketing purposes by Lloyd’s List Intelligence. This processing is carried out based on our legitimate business interests. Being able to promote our events, products, and services to interested parties allows us to grow and develop our business.
+You can unsubscribe at any time by following the links in any marketing emails we send to you or by emailing
+updatemydetails@lloydslistintelligence.com
+. For full details on how Lloyd’s List Intelligence processes your personal data please see our
+Privacy Policy
+.
+Thank you for getting in touch. A member of our team will follow up with you shortly.
+Oops! Something went wrong while submitting the form.
