@@ -1,0 +1,548 @@
+URL:         https://mccraryinstitute.com/cyber-focus-podcast/139/boarding-the-dark-fleet-coast-guard-cyber-and-maritime-security-with-radm-jason-tama/
+Кінцевий:    https://mccraryinstitute.com/cyber-focus-podcast/139/boarding-the-dark-fleet-coast-guard-cyber-and-maritime-security-with-radm-jason-tama/
+Заголовок:   Boarding the Dark Fleet: Coast Guard Cyber and Maritime Security with RADM Jason Tama
+Дата публ.:  2026-08-18
+Завантажено: 2026-10-02 08:05 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 262385
+Оригінал:    raw/13-mccraryinstitute.com-boarding-the-dark-fleet-coast-guard-cyber-and-mar.html
+sha256:      ca5c9293cdb9e553275eee210a5380599fb6d4fbd3307b91e6959276a170c075
+Витяг:       bs4-full
+
+==============================================================================
+Boarding the Dark Fleet: Coast Guard Cyber and Maritime Security with RADM Jason Tama - McCrary Institute
+Skip to content
+Don't miss
+Get the daily Cyber Briefing in your inbox
+|
+SIGN UP
+→
+McCrary Institute Home
+Videos
+Cyber Focus Podcast
+On-Demand Videos
+All Episodes
+→
+CISA, AI, and the Future of the Federal Workforce with Rep. James Walkinshaw
+Podcast
+CISA, AI, and the Future of the Federal Workforce with Rep. James Walkinshaw
+Season
+3
+Episode
+41
+•
+Sep 29, 2026
+Watch Now
+Who's in Control of the AI Race? with Bill Evanina and Matt Hayden
+Podcast
+Who's in Control of the AI Race? with Bill Evanina and Matt Hayden
+Season
+3
+Episode
+40
+•
+Sep 22, 2026
+Watch Now
+Can the Private Sector Go on Cyber Offense? with Armadin's Stacy O'Mara
+Podcast
+Can the Private Sector Go on Cyber Offense? with Armadin's Stacy O'Mara
+Season
+3
+Episode
+39
+•
+Sep 15, 2026
+Watch Now
+All Videos
+→
+McCrary Institute Director Frank Cilluffo on Bloomberg Television's 'Balance of Power'
+McCrary in the News
+McCrary Institute Director Frank Cilluffo on Bloomberg Television's 'Balance of Power'
+Watch Now
+Persistent competition and legacy architectures
+Policies
+Persistent competition and legacy architectures
+Watch Now
+Ahead of the Threat: The FBI Cyber Podcast with Frank Cilluffo
+McCrary in the News
+Ahead of the Threat: The FBI Cyber Podcast with Frank Cilluffo
+Watch Now
+Issues
+Issues by Sector
+Policy Library
+Policy Briefs
+Reports
+All Issues
+→
+Agriculture
+Chemical
+Commercial
+Communications
+Dams
+Defense Industry
+Emergency Services
+Energy
+Financial
+Government
+Healthcare
+Information Technology
+Manufacturing
+Nuclear
+Transportation
+Water
+All Policies
+→
+Persistent competition and legacy architectures
+Policies
+Persistent competition and legacy architectures
+Watch Now
+25 years after 9/11: Confronting the next generation of threats
+Policies
+25 years after 9/11: Confronting the next generation of threats
+Watch Now
+Policies
+|
+Communications
++15 more
+Agriculture
+|
+Chemical
+|
+Commercial
+|
+Communications
+|
+Dams
+|
+Defense Industry
+|
+Emergency Services
+|
+Energy
+|
+Financial
+|
+Government
+|
+Healthcare
+|
+Information Technology
+|
+Manufacturing
+|
+Nuclear
+|
+Transportation
+|
+Water
+Sector Down: Ensuring Critical Infrastructure Resilience
+Jun 27, 2024
+Read More
+All Policy Briefs
+→
+Examining critical infrastructure definitions and priorities
+Policy Briefs
+|
+Healthcare
++15 more
+Agriculture
+|
+Chemical
+|
+Commercial
+|
+Communications
+|
+Dams
+|
+Defense Industry
+|
+Emergency Services
+|
+Energy
+|
+Financial
+|
+Government
+|
+Healthcare
+|
+Information Technology
+|
+Manufacturing
+|
+Nuclear
+|
+Transportation
+|
+Water
+Examining critical infrastructure definitions and priorities
+By
+Bob Kolasky
+•
+Apr 15, 2025
+Read More
+Navigating the ‘Typhoons’: Inside these China-linked threat actors
+Policy Briefs
+Navigating the ‘Typhoons’: Inside these China-linked threat actors
+By
+Frank Cilluffo
+and
+Kyle D. Klein
+•
+Jan 31, 2025
+Read More
+How the economics of cybersecurity favor attackers and what defenders can do to change the dynamic
+Policy Briefs
+How the economics of cybersecurity favor attackers and what defenders can do to change the dynamic
+By
+Kiran Sridhar
+and
+Frank Cilluffo
+•
+Dec 31, 2024
+Read More
+All Reports
+→
+Outpacing AI-enabled cyber threats: A playbook for government CISOs
+Reports
+Outpacing AI-enabled cyber threats: A playbook for government CISOs
+By
+Frank Cilluffo
+and
+Brad Medairy
+•
+Aug 13, 2026
+Read More
+U.S. Cyber Policy: Offense, Deterrence and Strategic Competition
+Reports
+U.S. Cyber Policy: Offense, Deterrence and Strategic Competition
+By McCrary Institute Task Force on National Security and Law Enforcement
+•
+Dec 21, 2025
+Read More
+Code Red: A Guide to Understanding China's Sophisticated Typhoon Cyber Campaigns
+Reports
+Code Red: A Guide to Understanding China's Sophisticated Typhoon Cyber Campaigns
+By McCrary Institute Task Force on the People’s Republic of China
+•
+Oct 28, 2025
+Read More
+Applied Research & Services
+Applied Research
+All Projects
+→
+What we offer
+Projects
+What we offer
+Read More
+Southeast Regional Cybersecurity Collaboration Center
+Projects
+Southeast Regional Cybersecurity Collaboration Center
+Read More
+Alabama State and Local Government Cybersecurity Services
+Projects
+Alabama State and Local Government Cybersecurity Services
+Read More
+Experts
+Advisory Board
+Senior Fellows
+McCrary Experts
+McCrary Team
+Events
+McCrary Events
+External Events
+News
+Articles
+Press Releases
+McCrary in the News
+About
+Overview
+Connect
+Open Menu
+Close Menu
+Search
+Loading...
+As cyber threats evolve faster than policy, Cyber Focus delivers executive-level briefings on cybersecurity, national security, and critical infrastructure. From the McCrary Institute for Cyber and Critical Infrastructure Security at Auburn University, host Frank Cilluffo speaks with senior leaders across government, industry, and the intelligence community about ransomware, state-sponsored threats, AI, and the systems we all rely on—energy, water, telecom, and supply chains. Each episode focuses on real-world risk tradeoffs and practical steps organizations can take to strengthen resilience.
+Subscribe
+Apple Podcasts
+Spotify
+Amazon Music
+YouTube
+RSS Feed
+View all episodes
+Podcast
+Boarding the Dark Fleet: Coast Guard Cyber and Maritime Security with RADM Jason Tama
+Season 3 Episode 35
+          
+                      •
+Aug 18, 2026
+Episode Notes
+Transcript
+Show Notes
+The maritime world is more connected than ever, creating new efficiencies—and new ways for cyber incidents to move quickly from shore-based networks to ships operating around the globe. Rear Admiral Jason Tama, Commander of U.S. Coast Guard Cyber Command, joins Frank Cilluffo to explain how the Coast Guard operates across military, intelligence, law-enforcement, regulatory, and homeland-security missions to protect the Marine Transportation System and counter adversaries in cyberspace.
+The conversation also examines the Coast Guard’s latest
+Cyber Trends and Insights in the Marine Environment
+report, including cyber operations aboard Dark Fleet vessels, the growing convergence of IT and operational technology, persistent weaknesses in basic cyber defenses, and the importance of working closely with industry. Tama argues that prevention alone will never be enough: maritime operators also need to be prepared to keep functioning through their “worst digital day.”
+Main Topics Covered
+Coast Guard Cyber Command’s three-part mission
+Title 10, Title 14, and Title 50 authorities
+Coast Guard integration with U.S. Cyber Command
+Cyber operations aboard Dark Fleet vessels
+Cyber risk across ports and maritime infrastructure
+Public-private operational partnerships
+Persistent cybersecurity fundamentals
+International maritime cyber cooperation
+Key Quotes
+“You can’t wait till the crisis or contingency to bring everyone together.”
+— Rear Admiral Jason Tama
+“The great thing about ships now is they’re all connected all the time. The bad thing is the ships are all connected all the time.”
+— Rear Admiral Jason Tama
+“We’re never going to Cyber our way out of this problem, right? There’s no Cyber panacea.”
+— Rear Admiral Jason Tama
+“Resilience is so important and everybody has to be able to think about and have a plan for how do you continue to operate on your worst digital day because it’s not a matter of if, it’s a matter of when.” — Rear Admiral Jason Tama
+“The work we’re doing in the wild from whether it’s power plants to cranes to locks and dams … all over the world, it’s really incredible mission work.” — Rear Admiral Jason Tama
+Relevant Links and Resources
+Cyber Trends and Insights in the Marine Environment (CTIME)
+Guest Bio
+Rear Admiral Jason Tama is Commander of U.S. Coast Guard Cyber Command, where he oversees cyberspace operations to defend Coast Guard networks, protect maritime critical infrastructure, and counter adversary activity. He also serves as the Coast Guard’s Service Cyber Component Commander to U.S. Cyber Command.
+Previously, Tama served as Senior Director for Resilience at the National Security Council and as Captain of the Port of New York and New Jersey. He is a graduate of the U.S. Coast Guard Academy and holds advanced degrees from the University of California, Berkeley, and MIT Sloan School of Management.
+Transcript
+Jason Tama [00:00:00]: The great thing about ships now is they’re all connected all the time. The bad thing is the ships are all connected all the time. You know, we responded to a recent cyberattack that impacted corporate headquarters in the continental United States and then almost instantaneously propagated to all of their operational ships operating in different places around the globe.
+Frank Cilluffo [00:00:26]: Welcome to Cyber Focus from the McCrary Institute, where we explore the people and ideas shaping and defending our digital world. I’m your host, Frank Cilluffo, and this week I have the absolute privilege to sit down with the commander of Coast Guard’s Cyber Command, Rear Admiral Jason Tama. Jason has also served in the National Security Council. He has been the captain of the Port of New York-New Jersey, brings a wealth of expertise to the current job, and has been doing yeoman’s work at, at Cyber Command. He has degrees from not only Coast Guard Academy, which he graduated, but also UC Berkeley, as well as MIT Sloan School of Management. So Admiral, so good to have you join us today.
+Jason Tama [00:01:13]: Hey, thanks, Frank. I really appreciate the opportunity. Thank you and McCrary Institute for the invitation.
+Frank Cilluffo [00:01:19]: Well, thank you for what you do every day and the women and men that serve underneath you do every day. You know, I thought I’d start— most people when they think of the Coast Guard, they’re thinking of protecting our ports, they’re thinking about search and rescue, they’re thinking about protecting our borders, but cyber is not necessarily the first thing people think about. But when we think about the world today, our ships are basically digital environments. Tell our audience a little bit what Coast Guard Cyber Command does and the significance of its mission.
+Jason Tama [00:01:53]: Yeah, sure. No, thanks for the question. And we, we talk about this a lot, and not everybody necessarily thinks of cyber when they think of the Coast Guard. And if you’ll allow me, I’ll kind of go a little bit in the Wayback Machine for a little bit of history here.
+Frank Cilluffo [00:02:07]: Please.
+Jason Tama [00:02:08]: You know, obviously the Coast Guard was founded in 1790. Our original mission was to help generate a source of revenue for the early United States. And we were going to do that by countering smuggling activities and helping our customs houses collect tariffs and ensure that we didn’t have illegal trade, which was rife at the time across the colonies. So, so we— our missions have always been fundamentally built on protecting the homeland, securing our borders. The service has evolved over 235 years, really through, I like to say, mergers and acquisitions.
+Frank Cilluffo [00:02:45]: Mm-hmm.
+Jason Tama [00:02:46]: Where we’ve picked up new functions and new authorities, whether it’s the Lighthouse Service, the Lifesaving Service, the Bureau of Marine Navigation, all through the nation’s wars where we’ve fought in every single one of the nation’s wars, which has led to this Coast Guard of today, which, which represents the character of all those things and has all these very unique authorities. And I know we’ll talk a little bit more about that, but that’s what makes us so versatile. And then operationally, you know, while we are in the maritime domain, cyberspace is absolutely an operational domain for the Coast Guard. It’s a warfighting domain for the joint force.
+Frank Cilluffo [00:03:27]: Mm-hmm.
+Jason Tama [00:03:27]: And it has been for us since we established a Coast Guard Cyber Command back in a little over 12, 13 years ago.
+Frank Cilluffo [00:03:36]: Mm-hmm.
+Jason Tama [00:03:37]: And so to be operational in that domain, you have to have a maneuvering force. And we fundamentally do 3 things in CG Cyber. Just like the other services, we defend our own networks. Our networks are an operational asset. They’re just as important to the Coast Guard as our ships and our aircraft and our shore facilities. That’s thing one. Thing two, we protect the marine transportation system. This is a very unique thing that we do in cyberspace, and I look forward to talking more about that.
+Frank Cilluffo [00:04:08]: And it’s massive.
+Jason Tama [00:04:09]: And it’s massive. $5.5+ trillion per year of economic activity that moves through our marine transportation system. Absolutely vital for economic security, our national security, our ability to project power overseas. So that is the area where all of those authorities come together and our teams do really unique work. And I look forward to talking more about that. And then the third thing we do is we counter our adversaries in cyberspace as a member of the joint force and happy to talk more about that as well.
+Frank Cilluffo [00:04:40]: Yeah, and I’m sorry, I forgot to mention, you also are the services component commander to US Cyber Command, correct?
+Jason Tama [00:04:48]: That’s right, that’s right. So I’m the service cyber component commander for the Coast Guard. I report to the commandant of the Coast Guard who reports to the Secretary of Homeland Security, but I also report to General Rudd, who was obviously Director of the NSA and Command of U.S. Cyber Command, as one of his component commanders.
+Frank Cilluffo [00:05:08]: So sort of given— and historically, I’m a huge fan, I’ll make that clear, of Coast Guard because it does have so many unique authorities. And it’s come to play in very positive ways in our counter-narcotics environment and our counterterrorism environment, in the war on terrorism historically after 9/11. It has the ability to sort of synchronize different authorities. And I like to say, in a Goldwater-Nichols context, it was thinking joint way before it was cool.
+Jason Tama [00:05:44]: Mm-hmm.
+Frank Cilluffo [00:05:45]: You were the purple service long before others were. What sort of unique authorities then does that bring in both your Title 10 role in supporting Cyber Command as well as maybe your DHS?
+Jason Tama [00:05:59]: Sure. No, it’s a great question. I really appreciate the chance to kind of shed some light on that.
+Frank Cilluffo [00:06:05]: Because it’s unique.
+Jason Tama [00:06:07]: It’s very unique. And again, as we go over that 236-year history, we just had our birthday August 4th, all of those mergers and acquisitions that I talked about were additional authorities and capabilities that came to the Coast Guard. And I would say that our authorities are really the service’s superpower. If we have 2, it’s our people and our authorities.
+Frank Cilluffo [00:06:33]: Right.
+Jason Tama [00:06:34]: And what makes us extremely unique, in my estimation, the most versatile maritime force in the world, and I use the word versatile, and it’s really because of our authorities. So I’ll just run through at a very high level. We’re a Title 10 armed force at all times, a member of the Joint Force. We are a Title 14 law enforcement agency, the only component of the Joint Force that has law enforcement authorities. We are a Title 50 member of the intelligence community, which gives us tremendous access and important access that we can use and information to help inform our cyber activities. And then beyond those, we also bring to the table Title 33 and Title 46 regulatory authorities, which are extremely unique in our oversight of the marine transportation system.
+Jason Tama [00:07:29]: So, for example, when I was Captain of Port of the Coast Guard of New York, each of those authorities were levers that I could pull in how we worked with the interagency. And then coming back to your purple point, I like to think of us as a deep purple.
+Frank Cilluffo [00:07:44]: Mm-hmm.
+Jason Tama [00:07:44]: Because not only do we know how to operate and play well with the joint force, we do it every day across the interagency, with the private sector, with state and local and tribal governments. Deep Purple, that’s in our DNA.
+Frank Cilluffo [00:07:59]: Well said. And I’ve been a personal beneficiary of that. I had a boat that I was in some tough waters.
+Jason Tama [00:08:06]: Oh, here we go.
+Frank Cilluffo [00:08:07]: Yeah, no, I literally had Coast Guard save me. So I will remember that every day. And this was long before I got involved in national security. I was probably too young to be out on a boat on my own. But bottom line is, is I think that everyone in America, or at least those that are fortunate enough to be near water, can appreciate Coast Guard.
+Jason Tama [00:08:31]: Thank you. Appreciate that.
+Frank Cilluffo [00:08:32]: So, you know, you also have personnel integrated into the Cyber National Mission Force. Any thoughts on that, and what can they bring unique that maybe some of the other services don’t bring to the CNMF?
+Jason Tama [00:08:48]: Yeah, sure. Yes, we are, as people don’t necessarily fully realize, as I said, that third thing we do, we counter our adversaries in cyberspace. Just last year, we commissioned our first offensive team, and they were— they are fully operational, our 1915 National Mission Team. And as you said, they are presented to the Cyber National Mission Force. So they are in that formation conducting operations under USCYBERCOM Title 10 authorities. And so they are part of that joint formation. And obviously, I don’t want to speak for CYBERCOM or the CNMF commander on the operations that they’re doing.
+Jason Tama [00:09:32]: Our forces work for them and are subject to their operational and tactical control. But I’ll say fundamentally, the Cyber National Mission Force is a defend the nation role functionally. That’s what they do and what they’re focused on. And so what our folks bring to the table is the years of experience operating in the interagency, some unique capabilities and experience that they get operating on some of the cyber terrain that only the Coast Guard has access to.
+Frank Cilluffo [00:10:01]: Mm-hmm.
+Jason Tama [00:10:02]: And then they bring that operational ethos, that interagency perspective, that capability to the CNMF. And we’re able to do missions there supporting General Rudd and his team that really are at that intersection of Department of War, DHS, Coast Guard, national priorities.
+Frank Cilluffo [00:10:19]: Awesome. And I can say without getting into detail, a number of leaders in that environment have been singing Coast Guard’s praises and yours in particular.
+Jason Tama [00:10:29]: Thank you. Thank you. We’ve got a great, great team up there. I couldn’t be prouder of our folks that are up there.
+Frank Cilluffo [00:10:34]: You know, and again, I’m going back in the way, in the Wayback Machine here a little bit too. And I always looked at JIATF South as like the secret sauce, the DNA of how to do joint, how to do purple sort of missions. And this was, again, at the time that I had some awareness of this was more in the law enforcement and in the counterterrorism environment. But that same ethos, I think, is kind of unique. Do you see that having application elsewhere in a cyber environment?
+Jason Tama [00:11:13]: Yeah, I’ll talk about it this way. I think that fundamentally, and without getting into too much detail here, but the hard nucleus, if you will, of our authorities and capabilities in the port environment rests with our Coast Guard Captains of the Port.
+Frank Cilluffo [00:11:33]: Mm-hmm.
+Jason Tama [00:11:35]: We have about 3 dozen of them. They cover all the major ports in the United States. Every piece of coastline and every port is covered by a Coast Guard Captain of the Port. And those individuals have those authorities that I talked about earlier. And so, but they operate in a, in an interagency environment there every day. So the same sort of operational approach that you saw in JIATF South, we don’t call it a JIATF, but that operational ethos, as you said, happens in our ports every day. So each captain of the port has an area maritime security committee, and they’ll bring together state, local, federal representatives and leaders.
+Frank Cilluffo [00:12:16]: Industry too, right?
+Jason Tama [00:12:17]: Industry as well. And You bring everybody to the table. Coast Guard, because of our authorities, we have this convening power, if you will, that brings people to the table fundamentally to ensure the safety, security, and resilience of our ports across both the cyber and physical domains.
+Frank Cilluffo [00:12:36]: You know, Admiral, I think that’s important and it gets lost on a lot of folks in our community. We fall in love, and understandably, technology is changing all the time, but at the end of the day, trust is essential, and we need to move beyond information sharing to operational collaboration, and we’re seeing that. And that’s why I think that serves as a unique model that ought to be applied elsewhere. And it’s not necessarily the JIATF South mission. It’s more the esprit de corps. It’s what makes it work.
+Jason Tama [00:13:12]: No, and I think, I think it’s so important because you can’t wait till the crisis or contingency to bring everyone together.
+Frank Cilluffo [00:13:19]: Exhange business cards when the bomb goes off, it’s too late, right?
+Jason Tama [00:13:21]: That’s right. That’s right. And so our folks do this work every single day and they have those partnerships. And we in Coast Guard Cyber, we are— the teams that we send out work directly for the captain of the port in executing those operations. So we’re leveraging those local partnerships and relationships and authorities and bringing our teams to bear as an additional capability to support that operation in our ports.
+Frank Cilluffo [00:13:51]: And for transparency, we’re doing some work in the Port of Alabama, the McCrary Institute, and working hand in glove with Coast Guard.
+Jason Tama [00:14:01]: Fantastic.
+Frank Cilluffo [00:14:02]: Bottom line is a great team to work with. I want to pivot to a recent report that the Coast Guard put out, and we will make this available in our show notes, but it’s Cyber Trends and Insights in the Marine Environment. And I have to say that if people haven’t read it, they should. And it was very frank in terms of some of the insights that were raised here. Most interestingly in my eyes is the discussion around dark fleet.
+Jason Tama [00:14:33]: Mm-hmm.
+Frank Cilluffo [00:14:34]: And before we jump into some of the operational implications of that, explain to our audience what, as opposed to a shadow fleet, what a dark fleet is, why it’s important, and why it’s important from a cyber perspective.
+Jason Tama [00:14:48]: Sure, thanks. Yeah, dark fleet, ghost fleet, you’ll see a number of terms that are used out there. And there are varying assessments in the intelligence community about how many of these vessels are out there. It’s certainly a fluid number. It’s a dynamic number, but certainly in the hundreds. And these are vessels that are operating in the shadows, if you will, outside of international norms and standards for safety and security.
+Frank Cilluffo [00:15:21]: Mm-hmm.
+Jason Tama [00:15:21]: They might be claiming multiple flag states at different times, flags of convenience, if you will, which would be the equivalent, you’ll appreciate as a New York guy, you know, imagine a, a tanker truck loaded with hazardous material driving down 95. It hasn’t been inspected by the police. They’ve got multiple license plates that maybe they turn over from time to time to avoid license plate readers and oversight and make it difficult for folks to track them. And maybe they’re carrying illegal or illicit cargoes that are subject to international sanctions. That’s essentially what the dark fleet is and how that manifests itself. In addition to the, you know, broader national security concerns and policy concerns, you know, these vessels are unsafe. They’re operating on old tankers that have dilapidated equipment. They haven’t had safety inspectors on board, and they are actively taking measures to mislead and hide their activities.
+Frank Cilluffo [00:16:26]: And that could be everything from personnel to weapons to narcotics or anything.
+Jason Tama [00:16:33]: That’s right.
+Frank Cilluffo [00:16:33]: Or illegal oil too.
+Jason Tama [00:16:34]: Illegal oil. But in most cases in this context, we’re talking sanctioned oil.
+Frank Cilluffo [00:16:41]: Going around sanctions. And, you know, one of the things that I thought was very interesting was talking about how you had your Cyber teams part of the interdiction operations of Dark Fleet. Anything you want to share there? And I want to make sure I get the terminology right, cyber positive control.
+Jason Tama [00:17:02]: Yeah.
+Frank Cilluffo [00:17:03]: Yeah. Anything you can share there?
+Jason Tama [00:17:05]: Sure. Yeah. And I won’t go into all details here.
+Frank Cilluffo [00:17:10]: I hope not.
+Jason Tama [00:17:11]: Yeah. But I think, I’m a fan of Coast Guard history, and I apologize to keep bringing up history, but we’ve been boarding ships for 236 years. It’s in our DNA as a service. What’s evolved over that 236 years is how you do an effective boarding at sea and execute one safely and securely, one that ensures the safety and security of your boarding team, ensures the safety and security of the crew of the ship that you’re boarding, and ensures the safety and security of the vessel itself. So for decades, the first thing a Coast Guard boarding team does when they get on board is, we’ll call it an initial safety inspection, if you will. That boarding team gets on board and does a quick assessment of that ship. Do they have full accountability of the entire crew? There’s nobody, a stowaway or somebody hiding in a compartment with a weapon that wants to be a threat to our boarding team members. Hazardous cargo.
+Jason Tama [00:18:14]: What’s the condition of the engine room? Could there be a fire on board? These are things that we do, are in our DNA from a boarding perspective. When you’re talking about an 1,100-foot tanker with complex IT and OT systems on board, and cyberspace is an operational domain, we realized that not only do you need to take positive control of that ship’s physical environment to successfully control and seize the vessel, but you need to do that in the cyber domain as well.
+Frank Cilluffo [00:18:46]: Mm-hmm.
+Jason Tama [00:18:47]: Because those networks could be weaponized by our adversaries, or maybe they have some vulnerability on board on the IT or OT side, and we needed to understand that. So we developed a new— some new techniques and prototyped this operation with our deployable specialized force, forces, law enforcement personnel.
+Frank Cilluffo [00:19:09]: Mm-hmm.
+Jason Tama [00:19:10]: And did joint tactical operations with our Cyber protection teams and our deployable specialized forces personnel, and they operated together to secure both the physical and cyber environment on those ships.
+Frank Cilluffo [00:19:21]: Without getting into anything sensitive, anything surprise you there? Any unique insights?
+Jason Tama [00:19:26]: I think how I would say that is there were a lot of insights that were not surprising to us in that we knew, generally speaking, that the dark fleet was operating in the shadows. We found very hazardous, dangerous conditions on board these ships due to lack of maintenance in the physical environment, and I would say those same general findings translate to the Cyber environment as well.
+Frank Cilluffo [00:19:53]: Well said, and I would imagine we’re going to continue to move in this direction because it’s— you brought up sort of OT, and when I look at how the world has changed dramatically, it’s no longer simply protecting IT networks, and when you think about a port, I mean, we all know the ZPMC findings and everything that’s played out there, but OT is increasingly sort of life and death and operational technology. And I’d be curious how much, and again, I’m sure you can’t weight 50%, 40%, but more and more and more of your mission’s becoming OT-focused, right?
+Jason Tama [00:20:34]: For sure. And I would say, you know, it’s an area of specialized focus for us. Our teams get a tremendous amount of experience on operational technology. I think, and again, coming back to our authorities, what makes us unique is our cyber protection teams operate in the wild all the time.
+Frank Cilluffo [00:20:57]: Mm-hmm.
+Jason Tama [00:20:58]: They are not— while we have folks that are securing the .mil, our portion of our own networks, our cyber protection teams are off the .mil. They are in the wild in our ports, vessels, maritime infrastructure, maritime adjacent infrastructure, because as you know, every port’s a system.
+Frank Cilluffo [00:21:18]: System of systems of systems, right?
+Jason Tama [00:21:20]: System of systems. It’s much more than just the pier and the cranes. You’ve got railheads that terminate. You’ve got pipelines. You’ve got power plants. You’ve got communications infrastructure. All of these things that come together, and with our authorities and partnerships, we’re able to put our teams out there to do assessments, do threat hunt missions with willing partners. We do this outside of a regulatory framework.
+Jason Tama [00:21:46]: I want to emphasize that. Yes, the Coast Guard—
+Frank Cilluffo [00:21:48]: Important.
+Jason Tama [00:21:48]: The Coast Guard does regulation. Coast Guard Cyber Command, our operational cyber elements, do not do that work. We sign a collaborative agreement with an industry partner that they have a number of protections, longstanding legal protections that make it impossible for us to weaponize our findings against them. We don’t disclose publicly who we’re working with, and that port entity gets a bespoke report from us on what their vulnerabilities look like, what our findings are with recommendations to close them. What the Coast Guard gets as a benefit is we get our teams out there. The rising tide lifts all boats to elevate the nation’s cyber posture. And then we anonymize and aggregate all that information, and we share it back out in this report right here. This report represents, you know-
+Frank Cilluffo [00:22:41]: It’s a must read.
+Jason Tama [00:22:42]: 40 to 50 missions and the results that we did last year. And we’ll do it again. We’ll do it again next year.
+Frank Cilluffo [00:22:48]: And, you know, not to belabor the point, but it’s providing what the Brits would call rich picture, situational awareness that is essential, right? Because I mean, I am sure it’s not just us thinking about the OT implication. I think our adversaries are as well. So we need to constantly— the only way you can get out in front of it is doing it, right? I mean, you can’t sit back and wait.
+Jason Tama [00:23:13]: Absolutely. And we know our OT is being targeted and that the Chinese have eyed this for a long time as a potential first move to impact our ability to mobilize logistics and do other things. So we are heavily focused on that, and certainly with the convergence of IT and OT in all of these areas, we have to be focused on that. That said, we are also cautious about not over-indexing on the operational technology.
+Frank Cilluffo [00:23:44]: Of course. They come together.
+Jason Tama [00:23:46]: They come together, and these IT systems, when an entity suffers a cyberattack and say, well, our IT’s down but our OT’s okay. Find me a business in 2026 that can operate at speed without impacts.
+Frank Cilluffo [00:24:04]: With either.
+Jason Tama [00:24:05]: Without impacts. Right, right.
+Frank Cilluffo [00:24:06]: Exactly. And the thing that’s kind of, I mean, a lot of OT networks are legacy systems, some 20, 30-year-old technology, but it’s being netted with Internet of Things and other sorts of capabilities, so you open up the attack surface one way or another. And I would double-stomp, a report worth reading.
+Jason Tama [00:24:29]: Thank you.
+Frank Cilluffo [00:24:29]: You know, and sort of to get to that risk management set of questions, it is a system of systems. And when you look at anything that could impede the ability to project power, deploy forces. We do some work in this space for transparency, but at the end of the day, once you get outside of the wire of a military base, they’re dependent upon civilian technology. The port, you’re kind of unique in that you also, you can again sit on both sides of the authorities, right?
+Jason Tama [00:25:06]: That’s right. Yep, that’s right. And I come back to where I started, which is my role and position, CG Cyber’s positioning with one foot at all times in the joint force in the CYBERCOM formation, one foot at all times in the Coast Guard DHS formation puts us in a really unique spot. And in our ports and in the cyber environment, we have to be able to cross those different boundaries with authorities and capabilities.
+Frank Cilluffo [00:25:36]: And I think Coast Guard has a good reputation working with industry partners. Anything there? Because I mean, and this is long before cyber. It’s in everything you do. It’s in the DNA.
+Jason Tama [00:25:48]: It’s in the DNA. I like to think we have a great relationship with industry. You know, in our regulatory role, there’s an oversight role there, of course, but we have to work very closely with industry. We do it every day, as I said, in our ports. Because every day in a busy port there’s some problem to be solved.
+Frank Cilluffo [00:26:09]: More than one, I’m sure.
+Jason Tama [00:26:11]: More than one, you know, whether maybe a ship runs aground or there’s a congestion issue or, you know, some safety or security issue. And the Coast Guard works in this environment every single day and we bring that spirit of cooperation into, into the cyber domain as well.
+Frank Cilluffo [00:26:31]: You know, getting back to the report for one more question is, it acknowledges the change in technology and, of course, what that means from a workforce and defending our networks, but a lot of the vulnerabilities are the same, right? I mean, as much as technology changes, some of the underlying vulnerabilities seem to be underaddressed. What are your thoughts there?
+Jason Tama [00:26:57]: No, I couldn’t agree more, right? Sometimes, you know, this term cyber hygiene, maybe we need a different term, right?
+Frank Cilluffo [00:27:08]: Yeah, maybe it’s time to change the term.
+Jason Tama [00:27:10]: Maybe it’s time to change the term, and I’ll have to give that some thought, but because, you know, maybe we sound like broken records sometimes, but I mean, you’ll find a lot of great stuff in this report, including some, you know, new emerging findings, but you’ll also find a healthy dose of the basics, right?
+Frank Cilluffo [00:27:32]: Blocking and tackling matters.
+Jason Tama [00:27:34]: Blocking and tackling is essential, and so much can be done, you know, um, by locking your car doors and, and making sure you don’t have something easily accessible in the glove box for somebody to take.
+Frank Cilluffo [00:27:46]: I keep trying to remind my wife about that, but, uh, yeah, we have this argument all the time. You also single out terminal operating systems. Anything you want to highlight there?
+Jason Tama [00:27:55]: Sure. Yeah, I think that goes back to the point we were talking about, which is terminal operating systems, that underlying IT that’s so essential to the port operation, right? From an OT perspective, you get into a piece of OT, you get into a piece of OT. Some of that underlying enabling technology, we need to ensure that that’s secure and resilient so that you don’t have an impact at scale. And so we’ve got some great relationships out there and folks in industry that, we’ve got a section in the report on this, that are working with us to help secure those networks.
+Frank Cilluffo [00:28:37]: Awesome. I want to pivot very briefly and obviously not get into great detail here, but the changing cyber threat environment from nation states to ransomware operators, but in particular how it impacts the maritime environment. Thoughts on that?
+Jason Tama [00:28:53]: Yeah, I think maritime is unique, right? The whole world depends on the marine transportation system. There’s a number of financial transactions. There are countless third parties involved, multiple nation flag states, multiple countries with regulatory roles, etc. So it’s a very unique space, and there are bad actors out there that are looking to exploit that. And when you try to exploit that environment, you know, an interesting thing about shipping, the great thing about ships now is they’re all connected all the time. The bad thing is the ships are all connected all the time. You know, we responded to a recent cyberattack that impacted corporate headquarters in the continental United States, and then almost instantaneously propagated to all of their operational ships operating in different places around the globe.
+Frank Cilluffo [00:29:49]: Wow.
+Jason Tama [00:29:49]: Right? And so, you know, this is why we have a Coast Guard Cyber Command. You know, we can’t necessarily— industry has to step up and protect their own networks. We can help in responses like this to help, you know, protect the nation and, and ensure that this commerce continues to flow.
+Frank Cilluffo [00:30:10]: And, you know, we often say on this show that the bad guy has a vote, the adversary has a vote, and the line between computer network exploit or espionage and actually prepositioning in some of our critical infrastructure is getting thin and even more thin. You guys probably have very unique insight into that.
+Jason Tama [00:30:35]: Yeah, I think as a member of the intelligence community, we certainly have access to all the latest threat intelligence and—
+Frank Cilluffo [00:30:44]: Sometimes you’ll see it first because it’s not going to be your traditional critical infrastructure owner-operator, right?
+Jason Tama [00:30:49]: That’s right, but I also think that in some cases, our civilian critical infrastructure owner and operators are on the front lines of this as well.
+Frank Cilluffo [00:31:01]: Every day.
+Jason Tama [00:31:03]: Right, which make this very— the space very unique. Sometimes we may get a piece of intelligence early enough to work with our partners, you know, and CISA, FBI, NSA, they do an incredible job with this, working together to put out these notifications, and those partnerships are so important to us. And we’re looking for those things not to add noise to that space, because the last thing you need is everybody in government saying, watch out for this thing. So we try to be very deliberate, like what are those things that we need to be specifically focused on maybe for the maritime industry specifically?
+Frank Cilluffo [00:31:41]: And just a general question, and again, I don’t expect you to get into detail, but do we need to assume we’re compromised and are we confident that the maritime sector can operate through compromise of one sort or another? I remember Admiral Mike Rogers, an Auburn alum, who was also part of our board, that was in his commander’s intent very early on when he took the helm of Cyber Command. What do we think there from— and I know this is a loaded question because it’s so big, but we have to start thinking that way, don’t we?
+Jason Tama [00:32:16]: Absolutely, and I appreciate you bringing it up, Frank, because I think- and I have to be careful how I say this because people can misinterpret what I say here. But we’re never going to Cyber our way out of this problem, right? There’s no Cyber panacea. There’s no perfect AI tool that’s going to magically secure all our networks. As you said, the adversary always gets a vote.
+Frank Cilluffo [00:32:43]: Mm-hmm.
+Jason Tama [00:32:43]: And they only have to get it right once, right? And they don’t have any of the constraints that that we have that are trying to do the right thing. That resilience is so critically important. And while we have to stay laser focused on Cybersecurity, it has to be a CEO issue. It has to be a top risk that every industry member is thinking about, put resources to it, do the basics like we talked about. Resilience is so important and everybody has to be able to think about and have a plan for how do you continue to operate on your worst digital day, because it’s not a matter of if, it’s a matter of when.
+Frank Cilluffo [00:33:24]: And you have incredible experience around the resilience. To me, it really is resilience more than it is security because that’s almost— yes, we need to do anything and everything we can to keep our adversaries at bay and out of our networks, but it’d be foolish to think that they’re not thinking as creatively as we are.
+Jason Tama [00:33:49]: Absolutely. And I think the maritime industry in general is really good at getting product to market, extremely flexible with their supply chain agility. They do it very well.
+Frank Cilluffo [00:34:05]: They have no choice, right? If they want to stay in business.
+Jason Tama [00:34:06]: That’s right. And they’ve done it for centuries in the physical domain in response to physical challenges and threats, we need to bring that same mindset to the cyber domain as well.
+Frank Cilluffo [00:34:17]: Well said. And we’re coming near the end of our time here.
+Jason Tama [00:34:21]: Sure.
+Frank Cilluffo [00:34:21]: But when you look at what Coast Guard Cyber has accomplished during your time in command, what are you most proud of?
+Jason Tama [00:34:31]: I mean, that’s an easy question, I think, which is I’ve been fortunate to do this job for a little more than 2 years.
+Frank Cilluffo [00:34:40]: Mm-hmm.
+Jason Tama [00:34:42]: You know, the Commandant, with my particular background as a captain of the port, to help bring these worlds together, bring the industry, our work with the private sector, our protection of the marine transportation system together with our cyber experts, I think we’ve made some progress there. But what I’m most proud of, hands down, is our people.
+Frank Cilluffo [00:35:03]: Awesome.
+Jason Tama [00:35:04]: We have incredible, incredible people, patriotic Americans that, you know, we talk a lot about what’s it going to take to recruit and retain. We can’t pay people enough. And I subscribe to all those views. We got to give our, give them competitive pay and benefits and compete for their talent. But what I found with our teams, you put our folks on awesome missions that they can’t do anywhere else.
+Frank Cilluffo [00:35:30]: Mission matters.
+Jason Tama [00:35:33]: Like go board a dark fleet tanker and get it safely back to port to execute a presidentially directed mission. And then the work we’re doing in the wild from, whether it’s power plants to cranes to locks and dams, other infrastructure, not only in the United States but all over the world, it’s really incredible mission work. And we’ve got an incredible team of people.
+Frank Cilluffo [00:36:02]: And you have to be almost like that Swiss Army knife. The Coast Guard, it touches everything. It’s like the MacGyver. You got to be creative and figure out different ways to get the job done, right?
+Jason Tama [00:36:13]: We do. And I think, again, it’s in—
+Frank Cilluffo [00:36:16]: And that is, at the academy, is that sort of something that is in the teaching and the culture, or you just learn by doing?
+Jason Tama [00:36:26]: I think it’s a little of both. I think it’s a little of both. I did most of— you get some of that at the academy, but you learn by doing when you get out to a fleet, whether you’re on a Coast Guard ship and you learn that you’re going to work closely with Customs and Border Protection and the local law enforcement when you’re doing maritime interdiction operations, or you get to a larger port and you’re working very closely with industry every day. It is part of our operational DNA. And cyber is such a team sport.
+Frank Cilluffo [00:36:57]: Absolutely. By definition.
+Jason Tama [00:36:58]: We work together with everyone. And, you know, I don’t want to— I’m super proud of the work we do in the Coast Guard, but everyone in the joint force in the cyber domain is doing incredible stuff. We have incredible partnerships with all of them. They all bring unique capabilities and expertise to bear. Same with our federal partners, CISA, FBI. I could go down the list. And certainly our state and local partners as well.
+Frank Cilluffo [00:37:24]: And international partners as well.
+Jason Tama [00:37:25]: International, absolutely. Absolutely.
+Frank Cilluffo [00:37:27]: Admiral, last question.
+Jason Tama [00:37:29]: Sure.
+Frank Cilluffo [00:37:30]: What questions didn’t I ask that I should have?
+Jason Tama [00:37:33]: I think we— I’ll just pull on the international thread a little bit, which is, as I talked about maritime, there are so many shared equities in maritime internationally. We do— I just finished up, Coast Guard Cyber finished up a 2-year chairmanship of the International Partnership for Maritime Cybersecurity.
+Frank Cilluffo [00:37:51]: Congrats.
+Jason Tama [00:37:52]: Which is a multi-nation partnership of the willing of maritime nations that see cyber as an area of common interests, where we have common interests to ensure the safety and security of the marine transportation system. And it’s just another unique thing that the Coast Guard is doing, working with those key partners. As we learned after 9/11, you can’t just secure the homeland from here at home, right? What happens in, you know, when I was in New York, what happened in the Port of Rotterdam mattered in terms of the trade that was coming to the United States. And we need to take the same approach.
+Frank Cilluffo [00:38:26]: And the Arctic now too, right?
+Jason Tama [00:38:28]: Absolutely.
+Frank Cilluffo [00:38:29]: Admiral, this was a tour de force. Thank you for spending so much time with us. Thank you for your leadership. And thank you for the men and women under your tutelage who are making the country safer every day. Let me leave you with a token, figuratively and literally, of appreciation.
+Jason Tama [00:38:46]: Awesome. Awesome.
+Frank Cilluffo [00:38:46]: A coin. Admiral, thank you so much.
+Jason Tama [00:38:47]: Awesome. Thank you very much. Thanks for the opportunity, Frank. And thanks for telling the story of what our folks are doing.
+Frank Cilluffo [00:38:52]: Keep fighting the good fight. Thank you. Thank you for joining us for this episode of Cyber Focus. If you liked what you heard, please consider subscribing. Your ratings and reviews help us reach more listeners. Drop us a line if you have any ideas in terms of topics, themes, or individuals you’d like for us to host. Until next time, stay safe, stay informed, and stay curious.
+Related Content
+Securing the Homeland: Reforming DHS to Meet Today's Threats
+Articles
+|
+Government
+Securing the Homeland: Reforming DHS to Meet Today's Threats
+Jul 15, 2021
+Read More
+Article
+|
+Transportation
+Threats Posed by State-Owned and State-Supported Enterprises to Public Transportation
+Mar 05, 2020
+Read More
+Article
+The Future of Homeland Security: Evolving and Emerging Threats
+Jul 11, 2012
+Read More
+McCrary Institute Home
+[email protected]
+540 Devall Drive, Suite 401, Auburn, AL 36832 • 1307 New York Ave NW, Washington, D.C. 20005.,
+Social Media Links
+Facebook
+YouTube
+LinkedIn
+Instagram
+X (Formerly Twitter)
+© 2026 McCrary Institute
+Videos
+Cyber Focus Podcast
+All Episodes
+→
+On-Demand Videos
+All Videos
+→
+Issues
+Issues by Sector
+All Issues
+→
+Agriculture
+Chemical
+Commercial
+Communications
+Dams
+Defense Industry
+Emergency Services
+Energy
+Financial
+Government
+Healthcare
+Information Technology
+Manufacturing
+Nuclear
+Transportation
+Water
+Policy Library
+All Policies
+→
+Policy Briefs
+All Policy Briefs
+→
+Reports
+All Reports
+→
+Applied Research & Services
+Applied Research
+All Projects
+→
+Experts
+Advisory Board
+Senior Fellows
+McCrary Experts
+McCrary Team
+Events
+McCrary Events
+External Events
+News
+Articles
+Press Releases
+McCrary in the News
+About
+Overview
+Connect

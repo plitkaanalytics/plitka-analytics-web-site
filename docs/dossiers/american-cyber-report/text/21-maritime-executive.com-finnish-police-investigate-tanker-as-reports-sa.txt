@@ -1,0 +1,64 @@
+URL:         https://maritime-executive.com/article/finnish-police-investigate-tanker-as-reports-say-spy-equipment-was-found
+Кінцевий:    https://maritime-executive.com/article/finnish-police-investigate-tanker-as-reports-say-spy-equipment-was-found
+Заголовок:   Finnish Police Investigate Tanker as Report Says Spy Equipment Was Found
+Дата публ.:  2024-12-27
+Завантажено: 2026-10-02 08:06 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 146508
+Оригінал:    raw/21-maritime-executive.com-finnish-police-investigate-tanker-as-reports-sa.html
+sha256:      01f1c6593e6bd8bea21be40a4d52e05db7a7cd98382e06a9d844c5b87bb6971e
+Витяг:       trafilatura
+
+==============================================================================
+# Finnish Police Investigate Tanker as Report Says Spy Equipment Was Found
+
+
+The Finnish police authorities provided a brief update on the ongoing investigation into the damage on Christmas Day to the power cable and several internet cables connecting Finland and Estonia. The Finnish Border Patrol is detaining the tanker *Eagle S* while investigators shuttle on to and off the vessel and begin an underwater investigation at the location of the damage.
+
+“Although the initial investigation has been fast-paced, it is overall a demanding and time-consuming investigation,” said the general director of the investigation, Criminal Inspector Sami Paila. The Helsinki Police is leading the cooperation between the authorities reporting that the effort has continued around the clock for the past two days. The Finnish National Criminal Police is responsible for the elements of the investigation. It termed the investigation as “aggravated vandalism,” but declined to release specific details.
+
+The vessel however is reported to be “loaded with spying equipment,” according to a __ report published__ by Lloyd’s List. Lloyds Intelligence is saying that hi-tech equipment was found which its sources termed “abnormal for a merchant ship.” The outlet says that it was told there are transmitting and receiving devices installed that turned the aging tanker into a “spy ship.” They believe the vessel was monitoring and recording transmissions from NATO ships and aircraft and placed sensors in the English Channel. They report there are Russian, Turkish, and Indian radio officers on the vessel.
+
+The Finnish authorities confirmed that they had boarded the tanker which is being detained about nine miles offshore. Customs seized the fuel cargo aboard for an investigation reported Director of Supervision at Customs Hannu Sinkkonen. Customs is looking for an “aggravated regulatory offence.”
+
+
+*Police and investigators were moving on and off the tanker by helicopter (Finnish Police)*
+
+
+The police confirmed that “material has been collected” from the tanker *Eagle S* and that the analysis has begun. At the same time, they reported interviews have commenced with the crew which is reported to number approximately 20 individuals. Finnish media is saying the crew is from Georgia and India but said the police did not confirm the nationality of the vessel’s officers. Reports said no arrests or detention of the individual crew members have been made so far.
+
+The Finnish Border Guard was taking the Finnish National Criminal Police to the site of the incident today, December 27, to begin seabed investigations. They said it would be assisting with the underwater investigation. They were reported at the site of the Estlink 2 power cable today.
+
+“Conditions currently allow for full-scale operations in the Gulf of Finland,” said Commander Mikko Hirvi, Deputy Commander of the Gulf of Finland Coast Guard.
+
+The Finnish news outlet Yle News [published](https://yle.fi/a/74-20133606) details of the investigation into the __ track__ of the 
+
+*Eagle S*. They reported the vessel’s documents showed it departing Ust-Lugu in Russia and reporting a destination of Port Said, Egypt. On Christmas Day, December 25, at midday, the vessel made a “U-turn” back to Russia and proceeded about half a kilometer and then “hooked back” onto its original route about two hours after the first turn. Grid operator Fingrid reports the interruption on the power cable at 12:26 p.m. and the analysis shows the
+
+*Eagle S*was moving around the cables at that time.
+
+About six hours later, the tanker was in the vicinity of the three data cables that were also damaged.
+
+
+EAGLE S today. One of the anchors is missing.
+
+— Tomi ???????????????? (@TallbarFIN)
+
+
+Finnish authorities have questioned the crew of the tanker.
+
+
+Ship has more than 20 crew members. Crew members are citizens of Georgia and India.
+
+
+Nationality of officers and captain has not yet been revealed to public.[pic.twitter.com/MEag75UlU9](https://t.co/MEag75UlU9)[December 27, 2024](https://twitter.com/TallbarFIN/status/1872647312390148309?ref_src=twsrc%5Etfw)
+
+
+Pictures leaked on the Internet today showed the vessel missing its port side anchor.
+
+that matters most
+
+Get the latest maritime news delivered to your inbox daily.
+
+The Finnish authorities said that they were satisfied the situation was under control and that the investigation would be proceeding. Several Baltic nations however reported that they have increased patrols with Finland and Estonia also reporting they agreed to make a request to NATO for additional support to protect the remaining power cable between the two countries.
+
+Estonia reportedly experienced power supply problems shortly after the cable was damaged but the Prime Minister said today the power is stable and communications are functioning despite the damaged cables. Operator Fingrid however said in a statement that the repairs will take months and there is a risk of outages due to power shortages, especially during the peak winter months.

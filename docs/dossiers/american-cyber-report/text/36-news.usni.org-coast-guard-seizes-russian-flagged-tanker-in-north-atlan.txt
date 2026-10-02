@@ -1,0 +1,13 @@
+URL:         https://news.usni.org/2026/01/07/coast-guard-seizes-russian-flagged-tanker-in-north-atlantic-second-tanker-in-caribbean
+Кінцевий:    https://news.usni.org/2026/01/07/coast-guard-seizes-russian-flagged-tanker-in-north-atlantic-second-tanker-in-caribbean
+Заголовок:   Just a moment...
+Дата публ.:  2026-01-07
+Завантажено: 2026-10-02 09:42 UTC
+HTTP:        403   Тип: text/html; charset=UTF-8   Байтів: 6036
+Оригінал:    raw/36-news.usni.org-coast-guard-seizes-russian-flagged-tanker-in-north-atlan.html
+sha256:      737c690e086301e4015c2811999290ac0a8be84b780d6499a70282161aeb3a42
+Витяг:       bs4-full
+Примітка:    оригінал 403; знімок Wayback теж не взявся (429)
+
+==============================================================================
+Just a moment...

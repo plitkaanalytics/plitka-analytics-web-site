@@ -1,0 +1,212 @@
+URL:         https://maritime-executive.com/article/finnish-police-investigate-tanker-as-reports-say-spy-equipment-was-found
+Кінцевий:    https://maritime-executive.com/article/finnish-police-investigate-tanker-as-reports-say-spy-equipment-was-found
+Заголовок:   Finnish Police Investigate Tanker as Report Says Spy Equipment Was Found
+Дата публ.:  2024-12-27
+Завантажено: 2026-10-02 08:06 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 146508
+Оригінал:    raw/21-maritime-executive.com-finnish-police-investigate-tanker-as-reports-sa.html
+sha256:      01f1c6593e6bd8bea21be40a4d52e05db7a7cd98382e06a9d844c5b87bb6971e
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 21
+==============================================================================
+Video: Explosion and Fire Reported at Saudi Oil Port of Yanbu
+U.S. Navy Orders $25 Billion Worth of Missile Interceptors
+Pakistan Explores Buying or Chartering Boxship Due to Shipping Challenges
+Japan Conducts Demonstration Voyage of a Hydrogen-Fueled Tanker
+Finnish Coast Guard is detaining the Eagle S tanker nine miles offshore (Finnish Police)
+Stay on Top of the Daily Maritime News
+After Recruitment Turnaround, USCG Plans to Reopen Shuttered Stations
+Rescue Operation Off South Africa Turns Tragic as Rescuers Are Killed
+Medical-Flight Helicopter Crashes Off Catalina, Killing Two
+Indonesian Police Investigate Captain of Lost Ferry Virgo Transport 8
+GAO: Coast Guard Addressing Marine Firefighting Challenges, but Gaps Remain
+Corridor Sovereignty: Cooperation Without Surrendering Control
+Japanese Naval Strengthening Steals Limelight at U.S.-China Talks
+The Liner’s Dilemma: Schedule Integrity vs. Contractual Flexibility
+Iran is Overestimating its Bargaining Power in the Strait of Hormuz
+The latest news in your inbox daily.
+The main Saudi oil export terminal on the Red Sea, located at Yanbu, appears to have been hit by an unidentified projectile on Thursday. The port has become a critical vulnerability in the European oil supply chain, and last week French President Emanuel Macron pledged to protect Yanbu with France's air defense capabilities. Bystander videos from the scene show one isolated fire in the vicinity of a tank farm; security consultancy Vanguard Tech confirms that the projectile landed within the...
+The U.S. Navy has signed a five-plus-two year deal with Raytheon for up to $25 billion worth of SM-6 multipurpose interceptor missiles. This SM-series variant is designed for long range anti-air warfare and has proven capability for shooting down cruise missiles, drones, and ballistic missiles, plus a secondary application as an antiship missile - all at lower cost than an SM-3. During the high-intensity phase of the war with Iran this year, the U.S. military's global stockpiles of all high-end...
+The government of Pakistan has agreed to work with the country’s manufacturers and shippers to explore obtaining a dedicated containership. Like other nations, it cites the growing challenges and rising costs of shipping, while the manufacturers urge that they are at a growing disadvantage due to the problems in shipping. The Minister of Maritime Affairs hosted a meeting in Islamabad on October 1 to discuss the challenges with the shipping industry. Adidas Pakistan led the discussion along with a local...
+Japan completed what it is calling a world’s first as it successfully demonstrated a coastal tanker using a hydrogen-fired 4-stroke high-speed engine. It is part of an ongoing research and demonstration project sponsored by The Nippon Foundation to contribute to the decarbonization of shipping. The project called for designing and demonstrating a 4,800-dwt tanker specifically designed for hydrogen propulsion. The coastal tanker Kikou Maro (IMO: 1015595) was launched on February 14, 2025, at the Nagasaki Yard of Fukuoka Shipbuilding Co.,...
+© Copyright 2026 The Maritime Executive, LLC. All rights reserved.
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Finnish Police Investigate Tanker as Report Says Spy Equipment Was Found
+Go
+SUBSCRIBE NOW
+Media Kit
+news
+Features
+Podcasts
+Magazine
+Newsletter
+Advertise
+Directory
+Subscribe
+news
+features
+Podcasts
+magazine
+newsletter
+Jobs
+advertise
+subscribe
+TOP
+STORIES
+Video: Explosion and Fire Reported at Saudi Oil Port of Yanbu
+Published
+				by
+The Maritime Executive
+U.S. Navy Orders $25 Billion Worth of Missile Interceptors
+Published
+				by
+The Maritime Executive
+Pakistan Explores Buying or Chartering Boxship Due to Shipping Challenges
+Published
+				by
+The Maritime Executive
+Japan Conducts Demonstration Voyage of a Hydrogen-Fueled Tanker
+Published
+				by
+The Maritime Executive
+4401
+Views
+Finnish Police Investigate Tanker as Report Says Spy Equipment Was Found
+Finnish Coast Guard is detaining the Eagle S tanker nine miles offshore (Finnish Police)
+Published
+					Dec 27, 2024 9:57 PM        		by
+The Maritime Executive
+The Finnish police authorities provided a brief update on the ongoing investigation into the damage on Christmas Day to the power cable and several internet cables connecting Finland and Estonia. The Finnish Border Patrol is detaining the tanker
+Eagle S
+while investigators shuttle on to and off the vessel and begin an underwater investigation at the location of the damage.
+“Although the initial investigation has been fast-paced, it is overall a demanding and time-consuming investigation,” said the general director of the investigation, Criminal Inspector Sami Paila. The Helsinki Police is leading the cooperation between the authorities reporting that the effort has continued around the clock for the past two days. The Finnish National Criminal Police is responsible for the elements of the investigation. It termed the investigation as “aggravated vandalism,” but declined to release specific details.
+The vessel however is reported to be “loaded with spying equipment,” according to a
+report published
+by Lloyd’s List. Lloyds Intelligence is saying that hi-tech equipment was found which its sources termed “abnormal for a merchant ship.” The outlet says that it was told there are transmitting and receiving devices installed that turned the aging tanker into a “spy ship.” They believe the vessel was monitoring and recording transmissions from NATO ships and aircraft and placed sensors in the English Channel. They report there are Russian, Turkish, and Indian radio officers on the vessel.
+The Finnish authorities confirmed that they had boarded the tanker which is being detained about nine miles offshore. Customs seized the fuel cargo aboard for an investigation reported Director of Supervision at Customs Hannu Sinkkonen. Customs is looking for an “aggravated regulatory offence.”
+Police and investigators were moving on and off the tanker by helicopter (Finnish Police)
+The police confirmed that “material has been collected” from the tanker
+Eagle S
+and that the analysis has begun. At the same time, they reported interviews have commenced with the crew which is reported to number approximately 20 individuals. Finnish media is saying the crew is from Georgia and India but said the police did not confirm the nationality of the vessel’s officers. Reports said no arrests or detention of the individual crew members have been made so far.
+The Finnish Border Guard was taking the Finnish National Criminal Police to the site of the incident today, December 27, to begin seabed investigations. They said it would be assisting with the underwater investigation. They were reported at the site of the Estlink 2 power cable today.
+“Conditions currently allow for full-scale operations in the Gulf of Finland,” said Commander Mikko Hirvi, Deputy Commander of the Gulf of Finland Coast Guard.
+The Finnish news outlet Yle News
+published
+details of the investigation into the
+track
+of the
+Eagle S
+. They reported the vessel’s documents showed it departing Ust-Lugu in Russia and reporting a destination of Port Said, Egypt. On Christmas Day, December 25, at midday, the vessel made a “U-turn” back to Russia and proceeded about half a kilometer and then “hooked back” onto its original route about two hours after the first turn. Grid operator Fingrid reports the interruption on the power cable at 12:26 p.m. and the analysis shows the
+Eagle S
+was moving around the cables at that time.
+About six hours later, the tanker was in the vicinity of the three data cables that were also damaged.
+EAGLE S today. One of the anchors is missing.
+Finnish authorities have questioned the crew of the tanker.
+Ship has more than 20 crew members. Crew members are citizens of Georgia and India.
+Nationality of officers and captain has not yet been revealed to public.
+pic.twitter.com/MEag75UlU9
+— Tomi ???????????????? (@TallbarFIN)
+December 27, 2024
+Pictures leaked on the Internet today showed the vessel missing its port side anchor.
+Stay on Top of the Daily Maritime News
+The maritime news
+that matters most
+Get the latest maritime news delivered to your inbox daily.
+Subscribe Now
+The Finnish authorities said that they were satisfied the situation was under control and that the investigation would be proceeding. Several Baltic nations however reported that they have increased patrols with Finland and Estonia also reporting they agreed to make a request to NATO for additional support to protect the remaining power cable between the two countries.
+Estonia reportedly experienced power supply problems shortly after the cable was damaged but the Prime Minister said today the power is stable and communications are functioning despite the damaged cables. Operator Fingrid however said in a statement that the repairs will take months and there is a risk of outages due to power shortages, especially during the peak winter months.
+MORE
+TOP STORIES
+After Recruitment Turnaround, USCG Plans to Reopen Shuttered Stations
+Rescue Operation Off South Africa Turns Tragic as Rescuers Are Killed
+Medical-Flight Helicopter Crashes Off Catalina, Killing Two
+Indonesian Police Investigate Captain of Lost Ferry Virgo Transport 8
+EDITORIALS
+TOP STORIES
+GAO: Coast Guard Addressing Marine Firefighting Challenges, but Gaps Remain
+Corridor Sovereignty: Cooperation Without Surrendering Control
+Japanese Naval Strengthening Steals Limelight at U.S.-China Talks
+The Liner’s Dilemma: Schedule Integrity vs. Contractual Flexibility
+Iran is Overestimating its Bargaining Power in the Strait of Hormuz
+The maritime news
+that matters most
+The latest news in your inbox daily.
+Subscribe Now
+SUBSCRIPTIONS
+SUBSCRIBE
+Print
+Digital
+Newsletter
+Renew
+Subscribe Now
+RELATED
+STORIES
+Government
+Video: Explosion and Fire Reported at Saudi Oil Port of Yanbu
+Published
+					Oct 1, 2026 11:29 PM        		by
+The Maritime Executive
+The main Saudi oil export terminal on the Red Sea, located at Yanbu, appears to have been hit by an unidentified projectile on Thursday. The port has become a critical vulnerability in the European oil supply chain, and last week French President Emanuel Macron pledged to protect Yanbu with France's air defense capabilities. Bystander videos from the scene show one isolated fire in the vicinity of a tank farm; security consultancy Vanguard Tech confirms that the projectile landed within the...
+Continue Reading...
+Government
+U.S. Navy Orders $25 Billion Worth of Missile Interceptors
+Published
+					Oct 1, 2026 9:56 PM        		by
+The Maritime Executive
+The U.S. Navy has signed a five-plus-two year deal with Raytheon for up to $25 billion worth of SM-6 multipurpose interceptor missiles. This SM-series variant is designed for long range anti-air warfare and has proven capability for shooting down cruise missiles, drones, and ballistic missiles, plus a secondary application as an antiship missile - all at lower cost than an SM-3. During the high-intensity phase of the war with Iran this year, the U.S. military's global stockpiles of all high-end...
+Continue Reading...
+Business
+Pakistan Explores Buying or Chartering Boxship Due to Shipping Challenges
+Published
+					Oct 1, 2026 9:22 PM        		by
+The Maritime Executive
+The government of Pakistan has agreed to work with the country’s manufacturers and shippers to explore obtaining a dedicated containership. Like other nations, it cites the growing challenges and rising costs of shipping, while the manufacturers urge that they are at a growing disadvantage due to the problems in shipping. The Minister of Maritime Affairs hosted a meeting in Islamabad on October 1 to discuss the challenges with the shipping industry. Adidas Pakistan led the discussion along with a local...
+Continue Reading...
+Environment
+Japan Conducts Demonstration Voyage of a Hydrogen-Fueled Tanker
+Published
+					Oct 1, 2026 8:20 PM        		by
+The Maritime Executive
+Japan completed what it is calling a world’s first as it successfully demonstrated a coastal tanker using a hydrogen-fired 4-stroke high-speed engine. It is part of an ongoing research and demonstration project sponsored by The Nippon Foundation to contribute to the decarbonization of shipping. The project called for designing and demonstrating a 4,800-dwt tanker specifically designed for hydrogen propulsion. The coastal tanker Kikou Maro (IMO: 1015595) was launched on February 14, 2025, at the Nagasaki Yard of Fukuoka Shipbuilding Co.,...
+Continue Reading...
+SUBSCRIPTIONS
+SUBSCRIBE
+Print
+Digital
+Newsletter
+Renew
+Subscribe Now
+Show Comments
+About Us
+Advertise
+Newsletter
+Contact Us
+Privacy Policy
+Site Map
+News
+Features
+Podcasts
+Magazine
+Newsletter
+Piracy News
+Shipbuilding News
+Cruise Ship News
+Ports News
+Salvage News
+Training News
+Government News
+Environment News
+Corporate News
+Subscribe
+Facebook
+LinkedIn
+Twitter
+RSS Feed
+Instagram
+© Copyright 2026 The Maritime Executive, LLC. All rights reserved.

@@ -1,0 +1,30 @@
+URL:         https://gcaptain.com/france-probes-sanctioned-russian-linked-tanker-off-atlantic-coast/
+Кінцевий:    https://gcaptain.com/france-probes-sanctioned-russian-linked-tanker-off-atlantic-coast/
+Заголовок:   France Probes Sanctioned Russian-Linked Tanker Off Atlantic Coast
+Дата публ.:  2025-09-30
+Завантажено: 2026-10-02 08:06 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 239470
+Оригінал:    raw/22-gcaptain.com-france-probes-sanctioned-russian-linked-tanker-off-atlant.html
+sha256:      057d307caabe92bf01e7ce9dabc70265844da8929f8b58fd11da57dadf371a2b
+Витяг:       trafilatura
+
+==============================================================================
+PARIS, Sept 30 (Reuters) – The [French](https://gcaptain.com/tag/france/) Navy on Tuesday said authorities were investigating a suspected infraction by the Benin-flagged oil tanker *Boracay*, a vessel which is listed under British and European Union [sanctions](https://gcaptain.com/tag/russia-sanctions/) against Russia.
+
+“Following a suspected offense by the vessel *Boracay*, a report was made to the relevant public prosecutor’s office in Brest. An investigation is underway,” the Navy said in a statement to Reuters.
+
+Britain and the EU imposed separate sanctions on the crude oil tanker in October 2024 and February 2025.
+
+The EU said the vessel was linked to the transport of Russian crude oil and petroleum products “while practicing irregular and high-risk shipping practices.”
+
+The UK said the vessel was “involved in activity whose object or effect is to destabilize Ukraine … or to obtain a benefit from or support the government of Russia” in the transport of oil or oil products that originated in Russia from Russia to a third country.
+
+The vessel, which changed its name to *Boracay* or on some shipping databases *Pushpa* in December 2024 was previously named *Kiwala*. Ships keep the same IMO identification number throughout their lives but do change names.
+
+Estonia released the *Kiwala* in April 2025 after detaining it for sailing without a valid country flag. The vessel is part of the so-called shadow fleet of tankers involved in the Russian oil trade that have unknown ownership and insurance and are typically over 20 years old.
+
+The crude oil tanker, built in 2007, is currently at anchor off western France’s Atlantic coast, close to Saint Nazaire.
+
+(Reporting by Gabriel Stargardter in Paris and Jonathan Saul in London; Editing by Richard Lough and Ed Osmond)
+
+*(c) Copyright Thomson Reuters 2025.*

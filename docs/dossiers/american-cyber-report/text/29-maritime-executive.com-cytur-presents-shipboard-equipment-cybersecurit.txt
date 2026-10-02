@@ -1,0 +1,149 @@
+URL:         https://maritime-executive.com/corporate/cytur-presents-shipboard-equipment-cybersecurity-research-at-def-con-34
+Кінцевий:    https://maritime-executive.com/corporate/cytur-presents-shipboard-equipment-cybersecurity-research-at-def-con-34
+Заголовок:   CYTUR Presents Shipboard Equipment Cybersecurity Research at DEF CON 34
+Дата публ.:  2026-08-09
+Завантажено: 2026-10-02 08:06 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 131091
+Оригінал:    raw/29-maritime-executive.com-cytur-presents-shipboard-equipment-cybersecurit.html
+sha256:      93af8129ada792d3350b1fd9c678fe7c6e80ce3fa952324aa997737b5b9bdc55
+Витяг:       bs4-full
+
+==============================================================================
+CYTUR Presents Shipboard Equipment Cybersecurity Research at DEF CON 34
+Go
+SUBSCRIBE NOW
+Media Kit
+news
+Features
+Podcasts
+Magazine
+Newsletter
+Advertise
+Directory
+Subscribe
+news
+features
+Podcasts
+magazine
+newsletter
+Jobs
+advertise
+subscribe
+TOP
+STORIES
+Video: Explosion and Fire Reported at Saudi Oil Port of Yanbu
+Published
+				by
+The Maritime Executive
+U.S. Navy Orders $25 Billion Worth of Missile Interceptors
+Published
+				by
+The Maritime Executive
+Pakistan Explores Buying or Chartering Boxship Due to Shipping Challenges
+Published
+				by
+The Maritime Executive
+Japan Conducts Demonstration Voyage of a Hydrogen-Fueled Tanker
+Published
+				by
+The Maritime Executive
+199
+Views
+CYTUR Presents Shipboard Equipment Cybersecurity Research at DEF CON 34
+CYTUR's research highlights cybersecurity risks in shipboard equipment at DEF CON 34.
+Published
+					Aug 9, 2026 2:58 PM        		by
+The Maritime Executive
+[By CYTUR]
+Our research team presented findings on a shipboard equipment cybersecurity risk at the Maritime Hacking Village Creator Stage of DEF CON 34, one of the world's largest hacking and security conferences, held in Las Vegas on August 7 local time.
+The research examines a structural risk in which trusted equipment can become a pathway for supply chain attacks.
+The products and services herein described in this press release are not endorsed by The Maritime Executive.
+MORE
+TOP STORIES
+After Recruitment Turnaround, USCG Plans to Reopen Shuttered Stations
+Rescue Operation Off South Africa Turns Tragic as Rescuers Are Killed
+Medical-Flight Helicopter Crashes Off Catalina, Killing Two
+Indonesian Police Investigate Captain of Lost Ferry Virgo Transport 8
+EDITORIALS
+TOP STORIES
+GAO: Coast Guard Addressing Marine Firefighting Challenges, but Gaps Remain
+Corridor Sovereignty: Cooperation Without Surrendering Control
+Japanese Naval Strengthening Steals Limelight at U.S.-China Talks
+The Liner’s Dilemma: Schedule Integrity vs. Contractual Flexibility
+Iran is Overestimating its Bargaining Power in the Strait of Hormuz
+The maritime news
+that matters most
+The latest news in your inbox daily.
+Subscribe Now
+SUBSCRIPTIONS
+SUBSCRIBE
+Print
+Digital
+Newsletter
+Renew
+Subscribe Now
+RELATED
+STORIES
+Government
+Video: Explosion and Fire Reported at Saudi Oil Port of Yanbu
+Published
+					Oct 1, 2026 11:29 PM        		by
+The Maritime Executive
+The main Saudi oil export terminal on the Red Sea, located at Yanbu, appears to have been hit by an unidentified projectile on Thursday. The port has become a critical vulnerability in the European oil supply chain, and last week French President Emanuel Macron pledged to protect Yanbu with France's air defense capabilities. Bystander videos from the scene show one isolated fire in the vicinity of a tank farm; security consultancy Vanguard Tech confirms that the projectile landed within the...
+Continue Reading...
+Government
+U.S. Navy Orders $25 Billion Worth of Missile Interceptors
+Published
+					Oct 1, 2026 9:56 PM        		by
+The Maritime Executive
+The U.S. Navy has signed a five-plus-two year deal with Raytheon for up to $25 billion worth of SM-6 multipurpose interceptor missiles. This SM-series variant is designed for long range anti-air warfare and has proven capability for shooting down cruise missiles, drones, and ballistic missiles, plus a secondary application as an antiship missile - all at lower cost than an SM-3. During the high-intensity phase of the war with Iran this year, the U.S. military's global stockpiles of all high-end...
+Continue Reading...
+Business
+Pakistan Explores Buying or Chartering Boxship Due to Shipping Challenges
+Published
+					Oct 1, 2026 9:22 PM        		by
+The Maritime Executive
+The government of Pakistan has agreed to work with the country’s manufacturers and shippers to explore obtaining a dedicated containership. Like other nations, it cites the growing challenges and rising costs of shipping, while the manufacturers urge that they are at a growing disadvantage due to the problems in shipping. The Minister of Maritime Affairs hosted a meeting in Islamabad on October 1 to discuss the challenges with the shipping industry. Adidas Pakistan led the discussion along with a local...
+Continue Reading...
+Environment
+Japan Conducts Demonstration Voyage of a Hydrogen-Fueled Tanker
+Published
+					Oct 1, 2026 8:20 PM        		by
+The Maritime Executive
+Japan completed what it is calling a world’s first as it successfully demonstrated a coastal tanker using a hydrogen-fired 4-stroke high-speed engine. It is part of an ongoing research and demonstration project sponsored by The Nippon Foundation to contribute to the decarbonization of shipping. The project called for designing and demonstrating a 4,800-dwt tanker specifically designed for hydrogen propulsion. The coastal tanker Kikou Maro (IMO: 1015595) was launched on February 14, 2025, at the Nagasaki Yard of Fukuoka Shipbuilding Co.,...
+Continue Reading...
+SUBSCRIPTIONS
+SUBSCRIBE
+Print
+Digital
+Newsletter
+Renew
+Subscribe Now
+Show Comments
+About Us
+Advertise
+Newsletter
+Contact Us
+Privacy Policy
+Site Map
+News
+Features
+Podcasts
+Magazine
+Newsletter
+Piracy News
+Shipbuilding News
+Cruise Ship News
+Ports News
+Salvage News
+Training News
+Government News
+Environment News
+Corporate News
+Subscribe
+Facebook
+LinkedIn
+Twitter
+RSS Feed
+Instagram
+© Copyright 2026 The Maritime Executive, LLC. All rights reserved.

@@ -1,0 +1,220 @@
+URL:         https://www.helsinkitimes.fi/finland/finland-news/domestic/27770-black-box-offline-during-cable-damage-by-russian-tanker-eagle-s.html
+Кінцевий:    https://www.helsinkitimes.fi/finland/finland-news/domestic/27770-black-box-offline-during-cable-damage-by-russian-tanker-eagle-s.html
+Заголовок:   Black box offline during cable damage by Russian tanker Eagle S
+Дата публ.:  2025-08-26
+Завантажено: 2026-10-02 08:06 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 71679
+Оригінал:    raw/20-helsinkitimes.fi-27770-black-box-offline-during-cable-damage-by-russia.html
+sha256:      0f26398e46fb0632157c5e5765434196995aef6e87717e6a9939bcd60cbcdc51
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 31
+==============================================================================
+Black box offline during cable damage by Russian tanker Eagle S - Helsinki Times
+Black box offline during cable damage by Russian tanker Eagle S
+Screenshot from public police pre-trial investigation material related to the Eagle S tanker court case, featuring a photograph of the vessel taken by the Finnish Border Guard (15 January 2025). Photo: Lehtikuva
+Tax relief for high earners, higher deductions for low-income workers
+Chamber calls for study on points-based immigration system
+Get our latest  free newsletter
+Six in ten Nordic teenagers drink energy drinks every week
+Finland “removed” a dying man in a private air ambulance. Ask yourself why
+Netanyahu asked UAE leader to deny he warned Israel before October 7 attack, report says
+Finland’s purchasing power gap widens as consumer confidence falls
+One in three women in Finland received mental health support by age 28
+Rare Moomin mug Sells for more than €46,000
+Finland set for warmer and drier weather next week
+China-US strategic stability moves to an action agenda
+SDP seeks no-confidence vote over government’s Middle East policy
+Trump reportedly rejects Iran’s seven-day plan to reopen Strait of Hormuz
+Last Month's Most Read Articles
+Google invests €13bn in Finland and plans three new data centres
+Five EU countries push ahead with migrant 'return hubs'
+Russian drone strikes Kyiv-Warsaw train near Polish border
+Finland completes 200km fence along Russian border
+Helsinki stocks suffer biggest fall of 2026 as Nokia drops 10%
+Oil reaches $100 as US and Iran exchange tanker strikes
+Russian drone strikes Ukraine security service headquarters in Kyiv
+Finland holds Europe’s largest civil defence drill since WWII
+HS: Tavio rejects trade restrictions on Israeli settlement goods
+Ireland withdraws from Eurovision 2027 over Gaza crisis and Israel’s participation
+Helsinki Times is the first and only English language newspaper providing news about Finland in English. HT was established in 2007, covering Finland related news daily. A weekly print edition of Helsinki Times was published from March 2007 up until Feb. 2015.
+At the moment, Helsinki Times is an online-only publication. Readers are mainly ex-pats, diplomats, international businesses, tourists, and other groups and individuals interested in Finland from all around the world.
+Before using any information on this website, including online casinos or gambling services, please ensure you verify and comply with local laws and regulations. Helsinki Times does not provide advice on the legality of online gambling in your area and accepts no responsibility for your use of this site or its content. By using this website, you agree to take full responsibility and indemnify Helsinki Times against any claims arising from third-party websites promoted here.
+© Helsinki Times All rights reserved.
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Black box offline during cable damage by Russian tanker Eagle S - Helsinki Times
+KAjwhriuw024hvjbed2SORH
+Sidebar
+×
+Finland
+Finland news
+Domestic
+Politics
+From the Finnish press
+News in brief
+Gambling
+Lifestyle
+Health & wellbeing
+Eat and Drink
+Themes
+Themes
+Travel
+Country Promotion
+Science and technology
+Education
+Housing
+Sports
+Beijing 2022
+Business
+Columns
+Columns
+Viewpoint
+passing
+Expatview
+Q&A
+World
+World news
+International news
+Finland in the world press
+Culture
+HelsinkiTimes
+HELSINKI FINLAND
+02
+Fri
+,
+Oct
+Finland
+Finland news
+Domestic
+Politics
+From the Finnish press
+News in brief
+Gambling
+Lifestyle
+Health & wellbeing
+Eat and Drink
+Themes
+Themes
+Travel
+Country Promotion
+Science and technology
+Education
+Housing
+Sports
+Beijing 2022
+Business
+Columns
+Columns
+Viewpoint
+passing
+Expatview
+Q&A
+World
+World news
+International news
+Finland in the world press
+Culture
+Black box offline during cable damage by Russian tanker Eagle S
+Finland
+26 August 2025
+Screenshot from public police pre-trial investigation material related to the Eagle S tanker court case, featuring a photograph of the vessel taken by the Finnish Border Guard (15 January 2025). Photo: Lehtikuva
+Domestic
+Previous Article
+Tax relief for high earners, higher deductions for low-income workers
+Next Article
+Chamber calls for study on points-based immigration system
+Tools
+Print
+Typography
+Font Size
+Default
+Reading Mode
+The voyage data
+recorder (VDR), or "black box", of the Russian-flagged oil tanker
+Eagle S
+was not functioning during the critical period in which the vessel damaged several undersea cables in the Gulf of Finland.
+According to materials from the National Bureau of Investigation (KRP), made public as part of an
+ongoing criminal trial
+, the data recorder failed to capture the moment when the vessel's anchor severed the Estlink 2 electricity cable on 25 December 2024.
+Investigators found that the VDR had only begun recording data at 12:59 that day. By that time, the
+Eagle S
+had already entered Finland’s exclusive economic zone at 12:23 and crossed over Estlink 2, where the cable was damaged.
+KRP officials seized the VDR and conducted technical examinations, including efforts to recover overwritten or deleted data. No usable recordings were found between 18 December and 12:59 on 25 December, a period during which the vessel had mostly remained in Russian territorial waters.
+The absence of data raised immediate concerns. Investigators considered both equipment failure and intentional interference. The recorder stores navigation details and bridge communications, which are crucial for incident analysis.
+KRP found no signs of tampering. A technical explanation emerged during forensic analysis: the VDR system relied on a GPS time signal, which had been lost intermittently during the voyage.
+According to police findings, the GPS receiver onboard had reverted to an incorrect time, sometimes displaying the year 2005, when it failed to acquire a satellite signal. As a result, the recorder deleted existing files to manage disk space. Investigators described the GPS unit as outdated, dating back to the early 2000s.
+The captain of
+Eagle S
+,
+Davit Vadatchkoria
+, told investigators the ship had lost its GPS signal approximately an hour after entering Russian waters. Signal reception remained unstable until it resumed at 12:59 on Christmas Day. At that point, the VDR resumed normal recording, including bridge communications.
+At 13:05, just minutes after the system reactivated, the ship’s second mate informed the captain of low engine revolutions. The fifth and final cable break occurred later that evening at 18:43. The Finnish Border Guard subsequently ordered the ship to raise its anchor.
+The Helsinki District Court is now handling criminal charges against the captain and two officers. Prosecutors allege serious criminal damage and are seeking unconditional prison sentences of at least 2.5 years.
+The
+Eagle S
+had been en route between Russian ports at the time, first anchoring in St Petersburg on 21 December, then departing from Ust-Luga with a fuel cargo on 24 December.
+The damage to subsea infrastructure has been a source of diplomatic concern, with the case drawing attention to the vulnerability of key systems in the Baltic Sea.
+HT
+Previous Article
+Tax relief for high earners, higher deductions for low-income workers
+Next Article
+Chamber calls for study on points-based immigration system
+Get our latest  free newsletter
+Daily
+Twice A Week
+Once A Week
+Week's Most Popular Articles
+Six in ten Nordic teenagers drink energy drinks every week
+Finland “removed” a dying man in a private air ambulance. Ask yourself why
+Netanyahu asked UAE leader to deny he warned Israel before October 7 attack, report says
+Finland’s purchasing power gap widens as consumer confidence falls
+One in three women in Finland received mental health support by age 28
+Rare Moomin mug Sells for more than €46,000
+Finland set for warmer and drier weather next week
+China-US strategic stability moves to an action agenda
+SDP seeks no-confidence vote over government’s Middle East policy
+Trump reportedly rejects Iran’s seven-day plan to reopen Strait of Hormuz
+Last Month's Most Read Articles
+Google invests €13bn in Finland and plans three new data centres
+Five EU countries push ahead with migrant 'return hubs'
+Russian drone strikes Kyiv-Warsaw train near Polish border
+Finland completes 200km fence along Russian border
+Helsinki stocks suffer biggest fall of 2026 as Nokia drops 10%
+Oil reaches $100 as US and Iran exchange tanker strikes
+Russian drone strikes Ukraine security service headquarters in Kyiv
+Finland holds Europe’s largest civil defence drill since WWII
+HS: Tavio rejects trade restrictions on Israeli settlement goods
+Ireland withdraws from Eurovision 2027 over Gaza crisis and Israel’s participation
+Partners
+HelsinkiTimes
+Helsinki Times is the first and only English language newspaper providing news about Finland in English. HT was established in 2007, covering Finland related news daily. A weekly print edition of Helsinki Times was published from March 2007 up until Feb. 2015.
+At the moment, Helsinki Times is an online-only publication. Readers are mainly ex-pats, diplomats, international businesses, tourists, and other groups and individuals interested in Finland from all around the world.
+*
+About us
+Meet the
+editorial team
+Learn about
+responsible gambling
+Our
+privacy policy
+Popular Articles
+Casino not on Gamstop
+No verification casino
+New online casinos
+Bookmakers not on Gamstop
+Connect with us
+Jobs/Career
+at Helsinki Times
+Contact Us at
+[email protected]
+Socials
+Before using any information on this website, including online casinos or gambling services, please ensure you verify and comply with local laws and regulations. Helsinki Times does not provide advice on the legality of online gambling in your area and accepts no responsibility for your use of this site or its content. By using this website, you agree to take full responsibility and indemnify Helsinki Times against any claims arising from third-party websites promoted here.
+© Helsinki Times All rights reserved.
+Terms of Use
+|
+Privacy Policy

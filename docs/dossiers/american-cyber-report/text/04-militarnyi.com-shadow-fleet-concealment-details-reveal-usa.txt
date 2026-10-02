@@ -1,0 +1,50 @@
+URL:         https://militarnyi.com/en/news/shadow-fleet-concealment-details-reveal-usa/
+Кінцевий:    https://militarnyi.com/en/news/shadow-fleet-concealment-details-reveal-usa/
+Заголовок:   How Shadow Fleet Conceals Its Activities: Details of Such Vessels Revealed by USA
+Дата публ.:  2026-09-25
+Завантажено: 2026-10-02 08:05 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 247281
+Оригінал:    raw/04-militarnyi.com-shadow-fleet-concealment-details-reveal-usa.html
+sha256:      d6773b9db705c843ca5cb0c77f53c9afbade8696a7b8c2686599bc52ae0cae86
+Витяг:       trafilatura
+
+==============================================================================
+U.S. Coast Guard experts have revealed the technical methods that Russian shadow fleet vessels use to conceal their activities.
+
+The presentation was given at the [DEF CON 34](https://media.defcon.org/DEF%20CON%2034/DEF%20CON%2034%20presentations/DEF%20CON%2034%20-%20Kenneth%20Miltenberger%2C%20Shane%20Cancilla%20-%20Taking%20on%20the%20Dark%20Fleet...%20in%20Cyberspace%21.pdf) conference, and an analysis of it was prepared by the [InformNapalm](https://t.me/informnapalm/28763) community.
+
+These vessels actively use methods to spoof data from the Automatic Identification System (AIS).
+
+Several transponders, tools for spoofing coordinates, means of remote access to ship computers, and tools for quickly forging documents were also found on board the vessels.
+
+“One of the most revealing finds is the Russian program Stamp 0.62 for Windows. It allows for the rapid generation of images of ship seals in the event that the ship’s name or IMO number is changed in documents,” InformNapalm reports.
+
+
+One of the main concealment tools is related to the AIS system, which vessels use to transmit their names, coordinates, and other data.
+
+On some tankers, researchers have detected multiple transponders that can be switched between, as well as equipment and software for transmitting false GPS coordinates.
+
+In simpler cases, the crew could physically restrict the antenna’s operation and thus stop the signal from being transmitted.
+
+At the same time, the onboard IT infrastructure is often quite rudimentary.
+
+Researchers found pirated navigation programs, software from torrent forums, and common remote access tools such as AnyDesk, TeamViewer, and ScreenConnect, which could operate without the crew’s authorization.
+
+During some operations, external operators attempted to remotely erase data from the ship’s systems after the vessel had already been detained. They use off-the-shelf digital tools for this purpose, so changing a vessel’s name, flag, or identity may be accompanied not only by a false AIS signal but also by a corresponding set of documents.
+
+Currently, vessels from Russia’s shadow fleet are being actively intercepted by European Union forces. Recently, the Italian Navy intercepted an [oil tanker](https://militarnyi.com/uk/news/zatrymaly-naftovyj-tanker-mv-sun-z-flotu-rf/) from Russia’s shadow fleet in the Mediterranean Sea.
+
+Popular
+
+                Підтримати нас можна через:
+
+Приват: **5169 3351 0164 7408**  PayPal - [[email protected]](/cdn-cgi/l/email-protection)   Стати нашим патроном за лінком ⬇
+
+Subscribe to our newsletter
+
+    or on ours [Telegram](https://t.me/milinua)
+  
+
+Thank you!!
+
+You are subscribed to our newsletter

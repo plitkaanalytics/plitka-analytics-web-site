@@ -1,0 +1,1497 @@
+URL:         https://www.uscg.mil/Portals/0/Images/cyber/CTIME2025.pdf
+Кінцевий:    https://www.uscg.mil/Portals/0/Images/cyber/CTIME2025.pdf
+Заголовок:   Cyber Trends and Insights in the Marine Environment (CTIME) 2025
+Дата публ.:  2026-06
+Завантажено: 2026-10-02 09:00 UTC
+HTTP:        —   Тип: application/pdf   Байтів: 48671931
+Оригінал:    raw/34-uscg.mil-ctime2025.pdf.pdf
+sha256:      991c490dcbcb63b5f307ec1c7c36a7fc4e27ec282c00fd0832c1175922aff878
+Витяг:       pdftotext
+Примітка:    скачано редакцією вручну: uscg.mil віддає 403 скрипту
+
+==============================================================================
+                                                            TLP:CLEAR
+
+2025 CYBER TRENDS AND INSIGHTS
+                 IN THE MARINE ENVIRONMENT
+                                  U.S. Coast Guard Cyber Command
+                                                            TLP:CLEAR
+TLP:CLEAR
+TLP:CLEAR
+                 TLP:CLEAR
+
+Table of Contents
+
+Executive Summary................................................................................ 1
+Introduction............................................................................................. 2
+Mission Overview.................................................................................... 4
+Maritime Cyber Trends............................................................................ 5
+Assessments........................................................................................... 9
+Hunt and Incident Response................................................................13
+Terminal Operating Systems................................................................15
+Cyber Operations Aboard Dark Fleet Vessels .....................................20
+Charting the Next Course.....................................................................23
+Appendix A: Maritime Cyber Information Products.............................25
+Appendix B: Observed Malicious Cyber Criminals..............................26
+Appendix C: Known Exploitable Vulnerabilities Observed.................. 27
+Appendix D: Summary of Attack Paths................................................28
+Appendix E: Summary of Findings.......................................................29
+
+   Disclosure:
+   The information in this report is provided “as is” for informational purposes only. The U.S.
+   Coast Guard does not provide any warranties of any kind regarding this information or
+   endorse any commercial product or service, including any subjects of analysis.
+   This document is marked TLP:CLEAR. Disclosure is not limited. Sources may use
+   TLP:CLEAR when information carries minimal or no foreseeable risk of misuse, by
+   applicable rules and procedures for public release. Subject to standard copyright rules,
+   TLP:CLEAR information may be distributed without restriction. For more information on
+   the Traffic Light Protocol, see https://www.cisa.gov/tlp/.
+   If an entity wishes to create and distribute derivatives of this report they should: (1)
+   provide notice to Coast Guard Cyber Command before distributing such derivatives
+   and (2) refrain from affixing the Coast Guard Cyber logo or DHS seal to the derivatives,
+   unless they have obtained written permission to do so from the Coast Guard Office of
+   External Affairs. The unauthorized use of any Federal agency’s seal is governed by the
+   U.S. Code, Title 18, sections 506, 701, 709, and 1017. Further, U.S. Code, Title 14,
+   section 934 prohibits individuals, corporations, and other businesses from using the
+   words “Coast Guard” or “United States Coast Guard” for trade or business purposes.
+
+                 TLP:CLEAR
+                          TLP:CLEAR
+
+“ The collaborative work between
+
+our exceptional workforce and our
+ partners in the public and private
+  sectors is the true foundation of
+ our ability to secure our ports and
+
+  ” waterways against any threat.
+
+           –Rear Admiral Jason Tama,
+
+             Commander, Coast Guard Cyber Command
+
+                          TLP:CLEAR
+          TLP:CLEAR
+
+Foreword
+
+          Welcome to the fifth edition of our Cyber Trends and Insights in the Marine Environment
+          (CTIME) report. As we present our overall cyber findings from calendar year 2025, this
+          report arrives at a significant inflection point for the Coast Guard. Driven by the largest
+          capital investment in our history, we are actively strengthening Coast Guard Cyber
+          Command (CGCYBER) to combat the evolving threats in the cyber domain. Coast Guard
+          personnel across the Service are aggressively executing transformational changes. Our
+          desired outcomes for the Nation are clear, the Coast Guard will: save lives; control, secure,
+          and defend our border and maritime approaches; facilitate commerce vital to economic
+          prosperity; and respond to any crisis or contingency. In our contested maritime environment,
+          the cyber domain is a critical front.
+
+          In 2025, we deployed cyber teams as part of Maritime Interdiction Operations targeting
+          Dark Fleet Vessels. Also, for the first time, our teams assessed partners who integrated
+          artificial intelligence into their cyber defenses, yielding valuable lessons on the importance
+          of proper configuration. We also examined the security of Terminal Operating Systems,
+          which are essential to the flow of commerce. However, even as we innovate, adversaries
+          continue to rely on fundamental attack vectors. Reported incidents were up 17% in 2025,
+          and phishing remains a primary method for initial access. Despite the rise in reported
+          incidents, operational impacts were thankfully limited. Our findings continue to underscore
+          the need for a balanced approach to protecting the Marine Transportation System (MTS)
+          which emphasizes not only mastering cybersecurity fundamentals, but also building
+          resilience to ensure continuity of operations.
+
+          President Trump’s Cyber Strategy for America highlights securing U.S. critical infrastructure
+          as one of six Pillars of Action. Securing our nation’s MTS is a vital part of this effort.
+          Confronting the dynamic cyber threats we face requires a collective, unified effort. While
+          CGCYBER is dedicated to applying the Federal government’s cyber capabilities to protect
+          the MTS, our greatest strength lies in our people and our partnerships. The collaborative
+          work between our exceptional workforce and our partners in the public and private sectors
+          is the true foundation of our ability to secure our ports and waterways against any threat.
+          Cybersecurity is a team sport, and this annual report would not be possible without
+          partnerships. Thank you for collaborating with us, and we hope you enjoy this year’s edition!
+
+          Semper Paratus,
+
+          RDML Jason Tama
+          Rear Admiral, United States Coast Guard
+          Commander, Coast Guard Cyber Command
+
+                                           TLP:CLEAR
+Share of                                                     TLP:CLEAR
+organizations that
+reported an AI-related                     2025 Trends & Insights
+security incident2                               SCORECARD1
+
+97%                                                                                Average cost
+                                                                                   of a breach:3
+
+                                                                    $4.4M
+
+                     39%                                                            47%
+
+                     of missions                                                    success rate
+                     where privileged                                               when Brute
+                     service                                                        Force Cracking
+                     accounts were                                                  Passwords
+                     cracked
+
+53%                                                                                               62%
+
+of CPT missions gained                                                                            of missions
+initial access through                                                                            included
+Phishing for Information                                                                          OT in scope
+
+Cyber Incidents Reported to Coast Guard by District                                  273
+
+              North                                               Great     North   Known Exploitable
+               West                                               Lakes      East   Vulnerabilities
+                                                                                    (KEVs) detected
+         3                                                         2        5       across assessments
+                                                                                    5 Most Commonly Detected KEVs:
+            South                   Heart                                East
+            West                    Land                                              CVE-2013-3900
+                                                                         2            CVE-2020-11023
+        5                     11                                                      CVE-2021-40438
+                                                                  South  Abroad       CVE-2023-41993
+Arctic               Oceania                                      East                 CVE-2023-44487
+                                                                             1
+ 2                    6                                            5
+
+1 Data derived from Coast Guard Cyber Protection Team Operations         TLP:CLEAR
+2 IBM (ibm.com/reports/data-breach)
+3 ibid
+                                                          TLP:CLEAR
+
+Executive Summary
+
+Coast Guard Cyber Command               Key Takeaways
+(CGCYBER) is committed to               ■ A Terminal Operating System is only as secure as its configuration.
+securing the Marine Transportation
+System (MTS) through consistent            These systems play a critical role in port operations. They often
+engagement with industry partners          have external applications for customers but are also integrated with
+and stakeholders. In pursuit of this       operational and information technology systems, providing real-time
+aim, we present the fifth annual           visibility and management across terminal procedures. Because of
+Cyber Trends and Insights in the           the broad attack-surface and port operations’ dependency on these
+Marine Environment (CTIME)                 systems, it is imperative for organizations to integrate them securely
+report. The comprehensive analysis         to protect their data and operations from disruption.
+delivers actionable information and
+best practices derived from Coast       ■ Artificial Intelligence Cybersecurity Platforms, like all
+Guard Cyber Protection Teams’              cybersecurity tools, are only effective when implemented
+(CPT) operational experiences              properly – investment must be matched with proper setup to
+and CGCYBER’s Maritime Cyber               realize value. Our teams have observed extremely effective
+Readiness Branch’s (MCRB)                  AI tools when configured properly and trained to understand
+industry engagements throughout            an organization’s network. However, they have also observed
+2025. By leveraging observed               organizations whose AI tools lack proper configuration to be far
+trends, technical assessments,             less effective at detecting malicious activity.
+and collaborative exchanges, we
+will help drive improvements in         ■ Despite evolving IT landscapes, basic attack vectors persist
+maritime cybersecurity. This report        as attackers adapt traditional techniques. There have been
+empowers Coast Guard units,                significant changes in typical IT environments and cybersecurity
+federal and industry partners, and         defenses since CGCYBER CPTs began operating five years ago.
+all maritime stakeholders to take          We have seen a move from on-premises email servers to almost
+immediate and decisive action              exclusively cloud-based email, widespread adoption of multi-
+to defeat cyber adversaries and            factor authentication, and endpoint-detection and response
+protect vital maritime systems.            at almost every mission location. Yet, we have not seen major
+The security of our nation’s Marine        shifts in the most common findings from our CPT missions. The
+Transportation System depends              specific details of how exploits happen have evolved, but the
+on our collective ability to identify,     underlying techniques remain fundamentally unchanged.
+combat, and overcome these
+dynamic threats.                        ■ Dark Fleet operator’s common practices create significant cyber
+                                           risk to the safe navigation and operations of their vessels. By
+                                           operating in the shadows of international oversight, these
+                                           vessels do not adhere to any standards or best practices for
+                                           physical and cyber security. As part of U.S. Maritime Interdiction
+                                           Operations, CGCYBER personnel deployed alongside traditional
+                                           law enforcement boarding teams to identify and mitigate these
+                                           risks while U.S. forces were present.
+
+                                        TLP:CLEAR                    CTIME 2025 | 1
+                                 TLP:CLEAR
+
+Introduction
+
+     Welcome to the              This report provides a high-level analysis of observed
+                                 cybersecurity practices and adversary activities within the marine
+     5th annual CTIME.           environment from January 1, 2025, through December 31,
+                                 2025. Across the calendar year, CGCYBER recorded metrics to
+     This report provides an     identify trends that will aid Coast Guard and maritime industry
+  opportunity to reflect on the  decision makers. These decision-makers include Coast Guard
+   changes both in maritime      Area/District/Sector Commanders and their staffs, as well as
+cybersecurity and at CGCYBER.    maritime facility leadership and management teams, including
+                                 Facility Security Officers (FSOs), Information Technology (IT)
+                                 Directors, Chief Information Officers (CIOs), Chief Information
+                                 Security Officers (CISOs), Cybersecurity Officers (CySOs) and other
+                                 executives. The contents of this report are intended to inform
+                                 stakeholders and increase their ability to identify and address
+                                 cybersecurity risks within their purview.
+
+2 | CTIME 2025                   TLP:CLEAR
+                                                            TLP:CLEAR
+
+What’s New in 2025?
+
+▪ In 2025, for the first time, CGCYBER CPTs worked with partners who integrated artificial intelligence (AI) into their
+
+  cybersecurity defense. The results were mixed: in one case, AI immediately detected and stopped our penetration
+  testers’ every move, while in other cases, AI failed to detect any of our teams’ actions. The success of these tools
+  is largely tied to how the system is configured and tuned.
+
+▪ The demand for CGCYBER missions on operational technology (OT) systems continued to grow. We prioritized
+
+  maturing and expanding OT system mission capabilities. In 2025, 62% of missions included OT in the scope,
+  an increase from 46% in 2024.
+
+▪ In 2025, CGCYBER modified how we categorize findings from our threat hunt missions. Our new system helps
+
+  us better articulate the types of malicious findings we observe on mission and are discussed further in the
+  Hunt and Incident Response section (page 13).
+
+▪ As a member of the Cyber Mission Force, CGCYBER expanded its role in the Joint Force, executing multiple
+
+  forward deployed operations ranging from threat hunt missions with United States Cyber Command
+  (USCYBER) to Maritime Interdiction Operations of Dark Fleet Vessels with traditional assault and law
+  enforcement forces, all in support of achieving U.S. strategic objectives.
+
+▪ In 2025, CGCYBER’s first National Mission Team (NMT) reached Full Operating Capability and was established
+
+  as a new Command. 1915 NMT represents the Coast Guard as an embedded unit of the Cyber National
+  Mission Force under USCYBER.
+
+▪ The Coast Guard received the largest capital investment by the American people in our history. On July 4,
+
+  2025, after passage by Congress, the President signed into law $24.5 billion in appropriations to recapitalize
+  aircraft, cutters, boats, shore infrastructure, and technology.
+
+▪ Another key tenet of the service’s transformational change focuses on strengthening CGCYBER. The Coast
+
+  Guard will grow and transform CGCYBER to ensure the ability to address current and future threats in the
+  cyber domain, and to improve interoperability with the Joint Force.
+
+▪ On January 17, 2025, the Coast Guard issued a Final Rule4 related to Cybersecurity in the MTS. On July
+
+  16, 2025, the new regulations applicable to Maritime Transportation System Security Act (MTSA)-regulated
+  entities went into effect starting with mandatory reporting for cyber incidents. By July 16, 2027, the first
+  annual Cybersecurity Assessment must be conducted, and a Cybersecurity Plan must be submitted to Coast
+  Guard for approval. It is important to note that even with issuance of the new regulations, CGCYER Cyber
+  Protection Team operations remain non-regulatory activities.
+
+▪ Finally, the Coast Guard stood up a new Maritime Cybersecurity Policy office. See the last section of this report
+
+  for insights from its new office chief, Charles “Nicholas” Parham in “Charting the Next Course: Cybersecurity
+  Governance in a Contested Maritime Domain” (page 23).
+
+4 https://www.regulations.gov/document/USCG-2022-0802-0107
+
+                                                            TLP:CLEAR  CTIME 2025 | 3
+                                                                 TLP:CLEAR
+
+Mission Overview
+
+CGCYBER CPTs conduct non-regulatory activities to prevent, detect, and respond to cyber
+threats impacting critical infrastructure in the MTS.
+
+The teams deploy and operate upon requests from partners in support of Coast Guard Operational Commanders
+and collaborate with public and private organizations globally.
+
+In 2025, CGCYBER completed 42 missions with industry partners. This report is based on the data and analysis
+collected during these missions, cross-referenced with incidents reported to the CGCYBER MCRB, to provide a
+comprehensive understanding of current and emerging cyber threats. Figure 1 provides visual representations of
+CPT missions by their primary geographic location.
+
+CPT Missions by USCG Sector                                                 Sector Eastern             Sector Southeastern
+                                                                            Great Lakes                New England
+                           Sector Puget Sound
+                                x2                                                                          x2
+
+                   Sector Columbia River                                                    Sector New York
+                        x2
+                                                                    Sector                                   Sector Long
+                Sector San Francisco                                Maryland/BNCR                            Island Sound
+
+                         Sector                  Sector Upper               CGCYBER                              x2
+                         Los Angeles/Long Beach  Mississippi River          (Kearneysville)
+                                                                                                         Sector
+                              x2                     x2                                 Sector Virginia  Delaware Bay
+
+                                                                                                             x2
+
+                                                                    Sector New Orleans
+
+                                                 Sector                                                  Sector Jacksonville
+                                                 Houston/Galveston
+                                                                                                               Sector Miami
+                                                     x2
+                                                                                                                  Abroad
+                                                                            Sector Mobile                              x4
+
+Sector Honolulu                                  Sector
+                                                 Corpus Christi
+
+                                                                    Sector Guam
+
+Assessment       Hunt
+Advisory         Incident Response
+
+Figure 1: CPT Missions by USCG Sector
+
+4 | CTIME 2025                                                   TLP:CLEAR
+                                                          TLP:CLEAR
+
+Maritime Cyber Trends
+
+Background                     In 2025, MCRB and local Coast Guard units responded to 42 reported
+CGCYBER’s MCRB offers          cyber incidents, 26 from LANT AREA and 16 from PAC AREA. This represents
+expertise in marine safety     a 17% increase from the 36 reported cases in 2024.
+and cybersecurity to convert
+details from cybersecurity     Cyber Incidents by District
+incidents into quantifiable
+operational risks. MCRB                                                        5
+risk analysis provides Coast
+Guard decision-makers             3                                      2
+critical information to
+accurately gauge risk and                                            11        2
+aid local units in responding
+to cybersecurity incidents.    5
+For each reported MTS
+cyber incident, MCRB              2                                         5
+identifies the initial attack
+vector and post-entry                6
+actions. MCRB’s analysis is
+contingent upon information                                                    Abroad 1
+provided by impacted
+entities. With greater self-   Figure 2: Cyber Incidents by District
+reporting in accordance with
+regulation, we will provide    Consolidated Findings
+stakeholders across the        Phishing
+MTS with better insights into  Throughout 2025, phishing techniques were employed for reconnaissance
+cyber issues to safeguard      and/or as initial access vectors in 43% of reported MTS cyber incidents.
+and protect their portion of   This represents an 18-point increase from 25% the year prior. Additionally,
+the $4.7 trillion industry.    an increase in phishing sophistication was observed across MTS cyber
+                               incidents in 2025.
+
+                               Threat actors often exploited employees’ trust and familiarity with coworkers
+                               and vendors by utilizing compromised accounts to send further phishing
+                               emails to company employees and external contact lists. In some cases,
+                               the initial account compromises were accomplished through phishing, as
+                               well. In one incident impacting an MTS partner, nine employee accounts
+                               were compromised after employees clicked a malicious link and provided
+                               credentials. Threat actors then sent thousands of additional phishing emails
+                               from the employee accounts to external customers.
+
+                               TLP:CLEAR                                    CTIME 2025 | 5
+                TLP:CLEAR
+
+Impersonation was a common technique observed in               Account Compromise
+MTS cyber incidents in 2025, specifically for financial        Throughout 2025, account compromises were involved
+exploitation. For instance, one threat actor impersonated a    in 29% of attack paths of reported MTS cyber incidents,
+member of the company’s Board of Directors and solicited       representing a 13-point decrease from the 42% of cases
+employees to purchase gift cards for them. Another threat      in 2024. Threat actors frequently leveraged account
+actor sent a phishing email impersonating the company’s        compromises to escalate privileges, move laterally, and
+CEO and directed the accounting department to pay a            conduct successful ransomware or phishing campaigns.
+nearly $50K fraudulent invoice. The scheme unraveled           Among MTS cyber incidents in 2025 involving account
+months later when the U.S. Postal Service returned a form      compromise, user accounts were affected in 83% of
+to the company due to a bad address being listed. Threat       cases, and administrative accounts were compromised in
+actors’ use of authority and urgency can be convincing, but    the remaining 17% of cases.
+individuals receiving suspicious requests involving large
+funds should confirm with the purported sender through         MCRB observed several successful account
+other means prior to taking any action.                        compromises resulting from improperly configured
+                                                               multi-factor authentication (MFA) on user accounts.
+Another common tactic involved mimicking Microsoft             In one such incident, an employee fell victim to a
+document sharing notifications, directing victims to           credential-harvesting phishing attack, and because
+malicious links or credential harvesting sites instead         MFA was disabled, the attacker was able to
+of legitimate files. Although phishing emails remain the       compromise their account using the stolen credentials.
+most prevalent threat, MCRB has observed a concerning          However, after conducting further phishing and
+increase in vishing (voice phishing) campaigns targeting       credential harvesting attacks, the threat actor’s
+the MTS. In one notable incident, the Scattered Spider         attempt to compromise a second employee’s account
+threat group successfully impersonated IT help desk            was prevented by properly enabled MFA.
+personnel by phone, deceiving an employee into granting
+the threat actors remote access to their laptop.               Ransomware
+                                                               Throughout 2025, ransomware techniques were
+Initial Attack Vectors                                         observed in the attack paths of 19% of reported MTS
+                                                               cyber incidents. This represents a 6-point decrease
+                           10 Phishing                         from the 25% reported the year prior. Ransomware
+                                                               attacks against the MTS consistently targeted business
+                   6 Valid Accounts                            servers or communication infrastructure. The scope
+                                                               of these attacks varied, encompassing corporate
+            1 Replication through Removable Media              networks, virtual servers, and systems such as payroll,
+                                                               accounting, and hotel operations. In multiple instances,
+            2 Exploit Public-Facing Application                threat actors successfully encrypted business servers
+                                                               and locked employees out of company phones,
+            1 Trusted Relationship                             email accounts, and other communication systems.
+                                                               One incident targeted a cruise ship, encrypting the
+            2 External Remote Service                          hotel operations system onboard. Despite minor
+                                                               business impacts, the extent was limited due to the
+                                             20 Unknown / N/A  ship’s network segmentation, ensuring safety on the
+                                                               passenger vessel.
+Figure 3: Initial Attack Vectors (Since 22 SEP)
+
+6 | CTIME 2025  TLP:CLEAR
+                                         TLP:CLEAR
+
+Data indicates a wide variation in response times      out of an abundance of caution, while other teams
+for ransomware incidents. For instance, one incident   determined that similar measures to their respective OT
+response (IR) team contained and neutralized a         environments were not needed due to strong network
+ransomware attempt within 15 minutes of being          perimeters and segmentation.
+alerted. Other responses took hours, days, and even
+weeks depending on the sophistication of both the      During ongoing incidents, many organizations
+responding teams and threat actors involved. MTS       significantly mitigated the impact through effective
+entities responded to ransomware attacks by disabling  workarounds and reliable backup systems. Similarly,
+compromised accounts, isolating affected servers       during communication system breaches, implementing
+and devices, and reverting to uncompromised system     telework and utilizing cellular devices enabled
+backups. Precautionary measures differed based on      continued communication and minimized business
+circumstances and IR team judgment. For instance, one  disruption. These experiences highlight the critical
+IR team shut down servers hosting Programmable Logic   role of alternative operational methods in maintaining
+Controllers (PLC) and placed the PLCs in manual mode   resilience during cyber incidents.
+
+Attack paths             Compromise                    Phishing for
+                        Email Accounts                 Information
+              Spear
+         Phishing Link
+
+Valid Accounts          External Remote                Data Encrypted
+                             Services                     for Impact
+
+ Software Supply        Valid Domain
+Chain Compromise          Accounts
+
+Spear Phishing          Impersonation                  User Execution                         Remote Desktop
+      Voice                                                                                       Software
+
+Compromise Email        Impersonation                  Phishing for                           Financial Theft
+      Accounts                                         Information
+
+Figure 4: Attack Paths
+
+Conclusion                                                                                        The NRC
+Mitigation Efforts                                                                                 can be
+To counter malicious cyber actors, timely information sharing between CGCYBER, other           contacted at
+government agencies, and maritime organizations remains essential for identifying and         800-424-8802
+disrupting malicious cyber activity. CGCYBER disseminates information-sharing products,
+detailed in Appendix A (page 25), to enhance awareness of cyber trends and threats, offering
+recommendations and resources to help the MTS strengthen its cybersecurity posture.
+CGCYBER relies on cyber incident reports to the National Response Center (NRC) to activate
+response capabilities and increase awareness across the MTS. MTS entities are required to
+report cyber incidents to the NRC to better address these evolving cyber threats.
+
+                                         TLP:CLEAR                                            CTIME 2025 | 7
+                                                                 TLP:CLEAR
+
+Showcasing MITRE5 Techniques Seen in 2025 MTS Incidents
+
+Reconnaissance               T1598.004: Phishing for Information: Spear Phishing Voice. Threat actors
+                             used phone calls to gather information from victims, often known as voice
+Resource                     phishing or vishing, that was later used to compromise MTS networks.
+Development
+                             T1586.002: Compromise Email Accounts. Attackers leveraged
+Initial Access               compromised email accounts in several MTS incidents in 2025. Accounts
+                             enabled further attacks, malicious emails, and credential harvesting.
+
+                             T1566.002: Phishing. The most common initial access technique employed
+                             by threat actors against the MTS in 2025 was phishing. In many cases,
+                             phishing led to compromised credentials.
+
+Execution                    T1204: User Execution. Threat actors often rely on victim user action to
+                             compromise systems.
+
+Privilege                    T1078.002: Valid Domain Accounts. MCRB investigated incidents where
+Escalation                   administrative accounts were compromised, allowing threat actors to gain
+                             access to internal domain controllers.
+
+Defense Evasion              T1656: Impersonation. Threat actors successfully persuaded some MTS targets
+                             into performing actions on their behalf by impersonating IT help desk personnel.
+
+Credential Access            T1110.002: Brute Force Password Cracking. Threat actors employed this
+                             tactic against the MTS, making hundreds of rapid log-in attempts against
+                             MTS facilities.
+
+Command                      T1219.002: Remote Desktop Software. Threat actors utilized legitimate
+and Control                  remote access software to establish an interactive command and control
+                             channel on target systems.
+Lateral Movement
+                             T1534: Internal Spear Phishing. MCRB observed several incidents where
+Exfiltration                 adversaries compromised email accounts through initial phishing email.
+                             Then, bad actors subsequently attempted to compromise other users
+                             through phishing emails from trusted accounts.
+
+                             T1048: Exfiltration Over Alternative Protocol. Bad actors exploited CVE-2008-
+                             4128 and exfiltrated router configuration data over different protocols than the
+                             command and control (C2) channel, allowing for further network compromise.
+
+Impact                       T1486: Data Encrypted for Impact. This technique was employed several
+                             times by adversaries of the MTS in ransomware schemes, disrupting
+                             operations at MTSA regulated facilities.
+
+Table 1: Showcasing MITRE Techniques Seen in 2025 MTS Incidents
+
+5 https://attack.mitre.org/                                      TLP:CLEAR
+
+8 | CTIME 2025
+                            TLP:CLEAR
+
+Assessments
+
+Background                  CPT Assessment Services
+CGCYBER conducted 23        ▪ Penetration Testing.
+assessment missions
+during calendar year          Simulate a real-world cyberattack to assess how an adversary could gain
+2025. While conducting        and escalate access across systems and networks within a defined scope.
+assessments, CPTs emulate
+threats and employ known    ▪ Wireless Assessment.
+attack techniques to
+assess an organization’s      Assess the risk posed by wireless infrastructure, including potential
+risk posture and highlight    rogue access points, segmentation, and insecure configurations.
+business impacts. This
+section discusses attack    ▪ Operational Technology Assessment.
+paths and findings from
+these assessments.            Identify vulnerabilities and assess cyber risk within OT infrastructure.
+
+                            Consolidated Findings
+                            Top 10 ATT&CK® Techniques Used on 2025 CPT Missions
+
+                            Finding Name                                  Frequency       Annual
+                            Adversary-in-the-Middle (AitM, T1557)              22     Rank Change
+                            Valid Accounts (T1078)
+                                                                                     increase
+
+                                                                          21         decrease
+
+                            Remote Services (T1021, T1133, T1210)         14         decrease
+
+                            Brute Force (T1110)                           12         equal
+
+                            Unsecured Credentials (T1552)                 10         increase
+
+                            Privilege Escalation (T1068)                  8          decrease
+
+                            Vulnerable Application Layer Protocols        8          increase
+
+                            Phishing (T1566)                              8          increase
+
+                            Exploitable Software Vulnerabilities (T1203)  6          increase
+                            Default Credentials – ICS (T0812)
+                                                                          4          decrease
+
+                            Table 2: Top 10 ATT&CK® Techniques
+
+                            TLP:CLEAR                                                CTIME 2025 | 9
+                 TLP:CLEAR
+
+External Assessments                                        and inconsistent attachment scanning policies still
+In 2025, the CPTs continued to identify exploitable         enabled malicious content to reach inboxes. CGCYBER
+internet-facing systems across MTS partners.                continues to encourage quarterly phishing exercises,
+About 28% of all Assessment Mission findings were           enforcement of MFA with number matching, and the
+associated with external infrastructure weaknesses,         deployment of Sender Policy Framework (SPF)/Domain
+with exploitation of Remote Services (T1021.004) and        Keys Identified Mail (DKIM)/Domain-based Message
+Exploit Public-Facing Applications (T1190) among the        Authentication, Reporting, and Conformance (DMARC)
+most leveraged attack techniques simulated by CPTs.         controls to strengthen defenses against credential-
+While partners showed measurable improvement in             harvesting campaigns.
+patch management and network monitoring, outdated
+protocols, exposed management interfaces, and               Internal Assessments
+weak encryption standards remained common across            Internal network vulnerabilities remained higher
+assessments.                                                in frequency compared to external assessments,
+                                                            accounting for 56% of all CPT mission findings.
+CPTs also found recurring misconfigurations in web,         Credential misuse and weak identity management
+virtual private network (VPN), and secure shell protocol    practices remained the most common internal
+(SSH) services that left systems accessible to brute-force  vulnerabilities. CPTs frequently exploited Valid Accounts
+attacks and credential guessing. Several organizations      (T1078), Password Cracking (T1110.002), and LLMNR/
+also maintained publicly exposed file-sharing or            NBT-NS Poisoning (T1557.001). Across all missions,
+administrative portals. CGCYBER recommends that             CPTs attempted to crack 16,709 password hashes and
+organizations maintain continuous vulnerability scanning,   successfully recovered 7,857 passwords, resulting in an
+adopt a zero-trust perimeter model, and implement           overall 47% crack rate. Among these, 31 privileged or
+automated alerting for configuration drift to reduce        service account passwords were successfully cracked,
+opportunities for external compromise.                      highlighting continued risk stemming from weak or
+                                                            reused administrative credentials. The shortest cracked
+Phishing Campaigns                                          passwords were as short as four characters, and
+Phishing remained a leading pathway for initial             several organizations either lacked a formal password
+access during 2025 assessments. CPTs were able to           policy or had policies that were inconsistently enforced.
+successfully exploit phishing in two-thirds of missions     Even where policies existed, CPTs frequently observed
+where phishing campaigns were run. These campaigns          shared administrator accounts and password reuse
+were often coupled with User Execution (T1204.002)          across multiple systems.
+techniques where users interacted with malicious links
+or attachments. Overall click rates declined compared       Key security improvements included broader endpoint
+to 2024, and many partners successfully implemented         detection and response tool deployment, mandatory MFA
+phishing-resistant MFA; however, several environments       for administrative accounts, and strengthened centralized
+still allowed adversaries to bypass defenses                logging. Nonetheless, excessive account privileges and
+using Push Bombing (T1621) or misconfigured                 legacy network protocols continue to create risk. CGCYBER
+authentication prompts.                                     recommends following NIST SP 800-63, as amended,
+                                                            password guidance, removing default accounts, disabling
+CPTs noted significant gains in detection speed and         legacy name-resolution protocols, and segmenting internal
+user reporting, demonstrating improving organizational      networks to prevent enterprise-wide compromise.
+awareness. However, incomplete email filtering
+
+10 | CTIME 2025  TLP:CLEAR
+The Artificial Defender                       TLP:CLEAR
+2025 marked the first year
+CGCYBER CPT’s came across        Operational Technology Assessments
+organizations with fully         Assessments of OT networks in 2025 yielded similar findings to those
+integrated AI cybersecurity      observed in IT networks. Results showed progress in risk awareness but
+platforms. CPTs saw these        continued weaknesses in network architecture and asset management.
+solutions on seven missions      Lack of network segmentation was the most common issue, often
+in 2025, and while more          allowing IT and OT traffic to coexist without proper separation. CPTs
+data is needed to make           also observed widespread use of unsupported operating systems and
+any definitive statements,       software, including instances of remote access vulnerabilities and
+the teams did observe            deprecated protocols that exposed control systems to exploitation.
+some patterns. These tools
+can be extremely effective       Several assessments revealed unmanaged personal devices, insecure
+when configured properly         software configuration, and limited visibility into OT environments,
+and trained to understand        leaving organizations unable to detect anomalous activity. These findings
+the organization’s network.      underscore fundamental controls—such as segmentation, asset inventory,
+During one mission, every        and configuration management—remain incomplete across much of the
+action the CPT took as part      sector. CGCYBER recommends adopting NIST SP 800-82, as amended,
+of their assessment was          guidelines for network segmentation, decommissioning legacy systems,
+detected and blocked within      and deploying passive monitoring solutions to strengthen resilience in
+30 seconds. Even custom          maritime control environments.
+payloads used to avoid
+typical antivirus detection            Conclusion
+were identified and stopped             During 2025, CGCYBER continued to discover many similar findings
+nearly instantaneously.                 and mitigations as previous years. However, recent years display
+However, if steps aren’t                a relative increase in vulnerabilities originating from technical
+taken to train the system in            issues like unsegmented networks, outdated software, and AitM
+a specific environment, and             attacks, compared to social engineering techniques like phishing.
+the tool is not configured              This likely reflects the growing use of cloud email and growing
+well, it is far less effective,         employee cybersecurity awareness, though it could also mean
+even to the point where no              adversaries employing increasingly sophisticated attack paths.
+malicious activity is detected.         Businesses should build on successes reducing social engineering
+The key takeaway for these              susceptibility by maturing with additional technical solutions. Figure
+systems is the same for any             5 lists the Top 10 Mitigations matched with CGCYBER’s estimate of
+cybersecurity tool: they are            implementation difficulty.
+only as effective as their
+configuration – investment
+must be matched with
+proper setup to realize value.
+
+                                 TLP:CLEAR  CTIME 2025 | 11
+                                                                 TLP:CLEAR
+
+Top 10 Recommended ATT&CK® Mitigations in 2025
+
+          Frequency and          Annual Change                   End User        Upfront Cost    Recurring Cost
+          Mitigation Name
+
+1.        Password Policies
+                 (M1027)
+
+2.   Privileged Account
+
+          Management
+
+          (M1026)
+
+3.        Network
+
+          Segmentation
+
+          (M1030)
+
+         Disable or Remove a
+
+4. Feature or Program
+
+                   (M1042)
+
+5.        Update Software
+                (M1051)
+
+6.        Multi-Factor
+
+          Authentication
+
+          (M1032)
+
+7.               Filter
+
+          Network Traffic
+
+          (M1037)
+
+8.        Encrypt Sensitive
+
+          Information
+
+          (M1041)
+
+9.        Operating System
+
+          Configuration
+
+          (M1028)
+
+10.       User Account
+
+          Management
+
+          (M1018)
+
+User Resistance                                                  Upfront/Recurring Cost
+
+                                                                            Low          Medium  High
+
+     Low                 Medium  High
+
+Relative resistance of mitigation implementation from user base  Relative costs to procure, implement, and/or maintain mitigation measures
+
+Figure 5: Top 10 Recommended ATT&CK® Mitigations in 2025
+
+12 | CTIME 2025                                                  TLP:CLEAR
+                                                          TLP:CLEAR
+
+Hunt and Incident Response
+
+Background                   The new system breaks hunt findings into 5 categories:
+In 2025, CGCYBER
+revamped how we              Category 1 is malicious cyber activity defined by evidence of an ongoing
+categorize findings for      intrusion with indications of active threat actor presence and operations
+hunt missions to focus on    within the environment.
+the threat. The old system
+focused on business          Category 2 is malicious cyber activity defined by evidence of previous
+impacts, more akin to        compromise or dormant malicious presence without signs of current
+our assessment findings.     threat actor activity.
+Further, the system did
+not clearly differentiate    Category 3 is malicious cyber activity defined by non-targeted malicious or
+between varying levels       potentially unwanted software that poses moderate risk.
+of severity of malicious
+activity. This meant only    Category 4 is malicious cyber activity defined by attempted intrusions,
+active compromises were      malicious actor reconnaissance and unexplained suspicious activity.
+reported as “discovering
+malicious cyber activity,”   Category 5 are security vulnerabilities defined by conditions that could
+when there are lower         enable or facilitate compromise but without evidence of exploitation
+severity malicious findings  attempts. Category 5 findings follow the same severity rating scale as our
+on most hunt missions.       assessment mission.
+
+                             Consolidated Findings                   Highest Finding Category per Mission
+                             There have been 44 hunt
+                             and incident response                   Category 5      Category 1
+                             missions since 2021: 46%                    38%             25%
+                             resulted in discovering
+                             malicious artifacts                                           Category 2
+                             ranging from low-level                                            12%
+                             malware/spyware to
+                             active compromises.                     Category 4
+                             Further, 62% of all hunt                    16%
+                             and incident response
+                             missions identified at                                                                  Category 3
+                             least attempted intrusions                                                                  9%
+                             or otherwise unconfirmed
+                             suspicious activity.
+
+                                                                     Figure 6: Highest Finding Category per Mission
+
+                             TLP:CLEAR                                               CTIME 2025 | 13
+The total findings from all 32 hunt missions6  TLP:CLEAR
+are broken down by category at right.7            Malicious Activity Findings from Hunt Missions
+
+Conclusion                                                                                         20 Category 1
+The following table summarizes all                                    7 Category 2
+hunt and incident response missions
+conducted in CY2025.                                                                         17 Category 3
+                                                                                            Category 4 37
+
+                                               Figure 7: Malicious Activity Findings from Hunt Missions
+
+Hunt and Incident Response Missions Conducted in CY2025
+
+Mission Type     Sector                                                              Highest Category of Finding
+
+Hunt             Transportation (Maritime) Category 1 Active Compromise
+
+Hunt             Transportation (Maritime) Category 3 Non-targeted Malware
+
+Hunt             Transportation (Maritime) Category 4 Attempted Intrusion
+
+Hunt             Government                                                          Category 1 Active Compromise
+
+Hunt             Transportation (Maritime) Category 5 Security Vulnerabilities
+
+Hunt             Food and Agriculture                                                Category 5 Security Vulnerabilities
+
+Hunt             Water and Wastewater                                                Category 5 Security Vulnerabilities
+
+Hunt             Transportation (Maritime) Category 1 Active Compromise
+
+Hunt             Transportation (Maritime) Category 1 Active Compromise
+
+        Incident Response Transportation (Maritime) Category 2 Evidence of Previous Compromise
+
+Table 3: Hunt and Incident Response Missions Conducted in CY2025
+
+6 Excludes incident response missions
+7 Category 5 findings were excluded as there were 163 total vulnerability findings.
+
+14 | CTIME 2025                                TLP:CLEAR
+                                                          TLP:CLEAR
+
+Terminal Operating Systems (TOS)
+
+Background                                         Key Takeaways
+What is a                                          TOSs are essential to efficient port operations. However,
+Terminal Operating System?                         because of its deep integration and control over essential
+A TOS is a specialized software                    functions, a compromise can be devastating. It is crucial
+application used to support and manage             organizations properly configure their TOS to reduce their
+the operations of facilities, ranging from         exposure and mitigate security risks.
+maritime ports to container terminals. A
+TOS plays a critical role when integrated       Overview
+with operational and information                Review of what makes up a TOS
+technology, providing real-time visibility      A modern TOS can be broken down into multiple modules, where
+and management of terminal procedures           each module manages a different area of the terminal’s functions.
+to optimize productivity and reduce cargo       These modules then feed operational data into an interactive
+dwell times. Without it, facilities rely on     webpage, providing users with analytics. A TOS’s structure depends
+manual functions, like spreadsheets,            on the terminal’s size and its type of operations.
+to track operations. This method is
+slower, susceptible to errors, and can be       Different functions of a terminal could include:
+overwhelming depending on the volume
+of data produced each day. While highly         ■ Yard Management. Maintains a real-time map of the yard
+beneficial, a TOS’s deep integration and           to optimize the stacking and storage of containers based on
+control over essential functions mean its          factors such as dimensions, pickup time, etc.
+compromise can undermine the entire
+corporation and cause severe financial          ■ Gate Management. Automates the check-in and check-out
+losses. It is increasingly important that the      process for trucks, reducing congestion and the amount of
+TOS is properly configured to mitigate the         time spent at the terminal to load or unload containers.
+security risks posed, as maritime vessels
+make up approximately 40% of U.S.               ■ Vessel and Berth Management. Oversees and assigns
+international trade value.8                        berthing locations for vessels arriving. Can schedule vessel
+                                                   arrival and departure times, as well as assign work for cranes
+   Technical expertise for this                    to optimize the loading and unloading of cargo.
+   report was provided by Kaleris,
+   a Terminal Operating System                  ■ Railroad Management. Plans the loading sequence of
+   company. The collaboration                      railcars and manages the transfer of cargo between the
+   between Kaleris and CGCYBER                     railcars and the yard.
+   helped shape and validate the
+   findings presented in this report.           ■ Billing. This module automates the tracking of billable
+                                                   services and generates invoices for customers.
+8 https://www.uscg.mil/Portals/0/Images/cyber/
+  CGCYBER%202024%20CTIME.pdf
+
+                                                TLP:CLEAR            CTIME 2025 | 15
+                                 TLP:CLEAR
+
+Overview of a                                                   KPIs and          Real-time
+                                                             dashboards for     monitoring of
+Terminal Operating System                                     performance      vessel / yard /
+                                                                              gate operations.
+                                      Accurate invoicing        tracking &    Central function
+                                        with automated        ops insights.    to orchestrate
+                                        billing systems.                     different functions
+                                                                Predictive     at the terminal
+                                    Monitoring for tariff &    analytics &
+                                     contract compliance        analytics
+
+            Fast, paperless check-
+            ins with OCR, RFID, and
+             pre-advising AI-driven
+
+                 gate processing
+
+                                                              Equipment servicing ops
+                                                             containers, cranes, trucks.
+                                                             Digital tracking of repairs
+
+                                                                with automated work
+                                                                 order management
+
+          Efficient loading &                                                                Container stacking
+       unloading with remote-                                                                with manual & RTG
+     controlled quay cranes for
+         automated terminals                                                                   operations and
+                                                                                             automated cranes
+Figure 8: Overview of a TOS                                                                  reduce congestion
+
+16 | CTIME 2025                                          Efficient container
+                                                     movement with terminal
+
+                                                         tractors & internal
+                                                          trucks. Driverless
+                                                         transfers with AGVs
+
+                                 TLP:CLEAR
+                                                          TLP:CLEAR                 EDI is heavily used in TOS for
+                                                                                    receiving and transmitting
+Consolidated Findings                                                               business documents
+Common Vulnerabilities                                                              between the terminal and
+Securing the TOS is critical for protecting an organization’s data and              outside entities. It is relied on
+preventing operational disruptions. In 2025, three CPT missions focused on          to facilitate communications
+TOS networks. These missions identified the following common security and           for nearly all terminal
+operational concerns:                                                               operations, including
+                                                                                    container shipments, truck
+■ Public Exposure and Weak Access Controls. Public-facing login pages meant         and yard operations, and
+   for internal use only, combined with weak or default passwords, provide an       vessel planning. Using the
+   easy means for attackers to gain initial access to a TOS.                        most up to date secure
+   □ Web Application Design Weakness. CPTs observed public-facing                   protocols will prevent
+       web applications that are not properly designed to load balance large        messages from being
+       amounts of requests. This vulnerability can easily overwhelm the TOS if      intercepted and modified to
+       thousands of queries are submitted in a short period of time (commonly       contain malicious data.
+       referred to as a denial-of-service attack).
+                                                                                    Application Programming
+■ Unsegmented or Improperly Segmented Networks. Improper network                    Interface (API) calls are also
+   segmentation of IT and TOS-connected OT networks increase an                     used in TOS for real time
+   adversary’s attack surface once they have gained initial access. This also       data exchange, typically
+   significantly increases the risk of damage to operations.                        through a website. APIs
+                                                                                    can support a range of
+■ Out-of-date Software and Operating Systems. End-of-Life, unpatched, and           functionalities, from data
+   outdated systems integrated with the TOS pose a large risk to the network        exchange for real time
+   and business operations. End-of-Life systems no longer receive security          tracking of containers
+   updates, leaving them susceptible to emerging or publicly available exploits.    to automating truck
+   Additionally, unpatched software remains exposed to known vulnerabilities        appointments and berth
+   that security updates have already been released for.                            assignments. Terminals
+   □ CPT teams observed legacy systems as old as Windows Server                     should implement robust
+       2008 supporting TOS functionality. These systems possess known,              authentication and
+       exploitable vulnerabilities that attackers can leverage to gain domain       authorization mechanisms
+       administrator privileges.                                                    to control access to APIs,
+   □ CPT teams also observed mission partners using legacy versions of TOS          including MFA and API keys
+       software. Legacy TOS software is subject to a higher risk of data integrity  with granular permissions. In
+       attacks when communicating using Electronic Data Interchange (EDI) files.    addition, regularly audit APIs
+                                                                                    for improper access control
+■ Unencrypted Data and Communications. Use of insecure protocols that lack          or security vulnerabilities.
+   sufficient encryption schemes does not adequately protect data in transit. Man-
+   in-the-Middle attacks can use network sniffing to obtain data such as potential                        CTIME 2025 | 17
+   credentials to the TOS and other devices. Weak or lack of encryption schemes
+   used in TOS databases and servers do not adequately protect data at rest.
+
+                                                          TLP:CLEAR
+                                   TLP:CLEAR
+
+Attack Paths
+The following attack paths, either identified during CPT missions or based on the vulnerabilities previously discussed,
+illustrate how adversaries can target a TOS:
+
+Intrusion Through Web Application
+
+Denial-of-Service               Unauthorized Access
+   Vulnerability                via Weak Credentials
+
+If web application services     If TOS accounts use weak or easily guessable passwords, and the TOS web application is
+connected to the TOS lack       publicly accessible, attackers could gain unauthorized access. This access could expose
+adequate protection via         sensitive terminal data, enabling activities such as:
+firewalls or load balancing,
+attackers could launch a         ▪ System and Data Profiling. Attackers can gather information about the TOS
+denial-of-service attack. This
+disruption could severely            architecture, cargo volumes and types, and other sensitive business intelligence.
+impact business operations,
+potentially causing extended     ▪ API Exploitation. If the web application exposes built-in API calls or extensions,
+downtime.
+                                     attackers could exploit these interfaces to launch denial-of-service attacks by
+                                     overwhelming the TOS with API requests or inject malicious code into the API calls. To
+                                     mitigate these risks, strict access controls must be enforced, limiting API access to
+                                     authorized users only. Furthermore, secure development practices, including thorough
+                                     security vetting of all new or modified API calls, are crucial for preventing such exploits.
+                                     Protecting the web service from unauthorized modifications is also essential.
+
+Compromise Through Malicious Payload
+
+     Initial Workstation
+        Compromise
+
+An attacker gains privileged initial access to a workstation via phishing email, or a privileged user unknowingly accesses a
+domain hosting malicious files. This workstation is on an access control list for the TOS network.
+
+ ▪ Lateral Movement and Malware Deployment. An attacker can then deploy customized malware tailored to the outdated
+
+     workstation to gain access to other systems, stage data for exfiltration, or conduct a ransomware attack.
+
+ ▪ Supply Chain Attack via Malicious EDI Files. An attacker can craft a malicious EDI file and send it to external entities,
+
+     initiating a supply chain attack.
+
+ ▪ EDI File Interception and Malware Injection. If terminals utilize File Transfer Protocol (FTP) or other insecure transfer
+
+     protocols instead of Secure File Transfer Protocol (SFTP) for exchanging EDI files, an attacker could intercept this
+     message traffic and modify a legitimate file to contain malware.
+
+Initial Access Through Outdated Services and Systems
+
+          Exploitation of
+  Unpatched Vulnerabilities
+
+An attacker gains access to an unpatched or outdated system connected to the TOS network by leveraging publicly available exploits.
+
+18 | CTIME 2025                    TLP:CLEAR
+                                                          TLP:CLEAR                 CTIME 2025 | 19
+
+Conclusion
+Recommended Best Practices
+A list of recommended best practices to harden the TOS and its surrounding network
+are below. These closely follow the top recommended mitigations from the 2024
+CTIME9 report and address the common vulnerabilities mentioned previously:
+
+■ Restrict Public-Facing Access.
+   □ Remove any public-facing login portals intended for internal use.
+   □ Place these services behind internal firewalls and require access through
+       secure, controlled channels like a VPN.
+
+■ Strengthen Authentication Policies.
+   □ Ensure password policies are aligned with NIST SP 800-63B-4,10 as
+       amended, guidance. This includes complexity requirements, lockout
+       thresholds, and MFA implementation to mitigate password-guessing and
+       brute-force attacks.
+
+■ Implement Network Segmentation.
+   □ Establish clear segmentation between the IT network and the OT network
+       connected to TOS services.
+   □ Follow best practices from the 2023 CTIME Report,11 including:
+
+      ▪ Use of Demilitarized Zones (DMZs) between IT and OT zones.
+      ▪ Audit and strictly control all inter-zone communications to prevent
+
+           lateral movement.
+
+      ▪ Apply the Principle of Least Privilege to all accounts and services.
+      ▪ Limit OT network access to essential personnel and systems only.
+
+■ Vulnerability Management.
+   □ Conduct routine vulnerability scanning and ensure timely patching of
+       systems and applications.
+   □ For systems that are End-Of-Life and cannot be immediately upgraded,
+       ensure compensating controls such as network isolation and allow listing
+       are in place and documented.
+
+■ Secure Data in Transit and at Rest.
+   □ Use modern, secure protocols for all data transmission. Examples include TLS
+       v1.2 or higher, SFTP, and SSH.
+   □ Encrypt all sensitive data stored within TOS databases and file servers to
+       protect data at rest.
+
+9 https://www.uscg.mil/Portals/0/Images/cyber/CGCYBER%202024%20CTIME.pdf
+10 https://pages.nist.gov/800-63-4/sp800-63b.html
+11 https://www.uscg.mil/Portals/0/Images/cyber/CTIME_2023_FINAL.pdf
+
+                                                          TLP:CLEAR
+                                                          TLP:CLEAR
+
+Cyber Operations Aboard Dark Fleet Vessels
+
+Background                        Coast Guard MH-60 Helicopter delivering a Cyber Control Team
+Executing Cyber                   member in support of Dark Fleet Vessel Interdiction operations.
+Defense with the Joint Force
+CGCYBER deployed its CPTs
+alongside the Coast Guard’s
+traditional law enforcement
+forces, and the Department
+of War, during the whole-of-
+government effort to interdict
+foreign or stateless Dark Fleet
+Vessels beginning in December
+2025. Leveraging Coast Guard
+CPT maritime cyber expertise,
+CGCYBER fielded a specialized
+subset of CPTs known as Cyber
+Control Teams to ensure the
+safe and secure transit and
+operations of Dark Fleet Vessels
+after interdiction.
+
+Cyber Risks to Dark Fleet Vessels
+In the physical domain, Dark Fleet Vessels operate in the shadows to avoid sanctions, skirting inspections
+and international standards that ensure the safe operations of commercial vessels, making them potentially
+unseaworthy, and especially hazardous when laden with cargo. Likewise, Dark Fleet Vessels are neither
+obedient to Flag or Port State rules and regulations nor subject to due diligence by corporations to secure
+IT and OT networks aboard. Often, Dark Fleet Vessels have modernized high-bandwidth commercial satellite
+communications systems supporting IT networks that, if exploited, could put the safety of the vessel and the
+Coast Guard or Department of War forces at risk. Further, they regularly use pirated software littered with
+varying types of malware which put their systems at risk.
+
+Cyber Control Teams
+Once deployed onboard a Dark Fleet vessel, a Cyber Control Team works to quickly gain Positive Control
+(POSCON) of the cyber terrain for the ship. Time permitting, the Cyber Control Team can conduct further analysis
+and defensive efforts. These activities are conducted for the safe navigation of the vessel and the protection of
+the law enforcement boarding team and ship’s crew.
+
+20 | CTIME 2025                   TLP:CLEAR
+TLP:CLEAR
+
+Consolidated Findings                                                            AIS Selector
+■ Automatic Identification System (AIS) Spoofing. A well-known tactic used
+                                                                                 Custom cable used
+   by Dark Fleet Vessels to mask their illicit activities is AIS spoofing. The   for AIS Spoofing
+   primary method used by these vessels was pushing spoofed AIS data
+   generated by a marine instrument testing software from a laptop through
+   a custom-made CAT6 cable soldered to the connector data port on the
+   AIS system. The software also has legitimate uses for testing marine
+   instruments by generating NMEA-0183 strings for simulating global
+   positioning system (GPS), AIS, radar, and other nautical instruments.
+   Cyber Control Teams also found multiple AIS transponders on a single
+   Dark Fleet Vessel, allowing it to easily change the ship name it was
+   broadcasting. Lastly, we discovered multiple detailed guides with several
+   additional methods for providing false GPS information to AIS systems.
+
+■ Remote Access. Three types of remote access software installed on
+   most hosts; AnyDesk, TeamViewer, and ScreenConnect. CPTs discovered
+   these were persistent installations, not transient executions. Additionally,
+   unattended access was permitted, meaning remote connections could be
+   established without a person present at the workstation.
+
+■ System Tampering. Dark Fleet administrators attempted to remotely delete
+   data onboard, posing a threat to the safe navigation of the vessels.
+
+■ Pirated Software. The Dark Fleet utilizes Pirated software for business operations and navigational equipment.
+   □ Analysis showed dark fleet crews used a uTorrent windows client to download software and a Russian
+       maritime oriented torrent-forum website hosting maritime chats, technical literature, maritime applications,
+       educational videos, sea tests, simulators, and training.
+   □ Cyber Control Teams identified executables used to illegally activate Windows and Office products.
+       Specifically, the executables, AAct[.]exe and KMSAuto[.]zip, widely recognized as part of a software
+       package Ratiborus KMS tools, which emulate a Key Management Service Server and trick the Microsoft
+       software into thinking it is being activated legitimately. To ensure the Windows products could run
+       continuously, they created scheduled jobs to run these executables.
+   □ Cyber Control Teams also identified pirated Electronic Chart Display and Information System (ECDIS) and
+       Route managers used for navigation.
+
+TLP:CLEAR                                                                        CTIME 2025 | 21
+                                            TLP:CLEAR
+
+■ Malware. With the widespread use          Sunset aboard an interdicted Dark Fleet Tanker.
+   of pirated software, it is unsurprising
+   their computers were infected
+   with malware. One example was a
+   drive-by-compromise that resulted
+   in a Lumma Stealer Malware. This
+   is primarily an information stealer
+   developed by the threat actor
+  “Lumma” and commonly provided
+   as malware-as-a-service on Russian-
+   speaking forums.
+
+■ IT/OT Segmentation. Critical
+   operational technology systems
+   and navigation systems were serial-
+   based and air-gapped. However, that
+   air gap was occasionally bridged
+   via USBs for updates, or by laptops
+   plugged directly into the vessel’s
+   navigation systems, like ECDIS, as
+   well as engine room control systems.
+
+Conclusion
+By operating in the shadows, these Dark Fleet Vessels evade compliance and avoid conforming with any
+international standards or best practices for both physical and digital safety and security. Their lack of cyber
+hygiene combined with risky practices puts the operations and safe navigation of these vessels at risk. The
+use of unofficial navigation software is inherently risky, but that danger multiplies when the malware-infected
+computers are connected to critical operational and navigation systems. For years we have known Dark Fleet
+Vessels operate with immense physical safety risks, but through our Cyber Control Team missions we now know
+for certain they carry significant cyber risks as well.
+
+22 | CTIME 2025                             TLP:CLEAR
+                                                          TLP:CLEAR
+
+Charting the Next Course
+
+Cybersecurity Governance in a Contested Maritime Domain By Charles “Nick” Parham
+
+Important Note
+While CGCYBER CPTs do not engage in regulatory activities, it is important to highlight the Coast Guard policy office’s guidance to
+industry regarding the new cyber regulations.
+
+Regulatory Impact:                 In the Summer 2023 issue of Proceedings, I highlighted the growing need for
+33 CFR Subpart F                   regulatory clarity and industry alignment in maritime cybersecurity. Two years later,
+Subpart F represents a             the landscape has shifted dramatically. The Coast Guard has issued 33 CFR Part
+watershed moment in maritime       101 Subpart F, establishing cybersecurity requirements for vessels, facilities, and
+cybersecurity regulation. Key      offshore installations subject to the MTSA. At the same time, CPTs have expanded
+provisions include:                their operational reach, as documented in the 2025 CTIME report, providing real-
+■ Cybersecurity Officers           world validation of cybersecurity practices in action. To tie these efforts together
+                                   at the local port level, the Coast Guard has continued to hire and place Marine
+   (§101.625). Establishing        Transportation System Specialist-Cybersecurity (MTSS-C) personnel.
+   accountability at the facility
+   and vessel level. Provides      Together, these developments advance the Governance Function of updated
+   an organizational conduit       cybersecurity frameworks, ensuring that compliance is not just a legal requirement
+   to supporting agencies          but the cornerstone of resilience in a contested maritime cyberspace domain.
+   during incident response.
+■ Cybersecurity Plans              Compliance as a Catalyst for Resilience
+   (§101.630). Mandating           The maritime domain is increasingly contested, not only by state and non-
+   integration of cyber risk       state actors but by the invisible hand of cyber adversaries exploiting IT/OT
+   management into Facility        interdependencies. The Coast Guard’s dual approach—regulatory enforcement
+   and Vessel Security Plans.      through Subpart F and collaborative operational engagement via CPT missions—
+■ Drills, Exercises,               creates a governance ecosystem that is proactive, enforceable, and adaptive.
+   and Documentation
+   (§101.635–§101.640).            For operators and maritime stakeholders alike, the lesson is clear: compliance is
+   Requiring validation of         not just a legal requirement—it is the cornerstone of resilient governance in the
+   readiness and audit trails      cyber domain. By embedding governance into regulation and reinforcing it through
+   for oversight.                  operational practice, the Marine Transportation System is better positioned to
+■ Compliance Dates and             withstand evolving threats in a contested cyberspace.
+   Waivers (§101.655–
+   §101.665). Balancing            Compliance under Subpart F is achievable by orchestrating a layered support
+   enforceability with             model: leverage federal guidance, plug into state and local resources,
+   operational flexibility.        and operationalize commercial expertise while maintaining ownership of
+                                   governance, risk, and compliance decisions. The final rule for Subpart F
+These requirements                 became effective in July of 2025 and establishes implementation guidelines
+operationalize the Governance      that will culminate in July of 2027 with submission of Cyber Security Plans.
+Function, which stresses           Many organizations have already begun the process of implementing the
+defining organizational            requirements of Subpart F, but for those who are just beginning here are
+context, assigning roles, and      some key objectives to pursue over the next year:
+ensuring accountability.
+
+                                   TLP:CLEAR  CTIME 2025 | 23
+                                       TLP:CLEAR
+
+■ Anchor to Authoritative Guidance and Timelines.                      intake, triage, and dissemination in your
+   □ Regulatory scope and intent. Review Subpart F’s                   communications and monitoring procedures.
+       purpose, applicability, and minimum requirements            □ Commercial expertise. Use vetted maritime
+       (Cybersecurity Officer designation, Cybersecurity               OT/IT firms to perform assessments,
+       Plan, training, drills/exercises, records,                      segmentation design, tabletop exercises, and
+       audits, incident reporting, KEV remediation,                    plan development. Industry training offerings
+       segmentation, supply chain measures).                           are emerging to translate the final rule into
+   □ Leverage the USCG maritime cyber hub. The                         operational steps for FSOs, VSOs, and CySOs.
+       Coast Guard Maritime Industry Cybersecurity
+       Resource site centralizes policy, reporting              ■ Tie Operations to CPT
+       procedures, alerts, and partner links. It consolidates      Insights Even without a CPT Visit.
+       USCG, CISA, and MARAD resources and highlights              □ Use CTIME trends as proxies. Prioritize password
+       the July 16, 2025, effective date for the final rule.12         hardening, segmentation enforcement, vendor
+                                                                       remote access governance, and cloud Identity and
+■ Build a Compliance                                                   Access Management (IAM)/logging/encryption—
+   Program that Implements Governance.                                 recurring CPT findings you can preemptively
+   □ Governance as the backbone. Map Subpart                           address to raise your baseline resilience.
+       F sections to governance activities—roles                   □ Exercise “hunt” scenarios. Simulate ransomware
+       and accountability (CySO), policies and plans                   in plant networks, misconfigured cloud storage,
+       (Cybersecurity Plan), oversight (audits, exercises,             and legacy protocol exposure on OT; validate
+       records), and risk acceptance documentation.                    detection, containment, and recovery pathways
+       Treat governance as a standing command                          in your incident response plan.
+       responsibility, not a one-time project.                     □ Adopt shared-responsibility checklists. Explicitly
+                                                                       define who (you vs. provider) owns controls, logs,
+■ Orchestrate Assistance Across                                        encryption, and incident response in cloud or
+   Federal, State, Local, and Commercial Partners.                     managed services.
+   □ Coast Guard units and AMSCs. Engage local
+       COTP staff to include MTSS-Cs and Area Maritime          Executive Takeaway
+       Security Committees for planning templates,              Since the 2023 Proceedings article called for
+       exercise integration, and peer benchmarking.             clarity and alignment, the maritime cybersecurity
+   □ CISA services. Request vulnerability scanning,             community has made tangible progress. The Coast
+       cyber hygiene, and incident response playbook            Guard’s 33 CFR Part 101 Subpart F has advanced
+       support through CISA regional advisors;                  governance with enforceable standards, while newly
+       feed outputs into your Cybersecurity Plan’s              placed MTSS-C personnel have operationalized those
+       assessments, drills, and records sections.               standards at both national and local levels. Together,
+   □ State fusion centers and ISACs/ISAOs.                      these advancements demonstrate that compliance
+       Subscribe to maritime-relevant threat                    is no longer just regulatory—it is the foundation of
+       intelligence and tear-line reporting; formalize          resilience in a contested maritime cyberspace domain.
+
+12 http://www.uscg.mil/MaritimeCyber/  TLP:CLEAR
+
+24 | CTIME 2025
+                                                          TLP:CLEAR
+
+Appendix A
+
+Maritime Cyber Information Products
+
+CGCYBER MCRB generates two types of information products. These products are Maritime Cyber Alerts (MCA)
+and Maritime Cyber Bulletins (MCB). Both products are TLP:CLEAR13 and may be shared without restriction. MCAs
+provide specific and actionable mitigating measures for critical vulnerabilities or threat group activity. MCBs provide
+awareness on cyber trends and threats MCRB has observed in the Marine Transportation System (MTS) along with
+general recommendations and resources to assist MTS entities in hardening cybersecurity posture.
+
+Maritime Cyber Alerts Released in 2025
+
+▪ 01-25 Exploitation of Vulnerabilities in Ivanti Cloud Services Appliance (CSA)14
+
+  This alert provides information on the known exploitation of Common Vulnerability and Exposures (CVEs) for
+  Ivanti Cloud Services Appliance (CSA). It identifies targeted applications and systems, threat actor tactics,
+  mitigations, and the known indicators of compromise (IOCs).
+
+▪ 02-25 Ghost (Cring) Ransomware Targeting Critical Infrastructure15
+
+  This alert highlights the Ghost Ransomware group conducting malicious activity within critical infrastructure. It
+  identifies commonly targeted systems, tactics, mitigations, and known IOCs.
+
+▪ 04-25 Scattered Spider Targeting Critical Infrastructure16
+
+  This alert highlights the Scattered Spider threat actor targeting MTS entities with sophisticated phishing
+  techniques to gain access to targeted companies’ systems. It identifies threat actor tactics, mitigation
+  measures, and known IOCs.
+
+Maritime Cyber Bulletins Released in 2025
+
+▪ 01-25 Updated Incident Management Handbook17
+
+  This bulletin highlights the U.S. Coast Guard’s release of an updated Incident Management Handbook to include the
+  addition of a cyber incident section. It identifies recommendations and resources to help response to MTS incidents.
+
+▪ 02-25 Trojanized SonicWall VPN Client18
+
+  This bulletin provides information on threat actors targeting the MTS through distribution of trojanized versions
+  of VPNs to steal credentials from remote users. It identifies recommendations and resources to mitigate the
+  threat to MTS partners.
+
+13 https://www.cisa.gov/news-events/news/traffic-light-protocol-tlp-definitions-and-usage             CTIME 2025 | 25
+14 https://www.uscg.mil/Portals/0/Images/cyber/Maritime%20Cyber%20Alert%2001-25%20TLP%20CLEAR.pdf
+15 https://www.uscg.mil/Portals/0/Images/cyber/Maritime%20Cyber%20Alert%2002-25%20TLP%20CLEAR.pdf
+16 https://www.uscg.mil/Portals/0/Images/cyber/Maritime%20Cyber%20Alert%2004-25%20TLP%20CLEAR.pdf
+17 https://www.uscg.mil/Portals/0/Images/cyber/Maritime%20Cyber%20Bulletin%2001-25%20TLP%20CLEAR.pdf
+18 https://www.uscg.mil/Portals/0/Images/cyber/Maritime%20Cyber%20Bulletin%2002-25%20TLP%20CLEAR.pdf
+
+                                                          TLP:CLEAR
+                                                          TLP:CLEAR
+
+Appendix B
+
+Observed Malicious Cyber Criminals
+
+The following criminal organizations or named malware strains were used during exploitation activities within
+the marine transportation system (MTS) via National Response Center (NRC) reports, CPT missions, or publicly
+available incident response activities.
+
+Akira                                                           Brain Cypher
+Akira operates under a ransomware-as-a-service                  The Brain Cipher ransomware group has quickly
+(RaaS) model that is considered a significant cyber             garnered attention due to its aggressive tactics
+threat. Akira is known for its use of double extortion          and high-profile attacks on various industries and
+techniques that involves exfiltrating sensitive data            government organizations. Brain Cipher first appeared
+before encrypting it and pressuring victims with public         in June 2024 and became particularly notorious after
+exposure. In 2025, Akira continued to be a viable               launching cyberattacks in Indonesia. It is primarily
+threat to U.S. ports and MTS organizations, especially          delivered through phishing and spear-phishing
+through exploitation of SonicWall VPN vulnerabilities.19        attacks, exploiting human error to gain initial access
+                                                                to systems. Upon execution, the ransomware payload
+Play                                                            works quickly to disable critical Windows security
+Since June 2022, the Play (also known as Playcrypt)             services, such as Windows Defender and the Volume
+ransomware group has had impacts on a wide range of             Shadow Copy Service (VSS). These measures are
+businesses and critical infrastructure in North America,        meant to hinder attempts at detection and prevent the
+South America, and Europe. Play ransomware actors               recovery of encrypted files.22
+employ a double extortion model, encrypting systems after
+exfiltrating data. Ransom notes do not include an initial       Scattered Spider
+ransom demand or payment instructions; rather, victims          Scattered Spider is a cybercriminal group that targets
+are instructed to contact the threat actors via email. As of    large companies and their contracted information
+May 2025, FBI was aware of approximately 900 affected           technology help desks. Per trusted third parties,
+entities allegedly exploited by the ransomware actors.20        Scattered Spider threat actors typically engage in data
+                                                                theft for extortion and also use several ransomware
+RansomHub                                                       variants, most recently deploying DragonForce
+RansomHub is a RaaS group that has compromised over             ransomware alongside their usual TTPs. While some
+200 organizations worldwide with no focus on any single         TTPs remain consistent, Scattered Spider threat actors
+industry. They have a public set of rules similar to “terms of  often change TTPs to remain undetected.23
+service” for users of their malware. In 2025, RansomHub
+compromised a marine services and tug boat company
+and gained access to information technology.21
+
+19 bitsight.com/blog/akira-ransomware-exploits-sonicwall-sma100-vulnerabilities-what-you-need-know
+20 https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-352a
+21 https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-242a
+22 https://www.group-ib.com/blog/brain-cipher-ransomware/
+23 https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-320a
+
+26 | CTIME 2025  TLP:CLEAR
+                                                          TLP:CLEAR
+
+Appendix C
+
+Known Exploitable Vulnerabilities Observed
+
+Common Vulnerability                                 CVE ID         CVSS  CWE      Missions
+and Exposure (CVE) Name                              CVE-2013-3900  7.6   CWE-20   Observed
+
+Microsoft WinVerifyTrust                                                                 9
+Function Remote Code Execution
+                                                     CVE-2020-11023 4.3   CWE-79   8
+JQuery Cross-Site
+Scripting (XSS) Vulnerability                        CVE-2021-40438 6.8   CWE-918  6
+
+Apache HTTP Server-Side                              CVE-2023-41993 10    CWE-754  6
+Request Forgery (SSRF)
+
+Apple Multiple Products
+WebKit Code Execution Vulnerability
+
+HTTP/2 Rapid Reset Attack Vulnerability CVE-2023-44487 7.6                CWE-400  6
+
+  Apache HTTP Server Improper                        CVE-2024-38475 10    CWE-116  6
+  Escaping of Output Vulnerability
+                                                     CVE-2019-0211  7.2   CWE-416  5
+  Apache HTTP Server
+  Privilege Escalation Vulnerability                 CVE-2024-44308 10             5
+
+  Apple Multiple Products                            CVE-2024-44309 10    CWE-79   5
+  Code Execution Vulnerability
+                                                     CVE-2025-21391 10    CWE-59   5
+  Apple Multiple Products Cross-Site
+  Scripting (XSS) Vulnerability                      CVE-2025-21418 10    CWE-122  5
+
+  Microsoft Windows
+  Storage Link Following Vulnerability
+
+  Microsoft Windows Ancillary Function
+  Driver for WinSock Heap-Based Buffer
+  Overflow Vulnerability
+
+Table 4: Known Exploitable Vulnerabilities Observed
+
+                                                     TLP:CLEAR                     CTIME 2025 | 27
+                                                          TLP:CLEAR
+
+Appendix D
+
+Summary of Attack Paths
+
+Attack           LLMNR/NBT-NS      Password Cracking       Password      Password
+Path 1              Poisoning                               Spraying     Cracking
+                                   Credentials in Files
+Attack           and SMB Relay                             Credential    Password       Cached Domain
+Path 2                             Credential Dumping:     Dumping:      Cracking         Credentials
+                 Valid Accounts      Security Account      NTDS.DIT
+Attack                                    Manager                        Password
+Path 3           LLMNR/NBT-NS           Phishing for       Password      Cracking
+                    Poisoning           Information         Cracking
+Attack                                                                   Password       Valid Accounts
+Path 4           and SMB Relay     Password Cracking          Valid      Spraying
+                                                            Accounts
+Attack           Spearphishing     Password Cracking
+Path 5                  Link                             Kerberoasting
+                                   Credential Dumping:
+Attack           LLMNR/NBT-NS        Security Account      Credential
+Path 6              Poisoning             Manager           Dumping
+
+Attack           and SMB Relay     Credential Dumping      Password
+Path 7                                                      Spraying
+                 Valid Accounts      LLMNR/NBT-NS
+Attack                                   Poisoning         Password
+Path 8           LLMNR/NBT-NS                               Cracking
+                    Poisoning         and SMB Relay
+                                                           Password
+                 and SMB Relay     Password Cracking        Cracking
+
+                     PSEXEC         /etc/passwd and         Domain
+                                       /etc/shadow          Accounts
+Attack           Valid Accounts
+Path 9                                Pass the Hash        Password
+                                                            Cracking
+ Attack          LLMNR/NBT-NS           Phishing for                     Kerberoasting  Password
+Path 10             Poisoning           Information                                     Cracking
+
+                 and SMB Relay
+
+ Attack          Exploitation
+Path 11
+
+ Attack          LLMNR/NBT-NS
+Path 12             Poisoning
+
+                 and SMB Relay
+
+ Attack          Spearphishing                           Valid Accounts
+Path 13                Link
+
+Figure 9: Summary of Attack Paths
+
+28 | CTIME 2025                    TLP:CLEAR
+                                                          TLP:CLEAR
+
+Appendix E
+
+Summary of Findings
+
+  Finding                                       2022                 2023  2024  2025
+  Adversary-in-the-Middle: T1557                  8                   15    15    22
+  Valid Accounts: T1078                          12                   23    29    21
+  Remote Services: T1210, T1021, & T1133          1                   N/A   25    14
+  Brute Force: T1110                             22                   30    21    12
+  Unsecured Credentials: T1552                    2                    3     7    10
+  Privilege Escalation: T1068                                         N/A    8    8
+  Application Layer Protocol: T1071              N/A                  N/A   N/A   8
+  Phishing: T1566                                N/A                  18     8    6
+  Exploitation for Client Execution: T1203                            N/A   N/A   6
+  Exploit Public Facing Application: T1190        6                    8    12    4
+  Default Credentials: T0812                     N/A                  N/A    9    4
+  Steal or Forge Kerberos Tickets: T1558                              N/A    3    4
+  Use Alternate Authentication Material: T1550    4                   N/A    1    4
+  OS Credential Dumping: T1003                   N/A                  N/A   N/A   4
+                                                 N/A
+Table 5: Summary of Findings                     N/A
+                                                 N/A
+
+                                                TLP:CLEAR                        CTIME 2025 | 29
+            TLP:CLEAR
+
+  Scan the QR code or visit us at
+ https://tinyurl.com/35e494h7
+to provide feedback on this report.
+
+            TLP:CLEAR
+
