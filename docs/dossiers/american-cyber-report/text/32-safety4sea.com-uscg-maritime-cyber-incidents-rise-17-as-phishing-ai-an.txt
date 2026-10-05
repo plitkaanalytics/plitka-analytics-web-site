@@ -1,0 +1,49 @@
+URL:         https://safety4sea.com/uscg-maritime-cyber-incidents-rise-17-as-phishing-ai-and-ot-risks-reshape-the-threat-landscape/
+Кінцевий:    https://safety4sea.com/uscg-maritime-cyber-incidents-rise-17-as-phishing-ai-and-ot-risks-reshape-the-threat-landscape/
+Заголовок:   USCG: Maritime cyber incidents rise 17% as phishing, AI and OT risks reshape the threat landscape
+Дата публ.:  2026-07-08
+Завантажено: 2026-10-02 08:20 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 327027
+Оригінал:    raw/32-safety4sea.com-uscg-maritime-cyber-incidents-rise-17-as-phishing-ai-an.html
+sha256:      080309707278542d324ef0e427c97305e6daa0311a5302fbc5a95b5a3f3dffd0
+Витяг:       trafilatura
+
+==============================================================================
+The U.S. Coast Guard Cyber Command’s (CGCYBER) fifth annual Cyber Trends and Insights in the Marine Environment report highlights a maritime cyber landscape where threats are becoming more sophisticated, yet many successful attacks continue to rely on familiar weaknesses.
+
+Drawing on 2025 operational data and industry engagements, the report finds that reported maritime cyber incidents rose by 17% year-on-year, with phishing remaining a primary entry point, while operational technology featured in 62% of cyber missions. A key outcome is that maritime cyber resilience now depends not only on adopting advanced tools such as AI-enabled cybersecurity platforms, but on ensuring they are properly configured, integrated and supported by strong fundamentals, including secure terminal operating systems, effective MFA, incident reporting and continuity planning
+
+According to the report, in 2025, AI integration with cybersecurity defenses produced varied results, showing that effectiveness depends heavily on system configuration and tuning. Additionally, Operational technology (OT)-related missions grew significantly, with 62% of missions including [OT systems compared to 46% in 2024.](https://safety4sea.com/uscg-cyber-security-report-finds-improving-landscape/)
+
+###### Key trends and takeaways
+
+**#1 A Terminal Operating System is only as secure as its configuration**
+
+These systems play a critical role in port operations. They often have external applications for customers but are also integrated with operational and information technology systems, providing real-time visibility and management across terminal procedures.
+
+Because of the broad attack-surface and port operations’ dependency on these systems, it is imperative for organizations to integrate them securely to protect their data and operations from disruption.
+
+**#2 Artificial Intelligence Cybersecurity Platforms, like all cybersecurity tools, are only effective when implemented properly** 
+
+Investment must be matched with proper setup to realize value. CGCYBER teams have observed extremely effective AI tools when configured properly and trained to understand an organization’s network. However, they have also observed organizations whose AI tools lack proper configuration to be far less effective at detecting malicious activity.
+
+**#3 Despite evolving IT landscapes, basic attack vectors persist as attackers adapt traditional techniques.**
+
+There have been significant changes in typical IT environments and cybersecurity defenses since CGCYBER CPTs began operating five years ago. The report notes there has been a move from on-premises email servers to almost exclusively cloud-based email, widespread adoption of multifactor authentication, and endpoint-detection and response at almost every mission location.
+
+Yet, CGCYBER has not seen major shifts in the most common findings from its CPT missions. The specific details of how exploits happen have evolved, but the underlying techniques remain fundamentally unchanged.
+
+**#4 Dark Fleet operator’s common practices create significant cyber risk to the safe navigation and operations of their vessels.**
+
+By operating in the shadows of international oversight, these vessels do not adhere to any standards or best practices for physical and cyber security. As part of U.S. Maritime Interdiction Operations, CGCYBER personnel deployed alongside traditional law enforcement boarding teams to identify and mitigate these risks while U.S. forces were present.
+
+As informed, CGCYBER also enhanced its threat-hunt reporting processes, conducted forward-deployed operations, and established its first National Mission Team, 1915 NMT, as a fully operational unit within the Cyber National Mission Force.
+
+The Coast Guard also made major investments and policy advances to strengthen cyber readiness. A historic $24.5 billion investment was approved to modernize Coast Guard assets, infrastructure, and technology, while plans were announced to expand and transform CGCYBER to better address future cyber threats and improve joint-force interoperability.
+
+Additionally, new cybersecurity regulations for Maritime Transportation System (MTS) entities took effect in 2025, introducing mandatory cyber incident reporting and future requirements for cybersecurity assessments and plans, while CGCYBER’s Cyber Protection Team activities remained separate from regulatory enforcement.
+
+The collaborative work between our exceptional workforce and our partners in the public and private sectors is the true foundation of our ability to secure our ports and waterways against any threat
+
+
+… said Rear Admiral Jason Tama, Commander, U.S. Coast Guard Cyber Command.

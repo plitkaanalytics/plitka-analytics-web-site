@@ -1,0 +1,133 @@
+URL:         https://www.foxnews.com/world/venezuela-oil-tanker-marinera-evades-us-interception-adopting-russian-identity-fleeing-atlantic.print
+Кінцевий:    https://www.foxnews.com/world/venezuela-oil-tanker-marinera-evades-us-interception-adopting-russian-identity-fleeing-atlantic.print
+Заголовок:   Venezuelan ‘dark fleet’ tanker evades US Coast Guard as Russia sends submarine to escort vessel: reports
+Дата публ.:  2026-01-06
+Завантажено: 2026-10-02 08:06 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 138149
+Оригінал:    raw/18-foxnews.com-venezuela-oil-tanker-marinera-evades-us-interception-adopt.html
+sha256:      15d01428cc9297f8476537be888b4d22cc3f2919b000d78f1753c3a9b4dafe54
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 11
+==============================================================================
+Venezuelan ‘dark fleet’ tanker evades US Coast Guard as Russia sends submarine to escort vessel: reports
+The vessel tanker Bella 1 at Singapore Strait, after U.S. officials say the U.S. Coast Guard pursued an oil tanker in international waters near Venezuela.
+Windward system showed the Marinera/Bella 1 was positioned off the coast of Ireland Jan. 6.
+Deposed Venezuelan leader Nicolás Maduro, center, is seen in handcuffs escorted by federal agents as they make their way into an armored car en route to a federal courthouse in Manhattan, N.Y., Monday.
+(XNY/Star Max/GC Images via Getty Images)
+The vessel allegedly transported millions of barrels of Iranian and Venezuelan crude to China between 2021 and 2025.
+(Planet Labs PBC/Handout via Reuters )
+Emma Bussey is a breaking news writer for Fox News Digital. Before joining Fox, she worked at The Telegraph with the U.S. overnight team, across desks including foreign, politics, news, sport and culture.
+This material may not be published, broadcast, rewritten, or redistributed. © FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided by
+. Mutual Fund and ETF data provided by
+Do Not Sell my Personal Information
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Venezuelan ‘dark fleet’ tanker evades US Coast Guard as Russia sends submarine to escort vessel: reports
+Print
+Close
+Venezuelan ‘dark fleet’ tanker evades US Coast Guard as Russia sends submarine to escort vessel: reports
+By Emma Bussey
+Published
+January 06, 2026
+Fox News
+Video
+A Venezuela-linked oil tanker operating in the so-called "dark fleet" painted a Russian flag on its hull, changed its name, and reflagged to Russia in an apparent bid to evade the U.S. Coast Guard, according to reports.
+The vessel has since been spotted off Ireland, with the U.S., U.K., France and Ireland reportedly conducting aerial surveillance after it escaped U.S. interception in December,
+The Times
+reported.
+Meanwhile, Russia has reportedly since deployed a submarine and naval assets to escort the tanker to its own waters, the Wall Street Journal
+reported
+late Tuesday.
+Russia’s state-controlled foreign media outlet RT
+shared a video
+filmed from the tanker’s deck, allegedly showing a U.S. Coast Guard cutter following the vessel.
+The tanker, Bella 1, had renamed itself Marinera and registered under the Russian flag after fleeing the region, according to an intelligence report from AI maritime analytics firm
+Windward.
+TREASURY TARGETS OIL TRADERS, TANKERS ACCUSED OF HELPING MADURO EVADE U.S. SANCTIONS
+The vessel tanker Bella 1 at Singapore Strait, after U.S. officials say the U.S. Coast Guard pursued an oil tanker in international waters near Venezuela.
+(Hakon Rimmereid/via Reuters)
+"Runaway Venezuela-trading tanker Bella 1 painted a Russian flag on its hull, changed its name, and reflagged to Russia mid-voyage last week to avoid capture by the U.S. Coast Guard in the Atlantic Ocean," Windward said.
+Multiple reports said Tuesday the vessel is now under U.S. military surveillance roughly 230 miles off the
+Irish coast
+.
+According to reports, U.S. P-8 surveillance aircraft have tracked the tanker off Ireland only in recent days.
+CBS News
+reported that U.S. forces have pursued the vessel since December, as
+Washington intensified enforcement
+against Venezuelan oil shipments.
+Intelligence sources said Venezuela had considered placing military personnel aboard oil tankers disguised as civilians to help vessels evade U.S. blockades and that U.S. forces are likely preparing to intercept the tanker.
+The pursuit of the vessel follows strikes in Venezuela under the Trump administration and the
+Jan. 3 capture
+of Venezuelan President Nicolás Maduro and his wife, Cilia Flores.
+3 KEY TAKEAWAYS FROM TRUMP'S PUSH TO PUT US OIL FIRMS BACK IN VENEZUELA
+Windward system showed the Marinera/Bella 1 was positioned off the coast of Ireland Jan. 6.
+(Windward AI)
+Maduro appeared in a New York court on Monday, where he pleaded not guilty to
+narco-terrorism charges
+and said he was a "prisoner of war."
+On Jan. 1, Russia had formally asked the U.S. to stop its pursuit of the vessel, according to
+Reuters
+.
+Citing two people familiar with the matter, Reuters reported that Moscow made the diplomatic request as U.S. forces continued tracking the vessel for nearly two weeks in the Atlantic.
+The request came as Trump simultaneously sought to broker a peace agreement between Russia and Ukraine, Reuters added.
+TRUMP’S VENEZUELA STRIKE SPARKS CONSTITUTIONAL CLASH AS MADURO IS HAULED INTO US
+Deposed Venezuelan leader Nicolás Maduro, center, is seen in handcuffs escorted by federal agents as they make their way into an armored car en route to a federal courthouse in Manhattan, N.Y., Monday.
+(XNY/Star Max/GC Images via Getty Images)
+TankerTrackers.com
+alleges the vessel previously transported millions of barrels of
+Iranian and Venezuelan
+crude to China between 2021 and 2025.
+"Bella 1, now known as Marinera, is not alone," Windward said.
+The tanker has been under
+U.S. Treasury sanctions
+since June 2024, accused of transporting illicit oil cargoes linked to a Hezbollah-connected company.
+"The very large crude carrier is joining a growing fleet of Western-sanctioned tankers seeking protection under Russia’s national flag," the firm added.
+"Over the past six months, a dozen or more of the darkest tankers operating globally have switched from open registries to Russia. This trend accelerated in December as the flag state emerged as a critical shield against drone strikes and vessel seizures."
+VENEZUELA ORDERS NATIONWIDE MANHUNT FOR SUPPORTERS AFTER MADURO'S ARREST BY US FORCES
+The vessel allegedly transported millions of barrels of Iranian and Venezuelan crude to China between 2021 and 2025.
+(Planet Labs PBC/Handout via Reuters )
+Windward also identified two additional Western-sanctioned tankers currently in Venezuelan waters that have reflagged to Russia in recent days to prevent U.S. naval interception.
+The tanker Hyperion departed Venezuela on Jan. 1 flying the Russian flag, while Premier signaled via AIS that it changed its flag from Gambia to Russia on Dec. 22.
+CLICK HERE TO DOWNLOAD THE FOX NEWS APP
+"Premier remains at the José Terminal in Venezuela," Windward said.
+Fox News Digital has reached out to the U.S. Coast Guard and the White House for comment.
+Emma Bussey is a breaking news writer for Fox News Digital. Before joining Fox, she worked at The Telegraph with the U.S. overnight team, across desks including foreign, politics, news, sport and culture.
+Print
+Close
+URL
+https://www.foxnews.com/world/venezuela-oil-tanker-marinera-evades-us-interception-adopting-russian-identity-fleeing-atlantic
+Home
+Video
+Politics
+U.S.
+Opinion
+Entertainment
+Tech
+Science
+Health
+Travel
+Lifestyle
+World
+Sports
+Weather
+Privacy
+Terms
+This material may not be published, broadcast, rewritten, or redistributed. © FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided by
+Factset
+. Powered and implemented by
+FactSet Digital Solutions
+.
+Legal Statement
+. Mutual Fund and ETF data provided by
+LSEG
+.
+Do Not Sell my Personal Information
+-
+New Terms of Use
+-
+FAQ

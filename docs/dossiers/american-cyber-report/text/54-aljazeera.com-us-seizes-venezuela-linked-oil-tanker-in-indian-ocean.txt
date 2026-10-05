@@ -1,0 +1,52 @@
+URL:         https://aljazeera.com/news/2026/2/9/us-seizes-venezuela-linked-oil-tanker-in-indian-ocean
+Кінцевий:    https://www.aljazeera.com:443/news/2026/2/9/us-seizes-venezuela-linked-oil-tanker-in-indian-ocean
+Заголовок:   US seizes Venezuela-linked oil tanker in Indian Ocean
+Дата публ.:  2026-02-09
+Завантажено: 2026-10-05 10:08 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 210445
+Оригінал:    raw/54-aljazeera.com-us-seizes-venezuela-linked-oil-tanker-in-indian-ocean.html
+sha256:      0824a1d0c6b8617ca86e0f4fac702fc242704f369da07a0084a97bc83c5a5f62
+Витяг:       trafilatura
+
+==============================================================================
+# US seizes Venezuela-linked oil tanker in Indian Ocean
+
+*Pentagon says US will enforce Trump-ordered blockade against South American country even ‘halfway around the world’.*
+
+The United States military has announced seizing a Venezuela-linked vessel in the Indian Ocean, a move that Washington said demonstrates its determination to enforce its oil blockade on the South American country even “halfway around the world”.
+
+The Pentagon said on Monday that it captured the tanker as part of a campaign by US President Donald Trump to cut off Venezuela’s oil exports, which critics have slammed as “theft” and [international piracy](/news/2026/1/25/cuban-official-accuses-us-of-piracy-against-sanctioned-caribbean-island).
+
+## Recommended Stories
+
+list of 3 items- list 1 of 3[Venezuela rearrests opposition figure Guanipa after release: Prosecutor](/news/2026/2/9/venezuela-rearrests-opposition-figure-guanipa-after-release-prosecutor)
+- list 2 of 3[Trump hosts Honduras’s new president Asfura at Mar-a-Lago in US](/news/2026/2/8/trump-hosts-hondurass-new-president-asfura-at-mar-a-lago-in-us)
+- list 3 of 3[Venezuela opposition politician Juan Pablo Guanipa released](/news/2026/2/8/venezuela-opposition-politician-juan-pablo-guanipa-released)
+
+“The Aquila II was operating in defiance of President Trump’s established quarantine of sanctioned vessels in the Caribbean. It ran, and we followed,” the Pentagon said.
+
+It added that US forces tracked the vessel from the Caribbean Sea to the Indian Ocean.
+
+“No other nation on planet Earth has the capability to enforce its will through any domain,” the Pentagon said, sharing footage of heavily armed US soldiers raiding the vessel from a helicopter.
+
+“By land, air, or sea, our Armed Forces will find you and deliver justice. You will run out of fuel long before you will outrun us.”
+
+The Panama-flagged Aquila II had left Venezuelan waters in early January and was carrying 700,000 barrels of crude oil, the Reuters news agency reported, citing records from Venezuela’s state oil company PDVSA.
+
+The US [started seizing](/news/2025/12/10/trump-admin-seizes-oil-tanker-off-venezuela-coast-reports) Venezuelan oil ships in December before abducting the country’s president, Nicolas Maduro, last month.
+
+
+
+Under threat of further US strikes, Venezuela’s interim President Delcy Rodriguez – who previously served as Maduro’s vice president – [signed a law](/news/2026/1/30/venezuelas-rodriguez-signs-oil-reform-law-while-the-us-eases-sanctions) last month to open up the country’s mostly state-controlled oil sector to foreign investments.
+
+But US forces have continued to intercept and seize the [country’s oil ships](/news/2026/1/21/us-seizes-a-seventh-venezuela-linked-oil-tanker).
+
+Trump and his aides have been open about their plans to take control of Venezuela’s oil, often [falsely claiming](/news/2025/12/17/trump-aide-stephen-miller-suggests-venezuelan-oil-belongs-to-us) that the South American country’s crude reserves belong to the US.
+
+“One of the things the United States gets out of this will be even lower energy prices,” Trump told oil executives during a White House meeting in January after the abduction of Maduro.
+
+Since the toppling of its former president, Venezuela has transferred tens of millions of oil barrels to the US as part of an energy deal.
+
+Rodriguez said last month that her country received $300m from oil sales to the US. Several media outlets later cited US officials as saying that Caracas received a full payment of $500m for the oil.
+
+US Energy Secretary Chris Wright told Politico in an interview published on Monday that he plans to visit Venezuela soon and to “start the dialogue” with Caracas over the future leadership of PDVSA, the state oil company.

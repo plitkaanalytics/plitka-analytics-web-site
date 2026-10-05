@@ -1,0 +1,59 @@
+URL:         https://it4sec.substack.com/p/how-dark-fleet-ships-use-tech-to
+Кінцевий:    https://it4sec.substack.com/p/how-dark-fleet-ships-use-tech-to
+Заголовок:   How “dark fleet” ships use tech to bypass monitoring, law enforcement takeovers - and even self-destruct 🚢🛢️🥷🏻၊၊||၊💥
+Дата публ.:  2026-09-23
+Завантажено: 2026-10-02 08:05 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 112105
+Оригінал:    raw/06-it4sec.substack.com-how-dark-fleet-ships-use-tech-to.html
+sha256:      7e184fe74569382005ba2f4b29dcdf6a958b26dd4866de64899d96fdbd186985
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 2
+==============================================================================
+How “dark fleet” ships use tech to bypass monitoring, law enforcement takeovers - and even self-destruct 🚢🛢️🥷🏻၊၊||၊💥
+Eye on Cyber (by Denis Laskov)
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+How “dark fleet” ships use tech to bypass monitoring, law enforcement takeovers - and even self-destruct 🚢🛢️🥷🏻၊၊||၊💥
+Eye on Cyber (by Denis Laskov)
+Subscribe
+Sign in
+How “dark fleet” ships use tech to bypass monitoring, law enforcement takeovers - and even self-destruct 🚢🛢️🥷🏻၊၊||၊💥
+Denis Laskov
+Sep 23, 2026
+3
+Share
+Security researchers Kenny Miltenberger and Shane Cancilla share some very interesting details on how ships in the “dark fleet” that are used to bypass sanctions use technology to stay hidden, protected from tracking, and ready for takeover.
+The research was done by U.S. Coast Guard personnel, so this is a rare opportunity to learn the tricks used by shady ship owners. Some are obvious (like using two AIS transponders), some are very technical (like patching firmware), and some are quite creative (like covering an antenna to prevent transmission).
+And of course, remote “drop the cargo” or “remote explosion” features for oil tankers with people on them and nature around are state-of-the-art evil tech...
+Enjoy the read and please stay safe!
+More details:
+Taking on the Dark Fleet …in Cyberspace![PDF]:
+https://media.defcon.org/DEF%20CON%2034/DEF%20CON%2034%20presentations/DEF%20CON%2034%20-%20Kenneth%20Miltenberger%2C%20Shane%20Cancilla%20-%20Taking%20on%20the%20Dark%20Fleet...%20in%20Cyberspace%21.pdf
+Subscribe
+3
+Share
+Discussion about this post
+Comments
+Restacks
+Top
+Latest
+Discussions
+No posts
+Ready for more?
+Subscribe
+© 2026 Denis Laskov
+·
+Privacy
+∙
+Terms
+∙
+Collection notice
+Start your Substack
+Get the app
+Substack
+is the home for great culture

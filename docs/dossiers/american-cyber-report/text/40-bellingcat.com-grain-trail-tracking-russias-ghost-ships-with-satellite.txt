@@ -1,0 +1,564 @@
+URL:         https://www.bellingcat.com/news/2023/05/11/grain-trail-tracking-russias-ghost-ships-with-satellite-imagery/
+Кінцевий:    https://www.bellingcat.com/news/2023/05/11/grain-trail-tracking-russias-ghost-ships-with-satellite-imagery/
+Заголовок:   Grain Trail: Tracking Russia's Ghost Ships with Satellite Imagery - bellingcat
+Дата публ.:  2023-05-11
+Завантажено: 2026-10-02 14:55 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 160881
+Оригінал:    raw/40-bellingcat.com-grain-trail-tracking-russias-ghost-ships-with-satellite.html
+sha256:      c6b4c74641c328d070b281eb35b9542d3afcd4b1faa368224f3e6f7810e295b5
+Витяг:       trafilatura
+
+==============================================================================
+# Grain Trail: Tracking Russia's Ghost Ships with Satellite Imagery
+
+The main grain terminal at the Port of Sevastopol in occupied Crimea has fallen quiet in recent years – at least according to ship monitoring services.
+
+Automated Identification Systems (AIS) tracking data, which provides open source information on the positioning and movement of ships, shows few vessels visiting the Avlita grain terminal since Russia annexed Crimea from Ukraine in 2015.
+
+International [sanctions](https://www.legislation.gov.uk/uksi/2015/213/made/data.pdf) on the city of Sevastopol and the [Avlita](https://www.sanctionsmap.eu/#/main/details/member?search=%7B%22value%22:%22%22,%22searchType%22:%7B%7D%7D&member=%7B%22order_by%22:0,%22type%22:%22E%22,%22FSD_ID%22:142695,%22name%22:%22AVLITA%20Stevedoring%20Company,%20dok%C3%A1rska%20spolo%C4%8Dnos%C5%A5%20AVLITA,%20%D0%A2%D0%BE%D0%B2%D0%B0%D1%80%D0%BE-%D1%80%D0%B0%D0%B7%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%B8%D1%82%D0%B5%D0%BB%D0%BD%D0%B0%20%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%90%D0%B2%D0%BB%D0%B8%D1%82%D0%B0%22,%22id_code%22:null,%22reason%22:null,%22creation_date%22:1658354400,%22programme%22:%22UKR%22%7D) terminal (which has also been referred to as Aval in some media reports and registers) could explain why traffic has seemingly been so low. 
+
+But other open sources paint a radically different picture of events at the terminal.
+
+Satellite imaging services such as Planet, social media posts and a new Synthetic Aperture Radar (SAR) tool built as part of Bellingcat’s Tech Fellowship scheme, show that vessels have in fact covertly continued to make regular visits.
+
+Bellingcat identified at least 179 days in the first 12 months of Russia’s full-scale invasion where ships had been present at the Avlita terminal with their AIS transponders seemingly turned off.
+
+This appears to support the findings of several media [reports](https://www.ft.com/content/86d2be80-d69c-4b93-b448-dd006b070854) that claimed activity at the terminal has continued apace.
+
+The [Financial Times](https://www.ft.com/content/86d2be80-d69c-4b93-b448-dd006b070854), [Bloomberg](https://www.bloomberg.com/graphics/2022-russian-stolen-grains/), [CNN](https://edition.cnn.com/2022/05/23/politics/satellite-images-grain-crimea/index.html), [Reuters](https://www.reuters.com/article/us-ukraine-crisis-grain-shipment-insight-idAFKBN2OX121), the [BBC](https://www.bbc.com/news/61790625), the [Wall Street Journal](https://www.wsj.com/articles/ships-linked-to-russias-biggest-grain-exporter-moved-stolen-ukrainian-cargo-11669890602) and [Associated Press](https://apnews.com/article/russia-ukraine-putin-business-lebanon-syria-87c3b6fea3f4c326003123b21aa78099) have all reported on apparent grain exports at the terminal since the onset of Russia’s full-scale invasion, even highlighting some of the ships involved. Some have even [pointed to evidence](https://www.bbc.com/news/61790625) the terminal has been used as an exit point for grain taken from areas of occupied Ukraine, something Ukrainian ministers have [claimed](https://www.nytimes.com/2022/06/05/world/africa/ukraine-grain-russia-sales.html) is “outright robbery” but which Russia denies.
+
+Yet despite this coverage, many details about operations at the terminal remain unknown or are undocumented.
+
+For example, the SeaKrime monitoring project of the [controversial](https://www.aljazeera.com/features/2019/8/27/peacemaker-the-ukrainian-website-shaming-pro-russia-voices) Ukrainian activist group Myrotvorets has published a list of ships it says have visited the Avlita Terminal to export stolen grain. However, only a handful of vessels on this list are documented with accompanying imagery. And while media reports have raised the issue, most have focussed on individual ships or incidents rather than providing a full account of the scale of the operation.
+
+Bellingcat can now add further details about the frequency of ship visits to the Avlita terminal over the first year of Russia’s invasion, as well as help identify more dates when ships were present there.
+
+Satellite imagery service Planet provided Bellingcat with access to imagery over the first 12 months of Russia’s full-scale invasion.
+
+In total, there are 148 days that ships appear to have been present at the terminal, based on Planet imagery alone. With the permission of Planet, Bellingcat is publishing each of these images. They can be seen in the interactive above and are individually linked at the bottom of this story.
+
+Bellingcat has also been able to identify a further 31 days when ships were present at the terminal thanks to a [Ship Detection Tool (SDT)](https://ollielballinger.users.earthengine.app/view/ship-detection-tool) that utilises synthetic aperture radar captured by the European Space Agency’s Sentinel-1 satellite, providing extra coverage when optical satellite imagery is not available.
+
+Bellingcat is also sharing all SDT images at the bottom of this story to allow open source researchers to further investigate the vessels and the path of potential grain exports from Sevastopol.
+
+According to Katerina Yaresko, an analyst who has provided data for the SeaKrime project, most countries have begun refusing to accept grain that can be proven to come from Crimea following media reports about the issue. However, she added that some vessels are still travelling to ports in Syria.
+
+So called ship-to-ship transfers, meanwhile, remain an ongoing issue primarily in the Kerch Strait between Russia and Crimea, she added. Reports by [Bloomberg](https://www.bloomberg.com/graphics/2022-russian-stolen-grains/) and the [Wall Street Journal](https://www.wsj.com/articles/ships-linked-to-russias-biggest-grain-exporter-moved-stolen-ukrainian-cargo-11669890602) previously detailed this issue, which sees vessels load grain in Sevastopol before transferring that cargo to another grain-carrying vessel out at sea. This process can help obscure the true origin of the grain.
+
+Bridget Diakun, a reporter who specialises in ship tracking at the shipping news journal Lloyd’s List told Bellingcat that the identity of some ships operating out of the Avlita terminal are now known (including those on a US State Department list [reported](https://www.nytimes.com/2022/06/05/world/africa/ukraine-grain-russia-sales.html) by the New York Times) – but much is to still to be confirmed about the operation.
+
+“It’s complex,” Diakun said, not least because of the aforementioned ship-to-ship transfer issue.
+
+Diakun explained that there appears to be a fleet of vessels involved in grain export activities at the port, with some heading south towards the Bosphorus and others east towards the Kerch Strait where the grain transfers occur.
+
+Satellite imagery, however, can help illuminate what has been happening, she added.
+
+A Year in Sevastopol
+
+The Planet satellite imagery shared with Bellingcat provides a clearer picture of events at the Avlita terminal during the first year of Russia’s full-scale invasion.
+
+These images can be cross-referenced with ship lists including those published by Yaresko on her social media channels and by the SeaKrime project. Footage from ship-spotters including [Yörük Işık](https://twitter.com/YorukIsik), who monitors ships passing through the Bosphorus, can help triangulate the movement of vessels that have switched off their AIS transponders.
+
+For example, on 24 July 2022, social media reports and the SeaKrime project claimed that a ship named the Mikhail Nenashev had docked at the grain terminal.
+
+This appears consistent with satellite [imagery](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220724_142200_ssc16_visual_rgb_50cm_1600px_wm.jpg) provided by Planet on that day.
+
+Note the colouring on the side of the ship, as well as the four cranes on the deck and the white and yellow paint on the chimney that can be seen in both images. This also appears consistent with images of the Mikhail Nenashev that can be seen on [MarineTraffic.com](https://www.marinetraffic.com/en/ais/details/ships/shipid:407125/mmsi:273292290/imo:9515539/vessel:MIKHAIL_NENASHEV).
+
+In a separate example from 19 February 2023, another large vessel can be seen docked at the terminal in Planet [imagery](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20230219_115016_ssc10_visual_rgb_50cm_1600px_wm.jpg).
+
+Five days later, social media images posted by Yörük Işık showed a ship named the Matros Pozynich as it moved through the Bosphorus. The appearance of this ship appeared consistent with the ship seen in satellite imagery at the Avlita terminal in the days prior.
+
+Note the four cranes, the blue chimney as well as the pylon at the front of the vessel that can be seen in both images below.
+
+AIS data visible on MarineTraffic shows that the Matros Pozynich had been visible in the Black Sea, just south of Crimea on February 14. However, the AIS notifications then stopped before reappearing on February 23 as the vessel headed south towards the Bosphorus.
+
+The owner of the Matros Pozynich is listed as Crane Marine Contractor (CMC) by the [Equasis](https://www.equasis.org/EquasisWeb/public/HomePage) shipping database. CMC was also listed by Equasis as the owner of the Mikhail Nenashev until February 2023. CMC did not respond to Bellingcat’s emailed questions asking whether either vessel docked at the Avlita terminal on the dates mentioned, what they were carrying and why their AIS transponders appeared to have been switched off when in Sevastopol. A call by Bellingcat to the CMC office was answered but the respondent immediately hung up when they heard the topic of our investigation.
+
+Further resources to triangulate the movement of ships to and from Sevastopol’s grain terminal (visible in the satellite imagery shared at the bottom of this story) include the accounts of [Yaresko ](https://twitter.com/kattyfun1)and open source researcher [MT Anderson, ](https://twitter.com/MT_Anderson)as well as [Yörük Işık.](https://twitter.com/YorukIsik) AIS data from the likes of [MarineTraffic](https://www.marinetraffic.com/), [Spire](https://insights.spire.com/maritime/get-a-data-sample-spire-maritime-ais-vessel-tracking-data?utm_term=spire%20ais&utm_campaign=Maritime:+Brand+-+PM&utm_source=adwords&utm_medium=ppc&hsa_acc=4934961383&hsa_cam=6465270955&hsa_grp=146343660874&hsa_ad=634236472784&hsa_src=g&hsa_tgt=kwd-471381520711&hsa_kw=spire%20ais&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjwpPKiBhDvARIsACn-gzCP7WOD2DLR6mcFvG9s06IKSTbgEM9cuDWnROmdVClxZeGVmBA7sp8aAuuDEALw_wcB) or [VesselFinder](https://www.vesselfinder.com/) is also revealing, whether it displays the exact positioning of a ship or the time period that AIS is switched off. Other satellite imagery of the vessels either at sea or at other ports (should they be available) could also potentially be used to make visual comparisons.
+
+Ship Detection Tool
+
+Although an incredibly valuable and illuminating resource, it must be noted that there can still be some black spots in optical satellite imagery coverage. Visibility is limited when it’s dark and cloudy. Satellite revisit times (the time between satellite image captures of the same location) also mean full coverage is not always possible.
+
+But peering beyond the clouds and boosting coverage is achievable with the right research techniques.
+
+Bellingcat employed a Ship Detection Tool that uses publicly available Synthetic Aperture Radar (SAR) imagery – generated when the European Space Agency’s Sentinel-1 satellite sends out a pulse of radio waves – to gather information about the Avlita terminal.
+
+The tool was developed as part of Bellingcat’s Tech Fellowship scheme and can be found [here](https://ollielballinger.users.earthengine.app/view/ship-detection-tool#lon=33.5519;lat=44.6249;zoom=17;). A full guide on how to use the SDT, as well its other possible applications, can be found [here](https://www.bellingcat.com/resources/2023/05/11/peering-beyond-the-clouds-a-guide-to-bellingcats-ship-detection-tool/). Bellingcat is also listing each day the SDT documented a ship at the Avlita Terminal at the bottom of this story.
+
+While the picture generated by the SDT is very different from the optical imagery provided by other satellite imagery services, it is no less effective in confirming the presence, or absence, of a ship.
+
+## How does the SDT Work?
+
+Instead of relying on reflected sunlight like optical satellites, Sentinel-1 sends a pulse of radio waves and uses the echo generated to gather information and create a picture. As well as piercing through clouds, radio waves can also display what’s going on at night.
+
+This is similar to the way a bat uses sonar to “see” in the dark: by emitting calls and listening to echoes.
+
+What’s more, when Sentinel-1 sends a pulse of radio waves onto a flat surface like the sea there is little to reflect the waves back to the satellite. A low return signal means a darker colour is presented on any SAR image. But when the radio waves hit a ship they are reflected back to the satellite and generate a higher return signal, and therefore a much brighter colour.
+
+This makes detecting ships fairly straightforward if they are known to position themselves at a particular set of coordinates – such as at the Avlita Terminal.
+
+The above images were taken on 29 September, 2022, and show a large bulk carrier docked at the Avlita Terminal.
+
+The two images below, meanwhile, show the scene when no ship was present.
+
+It must be noted that Sentinel-1 images have not been as frequent since late 2021 due to the failure of one of the two satellites in the constellation.
+
+This means that more ships may be recorded in the years prior to 2021. It does not mean that marine traffic has dropped off in recent years.
+
+Over the past year the SDT has captured imagery at Sevastopol on 120 separate days. Eighty-six of these matched days recorded by Planet imagery, while 31 were recorded on days that there was no available Planet imagery.
+
+For example, on 25 June 2022, the SeaKrime project reported that a ship named the Matros Koshka was present at the Avlita Terminal. The SDT shows that there was indeed a ship present that day, something it would not have been possible to know otherwise given there was no satellite imagery captured at this time.
+
+While obtaining visual confirmation of the name of the ship was not possible with the SDT alone, it is notable (although not conclusive) that public data about the size of the ship, which [Marine Traffic states is 169 metres](https://www.marinetraffic.com/en/ais/details/ships/shipid:372794/mmsi:273297880/imo:9550137/vessel:MATROS_KOSHKA#VesselInfo), is consistent with details captured by the tool when the minimum ship length option is observed.
+
+The Matros Koshka is also listed by Equasis as being owned by Crane Marine Contracting and the company did not respond to requests for comment about whether the vessel was at the Avlita terminal on June 25.
+
+AIS tracking data visible on MarineTraffic showed that the Matros Koshka transmitted its presence just north of the Bosphorus on June 12, heading towards Sevastopol. It then went dark before reappearing on July 7 as it re-approached the Bosphorus.
+
+The SDT has the added benefit of being a completely automated tool, as well as being open source and free to use.
+
+It must be noted that some vessels detailed by satellite imagery and the SDT may be the same ships returning to the terminal over time or, on other occasions, the same ship may have stayed in port for several days and appeared in consecutive images.
+
+Yet despite these caveats, what’s clear from the imagery is that a variety of ships capable of carrying grain have been coming and going from the terminal since the start of the conflict, and in the years prior, despite AIS tracking data returning few results.
+
+If all of these vessels were operating at full capacity, then it is possible that millions of tons of grain could have exited Crimea via the terminal and Sevastopol.
+
+With data going back to 2015, when Russia first annexed Crimea, the SDT details activity at the port long before the start of the conflict.
+
+It could also provide insight when focussed elsewhere.
+
+Alternative SDT Functions
+
+Given the SDT can capture data over a prolonged period from a wide area of interest, it could be possible to uncover new leads that help identify ship-to-ship transfers, as previously highlighted as an ongoing issue by Yaresko, Daukin and detailed in the aforementioned reporting of [Bloomberg](https://www.bloomberg.com/graphics/2022-russian-stolen-grains/) and the [Wall Street Journal](https://www.wsj.com/articles/ships-linked-to-russias-biggest-grain-exporter-moved-stolen-ukrainian-cargo-11669890602). 
+
+While there is a lot of data to analyse, the SDT can capture the shape and placement of vessels in any defined area at sea or in dock when the Sentinel-1 satellite passes overhead.
+
+With [reports](https://twitter.com/BBGVisualData/status/1582044671253315584?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1582044671253315584%7Ctwgr%5Eb1d8296ea1d1314825c66615a5641d28afa2d690%7Ctwcon%5Es1_c10&ref_url=https%3A%2F%2Fwww.ilmessaggero.it%2Fmondo%2Fgrano_ucraino_rubato_commercio_illegale_russia_amur_2501-6996970.html) that ship-to-ship transfers have been taking place in the Kerch Strait, drawing an area of interest with the SDT is the first logical step.
+
+Given the sheer number of ships passing through this area, however, researchers must note that finding the exact moments of ship-to-ship transfers on the SDT will likely take a lot of patience.
+
+With the SDT gathering more and more SAR imagery as time goes on, it is possible that new leads that can be cross-checked against satellite imagery or other open source information that could help identify which ships have been loading grain in Crimea before exchanging it with other vessels at sea to mask its true origin.
+
+However Diakun of Lloyd’s List warned that investigators must be wary that ship-to-ship transfers could also be happening in this region with products other than grain or that have nothing to do with grain taken from Ukraine.
+
+As with the previous media investigations, it is not possible to know for certain whether every ship captured at the Avlita Terminal and beyond by satellite or SAR imagery was indeed loading grain, or the provenance of any grain that may have been loaded.
+
+Yet the fact that grain has been transported to and from Crimea since the onset of Russia’s full invasion does not appear to be in doubt.
+
+Russia’s own Tass news agency [reported](https://tass.com/economy/1465929) in June last year that grain from the Kherson region was being transported to the region. 
+
+Local news [reports](https://sevastopol.su/news/v-sevastopole-zarabotal-terminal-po-perevalke-zerna) from Sevastopol have also documented the operation of the Avlita Terminal.
+
+Emailed questions to Avlita did not receive a response prior to publication while calls to the company’s offices in Moscow and Sevastopol went unanswered. The Russian government did not respond to emailed request for comment.
+
+Bellingcat will now begin the task of attempting to match up as much information as possible from the SDT and satellite imagery from Planet to local reports and those of ship spotters posted on social media.
+
+It invites the open source community to use the SDT tool and satellite images listed below to begin to build up an even greater picture of events at Sevastopol, the Kerch Strait and elsewhere in the Black Sea.
+
+Planet imagery comes in both three metre (PlanetScope) and 0.5 metre (SkySat) resolution, with SkySat images offering a sharper and more detailed view.
+
+All Planet and SDT images can be seen below. Click or tap on each link to see a full size image.
+
+**February**
+
+25 February, 2022: [SDT Image](https://www.bellingcat.com/app/uploads/2023/05/Screenshot-2023-02-17-at-16.54.07.png)
+
+**March 2022**
+
+10 March, 2022: [SDT Image](https://www.bellingcat.com/app/uploads/2023/05/Screenshot-2023-02-17-at-16.53.32.png)
+
+11 March, 2022: [PlanetScope](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220311_240c_visual_rgb_3m_267px_wm.jpg)
+
+13 March, 2022: [PlanetScope](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220313_103c_visual_rgb_3m_267px_wm.jpg)
+
+14 March, 2022: [PlanetScope](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220314_1061_visual_rgb_3m_267px_wm.jpg)
+
+15 March, 2022: [SDT Image](https://www.bellingcat.com/app/uploads/2023/05/Screenshot-2023-05-10-at-18.17.58.png)
+
+22 March, 2022: [SDT Image](https://www.bellingcat.com/app/uploads/2023/05/Screenshot-2023-02-17-at-16.56.20.png)
+
+23 March, 2022: [PlanetScope](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220323_2435_visual_rgb_3m_267px_wm.jpg)
+
+24 March, 2022: [PlanetScope](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220324_1002_visual_rgb_3m_267px_wm.jpg)
+
+25 March, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220325_114901_ssc7_visual_rgb_50cm_1600px_wm.jpg)
+
+26 March, 2022: [PlanetScope](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220326_2457_visual_rgb_3m_267px_wm.jpg) and [SDT Image](https://www.bellingcat.com/app/uploads/2023/05/Screenshot-2023-02-17-at-17.06.04.png)
+
+27 March, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220327_125013_ssc16_visual_rgb_50cm_1600px_wm.jpg) and [SDT Image](https://www.bellingcat.com/app/uploads/2023/05/Screenshot-2023-02-17-at-17.06.44.png)
+
+28 March, 2022: [PlanetScope](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220328_245d_visual_rgb_3m_267px_wm.jpg)
+
+30 March, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220330_085541_ssc1_visual_rgb_50cm_1600px_wm.jpg)
+
+31 March, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220331_114810_ssc8_visual_rgb_50cm_1600px_wm.jpg)
+
+**April 2022**
+
+02 April, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220402_114649_ssc6_visual_rgb_50cm_1600px_wm.jpg) and [SDT Image](https://www.bellingcat.com/app/uploads/2023/05/Screenshot-2023-02-17-at-17.07.58.png)
+
+03 April, 2022: [SDT Image](https://www.bellingcat.com/app/uploads/2023/05/Screenshot-2023-05-10-at-18.19.10.png)
+
+15 April, 2022: [SDT Image](https://www.bellingcat.com/app/uploads/2023/05/Screenshot-2023-02-17-at-17.09.37.png)
+
+19 April, 2022: [SDT Image](https://www.bellingcat.com/app/uploads/2023/05/Screenshot-2023-05-10-at-18.20.07.png)
+
+20 April, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220420_114737_ssc9_visual_rgb_50cm_1600px_wm.jpg) and [SDT Image](https://www.bellingcat.com/app/uploads/2023/05/Screenshot-2023-05-10-at-18.21.44.png)
+
+21 April, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220421_144429_ssc17_visual_rgb_50cm_1600px_wm.jpg)
+
+24 April, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220424_114659_ssc7_visual_rgb_50cm_1600px_wm.jpg)
+
+25 April, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220425_073931_ssc15_visual_rgb_50cm_1600px_wm.jpg)
+
+26 April, 2022: [PlanetScope](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220426_249a_visual_rgb_3m_267px_wm.jpg) and [SDT Image](https://www.bellingcat.com/app/uploads/2023/05/Screenshot-2023-02-17-at-17.19.51.png)
+
+27 April, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220427_065120_ssc16_visual_rgb_50cm_1600px_wm.jpg) and [SDT Image](https://www.bellingcat.com/app/uploads/2023/05/Screenshot-2023-02-17-at-17.20.34.png)
+
+28 April, 2022: [PlanetSkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220428_062329_ssc18_visual_rgb_50cm_1600px_wm.jpg) 
+
+29 April, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220429_081803_ssc13_visual_rgb_50cm_1600px_wm.jpg)
+
+**May 2022**
+
+02 May, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220502_114836_ssc7_visual_rgb_50cm_1600px_wm.jpg) and [SDT Image](https://www.bellingcat.com/app/uploads/2023/05/Screenshot-2023-02-17-at-17.21.29.png)
+
+03 May, 2022: [PlanetScope](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220503_2463_visual_rgb_3m_267px_wm.jpg)
+
+09 May, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220509_080454_ssc2_visual_rgb_50cm_1600px_wm.jpg)
+
+11 May, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220511_114001_ssc8_visual_rgb_50cm_1600px_wm.jpg)
+
+12 May, 2022: [PlanetScope](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220512_2431_visual_rgb_3m_267px_wm.jpg)
+
+13 May, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220513_113656_ssc7_visual_rgb_50cm_1600px_wm.jpg) and [SDT Image](https://www.bellingcat.com/app/uploads/2023/05/Screenshot-2023-05-10-at-18.22.52.png)
+
+19 May, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220519_075526_ssc13_visual_rgb_50cm_1600px_wm.jpg)
+
+20 May, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220520_114445_ssc10_visual_rgb_50cm_1600px_wm.jpg) and [SDT Image](https://www.bellingcat.com/app/uploads/2023/05/Screenshot-2023-05-10-at-18.23.56.png)
+
+21 May, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220521_152911_ssc15_visual_rgb_50cm_1600px_wm.jpg) and [SDT Image](https://www.bellingcat.com/app/uploads/2023/05/Screenshot-2023-05-10-at-18.24.17.png)
+
+23 May, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220523_114545_ssc6_visual_rgb_50cm_1600px_wm.jpg)
+
+25 May, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220525_140635_ssc16_visual_rgb_50cm_1600px_wm.jpg) and [SDT Image](https://www.bellingcat.com/app/uploads/2023/05/Screenshot-2023-05-10-at-18.25.40.png)
+
+26 May, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220526_080805_ssc4_visual_rgb_50cm_1600px_wm.jpg)
+
+27 May, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220527_115045_ssc8_visual_rgb_50cm_1600px_wm.jpg)
+
+28 May, 2022: [PlanetScope](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220528_2428_visual_rgb_3m_267px_wm.jpg)
+
+29 May, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220529_114146_ssc7_visual_rgb_50cm_1600px_wm.jpg)
+
+30 May, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220530_114056_ssc8_visual_rgb_50cm_1600px_wm.jpg)
+
+31 May, 2022: [PlanetScope](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220531_2474_visual_rgb_3m_267px_wm.jpg)
+
+**June 2022**
+
+01 June, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220601_111820_ssc15_visual_rgb_50cm_1600px_wm.jpg) and [SDT Image](https://www.bellingcat.com/app/uploads/2023/05/Screenshot-2023-02-17-at-17.28.03.png)
+
+02 June, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220602_102048_ssc15_visual_rgb_50cm_1600px_wm.jpg) and [SDT Image](https://www.bellingcat.com/app/uploads/2023/05/Screenshot-2023-05-10-at-18.26.06.png)
+
+03 June, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220603_100449_ssc16_visual_rgb_50cm_1600px_wm.jpg)
+
+04 June, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220604_161311_ssc17_visual_rgb_50cm_1600px_wm.jpg)
+
+05 June, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220605_154106_ssc19_visual_rgb_50cm_1600px_wm.jpg)
+
+08 June, 2022: [PlanetScope](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220608_2413_visual_rgb_3m_267px_wm.jpg)
+
+11 June, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220611_113331_ssc10_visual_rgb_50cm_1600px_wm.jpg)
+
+12 June, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220612_084225_ssc1_visual_rgb_50cm_1600px_wm.jpg)
+
+13 June, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220613_122834_ssc15_visual_rgb_50cm_1600px_wm.jpg)
+
+14 June, 2022: [PlanetScope](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220614_2492_visual_rgb_3m_267px_wm.jpg) and [SDT Image](https://www.bellingcat.com/app/uploads/2023/05/Screenshot-2023-05-10-at-18.28.10.png)
+
+15 June, 2022: [PlanetScope](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220615_2488_visual_rgb_3m_267px_wm.jpg)
+
+16 June, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220616_080808_ssc2_visual_rgb_50cm_1600px_wm.jpg)
+
+18 June, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220618_114438_ssc8_visual_rgb_50cm_1600px_wm.jpg) and [SDT Image](https://www.bellingcat.com/app/uploads/2023/05/Screenshot-2023-05-10-at-18.28.44.png)
+
+19 June, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220619_040117_ssc16_visual_rgb_50cm_1600px_wm.jpg) and [SDT Image](https://www.bellingcat.com/app/uploads/2023/05/Screenshot-2023-05-10-at-18.29.09.png)
+
+22 June, 2022: [PlanetScope](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220622_2424_visual_rgb_3m_267px_wm.jpg)
+
+23 June, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220623_083828_ssc1_visual_rgb_50cm_1600px_wm.jpg)
+
+25 June, 2022: [SDT Image](https://www.bellingcat.com/app/uploads/2023/05/Screenshot-2023-02-17-at-17.39.58.png)
+
+26 June, 2022: [SDT Image](https://www.bellingcat.com/app/uploads/2023/05/Screenshot-2023-02-17-at-17.40.37.png)
+
+30 June, 2022: [PlanetScope](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220630_2426_visual_rgb_3m_267px_wm.jpg) and [SDT Image](https://www.bellingcat.com/app/uploads/2023/05/Screenshot-2023-02-17-at-17.41.33.png)
+
+**July 2022**
+
+01 July, 2022: [SDT Image](https://www.bellingcat.com/app/uploads/2023/05/Screenshot-2023-02-17-at-17.42.20.png)
+
+02 July, 2022: [PlanetScope](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220702_2460_visual_rgb_3m_267px_wm.jpg)
+
+04 July, 2022: [Planet SkySat ](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220704_080443_ssc13_visual_rgb_50cm_1600px_wm.jpg)
+
+05 July, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220705_035955_ssc19_visual_rgb_50cm_1600px_wm.jpg) 
+
+13 July, 2022: [PlanetScope ](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220713_2482_visual_rgb_3m_267px_wm.jpg)and [SDT Image](https://www.bellingcat.com/app/uploads/2023/05/Screenshot-2023-02-17-at-17.43.44.png)
+
+21 July, 2022: [PlanetScope](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220721_249a_visual_rgb_3m_267px_wm.jpg)
+
+24 July, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220724_142200_ssc16_visual_rgb_50cm_1600px_wm.jpg)
+
+25 July, 2022: [SDT Image](https://www.bellingcat.com/app/uploads/2023/05/Screenshot-2023-02-17-at-17.44.14.png)
+
+26 July, 2022: P[lanetScope](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220726_2428_visual_rgb_3m_267px_wm.jpg)
+
+27 July, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220727_113513_ssc10_visual_rgb_50cm_1600px_wm.jpg)
+
+28 July, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220728_113445_ssc7_visual_rgb_50cm_1600px_wm.jpg)
+
+29 July, 2022: [PlanetScope](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220729_2459_visual_rgb_3m_267px_wm.jpg)
+
+31 July, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220731_080208_ssc13_visual_rgb_50cm_1600px_wm.jpg) and [SDT Image](https://www.bellingcat.com/app/uploads/2023/05/Screenshot-2023-02-17-at-17.44.47.png)
+
+**August 2022**
+
+02 August, 2022: [PlanetScope](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220802_2413_visual_rgb_3m_267px_wm.jpg)
+
+03 August, 2022: [PlanetScope](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220803_24a4_visual_rgb_3m_267px_wm.jpg)
+
+05 August, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220805_154426_ssc18_visual_rgb_50cm_1600px_wm.jpg) and [SDT Image](https://www.bellingcat.com/app/uploads/2023/05/Screenshot-2023-02-17-at-19.12.13.png)
+
+06 August, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220806_113718_ssc8_visual_rgb_50cm_1600px_wm.jpg) and [SDT Image](https://www.bellingcat.com/app/uploads/2023/05/Screenshot-2023-02-17-at-19.13.34.png)
+
+07 August, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220807_080337_ssc3_visual_rgb_50cm_1600px_wm.jpg)
+
+08 August, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220808_081758_ssc12_visual_rgb_50cm_1600px_wm.jpg)
+
+10 August, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220810_090155_ssc1_visual_rgb_50cm_1600px_wm.jpg)
+
+12 August, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220812_080120_ssc3_visual_rgb_50cm_1600px_wm.jpg)
+
+13 August, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220813_121420_ssc15_visual_rgb_50cm_1600px_wm.jpg) and [SDT Image](https://www.bellingcat.com/app/uploads/2023/05/Screenshot-2023-02-17-at-19.14.29.png)
+
+14 August, 2022: [PlanetScope](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220814_248f_visual_rgb_3m_267px_wm.jpg)
+
+16 August, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220816_084040_ssc1_visual_rgb_50cm_1600px_wm.jpg)
+
+18 August, 2022: [PlanetScope](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220818_2478_visual_rgb_3m_267px_wm.jpg) and [SDT Image](https://www.bellingcat.com/app/uploads/2023/05/Screenshot-2023-02-17-at-19.15.06.png)
+
+19 August, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220819_081018_ssc12_visual_rgb_50cm_1600px_wm.jpg)
+
+20 August, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220820_080328_ssc2_visual_rgb_50cm_1600px_wm.jpg)
+
+21 August, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220821_114748_ssc7_visual_rgb_50cm_1600px_wm.jpg)
+
+22 August, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220822_075929_ssc12_visual_rgb_50cm_1600px_wm.jpg)
+
+23 August, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220823_084518_ssc16_visual_rgb_50cm_1600px_wm.jpg)
+
+24 August, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220824_114853_ssc11_visual_rgb_50cm_1600px_wm.jpg)
+
+26 August, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220826_133622_ssc18_visual_rgb_50cm_1600px_wm.jpg)
+
+29 August, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220829_114945_ssc7_visual_rgb_50cm_1600px_wm.jpg)
+
+30 August, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220830_114021_ssc17_visual_rgb_50cm_1600px_wm.jpg)
+
+**September 2022**
+
+02 September, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220902_045358_ssc19_visual_rgb_50cm_1600px_wm.jpg)
+
+04 September, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220904_081331_ssc12_visual_rgb_50cm_1600px_wm.jpg)
+
+07 September, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220907_114810_ssc8_visual_rgb_50cm_1600px_wm.jpg)
+
+10 September, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220910_074559_ssc17_visual_rgb_50cm_1600px_wm.jpg)
+
+14 September, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220914_115228_ssc7_visual_rgb_50cm_1600px_wm.jpg)
+
+[SDT Image 1](https://www.bellingcat.com/app/uploads/2023/05/Screenshot-2023-02-17-at-19.17.18.png)and
+
+[SDT Image 2](https://www.bellingcat.com/app/uploads/2023/05/Screenshot-2023-02-17-at-19.16.08.png)
+
+23 September, 2022:
+
+[Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220923_115541_ssc8_visual_rgb_50cm_1600px_wm.jpg)
+
+26 September, 2022:
+
+[Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220926_114530_ssc8_visual_rgb_50cm_1600px_wm.jpg)
+
+28 September, 2022:
+
+[Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220928_114927_ssc11_visual_rgb_50cm_1600px_wm.jpg)
+
+29 September, 2022:
+
+[Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220929_114453_ssc9_visual_rgb_50cm_1600px_wm.jpg)and
+
+[SDT Image](https://www.bellingcat.com/app/uploads/2023/05/Screenshot-2023-02-17-at-19.18.08.png)
+
+30 September, 2022:
+
+[Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20220930_075753_ssc13_visual_rgb_50cm_1600px_wm.jpg)
+
+**October 2022**
+
+04 October, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20221004_102318_ssc14_visual_rgb_50cm_1600px_wm.jpg)
+
+09 October, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20221009_080200_ssc16_visual_rgb_50cm_1600px_wm.jpg)
+
+10 October, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20221010_113608_ssc9_visual_rgb_50cm_1600px_wm.jpg)
+
+11 October, 2022: [PlanetScope](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20221011_2274_visual_rgb_3m_267px_wm.jpg) and [SDT Image](https://www.bellingcat.com/app/uploads/2023/05/Screenshot-2023-02-17-at-19.19.03.png) 
+
+12 October, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20221012_080008_ssc12_visual_rgb_50cm_1600px_wm.jpg) and [SDT Image](https://www.bellingcat.com/app/uploads/2023/05/Screenshot-2023-02-17-at-19.19.46.png)
+
+13 October, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20221013_123121_ssc15_visual_rgb_50cm_1600px_wm.jpg)
+
+14 October, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20221014_084445_ssc1_visual_rgb_50cm_1600px_wm.jpg)
+
+15 October, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20221015_114708_ssc9_visual_rgb_50cm_1600px_wm.jpg)
+
+16 October, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20221016_111122_ssc15_visual_rgb_50cm_1600px_wm.jpg) and S[DT Image](https://www.bellingcat.com/app/uploads/2023/05/Screenshot-2023-02-17-at-19.20.54.png)
+
+17 October, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20221017_081127_ssc12_visual_rgb_50cm_1600px_wm.jpg) and [SDT Image](https://www.bellingcat.com/app/uploads/2023/05/Screenshot-2023-02-17-at-19.21.44.png)
+
+18 October, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20221018_102951_ssc16_visual_rgb_50cm_1600px_wm.jpg)
+
+24 October, 2022: [SDT Image](https://www.bellingcat.com/app/uploads/2023/05/Screenshot-2023-02-17-at-19.22.17.png)
+
+27 October, 2022: [PlanetScope](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20221027_2414_visual_rgb_3m_267px_wm.jpg)
+
+28 October, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20221028_080319_ssc12_visual_rgb_50cm_1600px_wm.jpg) and [SDT Image](https://www.bellingcat.com/app/uploads/2023/05/Screenshot-2023-05-10-at-18.31.40.png)
+
+29 October, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20221029_122221_ssc19_visual_rgb_50cm_1600px_wm.jpg) and [SDT Image](https://www.bellingcat.com/app/uploads/2023/05/Screenshot-2023-05-10-at-18.32.55.png)
+
+**November 2022**
+
+05 November, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20221105_115523_ssc8_visual_rgb_50cm_1600px_wm.jpg) and [SDT Image](https://www.bellingcat.com/app/uploads/2023/05/Screenshot-2023-05-10-at-18.33.16.png)
+
+06 November, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20221106_075554_ssc13_visual_rgb_50cm_1600px_wm.jpg)
+
+07 November, 2022: [PlanetScope](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20221107_24a4_visual_rgb_3m_267px_wm.jpg)
+
+08 November, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20221108_114408_ssc8_visual_rgb_50cm_1600px_wm.jpg)
+
+09 November, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20221109_115624_ssc6_visual_rgb_50cm_1600px_wm.jpg) and [SDT Image](https://www.bellingcat.com/app/uploads/2023/05/Screenshot-2023-05-10-at-18.33.35.png)
+
+10 November, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20221110_114735_ssc11_visual_rgb_50cm_1600px_wm.jpg) and [SDT Image](https://www.bellingcat.com/app/uploads/2023/05/Screenshot-2023-05-10-at-18.33.55.png)
+
+11 November, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20221111_081438_ssc2_visual_rgb_50cm_1600px_wm.jpg)
+
+12 November, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20221112_073954_ssc2_visual_rgb_50cm_1600px_wm.jpg)
+
+15 November, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20221115_084802_ssc1_visual_rgb_50cm_1600px_wm.jpg)
+
+16 November, 2022: [SDT Image](https://www.bellingcat.com/app/uploads/2023/05/Screenshot-2023-05-10-at-18.34.25.png)
+
+18 November, 2022: [PlanetScope](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20221118_2488_visual_rgb_3m_267px_wm.jpg)
+
+22 November, 2022: [SDT Image](https://www.bellingcat.com/app/uploads/2023/05/Screenshot-2023-05-10-at-18.34.47.png)
+
+28 November, 2022: [SDT Image](https://www.bellingcat.com/app/uploads/2023/05/Screenshot-2023-05-10-at-18.35.13.png)
+
+29 November, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20221129_124822_ssc16_visual_rgb_50cm_1600px_wm.jpg) and [SDT Image](https://www.bellingcat.com/app/uploads/2023/05/Screenshot-2023-05-10-at-18.35.29.png)
+
+30 November, 2022: [PlanetScope](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20221130_2429_visual_rgb_3m_267px_wm.jpg)
+
+**December 2022**
+
+03 December, 2022: [SDT Image](https://www.bellingcat.com/app/uploads/2023/05/Screenshot-2023-02-17-at-21.34.05.png)
+
+04 December, 2022: [SDT Image](https://www.bellingcat.com/app/uploads/2023/05/Screenshot-2023-02-17-at-21.34.39.png)
+
+10 December, 2022: [SDT Image](https://www.bellingcat.com/app/uploads/2023/05/Screenshot-2023-02-17-at-21.35.21.png)
+
+11 December, 2022: [SDT Image](https://www.bellingcat.com/app/uploads/2023/05/Screenshot-2023-02-17-at-21.36.10.png)
+
+14 December, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20221214_114616_ssc7_visual_rgb_50cm_1600px_wm.jpg)
+
+15 December, 2022: [SDT Image](https://www.bellingcat.com/app/uploads/2023/05/Screenshot-2023-02-17-at-21.37.34.png)
+
+20 December, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20221220_114952_ssc8_visual_rgb_50cm_1600px_wm.jpg)
+
+21 December, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20221221_114334_ssc10_visual_rgb_50cm_1600px_wm.jpg)
+
+22 December, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20221222_121106_ssc8_visual_rgb_50cm_1600px_wm.jpg) and [SDT Image](https://www.bellingcat.com/app/uploads/2023/05/Screenshot-2023-02-17-at-21.38.18.png)
+
+23 December, 2022: [SDT Image](https://www.bellingcat.com/app/uploads/2023/05/Screenshot-2023-02-17-at-21.39.00.png)
+
+27 December, 2022: [SDT Image](https://www.bellingcat.com/app/uploads/2023/05/Screenshot-2023-02-17-at-21.40.01.png)
+
+30 December, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20221230_075727_ssc13_visual_rgb_50cm_1600px_wm.jpg)
+
+31 December, 2022: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20221231_115621_ssc10_visual_rgb_50cm_1600px_wm.jpg)
+
+**January 2023**
+
+01 January, 2023: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20230101_074025_ssc2_visual_rgb_50cm_1600px_wm.jpg)
+
+02 January, 2023: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20230102_075957_ssc12_visual_rgb_50cm_1600px_wm.jpg)
+
+03 January, 2023: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20230103_080131_ssc2_visual_rgb_50cm_1600px_wm.jpg) and [SDT Image](https://www.bellingcat.com/app/uploads/2023/05/Screenshot-2023-02-17-at-21.51.08.png)
+
+04 January, 2023: [SDT Image](https://www.bellingcat.com/app/uploads/2023/05/Screenshot-2023-02-17-at-21.51.41.png)
+
+08 January, 2023: [SDT Image](https://www.bellingcat.com/app/uploads/2023/05/Screenshot-2023-02-17-at-21.52.20.png)
+
+09 January, 2023: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20230109_075600_ssc4_visual_rgb_50cm_1600px_wm.jpg) and [SDT Image](https://www.bellingcat.com/app/uploads/2023/05/Screenshot-2023-02-17-at-21.52.58.png)
+
+10 January, 2023: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20230110_114158_ssc9_visual_rgb_50cm_1600px_wm.jpg)
+
+13 January, 2023: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20230113_120920_ssc6_visual_rgb_50cm_1600px_wm.jpg)
+
+20 January, 2023: [SDT Image](https://www.bellingcat.com/app/uploads/2023/05/Screenshot-2023-02-17-at-21.53.35.png)
+
+21 January, 2023: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20230121_120133_ssc6_visual_rgb_50cm_1600px_wm.jpg) and [SDT Image](https://www.bellingcat.com/app/uploads/2023/05/Screenshot-2023-02-17-at-21.54.14.png)
+
+22 January, 2023: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20230122_085339_ssc1_visual_rgb_50cm_1600px_wm.jpg)
+
+25 January, 2023: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20230125_084257_ssc1_visual_rgb_50cm_1600px_wm.jpg)
+
+28 January, 2023: [SDT Image](https://www.bellingcat.com/app/uploads/2023/05/Screenshot-2023-02-17-at-21.54.51.png)
+
+**February 2023**
+
+01 February, 2023: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20230201_120652_ssc7_visual_rgb_50cm_1600px_wm.jpg) and [SDT Image](https://www.bellingcat.com/app/uploads/2023/05/Screenshot-2023-02-17-at-21.55.31.png)
+
+02 February, 2023: [PlanetScope](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20230202_247c_visual_rgb_3m_267px_wm.jpg) and [SDT Image](https://www.bellingcat.com/app/uploads/2023/05/Screenshot-2023-02-17-at-21.56.00.png)
+
+04 February, 2023: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20230204_074859_ssc2_visual_rgb_50cm_1600px_wm.jpg) 
+
+05 February, 2023: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20230205_114506_ssc9_visual_rgb_50cm_1600px_wm.jpg) 
+
+07 February, 2023: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20230207_074819_ssc4_visual_rgb_50cm_1600px_wm.jpg) 
+
+08 February, 2023: [SDT Image](https://www.bellingcat.com/app/uploads/2023/05/Screenshot-2023-02-17-at-21.56.31.png)
+
+09 February, 2023: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20230209_120656_ssc7_visual_rgb_50cm_1600px_wm.jpg) and [SDT Image](https://www.bellingcat.com/app/uploads/2023/05/Screenshot-2023-05-10-at-18.41.38.png)
+
+10 February, 2023: [PlanetScope](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20230210_249c_visual_rgb_3m_267px_wm.jpg)
+
+13 February, 2023: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20230213_120607_ssc8_visual_rgb_50cm_1600px_wm.jpg) and [SDT Image](https://www.bellingcat.com/app/uploads/2023/05/Screenshot-2023-05-10-at-18.42.37.png)
+
+14 February, 2023: [SDT Image](https://www.bellingcat.com/app/uploads/2023/05/Screenshot-2023-05-10-at-18.42.53.png)
+
+16 February, 2023: [PlanetScope](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20230216_2492_visual_rgb_3m_267px_wm.jpg) 
+
+19 February, 2023: [Planet SkySat ](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20230219_115016_ssc10_visual_rgb_50cm_1600px_wm.jpg)
+
+20 February, 2023: [SDT Image](https://www.bellingcat.com/app/uploads/2023/05/Screenshot-2023-05-10-at-18.43.10.png)
+
+21 February, 2023: [SDT Image](https://www.bellingcat.com/app/uploads/2023/05/Screenshot-2023-05-10-at-18.46.03.png)
+
+23 February, 2023: [Planet SkySat](https://www.bellingcat.com/app/uploads/2023/05/sevastopol_port_sevastopol_crimea_20230223_114634_ssc11_visual_rgb_50cm_1600px_wm.jpg) 
+
+*Sophie Tedling and  Teemu Nieminen from Bellingcat’s  Global Authentication Project (GAP) contributed to this report alongside Bellingcat’s Eoghan Macguire and Youri van der Weide.*
+
+*Bellingcat is a non-profit and the ability to carry out our work is dependent on the kind support of individual donors. If you would like to support our work, you can do so **here**. You can also subscribe to our Patreon channel **here**. Subscribe to our **Newsletter** and follow us on Twitter **here**and Mastodon  here*.

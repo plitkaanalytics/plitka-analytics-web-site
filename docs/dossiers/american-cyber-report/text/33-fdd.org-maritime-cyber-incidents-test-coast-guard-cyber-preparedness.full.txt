@@ -1,0 +1,231 @@
+URL:         https://www.fdd.org/analysis/2026/09/23/maritime-cyber-incidents-test-coast-guard-cyber-preparedness/
+Кінцевий:    https://web.archive.org/web/20260929222140id_/https://www.fdd.org/analysis/2026/09/23/maritime-cyber-incidents-test-coast-guard-cyber-preparedness/
+Заголовок:   Maritime Cyber Incidents Test Coast Guard Cyber Preparedness
+Дата публ.:  2026-09-23
+Завантажено: 2026-10-02 08:20 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 79882
+Оригінал:    raw/33-fdd.org-maritime-cyber-incidents-test-coast-guard-cyber-preparedness.html
+sha256:      0421aa27a81ff7cc24fed257fb070d3d683b9b8e41da7679f24f5e2976f486f9
+Витяг:       trafilatura
+Примітка:    оригінал недоступний (403), узято з Wayback
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 9
+==============================================================================
+National Security Network Members
+Transformative Cyber Innovation Lab
+Center on Economic and Financial Power
+Center on Military and Political Power
+Air and Missile Defense Program
+International Organizations Program
+Federal Bureau of Investigation
+United States Government Accountability Office
+P.O. Box 33249, Washington D.C. 20033
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Maritime Cyber Incidents Test Coast Guard Cyber Preparedness
+Skip to main content
+About
+About FDD
+FDD Team
+Advisors
+Jobs and Internships
+National Security Network
+National Security Network Members
+Media Center
+Media Calls
+Press Releases
+Issues
+Iran
+China
+Russia
+Cyber
+Turkey
+All Issues
+Projects
+Center on Cyber and Technology Innovation
+Transformative Cyber Innovation Lab
+Center on Economic and Financial Power
+Center on Military and Political Power
+Air and Missile Defense Program
+FDD's Long War Journal
+Iran Program
+Russia Program
+China Program
+Israel Program
+Nonproliferation Program
+Turkey Program
+International Organizations Program
+All Projects
+Products
+Analysis
+Op-eds
+Policy Briefs
+Insights
+Memos
+Foreign Policy Trackers
+Monographs
+Visuals
+Legislative Testimonies
+Public Comments
+In The News
+Quotes
+Broadcast Appearances
+Podcasts
+The Iran Breakdown
+Foreign Podicy
+Generation Jihad
+FDD Events Podcast
+FDD Morning Brief
+Overnight Brief
+Events
+Subscribe
+Invest
+About
+About FDD
+FDD Team
+Advisors
+Jobs and Internships
+National Security Network
+Media Center
+Issues
+Iran
+China
+Russia
+Cyber
+Turkey
+All Issues
+Projects
+Center on Cyber and Technology Innovation
+Center on Economic and Financial Power
+Center on Military and Political Power
+Iran Program
+Russia Program
+China Program
+Israel Program
+Nonproliferation Program
+Turkey Program
+International Organizations Program
+All Projects
+Products
+Analysis
+In The News
+Podcasts
+FDD Morning Brief
+Overnight Brief
+Events
+Subscribe
+Invest
+September 23, 2026
+												| Policy Brief
+Maritime Cyber Incidents Test Coast Guard Cyber Preparedness
+Home
+»
+Cyber
+Sophie McDowall
+CCTI Research Associate
+Elisa Montgomery
+Intern
+September 23, 2026
+			
+			| Policy Brief
+Maritime Cyber Incidents Test Coast Guard Cyber Preparedness
+Sophie McDowall
+CCTI Research Associate
+Elisa Montgomery
+Intern
+The Coast Guard and the FBI are
+investigating
+multiple suspected cyberattacks on oil tankers that have disrupted trade routes throughout the Atlantic Ocean. On August 7, an oil tanker bound for the United States
+lost access
+to
+its communication systems for more than
+30 hours
+, while on September 19, a liquefied natural gas (LNG) tanker carrying U.S. LNG to Italy was unable to unload its cargo after
+losing access
+to internal control systems. The incidents highlight both the cyber threat facing U.S. maritime operations and the growing demands on the Coast Guard to support an industry that moves more than
+90 percent
+of global trade.
+Cyberattacks Threaten Global Maritime Operations and Port Security
+The FBI and the Coast Guard issued a September 16
+joint statement
+on the alleged cyberattacks on U.S.-bound ships, explaining that they boarded the oil tanker in the Gulf of Mexico in August “to ensure integrity of the vessel’s operational and information technology systems” after evidence of network compromise by “foreign cyber actors.” Officials are
+investigating
+whether Iran might be behind the attacks.
+Because ships have interconnected IT and operations management systems, a compromised network could cause crews to lose control of a vessel, disrupting trade and endangering the crew aboard. A crew that cannot safely
+manage
+tankers carrying millions of gallons of crude oil raises the risk of a spill, fire, or explosion. After completing incident response and remediation, the agencies
+confirmed
+there were no immediate threats to vessel stability, crew safety, or the environment.
+As Attacks Increase, Coast Guard Focuses on Cyber Support
+Cyberattacks
+on
+the maritime industry are not
+a rare
+occurrence
+. In 2025, the Coast Guard
+responded
+to 42 reported cyber incidents affecting U.S. maritime systems, an increase from 36 incidents in 2024. In collaboration with U.S. Cyber Command, the Coast Guard began
+executing
+multiple deployments
+utilizing
+its Cyber Protection Team in early December 2025 — ranging from Hunt and Incident Response missions to Maritime Interdiction Operations of Dark Fleet vessels using traditional law enforcement tactics.
+To address these threats, the Coast Guard on August 31
+announced
+the
+creation of
+the Office of Maritime Cybersecurity Policy (CG-MCP) to develop domestic policy and direct compliance and enforcement strategy. If properly staffed, the office has the potential to provide support for American port operators as they navigate a complex threat landscape and new cybersecurity
+requirements.
+Those requirements do not apply directly to foreign-flagged vessels, but the Coast Guard has
+said
+it will use its Captain of the Port authority to scrutinize those with poor cybersecurity practices entering U.S. waters.
+Transparency and Collaboration: A Path to Maritime Cyber Preparedness
+Port authorities and shipping companies remain responsible for their systems’ security, but the Coast Guard
+needs
+sufficient funding, personnel, and capabilities to provide the necessary support in its role as the federal government’s sector risk management agency. Without a competent federal partner, the industry may lack both the information to invest wisely and guidance to identify and mitigate risks.
+In February 2025, the U.S. Government Accountability Office (GAO)
+warned
+that the Coast Guard had not fully developed competency requirements for its workforce or assessed gaps between existing capabilities and future needs to accomplish its cyber mission. In June 2026, GAO
+testified
+before Congress that the service faces a broader workforce issue and lacks a plan to evaluate its modernization goals. GAO noted that in a
+prior
+modernization reform, the Coast Guard disestablished its modernization oversight office without creating a replacement.
+Congress should require the Coast Guard to provide a resourcing and implementation plan for CG-MCP and its broader maritime cyber mission, identifying cyber-specific capabilities, personnel, and dedicated funding. The plan should establish a timeline for addressing workforce recommendations in the February 2025 GAO report. Only when the mission is properly resourced can the Coast Guard ensure nationwide maritime cyber resilience.
+Sophie McDowall
+is a research associate for the Center on Cyber and Technology Innovation (CCTI) at the Foundation for Defense of Democracies (FDD), where Elisa Montgomery is an intern. For more analysis from the authors and FDD, subscribe
+HERE
+. Follow Sophie on X
+@SophieMcDowall_
+. Follow FDD on X
+@FDD
+and
+@FDD_CCTI
+. FDD is a Washington, DC-based, nonpartisan research institute focusing on national security and foreign policy.
+Issues:
+Issues:
+Cyber
+Topics:
+Topics:
+United States Coast Guard
+Federal Bureau of Investigation
+Iran
+United States Cyber Command
+United States Government Accountability Office
+Cybersecurity
+Cyberwarfare
+Italy
+United States Congress
+Washington
+Show More
+Copyright ©
+						2026
+Foundation for Defense of Democracies
+Privacy Policy
+P.O. Box 33249, Washington D.C. 20033
+202-207-0190
+[email protected]
+Subscribe
+Media Center

@@ -1,0 +1,208 @@
+URL:         https://techcrunch.com/2026/09/18/fbi-coast-guard-boarded-hacked-oil-tankers-heading-towards-us-coast/
+Кінцевий:    https://techcrunch.com/2026/09/18/fbi-coast-guard-boarded-hacked-oil-tankers-heading-towards-us-coast/
+Заголовок:   FBI, Coast Guard boarded hacked oil tankers heading toward US coast | TechCrunch
+Дата публ.:  2026-09-18
+Завантажено: 2026-10-02 08:06 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 234711
+Оригінал:    raw/17-techcrunch.com-fbi-coast-guard-boarded-hacked-oil-tankers-heading-towa.html
+sha256:      015cca9b853e2ee38e598790c5501cb73ae2afb874444de2ad5aa1940b58cba8
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 20
+==============================================================================
+FBI, Coast Guard boarded hacked oil tankers heading toward US coast | TechCrunch
+Last day to demo your breakthrough to 10,000+ tech leaders is on
+Disrupt ticket savings of up to $200 + 50% off a second ends Sept 25, 11:59 p.m. PT.
+U.S. Coast Guard / handout (via CBS News)
+FBI, Coast Guard boarded hacked oil tankers heading toward US coast
+8:44 AM PDT · September 18, 2026
+When you purchase through links in our articles,
+we may earn a small commission
+. This doesn’t affect our editorial independence.
+Zack Whittaker is the security editor at TechCrunch. He also authors the weekly cybersecurity newsletter,
+He can be reached via encrypted message at zackwhittaker.1337 on Signal. You can also contact him by email, or to verify outreach, at
+The Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem.
+Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground
+Google releases Gemini 4 Argon, called its most powerful model yet
+The Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next
+AMD will acquire Fei-Fei Li’s World Labs for $8.2B
+Viral AI agent Instinct raises $1B Series C at a $10B valuation
+Crusoe abandons $1.25B plan to use Boom turbines at AI data centers
+Astra and Opus just passed Turing’s other test
+Error loading the next article
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+FBI, Coast Guard boarded hacked oil tankers heading toward US coast | TechCrunch
+–:–:–:–
+Last day to demo your breakthrough to 10,000+ tech leaders is on
+Oct 2
+.
+Book Exhibit Table Now.
+Disrupt ticket savings of up to $200 + 50% off a second ends Sept 25, 11:59 p.m. PT.
+REGISTER HERE.
+Close
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+Image Credits:
+U.S. Coast Guard / handout (via CBS News)
+Security
+FBI, Coast Guard boarded hacked oil tankers heading toward US coast
+Zack Whittaker
+8:44 AM PDT · September 18, 2026
+Cybersecurity teams with the U.S. Coast Guard and the FBI boarded two U.S.-bound oil tankers last month after hackers reportedly compromised at least one of the ship’s networks and took control of its navigation, propulsion, and cargo systems.
+According to a joint statement shared with TechCrunch, the agencies boarded the vessels in the Gulf of Mexico between August 21 and August 24 to “ensure integrity of the vessel’s operational and information technology systems following indications that the networks of both vessels were compromised.”
+The Coast Guard released several photos of its staffers and FBI agents climbing aboard one of the vessels, which were shared with
+CBS News
+. The statement said that the captain, crew, and the on-shore staff of the vessel’s owner cooperated with the agencies.
+The incident is an example of how shipping vessels, oil tankers, and the broader global logistics network can be targeted by hackers. Tankers often have complex networks sprawling the span of the vessel to aid with navigation, organizing cargo, and ensuring the regular running of services necessary with operating a massive ship.
+A spokesperson for the Coast Guard did not comment beyond its emailed statement, including naming the vessels involved.
+CBS News
+confirmed
+that one of the tankers is VL Prosperity, a 333-meter oil tanker that can hold over 2 million barrels of oil. According to VesselFinder, the tanker is
+currently located
+in the Gulf of Mexico.
+Citing Iranian media, CBS said hackers compromised the ship on August 7 while traveling from Egypt to the United States and interfered with the ship’s speed and fuel systems. The tanker also lost communications for more than a day, per CBS.
+It’s unclear who is behind the attacks, but CBS News said the U.S. is looking into whether Iran is behind the hack. Iran has been behind a multitude of hacks in recent months following the start of the U.S. and Israel-led war against Tehran, which killed Iran’s supreme leader in February. Iranian-backed hackers have since launched a
+destructive hack at medical device maker Stryker
+, hacked the
+mass transit system in Los Angeles
+, and compromised over
+a hundred water facilities
+across the United States in response to the widespread U.S. bombing of Iran. CISA has called
+the attacks “opportunistic” in nature
+.
+The joint FBI-Coast Guard statement said that there were “no reports of operational disruptions, vessel instability, physical danger to crews, or environmental impacts.”
+Topics
+cyberattack
+,
+cybersecurity
+,
+Security
+,
+Shipping
+,
+tankers
+,
+Transportation
+When you purchase through links in our articles,
+we may earn a small commission
+. This doesn’t affect our editorial independence.
+Zack Whittaker
+Security Editor
+Zack Whittaker is the security editor at TechCrunch. He also authors the weekly cybersecurity newsletter,
+this week in security
+.
+He can be reached via encrypted message at zackwhittaker.1337 on Signal. You can also contact him by email, or to verify outreach, at
+zack.whittaker@techcrunch.com
+.
+View Bio
+October 13 – 15
+San Francisco
+Get 50% off a second pass
+The Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem.
+BOOK NOW
+Most Popular
+Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground
+Tim Fernholz
+Google releases Gemini 4 Argon, called its most powerful model yet
+Lucas Ropek
+The Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next
+Dominic-Madori Davis
+AMD will acquire Fei-Fei Li’s World Labs for $8.2B
+Tim Fernholz
+Viral AI agent Instinct raises $1B Series C at a $10B valuation
+Sarah Perez
+Crusoe abandons $1.25B plan to use Boom turbines at AI data centers
+Kirsten Korosec
+Astra and Opus just passed Turing’s other test
+Tim Fernholz
+Loading the next article
+Error loading the next article
+X
+LinkedIn
+Facebook
+Instagram
+youTube
+Mastodon
+Threads
+Bluesky
+TechCrunch
+Staff
+Contact Us
+Advertise
+Site Map
+Terms of Service
+Privacy Policy
+RSS Terms of Use
+Code of Conduct
+OpenAI
+Hugging Face
+Flock
+Startup Battlefield
+Disrupt 2026
+Tech Layoffs
+ChatGPT
+© 2026 TechCrunch Media LLC.

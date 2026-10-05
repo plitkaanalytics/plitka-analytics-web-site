@@ -1,0 +1,202 @@
+URL:         https://maritime-executive.com/article/russian-warship-spotted-escorting-two-inbound-stateless-tankers
+Кінцевий:    https://maritime-executive.com/article/russian-warship-spotted-escorting-two-inbound-stateless-tankers
+Заголовок:   Russian Warship Spotted Escorting Two Inbound Stateless Tankers
+Дата публ.:  2025-06-23
+Завантажено: 2026-10-02 14:56 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 142183
+Оригінал:    raw/43-maritime-executive.com-russian-warship-spotted-escorting-two-inbound-s.html
+sha256:      646dee1e6e495a7936212882373e6769d5bd5c8e15c09521000455fc141493f7
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 20
+==============================================================================
+US Sends Third Carrier Strike Group to the Gulf
+Philippine Coast Guard "Chases Off" Unauthorized Chinese Research Operation
+Video: Explosion and Fire Reported at Saudi Oil Port of Yanbu
+U.S. Navy Orders $25 Billion Worth of Missile Interceptors
+Russian corvettes have been seen sailing near merchant ships appearing to provide protection (Russian MOD file photo)
+Stay on Top of the Daily Maritime News
+Op-Ed: People Are the Powerbase of the Shipping Business
+Pakistan Explores Buying or Chartering Boxship Due to Shipping Challenges
+Japan Conducts Demonstration Voyage of a Hydrogen-Fueled Tanker
+Rescue Operation Off South Africa Turns Tragic as Rescuers Are Killed
+GAO: Coast Guard Addressing Marine Firefighting Challenges, but Gaps Remain
+Corridor Sovereignty: Cooperation Without Surrendering Control
+Japanese Naval Strengthening Steals Limelight at U.S.-China Talks
+The Liner’s Dilemma: Schedule Integrity vs. Contractual Flexibility
+The latest news in your inbox daily.
+US officials in Washington have briefed the press that a third US Carrier Strike Group, led by the USS Theodore Roosevelt (CVN-71), is on its way to the Central Command area. The USS Theodore Roosevelt, homeported in San Diego, departed quietly on September 27. Also seen deploying from San Diego on September 28 was the Amphibious Ready Group led by the Wasp Class amphibious assault ship USS Makin Island (LHD-8), accompanied by the USS Anchorage (LPD-23) and the USS John...
+The Philippine Coast Guard reported Monday that it had "disrupted" and chased off a Chinese vessel that was conducting unauthorized research within the Philippine EEZ, a breach of the UN Convention on the Law of the Sea. The vessel in question, Jia Hai Ke 7 (or Jiahai Ke 7), was spotted loitering northwest of Itbayat in the Strait of Luzon on September 28, the PCG said. The area is strategic, providing a key passage from the open Pacific into the...
+The main Saudi oil export terminal on the Red Sea, located at Yanbu, appears to have been hit by an unidentified projectile on Thursday. The port has become a critical vulnerability in the European oil supply chain, and last week French President Emanuel Macron pledged to protect Yanbu with France's air defense capabilities. Bystander videos from the scene show one isolated fire in the vicinity of a tank farm; security consultancy Vanguard Tech confirms that the projectile landed within the...
+The U.S. Navy has signed a five-plus-two year deal with Raytheon for up to $25 billion worth of SM-6 multipurpose interceptor missiles. This SM-series variant is designed for long range anti-air warfare and has proven capability for shooting down cruise missiles, drones, and ballistic missiles, plus a secondary application as an antiship missile - all at lower cost than an SM-3. During the high-intensity phase of the war with Iran this year, the U.S. military's global stockpiles of all high-end...
+© Copyright 2026 The Maritime Executive, LLC. All rights reserved.
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Russian Warship Spotted Escorting Two Inbound Stateless Tankers
+Go
+SUBSCRIBE NOW
+Media Kit
+news
+Features
+Podcasts
+Magazine
+Newsletter
+Advertise
+Directory
+Subscribe
+news
+features
+Podcasts
+magazine
+newsletter
+Jobs
+advertise
+subscribe
+TOP
+STORIES
+US Sends Third Carrier Strike Group to the Gulf
+Published
+				by
+The Maritime Executive
+Philippine Coast Guard "Chases Off" Unauthorized Chinese Research Operation
+Published
+				by
+The Maritime Executive
+Video: Explosion and Fire Reported at Saudi Oil Port of Yanbu
+Published
+				by
+The Maritime Executive
+U.S. Navy Orders $25 Billion Worth of Missile Interceptors
+Published
+				by
+The Maritime Executive
+132668
+Views
+Russian Warship Spotted Escorting Two Inbound Stateless Tankers
+Russian corvettes have been seen sailing near merchant ships appearing to provide protection (Russian MOD file photo)
+Published
+					Jun 23, 2025 1:47 PM        		by
+The Maritime Executive
+Two stateless tankers inbound to the Russian oil operations in the Baltic were spotted traveling with a Russian warship. Russia in the past has been seen escorting some of its military cargo ships, and in May appeared to be escorting outbound shadow fleet tankers in the Baltic following the increasing effort by the Baltic nations and the EU to crack down on the shadow fleet.
+The latest move was called “A major step in sanctions evasion,” in a LinkedIn posting from Mark Douglas, a maritime domain awareness analyst at Starboard Maritime Intelligence. He reported the escort using data from open-source intelligence on Bluesky. Douglas suggested it was “deliberate timing” for the tankers to meet up with the Russian corvette
+Boikiy
+as they reached the English Channel and headed to the Baltic. The vessels are now in the Kattegat, but neither tanker is showing an accurate destination on its AIS signal.
+The two tankers have each been sanctioned by the UK and one also by the EU. The Equasis database lists both with unknown flags and links them to companies in Dubai and India.
+The tanker
+Naxos
+(105,827 dwt) is alternately using the name
+Selva
+and is displaying Palau as its flag after previously showing Panama. In 2022, it reported registry first in the Marshall Islands and later in St. Kitts and Nevis.
+The tanker
+Sierra
+(113,905 dwt) is displaying a flag of Malawi after having been registered in São Tomé & Principe in 2023 and before that Barbados and Gabon. Until 2022, the vessel was known as
+Suvorovsky Prospect
+and was managed by Russia’s SCF (Sovcomflot).
+They were spotted traveling with the
+Boikiy
+(2,100 displacement tons), a Steregushchy-class corvette that appears to be employed for various escort duties of merchant ships. The vessel was commissioned in 2013 and, in mid-May, was spotted accompanying the Russian-flagged cargo vessels MV
+Siyanie Severa
+and MV
+Patria
+as they headed south into the Atlantic Ocean, according to Itamilradar. In March and again in early May, the UK's Royal Navy reported tracking the same warship along with merchant ships on transits of the English Channel.
+Finland’s Defense Minister Antti Häkkänen said in a TV interview in late May that tankers crossing the Gulf of Finland from Russia had a naval escort. It came after Estonia attempted to inspect another tanker that was suspected of being stateless. A Russian fighter jet briefly appeared as Estonia was attempting to contact the tanker, but the tanker refused to be directed into local waters and continued on its course.
+Stay on Top of the Daily Maritime News
+The maritime news
+that matters most
+Get the latest maritime news delivered to your inbox daily.
+Subscribe Now
+Last week, Denmark identified another stateless tanker inbound to Russia. The Danish Maritime Authority reported that the tanker had misled the authorities, reporting it was registered in Comoros. Denmark tracked the vessel into and out of the Baltic but did not attempt to stop it.
+Other countries, including Sweden, have vowed to increase their efforts if the stateless tankers enter their territories. The EU and UK have also increased the number of tankers they have listed, seeking to further crack down on the shadow fleet and Russia’s oil exports.
+MORE
+TOP STORIES
+Op-Ed: People Are the Powerbase of the Shipping Business
+Pakistan Explores Buying or Chartering Boxship Due to Shipping Challenges
+Japan Conducts Demonstration Voyage of a Hydrogen-Fueled Tanker
+Rescue Operation Off South Africa Turns Tragic as Rescuers Are Killed
+EDITORIALS
+TOP STORIES
+Op-Ed: People Are the Powerbase of the Shipping Business
+GAO: Coast Guard Addressing Marine Firefighting Challenges, but Gaps Remain
+Corridor Sovereignty: Cooperation Without Surrendering Control
+Japanese Naval Strengthening Steals Limelight at U.S.-China Talks
+The Liner’s Dilemma: Schedule Integrity vs. Contractual Flexibility
+The maritime news
+that matters most
+The latest news in your inbox daily.
+Subscribe Now
+SUBSCRIPTIONS
+SUBSCRIBE
+Print
+Digital
+Newsletter
+Renew
+Subscribe Now
+RELATED
+STORIES
+Government
+US Sends Third Carrier Strike Group to the Gulf
+Published
+					Oct 2, 2026 9:23 AM        		by
+The Maritime Executive
+US officials in Washington have briefed the press that a third US Carrier Strike Group, led by the USS Theodore Roosevelt (CVN-71), is on its way to the Central Command area. The USS Theodore Roosevelt, homeported in San Diego, departed quietly on September 27. Also seen deploying from San Diego on September 28 was the Amphibious Ready Group led by the Wasp Class amphibious assault ship USS Makin Island (LHD-8), accompanied by the USS Anchorage (LPD-23) and the USS John...
+Continue Reading...
+Government
+Philippine Coast Guard "Chases Off" Unauthorized Chinese Research Operation
+Published
+					Oct 1, 2026 11:37 PM        		by
+The Maritime Executive
+The Philippine Coast Guard reported Monday that it had "disrupted" and chased off a Chinese vessel that was conducting unauthorized research within the Philippine EEZ, a breach of the UN Convention on the Law of the Sea. The vessel in question, Jia Hai Ke 7 (or Jiahai Ke 7), was spotted loitering northwest of Itbayat in the Strait of Luzon on September 28, the PCG said. The area is strategic, providing a key passage from the open Pacific into the...
+Continue Reading...
+Government
+Video: Explosion and Fire Reported at Saudi Oil Port of Yanbu
+Published
+					Oct 1, 2026 11:29 PM        		by
+The Maritime Executive
+The main Saudi oil export terminal on the Red Sea, located at Yanbu, appears to have been hit by an unidentified projectile on Thursday. The port has become a critical vulnerability in the European oil supply chain, and last week French President Emanuel Macron pledged to protect Yanbu with France's air defense capabilities. Bystander videos from the scene show one isolated fire in the vicinity of a tank farm; security consultancy Vanguard Tech confirms that the projectile landed within the...
+Continue Reading...
+Government
+U.S. Navy Orders $25 Billion Worth of Missile Interceptors
+Published
+					Oct 1, 2026 9:56 PM        		by
+The Maritime Executive
+The U.S. Navy has signed a five-plus-two year deal with Raytheon for up to $25 billion worth of SM-6 multipurpose interceptor missiles. This SM-series variant is designed for long range anti-air warfare and has proven capability for shooting down cruise missiles, drones, and ballistic missiles, plus a secondary application as an antiship missile - all at lower cost than an SM-3. During the high-intensity phase of the war with Iran this year, the U.S. military's global stockpiles of all high-end...
+Continue Reading...
+SUBSCRIPTIONS
+SUBSCRIBE
+Print
+Digital
+Newsletter
+Renew
+Subscribe Now
+Show Comments
+About Us
+Advertise
+Newsletter
+Contact Us
+Privacy Policy
+Site Map
+News
+Features
+Podcasts
+Magazine
+Newsletter
+Piracy News
+Shipbuilding News
+Cruise Ship News
+Ports News
+Salvage News
+Training News
+Government News
+Environment News
+Corporate News
+Subscribe
+Facebook
+LinkedIn
+Twitter
+RSS Feed
+Instagram
+© Copyright 2026 The Maritime Executive, LLC. All rights reserved.

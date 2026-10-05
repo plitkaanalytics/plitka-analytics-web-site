@@ -1,0 +1,36 @@
+URL:         https://rntfnd.org/2026/06/18/the-dangerous-tech-found-aboard-dark-fleet-tankers-captured-by-the-u-s-wall-street-journal/
+Кінцевий:    https://rntfnd.org/2026/06/18/the-dangerous-tech-found-aboard-dark-fleet-tankers-captured-by-the-u-s-wall-street-journal/
+Заголовок:   The Dangerous Tech Found Aboard ‘Dark-Fleet’ Tankers Captured by the U.S. - Wall Street Journal - RNTF
+Дата публ.:  2026-06-18
+Завантажено: 2026-10-02 08:05 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 686523
+Оригінал:    raw/07-rntfnd.org-the-dangerous-tech-found-aboard-dark-fleet-tankers-captured.html
+sha256:      21e0718d9394abb4d18795d9932b3c32500db84ab30631d660a07bc1e9ecccfa
+Витяг:       trafilatura
+
+==============================================================================
+Image: USCG – Cyber team member being lowered to a dark fleet tanker.
+
+**What’s new:** A WSJ exclusive about the **complex cyber and EW capabilities** found aboard **dark fleet** vessels.
+
+**Why its important:** It outlines a high degree of sophistication in many areas, **including AIS spoofing.** Using these can pose safety and security risks.
+
+**What else to know:**
+
+- It is much **more effective to apprehend criminals**and gain intelligence instead of killing them.
+- The **USCG is a member of the US intelligence community**and has authorities under Title 50. It has had a formal intelligence component since 1915.
+
+# The Dangerous Tech Found Aboard ‘Dark-Fleet’ Tankers Captured by the U.S.
+
+#### Ships carrying sanctioned oil are using systems that bad actors could use to cause an explosion or oil spill
+
+June 15, 2026 5:32 pm ET
+
+Quick Summary
+
+- 
+U.S. Coast Guard cyber teams discovered “dark fleet” tankers use digital tools for illicit trade, creating cyber risks and deception. 
+- 
+Coast Guard teams found “dark fleet” ships use remote desktop applications for unattended access and pirated software with malware. 
+- 
+Tankers employ multiple Automatic Identification System devices, toggle switches, and custom-made Ethernet cables to broadcast false locations.

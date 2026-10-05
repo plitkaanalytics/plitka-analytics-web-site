@@ -1,0 +1,211 @@
+URL:         https://biz.liga.net/en/transport/news/wsj-software-for-remote-control-and-data-erasure-discovered-on-shadow-fleet-vessels
+Кінцевий:    https://biz.liga.net/en/transport/news/wsj-software-for-remote-control-and-data-erasure-discovered-on-shadow-fleet-vessels
+Заголовок:   WSJ: Software for remote control and data erasure discovered on shadow fleet vessels
+Дата публ.:  2026-06-16
+Завантажено: 2026-10-02 08:05 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 110179
+Оригінал:    raw/10-biz.liga.net-wsj-software-for-remote-control-and-data-erasure-discover.html
+sha256:      fddf72543636b503c04b8e6624f0e3b6f86013240bd2fd53cf0ce2dd65221d05
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 22
+==============================================================================
+Dangerous software found on tankers seized by the US | Ukrainian News | LIGA.net
+Responsible quality journalism
+Tankers carrying sanctioned cargo from Russia and Iran use systems that pose a risk of explosion or oil spill
+This is a machine translation of the original article in Ukrainian. It may contain errors.
+Russia struck the Southern Bridge in Kyiv, traffic stopped
+EBRD to Increase Loan to Kyiv to Fund Metro
+BMW plans to cut 20% of its management staff using AI
+Kyivpastrans to Purchase Mobile Shelters: Tender Announced
+Europe's largest automaker is recalling nearly 3 million cars due to steering problems
+If you notice a spelling error, select it with the mouse and press Ctrl+Enter.
+Infrastructure of the future. How EGAP Program builds a digital education ecosystem in Ukraine
+and activate your subscription.
+"Absolute crap." European Commission officials have criticized the alternative to Microsoft Teams
+Britain is in talks with Germany about jointly developing the GCAP fighter jet
+From ruins to boutique hotel: Why an investor is pouring €15 million into a 300-year-old palace
+Bila Tserkva Starts Construction of Housing Quarter for Mariupol IDPs with 1,187 Apartments
+Privacy and personal data protection policy
+Terms and conditions of the offer contract
+Materials with Ⓡ, Ⓟ, Company News, The School of Business, Press Release, as well as materials of the press center of LIGABusinessInform are published on the basis of advertising. The online media is intended for individuals over the age of 21.
+PARTNERSHIP PROJECT is a marking for paid materials created by LIGA.net in partnership with a customer. Texts and layout are prepared by the LIGA.net native content department.
+SPECIAL PROJECT is a marking for articles published as advertising. Texts are created by the LIGA.net native content department or provided by the advertiser. Until 1.07.2024, such materials were labeled as SUPPORTED BY.
+© Information agency LIGABusinessInform
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Dangerous software found on tankers seized by the US | Ukrainian News | LIGA.net
+Responsible quality journalism
+PRO subscription
+liga.net
+theme
+EN
+RU
+UA
+PRO subscription
+Enter
+Burger menu
+Search on the site
+search-icon
+home-icon
+News
+Analytics
+Business
+Finance
+Tech
+Life
+Opinions
+Special projects
+Infographics
+fan-shop
+J_3000 AI
+...
+searc-big-icon
+Search on the site
+search-big-icon-popup
+Home
+Business
+Transport
+WSJ: Software for remote control and data erasure discovered on shadow fleet vessels
+Share
+WSJ: Software for remote control and data erasure discovered on shadow fleet vessels
+Tankers carrying sanctioned cargo from Russia and Iran use systems that pose a risk of explosion or oil spill
+Vira Kasiyan
+LIGA.net news editor
+June 16, 16:01
+Photo: Vesselfinder
+Programs for remote access to ship systems and even attempts to remotely delete data were discovered on tankers of the so-called shadow fleet, which transport sanctioned oil from Russia and Iran, after the ships were detained by American security forces. About this
+writes
+The Wall Street Journal.
+This is an investigation based on materials from the US Coast Guard's cyber units, which investigated
+captivated
+or detained tankers.
+The vast majority of the world's shadow fleet tankers belong to Russia. The aggressor country uses this network to circumvent Western sanctions and export oil. Attacks on such vessels could increase pressure on one of the key sectors that finances the war against Ukraine. That,
+how exactly does the West plan to strike at the Russian "shadow fleet"?
+and turn Russian oil money into aid to Ukraine, – read the analysis on
+LIGA.net
+.
+"We have long known that the Shadow Fleet is a significant physical threat because they
+operate old ships
+" by not maintaining them properly. But until these inspections, we didn't know exactly what cyber threats were hidden aboard these vessels," said Rear Admiral Jason Tama, head of the US Coast Guard Cyber Command.
+It turns out that ships are often equipped with communication systems that provide a constant connection to the Internet. Remote desktop access programs, such as AnyDesk and TeamViewer, are also used. This allows tanker owners and operators to remotely intervene in the operation of ship systems.
+In addition, instructions for falsifying GPS data, modified network cables and equipment for transmitting false coordinates, and several AIS (Automatic Identification System) systems that allowed ships to broadcast various identification data were discovered.
+The most disturbing episode, according to the WSJ, was an attempt by administrators of one of the ships to remotely delete data after US representatives boarded it.
+Pirated software infected with malware has been found on some tankers. The infected computers are connected to the ship's critical operating and navigation systems.
+"For a ship carrying tens of millions of gallons of crude oil, which is very volatile, there is always a risk of fire and explosion. The atmosphere in the tanks needs to be very carefully controlled to prevent fire and explosion. And there is always a risk of oil spills," Tama explained.
+The WSJ report suggests that the shadow fleet is not just a collection of old tankers that help circumvent sanctions. According to US intelligence, it is a well-organized system with elements of cyber manipulation, remote control, and evidence concealment.
+The publication of this data, the publication notes, should encourage US allies to tighten control over such vessels. Some countries, in particular France,
+Great Britain
+and Germany have already begun to more actively inspect tankers involved in the transportation of sanctioned oil.
+Russians use shadow fleet to circumvent sanctions
+sell resources
+and use the funds received for the war against Ukraine. At the same time, against the backdrop of the conflict in the Middle East, Moscow got a chance to make money on oil due to rising prices. In return, Ukrainian defenders
+successfully beat
+on the economic and military infrastructure in the aggressor country. On why, despite the situation with Iran, the Russian economy is still weakening,
+we explain here
+.
+This is a machine translation of the original article in Ukrainian. It may contain errors.
+Actual
+updated
+Russia struck the Southern Bridge in Kyiv, traffic stopped
+October 1
+Business
+EBRD to Increase Loan to Kyiv to Fund Metro
+September 30
+Business
+BMW plans to cut 20% of its management staff using AI
+September 30
+Business
+Kyivpastrans to Purchase Mobile Shelters: Tender Announced
+September 28
+Business
+Europe's largest automaker is recalling nearly 3 million cars due to steering problems
+September 26
+Business
+If you notice a spelling error, select it with the mouse and press Ctrl+Enter.
+Infrastructure of the future. How EGAP Program builds a digital education ecosystem in Ukraine
+Partner project
+Comments (
+0
+)
+To join the discussion,
+log in to your account
+and activate your subscription.
+Popular
+"Absolute crap." European Commission officials have criticized the alternative to Microsoft Teams
+3 892
+Britain is in talks with Germany about jointly developing the GCAP fighter jet
+1 078
+From ruins to boutique hotel: Why an investor is pouring €15 million into a 300-year-old palace
+1 056
+Russia struck the Southern Bridge in Kyiv, traffic stopped
+925
+Bila Tserkva Starts Construction of Housing Quarter for Mariupol IDPs with 1,187 Apartments
+847
+Disable ads
+Infrastructure of the future. How EGAP Program builds a digital education ecosystem in Ukraine
+Partner project
+footer-logo
+fb
+inst
+twiter-x
+threads
+tg
+wa
+youtube
+tik-tok
+PRO subscription
+News
+Politics
+Society
+World
+Kyiv
+Regional News
+Other news
+Business
+Economics
+Persons
+Ideas and Cases
+Company news
+Finance
+Company news
+Tech
+Technology
+Telecom
+Gadgets
+In Ukraine
+Startups
+Other
+Company news
+Life
+Stories
+Advice
+Explanations
+Entertainment
+Recipes
+Special projects
+Opinions
+iGaming
+Contacts
+Advertising
+Terms of use of materials
+Editorial Code
+Authors
+Editorial staff
+Archive
+RSS feed
+Privacy and personal data protection policy
+Terms of use
+Terms and conditions of the offer contract
+Materials with Ⓡ, Ⓟ, Company News, The School of Business, Press Release, as well as materials of the press center of LIGABusinessInform are published on the basis of advertising. The online media is intended for individuals over the age of 21.
+PARTNERSHIP PROJECT is a marking for paid materials created by LIGA.net in partnership with a customer. Texts and layout are prepared by the LIGA.net native content department.
+SPECIAL PROJECT is a marking for articles published as advertising. Texts are created by the LIGA.net native content department or provided by the advertiser. Until 1.07.2024, such materials were labeled as SUPPORTED BY.
+© Information agency LIGABusinessInform
+2007–2026
+Online media entity;
+media identifier - R40-06105
+jti

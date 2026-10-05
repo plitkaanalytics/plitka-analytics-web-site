@@ -1,0 +1,269 @@
+URL:         https://cepa.org/article/why-do-seized-russian-tankers-sail-away/
+Кінцевий:    https://cepa.org/article/why-do-seized-russian-tankers-sail-away/
+Заголовок:   Why Do Seized Russian Tankers Sail Away?
+Дата публ.:  2026-06-17
+Завантажено: 2026-10-05 10:09 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 169638
+Оригінал:    raw/58-cepa.org-why-do-seized-russian-tankers-sail-away.html
+sha256:      ac0e3c12aad94fdc70a2f22c0e8d49da7ae1f3cdf1f409d3b9a856b65abcbb71
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 21
+==============================================================================
+Why Do Seized Russian Tankers Sail Away? - CEPA
+Transatlantic Tech Policy Tracker
+Transatlantic Defense and Security
+Why Do Seized Russian Tankers Sail Away?
+French, British, Swedish, and Finnish boarding parties have taken control of shadow fleet vessels, with most freed shortly afterwards.
+Sign up to receive regular emails and stay informed about CEPA's work.
+By CEPA International Leadership Council
+Building a future-capable force.
+FSB Focuses Crosshairs on Russian Exiles
+The Kremlin’s campaign to harass, intimidate, and murder opponents takes another major step back to the days of Stalin.
+By Andrei Soldatov and Irina Borogan
+How to Defeat Russia’s Shadow War
+The Kremlin-directed attacks on Europe are a sign of weakness. Europe must craft a robust new response to raise the pressure on Russia.
+By Maksym Beznosiuk and William Dixon
+On a Train Under Russian Attack
+I was on a train heading for Poland when Russian drones attacked, writes CEPA Fellow Mitzi Perdue. The strikes came shortly after a Kremlin threat to target railroads carrying foreign visitors.
+Estonian authorities detained an oil tanker which forms part of Russia's "shadow fleet" and which had been sailing through Estonian waters in the Gulf of Finland. The vessel Kiwala is not permitted to sail on the open seas.
+Credit: Photo Eero Vabamägi, Postimees via Reuters
+1275 Pennsylvania Ave NW, Suite 400,
+© 2026 Center for European Policy Analysis. All rights reserved.
+Sign up to receive regular emails to stay informed about CEPA’s work.
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Why Do Seized Russian Tankers Sail Away? - CEPA
+Geopolitics
+Technology
+Defense Tech
+Insights & Analysis
+Latest Commentary
+Comprehensive Reports
+Podcasts
+The CEPA Podcast
+Inside Cyber Diplomacy Redux
+Events
+All Events
+CEPA Honors
+Transcripts
+About
+People
+Our Fellows
+Our Team
+Leadership & Governance
+Issues
+Security and Defense
+Authoritarian Threats
+Behind the Lines
+Behind the Lines Tracker
+Technology and Innovation
+Transatlantic Tech Policy Tracker
+Democracy
+Programs
+Democratic Resilience
+Transatlantic Defense and Security
+Tech Policy Program
+Defense Tech Initiative
+Supporters
+Work With Us
+Contact
+CEPA Washington DC HQ
+CEPA Europe
+CEPA Brussels
+CEPA London
+Support Now
+Search
+Geopolitics
+Technology
+Defense Tech
+Insights & Analysis
+Latest Commentary
+Comprehensive Reports
+Podcasts
+The CEPA Podcast
+Inside Cyber Diplomacy Redux
+Events
+All Events
+CEPA Honors
+Transcripts
+About
+People
+Our Fellows
+Our Team
+Leadership & Governance
+Issues
+Security and Defense
+Authoritarian Threats
+Behind the Lines
+Behind the Lines Tracker
+Technology and Innovation
+Transatlantic Tech Policy Tracker
+Democracy
+Programs
+Democratic Resilience
+Transatlantic Defense and Security
+Tech Policy Program
+Defense Tech Initiative
+Supporters
+Work With Us
+Contact
+CEPA Washington DC HQ
+CEPA Europe
+CEPA Brussels
+CEPA London
+Support Now
+Insights & Analysis
+Article
+Why Do Seized Russian Tankers Sail Away?
+French, British, Swedish, and Finnish boarding parties have taken control of shadow fleet vessels, with most freed shortly afterwards.
+By
+Miro Sedlák
+June 17, 2026
+Royal Marines fast-roped from helicopters onto the deck and took control of the shadow fleet tanker
+Smyrtos
+as it passed through the English Channel on June 14, in the UK’s
+first such operation
+. It is now
+held off Portland
+, watched for environmental and safety risks. The captain has been
+charged
+with evading sanctions.
+But the vessel and the 100,000 tons of crude oil it carries (with a value of at least $40m) are only being held for now. The ship is likely to be back at sea soon. That has been the shape of almost every one of these operations, with the Smyrtos being only the latest.
+Just two weeks earlier, on May 31, French commandos descended from a navy helicopter onto the deck of the
+Tagor
+, a sanctioned tanker more than 400 nautical miles west of Brittany. French President Emanuel Macron posted the footage the next day, and Paris framed it as a resolution: the
+fourth interception
+of a Russia-linked tanker since the autumn.
+The legal trigger in both cases was a flag check. Under
+Article 110
+of the Law of the Sea, a warship may board a vessel it reasonably suspects of sailing without a valid flag. French authorities also said the
+Tagor
+was suspected of falsely flying the Cameroonian colors. The boarding team confirmed the irregularity and referred the case to the prosecutor in Brest.
+The
+same logic
+applied to the
+Smyrtos
+. Cameroon had
+struck it from its registry
+days earlier, leaving it stateless, and a stateless ship can be boarded by any warship.
+Not sabotage, not sanctions-busting. A quarrel over nationality is the surest hook the law offers. The problem is that it’s a fairly small infraction, and that’s where the trouble starts.
+Before
+Tagor
+, France had boarded three other tankers. The
+Grinch
+was held for three weeks, paid a penalty of several million euros, and
+sailed
+.
+The hardest case, the
+Boracay
+, produced France’s most notable result so far: in March, a court in Brest
+convicted its captain in absentia
+to a year in prison, a €150,000 ($174,000) fine, and an arrest warrant for a man long gone. The ship was released within days and now carries Russian crude under a new name, the
+Phoenix
+.
+As for the
+Tagor
+, its captain was arrested, then
+released a day later
+by the Brest prosecutor, with the vessel left at anchor in a Breton Bay under an administrative order while France worked out who owns it.
+Finland went further than anyone. In December 2024, its border guards
+boarded
+a ship named
+Eagle S
+in the Gulf of Finland after a power cable to Estonia and four communication lines were cut. The case was easier in some respects because the vessel was taken inside territorial waters. A criminal case was launched, and the captain and two officers appeared in the dock.
+It failed at the first instance. Last October, the Helsinki District Court found the damage had been done in Finland’s economic zone, beyond its territorial limit. The court
+ruled
+that under the law of the sea, jurisdiction lay with the flag state or the crew’s home countries — the Cook Islands, Georgia, and India — not the coastal state that suffered the damage.
+Get the Latest
+Sign up to receive regular emails and stay informed about CEPA's work.
+Email
+Submit
+Δ
+Finland was left to cover the defendants’
+legal costs
+. The prosecutor has appealed, and legal commentators argue a higher court may yet read the Convention
+more pragmatically
+. But the first-instance signal is already out.
+This is the pattern Europe is settling into: a dramatic boarding complete with media-friendly footage of elite personnel storming the bridge, a narrow legal basis, and not much else.
+Article 110 gives a legal cause to act, but it does not give the right to confiscate a ship or try its crew. That would require a jurisdictional claim that the flag state and the crew’s governments will not contest. Flags of convenience are designed to muddy legal waters and very often to evade regulation.
+None of this makes the boardings pointless. They expose forged papers and raise the cost of doing business, and they tell Moscow that someone is watching. But they are a tactical rather than a strategic measure. Brussels has now
+listed 632 shadow-fleet vessels
+and barred them from European ports and services.
+Russia, though, still earns more than
+€10bn
+a month from oil exports, revenue that vessel listings alone have not yet meaningfully cut.
+The significance is about more than oil. The same legal loophole that lets a boarded tanker sail free also protects the next vessel that idles beside the cables and pipelines the Baltic and North Sea economies depend on.
+Deterrence at sea has always rested on consequence. And there is no consequence here that a registry on the far side of the world cannot wave away.
+There are alternative tools available. The Baltic Sea, for example, is what the International Maritime Organization, the UN’s shipping regulator, calls a
+particularly sensitive sea area
+.
+That status allows littoral states to apply tougher rules than international law allows elsewhere: tankers can be instructed to steer clear of cables, can be more closely inspected, and detained when unseaworthy. It works on environmental and safety grounds, without needing to prove sanctions-busting or sabotage.
+This is a lever Europe has not pulled (some of the Baltic littoral states are
+deeply fearful
+of the Russian response). What is missing is the will to build durable legal grounds for condemning these vessels and their cargo, one that does not stop at adding hulls to a list. Sanctioning ships (as the UK did again
+on June 16
+) makes little difference unless you hold onto them and remove them from the game.
+Until that changes, the footage will keep arriving. A commando on a tanker deck is a powerful image. Moscow can live with images.
+Miro Sedlák is an associate research fellow at the Institute for Central Europe and a doctoral candidate in security and defense studies at the Armed Forces Academy of General M. R. Štefánik in Slovakia.
+Europe’s Edge
+is CEPA’s online journal covering critical topics on the foreign policy docket across Europe and North America. All opinions expressed on Europe’s Edge are those of the author alone and may not represent those of the institutions they represent or the Center for European Policy Analysis.
+CEPA maintains a strict intellectual independence policy across all its projects and publications.
+Comprehensive Report
+Unleashing Defense Innovation
+By CEPA International Leadership Council
+Building a future-capable force.
+May 5, 2026
+Learn More
+Europe's Edge
+CEPA’s online journal covering critical topics on the foreign policy docket across Europe and North America.
+Read More
+Related Articles
+September 30, 2026
+FSB Focuses Crosshairs on Russian Exiles
+The Kremlin’s campaign to harass, intimidate, and murder opponents takes another major step back to the days of Stalin.
+By Andrei Soldatov and Irina Borogan
+September 18, 2026
+How to Defeat Russia’s Shadow War
+The Kremlin-directed attacks on Europe are a sign of weakness. Europe must craft a robust new response to raise the pressure on Russia.
+By Maksym Beznosiuk and William Dixon
+September 15, 2026
+On a Train Under Russian Attack
+I was on a train heading for Poland when Russian drones attacked, writes CEPA Fellow Mitzi Perdue. The strikes came shortly after a Kremlin threat to target railroads carrying foreign visitors.
+By Mitzi Perdue
+Related Issue Tags
+Hybrid Threats
+Russia
+Image Credit
+Photo: Rohuneeme.
+Estonian authorities detained an oil tanker which forms part of Russia's "shadow fleet" and which had been sailing through Estonian waters in the Gulf of Finland. The vessel Kiwala is not permitted to sail on the open seas.
+Credit: Photo Eero Vabamägi, Postimees via Reuters
+Quick Links
+Issues
+Experts
+Events
+Insights & Analysis
+About CEPA
+Privacy Policy
+Contact
+CEPA HQ
+1275 Pennsylvania Ave NW, Suite 400,
+Washington, DC 20004
+Email:
+info@cepa.org
+Office:
++1.202.961.2691
+Press:
++1.202.664.6506
+Follow
+© 2026 Center for European Policy Analysis. All rights reserved.
+Get the Latest
+Sign up to receive regular emails to stay informed about CEPA’s work.
+Email
+Submit
+Δ
+×

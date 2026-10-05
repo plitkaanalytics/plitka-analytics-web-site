@@ -1,0 +1,205 @@
+URL:         https://media.defcon.org/DEF%20CON%2033/
+Кінцевий:    https://media.defcon.org/DEF%20CON%2033/
+Заголовок:   From Shanghai to the Shore: The Silent Threat in Global Shipping (Miltenberger, Fredericksen, DEF CON 33)
+Дата публ.:  2025-08
+Завантажено: 2026-10-02 09:00 UTC
+HTTP:        —   Тип: application/pdf   Байтів: 5175281
+Оригінал:    raw/35-defcon33-from-shanghai-to-the-shore.pdf
+sha256:      bc784369af635e96e91e9738b29f22b949fedad6f4f5e7106b12921f0501cb90
+Витяг:       pdftotext
+Примітка:    скачано редакцією вручну; точний URL файлу не збережено
+
+==============================================================================
+`
+
+                  From Shanghai to the Shore:
+                  The Silent Threat in Global Shipping
+
+Kenny Miltenberger                      Nick Fredericksen
+Lieutenant Commander, U.S. Coast Guard  Lieutenant Commander, U.S. Coast Guard
+2003 Cyber Protection Team              1790 Cyber Protection Team
+
+                                                                                1
+Agenda
+
+• # whoami’s
+• US Coast Guard & Cyber 101
+• Cranes Manufactured in China
+
+   • Why they're important.
+   • What they are.
+   • What we've done to protect them.
+
+                                                                                                                                                                                                                                   2
+# whoami’s
+
+            Kenny  Nick
+The U.S. Coast Guard does cyber?
+
+                           Source: The Claw of Knowledge:
+
+                                                                                                                                                                                                4
+U.S. Coast Guard Overview
+
+                                                                                                                                              5
+And we do cyber!
+
+                                                         Source: The Claw of Knowledge:
+Protecting National Critical Infrastructure
+
+Aviation                                     Highway and
+                                             Motor Carrier
+
+Mass Transit and  Pipeline Systems
+Passenger Rail
+
+                  Postal and Shipping
+
+Freight Rail
+
+                  Marine Transportation
+                  System (MTS)
+U.S. Coast Guard Cyber Protection Teams
+
+                                                                                                                   Reserve
+Theory of the
+Case
+
+Ship-to-shore (STS) cranes manufactured in China
+present a risk to the Marine Transportation System
+(MTS).
+
+       • The U.S. is dependent on cranes
+          manufactured by a Chinese state-owned
+          enterprise which could present a significant
+          supply chain risk.
+
+       • Extensive analysis conducted by Coast
+          Guard Cyber Protection Teams (CPTs) has
+          revealed vulnerabilities that may enable a
+          malicious cyber actor the ability to disrupt
+          port operations.
+Chinese Manufactured
+Cranes
+Why cranes?
+
+• 70% of non-bulk cargo is moved by
+   containers.
+
+• Over 70% of the world’s ship to shore
+   cranes are made by Shanghai Zhenhua
+   Heavy Industries (ZPMC), a Chinese
+   State-Owned Enterprise (SOE).
+
+• ZPMC accounts for over 80% of STS
+   cranes in the U.S.
+
+• Congressional interest:
+      • March 2024
+      • September 2024
+ZPMC Cranes
+in the US
+
+                                                                                                                                                                                                                                                 12
+Supply Chain Risks
+
+• Chinese State-Owned Enterprise (SOEs)
+• Previous Supply Chain Attacks
+
+     • Solarwinds (2020)
+     • Cisco Equipment (2014-2022)
+• Huawei & Salt Typhoon
+• Potential impact to cranes
+Ok, so what are we doing
+         about it?
+USCG Cyber Protection
+Team Chinese Crane
+Missions
+
+• Hundreds of days sensored on cranes
+  across multiple ports
+
+• More time spent analyzing crane data
+  than any other federal agency.
+
+                                                                                                                                                                                                                      15
+Parts of an
+STS Crane
+Modern Crane
+Features
+
+• Features:
+     • Assisted Control Systems
+     • Optical Character Recognition
+     • Remote Control
+     • Autonomous Cranes
+
+• Protocols:
+     • PROFINET
+     • Link Layer Discovery Protocol (LLDP)
+Logical
+Structure of
+a Crane
+PROFINET
+
+                         Wireshark view of a PROFINET frame from a ZPMC Crane
+Most Common Findings
+
+                                                                                                                                                                                                                                   20
+  Improper
+   network
+segmentation
+Legacy
+Protocols
+
+• Telnet
+
+• SMBv1
+
+• LLMNR
+
+           Source: Countering Password Stealing Attacks - Replace telnet with SSH.
+
+                                                                                                                      22
+End-of-Life OS
+
+                                                                                                                                                           23
+Shared Accounts
+
+     Creds to Shared Account
+Cellular Modems
+
+This was us!
+Where we
+  found
+ cellular
+
+modems.
+Attack Paths
+
+Initial Access    Lateral    Privilege   Effects
+                Movement   Escalation &
+                           Persistence
+Potential Cyber Effects
+
+                                                       Physical Disruption
+
+Impact                          Ransomware/Denial-of-
+                                Service
+
+        Data Exfiltration and
+        Manipulation/Espionage
+
+                                Complexity
+Malicious Cyber Activity
+
+                          Source: AI Generated
+Best Practices
+
+• Scrutinize contract language.
+• Restrict remote access.
+• Standard enterprise cybersecurity
+
+  best practices!
+Thank you!
+

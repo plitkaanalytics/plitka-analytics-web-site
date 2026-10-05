@@ -1,0 +1,20 @@
+URL:         https://theins.press/en/news/290909
+Кінцевий:    https://theins.press/en/news/290909
+Заголовок:   Chinese captain of Russian “shadow fleet” tanker Boracay sentenced to 1 year in prison in France
+Дата публ.:  2026-03-30
+Завантажено: 2026-10-02 08:06 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 131604
+Оригінал:    raw/23-theins.press-290909.html
+sha256:      3e4fd6a639c6858d17ccd07d93abe143db8bfa769ac3609ee2e7f28f4d303c90
+Витяг:       trafilatura
+
+==============================================================================
+A French court has sentenced the Chinese captain of the Russian “shadow fleet” tanker *Boracay *(IMO 9332810) to one year in prison without parole and imposed a fine of 150,000 euros, according to a [report](https://www.bfmtv.com/international/asie/russie/le-commandant-d-un-petrolier-de-la-flotte-fantome-russe-condamne-a-un-an-de-prison-ferme-en-france_AD-202603300563.html) by French outlet *BFM*.
+
+The 39-year-old Chen Zhangjie was convicted under a charge of refusing to comply with lawful orders from the authorities. The sentence matched the position taken by prosecutors at a hearing on Feb. 23.
+
+The incident in question took place on Sept. 27, 2025 in international waters off the island of Ushant in the Atlantic. French military personnel stopped the tanker, which was sailing without a visible flag, but the captain refused to allow unimpeded access for an inspection. According to deputy prosecutor Gabriel Rollin, that refusal forced the sailors to carry out “a dangerous maneuver capable of causing an accident.” Two employees of a Russian private security company — the Moran Security Group — [were on board](https://theins.press/en/news/289685), reportedly to monitor the crew and gather intelligence.
+
+The tanker, which was carrying Russian oil to India despite being under sanctions, had been flying the false flag of Benin. The vessel was also suspected of involvement in drone launches that disrupted operations at Danish airports in September 2025 (though that episode was not part of the French court’s proceedings). The captain’s lawyer argued that the case did not fall under French jurisdiction, asserting that under the UN Convention on the Law of the Sea (UNCLOS), an incident in international waters should be handled by a Chinese court. The French court rejected those arguments. The tanker, now renamed *Phoenix*, is currently sailing under a Russian flag.
+
+The tanker involved in the incident has repeatedly changed its name and flag, a standard practice used by Russia’s “shadow fleet” to make both the vessel and its owners harder to track. In April 2025, the same ship, then named *Kiwala *and sailing under the flag of Djibouti, was temporarily [detained](https://theins.press/en/news/280472) by Estonian authorities after it was found not to be listed in any registry. It then re-registered under the flag of Benin and changed its name to *Boracay* before being [detained](https://theins.press/en/news/285457) by France in the English Channel in September.
