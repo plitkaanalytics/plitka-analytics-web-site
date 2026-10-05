@@ -473,10 +473,16 @@ export default function Page() {
           перебуває насправді.
         </p>
 
-        <figure
-          className="fig"
-          data-placeholder="СКРІНШОТ ПРОДУКТУ PLITKA: зафіксований випадок підміни AIS судном флоту РФ (заявлена позиція проти фактичної). Назва судна й дата у підписі. Файл латиницею в public/articles/peremykach-ais/, напр. plitka-ais-spoofing.png."
-        />
+        <figure className="fig">
+          <img
+            src="/articles/peremykach-ais/ais-only-near-shore.jpg"
+            alt="Супутникова карта Данії з маршрутом судна: точки AIS є лише в протоках Скагеррак, Каттегат і Ересунн, між ними довгі прямі відрізки без сигналу; спливне вікно з даними судна Baltic Leader"
+          />
+          <figcaption>
+            «Балтик Лідер» обходить Данію 2 жовтня 2026 року: сигнал AIS є лише
+            в протоках і біля чужих берегів. Дані PLITKA Analytics.
+          </figcaption>
+        </figure>
 
         <p>
           Брехню в AIS може помітити кожен, хто вміє дивитися. Але є й закритий
