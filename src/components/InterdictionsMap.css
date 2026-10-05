@@ -7,7 +7,7 @@
 
 .imap__track {
   position: relative;
-  height: 380vh;
+  height: 280vh;
 }
 
 .imap__sticky {
@@ -230,7 +230,7 @@
 
 @media (max-width: 700px) {
   .imap__track {
-    height: 320vh;
+    height: 240vh;
   }
   .imap__date {
     font-size: 22px;
