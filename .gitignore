@@ -40,6 +40,17 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
+# python (harvest.py та інші скрипти в scripts/)
+__pycache__/
+*.py[cod]
+
+# obsidian: робочий стан редактора всередині тек досьє
+.obsidian/
+
+# архіви: розпаковане вже в git, сам архів — ні
+*.rar
+*.zip
+
 # local tooling / scratch
 /.claude/*
 !/.claude/skills/
