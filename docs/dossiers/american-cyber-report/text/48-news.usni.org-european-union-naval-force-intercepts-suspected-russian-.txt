@@ -1,0 +1,13 @@
+URL:         https://news.usni.org/2026/09/02/european-union-naval-force-intercepts-suspected-russian-shadow-fleet-tanker
+Кінцевий:    https://news.usni.org/2026/09/02/european-union-naval-force-intercepts-suspected-russian-shadow-fleet-tanker
+Заголовок:   Just a moment...
+Дата публ.:  2026-09-02
+Завантажено: 2026-10-05 10:08 UTC
+HTTP:        403   Тип: text/html; charset=UTF-8   Байтів: 5981
+Оригінал:    raw/48-news.usni.org-european-union-naval-force-intercepts-suspected-russian-.html
+sha256:      0e44e72da35f524ad45c5b753c29f54abc1b92a6d16d5e01fc0c4692e86a7f5c
+Витяг:       bs4-full
+Примітка:    оригінал 403; знімок Wayback теж не взявся (429)
+
+==============================================================================
+Just a moment...

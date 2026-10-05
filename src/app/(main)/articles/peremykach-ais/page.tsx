@@ -9,6 +9,7 @@ import {
 } from "@/lib/articles";
 import IfArticleVisible from "@/components/IfArticleVisible";
 import ArticleHead from "@/components/ArticleHead";
+import InterdictionsMap from "@/components/InterdictionsMap";
 
 const SLUG = "peremykach-ais";
 
@@ -158,11 +159,45 @@ export default function Page() {
           .
         </p>
 
+        <InterdictionsMap
+          caption={
+            <>
+              Затримання, огляди й невдалі спроби затримати судна тіньового
+              флоту у 2025–2026 роках. Місця приблизні. Джерела:{" "}
+              <a className="ref" href="#ref-8">
+                [8]
+              </a>
+              <a className="ref" href="#ref-9">
+                [9]
+              </a>
+              <a className="ref" href="#ref-10">
+                [10]
+              </a>
+              <a className="ref" href="#ref-11">
+                [11]
+              </a>
+              <a className="ref" href="#ref-12">
+                [12]
+              </a>
+              <a className="ref" href="#ref-13">
+                [13]
+              </a>
+              <a className="ref" href="#ref-14">
+                [14]
+              </a>
+              <a className="ref" href="#ref-5">
+                [5]
+              </a>
+              .
+            </>
+          }
+        />
+
         <p>
           Те, що на ці судна разом з озброєними спецпризначенцями заходять
           кібергрупи Берегової охорони, раніше не афішувалося
-          <a className="ref" href="#ref-8">
-            [8]
+          <a className="ref" href="#ref-15">
+            [15]
           </a>
           . Кіберкомандування виділило з груп кіберзахисту окремі команди
           кіберконтролю, Cyber Control Teams, і вперше відправило їх на борт
@@ -192,8 +227,8 @@ export default function Page() {
             суті теж є полем операцій, то ми зрозуміли, що для захоплення судна
             мало взяти під контроль його фізичне середовище. Те саме треба
             зробити й у кіберпросторі
-            <a className="ref" href="#ref-9">
-              [9]
+            <a className="ref" href="#ref-16">
+              [16]
             </a>
           </p>
           <p className="qtbox__src">
@@ -218,8 +253,8 @@ export default function Page() {
           на старих суднах і не обслуговують їх. Але чого ми не знали до цих
           висадок, так це які кіберризики є на борту», — сказав Тама виданню The
           Wall Street Journal
-          <a className="ref" href="#ref-10">
-            [10]
+          <a className="ref" href="#ref-17">
+            [17]
           </a>
           .
         </p>
@@ -233,8 +268,8 @@ export default function Page() {
           </a>
           . The Wall Street Journal пише, що в основному це були судна з
           іранською й російською нафтою
-          <a className="ref" href="#ref-10">
-            [10]
+          <a className="ref" href="#ref-17">
+            [17]
           </a>
           .
         </p>
@@ -331,8 +366,8 @@ export default function Page() {
           з оперативної політики, розповів The Wall Street Journal про судно,
           яке за своїм сигналом стояло біля Кюрасао, а насправді було біля
           берегів Венесуели й везло туди нафту
-          <a className="ref" href="#ref-11">
-            [11]
+          <a className="ref" href="#ref-18">
+            [18]
           </a>
           .
         </p>
@@ -344,8 +379,8 @@ export default function Page() {
           постачання «Академик Пашин». Перші два перебувають під санкціями,
           супроводжував їх фрегат «Адмирал Касатонов», а портом призначення
           судна заявили єгипетський Порт-Саїд
-          <a className="ref" href="#ref-12">
-            [12]
+          <a className="ref" href="#ref-19">
+            [19]
           </a>
           .
         </p>
@@ -359,8 +394,8 @@ export default function Page() {
           Мальти, а 11 травня конвой уже стояв у сирійському Тартусі. Що саме
           він привіз, невідомо, але «Спарта» давно працює на військову логістику
           Росії
-          <a className="ref" href="#ref-12">
-            [12]
+          <a className="ref" href="#ref-19">
+            [19]
           </a>
           .
           <IfArticleVisible slug="syriyskyi-ekspres">
@@ -377,12 +412,12 @@ export default function Page() {
           Роком раніше, у червні 2025 року, російський корвет «Бойкий» провів
           через Ла-Манш два санкційні танкери тіньового флоту, Sierra і Naxos,
           він же Selva
-          <a className="ref" href="#ref-13">
-            [13]
+          <a className="ref" href="#ref-20">
+            [20]
           </a>
           . Сам корвет водночас транслював через AIS чужу ідентифікацію
-          <a className="ref" href="#ref-14">
-            [14]
+          <a className="ref" href="#ref-21">
+            [21]
           </a>
           .
         </p>
@@ -397,14 +432,14 @@ export default function Page() {
           7–19 лютого показували курс 267–268 градусів, а причал у Феодосії
           орієнтований на 267,5 градуса. Жодне інше судно поблизу такого курсу
           стабільно не передавало
-          <a className="ref" href="#ref-15">
-            [15]
+          <a className="ref" href="#ref-22">
+            [22]
           </a>
           . Колишній офіцер ВМС США Чарлі Браун, з яким Bellingcat поділився
           методом, назвав його слушним, але нагадав, що деякі компаси теж можуть
           бути вразливі, тож дані треба звіряти з іншими джерелами
-          <a className="ref" href="#ref-15">
-            [15]
+          <a className="ref" href="#ref-22">
+            [22]
           </a>
           .
         </p>
@@ -460,8 +495,8 @@ export default function Page() {
         <p>
           Кожне судно за життя має один номер Міжнародної морської організації,
           IMO, а назву й прапор може міняти скільки завгодно
-          <a className="ref" href="#ref-16">
-            [16]
+          <a className="ref" href="#ref-23">
+            [23]
           </a>
           . Прапор означає реєстрацію в певній державі, і саме держава прапора
           відповідає за те, щоб судно дотримувалося правил, від санкцій до
@@ -477,18 +512,18 @@ export default function Page() {
           жодному реєстрі, звався Kiwala й ішов під прапором Джибуті. Потім він
           став Boracay під фальшивим прапором Беніну, і вже під цим іменем його
           у вересні 2025 року зупинили французькі військові
-          <a className="ref" href="#ref-17">
-            [17]
+          <a className="ref" href="#ref-24">
+            [24]
           </a>
           . У частині суднових баз він значиться ще й як Pushpa
-          <a className="ref" href="#ref-16">
-            [16]
+          <a className="ref" href="#ref-23">
+            [23]
           </a>
           . Нові імена, за словами контр-адмірала Барати, власники тіньового
           флоту часто беруть у суден, які вже пішли на злам. Так у нового імені
           є хоча б якийсь цифровий слід
-          <a className="ref" href="#ref-11">
-            [11]
+          <a className="ref" href="#ref-18">
+            [18]
           </a>
           .
         </p>
@@ -553,21 +588,21 @@ export default function Page() {
           Коли фальшивий прапор перестав захищати, частина флоту знайшла інший
           щит. Танкер Bella 1 ішов під прапором Гаяни, хоча Гаяна вже скасувала
           його реєстрацію
-          <a className="ref" href="#ref-18">
-            [18]
+          <a className="ref" href="#ref-25">
+            [25]
           </a>
           . У грудні 2025 року він почав тікати від Берегової охорони США, і
           дорогою екіпаж перейменував його на Marinera, намалював на борту
           російський прапор, а судно перереєстрували на Росію. Москва надіслала
           Вашингтону дипломатичну ноту з вимогою припинити переслідування
-          <a className="ref" href="#ref-19">
-            [19]
+          <a className="ref" href="#ref-26">
+            [26]
           </a>
           . За даними The Wall Street Journal, які наводить USNI News, танкер
           отримав супровід російського флоту зі щонайменше одним ударним
           підводним човном
-          <a className="ref" href="#ref-20">
-            [20]
+          <a className="ref" href="#ref-27">
+            [27]
           </a>
           .
         </p>
@@ -576,23 +611,23 @@ export default function Page() {
           7 січня 2026 року за 190 миль на південь від Ісландії команда
           Берегової охорони разом зі спецпризначенцями захопила танкер. США
           визнали його судном без національності
-          <a className="ref" href="#ref-19">
-            [19]
+          <a className="ref" href="#ref-26">
+            [26]
           </a>
-          <a className="ref" href="#ref-20">
-            [20]
+          <a className="ref" href="#ref-27">
+            [27]
           </a>
           . Британське міністерство оборони, яке допомагало операції, заявило,
           що судно спершу ходило під фальшивим прапором, вимикало транспондери й
           намагалося перереєструватися вже під час переслідування
-          <a className="ref" href="#ref-20">
-            [20]
+          <a className="ref" href="#ref-27">
+            [27]
           </a>
           . Професор міжнародного права Роб Маклафлін з австралійського
           Університету Вуллонгонга натомість писав у Just Security, що
           законність захоплення сумнівна, якщо російська реєстрація була чинною
-          <a className="ref" href="#ref-18">
-            [18]
+          <a className="ref" href="#ref-25">
+            [25]
           </a>
           .
         </p>
@@ -601,8 +636,8 @@ export default function Page() {
           Marinera була не одна. За даними Lloyd&apos;s List, які наводить CNN,
           лише за грудень 2025 року російський прапор узяли 17 танкерів
           тіньового флоту
-          <a className="ref" href="#ref-19">
-            [19]
+          <a className="ref" href="#ref-26">
+            [26]
           </a>
           . Ще 20 на початку лютого 2026 року за один тиждень перейшли з
           фальшивих прапорів у маловідомий, але легальний реєстр Камеруну
@@ -641,8 +676,8 @@ export default function Page() {
           перевірити документи, а піти на конфлікт із державою. З Marinera США
           пішли на це, оголосивши російську реєстрацію нечинною, і саме цей крок
           юристи вважають найвразливішим
-          <a className="ref" href="#ref-18">
-            [18]
+          <a className="ref" href="#ref-25">
+            [25]
           </a>
           . Колишній головний юрист Берегової охорони, контр-адмірал у відставці
           Вільям Баумгартнер, побоюється, що міцну досі правову основу затримань
@@ -724,8 +759,8 @@ export default function Page() {
           </a>
           , а The Wall Street Journal пише, що щонайменше одного разу це сталося
           вже після того, як на судно піднялися американці
-          <a className="ref" href="#ref-10">
-            [10]
+          <a className="ref" href="#ref-17">
+            [17]
           </a>
           . Через програму віддаленого доступу заходили на робочу станцію на
           судні, а звідти командами PowerShell заповнювали нулями жорсткі диски
@@ -749,8 +784,8 @@ export default function Page() {
           У грудні 2024 року танкер тіньового флоту <strong>Eagle S</strong> під
           прапором Островів Кука протягнув якір дном Фінської затоки й пошкодив
           п&apos;ять підводних кабелів, серед них енергоміст Estlink 2
-          <a className="ref" href="#ref-21">
-            [21]
+          <a className="ref" href="#ref-28">
+            [28]
           </a>
           . Його реєстратор даних рейсу, суднова «чорна скринька», не записав
           саме той момент, коли судно перетинало кабель. Проте судно вийшло
@@ -758,8 +793,8 @@ export default function Page() {
           не знайшло. Застарілий приймач GPS початку 2000-х, втрачаючи сигнал,
           скидав дату на 2005 рік, і реєстратор сам стирав файли, щоб звільнити
           місце
-          <a className="ref" href="#ref-22">
-            [22]
+          <a className="ref" href="#ref-29">
+            [29]
           </a>
           .
         </p>
@@ -876,8 +911,8 @@ export default function Page() {
           мільйонів галонів сирої нафти, завжди є ризик пожежі й вибуху.
           Атмосферою в танках треба дуже ретельно керувати. Завжди є ризик
           розливу нафти», — контр-адмірал Тама The Wall Street Journal
-          <a className="ref" href="#ref-10">
-            [10]
+          <a className="ref" href="#ref-17">
+            [17]
           </a>
           . Як приклад системи, від якої залежить безпека танкера, доповідачі
           наводять генератори інертного газу
@@ -898,15 +933,15 @@ export default function Page() {
           охолодження двигуна, підняли оберти й втрутилися в паливну систему, а
           зв&apos;язок пропав на 30 годин. США підтвердили лише ознаки зламу
           мережі, подробиць не розкривали
-          <a className="ref" href="#ref-23">
-            [23]
+          <a className="ref" href="#ref-30">
+            [30]
           </a>
           . 21 серпня на танкер піднялися правоохоронці й кібергрупа Берегової
           охорони разом із кібергрупою ФБР, а згодом агентства повідомили, що
           порушень роботи судна, загрози екіпажу чи довкіллю немає. Завдяки
           вчасній реакції загрозу вдалося усунути
-          <a className="ref" href="#ref-24">
-            [24]
+          <a className="ref" href="#ref-31">
+            [31]
           </a>
           .
         </p>
@@ -924,8 +959,8 @@ export default function Page() {
           На борту були двоє співробітників російської приватної охоронної
           компанії Moran Security Group, які, за повідомленнями, стежили за
           екіпажем і збирали розвідувальні дані
-          <a className="ref" href="#ref-17">
-            [17]
+          <a className="ref" href="#ref-24">
+            [24]
           </a>
           .
         </p>
@@ -937,21 +972,21 @@ export default function Page() {
           естонські води. Міністр оборони Фінляндії Антті Гяккянен тоді заявив,
           що танкери, які виходять з Росії Фінською затокою, супроводжуються
           військовими кораблями
-          <a className="ref" href="#ref-13">
-            [13]
+          <a className="ref" href="#ref-20">
+            [20]
           </a>
           . «Бойкий» провів танкери через Ла-Манш, «Адмирал Касатонов» вів
           конвой до Тартуса
-          <a className="ref" href="#ref-13">
-            [13]
+          <a className="ref" href="#ref-20">
+            [20]
           </a>
-          <a className="ref" href="#ref-12">
-            [12]
+          <a className="ref" href="#ref-19">
+            [19]
           </a>
           , а за Marinera, за даними The Wall Street Journal, ішов підводний
           човен
-          <a className="ref" href="#ref-20">
-            [20]
+          <a className="ref" href="#ref-27">
+            [27]
           </a>
           .
         </p>
@@ -1047,13 +1082,62 @@ export default function Page() {
               </a>
             </li>
             <li id="ref-8">
+              Wikipedia — «2025–2026 United States oil blockade of Venezuela»,
+              таблиця затримань, редакція на 05.10.2026.{" "}
+              <a href="https://en.wikipedia.org/wiki/2025%E2%80%932026_United_States_oil_blockade_of_Venezuela">
+                wikipedia.org
+              </a>
+            </li>
+            <li id="ref-9">
+              Wikipedia — «Russian shadow fleet», розділ про затримання суден,
+              редакція на 05.10.2026.{" "}
+              <a href="https://en.wikipedia.org/wiki/Russian_shadow_fleet">
+                wikipedia.org
+              </a>
+            </li>
+            <li id="ref-10">
+              The Maritime Executive — «Indian Coast Guard Busts Three
+              Iran-Linked Shadow Fleet Tankers», 08.02.2026.{" "}
+              <a href="https://maritime-executive.com/article/indian-coast-guard-busts-three-iran-linked-shadow-fleet-tankers">
+                maritime-executive.com
+              </a>
+            </li>
+            <li id="ref-11">
+              Army Recognition — «Italian Navy Boards Russian Shadow Fleet
+              Tanker During EU Sanctions Mission in Mediterranean», 2026.{" "}
+              <a href="https://www.armyrecognition.com/news/navy-news/2026/italian-navy-boards-russian-shadow-fleet-tanker-during-eu-sanctions-mission-in-mediterranean">
+                armyrecognition.com
+              </a>
+            </li>
+            <li id="ref-12">
+              The Moscow Times — «European Forces Intercept Russian
+              &lsquo;Shadow Fleet&rsquo; Tanker in Mediterranean», 31.08.2026.{" "}
+              <a href="https://www.themoscowtimes.com/2026/08/31/european-forces-intercept-russian-shadow-fleet-tanker-in-mediterranean-a93610">
+                themoscowtimes.com
+              </a>
+            </li>
+            <li id="ref-13">
+              Al Jazeera — «UK boards and seizes Russian shadow fleet tanker in
+              English Channel», 14.06.2026.{" "}
+              <a href="https://www.aljazeera.com/news/2026/6/14/uk-boards-and-seizes-russian-shadow-fleet-tanker-in-english-channel">
+                aljazeera.com
+              </a>
+            </li>
+            <li id="ref-14">
+              Windward — «Sweden Seizes Shadow Fleet Tanker Jin Hui»,
+              27.08.2026.{" "}
+              <a href="https://windward.ai/knowledge-base/sweden-seizes-shadow-fleet-tanker-jin-hui-the-false-flag-problem-is-bigger-than-one-ship/">
+                windward.ai
+              </a>
+            </li>
+            <li id="ref-15">
               DEF CON 34 — програма Main Stage, анонс доповіді «Taking on the
               Dark Fleet… in Cyberspace!» і біографії доповідачів, серпень 2026.{" "}
               <a href="https://defcon.org/html/defcon-34/dc-34-speakers.html">
                 defcon.org
               </a>
             </li>
-            <li id="ref-9">
+            <li id="ref-16">
               McCrary Institute, Cyber Focus Podcast №139 — «Boarding the Dark
               Fleet: Coast Guard Cyber and Maritime Security with RADM Jason
               Tama», 18.08.2026. Стенограма.{" "}
@@ -1061,7 +1145,7 @@ export default function Page() {
                 mccraryinstitute.com
               </a>
             </li>
-            <li id="ref-10">
+            <li id="ref-17">
               The Insider — «&ldquo;Shadow fleet&rdquo; vessels found to have
               remote control and data deletion software, which creates risk of
               explosion and oil spills, WSJ reports», 16.06.2026. Переказ статті
@@ -1070,7 +1154,7 @@ export default function Page() {
               15.06.2026.{" "}
               <a href="https://theins.press/en/news/293776">theins.press</a>
             </li>
-            <li id="ref-11">
+            <li id="ref-18">
               Spotmedia.ro — «Time bombs on the oceans: Dangerous technology on
               board tankers captured by the USA», 17.06.2026. Переказ статті The
               Wall Street Journal; слова контр-адмірала Барати в переказі.{" "}
@@ -1078,7 +1162,7 @@ export default function Page() {
                 spotmedia.ro
               </a>
             </li>
-            <li id="ref-12">
+            <li id="ref-19">
               The Maritime Executive, Peter Boerstling, Giangiuseppe Pili —
               «Russia&apos;s &ldquo;Syria Express&rdquo; Convoys May Be
               Combining Multiple AIS Tricks», 27.05.2026.{" "}
@@ -1086,53 +1170,53 @@ export default function Page() {
                 maritime-executive.com
               </a>
             </li>
-            <li id="ref-13">
+            <li id="ref-20">
               The Maritime Executive — «Russian Warship Spotted Escorting Two
               Inbound Stateless Tankers», 23.06.2025.{" "}
               <a href="https://maritime-executive.com/article/russian-warship-spotted-escorting-two-inbound-stateless-tankers">
                 maritime-executive.com
               </a>
             </li>
-            <li id="ref-14">
+            <li id="ref-21">
               Kyiv Post — «Russian Warship Masked Identity to Move Through
               English Channel», 24.06.2025.{" "}
               <a href="https://www.kyivpost.com/post/55116">kyivpost.com</a>
             </li>
-            <li id="ref-15">
+            <li id="ref-22">
               Bellingcat — «Heading Off: New Technique Helps Track Grain
               Smuggling Expansion to Libya», 12.06.2026.{" "}
               <a href="https://www.bellingcat.com/news/2026/06/12/shadow-fleet-russian-grain-stolen-ukraine-libya-ais-technique-grumant/">
                 bellingcat.com
               </a>
             </li>
-            <li id="ref-16">
+            <li id="ref-23">
               gCaptain (Reuters) — «France Probes Sanctioned Russian-Linked
               Tanker Off Atlantic Coast», 30.09.2025.{" "}
               <a href="https://gcaptain.com/france-probes-sanctioned-russian-linked-tanker-off-atlantic-coast/">
                 gcaptain.com
               </a>
             </li>
-            <li id="ref-17">
+            <li id="ref-24">
               The Insider — «Chinese captain of Russian &ldquo;shadow
               fleet&rdquo; tanker Boracay sentenced to 1 year in prison in
               France», 30.03.2026.{" "}
               <a href="https://theins.press/en/news/290909">theins.press</a>
             </li>
-            <li id="ref-18">
+            <li id="ref-25">
               Just Security, Rob McLaughlin, Conor McLaughlin — «Law of the Sea
               Assessment of the seizure of Bella 1 / Marinera», 14.01.2026.{" "}
               <a href="https://www.justsecurity.org/128760/law-sea-assessment-boarding-bella1-marinera/">
                 justsecurity.org
               </a>
             </li>
-            <li id="ref-19">
+            <li id="ref-26">
               CNN — «A painted flag, a Russian bluff and an 18-day chase across
               the Atlantic», 10.01.2026.{" "}
               <a href="https://www.cnn.com/2026/01/10/politics/a-painted-flag-a-russian-bluff-and-an-18-day-chase-across-the-atlantic">
                 cnn.com
               </a>
             </li>
-            <li id="ref-20">
+            <li id="ref-27">
               USNI News, Mallory Shelbourne, Sam LaGrone — «Coast Guard Seizes
               Russian-flagged Tanker in North Atlantic, Second Tanker in
               Caribbean», 07.01.2026.{" "}
@@ -1140,21 +1224,21 @@ export default function Page() {
                 news.usni.org
               </a>
             </li>
-            <li id="ref-21">
+            <li id="ref-28">
               Splash247, Sam Chambers — «Eagle S trial exposes voyage data
               recorder blackout during Baltic rampage», 27.08.2025.{" "}
               <a href="https://splash247.com/eagle-s-trial-exposes-voyage-data-recorder-blackout-during-baltic-rampage/">
                 splash247.com
               </a>
             </li>
-            <li id="ref-22">
+            <li id="ref-29">
               Helsinki Times — «Black box offline during cable damage by Russian
               tanker Eagle S», 26.08.2025.{" "}
               <a href="https://www.helsinkitimes.fi/finland/finland-news/domestic/27770-black-box-offline-during-cable-damage-by-russian-tanker-eagle-s.html">
                 helsinkitimes.fi
               </a>
             </li>
-            <li id="ref-23">
+            <li id="ref-30">
               CBS News — «Coast Guard, FBI boarded Texas-bound oil tanker after
               ship&apos;s network was potentially breached», 15.09.2026. Заяви
               іранських ЗМІ подано як непідтверджені.{" "}
@@ -1162,7 +1246,7 @@ export default function Page() {
                 cbsnews.com
               </a>
             </li>
-            <li id="ref-24">
+            <li id="ref-31">
               CyberScoop — «Coast Guard, FBI board US-bound foreign ships in
               order to probe for cyberattacks», 16.09.2026.{" "}
               <a href="https://cyberscoop.com/coast-guard-fbi-investigate-tanker-cyberattacks/">

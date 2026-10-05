@@ -1,0 +1,60 @@
+URL:         https://cepa.org/article/why-do-seized-russian-tankers-sail-away/
+Кінцевий:    https://cepa.org/article/why-do-seized-russian-tankers-sail-away/
+Заголовок:   Why Do Seized Russian Tankers Sail Away?
+Дата публ.:  2026-06-17
+Завантажено: 2026-10-05 10:09 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 169638
+Оригінал:    raw/58-cepa.org-why-do-seized-russian-tankers-sail-away.html
+sha256:      ac0e3c12aad94fdc70a2f22c0e8d49da7ae1f3cdf1f409d3b9a856b65abcbb71
+Витяг:       trafilatura
+
+==============================================================================
+Royal Marines fast-roped from helicopters onto the deck and took control of the shadow fleet tanker *Smyrtos* as it passed through the English Channel on June 14, in the UK’s [first such operation](https://www.cbc.ca/news/world/british-forces-intercept-russian-shadow-fleet-tankers-9.7234841). It is now [held off Portland](https://www.royalnavy.mod.uk/news/2026/june/15/20260615-royal-navy-leads-boarding-operation-on-shadow-fleet-tanker), watched for environmental and safety risks. The captain has been [charged](https://www.bbc.co.uk/news/articles/c2dy47gxxnyo) with evading sanctions.
+
+But the vessel and the 100,000 tons of crude oil it carries (with a value of at least $40m) are only being held for now. The ship is likely to be back at sea soon. That has been the shape of almost every one of these operations, with the Smyrtos being only the latest.
+
+Just two weeks earlier, on May 31, French commandos descended from a navy helicopter onto the deck of the *Tagor*, a sanctioned tanker more than 400 nautical miles west of Brittany. French President Emanuel Macron posted the footage the next day, and Paris framed it as a resolution: the [fourth interception](https://news.usni.org/2026/06/03/french-navy-seizes-sanctioned-russian-tanker-4th-since-september) of a Russia-linked tanker since the autumn.
+
+The legal trigger in both cases was a flag check. Under [Article 110](https://www.un.org/depts/los/convention_agreements/texts/unclos/unclos_e.pdf) of the Law of the Sea, a warship may board a vessel it reasonably suspects of sailing without a valid flag. French authorities also said the *Tagor* was suspected of falsely flying the Cameroonian colors. The boarding team confirmed the irregularity and referred the case to the prosecutor in Brest.
+
+The [same logic](https://www.lloydslist.com/LL1157457/UK-seizes-shadow-fleet-tanker-expelled-from-Cameroon-registry) applied to the *Smyrtos*. Cameroon had [struck it from its registry](https://www.lloydslist.com/LL1157457/UK-seizes-shadow-fleet-tanker-expelled-from-Cameroon-registry) days earlier, leaving it stateless, and a stateless ship can be boarded by any warship.
+
+Not sabotage, not sanctions-busting. A quarrel over nationality is the surest hook the law offers. The problem is that it’s a fairly small infraction, and that’s where the trouble starts.
+
+Before *Tagor*, France had boarded three other tankers. The *Grinch* was held for three weeks, paid a penalty of several million euros, and [sailed](https://apnews.com/article/russia-shadow-fleet-tanker-grinch-france-bc3031812f1ffcde8705af80c1cb23fd).
+
+The hardest case, the *Boracay*, produced France’s most notable result so far: in March, a court in Brest [convicted its captain in absentia](https://maritime-executive.com/article/french-court-sentences-shadow-fleet-tanker-s-captain-to-one-year-in-prison) to a year in prison, a €150,000 ($174,000) fine, and an arrest warrant for a man long gone. The ship was released within days and now carries Russian crude under a new name, the *Phoenix*.
+
+As for the *Tagor*, its captain was arrested, then [released a day later](https://www.lemonde.fr/en/france/article/2026/06/04/france-releases-russian-captain-of-detained-moscow-linked-tanker_6754131_7.html) by the Brest prosecutor, with the vessel left at anchor in a Breton Bay under an administrative order while France worked out who owns it.
+
+Finland went further than anyone. In December 2024, its border guards [boarded](https://www.cbsnews.com/news/finland-undersea-cables-sabotage-russia-linked-ship-dragged-anchor/) a ship named *Eagle S* in the Gulf of Finland after a power cable to Estonia and four communication lines were cut. The case was easier in some respects because the vessel was taken inside territorial waters. A criminal case was launched, and the captain and two officers appeared in the dock.
+
+It failed at the first instance. Last October, the Helsinki District Court found the damage had been done in Finland’s economic zone, beyond its territorial limit. The court [ruled](https://www.lloydslist.com/LL1155060/Eagle-S-decision-highlights-zero-legal-protection-for-subsea-infrastructure) that under the law of the sea, jurisdiction lay with the flag state or the crew’s home countries — the Cook Islands, Georgia, and India — not the coastal state that suffered the damage.
+
+Finland was left to cover the defendants’ [legal costs](https://maritime-executive.com/article/finnish-prosecutors-appeal-court-ruling-on-eagle-s-cable-damage-case). The prosecutor has appealed, and legal commentators argue a higher court may yet read the Convention [more pragmatically](https://www.ejiltalk.org/anchoring-criminal-jurisdiction-at-sea-the-helsinki-district-courts-eagle-s-judgement-and-its-impact-for-the-protection-of-submarine-cables-and-pipelines/). But the first-instance signal is already out.
+
+This is the pattern Europe is settling into: a dramatic boarding complete with media-friendly footage of elite personnel storming the bridge, a narrow legal basis, and not much else.
+
+Article 110 gives a legal cause to act, but it does not give the right to confiscate a ship or try its crew. That would require a jurisdictional claim that the flag state and the crew’s governments will not contest. Flags of convenience are designed to muddy legal waters and very often to evade regulation.
+
+None of this makes the boardings pointless. They expose forged papers and raise the cost of doing business, and they tell Moscow that someone is watching. But they are a tactical rather than a strategic measure. Brussels has now [listed 632 shadow-fleet vessels](https://finance.ec.europa.eu/news/eu-adopts-20th-package-sanctions-against-russia-2026-04-23_en) and barred them from European ports and services.
+
+Russia, though, still earns more than [€10bn](https://www.swp-berlin.org/en/publication/measures-against-the-russian-shadow-fleet) a month from oil exports, revenue that vessel listings alone have not yet meaningfully cut.
+
+The significance is about more than oil. The same legal loophole that lets a boarded tanker sail free also protects the next vessel that idles beside the cables and pipelines the Baltic and North Sea economies depend on.
+
+Deterrence at sea has always rested on consequence. And there is no consequence here that a registry on the far side of the world cannot wave away.
+
+There are alternative tools available. The Baltic Sea, for example, is what the International Maritime Organization, the UN’s shipping regulator, calls a [particularly sensitive sea area](https://www.imo.org/en/ourwork/environment/pages/pssas.aspx).
+
+That status allows littoral states to apply tougher rules than international law allows elsewhere: tankers can be instructed to steer clear of cables, can be more closely inspected, and detained when unseaworthy. It works on environmental and safety grounds, without needing to prove sanctions-busting or sabotage.
+
+This is a lever Europe has not pulled (some of the Baltic littoral states are [deeply fearful](https://cepa.org/article/why-russias-shadow-fleet-sails-unhindered/) of the Russian response). What is missing is the will to build durable legal grounds for condemning these vessels and their cargo, one that does not stop at adding hulls to a list. Sanctioning ships (as the UK did again [on June 16](https://www.gov.uk/government/news/uk-clamps-down-on-shady-networks-supplying-putins-illegal-war-with-new-sanctions-package)) makes little difference unless you hold onto them and remove them from the game. 
+
+Until that changes, the footage will keep arriving. A commando on a tanker deck is a powerful image. Moscow can live with images.
+
+*Miro Sedlák is an associate research fellow at the Institute for Central Europe and a doctoral candidate in security and defense studies at the Armed Forces Academy of General M. R. Štefánik in Slovakia.*
+
+[Europe’s Edge](https://cepa.org/insights-analysis/commentary/europes-edge/) is CEPA’s online journal covering critical topics on the foreign policy docket across Europe and North America. All opinions expressed on Europe’s Edge are those of the author alone and may not represent those of the institutions they represent or the Center for European Policy Analysis.*CEPA maintains a strict intellectual independence policy across all its projects and publications.*
+
+[Read More](https://cepa.org/insights-analysis/commentary/europes-edge/)
