@@ -42,8 +42,8 @@ export default function Page() {
       <div className="lede-block">
         <div className="lede-block__img">
           <img
-            src="/articles/peremykach-ais/mh60-cyber-team.jpg"
-            alt="Гелікоптер MH-60 Берегової охорони США з відчиненими дверима висить над морем, під ним на тросі кошик із членом команди"
+            src="/articles/peremykach-ais/cover.jpg"
+            alt="Офіцер Берегової охорони США в червоній куртці дивиться в бінокль на іржавий танкер Bella 1 у сірому морі"
           />
         </div>
         <p className="lede">
@@ -219,6 +219,17 @@ export default function Page() {
           </a>
           .
         </p>
+
+        <figure className="fig">
+          <img
+            src="/articles/peremykach-ais/mh60-cyber-team.jpg"
+            alt="Гелікоптер MH-60 Берегової охорони США з відчиненими дверима висить над морем, під ним на тросі кошик із членом команди"
+          />
+          <figcaption>
+            Гелікоптер MH-60 спускає на борт члена команди кіберконтролю. Фото:
+            Берегова охорона США, суспільне надбання.
+          </figcaption>
+        </figure>
 
         <div className="qtbox">
           <p>
@@ -1021,10 +1032,20 @@ export default function Page() {
           .
         </p>
 
-        <figure
-          className="fig"
-          data-placeholder="ФОТО: абордаж танкера тіньового флоту (напр. висадка з гелікоптера на Sophia чи Marinera, січень 2026). DVIDS / Міністерство війни США, суспільне надбання; або фото європейського затримання з умовою публікації."
-        />
+        <figure className="fig">
+          <iframe
+            src="https://www.youtube.com/embed/PqXwHUXmet4?rel=0"
+            title="Висадка силовиків США на танкер Marinera"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowFullScreen
+            loading="lazy"
+            style={{ aspectRatio: "16/9", height: "auto" }}
+          />
+          <figcaption>
+            Висадка американських силовиків на танкер Marinera, 7 січня 2026
+            року. Відео PLITKA Analytics.
+          </figcaption>
+        </figure>
 
         <p>
           Тому Європі доводиться розв&apos;язувати задачу із зірочкою: бути
