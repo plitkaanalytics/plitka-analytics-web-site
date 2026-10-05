@@ -6,11 +6,16 @@ import { useEffect, useMemo, useRef, useState } from "react";
 /**
  * Карта затримань суден тіньового флоту 2025–2026 для статті peremykach-ais.
  *
- * Три вікна одночасно — Кариби, Європа з Північною Атлантикою, Аравійське
- * море, — бо світ цілком у колонку не влазить, а перелітати кадром між
- * ними під прокрутку гірше: події в різних морях ідуть упереміш, і кадр
- * метався б туди-сюди. Прокрутка гортає час: точка з'являється, коли
- * дата доходить до затримання.
+ * Два постійні вікна, Кариби ліворуч і Європа праворуч, бо світ цілком у
+ * колонку не влазить, а перелітати кадром між ними під прокрутку гірше:
+ * події в різних морях ідуть упереміш, і кадр метався б туди-сюди. Ісландія
+ * й Індійський океан спливають маленькими вікнами в кутах європейського,
+ * коли там стається перша подія: випадків там кілька, постійне місце їм ні
+ * до чого. Прокрутка гортає час: точка з'являється, коли дата доходить до
+ * затримання.
+ *
+ * Рядка з подробицями під картою свідомо немає: він змінювався на кожну
+ * подію й мерехтів. Подробиці є в підказці на точці й у таблиці.
  *
  * Суходіл готує scripts/build-interdictions-map.mjs. Координати тут
  * приблизні — «десь у цьому морі», так і задумано: джерела здебільшого
@@ -20,7 +25,7 @@ import { useEffect, useMemo, useRef, useState } from "react";
  * перенумерація покликань компонентів не бачить.
  */
 
-type Win = "eu" | "car" | "ind";
+type Win = "eu" | "car" | "isl" | "ind";
 type Actor = "us" | "eu" | "mission" | "in";
 type Kind = "seized" | "boarded" | "attempt";
 
@@ -146,7 +151,7 @@ const RAW: Ev[] = [
     who: "США",
     kind: "seized",
     where: "Атлантика, на південь від Ісландії",
-    win: "eu",
+    win: "isl",
     c: [-19.5, 60.6],
     note: "Під заявленим російським прапором",
   },
@@ -302,7 +307,7 @@ const RAW: Ev[] = [
     kind: "boarded",
     where: "Середземне море",
     win: "eu",
-    c: [18.5, 34.6],
+    c: [15.6, 35.3],
     note: "Перша перевірка прапора місією ЄС; дата приблизна",
     approx: true,
   },
@@ -394,11 +399,21 @@ const KIND: Record<Kind, string> = {
   attempt: "невдала спроба",
 };
 
-const WINDOWS: { key: Win; title: string }[] = [
-  { key: "eu", title: "Європа й Північна Атлантика" },
+const MAIN: { key: Win; title: string }[] = [
   { key: "car", title: "Карибське море" },
-  { key: "ind", title: "Аравійське море й Індійський океан" },
+  { key: "eu", title: "Європа" },
 ];
+/** Спливні вікна в кутах європейського */
+const POPUPS: { key: Win; title: string; corner: "tl" | "br" }[] = [
+  { key: "isl", title: "Біля Ісландії", corner: "tl" },
+  { key: "ind", title: "Індійський океан", corner: "br" },
+];
+/** Коли у вікні стається перша подія — тоді воно й спливає */
+const FIRST = {} as Record<Win, number>;
+for (const e of RAW) {
+  const d = Date.parse(e.date);
+  if (!(e.win in FIRST) || d < FIRST[e.win]) FIRST[e.win] = d;
+}
 
 const MONTHS_NOM = [
   "січень",
@@ -469,7 +484,6 @@ export default function InterdictionsMap({
   const [failed, setFailed] = useState(false);
   // До гідратації й без JS показуємо все: кінцевий стан і є змістом карти.
   const [t, setT] = useState(END);
-  const [hover, setHover] = useState<number | null>(null);
   const track = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
@@ -507,12 +521,57 @@ export default function InterdictionsMap({
     () => EVENTS.filter((e) => Date.parse(e.date) <= t),
     [t],
   );
-  const latest = shown[shown.length - 1];
   const now = new Date(t);
   const count = (y: string) =>
     shown.filter((e) => e.date.startsWith(y) && e.kind !== "attempt").length;
   const attempts = shown.filter((e) => e.kind === "attempt").length;
-  const hovered = hover !== null ? EVENTS[hover] : null;
+
+  const map = (key: Win, title: string, k = 1) => {
+    const inset = insets?.[key];
+    if (!inset)
+      return (
+        <div className="imap__ph">{failed ? "Карту не завантажено" : ""}</div>
+      );
+    return (
+      <svg viewBox={`0 0 ${inset.w} ${inset.h}`} role="img" aria-label={title}>
+        <path d={inset.d} className="imap__land" />
+        {EVENTS.map((e, i) => {
+          if (e.win !== key) return null;
+          const on = Date.parse(e.date) <= t;
+          const [x, y] = project(inset, e.c);
+          const col = COLOR[e.actor];
+          const label = `${fmtDate(e.date)} · ${e.name} · ${e.who} · ${KIND[e.kind]} · ${e.where}`;
+          return (
+            <g
+              key={i}
+              className={`imap__pt${on ? " is-on" : ""}${e.date.startsWith("2025") ? " is-old" : ""}`}
+              transform={`translate(${x} ${y})`}
+              tabIndex={on ? 0 : -1}
+              aria-label={label}
+            >
+              <title>{label}</title>
+              <circle r={12 * k} className="imap__hit" />
+              {e.kind === "attempt" ? (
+                <circle
+                  r={5.5 * k}
+                  fill="var(--paper)"
+                  stroke={col}
+                  strokeWidth={2.4 * k}
+                />
+              ) : (
+                <circle
+                  r={6 * k}
+                  fill={col}
+                  stroke="var(--paper)"
+                  strokeWidth={2 * k}
+                />
+              )}
+            </g>
+          );
+        })}
+      </svg>
+    );
+  };
 
   return (
     <figure
@@ -523,7 +582,7 @@ export default function InterdictionsMap({
         <div className="imap__sticky">
           <div className="imap__head">
             <div className="imap__date" aria-live="polite">
-              {MONTHS_NOM[now.getMonth()]} {now.getFullYear()}
+              {MONTHS_NOM[now.getMonth()]}
             </div>
             <div className="imap__counts">
               <span>
@@ -559,124 +618,53 @@ export default function InterdictionsMap({
           </div>
 
           <div className="imap__grid">
-            {WINDOWS.map(({ key, title }) => {
-              const inset = insets?.[key];
-              return (
-                <div className={`imap__win imap__win--${key}`} key={key}>
-                  <div className="imap__wtitle">{title}</div>
-                  {inset ? (
-                    <svg
-                      viewBox={`0 0 ${inset.w} ${inset.h}`}
-                      role="img"
-                      aria-label={title}
+            {MAIN.map(({ key, title }) => (
+              <div className={`imap__win imap__win--${key}`} key={key}>
+                <div className="imap__wtitle">{title}</div>
+                {map(key, title)}
+                {key === "eu" &&
+                  POPUPS.map((pop) => (
+                    <div
+                      key={pop.key}
+                      className={`imap__pop imap__pop--${pop.corner}${t >= FIRST[pop.key] ? " is-on" : ""}`}
                     >
-                      <path d={inset.d} className="imap__land" />
-                      {EVENTS.map((e, i) => {
-                        if (e.win !== key) return null;
-                        const on = Date.parse(e.date) <= t;
-                        const [x, y] = project(inset, e.c);
-                        const is25 = e.date.startsWith("2025");
-                        const col = COLOR[e.actor];
-                        const isLatest = latest === e;
-                        return (
-                          <g
-                            key={i}
-                            className={`imap__pt${on ? " is-on" : ""}${is25 ? " is-old" : ""}`}
-                            transform={`translate(${x} ${y})`}
-                            tabIndex={on ? 0 : -1}
-                            aria-label={`${fmtDate(e.date)}, ${e.name}, ${e.who}, ${KIND[e.kind]}, ${e.where}`}
-                            onMouseEnter={() => setHover(i)}
-                            onMouseLeave={() => setHover(null)}
-                            onFocus={() => setHover(i)}
-                            onBlur={() => setHover(null)}
-                          >
-                            <circle r={12} className="imap__hit" />
-                            {e.kind === "attempt" ? (
-                              <circle
-                                r={5.5}
-                                fill="var(--paper)"
-                                stroke={col}
-                                strokeWidth={2.4}
-                              />
-                            ) : (
-                              <circle
-                                r={6}
-                                fill={col}
-                                stroke="var(--paper)"
-                                strokeWidth={2}
-                              />
-                            )}
-                            {isLatest && on && (
-                              <text x={10} y={4} className="imap__label">
-                                {e.name}
-                              </text>
-                            )}
-                          </g>
-                        );
-                      })}
-                      {key === "ind" && (
-                        <text
-                          x={inset.w / 2}
-                          y={inset.h - 10}
-                          textAnchor="middle"
-                          className="imap__note"
-                        >
-                          точки в океані умовні: місця джерела не називають
-                        </text>
-                      )}
-                    </svg>
-                  ) : (
-                    <div className="imap__ph">
-                      {failed ? "Карту не завантажено" : ""}
+                      <div className="imap__wtitle">{pop.title}</div>
+                      {map(pop.key, pop.title, 1.7)}
                     </div>
-                  )}
-                </div>
-              );
-            })}
+                  ))}
+              </div>
+            ))}
           </div>
 
-          <div className="imap__foot">
-            <div className="imap__latest">
-              {hovered ? (
-                <EventLine e={hovered} />
-              ) : latest ? (
-                <EventLine e={latest} />
-              ) : (
-                <span className="imap__muted">
-                  Гортайте вниз — точки з&apos;являтимуться в міру затримань
-                </span>
-              )}
-            </div>
-            <ul className="imap__legend">
-              {ACTORS.map((a) => (
-                <li key={a.key}>
-                  <svg width="14" height="14" aria-hidden="true">
-                    <circle cx="7" cy="7" r="6" fill={a.color} />
-                  </svg>
-                  {a.label}
-                </li>
-              ))}
-              <li>
+          <ul className="imap__legend">
+            {ACTORS.map((a) => (
+              <li key={a.key}>
                 <svg width="14" height="14" aria-hidden="true">
-                  <circle
-                    cx="7"
-                    cy="7"
-                    r="5"
-                    fill="none"
-                    stroke="var(--ink)"
-                    strokeWidth="2"
-                  />
+                  <circle cx="7" cy="7" r="6" fill={a.color} />
                 </svg>
-                невдала спроба
+                {a.label}
               </li>
-              <li>
-                <svg width="14" height="14" aria-hidden="true">
-                  <circle cx="7" cy="7" r="6" fill="var(--ink)" opacity="0.4" />
-                </svg>
-                2025 рік
-              </li>
-            </ul>
-          </div>
+            ))}
+            <li>
+              <svg width="14" height="14" aria-hidden="true">
+                <circle
+                  cx="7"
+                  cy="7"
+                  r="5"
+                  fill="none"
+                  stroke="var(--ink)"
+                  strokeWidth="2"
+                />
+              </svg>
+              невдала спроба
+            </li>
+            <li>
+              <svg width="14" height="14" aria-hidden="true">
+                <circle cx="7" cy="7" r="6" fill="var(--ink)" opacity="0.4" />
+              </svg>
+              2025 рік
+            </li>
+          </ul>
         </div>
       </div>
 
@@ -714,21 +702,5 @@ export default function InterdictionsMap({
         </table>
       </details>
     </figure>
-  );
-}
-
-function EventLine({ e }: { e: Ev }) {
-  return (
-    <span>
-      <span
-        className="imap__dot"
-        style={{
-          background: e.kind === "attempt" ? "transparent" : COLOR[e.actor],
-          borderColor: COLOR[e.actor],
-        }}
-      />
-      <b>{fmtDate(e.date)}</b> · {e.name} · {e.who} · {KIND[e.kind]} · {e.where}
-      {e.note ? <span className="imap__muted"> — {e.note}</span> : null}
-    </span>
   );
 }
