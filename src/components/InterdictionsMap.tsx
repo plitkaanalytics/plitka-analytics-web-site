@@ -40,6 +40,8 @@ interface Ev {
   /** Довгота, широта — приблизно */
   c: [number, number];
   note?: string;
+  /** Англійські версії текстових полів; назва судна однакова, крім нерозкритої */
+  en?: { who: string; where: string; note?: string; name?: string };
   /** Місця в джерелах немає, точка стоїть умовно */
   approx?: boolean;
 }
@@ -55,6 +57,11 @@ const RAW: Ev[] = [
     win: "eu",
     c: [13.8, 54.7],
     note: "Втратив хід і дрейфував у німецькі води; митниця конфіскувала вантаж",
+    en: {
+      who: "Germany",
+      where: "Baltic Sea, off Rügen",
+      note: "Lost power and drifted into German waters; customs confiscated the cargo",
+    },
   },
   {
     date: "2025-04-11",
@@ -66,6 +73,11 @@ const RAW: Ev[] = [
     win: "eu",
     c: [24.2, 59.7],
     note: "Без дійсного прапора; відпущений 28 квітня",
+    en: {
+      who: "Estonia",
+      where: "Gulf of Finland",
+      note: "No valid flag; released on 28 April",
+    },
   },
   {
     date: "2025-05-13",
@@ -77,6 +89,11 @@ const RAW: Ev[] = [
     win: "eu",
     c: [25.6, 59.9],
     note: "Відмовився змінити курс; поруч з'явився російський винищувач, танкер вивели з естонських вод",
+    en: {
+      who: "Estonia",
+      where: "Gulf of Finland",
+      note: "Refused to change course; a Russian fighter jet appeared nearby and the tanker was escorted out of Estonian waters",
+    },
   },
   {
     date: "2025-09-27",
@@ -88,6 +105,11 @@ const RAW: Ev[] = [
     win: "eu",
     c: [-5.6, 48.3],
     note: "Капітан відмовився пустити на огляд; на борту охорона Moran Security Group",
+    en: {
+      who: "France",
+      where: "Atlantic, off Ushant",
+      note: "The master refused inspection; Moran Security Group guards on board",
+    },
   },
   {
     date: "2025-11-20",
@@ -100,6 +122,11 @@ const RAW: Ev[] = [
     c: [-73.0, 17.2],
     note: "Есмінець перехопив танкер, і той розвернувся на Кубу",
     approx: true,
+    en: {
+      who: "United States",
+      where: "Caribbean Sea",
+      note: "A destroyer intercepted the tanker, which turned back towards Cuba",
+    },
   },
   {
     date: "2025-12-10",
@@ -111,6 +138,11 @@ const RAW: Ev[] = [
     win: "car",
     c: [-61.9, 11.7],
     note: "Перше затримання кампанії",
+    en: {
+      who: "United States",
+      where: "between Grenada and Trinidad",
+      note: "First seizure of the campaign",
+    },
   },
   {
     date: "2025-12-20",
@@ -121,6 +153,7 @@ const RAW: Ev[] = [
     where: "біля Венесуели",
     win: "car",
     c: [-65.5, 12.4],
+    en: { who: "United States", where: "off Venezuela" },
   },
   {
     date: "2025-12-20",
@@ -132,6 +165,11 @@ const RAW: Ev[] = [
     win: "car",
     c: [-67.8, 12.9],
     note: "Екіпаж не пустив на борт, танкер утік в Атлантику",
+    en: {
+      who: "United States",
+      where: "off Venezuela",
+      note: "The crew refused boarding and the tanker fled into the Atlantic",
+    },
   },
   {
     date: "2025-12-31",
@@ -143,6 +181,11 @@ const RAW: Ev[] = [
     win: "eu",
     c: [25.9, 60.05],
     note: "Вантажне судно; підозра в пошкодженні кабелів, санкційна сталь",
+    en: {
+      who: "Finland",
+      where: "Gulf of Finland",
+      note: "Cargo ship; suspected of damaging cables, sanctioned steel on board",
+    },
   },
   {
     date: "2026-01-07",
@@ -154,6 +197,11 @@ const RAW: Ev[] = [
     win: "isl",
     c: [-19.5, 60.6],
     note: "Під заявленим російським прапором",
+    en: {
+      who: "United States",
+      where: "Atlantic, south of Iceland",
+      note: "Under a claimed Russian flag",
+    },
   },
   {
     date: "2026-01-07",
@@ -165,6 +213,7 @@ const RAW: Ev[] = [
     win: "car",
     c: [-70.2, 14.6],
     approx: true,
+    en: { who: "United States", where: "Caribbean Sea" },
   },
   {
     date: "2026-01-09",
@@ -176,6 +225,7 @@ const RAW: Ev[] = [
     win: "car",
     c: [-63.6, 13.6],
     approx: true,
+    en: { who: "United States", where: "Caribbean Sea" },
   },
   {
     date: "2026-01-15",
@@ -187,6 +237,7 @@ const RAW: Ev[] = [
     win: "car",
     c: [-66.6, 14.3],
     approx: true,
+    en: { who: "United States", where: "Caribbean Sea" },
   },
   {
     date: "2026-01-20",
@@ -198,6 +249,7 @@ const RAW: Ev[] = [
     win: "car",
     c: [-68.6, 15.4],
     approx: true,
+    en: { who: "United States", where: "Caribbean Sea" },
   },
   {
     date: "2026-01-22",
@@ -209,6 +261,11 @@ const RAW: Ev[] = [
     win: "eu",
     c: [-3.8, 35.9],
     note: "Відпущений 17 лютого після штрафу",
+    en: {
+      who: "France",
+      where: "Alboran Sea",
+      note: "Released on 17 February after a fine",
+    },
   },
   {
     date: "2026-02-06",
@@ -220,6 +277,11 @@ const RAW: Ev[] = [
     win: "ind",
     c: [71.2, 19.0],
     note: "Три танкери, пов'язані з Іраном",
+    en: {
+      who: "India",
+      where: "100 miles west of Mumbai",
+      note: "Three Iran-linked tankers",
+    },
   },
   {
     date: "2026-02-09",
@@ -231,6 +293,7 @@ const RAW: Ev[] = [
     win: "ind",
     c: [63.5, 6.5],
     approx: true,
+    en: { who: "United States", where: "Indian Ocean" },
   },
   {
     date: "2026-02-14",
@@ -242,6 +305,7 @@ const RAW: Ev[] = [
     win: "ind",
     c: [68.5, 4.0],
     approx: true,
+    en: { who: "United States", where: "Indian Ocean" },
   },
   {
     date: "2026-02-24",
@@ -253,6 +317,7 @@ const RAW: Ev[] = [
     win: "ind",
     c: [74.0, 6.0],
     approx: true,
+    en: { who: "United States", where: "Indian Ocean" },
   },
   {
     date: "2026-02-28",
@@ -264,6 +329,11 @@ const RAW: Ev[] = [
     win: "eu",
     c: [2.6, 51.6],
     note: "Фальшивий гвінейський прапор, підроблені документи",
+    en: {
+      who: "Belgium",
+      where: "North Sea, Belgian exclusive economic zone",
+      note: "False Guinean flag, forged documents",
+    },
   },
   {
     date: "2026-03-06",
@@ -276,6 +346,11 @@ const RAW: Ev[] = [
     c: [14.4, 55.4],
     note: "Вантажне судно; фальшивий прапор, підроблений документ",
     approx: true,
+    en: {
+      who: "Sweden",
+      where: "off southern Sweden",
+      note: "Cargo ship; false flag, forged document",
+    },
   },
   {
     date: "2026-03-12",
@@ -286,6 +361,7 @@ const RAW: Ev[] = [
     where: "біля Треллеборга",
     win: "eu",
     c: [13.1, 55.25],
+    en: { who: "Sweden", where: "off Trelleborg" },
   },
   {
     date: "2026-03-20",
@@ -298,6 +374,11 @@ const RAW: Ev[] = [
     c: [4.5, 38.0],
     note: "Фальшивий прапор Мозамбіку; відпущений 16 квітня після штрафу",
     approx: true,
+    en: {
+      who: "France",
+      where: "Mediterranean",
+      note: "False Mozambican flag; released on 16 April after a fine",
+    },
   },
   {
     date: "2026-05-05",
@@ -310,6 +391,12 @@ const RAW: Ev[] = [
     c: [15.6, 35.3],
     note: "Перша перевірка прапора місією ЄС; дата приблизна",
     approx: true,
+    en: {
+      who: "EU mission IRINI",
+      where: "Mediterranean",
+      note: "First EU flag verification; date approximate",
+      name: "name not disclosed",
+    },
   },
   {
     date: "2026-05-03",
@@ -321,6 +408,11 @@ const RAW: Ev[] = [
     win: "eu",
     c: [13.3, 55.05],
     note: "Фальшивий сирійський прапор",
+    en: {
+      who: "Sweden",
+      where: "south of Trelleborg",
+      note: "False Syrian flag",
+    },
   },
   {
     date: "2026-06-01",
@@ -331,6 +423,7 @@ const RAW: Ev[] = [
     where: "Атлантика, 740 км на захід від Бретані",
     win: "eu",
     c: [-14.0, 48.0],
+    en: { who: "France", where: "Atlantic, 740 km west of Brittany" },
   },
   {
     date: "2026-06-14",
@@ -342,6 +435,11 @@ const RAW: Ev[] = [
     win: "eu",
     c: [-1.2, 50.2],
     note: "Перше британське затримання",
+    en: {
+      who: "United Kingdom",
+      where: "English Channel",
+      note: "First British seizure",
+    },
   },
   {
     date: "2026-07-20",
@@ -353,6 +451,11 @@ const RAW: Ev[] = [
     win: "eu",
     c: [6.0, 37.6],
     note: "Перевірка прапора",
+    en: {
+      who: "EU mission IRINI",
+      where: "western Mediterranean",
+      note: "Flag verification",
+    },
   },
   {
     date: "2026-08-02",
@@ -364,6 +467,11 @@ const RAW: Ev[] = [
     win: "eu",
     c: [11.0, 36.95],
     note: "Перевірка прапора",
+    en: {
+      who: "EU mission IRINI, Italy",
+      where: "west of Pantelleria",
+      note: "Flag verification",
+    },
   },
   {
     date: "2026-08-30",
@@ -375,6 +483,11 @@ const RAW: Ev[] = [
     win: "eu",
     c: [11.5, 36.6],
     note: "Перевірка прапора",
+    en: {
+      who: "EU mission IRINI, Italy",
+      where: "west of Pantelleria",
+      note: "Flag verification",
+    },
   },
 ];
 const EVENTS = [...RAW].sort((a, b) => a.date.localeCompare(b.date));
@@ -459,6 +572,101 @@ function fmtDate(iso: string) {
   return `${d} ${MONTHS_GEN[m - 1]} ${y}`;
 }
 
+const MONTHS_EN = [
+  "January",
+  "February",
+  "March",
+  "April",
+  "May",
+  "June",
+  "July",
+  "August",
+  "September",
+  "October",
+  "November",
+  "December",
+];
+
+type Lang = "uk" | "en";
+
+/** Усе, що карта пише від себе. Тексти подій — у полях самих подій. */
+const UI = {
+  uk: {
+    actors: {
+      us: "США",
+      eu: "Європейські держави",
+      mission: "Місія ЄС",
+      in: "Індія",
+    } as Record<Actor, string>,
+    kind: KIND,
+    win: {
+      car: "Карибське море",
+      eu: "Європа",
+      isl: "Біля Ісландії",
+      ind: "Індійський океан",
+    } as Record<Win, string>,
+    month: (m: number) => MONTHS_NOM[m],
+    date: fmtDate,
+    seized: (n: number, y: string) =>
+      `${plural(n, "затримання", "затримання", "затримань")} у ${y}`,
+    attempts: (n: number) =>
+      plural(n, "невдала спроба", "невдалі спроби", "невдалих спроб"),
+    legendAttempt: "невдала спроба",
+    legendOld: "2025 рік",
+    fail: "Карту не завантажено",
+    aria: "Карта затримань і спроб затримання суден тіньового флоту у 2025–2026 роках",
+    table: "Усі випадки таблицею",
+    th: ["Дата", "Судно", "Хто", "Що сталося", "Де"],
+    approx: " (місце приблизне)",
+  },
+  en: {
+    actors: {
+      us: "United States",
+      eu: "European states",
+      mission: "EU mission",
+      in: "India",
+    } as Record<Actor, string>,
+    kind: {
+      seized: "seizure",
+      boarded: "boarding inspection",
+      attempt: "failed attempt",
+    } as Record<Kind, string>,
+    win: {
+      car: "Caribbean Sea",
+      eu: "Europe",
+      isl: "Off Iceland",
+      ind: "Indian Ocean",
+    } as Record<Win, string>,
+    month: (m: number) => MONTHS_EN[m],
+    date: (iso: string) => {
+      const [y, m, d] = iso.split("-").map(Number);
+      return `${d} ${MONTHS_EN[m - 1]} ${y}`;
+    },
+    seized: (n: number, y: string) =>
+      `${n === 1 ? "seizure" : "seizures"} in ${y}`,
+    attempts: (n: number) => (n === 1 ? "failed attempt" : "failed attempts"),
+    legendAttempt: "failed attempt",
+    legendOld: "2025",
+    fail: "The map failed to load",
+    aria: "Map of seizures and attempted seizures of shadow fleet vessels in 2025–2026",
+    table: "All cases as a table",
+    th: ["Date", "Vessel", "By", "What happened", "Where"],
+    approx: " (approximate location)",
+  },
+};
+
+/** Текстові поля події мовою сторінки */
+function loc(e: Ev, lang: Lang) {
+  if (lang === "uk" || !e.en)
+    return { name: e.name, who: e.who, where: e.where, note: e.note };
+  return {
+    name: e.en.name ?? e.name,
+    who: e.en.who,
+    where: e.en.where,
+    note: e.en.note,
+  };
+}
+
 interface Inset {
   box: [number, number, number, number];
   w: number;
@@ -478,9 +686,13 @@ function project(inset: Inset, [lon, lat]: [number, number]) {
 
 export default function InterdictionsMap({
   caption,
+  lang = "uk",
 }: {
   caption?: React.ReactNode;
+  /** Мова підписів карти й таблиці */
+  lang?: Lang;
 }) {
+  const L = UI[lang];
   const [insets, setInsets] = useState<Record<Win, Inset> | null>(null);
   const [failed, setFailed] = useState(false);
   // До гідратації й без JS показуємо все: кінцевий стан і є змістом карти.
@@ -529,10 +741,7 @@ export default function InterdictionsMap({
 
   const map = (key: Win, title: string, k = 1) => {
     const inset = insets?.[key];
-    if (!inset)
-      return (
-        <div className="imap__ph">{failed ? "Карту не завантажено" : ""}</div>
-      );
+    if (!inset) return <div className="imap__ph">{failed ? L.fail : ""}</div>;
     return (
       <svg viewBox={`0 0 ${inset.w} ${inset.h}`} role="img" aria-label={title}>
         <path d={inset.d} className="imap__land" />
@@ -541,7 +750,8 @@ export default function InterdictionsMap({
           const on = Date.parse(e.date) <= t;
           const [x, y] = project(inset, e.c);
           const col = COLOR[e.actor];
-          const label = `${fmtDate(e.date)} · ${e.name} · ${e.who} · ${KIND[e.kind]} · ${e.where}`;
+          const f = loc(e, lang);
+          const label = `${L.date(e.date)} · ${f.name} · ${f.who} · ${L.kind[e.kind]} · ${f.where}`;
           return (
             <g
               key={i}
@@ -575,62 +785,42 @@ export default function InterdictionsMap({
   };
 
   return (
-    <figure
-      className="imap fig--bleed"
-      aria-label="Карта затримань і спроб затримання суден тіньового флоту у 2025–2026 роках"
-    >
+    <figure className="imap fig--bleed" aria-label={L.aria}>
       <div className="imap__track" ref={track}>
         <div className="imap__sticky">
           <div className="imap__head">
             <div className="imap__date" aria-live="polite">
-              {MONTHS_NOM[now.getMonth()]}
+              {L.month(now.getMonth())}
             </div>
             <div className="imap__counts">
               <span>
                 <b>{count("2025")}</b>
-                {plural(
-                  count("2025"),
-                  "затримання",
-                  "затримання",
-                  "затримань",
-                )}{" "}
-                у 2025
+                {L.seized(count("2025"), "2025")}
               </span>
               <span>
                 <b>{count("2026")}</b>
-                {plural(
-                  count("2026"),
-                  "затримання",
-                  "затримання",
-                  "затримань",
-                )}{" "}
-                у 2026
+                {L.seized(count("2026"), "2026")}
               </span>
               <span>
                 <b>{attempts}</b>
-                {plural(
-                  attempts,
-                  "невдала спроба",
-                  "невдалі спроби",
-                  "невдалих спроб",
-                )}
+                {L.attempts(attempts)}
               </span>
             </div>
           </div>
 
           <div className="imap__grid">
-            {MAIN.map(({ key, title }) => (
+            {MAIN.map(({ key }) => (
               <div className={`imap__win imap__win--${key}`} key={key}>
-                <div className="imap__wtitle">{title}</div>
-                {map(key, title)}
+                <div className="imap__wtitle">{L.win[key]}</div>
+                {map(key, L.win[key])}
                 {key === "eu" &&
                   POPUPS.map((pop) => (
                     <div
                       key={pop.key}
                       className={`imap__pop imap__pop--${pop.corner}${t >= FIRST[pop.key] ? " is-on" : ""}`}
                     >
-                      <div className="imap__wtitle">{pop.title}</div>
-                      {map(pop.key, pop.title, 1.7)}
+                      <div className="imap__wtitle">{L.win[pop.key]}</div>
+                      {map(pop.key, L.win[pop.key], 1.7)}
                     </div>
                   ))}
               </div>
@@ -643,7 +833,7 @@ export default function InterdictionsMap({
                 <svg width="14" height="14" aria-hidden="true">
                   <circle cx="7" cy="7" r="6" fill={a.color} />
                 </svg>
-                {a.label}
+                {L.actors[a.key]}
               </li>
             ))}
             <li>
@@ -657,13 +847,13 @@ export default function InterdictionsMap({
                   strokeWidth="2"
                 />
               </svg>
-              невдала спроба
+              {L.legendAttempt}
             </li>
             <li>
               <svg width="14" height="14" aria-hidden="true">
                 <circle cx="7" cy="7" r="6" fill="var(--ink)" opacity="0.4" />
               </svg>
-              2025 рік
+              {L.legendOld}
             </li>
           </ul>
         </div>
@@ -672,33 +862,34 @@ export default function InterdictionsMap({
       {caption && <figcaption>{caption}</figcaption>}
 
       <details className="imap__table">
-        <summary>Усі випадки таблицею</summary>
+        <summary>{L.table}</summary>
         <table>
           <thead>
             <tr>
-              <th>Дата</th>
-              <th>Судно</th>
-              <th>Хто</th>
-              <th>Що сталося</th>
-              <th>Де</th>
+              {L.th.map((h) => (
+                <th key={h}>{h}</th>
+              ))}
             </tr>
           </thead>
           <tbody>
-            {EVENTS.map((e, i) => (
-              <tr key={i}>
-                <td>{fmtDate(e.date)}</td>
-                <td>{e.name}</td>
-                <td>{e.who}</td>
-                <td>
-                  {KIND[e.kind]}
-                  {e.note ? `. ${e.note}` : ""}
-                </td>
-                <td>
-                  {e.where}
-                  {e.approx ? " (місце приблизне)" : ""}
-                </td>
-              </tr>
-            ))}
+            {EVENTS.map((e, i) => {
+              const f = loc(e, lang);
+              return (
+                <tr key={i}>
+                  <td>{L.date(e.date)}</td>
+                  <td>{f.name}</td>
+                  <td>{f.who}</td>
+                  <td>
+                    {L.kind[e.kind]}
+                    {f.note ? `. ${f.note}` : ""}
+                  </td>
+                  <td>
+                    {f.where}
+                    {e.approx ? L.approx : ""}
+                  </td>
+                </tr>
+              );
+            })}
           </tbody>
         </table>
       </details>
