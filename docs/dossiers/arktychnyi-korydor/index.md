@@ -34,7 +34,7 @@
 | 25 | [www1.ru](https://www1.ru/news/2025/11/02/mozet-rabotat-samostoiatelno-i-v-sostave-korabelnyx-gruppirovok-korabl-ivan-papanin-vstupil-v.html) | — | НЕ ВІДКРИЛОСЯ | 0 | медіа РФ — НЕ ПРОЧИТАНО | `text/25-www1.ru-mozet-rabotat-samostoiatelno-i-v-sostave-korabelnyx-gruppirovo.txt` |
 | 26 | [Large group of sanctioned tankers prepares for icy convoy on Northern ](https://www.thebarentsobserver.com/news/large-group-of-sanctioned-tankers-prepares-for-icy-convoy-on-northern-sea-route/455104) | 2026-08-03 | прочитано | 2425 | профільне видання | `text/26-thebarentsobserver.com-455104.txt` |
 | 27 | [Sea-ice caused trouble for Russian warships](https://www.thebarentsobserver.com/security/seaice-caused-trouble-for-russian-warships/421162) | 2024-11-22 | прочитано | 4340 | профільне видання | `text/27-thebarentsobserver.com-421162.txt` |
-| 28 | [HTTP 502](https://interfax.com/newsroom/top-stories/118643/) | — | HTTP 502 — НЕ ПРОЧИТАНО | 318 | медіа РФ — НЕ ПРОЧИТАНО | `text/28-interfax.com-118643.txt` |
+| 28 | [Rosatom permits China's Sealegend Shipping to transit NSR as part of l](https://interfax.com/newsroom/top-stories/118643/) | 2026-08-07 | прочитано | 2885 | медіа РФ — НЕ ПРОЧИТАНО | `text/28-interfax.com-118643.txt` |
 | 29 | [www1.ru](https://www1.ru/es/news/2026/09/29/439082-led-i-aisbergi-vmesto-privycnogo-marsruta-zacem-severnyi-flot-vpervye-prosel-prolivom-sokalskogo.html) | — | НЕ ВІДКРИЛОСЯ | 0 | медіа РФ — НЕ ПРОЧИТАНО | `text/29-www1.ru-439082-led-i-aisbergi-vmesto-privycnogo-marsruta-zacem-severny.txt` |
 | 30 | [Northern Fleet Arctic expedition discovers new strait off coast of Nov](https://interfax.com/newsroom/top-stories/69741/) | 2020-08-31 | прочитано | 1692 | медіа РФ | `text/30-interfax.com-69741.txt` |
 | 31 | [Northern Sea Routes’ cargo turnover exceeded record 6.9 million tonnes](https://tass.com/economy/930620) | 2017-02-13 | прочитано | 24394 | ? | `text/31-tass.com-930620.txt` |
@@ -59,6 +59,15 @@
 | 50 | [Russia’s LNG ‘Dark Fleet’ Returns to Norwegian Waters As Winter Closes](https://www.highnorthnews.com/en/russias-lng-dark-fleet-returns-norwegian-waters-winter-closes-northern-sea-route) | 2025-11-10 | прочитано | 4239 | ? | `text/50-highnorthnews.com-russias-lng-dark-fleet-returns-norwegian-waters-wint.txt` |
 | 51 | [South Korea tests Arctic shipping route to Europe - India Seatrade New](https://indiaseatradenews.com/south-korea-tests-arctic-shipping-route-to-europe/) | 2026-01-06 | прочитано | 11187 | ? | `text/51-indiaseatradenews.com-south-korea-tests-arctic-shipping-route-to-europ.txt` |
 | 52 | [South Korea to send its first container ship through Arctic](https://arynews.tv/south-korea-send-its-first-container-ship-arctic) | 2026-08-20 | прочитано | 2898 | ? | `text/52-arynews.tv-south-korea-send-its-first-container-ship-arctic.txt` |
+| 53 | [Russia attempted to shelter a foreign shadow tanker on its Arctic terr](https://etc.bellona.org/2026/02/03/shelter-marinera/) | 2026-02-03 | прочитано | 6117 | ? | `text/53-etc.bellona.org-shelter-marinera.txt` |
+| 54 | [Russian Shadow Fleet Tanker Responsible for Black Sea Oil Spill Regula](https://etc.bellona.org/2026/05/03/sofia-oil-spill/) | 2026-05-03 | прочитано | 11678 | ? | `text/54-etc.bellona.org-sofia-oil-spill.txt` |
+| 55 | [Russia attempted to shelter a foreign shadow tanker on its Arctic terr](https://www.arctictoday.com/russia-attempted-to-shelter-a-foreign-shadow-tanker-on-its-arctic-territory-this-sets-a-dangerous-precedent/) | 2026-01-27 | прочитано | 5654 | ? | `text/55-arctictoday.com-russia-attempted-to-shelter-a-foreign-shadow-tanker-on.txt` |
+| 56 | [Fuel shipped to Russia from South Korea as Ukraine war grinds on](https://www.irishexaminer.com/world/arid-41920192.html) | 2026-10-06 | прочитано | 6093 | ? | `text/56-irishexaminer.com-arid-41920192.txt` |
+| 57 | [Just a moment...](https://en.bd-pratidin.com/international/2026/10/06/71363) | 2026-10-06 | HTTP 403 — НЕ ПРОЧИТАНО | 16 | ? | `text/57-en.bd-pratidin.com-71363.txt` |
+| 58 | [Charting the Future of Arctic Shipping: Why Navigational Rights in the](https://site.uit.no/nclos/?p=1664) | 2026-06-24 | прочитано | 15060 | ? | `text/58-site.uit.no-nclos.txt` |
+| 59 | [Wrangling Warships: Russia’s Proposed Law on Northern Sea Route Naviga](https://www.lawfaremedia.org/article/wrangling-warships-russias-proposed-law-northern-sea-route-navigation) | 2023-01-18 | прочитано | 19921 | ? | `text/59-lawfaremedia.org-wrangling-warships-russias-proposed-law-northern-sea-.txt` |
+| 60 | [Norway to Inspect Sanctioned Tankers in Efforts To Curb Russian Shadow](https://www.highnorthnews.com/en/norway-inspect-sanctioned-tankers-efforts-curb-russian-shadow-fleet) | 2025-08-11 | прочитано | 4278 | ? | `text/60-highnorthnews.com-norway-inspect-sanctioned-tankers-efforts-curb-russi.txt` |
+| 61 | [Shadow tanker blocked by Arctic sea ice](https://www.thebarentsobserver.com/news/shadow-tanker-blocked-by-arctic-sea-icenbsp/442007) | 2025-12-09 | прочитано | 3327 | ? | `text/61-thebarentsobserver.com-442007.txt` |
 
 ## Проблемні джерела
 
@@ -67,7 +76,6 @@
 - **№10** https://nsidc.org/sea-ice-today/analyses/arctic-sea-ice-minimum-ties-tenth-lowest-0 — оригінал недоступний (0), узято з Wayback
 - **№21** https://iz.ru/en/2175226/2026-09-29/first-time-history-russian-navy-ships-northern-fleet-passed-through-shokalsky-strait — оригінал 403; знімка немає в Wayback
 - **№25** https://www1.ru/news/2025/11/02/mozet-rabotat-samostoiatelno-i-v-sostave-korabelnyx-gruppirovok-korabl-ivan-papanin-vstupil-v.html — оригінал 0; CDX недоступний: Expecting value: line 1 column 1 (char 0)
-- **№28** https://interfax.com/newsroom/top-stories/118643/ — оригінал 502; знімка немає в Wayback
 - **№29** https://www1.ru/es/news/2026/09/29/439082-led-i-aisbergi-vmesto-privycnogo-marsruta-zacem-severnyi-flot-vpervye-prosel-prolivom-sokalskogo.html — оригінал 0; знімка немає в Wayback
 - **№30** https://interfax.com/newsroom/top-stories/69741/ — оригінал недоступний (502), узято з Wayback
 - **№31** https://tass.com/economy/930620 — оригінал недоступний (0), узято з Wayback
@@ -77,6 +85,7 @@
 - **№40** https://www.kommersant.ru/doc/8193567 — оригінал недоступний (0), узято з Wayback
 - **№41** https://tass.com/economy/2035913 — оригінал недоступний (0), узято з Wayback
 - **№45** https://mid.ru/en/foreign_policy/news/2136949/ — оригінал 0; знімка немає в Wayback
+- **№57** https://en.bd-pratidin.com/international/2026/10/06/71363 — оригінал 403; знімка немає в Wayback
 
 ---
 

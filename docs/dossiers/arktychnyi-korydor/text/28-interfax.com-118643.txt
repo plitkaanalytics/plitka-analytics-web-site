@@ -1,21 +1,28 @@
 URL:         https://interfax.com/newsroom/top-stories/118643/
 Кінцевий:    https://interfax.com/newsroom/top-stories/118643/
-Заголовок:   HTTP 502
-Дата публ.:  не вказана на сторінці
-Завантажено: 2026-10-06 12:41 UTC
-HTTP:        502   Тип: text/html   Байтів: 1343
+Заголовок:   Rosatom permits China's Sealegend Shipping to transit NSR as part of launching regular container route
+Дата публ.:  2026-08-07
+Завантажено: 2026-10-06 13:28 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 31003
 Оригінал:    raw/28-interfax.com-118643.html
-sha256:      27b8b4f2b0c6835b9693243491d0ba00fd5b999f8cc4506f5a1414c62348cd94
-Витяг:       bs4-full
-Примітка:    оригінал 502; знімка немає в Wayback
+sha256:      88b6e7c5537812f4ca88a31fc79ef472e4e2a7a4c59486d6248f8ccdf356d67f
+Витяг:       trafilatura
 
 ==============================================================================
-HTTP 502
-502 Error
-Bad gateway
-Сайт interfax.com не отвечает.
-Попробуйте зайти на interfax.com позже, или обратитесь к администрации сайта.
-IP: 5.248.244.174
-Request: GET L25ld3Nyb29tL3RvcC1zdG9yaWVzLzExODY0My8=
-Request ID: 47ca46c76a701d9d2a82f49cda33d33d
-Guru meditation: bm1Md2tNeXpjTktoT0xRSFZTNGN6ZktUZXJsMDA4MDg=
+## Rosatom permits China's Sealegend Shipping to transit NSR as part of launching regular container route
+
+MOSCOW. Aug 7 (Interfax) - Rosatom has permitted China's Sealegend Shipping to transit the Northern Sea Route (NSR) as part of launching a regular container route, Rosatom CEO Alexei Likhachev told the state nuclear energy corporation's Strana Rosatom in-house publication.
+
+"Last year, we announced that we had piloted international container transit from China to Europe via the Northern Sea Route for the first time. On October 13, 2025, a Chinese container ship arrived at the British port of Felixstowe. The entire journey took just 20 days, thereby confirming the feasibility of such fast and efficient transits. A journey through the Suez Canal would have taken approximately 37 days," Likhachev noted.
+
+"Today, we are taking the next step. The Chinese shipping company Sealegend Shipping is indeed planning to launch the first regular weekly container route to Europe via the Northern Sea Route. Rosatom has already issued permits for seven vessels to transit the NSR," Likhachev said when commenting on Sealegend Shipping's launch of the first-ever regular weekly container service between China and Europe via the NSR.
+
+Likhachev said that unlike previous container shipments along the NSR, which were experimental or one-off in nature, the 2026 program envisages full-fledged liner service with ships departing weekly during the navigation season.
+
+"In essence, China is transitioning to the model we previously announced on the NSR. Ice conditions and navigation permitting, container ships will sail from China to Europe in August-October, albeit on a test basis, like scheduled shuttles. According to the Chinese side, eight voyages will be made using a fleet of seven small and medium-sized container ships," Likhachev explained.
+
+According to Likhachev, the NSR's rollout is taking place amid the persistently difficult situation in the Persian Gulf. The Strait of Hormuz has been officially closed to commercial vessels four times over the past two months alone, he recalled.
+
+"In recent years, we have seen an increase in container shipments by Chinese shipping companies. There were only seven such shipments in 2023, 14 in 2024, and 24 in 2025. We expect more than 30 such shipments this year. Shipments between Chinese and Russian ports already account for nearly 15% of all cargo traffic along the NSR. According to our joint plans, cargo traffic between Russia and China via the NSR should reach 20 million tonnes by 2030," Likhachev added.
+
+In 2018, Rosatom was appointed operator to develop the Northern Sea Route infrastructure, including the nuclear-powered icebreaker fleet. Rosatom is developing a feasibility study for a project to create a container line and hub ports on the eastern and western sides of the route for cargo transit along the NSR.

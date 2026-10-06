@@ -1,0 +1,66 @@
+URL:         https://www.highnorthnews.com/en/norway-inspect-sanctioned-tankers-efforts-curb-russian-shadow-fleet
+Кінцевий:    https://en.highnorthnews.com/politics/norway-to-inspect-sanctioned-tankers-in-efforts-to-curb-russian-shadow-fleet/229349
+Заголовок:   Norway to Inspect Sanctioned Tankers in Efforts To Curb Russian Shadow Fleet
+Дата публ.:  2025-08-11
+Завантажено: 2026-10-06 13:28 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 227079
+Оригінал:    raw/60-highnorthnews.com-norway-inspect-sanctioned-tankers-efforts-curb-russi.html
+sha256:      590a6dec35f145a1e376a855b83e72c5152cf29967da84c1ff31e30707a9d05c
+Витяг:       trafilatura
+
+==============================================================================
+politics
+
+# 
+    #  Norway to Inspect Sanctioned Tankers in Efforts To Curb Russian Shadow Fleet
+
+
+    Norway has announced to begin inspecting foreign-flagged tankers passing through its waters. The measures follow similar policies by Norway’s European neighbors in an effort to curb Russian shadow fleet activity and ensure that vessels carry appropriate levels of insurance coverage.
+
+Norway will begin to crack down on uninsured or underinsured oil tankers passing through its waters, [the government has announced](https://www.regjeringen.no/no/aktuelt/norge-skjerper-innsatsen-mot-skyggeflaten/id3115385/). The measures, which come into effect on August 11, are primarily aimed at vessels carrying Russian crude oil.
+
+With hundreds of ships now sanctioned, Russia is increasingly relying on a fleet of aging and often poorly maintained oil tankers to circumvent the Group of Seven (G7) oil price cap.
+
+Western firms routinely shy away from providing protection and indemnity (P&I) insurance to older and sanctioned vessels.
+
+### No consequences
+
+This means shadow fleet vessels turn to smaller, lower-tier Russian state-backed insurers, raising questions over the sufficiency of coverage in case of accidents or spills.
+
+Norway’s government now aims to request, on a voluntary basis, insurance information from foreign-registered oil tankers entering its 200 nautical mile Exclusive Economic Zone.
+
+However, there are no direct consequences or automatic penalties for vessels that elect not to comply with the inquiries or are found to have insufficient coverage.
+
+### Shadow fleet in Northern Norway
+
+Over the past several years Norway’s northern waters have seen an increase in shadow fleet activity, both from oil tanker and liquefied natural gas carriers.
+
+Russia’s Kola Peninsula and its main Arctic port of Murmansk to the east of Kirkenes have developed into a transit hub for oil carried aboard sanctioned tankers.
+
+Automatic Identification System (AIS) data routinely shows multiple such vessels idling in the Barents Sea off Norway’s northern coast before traveling into Kola Bay to load crude oil near Murmansk.
+
+More than 440 vessels in Russia’s shadow fleet have now been sanctioned by the European Union, with several dozens routinely passing through Norway’s coastal waters.
+
+The issue could escalate further across Norway’s Arctic waters as Russia’s massive Vostok Oil project comes online in 2026; and with it additional shipments of several million tonnes of crude oil.
+
+“The government takes the challenges associated with the shadow fleet seriously. This type of traffic poses an increased risk to both the environment and safety at sea, while also helping to finance Russia's illegal warfare,” says Minister of Fisheries and the Oceans Marianne Sivertsen Næss (Labor).
+
+### Norway now aligned with European allies
+
+The inspections will be carried out by the Coast Administration in cooperation with the Norwegian Maritime Directorate.
+
+The measures follow similar earlier efforts by European allies, including Denmark, Finland, Sweden, Germany, and the United Kingdom, as a first step to combating Russia’s growing shadow fleet.
+
+### The government takes the challenges associated with the shadow fleet seriously
+
+Importantly, the issue of sanctioned vessels in Norway’s waters is not limited to oil tankers alone. Last summer several shadow fleet liquefied natural gas (LNG) carriers engaged in unsafe practices spoofing or disabling their location transponders.
+
+### Fake insurances
+
+Earlier this year a LNG tanker passed through waters outside Honningsvåg just days before being sanctioned by the European Union.
+
+Norway also sits at the center of a maritime insurance scheme involving fake insurance certificates for dozens of aging Russian tankers.
+
+A Norwegian-registered firm, Romarine AS, purported to offer Western insurance coverage in case of pollution or accidents. However the firm was not registered through Norway’s Financial Supervisory Authority (FSA) and thus the policies it issued were invalid, [Reuters](https://www.reuters.com/business/energy/firm-issued-fake-insurance-russian-oil-tankers-norways-fsa-says-2025-04-02/) reported.
+
+An investigation by Norwegian authorities into the firm and its alleged practices remains ongoing.

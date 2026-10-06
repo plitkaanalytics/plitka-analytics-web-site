@@ -1,0 +1,257 @@
+URL:         https://www.highnorthnews.com/en/norway-inspect-sanctioned-tankers-efforts-curb-russian-shadow-fleet
+Кінцевий:    https://en.highnorthnews.com/politics/norway-to-inspect-sanctioned-tankers-in-efforts-to-curb-russian-shadow-fleet/229349
+Заголовок:   Norway to Inspect Sanctioned Tankers in Efforts To Curb Russian Shadow Fleet
+Дата публ.:  2025-08-11
+Завантажено: 2026-10-06 13:28 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 227079
+Оригінал:    raw/60-highnorthnews.com-norway-inspect-sanctioned-tankers-efforts-curb-russi.html
+sha256:      590a6dec35f145a1e376a855b83e72c5152cf29967da84c1ff31e30707a9d05c
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 44
+==============================================================================
+Handout photo from January 10, 2025 showing 'shadow fleet' tanker Eventin, carrying around 99,000 metric tons of oil from Russia.(Source: German Central Command for Maritime Emergencies)
+AIS tracks of four sanctioned shadow fleet tankers in recent days.(Source: Shipatlas)
+Norway’s Minister of Fisheries and the Oceans Marianne Sivertsen Næss (Labor).
+EU Sanctions Russian ‘Shadow Fleet’ Vessels Routinely Passing Through Norwegian Waters, Stopping at Honningsvåg
+Finland Welcomes New EU Commissioner: Focus On Regions Bordering Russia
+New Business Plan for Longyearbyen to Strengthen Length of Residence and Business Friendliness
+South Korea's Panstar Completes Arctic Container Trial Voyage At Impressive Speeds, But Business Case Remains Unclear
+That Feeling When You Have the State Budget Your Pocket - Anything is Possible
+Commander of NATO's Arctic-focused HQ Sets Out Readiness Priorities as Security Landscape Changes
+Attention to Unrealised Chinese Projects May Overstate China's Arctic Influence
+Trump Calls $54 Billion South Korean Alaska LNG Investment a Done Deal. Seoul Says Not So Fast
+Arctic Oil, Defence and Drones: September’s Top Stories
+Greenland Reflects on 30 Years of Cooperation in the Arctic Council
+Glaciers in Svalbard Are Melting at a Record Pace
+Historic Change of Command for NATO Headquarters Responsible for the Arctic, the North Atlantic and the Nordic Region
+Discovery of Viking Church Ruins in Greenland
+A Melting Arctic Does Not Necessarily Mean Easier Shipping
+U.S. Sanctions Law Could Upend the EU’s Russian LNG Timeline
+Arctic Council at 30: Behind The Scenes
+Step Inside The World's Largest Naval Base
+Minister of Trade and Industry: "Monitoring The Situation in Eastern Finnmark Closely"
+"Hybrid Threats at Sea in The Arctic Have Become a Greater Problem"
+"Unthinkable That Anyone Could Threaten Europe's Security"
+Time to Strengthen the 1920 Svalbard Treaty
+Marie’s Disease is More Common The Farther North You Go – Now Researchers Are Looking For Answers
+Ukraine’s Deepest Drone Strike Reaches Russia’s Arctic Gas Heartland
+Arctic Industry Hit by Sanctions: "Responsibility For the Transition Cannot Rest Solely With The Businesses"
+EU Should Establish Arctic Monitoring Unit, Says Researchers
+12 European States Call on EU to Expand Arctic Presence Amid Growing Threats
+EU Spends More on Russian Arctic LNG in Eight Months Than All of 2025
+Champions League is Back: Tough Opposition for Arctic Football Team Bodø/Glimt in Munich
+Arctic Diplomacy, Defence and a Warming Paradox
+The Norwegian Coast Guard on Comprehensive Operation to Strengthen Arctic Cooperation
+Russian Ship Arrested on Svalbard: "The Svalbard Treaty Does Not Grant Immunity"
+Ancient Arctic Gene Variants May Increase The Risk of Modern Diseases Among Greenlanders
+Greenland – USA: Diplomacy’s Victory Over Gangster Tactics
+Russia Opens Massive Arctic Vostok Oil Project Despite Sustained Western Sanctions
+Historic Launch From Andøya Spaceport: "A Breakthrough for European Space Activities"
+High North News is an independent newspaper published by the High North Center at the Nord university. High North News follows the
+Norwegian Press Code of Ethics
+and is edited according to the
+Association of Norwegian Editors – Rights and Duties of the Editor
+. High North News is not responsible for the content or opinions expressed on external web pages.
+High North News. All Rights Reserved.
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Norway to Inspect Sanctioned Tankers in Efforts To Curb Russian Shadow Fleet
+Jump to main content
+NOR
+ENG
+Search
+Menu
+Business
+Politics
+Science
+Arctic Living
+Opinions
+Employees
+Newsletter
+Contact
+About us
+LinkedIn
+Facebook
+X
+Instagram
+Bluesky
+High North News
+Business
+Politics
+Science
+Arctic Living
+Opinions
+Search
+Menu
+Business
+Politics
+Science
+Arctic Living
+Opinions
+Employees
+Newsletter
+Contact
+About us
+LinkedIn
+Facebook
+X
+Instagram
+Bluesky
+NOR
+ENG
+politics
+Norway to Inspect Sanctioned Tankers in Efforts To Curb Russian Shadow Fleet
+Handout photo from January 10, 2025 showing 'shadow fleet' tanker Eventin, carrying around 99,000 metric tons of oil from Russia.(Source: German Central Command for Maritime Emergencies)
+Norway has announced to begin inspecting foreign-flagged tankers passing through its waters. The measures follow similar policies by Norway’s European neighbors in an effort to curb Russian shadow fleet activity and ensure that vessels carry appropriate levels of insurance coverage.
+Malte Humpert
+Malte
+Humpert
+Published
+11 August 2025 - 08:41
+Modified
+11 August 2025 - 08:41
+Norway will begin to crack down on uninsured or underinsured oil tankers passing through its waters,
+the government has announced
+. The measures, which come into effect on August 11, are primarily aimed at vessels carrying Russian crude oil.
+With hundreds of ships now sanctioned, Russia is increasingly relying on a fleet of aging and often poorly maintained oil tankers to circumvent the Group of Seven (G7) oil price cap.
+Western firms routinely shy away from providing protection and indemnity (P&I) insurance to older and sanctioned vessels.
+No consequences
+This means shadow fleet vessels turn to smaller, lower-tier Russian state-backed insurers, raising questions over the sufficiency of coverage in case of accidents or spills.
+Norway’s government now aims to request, on a voluntary basis, insurance information from foreign-registered oil tankers entering its 200 nautical mile Exclusive Economic Zone.
+However, there are no direct consequences or automatic penalties for vessels that elect not to comply with the inquiries or are found to have insufficient coverage.
+Shadow fleet in Northern Norway
+Over the past several years Norway’s northern waters have seen an increase in shadow fleet activity, both from oil tanker and liquefied natural gas carriers.
+Russia’s Kola Peninsula and its main Arctic port of Murmansk to the east of Kirkenes have developed into a transit hub for oil carried aboard sanctioned tankers.
+Automatic Identification System (AIS) data routinely shows multiple such vessels idling in the Barents Sea off Norway’s northern coast before traveling into Kola Bay to load crude oil near Murmansk.
+AIS tracks of four sanctioned shadow fleet tankers in recent days.(Source: Shipatlas)
+More than 440 vessels in Russia’s shadow fleet have now been sanctioned by the European Union, with several dozens routinely passing through Norway’s coastal waters.
+The issue could escalate further across Norway’s Arctic waters as Russia’s massive Vostok Oil project comes online in 2026; and with it additional shipments of several million tonnes of crude oil.
+“The government takes the challenges associated with the shadow fleet seriously. This type of traffic poses an increased risk to both the environment and safety at sea, while also helping to finance Russia's illegal warfare,” says Minister of Fisheries and the Oceans Marianne Sivertsen Næss (Labor).
+Norway now aligned with European allies
+The inspections will be carried out by the Coast Administration in cooperation with the Norwegian Maritime Directorate.
+The measures follow similar earlier efforts by European allies, including Denmark, Finland, Sweden, Germany, and the United Kingdom, as a first step to combating Russia’s growing shadow fleet.
+The government takes the challenges associated with the shadow fleet seriously
+Norway’s Minister of Fisheries and the Oceans Marianne Sivertsen Næss (Labor).
+Importantly, the issue of sanctioned vessels in Norway’s waters is not limited to oil tankers alone. Last summer several shadow fleet liquefied natural gas (LNG) carriers engaged in unsafe practices spoofing or disabling their location transponders.
+Fake insurances
+Earlier this year a LNG tanker passed through waters outside Honningsvåg just days before being sanctioned by the European Union.
+Norway also sits at the center of a maritime insurance scheme involving fake insurance certificates for dozens of aging Russian tankers.
+A Norwegian-registered firm, Romarine AS, purported to offer Western insurance coverage in case of pollution or accidents. However the firm was not registered through Norway’s Financial Supervisory Authority (FSA) and thus the policies it issued were invalid,
+Reuters
+reported.
+An investigation by Norwegian authorities into the firm and its alleged practices remains ongoing.
+Also read
+EU Sanctions Russian ‘Shadow Fleet’ Vessels Routinely Passing Through Norwegian Waters, Stopping at Honningsvåg
+Finland Welcomes New EU Commissioner: Focus On Regions Bordering Russia
+sanctions
+russia
+politics
+oil tankers
+norway
+arctic
+shadow fleet
+politics
+New Business Plan for Longyearbyen to Strengthen Length of Residence and Business Friendliness
+business
+South Korea's Panstar Completes Arctic Container Trial Voyage At Impressive Speeds, But Business Case Remains Unclear
+opinions
+That Feeling When You Have the State Budget Your Pocket - Anything is Possible
+politics
+Commander of NATO's Arctic-focused HQ Sets Out Readiness Priorities as Security Landscape Changes
+science
+Attention to Unrealised Chinese Projects May Overstate China's Arctic Influence
+politics
+Trump Calls $54 Billion South Korean Alaska LNG Investment a Done Deal. Seoul Says Not So Fast
+opinions
+Arctic Oil, Defence and Drones: September’s Top Stories
+politics
+Greenland Reflects on 30 Years of Cooperation in the Arctic Council
+science
+Glaciers in Svalbard Are Melting at a Record Pace
+politics
+Historic Change of Command for NATO Headquarters Responsible for the Arctic, the North Atlantic and the Nordic Region
+science
+Discovery of Viking Church Ruins in Greenland
+science
+A Melting Arctic Does Not Necessarily Mean Easier Shipping
+politics
+U.S. Sanctions Law Could Upend the EU’s Russian LNG Timeline
+politics
+Arctic Council at 30: Behind The Scenes
+opinions
+Step Inside The World's Largest Naval Base
+politics
+Minister of Trade and Industry: "Monitoring The Situation in Eastern Finnmark Closely"
+politics
+"Hybrid Threats at Sea in The Arctic Have Become a Greater Problem"
+politics
+"Unthinkable That Anyone Could Threaten Europe's Security"
+opinions
+Time to Strengthen the 1920 Svalbard Treaty
+science
+Marie’s Disease is More Common The Farther North You Go – Now Researchers Are Looking For Answers
+politics
+Ukraine’s Deepest Drone Strike Reaches Russia’s Arctic Gas Heartland
+business
+Arctic Industry Hit by Sanctions: "Responsibility For the Transition Cannot Rest Solely With The Businesses"
+politics
+EU Should Establish Arctic Monitoring Unit, Says Researchers
+politics
+12 European States Call on EU to Expand Arctic Presence Amid Growing Threats
+politics
+EU Spends More on Russian Arctic LNG in Eight Months Than All of 2025
+arctic living
+Champions League is Back: Tough Opposition for Arctic Football Team Bodø/Glimt in Munich
+opinions
+Arctic Diplomacy, Defence and a Warming Paradox
+politics
+The Norwegian Coast Guard on Comprehensive Operation to Strengthen Arctic Cooperation
+politics
+Russian Ship Arrested on Svalbard: "The Svalbard Treaty Does Not Grant Immunity"
+science
+Ancient Arctic Gene Variants May Increase The Risk of Modern Diseases Among Greenlanders
+opinions
+Greenland – USA: Diplomacy’s Victory Over Gangster Tactics
+politics
+Russia Opens Massive Arctic Vostok Oil Project Despite Sustained Western Sanctions
+business
+Historic Launch From Andøya Spaceport: "A Breakthrough for European Space Activities"
+HIGH
+NORTH
+NEWS
+ABOUT US
+High North News is an independent newspaper published by the High North Center at the Nord university. High North News follows the
+Norwegian Press Code of Ethics
+and is edited according to the
+Association of Norwegian Editors – Rights and Duties of the Editor
+. High North News is not responsible for the content or opinions expressed on external web pages.
+ADDRESS:
+High North News
+Nord University
+Postbox 1490
+8049 Bodø
+Norway
+EDITOR IN CHIEF:
+Trine Jonassen
+TELEPHONE:
+(+47) 917 77 527
+E-MAIL HIGH NORTH NEWS
+EDITORIAL STAFF:
+EDITOR/COMMENTATOR:
+Arne O. Holm
+Tel:
+(+47) 905 29 472
+JOURNALIST:
+Hilde-Gunn Bye
+JOURNALIST:
+Astri Edvardsen
+TRANSLATOR:
+Birgitte Annie Hansen
+Copyright © 2026
+High North News. All Rights Reserved.
+Powered by Labrador CMS

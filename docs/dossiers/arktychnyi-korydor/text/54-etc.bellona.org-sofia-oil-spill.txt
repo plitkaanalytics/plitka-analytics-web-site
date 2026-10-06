@@ -1,0 +1,98 @@
+URL:         https://etc.bellona.org/2026/05/03/sofia-oil-spill/
+Кінцевий:    https://etc.bellona.org/2026/05/03/sofia-oil-spill/
+Заголовок:   Russian Shadow Fleet Tanker Responsible for Black Sea Oil Spill Regularly Used the Northern Sea Route - etc.bellona.org
+Дата публ.:  2026-05-03
+Завантажено: 2026-10-06 13:27 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 86803
+Оригінал:    raw/54-etc.bellona.org-sofia-oil-spill.html
+sha256:      00482347e5736c405370476f27c0e9216f0ecbfb32ca00e2abaf30d3c2496860
+Витяг:       trafilatura
+
+==============================================================================
+[
+              
+          
+    ](https://etc.bellona.org/2026/04/02/kerch-strait-spill-lessons/)
+
+### Russia is not prepared for oil spills, Kerch Strait report shows
+
+And what that means for Arctic Shipping and the Northern Sea Route
+
+News
+
+Publish date: 03/05/2026
+
+Written by: Vsevolod Levchenko
+
+Translated by: Charles Digges
+
+News
+
+            An oil spill from a 26-year-old Russian shadow fleet tanker in the Black Sea could just as easily have occurred in the Arctic. The involved tanker, the Sofia, made several transit voyages along the Northern Sea Route during summer-autumn navigation period for three years between 2022 and 2025
+          
+
+ 
+          
+                On April 7, an oil spill occurred near Anapa in the Black Sea. At the time, the *Sofia* (IMO 9211999) was operating in the immediate vicinity. [According](https://t.me/twrussia/5976) to the environmental monitoring project *Transparent World*, which detected the spill in satellite imagery, the discharge occurred overnight from April 6 to April 7 approximately 47 kilometers west of Anapa. 
+
+The initial spill covered [about 8 square kilometers](https://t.me/twrussia/5989). By April 17, it had expanded to [581 square kilometers](https://t.me/twrussia/5989). On April 18, the spill split into two major fragments measuring 220 and 228 square kilometers, which then drifted toward open sea. 
+
+Using Sentinel satellite imagery, RiskSat estimated that [300–350 tons](https://t.me/evitishko/824) of petroleum products entered the environment. The exact substance has not been identified, though *Transparent World* believes it was crude oil or heavy ship fuel (HFO). The cause also remains unclear.  Officials with operational headquarters in Krasnodar [have claimed](https://t.me/opershtab23/15681) a Ukrainian drone attack was the most likely cause, but have provided no evidence for that assertion (f.e. photo or video recording).
+
+The situation was complicated by the fact that the spill only became publicly known five days after the fact. The Krasnodar operational headquarters [detected](https://www.forbes.ru/society/559036-v-cernom-more-u-poberez-a-anapy-obnaruzili-patno-nefteproduktov) an oil slick on April 11, only when it had approached within 11 km of Anapa. That same day, local residents first reported birds covered in fuel oil washing ashore. 
+
+On April 16, the operational headquarters [reported](https://t.me/opershtab23/15682) that over the previous two days more than 200 dead and oil-covered birds had been found along the Anapa coast, though the post was later deleted. Volunteers had [reported](https://t.me/ecozhora/7389) 320 contaminated birds as early as April 12. Dead dolphins have also been [reported](https://semnasem.org/articles/2026/04/13/anapa-posle-razlivov). 
+
+Initially, [three vessels](https://meduza.io/news/2026/04/17/ekologi-zayavili-chto-razliv-nefteproduktov-v-chernom-more-veroyatno-proizoshel-iz-za-sudna-tenevogo-flota) from Russia’s Marine Rescue Service were deployed in response. They collected about [28 tons](https://www.kommersant.ru/doc/8603712) of oil-water mixture. According to the operational headquarters, containment booms were installed and part of the slick was treated with 45 kilograms of biosorbent. 
+
+In addition, as of April 17, Russian authorities said 247 tons of contaminated shoreline material had been collected. Officials reported [400 meters](https://t.me/opershtab23/15693) of coastline outside the city were cleaned on April 12 (though volunteers involved in the work say it was [300 meters](https://semnasem.org/articles/2026/04/13/anapa-posle-razlivov)), followed by another 600 meters on April 13. Cleanup was [also conducted](https://t.me/opershtab23/15696) on Anapa’s central beach, where contamination extended for an estimated [170 meters](https://t.me/opershtab23/15695).
+
+The last available data on the tanker spill dates to April 20. On this day, the second of four and one of the most destructive waves of drone attacks [struck](https://militarnyi.com/en/news/drones-strike-russian-oil-refinery-in-tuapse-storage-tanks-ablaze/) the oil refinery and marine terminal in Tuapse, about 150 kilometers from the *Sofia* spill site (the first attack was April 16, the third April 28). Drones hit oil storage and transfer infrastructure, triggering a major fire involving tanks and port facilities. Another petroleum spill occurred in the Black Sea, and residents reported an [“oil rain”](https://www.rferl.org/a/burning-russian-refinery-triggers-environmental-crisis-in-tuapse/33741860.html?utm_source=chatgpt.com) in the city. It is likely that emergency and volunteer resources were redirected there. 
+
+According to Global Fishing Watch data, *Sofia* does not only operate in the Black Sea. During summer navigation it has sailed along the entire Russian Arctic coast — from Murmansk to Anadyr on the Pacific Ocean. 
+
+In May 2022, shortly after the war began, the vessel changed its flag from Maltese to Russian and began switching off its AIS transponder while passing along European coasts from Norway to the Bosporus and occasionally in other waters, concealing its true location.
+
+Such practices can delay awareness of accidents and reduce the effectiveness of emergency response. This appears to have happened with *Sofia*: its transponder was turned off during the incident. 
+
+Risks associated with shadow fleet vessels are amplified by opaque ownership structures, in some cases inadequate insurance coverage for environmental damage, and vessel age and wear. *Sofia*, for example, is an Aframax tanker without ice class, [built in 2000](https://war-sanctions.gur.gov.ua/en/transport/shadow-fleet/676).
+
+Even beyond this, the leak itself was effectively concealed, and only became known once the slick reached a major city. That *Sofia* was the pollution source was established solely through a public environmental organization, not through investigation by responsible authorities. 
+
+And this happened in a shipping region located near Marine Rescue Service and Emergency Ministry bases. By contrast, along Russia’s Arctic coast emergency rescue centers exist in only [eight settlements](https://ru.bellona.org/2025/05/16/rossiya-ne-imeet-neobhodimyh-resursov-dlya-likvidatsii-avarij-na-severnom-morskom-puti/), and the distance between two neighboring centers at Pevek and Tiksi on the Murmansk-Anadyr route is about 1,500 kilometers by air and around 2,000 kilometers by sea. There are also far fewer populated areas whose residents might detect and report spills than along the Black Sea coast. 
+
+At the same time, [100 shadow fleet vessels](https://ru.bellona.org/2025/12/17/smp-2025/) reportedly operated along the Northern Sea Route in 2025 alone. 
+
+In 2026, Rosatom — the route’s infrastructure operator — stopped publishing the list of vessels granted transit permits on the Northern Sea Route. Information on [vessel locations](https://nsr.rosatom.ru/en/current-information/information-about-movements-of-the-vessels-which-are-nearby-the-water-area-and-in-the-water-area-of-/?arrFilter_ff%5BNAME%5D=&arrFilter_DATE_ACTIVE_FROM_1=25.10.2025&arrFilter_DATE_ACTIVE_FROM_2=11.11.2025&set_filter=Show&set_filter=Y), accidents and incidents along the route has also ceased to be publicly available. 
+
+In addition, in January 2026 Russia reportedly [attempted to shelter](https://ru.bellona.org/2026/01/08/marinera-arctic/) a foreign shadow fleet tanker, *Marinera*, in Murmansk, further increasing concerns tied to shadow fleet operations. 
+
+Beyond the timeliness of response lies the question of effectiveness. Too few Marine Rescue Service vessels were assigned to the *Sofia* spill, recovering only 28 tons of already diluted mixture. 
+
+A more revealing example is the [wreck](https://ru.bellona.org/2026/04/03/kerch-strait-spill-analysis/) of the tankers *Volgoneft-212* and *Volgoneft-239*, carrying fuel oil, on December 15, 2024. 
+
+Russian emergency response services proved wholly unprepared to contain a spill even from relatively small tankers in comparatively favorable climatic conditions (compared with winter in other Russian seas), in shallow waters, and despite an emergency response center being located within 100 kilometers.
+
+The consequences [remain unresolved](https://t.me/opershtab23/15666) nearly a year and a half later, while fuel oil pollution was detected [as far as Odesa](https://mezha.net/eng/bukvy/russian-tanker-fuel-oil-spill-reaches-odessa-coast-threatening-black-sea-ecosystem/), 600 kilometers from the accident site.
+
+In a report submitted to the International Maritime Organization on December 5, 2025 concerning response to the Kerch Strait disaster, Russia explicitly stated that it [lacks](https://ru.bellona.org/2026/04/03/kerch-strait-spill-analysis/) a winter maritime heavy-fuel spill response plan. Nothing is known about creation of such a plan.
+
+The report says many failures and delays were linked to the behavior of heavy fuel oil in cold water. But delayed removal of fuel from the grounded stern of *Volgoneft-239*, resulting in additional pollution, problems with shoreline cleanup and waste disposal, and the use of river-sea tankers in storm conditions in open waters point to a broader systemic problem. 
+
+Two incidents over the past six months also stand out in which Russia reportedly refused to assist its own vessels in distress. One involved the LNG tanker *Arktik Metagaz*, [reportedly attacked](https://www.rfi.fr/en/international/20260406-ukrainian-forces-operating-in-western-libya-as-covert-war-grows-rfi-investigation) by Ukrainian drone boats and drones near Sicily. 
+
+Although sailing under Russian flag, it received no assistance from Russian authorities, aside from [sending Russian crew members home](https://mid.ru/ru/foreign_policy/news/2085423/) after they were rescued by the Libyan coast guard. *Arktik Metagaz* reportedly remains adrift in the Mediterranean. Surviving tanks may still contain LNG and liquid fuel, posing risks to shipping, coastal settlements, and marine and coastal ecosystems. 
+
+In November, another Russian shadow fleet tanker, *Kairos*, sailing under Gambian flag, was also [left without assistance](https://apnews.com/article/bulgaria-russia-turkey-black-sea-tanker-kairos-093450b20b198f81c31228636b7e36f7). Fortunately, it had unloaded its oil cargo before the accident and did not pose a major environmental threat. But it later emerged that ten crew members had been left aboard without a captain or first officer, with limited food, water and power. Bulgaria launched a rescue operation on December 7, while Russia made no effort to assist crew or vessel.
+
+Taken together, these cases once again suggest that Russia lacks not only the capability but also, at times, the willingness to address the environmental consequences of its fleet’s operations, investigate their causes, or even save crew members in distress. Where consequences do not threaten political or economic interests or trigger major public pressure, they appear often to be ignored.
+
+In the Russian Arctic — with its sparse population and vast distances between settlements — an oil spill or other serious industrial accident could be similarly overlooked, unless it threatens a major infrastructure project.
+
+And what that means for Arctic Shipping and the Northern Sea Route
+
+Russia, which owns the tanker, also does not seem willing to organize a rescue operation
+
+The oil tanker Marinera, detained on January 7 by the U.S. Coast Guard, has no direct connection to Russian resource extraction projects and is linked to Hezbollah. Russia attempted to hide it in the port of Murmansk
+
+This is 87 more than in the previous year
