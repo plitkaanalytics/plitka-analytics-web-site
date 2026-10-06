@@ -1,0 +1,60 @@
+URL:         https://www.nbcnews.com/world/greenland/trump-us-take-greenland-denmark-china-russia-europe-arctic-defense-rcna253546
+Кінцевий:    https://www.nbcnews.com/world/greenland/trump-us-take-greenland-denmark-china-russia-europe-arctic-defense-rcna253546
+Заголовок:   Greenland faces 'fateful moment' as Trump says U.S. will take it 'one way or the other'
+Дата публ.:  2026-01-12
+Завантажено: 2026-10-06 13:15 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 509599
+Оригінал:    raw/44-nbcnews.com-trump-us-take-greenland-denmark-china-russia-europe-arctic.html
+sha256:      d3e5c84df97ab9c171063e1460c15a68b0a7b2ca2918806e8007f5dfc4628116
+Витяг:       trafilatura
+
+==============================================================================
+The showdown over Greenland is at a “fateful moment,” Denmark’s prime minister warned, as President Donald Trump renewed his threat [to seize the Arctic island ](https://www.nbcnews.com/politics/congress/chris-murphy-end-nato-alliance-us-annexed-greenland-denmark-rcna253440)"one way or the other."
+
+As European powers scrambled to convince the United States to step back from [its threats over the territory,](https://www.nbcnews.com/world/greenland/trump-greenland-hopes-russia-china-rcna252965) a semiautonomous region of NATO member Denmark, the military alliance's secretary-general, Mark Rutte, said Monday that the Arctic had to be a priority. 
+
+His comments came after Danish Prime Minister Mette Frederiksen said Sunday that her country was “at a crossroads,” with Trump’s threats sending shock waves through NATO capitals and forcing Europe to weigh plans that might display its commitment to security in the Arctic.
+
+Trump has insisted that the [U.S. must take control of Greenland to prevent Russia or China from doing the same](https://www.nbcnews.com/politics/donald-trump/us-action-greenland-whether-like-it-or-not-denmark-rcna253234) — an argument Beijing dismissed as "an excuse" to pursue his territorial ambitions. 
+
+“I am not going to let that happen,” Trump told reporters aboard Air Force One late Sunday of allowing America's geopolitical rivals to control the vast, mineral-rich territory.
+
+Asked if there was any deal either Greenland or Denmark could offer to prevent military action, Trump said he would love to make a deal. “It’s easier,” he said, adding: “But one way or the other, we’re going to have Greenland.”
+
+His comments come as Danish and Greenlandic envoys are expected in Washington this week for talks.
+
+Denmark's Frederiksen said Sunday on Facebook that “disagreements and conflicts between the United States and Europe only benefit our adversaries. They weaken us and strengthen them.”
+
+“Denmark is a loyal and strong ally. We are in the midst of a significant rearmament, and we are ready to defend our values — wherever it is necessary — also in the Arctic,” Frederiksen added. “We believe in international law and in peoples’ right to self-determination.”
+
+Frederiksen said last week that an American attack on a NATO state would mean the end of the alliance, a message echoed Monday by European Union Defense Commissioner Andrius Kubilius.
+
+Kubilius also said that the E.U. Treaty obliged member states to come to Copenhagen’s assistance if faced with military aggression, but that “it will depend very much on Denmark.”
+
+Trump told reporters on Air Force One that although he "liked" the alliance, NATO needed the U.S. more than the other way around.
+
+Trump also reiterated his previous disparaging comment about Greenland’s defense, saying it consists of “two dog sleds.”
+
+“In the meantime, you have Russian destroyers and submarines and China destroyers and submarines all over the place,” he added.
+
+Experts have questioned the presence of these ships, and Beijing pushed back Monday at Trump’s assertions that China had designs over Greenland.
+
+“The Arctic involves the collective interests of the international community,” Chinese Foreign Ministry spokesperson Mao Ning said in a daily briefing, adding that China’s activities in the region were “promoting peace, stability, and sustainable development” while complying with international law.
+
+“The United States should not use other countries as an excuse to pursue its own private interests,” she added.
+
+Meanwhile, Europe sought to prove to the U.S. that it was prioritizing Arctic security.
+
+Rutte, of NATO, said Monday that alliance members were working on the next steps for how to collectively keep the Arctic safe, adding that "all allies agree on the importance of the Arctic and Arctic security, because we know that with sea lanes opening up, there is a risk that the Russians and the Chinese will be more active."
+
+Belgium’s defense minister told Reuters on Sunday that NATO should launch an operation in the Arctic to address Washington's security concerns.
+
+“We have to collaborate, work together and show strength and unity,” Theo Francken said, adding that there was a need for “a NATO operation in the high north.”
+
+German Chancellor Friedrich Merz said Monday that he expected the U.S. to continue to protect Greenland together with Denmark, but that ongoing talks would determine the exact nature of the collaboration. A senior British minister said Sunday the United Kingdom was working with NATO allies to bolster security in the Arctic.
+
+Greenland's government also said Monday that it would increase efforts to ensure its defense takes place under the auspices of NATO.
+
+Asked if European plans to beef up Arctic security change his calculus on Greenland, Trump told reporters on Air Force One they did not.
+
+“You need ownership,” he added. “You really need title as they say in the real estate business.”

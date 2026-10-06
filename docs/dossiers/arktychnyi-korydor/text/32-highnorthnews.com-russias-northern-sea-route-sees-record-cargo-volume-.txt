@@ -1,0 +1,62 @@
+URL:         https://www.highnorthnews.com/en/russias-northern-sea-route-sees-record-cargo-volume-2018
+Кінцевий:    https://en.highnorthnews.com/business/russias-northern-sea-route-sees-record-cargo-volume-in-2018/156444
+Заголовок:   Russia’s Northern Sea Route Sees Record Cargo Volume in 2018
+Дата публ.:  2019-02-19
+Завантажено: 2026-10-06 13:07 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 226905
+Оригінал:    raw/32-highnorthnews.com-russias-northern-sea-route-sees-record-cargo-volume-.html
+sha256:      9e0c0bc570be2fb3b0607c086e3c27c12ce1152c074ca36251744f7220a74742
+Витяг:       trafilatura
+
+==============================================================================
+business
+
+# 
+    #  Russia’s Northern Sea Route Sees Record Cargo Volume in 2018
+
+
+    Russia’s Northern Sea Route saw another record-setting year in 2018 as 18 million tons of cargo traveled along the country’s Arctic coastline. This compares to just 3.9 million tons five years ago in 2013 and also represents an 80 percent increase over 2017.
+
+In contrast to just five years ago when the route saw almost no traffic during the months from December to May, around 20 vessels on average are now active each day during the winter season. Interestingly, despite the increase in cargo volume compared to 2017, the number of vessels operating on the route at any given time decreased by about 20 percent, especially during the summer months.
+
+This indicates that larger vessels, primarily used for the transport of hydrocarbon resources, now frequent the route compared to numerous smaller cargo vessels used for the supply of construction materials during the previous years.
+
+Overall Russia’s Arctic sea ports handled 92.7 million tons, of which 70 percent were related to liquefied natural gas and oil according to the Ministry of Transport. The region’s largest port remains Murmansk, which saw 60.7 million tons of cargo; its highest figure since 2010.
+
+The busiest port along the NSR continues to be Sabetta, where Novatek’s Yamal LNG facility is located, where volumes increased by 30 percent to 17.4 million tons, explains Nikolai Monko, Deputy Director of the NSR Administration.
+
+In total the route saw 164 different companies navigate on the route, including 45 foreign ones. Transit traffic also saw its highest figure since 2013 with 491,000 tons and 26 voyages between Europe and Asia. This compares to 194,000 tons on 27 transits the previous year.
+
+### Largest Non-Russian Operator on NSR
+
+Since 2013 China's COSCO shipping company has been active on this Arctic route. In total it has now conducted 22 commercial voyages along the NSR during which it has transported 624,000 tons of cargo, the majority of which was destined for the Port of Sabetta and included the delivery of construction materials and modules for the LNG plant.
+
+The first COSCO vessel to venture into the Arctic was the *Yong Sheng* in 2013 and 2015. Since then nearly a dozen different Chinese vessels have completed the route. For complete voyages from China to Europe the company states that it saves on average 12 to 15 days in sailing time.
+
+For its trips to the Yamal area the NSR is more than 25 days faster than sailing through the Suez Canal. In total the company has saved 8,948 tons of fuel since 2013 by utilizing the NSR, states Chi Mei Zhang, Vice President of the COSCO shipping company.
+
+For 2019 the company expects to deliver windmill equipment and parts, items it has previously delivered to the UK and Denmark via the NSR.
+
+### New Details on Arctic Shortcut
+
+One of the highlights of the Arctic navigation season was the transit of the first container ship when Danish shipping giant Maersk sent a medium-sized container ship, the *Venta Maersk*, through the Arctic during September 2018. The company has now revealed new information about this groundbreaking and challenging voyage.
+
+The vessel had to deviate from the originally planned route due to sea ice accumulation in the East Siberian Sea. This necessitated assistance from a Rosatomflot icebreaker, and the vessel received a three day escort from nuclear icebreaker *50 Let Pobedy*.
+
+### Saved about 10 days compared to sailing through the Suez Canal
+
+In total the voyage with 25 crew members, including ice pilots, lasted 25 days from the South Korean port of Busan to the German port of Bremerhaven.
+
+René Piil Pedersen, Maersk Group Representative for Asia-Pacific and Managing Director of the Singapore office, explains that it saved about 10 days compared to sailing through the Suez Canal and that the sailing distance was about 30-35 percent shorter.
+
+While the vessel used the cheapest type of marine fuel, heavy fuel oil (HFO), for the first leg of the journey from Busan to the Bering Strait the vessel switched to less dirty ultra low sulfur fuel oil (ULSFO) for the Arctic segment.
+
+In order to safely navigate Arctic waters, the company relied on enhanced fleet broadband satellite coverage, Iridium data and voice communication, long-distance tracking systems for A4 waters, GNSS receiver for GLONASS and GPS, night vision binoculars as well as additional equipment, fuel, supplies, and spare parts.
+
+### More LNG Deliveries to Europe
+
+[Ship-to-ship transfer operations off Norway's coast near Honningsvåg](https://www.highnorthnews.com/en/nine-million-tons-russian-lng-will-be-reloaded-norwegian-waters-during-2019) continue at full speed. During January 2019 nine different LNG carriers conducted 19 transfers of natural gas from Yamal LNG, according to the Arctic Logistics Research Institute (IAL) at Yeongsan University in South Korea.
+
+Deliveries of LNG to Europe have increased this winter as demand for LNG in Asia has been reduced due to an usually warm winter in the region. Thus, even LNG from Yamal destined for Asia has been rerouted to Europe. With about 50 transfers near Honningsvåg completed, the logistics in terms of how much time Novatek saves by transferring LNG in Norwegian waters, have become more clear.
+
+The 1,100-mile voyage from Sabetta to the transfer area takes just 4.2 days, more than five days less compared to a full voyage to Rotterdam.

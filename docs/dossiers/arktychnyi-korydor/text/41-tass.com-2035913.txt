@@ -1,0 +1,401 @@
+URL:         https://tass.com/economy/2035913
+Кінцевий:    https://web.archive.org/web/20251101205528id_/https://tass.com/economy/2035913
+Заголовок:   China's cargo traffic to western ports along Northern Sea Route doubles in 2025 — Rosatom
+Дата публ.:  2025-10-28
+Завантажено: 2026-10-06 13:15 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 156745
+Оригінал:    raw/41-tass.com-2035913.html
+sha256:      d7d665a7d267c9839b21a9da0ed1090e5e428a4336837df6000d67be49476a67
+Витяг:       bs4-full
+Примітка:    оригінал недоступний (0), узято з Wayback
+
+==============================================================================
+China's cargo traffic to western ports along Northern Sea Route doubles in 2025 — Rosatom -  Business & Economy - TASS
+russian news agency
+RU
+Search
+Sections
+Close
+Economy
+Sports
+Culture
+Close
+Russian Politics & Diplomacy
+Russian Politics & Diplomacy
+Into section →
+FOREIGN POLICY
+DOMESTIC POLICY
+World
+World
+Into section →
+Business & Economy
+Business & Economy
+Into section →
+Oil & gas industry
+Internet & Telecom
+Trade & Cooperation
+Transport
+Military & Defense
+Military & Defense
+Into section →
+Science & Space
+Science & Space
+Into section →
+Emergencies
+Emergencies
+Into section →
+Society & Culture
+Society & Culture
+Into section →
+Press Review
+Press Review
+Into section →
+Sports
+Sports
+Into section →
+Special projects
+TASS
+Agency
+TASS today
+History
+Management
+Contacts
+Projects & Services
+TASS-PHOTO
+NEWS TERMINAL
+Personal data processing policy TASS
+Press Releases
+Privacy Policy​ tass.com
+Terms of use
+ANTI-Corruption
+Subscribe
+Social Media
+Telegram
+Subscriptions
+RSS
+Advertising
+Contacts
+{{dayPoint.date | date : 'd MMMM yyyy'}}
+{{newsPoint.date * 1000 | date : 'HH:mm'}} {{newsPoint.mark}}
+{{newsPoint.title}}
+{{newsPoint.title+ ' '}}
+{{newsPoint.subtitle}}
+All news
+ARCTIC TODAY
+China's cargo traffic to western ports along Northern Sea Route doubles in 2025 — Rosatom
+Activities on NSR are growing, Alexey Likhachev said
+MOSCOW, October 28. /TASS/. By the end of the current year, the container traffic from China to western ports via the Northern Sea Route (NSR) will double year-on-year to 400,000 tons, the Rosatom State Corporation's CEO Alexey Likhachev said.
+"We have been expanding joint work with Chinese counterparts. By the end of the year, the container traffic from China to western ports [via NSR] will make 400,000 tons, which is twice bigger year-on-year," the Strana Rosatom newspaper quoted him as saying.
+Activities on NSR are growing, he continued. The corporation has issued this year 1,196 ship permits, and 1,340 ship voyages have taken place (20% growth year-on-year). Transit has increased, and already amounts to 3 million tons of cargo (8% growth year-on-year). "Despite the sanctions, first shipments from the new Arctic project, Arctic LNG-2, have begun," he said.
+Further development of the logistics sector and the Northern Sea Route is based on the president's order to create the Trans-Arctic Transport Corridor (TTC), which will connect all territories adjacent to NSR into a single system and will combine capabilities of sea, river, rail and road transports, he noted. At the same time, NSR will become TTC's key section and its cargo traffic will grow due to mining in the Arctic, bigger international transit, and TTC's connection with the domestic railway network. "This is a huge, national task. We are to ensure reliable and safe navigation in the Arctic, and we will do a lot of work to develop communications and navigation, ship maintenance systems, rescue infrastructures, as well to upgrade seaports in Northwestern Russia, the Arctic and the Far East," he said.
+About NSR's development
+In 2018, the Russian government authorized Rosatom as the Northern Sea Route's infrastructure operator. The plan to 2035 to develop NSR, in terms of Rosatom's responsibility, provides for the creation of necessary infrastructures - from icebreaking vessels building to the creation of ports. In 2024, the Rosatom State Corporation, together with involved federal executive authorities, formed a new federal project - the Development of the Great Northern Sea Route to create a single economic, transport and logistics space from the Russian ports of the Baltic Sea to the Primorsky Region (internal sea waters, territorial sea and adjacent land territories of the Russian Federation). The result would be to expand NSR by integrating into it the ports of St. Petersburg and Kaliningrad. Further on, has emerged the concept of the Trans-Arctic Transport Corridor - from St. Petersburg to Vladivostok through the Arctic Zone ports. Its implementation is expected to lead to a comprehensive transformation of the Far East's economy.
+Tags
+China
+Russian government imposes sanctions against new Ukrainian PM, several ministers
+Former Ukrainian Minister of Justice Denis Maliuska and former Minister of Infrastructure Alexander Kubrakov have also been sanctioned
+Read more
+Prince Andrew, stripped of his title, to receive allowance from British king — media
+According to The Guardian, the amount will reportedly be several times higher than his current $26,000 pension
+Read more
+US may attack Venezuela ‘within hours or days’ — newspaper
+The planned attacks will target military facilities allegedly used by the Cartel de los Soles, which, according to US Secretary of State Marco Rubio, is headed by Venezuelan President Nicolas Maduro
+Read more
+Program of future Czech cabinet includes commitment to EU, NATO
+President Peter Pavel received the program
+Read more
+Russia ready to cooperate with APEC in creative, cultural industries
+Russian Deputy Prime Minister Alexey Overchuk emphasized that Russia was open to joint projects with APEC economies
+Read more
+Vilnius turns to ICAO, EC over unauthorized weather balloon flights
+In the appeal to the EC, Vilnius asks to find means to stop the provocative actions
+Read more
+First major Russian airline permits flight attendants to wear sneakers on board
+Bows and headwear have also been removed from the uniform to enhance practicality
+Read more
+Young diplomats from 20 countries have petitioned UN calling for stop to Kiev's aggression
+Natalia Mikhailova, representative of the Russian Foreign Ministry in Donetsk, emphasized that delegates from the United States, France, and other Western nations participated in the petition process
+Read more
+Istanbul court to return historic Bosphorus villa to Russian Empire diplomat’s heirs
+The property’s current value is estimated at around $1.5 billion
+Read more
+Lithuania to stop transit of Lukoil, Rosneft cargo to Kaliningrad region
+The Lithuanian Railways stressed that it has no direct contacts with Lukoil and Rosneft, their products are transported through Lithuania by freight forwarding companies
+Read more
+Zelensky will fly to Moscow as soon as Western support ends — Finnish politician
+Member of the Finnish national-conservative party, the Freedom Alliance Armando Mema acknowledged that even with continued support, Kiev's chances of military success are limited
+Read more
+CAS rules to bar Russian speed skater Kachanova from int’l tournaments
+Daria Kachanova is the silver and bronze medalist of the World Championships in addition to one gold, two silver and two bronze medals of the European Championships
+Read more
+Elon Musk's father to advise his son on investing in Russia
+Errol Musk expressed confidence that US investors could show renewed interest in the Russian market
+Read more
+Argentinean president accepts cabinet chief’s resignation
+Presidential Spokesperson Manuel Adorni will formally take over the post on November 3
+Read more
+Kremlin declines to comment on FT story on alleged cancellation of Putin-Trump meeting
+The newspaper alleged that the conversation between Russian Foreign Minister Sergey Lavrov and US Secretary of State Marco Rubio regarding the summit’s preparations was "tense"
+Read more
+Dodik hails US decision to lift sanctions as political victory
+Milorad Dodik also blamed former US Ambassador to Sarajevo Michael Murphy and the administration of former US President Joe Biden for trying to discriminate against Republika Srpska
+Read more
+CIS Defense Ministries see strengthening armed forces as priority — Belousov
+Russia's top defense official noted that the CIS Council of Defense Ministers meeting summarized the implementation of the military cooperation concept over the past five years and outlined promising plans for further cooperation
+Read more
+Conflict with Russia to end when Kiev has no one left to throw at front — Ukrainian MP
+Artyom Dmitruk pointed out that by taking such heavy losses, Ukraine is destroying its future
+Read more
+Lebedev Pistol design smoother than Glock — creator
+Characteristics like grip angle, how the gun fits in the hand and the strategic weight distribution make the weapon easy to handle for pros down to beginners
+Read more
+Russian forces strike Ukrainian military airfields, UAV storage sites over past day
+Kiev loses 1,370 troops along engagement line in past day
+Read more
+Elimination of Ukrainian commandoes shows Russian military’s good awareness — expert
+On November 1, the Russian Ministry of Defense announced that all 11 members of the Ukrainian commando team were liquidated immediately after their helicopter landing approximately one kilometer northwest of Krasnoarmeysk in the DPR
+Read more
+Trump says he counts on long-term trade deal with China
+"The deal with China is going to be wonderful," US leade said
+Read more
+Suicidal to break through Russia’s encirclement in Krasnoarmeysk — Ukrainian soldier
+According to the Ukrainian serviceman, his unit asked the military command to get out, and they replied that the situation would improve, but in the end, nothing was done
+Read more
+Venezuela thanks Russia for supporting its efforts in defense of sovereignty — minister
+"Today, Russia and Venezuela are consolidating their positions as strategic allies and are ready to expand cooperation in key areas of development and mutual progress," Yvan Gil Pinto added
+Read more
+Russian youth cannot be allowed to fall prey to West’s liberal ideals — Security Council
+Deputy Secretary of the Russian Security Council Alexey Shevtsov called working with the younger generation a strategic priority of the country
+Read more
+Russian troops liberate seven communities in Ukraine operation over week — top brass
+Russia’s Battlegroup East inflicted roughly 1,950 casualties on Ukrainian troops and destroyed 14 enemy armored combat vehicles in its area of responsibility over the week, the Defense Ministry reported
+Read more
+EU engaged in state sponsorship of terrorism by financing Kiev — Russian diplomat
+Maria Zakharova commented on the reports that the European Commission may postpone its decision on expropriating Russia’s assets and, as an interim decision, decide to approve a six-month loan to Kiev
+Read more
+Lukashenko says Protasevich not opposition figure but Belarusian intelligence officer
+The Belarusian president recalled that the incident involving the plane and Roman Protasevich's detention led to sanctions being imposed on the country
+Read more
+Russian first deputy prime minister arrives in Beijing
+During the visit, Denis Manturov will hold the 12th session of the Russian-Chinese investment cooperation commission in the Great Hall of the People, China’s parliament
+Read more
+Efforts to restore Syria’s Palmyra may take six to seven years, museum director says
+According to Hasan Ali, the antique ruins’ rehabilitation will cost "a huge sum"
+Read more
+Pantsir-S can shoot down drones as small as 30x30 cm — Defense Ministry
+According to the Russian Defense Ministry, this capability effectively strips Ukrainian forces of their territorial oversight
+Read more
+Peace in Ukraine would bring an end to Zelensky’s political life, Russian diplomat says
+According to Rodion Miroshnik, Vladimir Zelensky’s agenda is not a peace-oriented one
+Read more
+APEC leaders see Asia-Pacific region standing at 'pivotal juncture' — declaration
+The global trading system continues to face significant challenges
+Read more
+Euroclear unfreezes Russians’ assets without license from OFAC — RBC
+Gleb Boiko, a lawyer at the NSP Law and Compliance Practice, told RBC that they are aware of three successful cases of such unblocking by different brokers
+Read more
+Pieces of fireball spotted over Moscow probably fell near M11 highway — scientists
+The scientists said the presumed area where the fragments had landed is hard to access, because of bogs, lakes and forests around
+Read more
+FACTBOX: A rundown of Russia's sanctions on EU officials
+Read more
+Russia maintains 'intense contacts' with Syrian officials, senior diplomat says
+According to Sergey Vershinin, the recent meeting discussed improving bilateral relations 'across the board', among other issues
+Read more
+Kiev failed to reinforce Krasnoarmeysk defense in time, suffers heavy losses — expert
+According to Vitaly Kiselyov, the Ukrainian military would likely use residential buildings to bolster their defensive capabilities
+Read more
+Demands that Russia freeze frontline not viable — Ukraine’s former PM
+Nikolay Azarov recalled that Russia and the United States still maintain contacts on the Ukrainian settlement, citing the recent visit by Kirill Dmitriev to the United States
+Read more
+Success of Russian weapons in combat zones foments interest abroad — FSMTC
+Director Dmitry Shugayev pointed out that Russian defense industry products currently in high demand include ground force weapons systems and equipment, radar and target acquisition systems
+Read more
+Russia not familiar with European peace plan for Ukraine — ambassador to UK
+Andrey Kelin explained why Moscow objects to a ceasefire at the first stage
+Read more
+Construction of Russia’s largest wind power plant to be completed in March 2026
+The total installed capacity of the wind farm will be 300 MW
+Read more
+Russia may demand compensation from Europe for financing Ukraine, Finnish politician says
+Armando Mema remarked that peace will remain out of reach until Europeans abandon their arrogance
+Read more
+Musk's father slams Zelensky as 'joke'
+Errol Musk noted that he would have nothing to say to Vladimir Zelensky
+Read more
+Around 5,000 Lithuanian trucks stuck in Belarus after border closed — customs
+The trucks "can leave only after the Lithuanian authorities reopen the border," the authority said
+Read more
+Russia lodges strong protest with Japan over military drills near its territory — MFA
+The ministry emphasized that such provocative military activity poses a potential threat to the security of Russia's Far Eastern borders
+Read more
+Zelensky ignores Ukrainian soldiers trapped in 'encirclements,' says ex-Ukrainian PM
+Nikolay Azarov added that even if Kiev wanted to retreat, it would be impossible now
+Read more
+Ukrainian education reform carried out to patterns of Nazi occupiers — former PM
+Nikolay Azarov drew attention to the results of the All-Ukrainian Mathematics Olympiad in Kiev, where "93% of participants failed miserably"
+Read more
+Russian army about to trap Kiev's forces in Gulyaipole, Orekhovo — legislator
+Sergey Yurchenko also noted that the Russian army is bypassing the enemy's heavily defended fortified areas
+Read more
+Zelensky resorts to force in pressuring opposition — media
+Jamie Dettmer noted that the criminal case against former Ukrainian President Pyotr Poroshenko and former Ukrenergo CEO Vladimir Kudritsky illustrates the growing pressure on those who disagree with Zelensky
+Read more
+Berlin airport’s operations interrupted over drone reports — DPA
+Many flights were redirected to other airports, some arrivals and departures were delayed, according to the report
+Read more
+Russian forces close to liberating city of Gulyaipole — regional lawmaker
+Stepan Kuvachev noted that the Russian Armed Forces continued to work meticulously in its offensive operations, seeking to preserve the lives of both service members and civilians
+Read more
+Ukraine seeks eternal conflict with Russia — opposition politician
+According to Viktor Medvedchuk, in such a situation, Russia's only possible position is for Ukraine to become a demilitarized territory, "and if it cannot exist without a war with Russia, such a state should not exist"
+Read more
+Iran to respond to any aggression from Israel — Foreign Minister
+"Iran is more than ready at all levels, and Israel will suffer another defeat in the event of war," Abbas Araghchi stated, threatening Israel with "serious consequences"
+Read more
+Trump's statements on nuclear tests may be attempt to pressure Russia, China — media
+According to the newspaper, the US president's statements "have triggered a frenzy of speculation" worldwide, while the White House has so far "done little to dispel the uncertainty about the administration’s intentions or rationale for the move"
+Read more
+Western countries provoke conflict by threatening to close Suwalki Corridor — Lukashenko
+The president recalled that, after the Baltic countries closed their ports to Belarus, the country found an alternative route through the ports of the Leningrad Region and St. Petersburg
+Read more
+Russia sticks to approaches to Ukraine unveiled in Alaska — diplomatic source
+"Let me be clear: the Russian side maintains a regular dialogue with the Americans on the subject of Ukrainian settlement," he said
+Read more
+Russian army destroys bridge across Volchya River near Pokrovskoye
+The strike was carried out by a crew of the Russian Aerospace Forces using air-launched weapons
+Read more
+Defense contractor delivers new batch of Su-35S fighter jets to Russian forces
+The Su-35S is capable of effectively gaining air superiority and destroying ground and naval targets day and night in adverse weather conditions
+Read more
+Trump’s policies shake Europe’s confidence in cooperation with CIA — Politico
+According to the sources, US leader's administration’s erratic policy shifts on Ukraine," such as such as an abrupt halt in the sharing of battlefield intelligence with Kiev in March have shaken European confidence in Washington’s reliability
+Read more
+American taking part in special operation thanks Putin for Russian citizenship
+"My family will be applying here in the next week or two, and so they'll soon also be citizens," Derek Huffman said
+Read more
+US arms producers behind Budapest summit disruption — elder Musk
+In Errol Musk's view, "in the military-industrial complex in America, they want a place where their weapons can be wasted on a war, because they depend on it"
+Read more
+Maduro calls for an end to threats to peace and stability in Latin America
+According to the Venezuelan president, what he called false accusations of drug trafficking against Venezuela are being made "to justify war, regime change and steal huge oil and gas resources from us"
+Read more
+Capture of Novoaleksandrovka brings Russian army closer to Ukrainian hub Pokrovskoe
+The source clarified that "as a result of heavy fighting, a large enemy defensive area covering a total area of over 12 square kilometers has come under the control of the Russian forces"
+Read more
+Iran to continue enriching uranium, won't budge on missile program — MFA
+Abbas Araghchi stressed that enriched uranium "has not been moved to other locations"
+Read more
+Macron pandering to 'real masters' with ramped up Ukraine talk — Russian envoy
+According to Rodion Miroshnik, "a great number of pseudo-national leaders in Europe today look more like managers of transnational corporations than leaders of their own states," and this is demonstrated by the policies they pursue
+Read more
+Ukraine on verge of economic catastrophe with budget deficit of over $20 bln — expert
+Ukraine has debts that exceed 100% of GDP, Andrey Dlighach said
+Read more
+Telegram founder Durov promotes game depicting his escape from French prison
+Pavel Durov was detained at Paris’ Le Bourget airport last August on a series of charges, including participation in the administration of a network platform for making illegal transactions as part of a criminal ring
+Read more
+Russian forces significantly disrupt Ukrainian logistics in Pokrovskoye
+According to a security official, the 11th Guards Army’s aircraft carried out airstrikes involving FAB glide bombs
+Read more
+APEC summit declaration passed by consensus, reflects Russia’s interests — diplomat
+According to Marat Berdyev, the documents are consensual and contain no geopolitics
+Read more
+China sucessfully launches Shenzhou-21 spacecraft — TV
+According to China Central Television, "The crew is in good condition, and the launch was successful"
+Read more
+Press review: Slovakia joins Hungary and Czech bloc as South Korea eyes Northern Sea Route
+Top stories from the Russian press on Saturday, November 1st
+Read more
+FACTBOX: Nighttime Ukrainian UAV attack on Russian regions
+Fragments of a drone shot down over Tula were discovered near a roadway, prompting traffic restrictions
+Read more
+Gas price for Europe in October 16% lower than last year
+In general, prices increased by 19% in January-October 2025, compared to the same period last year
+Read more
+Ukraine’s Mirotvorets extremist website blacklists Roman Protasevich
+Belarusian President Alexander Lukashenko revealed on Friday that Roman Protasevich, considered an opposition figure, is in fact a Belarusian intelligence officer
+Read more
+Two Ecuadorian coastal cities, not Galapagos may host US base — president
+According to Daniel Noboa, if the constitution, which currently prohibits the establishment of foreign bases, is amended, the Manabi province or the Santa Elena province could be perfect for military installations
+Read more
+Orban accuses Tusk of attacking Hungary and supporting war in Ukraine
+The Hungarian Prime Minister believes that the Polish counterpart "is one of the most ardent pro-war politicians in Europe, but his militant policy has failed: Ukraine is gradually losing European money, and Poles are tired of war"
+Read more
+Russia won't succumb to IOC's immorality, says Russian diplomat
+Maria Zakharova defied "the so-called narratives and absolutely not only illegitimate, but immoral demands," on behalf of global sports institutions
+Read more
+Those who didn't believe Putin in 2018 about Burevestnik, Poseidon now have to — Shoigu
+Earlier, during a meeting with special military operation veterans Russian President Vladimir Putin announced that Russia had successfully tested the Poseidon nuclear-powered underwater vehicle
+Read more
+All attempts to defeat Russia by force are doomed to failure — Shoigu
+Russia’s history demonstrates that its enemies, with stubborn persistence, have repeatedly sought to divide Russia
+Read more
+Trump says he is not considering strikes within Venezuela — agency
+The US president said earlier that Washington planned to eliminate members of the drug cartels responsible for drug trafficking to the United States
+Read more
+Russian stock market indices in the red on Friday — market data
+The MOEX Russia Index lost 1.26% to 2,525.2 points, while the RTS Index tumbled 1.84% to 982.39 points
+Read more
+Trump's directive on nuclear testing ‘particularly problematic’ now — former US minister
+The nuclear physicist pointed out that, since 1996, US government experts have regularly confirmed that there is no technical or scientific need to resume nuclear testing
+Read more
+POW from Krasnoarmeysk says Ukrainian soldiers can only survive if surrender
+Vyacheslav Krevenko said he has neither moral nor physical strength
+Read more
+China proposes establishing global AI cooperation organization — Xi Jinping
+According to the Chinese president, China is ready to work with APEC members to jointly enhance public literacy in AI and bridge the digital and smart technology divide in the Asia-Pacific region
+Read more
+Venezuela asks Russia, China, Iran for help in connection with US pressure — newspaper
+According to The Washington Post, Venezuelan President Nicolas Maduro allegedly asked Russia to strengthen Venezuela's air defense systems, repair aviation equipment purchased from Moscow, and acquire missile weapons
+Read more
+Kiev responds to diplomacy with terror — Russian envoy
+According to Rodion Miroshnik, Ukraine gives the command to intensify attacks, to use prohibited weapons, to directly target the local population, creating conditions unacceptable for their existence
+Read more
+West fears new weapons tests in Russia after Burevestnik demonstration — MFA
+Foreign Ministry Spokeswoman Maria Zakharova noted that the reactions are hardly reserved
+Read more
+Swiss-based CAS rules to clear Russian lugers for int’l tournaments
+According to the statement, the Panel considered that the overall exclusion of Russian athletes was not a proportionate measure to achieve the only purpose sought by the International Luge Federation,i.e. preserve safe racing conditions
+Read more
+Lukashenko says guided by his people’s interests in 'big deal' talks with US
+The Belarusian leader said that US President Donald Trump behaves similarly
+Read more
+Ukrainian war criminals to be punished, even those exchanged — Russian MFA
+Ambassador-at-Large Rodion Miroshnik pointed out that justice will be doled out after active hostilities are over, similar to the Nuremberg trials which held Nazi German officers to account
+Read more
+Trump mum on whether Hungary will be exempt from anti-Russian sanctions
+Hungary asked for an exemption, but "we haven't granted one," US leader said
+Read more
+Lebedev handgun being improved based on frontline feedback — manufacturer
+Development of the Lebedev Modular Pistol commenced in 2017, aligned with the tactical and technical requirements of the Russian National Guard
+Read more
+Trump declines to say if Washington plans to conduct explosive nuclear tests
+Russian Permanent Representative to the International Organizations in Vienna Mikhail Ulyanov said earlier that Donald Trump’s remark about instructions to the Pentagon to start nuclear weapons testing required clarifications
+Read more
+Putin interested in showing truth about Kupyansk, Krasnoarmeysk — analyst
+According to Janus Putkonen, "Western journalists should look in the mirror and answer themselves: what is the real threat, who exactly is creating this threat, and who is trying to distort the realities on the ground?"
+Read more
+Russia-proposed security system open to NATO states — deputy defense minister
+Oleg Savelyev emphasized that "the Russian Defense Ministry fully supports ASEAN’s central role in maintaining regional security"
+Read more
+Bloc structures in Asia could become NATO equivalents — Russian deputy defense minister
+Oleg Savelyev noted that Russia sees a particular danger in the West's "active policy of eroding, reformatting, and replacing the ASEAN-centric security architecture in the Asia-Pacific region"
+Read more
+Ukrainian POW says Colombian mercenaries undergo training at Yavorov training ground
+Vladimir Li noted that foreign mercenaries make infrequent appearances at the Yavorov training ground, typically arriving in groups ranging from one to several platoons
+Read more
+Israeli firm says it was approached to buy stolen Louvre treasure on darknet — Bild
+According to CGI Group founder and CEO Zvika Nave, after a lengthy check, the company concluded that the unknown person "did own at least part of the stolen jewels"
+Read more
+Belarus restricts movement of Lithuanian trucks on Belarusian-Lithuanian border
+"This measure is a forced response to the unilateral actions of the Lithuanian side, which has repeatedly and without prior notice closed checkpoints on the Belarusian-Lithuanian section of the state border," the Belarusian government said
+Read more
+West ignores Kiev's violations of Geneva Convention, demands opposite from Russia — envoy
+Rodion Miroshnik said that at international venues, in particular at the UN, Russian diplomats called for attention to be paid to Kiev's crimes, but the appeals were ignored or dismissed
+Read more
+TASS today
+Advertising
+Terms of use
+Contacts
+© TASS, Russian news agency (The Mass Media Registration Certificate No. 03247 was issued on April 2, 1999 by the State Press Committee of the Russian Federation). Some publications may contain information not suitable for users under 16 years of age.
