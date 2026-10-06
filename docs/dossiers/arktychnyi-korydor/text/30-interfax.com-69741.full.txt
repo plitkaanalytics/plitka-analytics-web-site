@@ -1,0 +1,107 @@
+URL:         https://interfax.com/newsroom/top-stories/69741/
+Кінцевий:    https://web.archive.org/web/20200903061345id_/https://interfax.com/newsroom/top-stories/69741/
+Заголовок:   Northern Fleet Arctic expedition discovers new strait off coast of Novaya Zemlya
+Дата публ.:  2020-08-31
+Завантажено: 2026-10-06 12:32 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 33608
+Оригінал:    raw/30-interfax.com-69741.html
+sha256:      1b9e2ff02169b07a291087b92d46a3a95fc31ff4c76129ab789ad4e495123734
+Витяг:       trafilatura
+Примітка:    оригінал недоступний (502), узято з Wayback
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 3
+==============================================================================
+International Information Group
+News and other data on this site are provided for information purposes only, and are not intended for republication or redistribution. Republication or redistribution of Interfax content, including by framing or similar means, is expressly prohibited without the prior written consent of Interfax.
+©   1991—2020   “Interfax News Agency” JSC. All rights reserved.
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Northern Fleet Arctic expedition discovers new strait off coast of Novaya Zemlya
+International Information Group
+FREE TRIAL
+Login
+About Us
+Products
+Newsroom
+Contact Us
+Interfax Group
+Who We Are
+History
+Our News
+Products
+Due diligence & KYC
+Reputational Risk
+News Products
+Newsroom
+Top Stories
+Exclusive Interviews
+Press Releases
+About Us
+Who We Are
+History
+Our News
+Products
+Due diligence & KYC
+Reputational Risk
+News Products
+Newsroom
+Top Stories
+Exclusive Interviews
+Press Releases
+Contact Us
+REQUEST A DEMO
+login
+Home
+>
+Newsroom
+>
+Top Stories
+>
+Northern Fleet Arctic expedition discovers new strait off coast of Novaya Zemlya
+Top Stories
+31 Aug 2020 15:39
+Northern Fleet Arctic expedition discovers new strait off coast of Novaya Zemlya
+MOSCOW. Aug 31 (Interfax) - A comprehensive expedition of the Northern Fleet and the Russian Geographic Society has registered the formation of a new strait off the coast of Novaya Zemlya archipelago in the area of the Zherdi Peninsula, the Northern Fleet press service said on Monday.
+"The Northern Fleet sailors found that an island had separated from the Zherdi Peninsula and therefore a new strait had formed. The new geographic objects were put on maps, registered in the GPS system, measured and photographed," the report said.
+The expedition participants, who circled the archipelago on an MB-12 sea tug over three weeks, made a number of historical findings. They include a body cross and a piece of 18th century jewelry that belonged to the first explorers of Novaya Zemlya. The artifacts will go to the St. Petersburg Museum of the Arctic and the Antarctic.
+"A Soviet-era fishing house was found on Lomonosov Cape. Household objects, cartridges and animal bones were found around it. The camp on Pakhtusov Island also brought new findings. Two houses, a warehouse, a bathhouse and four graves were found. Two anchors, household items and fishing gear were also found on the coast," the fleet said.
+The explorers' work was complicated by difficult weather conditions and several landings on the coast were cancelled because there were polar bears there, the report said.
+"In the near future, all participants in the first unit of the comprehensive expedition will take the transport Yauza and will head to the main base of the Northern Fleet, Severomorsk," the Northern Fleet said in a report.
+Interfax Group
+Who We Are
+History
+Our News
+Products
+Due diligence & KYC
+Reputational Risk
+News Products
+Newsroom
+Top Stories
+Exclusive Interviews
+Press Releases
+Contact Us
+Terms & Conditions
+Privacy Policy
+Cookie Policy
+Interfax Group
+Who We Are
+History
+Our News
+Products
+Due diligence & KYC
+Reputational Risk
+News Products
+Newsroom
+Top Stories
+Exclusive Interviews
+Press Releases
+Contact Us
+Terms & Conditions
+Privacy Policy
+Cookie Policy
+News and other data on this site are provided for information purposes only, and are not intended for republication or redistribution. Republication or redistribution of Interfax content, including by framing or similar means, is expressly prohibited without the prior written consent of Interfax.
+©   1991—2020   “Interfax News Agency” JSC. All rights reserved.

@@ -1,0 +1,23 @@
+URL:         https://www.world-nuclear-news.org/articles/northern-sea-route-cargo-set-new-record-in-2024
+Кінцевий:    https://web.archive.org/web/20260904095940id_/https://world-nuclear-news.org/articles/northern-sea-route-cargo-set-new-record-in-2024
+Заголовок:   Northern Sea Route cargo set new record in 2024
+Дата публ.:  2025-01-10
+Завантажено: 2026-10-06 12:18 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 52947
+Оригінал:    raw/04-world-nuclear-news.org-northern-sea-route-cargo-set-new-record-in-2024.html
+sha256:      875ddfff835b7870ec78265befcd3fdc2f5002474d145f12125e18ce0faf57b4
+Витяг:       trafilatura
+Примітка:    оригінал недоступний (0), узято з Wayback
+
+==============================================================================
+The recently ended year also saw a record number of transit voyages - 92 - which helped set a record of 3 million tonnes of transit cargo.
+
+The nuclear icebreakers fleet provided 976 icebreaker escorts and "also provided information and navigation support services to 72 vessels".
+
+Rosatom Director General Alexey Likhachev said: "The year of the 65th anniversary of the nuclear icebreaker fleet was not only a year of new records in cargo transportation. In January, we laid down the icebreaker *Leningrad*, and in November, we launched the *Chukotka* ... another important result of 2024 for us is that the concept of the Great Northern Sea Route received the support of the country's leadership, this concept will determine all our further work in the Arctic for the coming decades. We have to create a new transport corridor - from Kaliningrad to Vladivostok with all the accompanying infrastructure and connections with river ports and rail transport."
+
+Russia says the 5600-kilometre route cuts the distance from Murmansk to Japanese ports by half compared with using the Suez Canal, with the duration cut from about 37 to 18 days. Global warming has made large scale navigation along the route more feasible, and it is being facilitated by a large-scale 'Project 22220' construction programme of nuclear-powered icebreakers.
+
+The fifth Project 22220 icebreaker, the *Chukotka, *is 173 metres long, 34 metres wide, with a height from the waterline to the mainmast of 57 metres. The height of its side is 15.2 metres and it is designed to break through ice up to three metres thick and has a speed of 22 knots in clear water. It will be powered by two RITM-200 reactors which each have a thermal capacity of 175 MW. It already has the reactors on board and has a target completion date of 2026.
+
+Russia has held discussions with both India and China during the year over the potential of the route, with the first meeting of the Russian-Chinese Subcommission on Cooperation on the Northern Sea Route taking place in November. That followed an agreement of intent in June by Chinese businesses and Rosatom to create a joint venture for the construction of ships and a year-round container line between Chinese and Russian ports.

@@ -1,0 +1,44 @@
+URL:         https://www.thebarentsobserver.com/security/northern-fleet-ships-set-course-for-the-northern-sea-route/456978
+Кінцевий:    https://www.thebarentsobserver.com/security/northern-fleet-ships-set-course-for-the-northern-sea-route/456978
+Заголовок:   Northern Fleet ships set course for the Northern Sea Route
+Дата публ.:  2026-09-01
+Завантажено: 2026-10-06 12:22 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 128924
+Оригінал:    raw/17-thebarentsobserver.com-456978.html
+sha256:      fcf2ae54c72a50a3122411025c9314cdaa2998fb1cbf39559b1f99f7200b33cb
+Витяг:       trafilatura
+
+==============================================================================
+# Northern Fleet ships set course for the Northern Sea Route
+
+Over the coming months, warships and support vessels will carry out long-distance voyages in the Arctic Ocean.
+
+Four vessels from Russia's Northern Fleet have set out from Kola Bay on a voyage lasting several months through the icy Arctic waters, the fleet's press service in Severomorsk reports. The detachment comprises the ice-class patrol ship *Ivan Papanin*, the large landing ship *Kondopoga*, the tanker *Sergey Osipov* and the rescue tug *Pamir*.
+
+"Various activities will be practised in the Arctic, including ensuring the safety of Russian maritime shipping along the Northern Sea Route," explained Captain 2nd Rank Alexander Zinoviev, head of the Northern Fleet's detachment of warships and support vessels.
+
+Over the past decade, the Northern Fleet has sent a group of warships along the western part of the Northern Sea Route every autumn. While previous years have seen an emphasis on anti-terrorism drills, military landings and live-fire exercises, the press service is now focusing on maritime safety, saying the voyage will include "rescue exercises in the Arctic zone and along the Northern Sea Route".
+
+For Russia, ensuring safe passage from Asia to Europe for commercial shipping companies is a matter of high importance.
+
+Earlier in August, a group of tankers loaded with up to one million tonnes of oil made history when they [sailed north of Severnaya Zemlya](https://www.thebarentsobserver.com/news/in-unprecedented-arctic-operation-russia-sends-convoy-of-oil-tankers-to-815n/455488) en route to China, in what experts said was "extremely risky."
+
+However, the Russian government said that it plans to increase international shipping along the sea route north of Siberia.
+
+"The countries that cooperate closely with us in the Arctic include, first and foremost, China and India," Russian Foreign Minister Sergey Lavrov said in an [article](https://mid.ru/en/foreign_policy/news/2136949/) published on Monday on international relations in the Arctic.
+
+He said there were plans to increase the frequency of container shipping along the Northern Sea Route. While not mentioning Russia's militarisation of the Arctic, the foreign minister once again criticised NATO.
+
+"Such military activity in the Far North poses a direct threat to Russia's security. It also increases the risk of incidents that could trigger an armed confrontation with potentially disastrous consequences."
+
+Meanwhile, the warships from Severomorsk are currently crossing the Barents Sea. Their exact route has not been made public. In previous years, the Northern Fleet's Arctic voyages have mostly included calls at the ports of Dikson and Dudinka on the western shores of the Taymyr Peninsula, before continuing eastwards to [Kotelny Island](https://www.thebarentsobserver.com/security/eight-russian-navy-ships-make-ready-for-icefree-northern-sea-route/158484), part of the New Siberian Islands in the Laptev Sea.
+
+A few years ago, the warships began their voyage by sailing into the waters between Franz Josef Land and Norway's Svalbard archipelago.
+
+In 2024, the vessels [travelled as far as Egvekinot](https://www.thebarentsobserver.com/security/seaice-caused-trouble-for-russian-warships/421162) on the Bering Sea coast.
+
+This year marks the first time that the new ice-class patrol ship [ Ivan Papanin](https://www.thebarentsobserver.com/security/russias-first-icebreaking-patrol-vessel-for-the-arctic-arrives-north/427611) has taken part in the Northern Sea Route voyage. The vessel is not an icebreaker, but has an ice-reinforced hull similar to that of the Norwegian Coast Guard vessel 
+
+*KV Svalbard*and the Canadian Coast Guard's Harry DeWolf-class vessels.
+
+The detachment is led by Vice-Admiral Oleg Golubyev, Deputy Commander of the Northern Fleet. He has served in the Russian Navy for 20 years and is a member of the Russian Geographical Society. The vice-admiral has extensive experience sailing in the Arctic.

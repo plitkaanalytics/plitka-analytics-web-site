@@ -1,0 +1,21 @@
+URL:         https://iz.ru/en/2175226/2026-09-29/first-time-history-russian-navy-ships-northern-fleet-passed-through-shokalsky-strait
+Кінцевий:    https://iz.ru/en/2175226/2026-09-29/first-time-history-russian-navy-ships-northern-fleet-passed-through-shokalsky-strait
+Заголовок:   Проверка браузера перед переходом на сайт
+Дата публ.:  не вказана на сторінці
+Завантажено: 2026-10-06 12:23 UTC
+HTTP:        403   Тип: text/html; charset=UTF-8   Байтів: 49141
+Оригінал:    raw/21-iz.ru-first-time-history-russian-navy-ships-northern-fleet-passed-thro.html
+sha256:      d53ce61f5448c1c33cc28407880e9c236e039bb91792dacd2c4ec17f044ade75
+Витяг:       bs4-full
+Примітка:    оригінал 403; знімка немає в Wayback
+
+==============================================================================
+Проверка браузера перед переходом на сайт
+Проверка браузера перед переходом на сайт
+Это автоматический процесс. Вы будете перенаправлены на сайт в ближайшее время.
+Пожалуйста ожидайте...
+Checking your browser accessing
+This process is automatic. Your browser will redirect to your requested content
+          shortly.
+Please allow up to 5 seconds
+Мы доступны в социальных сетях:

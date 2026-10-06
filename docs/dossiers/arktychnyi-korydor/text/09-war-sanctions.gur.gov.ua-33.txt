@@ -1,0 +1,198 @@
+URL:         https://war-sanctions.gur.gov.ua/en/transport/ships/33
+Кінцевий:    https://war-sanctions.gur.gov.ua/en/transport/ships/33
+Заголовок:   ANGARA; IMO 9179842
+Дата публ.:  2026-02-23
+Завантажено: 2026-10-06 12:19 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 68555
+Оригінал:    raw/09-war-sanctions.gur.gov.ua-33.html
+sha256:      207e6a496c0c9013b9a3614f20d0702a899f4f598742ebc8369dd0b73f0838f0
+Витяг:       trafilatura
+
+==============================================================================
+# ANGARA
+
+IMO 9179842
+
+            Updated: 23.02.2026
+
+        
+                                Vessel name                            
+
+                            
+                                ANGARA
+                            
+
+                        
+                                Category                            
+
+                            Transportation of military cargo
+
+ Weapons and military equipment
+
+                                IMO
+                            
+
+                            
+                                                                    9179842
+                                                            
+
+                        
+                                Flag (Current)                            
+
+                            
+                                 russian federation
+                            
+
+                        
+                                MMSI
+                            
+
+                            
+                                273210440
+                            
+
+                        
+                                Call sign                            
+
+                            
+                                UBYT2
+                            
+
+                        
+                                Vessel Type                            
+
+                            
+                                Ro-Ro Cargo Ship
+                            
+
+                        
+                                Length (m)                            
+
+                            
+                                126.84
+                            
+
+                        
+                                Gross tonnage (t)                            
+
+                            
+                                8811
+                            
+
+                        
+                                DWT (t)                            
+
+                            
+                                7331
+                            
+
+                        
+                                P&I Club                            
+
+                            
+                                Sanctions                            
+
+                            [USA](https://ofac.treasury.gov/recent-actions/20220508),
+
+[EU](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401744),
+
+[UK](https://search-uk-sanctions-list.service.gov.uk/designations/RUS2183/Ship),
+
+[Switzerland](https://www.seco.admin.ch/seco/de/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/exportkontrollen-und-sanktionen/sanktionen-embargos/sanktionsmassnahmen/massnahmen-zur-vermeidung-der-umgehung-internationaler-sanktione.html),
+
+[Canada](https://gazette.gc.ca/rp-pr/p2/2025/2025-03-12/html/sor-dors33-eng.html)
+
+                                Sanctions lifted                            
+
+                            
+                                The person in connection with whom
+
+sanctions have been applied
+
+                            
+                        sanctions have been applied
+
+Provide additional information
+
+                        Justification
+
+            Vessel information
+
+                The vessel is involved in the transportation of weapons (ammunition) from the DPRK to russia for use in the war against Ukraine. In particular, the vessel is involved in the transportation of containers with North Korean ammunition from the North Korean port of Najin (Rajin) to russian ports ( Dunay, Vostochny), which are then transported to western russia by rail for use in the war against Ukraine.
+
+The vessel is owned by the sanctioned russian shipping company M Leasing LLC.
+
+In May 2022, USA imposed sanctions on the company's vessels, including Angara, that transported weapons.
+
+In June 2024, EU imposed sanctions on the vessel in connection with the transportation of goods and technologies used in the defense and security sector of russia to wage war in Ukraine.
+
+In July 2024, UK imposed sanctions on a vessel in connection with the transportation of military cargo from a third country to russia or to territories not controlled by the government of Ukraine.
+
+On October 17, 2024, Switzerland imposed sanctions on the vessel in connection with the transportation of goods and technologies used in the defense and security sector, as well as for use in russia or for the war in Ukraine.
+
+Also, on April 2, 2024, the Republic of Korea imposed sanctions on the vessel for transporting weapons to russia and the DPRK in violation of UN Security Council sanctions.
+
+On February 21, 2025, Canada imposed sanctions on the vessel.
+
+            The vessel is owned by the sanctioned russian shipping company M Leasing LLC.
+
+In May 2022, USA imposed sanctions on the company's vessels, including Angara, that transported weapons.
+
+In June 2024, EU imposed sanctions on the vessel in connection with the transportation of goods and technologies used in the defense and security sector of russia to wage war in Ukraine.
+
+In July 2024, UK imposed sanctions on a vessel in connection with the transportation of military cargo from a third country to russia or to territories not controlled by the government of Ukraine.
+
+On October 17, 2024, Switzerland imposed sanctions on the vessel in connection with the transportation of goods and technologies used in the defense and security sector, as well as for use in russia or for the war in Ukraine.
+
+Also, on April 2, 2024, the Republic of Korea imposed sanctions on the vessel for transporting weapons to russia and the DPRK in violation of UN Security Council sanctions.
+
+On February 21, 2025, Canada imposed sanctions on the vessel.
+
+Cases of AIS shutdown
+
+                    Yes
+
+                Calling at russian ports
+
+                    Yes
+
+                Visited ports
+
+                    Korsakov (russia), Ningbo (PRC), Novorossiysk (russia), Tianjin (PRC), Vladivostok (russia), Zhoushan (PRC), Port Said (Egypt), Zeytinburnu (Turkey), Mumbai (India), Suez (Egypt), Vladivostok Fish Port (russia), Meishan (PRC), Aoshan Oil Terminal (PRC), Nizhny Novgorod (russia), Revdanda (India)
+
+                Use Ctrl+scroll to zoom
+
+Available additional information
+
+            Ship Owner (IMO / Country / Date)
+
+                            
+                                M Leasing LLC (6246853 / russian federation / 12.08.2021)                            
+
+                        Commercial ship manager (IMO / Country / Date)
+
+                            
+                                Mg-flot LLC (6016988 / russian federation / 18.07.2025)                            
+
+                        Ship Safety Management Manager (IMO / Country / Date)
+
+                            
+                                Mg-flot LLC (6016988 / russian federation / 18.07.2025)                            
+
+                        Former ship names
+
+                        Scan Arctic / Rickmers Arctic / BBC Arctic / BBC Karan / Ocean Energy / Fleet Star
+
+                    Flags (former)
+
+                         Germany /  Isle of Man /  Great Britain /  Liberia
+
+                    Build year
+
+                        1998
+
+                    Builder (country)
+
+                        Ps Werften Wolgast
+
+                    Web Resources

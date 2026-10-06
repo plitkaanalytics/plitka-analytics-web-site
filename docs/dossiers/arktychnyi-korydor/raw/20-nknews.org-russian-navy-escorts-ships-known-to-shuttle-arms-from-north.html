@@ -1,0 +1,1360 @@
+<!doctype html>
+<html lang="en-US">
+
+<head>
+	<!-- InMobi Choice. Consent Manager Tag v3.0 (for TCF 2.2) -->
+	<script type="text/javascript" async=true>
+		(function () {
+			var host = window.location.hostname;
+			var element = document.createElement('script');
+			var firstScript = document.getElementsByTagName('script')[0];
+			var url = 'https://cmp.inmobi.com'
+				.concat('/choice/', 'FB38YHgHfyq--', '/', host, '/choice.js?tag_version=V3');
+			var uspTries = 0;
+			var uspTriesLimit = 3;
+			element.async = true;
+			element.type = 'text/javascript';
+			element.src = url;
+
+			firstScript.parentNode.insertBefore(element, firstScript);
+
+			function makeStub() {
+				var TCF_LOCATOR_NAME = '__tcfapiLocator';
+				var queue = [];
+				var win = window;
+				var cmpFrame;
+
+				function addFrame() {
+					var doc = win.document;
+					var otherCMP = !!(win.frames[TCF_LOCATOR_NAME]);
+
+					if (!otherCMP) {
+						if (doc.body) {
+							var iframe = doc.createElement('iframe');
+
+							iframe.style.cssText = 'display:none';
+							iframe.name = TCF_LOCATOR_NAME;
+							doc.body.appendChild(iframe);
+						} else {
+							setTimeout(addFrame, 5);
+						}
+					}
+					return !otherCMP;
+				}
+
+				function tcfAPIHandler() {
+					var gdprApplies;
+					var args = arguments;
+
+					if (!args.length) {
+						return queue;
+					} else if (args[0] === 'setGdprApplies') {
+						if (
+							args.length > 3 &&
+							args[2] === 2 &&
+							typeof args[3] === 'boolean'
+						) {
+							gdprApplies = args[3];
+							if (typeof args[2] === 'function') {
+								args[2]('set', true);
+							}
+						}
+					} else if (args[0] === 'ping') {
+						var retr = {
+							gdprApplies: gdprApplies,
+							cmpLoaded: false,
+							cmpStatus: 'stub'
+						};
+
+						if (typeof args[2] === 'function') {
+							args[2](retr);
+						}
+					} else {
+						if (args[0] === 'init' && typeof args[3] === 'object') {
+							args[3] = Object.assign(args[3], {
+								tag_version: 'V3'
+							});
+						}
+						queue.push(args);
+					}
+				}
+
+				function postMessageEventHandler(event) {
+					var msgIsString = typeof event.data === 'string';
+					var json = {};
+
+					try {
+						if (msgIsString) {
+							json = JSON.parse(event.data);
+						} else {
+							json = event.data;
+						}
+					} catch (ignore) { }
+
+					var payload = json.__tcfapiCall;
+
+					if (payload) {
+						window.__tcfapi(
+							payload.command,
+							payload.version,
+							function (retValue, success) {
+								var returnMsg = {
+									__tcfapiReturn: {
+										returnValue: retValue,
+										success: success,
+										callId: payload.callId
+									}
+								};
+								if (msgIsString) {
+									returnMsg = JSON.stringify(returnMsg);
+								}
+								if (event && event.source && event.source.postMessage) {
+									event.source.postMessage(returnMsg, '*');
+								}
+							},
+							payload.parameter
+						);
+					}
+				}
+
+				while (win) {
+					try {
+						if (win.frames[TCF_LOCATOR_NAME]) {
+							cmpFrame = win;
+							break;
+						}
+					} catch (ignore) { }
+
+					if (win === window.top) {
+						break;
+					}
+					win = win.parent;
+				}
+				if (!cmpFrame) {
+					addFrame();
+					win.__tcfapi = tcfAPIHandler;
+					win.addEventListener('message', postMessageEventHandler, false);
+				}
+			};
+
+			makeStub();
+
+			function makeGppStub() {
+				const CMP_ID = 10;
+				const SUPPORTED_APIS = [
+					'2:tcfeuv2',
+					'6:uspv1',
+					'7:usnatv1',
+					'8:usca',
+					'9:usvav1',
+					'10:uscov1',
+					'11:usutv1',
+					'12:usctv1'
+				];
+
+				window.__gpp_addFrame = function (n) {
+					if (!window.frames[n]) {
+						if (document.body) {
+							var i = document.createElement("iframe");
+							i.style.cssText = "display:none";
+							i.name = n;
+							document.body.appendChild(i);
+						} else {
+							window.setTimeout(window.__gpp_addFrame, 10, n);
+						}
+					}
+				};
+				window.__gpp_stub = function () {
+					var b = arguments;
+					__gpp.queue = __gpp.queue || [];
+					__gpp.events = __gpp.events || [];
+
+					if (!b.length || (b.length == 1 && b[0] == "queue")) {
+						return __gpp.queue;
+					}
+
+					if (b.length == 1 && b[0] == "events") {
+						return __gpp.events;
+					}
+
+					var cmd = b[0];
+					var clb = b.length > 1 ? b[1] : null;
+					var par = b.length > 2 ? b[2] : null;
+					if (cmd === "ping") {
+						clb({
+							gppVersion: "1.1", // must be “Version.Subversion”, current: “1.1”
+							cmpStatus: "stub", // possible values: stub, loading, loaded, error
+							cmpDisplayStatus: "hidden", // possible values: hidden, visible, disabled
+							signalStatus: "not ready", // possible values: not ready, ready
+							supportedAPIs: SUPPORTED_APIS, // list of supported APIs
+							cmpId: CMP_ID, // IAB assigned CMP ID, may be 0 during stub/loading
+							sectionList: [],
+							applicableSections: [-1],
+							gppString: "",
+							parsedSections: {},
+						},
+							true
+						);
+					} else if (cmd === "addEventListener") {
+						if (!("lastId" in __gpp)) {
+							__gpp.lastId = 0;
+						}
+						__gpp.lastId++;
+						var lnr = __gpp.lastId;
+						__gpp.events.push({
+							id: lnr,
+							callback: clb,
+							parameter: par,
+						});
+						clb({
+							eventName: "listenerRegistered",
+							listenerId: lnr, // Registered ID of the listener
+							data: true, // positive signal
+							pingData: {
+								gppVersion: "1.1", // must be “Version.Subversion”, current: “1.1”
+								cmpStatus: "stub", // possible values: stub, loading, loaded, error
+								cmpDisplayStatus: "hidden", // possible values: hidden, visible, disabled
+								signalStatus: "not ready", // possible values: not ready, ready
+								supportedAPIs: SUPPORTED_APIS, // list of supported APIs
+								cmpId: CMP_ID, // list of supported APIs
+								sectionList: [],
+								applicableSections: [-1],
+								gppString: "",
+								parsedSections: {},
+							},
+						},
+							true
+						);
+					} else if (cmd === "removeEventListener") {
+						var success = false;
+						for (var i = 0; i < __gpp.events.length; i++) {
+							if (__gpp.events[i].id == par) {
+								__gpp.events.splice(i, 1);
+								success = true;
+								break;
+							}
+						}
+						clb({
+							eventName: "listenerRemoved",
+							listenerId: par, // Registered ID of the listener
+							data: success, // status info
+							pingData: {
+								gppVersion: "1.1", // must be “Version.Subversion”, current: “1.1”
+								cmpStatus: "stub", // possible values: stub, loading, loaded, error
+								cmpDisplayStatus: "hidden", // possible values: hidden, visible, disabled
+								signalStatus: "not ready", // possible values: not ready, ready
+								supportedAPIs: SUPPORTED_APIS, // list of supported APIs
+								cmpId: CMP_ID, // CMP ID
+								sectionList: [],
+								applicableSections: [-1],
+								gppString: "",
+								parsedSections: {},
+							},
+						},
+							true
+						);
+					} else if (cmd === "hasSection") {
+						clb(false, true);
+					} else if (cmd === "getSection" || cmd === "getField") {
+						clb(null, true);
+					}
+					//queue all other commands
+					else {
+						__gpp.queue.push([].slice.apply(b));
+					}
+				};
+				window.__gpp_msghandler = function (event) {
+					var msgIsString = typeof event.data === "string";
+					try {
+						var json = msgIsString ? JSON.parse(event.data) : event.data;
+					} catch (e) {
+						var json = null;
+					}
+					if (typeof json === "object" && json !== null && "__gppCall" in json) {
+						var i = json.__gppCall;
+						window.__gpp(
+							i.command,
+							function (retValue, success) {
+								var returnMsg = {
+									__gppReturn: {
+										returnValue: retValue,
+										success: success,
+										callId: i.callId,
+									},
+								};
+								event.source.postMessage(msgIsString ? JSON.stringify(returnMsg) : returnMsg,
+									"*");
+							},
+							"parameter" in i ? i.parameter : null,
+							"version" in i ? i.version : "1.1"
+						);
+					}
+				};
+				if (!("__gpp" in window) || typeof window.__gpp !== "function") {
+					window.__gpp = window.__gpp_stub;
+					window.addEventListener("message", window.__gpp_msghandler, false);
+					window.__gpp_addFrame("__gppLocator");
+				}
+			};
+
+			makeGppStub();
+
+			var uspStubFunction = function () {
+				var arg = arguments;
+				if (typeof window.__uspapi !== uspStubFunction) {
+					setTimeout(function () {
+						if (typeof window.__uspapi !== 'undefined') {
+							window.__uspapi.apply(window.__uspapi, arg);
+						}
+					}, 500);
+				}
+			};
+
+			var checkIfUspIsReady = function () {
+				uspTries++;
+				if (window.__uspapi === uspStubFunction && uspTries < uspTriesLimit) {
+					console.warn('USP is not accessible');
+				} else {
+					clearInterval(uspInterval);
+				}
+			};
+
+			if (typeof window.__uspapi === 'undefined') {
+				window.__uspapi = uspStubFunction;
+				var uspInterval = setInterval(checkIfUspIsReady, 6000);
+			}
+		})();
+	</script>
+	<!-- End InMobi Choice. Consent Manager Tag v3.0 (for TCF 2.2) -->
+			<meta name="google-site-verification" content="NrpzHvwyXqYKgPQfZIm8Usd5s0JfrRvzKIYUF8x_IP8" />
+		<!-- Meta Pixel Code -->
+		<script>
+			! function (f, b, e, v, n, t, s) {
+				if (f.fbq) return;
+				n = f.fbq = function () {
+					n.callMethod ?
+						n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+				};
+				if (!f._fbq) f._fbq = n;
+				n.push = n;
+				n.loaded = !0;
+				n.version = '2.0';
+				n.queue = [];
+				t = b.createElement(e);
+				t.async = !0;
+				t.src = v;
+				s = b.getElementsByTagName(e)[0];
+				s.parentNode.insertBefore(t, s)
+			}(window, document, 'script',
+				'https://connect.facebook.net/en_US/fbevents.js');
+			fbq('init', '1865851586967329');
+			fbq('track', 'PageView');
+		</script>
+		<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1865851586967329&ev=PageView&noscript=1" /></noscript>
+		<!-- End Meta Pixel Code -->
+		<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta name="theme-color" content="#1b1b1b">
+	<link rel="shortcut icon" type="image/png" href="https://www.nknews.org/pro/wp-content/themes/nkpro/favicon.png">
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v28.2 - https://yoast.com/product/yoast-seo-wordpress/ -->
+	<title>Russian navy escorts ships known to shuttle arms from North Korea: Japan | NK PRO</title>
+<link data-rocket-prefetch href="https://cmp.inmobi.com" rel="dns-prefetch">
+<link data-rocket-prefetch href="https://stats.nknews.org" rel="dns-prefetch">
+<link data-rocket-prefetch href="https://contact.nknews.org" rel="dns-prefetch">
+<link data-rocket-prefetch href="https://connect.facebook.net" rel="dns-prefetch">
+<link data-rocket-prefetch href="https://challenges.cloudflare.com" rel="dns-prefetch">
+<link data-rocket-prefetch href="https://federated.press" rel="dns-prefetch">
+<link crossorigin data-rocket-preload as="font" href="https://www.nknews.org/pro/wp-content/themes/nkpro/fonts/CircularStd-Book.woff" rel="preload">
+<link crossorigin data-rocket-preload as="font" href="https://www.nknews.org/pro/wp-content/themes/nkpro/fonts/DIN-MediumAlternate.woff" rel="preload">
+<link crossorigin data-rocket-preload as="font" href="https://www.nknews.org/pro/wp-content/themes/nkpro/fonts/AvenirNextCondensed-Heavy.woff" rel="preload"><link rel="preload" data-rocket-preload as="image" href="https://assets.korearisk.com/uploads/sites/4/2026/05/Featured-935x500.jpg" imagesrcset="https://assets.korearisk.com/uploads/sites/4/2026/05/Featured-935x500.jpg 935w, https://assets.korearisk.com/uploads/sites/4/2026/05/Featured-1255x670.jpg 1255w, https://assets.korearisk.com/uploads/sites/4/2026/05/Featured-1870x1000.jpg 1870w" imagesizes="(max-width: 935px) 100vw, 935px" fetchpriority="high">
+	<link rel="canonical" href="https://www.nknews.org/pro/?p=2226664" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Russian navy escorts ships known to shuttle arms from North Korea: Japan | NK PRO" />
+	<meta property="og:description" content="Russian warships escorted sanctioned cargo vessels known to have smuggled arms from North Korea to the Russian Far East, according to Japan, with experts saying the move signals a major shift in Pyongyang and Moscow’s weapons trade. Japan’s Joint Staff reported on May 12 and 14 that two Russian warships and two navy logistical vessels [&hellip;]" />
+	<meta property="og:url" content="https://www.nknews.org/pro/?p=2226664" />
+	<meta property="og:site_name" content="NK PRO" />
+	<meta property="article:published_time" content="2026-05-21T09:56:19+00:00" />
+	<meta property="article:modified_time" content="2026-05-25T08:14:12+00:00" />
+	<meta property="og:image" content="https://assets.korearisk.com/uploads/sites/4/2026/05/Featured.jpg" />
+	<meta property="og:image:width" content="1920" />
+	<meta property="og:image:height" content="1080" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="author" content="antonsokolin" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:label1" content="Written by" />
+	<meta name="twitter:data1" content="Anton Sokolin" />
+	<meta name="twitter:label2" content="Est. reading time" />
+	<meta name="twitter:data2" content="5 minutes" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https:\/\/schema.org","@graph":[{"@type":"NewsArticle","@id":"https:\/\/www.nknews.org\/pro\/?p=2226664#article","isPartOf":{"@id":"https:\/\/www.nknews.org\/pro\/?p=2226664"},"author":{"name":"antonsokolin","@id":"https:\/\/www.nknews.org\/pro\/#\/schema\/person\/db384e2a332b18dcc00ba1ae67fe800d"},"headline":"Russian navy escorts ships known to shuttle arms from North Korea: Japan","datePublished":"2026-05-21T09:56:19+00:00","dateModified":"2026-05-25T08:14:12+00:00","mainEntityOfPage":{"@id":"https:\/\/www.nknews.org\/pro\/?p=2226664"},"wordCount":966,"image":{"@id":"https:\/\/www.nknews.org\/pro\/?p=2226664#primaryimage"},"thumbnailUrl":"https:\/\/assets.korearisk.com\/uploads\/sites\/4\/2026\/05\/Featured.jpg","keywords":["Military affairs","Missiles","Sanctions","Shipping","WMD"],"articleSection":["Analysis"],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https:\/\/www.nknews.org\/pro\/?p=2226664","url":"https:\/\/www.nknews.org\/pro\/?p=2226664","name":"Russian navy escorts ships known to shuttle arms from North Korea: Japan | NK PRO","isPartOf":{"@id":"https:\/\/www.nknews.org\/pro\/#website"},"primaryImageOfPage":{"@id":"https:\/\/www.nknews.org\/pro\/?p=2226664#primaryimage"},"image":{"@id":"https:\/\/www.nknews.org\/pro\/?p=2226664#primaryimage"},"thumbnailUrl":"https:\/\/assets.korearisk.com\/uploads\/sites\/4\/2026\/05\/Featured.jpg","datePublished":"2026-05-21T09:56:19+00:00","dateModified":"2026-05-25T08:14:12+00:00","author":{"@id":"https:\/\/www.nknews.org\/pro\/#\/schema\/person\/db384e2a332b18dcc00ba1ae67fe800d"},"breadcrumb":{"@id":"https:\/\/www.nknews.org\/pro\/?p=2226664#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https:\/\/www.nknews.org\/pro\/?p=2226664"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/www.nknews.org\/pro\/?p=2226664#primaryimage","url":"https:\/\/assets.korearisk.com\/uploads\/sites\/4\/2026\/05\/Featured.jpg","contentUrl":"https:\/\/assets.korearisk.com\/uploads\/sites\/4\/2026\/05\/Featured.jpg","width":1920,"height":1080},{"@type":"BreadcrumbList","@id":"https:\/\/www.nknews.org\/pro\/?p=2226664#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/www.nknews.org\/pro\/"},{"@type":"ListItem","position":2,"name":"Russian navy escorts ships known to shuttle arms from North Korea: Japan"}]},{"@type":"WebSite","@id":"https:\/\/www.nknews.org\/pro\/#website","url":"https:\/\/www.nknews.org\/pro\/","name":"NK PRO","description":"Accelerate your work on North Korea","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/www.nknews.org\/pro\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//cdn.jsdelivr.net' />
+<link rel='dns-prefetch' href='//challenges.cloudflare.com' />
+<link rel='dns-prefetch' href='//assets.korearisk.com' />
+<link rel="alternate" type="application/rss+xml" title="NK PRO &raquo; Feed" href="https://www.nknews.org/pro/feed/" />
+<link rel="alternate" type="application/rss+xml" title="NK PRO &raquo; Comments Feed" href="https://www.nknews.org/pro/comments/feed/" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.nknews.org/pro/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.nknews.org%2Fpro%2Frussian-navy-escorts-ships-known-to-shuttle-arms-from-north-korea-japan%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.nknews.org/pro/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.nknews.org%2Fpro%2Frussian-navy-escorts-ships-known-to-shuttle-arms-from-north-korea-japan%2F&#038;format=xml" />
+<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<link data-minify="1" rel='stylesheet' id='nk-paywall-css' href='https://www.nknews.org/pro/wp-content/cache/min/4/pro/wp-content/plugins/nk-paywall/assets/css/nk-paywall.css?ver=1791194428' media='all' />
+<link data-minify="1" rel='stylesheet' id='nk-briefings-events-css' href='https://www.nknews.org/pro/wp-content/cache/min/4/pro/wp-content/plugins/nk-briefings-events/assets/css/nk-briefings-events.css?ver=1791194428' media='all' />
+<style id="wp-emoji-styles-inline-css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<style id="wp-block-library-inline-css">
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}:root .has-text-align-center{text-align:center}:root .has-text-align-left{text-align:left}:root .has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{word-wrap:normal!important;border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-break:normal!important}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style^=border-color],[style*=";border-color"],[style*="; border-color"]){border-style:solid}html :where([style^=border-top-color],[style*=";border-top-color"],[style*="; border-top-color"]){border-top-style:solid}html :where([style^=border-right-color],[style*=";border-right-color"],[style*="; border-right-color"]){border-right-style:solid}html :where([style^=border-bottom-color],[style*=";border-bottom-color"],[style*="; border-bottom-color"]){border-bottom-style:solid}html :where([style^=border-left-color],[style*=";border-left-color"],[style*="; border-left-color"]){border-left-style:solid}html :where([style^=border-width],[style*=";border-width"],[style*="; border-width"]){border-style:solid}html :where([style^=border-top-width],[style*=";border-top-width"],[style*="; border-top-width"]){border-top-style:solid}html :where([style^=border-right-width],[style*=";border-right-width"],[style*="; border-right-width"]){border-right-style:solid}html :where([style^=border-bottom-width],[style*=";border-bottom-width"],[style*="; border-bottom-width"]){border-bottom-style:solid}html :where([style^=border-left-width],[style*=";border-left-width"],[style*="; border-left-width"]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+
+/*# sourceURL=/wp-includes/css/dist/block-library/common.min.css */
+</style>
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}.wp-block-button{--wp--preset--dimension--25: 25%;--wp--preset--dimension--50: 50%;--wp--preset--dimension--75: 75%;--wp--preset--dimension--100: 100%;}:where(body) { margin: 0; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<link data-minify="1" rel='stylesheet' id='twenty20-css' href='https://www.nknews.org/pro/wp-content/cache/min/4/pro/wp-content/plugins/twenty20/assets/css/twenty20.css?ver=1791194428' media='all' />
+<link data-minify="1" rel='stylesheet' id='bxslider-css' href='https://www.nknews.org/pro/wp-content/cache/min/4/pro/wp-content/themes/nkpro/css/jquery.bxslider.css?ver=1791194443' media='all' />
+<link data-minify="1" rel='stylesheet' id='issuem-leaky-paywall-css' href='https://www.nknews.org/pro/wp-content/cache/min/4/pro/wp-content/plugins/leaky-paywall/css/issuem-leaky-paywall.css?ver=1791194428' media='all' />
+<link data-minify="1" rel='stylesheet' id='nk-paywall-nkpro-flow-css' href='https://www.nknews.org/pro/wp-content/cache/min/4/pro/wp-content/plugins/nk-paywall/assets/css/nkpro-flow.css?ver=1791194428' media='all' />
+<link data-minify="1" rel='stylesheet' id='fontawesome-css' href='https://www.nknews.org/pro/wp-content/cache/min/4/pro/wp-content/themes/nkpro/css/font-awesome.min.css?ver=1791194428' media='all' />
+<link data-minify="1" rel='stylesheet' id='fontello-css' href='https://www.nknews.org/pro/wp-content/cache/min/4/pro/wp-content/themes/nkpro/css/fontello.css?ver=1791194428' media='all' />
+<link rel='stylesheet' id='bootstrap-css' href='https://www.nknews.org/pro/wp-content/themes/nkpro/css/bootstrap.min.css?ver=5.3.3' media='all' />
+<link rel='stylesheet' id='SimpleScrollbar-css' href='https://www.nknews.org/static/simple-scrollbar.css' media='all' />
+<link data-minify="1" rel='stylesheet' id='mCustomScrollbar-css' href='https://www.nknews.org/pro/wp-content/cache/min/4/pro/wp-content/themes/nkpro/css/mCustomScrollbar.css?ver=1791194428' media='all' />
+<link rel='stylesheet' id='bootstrap-select-css' href='https://www.nknews.org/pro/wp-content/themes/nkpro/css/bootstrap-select.min.css?ver=1.14.0-beta3' media='all' />
+<link rel='stylesheet' id='datatables-css' href='https://www.nknews.org/pro/wp-content/themes/nkpro/css/dataTables.min.css?ver=5bf5ea88de4fe239c937cda51827b287' media='all' />
+<link rel='stylesheet' id='datepicker-css' href='https://www.nknews.org/pro/wp-content/themes/nkpro/css/bootstrap-datepicker.min.css?ver=5bf5ea88de4fe239c937cda51827b287' media='all' />
+<link data-minify="1" rel='stylesheet' id='nkpro-style-css' href='https://www.nknews.org/pro/wp-content/cache/min/4/pro/wp-content/themes/nkpro/style.css?ver=1791194428' media='all' />
+<link rel='stylesheet' id='lity-css' href='https://www.nknews.org/pro/wp-content/themes/nkpro/css/lity.min.css' media='all' />
+<link rel='stylesheet' id='mediaelement-css' href='https://www.nknews.org/pro/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css' href='https://www.nknews.org/pro/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=5bf5ea88de4fe239c937cda51827b287' media='all' />
+<link data-minify="1" rel='stylesheet' id='nkpro-tools-res-css' href='https://www.nknews.org/pro/wp-content/cache/min/4/pro/wp-content/themes/nkpro/css/rst_responsive.css?ver=1791194428' media='all' />
+<link data-minify="1" rel='stylesheet' id='nkpro-responsive-css' href='https://www.nknews.org/pro/wp-content/cache/min/4/pro/wp-content/themes/nkpro/css/responsive.css?ver=1791194428' media='all' />
+<link data-minify="1" rel='stylesheet' id='fwdmgz-css' href='https://www.nknews.org/pro/wp-content/cache/min/4/pro/wp-content/plugins/fwdmgz/css/global.css?ver=1791194428' media='all' />
+<script id="nk-paywall-js-extra">
+var nkPaywall = {"ajaxUrl":"https://www.nknews.org/pro/wp-admin/admin-ajax.php","nonce":"3ecbacb6d2","postId":"2226664","site":"nkpro","loggedIn":"","ngoDocumentOnFile":"","siteName":"NK Pro","primaryColor":"#30baba","signupStripeFontCss":"https://www.nknews.org/pro/wp-content/themes/nknews/css/custom-font.css","tossClientKey":"","tossSuccessUrl":"https://www.nknews.org/pro/?nk_paywall_toss=1","homeUrl":"https://www.nknews.org/pro/","signupSupportEmail":"membership@nknews.org","turnstileEnabled":"1","turnstileSiteKey":"0x4AAAAAADu56aAenkr21Khy","showDailySubscribe":"","kcnaHasBrowseAccess":"1","isKcnaHome":""};
+//# sourceURL=nk-paywall-js-extra
+</script>
+<script data-minify="1" id="nk-paywall-js" src="https://www.nknews.org/pro/wp-content/cache/min/4/pro/wp-content/plugins/nk-paywall/assets/js/nk-paywall.js?ver=1791194428" data-rocket-defer defer></script>
+<script id="nk-briefings-events-js-extra">
+var nkBriefingsEvents = {"ajaxUrl":"https://www.nknews.org/pro/wp-admin/admin-ajax.php","nonce":"c2b61a8288"};
+//# sourceURL=nk-briefings-events-js-extra
+</script>
+<script data-minify="1" id="nk-briefings-events-js" src="https://www.nknews.org/pro/wp-content/cache/min/4/pro/wp-content/plugins/nk-briefings-events/assets/js/nk-briefings-events.js?ver=1791194428" data-rocket-defer defer></script>
+<script id="jquery-core-js" src="https://www.nknews.org/pro/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"></script>
+<script id="jquery-migrate-js" src="https://www.nknews.org/pro/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" data-rocket-defer defer></script>
+<script data-minify="1" id="nk-paywall-nkpro-members-only-js" src="https://www.nknews.org/pro/wp-content/cache/min/4/pro/wp-content/plugins/nk-paywall/assets/js/nkpro-members-only.js?ver=1791194428" data-rocket-defer defer></script>
+<script id="bootstrap-js" src="https://www.nknews.org/pro/wp-content/themes/nkpro/js/bootstrap.min.js?ver=5.3.3" data-rocket-defer defer></script>
+<script data-minify="1" id="bs5-lightbox-js" src="https://www.nknews.org/pro/wp-content/cache/min/4/npm/bs5-lightbox@1.8.5/dist/index.bundle.min.js?ver=1791194428" data-rocket-defer defer></script>
+<script data-wp-strategy="defer" defer id="alpine-js" src="https://www.nknews.org/pro/wp-content/plugins/nk-paywall/assets/vendor/alpine.min.js?ver=3.15.8"></script>
+<script data-wp-strategy="defer" defer id="nk-paywall-turnstile-js" src="https://challenges.cloudflare.com/turnstile/v0/api.js?onload=turnstileLoaded&#038;render=explicit"></script>
+<script id="gchart-js" src="https://www.nknews.org/pro/wp-content/themes/nkpro/js/loader.js" data-rocket-defer defer></script>
+<script data-minify="1" id="fwdmgz-js" src="https://www.nknews.org/pro/wp-content/cache/min/4/pro/wp-content/plugins/fwdmgz/js/FWDM.js?ver=1791194428" data-rocket-defer defer></script>
+<link rel="https://api.w.org/" href="https://www.nknews.org/pro/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://www.nknews.org/pro/wp-json/wp/v2/posts/2226664" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.nknews.org/pro/xmlrpc.php?rsd" />
+<link rel='shortlink' href='https://www.nknews.org/pro/?p=2226664' />
+
+<style id="nk-pro-ads-css">.nkpro-ad{position:relative;width:100%;margin-bottom:20px;padding:22px;overflow:hidden;background-color:#1d2730;background-position:center;background-size:cover;background-repeat:no-repeat;color:#fff;font-family:'CircularStd','Helvetica Neue',Helvetica,Arial,sans-serif;box-shadow:0 4px 18px rgba(0,0,0,0.18);}
+.nkpro-ad__card{position:relative;z-index:2;display:block;color:#fff;}
+.nkpro-ad__image-link{position:relative;z-index:2;display:block;margin:-22px;}
+.nkpro-ad__image{display:block;width:100%;height:auto;}
+.nkpro-ad__label{display:inline-block;background:rgba(0,0,0,0.85);color:#fff;font-family:'DIN','Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:900;font-size:13px;letter-spacing:0.06em;padding:9px 14px;margin-bottom:18px;}
+.nkpro-ad__heading{margin:0 0 14px;font-family:'CircularStd','Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:700;font-size:22px;line-height:1.2;color:#5ec5cb;text-align:center;}
+.nkpro-ad .nkpro-ad__description{margin:0 0 18px;font-size:14px;line-height:1.45;color:#e6e9ed;text-align:center;}
+.nkpro-ad__stats{list-style:none;margin:0 0 20px;padding:0;}
+.nkpro-ad__stats li{display:flex;align-items:baseline;gap:14px;padding:6px 0;}
+.ad-pro-news .nkpro-ad__stats li{justify-content:center;}
+.nkpro-ad__stat-value{flex:0 0 70px;font-family:'DIN','Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:900;font-size:28px;line-height:1;color:#fff;text-align:right;}
+.nkpro-ad__stat-label{font-family:'DIN','Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:600;font-size:12px;letter-spacing:0.08em;color:#cfd6dc;text-transform:uppercase;}
+.nkpro-ad__highlight{display:flex;align-items:center;gap:12px;margin:0 0 20px;justify-content:center;}
+.nkpro-ad__highlight-text strong{display:block;font-family:'CircularStd','Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:700;font-size:15px;line-height:1.35;color:#fff;margin-bottom:8px;}
+.nkpro-ad__highlight-meta{display:block;font-size:12px;color:#cfd6dc;line-height:1.5;}
+.nkpro-ad__highlight-icon{flex:0 0 70px;width:70px;height:auto;}
+.nkpro-ad__articles{list-style:none;margin:0 0 20px;padding:0;counter-reset:nkpro-articles;}
+.nkpro-ad__articles li{display:flex;align-items:flex-start;gap:12px;padding:7px 0;border-top:1px solid rgba(255,255,255,0.08);}
+.nkpro-ad__articles li:first-child{border-top:0;}
+.nkpro-ad__articles-num{font-family:'DIN','Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:900;font-size:16px;color:#fff;flex:0 0 22px;}
+.nkpro-ad__articles-text{font-size:13px;line-height:1.4;color:#e6e9ed;text-decoration:none;}
+.nkpro-ad__articles-text:hover,.nkpro-ad__articles-text:focus{color:#5ec5cb;text-decoration:none;}
+.nkpro-ad__icon-grid{list-style:none;margin:0 0 20px;padding:0;display:grid;gap:14px;grid-template-columns:repeat(3,1fr);}
+.nkpro-ad__icon-grid li{display:flex;flex-direction:column;align-items:center;text-align:center;gap:6px;}
+.nkpro-ad__icon-grid img{width:32px;height:32px;object-fit:contain;}
+.nkpro-ad__icon-title{font-weight:500;font-size:11px;letter-spacing:0.06em;color:#fff;line-height:1.2;}
+.nkpro-ad__icon-meta{font-size:11px;color:#cfd6dc;line-height:1.2;}
+.nkpro-ad__chat{position:relative;margin:0 0 20px;padding:6px 0;}
+.nkpro-ad__chat-question,.nkpro-ad__chat-answer{border:1px solid rgba(94,197,203,0.55);border-radius:10px;padding:10px 12px;font-size:12px;line-height:1.4;color:#e6e9ed;background:rgba(15,23,31,0.35);}
+.nkpro-ad__chat-question{margin:0 0 10px 28%;}
+.nkpro-ad__chat-answer{margin:0 28% 0 0;border-color:#5ec5cb;}
+.nkpro-ad__chat-icons{position:absolute;display:flex;gap:4px;opacity:0.85;}
+.nkpro-ad__chat-icons:not(.nkpro-ad__chat-icons--right){top:6px;left:0;flex-direction:row;}
+.nkpro-ad__chat-icons--right{bottom:6px;right:0;flex-direction:column;align-items:flex-end;}
+.nkpro-ad__chat-icons img{width:22px;height:22px;object-fit:contain;}
+.nkpro-ad__cta{display:block;background:#5ec5cb;color:#fff;font-family:'DIN','Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:900;font-size:14px;letter-spacing:0.08em;text-align:center;padding:14px 12px;text-decoration:none;transition:background 0.2s ease;}
+.nkpro-ad__cta:hover,.nkpro-ad__cta:focus,.nkpro-ad__cta:visited{color:#fff;text-decoration:none;}
+.nkpro-ad__cta:hover,.nkpro-ad__cta:focus{background:#4ab2b8;}
+.nkpro-ad__stat-value.highlight{color:#5ec5cb;}
+@media (max-width:1399px){.nkpro-ad__highlight-icon{flex:0 0 50px;width:50px;}}
+@media (min-width:992px) and (max-width:1199px){.nkpro-ad{padding:18px;}.nkpro-ad__image-link{margin:-18px;}.nkpro-ad__heading{font-size:19px;}.nkpro-ad__stat-value{flex-basis:60px;font-size:24px;}.nkpro-ad__icon-grid img{width:28px;height:28px;}}</style>
+<link rel="me" href="https://federated.press/@nknews"/>
+	<script type='text/javascript'>
+		var nkproTinymce = {
+			'url': 'https://www.nknews.org/pro/wp-content/themes/nkpro',
+			'buttons': '[{"cmd":"nkpro_mir_table_content","title":"Add MIR Table of Content","icon":"table"},{"cmd":"nkpro_mir_title","title":"Add\/Edit MIR Title","icon":"plus"}]',
+			'titles': '["Executive Summary","Timeline","Foreign Relations","WMD","Military","WMD\/Military","Inter-Korean","Leadership","Human Security\/Human Rights","Cyber","Economy","Sanctions","DPRK State Media","The Month Ahead","Additional Readings This Month"]',
+			'authors': '["NK Pro","Alannah Hill","Arius Derr","Chad O\u2019Carroll","James Fretwell","Jeongmin Kim","Martin Weiser","Peter Ward","Seung-Yeon Chung","Shreyas Reddy"]',
+		};
+	</script>
+	<noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript><style id="rocket-lazyrender-inline-css">[data-wpr-lazyrender] {content-visibility: auto;}</style><meta name="generator" content="WP Rocket 3.23.4" data-wpr-features="wpr_defer_js wpr_minify_js wpr_lazyload_images wpr_preconnect_external_domains wpr_auto_preload_fonts wpr_automatic_lazy_rendering wpr_oci wpr_minify_css wpr_cdn wpr_preload_links wpr_desktop" /></head>
+
+<body class="wp-singular post-template-default single single-post postid-2226664 single-format-standard wp-theme-nkpro d-relative">
+	<div  class="wrapper background-blur">
+		<!--Top Black Strip start-->
+		<header  class="toggleMenu sticky" id="header-top">
+			<div  class="container header-top-inner d-flex justify-content-between align-items-center">
+				<div class="d-flex align-items-center">
+					<a class="navbar-brand" href="https://www.nknews.org/pro">
+						<img src="https://www.nknews.org/pro/wp-content/themes/nkpro/images/logo.png" alt="NK Pro Logo" />
+					</a>
+					<div class="current-date"><span class="desktop">October 06, 2026</span><span class="mob d-none">Oct 06, 2026</span></div>
+				</div>
+				<div class="head-right d-flex align-items-center">
+					<div class="social-links d-none d-md-block">
+						<ul class="clearfix"><li><a href="https://twitter.com/nknewsorg" title="Twitter" target="_blank" rel="nofollow"><i class="fa fa-twitter"></i></a></li><li><a href="https://www.instagram.com/nknewsorg/" title="Instagram" target="_blank" rel="nofollow"><i class="fa fa-instagram"></i></a></li><li><a href="https://www.facebook.com/nknewsorg" title="Facebook" target="_blank" rel="nofollow"><i class="fa fa-facebook"></i></a></li><li><a href="https://www.youtube.com/channel/UCz5Nf5Eb7EQul1mLqrRwliw" title="Youtube" target="_blank" rel="nofollow"><i class="fa fa-youtube-play"></i></a></li></ul>					</div>
+					<div class="other-sites">
+						<ul class="clearfix">
+							<li><a href="https://www.nknews.org"><img src="https://www.nknews.org/pro/wp-content/themes/nkpro/images/nk_link.png" alt="NK News Logo"></a></li>
+							<li><a href="https://kcnawatch.org" class="kcna_url">KCNA <span class="green-color">Watch</span></a></li>
+							<li><a href="https://koreapro.org"><span style="color:#FFC13D">Korea</span>
+									Pro</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</header>
+		<!--Top Black Strip end-->
+
+		<!--Navbar Mob Start-->
+		<nav class="navbar navbar-light nkpro-navbar-mob toggleMenu sticky" id="mobile-nav">
+			<div  class="container">
+				<div class="logo-mob">
+					<a href="https://www.nknews.org/pro" class="d-block">
+						<img src="https://www.nknews.org/pro/wp-content/themes/nkpro/images/logo.png" class="mlogo" alt="NK Pro Logo" />
+						<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" class="mlogo-alt" alt="NK Pro Logo" data-lazy-src="https://www.nknews.org/pro/wp-content/themes/nkpro/images/logo-dark.png" /><noscript><img src="https://www.nknews.org/pro/wp-content/themes/nkpro/images/logo-dark.png" class="mlogo-alt" alt="NK Pro Logo" /></noscript>
+					</a>
+				</div>
+				<button class="navbar-toggler" type="button"><span class="mmbar"></span></button>
+			</div>
+			<div id="nkpro-nav-mob-home">
+				<div  class="container">
+					<form action="/pro" method="get">
+						<div class="search-box-mob">
+							<input type="hidden" name="source[]" value="nknews">
+							<input type="text" name="s" class="form-control" autocomplete="off" placeholder="Search" value="">
+							<i class="fa fa-search"></i>
+						</div>
+					</form>
+					<ul id="mobile-navigation-list" class="navbar-nav me-auto"><li id="menu-item-191440" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-191440"><a href="#">News &#038; Analysis</a>
+<ul class="dropdownlist">
+	<li id="menu-item-191441" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-191441"><a href="https://www.nknews.org/pro/category/news/">News</a></li>
+	<li id="menu-item-191442" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-191442"><a href="https://www.nknews.org/pro/category/analysis/">Analysis</a></li>
+	<li id="menu-item-2215793" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2215793"><a href="https://www.nknews.org/pro/category/investigation/">Investigations</a></li>
+	<li id="menu-item-2192558" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-2192558"><a href="https://www.nknews.org/pro/tag/timelines/">Timelines</a></li>
+	<li id="menu-item-2214509" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2214509"><a href="https://www.nknews.org/pro/category/state-media-review/">State Media Review</a></li>
+</ul>
+</li>
+<li id="menu-item-191443" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-191443"><a href="#">Research Tools</a>
+<ul class="dropdownlist">
+	<li id="menu-item-2187947" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2187947"><a href="https://www.nknews.org/pro/nk-delegation-tracker/">Delegation Tracker</a></li>
+	<li id="menu-item-200073" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-200073"><a href="https://www.nknews.org/pro/nk-aviation-tracker/">Flight Tracker</a></li>
+	<li id="menu-item-121620" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-121620"><a href="https://www.nknews.org/pro/nk-leadership-tracker/">Leadership Tracker</a></li>
+	<li id="menu-item-2222352" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2222352"><a href="https://www.nknews.org/pro/nk-leadership-organogram/">Leadership Map</a></li>
+	<li id="menu-item-2211802" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2211802"><a href="https://www.nknews.org/pro/north-korea-ship-tracking/">Marine Tracker</a></li>
+	<li id="menu-item-208645" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-208645"><a href="https://www.nknews.org/pro/nk-missile-tracker/">Missile Tracker</a></li>
+	<li id="menu-item-2209445" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2209445"><a href="https://www.nknews.org/pro/nk-sanctions-tracker/">Sanctions Tracker</a></li>
+	<li id="menu-item-191453" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-191453"><a href="https://www.nknews.org/pro/import-export/">Trade Data</a></li>
+	<li id="menu-item-2223291" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2223291"><a href="https://www.nknews.org/pro/north-korea-exchange-rate-index/">Exchange Rate</a></li>
+	<li id="menu-item-2223292" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2223292"><a href="https://www.nknews.org/pro/about-the-energy-price-index/">Energy Index</a></li>
+</ul>
+</li>
+<li id="menu-item-191444" class="append-new menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-191444"><a href="#">Databases</a>
+<ul class="dropdownlist">
+	<li id="menu-item-191450" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-191450"><a href="https://www.nknews.org/pro/north-korea-company-database/">Company Directory</a></li>
+	<li id="menu-item-191456" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-191456"><a href="https://www.nknews.org/pro/institutional-directory/">Foreign Organizations</a></li>
+	<li id="menu-item-196449" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-196449"><a href="https://www.nknews.org/pro/experts/">Expert Directory</a></li>
+	<li id="menu-item-2165852" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2165852"><a href="https://www.nknews.org/pro/documents/">Document Directory</a></li>
+	<li id="menu-item-2245276" class="append-new menu-item menu-item-type-post_type menu-item-object-page menu-item-2245276"><a href="https://www.nknews.org/pro/weapon-directory/">Weapon Directory</a></li>
+</ul>
+</li>
+<li id="menu-item-191458" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-191458"><a href="https://www.nknews.org/pro/nk-aggregator/">NK Aggregator</a>
+<ul class="dropdownlist">
+	<li id="menu-item-191467" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-191467"><a href="https://www.nknews.org/pro/nk-aggregator/">Aggregator</a></li>
+	<li id="menu-item-191465" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-191465"><a href="https://www.nknews.org/pro/sources/">Sources</a></li>
+	<li id="menu-item-191751" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-191751"><a href="https://www.nknews.org/pro/advanced-search/">Advanced Search</a></li>
+	<li id="menu-item-191750" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-191750"><a href="https://www.nknews.org/pro/create-chart/">Create Chart</a></li>
+</ul>
+</li>
+<li id="menu-item-2180431" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2180431"><a href="https://www.nknews.org/pro/category/month-in-review/">Month in Review</a></li>
+<li id="menu-item-2165900" class="menu-item-topics menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2165900"><a href="#">Topics</a>
+<ul class="dropdownlist">
+	<li id="menu-item-2165901" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2165901"><a href="/pro/tag/aviation/">Aviation</a></li>
+	<li id="menu-item-2165902" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2165902"><a href="/pro/tag/business/">Business</a></li>
+	<li id="menu-item-2165903" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2165903"><a href="/pro/tag/companies/">Companies</a></li>
+	<li id="menu-item-2165904" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2165904"><a href="/pro/tag/culture/">Culture</a></li>
+	<li id="menu-item-2180545" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2180545"><a href="/pro/tag/cyber/">Cyber</a></li>
+	<li id="menu-item-2165905" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2165905"><a href="/pro/tag/defector-issues/">Defector Issues</a></li>
+	<li id="menu-item-2165906" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2165906"><a href="/pro/tag/economy/">Economy</a></li>
+	<li id="menu-item-2165907" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2165907"><a href="/pro/tag/foreign-relations/">Foreign Relations</a></li>
+	<li id="menu-item-2165908" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2165908"><a href="/pro/tag/history/">History</a></li>
+	<li id="menu-item-2165909" class="human-sec menu-item menu-item-type-custom menu-item-object-custom menu-item-2165909"><a href="/pro/tag/human-security-human-rights/">Human Security / Human Rights</a></li>
+	<li id="menu-item-2165910" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2165910"><a href="/pro/tag/inter-korean/">Inter-Korean</a></li>
+	<li id="menu-item-2165911" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2165911"><a href="/pro/tag/leadership/">Leadership</a></li>
+	<li id="menu-item-2165912" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2165912"><a href="/pro/tag/military-affairs/">Military Affairs</a></li>
+	<li id="menu-item-2165913" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2165913"><a href="/pro/tag/misc/">Misc.</a></li>
+	<li id="menu-item-2165914" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2165914"><a href="/pro/tag/missiles/">Missiles</a></li>
+	<li id="menu-item-2165915" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2165915"><a href="/pro/tag/sanctions/">Sanctions</a></li>
+	<li id="menu-item-2165916" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2165916"><a href="/pro/tag/shipping/">Shipping</a></li>
+	<li id="menu-item-2165917" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2165917"><a href="/pro/tag/trade-data/">Trade Data</a></li>
+	<li id="menu-item-2165918" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2165918"><a href="/pro/tag/wmd/">WMD</a></li>
+</ul>
+</li>
+<li id="menu-item-2189481" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2189481"><a href="#">Events</a>
+<ul class="dropdownlist">
+	<li id="menu-item-2219502" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2219502"><a href="https://www.nknews.org/pro/events/">Events Calendar</a></li>
+	<li id="menu-item-2226381" class="nk-briefings-menu-trigger nk-briefings-popup-nkpro-booking menu-item menu-item-type-custom menu-item-object-custom menu-item-2226381"><a href="#">Book a private briefing</a></li>
+	<li id="menu-item-2226380" class="nk-briefings-menu-trigger nk-briefings-popup-nkpro-topic menu-item menu-item-type-custom menu-item-object-custom menu-item-2226380"><a href="#">Suggest a topic</a></li>
+</ul>
+</li>
+</ul>					<div class="mobile-nav-signin">
+						<div class="sign-in-wrapper user-block"><button type="button" data-nk-paywall-popup="nkpro-members-only" class="no-decoration signin">Sign in</button><a href="https://membership.nknews.org/welcome-to-nk-pro/" class="no-decoration signup"><i class="fa fa-user"></i>Sign up</a></div>					</div>
+					<div class="social-links">
+						<ul class="clearfix"><li><a href="https://twitter.com/nknewsorg" title="Twitter" target="_blank" rel="nofollow"><i class="fa fa-twitter"></i></a></li><li><a href="https://www.instagram.com/nknewsorg/" title="Instagram" target="_blank" rel="nofollow"><i class="fa fa-instagram"></i></a></li><li><a href="https://www.facebook.com/nknewsorg" title="Facebook" target="_blank" rel="nofollow"><i class="fa fa-facebook"></i></a></li><li><a href="https://www.youtube.com/channel/UCz5Nf5Eb7EQul1mLqrRwliw" title="Youtube" target="_blank" rel="nofollow"><i class="fa fa-youtube-play"></i></a></li></ul>					</div>
+				</div>
+			</div>
+		</nav>
+		<!--Navbar Mob end-->
+
+		
+		<!--Navbar Start-->
+		<nav class="navbar navbar-expand-lg navbar-light bg-light nkpro-navbar-main toggleMenu" id="desktop-navbar">
+			<div  class="container">
+				<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#nkpro-nav-home" aria-controls="nkpro-nav-home" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+				<div class="collapse navbar-collapse" id="nkpro-nav-home">
+					<ul id="main-navigation-list" class="navbar-nav me-auto"><li id="menu-item-191440" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-191440"><a href="#">News &#038; Analysis</a>
+<ul class="dropdownlist">
+	<li id="menu-item-191441" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-191441"><a href="https://www.nknews.org/pro/category/news/">News</a></li>
+	<li id="menu-item-191442" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-191442"><a href="https://www.nknews.org/pro/category/analysis/">Analysis</a></li>
+	<li id="menu-item-2215793" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2215793"><a href="https://www.nknews.org/pro/category/investigation/">Investigations</a></li>
+	<li id="menu-item-2192558" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-2192558"><a href="https://www.nknews.org/pro/tag/timelines/">Timelines</a></li>
+	<li id="menu-item-2214509" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2214509"><a href="https://www.nknews.org/pro/category/state-media-review/">State Media Review</a></li>
+</ul>
+</li>
+<li id="menu-item-191443" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-191443"><a href="#">Research Tools</a>
+<ul class="dropdownlist">
+	<li id="menu-item-2187947" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2187947"><a href="https://www.nknews.org/pro/nk-delegation-tracker/">Delegation Tracker</a></li>
+	<li id="menu-item-200073" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-200073"><a href="https://www.nknews.org/pro/nk-aviation-tracker/">Flight Tracker</a></li>
+	<li id="menu-item-121620" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-121620"><a href="https://www.nknews.org/pro/nk-leadership-tracker/">Leadership Tracker</a></li>
+	<li id="menu-item-2222352" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2222352"><a href="https://www.nknews.org/pro/nk-leadership-organogram/">Leadership Map</a></li>
+	<li id="menu-item-2211802" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2211802"><a href="https://www.nknews.org/pro/north-korea-ship-tracking/">Marine Tracker</a></li>
+	<li id="menu-item-208645" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-208645"><a href="https://www.nknews.org/pro/nk-missile-tracker/">Missile Tracker</a></li>
+	<li id="menu-item-2209445" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2209445"><a href="https://www.nknews.org/pro/nk-sanctions-tracker/">Sanctions Tracker</a></li>
+	<li id="menu-item-191453" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-191453"><a href="https://www.nknews.org/pro/import-export/">Trade Data</a></li>
+	<li id="menu-item-2223291" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2223291"><a href="https://www.nknews.org/pro/north-korea-exchange-rate-index/">Exchange Rate</a></li>
+	<li id="menu-item-2223292" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2223292"><a href="https://www.nknews.org/pro/about-the-energy-price-index/">Energy Index</a></li>
+</ul>
+</li>
+<li id="menu-item-191444" class="append-new menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-191444"><a href="#">Databases</a>
+<ul class="dropdownlist">
+	<li id="menu-item-191450" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-191450"><a href="https://www.nknews.org/pro/north-korea-company-database/">Company Directory</a></li>
+	<li id="menu-item-191456" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-191456"><a href="https://www.nknews.org/pro/institutional-directory/">Foreign Organizations</a></li>
+	<li id="menu-item-196449" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-196449"><a href="https://www.nknews.org/pro/experts/">Expert Directory</a></li>
+	<li id="menu-item-2165852" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2165852"><a href="https://www.nknews.org/pro/documents/">Document Directory</a></li>
+	<li id="menu-item-2245276" class="append-new menu-item menu-item-type-post_type menu-item-object-page menu-item-2245276"><a href="https://www.nknews.org/pro/weapon-directory/">Weapon Directory</a></li>
+</ul>
+</li>
+<li id="menu-item-191458" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-191458"><a href="https://www.nknews.org/pro/nk-aggregator/">NK Aggregator</a>
+<ul class="dropdownlist">
+	<li id="menu-item-191467" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-191467"><a href="https://www.nknews.org/pro/nk-aggregator/">Aggregator</a></li>
+	<li id="menu-item-191465" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-191465"><a href="https://www.nknews.org/pro/sources/">Sources</a></li>
+	<li id="menu-item-191751" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-191751"><a href="https://www.nknews.org/pro/advanced-search/">Advanced Search</a></li>
+	<li id="menu-item-191750" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-191750"><a href="https://www.nknews.org/pro/create-chart/">Create Chart</a></li>
+</ul>
+</li>
+<li id="menu-item-2180431" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2180431"><a href="https://www.nknews.org/pro/category/month-in-review/">Month in Review</a></li>
+<li id="menu-item-2165900" class="menu-item-topics menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2165900"><a href="#">Topics</a>
+<ul class="dropdownlist">
+	<li id="menu-item-2165901" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2165901"><a href="/pro/tag/aviation/">Aviation</a></li>
+	<li id="menu-item-2165902" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2165902"><a href="/pro/tag/business/">Business</a></li>
+	<li id="menu-item-2165903" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2165903"><a href="/pro/tag/companies/">Companies</a></li>
+	<li id="menu-item-2165904" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2165904"><a href="/pro/tag/culture/">Culture</a></li>
+	<li id="menu-item-2180545" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2180545"><a href="/pro/tag/cyber/">Cyber</a></li>
+	<li id="menu-item-2165905" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2165905"><a href="/pro/tag/defector-issues/">Defector Issues</a></li>
+	<li id="menu-item-2165906" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2165906"><a href="/pro/tag/economy/">Economy</a></li>
+	<li id="menu-item-2165907" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2165907"><a href="/pro/tag/foreign-relations/">Foreign Relations</a></li>
+	<li id="menu-item-2165908" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2165908"><a href="/pro/tag/history/">History</a></li>
+	<li id="menu-item-2165909" class="human-sec menu-item menu-item-type-custom menu-item-object-custom menu-item-2165909"><a href="/pro/tag/human-security-human-rights/">Human Security / Human Rights</a></li>
+	<li id="menu-item-2165910" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2165910"><a href="/pro/tag/inter-korean/">Inter-Korean</a></li>
+	<li id="menu-item-2165911" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2165911"><a href="/pro/tag/leadership/">Leadership</a></li>
+	<li id="menu-item-2165912" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2165912"><a href="/pro/tag/military-affairs/">Military Affairs</a></li>
+	<li id="menu-item-2165913" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2165913"><a href="/pro/tag/misc/">Misc.</a></li>
+	<li id="menu-item-2165914" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2165914"><a href="/pro/tag/missiles/">Missiles</a></li>
+	<li id="menu-item-2165915" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2165915"><a href="/pro/tag/sanctions/">Sanctions</a></li>
+	<li id="menu-item-2165916" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2165916"><a href="/pro/tag/shipping/">Shipping</a></li>
+	<li id="menu-item-2165917" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2165917"><a href="/pro/tag/trade-data/">Trade Data</a></li>
+	<li id="menu-item-2165918" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2165918"><a href="/pro/tag/wmd/">WMD</a></li>
+</ul>
+</li>
+<li id="menu-item-2189481" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2189481"><a href="#">Events</a>
+<ul class="dropdownlist">
+	<li id="menu-item-2219502" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2219502"><a href="https://www.nknews.org/pro/events/">Events Calendar</a></li>
+	<li id="menu-item-2226381" class="nk-briefings-menu-trigger nk-briefings-popup-nkpro-booking menu-item menu-item-type-custom menu-item-object-custom menu-item-2226381"><a href="#">Book a private briefing</a></li>
+	<li id="menu-item-2226380" class="nk-briefings-menu-trigger nk-briefings-popup-nkpro-topic menu-item menu-item-type-custom menu-item-object-custom menu-item-2226380"><a href="#">Suggest a topic</a></li>
+</ul>
+</li>
+</ul>					<div class="my-2 my-md-0 position-relative d-flex align-items-center">
+						<form action="/pro" method="get">
+							<input type="checkbox" class="visibility-hidden" id="scroll_search" autocomplete="off">
+							<label class="click-to-search search-icon" for="scroll_search">
+								<i class="fa fa-search"></i>
+							</label>
+							<div class="search-box">
+								<input type="hidden" name="source[]" value="nknews">
+								<input type="text" name="s" autocomplete="off" id="search_input" placeholder="Search" value="">
+							</div>
+						</form>
+
+						<div class="sign-in-wrapper user-block"><button type="button" data-nk-paywall-popup="nkpro-members-only" class="no-decoration signin">Sign in</button><a href="https://membership.nknews.org/welcome-to-nk-pro/" class="no-decoration signup"><i class="fa fa-user"></i>Sign up</a></div>					</div>
+				</div>
+			</div>
+		</nav>
+		<!--Navbar end--><div  class="page-header d-none">
+	<div  class="logo">
+		<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" class="" alt="NK Pro Logo" data-lazy-src="https://www.nknews.org/pro/wp-content/themes/nkpro/images/logo-dark.png"><noscript><img src="https://www.nknews.org/pro/wp-content/themes/nkpro/images/logo-dark.png" class="" alt="NK Pro Logo"></noscript>	</div>
+	<p class="tagline">The ultimate resources for professionals working on North Korea</p>
+</div>
+
+<section  id="main-content-wrapper">
+	<div class="container">
+		<div id="content-wrapper-parent">
+			<table>
+				<thead>
+					<tr>
+						<td>
+							<div class="page-header-space"></div>
+						</td>
+					</tr>
+				</thead>
+				<tfoot>
+					<tr>
+						<td>
+							<div class="page-footer-space"></div>
+						</td>
+					</tr>
+				</tfoot>
+				<tbody>
+					<tr>
+						<td>
+															<div class="row" id="single-content-parent">
+									<div class="col-lg-9">
+											<div class="row">
+		<div class="col-md-12 access-banner d-none d-sm-none d-md-block"><a href="https://signup.nknews.org/nkpro" target="_blank" data-track-content data-content-name="Content Ad"><img class="img-fluid" src="https://www.nknews.org/pro/wp-content/themes/nkpro/images/news-inner-banner.jpg" alt="NK Pro Banner" data-content-piece="NK Pro Banner" /></a></div>
+		<div class="col-md-12 access-banner d-block d-sm-block d-md-none"><a href="https://signup.nknews.org/nkpro" target="_blank" data-track-content data-content-name="Content Ad"><img class="img-fluid" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="NK Pro Banner" data-content-piece="NK Pro Banner" data-lazy-src="https://www.nknews.org/pro/wp-content/themes/nkpro/images/nkpro-mob-ad-banner.jpg" /><noscript><img class="img-fluid" src="https://www.nknews.org/pro/wp-content/themes/nkpro/images/nkpro-mob-ad-banner.jpg" alt="NK Pro Banner" data-content-piece="NK Pro Banner" /></noscript></a></div>
+	</div>
+<div class="row d-block d-lg-none">
+	<div class="col-md-12">
+			<div id="nkPromoBannerSlot1" class="nk-promo-banner-slot"></div>
+	<script type="text/javascript">
+		(function () {
+			var nkPromoBanners = ["<a style=\"display: block; margin-bottom: 20px;\" role=\"button\" href=\"https:\/\/www.nknews.org\/pro\/pro\/weapon-directory\/\" data-track-content=\"Weapon Directory\" data-content-name=\"Mobile Ad\"><img class=\"img-fluid alignnone size-large\" src=\"https:\/\/www.nknews.org\/pro\/wp-content\/themes\/nkpro\/images\/weapon-side-banner.png\" alt=\"Weapon Directory\" data-content-piece=\"Weapon Directory Banner\" \/><\/a>","<div style=\"margin-bottom: 20px\"><a style=\"display: block; margin-bottom: 20px;\" href=\"https:\/\/www.korearisk.com\/north-korea-strategic-risk-advisory\/\" target=\"_blank\" data-track-content data-content-name=\"Mobile Ad\"><img class=\"img-v-banner\" src=\"https:\/\/www.nknews.org\/pro\/wp-content\/themes\/nkpro\/images\/nkpro-consulting-service.png\" alt=\"NK Pro Consulting Service\" data-content-piece=\"NK Pro Consulting Service\" \/><\/a><\/div>"];
+			jQuery(function ($) {
+				var $slot = $('#nkPromoBannerSlot1');
+				if (!$slot.length || !nkPromoBanners.length) {
+					return;
+				}
+				var idx = Math.floor(Math.random() * nkPromoBanners.length);
+				$slot.replaceWith(nkPromoBanners[idx]);
+			});
+		}());
+	</script>
+		</div>
+</div>
+																				<div class="news-detail-view" id="print_area">
+	<div style="margin-bottom:12px"><div class="black-trans-label"><span>Analysis</span></div></div>	<h2>Russian navy escorts ships known to shuttle arms from North Korea: Japan</h2>	<p>Exodus of sanctioned freighters alongside military convoy heralds change in Moscow-Pyongyang arms trade, experts say</p>
+	<p class="author-date">
+		<a href="https://www.nknews.org/pro/content_author/anton-sokolin">Anton Sokolin</a><span>
+			May 21, 2026		</span>
+	</p>
+	<div class="sticky-social-icons" id="post_share">
+				<div class="dropdown d-inline">
+			<a class="btn btn-default dropdown-toggle sci-item" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false"><img class="sci-icon no-lazyload" src="https://www.nknews.org/pro/wp-content/themes/nkpro/images/social-share-icon.svg" alt="Share Icon" /> SHARE</a>
+			<div class="dropdown-menu">
+				<a class="dropdown-item sci-copy" href="javascript:void(0);" onclick="navigator.clipboard.writeText('https://www.nknews.org/pro/russian-navy-escorts-ships-known-to-shuttle-arms-from-north-korea-japan/');if(typeof _paq !== 'undefined') _paq.push(['trackEvent', 'Social Sharing', 'Copy Link', 'Clicked']);"><img class="no-lazyload" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Copy Icon" data-lazy-src="https://www.nknews.org/static/social-copy-icon.png" /><noscript><img class="no-lazyload" src="https://www.nknews.org/static/social-copy-icon.png" alt="Copy Icon" /></noscript> COPY LINK</a>
+				<a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.nknews.org%2Fpro%2Frussian-navy-escorts-ships-known-to-shuttle-arms-from-north-korea-japan%2F" onclick="if(typeof _paq !== 'undefined') _paq.push(['trackEvent', 'Social Sharing', 'Facebook', 'Clicked']);" target="_blank" class="dropdown-item social-share sci-facebook"><i class="fa fa-facebook"></i> FACEBOOK</a>
+				<a href="https://twitter.com/intent/tweet?text=Russian+navy+escorts+ships+known+to+shuttle+arms+from+North+Korea%3A+Japan%0Ahttps%3A%2F%2Fwww.nknews.org%2Fpro%2Frussian-navy-escorts-ships-known-to-shuttle-arms-from-north-korea-japan%2F" onclick="if(typeof _paq !== 'undefined') _paq.push(['trackEvent', 'Social Sharing', 'Twitter', 'Clicked']);" class="dropdown-item social-share sci-twitter"><img class="no-lazyload" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="X Icon" data-lazy-src="https://www.nknews.org/static/social-x-icon.svg" /><noscript><img class="no-lazyload" src="https://www.nknews.org/static/social-x-icon.svg" alt="X Icon" /></noscript> X</a>
+				<a href="https://www.linkedin.com/sharing/share-offsite/?mini=true&url=https%3A%2F%2Fwww.nknews.org%2Fpro%2Frussian-navy-escorts-ships-known-to-shuttle-arms-from-north-korea-japan%2F" onclick="if(typeof _paq !== 'undefined') _paq.push(['trackEvent', 'Social Sharing', 'Linkedin', 'Clicked']);" class="dropdown-item social-share sci-linkedin"><i class="fa fa-linkedin"></i> LINKEDIN</a>
+				<a href="#" data-bs-toggle="modal" data-bs-target="#mastodon_link" data-href="https://mastodon.social/share?text=Russian+navy+escorts+ships+known+to+shuttle+arms+from+North+Korea%3A+Japan%0Ahttps%3A%2F%2Fwww.nknews.org%2Fpro%2Frussian-navy-escorts-ships-known-to-shuttle-arms-from-north-korea-japan%2F" onclick="if(typeof _paq !== 'undefined') _paq.push(['trackEvent', 'Social Sharing', 'Mastodon Popup', 'Clicked']);" class="dropdown-item sci-mastodon"><img class="no-lazyload" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Mastodon Icon" data-lazy-src="https://www.nknews.org/static/social-mastodon-icon.png" /><noscript><img class="no-lazyload" src="https://www.nknews.org/static/social-mastodon-icon.png" alt="Mastodon Icon" /></noscript> MASTODON</a>
+			</div>
+		</div>
+		<button onclick="window.print();if(typeof _paq !== 'undefined') _paq.push(['trackEvent', 'Social Sharing', 'Print Article', 'Clicked']);" class="sci-print sci-item d-none d-lg-inline"><i class="fa fa-print"></i> PRINT</button>
+	</div>
+	<div class="news-full-img">
+		<img width="935" height="500" src="https://assets.korearisk.com/uploads/sites/4/2026/05/Featured-935x500.jpg" class="img-fluid w-100 wp-post-image" alt="Russian navy escorts ships known to shuttle arms from North Korea: Japan" decoding="async" fetchpriority="high" srcset="https://assets.korearisk.com/uploads/sites/4/2026/05/Featured-935x500.jpg 935w, https://assets.korearisk.com/uploads/sites/4/2026/05/Featured-1255x670.jpg 1255w, https://assets.korearisk.com/uploads/sites/4/2026/05/Featured-1870x1000.jpg 1870w" sizes="(max-width: 935px) 100vw, 935px" />	</div>
+	<div class="author-date" style="font-size: 15px;line-height: 1.4;">
+		<div class="image-credit">The Angara and Lady R, Russian cargo vessels known to smuggle arms out of North Korea, as spotted near Japan in May 2026 | Images: Japan's Joint Staff, edited by NK Pro</div>	</div>
+				<div class="news-full-desc">
+			<p><span style="font-weight: 400;">Russian warships escorted sanctioned cargo vessels known to have smuggled arms from North Korea to the Russian Far East, according to Japan, with experts saying the move signals a major shift in Pyongyang and Moscow’s weapons trade.</span></p>
+<p><span style="font-weight: 400;">Japan’s Joint Staff reported on </span><a href="https://mod.go.jp/js/pdf/2026/p20260512_01e.pdf"><span style="font-weight: 400;">May 12</span></a><span style="font-weight: 400;"> and </span><a href="https://mod.go.jp/js/pdf/2026/p20260514_01e.pdf"><span style="font-weight: 400;">14</span></a><span style="font-weight: 400;"> that two Russian warships and two navy logistical vessels sailed through the Tsushima Strait alongside six Russian cargo vessels on May 9-10, before passing Iriomote Island near Taiwan on May 12-13.</span></p>
+<div id='gallery-1' class='gallery galleryid-2226664 gallery-columns-5 gallery-size-full'><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a href='https://www.nknews.org/pro/russian-navy-escorts-ships-known-to-shuttle-arms-from-north-korea-japan/1-161/'><img decoding="async" width="1920" height="1080" src="https://assets.korearisk.com/uploads/sites/4/2026/05/1.jpg" class="attachment-full size-full" alt="" aria-describedby="gallery-1-2226666" /></a>
+			</div>
+				<figcaption class='wp-caption-text gallery-caption' id='gallery-1-2226666'>
+				A map showing the route taken by Russian warships and cargo carriers through the Tsushima Strait and to Iriomote Island between May 9-13, 2026 | Image: Japan&#8217;s Joint Staff, edited by NK Pro
+				</figcaption></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a href='https://www.nknews.org/pro/russian-navy-escorts-ships-known-to-shuttle-arms-from-north-korea-japan/2-128/'><img decoding="async" width="1920" height="1080" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201920%201080'%3E%3C/svg%3E" class="attachment-full size-full" alt="" aria-describedby="gallery-1-2226667" data-lazy-src="https://assets.korearisk.com/uploads/sites/4/2026/05/2.jpg" /><noscript><img decoding="async" width="1920" height="1080" src="https://assets.korearisk.com/uploads/sites/4/2026/05/2.jpg" class="attachment-full size-full" alt="" aria-describedby="gallery-1-2226667" /></noscript></a>
+			</div>
+				<figcaption class='wp-caption-text gallery-caption' id='gallery-1-2226667'>
+				The Russian corvette Sovershenny seen passing Japan (top) in May 2026 and in Vladivostok in Feb. 2026 | Images: Japan&#8217;s Joint Staff, Russia&#8217;s Defense Ministry, edited by NK Pro
+				</figcaption></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a href='https://www.nknews.org/pro/russian-navy-escorts-ships-known-to-shuttle-arms-from-north-korea-japan/3-108/'><img decoding="async" width="1920" height="1080" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201920%201080'%3E%3C/svg%3E" class="attachment-full size-full" alt="" aria-describedby="gallery-1-2226668" data-lazy-src="https://assets.korearisk.com/uploads/sites/4/2026/05/3.jpg" /><noscript><img decoding="async" width="1920" height="1080" src="https://assets.korearisk.com/uploads/sites/4/2026/05/3.jpg" class="attachment-full size-full" alt="" aria-describedby="gallery-1-2226668" /></noscript></a>
+			</div>
+				<figcaption class='wp-caption-text gallery-caption' id='gallery-1-2226668'>
+				The Russian corvette Rezkiy seen passing Japan (top) in May 2026 and in the South China Sea in April 2026 | Images: Japan&#8217;s Joint Staff, Russia&#8217;s Defense Ministry, edited by NK Pro
+				</figcaption></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a href='https://www.nknews.org/pro/russian-navy-escorts-ships-known-to-shuttle-arms-from-north-korea-japan/5-81/'><img decoding="async" width="1920" height="1080" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201920%201080'%3E%3C/svg%3E" class="attachment-full size-full" alt="" aria-describedby="gallery-1-2226670" data-lazy-src="https://assets.korearisk.com/uploads/sites/4/2026/05/5.jpg" /><noscript><img decoding="async" width="1920" height="1080" src="https://assets.korearisk.com/uploads/sites/4/2026/05/5.jpg" class="attachment-full size-full" alt="" aria-describedby="gallery-1-2226670" /></noscript></a>
+			</div>
+				<figcaption class='wp-caption-text gallery-caption' id='gallery-1-2226670'>
+				The Russian navy tugboat Andrey Stepanov near Japan in May 2026 and in Vladivostok in March 2026 | Images: Japan&#8217;s Joint Staff, Russia&#8217;s Defense Ministry, edited by NK Pro
+				</figcaption></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a href='https://www.nknews.org/pro/russian-navy-escorts-ships-known-to-shuttle-arms-from-north-korea-japan/4-93/'><img decoding="async" width="1920" height="1080" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201920%201080'%3E%3C/svg%3E" class="attachment-full size-full" alt="" aria-describedby="gallery-1-2226669" data-lazy-src="https://assets.korearisk.com/uploads/sites/4/2026/05/4.jpg" /><noscript><img decoding="async" width="1920" height="1080" src="https://assets.korearisk.com/uploads/sites/4/2026/05/4.jpg" class="attachment-full size-full" alt="" aria-describedby="gallery-1-2226669" /></noscript></a>
+			</div>
+				<figcaption class='wp-caption-text gallery-caption' id='gallery-1-2226669'>
+				The Russian navy oiler Pechenga near Japan in May 2026 and in the South China Sea in Nov. 2024 | Images: Japan&#8217;s Joint Staff, Russia&#8217;s Defense Ministry, edited by NK Pro
+				</figcaption></figure>
+		</div>
+
+<p><span style="font-weight: 400;">The Japanese military identified the warships by their hull numbers (333, 343) and listed them as “Steregushchiy-class guided-missile frigates,” but without additional details.</span></p>
+<p><span style="font-weight: 400;">The hull numbers correspond to the Russian corvettes Sovershennyy and Rezkiy, both recent additions to the Pacific Fleet. They were accompanied by the tug Andrey Stepanov (IMO 9801146) and the oiler Pechenga (IMO 7710977), according to </span><i><span style="font-weight: 400;">NK Pro</span></i><span style="font-weight: 400;"> analysis of Tokyo&#8217;s images.</span></p>
+<p><i><span style="font-weight: 400;">NK Pro</span></i><span style="font-weight: 400;"> also identified the six cargo vessels as the Angara (IMO 9179842), Lady R (IMO 9161003), Maia-1 (IMO 9358010), Lady Mariia (IMO 9220641), Kapitan Danilkin (IMO 8406729) and Lady D (IMO 9349289).</span></p>
+<div id='gallery-2' class='gallery galleryid-2226664 gallery-columns-3 gallery-size-full'><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a href='https://www.nknews.org/pro/russian-navy-escorts-ships-known-to-shuttle-arms-from-north-korea-japan/6-63/'><img decoding="async" width="1920" height="1080" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201920%201080'%3E%3C/svg%3E" class="attachment-full size-full" alt="" aria-describedby="gallery-2-2226671" data-lazy-src="https://assets.korearisk.com/uploads/sites/4/2026/05/6.jpg" /><noscript><img decoding="async" width="1920" height="1080" src="https://assets.korearisk.com/uploads/sites/4/2026/05/6.jpg" class="attachment-full size-full" alt="" aria-describedby="gallery-2-2226671" /></noscript></a>
+			</div>
+				<figcaption class='wp-caption-text gallery-caption' id='gallery-2-2226671'>
+				The Angara and Lady R, Russian cargo vessels known to smuggle arms out of North Korea, seen near Japan in May 2026 | Images: Japan&#8217;s Joint Staff, edited by NK Pro
+				</figcaption></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a href='https://www.nknews.org/pro/russian-navy-escorts-ships-known-to-shuttle-arms-from-north-korea-japan/7-56/'><img decoding="async" width="1920" height="1080" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201920%201080'%3E%3C/svg%3E" class="attachment-full size-full" alt="" aria-describedby="gallery-2-2226672" data-lazy-src="https://assets.korearisk.com/uploads/sites/4/2026/05/7.jpg" /><noscript><img decoding="async" width="1920" height="1080" src="https://assets.korearisk.com/uploads/sites/4/2026/05/7.jpg" class="attachment-full size-full" alt="" aria-describedby="gallery-2-2226672" /></noscript></a>
+			</div>
+				<figcaption class='wp-caption-text gallery-caption' id='gallery-2-2226672'>
+				Russian cargo vessels Maia-1 (also previously known to smuggle arms from North Korea) and Lady Mariia as seen near Japan in May 2026 | Images: Japan&#8217;s Joint Staff, edited by NK Pro
+				</figcaption></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a href='https://www.nknews.org/pro/russian-navy-escorts-ships-known-to-shuttle-arms-from-north-korea-japan/8-44/'><img decoding="async" width="1920" height="1080" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201920%201080'%3E%3C/svg%3E" class="attachment-full size-full" alt="" aria-describedby="gallery-2-2226673" data-lazy-src="https://assets.korearisk.com/uploads/sites/4/2026/05/8.jpg" /><noscript><img decoding="async" width="1920" height="1080" src="https://assets.korearisk.com/uploads/sites/4/2026/05/8.jpg" class="attachment-full size-full" alt="" aria-describedby="gallery-2-2226673" /></noscript></a>
+			</div>
+				<figcaption class='wp-caption-text gallery-caption' id='gallery-2-2226673'>
+				Russian cargo vessels Kapitan Danilkin and Lady D as seen near Japan in May 2026 | Images: Japan&#8217;s Joint Staff, edited by NK Pro
+				</figcaption></figure>
+		</div>
+
+<p><span style="font-weight: 400;">Experts told </span><i><span style="font-weight: 400;">NK Pro</span></i><span style="font-weight: 400;"> that the vessels’ departure from the Sea of Japan (East Sea), which include three ships directly implicated in DPRK-Russia arms transfers, mark a reconfiguration of the </span><a href="https://nknews.org/pro/secure-russian-naval-base-processed-alleged-north-korean-arms-shipments-imagery/?pk_vid=f447b25ccb847dc91779351836d2999e"><span style="font-weight: 400;">illicit weapons trade</span></a><span style="font-weight: 400;"> that stems as far back as 2023.</span></p>
+<p><b>OBVIOUS CHANGE</b></p>
+<p><span style="font-weight: 400;">Over the past three years, the Angara, Lady R and Maia-1 were observed picking up containers of suspected munitions at the DPRK port of Rason for delivery to Russia’s Vostochny Port. The Lady R most recently </span><a href="https://nknews.org/pro/russian-ship-linked-to-arms-smuggling-returns-to-north-korean-port/"><span style="font-weight: 400;">docked</span></a><span style="font-weight: 400;"> at Rason on April 21.</span></p>
+<p><span style="font-weight: 400;">Katsu Furukawa, a former member of the U.N. Panel of Experts, said he observed “obvious changes” to the vessels, as they left their normal area of operations under Russian navy escort.</span></p>
+<p><span style="font-weight: 400;">“The fleet of six vessels is unusual and the amounts of the sensitive cargo may likely be impressive,” he said, suggesting that the vessels could be carrying a limited load in their holds, given the absence of bulk cargo or containers visible in Tokyo’s photos.</span></p>
+<p><span style="font-weight: 400;">Furukawa said the flotilla likely has a long voyage ahead, given the presence of a “Dubna-class replenishment ship and the Balk-class ocean-going tug,” normally used for “long-range deployments for an extended period of time.”</span></p>
+<p><span style="font-weight: 400;">“Depending on their destinations, it will become clear whether they are transporting DPRK weapons to war zones in the West or exporting Russian weapons to its customers,” Furukawa said, suggesting Ukraine’s recent drone strikes may have pushed Moscow to transport cargo from Asia by sea instead of rail.</span></p>
+<p><span style="font-weight: 400;">As of Thursday, the group sailed roughly 170 to 200 nautical miles southeast of Vietnam, according to the Maia-1, Lady D, Lady Mariia and Kapitan Danilkin’s geolocation broadcasts via MarineTraffic. None of the four ships transmitted their future ports of call.</span></p>
+<div id='gallery-3' class='gallery galleryid-2226664 gallery-columns-2 gallery-size-full'><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a href='https://www.nknews.org/pro/russian-navy-escorts-ships-known-to-shuttle-arms-from-north-korea-japan/9-41/'><img decoding="async" width="1920" height="1080" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201920%201080'%3E%3C/svg%3E" class="attachment-full size-full" alt="" aria-describedby="gallery-3-2226674" data-lazy-src="https://assets.korearisk.com/uploads/sites/4/2026/05/9.jpg" /><noscript><img decoding="async" width="1920" height="1080" src="https://assets.korearisk.com/uploads/sites/4/2026/05/9.jpg" class="attachment-full size-full" alt="" aria-describedby="gallery-3-2226674" /></noscript></a>
+			</div>
+				<figcaption class='wp-caption-text gallery-caption' id='gallery-3-2226674'>
+				The location of the Maia-1, Lady D, Kapitan Danilkin and Lady Mariia near Vietnam as of May 21, 2026 after sailing from the environs of Vladivostok | Image: MarineTraffic, edited by NK Pro
+				</figcaption></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a href='https://www.nknews.org/pro/russian-navy-escorts-ships-known-to-shuttle-arms-from-north-korea-japan/10-31/'><img decoding="async" width="1920" height="1080" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201920%201080'%3E%3C/svg%3E" class="attachment-full size-full" alt="" aria-describedby="gallery-3-2226675" data-lazy-src="https://assets.korearisk.com/uploads/sites/4/2026/05/10.jpg" /><noscript><img decoding="async" width="1920" height="1080" src="https://assets.korearisk.com/uploads/sites/4/2026/05/10.jpg" class="attachment-full size-full" alt="" aria-describedby="gallery-3-2226675" /></noscript></a>
+			</div>
+				<figcaption class='wp-caption-text gallery-caption' id='gallery-3-2226675'>
+				The location of the Maia-1, Lady D and Kapitan Danilkin near Vietnam for an unknown reason on May 18, 2026 | Image: MarineTraffic, edited by NK Pro
+				</figcaption></figure>
+		</div>
+
+<p><span style="font-weight: 400;">The Angara and Lady R, which have mostly handled Rason deliveries in recent years, continued sailing with their transponders off. However, the Maia-1 has been </span><a href="https://nknews.org/pro/dprk-arms-shipments-to-russia-slow-in-early-2025-but-feb-sees-renewed-activity/?pk_vid=f447b25ccb847dc91779351975d2999e"><span style="font-weight: 400;">transmitting globally</span></a><span style="font-weight: 400;"> since dropping out of the scheme in 2024, including recently near Port Vostochny, where it set sail from the area with the other vessels on May 7.</span></p>
+<p><span style="font-weight: 400;">The voyage past Japan came as another likely Russian vessel appeared to be docked at Rason on May 12. </span></p>
+<p><i><span style="font-weight: 400;">NK Pro</span></i><span style="font-weight: 400;"> analysis of low-resolution Planet Labs imagery shows that the ship’s proportions match the 113-meter-long </span><a href="https://nknews.org/2023/12/us-sanctions-russian-ship-to-disrupt-weapons-trade-with-north-korea/"><span style="font-weight: 400;">Maria</span></a><span style="font-weight: 400;"> (IMO 8517839) that had frequented Rason until 2025. The vessel saw a three-day gap in its transmissions east of the DPRK between May 9-12 — long enough for a quick stop at Rason.</span></p>
+<div id='gallery-4' class='gallery galleryid-2226664 gallery-columns-3 gallery-size-full'><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a href='https://www.nknews.org/pro/russian-navy-escorts-ships-known-to-shuttle-arms-from-north-korea-japan/11-29/'><img decoding="async" width="1920" height="1080" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201920%201080'%3E%3C/svg%3E" class="attachment-full size-full" alt="" aria-describedby="gallery-4-2226676" data-lazy-src="https://assets.korearisk.com/uploads/sites/4/2026/05/11.jpg" /><noscript><img decoding="async" width="1920" height="1080" src="https://assets.korearisk.com/uploads/sites/4/2026/05/11.jpg" class="attachment-full size-full" alt="" aria-describedby="gallery-4-2226676" /></noscript></a>
+			</div>
+				<figcaption class='wp-caption-text gallery-caption' id='gallery-4-2226676'>
+				The suspected Maria freighter seen as docked at Rason on May 12, 2026 | Image: Planet Labs, edited by NK Pro
+				</figcaption></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a href='https://www.nknews.org/pro/russian-navy-escorts-ships-known-to-shuttle-arms-from-north-korea-japan/12-26/'><img decoding="async" width="1920" height="1080" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201920%201080'%3E%3C/svg%3E" class="attachment-full size-full" alt="" aria-describedby="gallery-4-2226677" data-lazy-src="https://assets.korearisk.com/uploads/sites/4/2026/05/12.jpg" /><noscript><img decoding="async" width="1920" height="1080" src="https://assets.korearisk.com/uploads/sites/4/2026/05/12.jpg" class="attachment-full size-full" alt="" aria-describedby="gallery-4-2226677" /></noscript></a>
+			</div>
+				<figcaption class='wp-caption-text gallery-caption' id='gallery-4-2226677'>
+				Rason after the Maria&#8217;s departure, with this satellite image showing the disappearance of containers from the pier where berthed days earlier, suggesting a cargo pick up | Image: Planet Labs, edited by NK Pro
+				</figcaption></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a href='https://www.nknews.org/pro/russian-navy-escorts-ships-known-to-shuttle-arms-from-north-korea-japan/13-20/'><img decoding="async" width="1920" height="1080" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201920%201080'%3E%3C/svg%3E" class="attachment-full size-full" alt="" aria-describedby="gallery-4-2226678" data-lazy-src="https://assets.korearisk.com/uploads/sites/4/2026/05/13.jpg" /><noscript><img decoding="async" width="1920" height="1080" src="https://assets.korearisk.com/uploads/sites/4/2026/05/13.jpg" class="attachment-full size-full" alt="" aria-describedby="gallery-4-2226678" /></noscript></a>
+			</div>
+				<figcaption class='wp-caption-text gallery-caption' id='gallery-4-2226678'>
+				The Maria&#8217;s geolocation broadcasts near the eastern coast of the DPRK showing a three-day gap between May 9-12, 2026 | Image: MarineTraffic, edited by NK Pro
+				</figcaption></figure>
+		</div>
+
+<p><span style="font-weight: 400;">Ryo Hinata-Yamaguchi of Tokyo International University agreed with Furukawa that the voyage may signal a “reconfiguration in the supply chain between North Korea and Russia,” possibly due to the need to use these vessels on other routes.</span></p>
+<p><span style="font-weight: 400;">Pointing to the military escort, he suggested that the vessels either carry or plan to load valuable cargo that Russia is not willing to leave unprotected. Security concerns similar to those faced by the Russian shadow fleet freighter </span><a href="https://nknews.org/2026/05/russian-ship-that-sank-near-spain-carried-nuclear-parts-likely-to-dprk-reports/"><span style="font-weight: 400;">Ursa Major</span></a><span style="font-weight: 400;"> before it </span><a href="https://nknews.org/2026/01/what-to-make-of-reports-that-russia-tried-to-ship-a-nuke-reactor-to-north-korea/"><span style="font-weight: 400;">sank</span></a><span style="font-weight: 400;"> off Spain in 2024 may have required the warship escort, he said.</span></p>
+<p><span style="font-weight: 400;">The experts also raised the possibility that the vessels are practicing naval convoy operations, with Russian corvettes serving as a deterrent against torpedo attacks, boarding or seizure by hostile states.</span></p>
+<p><span style="font-weight: 400;">Hinata-Yamaguchi suggested that Russia’s reduced reliance on North Korean weaponry may have contributed to the vessels’ temporary repurposing, but stressed this does not mean they have been permanently “taken out of operations with North Korea by any means.”</span></p>
+<p><span style="font-weight: 400;">After another assignment, the vessels could still pass through North Korea on their way back, he added.</span></p>
+<p><b>SANCTIONS</b></p>
+<p><span style="font-weight: 400;">The three vessels in question are under numerous international sanctions over their involvement in arms deliveries for Russia, including restrictions imposed by the </span><a href="https://web.archive.org/web/20220508170949/https://state.gov/state-department-actions-to-promote-accountability-and-impose-costs-on-the-russian-government-for-putins-aggression-against-ukraine/"><span style="font-weight: 400;">U.S.</span></a><span style="font-weight: 400;">, </span><a href="https://dma.dk/growth-and-framework-conditions/maritime-sanctions/sanctions-against-russia-and-belarus/eu-vessel-designations"><span style="font-weight: 400;">EU</span></a><span style="font-weight: 400;">, </span><a href="https://nknews.org/2024/06/south-korea-sanctions-russian-vessels-entities-and-north-korean-nationals/"><span style="font-weight: 400;">South Korea</span></a><span style="font-weight: 400;"> and </span><a href="https://nknews.org/2024/05/seoul-tokyo-take-aim-at-north-korea-russia-cooperation-with-new-sanctions/"><span style="font-weight: 400;">Japan</span></a><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">They also belong to sanctioned entities, including MG Flot — a Russian firm formerly known as TransMorFlot and </span><a href="https://state.gov/state-department-actions-to-promote-accountability-and-impose-costs-on-the-russian-government-for-putins-aggression-against-ukraine/"><span style="font-weight: 400;">accused</span></a><span style="font-weight: 400;"> of shipping arms for Moscow — which controls the Maia-1, Lady Mariia and Lady D. </span></p>
+<p><a href="https://ofac.treasury.gov/recent-actions/20220508"><span style="font-weight: 400;">M Leasing</span></a><span style="font-weight: 400;"> and </span><a href="https://home.treasury.gov/news/press-releases/sm785"><span style="font-weight: 400;">Sovfracht</span></a><span style="font-weight: 400;"> that own the Angara and Lady R, respectively, are also under U.S. sanctions.</span></p>
+<p><span style="font-weight: 400;">The Kapitan Danilkin belongs to Murmansk Shipping, an entity not found on international sanctions lists.</span></p>
+<figure id="attachment_2226679" aria-describedby="caption-attachment-2226679" style="width: 1920px" class="wp-caption alignnone"><img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201920%201080'%3E%3C/svg%3E" alt="" width="1920" height="1080" class="wp-image-2226679 size-full" data-lazy-src="https://assets.korearisk.com/uploads/sites/4/2026/05/14.jpg" /><noscript><img decoding="async" src="https://assets.korearisk.com/uploads/sites/4/2026/05/14.jpg" alt="" width="1920" height="1080" class="wp-image-2226679 size-full" /></noscript><figcaption id="caption-attachment-2226679" class="wp-caption-text"><em>The remaining vessels in the group (Lady Mariia, Lady D and Kapitan Danilkin) have visited multiple foreign ports over the past year, popping up in the Persian Gulf, India, Myanmar and China before reaching Vladivostok and sailing towards Vietnam in May 2026 | Image: MarineTraffic, edited by NK Pro</em></figcaption></figure>
+<p><span style="font-weight: 400;">While not known to have participated in the Rason operation, the </span><a href="https://sanctionssearch.ofac.treas.gov/Details.aspx?id=37089"><span style="font-weight: 400;">Lady Mariia</span></a><span style="font-weight: 400;"> and </span><a href="https://sanctionssearch.ofac.treas.gov/Details.aspx?id=37085"><span style="font-weight: 400;">Lady D</span></a><span style="font-weight: 400;"> are subject to U.S. restrictions as part of measures against their owner, a logistics provider of Russia’s defense sector.</span></p>
+<p><i><span style="font-weight: 400;">Edited by David Choi</span></i></p>
+<div class="content-tags"><a href="https://www.nknews.org/pro/tag/military-affairs/"><span class="tag">Military affairs</span></a><a href="https://www.nknews.org/pro/tag/missiles/"><span class="tag">Missiles</span></a><a href="https://www.nknews.org/pro/tag/sanctions/"><span class="tag">Sanctions</span></a><a href="https://www.nknews.org/pro/tag/shipping/"><span class="tag">Shipping</span></a><a href="https://www.nknews.org/pro/tag/wmd/"><span class="tag">WMD</span></a></div>		</div>
+		<div class="print-only d-none">
+		<p>© Korea Risk Group. All rights reserved.<br />
+			No part of this content may be reproduced, distributed, or used for
+			commercial purposes without prior written permission from Korea Risk
+			Group.
+		</p>
+	</div>
+</div>
+																			</div>
+									<div class="col-lg-3 d-none d-lg-block">
+											<div id="nkPromoBannerSlot2" class="nk-promo-banner-slot"></div>
+	<script type="text/javascript">
+		(function () {
+			var nkPromoBanners = ["<a style=\"display: block; margin-bottom: 20px;\" role=\"button\" href=\"https:\/\/www.nknews.org\/pro\/pro\/weapon-directory\/\" data-track-content=\"Weapon Directory\" data-content-name=\"Sidebar Ad\"><img class=\"img-fluid alignnone size-large\" src=\"https:\/\/www.nknews.org\/pro\/wp-content\/themes\/nkpro\/images\/weapon-side-banner.png\" alt=\"Weapon Directory\" data-content-piece=\"Weapon Directory Banner\" \/><\/a>","<div style=\"margin-bottom: 20px\"><a style=\"display: block; margin-bottom: 20px;\" href=\"https:\/\/www.korearisk.com\/north-korea-strategic-risk-advisory\/\" target=\"_blank\" data-track-content data-content-name=\"Sidebar Ad\"><img class=\"img-v-banner\" src=\"https:\/\/www.nknews.org\/pro\/wp-content\/themes\/nkpro\/images\/nkpro-consulting-service.png\" alt=\"NK Pro Consulting Service\" data-content-piece=\"NK Pro Consulting Service\" \/><\/a><\/div>"];
+			jQuery(function ($) {
+				var $slot = $('#nkPromoBannerSlot2');
+				if (!$slot.length || !nkPromoBanners.length) {
+					return;
+				}
+				var idx = Math.floor(Math.random() * nkPromoBanners.length);
+				$slot.replaceWith(nkPromoBanners[idx]);
+			});
+		}());
+	</script>
+		<div id="nkproSidebarAd" class="nkpro-ad" style="background-image: url('https://www.nknews.org/pro/wp-content/plugins/nk-pro-ads/assets/images/bg-image.png');"></div>
+	<script type="text/javascript">
+		(function () {
+			var nkproSidebarAds = ["<a class=\"nkpro-ad__image-link\" href=\"https:\/\/www.nknews.org\/pro\/intelligence-suite\/suite\/\" data-track-content data-content-name=\"NK Pro Sidebar Ad\" data-content-piece=\"INTELLIGENCE SUITE\">\n\t\t\t\t<img class=\"nkpro-ad__image\" src=\"https:\/\/www.nknews.org\/pro\/wp-content\/plugins\/nk-pro-ads\/assets\/images\/Ad-5-option-3.jpg\" alt=\"Intelligence suite\">\n\t\t\t<\/a>"];
+			jQuery(function ($) {
+				var $wrap = $('#nkproSidebarAd');
+				if (!$wrap.length || !nkproSidebarAds.length) {
+					return;
+				}
+				var weightedAds = [];
+				nkproSidebarAds.forEach(function (adMarkup) {
+					if (adMarkup.indexOf('data-content-piece="INTELLIGENCE SUITE"') !== -1) {
+						weightedAds.push(adMarkup, adMarkup);
+					} else {
+						weightedAds.push(adMarkup);
+					}
+				});
+				var idx = Math.floor(Math.random() * weightedAds.length);
+				$wrap.html(weightedAds[idx]);
+			});
+		}());
+	</script>
+											<div class="latest-analysis-right sticky_widget"><h3>LATEST ANALYSIS</h3><ul><li><a href="https://www.nknews.org/pro/how-north-koreas-newest-hypersonic-missile-could-foil-adversary-defenses/"><span>01</span>How North Korea’s newest ‘hypersonic’ missile could foil adversary defenses</a></li><li><a href="https://www.nknews.org/pro/crossing-the-yalu-why-china-and-north-korea-want-to-open-long-stalled-bridge/"><span>02</span>Crossing the Yalu: Why China and North Korea want to open long-stalled bridge</a></li><li><a href="https://www.nknews.org/pro/a-decade-apart-two-dmz-mine-blasts-highlight-a-new-inter-korean-reality/"><span>03</span>A decade apart, two DMZ mine blasts highlight a new inter-Korean reality</a></li><li><a href="https://www.nknews.org/pro/chinese-authorities-seize-smuggled-goods-bound-for-north-korea-records/"><span>04</span>Chinese authorities seize smuggled goods bound for North Korea: records</a></li><li><a href="https://www.nknews.org/pro/likely-russian-ship-docks-in-north-koreas-rason-port-for-first-time-since-may/"><span>05</span>Likely Russian ship docks in North Korea’s Rason port for first time since May</a></li><li><a href="https://www.nknews.org/pro/trump-doesnt-need-a-grand-deal-with-kim-but-rather-small-coordinated-actions/"><span>06</span>Trump doesn’t need a grand deal with Kim, but rather small coordinated actions</a></li><li><a href="https://www.nknews.org/pro/north-korean-trade-with-china-rises-3-7-in-august-thanks-to-wig-exports-data/"><span>07</span>North Korean trade with China rises 3.7% in August thanks to wig exports: data</a></li><li><a href="https://www.nknews.org/pro/north-korea-tensions-expose-seouls-uneasy-relationship-with-un-command/"><span>08</span>North Korea tensions expose Seoul’s uneasy relationship with UN Command</a></li></ul></div>									</div>
+								</div>
+													</td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+	</div>
+</section>
+
+		<!--Small thumb news bar start-->
+		<section data-wpr-lazyrender="1" id="fake_end_point" class="small-thumb-news-bar mt-4">
+			<div class="container">
+				<div class="similar-articles col-lg-9">
+					<h4 class="text-uppercase">Similar Articles</h4>
+					<div class="row">
+													<div class="col-xl-4 col-md-6 small-news-wrapper d-flex align-items-center">
+								<div class="thumb-news-left">
+									<a href="https://www.nknews.org/pro/north-korea-upgraded-coastal-missile-site-ahead-of-recent-test-launches-imagery/">
+										<img width="220" height="170" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20220%20170'%3E%3C/svg%3E" class="img-fluid w-100 wp-post-image" alt="North Korea upgraded coastal missile site ahead of recent test launches: Imagery" decoding="async" data-lazy-srcset="https://assets.korearisk.com/uploads/sites/4/2026/10/kcna-oct4-2026-oct3-kju-missile-test-irbm-4-highres-daughter-kja-observation-stand-camo-netting-220x170.jpg 220w, https://assets.korearisk.com/uploads/sites/4/2026/10/kcna-oct4-2026-oct3-kju-missile-test-irbm-4-highres-daughter-kja-observation-stand-camo-netting-83x65.jpg 83w" data-lazy-sizes="(max-width: 220px) 100vw, 220px" data-lazy-src="https://assets.korearisk.com/uploads/sites/4/2026/10/kcna-oct4-2026-oct3-kju-missile-test-irbm-4-highres-daughter-kja-observation-stand-camo-netting-220x170.jpg" /><noscript><img width="220" height="170" src="https://assets.korearisk.com/uploads/sites/4/2026/10/kcna-oct4-2026-oct3-kju-missile-test-irbm-4-highres-daughter-kja-observation-stand-camo-netting-220x170.jpg" class="img-fluid w-100 wp-post-image" alt="North Korea upgraded coastal missile site ahead of recent test launches: Imagery" decoding="async" srcset="https://assets.korearisk.com/uploads/sites/4/2026/10/kcna-oct4-2026-oct3-kju-missile-test-irbm-4-highres-daughter-kja-observation-stand-camo-netting-220x170.jpg 220w, https://assets.korearisk.com/uploads/sites/4/2026/10/kcna-oct4-2026-oct3-kju-missile-test-irbm-4-highres-daughter-kja-observation-stand-camo-netting-83x65.jpg 83w" sizes="(max-width: 220px) 100vw, 220px" /></noscript>									</a>
+								</div>
+								<div class="thumb-news-title">
+									<a href="https://www.nknews.org/pro/north-korea-upgraded-coastal-missile-site-ahead-of-recent-test-launches-imagery/">
+										North Korea upgraded coastal missile site ahead of recent test launches: Imagery									</a>
+								</div>
+							</div>
+													<div class="col-xl-4 col-md-6 small-news-wrapper d-flex align-items-center">
+								<div class="thumb-news-left">
+									<a href="https://www.nknews.org/pro/how-north-koreas-newest-hypersonic-missile-could-foil-adversary-defenses/">
+										<img width="220" height="170" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20220%20170'%3E%3C/svg%3E" class="img-fluid w-100 wp-post-image" alt="How North Korea’s newest ‘hypersonic’ missile could foil adversary defenses" decoding="async" data-lazy-srcset="https://assets.korearisk.com/uploads/sites/4/2026/10/kcna-oct4-2026-oct3-kju-missile-test-irbm-2-anbyon-beach-tel-clamshell-green-fence-edited-feature-220x170.jpg 220w, https://assets.korearisk.com/uploads/sites/4/2026/10/kcna-oct4-2026-oct3-kju-missile-test-irbm-2-anbyon-beach-tel-clamshell-green-fence-edited-feature-83x65.jpg 83w" data-lazy-sizes="(max-width: 220px) 100vw, 220px" data-lazy-src="https://assets.korearisk.com/uploads/sites/4/2026/10/kcna-oct4-2026-oct3-kju-missile-test-irbm-2-anbyon-beach-tel-clamshell-green-fence-edited-feature-220x170.jpg" /><noscript><img width="220" height="170" src="https://assets.korearisk.com/uploads/sites/4/2026/10/kcna-oct4-2026-oct3-kju-missile-test-irbm-2-anbyon-beach-tel-clamshell-green-fence-edited-feature-220x170.jpg" class="img-fluid w-100 wp-post-image" alt="How North Korea’s newest ‘hypersonic’ missile could foil adversary defenses" decoding="async" srcset="https://assets.korearisk.com/uploads/sites/4/2026/10/kcna-oct4-2026-oct3-kju-missile-test-irbm-2-anbyon-beach-tel-clamshell-green-fence-edited-feature-220x170.jpg 220w, https://assets.korearisk.com/uploads/sites/4/2026/10/kcna-oct4-2026-oct3-kju-missile-test-irbm-2-anbyon-beach-tel-clamshell-green-fence-edited-feature-83x65.jpg 83w" sizes="(max-width: 220px) 100vw, 220px" /></noscript>									</a>
+								</div>
+								<div class="thumb-news-title">
+									<a href="https://www.nknews.org/pro/how-north-koreas-newest-hypersonic-missile-could-foil-adversary-defenses/">
+										How North Korea’s newest ‘hypersonic’ missile could foil adversary defenses									</a>
+								</div>
+							</div>
+													<div class="col-xl-4 col-md-6 small-news-wrapper d-flex align-items-center">
+								<div class="thumb-news-left">
+									<a href="https://www.nknews.org/pro/north-korea-in-september-2026-a-month-in-review-and-whats-ahead/">
+										<img width="220" height="170" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20220%20170'%3E%3C/svg%3E" class="img-fluid w-100 wp-post-image" alt="North Korea in September 2026: A month in review and what’s ahead" decoding="async" data-lazy-srcset="https://assets.korearisk.com/uploads/sites/4/2026/10/MIR1-220x170.png 220w, https://assets.korearisk.com/uploads/sites/4/2026/10/MIR1-83x65.png 83w" data-lazy-sizes="(max-width: 220px) 100vw, 220px" data-lazy-src="https://assets.korearisk.com/uploads/sites/4/2026/10/MIR1-220x170.png" /><noscript><img width="220" height="170" src="https://assets.korearisk.com/uploads/sites/4/2026/10/MIR1-220x170.png" class="img-fluid w-100 wp-post-image" alt="North Korea in September 2026: A month in review and what’s ahead" decoding="async" srcset="https://assets.korearisk.com/uploads/sites/4/2026/10/MIR1-220x170.png 220w, https://assets.korearisk.com/uploads/sites/4/2026/10/MIR1-83x65.png 83w" sizes="(max-width: 220px) 100vw, 220px" /></noscript>									</a>
+								</div>
+								<div class="thumb-news-title">
+									<a href="https://www.nknews.org/pro/north-korea-in-september-2026-a-month-in-review-and-whats-ahead/">
+										North Korea in September 2026: A month in review and what’s ahead									</a>
+								</div>
+							</div>
+											</div>
+				</div>
+			</div>
+		</section>
+		<!--Small thumb news bar end-->
+	<!--About the author start-->
+<section data-wpr-lazyrender="1" class="small-thumb-news-bar mb-4 pt-0">
+	<div class="container">
+					<div class="similar-articles about-author-box col-lg-9" style="margin-bottom:15px">
+				<h4>About the Author				</h4>
+													<div class="author-block-wrapper">
+						<div class="author-thumb-left">
+							<img width="40" height="40" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2040%2040'%3E%3C/svg%3E" class="img-responsive wp-post-image" alt="Anton Sokolin" decoding="async" data-lazy-srcset="https://assets.korearisk.com/uploads/2023/05/Anton_profile_v2_bnw-40x40.png 40w, https://assets.korearisk.com/uploads/2023/05/Anton_profile_v2_bnw-150x150.png 150w" data-lazy-sizes="(max-width: 40px) 100vw, 40px" data-lazy-src="https://assets.korearisk.com/uploads/2023/05/Anton_profile_v2_bnw-40x40.png" /><noscript><img width="40" height="40" src="https://assets.korearisk.com/uploads/2023/05/Anton_profile_v2_bnw-40x40.png" class="img-responsive wp-post-image" alt="Anton Sokolin" decoding="async" srcset="https://assets.korearisk.com/uploads/2023/05/Anton_profile_v2_bnw-40x40.png 40w, https://assets.korearisk.com/uploads/2023/05/Anton_profile_v2_bnw-150x150.png 150w" sizes="(max-width: 40px) 100vw, 40px" /></noscript>													</div>
+						<div class="author-desc-right">
+							<h5>
+								Anton Sokolin							</h5>
+							<div class="author-description" style="margin-bottom:15px">
+								Anton Sokolin is the data correspondent at <em>NK News</em>. He previously worked at <em>Reuters</em>, <em>TASS </em>and the Korea Trade Promotion Corporation (KOTRA).							</div>
+						</div>
+						<div class="clearfix"></div>
+						<a href="https://www.nknews.org/pro/content_author/anton-sokolin" class="btn btn-primary btn-theme text-uppercase">VIEW MORE ARTICLES BY
+							Anton Sokolin						</a>
+													<a target="_blank" href="/cdn-cgi/l/email-protection#70111e041f1e5e031f1b1f1c191e301e1b1e1507035e1f0217" class="btn btn-primary btn-theme text-uppercase author-email"><i class="fa fa-envelope" aria-hidden="true"></i>EMAIL</a>
+												<a href="https://www.nknews.org/pro/contact/" class="external-link"><span class="top">Got
+								a news tip?</span><span class="bottom">Let us know!</span></a>
+					</div>
+											</div>
+			</div>
+</section>
+<!-- About the author end -->
+
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+	jQuery(function ($) {
+		var tags = ["Military affairs","Missiles","Sanctions","Shipping","WMD"];
+		var postTitle = 'Russian navy escorts ships known to shuttle arms from North Korea: Japan';
+		if (!$.isEmptyObject(tags)) {
+			window.setTimeout(function () {
+				if (typeof _paq !== 'undefined') {
+					$.each(tags, function (i, val) {
+						_paq.push(['trackEvent', 'Topics', val, postTitle]);
+					});
+				}
+			}, 1000);
+		}
+	});
+</script>
+<script>
+	//added for print only
+	jQuery(function ($) {
+		if (navigator.userAgent.indexOf('Safari') != -1 && navigator.userAgent.indexOf('Chrome') == -1) {
+			$('body').find('.page-header').addClass('safari');
+		}
+	});
+</script>
+<div data-wpr-lazyrender="1" id="fake_end_point"></div><!--Footer Start-->
+<footer data-wpr-lazyrender="1" class="footer-main d-flex align-items-center">
+	<div  class="container d-flex flex-wrap flex-xs-nowrap justify-content-center justify-content-xl-between">
+		<div class="footer-logo mb-3 mb-xl-0">
+			<a class="ft-logo" href="https://www.nknews.org/pro"><img src="https://www.nknews.org/pro/wp-content/themes/nkpro/images/logo.png" alt="NK Pro Logo" /></a>
+		</div>
+		<div class="footer-meta d-flex flex-wrap flex-xs-nowrap justify-content-center align-items-center">
+			<div class="clearfix me-0 me-md-3">
+				<ul id="menu-footer-menu" class="footer-links clearfix"><li id="menu-item-2176626" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2176626"><a target="_blank" href="https://signup.nknews.org/nkpro/">About</a></li>
+<li id="menu-item-2176627" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2176627"><a href="https://www.nknews.org/pro/contact/">Contact</a></li>
+<li id="menu-item-2176628" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2176628"><a href="https://www.nknews.org/frequently-asked-questions-about-nk-news/">FAQ</a></li>
+<li id="menu-item-2208563" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2208563"><a href="https://www.nknews.org/pro/mobile-apps/">Mobile Apps</a></li>
+<li id="menu-item-2176629" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2176629"><a href="https://www.nknews.org/pro/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-2176630" class="d-none d-lg-block menu-item menu-item-type-post_type menu-item-object-page menu-item-2176630"><a href="https://www.nknews.org/pro/terms-and-conditions-nk-news-pro/">Terms &#038; Conditions</a></li>
+<li id="menu-item-2176631" class="d-block d-lg-none menu-item menu-item-type-post_type menu-item-object-page menu-item-2176631"><a href="https://www.nknews.org/pro/terms-and-conditions-nk-news-pro/">T&#038;C</a></li>
+</ul>			</div>
+			<div class="clearfix">
+				<div class="copyright-text pt-lg-0">&copy; 2026, <a href="https://www.korearisk.com" target="_blank">Korea Risk Group</a> (NK Consulting Inc.). All Rights Reserved</div>
+			</div>
+		</div>
+	</div>
+</footer>
+<!--Footer End-->
+</div>
+
+<script type="text/javascript">
+	</script>
+
+<!-- IE Browsing Popup Modal -->
+<div  id="browserie" class="modal default-modal-main leaky-modal" data-bs-backdrop="static" data-bs-keyboard="false" role="dialog" style="background: rgba(0,0,0,.6) !important;" tabindex="0">
+	<div  class="modal-dialog modal-dialog-centered" role="document">
+		<div  class="modal-content" style="padding:0 !important;">
+			<div class="modal-body" style="padding:0 15px !important;">
+				<div class="modal-wrapper">
+					<div class="browse-icon">
+						<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Internet Explorer" data-lazy-src="https://www.nknews.org/pro/wp-content/themes/nkpro/images/nk-pro-ie-icon.png" /><noscript><img src="https://www.nknews.org/pro/wp-content/themes/nkpro/images/nk-pro-ie-icon.png" alt="Internet Explorer" /></noscript>
+					</div>
+					<div class="nk-pro-logo">
+						<img src="https://www.nknews.org/pro/wp-content/themes/nkpro/images/logo.png" alt="NK Pro Logo" />
+						<p>Specialist news and analysis,<br /> research tools, and unique data sets</p>
+					</div>
+					<div class="cm-nk-pro-popup-content">
+						<h2>PLEASE USE A DIFFERENT WEB BROWSER</h2>
+						<p>Internet Explorer is not compatible with this website. We instead recommend using Chrome, Edge, Firefox or Safari.</p>
+						<h3>Why are we not supporting Internet Explorer?</h3>
+						<p>Microsoft ceased supporting IE 10 and older in 2016.</p>
+						<p>In addition, Microsoft cyber-security chief Chris Jackson has been urging users to stop using the browser since February 2019.</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- IE Browsing Popup Modal end--><div  class="modal share_modal fade" id="mastodon_link" role="dialog" aria-modal="true" tabindex="0">
+	<div  class="modal-dialog popup-dialog modal-dialog-centered">
+		<div  class="modal-content py-4 px-4 py-md-5 px-md-5">
+			<div class="popup-header"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="NK Pro Logo" data-lazy-src="https://www.nknews.org/pro/wp-content/themes/nkpro/images/mastodon-full-logo.png" /><noscript><img src="https://www.nknews.org/pro/wp-content/themes/nkpro/images/mastodon-full-logo.png" alt="NK Pro Logo" /></noscript></div>
+			<div class="mastodon_instance">
+				<form class="mastodon-instance" action="javascript:void(0);">
+					<div class="row">
+						<div class="col-12"><label for="mastodon_instance">Location of your Mastodon instance:</label></div>
+						<div class="col-md-9">
+							<input type="text" id="mastodon_instance" class="form-control w-100 mb-3 mb-md-0" placeholder="https://mastodon.social" autocomplete="off">
+						</div>
+						<div class="col-md-3">
+							<button type="submit" class="contact-button">Continue</button>
+						</div>
+						<div class="col-12 mt-1 validation"></div>
+					</div>
+				</form>
+			</div>
+			<button type="button" class="close shareClose" data-bs-dismiss="modal" data-bs-target="#mastodon_link" aria-label="Close">
+				<span aria-hidden="true">×</span>
+			</button>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+	var jsSocialShares = document.querySelectorAll('.social-share');
+	if (jsSocialShares) {
+		jsSocialShares.forEach(function (anchor) {
+			anchor.addEventListener('click', function (e) {
+				var url = this.href,
+					width = 570,
+					height = 570,
+					left = (screen.width / 2) - (width / 2),
+					top = (screen.height / 2) - (height / 2);
+
+				if (/^(f|ht)tps?:\/\//i.test(url) || /^mailto/i.test(url)) {
+					e.preventDefault();
+					window.open(
+						url,
+						'',
+						'menubar=no,toolbar=no,status=no,resizable=yes,scrollbars=yes,width=' + width + ',height=' + height + ',top=' + top + ',left=' + left
+					);
+				}
+			});
+		});
+	}
+	(function ($) {
+		$(document).on('submit', 'form.mastodon-instance', function () {
+			var mastodon_link = $('#mastodon_instance').val();
+			if (mastodon_link) {
+				const pattern = new RegExp(
+					'^(https?:\\/\\/)?' + // protocol
+					'((([a-z\\d]([a-z\\d-]*[a-z\\d])*)\\.)+[a-z]{2,}|' + // domain name
+					'((\\d{1,3}\\.){3}\\d{1,3}))' + // OR IP (v4) address
+					'(\\:\\d+)?(\\/[-a-z\\d%_.~+]*)*' + // port and path
+					'(\\?[;&a-z\\d%_.~+=-]*)?' + // query string
+					'(\\#[-a-z\\d_]*)?$', // fragment locator
+					'i'
+				);
+				if (!pattern.test(mastodon_link)) {
+					$('#mastodon_link').find('.validation').text('Please enter valid URL.').delay('5000').queue(function () {
+						$('#mastodon_link').find('.validation').text('');
+						$(this).dequeue();
+					});
+				} else {
+					mastodon_link = (mastodon_link.indexOf('://') === -1) ? 'https://' + mastodon_link : mastodon_link;
+					mastodon_link = (mastodon_link.indexOf('http://') === 1) ? mastodon_link.replace('http://', 'https://') : mastodon_link;
+					$('#mastodon_link').modal('hide');
+					$('form.mastodon-instance')[0].reset();
+					var href = $('.sci-mastodon').data('href'),
+						href = href.replace('https://mastodon.social', mastodon_link),
+						width = 570,
+						height = 570,
+						left = (screen.width / 2) - (width / 2),
+						top = (screen.height / 2) - (height / 2);
+					window.open(
+						href,
+						'',
+						'menubar=no,toolbar=no,status=no,resizable=yes,scrollbars=yes,width=' + width + ',height=' + height + ',top=' + top + ',left=' + left
+					);
+					if (typeof _paq !== 'undefined') _paq.push(['trackEvent', 'Social Sharing', 'Mastodon Share', 'Clicked'])
+				}
+			}
+		});
+	})(jQuery);
+</script>
+
+
+<!-- FreeScout BEGIN -->
+<script>var FreeScoutW = { s: { "color": "#30baba", "position": "br", "require": ["name", "email"], "id": 3671361166 } }; (function (d, e, s) { if (d.getElementById("freescout-w")) return; a = d.createElement(e); m = d.getElementsByTagName(e)[0]; a.async = 1; a.id = "freescout-w"; a.src = s; m.parentNode.insertBefore(a, m) })(document, "script", "https://contact.nknews.org/modules/chat/js/widget.js?v=8769");</script>
+<!-- FreeScout END -->
+				<style>
+			:root {
+				--nk-paywall-accent:
+					#30baba				;
+			}
+		</style>
+		<div  id="nk-paywall-app" x-data="nkPaywallGate" x-init="init()" style="display:none;" class="nk-paywall-app" data-nk-site="nkpro">
+			<div  class="nk-paywall-overlay" :class="{ 'nk-paywall-overlay--fullscreen-locked': $data.popupFullscreen }" x-show="popup" x-transition:enter="nk-paywall-fade-enter" x-transition:enter-start="nk-paywall-fade-enter-start" x-transition:enter-end="nk-paywall-fade-enter-end" x-transition:leave="nk-paywall-fade-leave" x-transition:leave-start="nk-paywall-fade-leave-start" x-transition:leave-end="nk-paywall-fade-leave-end">
+				<div  class="nk-paywall-modal" :class="{ 'nk-paywall-modal--fullscreen-locked': $data.popupFullscreen }">
+					<button id="nk-paywall-modal__close" type="button" x-show="!popupLocked" aria-label="Close">&times;</button>
+					<div x-ref="popupBody"></div>
+				</div>
+			</div>
+		</div>
+		<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/pro/*"},{"not":{"href_matches":["/pro/wp-*.php","/pro/wp-admin/*","/uploads/sites/4/*","/pro/wp-content/*","/pro/wp-content/plugins/*","/pro/wp-content/themes/nkpro/*","/pro/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<!-- Matomo -->
+<script>
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(["setDomains", ["*.nknews.org/pro"]]);
+  _paq.push(["enableCrossDomainLinking"]);
+  _paq.push(['trackPageView']);
+_paq.push(['enableHeartBeatTimer', 15]);
+_paq.push(['trackVisibleContentImpressions']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="https://stats.nknews.org/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '15']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Matomo Code -->
+<div data-wpr-lazyrender="1" id="user_popup_wrapper"></div><script data-minify="1" id="twenty20-eventmove-js" src="https://www.nknews.org/pro/wp-content/cache/min/4/pro/wp-content/plugins/twenty20/assets/js/jquery.event.move.js?ver=1791194428" data-rocket-defer defer></script>
+<script data-minify="1" id="twenty20-js" src="https://www.nknews.org/pro/wp-content/cache/min/4/pro/wp-content/plugins/twenty20/assets/js/jquery.twenty20.js?ver=1791194428" data-rocket-defer defer></script>
+<script id="twenty20-js-after">
+jQuery(function($) {
+      // Re-init any uninitialized containers
+      function checkUninitialized() {
+        $(".twentytwenty-container:not([data-twenty20-init])").each(function() {
+          var $container = $(this);
+          if($container.find("img").length === 2) {
+            $container.trigger("twenty20-init");
+          }
+        });
+      }
+      
+      // Check periodically for the first few seconds
+      var checkInterval = setInterval(checkUninitialized, 500);
+      setTimeout(function() {
+        clearInterval(checkInterval);
+      }, 5000);
+    });
+  
+//# sourceURL=twenty20-js-after
+</script>
+<script id="bxslider-js" src="https://www.nknews.org/pro/wp-content/themes/nkpro/js/jquery.bxslider.min.js" data-rocket-defer defer></script>
+<script id="rocket-browser-checker-js-after">
+"use strict";var _createClass=function(){function defineProperties(target,props){for(var i=0;i<props.length;i++){var descriptor=props[i];descriptor.enumerable=descriptor.enumerable||!1,descriptor.configurable=!0,"value"in descriptor&&(descriptor.writable=!0),Object.defineProperty(target,descriptor.key,descriptor)}}return function(Constructor,protoProps,staticProps){return protoProps&&defineProperties(Constructor.prototype,protoProps),staticProps&&defineProperties(Constructor,staticProps),Constructor}}();function _classCallCheck(instance,Constructor){if(!(instance instanceof Constructor))throw new TypeError("Cannot call a class as a function")}var RocketBrowserCompatibilityChecker=function(){function RocketBrowserCompatibilityChecker(options){_classCallCheck(this,RocketBrowserCompatibilityChecker),this.passiveSupported=!1,this._checkPassiveOption(this),this.options=!!this.passiveSupported&&options}return _createClass(RocketBrowserCompatibilityChecker,[{key:"_checkPassiveOption",value:function(self){try{var options={get passive(){return!(self.passiveSupported=!0)}};window.addEventListener("test",null,options),window.removeEventListener("test",null,options)}catch(err){self.passiveSupported=!1}}},{key:"initRequestIdleCallback",value:function(){!1 in window&&(window.requestIdleCallback=function(cb){var start=Date.now();return setTimeout(function(){cb({didTimeout:!1,timeRemaining:function(){return Math.max(0,50-(Date.now()-start))}})},1)}),!1 in window&&(window.cancelIdleCallback=function(id){return clearTimeout(id)})}},{key:"isDataSaverModeOn",value:function(){return"connection"in navigator&&!0===navigator.connection.saveData}},{key:"supportsLinkPrefetch",value:function(){var elem=document.createElement("link");return elem.relList&&elem.relList.supports&&elem.relList.supports("prefetch")&&window.IntersectionObserver&&"isIntersecting"in IntersectionObserverEntry.prototype}},{key:"isSlowConnection",value:function(){return"connection"in navigator&&"effectiveType"in navigator.connection&&("2g"===navigator.connection.effectiveType||"slow-2g"===navigator.connection.effectiveType)}}]),RocketBrowserCompatibilityChecker}();
+//# sourceURL=rocket-browser-checker-js-after
+</script>
+<script id="rocket-preload-links-js-extra">
+var RocketPreloadLinksConfig = {"excludeUris":"/(?:.+/)?feed(?:/(?:.+/?)?)?$|/(?:.+/)?embed/|http://(/%5B/%5D+)?/(index.php/)?(.*)wp-json(/.*|$)|/refer/|/go/|/recommend/|/recommends/","usesTrailingSlash":"1","imageExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php","fileExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php|html|htm","siteUrl":"https://www.nknews.org/pro","onHoverDelay":"100","rateThrottle":"3"};
+//# sourceURL=rocket-preload-links-js-extra
+</script>
+<script id="rocket-preload-links-js-after">
+(function() {
+"use strict";var r="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e},e=function(){function i(e,t){for(var n=0;n<t.length;n++){var i=t[n];i.enumerable=i.enumerable||!1,i.configurable=!0,"value"in i&&(i.writable=!0),Object.defineProperty(e,i.key,i)}}return function(e,t,n){return t&&i(e.prototype,t),n&&i(e,n),e}}();function i(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")}var t=function(){function n(e,t){i(this,n),this.browser=e,this.config=t,this.options=this.browser.options,this.prefetched=new Set,this.eventTime=null,this.threshold=1111,this.numOnHover=0}return e(n,[{key:"init",value:function(){!this.browser.supportsLinkPrefetch()||this.browser.isDataSaverModeOn()||this.browser.isSlowConnection()||(this.regex={excludeUris:RegExp(this.config.excludeUris,"i"),images:RegExp(".("+this.config.imageExt+")$","i"),fileExt:RegExp(".("+this.config.fileExt+")$","i")},this._initListeners(this))}},{key:"_initListeners",value:function(e){-1<this.config.onHoverDelay&&document.addEventListener("mouseover",e.listener.bind(e),e.listenerOptions),document.addEventListener("mousedown",e.listener.bind(e),e.listenerOptions),document.addEventListener("touchstart",e.listener.bind(e),e.listenerOptions)}},{key:"listener",value:function(e){var t=e.target.closest("a"),n=this._prepareUrl(t);if(null!==n)switch(e.type){case"mousedown":case"touchstart":this._addPrefetchLink(n);break;case"mouseover":this._earlyPrefetch(t,n,"mouseout")}}},{key:"_earlyPrefetch",value:function(t,e,n){var i=this,r=setTimeout(function(){if(r=null,0===i.numOnHover)setTimeout(function(){return i.numOnHover=0},1e3);else if(i.numOnHover>i.config.rateThrottle)return;i.numOnHover++,i._addPrefetchLink(e)},this.config.onHoverDelay);t.addEventListener(n,function e(){t.removeEventListener(n,e,{passive:!0}),null!==r&&(clearTimeout(r),r=null)},{passive:!0})}},{key:"_addPrefetchLink",value:function(i){return this.prefetched.add(i.href),new Promise(function(e,t){var n=document.createElement("link");n.rel="prefetch",n.href=i.href,n.onload=e,n.onerror=t,document.head.appendChild(n)}).catch(function(){})}},{key:"_prepareUrl",value:function(e){if(null===e||"object"!==(void 0===e?"undefined":r(e))||!1 in e||-1===["http:","https:"].indexOf(e.protocol))return null;var t=e.href.substring(0,this.config.siteUrl.length),n=this._getPathname(e.href,t),i={original:e.href,protocol:e.protocol,origin:t,pathname:n,href:t+n};return this._isLinkOk(i)?i:null}},{key:"_getPathname",value:function(e,t){var n=t?e.substring(this.config.siteUrl.length):e;return n.startsWith("/")||(n="/"+n),this._shouldAddTrailingSlash(n)?n+"/":n}},{key:"_shouldAddTrailingSlash",value:function(e){return this.config.usesTrailingSlash&&!e.endsWith("/")&&!this.regex.fileExt.test(e)}},{key:"_isLinkOk",value:function(e){return null!==e&&"object"===(void 0===e?"undefined":r(e))&&(!this.prefetched.has(e.href)&&e.origin===this.config.siteUrl&&-1===e.href.indexOf("?")&&-1===e.href.indexOf("#")&&!this.regex.excludeUris.test(e.href)&&!this.regex.images.test(e.href))}}],[{key:"run",value:function(){"undefined"!=typeof RocketPreloadLinksConfig&&new n(new RocketBrowserCompatibilityChecker({capture:!0,passive:!0}),RocketPreloadLinksConfig).init()}}]),n}();t.run();
+}());
+
+//# sourceURL=rocket-preload-links-js-after
+</script>
+<script id="lity-js" src="https://www.nknews.org/pro/wp-content/themes/nkpro/js/lity.min.js" data-rocket-defer defer></script>
+<script id="mediaelement-core-js-before">
+var mejsL10n = {"language":"en","strings":{"mejs.download-file":"Download File","mejs.install-flash":"You are using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or download the latest version from https://get.adobe.com/flashplayer/","mejs.fullscreen":"Fullscreen","mejs.play":"Play","mejs.pause":"Pause","mejs.time-slider":"Time Slider","mejs.time-help-text":"Use Left/Right Arrow keys to advance one second, Up/Down arrows to advance ten seconds.","mejs.live-broadcast":"Live Broadcast","mejs.volume-help-text":"Use Up/Down Arrow keys to increase or decrease volume.","mejs.unmute":"Unmute","mejs.mute":"Mute","mejs.volume-slider":"Volume Slider","mejs.video-player":"Video Player","mejs.audio-player":"Audio Player","mejs.captions-subtitles":"Captions/Subtitles","mejs.captions-chapters":"Chapters","mejs.none":"None","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albanian","mejs.arabic":"Arabic","mejs.belarusian":"Belarusian","mejs.bulgarian":"Bulgarian","mejs.catalan":"Catalan","mejs.chinese":"Chinese","mejs.chinese-simplified":"Chinese (Simplified)","mejs.chinese-traditional":"Chinese (Traditional)","mejs.croatian":"Croatian","mejs.czech":"Czech","mejs.danish":"Danish","mejs.dutch":"Dutch","mejs.english":"English","mejs.estonian":"Estonian","mejs.filipino":"Filipino","mejs.finnish":"Finnish","mejs.french":"French","mejs.galician":"Galician","mejs.german":"German","mejs.greek":"Greek","mejs.haitian-creole":"Haitian Creole","mejs.hebrew":"Hebrew","mejs.hindi":"Hindi","mejs.hungarian":"Hungarian","mejs.icelandic":"Icelandic","mejs.indonesian":"Indonesian","mejs.irish":"Irish","mejs.italian":"Italian","mejs.japanese":"Japanese","mejs.korean":"Korean","mejs.latvian":"Latvian","mejs.lithuanian":"Lithuanian","mejs.macedonian":"Macedonian","mejs.malay":"Malay","mejs.maltese":"Maltese","mejs.norwegian":"Norwegian","mejs.persian":"Persian","mejs.polish":"Polish","mejs.portuguese":"Portuguese","mejs.romanian":"Romanian","mejs.russian":"Russian","mejs.serbian":"Serbian","mejs.slovak":"Slovak","mejs.slovenian":"Slovenian","mejs.spanish":"Spanish","mejs.swahili":"Swahili","mejs.swedish":"Swedish","mejs.tagalog":"Tagalog","mejs.thai":"Thai","mejs.turkish":"Turkish","mejs.ukrainian":"Ukrainian","mejs.vietnamese":"Vietnamese","mejs.welsh":"Welsh","mejs.yiddish":"Yiddish"}};
+//# sourceURL=mediaelement-core-js-before
+</script>
+<script id="mediaelement-core-js" src="https://www.nknews.org/pro/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.17" data-rocket-defer defer></script>
+<script id="mediaelement-migrate-js" src="https://www.nknews.org/pro/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=5bf5ea88de4fe239c937cda51827b287" data-rocket-defer defer></script>
+<script id="mediaelement-js-extra">
+var _wpmejsSettings = {"pluginPath":"/pro/wp-includes/js/mediaelement/","classPrefix":"mejs-","stretching":"responsive","audioShortcodeLibrary":"mediaelement","videoShortcodeLibrary":"mediaelement"};
+//# sourceURL=mediaelement-js-extra
+</script>
+<script id="wp-mediaelement-js" src="https://www.nknews.org/pro/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=5bf5ea88de4fe239c937cda51827b287" data-rocket-defer defer></script>
+<script id="enscroll-js" src="https://www.nknews.org/pro/wp-content/themes/nkpro/js/enscroll-0.6.2.min.js" data-rocket-defer defer></script>
+<script id="datatables-js" src="https://www.nknews.org/pro/wp-content/themes/nkpro/js/datatables.min.js" data-rocket-defer defer></script>
+<script id="bootstrap-datepicker-js" src="https://www.nknews.org/pro/wp-content/themes/nkpro/js/bootstrap-datepicker.min.js" data-rocket-defer defer></script>
+<script data-minify="1" id="marquee-js" src="https://www.nknews.org/pro/wp-content/cache/min/4/pro/wp-content/themes/nkpro/js/jquery.marquee.js?ver=1791194428" data-rocket-defer defer></script>
+<script id="SimpleScrollbar-js" src="https://www.nknews.org/static/simple-scrollbar.min.js" data-rocket-defer defer></script>
+<script id="mCustomScrollbar-js" src="https://www.nknews.org/pro/wp-content/themes/nkpro/js/mCustomScrollbar.concat.min.js" data-rocket-defer defer></script>
+<script id="bootstrap-select-js" src="https://www.nknews.org/pro/wp-content/themes/nkpro/js/bootstrap-select.min.js?ver=1.14.0-beta3" data-rocket-defer defer></script>
+<script id="touchSwipe-js" src="https://www.nknews.org/pro/wp-content/themes/nkpro/js/jquery.touchSwipe.min.js" data-rocket-defer defer></script>
+<script data-minify="1" id="sticky-js" src="https://www.nknews.org/pro/wp-content/cache/min/4/pro/wp-content/themes/nkpro/js/jquery.sticky.js?ver=1791194428" data-rocket-defer defer></script>
+<script id="stickyfill-js" src="https://www.nknews.org/pro/wp-content/themes/nkpro/js/stickyfill.min.js" data-rocket-defer defer></script>
+<script id="custom-js-extra">
+var frontend = {"ajaxurl":"https://www.nknews.org/pro/wp-admin/admin-ajax.php"};
+//# sourceURL=custom-js-extra
+</script>
+<script data-minify="1" id="custom-js" src="https://www.nknews.org/pro/wp-content/cache/min/4/pro/wp-content/themes/nkpro/js/custom.js?ver=1791194428" data-rocket-defer defer></script>
+<script id="heartbeat-js" src="https://www.nknews.org/pro/wp-content/plugins/wp-rocket/assets/js/heartbeat.js?ver=3.23.4" data-rocket-defer defer></script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://www.nknews.org/pro/wp-includes/js/wp-emoji-release.min.js?ver=5bf5ea88de4fe239c937cda51827b287"}}
+</script>
+<script type="module">
+/*! This file is auto-generated */
+var e="script#wp-emoji-settings",t=document.querySelector(e);if(!(t instanceof HTMLScriptElement))throw new Error("Element missing: "+e);const r=JSON.parse(t.text),s=(window._wpemojiSettings=r,"wpEmojiSettingsSupports"),o=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(s,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const r=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===r[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,r){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!r(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,r){let a;const s=(a="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),o=(s.textBaseline="top",s.font="600 32px Arial",{});return e.forEach(e=>{o[e]=t(s,e,n,r)}),o}function a(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}r.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(s));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(o),u.toString(),c.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"});const a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=e=>{i(n=e.data),a.terminate(),t(n)})}catch(e){}i(n=f(o,u,c,p))}t(n)}).then(e=>{for(const n in e)r.supports[n]=e[n],r.supports.everything=r.supports.everything&&r.supports[n],"flag"!==n&&(r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&r.supports[n]);var t;r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&!r.supports.flag,r.supports.everything||((t=r.source||{}).concatemoji?a(t.concatemoji):t.wpemoji&&t.twemoji&&(a(t.twemoji),a(t.wpemoji)))});
+//# sourceURL=https://www.nknews.org/pro/wp-includes/js/wp-emoji-loader.min.js
+</script>
+
+<!-- 8NAzh7TxV3/czImj3YJcU5mH3xiB2vBD7OohmWjaxmsJBFGQj2xXBzcavVdp4WBIFXt2/ptoXm2l/cU25ABwV8iUAwicgipHER0gcBrE82sL5XGgtHOLdY6adOg8YQjzZ58lPm57Rv8Ae3hg4zXFNUTAQhTxqIpyOwGjvTYjBdTWdbFIIAO23Dnms+Tm61ed99tOzECvyjmehWQ3V72KBkg= -->
+<script>window.lazyLoadOptions=[{elements_selector:"img[data-lazy-src],.rocket-lazyload",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,callback_loaded:function(element){if(element.tagName==="IFRAME"&&element.dataset.rocketLazyload=="fitvidscompatible"){if(element.classList.contains("lazyloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}},{elements_selector:".rocket-lazyload",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,}];window.addEventListener('LazyLoad::Initialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(var i=0;i<mutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){continue}
+if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){continue}
+images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
+if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script data-no-minify="1" async src="https://www.nknews.org/pro/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js"></script></body>
+
+</html>
+
+<!-- Performance optimized by Redis Object Cache. Learn more: https://wprediscache.com -->
+
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me -->

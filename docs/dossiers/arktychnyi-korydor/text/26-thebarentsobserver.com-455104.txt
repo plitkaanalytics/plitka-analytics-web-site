@@ -1,0 +1,36 @@
+URL:         https://www.thebarentsobserver.com/news/large-group-of-sanctioned-tankers-prepares-for-icy-convoy-on-northern-sea-route/455104
+Кінцевий:    https://www.thebarentsobserver.com/news/large-group-of-sanctioned-tankers-prepares-for-icy-convoy-on-northern-sea-route/455104
+Заголовок:   Large group of sanctioned tankers prepares for icy convoy on Northern Sea Route
+Дата публ.:  2026-08-03
+Завантажено: 2026-10-06 12:30 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 121591
+Оригінал:    raw/26-thebarentsobserver.com-455104.html
+sha256:      5696d33d506756252bf32601c70549e1c6236d4e77be92fa38cbdaea4ae7e063
+Витяг:       trafilatura
+
+==============================================================================
+# Large group of sanctioned tankers prepares for icy convoy on Northern Sea Route
+
+At least nine tankers and four cargo vessels are drifting in the northeastern part of the Kara Sea, waiting for nuclear icebreakers to escort them across the desolate Arctic waters.
+
+Ship traffic information shows that the vessels currently located in an area north of the Taymyr Peninsula include at least nine tankers and four cargo carriers.
+
+If they set sail together, it will be the largest convoy ever to traverse the icy waters of the Northern Sea Route. Among the ships are the oil tankers *Jupiter* (IMO 9397535), *Vostochny Prospect* (IMO 9866392), and *Saga* (IMO 9318553).
+
+The group may also include the *Tenda* (IMO 9178525), a container ship that sailed northwards along the Norwegian coast in late July. According to NAIS Barentswatch, the ship is en route to South Korea.
+
+While the *Saga* and *Jupiter* are ageing ships built in 2006 and 2009, respectively, the *Vostochny Prospect* is a new ship from 2023.
+
+The *Vostochny Prospect* and the *Jupiter* have hulls designed for shipments in sea ice, while the *Saga* has no ice protection. All the tankers are likely carrying oil extracted from Russian Arctic fields. The *Saga* is 182 metres long and has a gross tonnage of 27,357.
+
+The *Tenda* also has no ice-class protection.
+
+There is still plenty of sea ice on the Northern Sea Route, particularly in the East Siberian Sea, where a belt of multi-year ice has accumulated.
+
+Marine traffic data show that the nuclear icebreaker *Sibir* was located in the eastern part of the Kara Sea in the first days of August, while the icebreakers *Ural* and *Yakutiya* were in the East Siberian Sea.
+
+The Northern Sea Route offers Russia an alternative route to markets in Asia, where vessels can sail without any intervention from "unfriendly" countries and without the risk of Ukrainian drone attacks. At the same time, sailing on the Northern Sea Route remains highly risky due to rapidly changing weather and complex sea ice conditions.
+
+Russia is increasing its shipments of crude oil and LNG to China via this route. However, the country’s fleet of nuclear icebreakers is still far too small for a large-scale expansion of shipments.
+
+Moscow is in the process of developing infrastructure along its vast and remote Arctic coast. However, there is still a long way to go before emergency and preparedness mechanisms are in place.

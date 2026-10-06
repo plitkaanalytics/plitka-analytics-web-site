@@ -1,0 +1,144 @@
+URL:         https://www.world-nuclear-news.org/articles/northern-sea-route-cargo-set-new-record-in-2024
+Кінцевий:    https://web.archive.org/web/20260904095940id_/https://world-nuclear-news.org/articles/northern-sea-route-cargo-set-new-record-in-2024
+Заголовок:   Northern Sea Route cargo set new record in 2024
+Дата публ.:  2025-01-10
+Завантажено: 2026-10-06 12:18 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 52947
+Оригінал:    raw/04-world-nuclear-news.org-northern-sea-route-cargo-set-new-record-in-2024.html
+sha256:      875ddfff835b7870ec78265befcd3fdc2f5002474d145f12125e18ce0faf57b4
+Витяг:       trafilatura
+Примітка:    оригінал недоступний (0), узято з Wayback
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 13
+==============================================================================
+Northern Sea Route cargo set new record in 2024 - World Nuclear News
+Northern Sea Route cargo set new record in 2024
+Rosatom has reported nearly 37.8 million tonnes of cargo traffic on the Northern Sea Route in 2024, breaking the previous high by 1.6 million tonnes.
+Decommissioning of Chernobyl units progressing
+Newcleo-led consortium to develop floating nuclear plant
+Reactor technology selection process progresses in Netherlands
+Second EPR site authorised for site preparations
+Podcast: The intersection of economics and policy - how price reporting informs the fuel cycle
+World Nuclear Investment Guide
+WNN is a public information service of
+Keel laid for service ship for nuclear-powered icebreakers
+Russia and China discuss Northern Sea Route development
+© 2007-2026 World Nuclear Association, registered in England and Wales, number 01215741.
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Northern Sea Route cargo set new record in 2024 - World Nuclear News
+About WNN
+·
+Subscribe
+Home
+·
+Energy & Environment
+·
+New Nuclear
+·
+Regulation & Safety
+·
+Nuclear Policies
+·
+Corporate
+·
+Uranium & Fuel
+·
+Waste & Recycling
+·
+Podcasts & Features
+·
+Fusion
+·
+Country Index
+About WNN
+HOME
+/
+CORPORATE
+Northern Sea Route cargo set new record in 2024
+Friday, 10 January 2025
+Rosatom has reported nearly 37.8 million tonnes of cargo traffic on the Northern Sea Route in 2024, breaking the previous high by 1.6 million tonnes.
+(Image: Rosatom)
+The recently ended year also saw a record number of transit voyages - 92 - which helped set a record of 3 million tonnes of transit cargo.
+The nuclear icebreakers fleet provided 976 icebreaker escorts and "also provided information and navigation support services to 72 vessels".
+Rosatom Director General Alexey Likhachev said: "
+The year of the 65th anniversary of the nuclear icebreaker fleet was not only a year of new records in cargo transportation. In January, we laid down the icebreaker
+Leningrad
+, and in November, we launched the
+Chukotka
+... another important result of 2024 for us is that the concept of the Great Northern Sea Route received the support of the country's leadership, this concept will determine all our further work in the Arctic for the coming decades. We have to create a new transport corridor - from Kaliningrad to Vladivostok with all the accompanying infrastructure and connections with river ports and rail transport."
+Russia says the 5600-kilometre route cuts the distance from Murmansk to Japanese ports by half compared with using the Suez Canal, with the duration cut from about 37 to 18 days. Global warming has made large scale navigation along the route more feasible, and it is being facilitated by a large-scale 'Project 22220' construction programme of nuclear-powered icebreakers.
+The fifth Project 22220 icebreaker, the
+Chukotka,
+is 173 metres long, 34 metres wide, with a height from the waterline to the mainmast of 57 metres. The height of its side is 15.2 metres and it is designed to break through ice up to three metres thick and has a speed of 22 knots in clear water. It will be powered by two RITM-200 reactors which each have a thermal capacity of 175 MW. It already has the reactors on board and has a target completion date of 2026.
+Russia has held discussions with both India and China during the year over the potential of the route, with the first meeting of the Russian-Chinese Subcommission on Cooperation on the Northern Sea Route taking place in November. That followed an agreement of intent in June by Chinese businesses and Rosatom to create a joint venture for the construction of ships and a year-round container line between Chinese and Russian ports.
+Most Read
+Decommissioning of Chernobyl units progressing
+Wednesday, 2 September 2026
+Newcleo-led consortium to develop floating nuclear plant
+Friday, 28 August 2026
+Reactor technology selection process progresses in Netherlands
+Wednesday, 26 August 2026
+Second EPR site authorised for site preparations
+Wednesday, 26 August 2026
+Podcasts & Features
+Podcast: The intersection of economics and policy - how price reporting informs the fuel cycle
+Podcasts & Features
+·
+Thursday, 13 August 2026
+Podcast: Why is the
+World Nuclear Investment Guide
+needed?
+Podcasts & Features
+·
+Friday, 31 July 2026
+All Podcasts & Features
+Related Information
+Nuclear Powered Ships
+Nuclear Power in Russia
+WNN is a public information service of
+                                    World Nuclear Association.
+Related Topics
+Russia
+·
+Transport
+·
+Nuclear propulsion
+·
+Related Links
+Rosatom
+·
+Related Stories
+Keel laid for service ship for nuclear-powered icebreakers
+·
+Russia and China discuss Northern Sea Route development
+·
+The
+·
+Keep me informed
+Energy & Environment
+New Nuclear
+Regulation & Safety
+Nuclear Policies
+Corporate
+Uranium & Fuel
+Waste & Recycling
+Podcast & Features
+Fusion
+Country Index
+Contact
+York House,
+23 Kingsway,
+London,
+WC2B 6UJ,
+United Kingdom
+editor@world-nuclear-news.org
++44 (0)20 7451 1520
+© 2007-2026 World Nuclear Association, registered in England and Wales, number 01215741.
+Privacy Policy
+Cookies Policy
+Keep me informed

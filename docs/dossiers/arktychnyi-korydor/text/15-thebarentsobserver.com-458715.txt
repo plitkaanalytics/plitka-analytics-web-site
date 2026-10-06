@@ -1,0 +1,44 @@
+URL:         https://www.thebarentsobserver.com/news/as-arctic-sea-ice-reaches-this-years-low-shipping-reaches-historic-high/458715
+Кінцевий:    https://www.thebarentsobserver.com/news/as-arctic-sea-ice-reaches-this-years-low-shipping-reaches-historic-high/458715
+Заголовок:   As Arctic sea ice reaches this year’s low, shipping reaches historic high
+Дата публ.:  2026-09-24
+Завантажено: 2026-10-06 12:22 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 120507
+Оригінал:    raw/15-thebarentsobserver.com-458715.html
+sha256:      e322a824c6dfb424f920275dcbc8cb643c3849c16d4cf1bef0ca34a6bfe18274
+Витяг:       trafilatura
+
+==============================================================================
+# As Arctic sea ice reaches this year’s low, shipping reaches historic high
+
+Shipping along the Russian Arctic coast is bustling as the Arctic sea ice begins to freeze again.
+
+This year’s minimum sea ice extent has been reached, and the waters across the Arctic are once again starting to ice over.
+
+Figures from the Norwegian Meteorological Institute[ show](https://cryo.met.no/en) that the sea ice is quickly growing across the region. The ice extent this year was not among the lowest on record.
+
+"This year’s sea ice extent has not been extraordinarily low," Signe Aaboe, a Senior Researcher at the Meteorological Institute, told the Barents Observer.
+
+She emphasises, however, that the ice extent of 2026 is significantly lower than the average for the past decades.
+
+Arctic sea-ice extent is approaching its annual minimum: - remaining below the climatological values and - currently among the 13 lowest minima on record. Data: @osi-saf.eumetsat.int sea-ice index v3
+
+— Signe Aaboe ([[image or embed]](https://bsky.app/profile/did:plc:j7ba735hqevxb62l3e5lzsty/post/3mvnbcv3ya226?ref_src=embed)[@signeaaboe.bsky.social](https://bsky.app/profile/did:plc:j7ba735hqevxb62l3e5lzsty?ref_src=embed))[September 16, 2026 at 3:41 PM](https://bsky.app/profile/did:plc:j7ba735hqevxb62l3e5lzsty/post/3mvnbcv3ya226?ref_src=embed)
+
+With thinner layers of sea ice, shipments across the region are significantly picking up pace. A record high number of ships have sailed across Russia’s Northern Sea Route in 2026.
+
+As of 24 September, there were more than 50 vessels sailing along the remote eastern part of the route. Of these, more than 30 were tankers, ship tracking services show. There were also heavy lift vessels, container vessels, general cargo ships, as well as military vessels in the area.
+
+Russia plans for a significant increase in shipping on the Northern Sea Route. A governmental [decree](http://www.dfo.gov.ru/project/econom/seaway/) from August 2022 outlines an ambition to reach a regional cargo throughput of 109.7 million tonnes by the end of 2030 and 151.6 million tonnes by the end of 2035.
+
+It is not the first time that Russia has set high and unrealistic targets for shipping on the Northern Sea Route.
+
+Nevertheless, shipments across the vulnerable region are clearly on the increase. With this trend comes growing risk of accidents and environmental harm.
+
+Oil and natural gas account for a major part of the shipments on the route, and hydrocarbon volumes will continue to increase.
+
+With the introduction of the EU ban on Russian LNG on 1 January 2027, exports from Yamal LNG and Arctic LNG 2 will be reoriented towards Asian markets, and much of it will be shipped eastwards across the Arctic route.
+
+In September, Rosneft officially [opened its new Arctic project, Vostok Oil.](https://www.thebarentsobserver.com/news/putins-new-grand-oil-project-leaves-arctic-lands-in-devastation/457527) According to company director Igor Sechin, the project will deliver as much as 30 million tonnes as early as 2027.
+
+There are major uncertainties connected to *Vostok Oil*. However, several tankers are already underway. The *Valentin Pikul* (IMO: 9885879) and *Akademik Gubkin* (IMO: 9842190) have sailed westwards to Murmansk, where transshipments are likely to take place, while the *Vladimir Monomakh* (IMO: 9842176) and *Vladimir Vinogradov* (IMO: 9842188) are expected to sail eastwards to Asian markets.

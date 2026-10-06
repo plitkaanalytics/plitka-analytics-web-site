@@ -1,0 +1,78 @@
+URL:         https://en.highnorthnews.com/business/northern-sea-route-2025-season-concludes-with-stable-transit-traffic-amid-challenging-ice-conditions/1096859
+Кінцевий:    https://en.highnorthnews.com/business/northern-sea-route-2025-season-concludes-with-stable-transit-traffic-amid-challenging-ice-conditions/1096859
+Заголовок:   Arctic shipping holds firm despite unforgiving ice
+Дата публ.:  2025-12-11
+Завантажено: 2026-10-06 12:18 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 230473
+Оригінал:    raw/05-en.highnorthnews.com-1096859.html
+sha256:      2f44c1040159d58b74e86c5e81f40fdaf702454c145f36db38d5925be9d35203
+Витяг:       trafilatura
+
+==============================================================================
+business
+
+# 
+    #  Northern Sea Route 2025 Season Concludes With Stable Transit Traffic Amid Challenging Ice Conditions
+
+
+    The 2025 summer–autumn navigation season on Russia’s Northern Sea Route wrapped up with 103 transit voyages moving an estimated 3.2 million tons of cargo. While tanker traffic continued to dominate, bulk carriers and container ships posted notable gains, all against a backdrop of unfavorable ice conditions that limited the open-water window.
+
+The 2025 navigation season on the Northern Sea Route (NSR) concluded on November 17 after roughly four and a half months of seasonal operations.
+
+According to the [Centre for High North Logistics (CHNL)](https://chnl.no/news/main-results-of-nsr-transit-navigation-in-2025/), transit traffic on the Arctic corridor remained broadly robust, with a slight year-on-year increase in voyages and cargo tonnage despite persistent ice challenges that curtailed the open-water period.
+
+The NSR saw 103 transit voyages by 88 unique vessels in 2025, divided almost evenly between 52 eastbound and 51 westbound transits. Some ships completed two separate NSR passages during the season. Total [transits are up slightly from 97 in 2024](https://www.highnorthnews.com/en/deepening-russia-china-relations-continue-drive-oil-gas-and-container-traffic-along-arctic-shipping).
+
+Total cargo moving through the route reached an estimated 3.2 million tons, in line with official statements from Rosatom. Overall deadweight across all vessels recorded rose slightly to 6.23 million tons, up about 1 % from 2024.
+
+Ice conditions proved less favorable than in recent years. Satellite and research data indicate that the open-water window may have lasted no more than about two weeks late in the season, with ice lingering particularly in the East Siberian Sea and forming earlier than typical in autumn.
+
+### Compared with 2024, shipments from Murmansk declined
+
+### Oil tankers Continue to dominate
+
+Tankers remained the dominant cargo category on the NSR in 2025. CHNL recorded 34 tanker transits, split into large crude carriers, smaller oil tankers, and westbound repositioning voyages.
+
+Large crude oil tankers (>70,000 DWT) constituted the core of oil exports, with vessels from both Murmansk and Baltic ports (Ust-Luga and Primorsk) carrying shipments eastbound.
+
+Compared with 2024, shipments from Murmansk declined, while Baltic departures increased, resulting in an estimated ~1.9 million tons of crude oil moved eastward via the NSR. This is especially relevant for Norway as [Baltic tankers travel up the Norwegian coastline on their way to the Arctic](https://www.highnorthnews.com/en/russias-lng-dark-fleet-returns-norwegian-waters-winter-closes-northern-sea-route).
+
+There were also 11 westbound tankers, likely in ballast, indicative of repositioning rather than cargo transport. Some smaller tankers (<70,000 DWT) also participated in eastbound traffic.
+
+### Bulk carriers on the rise
+
+Bulk carriers saw significant growth in 2025, with 23 transits recorded, up from 15 in 2024. Of these, 7 eastbound voyages were likely laden with cargo such as coal and other dry bulk, primarily departing from Murmansk and select Baltic ports, bound mainly for China.
+
+16 westbound voyages were predominantly ballast transits, suggesting use of the NSR for repositioning and fleet rotation. In total bulk carriers moved almost 700,000 tons of cargo.
+
+### Container ships grab the headlines
+
+Container vessel traffic also posted gains with a record 15 container ship transits, up from 11 in 2024.
+
+Most of these voyages connected Russian and Chinese ports, with St. Petersburg a key western origin and Chinese hubs dominating the eastbound side. A notable international transit, from China to the UK, took place in September, underlining periodic intercontinental use of the NSR.
+
+There is some disagreement as to the total volume. While Rosatom announced a record container cargo volume of ~400,000 tons for the season, CHNL’s own estimates stand at roughly 287,000 tons.
+
+Container traffic’s upward trajectory, while still small relative to global trade flows, signals growing interest from liner operators in seasonal Arctic shortcuts. Chinese operators announced plans to further expand operations in 2026.
+
+### LNG transport remains key
+
+In addition to the regular exports from the Yamal LNG and Arctic LNG 2 projects, the NSR also saw a number of full transits of LNG vessels.
+
+LNG carriers recorded 5 NSR transits in 2025, reflecting the niche but important role of gas exports in Arctic shipping. Four voyages were linked to the Arctic LNG 2 project, two eastbound loaded departures and two westbound returns.
+
+A small LNG bunker vessel, *Dmitry Mendeleev*, was also repositioned along the route, showing the logistical support dimensions of NSR navigation.
+
+While not large in absolute numbers, LNG shipments show the continued integration of energy-sector flows into Arctic shipping.
+
+### Tough ice conditions all summer
+
+Despite broader narratives of receding ice and extended seasons in the Arctic, this year’s ice conditions remained challenging. The window of open water was short as persistent ice in the East Siberian Sea limited routing options for deep-draft vessels.
+
+“The open-water period lasted no more than two weeks, occurring at the end of September and the beginning of October,” the CHNL report highlights. Similarly, the onset of winter ice came early this year.
+
+Russia’s nuclear icebreakers remained engaged along the eastern sections of NSR pretty much all summer to keep shipping lanes open.
+
+While container and bulk segments made gains, overall transit traffic patterns suggest that the NSR remains a seasonal alternative to traditional routes rather than a mainstream artery for global trade.
+
+“For most transit voyages described above, the NSR serves as an occasional alternative to the main route during the summer–autumn navigation period. These cargo flows exist year-round but typically follow traditional routes, with a portion switching to the NSR for one or two voyages in summer to save time,” the CHLN report concludes.

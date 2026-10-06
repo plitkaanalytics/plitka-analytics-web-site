@@ -1,0 +1,36 @@
+URL:         https://www.thebarentsobserver.com/news/cargo-ship-involved-in-weapons-deliveries-from-north-korea-makes-port-call-in-arkhangelsk/436228
+Кінцевий:    https://www.thebarentsobserver.com/news/cargo-ship-involved-in-weapons-deliveries-from-north-korea-makes-port-call-in-arkhangelsk/436228
+Заголовок:   Cargo ship involved in weapons deliveries from North Korea makes port call in Arkhangelsk
+Дата публ.:  2025-09-03
+Завантажено: 2026-10-06 12:22 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 121176
+Оригінал:    raw/19-thebarentsobserver.com-436228.html
+sha256:      45a41d06a6b824fab0c3ae662201e2dcb5ccb760d986c2789bb4d6a6fd80b86a
+Витяг:       trafilatura
+
+==============================================================================
+# Cargo ship involved in weapons deliveries from North Korea makes port call in Arkhangelsk
+
+The 131-meter-long Maia-1 is under international sanctions for its transportation of weapons used in the Russian war of aggression against Ukraine.
+
+On September 3 the general cargo ship arrived in the north Russian port city of Arkhangelsk after a several-thousand-kilometer long voyage from Pevek, a remote Russian settlement on the Chukotka coast.
+
+The Maia-1 has a shady history. In fall 2023, it was observed transporting containers between North Korea and Russia. According to international observers, the containers were filled with weapons and ammunition later used in the war against Ukraine.
+
+The vessel was also spotted in India in 2022 with weapons on board, [opensanctions.org](https://www.opensanctions.org/entities/NK-MEyxkkXQb7qyFfA3GdDwQq/) reports.
+
+It is not clear what kind of cargo the ship transported on its latest voyage, but it could be connected with the floating [nuclear power plant in Pevek](https://www.thebarentsobserver.com/news/floating-nuclear-power-plant-completes-first-fuel-cycle/423201) or the major mining development projects in the area.
+
+It is not the first time that the Maia-1 is sailing in far northern waters. The ship has ice class Arc4 and is [licensed](https://nsr.rosatom.ru/upload/iblock/805/10n5v1x60xfk1qvb17x3lw54040tem60/409702834_result_e8a233de-87ca-4f3b-82e5-d7a346f37151_signed.pdf) for sailing on the Northern Sea Route. Judging from information from Vesselfinder, it crossed the maritime border between Norway and Russia on August 24 this year.
+
+According to Equasis, the electronic quality shipping information system, the Maia-1 has been in the north repeatedly over the past two years.
+
+The cargo carrier is owned and managed by MG-Flot, a company that previously operated under the name Transmorflot. The company is sanctioned by the US, EU, UK, as well as a number of other countries.
+
+The MG-Flot is believed to cooperate closely with the Russian war ministry.
+
+According to Swiss authorities, MG-Flot LLC is "involved in a military transportation network of Russian cargo vessels shipping North Korean armaments from Pyongyang to military facilities in the Russian [Pacific] port of Dunai."
+
+"Subsequently, North Korean munitions transported by MG-Flot LLC are transferred to depots on Russia’s western border to be deployed in Russia’s war of aggression against Ukraine," Open Sanctions [reports](https://www.opensanctions.org/entities/NK-n3U6g7iQhybo648xwo9w9C/) with reference to Swiss authorities.
+
+Ships owned by MG-Flot LLC have also been involved in weapons shipments from Iran to aid Russia’s fullscale invasion of Ukraine, the Swiss authorities say.

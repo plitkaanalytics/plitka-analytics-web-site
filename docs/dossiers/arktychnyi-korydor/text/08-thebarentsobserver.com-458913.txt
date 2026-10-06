@@ -1,0 +1,40 @@
+URL:         https://www.thebarentsobserver.com/security/ships-linked-with-arctic-russia-spotted-in-north-korea/458913
+Кінцевий:    https://www.thebarentsobserver.com/security/ships-linked-with-arctic-russia-spotted-in-north-korea/458913
+Заголовок:   Ships linked with Arctic Russia spotted in North Korea
+Дата публ.:  2026-09-29
+Завантажено: 2026-10-06 12:19 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 127129
+Оригінал:    raw/08-thebarentsobserver.com-458913.html
+sha256:      4bee2cb212d55110de94d912b317fe93962e4169023ca1c184db6613e7971fdc
+Витяг:       trafilatura
+
+==============================================================================
+# Ships linked with Arctic Russia spotted in North Korea
+
+Several ships well known in Russian Arctic ports are suspected of involvement in weapon deliveries from North Korea.
+
+In mid-May 2026, the Japanese Joint Staff reported that two Russian warships were escorting a fleet of six cargo ships en route to North Korea.
+
+The ships were [identified by NK Pro](https://www.nknews.org/pro/russian-navy-escorts-ships-known-to-shuttle-arms-from-north-korea-japan/ ), a news and intelligence platform focused on North Korea, as the *Angara* (IMO 9179842), *Lady R* (IMO 9161003), *Maia-1* (IMO 9358010), *Lady Mariia* (IMO 9220641), *Kapitan Danilkin* (IMO 8406729), and *Lady D* (IMO 9349289).
+
+According to NK Pro, the *Angara*, *Lady R*, and *Maia-1* have repeatedly been spotted picking up containers of suspected munitions at the port of Rason, North Korea, over the past three years.
+
+Most of these ships are well known in several seaports in northern Russia. Several of them have a high level of ice-class protection, which allows them to operate in Arctic waters.
+
+In August 2025, the *Maia-1* [sailed along the Norwegian coast en route to Arkhangelsk,](https://www.thebarentsobserver.com/news/cargo-ship-involved-in-weapons-deliveries-from-north-korea-makes-port-call-in-arkhangelsk/436228) northern Russia. It later sailed along the north Siberian coast to the remote Arctic settlement of Pevek.
+
+The *Maia-1* is owned and managed by MG-Flot, a company that previously operated under the name Transmorflot. The company is sanctioned by the US, EU, UK, as well as a number of other countries because of its ties with the Russian Ministry of Defence and its involvement in weapons deliveries from Iran and North Korea.
+
+The *Maia-1* has repeatedly been spotted in Russian Arctic ports over the past three years. In late September 2026, the ship was sailing westwards on the Northern Sea Route. It is likely to be heading for Arkhangelsk.
+
+It is not clear what kind of cargo is on board the *Maia-1* on this specific voyage.
+
+The *Lady D* has also sailed for years in the Russian Arctic. It has [transported containers](https://sudostroenie.info/novosti/43231.html ) and bulky cargo along the Northern Sea Route, including to and from Arkhangelsk and Murmansk. Like the *Maia-1*, the *Lady D* is owned and managed by MG-Flot.
+
+The *Kapitan Danilkin* also has a long history in Russian Arctic waters. In May 2019, the 39-year-old cargo ship made an 8,300-tonne [delivery to the Russian military base](https://neftegaz.ru/news/Suda-i-sudostroenie/449519-teplokhod-kapitan-danilkin-dostavil-novyy-stroitelnyy-gruz-na-ostrov-zemlya-aleksandry-pochemu-ne-se/ ) on Franz Josef Land. A few years earlier, it [delivered cargo to gold miners on Bolshevik Island i](http://thebarentsobserver.com/arctic/icebreakers-getting-ready-for-new-season/267191)n the Severnaya Zemlya archipelago.
+
+According to NK Pro, the *Lev Yashin* has [also made several port calls to Rason](https://www.nknews.org/pro/likely-russian-ship-docks-in-north-koreas-rason-port-for-first-time-since-may/), North Korea. In late autumn 2021, it was [one of about 20 ships that got stuck as Russian Arctic waters rapidly froze. ](https://www.thebarentsobserver.com/arctic/russias-grand-arctic-plan-might-get-stuck-in-the-ice/107208)After several weeks trapped in the ice, a nuclear icebreaker came to its rescue.
+
+The vessel is owned and operated by JSC Sovfracht, a company under heavy international sanctions due to its logistical support for the Russian Ministry of Defence and its involvement in deliveries of North Korean weaponry.
+
+A major part of the North Korean weaponry transported from Rason is believed to have been delivered to Russia’s far eastern port of Dunai. It is not known whether any of the weapons have been shipped along the Northern Sea Route to Russian Arctic ports.

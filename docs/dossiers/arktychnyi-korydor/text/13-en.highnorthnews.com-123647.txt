@@ -1,0 +1,60 @@
+URL:         https://en.highnorthnews.com/business/china-pushes-northern-sea-route-transit-cargo-to-new-record/123647
+Кінцевий:    https://en.highnorthnews.com/business/china-pushes-northern-sea-route-transit-cargo-to-new-record/123647
+Заголовок:   China Pushes Northern Sea Route Transit Cargo to New Record
+Дата публ.:  2023-12-18
+Завантажено: 2026-10-06 12:21 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 247569
+Оригінал:    raw/13-en.highnorthnews.com-123647.html
+sha256:      b30d954a2e65008682ef1d69925268b2ef94153a8749682931330f28f0b63f16
+Витяг:       trafilatura
+
+==============================================================================
+business
+
+# 
+    #  China Pushes Northern Sea Route Transit Cargo to New Record
+
+
+    Strong demand for Russian crude oil in China resulted in record transit cargo on the Northern Sea Route in 2023. More than a dozen shipments delivered 1.5m tons of crude oil from the Baltic Sea to China through the Arctic. In total the route saw 2.1m tons of transit cargo, surpassing the previous high set in 2021.
+
+Transit traffic on Russia’s Northern Sea Route (NSR) has rebounded to new heights. According to data by the Center for High North Logistics, the Arctic’s main shipping corridor saw 75 transit shipments totalling 2.1 million tons of cargo during 2023.
+
+The cargo figure sets a new record and represents a sharp rebound after just 41,000 tons last year when most Western operators stepped away from doing business with Russia.
+
+The transit navigation season started on June 13th when the Dutch heavy lift carrier* Pugnax *traveled from Busan, South Korea to Murmansk carrying prefabricated modules for the Arctic LNG 2 project. The preliminary figures include voyages through November 15, but due to sea ice returning in November the route rarely sees any transit traffic after that date.
+
+While transit cargo on the NSR was geographically diversified during earlier years, especially in 2013, Russia’s extensive cooperation with China in the region also manifests itself in Arctic cargo patterns. Deliveries to and from China accounted for more than 95 percent of transit cargo on the route in 2023.
+
+The transport of natural resources, especially crude oil, iron ore, coal and LNG dominate transit cargo.
+
+The growth in transit cargo comes as a result of the rerouting of Russian oil from the Baltic to China via the Arctic. Following the EU’s ban on the import of Russian crude at the end of 2022, the country took steps to ship some of its product using the NSR.
+
+Out of the total transit cargo of 2.1m tons, almost 1.5m tons were in the form crude oil. Additional volume came in the form of iron ore, coal and LNG. General cargo and containerized cargo accounted for around 7 percent.
+
+In total CHNL recorded 14 transit shipments of crude oil, including three deliveries on vessels with no ice class, which raised alerts among [experts and environmentalists](https://www.highnorthnews.com/en/russia-sends-oil-tanker-without-ice-protection-through-arctic-first-time)[ earlier this summer](https://www.highnorthnews.com/en/russia-sends-oil-tanker-without-ice-protection-through-arctic-first-time). All of the oil shipments were destined for China. 
+
+The first shipment occurred on July 23 with the final delivery departing the NSR on October 29, making for a 3 months shipping season for crude oil along the route.
+
+The majority of oil tankers either had no or only light to medium ice protection.
+
+### Limited to 3-months period
+
+Across all transits there was a fairly even distribution of ice class. In total 14 transits were conducted by vessels without any ice-protection, with another 21 voyages by vessels with low ice-classes Ice 1 and 2.
+
+The operation of vessels without ice-class was limited to August, September and October, with the majority transiting during September.
+
+Older vessels dominate transit activity on the route. Out of 75 transits, 59 were conducted by vessels older than 10 years and 40 percent came from vessels older than 20 years.
+
+The transit shipping period lasted around five months with voyages peaking during September when the CHNL counted 25 voyages. Non-ice class vessels are limited to a shorter 6-8 week period centering around September.
+
+The experts at CHNL foresee the possibility of an increase in transit cargo to new heights in 2024 reaching between 4-7m tons. The increase will arise from a likely increase in crude oil shipments and other natural resources like iron ore. A persisting shortage of ice-class vessels will limit the upward growth of transit cargo volumes in the foreseeable future.
+
+### A single LNG transit and continued exports
+
+The route saw a single transit shipment of LNG carried by *Velikiy Novgorod* carrying 71,500 tons of LNG from the FSU Portovyy situated in the Gulf of Finland to Tianjin in China during the month of August.
+
+In addition to the single full transit voyage of LNG, the route saw the continued export of LNG to Europe and Asia. Through November 15 Novatek’s Yamal LNG plant dispatched 234 shipments to Europe and Asia, the exact same number as during the same period in 2022.
+
+Of these deliveries 180 shipments were destined to Europe, compared to 192 in 2022. Another 37 shipments were bound for Asia and 17 deliveries were transshipped via Murmansk.
+
+Shipments to EU countries followed a similar pattern as in 2022. Deliveries to Belgium and Spain increased, while France and the Netherlands saw a decrease. Novatek continues to use Fluxys’ terminal in Zeebrugge, Belgium to transship up to 20 percent of its LNG to third parties. According to a recent study, the EU’s LNG purchases send around $1bn each month to Russia.

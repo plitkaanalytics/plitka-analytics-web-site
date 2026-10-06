@@ -1,0 +1,48 @@
+URL:         https://www.thebarentsobserver.com/news/in-unprecedented-arctic-operation-russia-sends-convoy-of-oil-tankers-to-815n/455488
+Кінцевий:    https://www.thebarentsobserver.com/news/in-unprecedented-arctic-operation-russia-sends-convoy-of-oil-tankers-to-815n/455488
+Заголовок:   In unprecedented Arctic operation, Russia sends convoy of oil tankers to 81.5°N
+Дата публ.:  2026-08-10
+Завантажено: 2026-10-06 12:22 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 123089
+Оригінал:    raw/16-thebarentsobserver.com-455488.html
+sha256:      659785a9787e18a1a6980078276fcee184cdae56e25ff5da1f1cf97c1104fd70
+Витяг:       trafilatura
+
+==============================================================================
+# In unprecedented Arctic operation, Russia sends convoy of oil tankers to 81.5°N
+
+Tankers loaded with up to one million tonnes of oil made history when they sailed north of Severnaya Zemlya en route to China. "This is extremely risky," says Norwegian expert.
+
+"I cannot recall ever seeing so many tankers on the Northern Sea Route at the same time as we are seeing now," says Norvald Kjerstad. The retired Norwegian professor of nautical science is closely following developments in Arctic shipping.
+
+The convoy currently making its way across the Russian Arctic has caught Kjerstad’s attention.
+
+"The situation is quite unusual in several respects," he told the Barents Observer.
+
+The convoy, [which included at least 15 vessels](https://www.thebarentsobserver.com/news/large-group-of-sanctioned-tankers-prepares-for-icy-convoy-on-northern-sea-route/455104), unexpectedly sailed north of the Severnaya Zemlya archipelago on 7 August. Normally, ships sailing on the Northern Sea Route choose the route through the Vilkitsky Strait. This detour is almost 1,000 km longer.
+
+The operation brought the ships north of 81.5°N, which is further north than any previous Arctic tanker convoy.
+
+"It is unusual for convoys to sail north of Severnaya Zemlya, but this is because the Vilkitsky Strait is still covered in what I assume is relatively thick and difficult ice," Kjerstad explains.
+
+"Every other year, there has been a relatively narrow ice-free channel north of the archipelago, but this has never before resulted in the level of traffic we’re seeing now. I can only recall smaller, heavily ice-reinforced bulk carriers having taken this route," he adds.
+
+"Probably, this is the northernmost route ordinary oil tankers have ever taken."
+
+In the convoy were at least eight oil tankers, including the *Vostochny Prospect* (IMO 9866392), *Liteyny Prospect* (IMO 9256078), *Ligovsky Prospect* (IMO 9256066), *Jupiter* (IMO 9397535), *Jagger* (IMO 9354301), *Viktor Bakaev* (IMO 9610810), *Dinasty* (IMO 9311622), and *Saga* (IMO 9318553).
+
+The total volume of oil on board the tankers is estimated at almost one million tonnes.
+
+The last two tankers, the *Dinasty* and *Saga*, are believed to have no ice-class standard, while the *Viktor Bakaev* has only a low ice standard.
+
+On 10 August, the ships had made it into the East Siberian Sea. While most of the tankers sailed north of the New Siberian Islands, the *Saga* appeared to sail further south along the coast, ship traffic data show.
+
+Although the sea ice in the Arctic has shrunk dramatically over the past decades, substantial volumes of ice remain in the region. Ice maps from 8 August show a belt of multi-year ice in parts of the East Siberian Sea.
+
+The current convoy is supported by nuclear icebreakers, as well as LNG carriers with icebreaking capabilities. On 10 August, the nuclear icebreaker *Arktika* was located in the Laptev Sea, while the *Ural* was in the Chukchi Sea, and the *Sibir* and *Yakutiya* were in the Kara Sea.
+
+It is the Russian state company Rosatom that is responsible for the development of the Northern Sea Route. The company also grants permission for shipping operations and is consequently responsible for ship safety in the area.
+
+According to Norvald Kjerstad, the shipments with vessels not designed for icy conditions are "extremely risky."
+
+"Although the waters north of Severnaya Zemlya are now ice-free, there is still a relatively large amount of ice to navigate through in the East Siberian Sea and the De Long Strait (inside Wrangel Island). It must therefore be considered extremely risky to sail the Northern Sea Route at present with vessels that do not have a proper ice class," he said.

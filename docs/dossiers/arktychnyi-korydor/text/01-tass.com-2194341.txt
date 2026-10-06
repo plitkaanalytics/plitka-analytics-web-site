@@ -1,0 +1,401 @@
+URL:         https://tass.com/society/2194341
+Кінцевий:    https://tass.com/society/2194341
+Заголовок:   Russian Northern Fleet ships pass through Shokalsky Strait for 1st time in Navy history
+Дата публ.:  2026-09-29
+Завантажено: 2026-10-06 12:16 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 157496
+Оригінал:    raw/01-tass.com-2194341.html
+sha256:      55b026c3c5e9d30d30191a504827aa7d5d303a5167367dba33564d7acae08e1a
+Витяг:       bs4-full
+
+==============================================================================
+Russian Northern Fleet ships pass through Shokalsky Strait for 1st time in Navy history -  Society & Culture - TASS
+russian news agency
+RU
+Search
+Sections
+Close
+Economy
+Sports
+Culture
+Close
+Russian Politics & Diplomacy
+Russian Politics & Diplomacy
+Into section →
+FOREIGN POLICY
+DOMESTIC POLICY
+World
+World
+Into section →
+Business & Economy
+Business & Economy
+Into section →
+Oil & gas industry
+Internet & Telecom
+Trade & Cooperation
+Transport
+Military & Defense
+Military & Defense
+Into section →
+Science & Space
+Science & Space
+Into section →
+Emergencies
+Emergencies
+Into section →
+Society & Culture
+Society & Culture
+Into section →
+Press Review
+Press Review
+Into section →
+Sports
+Sports
+Into section →
+Special projects
+TASS
+Agency
+TASS today
+History
+Management
+Contacts
+Projects & Services
+TASS-PHOTO
+NEWS TERMINAL
+Personal data processing policy TASS
+Press Releases
+Privacy Policy​ tass.com
+Terms of use
+ANTI-Corruption
+Subscribe
+Social Media
+Telegram
+Subscriptions
+RSS
+Advertising
+Contacts
+{{dayPoint.date | date : 'd MMMM yyyy'}}
+{{newsPoint.date * 1000 | date : 'HH:mm'}} {{newsPoint.mark}}
+{{newsPoint.title}}
+{{newsPoint.title+ ' '}}
+{{newsPoint.subtitle}}
+All news
+Russian Northern Fleet ships pass through Shokalsky Strait for 1st time in Navy history
+The Northern Fleet’s press service reported that while passing through the strait, a training alert was issued on the ships to boost combat readiness for navigating the narrow passage
+MOSCOW, September 29. /TASS/. A detachment of the Russian Navy’s Northern Fleet ships entered the Kara Sea through the Shokalsky Strait, the fleet’s press service reported.
+This occurred for the first time in the history of the Russian Navy, it said.
+"A detachment of ships and auxiliary vessels of the Northern Fleet, under the command of the fleet’s Deputy Commander Vice Admiral Oleg Golubev, has for the first time in the history of the Russian Navy passed through the Shokalsky Strait, which separates the October Revolution Island from Bolshevik Island in the Severnaya Zemlya Archipelago, and entered the waters of the Kara Sea," the statement reads.
+The Northern Fleet’s press service reported that while passing through the strait, a training alert was issued on the ships to boost combat readiness for navigating the narrow passage. They noted that the crew of a Ka-29 helicopter was deployed from the ice-class patrol ship Ivan Papanin, after which it carried out ice reconnaissance along the route.
+"Passage through the strait was conducted in difficult ice conditions," the fleet reported. Nevertheless, the ship crews maintained navigational safety, maneuvering with varying courses and speeds to safely avoid icebergs.
+"While transiting the strait, the Northern Fleet sailors evaluated the suitability of the new navigation area for operations by Russian Navy ships," the fleet’s press service concluded.
+Long-distance Arctic deployment
+The long-distance deployment of the Northern Fleet’s detachment of warships and auxiliary vessels across the Arctic Ocean is being conducted under the command of Deputy Commander of the Northern Fleet Vice Admiral Oleg Golubev. The task force includes the ice-class patrol ship Ivan Papanin, the large landing ship Kondopoga, the rescue tug Pamir, and the ocean-going tanker Sergey Osipov.
+The Arctic deployment of the Northern Fleet’s ships is being conducted to protect Russia’s maritime navigation and economic activities in the Arctic.
+Russia ready to help US combat outbreaks of infectious diseases — sanitary watchdog
+Rospotrebnadzor explained that the measles situation in three US states had deteriorated significantly in recent weeks
+Read more
+New powerful explosions rock ammo depot in Russia's Siberia
+At least ten people have been injured
+Read more
+Death toll from drone attack on Moscow Region rises to 2 — governor
+Nine people were injured in the attack, Andrey Vorobyov added
+Read more
+Trump says Los Angeles, San Diego could be destroyed amid Iran war
+The US president did not explain his remarks
+Read more
+Vance suggests Iran may have been involved in incident at Fairford Air Base in Britain
+The US vice president also effectively acknowledged that US B-1 strategic bombers were withdrawn from Fairford Air Base due to the incident, seemingly contradicting what US Secretary of State Marco Rubio had said earlier.
+Read more
+One of most expensive books in world, weighing more than 200 kg, stolen in France
+The work was Joseph Foret’s "Apocalypse" featuring a bronze-plated cover designed by Salvador Dali
+Read more
+Vanity Fair dubs Sam Altman 'Oppenheimer of our time,' most influential person in US
+OpenAI CEO Sam Altman was ahead of Anthropic CEO Dario Amodei, and Elon Musk, the owner of SpaceXAI
+Read more
+Homes, outbuildings, vehicles damaged in Moscow Region drone attack
+Governor Andrey Vorobyov reported that emergency responders are working in all affected areas
+Read more
+Nobel Prize for Medicine awarded to three scientists for their work in optogenetics
+Karl Deisseroth, Peter Hegemann and Georg Nagel were selected as the winners
+Read more
+Red Wings eyes summer 2027 charter flights from Moscow to Malaysia’s Langkawi
+The airline added that it already holds the necessary authorization to operate flights on this route
+Read more
+Japan’s sanctions against Russia show lack of independence of Tokyo’s foreign policy — MFA
+Maria Zakharova noted that on October 2, Tokyo announced its 27th "package" of illegitimate measures against Russia, targeting 33 Russian legal entities and nine individuals, as well as a number of companies abroad
+Read more
+Brazilian court to review Jair Bolsonaro’s 27-year sentence after election
+The former head of state was accused of attempting a coup and staging an armed insurrection following his defeat in the 2022 election
+Read more
+Turkey, Pakistan to deploy troops in Saudi Arabia to defend kingdom
+The deployment will be carried out in accordance with the national laws of the member states, the joint statement, issued following an emergency meeting of the alliance’s committee, says
+Read more
+New York Times to close soon, great day for America — Trump
+The US president criticized the newspaper for publishing what he called a photo "doctored by The Times" of Trump National Doral, his resort and hotel complex near Miami, Florida, which will host the G20 summit
+Read more
+Medvedev DQ'd from match against Djokovic for hitting fan with ball
+With Djokovic leading 7:5, 5:3, Daniil Medvedev sent a ball into the stands after a lost rally, hitting a fan in the head
+Read more
+Russian forces strike enemy radars in Poltava, Odessa regions, data centers across Ukraine
+The Russian military continued to carry out strikes targeting Ukrainian logistics hubs, transport facilities and port infrastructure as well as sea vessels, the Russian Defense ministry reported
+Read more
+Trump believes Iran involved in Flydubai incident
+The US president also pointed out that Washington knew who was behind the threat that prompted the US to withdraw all its B-1 strategic bombers from the UK’s RAF Fairford
+Read more
+Ukrainian army fights 'tooth and nail' for Krasny Liman, energy sites attacked — DPR head
+Denis Pushilin said that Russian forces cleared Ukrainian troops from the residential sector in the eastern part of Dobropolye in the Donetsk People’s Republic and battles continue in the north and center of that town
+Read more
+Zelensky creates police state to stay in power, Ukrainian lawmaker says
+Anna Skorokhod added that there is no one in the Verkhovna Rada who has the power and the voice
+Read more
+Over half of Ukrainians don’t want Zelensky to run for president again — poll
+The poll was conducted over the phone on September 12-21, 2026 and involved 1,002 respondents aged 18 and older
+Read more
+Some 650 UAVs head toward Moscow Region overnight — mayor
+Sergey Sobyanin reported that the majority of them were neutralized by air defenses at long range
+Read more
+Putin thanks teachers who raised special military operation heroes
+The Russian leader noted that the daily work of teachers, their attention, and honest and trusting conversations with students shaped their worldview, character, strength of spirit and will to win
+Read more
+WHO in contact with Russia over situation in Irkutsk Region
+Spokesman Christian Lindmeier said that WHO experts and Russian health authorities were collaborating to verify the event and its circumstances
+Read more
+Russian stock market closes higher on key indices
+The MOEX Index climbed 1.86% to finish Monday's main trading session at 2,319.57 points, while the RTS Index edged up 0.12% to 860.36 points
+Read more
+Contacts of sick woman in Irkutsk Region diagnosed with Covid, rhinovirus infection
+No other infectious disease pathogens were detected in any of the contacts
+Read more
+Russian forces hit power substation in Kharkov Region, port facility in Odessa Region
+A dry cargo ship with materiel was struck in the Chernomorsk port
+Read more
+Ukrainian forces shell DPR settlements 18 times in past day, wounding three
+Twenty-one residential buildings were damaged
+Read more
+Swedish recon aircraft spends more than four hours over Black Sea
+The aircraft is a Gulfstream S102B Korpen, which flew in from the Malmen Airbase, passing over the Baltic Sea and several European Union countries
+Read more
+Trump approves firing-squad execution of 2009 Fort Hood shooter
+Nidal Hasan carried out the deadliest shooting of its kind ever carried out at a US military base
+Read more
+Russian military to continue its work regardless of embassy decisions in Kiev — Kremlin
+"The decision is up to those countries that have diplomatic missions in Kiev," Dmitry Peskov said
+Read more
+Putin supports idea of creating neural network in educational sphere
+According to the head of state, such a neural network could incorporate standardized curricula and textbooks and help teachers navigate in them
+Read more
+Rubio says US could suspend operations of embassy in Kiev
+The US secretary of state believes it is not a surprise to anyone that Kiev is under attack
+Read more
+2026 Nobel Prize in Physics laureate to be named in Stockholm
+The names of the laureates remain confidential until the official announcement
+Read more
+Foreign companies interested in Russian UAV performance in hot climate — developer
+"Solutions for operating under electronic countermeasures and the ability to adapt the systems to specific tasks drew particular attention," Yekaterina Zgirovskaya said
+Read more
+Russian stock indices up as main trading session opens on Moscow Exchange
+The benchmark MOEX Russia Index and the dollar-denominated RTS Index both ticked up by 0.28%, reaching 2,326.11 and 862.79 points, respectively
+Read more
+Trump links rising gas prices to Kiev strikes, Democratic policies
+The US president added that the situation in the Strait of Hormuz is no longer a cause of rising prices
+Read more
+Brazil unlikely to change policy toward Russia after election - expert
+The first round of Brazil’s presidential election was held on October 4
+Read more
+Brazilian senator backed by two eliminated presidential candidates — TV
+According to a report by CNN Brasil, Flavio Bolsonaro has secured the support of former Goias Governor Ronaldo Caiado, who received 2.18% of the vote, and former Minas Gerais Governor Romeu Zema
+Read more
+Senior Iranian military officer says US forces have moved 1,000 km away from Iran
+According to Rear Admiral Ali Fadavi, for the first time ever, US warships were absent from the Persian Gulf, the Strait of Hormuz, the Gulf of Oman, and the northern Indian Ocean
+Read more
+Putin could speak on Ukraine at news conference after Belarus talks on Thursday — Kremlin
+The Russian president is scheduled to take questions jointly with his Belarusian counterpart Alexander Lukashenko
+Read more
+Overnight Ukrainian drone attack on Moscow among largest in two years
+650 UAVs headed toward the Moscow Region
+Read more
+AJet aircraft being inspected after bomb threat note found onboard
+Sanliurfa Airport has been temporarily closed for departures and arrivals
+Read more
+Russia faces one of largest drone attacks of 2026 — TASS calculations
+Ukrainian UAVs were intercepted and destroyed over 12 Russian regions
+Read more
+WHO calls public health risk low after Irkutsk pneumonia case
+Spokesman Christian Lindmeier said that all of the patient’s contacts "have reportedly been identified and are being monitored for illness"
+Read more
+Trump responds to question about pneumonia of unknown etiology in Russia
+According to the US president, Washington is ready to assist Moscow if necessary
+Read more
+Team of Ecuadorian mercenaries arrived in Kharkov
+According to law enforcement agencies, they will be engaged in counterattacks in the area of Kazachya Lopan and Goptovka
+Read more
+Russia says Japan continues to provoke deterioration of relations with it
+The unfriendly decisions are for the first time related to navigation restrictions, Maria Zakharova noted
+Read more
+Press review: White House names AI czar as Greece, Germany seek Ukraine aid audit
+Top stories from the Russian press on Monday, October 5th
+Read more
+US conducts first flight test of HACM hypersonic missile — web portal
+The Hypersonic Attack Cruise Missile program has faced significant delays, TWZ reports, and the US Air Force took a risky step by scaling back the overall scope of testing in an effort to stay on schedule
+Read more
+Putin highlights importance of country's educators on national Teacher's Day
+The head of state emphasized that Russia’s response to the challenges of the 21st century depended on teachers a lot
+Read more
+Lower grain exports because of port destruction could be disaster for Ukraine — FT
+According to the report, after severe damage to its Black Sea ports, Ukraine has practically lost its main export route
+Read more
+One killed, six injured in overnight drone attack on Moscow Region
+Governor Andrey Vorobyov reported that 185 UAVs had been shot down overnight across 16 municipalities in the region
+Read more
+Increased strikes on Ukraine aimed at preventing attacks on Russian economy — envoy
+The Russian Defense Ministry earlier said that Russian strikes on military facilities and the defense industry in Kiev and other regions of Ukraine would be intensified
+Read more
+Seven injured in drone attack on passenger bus in DPR’s Gorlovka
+The bus was attacked in the Kalininsky District
+Read more
+Moscow mayor reports destruction of 18 UAVs near capital
+Emergency responders are working at the sites where debris fell, Sergey Sobyanin reported
+Read more
+EU faces 'difficult winter' amid high energy prices, European Commission says
+Anna-Kaisa Itkonen welcomed the decision by EU and G7 countries to release 50 million barrels of oil and 50 million barrels of diesel from their strategic reserves to the market
+Read more
+Russia’s anti-plague institute employee diagnosed with pneumonia of unknown etiology
+The watchdog clarified that expanded testing of samples from the patient found no microorganisms associated with her professional activities
+Read more
+People like Merz, head of intelligence try to drag Germany into fight with Russia — MFA
+Russian Foreign Ministry Spokeswoman Maria Zakharova drew attention to Martin Jaeger’s statement that he allegedly sees a danger of violent confrontation between Germany and Russia
+Read more
+Coalition navy carries out operation against Houthis in Yemen’s Hodeidah
+Spokesman Turki Al-Maliki said that coalition forces thwarted planned attacks on shipping routes in the southern Red Sea
+Read more
+ARVI incidence in Irkutsk Region 12.6% below epidemic threshold — watchdog
+According to the report, the incidence rate corresponds to long-term averages
+Read more
+Poland not going to evacuate its embassy from Kiev — foreign ministry
+On October 3, the Russian foreign ministry once again warned foreign nationals, including diplomatic missions’ personnel, against staying in or traveling to Ukraine
+Read more
+Nearly 190 bears posing threat to people culled in Yakutia
+A total of 345 decisions on population regulation have been issued, covering 620 animals
+Read more
+Hainan tops inbound tourism destinations under China Travel initiative
+The newspaper noted that the island had transformed from “a simple destination” to “the number one place to visit” thanks to better service quality and a large-scale modernization
+Read more
+Kazakh police detain five people in connection with deadly Caspian Sea drills
+A pre-trial investigation into criminal negligence committed by the command staff is ongoing
+Read more
+No alternative to equality-based cooperation with Kabul — Russian Foreign Ministry
+Participants in the eighth meeting of the Moscow format of consultations on Afghanistan "once again called on the international community to ensure regular humanitarian assistance to the Afghan people and stressed the inadmissibility of its politicization"
+Read more
+AfD intends to drop demands for Germany exiting EU, eurozone — media
+The program provides for transforming the European Union into a Union of Sovereign Nations
+Read more
+Asian, Middle Eastern, African markets especially promising for Russian biotech exports
+Following reduced access to European markets, Russian companies have been expanding more actively into China, India, Turkey, the UAE and other Persian Gulf countries, CIS countries, Africa, and Latin America
+Read more
+Two commercial ships hit with drones in Black Sea off Bulgaria
+The Togo-flagged Alfa Watan suffered severe damage before sinking
+Read more
+Over 1 mln Russians visit Vietnam, Russia becomes country’s largest European market
+Vietnam welcomed more than 17.7 mln international tourists in the first nine months of 2026
+Read more
+Global trade to feel impact of US-Iran war for long time — Russian minister
+Experts have yet to assess the full extent of the consequences, Maxim Reshetnikov noted
+Read more
+Geran drones strike several data centers in Ukraine
+The Russian Defense Ministry said these centers processed data for government and commercial services, including those used by the Ukrainian armed forces
+Read more
+Russian troops liberate Samoilovka community in Zaporozhye Region in past day — top brass
+According to the latest figures, the Ukrainian army lost roughly 1,435 troops in battles with Russian forces in all the frontline areas over the past 24 hours
+Read more
+Israel tightens rules for Red Wings following Flydubai incident — airline
+Red Wings will continue to operate flights to Israel in full
+Read more
+Health situation in Russia’s Irkutsk Region remains stable — health watchdog
+Earlier, rumors circulated online that an employee of an anti-plague institute in the Irkutsk Region had allegedly been diagnosed with plague. The information was not confirmed
+Read more
+Irkutsk Region records about 16,000 ARVI cases weekly
+There was no upward trend in case numbers over the past 14 days
+Read more
+Kiev continues attacking Zaporozhye NPP, threatening nuclear catastrophe — diplomat
+"These thuggish actions on the brink of a nuclear catastrophe once again expose the true terrorist nature of the Kiev regime," Maria Zakharova stressed
+Read more
+Tickets to NHL star’s final game top $6,100 — aggregator
+The 41-year-old Alexander Ovechkin announced the previous day that the 2026-27 season would be his last in the NHL
+Read more
+Global oil inventories ‘scarily thin,’ Saudi Aramco CEO warns — Bloomberg
+According to Amin Nasser, global oil consumption continues to rise, meaning that countries will require additional supplies for at least the next two years to replenish their inventories
+Read more
+Russia condemns Flydubai co-pilot’s crime — Foreign Ministry
+Moscow took notice of the statement by the UAE Prosecutor General’s office, which classified the incident as an attempted terror attack
+Read more
+Ukraine facing armed revolt due to corruption, failures on front — Russian MP
+Mikhail Sheremet recalled that the atrocities committed by officers of the territorial recruitment centers had become an everyday reality in Ukraine
+Read more
+IN BRIEF: Fatalities in Moscow Region, injury in Smolensk Region, UAV attacks aftermath
+According to the Russian Defense Ministry, the Ukrainian drones were downed over the Belgorod, Bryansk, Kaluga, Kursk, Lipetsk, Oryol, Ryazan, Smolensk, Tver, Tula and Moscow Regions, Crimea and the Sea of Azov
+Read more
+Brazilian senator leads incumbent by 1.87 percentage points — election authority
+The conservative opposition candidate finished nearly 2.225 million votes ahead of the incumbent
+Read more
+World’s most famous stealth aircraft
+TASS is reviewing world's most famous stealth aircraft while Japan is about to become the fourth country in the world possessing one
+Read more
+Putin orders three-day suspension of strikes on Kiev starting at midnight — Kremlin
+The Ukrainian army would observe a ceasefire from midnight on September 5 through September 8
+Read more
+Russia regrets statement not adopted after Moscow Format on Afghanistan
+The Moscow format can work and continue to exist without this joint statement, Zamir Kabulov, the Russian president’s special representative for Afghanistan said
+Read more
+Ukrainian forces deliberately block evacuation of bodies in Alyoshki — Russian envoy
+According to Rodion Miroshnik, the Ukrainian military continued mining roads, while local civilians came under fire as they traveled to a neighboring community to obtain food
+Read more
+IN BRIEF: Key statements by Finance Minister Siluanov at Federation Council meeting
+Payments to veterans and people with disabilities, as well as maternity capital, will be adjusted to the previous year's inflation rate, Anton Siluanov said
+Read more
+Expert sees no grounds for restoring Nord Stream 2 gas pipeline
+Alexey Gromov noted that despite the rationale behind the idea, Europe was unlikely to change its chosen political course
+Read more
+Kremlin spokesman comments on work of embassies in Kiev, situation along Russia’s borders
+The special military operation continues, with the Russian military continuing its work regardless of countries’ decisions on embassies in Kiev, Dmitry Peskov said
+Read more
+Nepal ends search for missing after devastating flood — agency
+The National Council for Disaster Risk Reduction and Management recommended the finance ministry approve the allocation of $3.6 billion on 504 reconstruction and rehabilitation programs in flood-hit regions and on developing an emergency warning system
+Read more
+Merz goes to Kiev to 'escape' low ratings in Germany — Berliner Zeitung
+Only 10% of the country’s residents rate the German chancellor's performance positively, while 88% view it negatively
+Read more
+European gas reserves hit record low figures — The Economist
+Europe’s gas storage facilities are currently 72% full
+Read more
+Summer heatwave cost France at least €16 bln, lawmaker says
+Citing data from France's National Institute of Statistics and Economic Studies, Eric Coquerel noted that the extreme weather slashed economic growth by €3 billion and widened the budget deficit by €1.5 billion
+Read more
+Ukrainian attacks kill 29 Russian civilians over past week — diplomat
+According to Rodion Miroshnik, 230 civilian casualties were caused by Ukrainian drone strikes, accounting for 98% of all casualties reported in the past week
+Read more
+US Navy helicopter may have crashed off Saudi coast — portal
+According to a report by BNO News, the helicopter sent a distress signal and then disappeared from flight-tracking platforms
+Read more
+Putin appoints RSPP head Shokhin as business rights ombudsman
+A separate decree designates the "Platform for Handling Entrepreneurs' Appeals" autonomous non-profit organization, established by the Presidential Administrative Directorate, as the body responsible for supporting the business ombudsman's operations
+Read more
+Ukrainian army expanding rationing, tightening audit measures — expert
+Andrey Marochko noted that the Russian Armed Forces’ strikes on bridges in Kiev shocked both the authorities in Kiev and the general public
+Read more
+Continuing war with Russia to mean death for Ukraine, Ukrainian lawmaker warns
+According to Artyom Dmitruk, Ukraine’s key national priority today should be diplomacy and peace
+Read more
+Medical monitoring ends for 60% of those in contact with pneumonia patient in Siberia
+The agency stressed that the situation remains under its control
+Read more
+Moscow Military District begins training of FPV interceptor squads
+The Moscow Military District noted that the training program includes studying the technical characteristics of FPV interceptor drones, practicing piloting skills on specialized simulators, and conducting practical flights at training ranges
+Read more
+Tanker struck by projectile in Strait of Hormuz — UKMTO
+There are no reported casualties or environmental impact
+Read more
+TASS today
+Advertising
+Terms of use
+Contacts
+© TASS, Russian news agency (The Mass Media Registration Certificate No. 03247 was issued on April 2, 1999 by the State Press Committee of the Russian Federation). Some publications may contain information not suitable for users under 16 years of age.

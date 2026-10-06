@@ -1,0 +1,144 @@
+URL:         https://chnl.no/research/reports-reports/nsr-shipping-activities-in-2022/
+Кінцевий:    https://chnl.no/research/reports-reports/nsr-shipping-activities-in-2022/
+Заголовок:   NSR Shipping activities in 2022 - Centre for High North Logistics
+Дата публ.:  2023-06-09
+Завантажено: 2026-10-06 12:21 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 141250
+Оригінал:    raw/11-chnl.no-nsr-shipping-activities-in-2022.html
+sha256:      c6ea7553bea5c28181236cb2052f0bd0a749e5cd5c36de3e6702d0fb2b52c81b
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 13
+==============================================================================
+NSR Shipping activities in 2022 - Centre for High North Logistics
+NSR Shipping activities in 2022
+South Korean container vessel Panstar Acro on International Transit voyage via the NSR
+Yamal LNG export dynamics in 2025–2026 and preliminary assessment of post 2027 logistical capabilities.
+Main Results of NSR Transit Navigation in 2025
+Container ship Istanbul Bridge on International transit voyage via the NSR.
+Update on LNG Export from the Yamal LNG Project for June – August 2025
+Overview of Transit voyages along the Northern Sea Route as of August 31, 2025
+Thematic Network on Arctic Transport and Logistics at Arendalsuka
+Er vi som samfunn i stand til å sikre kritiske verdier?
+Samferdsel nord i Norden! Arctic mobility veien til kompetansebygging Nord i Norden?
+Kritisk infrastruktur i Nord: Hvordan kan vi beskytte oss?
+CHNL IO: CHNL Information Office Information quoted in this webpage has been obtained from a variety of sources. Whilst every effort has been made to ensure that details are correct, Center for High North Logistics cannot provide any guarantees thereof. Moreover, neither CHNL nor any of its offices and employees accept any responsibility or liability in negligence or otherwise, howsoever caused, as a result of a visitor to our web site’s relying on the information contained herein.
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+NSR Shipping activities in 2022 - Centre for High North Logistics
+Skip to content
+Home
+News
+Events
+Projects
+Research
+Reports
+Research Articles
+Activities
+Partners
+Arctic Shipping
+News
+Information
+About us
+Founders
+Staff
+Board members
+Research Priority Areas
+Home
+News
+Events
+Projects
+Research
+Reports
+Research Articles
+Activities
+Partners
+Arctic Shipping
+News
+Information
+About us
+Founders
+Staff
+Board members
+Research Priority Areas
+Search
+Home
+»
+Research
+»
+Reports
+»
+NSR Shipping activities in 2022
+June 9, 2023
+NSR Shipping activities in 2022
+This report prepared by CHNL covers NSR (Northern Sea Route) shipping activities in 2022.
+The main information source for the report is vessels’ AIS data. Information on the amount and type of transit cargo in 2022 was obtained for each voyage individually from various sources. Total amount of cargo transported along the NSR in 2022 is taken from official reports of Rosatom. For today, the usage of other sources of information for checking the number of transit passages or transit cargo volumes recorded by our Center is not possible.
+The total traffic volume on the Northern Sea Route in 2022 was 34,034 mln t. that is slightly less than the volume in 2021 – 34,850 mln t. Total number of voyages in 2022 was 2994, made by 314 vessels.
+Last year 2021, there were registered 3227 voyages and 414 ships. In the first half of 2022, in the period between January and July, the number of voyages per month was higher than in 2021. However, it was fixed the decrease in the voyages and ships’ number per month from August to December in comparison with 2021.
+Judging by the difference in the number of ships per year – 100 vessels, it can be concluded that in 2022, in the summer-autumn period, fewer ships worked on the NSR, which made fewer voyages. At the same time, we noted an increase in traffic in the winter period, that led to the increase of total GRT in 2022 and it was exceeded the figure for 2021.
+In 2022, 314 ships worked on the NSR under 11 different flags. 278 ships were under Russian flag and 36 ships under foreign flag. In terms of the ships’ age, almost half of the fleet – 146 ships out of 314 were built more than 30 years ago, 73 ships are 1 to 10 years old, 46 ships are 11 to 20 years old, and 49 ships are 21 to 30 years old.
+Among them are 8 Cyprus, 7 Bahamas, 7 Hong Kong, 4 Marshall Islands, 3 Liberia and 1 ship each under the flag of Sierra Leone, Denmark, Panama, and Curacao. The main fleet was LNG carriers – 26 vessels, 3 – bulk carriers, 3 – tankers, 3 – general cargo and 1 – supply vessel. For comparison, we point out that there were 414 vessels on the NSR under 17 different flags in 2021, among them 116 were under a foreign flag.
+The main contribution to the NSR cargo turnover in 2022 was made by LNG transportation. 280 voyages with LNG were made from the Sabetta port. In 2021 – 263 voyages.
+15 LNG carriers Arc 7 ice class, 6 LNG carriers Arc 4 and 5 LNG carriers with no ice class used in 2022.
+There were 32 more voyages to Europe in 2022 than in 2021 and most of them were to the ports of France, Belgium, and Spain.
+But the number of voyages with LNG to Asian countries in 2022 decreased by 14 voyages. At the same time, exports to China did not change, but there were no deliveries to Japan and South Korea at all.
+As per information provided by Rosatom, the total volume of LNG transported via the NSR in 2022 increased by 1,258 mln t. compared to year 2021.
+As we do not have details on how total transported cargo distributed, we use “Total GRT” parameter to evaluate contribution to NSR traffic of each vessel type.
+Transit voyages via the NSR in 2022.
+Total amount of transit voyages in 2022 is 43: 18 in the eastern direction and 25 to the west.
+Blue
+: Between Russian ports
+Red
+: From East to West
+Green
+: From West to East
+Over the last years, there were usually more transits eastward. So, in 2021 there were 85 transit voyages in total and among them 48 were to the east and 37 in the west direction. The key distinctive characteristic of the transit navigation on the NSR in 2022 is the extremely low quantity of transshipped cargo.
+According to our estimates, the total amount of transit cargo amounted to 41,5 thousand tons (1 281 thousand tons were in 2020 and 2 027 thousand tons in 2021).
+Among other large vessels passed the NSR by transit was tanker Vasily Dinkov (GRT – 49 597, LOA – 257 m) that went from Murmansk to China in October-November without cargo.
+Also, bulker Egor Letov (GRT – 40 972, LOA – 225 m) passed via the NSR in ballast from the Busan port (South Korea) to the Ust-Luga port in August-September.
+The nuclear container ship Sevmorput (GRT – 38 226, LOA – 260 m) made 5 transits. The first voyage was the return one, without cargo in January-February from Vladivostok to Murmansk. The other 4 voyages were between western and eastern Russian ports in the period from July to December. The container ship Monchegorsk (GRT – 16 994, LOA – 169 m, belonged to Norilsk Nickel) carried 383 containers that is 6 190 tons, from Nakhodka to Murmansk in November.
+24 transits along the NSR were in ballast, without cargo onboard 8 voyages to the east and 16 to the west. Among these 24: 13 were made by fishing vessels, 1 – by bulker, 2 – container ships, 2 – general cargo, 1 – icebreaker, 1 – rescue vessel, 3 – supply vessels and 2 – tankers.
+In 2022, there was not a single fully international transit via the NSR, means a transit voyage from one non-Russian port to another non-Russian port. The most of transits – 35 – were carried out between Russian ports. The other 8 transit voyages were between Russian and foreign ports. Among them 3 were from China to Murmansk, 3 – from South Korea to the port of Ust-Luga, 1 – from Kirkenes to Vladivostok and 1 – from Murmansk to China.
+Summing up, it can be stated that there was a sharp decline in the volume of cargo transported in transit via the NSR in 2022. The predominance of transit traffic inside Russia and almost complete absence of international cargos.
+Recent posts
+South Korean container vessel Panstar Acro on International Transit voyage via the NSR
+September 10, 2026
+Yamal LNG export dynamics in 2025–2026 and preliminary assessment of post 2027 logistical capabilities.
+April 2, 2026
+Main Results of NSR Transit Navigation in 2025
+December 9, 2025
+Container ship Istanbul Bridge on International transit voyage via the NSR.
+October 9, 2025
+Update on LNG Export from the Yamal LNG Project for June – August 2025
+September 16, 2025
+Overview of Transit voyages along the Northern Sea Route as of August 31, 2025
+September 1, 2025
+Thematic Network on Arctic Transport and Logistics at Arendalsuka
+September 1, 2025
+Er vi som samfunn i stand til å sikre kritiske verdier?
+August 11, 2025
+Samferdsel nord i Norden! Arctic mobility veien til kompetansebygging Nord i Norden?
+August 11, 2025
+Kritisk infrastruktur i Nord: Hvordan kan vi beskytte oss?
+August 11, 2025
+Recent posts
+South Korean container vessel Panstar Acro on International Transit voyage via the NSR
+September 10, 2026
+Yamal LNG export dynamics in 2025–2026 and preliminary assessment of post 2027 logistical capabilities.
+April 2, 2026
+Main Results of NSR Transit Navigation in 2025
+December 9, 2025
+Container ship Istanbul Bridge on International transit voyage via the NSR.
+October 9, 2025
+Update on LNG Export from the Yamal LNG Project for June – August 2025
+September 16, 2025
+Our other sites
+Nord University
+Connect with us
+facebook
+instagram
+CHNL IO: CHNL Information Office Information quoted in this webpage has been obtained from a variety of sources. Whilst every effort has been made to ensure that details are correct, Center for High North Logistics cannot provide any guarantees thereof. Moreover, neither CHNL nor any of its offices and employees accept any responsibility or liability in negligence or otherwise, howsoever caused, as a result of a visitor to our web site’s relying on the information contained herein.

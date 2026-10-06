@@ -1,0 +1,307 @@
+URL:         https://istories.media/en/stories/2026/03/16/how-north-korea-armed-russia/
+Кінцевий:    https://web.archive.org/web/20261002063803id_/https://istories.media/en/stories/2026/03/16/how-north-korea-armed-russia/
+Заголовок:   Inside the Pipeline: How North Korea Armed Russia
+Дата публ.:  2026-03-16
+Завантажено: 2026-10-06 12:19 UTC
+HTTP:        200   Тип: text/html   Байтів: 518728
+Оригінал:    raw/07-istories.media-how-north-korea-armed-russia.html
+sha256:      fd0cb28d6ff0916eec3c5629e8bb720f73eb58284b5e757a97d04ea02a580144
+Витяг:       trafilatura
+Примітка:    оригінал недоступний (0), узято з Wayback
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 15
+==============================================================================
+How Russia Imports Foreign Components and Machinery
+Methodology: How the totals were calculated
+The navigation screen captured the filming location off the coast of the DPRK, near the Russian border
+Inside the Angara’s Hold: What we know about the cargo
+Crew members from the Maria and Lady R documented their visits to Vostochny Port
+Denis Zagorodnenko, Chief Officer of the Lady R, photographed the vessel’s container stowage plan
+A photograph of the port of Dunay, taken by Mikhail Lavrentyev — then a sailor and later the captain of the Angara. The image is estimated to have been captured in September 2023
+Images of the Lady R with cargo: munitions from the DPRK were transported in containers identical to these
+Footage from a Maria crew member, presumably filmed near the port of Rajin. Date of recording: December 13, 2024
+The Maia-1 at the entrance to the English Channel in December 2024 — filmed after several months of transporting North Korean armaments
+The Maia-1 and the Maria: Where are they now?
+The mistake message has been sent. Thank you!
+Research, reports, important news
+Works in Russia without VPN, shows not only texts but also videos, and updates automatically
+Found a mistake? Highlight it and press Ctrl+Enter
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Inside the Pipeline: How North Korea Armed Russia
+Support Us
+Search
+RUSSIAN
+Stories
+/
+News
+/
+Opinions
+/
+Cases
+/
+Projects
+Donate
+Stories
+Check facts
+How Russia Imports Foreign Components and Machinery
+Inside the Pipeline: How North Korea Armed Russia
+Russia has received more than 8 million artillery rounds from the DPRK. An investigation by IStories and the Open Source Centre
+Доступно на русском
+Date
+16 Mar 2026
+Author
+Egor Feoktistov
+Editor
+Katya Bonch-Osmolovskaya
+With
+VPN
+Without
+VPN
+Add on Google
+Illustration: IStories
+On the morning of June 18, 2023, the cargo ship Angara dropped anchor near the Russky Bridge, the towering span connecting its namesake island to Vladivostok. Having departed Novorossiysk six months earlier, it was the vessel’s first call at a Russian port since the start of its long voyage.
+Sixteen sailors boarded the ship, having arrived in the Primorsky Krai from every corner of Russia just the day before. This new crew was destined to be pioneers. Nearly two months later, the Angara would deliver the first containers of North Korean artillery shells to Russia. Three other bulk carriers — the Lady R, the Maia-1, and the Maria — later joined the transport operations.
+IStories has obtained movement data for all Russian vessels involved in transporting munitions from the DPRK. Together with
+researchers from the Open Source Centre
+, we have determined that over the course of two and a half years, Moscow has received more than eight million shells from Pyongyang.
+Our investigation also relied on the manifests of the sailors who participated in the arms transfers. We discovered that they left a trail of evidence across social media, posting photos and details of the operations even as official documentation meticulously obscured the cargo's trail.
+Russia’s only ally
+In the summer of 2023, Defense Minister Sergei Shoigu
+traveled
+to the DPRK on an official visit. While there, he toured an arms exhibition and delivered a personal message from Vladimir Putin to Kim Jong Un.
+Observers
+speculated
+whether the Russian and North Korean leaders would reach an agreement on munitions supplies and technology transfers. A month after Shoigu's visit, the White House
+announced
+that the parties had made significant progress in their negotiations.
+“Any arms deal between the DPRK and Russia would directly violate a number of U.N. Security Council resolutions,” warned John Kirby, a spokesperson for the U.S. National Security Council. As it turned out, the Angara had returned from its maiden North Korean voyage just the day before Kirby’s warning — and set sail on its second trip only 24 hours later.
+By the time Ukraine’s Main Directorate of Intelligence (GUR)
+reported
+on the arms shipments in September, the Angara had already established a steady operational rhythm. Every Monday or Tuesday, the vessel cleared customs in Vladivostok before proceeding to the Dunay military port — a
+former
+Soviet submarine base. There, containers of weaponry were offloaded onto a
+rail spur
+for transport to stockpiles in western Russia.
+According to Ukrainian intelligence, starting in August 2023, the DPRK
+began
+supplying Russia with 122-mm and 152-mm shells for Soviet-era artillery, rockets for Grad multiple launch rocket systems (MLRS), and tank ammunition. In October 2023, the United States
+tracked
+the movement of containers from the Dunay port to an ammunition depot near Tikhoretsk in the Krasnodar Krai — a facility that researchers from the British Royal United Services Institute (RUSI)
+noted
+had been prepared in advance for North Korean shipments.
+Soon, North Korean weaponry
+began
+appearing on the front lines. Analysts from the Open Source Centre (OSC)
+identified
+numerous images of Pyongyang-sourced shells and rockets shared on social media by Russian servicemen.
+By early 2025, North Korean munitions had become vital for the Russian military effort, accounting for 75% to 100% of all daily artillery fire, according to reports from Russian artillerymen
+obtained
+by Reuters. "Without help from the DPRK, the Russian army shelling of Ukrainian defensive positions would have been cut in half," GUR stated at the time.
+Voyage to “Busan”
+In the spring of 2025, analysts from the Open Source Centre (OSC)
+published
+a study based on satellite imagery of the Russian ports of Dunay and Vostochny, along with the North Korean port of Rajin. Their findings identified 64 voyages made by the four vessels — the Angara, the Lady R, the Maia-1, and the Maria. The OSC estimated that these shipments carried between 4.2 million and 5.8 million artillery shells and MLRS rockets.
+The British analysts acknowledged, however, that these figures were conservative and contained significant gaps. The harsh weather of the Far East offers few clear days for reliable satellite surveillance of these maritime hubs.
+IStories has bridged these intelligence gaps. We gained access to comprehensive movement logs for all vessels involved in the North Korean arms pipeline, identified individual crew members, and gathered firsthand evidence of their participation in operations that breached U.N.
+sanctions
+.
+Working in tandem with the Open Source Centre, we have calculated that over a 2.5-year period, these four Russian ships conducted at least 112 voyages to North Korea. These shipments likely delivered between 8 million and 11 million pieces of ammunition to the Russian military.
+Methodology: How the totals were calculated
+We adopted the munitions calculation methodology developed by Open Source Centre (OSC) analysts. Using this approach in April 2025, a joint analysis by OSC and Reuters
+estimated
+that the DPRK had supplied at least 15,800 containers of ammunition.
+Satellite analysis:
+For 41 voyages, OSC analyzed imagery of the vessels during offloading at the Russian ports of Vostochny and Dunay. In 23 other cases, only imagery from the North Korean port of Rajin was available; in these instances, analysts counted how many containers were loaded onto the ships versus those left on the pier.
+3D modeling:
+To verify these counts, OSC created 3D models of each vessel, determining that each ship could carry between 200 and 500 munitions-laden containers. The modeling accounted not only for vessel capacity but also for the precise dimensions of the containers and the ammunition crates inside them.
+Load composition:
+A key assumption involved the composition of the North Korean shipments. Based on estimates provided by Ukrainian sources to Reuters, the breakdown was as follows: 60% of the crates contained 122-mm howitzer shells, 25% contained 152-mm shells, and the remaining 15% were 122-mm MLRS rockets.
+Packaging configurations:
+OSC also factored in that 122-mm artillery rounds were shipped in two configurations: crates holding either one or two shells, distributed roughly equally..
+IStories significantly expanded the list of known shipments, identifying an additional 32 deliveries — accounting for approximately 30% of all munitions-related voyages. OSC estimated the volume of these newly identified shipments based on the average container counts from previously verified cases.
+Consequently, between September 2023 and January 2026, the Russian military received at least 29,488 containers of DPRK weaponry. According to OSC’s assessment, this is equivalent to between 8 million and 11 million artillery shells and rockets.
+The documents obtained by IStories list the vessels' stated destinations and general cargo information, but their actual arrival points and the true contents of the containers were deliberately concealed.
+The South Korean port of Busan served as the primary “official” destination for the Angara, the Lady R, the Maia-1, and the Maria. According to the data set analyzed by IStories, these ships purportedly completed over 100 voyages to Busan since 2023.
+Russian border guards helped maintain this fiction. If a ship’s documentation listed South Korea as its destination, the FSB Border Service database recorded the same information, as shown by border-crossing records for the crews of the Angara and the Maria. However, as the Open Source Centre points out, South Korean port registries contain no record of these vessels ever docking there.
+The deception was occasionally undermined by the crews themselves. In February 2024, a sailor on the Maia-1 posted a video to social media with the caption “Let’s go home” and a geotag for “Busan, South Korea.” In reality, the vessel was near the North Korean port of Rajin at the time of filming; its true coordinates were visible on a navigation screen caught in the frame.
+The navigation screen captured the filming location off the coast of the DPRK, near the Russian border
+Social media, Google Earth
+To mask its movements, the Angara utilized not only Busan but also the Chinese port of Qingdao. According to official logs, the vessel visited Qingdao at least twice, though it was likely in the DPRK instead: during one of these voyages, the Angara was
+spotted
+in Rajin, and the transit time for these trips would have been
+insufficient
+to reach the more distant Qingdao.
+Throughout the North Korean munitions transport operations, the Angara concealed its location — its Automatic Identification System (AIS) was deactivated, and its true destination was masked in the paperwork. There was a single exception: from July 22 to August 10, 2023, the ship continuously transmitted its actual coordinates during a round trip to Tianjin, China. The Angara only disabled its AIS after arriving at the port of Korsakov on Sakhalin Island.
+Inside the Angara’s Hold: What we know about the cargo
+The vessel departed Vladivostok on July 22, 2023, and headed for Tianjin, IStories has established. By the morning of August 6, it had returned to the Russian port of Korsakov, according to the Angara’s own documentation and a U.N. Security Council
+report
+citing AIS data. While the crew visited the port of Korsakov, they officially cleared the border only on August 14 in Nakhodka, per FSB Border Service records.
+At that time, the ship’s hold likely contained 50.69 tons of explosive missiles. The Dossier Center was the first to
+report
+such a shipment, citing the Angara’s documents, though journalists did not specify the exact timing of the delivery.
+Later, U.N. investigators identified the same cargo — missiles weighing exactly 50.69 tons — on board the Angara during its stay in Korsakov. They also established that the vessel was subsequently offloaded at the Dunay military port between August 15 and 21. A satellite image from August 18 confirmed that the Angara was moored there during that window.
+It remains unknown exactly where the missiles were loaded onto the Angara. According to IStories data, the vessel moved between Korsakov, Nakhodka, and Dunay with this cargo on board. Crucially, the ship did not dock in either Korsakov or Nakhodka; the actual offloading took place exclusively at the military port.
+IStories has established that upon the vessel’s arrival in Korsakov, Alexander Borovik, a courier for Spetssvyaz (the Main Center for Special Communications), boarded the ship. This state enterprise is
+tasked
+with transporting secret and hazardous materials, weaponry, munitions, and other “defense-industrial products.” Borovik was listed in the documents as the cargo escort. He spent several days on board, disembarking in Nakhodka and flying to Moscow shortly thereafter; leaked travel records show that Spetssvyaz booked his flight.
+Borovik has served as a courier for the state enterprise since at least 2009. His flight history includes travel on aircraft belonging to Roscosmos and a cargo carrier that the U.S. Treasury Department has linked to Rosoboronexport, Russia’s state arms exporter.
+Who is Alexander Borovik?
+In 2007, Borovik became a co-founder of the branch of Boevoe Bratstvo (Combat Brotherhood) in Orekhovo-Zuyevo, a city in the Moscow Oblast. This prominent veteran organization was
+established
+by retired members of the Russian military, intelligence services, special forces, and law enforcement.
+Leaked records first link Borovik to Spetssvyaz in 2009. His subsequent movements can be traced through the FSB Border Service database.
+In January 2021, Borovik traveled from Saint Petersburg to the Algerian port of Oran aboard the vessel Johann Mahmastal. According to documents obtained by IStories, the ship was carrying several tons of missiles. Borovik returned to Russia by air three months later.
+In April 2022, he embarked on the Maia-1 from Novorossiysk. While the vessel successfully completed one voyage to India, it was detained in an Indian port that July due to outstanding debts to an Estonian company. At the time, the ship was carrying munitions intended for the Indian military,
+according
+to The Maritime Executive.
+Beginning in 2022, Borovik frequently departed Russia on private business jets and transport aircraft. His destinations included Iraq (January 2022), Chad and Togo (June 2022), and Turkey (September 2022).
+The FSB database provides not only dates and destinations but also aircraft tail numbers. In October 2022, Borovik flew to Uganda on a Roscosmos
+aircraft
+, followed by a December trip on a
+plane
+belonging to the cargo carrier Aviacon Zitotrans.
+According to the U.S. Treasury Department, Aviacon Zitotrans has
+delivered
+military equipment — including rockets, warheads, and helicopter parts — to Venezuela and Africa. U.S. authorities also alleged that the firm assisted Rosoboronexport in coordinating overseas arms shipments through Turkish intermediaries.
+On several international flights, Borovik was accompanied by fellow Spetssvyaz couriers. For instance, Konstantin Barulin joined him on the trip to Togo, while Dmitry Burgaz accompanied him to Iraq. In a sharp contrast to their covert military assignments, these same individuals were
+tasked
+in 2021 with delivering Unified State Exam (EGE) materials for Russian language tests to Moscow schools.
+This voyage of the Angara was an anomaly. The movements of the other Russian vessels involved in the arms pipeline are masked. However, the documents obtained by IStories allow us to trace every voyage made by the Angara, the Lady R, the Maia-1, and the Maria to the DPRK and back.
+The North Korean arms supply operation began in earnest in early September 2023, when the Angara arrived at the Dunay port directly from Rajin. This vessel accounts for one-third of all recorded voyages; the Maria handled a similar share, with the remaining trips split between the Lady R and the Maia-1.
+Following December 2023, shipments through Dunay ceased, and all munitions containers were diverted to Vostochny Port, the
+largest
+facility on Russia’s Pacific coast.
+Crew members from the Maria and Lady R documented their visits to Vostochny Port
+Social media
+On average, the DPRK supplied Russia with approximately 350,000 pieces of ammunition per month — a volume requiring five separate voyages. For context, this monthly supply is
+enough to sustain
+the Russian military’s offensive operations for roughly 30 days.
+Loose feeds sink ships
+Denis Zagorodnenko, Chief Officer of the Lady R, photographed the vessel’s container stowage plan
+Social media
+IStories has identified 145 sailors in the records who served on the North Korean voyages. We verified the identities of more than 100 of them and tracked down their social media accounts.
+While most crew members had backgrounds in traditional commercial shipping, the ranks also included recent maritime college graduates. For some of these young sailors, transporting weaponry from the DPRK marked their very first international assignment.
+To lead the initial Angara shipments, the operation’s planners appointed a seasoned master: 52-year-old Andrey Grinko. By that time, Grinko had spent more than five years executing Ministry of Defense contracts that demanded the highest levels of secrecy.
+Since 2017, Grinko has made at least eight voyages to Syria aboard the Pizhma, Sparta II, and Ursa Major — vessels tasked with supplying Russian forces. In late 2024, the Ursa Major
+sank
+off the coast of Spain. According to the Spanish investigation, the ship was transporting nuclear reactor components intended for a North Korean submarine.
+On the Angara, Grinko was joined by two other sailors with experience on Ministry of Defense cargo ships: Enver Dudov and Vyacheslav Konovalov. These men had previously participated in
+transporting
+stolen Ukrainian grain from Sevastopol to Tartus, Syria, aboard the Matros Koshka and the Mikhail Nenashev. Five more sailors from MoD supply vessels and two individuals linked to illegal grain exports would later join the North Korean runs.
+IStories reached out to the participants of the North Korean arms operations. Only one sailor from the Angara confirmed his involvement. He stated that the crew received their instructions from the vessel’s operator, MG-Flot, and noted that "mobile phones had to be surrendered for signature upon crossing the border."
+Another sailor, when asked about the DPRK voyages, replied that he could not disclose any information because he had “signed a contract.” Other crew members either ignored inquiries regarding North Korea or failed to respond to requests for comment entirely.
+It appears, however, that the requirement to "surrender mobile phones" was frequently ignored. Crew members published more than 60 photos and videos from their North Korean voyages online. Both veteran captains and recent graduates were eager to document their journeys on social media. For instance, Angara crew member Mikhail Lavrentyev captured what is perhaps the most picturesque shot of the Dunay military port to date.
+A photograph of the port of Dunay, taken by Mikhail Lavrentyev — then a sailor and later the captain of the Angara. The image is estimated to have been captured in September 2023
+Social media
+In some instances, the same container-laden vessel was caught on camera by two different sailors in close succession. This occurred, for example, aboard the Lady R in February 2024.
+Images of the Lady R with cargo: munitions from the DPRK were transported in containers identical to these
+Social media
+Additionally, we identified a video believed to have been filmed in Rajin Bay — located seven kilometers from the North Korean port of Rajin, the primary loading site for the Russian ships. A crew member from the Maria uploaded the footage to social media on December 13, 2024.
+Official records show that just one day earlier, on December 12, the vessel had departed Vladivostok, purportedly bound for Busan. Yet, by December 14, it was already heading back toward Russia, its deck stacked with containers.
+Footage from a Maria crew member, presumably filmed near the port of Rajin. Date of recording: December 13, 2024
+Social media
+Video breakdown
+The video shows a sailor filming the sunrise on the horizon; at one point, the island of Taechodo enters the frame before the camera pans back toward the sun. The caption reads: “And it’s like this every morning, I don’t even know.”
+The sun’s elevation above the horizon and its position relative to the island match data
+provided
+by SunCalc for a location near Taechodo at that specific time. Furthermore, a 3D model of the island
+generated
+via PeakVisor (a mountain visualization tool) aligns perfectly with the silhouette seen in the sailor’s video.
+“Vessel conditions leave much to be desired”
+Two companies, MG-Flot and Sovfracht, are responsible for the North Korean supply line. According to records, these firms own the vessels and manage all aspects of their commercial operations.
+Sovfracht owns the Maria and the Lady R, while MG-Flot owns the Angara and the Maia-1. Several sailors spoke to IStories about their experience working for MG-Flot.
+“The condition of the ships, like the rest of the Russian fleet, leaves much to be desired — they are old vessels, roughly 30 years old, give or take,” shared one Angara crew member. “The pay is alright — higher than at other Russian companies — and the food is decent.”
+Another sailor from the same ship offered a bleaker assessment: “Once the ships were transferred to MG-Flot’s management, supplies and spare parts stopped arriving. The company’s attitude toward provisions is poor.” He added that fuel was provided only at the “bare minimum,” and eventually, the company began refueling the Angara using fuel taken from other vessels.
+Further evidence of the poor technical condition of the vessels used in the supply line can be found in legal records. In August 2023, shortly before its first voyage to the DPRK, the Maia-1 failed to fulfill a commercial contract due to its condition, according to an arbitration court ruling.
+The vessel had been chartered for the Arctic LNG 2 project, carrying road slabs and paving stones in its hold. During the voyage, fuel oil leaked from a fuel tank into the cargo area due to corrosion, damaging the goods. A court
+ordered
+the owner of the Maia-1, Auto Ferry Cargo Terminal (Avtoparomny Gruzovoy Terminal LLC), to cover losses totaling 58 million rubles. However, by the summer of 2025, the cargo sender
+lowered
+its demands and re-engaged the vessel for further transport as a way to settle the debt.
+In this ruling, the court identified the owner of the Maia-1 as a company that had previously managed to stay off sanctions lists. The same company
+appears
+in another document as the legal successor to MG-Flot in a separate legal dispute.
+While ownership data for Avtoparomny Gruzovoy Terminal is largely obscured, records
+show
+that in 2021, businessman Dzhamaldin Pashaev acquired a 50% stake in the firm. Pashaev is also the sole owner of MG-Flot, a fact
+revealed
+in a separate criminal bribery case. In 2024, the United States
+sanctioned
+Pashaev for importing components from Iran to support Russian drone production at the Alabuga plant.
+IStories also identified two shipping agencies that facilitated the port calls for the Maria, the Lady R, the Angara, and the Maia-1 as they delivered North Korean armaments. Sovfracht-Vostok (in which the sanctioned company Sovfracht holds a 24% stake) acted as the initial agent. All munitions deliveries through September 2023 involved this firm, which served as the intermediary between the vessel operators and port authorities, pilots, and other contractors.
+The agency role later shifted to a company called DV Shipping. Financial documents show that this firm received tens of millions of rubles from Sovfracht, Sovfracht-Vostok, and Avtoparomny Gruzovoy Terminal. DV Shipping covered the costs for pilotage, water bunkering, diesel quality analysis, and port dues on at least one occasion for each of the four vessels: the Maria, the Lady R, the Angara, and the Maia-1.
+Sailors working for MG-Flot told IStories that the North Korean runs paid above-average wages and were never delayed. The company made official payments — a rarity in an industry where, as one Maia-1 crew member put it, “elsewhere they pay less, or it's all under the table.”
+The sailor described his time on the vessel as “satisfactory.” He added: “There were difficulties when I was there, but everything was paid. Don't forget what MG-Flot does and what is happening. We have the 'Special Military Operation' going on — a sort of war with the West — but our people are very weak; they're the 'Pepsi Generation.' If you want money, you work. If you don't like it, go somewhere else; no one is holding you back.”
+By January 2026, the company’s financial stability was called into question. MG-Flot
+testified
+in court that it would be unable to pay salaries or settle accounts with contractors if the tax authorities enforced VAT collection. “MG-Flot is under sanctions from the U.S., E.U., and U.K. During the Special Military Operation, three of the company’s vessels sustained damage and one was sunk, forcing the company to incur additional expenses for their restoration,” a company representative explained.
+What happened next
+In November 2025, Ukraine’s GUR
+stated
+that ammunition shipments from the DPRK to Russia had plummeted by more than half. According to Ukrainian intelligence, North Korean stockpiles have been depleted to such an extent that Russia is now receiving obsolete, nearly unusable hardware. Every second shell is being sent to Russian factories for refurbishment to bring it up to operational standards.
+IStories has found that the fleet involved in these shipments has also been halved, leaving only the Angara and the Lady R. The Angara’s most recent voyage to the DPRK occurred in January 2026, while the Lady R likely set off for a new consignment of shells in March 2026, just before this report’s publication.
+The Maia-1 at the entrance to the English Channel in December 2024 — filmed after several months of transporting North Korean armaments
+Social media
+The Maia-1 and the Maria: Where are they now?
+The Maia-1 completed its final delivery of North Korean munitions containers in March 2024. By late October of that year, it embarked on a return voyage carrying industrial equipment. IStories tracked the vessel’s path and discovered that this North Korea-bound cargo had been
+photographed
+as early as that summer, though the exact nature of the shipment remains unknown.
+After settling its court-ordered debts, the Maia-1 likely resumed fulfilling Ministry of Defense contracts. In late 2025, the vessel visited the Algerian port of Oran, a key hub for Russian arms exports. As of mid-March 2026, the Maia-1 is en route back to the Russian Far East.
+In July 2025, another vessel, the Maria, was withdrawn from the regular Russia – DPRK route. According to AIS data, in late February 2026, it docked at the
+Jinhai Shipyard
+in the Chinese port of Zhoushan. The Maria spent approximately one week at the shipyard before departing in early March and disabling its AIS.
+Shipments began to dwindle as early as the autumn of 2024, when the average frequency of voyages dropped from five to three per month. Since the beginning of 2026, IStories and OSC have detected only a single delivery from the DPRK.
+NK Pro, a project that monitors satellite imagery of North Korean ports,
+reached
+a similar conclusion. Their analysts suggested that the cargo flow might have been diverted to the rail link between Russia and North Korea.
+However, analysts from the Open Source Centre believe other factors could also explain the decline. On one hand, Russia has exponentially scaled up its domestic ammunition production. According to Estonian intelligence
+estimates
+, Russian output grew from 1 million shells in 2022 to 7 million in 2025. Consequently, the Russian military may be becoming less reliant on imported munitions.
+On the other hand, the exhaustion of the DPRK’s own stockpiles — the explanation favored by Ukrainian officials — remains a distinct possibility. North Korean manufacturing capacity may simply be insufficient to sustain Russia’s high rate of consumption. Tellingly, in December 2025, Kim Jong Un
+ordered
+the construction of new military facilities to ramp up the production of missiles and shells.
+Share
+With
+VPN
+Without
+VPN
+Add on Google
+Partners
+The mistake message has been sent. Thank you!
+Research, reports, important news
+App
+Works in Russia without VPN, shows not only texts but also videos, and updates automatically
+Download on iPhone
+Download on Android
+Projects
+Property track
+Sections
+Stories
+News
+Opinions
+Cases
+Archive
+Games
+Social
+Telegram
+Instagram
+Facebook
+X (Twitter)
+YouTube
+GitHub
+RSS
+RUSSIAN
+Donate
+Privacy policy
+Add on Google
+Cookies
+Terms of service
+ISM, Inc.
+All rights reserved
+. 18+
+Found a mistake? Highlight it and press Ctrl+Enter
