@@ -1,0 +1,40 @@
+URL:         https://www.bairdmaritime.com/security/incidents/sochi-tanker-fire-oil-spill
+Кінцевий:    https://www.bairdmaritime.com/security/incidents/sochi-tanker-fire-oil-spill
+Заголовок:   Tanker catches fire following suspected drone strike in Black Sea off Russia
+Дата публ.:  2026-10-07
+Завантажено: 2026-10-07 09:20 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 704256
+Оригінал:    raw/69-bairdmaritime.com-sochi-tanker-fire-oil-spill.html
+sha256:      c407980b44c000e5215b25a2726b02c62b37351cae63ff847d7d825fae0e26c7
+Витяг:       trafilatura
+
+==============================================================================
+Local authorities reported that all 23 of the ship's crew were rescued. Reports attributed the fire to an uncrewed boat attack, while officials temporarily closed beaches in nearby Sirius.
+
+An oil tanker caught fire following a suspected drone attack in the Black Sea off Sochi, Russia, on Tuesday, October 6.
+
+*S*tate-run new agency *TASS* identified the vessel as the Liberian-flagged crude carrier *Aframax Rio* and said it had been attacked by uncrewed boats.
+
+The Russian Ministry of Transport (MOT) said the ship’s 23 crewmembers, all Indian nationals, have been rescued. Preliminary information indicated that no injuries have been reported, the ministry said.
+
+Video footage of the supposed incident first showed a blaze around the vessel’s central cargo tanks, then flames moving aft along its starboard side.
+
+Later footage showed a pool of burning oil on the water astern and a tall smoke plume.
+
+The MOT also reported that oil was burning openly in the sea.
+
+NASA’s Fire Information for Resource Management System data showed a large, intense heat signature west of Sochi. The hotspot was well northwest of *Aframax Rio*’s last detected position, which tracking services placed off Sirius on Monday, October 5.
+
+Dmitry Plishkin, head of the administration of the Sirius federal territory, announced the temporary closure of local beaches.
+
+“The state of water and air is constantly monitored in cooperation with the Russian Hydrometeorological Service,” Plishkin said in a social media post.
+
+Atmospheric air quality monitoring showed pollutant concentrations in Sirius remained many times below maximum permissible levels and posed no threat to health, Plishkin added.
+
+Ukraine added *Aframax Rio* to its sanctions list on February 12, 2026, among 91 vessels designated as part of Russia’s so-called “shadow fleet”.
+
+In March, the crude tanker *Altura* was [struck by a marine drone](https://www.bairdmaritime.com/security/incidents/drone-attack-hits-tanker-carrying-russian-oilnear-turkey) near the Bosphorus after departing Russia. Turkey’s transport minister said the vessel’s 27 crew members were safe. *Baird Maritime*’s August feature also covered [attacks on vessels and port facilities in the Black Sea](https://www.bairdmaritime.com/shipping/feature-escalating-black-sea-attacks-threaten-global-grain-and-oil-trade).
+
+Baird Maritime / Work Boat World
+
+     www.bairdmaritime.com

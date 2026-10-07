@@ -1,0 +1,14 @@
+URL:         https://www.theinsurer.com/ti/news/novorossiysk-cargo-war-risk-rates-rise-after-black-sea-attacks-2026-07-29/
+Кінцевий:    https://www.theinsurer.com/ti/news/novorossiysk-cargo-war-risk-rates-rise-after-black-sea-attacks-2026-07-29/
+Заголовок:   theinsurer.com
+Дата публ.:  не вказана на сторінці
+Завантажено: 2026-10-07 08:13 UTC
+HTTP:        401   Тип: text/html;charset=utf-8   Байтів: 777
+Оригінал:    raw/36-theinsurer.com-novorossiysk-cargo-war-risk-rates-rise-after-black-sea-.html
+sha256:      becf930199d5def2c76e21c2b9340440724ce7afda9804eca4aaeece066b15a3
+Витяг:       bs4-full
+Примітка:    оригінал 401; CDX недоступний: Expecting value: line 1 column 1 (char 0)
+
+==============================================================================
+theinsurer.com
+Please enable JS and disable any ad blocker

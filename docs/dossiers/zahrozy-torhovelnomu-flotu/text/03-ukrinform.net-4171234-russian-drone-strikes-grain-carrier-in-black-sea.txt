@@ -1,0 +1,32 @@
+URL:         https://www.ukrinform.net/rubric-ato/4171234-russian-drone-strikes-grain-carrier-in-black-sea-near-romania-fatalities-reported-vessel-sinks.html
+Кінцевий:    https://www.ukrinform.net/rubric-ato/4171234-russian-drone-strikes-grain-carrier-in-black-sea-near-romania-fatalities-reported-vessel-sinks.html
+Заголовок:   Russian drone strikes grain carrier in Black Sea near Romania: Fatalities reported, vessel sinks
+Дата публ.:  2026-10-05
+Завантажено: 2026-10-07 08:03 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 53270
+Оригінал:    raw/03-ukrinform.net-4171234-russian-drone-strikes-grain-carrier-in-black-sea.html
+sha256:      b41ccae6fcf5b6ef211b4a4412ae7c39ffe40a3147f1dbd0061a86aefc9e99dc
+Витяг:       trafilatura
+
+==============================================================================
+# Russian drone strikes grain carrier in Black Sea near Romania: Fatalities reported, vessel sinks
+
+Romania Journal stated this in [an article](https://www.romaniajournal.ro/society-people/ship-hit-by-drone-near-romanias-neptun-deep/), according to Ukrinform.
+
+Rhe incident occurred on Monday near the Black Sea coast, close to the Pescăruș offshore gas platform operated by OMV Petrom. The drone struck the Turkish-flagged vessel Royad Mammadov, which was carrying grain.
+
+The vessel caught fire and sank, while Romanian authorities participated in the rescue operation.
+
+According to Romania’s Ministry of Internal Affairs, two people were killed and 11 crew members were rescued.
+
+**Read also:**
+
+[Media reports: Russian-struck ship near Odesa drifts unmanned 40 miles from Bulgaria](/rubric-emergencies/4171188-media-reports-russianstruck-ship-near-odesa-drifts-unmanned-40-miles-from-bulgaria.html)
+
+The incident occurred approximately 20 nautical miles from the Romanian coast and 9 nautical miles from the Pescăruș platform.
+
+Digi24 journalist Iulia Stancu said an alert was issued at around 11:00 a.m., when the Romanian Naval Authority received a report of a serious incident that had occurred outside Romania’s territorial waters.
+
+As Ukrinform previously reported, in August Romania [scrambled F-16 fighter jets](https://www.ukrinform.ua/rubric-world/4156003-rumunia-znisila-morskij-dron-poblizu-platformi-neptun-deep-u-cornomu-mori.html) to destroy a maritime drone detected several hundred meters from the Neptun Deep gas project platform in the Black Sea.
+
+*Photo:  VesselFinder*

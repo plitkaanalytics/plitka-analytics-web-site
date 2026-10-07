@@ -1,0 +1,271 @@
+URL:         https://www.vesselfinder.com/vessels/details/9356969
+Кінцевий:    https://www.vesselfinder.com/vessels/details/9356969
+Заголовок:   ROYAD MAMMADOV
+Дата публ.:  2006-01-01
+Завантажено: 2026-10-07 09:20 UTC
+HTTP:        200   Тип: text/html;charset=UTF-8   Байтів: 56206
+Оригінал:    raw/67-vesselfinder.com-9356969.html
+sha256:      db623df8707f9f2e1e5d922e0537568e4b5c7ff7fc5e318b8feae072e204ea30
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 1
+==============================================================================
+ROYAD MAMMADOV, General Cargo Ship - Details and current position - IMO 9356969 - VesselFinder
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+ROYAD MAMMADOV, General Cargo Ship - Details and current position - IMO 9356969 - VesselFinder
+Map
+Vessels
+Photos
+Ports
+Containers
+Services
+Paid
+Plans & Prices
+RealTime AIS Data
+Historical AIS Data
+Container Tracking
+Free
+Mobile Apps
+Route Planner
+Fleet Explorer
+Embed map
+Become AIS Partner
+Contact us
+ROYAD MAMMADOV
+General Cargo Ship, IMO 9356969
+VesselFinder
+Vessels
+Cargo vessels
+ROYAD MAMMADOV
+The current position of
+ROYAD MAMMADOV
+is
+       at Black Sea  reported 2 days ago  by AIS.
+                  The vessel is en route to the port of
+Ravenna, Italy
+,       and expected to arrive there on
+Oct 12, 12:00
+.
+                      The vessel
+ROYAD MAMMADOV
+(IMO 9356969, MMSI 341609002) is a General Cargo Ship  built in 2006 (20 years old) and
+    currently sailing under the flag of
+St Kitts & Nevis
+.
+Plans & Prices
+Track on Map
+Add Photo
+Add to fleet
+Destination
+Ravenna, Italy
+ETA: Oct 12, 12:00
+(in 5 days)
+Predicted ETA
+Remaining Distance
+Distance Sailed
+Course / Speed
+Current draught
+4.6 m
+Navigation Status
+-
+Position Received
+2 days ago
+IMO / MMSI
+9356969 / 341609002
+Callsign
+V4LC7
+AIS Type
+Cargo ship
+AIS Flag
+St Kitts & Nevis
+Length / Beam
+139 / 16 m
+Last Port
+Izmail, Ukraine
+ATD: Sep 18, 06:19 UTC
+(19 days ago)
+Ship Position & Voyage
+Track on Map
+Recent Port Calls
+Arrival (UTC)
+Departure (UTC)
+Port Stay
+Arrival Draught
+Historical AIS Data
+Proximity Events
+i
+From (UTC)
+To (UTC)
+Nearby Vessel
+Duration
+Location
+Vessel Utilization
+Vessel Particulars
+IMO number
+9356969
+Vessel Name
+ROYAD MAMMADOV
+Ship Type
+General Cargo Ship
+Flag
+Saint Kitts & Nevis
+Year of Build
+2006
+Length Overall
+(m)
+139.55
+Length BP
+(m)
+Beam
+(m)
+16.50
+Draught
+(m)
+Depth
+(m)
+Gross Tonnage
+5684
+Net Tonnage
+Deadweight
+(t)
+6933
+TEU
+Crude Oil
+(bbl)
+-
+Gas
+(m
+3
+)
+-
+Grain
+(m
+3
+)
+-
+Bale
+(m
+3
+)
+-
+Ballast Water
+(m
+3
+)
+Fresh Water
+(m
+3
+)
+-
+Builder
+Place of Build
+Hull
+Material
+Engine Builder
+Engine Type
+Engine Power
+(kW)
+Fuel Type
+Service Speed
+(kn)
+Propeller
+Management
+Registered Owner
+Address
+Website
+-
+Email
+-
+Manager
+Address
+Website
+Email
+ISM Manager
+Address
+Website
+Email
+P&I Club
+Classification Society
+Last Survey
+-
+Next Survey
+-
+History
+Year
+Flag
+Vessel Name
+Registered Owner
+Manager
+Year
+2026 Apr
+Flag
+Vessel Name
+ROYAD MAMMADOV
+Registered Owner
+Manager
+Year
+2025 Jan
+Flag
+Vessel Name
+Registered Owner
+Manager
+Year
+2023 Apr
+Flag
+Vessel Name
+Registered Owner
+Manager
+Year
+2023 Feb
+Flag
+Vessel Name
+Registered Owner
+Manager
+Year
+2021 Mar
+Flag
+Vessel Name
+ANGORA 4
+Registered Owner
+Manager
+Year
+2021 Feb
+Flag
+Vessel Name
+Registered Owner
+Manager
+Year
+2021 Feb
+Flag
+Vessel Name
+Registered Owner
+Manager
+Year
+2020 Oct
+Flag
+Vessel Name
+Registered Owner
+Manager
+Year
+2006 Aug
+Flag
+Vessel Name
+Registered Owner
+Manager
+Year
+2006 Aug
+Flag
+Vessel Name
+MIR JALAL PASHAYEV
+Registered Owner
+Manager
+Disclaimer
+ROYAD MAMMADOV current position and history of port calls are received by AIS. Technical specifications, tonnages and management details are derived from VesselFinder database. The data is for informational purposes only and VesselFinder is not responsible for the accuracy and reliability of ROYAD MAMMADOV data.
+Contact us
+Terms of Use
+Privacy Policy

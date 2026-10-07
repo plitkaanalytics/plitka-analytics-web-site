@@ -1,0 +1,31 @@
+URL:         https://ua.news/en/world/zelenskii-zaiaviv-pro-rosiisku-ataku-na-sudna-bilia-bolgariyi
+Кінцевий:    https://ua.news/en/world/zelenskii-zaiaviv-pro-rosiisku-ataku-na-sudna-bilia-bolgariyi
+Заголовок:   Zelenskyy reported a Russian attack on ships near Bulgaria
+Дата публ.:  2026-10-06
+Завантажено: 2026-10-07 08:07 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 104609
+Оригінал:    raw/12-ua.news-zelenskii-zaiaviv-pro-rosiisku-ataku-na-sudna-bilia-bolgariyi.html
+sha256:      9bc76aa7517f6208b2db8ddd50f62e39f56466415218ab5c84d43f765d2715bf
+Витяг:       trafilatura
+
+==============================================================================
+# Zelenskyy reported a Russian attack on ships off the coast of Bulgaria
+
+**In the Black Sea off the coast of Bulgaria, drones attacked two merchant ships—the ALFA WATAN and the ABLE. According to President Volodymyr Zelenskyy, the Ukrainian Armed Forces were not conducting any operations in that area, and Russia was responsible for the attack. One of the ships sank, while the other sustained significant damage.**
+
+
+Two civilian merchant ships were targeted in an attack in the Black Sea near Bulgaria. The incident occurred on October 6 in Bulgaria’s exclusive economic zone. The ships in question are **the ALFA WATAN,** flying the flag of Togo, and **the ABLE,** flying the flag of Palau. According to Reuters, the ALFA WATAN sank after the attack. As of this writing, the crew of that vessel remains missing.
+
+The other vessel, the ABLE, sustained serious damage. A fire broke out on board, and the crew was evacuated. According to media reports, all 18 crew members were rescued, though several sustained injuries. President Volodymyr Zelenskyy stated that the Ukrainian military had not conducted any operations in this area of the Black Sea. “The Ukrainian Armed Forces did not conduct any operations in this area of the sea; this latest tragedy involving civilian vessels is part of Russia’s ongoing attempt to render the western part of the Black Sea completely unfit for navigation,” Zelenskyy said.
+
+According to the president, Ukrainian intelligence and security services are investigating all the circumstances of the attack. At the same time, Zelenskyy stated that following contact between the Ukrainian Navy and Bulgarian authorities, it was determined that the attack was carried out by Russian maritime and aerial drones. This is the version currently being put forward by the Ukrainian side.
+
+However, as of this writing, there has been no independent, definitive confirmation of the drones’ origin. Reuters reports that Bulgarian officials are investigating the incident, and Bulgarian Prime Minister Rumen Radev called the attack a gross violation of international law. The attack occurred in an area far from the Ukrainian coast. According to Reuters, the strike took place approximately 140 nautical miles from Ukraine. This heightens concerns about the safety of civilian shipping in the western part of the Black Sea.
+
+In Bulgaria, rescue and naval forces were deployed to assist the stricken vessels. Border police and aviation units also joined the operation. The crew of the ABLE was evacuated after the vessel sustained damage and a fire broke out on board.
+
+This is not the first such incident in the Black Sea in recent days. The day before, a fire broke out on the civilian vessel Royad Mammadov off the coast of Romania. Ukraine also claimed that it may have been attacked by Russian drones, but Romanian authorities have not confirmed the cause of the fire. Two people died as a result of that incident.
+
+Zelenskyy stated that Ukraine must strengthen cooperation with its partners in the Black Sea and work together to protect civilian shipping. “I have instructed our Armed Forces, the Ministry of Defense of Ukraine, our intelligence agencies, and all our services to cooperate as fully as possible with our partners so that both they and we have greater capabilities to defend ourselves,” the president said. The European Commission also responded to the recent attacks on civilian vessels. European Commission President Ursula von der Leyen called such attacks unacceptable and emphasized the danger they pose to merchant shipping and crews.
+
+Thus, the incident off the coast of Bulgaria has dealt yet another serious blow to the safety of civilian shipping in the Black Sea. The Ukrainian side directly accuses Russia, while the investigation into the circumstances of the attack is ongoing. President Volodymyr Zelenskyy [announced](https://telegram.me/V_Zelenskiy_official/21250) this in an evening address.

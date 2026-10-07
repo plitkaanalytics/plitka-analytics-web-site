@@ -1,0 +1,61 @@
+URL:         https://cnbc.com/2026/10/04/more-tankers-struck-in-gulf-waters-as-iran-reiterates-conditions.html
+Кінцевий:    https://www.cnbc.com/2026/10/04/more-tankers-struck-in-gulf-waters-as-iran-reiterates-conditions.html
+Заголовок:   All U.S. bombers leave UK air base on concerns of suspected terror plots; more tankers struck near Iran in the Middle East
+Дата публ.:  2026-10-04
+Завантажено: 2026-10-07 08:07 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 828961
+Оригінал:    raw/26-cnbc.com-more-tankers-struck-in-gulf-waters-as-iran-reiterates-conditi.html
+sha256:      76a095bb6756306cf294626855372b847bf008788ea821d947137fe3c10a558c
+Витяг:       trafilatura
+
+==============================================================================
+The U.S. Air Force withdrew all of its B-1 bombers stationed at an air base in southern England that is used by American military forces to strike Iran after an investigation discovered a planned terror attack, The Associated Press reported Sunday.
+
+The bombers were redeployed back to their home bases in the United States, AP reported, citing a Pentagon official who was not authorized to discuss sensitive military movements and spoke on condition of anonymity.
+
+Aviation watchers such as the Military Air Tracking Alliance and others have observed dozens of B-52 and B-1 bombers operating out of RAF Fairford since the opening days of the Iran war, AP said. These observers saw many B-1 bombers take off from the base on Sunday.
+
+A dual British-Iranian national was arrested in central London last week on suspicion of plotting a terror attack, following a security incident at RAF Fairford in late September. In total, authorities took six individuals into custody and later released them on bail during the investigation.
+
+British authorities have linked the terror plot to Tehran, although Iran has denied involvement.
+
+RAF Fairford is located 100 miles (160 kilometers) west of London and has been used by American bombers during decades of conflicts in the Middle East.
+
+
+At least two vessels were struck over the weekend in waters near Oman and [Iran](https://www.cnbc.com/id/10000297), the United Kingdom Maritime Trade Operations Centre reported, as Tehran reiterated its position on Sunday that the [Strait of Hormuz](https://www.cnbc.com/2026/09/30/iran-war-strait-hormuz-gulf-oil-fuel.html) would not reopen unless its conditions for ending the war with the U.S. are met. 
+
+On Saturday, the UKMTO, a British maritime security alert service, said it received a report of a [crude oil tanker](https://x.com/UK_MTO/status/2106161186681004388) being hit by an unknown projectile four nautical miles east of Oman. It said [another tanker](https://x.com/UK_MTO/status/2106653808231055818/photo/1) was reported as being similarly struck Sunday in the Strait of Hormuz, causing damage to its engine room.
+
+Attacks on shipping in the strait, through which about a fifth of the world's oil supplies moved before the start of the U.S. and Israel-led war on Feb. 28, have been happening on a regular basis for weeks.
+
+"The Strait of Hormuz will not open until Iran's seven conditions based on the Islamabad Memorandum are met, and Iran will not regulate its national security with tweets from American officials," Iranian state media agency Nour News quoted [Parliament Speaker Mohammad Bagher Ghalibaf](https://nournews.ir/fa/news/349859/%D9%82%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%81-%D9%87%D9%81%D8%AA-%D8%B4%D8%B1%D8%B7-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%85%D8%AD%D9%82%D9%82-%D9%86%D8%B4%D9%88%D8%AF-%D8%AA%D9%86%DA%AF%D9%87-%D9%87%D8%B1%D9%85%D8%B2-%D8%A8%D8%A7%D8%B2-%D9%86%D8%AE%D9%88%D8%A7%D9%87%D8%AF-%D8%B4%D8%AF) as saying Sunday.
+
+President [Donald Trump](https://www.cnbc.com/donald-trump/) and Iranian President Masoud Pezeshkian signed an interim deal in June, known as the Islamabad Memorandum of Understanding, that resulted in a brief hiatus in fighting.
+
+[Tehran's conditions](https://www.cnbc.com/2026/09/26/trump-rejects-irans-conditional-ceasefire-proposal-wsj-reports.html) for allowing ships to proceed freely through the Strait of Hormuz include a halt to U.S. "acts of aggression," an end to the U.S. naval blockade of its ports and economic warfare, and the release of Iranian assets.
+
+A key demand of the U.S. has been that Iran dismantle its nuclear weapons program.
+
+
+Meanwhile, Saudi Arabia's energy infrastructure reportedly came under renewed attacks.
+
+Reuters reported Saturday that Yemen's Iran-aligned Houthis said they had targeted a facility owned by Saudi Arabian oil giant Aramco in the capital Riyadh with ballistic missiles and drones. The group said the attack was in retaliation for Saudi attacks on Yemen's Sanaa and other provinces.
+
+A large plume of smoke and fire rose above the facility, Reuters quoted a witness as saying.
+
+Saudi authorities have not commented on the reported attack. Aramco did not immediately respond to CNBC's emailed request for comment.
+
+If confirmed, it would be the latest escalation in what has effectively become a second front in the Iran war.
+
+
+Some investors say they expect full-scale fighting to resume in the Middle East.
+
+"The situation is fluid and volatile. To me, as we are developing and looking at the situation, it's not a question of if, but when the conflict resumes full force," Bader Al-Saif, founding president of Al-Saif Consulting, told CNBC's Access Middle East show on Friday.
+
+The ongoing attacks and prospect of a further escalation have driven energy prices higher in recent weeks, raising inflation expectations globally and putting upward pressure on [government borrowing costs](https://www.cnbc.com/2026/10/02/treasury-yields-bonds-nonfarm-payrolls.html).
+
+Reports that [the U.S. is sending a third aircraft carrier strike group](https://www.cnbc.com/2026/10/02/us-iran-war-trump-hormuz-.html) to the Middle East, along with an amphibious force carrying 2,000 Marines, pushed crude oil prices higher on Thursday. But prices [edged lower](https://www.cnbc.com/2026/10/02/oil-wti-brent-diesel-stock-release-europe.html) Friday, after the Group of Seven nations announced the release of diesel and crude stocks to ease the burden on consumers.
+
+[Brent crude](https://www.cnbc.com/quotes/@LCO.1/) futures, the international benchmark, lost 6 cents to close at $102.25 per barrel, while U.S. [West Texas Intermediate](https://www.cnbc.com/quotes/@CL.1/) crude shed $1.76 to settle at $91.11 per barrel.
+
+— *The Associated Press contributed to this report.*

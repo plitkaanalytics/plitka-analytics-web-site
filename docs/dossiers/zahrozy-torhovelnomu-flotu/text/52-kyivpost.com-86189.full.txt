@@ -1,0 +1,300 @@
+URL:         https://www.kyivpost.com/post/86189
+Кінцевий:    https://www.kyivpost.com/post/86189
+Заголовок:   Russian Drones Sink Turkish-Owned Grain Ship Amid Black Sea Security Push
+Дата публ.:  2026-10-06
+Завантажено: 2026-10-07 09:20 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 116310
+Оригінал:    raw/52-kyivpost.com-86189.html
+sha256:      179094b36c680645e2408cf581c6494941eb064923182bc6243efdb32db27bf1
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 28
+==============================================================================
+Russian Drones Sink Turkish-Owned Grain Ship in Black Sea
+Russian Drones Sink Turkish-Owned Grain Ship as Ankara Pushes Black Sea Security Deal
+Russian drones sank the Turkish-owned Royad Mammadov in the Black Sea, killing two crew members. The attack comes as Turkey and the UN push for a new maritime security arrangement. Ankara has also discussed Black Sea security with Azerbaijan.
+UN Secretary-General Antonio Guterres walks to the lecturn to hold a joint press conference with the Turkish National Defense Minister at the Joint Coordination Center established in Istanbul for the safe shipment of grain products from the Black Sea region in Istanbul on Aug. 20, 2022. (Photo by Yasin AKGUL / AFP)
+Oleksiy Honcharenko had argued Ukraine is losing the war and proposed step-by-step deals with Moscow, including a possible UN-controlled buffer zone in Donbas.
+To suggest a correction or clarification, write to us here
+Please leave your suggestions or corrections here
+Kyiv Post is Ukraine’s first and oldest English news organization, reporting since 1995. Its international reach – 97% of readers are outside of Ukraine – make it truly Ukraine’s global voice.
+646 Drones Swarm Russia as Fires Hit Europe’s Largest Tank Farm, Oil Facilities
+Three Russian Officers Linked to Missile Strikes on Ukraine Killed in Tu-95 Crash
+Putin Signs Decree Increasing Russian Army: Over 2.4 Million, Including 1.5 Million Active-Duty Personnel
+Lavrov Says Turkey Must Guarantee S-400 Systems Won’t Reach Ukraine
+Erdoğan Backs Peace Upholding Ukraine’s Territorial Integrity
+‘The World Is Bigger Than Five’ – Turkey’s Erdogan Calls for Abolition of UN Veto
+Ukraine, Russia, Hard to Reconcile on Black Sea, Turkish Minister Says
+Why Russia Wants Western Embassies Out of Kyiv – and Why They’re Staying
+Trump Calls Russia’s Suspected Plague Case a ‘Big Problem’ as Nearly 200 Reportedly Monitored
+Sybiha Condemns Russian Drone Strike on Turkish-Owned Vessel Carrying Corn
+Russian Drone Debris Falls Across Kyiv, Setting Cars Ablaze
+Russian Strike Hits Zaporizhzhia Apartment Building, Injuring Two
+Russia says it intercepted 646 drones overnight as fires were reported near major oil and chemical facilities in Volgograd and a huge tank farm in Samara.
+Web links to Kyiv Post material are allowed provided that they contain a hyperlink to the
+stories and only a brief extract (not more than 10 percent) of the text.
+Online media registration number: R40-05383
+All materials, including photographs, contained on this site are protected by copyright law and
+not be reproduced without the prior written permission of BIZNESGRUPP TOV at
+All Interfax-Ukraine news agency stories cannot be reproduced or distributed in any form without
+written permission of Interfax-Ukraine.
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Russian Drones Sink Turkish-Owned Grain Ship in Black Sea
+War
+Ukraine
+World
+North America
+Latin America
+Europe
+Eastern Europe
+Middle East
+Africa
+Asia
+Economy
+Business
+Technology
+Finance
+Energy
+Agriculture
+Videos
+Podcasts
+Analysis
+Corruption Watch
+Opinions
+Culture
+Reviews
+History
+Sports
+Classifieds
+Spotlight
+Cartoons
+War
+Ukraine
+World
+Economy
+Videos
+Analysis
+Opinions
+Classifieds
+Spotlight
+EN
+UK
+EN
+UK
+War
+Ukraine
+World
+North America
+Europe
+Eastern Europe
+Middle East
+Asia
+Economy
+Business
+Technology
+Finance
+Energy
+Agriculture
+Videos
+Analysis
+Opinions
+Classifieds
+Spotlight
+Home
+Ukraine
+Russian Drones Sink Turkish-Owned Grain Ship as Ankara Pushes Black Sea Security Deal
+Turkey
+Azerbaijan
+UN
+Russian Drones Sink Turkish-Owned Grain Ship as Ankara Pushes Black Sea Security Deal
+In brief:
+Russian drones sank the Turkish-owned Royad Mammadov in the Black Sea, killing two crew members. The attack comes as Turkey and the UN push for a new maritime security arrangement. Ankara has also discussed Black Sea security with Azerbaijan.
+by
+Kyiv Post
+|
+                    
+                    Oct. 6, 2026, 5:16 am
+Make us preferred on Google
+Flip
+Share
+Facebook
+X (Twitter)
+LinkedIn
+Bluesky
+Email
+Copy
+Copied
+UN Secretary-General Antonio Guterres walks to the lecturn to hold a joint press conference with the Turkish National Defense Minister at the Joint Coordination Center established in Istanbul for the safe shipment of grain products from the Black Sea region in Istanbul on Aug. 20, 2022. (Photo by Yasin AKGUL / AFP)
+Content
+Share
+Facebook
+X (Twitter)
+LinkedIn
+Bluesky
+Email
+Copy
+Copied
+Flip
+Make us preferred on Google
+Russian drones struck and sank a Turkish-owned grain ship in the Black Sea on Monday, killing two crew members aboard a vessel named after an Azerbaijani serviceman killed in the 2020 Karabakh war.
+The Royad Mammadov, carrying corn from Ukraine’s Izmail port toward Ravenna, Italy, was hit by two Russian drones in neutral waters, President Volodymyr Zelensky said.
+JOIN US ON TELEGRAM
+Follow our coverage of the war on the
+@Kyivpost_official
+.
+“A horrific strike by two Russian drones on a civilian vessel in neutral waters carrying corn,” Zelensky
+wrote on X.
+Azerbaijani and Indian nationals were aboard the vessel. Zelensky said the captain was killed, while the fate of another crew member was initially unknown. Eleven sailors were rescued, one of them injured.
+Romanian authorities later confirmed that two people had died and 11 crew members were rescued after the vessel caught fire and sank in Romania’s exclusive economic zone, roughly 30 nautical miles south of Sfântu Gheorghe.
+Advertisement
+Three crew members were injured and eight were unharmed, according to Romanian maritime officials, with the injured evacuated by helicopter.
+Ukrainian Foreign Minister Andrii Sybiha also
+condemned
+the Russian attack on the Turkish civilian vessel and offered condolences over the deaths. Ukraine’s Foreign Ministry published his statement Monday as Kyiv called for greater international pressure over attacks on civilian navigation.
+The Royad Mammadov was named after an Azerbaijani serviceman killed during the 2020 war over Karabakh.
+Other Topics of Interest
+European Solidarity Expels MP Honcharenko Over War-Ending Proposals
+Oleksiy Honcharenko had argued Ukraine is losing the war and proposed step-by-step deals with Moscow, including a possible UN-controlled buffer zone in Donbas.
+The ship is linked to Turkey’s Palmali shipping group, founded by Azerbaijani-born businessman Mübariz Mansimov.
+Turkey has repeatedly voiced alarm over attacks on commercial shipping in the Black Sea.
+Turkey, UN push for safer Black Sea corridor
+The attack also comes as Turkey and the United Nations are seeking to revive talks on maritime security in the Black Sea, including proposals for a protected commercial shipping corridor.
+Ankara has pushed Moscow and Kyiv toward arrangements aimed at halting attacks on civilian vessels and ports, drawing on the model of the 2022 Black Sea Grain Initiative brokered by Turkey and the UN.
+Advertisement
+That agreement allowed millions of tons of Ukrainian agricultural products to reach global markets before Russia withdrew from the deal in 2023.
+Turkey has since urged both sides to restore safer navigation and has presented proposals aimed at reducing attacks on commercial traffic and rebuilding confidence in Black Sea shipping.
+Turkish Foreign Minister Hakan Fidan
+traveled
+to Baku on Sept. 15, where he held talks with Azerbaijani President Ilham Aliyev and Foreign Minister Jeyhun Bayramov. The Russo-Ukrainian War and the deteriorating security situation in the Black Sea were among the issues discussed.
+Speaking alongside Bayramov in Baku, Fidan warned that mounting attacks on civilian vessels were threatening lives, property and freedom of navigation, noting that both Turkish and Azerbaijani sailors had already been killed. He said Ankara was continuing talks with the parties and working on proposals that specifically prioritize the Black Sea.
+The timing of the visit underscored Ankara’s effort to build regional backing for renewed Black Sea diplomacy, although neither Turkey nor Azerbaijan publicly said that Fidan had asked Baku to formally join the initiative. It also remained unclear whether Azerbaijan had endorsed the proposed arrangement.
+Advertisement
+Turkey’s current effort
+, pursued alongside the United Nations, is aimed at reducing attacks on civilian shipping and establishing safer commercial navigation – an initiative that echoes the Black Sea Grain Initiative Ankara and the UN brokered in 2022.
+Zelensky said Ukraine has repeatedly offered “concrete steps to de-escalate the situation and ensure security in the Black Sea,” while third countries have also put forward proposals.
+“But Russia consistently chooses terror and sinking civilian vessels instead of normal maritime navigation,” he said. “Pressure is needed to restore global food security.”
+The sinking of the Royad Mammadov adds new urgency to those efforts, particularly for Turkey as Turkish-owned vessels and seafarers are increasingly exposed to attacks in the expanding Black Sea drone war.
+To suggest a correction or clarification, write to us here
+You can also highlight the text and press
+Ctrl + Enter
+Contact Us
+Please leave your suggestions or corrections here
+Cancel
+Send
+Kyiv Post
+Kyiv Post is Ukraine’s first and oldest English news organization, reporting since 1995. Its international reach – 97% of readers are outside of Ukraine – make it truly Ukraine’s global voice.
+POPULAR
+646 Drones Swarm Russia as Fires Hit Europe’s Largest Tank Farm, Oil Facilities
+By
+                                                                                        Julia Struck-Feshchenko
+Updated: Oct. 2, 2026
+Three Russian Officers Linked to Missile Strikes on Ukraine Killed in Tu-95 Crash
+By
+                                                                                        Kyiv Post
+21h ago
+Putin Signs Decree Increasing Russian Army: Over 2.4 Million, Including 1.5 Million Active-Duty Personnel
+By
+                                                                                        Kyiv Post
+Sept. 28, 2026
+Lavrov Says Turkey Must Guarantee S-400 Systems Won’t Reach Ukraine
+By
+                                                                                        Kyiv Post
+Sept. 28, 2026
+More on Turkey
+War in Ukraine
+Lavrov Says Turkey Must Guarantee S-400 Systems Won’t Reach Ukraine
+By
+                    Kyiv Post
+Sept. 28, 2026
+Ukraine
+Erdoğan Backs Peace Upholding Ukraine’s Territorial Integrity
+By
+                    Kyiv Post
+Sept. 22, 2026
+UN
+‘The World Is Bigger Than Five’ – Turkey’s Erdogan Calls for Abolition of UN Veto
+By
+                    Kyiv Post
+Sept. 22, 2026
+Ukraine
+Ukraine, Russia, Hard to Reconcile on Black Sea, Turkish Minister Says
+By
+                    AFP
+Sept. 20, 2026
+Read Next
+Ukraine
+Why Russia Wants Western Embassies Out of Kyiv – and Why They’re Staying
+By
+                    Kyiv Post
+1h ago
+US
+Trump Calls Russia’s Suspected Plague Case a ‘Big Problem’ as Nearly 200 Reportedly Monitored
+By
+                    Kyiv Post
+1h ago
+Ukraine
+European Solidarity Expels MP Honcharenko Over War-Ending Proposals
+By
+                    Kyiv Post
+8h ago
+Ukraine
+Sybiha Condemns Russian Drone Strike on Turkish-Owned Vessel Carrying Corn
+By
+                    Kyiv Post
+9h ago
+« Previous
+Russian Drone Debris Falls Across Kyiv, Setting Cars Ablaze
+Next »
+Russian Strike Hits Zaporizhzhia Apartment Building, Injuring Two
+POPULAR
+646 Drones Swarm Russia as Fires Hit Europe’s Largest Tank Farm, Oil Facilities
+Russia says it intercepted 646 drones overnight as fires were reported near major oil and chemical facilities in Volgograd and a huge tank farm in Samara.
+By
+                                                                                                    Julia Struck-Feshchenko
+Oct. 2, 2026
+Three Russian Officers Linked to Missile Strikes on Ukraine Killed in Tu-95 Crash
+By
+                                                                                        Kyiv Post
+21h ago
+Putin Signs Decree Increasing Russian Army: Over 2.4 Million, Including 1.5 Million Active-Duty Personnel
+By
+                                                                                        Kyiv Post
+Sept. 28, 2026
+back to top
+Menu
+Ukraine
+World
+Business
+Economy
+Classifieds
+Spotlight
+PDF Archive
+Multimedia
+Video
+Podcasts
+Cartoons
+About
+About Us
+Contact Us
+Advertising
+Newsletter
+Policies
+Privacy Policy
+Cookie Policy
+Terms & Conditions
+Web links to Kyiv Post material are allowed provided that they contain a hyperlink to the
+                            stories and only a brief extract (not more than 10 percent) of the text.
+Online media registration number: R40-05383
+© 1995-2026 BISNESGROUPP LLC
+All materials, including photographs, contained on this site are protected by copyright law and
+                    may
+                    not be reproduced without the prior written permission of BIZNESGRUPP TOV at
+[email protected]
+.
+All Interfax-Ukraine news agency stories cannot be reproduced or distributed in any form without
+                    written permission of Interfax-Ukraine.

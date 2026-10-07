@@ -1,0 +1,30 @@
+URL:         https://ukdefencejournal.org.uk/drone-boats-fight-each-other-at-sea-for-the-first-time/
+Кінцевий:    https://ukdefencejournal.org.uk/drone-boats-fight-each-other-at-sea-for-the-first-time/
+Заголовок:   Drone boats fight each other at sea for the first time
+Дата публ.:  2026-10-07
+Завантажено: 2026-10-07 09:20 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 115333
+Оригінал:    raw/77-ukdefencejournal.org.uk-drone-boats-fight-each-other-at-sea-for-the-fi.html
+sha256:      8b87c4c442cd5930a7637c58730e043cbec4ef91a9ee4bb8e83b3aee6119f36a
+Витяг:       trafilatura
+
+==============================================================================
+#### A Ukrainian uncrewed surface vessel armed with a mounted gun destroyed a Russian one-way attack boat in the Black Sea last month, in what is assessed as the first direct engagement between drone boats from the two sides, [according to British Defence Intelligence](https://x.com/DefenceHQ).
+
+In its daily update on Tuesday, Defence Intelligence said: *“On 12 September 2026 Ukraine successfully interdicted a Russian one-way attack uncrewed surface vehicle (USV) in the Black Sea.** Ukrainian forces employed a Sargan-3000 USV with a mounted gun to destroy the Russian craft before it could pose a threat to Ukrainian sea lines of communication. It is highly unlikely the Russian USV was armed with any counter-drone capability. This event almost certainly marks the first time a Russian and Ukrainian USV have engaged each other directly.”*
+
+The update went on: *“Ukraine has innovatively combined weaponry in its USV fleet. In early 2024, Ukraine began to equip some of its Magura USV’s with air to air missiles, which it used to successfully shoot down a Su-30 Russian fighter and a Russian military helicopter in 2025. Ukraine’s latest iteration, displayed on Ukrainian Independence Day in Kyiv on 24 August 2026 is a Magura MV11 designed to intercept Russian uncrewed aerial systems.”*
+
+Those qualifiers are not loose language, and carry defined meanings in British intelligence reporting. Under the probability yardstick Defence Intelligence publishes alongside its updates, highly unlikely means a five to twenty per cent chance, while almost certainly, the term applied to this being the first such engagement, means ninety-five per cent or more.
+
+The Magura began as a means of attacking Russian warships at Sevastopol and Novorossiysk, and did so effectively enough to push much of the Black Sea Fleet out of Crimea. It then became a launcher for air-to-air missiles, achieving shootdowns that had no precedent anywhere. It is now being built to intercept drones, which is three roles in under three years.
+
+Russia has meanwhile been fielding one-way attack boats of its own, and the September engagement is where the two developments met. A drone boat that can find and destroy another drone boat is a different proposition from one built to ram a frigate, and it means the Black Sea now has an uncrewed fight going on inside the crewed one.
+
+Brimstone. The perfect weapon for a use to counter other usv and helicopters? Problem as i see it is one use finding another, usv at a useful range, given the low aspect of them.
+
+Perhaps the gunfight suggests a very close engagement.
+
+A Martlet armed Schiebel might fit the bill here.
+
+AA

@@ -1,0 +1,109 @@
+URL:         https://news.postimees.ee/8556628/russian-border-guard-detains-cargo-ship-en-route-to-port-of-sillamae
+Кінцевий:    https://news.postimees.ee/8556628/russian-border-guard-detains-cargo-ship-en-route-to-port-of-sillamae
+Заголовок:   Russian border guard detains cargo ship en route to Port of Sillamäe
+Дата публ.:  2026-10-01
+Завантажено: 2026-10-07 09:20 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 160345
+Оригінал:    raw/74-news.postimees.ee-russian-border-guard-detains-cargo-ship-en-route-to-.html
+sha256:      0afde827fd4d2ed6d9d122598e6fadbafa16e0500de0c8e51481c18d55e53185
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 4
+==============================================================================
+Russian border guard detains cargo ship en route to Port of Sillamäe
+Updated 1st October 2026, 20:16
+The route of the cargo ship Västerbotten before its detention.
+Add Postimees as preferred news source
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Russian border guard detains cargo ship en route to Port of Sillamäe
+Skip to footer
+We, 7.10.2026
+Weather
+Customer Care
+Subscriptions
+Announcements
+Advertising
+Cookie Settings
+Privacy Policy
+RUS
+EST
+News
+Arvamus
+Poliitika
+Maailm
+Ukraina sõda
+Majandus
+Sport
+Elu24
+The Baltic Sentinel
+Hint
+POSTIMEES NEWS
+Russian border guard detains cargo ship en route to Port of Sillamäe
+Andres Einmann
+Eesti uudiste päevatoimetaja
+1st October 2026, 20:32
+Updated 1st October 2026, 20:16
+Photo:
+Madis Veltman
+On Thursday, the Russian border guard detained the cargo ship Västerbotten in the Gulf of Finland as it was heading to the Port of Sillamäe and conducted an inspection of
+the vessel.
+Although the Cyprus-flagged Västerbotten was allowed to continue its journey after the inspection, the authorities asked the ship to wait a little before continuing its voyage, and the vessel remained at anchor in the Gulf of Finland for several more hours. On Thursday evening at 6:30 p.m., according to the maritime portal Marinetraffic's application, the Västerbotten had started its engines, weighed anchor and was moving toward the Port of Sillamäe. At 8:15 p.m., the ship had reached the Port of Sillamäe.
+Are Piel, head of the Estonian Transport Administration's vessel traffic service department, said that as far as the administration is aware, the Russian authorities stopped the ship after it entered Russian territorial waters.
+«The ship was anchored, an inspection was carried out and then the ship was allowed to continue its voyage. The Transport Administration has no official information about the exact reasons for the inspection by the Russian authorities or the content of the procedure,» Piel said.
+Before the intervention by the Russian authorities, the Transport Administration had no information that any supervision or inspection procedure had been initiated against the ship.
+At the time of the detention, the 119.26-meter-long and 16.54-meter-wide Västerbotten was at anchor in the Gulf of Finland, a few dozen kilometers south of the Russian-owned island of Gogland. According to Marinetraffic, the Västerbotten began its journey from the port of Mönsterås in Sweden.
+According to the UN Convention on the Law of the Sea, ships of all states have the right of innocent passage through the territorial sea of another state. At the same time, the sovereignty of a coastal state extends to its territorial sea, and the coastal state has the right to exercise supervision there and take necessary measures to protect its security.
+The convention provides that a coastal state may, in its territorial sea, take the necessary steps to control passage there. Such incidents are not common in the Gulf of Finland, but the right of a coastal state to intervene in its territorial sea stems from international maritime law.
+The route of the cargo ship Västerbotten before its detention.
+Foto:
+MarineTraffic
+There is an agreement between Estonia, Russia and Finland according to which ships entering and leaving the Port of Sillamäe pass through the territorial sea of the Russian Federation, as this is safer for large ships than navigating between the shoals in Estonia's maritime area.
+Last May, the Russian border guard detained under similar circumstances the Liberian-flagged oil tanker Green Admire, which had departed from the Port of Sillamäe. The Russians allowed the ship to continue its journey two days later.
+To avoid such situations, the Transport Administration's vessel traffic service department, together with pilots, decided last spring to henceforth guide ships sailing to and from Sillamäe through Estonian territorial waters.
+Add Postimees as preferred news source
+Comments
+Terms
+russia
+vessel
+Sillamäe
+Today's editor
+Andres Einmann
+andres.einmann@postimees.ee
++372 666 2072
+Contact
+Hint:
+507 3066
+,
+vihje@postimees.ee
+Paper subscription:
+666 2525
+Editor's secretary:
+666 2202
+,
+sekretar@postimees.ee
+Advertising
+Order advertising:
+veebireklaam@postimees.ee
+Online ads:
+666 2230
+Print ads:
+666 2445
+Classifieds:
+666 2171
+App
+Technical feedback:
+tehnoloogia@postimeesgrupp.ee
+Privacy Notice
+Privacy Policy
+Terms and conditions
+Contact
+People
+Advertising
+Subscriptions
+Announcements
+Newsletter

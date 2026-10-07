@@ -1,0 +1,32 @@
+URL:         https://kyivindependent.com/russian-drones-strike-cargo-ship-in-black-sea-kill-captain-zelensky-says/
+Кінцевий:    https://kyivindependent.com/russian-drones-strike-cargo-ship-in-black-sea-kill-captain-zelensky-says/
+Заголовок:   Russian drones strike cargo ship in Black Sea, kill captain, Zelensky says
+Дата публ.:  2026-10-05
+Завантажено: 2026-10-07 08:03 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 255552
+Оригінал:    raw/02-kyivindependent.com-russian-drones-strike-cargo-ship-in-black-sea-kill.html
+sha256:      39d3c6cf7885570ec4f5c545e44f5203205a5024c3df7e00812106c24d87b45b
+Витяг:       trafilatura
+
+==============================================================================
+A cargo ship caught fire in the Black Sea off the Romanian coast on Oct. 5 after a Russian drone strike, killing two, injuring at least 11 more, and prompting a large search-and-rescue operation.
+
+After Romanian media and authorities initially reported a fire on the grain ship Royad Mammadov, Ukrainian President [Volodymyr Zelensky confirmed](https://t.me/V_Zelenskiy_official/21218) that a civilian ship was attacked by two Russian drones, adding that it was a Turkish-owned ship transporting corn.
+
+According to Zelensky, the ship was crewed by citizens of Azerbaijan and India. While the Russian strike killed the vessel's captain, Zelensky said. Romania's [interior ministry](https://www.mai.gov.ro/structurile-ministerului-afacerilor-interne-misiune-complexa-pentru-salvarea-echipajului-unei-nave-care-s-a-scufundat-in-marea-neagra/?utm_source=chatgpt.com) said that two people were killed in the attack.
+
+At the time of the attack, the ship was sailing outside [Romania's](https://kyivindependent.com/tag/romania/) territorial waters but within the country's exclusive economic zone, about 20 nautical miles (37 kilometers) from the Romanian coast and roughly 9 nautical miles (16.6 kilometers) southeast of the Pescarus offshore oil platform operated by OMV Petrom, according to [Romanian media](https://www.digi24.ro/stiri/actualitate/o-nava-ar-fi-fost-lovita-de-o-drona-in-apropierea-neptun-deep-vasul-ar-fi-plecat-din-portul-ismail-3978043) outlet Digi24.ro. First reports had placed the incident near the Neptun Deep gas development.
+
+"Ukraine has repeatedly proposed concrete steps to de-escalate and guarantee security in the Black Sea. There have also been corresponding proposals from third countries," Zelensky said.
+
+"But Russia consistently chooses terror and sinking civilian ships instead of normal navigation. Pressure is needed to restore global food security. And everyone who is truly interested in this should help."
+
+[Romania's Interior Ministry later said 11 crew members](https://www.mai.gov.ro/structurile-ministerului-afacerilor-interne-misiune-complexa-pentru-salvarea-echipajului-unei-nave-care-s-a-scufundat-in-marea-neagra/) had been rescued. The vessel was sinking, while injured survivors were evacuated for emergency medical treatment. Romanian authorities had not provided details about the cause of the fire.
+
+The incident is the latest in a string of Russian attacks that has crippled civilian and commercial shipping in the Black Sea.
+
+Ukraine's maritime corridor, opened in 2023 after Russia withdrew from the U.N.-backed grain deal, has been largely closed again after a spate of Russian attacks, both on port infrastructure and ships themselves, over summer 2026.
+
+The International Maritime Organization has warned that the war poses a "serious and immediate threat" to crews and vessels operating in the Black Sea and Sea of Azov.
+
+The latest incident comes two days after a Russian strike on a [Liberian-flagged cargo ship](https://www.reuters.com/world/russia-hits-liberian-flagged-ship-ukraines-odesa-port-kills-one-2026-10-03/) in Ukraine's [Odesa region](https://kyivindependent.com/tag/odesa-oblast/) killed one person and injured three, according to Ukrainian port authorities cited by Reuters.

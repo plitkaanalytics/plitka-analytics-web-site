@@ -1,0 +1,31 @@
+URL:         https://maritime-executive.com/article/tanker-catches-fire-spills-oil-off-russian-resort-town-of-sochi
+Кінцевий:    https://maritime-executive.com/article/tanker-catches-fire-spills-oil-off-russian-resort-town-of-sochi
+Заголовок:   Tanker Catches Fire, Spills Oil off Russian Resort Town of Sochi
+Дата публ.:  2026-10-06
+Завантажено: 2026-10-07 09:20 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 139561
+Оригінал:    raw/70-maritime-executive.com-tanker-catches-fire-spills-oil-off-russian-reso.html
+sha256:      f49da93577ae70b36f87b84a3a80ec91069f54ebf2f9c6bc7985cde6878ff586
+Витяг:       trafilatura
+
+==============================================================================
+# Tanker Catches Fire, Spills Oil off Russian Resort Town of Sochi
+
+A large tanker has caught fire off the coast of the resort city of Sochi, Russia, according to local media accounts and satellite sensing data.
+
+The vessel is readily visible from shore, and multiple videos depicting the fire have appeard on Russian social media channels. The bystander-image sequence begins with a substantial fire centered on cargo tanks amidships, followed by obvious signs of burning oil spreading aft down the starboard side. Later videos and photos show a large pool of burning oil on the water aft of the vessel and a towering column of smoke.
+
+Initial reports indicated that the vessel could be the *Aframax Rio,* previously sanctioned by Ukraine for alleged involvement in Russian oil exports. Marine traffic tracking sites last spotted *Aframax Rio *on Monday at a position just off the coast of Sirius, a small coastal town to the southeast of Sochi. NASA FIRMS infrared sensing data shows a large, intense heat signature to the west of Sochi, to the northwest of *Aframax Rio's* last detected position. 
+
+Based on satellite imaging, TankerTrackers.com initially identified the vessel as the Russian-flagged tanker *Sphere *(IMO 9323974, ex names *Marble, Creature, Marta 1, LR2 Eternity*), then issued a [correction](https://x.com/TankerTrackers/status/2107652685948391482) and identified the vessel as *Aframax Rio. *
+
+Kl 18 på tisdagskvällen började plötsligt liberianskflaggade oljetankern Aframax rio att brinna på redden utanför ryska hamnstaden Sotji. Sånt som händer om man tillhör den ryska skuggflottan och skulle frakta olja från Novorossijsk till Indien. Branden bara tilltar. https://t.co/S25aR23wmE
+
+— Fria Ukraina (@FriaUkraina)[October 6, 2026](https://x.com/FriaUkraina/status/2107524286449860832?ref_src=twsrc%5Etfw)
+
+
+Russian war reporting channel ExileNova+ indicates that there were no air raid sirens and no sounds of explosions prior to the fire. Ukraine has not claimed responsibility for an attack; it is as-yet unclear whether the casualty was accidental or combat-related.
+
+that matters most
+
+Get the latest maritime news delivered to your inbox daily.
