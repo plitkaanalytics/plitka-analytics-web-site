@@ -1,0 +1,38 @@
+URL:         https://www.pravda.com.ua/eng/news/2026/08/07/8047786/
+Кінцевий:    https://www.pravda.com.ua/eng/news/2026/08/07/8047786/
+Заголовок:   National Bank of Ukraine estimates losses from halt in maritime exports at billions of dollars
+Дата публ.:  2026-08-07
+Завантажено: 2026-10-07 10:09 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 158771
+Оригінал:    raw/142-pravda.com.ua-8047786.html
+sha256:      2cf919f1cdad5623a03501be63619d585064a71ee42d88d8884490d678b02fd8
+Витяг:       trafilatura
+
+==============================================================================
+# National Bank of Ukraine estimates losses from halt in maritime exports at billions of dollars
+
+Direct losses from lost export revenue in the second half of 2026, resulting from the suspension of maritime exports from Ukraine, will exceed US$2 billion.
+
+	**Source:** National Bank of Ukraine (NBU) [inflation report](https://bank.gov.ua/admin_uploads/article/IR_2026-Q3.pdf?v=19)
+
+	**Quote:** "As in previous phases of the blockade, Ukraine is redirecting cargo flows to alternative routes: rail, road transport and Danube ports."
+
+	**Details:** Meanwhile, the capacity of these routes is insufficient: while Ukraine typically exported 4-4.5 million tonnes of agricultural produce per month, alternative routes can only handle 2.5 million tonnes per month.
+
+This applies to the August-October period, as water levels on the Danube have fallen due to drought, limiting its capacity. Export volumes will increase from November, the NBU says.
+
+Redirecting logistics will increase storage and transport costs for the agricultural sector; direct revenue losses are expected to reach US$2 billion.
+
+Meanwhile, the NBU expects these volumes to be exported during the first half of 2027, offsetting the negative effect.
+
+"Thanks to well-developed alternative routes and farmers' experience, the situation remains more manageable than during the blockade of 2022," the NBU concludes.
+
+	**Background:**
+
+- The movement of vessels into Ukraine's Black Sea ports was suspended on 23 July due to the threat of Russian attacks. This followed weeks of aerial attacks on Ukraine's Black Sea ports.
+- 
+		
+			Due to Russian pressure on Ukraine's maritime corridor, Ukrainian traders have begun [redirecting some of their wheat and other cargo towards the Danube](https://www.pravda.com.ua/eng/news/2026/07/27/8046137/), although most exporters are not prepared to compensate for the loss of the sea route at any cost and are taking a wait-and-see approach
+
+
+Subscribe onPatreonto back our journalism long-term.

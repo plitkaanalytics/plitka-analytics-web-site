@@ -1,0 +1,54 @@
+URL:         https://en.cfts.org.ua/articles/war_related_risks_and_more_five_questions_about_marine_insurance_in_the_black_sea
+Кінцевий:    https://en.cfts.org.ua/articles/war_related_risks_and_more_five_questions_about_marine_insurance_in_the_black_sea
+Заголовок:   War-Related Risks and More: Five Questions About Marine Insurance in the Black Sea
+Дата публ.:  2026-08-28
+Завантажено: 2026-10-07 10:13 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 35893
+Оригінал:    raw/152-en.cfts.org.ua-war_related_risks_and_more_five_questions_about_marine_.html
+sha256:      47b9cfb457e8167e9729ced1aeba6d8751c8f12fef7fe7f6b9e8b82eb25e3ef1
+Витяг:       trafilatura
+
+==============================================================================
+*Following the passage of the fourth ship through the temporary corridor established by Ukraine, the next step in unblocking Ukrainian Black Sea ports is to ensure that ships can not only leave these ports but can also enter them safely to transport export goods. The Lloyd's Market Association and the so-called P&I Clubs played a significant role in directly influencing shipowners' sentiments and the possibility of chartering civilian vessels. The former added all the territorial and internal waters of Ukraine to its list of areas with an elevated likelihood of war, piracy, or terrorism (JWC Listed Areas) last year, while the latter increased premiums for calls at Ukrainian ports based on these recommendations.*
+
+*In an interview with the CFTS portal, lawyer Artem Volkov, head of the Maritime Law Department at the ANK law firm, discusses ways of influencing P&I Clubs not only to fully resume shipping from Ukrainian ports but also to limit the export opportunities of the Russian economy.*
+
+**What is P&I insurance?**
+
+P&I stands for protection and indemnity. This type of insurance is mandatory in every port in the world and applies not only to merchant ships, but also to almost any watercraft—boats, yachts, and even jet skis.
+
+To better understand the principle of marine insurance, we can draw an analogy with Compulsory Motor Third Party Liability (CMTPL) insurance. This type of insurance aims to provide guaranteed coverage for the life and health of third parties: the crew, passengers, and people on the shore. The second group is cargo insurance: cargo damage, cargo loss, etc. The third group covers risks related to marine pollution. The list also includes risks related to damage to port and hydraulic structures.
+
+The International Group of P&I Clubs is an association of more than a dozen P&I Clubs that collectively provide liability cover for 90-95% of the world's ocean-going tonnage, and it is considered the most prestigious in the insurance world. It is financed by annual contributions from shipowners based on insurance claims statistics. In addition to the International Group of P&I Clubs, other clubs offer less expensive services, as well as individual insurance companies that also provide liability coverage for shipowners. It is up to the shipowner to decide where to purchase insurance.
+
+There is also H&M (Hull & Machinery) insurance. Continuing the analogy with cars, H&M insurance is more like the well-known automobile hull insurance. The list of covered risks is much longer and includes insurance of hull, machinery, and mechanisms, including total loss of a vessel. This insurance is often taken out together with P&I, but unlike P&I, it is not compulsory in all cases.
+
+Unlike P&I, H&M insurance for vessels intending to sail into a war zone where there is a risk of damage significantly increases the risks for such an insurer. As a result, some insurers either refuse to provide such cover or charge high premiums, making the voyage economically unviable.
+
+**What has changed since the start of the full-scale war?**
+
+On 15 February last year, the Joint War Committee of the Lloyd's Market Association (LMA) added Ukrainian and Russian territorial waters in the Black Sea and the Sea of Azov to its list of areas with an elevated likelihood of war, piracy, or terrorism (JWC Listed Areas). The LMA made further changes to the JWC Listed Areas on 4 April 2022, when it added all the territorial and internal waters of Ukraine (i.e., the Danube - Black Sea deep-water fairway, the navigable rivers Danube, Dnipro, and Southern Bug, the Dnieper-Bug Estuary canal, etc.), as well as the entire country of Russia.
+
+Since the association has great authority in the global markets, all insurance companies follow its recommendations. The same is true for P&I insurance. A vessel can sail anywhere without violating class restrictions, including war zones. We are talking not only about threats posed by military operations, but also those posed by piracy, as is the case in the waters off the coast of Somalia, for example.
+
+**Does this mean that ships cannot enter such areas?**
+
+They can, and there are two ways to do it. The first option is to discuss it honestly with the insurance company and, if it agrees, an additional insurance premium will have to be paid. For example, if a vessel is going to the ports of Greater Odesa, the additional premium is about 0.75% of the value of the vessel. If it is going to a port in the Danube region, which was considered safer until recently, it is 0.3-0.5% of the value of the vessel. At the same time, the insurance coverage of vessels entering such zones is limited in time, as the situation is constantly changing. When entering a high-risk area (HRA), the shipowner signs a supplementary agreement to the basic contract, which specifies the conditions of entry into the HRA (the vessel, the period of validity, the period of stay in the danger zone, and other conditions) and the amount of a one-time insurance premium for entering the HRA. If the vessel is unable to leave the HRA within the specified period, it will be necessary to renegotiate with the insurers.
+
+The second way is to not coordinate anything. In this case, however, if an insured event occurs in that area, the insurance company will not cover it. In other words, such a vessel goes there at its own risk. This is how the so-called Russian "shadow fleet" of ships involved in the illegal transportation of crude oil, petroleum products, and other cargoes usually operate: they are already aware of the high risks. Moreover, high "war" premiums only increase the incentives to create such a fleet. Therefore, the increase in insurance premiums for vessels calling at Russian ports should be accompanied by sanctions by the European Union, the United States, and Great Britain against Russia's "shadow fleet" and its owners and operators.
+
+**How has the suspension of the Black Sea grain trade affected rates?**
+
+Asymmetric strikes against Russian military targets by the Ukrainian Armed Forces and the addition of Russian ports and adjacent waters to the JWC Listed Areas have caused premiums for Russian vessels to rise. This, in turn, has further increased Russia's overall cost of exporting crude oil, which has already increased because of sanctions. In addition, Kazakh companies have stated that they may redirect their crude oil from Novorossiysk to the Baltic port of Ust-Luga if the security situation (and commercial shipping conditions) in the Black Sea deteriorates.
+
+Currently, the additional premiums for war-related risks under H&M insurance average 1% of the value of a vessel for shipping from Russian ports (including Novorossiysk) and 1-1.25% for shipping from Ukrainian ports (Greater Odesa and Danube ports).
+
+It is worth noting that no additional premium was required for ships sailing to/from the ports of Izmail or Reni before the missile and drone attacks on the Danube ports, but it is now a condition for shipping. The Ukrainian Armed Forces’ military strikes on Russian terminals will have the same negative impact on their maritime trade.
+
+**What are the remaining (non-war-related) options to influence it?**
+
+The first step has already been taken: Ukraine has created a guarantee fund to cover such war-related risks, allocating UAH 20 billion from the state budget. Shipowners still need to take out insurance. However, if an insured event occurs in a Ukrainian port and the insurer refuses to pay out for any reason, Ukraine guarantees that the loss will be covered. The main criticism of this guarantee fund is that it does not cover cargo risks. This is because the value of the grain that a ship takes on board often exceeds the value of the ship itself. A draft law has now been submitted to the Ukrainian parliament to remedy this shortcoming.
+
+In addition, the procedure for providing such guarantees, as established by the relevant Cabinet of Ministers resolution, is not entirely clear to international ship/cargo owners. Therefore, Ukraine should work with partner countries to create a separate fund that will act as a guarantor for international insurance clubs that reinsure ships sailing to Ukrainian ports. The issue of creating such a fund to cover war-related risks is being widely discussed today, and marine insurance for export-import operations should be one of the priorities of this dialogue.
+
+It is also important to raise awareness: track down European insurance companies that insure ships involved in the transportation of Russia’s exports; explain to them and warn them about the risks and negative aspects of such cooperation. If this is not enough, look for ways to influence their operations reputationally, for example, by including such companies on the National Agency for Prevention of Corruption’s list of international sponsors of the war. Simultaneously, the sanctions pressure on Russia's "shadow fleet" of vessels involved in export-import operations should be increased. This set of measures will enable Ukraine not only to facilitate the unblocking of its civilian shipping but also to reduce Russia's financial and technological capacity to continue the war.

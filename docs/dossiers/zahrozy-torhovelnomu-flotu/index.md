@@ -147,6 +147,20 @@
 | 138 | [Russia’s oil and gas revenues fall 17% in 2026 despite doubling of Ura](https://theins.press/en/news/297921) | 2026-10-05 | прочитано | 2289 | ? | `text/138-theins.press-297921.txt` |
 | 139 | [Russia cuts oil and gas revenues estimate for 2026 to RUB 7.6tln from ](https://www.newsquawk.com/headlines/russia-cuts-oil-and-gas-revenues-estimate-for-2026-to-rub-76tln-from-rub-89tln-previously) | 2026-09-28 | прочитано | 7239 | ? | `text/139-newsquawk.com-russia-cuts-oil-and-gas-revenues-estimate-for-2026-to-ru.txt` |
 | 140 | [June 2026 — Monthly analysis of Russian fossil fuel exports and sancti](https://energyandcleanair.org/june-2026-monthly-analysis-of-russian-fossil-fuel-exports-and-sanctions/) | 2026-07-10 | прочитано | 42478 | ? | `text/140-energyandcleanair.org-june-2026-monthly-analysis-of-russian-fossil-fue.txt` |
+| 141 | [IR_2026-Q3.pdf?v=19](https://bank.gov.ua/admin_uploads/article/IR_2026-Q3.pdf?v=19) | — | прочитано | 252535 | ? | `text/141-bank.gov.ua-ir_2026-q3.pdf.txt` |
+| 142 | [National Bank of Ukraine estimates losses from halt in maritime export](https://www.pravda.com.ua/eng/news/2026/08/07/8047786/) | 2026-08-07 | прочитано | 1994 | ? | `text/142-pravda.com.ua-8047786.txt` |
+| 143 | [Suspension of Vessel Calls to Greater Odesa Ports Increases Risks to E](https://kse.ua/about-the-school/news/suspension-of-vessel-calls-to-greater-odesa-ports-increases-risks-to-exports-and-economic-growth-ukraine-monthly-economic-update/) | 2026-08-25 | прочитано | 4361 | ? | `text/143-kse.ua-suspension-of-vessel-calls-to-greater-odesa-ports-increases-ris.txt` |
+| 144 | [Зупинка портів — мінус $70 млн експортних надходжень щодня. Чи витрима](https://agroportal.ua/en/publishing/zupinka-portiv-minus-70-mln-eksportnih-nadhodzhen-shchodnya-chi-vitrimaye-grivnya) | 2026-07-31 | прочитано | 4514 | ? | `text/144-agroportal.ua-zupinka-portiv-minus-70-mln-eksportnih-nadhodzhen-shchod.txt` |
+| 145 | [www.dailymaverick.co.za](https://www.dailymaverick.co.za/article/2026-10-02-world-food-prices-near-four-year-high-in-september-un-say.md) | — | прочитано | 3078 | ? | `text/145-dailymaverick.co.za-2026-10-02-world-food-prices-near-four-year-high-i.txt` |
+| 146 | [Russian port restrictions threaten Egyptian wheat supply chains](https://manassa.news/en/news/33152) | 2026-07-30 | прочитано | 7321 | ? | `text/146-manassa.news-33152.txt` |
+| 147 | [Egypt’s wheat imports drop 77% in September](https://manassa.news/en/news/34232) | 2026-10-04 | прочитано | 3408 | ? | `text/147-manassa.news-34232.txt` |
+| 148 | [Egypt’s Wheat Imports Plunge as Black Sea Disruptions Raise](https://egyptdailynews.com/egypts-wheat-imports-plunge-as-black-sea/) | 2026-10-06 | прочитано | 5623 | ? | `text/148-egyptdailynews.com-egypts-wheat-imports-plunge-as-black-sea.txt` |
+| 149 | [Wheat prices spike as Ukraine and Russia trade Black Sea blows - Afric](https://african.business/2026/08/resources/wheat-prices-spike-as-ukraine-and-russia-trade-black-sea-blows) | 2026-08-24 | прочитано | 3674 | ? | `text/149-african.business-wheat-prices-spike-as-ukraine-and-russia-trade-black-.txt` |
+| 150 | [www.washingtonpost.com](https://www.washingtonpost.com/business/2026/07/21/un-hunger-report-ifad-food-security/57da3b58-84ef-11f1-9cec-0fb26676f07e_story.html) | — | НЕ ВІДКРИЛОСЯ | 0 | ? | `text/150-washingtonpost.com-57da3b58-84ef-11f1-9cec-0fb26676f07e_story.txt` |
+| 151 | [UN Warns Prolonged Iran War Could Trigger Record Global Hunger](https://bloomberg.com/news/articles/2026-03-17/un-warns-prolonged-iran-war-could-trigger-record-global-hunger) | 2026-03-17 | прочитано | 4409 | ? | `text/151-bloomberg.com-un-warns-prolonged-iran-war-could-trigger-record-global-.txt` |
+| 152 | [War-Related Risks and More: Five Questions About Marine Insurance in t](https://en.cfts.org.ua/articles/war_related_risks_and_more_five_questions_about_marine_insurance_in_the_black_sea) | 2026-08-28 | прочитано | 9201 | ? | `text/152-en.cfts.org.ua-war_related_risks_and_more_five_questions_about_marine_.txt` |
+| 153 | [Tridge](https://www.tridge.com/news/war-risk-premiums-for-ukrainian-and-russian--ojxbam) | 2026-01-01 | прочитано | 1448 | ? | `text/153-tridge.com-war-risk-premiums-for-ukrainian-and-russian--ojxbam.txt` |
+| 154 | [A commercial vessel flying the Marshall Islands flag, carrying crude o](https://liveuamap.com/en/2026/6-october-09-a-commercial-vessel-flying-the-marshall-islands) | 2026-10-07 | прочитано | 28573 | ? | `text/154-liveuamap.com-6-october-09-a-commercial-vessel-flying-the-marshall-isl.txt` |
 
 ## Проблемні джерела
 
@@ -161,6 +175,7 @@
 - **№111** https://www.intellinews.com/fao-food-price-index-rises-as-weather-and-transport-disruptions-tighten-supplies-473604/ — оригінал 403; знімка немає в Wayback
 - **№120** https://mei.edu/publication/from-hormuz-to-the-sahel-a-fertilizer-shock-and-a-maghreb-solution/ — оригінал недоступний (403), узято з Wayback
 - **№134** https://www.spglobal.com/energy/en/news-research/latest-news/refined-products/092926-russias-black-sea-diesel-exports-fall-to-zero-for-first-time-on-record — оригінал недоступний (403), узято з Wayback
+- **№150** https://www.washingtonpost.com/business/2026/07/21/un-hunger-report-ifad-food-security/57da3b58-84ef-11f1-9cec-0fb26676f07e_story.html — оригінал 0; знімка немає в Wayback
 
 ---
 
