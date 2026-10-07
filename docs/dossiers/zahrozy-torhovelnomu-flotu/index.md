@@ -161,6 +161,17 @@
 | 152 | [War-Related Risks and More: Five Questions About Marine Insurance in t](https://en.cfts.org.ua/articles/war_related_risks_and_more_five_questions_about_marine_insurance_in_the_black_sea) | 2026-08-28 | прочитано | 9201 | ? | `text/152-en.cfts.org.ua-war_related_risks_and_more_five_questions_about_marine_.txt` |
 | 153 | [Tridge](https://www.tridge.com/news/war-risk-premiums-for-ukrainian-and-russian--ojxbam) | 2026-01-01 | прочитано | 1448 | ? | `text/153-tridge.com-war-risk-premiums-for-ukrainian-and-russian--ojxbam.txt` |
 | 154 | [A commercial vessel flying the Marshall Islands flag, carrying crude o](https://liveuamap.com/en/2026/6-october-09-a-commercial-vessel-flying-the-marshall-islands) | 2026-10-07 | прочитано | 28573 | ? | `text/154-liveuamap.com-6-october-09-a-commercial-vessel-flying-the-marshall-isl.txt` |
+| 155 | [Procès-verbal relating to the Rules of Submarine Warfare set forth in ](https://hrlibrary.umn.edu/instree/1936a.htm) | 2023-02-01 | прочитано | 2564 | ? | `text/155-hrlibrary.umn.edu-1936a.txt` |
+| 156 | [Procès-verbal on Submarine Warfare of the Treaty of London, 1936 – Pro](https://ferenda.lagen.nu/icrc/330) | — | прочитано | 3375 | ? | `text/156-ferenda.lagen.nu-330.txt` |
+| 157 | [London Treaty on Limitation and Reduction of Naval Armaments, 1930 – T](https://ferenda.lagen.nu/icrc/310) | — | прочитано | 2003 | ? | `text/157-ferenda.lagen.nu-310.txt` |
+| 158 | [Procès-Verbal relating to the Rules of Submarine Warfare set forth in ](https://www.gov.uk/government/publications/proces-verbal-relating-to-the-rules-of-submarine-warfare-set-forth-in-part-iv-of-the-treaty-of-london-of-april-22-1930-london-6111936) | 2014-01-10 | прочитано | 4342 | ? | `text/158-gov.uk-proces-verbal-relating-to-the-rules-of-submarine-warfare-set-fo.txt` |
+| 159 | [The trial of German major war criminals : proceedings of the Internati](https://avalon.law.yale.edu/imt/juddoeni.asp) | 1999-01-01 | прочитано | 12895 | ? | `text/159-avalon.law.yale.edu-juddoeni.txt` |
+| 160 | [Sinking the “Fellowship of the Sea:” Lessons from Nuremberg for Future](https://cimsec.org/sinking-the-fellowship-of-the-sea-lessons-from-nuremberg-for-future-naval-warfare/) | 2021-06-09 | прочитано | 25019 | ? | `text/160-cimsec.org-sinking-the-fellowship-of-the-sea-lessons-from-nuremberg-fo.txt` |
+| 161 | [1911 Encyclopædia Britannica/Declaration of Paris - Wikisource, the fr](https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Declaration_of_Paris) | 2014-08-20 | прочитано | 5377 | ? | `text/161-en.wikisource.org-declaration_of_paris.txt` |
+| 162 | [Paris Declaration Respecting Maritime Law - Wikipedia](https://en.wikipedia.org/wiki/Paris_Declaration_Respecting_Maritime_Law) | 2004-05-01 | прочитано | 23170 | ? | `text/162-en.wikipedia.org-paris_declaration_respecting_maritime_law.txt` |
+| 163 | [Laconia incident - Wikipedia](https://en.wikipedia.org/wiki/Laconia_incident) | 2001-12-13 | прочитано | 45359 | ? | `text/163-en.wikipedia.org-laconia_incident.txt` |
+| 164 | [Unrestricted submarine warfare - Wikipedia](https://en.wikipedia.org/wiki/Unrestricted_submarine_warfare) | 2004-04-09 | прочитано | 14437 | ? | `text/164-en.wikipedia.org-unrestricted_submarine_warfare.txt` |
+| 165 | [fr](https://www.lexfind.ch/tolv/195671/fr) | — | прочитано | 6867 | ? | `text/165-lexfind.ch-fr.txt` |
 
 ## Проблемні джерела
 

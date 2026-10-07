@@ -1,0 +1,764 @@
+URL:         https://en.wikipedia.org/wiki/Unrestricted_submarine_warfare
+Кінцевий:    https://en.wikipedia.org/wiki/Unrestricted_submarine_warfare
+Заголовок:   Unrestricted submarine warfare - Wikipedia
+Дата публ.:  2004-04-09
+Завантажено: 2026-10-07 14:51 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 163727
+Оригінал:    raw/164-en.wikipedia.org-unrestricted_submarine_warfare.html
+sha256:      2e8b66457384a63dc03624727fd40cba5747b88e95c3c60b5555231844f9539f
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 24
+==============================================================================
+Unrestricted submarine warfare - Wikipedia
+From Wikipedia, the free encyclopedia
+from February 1915, the cartoon portrays a stylized
+as a perpetrator of flying the
+became a victim of unrestricted submarine warfare
+three months after the cartoon was published when German submarine
+because of the killing of many civilians, and it would become one of the most notable incidents of unrestricted submarine warfare in history.
+German art of the sinking of the
+. Passengers and crew are being allowed to disembark into lifeboats, as per cruiser rules.
+. Sinkings of passenger vessels without warning incensed neutral opinion.
+Defensively equipped merchant ship
+List of ships sunk by submarines by death toll
+9 January 1917 German Crown Council meeting
+Atlantic U-boat campaign of World War I
+Battle of the Atlantic (World War II)
+List of wolfpacks of World War II
+https://en.wikipedia.org/w/index.php?title=Unrestricted_submarine_warfare&oldid=1374284710
+Articles with short description
+Short description matches Wikidata
+Webarchive template wayback links
+This page was last edited on 11 September 2026, at 01:27
+Creative Commons Attribution-ShareAlike 4.0 License
+additional terms may apply. By using this site, you agree to the
+. Wikipedia® is a registered trademark of the
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Unrestricted submarine warfare - Wikipedia
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main page
+Contents
+Current events
+Random article
+About Wikipedia
+Contact us
+Contribute
+Help
+Learn to edit
+Community portal
+Recent changes
+Upload file
+Special pages
+Search
+Search
+Appearance
+Donate
+Create account
+Log in
+Personal tools
+Donate
+Create account
+Log in
+Contents
+move to sidebar
+hide
+(Top)
+1
+History
+2
+Instances
+3
+See also
+4
+Notes
+5
+References
+6
+Sources
+Toggle the table of contents
+Unrestricted submarine warfare
+21 languages
+العربية
+Беларуская (тарашкевіца)
+Български
+Català
+Español
+Suomi
+Français
+עברית
+Magyar
+Bahasa Indonesia
+Italiano
+日本語
+한국어
+Nederlands
+Norsk bokmål
+Português
+Русский
+Simple English
+Slovenčina
+Українська
+中文
+Edit links
+Article
+Talk
+English
+Read
+Edit
+View history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+Read
+Edit
+View history
+General
+What links here
+Related changes
+Upload file
+Permanent link
+Page information
+Cite this page
+Get shortened URL
+Switch to legacy parser
+Print/export
+Download as PDF
+Printable version
+In other projects
+Wikidata item
+Appearance
+move to sidebar
+hide
+From Wikipedia, the free encyclopedia
+Military doctrine
+Editorial cartoon by
+T. E. Powers
+from February 1915, the cartoon portrays a stylized
+RMS
+Lusitania
+as a perpetrator of flying the
+flag
+of the
+United States
+(despite the steamer being
+British
+) and not her
+true colors
+, which is a violation of the
+Hague Convention
+and maritime law.
+[
+a
+]
+The
+Lusitania
+later
+became a victim of unrestricted submarine warfare
+three months after the cartoon was published when German submarine
+SM U-20
+sank her. The incident
+sparked international outrage
+because of the killing of many civilians, and it would become one of the most notable incidents of unrestricted submarine warfare in history.
+Unrestricted submarine warfare
+is a type of
+naval warfare
+in which
+submarines
+sink
+merchant ships
+such as
+freighters
+and
+tankers
+without warning. The use of unrestricted submarine warfare has had significant impacts on international relations in regard to both the
+First World War
+and the
+Second World War
+. Its history has been dominated by German decision making.
+There have been attempts to limit the use of unrestricted naval warfare, with some dating back to before the turn of the 20th century as an extension of rules for surface raiders. While initially submarines operated successfully by attacking on the surface using
+deck guns
+, attacking without warning while submerged reduces the opportunity for the target to escape or defend itself if armed.
+History
+[
+edit
+]
+German art of the sinking of the
+Linda Blanche
+on 30 January 1915 by
+SM
+U-21
+. Passengers and crew are being allowed to disembark into lifeboats, as per cruiser rules.
+Customary naval law
+(specifically, so called
+cruiser rules
+) specified that while enemy warships may be attacked freely, civilian and neutral ships can only be interfered with if carrying contraband (announced previously in a contraband list), and the lives of the crew should be protected.
+[
+1
+]
+Formal limitations on warfare at sea date back to the
+1899 Hague Convention
+.
+[
+2
+]
+However, the Imperial German navy was heavily criticised internally by high level officials for their relative inactivity at the start of WWI. To boost the role of the navy, and buoyed by early successes of U-boat warfare,
+Admiral Tirpitz
+and
+Admiral von Pohl
+suggested a plan whereby U-boats, given a free hand to attack shipping, could potentially force Britain into a "conciliatory mood" in as few as six weeks. The admirals appealed to public opinion through press interviews,
+[
+3
+]
+posing the submarines as "miracle weapons", despite the extremely small number of vessels available. It was believed that a "shock effect" would cause shipping to cease, and that neutrals would judge the campaign a reasonable reprisal for the British naval blockade. Chancellor
+Bethmann Hollweg
+accepted this strategy on February 1, 1915, and a directive issued the next day, with a public announcement on the 4th.
+[
+4
+]
+British
+Q-ship
+operations reported first successes the same year.
+American cartoon by
+Oscar Cesare
+showing the
+sinking of the
+Lusitania
+. Sinkings of passenger vessels without warning incensed neutral opinion.
+This first campaign was not fully unrestricted as it was aimed at Allied vessels, with neutral shipping officially not to be targeted. Many submarine commanders also chose to adhere to cruiser rules anyway. However, the German Admiralty encouraged the U-boats to attack without warning and minimise efforts at identifying targets, as "accidental" sinking of neutral vessels was viewed to have a useful deterrent effect. In the end, the German campaign did not have a significant impact on Britain's goods traffic, but took a heavy civilian toll, including to neutrals. In the most dramatic episode they sank
+Lusitania
+in May 1915 in a few minutes, killing over a hundred American passengers.
+[
+5
+]
+In the face of US anger, German Chancellor
+Bethmann Hollweg
+obtained a secret directive to exclude passenger vessels from being targeted and to make strenuous measures to avoid striking neutral vessels, a measure made into a formal and public suspension of unrestricted warfare after the sinking of
+Arabic
+in August 1915. Submarines operated under prize rules for 1916 - indeed even during 1915 the majority of attacks were made on the surface.
+[
+6
+]
+Admiral
+Henning von Holtzendorff
+, chief of the
+Imperial Admiralty
+staff, argued successfully in early 1917 to resume unrestricted attacks, at a greater scale than 1915 and thus hopefully successfully starve the British into surrender. The
+German high command
+realized the resumption of unrestricted submarine warfare meant war with the
+United States
+but calculated that American mobilization would be too slow to stop a German victory on the
+Western Front
+.
+[
+7
+]
+[
+8
+]
+The decision made by Germany became one of the "trigger mechanisms" causing the United States, who were previously neutral, to
+join the war in favour of the British
+. While initially successful, the U-boats would once again fall short of the hopes of the German Admiralty.
+[
+9
+]
+After World War I, there was a strong push to construct international rules prohibiting submarine attacks on merchant ships.
+[
+2
+]
+In 1922 the United States, the United Kingdom,
+Japan
+,
+France
+, and
+Italy
+signed the
+Washington Treaty on Poison Gas and Submarines
+, to so restrict the use of submarines as to make them useless as
+commerce raiders
+.
+[
+10
+]
+France did not ratify, so the treaty did not go into effect.
+In 1936, states signed the
+London Protocol on Submarine Warfare
+. To be deemed acceptable, naval attacks needed to follow
+prize rules
+, which called for warships to search merchantmen
+[
+11
+]
+and place crews in "a place of safety"
+[
+12
+]
+before sinking them.
+Interwar prohibitions on unrestricted submarine warfare have been described as being too unspecified, thus leading to disagreements over how to interpret the rules and agreements.
+[
+2
+]
+For example, it was unclear what differentiated merchant ships from military ships, in particular given that Britain wanted to retain the rights to arm its merchants.
+[
+2
+]
+Furthermore, it was considered impractical for small submarines to take on the crews of noncombatant ships due to a lack of space.
+[
+2
+]
+Crews could be placed in emergency boats, but there was disagreement as to how safe that was.
+[
+2
+]
+Prior to World War II, 48 states had accepted the prohibitions on unrestricted submarine warfare, including the great power combatants during World War II.
+[
+2
+]
+However states rapidly abandoned these restrictions: Mostly significantly Germany with
+War Order No. 154
+, and the US from the start of the
+War in the Pacific
+.
+[
+13
+]
+Instances
+[
+edit
+]
+There have been four campaigns of unrestricted submarine warfare, one in World War I and three in World War II:
+The
+U-boat campaign
+of World War I, waged intermittently by Germany between 1915 and 1918 against
+Britain
+and her
+allies
+. One of the most infamous acts was on May 7, 1915, when
+U-boat
+U-20
+deliberately
+torpedoed the British Cunard luxury liner RMS
+Lusitania
+. Germany's resumption of unrestricted submarine warfare in February 1917, together with the
+Zimmermann Telegram
+, brought
+American entry into World War I
+on the British side.
+The
+Battle of the Atlantic
+during
+World War II
+. Between 1939 and 1945, it was waged between
+Nazi Germany
+and the
+Allies
+and also from 1940 to 1943 between
+Fascist Italy
+and the Allies.
+The
+Baltic Sea Campaigns
+during World War II. Between 1941 and 1945, it was waged between Nazi Germany and the
+Allies
+, primarily in the
+Baltic Sea
+.
+The
+Pacific War
+during World War II, between 1941 and 1945, waged between the
+Allies
+and the Japanese Empire.
+The four cases were attempts to impose a naval
+blockade
+on countries, especially those heavily dependent on merchant shipping to supply their war industries and feed their populations (such as Britain and Japan). Of these, the US submarine effort was by far the most successful, working together with mines to reduce the Japanese merchant fleet to less than a quarter its initial tonnage.
+[
+14
+]
+See also
+[
+edit
+]
+Arabic
+pledge
+Commerce raiding
+Cruiser rules
+Defensively equipped merchant ship
+Karl Dönitz
+Laconia
+incident
+Laconia
+Order
+List of ships sunk by submarines by death toll
+Q-ship
+Submarine warfare
+Sussex pledge
+Tonnage war
+Tsushima Maru
+War Order No. 154
+9 January 1917 German Crown Council meeting
+Notes
+[
+edit
+]
+↑
+At the time, a vessel flying the flag of a different country during wartime as a ruse was considered acceptable; however, failing to reveal the true colors of their home nation before engaging in a battle is a war crime.
+References
+[
+edit
+]
+↑
+Mallison, Sally V.; Mallison, W. Thomas (1991). "Naval targeting: lawful objects of attack".
+International Law Studies
+.
+64
+.
+1
+2
+3
+4
+5
+6
+7
+Legro, Jeffrey W.
+(1997). "Which Norms Matter? Revisiting the 'Failure' of Internationalism".
+International Organization
+.
+51
+(1):
+31–
+63.
+doi
+:
+10.1162/002081897550294
+.
+JSTOR
+2703951
+.
+S2CID
+154368865
+.
+↑
+Ritter, Gerhard (1972).
+The Sword and the Scepter vol III: The tragedy of statesmanship
+. University of Miami Press. pp.
+18–
+19.
+↑
+Ritter, pp.119-14
+↑
+Eardley, Nick (1 May 2014).
+"Files show confusion over Lusitania"
+.
+BBC News
+.
+Archived
+from the original on 30 November 2017.
+↑
+Ritter, pp.148-150
+↑
+Steffen, Dirk (2004). "The Holtzendorff Memorandum of 22 December 1916 and Germany's Declaration of Unrestricted U-boat Warfare".
+The Journal of Military History
+.
+68
+(1):
+215–
+224.
+doi
+:
+10.1353/jmh.2003.0412
+.
+S2CID
+159765016
+.
+Project
+MUSE
+50680
+.
+↑
+See
+The Holtzendorff Memo (English translation) with notes
+Archived
+2005-03-09 at the
+Wayback Machine
+↑
+Manseck, Hartmut (2007).
+"The U-Boat, A German Fate?"
+.
+Naval Forces
+.
+28
+(1).
+ProQuest
+199358222
+. Retrieved
+19 January
+2024
+.
+↑
+"Washington Conference | Treaties & Facts"
+.
+Encyclopedia Britannica
+. Retrieved
+2020-04-11
+.
+↑
+Holwitt, Joel I.
+"Execute Against Japan"
+, Ph.D. dissertation, Ohio State University, 2005, pp.5-6.
+↑
+Holwitt, p.92: quoting Article 22 of the Naval Treaty.
+↑
+"The Trial of Admiral Doenitz"
+.
+↑
+John Merrill (16 November 2021).
+"World War II: Japan's Disinterest in Merchant Ship Convoying"
+.
+Sources
+[
+edit
+]
+Ronzitti, Natalino (1988).
+The Law of Naval Warfare: A Collection of Agreements and Documents With Commentaries
+. Martinus Nijhoff.
+ISBN
+978-90-247-3652-2
+.
+Willmott, H. P. (2003).
+World War I
+.
+Dorling Kindersley
+.
+ISBN
+978-0-7894-9627-0
+.
+v
+t
+e
+U-boats
+Atlantic U-boat campaign of World War I
+Battle of the Atlantic (World War II)
+Mediterranean (World War I)
+Mediterranean (World War II)
+Operation
+Regenbogen
+Operation
+Deadlight
+U-boat lists
+German
+Types
+Most successful
+Foreign captured
+Never deployed
+Uncompleted projects
+Austro-Hungarian
+Classes
+Commanders
+BdU
+FdU
+World War I commanders
+World War II commanders
+Knight's Cross recipients
+Erich Raeder
+Karl Dönitz
+Wolfpacks
+List of wolfpacks of World War II
+Blücher
+Borkum
+Delphin II
+Dränger
+Eisbär
+Eisteufel
+Endrass
+Hai
+Hartmann
+Hecht
+Kiebitz
+Kreuzotter
+Leuthen
+Lohs
+Pfadfinder
+Pfeil
+Prien
+Raubgraf
+Rösing
+Rossbach
+Schill
+Schlieffen
+Seewolf
+Steinbrinck
+Siegfried
+Streitaxt
+Tümmler
+Vorwärts
+Weddigen
+West
+Wolf
+Major engagements
+Convoy SC 7
+Convoy PQ 17
+Convoy ONS 5
+Black May
+U-boat flotillas
+World War I
+I
+II
+III
+IV
+Flanders
+Kurland
+Pola
+Constantinople
+World War II
+Regions
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+29.
+30.
+31.
+32.
+33.
+Capital ships
+sunk
+World War I
+HMS
+Britannia
+HMS
+Cornwallis
+French battleship
+Danton
+HMS
+Formidable
+Gaulois
+Russian battleship
+Peresvet
+HMS
+Majestic
+Italian battleship
+Regina Margherita
+HMS
+Russell
+French battleship
+Suffren
+HMS
+Triumph
+World War II
+HMS
+Ark Royal
+HMS
+Barham
+HMS
+Courageous
+HMS
+Eagle
+HMS
+Royal Oak
+Technology
+Anechoic tile
+Depth charge
+Elektroboot
+FuG 200 Hohentwiel
+Hedgehog
+Leigh light
+Mark 24 mine
+Metox radar detector
+Mousetrap
+Pillenwerfer
+Q-ship
+Sieglinde (decoy)
+Sonar
+Snorkel
+Concepts
+Submarine warfare
+Unrestricted submarine warfare
+Rocket U-boat
+Bases
+World War II
+France
+Lorient
+Saint-Nazaire
+Norway
+Dora I
+Dora II
+Retrieved from "
+https://en.wikipedia.org/w/index.php?title=Unrestricted_submarine_warfare&oldid=1374284710
+"
+Categories
+:
+Submarine warfare
+Military doctrines
+Military strategy
+Naval warfare tactics
+U-boat Campaign (World War I)
+War crimes in World War II
+World War I terminology
+World War II terminology
+Hidden categories:
+Articles with short description
+Short description matches Wikidata
+Webarchive template wayback links
+This page was last edited on 11 September 2026, at 01:27
+(UTC)
+.
+Page was rendered with
+Parsoid
+.
+Text is available under the
+Creative Commons Attribution-ShareAlike 4.0 License
+;
+additional terms may apply. By using this site, you agree to the
+Terms of Use
+and
+Privacy Policy
+. Wikipedia® is a registered trademark of the
+Wikimedia Foundation, Inc.
+, a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Legal & safety contacts
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+Search
+Search
+Toggle the table of contents
+Unrestricted submarine warfare
+21 languages
+Add topic
