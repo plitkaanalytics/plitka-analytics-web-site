@@ -1,0 +1,13 @@
+URL:         https://www.intellinews.com/fao-food-price-index-rises-as-weather-and-transport-disruptions-tighten-supplies-473604/
+Кінцевий:    https://www.intellinews.com/fao-food-price-index-rises-as-weather-and-transport-disruptions-tighten-supplies-473604/
+Заголовок:   Just a moment...
+Дата публ.:  не вказана на сторінці
+Завантажено: 2026-10-07 09:39 UTC
+HTTP:        403   Тип: text/html; charset=UTF-8   Байтів: 6015
+Оригінал:    raw/111-intellinews.com-fao-food-price-index-rises-as-weather-and-transport-di.html
+sha256:      f6941cc5dc25b066633903e768362c4c9f1ec33c72dcfdb496f4a73962b02122
+Витяг:       bs4-full
+Примітка:    оригінал 403; знімка немає в Wayback
+
+==============================================================================
+Just a moment...

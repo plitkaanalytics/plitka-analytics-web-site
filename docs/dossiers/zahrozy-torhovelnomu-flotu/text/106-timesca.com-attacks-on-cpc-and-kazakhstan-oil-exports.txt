@@ -1,0 +1,434 @@
+URL:         https://timesca.com/attacks-on-cpc-and-kazakhstan-oil-exports/
+Кінцевий:    https://timesca.com/attacks-on-cpc-and-kazakhstan-oil-exports/
+Заголовок:   Attacks on CPC and Kazakhstan’s Oil Exports - The Times Of Central Asia
+Дата публ.:  2026-07-24
+Завантажено: 2026-10-07 09:37 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 400852
+Оригінал:    raw/106-timesca.com-attacks-on-cpc-and-kazakhstan-oil-exports.html
+sha256:      0305b802d6a5d8f8c46aab40c020e6ff1849ef0f0babf7be6edce0507e3b9912
+Витяг:       trafilatura
+
+==============================================================================
+- 
+        
+            
+                February 17, 2025            
+            
+            Kropotkinskaya Pumping Station Struck 2026
+Seven drones carrying explosives and metal fragments attacked CPC’s Kropotkinskaya pumping station in Russia’s Krasnodar region. CPC reported serious damage and took the station out of operation, although the pipeline continued working through a bypass. The facility was the largest CPC pumping station on Russian territory. [(Reuters)](https://www.reuters.com/business/energy/russia-says-ukrainian-drone-attack-pipeline-carrying-1-global-crude-could-2025-02-18/)
+
+                                                
+                                                                            
+        
+    - 
+        
+            
+                February 18, 2025            
+            
+            Ukraine Confirms the Attack 2026
+Ukraine’s General Staff confirmed that its forces had struck Kropotkinskaya. Russian officials said pipeline flows had fallen, while Kazakhstan’s Energy Ministry said there were no restrictions on accepting Kazakh crude and that exports remained stable. [(The Times of Central Asia)](https://timesca.com/ukraines-drone-strike-on-russian-oil-hub-sparks-concerns-over-kazakhstans-energy-security/)
+
+                                                
+                                                                            
+        
+    - 
+        
+            
+                February 19, 2025            
+            
+            Astana Opens Diplomatic Contacts 2026
+Kazakhstan said it would raise the strike with Ukraine and seek assurances against a repeat. First Deputy Foreign Minister Akan Rakhmetullin said Kazakhstan would raise the strike with Ukraine and seek a diplomatic solution to prevent a recurrence. [(Kursiv)](https://kz.kursiv.media/en/2025-02-19/engk-tank-kazakhstans-mfa-will-talk-to-ukraine-over-drone-attacks-against-cpc/)
+
+                                                
+                                                                            
+        
+    - 
+        
+            
+                February 26, 2025            
+            
+            Exports Remain on Schedule 2026
+Kazakhstan said CPC exports were continuing according to schedule despite the damage. Energy Minister Almasadam Satkaliyev said crude was bypassing Kropotkinskaya and that storage capacity remained sufficient. Repairs were expected to take about two months. [(Reuters)](https://www.reuters.com/business/energy/caspian-pipeline-oil-exports-schedule-kazakhstan-says-2025-02-26/)
+
+                                                
+                                                                            
+        
+    - 
+        
+            
+                March 24, 2025            
+            
+            Russia Reports Another Attempt 2026
+Russian officials said another drone attack was attempted against Kropotkinskaya while repairs from the February strike were continuing. Air defences reportedly intercepted the drone, and no further damage to the station was confirmed. [(The Times of Central Asia)](https://timesca.com/kazakhstans-oil-exports-uninterrupted-despite-caspian-pipeline-consortium-berth-suspensions/)
+
+                                                
+                                                                            
+        
+    - 
+        
+            
+                May 23, 2025            
+            
+            Kropotkinskaya Returns to Service 2026
+CPC returned Kropotkinskaya to normal pumping operations after more than three months of repairs. The consortium said the station had first restarted in a technical pumping mode before resuming regular work. It was not receiving crude from the damaged Kavkazskaya depot. [(Interfax) ](https://interfax.com/newsroom/top-stories/111607/)
+
+                                                
+                                                                            
+        
+    - 
+        
+            
+                September 24, 2025            
+            
+            CPC’s Novorossiysk Office Hit 2026
+A Ukrainian drone attack on Novorossiysk damaged CPC’s city office and injured two employees. Kazakhstan’s Energy Ministry said the transport and loading of Kazakh oil continued according to schedule. [(The Times of Central Asia)](https://timesca.com/pipelines-under-pressure-ukraine-war-hits-kazakhstan-energy-arteries/)
+
+                                                
+                                                                            
+        
+    - 
+        
+            
+                November 25, 2025            
+            
+            Another Attack Pauses CPC Loading 2026
+CPC briefly suspended loadings after an overnight drone attack damaged another company office. Operations resumed once the air-raid alert ended. The November export programme was already running behind schedule because of repeated security stoppages and poor weather. [(Reuters)](https://www.reuters.com/business/energy/cpc-says-it-temporarily-halted-oil-loadings-russias-novorossiysk-during-drone-2025-11-25/)
+
+                                                
+                                                                            
+        
+    - 
+        
+            
+                November 29, 2025            
+            
+            SPM-2 Severely Damaged 2026
+A Ukrainian naval drone strike seriously damaged SPM-2, one of the three offshore moorings used to load CPC crude. CPC halted operations and withdrew tankers from the terminal area. SPM-3 was already undergoing maintenance, leaving the terminal without its normal loading capacity. [(Reuters)](https://www.reuters.com/world/asia-pacific/kazakhstan-criticises-ukraine-over-drone-attack-cpc-oil-terminal-2025-11-30/)
+
+                                                
+                                                                            
+        
+    - 
+        
+            
+                November 30, 2025            
+            
+            Kazakhstan Protests to Ukraine 2026
+Kazakhstan told Ukraine to stop attacking CPC facilities and described the terminal as civilian infrastructure protected by international law. The Foreign Ministry warned that repeated strikes were harming Kazakhstan’s economic interests and bilateral relations with Kyiv. [(The Times of Central Asia)](https://timesca.com/tensions-between-kazakhstan-and-ukraine-rise-after-oil-infrastructure-attack/)
+
+                                                
+                                                                            
+        
+    - 
+        
+            
+                December 1, 2025            
+            
+            Loading Resumes Through One Mooring 2026
+CPC resumed shipments through SPM-1. Chevron said Tengizchevroil cargoes were continuing to load, but the loss of SPM-2 and maintenance at SPM-3 sharply reduced available capacity. Ukraine said its operations were directed against Russian aggression and not against Kazakhstan or other third countries. [(Reuters)](https://timesca.com/ukraines-drone-strike-on-russian-oil-hub-sparks-concerns-over-kazakhstans-energy-security/)
+
+                                                
+                                                                            
+        
+    - 
+        
+            
+                December 24, 2025            
+            
+            Exports Fall to a 14-Month Low 2026
+December CPC Blend loadings were revised down by about one-third, from a planned 1.7 million barrels per day to around 1.14 million. The decline reflected mooring damage, bad weather, cargo cancellations, and limited terminal capacity. [ (Reuters)](https://www.reuters.com/business/energy/cpc-oil-loading-plan-revised-down-33-december-bad-weather-delays-repairs-2025-12-24/)
+
+                                                
+                                                                            
+        
+    - 
+        
+            
+                December 29, 2025            
+            
+            Kazakhstan’s Production Declines 2026
+Kazakhstan’s oil and gas condensate output fell by about 6% from the November average. Tengiz production dropped by roughly 10%, while CPC Blend exports were running about 19% lower.  [(Reuters)](https://www.reuters.com/business/energy/kazakhstans-oil-output-falls-after-ukraine-drone-attack-major-terminal-2025-12-29/)
+
+                                                
+                                                                            
+        
+    - 
+        
+            
+                January 13, 2026            
+            
+            Tankers Attacked En Route to CPC 2026
+Drones struck the tankers Delta Harmony and Matilda as they travelled toward the CPC terminal to load Kazakh crude. Delta Harmony had been chartered by Chevron, while Matilda was due to load Karachaganak oil. The vessels remained afloat, and their crews were reported safe. [(The Times of Central Asia)](https://timesca.com/attacks-on-tankers-in-the-black-sea-raise-risks-for-oil-markets-and-kazakhstans-exports/)
+
+                                                
+                                                                            
+        
+    - 
+        
+            
+                January 14, 2026            
+            
+            Kazakhstan Seeks U.S. and European Help 2026
+Kazakhstan called on the United States and European governments to help protect international oil transport. Its Foreign Ministry said the increasing frequency of attacks posed a growing threat to civilian energy infrastructure and global supply routes. [(Reuters)](https://www.reuters.com/business/finance/kazakhstan-urges-europe-us-help-secure-oil-transport-after-cpc-attack-2026-01-14/)
+
+                                                
+                                                                            
+        
+    - 
+        
+            
+                January 16, 2026            
+            
+            Oil Is Redirected to Other Routes 2026
+Kazakhstan said it had diverted about 300,000 tonnes of crude during December because of CPC restrictions. Additional volumes were sent toward China, Germany, and the Baku-Tbilisi-Ceyhan route, although these alternatives could handle only a small part of normal CPC exports. [(The Times of Central Asia)](https://timesca.com/kazakhstan-restructures-oil-exports-amid-disruptions-at-cpc/)
+
+                                                
+                                                                            
+        
+    - 
+        
+            
+                January 21, 2026            
+            
+            Kashagan Crude Diverted Domestically 2026
+CPC restrictions led operators to redirect some Kashagan crude to Kazakhstan’s domestic market, including the Shymkent refinery. The diversion was unusual for a field developed primarily to serve export markets.[(Reuters)](https://www.reuters.com/business/energy/giant-kazakh-field-diverts-oil-local-market-due-cpc-bottlenecks-sources-say-2026-01-21/)
+
+                                                
+                                                                            
+        
+    - 
+        
+            
+                February 24, 2026            
+            
+            U.S. Démarche Becomes Public 2026
+Ukraine’s ambassador to the United States, Olha Stefanishyna, disclosed that the State Department had delivered a formal démarche after a Ukrainian attack on Novorossiysk affected American and Kazakh economic interests. She said the warning concerned damage to U.S.-linked interests and did not ask Ukraine to stop attacking Russian military or energy infrastructure more broadly. [(Reuters)](https://www.reuters.com/world/asia-pacific/ukraine-does-not-feel-abandoned-by-us-government-envoy-says-2026-02-24/)
+
+                                                
+                                                                            
+        
+    - 
+        
+            
+                March 14, 2026            
+            
+            Maran Homer Struck Offshore 2026
+The Greek-flagged tanker Maran Homer was hit by an unidentified object while waiting outside Russian territorial waters to enter the CPC terminal. It was due to load Kazakh crude. The crew was safe, and the operator reported minor damage to deck equipment. [(Reuters)](https://www.reuters.com/world/china/greek-flagged-tanker-hit-by-unidentified-object-outside-cpc-terminal-2026-03-14/)
+
+                                                
+                                                                            
+        
+    - 
+        
+            
+                April 2026            
+            
+            CPC Exports Recover 2026
+CPC loadings rose sharply as Tengiz production recovered and terminal operations stabilised. March exports reached about 1.58 million barrels per day, up 48% from February. The rebound showed how quickly volumes could recover when field and terminal constraints eased. [(Reuters)](https://www.reuters.com/business/energy/cpc-raises-oil-exports-march-by-48-february-sources-say-2026-04-13/)
+
+                                                
+                                                                            
+        
+    - 
+        
+            
+                July 7, 2026            
+            
+            Yasa Polaris Hit Near the Terminal 2026
+The Chevron-chartered Yasa Polaris was struck by a drone near the CPC terminal while empty and waiting offshore. Its crew was safe, and the operator reported no pollution or major hull damage. Chevron said Kazakh exports were not affected. [(Reuters)](https://www.reuters.com/business/energy/chevron-tanker-used-cpc-oil-hit-by-drone-black-sea-2026-07-08/)
+
+                                                
+                                                                            
+        
+    - 
+        
+            
+                July 17, 2026            
+            
+            Nordic Zenith Attacked 2026
+Nordic Zenith was struck while empty and approaching the terminal. A fire was extinguished, and CPC vessels evacuated 13 crew members. The tanker was removed from the loading schedule. [(The Times of Central Asia)](https://timesca.com/when-the-war-reaches-kazakh-oil/)
+
+                                                
+                                                                            
+        
+    - 
+        
+            
+                July 19, 2026            
+            
+            Two Tankers Hit While Loading 2026
+ASIA and NISSOS IOS were attacked while loading Kazakhstan-produced crude at CPC’s offshore moorings. ASIA was taking Tengizchevroil oil, while NISSOS IOS was loading crude associated with Kashagan and Maten. A fire aboard ASIA was extinguished, and no oil spill was reported. CPC briefly suspended loadings before resuming them that evening. [(The Times of Central Asia)](https://timesca.com/kazakhstan-condemns-drone-attacks-as-cpc-oil-loadings-halt/)
+
+                                                
+                                                                            
+        
+    - 
+        
+            
+                July 20, 2026            
+            
+            NELSA Strike Halts Loading Again 2026
+A drone struck NELSA while it was loading at SPM-1. Fires broke out on deck and inside several compartments. Most of the crew were evacuated, and no spill was reported. CPC suspended loadings and described both the July 19 incidents and the strike on NELSA as terrorist attacks, without publicly identifying a perpetrator. [(CPC)](https://t.me/caspian_pipeline/1226)
+
+                                                
+                                                                            
+        
+    - 
+        
+            
+                July 21, 2026            
+            
+            CPC Stops Accepting Kazakh Crude 2026
+Reuters reported that CPC had stopped receiving oil from Kazakhstan after terminal storage tanks filled. Several tankers scheduled to load crude changed course. CPC did not publicly confirm the intake halt.
+
+The Trump administration also urged Kyiv to curb attacks on non-Russian vessels serving CPC. The warning followed the formal State Department démarche disclosed in February. [(The Times of Central Asia)](https://timesca.com/cpc-reportedly-stops-accepting-kazakh-oil-as-storage-tanks-reach-capacity-after-tanker-attacks/)
+
+                                                
+                                                                            
+        
+    - 
+        
+            
+                July 22, 2026            
+            
+            Production Cuts Reach Tengiz 2026
+Kazakhstan’s oil and gas condensate output fell to 1.63 million barrels per day from a July average of 2.07 million. Tengiz production dropped by 56%, from about 925,000 barrels per day to 406,000, as producers reduced output to prevent their storage tanks from filling.
+
+Ukraine’s ambassador to Kazakhstan, Victor Mayko, said there was no evidence that Ukraine had carried out the July 17 and 19 attacks. He said Kazakhstan’s infrastructure and economic interests were not Ukrainian military targets. [(The Times of Central Asia)](https://timesca.com/ukraine-denies-role-in-attacks-on-tankers-loading-kazakh-oil-statement-in-full/)
+
+                                                
+                                                                            
+        
+    - 
+        
+            
+                July 23, 2026            
+            
+            Further Incidents and a Congressional Warning 2026
+HERA was damaged and caught fire while approaching the terminal to load Lukoil crude. ALATAU turned away after encountering unmanned surface vessels, while SEA AMBER and DELTA IOS also altered course toward Turkey.
+
+Representative Bill Huizenga, chair of the House Foreign Affairs Subcommittee on South and Central Asia, told The Times of Central Asia that Ukraine had an obligation to avoid legitimate allied energy exports and infrastructure. “Further strikes will not be tolerated,” he said. [(The Times of Central Asia)](https://timesca.com/huizenga-warns-kyiv-further-strikes-on-cpc-will-not-be-tolerated/)
+
+                                                
+                                                                            
+        
+    - 
+        
+            
+                July 24, 2026            
+            
+            No Restart Announced 2026
+No restart had been announced by early July 24. Kazakhstan’s Energy Ministry said consultations were continuing with CPC, oil producers, shipowners, and state agencies as they sought to restore stable exports. The latest confirmed production figures remained those recorded on July 22. [(The Times of Central Asia)](https://timesca.com/kazakhstan-oil-output-falls-21-as-cpc-halt-more-than-halves-tengiz-production/)
+
+                                                
+                                                                            
+        
+    - 
+        
+            
+                July 27, 2026            
+            
+            Exports Resume After Week-Long Halt 2026
+Kazakhstan resumed oil exports through the Caspian Pipeline Consortium after CPC restarted accepting crude and loading tankers at its Black Sea terminal. SEAMAJESTY and MILOS began loading Tengizchevroil crude at two single-point moorings. The restart followed production cuts that reduced Kazakhstan’s oil and gas condensate output to about one million barrels per day on July 26, less than half the June average.
+
+ [(The Times of Central Asia)](https://timesca.com/kazakhstan-resumes-cpc-oil-exports-after-output-more-than-halves/)
+
+                                                
+                                                                            
+        
+    - 
+        
+            
+                July 30, 2026            
+            
+            Two More Tankers Hit and Loading Stops Again 2026
+NISSOS SIFNOS was struck while loading Tengizchevroil crude at SPM-3, while MARATHI was attacked as it waited offshore for a berth. Fires aboard both vessels were extinguished, with no injuries or pollution reported. CPC stopped oil loading but said its pipeline facilities continued operating normally. Russia blamed Ukraine, while CPC and Kazakhstan made no public attribution.
+
+ [(The Times of Central Asia)](https://timesca.com/breaking-cpc-halts-oil-loadings-again-after-two-more-tankers-attacked-near-novorossiysk/)
+
+                                                
+                                                                            
+        
+    - 
+        
+            
+                July 31, 2026            
+            
+            CPC Loadings Resume 2026
+Chevron said tanker loading had resumed at CPC’s Black Sea terminal, with two offshore moorings operational.
+
+ [(The Times of Central Asia)](https://timesca.com/chevron-says-cpc-is-loading-tankers-as-kazakhstan-restores-oil-intake/)
+
+                                                
+                                                                            
+        
+    - 
+        
+            
+                August 05, 2026            
+            
+            CPC Recovery Falters 2026
+CPC repeatedly suspended operations during the week and was closed again on August 5. Safety concerns made shipowners reluctant to accept CPC voyages, preventing a stable recovery. Kazakhstan’s July oil and gas condensate output fell 14% from June to about 1.85 million barrels per day, according to preliminary operational data.
+
+ [(The Times of Central Asia)](https://timesca.com/shipowners-pull-back-from-cpc-as-export-recovery-falters/)
+
+                                                
+                                                                            
+        
+    - 
+        
+            
+                August 08, 2026            
+            
+            U.S. Reportedly Secures Ukrainian Pledge on CPC Strikes 2026
+Citing an unnamed U.S. official, Bloomberg reported that Ukraine had agreed not to target CPC infrastructure or qualifying non-Russian vessels serving the terminal. The undertaking applies provided vessels are not under Ukrainian sanctions, are not carrying Russian cargo, and are not Russian-owned. Ukraine also established contact points through which commercial shippers can provide vessel information and seek safe passage.
+
+ [(The Times of Central Asia)](https://timesca.com/turkey-restricts-some-novorossiysk-bound-shipping-as-cpc-export-risks-persist/)
+
+                                                
+                                                                            
+        
+    - 
+        
+            
+                August 12, 2026            
+            
+            Vance Personally Pressed Zelensky on CPC Strikes 2026
+The Financial Times reported that U.S. Vice President JD Vance personally asked Ukrainian President Volodymyr Zelensky during a July 31 call to halt attacks on tankers serving the CPC terminal. Kyiv reportedly agreed not to target CPC infrastructure or non-Russian vessels unless they were sanctioned by Ukraine or carrying Russian cargo. A U.S. official described CPC as “a vital conduit of Kazakhstan-origin energy for European markets.” Ukraine has not struck tankers near the terminal since the call.
+
+ [(The Times of Central Asia)](https://timesca.com/vance-personally-asked-zelensky-to-halt-cpc-linked-tanker-strikes-ft-reports/)
+
+                                                
+                                                                            
+        
+    - 
+        
+            
+                August 14-18, 2026            
+            
+            Kazakhstan’s Other Russian Export Routes Come Under Pressure 2026
+On August 14, a drone attack halted crude loadings at the Sheskharis terminal at Novorossiysk, which handles Kazakhstan’s KEBCO crude as well as Russian oil. The same day, a Ukrainian drone attack caused a fire at Ust-Luga on Russia’s Baltic coast, although Russian authorities said the damage was quickly cleared. Operations at Sheskharis resumed on August 16, with Kazakh crude among the first cargoes loaded. On August 18, at least two Kazakh KEBCO cargoes scheduled for Ust-Luga were redirected to Novorossiysk, freeing about 100,000 barrels per day of Baltic export capacity for Russian crude. The shift further concentrated Kazakhstan’s Russia-routed exports on the Black Sea even as Astana seeks to expand alternatives.
+
+ [(The Times of Central Asia)](https://timesca.com/push-for-kazakhstan-oil-exports-diversification-as-cpc-disruptions-expose-capacity-gap/)
+
+                                                
+                                                                            
+        
+    - 
+        
+            
+                August 25, 2026            
+            
+            Oil Production Forecast Cut 2026
+Energy Minister Yerlan Akkenzhenov said Kazakhstan had reduced its 2026 oil-production forecast from 98 million to 96 million tonnes following disruptions at CPC. He attributed about 3.5 million tonnes of lost production to attacks, with postponed field maintenance partly offsetting the shortfall. The minister also backed Baku–Supsa as an alternative export route, but said direct negotiations with Azerbaijan had not yet begun. 
+
+                                                
+                                                                            
+        
+    - 
+        
+            
+                September 08, 2026            
+            
+            Drone Incident Briefly Interrupts CPC Loading 2026
+A drone incident near CPC’s Black Sea terminal temporarily halted tanker loading at SPM-2 and SPM-3. Kazakhstan’s Energy Ministry said on September 9 that loading had resumed after inspections found no issues preventing further operations and no environmental impact. Acceptance of crude from Kazakh shippers was not restricted.

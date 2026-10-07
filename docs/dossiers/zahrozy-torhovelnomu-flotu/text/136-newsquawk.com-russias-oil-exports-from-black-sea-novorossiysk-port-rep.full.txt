@@ -1,0 +1,203 @@
+URL:         https://www.newsquawk.com/headlines/russias-oil-exports-from-black-sea-novorossiysk-port-reportedly-surged-to-650k-bpd-in-september-50-mm-sources-suggest
+Кінцевий:    https://www.newsquawk.com/headlines/russias-oil-exports-from-black-sea-novorossiysk-port-reportedly-surged-to-650k-bpd-in-september-50-mm-sources-suggest
+Заголовок:   Russia's oil exports from Black Sea Novorossiysk Port reportedly surged to 650k bpd in September, +50% M/M, sources suggest | Newsquawk
+Дата публ.:  2026-09-22
+Завантажено: 2026-10-07 09:41 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 271424
+Оригінал:    raw/136-newsquawk.com-russias-oil-exports-from-black-sea-novorossiysk-port-rep.html
+sha256:      6022aa5990ddf02efd4ee44b2724a5ab9d5fbea82712f64998d3d5df745d2f92
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 13
+==============================================================================
+Russia's oil exports from Black Sea Novorossiysk Port reportedly surged to 650k bpd in September, +50% M/M, sources suggest | Newsquawk
+Recent headlines that moved markets
+Yemeni Houthis hit Saudi Arabia's Ras Tanura refinery (550k BPD) with missiles, Sabereen reports.
+Brent crude, after we published
+Reports of a "massive explosion" at a oil refinery in Jeddah, Saudi, Naya reports.
+Saudi Arabia's East-West oil pipeline pumping reportedly halted after a new attack, AFP reports citing sources; "There was big damage and the pipeline stopped again".
+Yemeni forces spokesperson says Operation “Dawn of Yemen” has begun on a large scale to target Houthi capabilities, Al Arabiya reports.
+French President Macron says diesel and crude stocks to be released over 4 months; G7 leaders confirm the release up to 100mln barrels.
+Get both market opens in your inbox.
+This note and the other one — the EU open and the US open, every business day, written by the desk. No account needed.
+Make Newsquawk a preferred source on Google
+Select this to see Newsquawk more often in Top Stories when you search Google.
+© 2026 Newsquawk. All rights reserved.
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Russia's oil exports from Black Sea Novorossiysk Port reportedly surged to 650k bpd in September, +50% M/M, sources suggest | Newsquawk
+Features
+Coverage
+News
+Pricing
+Enterprise
+Contact
+Log In
+Go live — 7 days for $29.99
+Go live — 7 days for £24.99
+Go live — 7 days for €29.99
+Home
+Headlines
+Russia's oil exports from Black Sea Novorossiysk Port reportedly surged to 650k bpd in September, +50% M/M, sources suggest
+Russia's oil exports from Black Sea Novorossiysk Port reportedly surged to 650k bpd in September, +50% M/M, sources suggest
+Newsquawk Staff
+/
+Oil news
+/
+Published
+22 Sept 2026, 09:59 UTC
+Newsquawk headlines
+UTC
+Every headline is on the live feed
+20
+minutes
+before this site.
+Go live — 7 days for $29.99
+Go live — 7 days for £24.99
+Go live — 7 days for €29.99
+09:49
+The European Commission and the EIB Group launches the European Institutional Investors Pact, a new voluntary framework designed to channel more long-term institutional capital into Europe's technology and scale-up ecosystem
+09:42
+Russian Kremlin says they are finding alternative routes for their grain. Ukraine is the reason for the export issues. Discussions with Turkey around the Black Sea have taken place.
+09:39
+Russia's oil exports from Black Sea Novorossiysk Port reportedly surged to 650k bpd in September, +50% M/M, sources suggest
+09:37
+[MARKET ANALYSIS] Bearish start for fixed gave way to notable, but fleeting, energy/geopolitcally inspired strength
+09:34
+Former Iranian Vice President for Parliamentary Affairs says US President Trump has expressed readiness to meet and negotiate with Iranian President Pezeshkian, but argues Pezeshkian should not hold talks with Trump, Fars reports
+On the Newsquawk feed at
+09:39
+,
+20
+minutes before this page.
+Use the Platform
+Free. No signup, no card.
+Energy · last 90 days
+Recent headlines that moved markets
+ENERGY
+/
+5 Oct · 14:32 UTC
+Yemeni Houthis hit Saudi Arabia's Ras Tanura refinery (550k BPD) with missiles, Sabereen reports.
+Brent crude, after we published
++0.7%
+ENERGY
+/
+5 Oct · 13:24 UTC
+Reports of a "massive explosion" at a oil refinery in Jeddah, Saudi, Naya reports.
+WTI crude, after we published
++0.6%
+ENERGY
+/
+5 Oct · 08:29 UTC
+Saudi Arabia's East-West oil pipeline pumping reportedly halted after a new attack, AFP reports citing sources; "There was big damage and the pipeline stopped again".
+Brent, after we published
++1.7%
+ENERGY
+/
+5 Oct · 08:24 UTC
+Yemeni forces spokesperson says Operation “Dawn of Yemen” has begun on a large scale to target Houthi capabilities, Al Arabiya reports.
+WTI crude, after we published
++1.8%
+ENERGY
+/
+2 Oct · 13:58 UTC
+French President Macron says diesel and crude stocks to be released over 4 months; G7 leaders confirm the release up to 100mln barrels.
+WTI crude, after we published
+−1.8%
+ENERGY
+/
+2 Oct · 13:58 UTC
+French President Macron says diesel and crude stocks to be released over 4 months; G7 leaders confirm the release up to 100mln barrels.
+Brent crude, after we published
+−1.5%
+Newsquawk Daily
+Get both market opens in your inbox.
+This note and the other one — the EU open and the US open, every business day, written by the desk. No account needed.
+Subscribe
+Make Newsquawk a preferred source on Google
+↗
+Select this to see Newsquawk more often in Top Stories when you search Google.
+Related headlines
+Saudi Arabia's East-West pipeline sustained damage to three of the 11 pumping stations, but the pipeline itself was not damaged, Argus reports citing sources
+41 min ago
+IEA is expected to decide details of the G7 diesel and oil stock release at the Board meeting on October 14-15th, according to sources
+56 min ago
+UKMTO announces a time-delayed report of an outbound oil tanker was struck by an unknown projectile in the Strait of Hormuz on October 5th
+1 hour ago
+Qatar says the US and Iran are still engaged in talks, AFP reports
+1 hour ago
+Islamabad denies Reuters claim of sending troops and military equipment to Saudi Arabia, reports Nour News
+2 hours ago
+US Secretary of State Rubio says Ukrainian membership into NATO is not on the table right now
+3 hours ago
+Qatari Foreign Ministry spokesperson says contacts and visits are ongoing in an effort to achieve progress in talks between the US and Iran, Al Jazeera reports
+3 hours ago
+Iranian technical delegation will travel to Qatar to continue discussions on the status of Iranian military pilots, following talks between Iran’s Interior Minister and Qatari officials, Fars reports
+3 hours ago
+The diesel export ban may be lifted in October for some Russian companies, according to IFX
+4 hours ago
+Houthis say that they targeted Saudi Arabia's Abha airport with missiles, with no confirmation from Saudi officials
+4 hours ago
+Tasnim reports a loud explosion was heard north of Riyadh, Saudi Arabia
+4 hours ago
+[MARKET ANALYSIS] Crude pressured by recovering Hormuz flows and despite renewed Saudi attacks
+4 hours ago
+Chevron (CVX) CEO says demand for oil and gas will continue to grow and that they will invest in hardening the resilience of its assets
+5 hours ago
+Saudi Arabia confirms Jazan and Najran airports were hit by strikes on Monday, according to reports
+6 hours ago
+EUROPEAN OPEN: GMAB DC & ABBV epcoritamab/R-CHOP combo improves progression-free survival; ABBV guides Q3 adj. EPS below exps; CVC NA raises REC IM offer; BPCE acquires 7% stake in SAB SM; OR FP explores options for US legal liabilities
+6 hours ago
+A new explosion reported at the Saudi Jeddah oil refinery, Tasnim reports; sources attributing the blast to a Yemeni missile attack
+7 hours ago
+Iran's National Security and Foreign Policy Commission of the Parliament says that "negotiations are for when there are ambiguous issues or when views are not clear; I think that we and the United States have passed this stage", Mizan reports
+8 hours ago
+Newsquawk Daily European Opening News  - 6th October 2026
+8 hours ago
+[MARKET ANALYSIS] Oil futures are range-bound following recent choppy price action and conflicting reports regarding the East-West pipeline
+11 hours ago
+Iranian government spokesperson says Iran is ready for negotiations but will defend the country whether through war or negotiations, Iran International reports
+3 hours ago
+The feed had this first.
+Use the Platform
+Features
+Human Intelligence
+Curated Market News
+Equities Suite
+Customisation & Alerts
+Enterprise
+Resources
+Headlines
+Markets
+Legacy Login
+Use the Platform
+Support
+Contact
+Pricing
+Glossary
+Company
+Careers
+Affiliate
+Glossary
+Legal
+Disclaimer
+Privacy
+Terms
+Coverage
+Multi-Asset
+Equities
+Fixed Income
+Energy
+Forex
+Metals
+How to Trade News Events
+How to Trade NFP
+How to Trade CPI
+How to Trade PCE
+How to Trade ISM
+How to Trade FOMC
+© 2026 Newsquawk. All rights reserved.

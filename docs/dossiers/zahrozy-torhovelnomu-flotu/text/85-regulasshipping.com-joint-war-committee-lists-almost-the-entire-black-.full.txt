@@ -1,0 +1,192 @@
+URL:         https://regulasshipping.com/blog/joint-war-committee-lists-almost-the-entire-black-sea-as-war-risk-area/
+Кінцевий:    https://regulasshipping.com/blog/joint-war-committee-lists-almost-the-entire-black-sea-as-war-risk-area/
+Заголовок:   Joint War Committee Lists Almost the Entire Black Sea as War-Risk Area
+Дата публ.:  2026-10-07
+Завантажено: 2026-10-07 09:36 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 151893
+Оригінал:    raw/85-regulasshipping.com-joint-war-committee-lists-almost-the-entire-black-.html
+sha256:      6c3b4fed0c2407cc130d99e08282b5d3f8ef1ae6e3c93574de9f9ef4fa5fb134
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 11
+==============================================================================
+Joint War Committee Lists Almost the Entire Black Sea as War-Risk Area – REGULAS SHIPPING BLOGS
+New Ship Building And Fleet‑Investment
+Joint War Committee Lists Almost the Entire Black Sea as War-Risk Area
+Check your inbox or spam folder to confirm your subscription.
+India and Oman name On Peace after 12 seafarers are injured off Musandam
+Russia says Aframax Rio is ablaze after unmanned boats off Sochi
+Bulgaria hunts Alfa Watan crew after drones hit two ships east of Byala
+Odesa says a Marshall Islands rapeseed-oil ship was hit, killing a steward
+UN Secretary-General Says Conflicts Are Infringing Navigation as World Maritime Day Falls on 24 September
+VLCC China Earnings Top $1.2 Million a Day as Hormuz Shuttles Absorb Extra Hulls
+© All rights reserved by Regulas Shipping            Theme SpeedBlog designed by
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Joint War Committee Lists Almost the Entire Black Sea as War-Risk Area – REGULAS SHIPPING BLOGS
+Skip to content
+Today:
+Wednesday, October 7 2026
+REGULAS SHIPPING BLOGS
+Menu
+REGULAS SHIPPING BLOGS
+View Video Stories
+Video Stories
+Search for:
+Close search
+Maritime Security
+Maritime Industry
+Maritime Regulations
+Regulatory Updates
+Freight Markets
+Blog
+New Ship Building And Fleet‑Investment
+Maritime Security
+Maritime Industry
+Maritime Regulations
+Regulatory Updates
+Freight Markets
+Blog
+New Ship Building And Fleet‑Investment
+Home
+Maritime Security
+Joint War Committee Lists Almost the Entire Black Sea as War-Risk Area
+Posted in
+Maritime Industry
+Maritime Regulations
+Maritime Security
+Regulatory Updates
+Joint War Committee Lists Almost the Entire Black Sea as War-Risk Area
+Posted on
+September 20, 2026
+September 20, 2026
+by
+Maritime Security Desk
+Reuters reported on Thursday, 18 September 2026, that London’s marine insurance market has widened the Black Sea area it treats as high risk. The product behind that line is Joint War Committee circular JWLA-035, dated 16 September. The circular amends the Europe heading of the Hull War, Piracy, Terrorism and Related Perils listed areas so that item 2 now reads: “Black Sea excluding territorial waters of adjoining countries other than Russia and Ukraine.” Neil Roberts, head of marine and aviation at the Lloyd’s Market Association and secretary of the committee, said in a note accompanying the advisory that the committee had “expanded the Black Sea reporting requirements to the whole of the Black Sea area.” Coastal waters of Russia and Ukraine were already listed. Voyages that stay inside the territorial waters of the other adjoining states still do not require notification. That is an insurance perimeter, not a closure of the basin and not a new coastal-state order.
+The Black Sea is a grain, crude and products route shared by Russia and Ukraine as well as Bulgaria, Georgia, Romania and Turkey. Reuters said Russia and Ukraine have stepped up attacks on each other’s commercial shipping over the past two months, in an escalation of a war now in its fifth year. The committee’s own list still treats the Sea of Azov as a separate defined water. It still lists all inland waters of Ukraine, including inland waters within Crimea and other Ukrainian territories under Russian control; the River Don from the Sea of Azov to a vertical line at 41° E; the River Donets from the River Don to the Ukraine border; and inland waters of Belarus south of 52° 30’ N. JWLA-035 did not rewrite the Persian Gulf, Red Sea or Horn of Africa boxes. It changed the Black Sea box from a coordinate-bounded coastal problem into a basin-wide notification problem.
+What the circular actually changes
+A Joint War Committee listed area is not a prohibition. The circular itself says the application of the list on individual contracts is a matter for specific negotiation, and that the list is published on the LMA and International Underwriting Association websites. Being inside the area can trigger prior notification, additional war-risk premium, tighter terms, and in some fixtures a refusal of cover. It does not, by itself, tell a master to stay in Constanta, turn back at the Bosphorus, or refuse a Ukrainian grain stem. Roberts’s sentence on adjacent territorial waters is the one that matters for a Romanian, Bulgarian, Georgian or Turkish Black Sea call: the port’s 12-mile belt is still outside the notification box. The high-seas leg across the basin is now inside it.
+That is the operational change from the previous coordinate drafting. World Ports, summarising the circular on 18 September, put the point in one line: the market is no longer treating Black Sea war risk as confined to a limited number of ports or coastal zones. The risk perimeter has expanded across the basin. For a voyage that only ever hugged the Ukrainian or Russian coast, the listing was already live. For a voyage that crossed open water toward Varna, Burgas, Constanta, Batumi, or a Turkish Black Sea port, the high-seas stretch is now a listed-area question even if the berth itself is not. Owners who had been treating “Black Sea” as a Ukraine–Russia coastal rider should re-read the policy wording against JWLA-035, not against last year’s map.
+War-risk pricing was already moving before the circular. Reuters said premiums are adding hundreds of thousands of dollars in additional costs for every seven-day voyage, and that they have surged in recent weeks as dozens of ships have been attacked. World Ports added that recent quotations have been highly volatile and vary sharply with the vessel, the port, ownership, trading history and voyage profile. None of that is a Baltic Exchange index. It is a placing conversation. A hull that has called Odesa, Chornomorsk or Novorossiysk in the past month will not price the same as a hull that has only used Constanta. JWLA-035 does not set the rate. It widens the water on which underwriters can ask the question.
+Why the basin is being treated as one risk
+The attacks that sit under the circular are not only Ukrainian-port strikes and not only Russian-port strikes. This desk has already recorded a drone hit on the Turkish feeder
+Lionfish
+while underway Ambarlı–Novorossiysk on 13 September; a strike on the Russian bulker
+Matros Koshka
+alongside at Novorossiysk on 12 September; the killing of the captain of an unnamed Tanzanian-flagged ship bound for a Ukrainian port, reported on 17 September; and Saturday’s Russian Defence Ministry claim that Geran-4 Seeker unmanned aerial vehicles had hit an unnamed dry-cargo ship and a tanker-type hull in the Odesa area, with later Russian reporting moving at least one of those berths to Chornomorsk. Those files remain unverified in important respects. They are still the reason a London war committee stopped describing the risk as a strip of coast.
+The Azov and inland-water lines in the same circular are the reminder that the listing is not only a deep-sea product. River Don and Donets transits, Ukrainian inland waters including Crimea, and the Belarus band south of 52° 30’ N remain listed. A Black Sea fixture that looks like a short coastal hop can still pick up an inland or Azov exposure if the voyage or the cargo chain runs that way. The circular does not distinguish grain from crude from products. It lists waters. Cargo, flag, ownership and last-port history remain the underwriter’s filters, not the committee’s.
+Adjacent-state territorial waters are the carve-out, not a safe-passage certificate. A ship that remains inside Romanian, Bulgarian, Georgian or Turkish territorial sea for the whole voyage may still fall outside the Black Sea notification item. A ship that leaves that belt to cross the basin does not. Traffic-separation schemes, the Bosphorus, and Turkish Straits reporting are separate regimes. JWLA-035 does not amend them. It also does not replace flag-state, class, or P&I war-risk notice provisions. Those contracts will now be read against a basin-wide list rather than a coastal polygon.
+What this does not settle
+The circular does not reopen or close Ukrainian ports. It does not change Russia’s statements about commercial vessels it says are used to transport weapons. It does not verify Saturday’s unnamed hulls, and it does not substitute for a master’s UKMTO-style incident report in a theatre that has no UKMTO. It does not set a single additional-premium tariff. Roberts’s language is about reporting requirements. The premium is still negotiated. A charterer who writes “JWC listed area additional premium for owner’s account” without naming the circular, the waters, and the notice period is writing a dispute, not a fixture.
+It also does not freeze the rest of the world list. Africa, the Gulf of Guinea box, Somalia, the southern Red Sea and Gulf of Aden box, and the named Middle East states including Iran, Iraq, Saudi Arabia, the United Arab Emirates and Yemen remain listed in the same document. A Black Sea amendment is not a reason to thin the Hormuz or Bab el-Mandeb war-risk file. It is a reason to stop treating the Black Sea as the one basin where only the last twelve miles of a Russian or Ukrainian approach counted.
+What Operators Should Note
+Read JWLA-035 as a notification change, not as a closure.
+Navigation is not prohibited. Prior notice, additional premium and, in some cases, a cover refusal are the live effects. Put the circular number in the war-risk notice to brokers, not the phrase “Black Sea risk has increased.”
+Separate the berth from the high-seas leg.
+Territorial waters of Turkey, Romania, Bulgaria and Georgia still do not require notification under the new Black Sea item. Russian and Ukrainian territorial waters remain listed. A Constanta or Varna call does not, by itself, keep the ocean passage off the list.
+Keep the Sea of Azov and the inland lines on the same sheet.
+Azov is still a separate defined water. Ukrainian inland waters, including Crimea, the Don to 41° E, the Donets to the border, and Belarus south of 52° 30’ N remain listed. A “Black Sea only” rider that ignores those boxes is incomplete.
+Price the hull, the last ports and the seven-day clock, not a basin average.
+Reuters described additional costs in the hundreds of thousands of dollars per seven-day voyage. Quotations vary with ownership, trading history and the load and discharge ports. A ship that has been in Odesa, Chornomorsk or Novorossiysk will not price like a ship that has only used EU or Turkish berths.
+Do not treat adjacent-state waters as a transit corridor across the basin.
+Hugging a Romanian or Turkish 12-mile belt for part of the voyage does not carry the high-seas crossing with it. If the passage plan leaves that belt, the listed-area question is back on.
+Align charter, hull war and P&I notice language with the new wording.
+“As per JWC listed areas” now means the whole Black Sea minus those adjoining territorial waters. Update voyage orders, broker notices and crew-brief maps. Leave last year’s coordinate box in the archive.
+Keep the other listed theatres in force.
+JWLA-035 amended Europe. It did not delete the southern Red Sea, Gulf of Aden, Gulf of Oman or named Middle East states. A Black Sea grain fixture and a Hormuz or Bab el-Mandeb tanker fixture are still two war-risk files.
+Regulas Shipping will keep lining JWLA-035’s basin-wide Black Sea wording against the Azov and inland boxes, adjacent-state territorial-water carve-outs and the recent unnamed-hull claims so operators can treat the circular as a notice and premium problem, not as a new coastal-state closure.
+Please leave this field empty
+Don’t miss future updates!
+We don’t spam! Read our
+privacy policy
+for more info.
+Check your inbox or spam folder to confirm your subscription.
+You May Also Like
+Posted in
+Highlights
+India and Oman name On Peace after 12 seafarers are injured off Musandam
+Posted on
+October 7, 2026
+Posted by
+Maritime Security Desk
+Posted in
+Highlights
+Russia says Aframax Rio is ablaze after unmanned boats off Sochi
+Posted on
+October 7, 2026
+October 7, 2026
+Posted by
+Maritime Security Desk
+Posted in
+Highlights
+Bulgaria hunts Alfa Watan crew after drones hit two ships east of Byala
+Posted on
+October 6, 2026
+October 6, 2026
+Posted by
+Maritime Security Desk
+Posted in
+Highlights
+Odesa says a Marshall Islands rapeseed-oil ship was hit, killing a steward
+Posted on
+October 6, 2026
+October 6, 2026
+Posted by
+Maritime Security Desk
+More From Author
+Posted in
+Highlights
+India and Oman name On Peace after 12 seafarers are injured off Musandam
+Posted on
+October 7, 2026
+Posted by
+Maritime Security Desk
+Posted in
+Highlights
+Russia says Aframax Rio is ablaze after unmanned boats off Sochi
+Posted on
+October 7, 2026
+October 7, 2026
+Posted by
+Maritime Security Desk
+Posted in
+Highlights
+Bulgaria hunts Alfa Watan crew after drones hit two ships east of Byala
+Posted on
+October 6, 2026
+October 6, 2026
+Posted by
+Maritime Security Desk
+Posted in
+Highlights
+Odesa says a Marshall Islands rapeseed-oil ship was hit, killing a steward
+Posted on
+October 6, 2026
+October 6, 2026
+Posted by
+Maritime Security Desk
+UN Secretary-General Says Conflicts Are Infringing Navigation as World Maritime Day Falls on 24 September
+VLCC China Earnings Top $1.2 Million a Day as Hormuz Shuttles Absorb Extra Hulls
+Post navigation
+Previous:
+UN Secretary-General Says Conflicts Are Infringing Navigation as World Maritime Day Falls on 24 September
+Next:
+VLCC China Earnings Top $1.2 Million a Day as Hormuz Shuttles Absorb Extra Hulls
+Catergories
+Maritime Industry
+Maritime Security
+Regulatory Updates
+© All rights reserved by Regulas Shipping            Theme SpeedBlog designed by
+WPInterface
+.
+Maritime Security
+Maritime Industry
+Maritime Regulations
+Regulatory Updates
+Freight Markets
+Blog
+New Ship Building And Fleet‑Investment

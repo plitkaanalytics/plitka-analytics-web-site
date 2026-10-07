@@ -1,0 +1,59 @@
+URL:         https://www.newsquawk.com/headlines/russia-cuts-oil-and-gas-revenues-estimate-for-2026-to-rub-76tln-from-rub-89tln-previously
+Кінцевий:    https://www.newsquawk.com/headlines/russia-cuts-oil-and-gas-revenues-estimate-for-2026-to-rub-76tln-from-rub-89tln-previously
+Заголовок:   Russia cuts oil and gas revenues estimate for 2026 to RUB 7.6tln from RUB 8.9tln previously | Newsquawk
+Дата публ.:  2026-09-28
+Завантажено: 2026-10-07 09:41 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 272324
+Оригінал:    raw/139-newsquawk.com-russia-cuts-oil-and-gas-revenues-estimate-for-2026-to-ru.html
+sha256:      c91a27e22f28ba6747c92848851676936dc865ecb1f91907e2ec8be372a3c640
+Витяг:       trafilatura
+
+==============================================================================
+# Russia cuts oil and gas revenues estimate for 2026 to RUB 7.6tln from RUB 8.9tln previously
+
+Every headline is on the live feed **20 minutes** before this site.
+
+European Energy Commissioner writes to 27 member sates ahead of meeting; "I invite you to consider taking or continuing to take measures that can... reduce gas and electricity demand for as long as necessary,", reports AFP
+
+Panama Canal Authority increases Neopanamax daily capacity to 10 slots
+
+Russia cuts oil and gas revenues estimate for 2026 to RUB 7.6tln from RUB 8.9tln previously
+
+Newsquawk Daily US Earnings Estimates - 29th September 2026: CCL
+
+SpaceX (SPCX) Starship returns to earth in the Pacific Ocean
+
+On the Newsquawk feed at , 20 minutes before this page.
+
+[Use the Platform](https://app.newsquawk.com/?market=energy)Free. No signup, no card.
+
+## Context
+
+Revisions of this kind are a mechanical read-through of the finance ministry's underlying assumptions rather than new information: Russian budget revenue forecasts embed an assumed Urals price and a ruble exchange rate, and a downward cut of this size signals the official planning price has been marked lower, the discount to benchmarks wider, or volumes softer. On past occasions, such revisions have tracked realized commodity prices with a lag rather than led them, so the tell is the implied Urals assumption behind the number, which the ministry typically discloses alongside the budget framework. The distinction worth drawing is between a price-driven revision, which corroborates what crude markets already show, and a volume-driven one, which would point to compliance with output commitments or constraints on export logistics, freight, and shadow-fleet capacity. A lower revenue baseline also bears on fiscal financing and the tendency of past episodes to see the budget rule adjusted or the wealth fund tapped when oil and gas receipts undershoot, with knock-on effects for ruble flows from mandatory FX conversion. Worth noting is whether peers in the producer group signal any response on supply policy, since revenue pressure has historically tested quota discipline rather than reinforced it. The figure itself is a planning input, not a market print.
+
+## Related headlines
+
+- [[MARKET ANALYSIS] Crude pressured by recovering Hormuz flows and despite renewed Saudi attacks4 hours ago](/headlines/market-analysis-crude-pressured-by-recovering-hormuz-flows-and-despite-renewed-saudi-attacks)
+- [Chevron (CVX) CEO says demand for oil and gas will continue to grow and that they will invest in hardening the resilience of its assets5 hours ago](/headlines/chevron-cvx-ceo-says-demand-for-oil-and-gas-will-continue-to-grow-and-that-they-will-invest-in-hardening-the-resilience-of-its-assets)
+- [Newsquawk Daily European Opening News - 6th October 20268 hours ago](/headlines/newsquawk-daily-european-opening-news----6th-october-2026)
+- [Newsquawk Daily Asia-Pac Opening News - 6th October 202616 hours ago](/headlines/newsquawk-daily-asia-pac-opening-news---6th-october-2026)
+- [US President Trump says Russia refinery strikes and US closures are driving up gas prices21 hours ago](/headlines/us-president-trump-says-russia-refinery-strikes-and-us-closures-are-driving-up-gas-prices)
+- [Saudi Arabia's East-West pipeline sustained damage to three of the 11 pumping stations, but the pipeline itself was not damaged, Argus reports citing sources32 min ago](/headlines/saudi-arabias-east-west-pipeline-sustained-damage-to-three-of-the-11-pumping-stations-but-the-pipeline-itself-was-not-damaged-argus-reports-citing-sources)
+- [IEA is expected to decide details of the G7 diesel and oil stock release at the Board meeting on October 14-15th, according to sources46 min ago](/headlines/iea-is-expected-to-decide-details-of-the-g7-diesel-and-oil-stock-release-at-the-board-meeting-on-october-14-15th-according-to-sources)
+- [UKMTO announces a time-delayed report of an outbound oil tanker was struck by an unknown projectile in the Strait of Hormuz on October 5th1 hour ago](/headlines/ukmto-announces-a-time-delayed-report-of-an-outbound-oil-tanker-was-struck-by-an-unknown-projectile-in-the-strait-of-hormuz-on-october-5th)
+- [[CALENDAR ADDITION] US President Trump to deliver remarks in Baltimore at 16:00EDT/21:00BST1 hour ago](/headlines/calendar-addition-us-president-trump-to-deliver-remarks-in-baltimore-at-1600edt2100bst)
+- [Qatar says the US and Iran are still engaged in talks, AFP reports1 hour ago](/headlines/qatar-says-the-us-and-iran-are-still-engaged-in-talks-afp-reports)
+- [Islamabad denies Reuters claim of sending troops and military equipment to Saudi Arabia, reports Nour News2 hours ago](/headlines/islamabad-denies-reuters-claim-of-sending-troops-and-military-equipment-to-saudi-arabia-reports-nour-news)
+- [Iraq sets oil price at USD 58/bbl in 2027 draft budget, according to reports, citing lawmakers2 hours ago](/headlines/iraq-sets-oil-price-at-usd-58bbl-in-2027-draft-budget-according-to-reports-citing-lawmakers)
+- [US Secretary of State Rubio says Ukrainian membership into NATO is not on the table right now2 hours ago](/headlines/us-secretary-of-state-rubio-says-ukrainian-membership-into-nato-is-not-on-the-table-right-now)
+- [Satellite images reportedly show unusual heat signatures above Saudi Arabia’s Ghawar oil field; the world's largest onshore oil field, Fars reports3 hours ago](/headlines/satellite-images-reportedly-show-unusual-heat-signatures-above-saudi-arabias-ghawar-oil-field-fars-reports)
+- [Qatari Foreign Ministry spokesperson says contacts and visits are ongoing in an effort to achieve progress in talks between the US and Iran, Al Jazeera reports3 hours ago](/headlines/qatari-foreign-ministry-spokesperson-says-contacts-and-visits-are-ongoing-in-an-effort-to-achieve-progress-in-talks-between-the-us-and-iran-al-jazeera-reports)
+- [Iranian technical delegation will travel to Qatar to continue discussions on the status of Iranian military pilots, following talks between Iran’s Interior Minister and Qatari officials, Fars reports3 hours ago](/headlines/iranian-technical-delegation-will-travel-to-qatar-to-continue-discussions-on-the-status-of-iranian-military-pilots-following-talks-between-irans-interior-minister-and-qatari-officials-fars-reports)
+- [Vitol CEO says that over the last 7-10 days, 12mln bpd of crude and 2mln bpd of products exited the Middle East4 hours ago](/headlines/vitol-ceo-says-that-over-the-last-7-10-days-12mln-bpd-of-crude-and-2mln-bpd-of-products-exited-the-middle-east)
+- [The diesel export ban may be lifted in October for some Russian companies, according to IFX4 hours ago](/headlines/the-diesel-export-ban-may-be-lifted-in-october-for-some-russian-companies-according-to-ifx)
+- [EU officials will be holding an oil coordination group meeting on Wednesday4 hours ago](/headlines/eu-officials-will-be-holding-an-oil-coordination-group-meeting-on-wednesday)
+- [Houthis say that they targeted Saudi Arabia's Abha airport with missiles, with no confirmation from Saudi officials4 hours ago](/headlines/houthis-say-that-they-targeted-saudi-arabias-abha-airport-with-missiles-with-no-confirmation-from-saudi-officials)
+
+The feed had this first.
+
+[Use the Platform](https://app.newsquawk.com/?market=energy)

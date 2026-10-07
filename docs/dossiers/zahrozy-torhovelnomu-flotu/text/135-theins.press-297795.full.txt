@@ -1,0 +1,149 @@
+URL:         https://theins.press/en/news/297795
+Кінцевий:    https://theins.press/en/news/297795
+Заголовок:   Russian diesel exports via the Black Sea fall to zero for the first time on record
+Дата публ.:  2026-10-01
+Завантажено: 2026-10-07 09:41 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 131136
+Оригінал:    raw/135-theins.press-297795.html
+sha256:      6630e9a5fe8a9a01809cba5271fd187e32aec246caff94c8e552328e9d706c7a
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 18
+==============================================================================
+Russian diesel exports via the Black Sea fall to zero for the first time on record — The Insider
+We depend on contributions from readers like you
+Sign up for regular contributions
+Russian diesel exports via the Black Sea fall to zero for the first time on record
+Photo: Dmitry Feoktistov / TASS
+Putin extends fuel subsidy payments, legalizes “homemade” diesel amid Ukrainian attacks on Russian refineries
+Refineries in the crosshairs: Ukraine’s “deep strike” strategy threatens major fuel shortages in Russia by 2026
+De-crudeification: How Ukraine’s strike campaign on Russian oil refineries is changing the war
+Russia’s MoD threatens to “freeze” Ukrainians this winter, Kyiv responds by saying it will “get warm by the flames of Russian refineries”
+Add The Insider as a preferred source on Google and our reporting will show up in your Top Stories more often. Every reader who chooses The Insider helps show Google that our journalism matters.
+Unraveling Havana Syndrome: New evidence links the GRU's assassination Unit 29155 to mysterious attacks on U.S. officials and their families
+Lost in translation: How Russia’s new elite hit squad was compromised by an idiotic lapse in tradecraft
+The Czech illegals: Husband and wife outed as GRU spies aiding bombings and poisonings across Europe
+A most wanted man: Fugitive Wirecard COO Jan Marsalek exposed as decade-long GRU spy
+The Lab: How FSB chemical weapons experts tried to poison Alexei Navalny
+Subscribe to our Sunday Digest
+By subscribing, you agree to The Insider's
+, as well as Google's reCAPTCHA terms
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Russian diesel exports via the Black Sea fall to zero for the first time on record — The Insider
+Reports
+Analytics
+Investigations
+USD
+85.71
+EUR
+96.03
+OIL
+101.1
+Donate
+Русский
+РУ
+We depend on contributions from readers like you
+Sign up for regular contributions
+197
+News
+Russian diesel exports via the Black Sea fall to zero for the first time on record
+The Insider
+October 1, 2026 at 04:10 PM
+Photo: Dmitry Feoktistov / TASS
+Доступно на русском
+Russian exports of diesel fuel and gasoil through the Black Sea fell to zero in the week ending Sept. 24, the first such occurrence since records began, according to
+data
+from S&P Global Commodities at Sea that were reviewed by
+The Insider
+. A week earlier, 66,000 metric tons of fuel were shipped from the port of Novorossiysk, while in 2025 Black Sea ports exported an average of about 200,000 tons a week.
+Russia’s total seaborne exports of diesel and gasoil nearly halved over the week, falling to 81,000 tons. All of those volumes were loaded at the Baltic port of Primorsk and were headed to Morocco and Venezuela. A week earlier, Russian diesel was being shipped to at least five countries, including Turkey, Morocco, and Singapore.
+From Sept. 1 through Sept. 24, Russia exported 448,000 tons of diesel and gasoil by sea. By comparison, S&P put the figure at 535,000 tons in August and 713,000 tons in July. Russian ports also went a second consecutive week without shipping gasoline or jet fuel.
+The Black Sea has become more expensive to insure
+The drop in shipments coincided with a sharp increase in threats to shipping in the Black Sea. On Sept. 16, the Joint War Committee, which brings together representatives of the London insurance market,
+expanded
+its high-war-risk zone to cover nearly the entire Black Sea — Turkish, Romanian, Bulgarian, and Georgian territorial waters were excluded, but Russian and Ukrainian waters fell inside the risk zone.
+According to
+calculations
+by maritime security company Ambrey, 45 commercial vessels were struck outside the previous risk zone in the 12 months from Sept. 21, 2025 to Sept. 21, 2026. There were no such incidents during the preceding 12-month period.
+As a result, shipping insurance costs are rising, with the additional war-risk premium for loading oil at Black Sea ports reaching $2.90 a barrel by Sept. 21, up from 90 cents at the end of 2025, according to a
+Platts estimate
+. The rate has more than tripled over nine months.
+In August,
+The Insider
+reported
+that following Ukrainian attacks, Russian oil shipments to India from Novorossiysk fell by a factor of 4.4, while freight costs rose by about 50%.
+Exports restricted after Ukraine strikes Russian refineries
+At the same time, Russia itself is restricting fuel exports. The government
+extended
+a ban on diesel exports by producers through the end of October, though shipments under intergovernmental agreements remain exempt. The Russian authorities say the measure is necessary in order to secure supplies for the domestic market amid high seasonal demand.
+The Insider
+also reported
+in August that the restrictions had been tightened after a series of Ukrainian strikes on Russian oil refineries. In July, Russia’s seaborne exports of petroleum products had already fallen by nearly 22%, reaching their lowest level since S&P began keeping the data in 2016. Exports of diesel and gasoil fell by about one-third.
+At the same time, the drop in petroleum-product exports has been accompanied by an increase in crude oil shipments. In the four weeks through Sept. 27, Russia
+exported
+an average of 3.71 million barrels of crude a day by sea, while weekly revenue from those sales reached its highest level since the start of the full-scale invasion of Ukraine, as strikes on refineries reduce Russia’s domestic processing capacity, leaving more crude oil available for export.
+See also
+Putin extends fuel subsidy payments, legalizes “homemade” diesel amid Ukrainian attacks on Russian refineries
+October 13, 2025
+Refineries in the crosshairs: Ukraine’s “deep strike” strategy threatens major fuel shortages in Russia by 2026
+November 3, 2025
+De-crudeification: How Ukraine’s strike campaign on Russian oil refineries is changing the war
+July 30, 2026
+Russia’s MoD threatens to “freeze” Ukrainians this winter, Kyiv responds by saying it will “get warm by the flames of Russian refineries”
+August 14, 2026
+We depend on contributions from readers like you
+Sign up for regular contributions
+Another way to support us
+Add The Insider as a preferred source on Google and our reporting will show up in your Top Stories more often. Every reader who chooses The Insider helps show Google that our journalism matters.
+Want to share it?
+Publication:
+“
+Russian diesel exports via the Black Sea fall to zero for the first time on record
+”
+Popular
+Unraveling Havana Syndrome: New evidence links the GRU's assassination Unit 29155 to mysterious attacks on U.S. officials and their families
+Lost in translation: How Russia’s new elite hit squad was compromised by an idiotic lapse in tradecraft
+The Czech illegals: Husband and wife outed as GRU spies aiding bombings and poisonings across Europe
+A most wanted man: Fugitive Wirecard COO Jan Marsalek exposed as decade-long GRU spy
+The Lab: How FSB chemical weapons experts tried to poison Alexei Navalny
+Subscribe to our Sunday Digest
+By subscribing, you agree to The Insider's
+Terms of Service
+and
+Privacy Policy
+, as well as Google's reCAPTCHA terms
+(
+Privacy Policy
+,
+Terms of Service
+).
+About the project
+User agreement
+Privacy policy
+Follow Us:
+18+
+2026
+The Insider
+News
+Investigations
+Dispatch
+ECONOMICS
+Antifake
+SOCIETY
+OPINION
+CORRUPTION
+POLITICS
+Confession
+History
+Books
+Investigation Topics
+Fakesperts
+Subscribe to our Sunday Digest
+Subscribe to RSS Feed
+Follow Us:
+About the project

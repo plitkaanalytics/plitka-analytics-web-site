@@ -1,0 +1,19 @@
+URL:         https://lenta.ru/news/2026/10/04/vs-rossii-porazili-dva-suhogruza-v-chernom-more/
+Кінцевий:    https://web.archive.org/web/20261005181921id_/https://lenta.ru/news/2026/10/04/vs-rossii-porazili-dva-suhogruza-v-chernom-more/
+Заголовок:   ВС России поразили два сухогруза в Черном море
+Дата публ.:  2026-10-04
+Завантажено: 2026-10-07 09:36 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 52420
+Оригінал:    raw/83-lenta.ru-vs-rossii-porazili-dva-suhogruza-v-chernom-more.html
+sha256:      39ce54ea01a3c81b961ba5faa0ba253c6b2a9b5f0314aaf12ca6e0277b2ae344
+Витяг:       trafilatura
+Примітка:    оригінал недоступний (0), узято з Wayback
+
+==============================================================================
+[Министерство обороны России](/tags/organizations/minoborony-rossii/) заявило об ударах по украинским судам в Черном море. Об этом [говорится](https://max.ru/morf/AaEHM8L2cRc) в сообщении ведомства на платформе «Макс».
+
+Минобороны сообщило, что Российская армия продолжает наносить удары беспилотными летательными аппаратами (БПЛА) по объектам инфраструктуры и морским судам, используемым в интересах [Вооруженных сил ](/tags/organizations/vsu/)[Украины](/tags/geo/ukraina/) (ВСУ).
+
+4 октября были атакованы два морских судна в Черном море, доставлявшие в [Одессу](/tags/geo/odessa/) военное имущество, говорится в сообщении.
+
+Ранее [были раскрыты](https://lenta.ru/news/2026/10/04/raskryty-tseli-nochnogo-udara-vs-rossii-po-ukraine/) цели ночного удара [Вооруженных сил России](/tags/organizations/vooruzhennye-sily-rf/) по Украине. БПЛА «Герань» поразили дата-центр в Одессе и логистический центр «Новой почты» в Черноморске Одесской области.

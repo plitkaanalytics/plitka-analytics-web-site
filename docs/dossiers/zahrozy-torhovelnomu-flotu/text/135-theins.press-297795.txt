@@ -1,0 +1,34 @@
+URL:         https://theins.press/en/news/297795
+Кінцевий:    https://theins.press/en/news/297795
+Заголовок:   Russian diesel exports via the Black Sea fall to zero for the first time on record
+Дата публ.:  2026-10-01
+Завантажено: 2026-10-07 09:41 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 131136
+Оригінал:    raw/135-theins.press-297795.html
+sha256:      6630e9a5fe8a9a01809cba5271fd187e32aec246caff94c8e552328e9d706c7a
+Витяг:       trafilatura
+
+==============================================================================
+Russian exports of diesel fuel and gasoil through the Black Sea fell to zero in the week ending Sept. 24, the first such occurrence since records began, according to [data](https://www.spglobal.com/energy/en/news-research/latest-news/refined-products/092926-russias-black-sea-diesel-exports-fall-to-zero-for-first-time-on-record) from S&P Global Commodities at Sea that were reviewed by *The Insider*. A week earlier, 66,000 metric tons of fuel were shipped from the port of Novorossiysk, while in 2025 Black Sea ports exported an average of about 200,000 tons a week.
+
+Russia’s total seaborne exports of diesel and gasoil nearly halved over the week, falling to 81,000 tons. All of those volumes were loaded at the Baltic port of Primorsk and were headed to Morocco and Venezuela. A week earlier, Russian diesel was being shipped to at least five countries, including Turkey, Morocco, and Singapore.
+
+From Sept. 1 through Sept. 24, Russia exported 448,000 tons of diesel and gasoil by sea. By comparison, S&P put the figure at 535,000 tons in August and 713,000 tons in July. Russian ports also went a second consecutive week without shipping gasoline or jet fuel.
+
+**The Black Sea has become more expensive to insure**
+
+The drop in shipments coincided with a sharp increase in threats to shipping in the Black Sea. On Sept. 16, the Joint War Committee, which brings together representatives of the London insurance market, [expanded](https://www.ttclub.com/listed-area/) its high-war-risk zone to cover nearly the entire Black Sea — Turkish, Romanian, Bulgarian, and Georgian territorial waters were excluded, but Russian and Ukrainian waters fell inside the risk zone.
+
+According to [calculations](https://ambrey.com/operations/event/jwla-035-why-the-whole-black-sea-is-now-a-listed-area/) by maritime security company Ambrey, 45 commercial vessels were struck outside the previous risk zone in the 12 months from Sept. 21, 2025 to Sept. 21, 2026. There were no such incidents during the preceding 12-month period.
+
+As a result, shipping insurance costs are rising, with the additional war-risk premium for loading oil at Black Sea ports reaching $2.90 a barrel by Sept. 21, up from 90 cents at the end of 2025, according to a [Platts estimate](https://www.worldports.org/marine-insurers-brace-for-trade-route-shifts-amid-geopolitical-risks/). The rate has more than tripled over nine months.
+
+In August, *The Insider* [reported](https://theins.ru/news/296469) that following Ukrainian attacks, Russian oil shipments to India from Novorossiysk fell by a factor of 4.4, while freight costs rose by about 50%.
+
+**Exports restricted after Ukraine strikes Russian refineries**
+
+At the same time, Russia itself is restricting fuel exports. The government [extended](https://www.reuters.com/business/energy/russia-extends-diesel-export-ban-until-end-october-2026-09-30/) a ban on diesel exports by producers through the end of October, though shipments under intergovernmental agreements remain exempt. The Russian authorities say the measure is necessary in order to secure supplies for the domestic market amid high seasonal demand.
+
+*The Insider *[also reported](https://theins.ru/news/296565) in August that the restrictions had been tightened after a series of Ukrainian strikes on Russian oil refineries. In July, Russia’s seaborne exports of petroleum products had already fallen by nearly 22%, reaching their lowest level since S&P began keeping the data in 2016. Exports of diesel and gasoil fell by about one-third.
+
+At the same time, the drop in petroleum-product exports has been accompanied by an increase in crude oil shipments. In the four weeks through Sept. 27, Russia [exported](https://www.bloomberg.com/news/articles/2026-09-29/russia-s-oil-export-windfall-eroded-by-ban-on-diesel-shipments) an average of 3.71 million barrels of crude a day by sea, while weekly revenue from those sales reached its highest level since the start of the full-scale invasion of Ukraine, as strikes on refineries reduce Russia’s domestic processing capacity, leaving more crude oil available for export.

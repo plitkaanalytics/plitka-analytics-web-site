@@ -1,0 +1,95 @@
+URL:         https://magicport.ai/vessels/tanker/aframax-rio-mmsi-373641000
+Кінцевий:    https://magicport.ai/vessels/tanker/aframax-rio-mmsi-373641000
+Заголовок:   AFRAMAX RIO - (IMO 9273844) - Position, Specs, Managers & Sanctions Risks - MagicPort
+Дата публ.:  2026-10-07
+Завантажено: 2026-10-07 09:35 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 448495
+Оригінал:    raw/80-magicport.ai-aframax-rio-mmsi-373641000.html
+sha256:      984577bd489b36a802ad1b1ff8ec82303c96ed3d93f09b1b9d6946d8c5760de5
+Витяг:       trafilatura
+
+==============================================================================
+AFRAMAX RIO (IMO 9273844, MMSI 636022972) is a Crude/Oil Products Tanker flagged in Liberia. AFRAMAX RIO was built in 2004 with a deadweight capacity of 107,113 MT and a length overall of 247 metres. The vessel was last recorded travelling at 7.3 knots, on a heading of 293 degrees, with a next recorded destination of CONSTANTA port (ROCND). Based on MagicPort's screening against 300+ international sanctions watchlists, AFRAMAX RIO is currently not sanctioned. RIO ENTERPRISES SA is the registered owner and commercial manager of AFRAMAX RIO. EXECUTIVE SHIP MANAGEMENT is the ISM manager of AFRAMAX RIO. Profile data is sourced from AIS feeds and updated continuously.
+
+| Class | A | 
+|---|---|
+| Deadweight | 107113 | 
+| Gross Tonnage | 57948 | 
+| Net Tonnage | ••••••••• | 
+| Length overall (LOA) | 247 | 
+| Class Society | ••••••••• | 
+| Beam | ••••••••• | 
+| Depth moulded | ••••••••• | 
+
+## Ownership
+
+## Voyage History
+
+## Survey Renewal & Certificates
+
+| Code | Nature | Issued RO | Surveyed RO | Date of issue | Date of expire | 
+|---|---|---|---|---|---|
+
+## FAQ about AFRAMAX RIO vessel
+
+### What's the identification number for vessel AFRAMAX RIO?
+
+AFRAMAX RIO's IMO number is 9273844, and its MMSI is 636022972.
+
+### Which is the flag and call sign of vessel AFRAMAX RIO (IMO 9273844)?
+
+Vessel AFRAMAX RIO (IMO 9273844) sails under the flag of LIBERIA with the call sign 5LLH6.
+
+### What is the type and subtype of vessel AFRAMAX RIO (IMO 9273844)?
+
+AFRAMAX RIO (MMSI: 636022972) is classified as a crude/oil products tanker.
+
+### What are the dimensions (LOA, beam) and carrying capacity (DWT) vessel AFRAMAX RIO (IMO 9273844)?
+
+The ship measures 247 meters in length overall (LOA) and 42 meters in width, providing a carrying capacity of 107,113 MTs deadweight (DWT).
+
+### Who is the owner and manager of AFRAMAX RIO (IMO 9273844)?
+
+ISM Manager of AFRAMAX RIO (IMO 9273844) is [EXECUTIVE SHIP MANAGEMENT](https://magicport.ai/owners-managers/singapore/executive-ship-management).
+
+Commercial Manager of AFRAMAX RIO (IMO 9273844) is [RIO ENTERPRISES SA](https://magicport.ai/owners-managers/marshall-islands/rio-enterprises-sa).
+
+Registered Owner of AFRAMAX RIO (IMO 9273844) is [RIO ENTERPRISES SA](https://magicport.ai/owners-managers/marshall-islands/rio-enterprises-sa).
+
+### What is the vessel AFRAMAX RIO (IMO 9273844)'s destination?
+
+The ship is en route to [CONSTANTA port (ROCND)](https://magicport.ai/ports/romania/constanta-port-rocnd).
+
+### Which ports vessel AFRAMAX RIO (IMO 9273844) visited in the last 12 months (1 year)?
+
+AFRAMAX RIO (IMO 9273844) has a recorded port call history available to MagicPort Maritime Intelligence subscribers. In the last 12 months, the vessel has visited [TUZLA Port (TRTUZ)](https://magicport.ai/ports/turkiye/tuzla-port-trtuz), [Türkiye](https://magicport.ai/ports/turkiye), [SAMSUN Port (TRSSX)](https://magicport.ai/ports/turkiye/samsun-port-trssx), [Türkiye](https://magicport.ai/ports/turkiye), [CANAKKALE Port (TRCKZ)](https://magicport.ai/ports/turkey/canakkale-port-trckz), [Turkey](https://magicport.ai/ports/turkey), [SUEZ PORT Port (EGSUZ)](https://magicport.ai/ports/egypt/suez-port-port-egsuz), [Egypt](https://magicport.ai/ports/egypt) and [PORT SAID Port (EGPSD)](https://magicport.ai/ports/egypt/port-said-port-egpsd), [Egypt](https://magicport.ai/ports/egypt). Full port call history — including arrival and departure timestamps, voyage sequences, and port visit frequency — is accessible via MagicPort at [Maritime Intelligence](/solutions/maritime-intelligence).
+
+### Is AFRAMAX RIO (IMO 9273844) sanctioned?
+
+AFRAMAX RIO (IMO 9273844) is not sanctioned. Based on MagicPort's screening against 300+ government and international sanctions watchlists — including OFAC (US Office of Foreign Assets Control), EU sanctions lists, and UN Security Council designations — this status reflects the latest data available. Always verify against current watchlists before entering into any transaction involving this vessel. Need more details? Request a [Free Sanctions Screening Report](https://magicport.ai/resources/tools/free-maritime-sanctions-screening-report).
+
+### What is the risk profile of AFRAMAX RIO (IMO 9273844)?
+
+Vessel AFRAMAX RIO is currently flagged as Medium risk. MagicPort's risk profiling evaluates vessels across multiple dimensions — sanctions exposure, flag state risk, ownership-chain transparency, and AIS behaviour anomalies. For a detailed risk analysis, visit MagicPort's [Maritime Intelligence](/solutions/maritime-intelligence) platform.
+
+## Similar Vessels
+
+| Navigation Status | Under way using its engine | 
+|---|---|
+| Reported ETA | ••••••••• | 
+| Reported Destination (AIS) | CONSTANTA ROMANIA | 
+| Last Position Update | ••••••••• | 
+| Speed | 7.3 knots | 
+| Draught | ••••••••• | 
+| Summer Draught | ••••••••• | 
+| Heading | 293º | 
+| Course | 138.8º | 
+| Next Destination | |
+| Current Position | ••••••••• | 
+
+| Shipyard Country | |
+|---|---|
+| Builder (Shipyard) | |
+| Year Build | 2004 | 
+| Keel Laid Year | 2003 | 
+| Hull Type Code | ••••••••• |

@@ -1,0 +1,81 @@
+URL:         https://beinsure.com/news/black-sea-drone-attacks-on-ships-raise-marine-insurance-risks/
+Кінцевий:    https://beinsure.com/news/black-sea-drone-attacks-on-ships-raise-marine-insurance-risks/
+Заголовок:   Black Sea drone attacks on ships raise marine insurance risks off Bulgaria and Romania
+Дата публ.:  2026-10-06
+Завантажено: 2026-10-07 09:36 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 204101
+Оригінал:    raw/86-beinsure.com-black-sea-drone-attacks-on-ships-raise-marine-insurance-r.html
+sha256:      44fc476a1cd4259a4fad3573abb0072e85d585c16d08d7a9ab6ab4f178a66015
+Витяг:       trafilatura
+
+==============================================================================
+Drone attacks struck two commercial ships off Bulgaria, sinking one vessel and leaving its crew missing, one day after another ship sank following an attack off Romania. The incidents put civilian shipping under pressure in the western Black Sea, with three vessels hit within two days.
+
+Air and sea drones struck the two ships at about 3 a.m. local time around 70 nautical miles east of Byala, inside Bulgaria’s exclusive economic zone, Prime Minister Rumen Radev said. Bulgarian authorities haven’t identified who launched the drones.
+
+
+The Togo-flagged Alfa Watan, a Turkish-owned general cargo ship, sank after the strike. Its crew remained missing as Bulgarian authorities carried out a sea and air search, while officials had not disclosed how many people were aboard.
+
+Crew members aboard the Bulgarian ferry Dioscuria saw an explosion and headed toward the vessel. They found an overturned lifeboat and life jackets but no survivors.
+
+A second ship, the Palau-flagged Able, was also hit and caught fire. All 18 people aboard were rescued by Dioscuria, including 11 Turkish and seven Indian nationals. Two were taken to hospital, one with burns and another with a head injury.
+
+
+Radev said helicopters were sent to Varna for rescue operations and a Su-25 aircraft was deployed for aerial reconnaissance. Bulgaria’s Maritime Rescue Coordination Centre was running the search.
+
+Both ships issued distress signals overnight. Alfa Watan later disappeared from Bulgarian Border Police radar, according to local reports.
+
+Ship-tracking data showed Alfa Watan had been heading toward Sulina in Romania. The cargo aboard the vessel hadn’t been identified. Able was carrying wheat and sailing south, according to Bulgarian authorities.
+
+
+Radev described the attack in Bulgaria’s exclusive economic zone as unacceptable and a violation of maritime law. European Commission President Ursula von der Leyen also condemned attacks on civilian shipping while saying the circumstances were still being established.
+
+The strikes were the first reported attacks on commercial vessels inside Bulgaria’s exclusive economic zone.
+
+## Another cargo ship sinks off Romania
+
+The Bulgarian incidents came one day after the Turkish-owned Royad Mammadov sank in the Black Sea outside Romania’s territorial waters following a fire. Romanian authorities reported two deaths and rescued 11 crew members.
+
+The vessel had been transporting corn from Ukraine toward Ravenna, Italy. Its crew included Azerbaijani and Indian nationals.
+
+
+Ukrainian President Volodymyr Zelenskyy said two Russian drones attacked the civilian ship. Romanian authorities had not confirmed the cause of the fire when reporting the casualties, and Russia hadn’t responded to Zelenskyy’s accusation at that point.
+
+Azerbaijan’s Foreign Ministry identified one of those killed as captain Rustam Ismayil oglu Hasanov. Another Azerbaijani crew member was reported missing, while injured sailors received treatment in Romania.
+
+The ministry repeated its warning against work on transport vessels operating through contested maritime corridors and other high-risk areas.
+
+
+A separate incident near Odesa on Tuesday left one crew member dead and seven injured, according to Ukrainian media cited in the original reporting. The vessel was reported to be sailing under the Marshall Islands flag.
+
+## Black Sea war risk insurance comes into focus
+
+The attacks also have direct consequences for marine insurance. The London market’s Joint War Committee widened its Listed Area for the Black Sea on Sept. 16, 2026, after the deterioration in shipping security.
+
+The current designation covers the Black Sea except the territorial waters of adjoining countries other than Russia and Ukraine. Vessels entering a JWC Listed Area are normally required to notify their war risk underwriters, while pricing and terms are negotiated between insurers and brokers for individual contracts.
+
+
+Reuters reported in September that the change widened the previous high-risk zone beyond Russian and Ukrainian coastal waters as attacks against commercial shipping increased. War risk insurance costs had also risen as underwriters reassessed exposure across the Black Sea.
+
+The attacks off Bulgaria were reported roughly 70 nautical miles from the coast, placing them well outside Bulgarian territorial waters. On the reported location, that puts the incident within the Black Sea area identified by the JWC, although the application of the designation to an individual insurance contract depends on its wording and agreed terms.
+
+Standard marine insurance does not automatically mean a drone strike connected with armed conflict will be paid under ordinary hull or liability cover.
+
+
+War risks are commonly excluded from conventional hull and machinery and P&I policies and insured through separate marine war risk arrangements. Gard says shipowners are expected to arrange appropriate war risk insurance for both hull and P&I exposures when ordinary cover excludes those perils.
+
+Marine war insurance is used for physical loss or damage caused by war and similar hostile acts. Allianz Commercial has previously identified sea mines, rocket attacks and bombings against vessels in the Black Sea as the types of losses likely to fall under marine war policies rather than ordinary marine cover.
+
+That distinction matters for a vessel such as Alfa Watan. Whether the sinking generates a valid war risk claim would depend on the actual cause of the loss, the policy wording, the cover purchased by the owner and any applicable exclusions.
+
+
+The identity of whoever launched the drones has not yet been established by Bulgarian authorities, so a coverage determination cannot be made from the information currently available.
+
+Cargo has its own insurance issue. Gard advises cargo owners operating around armed conflict to carry cargo insurance that includes war cover, since war-related cargo losses aren’t necessarily covered by the shipowner’s liability insurance.
+
+Marine cargo insurers also have the option to amend or cancel war and strikes protection and reinstate it at a higher premium when shipments move through higher-risk regions. Marsh says insurers frequently reassess both availability and pricing when security conditions deteriorate.
+
+
+P&I exposure is separate again. Ordinary P&I cover commonly excludes liabilities caused directly by war risks, which is why shipowners use dedicated war P&I protection for liabilities associated with hostile acts. Such losses can involve crew claims and other third-party liabilities, depending on the contract and cause of loss.
+
+The latest attacks therefore reach beyond physical damage to three vessels. They add another risk point for underwriters already pricing voyages through the Black Sea, where the London marine market expanded its war-risk notification area less than three weeks before the strikes.

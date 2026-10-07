@@ -1,0 +1,578 @@
+URL:         https://www.iea.org/reports/oil-market-report-september-2026
+Кінцевий:    https://www.iea.org/reports/oil-market-report-september-2026
+Заголовок:   Oil Market Report - September 2026 – Analysis - IEA
+Дата публ.:  2026-09-11
+Завантажено: 2026-10-07 09:39 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 313427
+Оригінал:    raw/116-iea.org-oil-market-report-september-2026.html
+sha256:      c6ef0fc38857ec9089be060d8c570ee2b94f70b74e46c5adfb3c318e4d6f2838
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 44
+==============================================================================
+Oil Market Report - September 2026 – Analysis - IEA
+Explore the energy system by fuel, technology or sector
+Renewables and Low-Emissions Fuels
+Understand the biggest energy challenges
+The Middle East and Global Energy Markets
+COP28: Tracking the Energy Outcomes
+Explore the energy system by country or region
+Use, download and buy global energy data
+Understand and manipulate data with easy to use explorers and trackers
+Free and paid data sets from across the energy system available for download
+Past, existing or planned government policies and measures
+Access every chart published across all IEA reports and analysis
+Read the latest analysis from the IEA
+Oil Market Report - September 2026
+Fuel report   — 11 September 2026
+Measures to reduce impacts on households and businesses
+Flagship report   — 12 November 2025
+Energy Technology Perspectives 2026
+Flagship report   — 26 March 2026
+You are connecting via IP recognition from
+If you wish to proceed, click on
+If you prefer to log into your personal account, please sign in below.
+Create a free IEA account to download our reports or subcribe to a paid service.
+Terms of Use for Non-CC Material
+1. Includes extra voluntary curbs and revised, additional compensation cutback volumes. 2. Capacity levels can be reached within 90 days and sustained for an extended period. 3. Excludes shut in Iranian, Russian crude. 4. Iran, Libya, Venezuela exempt from cuts. 5. Mexico excluded from OPEC+ compliance. 6. Bahrain, Brunei, Malaysia, Sudan and South Sudan.
+Oil Market Report - August 2026
+Oil Market Report - April 2026
+Oil Market Report - March 2026
+Oil Market Report - February 2026
+Oil Market Report - January 2026
+Oil Market Report - December 2025
+Oil Market Report - November 2025
+Oil Market Report - October 2025
+Oil Market Report - September 2025
+The best of the IEA sent straight to your inbox
+Top energy experts put IEA analysis in context
+This service includes the PDF report (which provides information on supply, demand, stocks, prices and refinery activity) and tables in the report.
+Subscriptions run over 12 or 24 months (a 10% discount is automatically applied on 24-month subscriptions), from date to date.
+Need help with your purchase ? Visit our
+See if you qualify for a discount.
+licence for Oil Market Report (OMR), I certify the following:
+Unsaved changes made to your selection
+, IEA, Paris https://www.iea.org/reports/oil-market-report-september-2026
+Thank you for subscribing. You can unsubscribe at any time by clicking the link at the bottom of any IEA newsletter.
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Oil Market Report - September 2026 – Analysis - IEA
+IEA
+Close Search
+Search
+About
+News
+Events
+Programmes
+Help centre
+IEA
+Skip navigation
+Search
+Energy system
+Chevron down
+Explore the energy system by fuel, technology or sector
+Fossil Fuels
+Renewables and Low-Emissions Fuels
+Transport
+Industry
+Buildings
+Explore all
+Topics
+Chevron down
+Understand the biggest energy challenges
+The Middle East and Global Energy Markets
+Energy Security
+Artificial Intelligence
+Investment
+Critical Minerals
+Access and Affordability
+Energy Innovation
+Climate Change
+Energy and Gender
+Russia's War on Ukraine
+Energy Innovation
+Climate Change
+Energy and Gender
+Russia's War on Ukraine
+Energy and Water
+Fossil Fuel Subsidies
+Net Zero Emissions
+Saving Energy
+COP28: Tracking the Energy Outcomes
+All topics
+Countries
+Chevron down
+Explore the energy system by country or region
+Member countries
+Australia
+Austria
+Belgium
+Canada
+Czechia
+Denmark
+Estonia
+Finland
+France
+Germany
+Greece
+Hungary
+Ireland
+Italy
+Japan
+Korea
+Latvia
+Lithuania
+Luxembourg
+Mexico
+New Zealand
+Norway
+Poland
+Portugal
+Slovak Republic
+Spain
+Sweden
+Switzerland
+The Netherlands
+Türkiye
+United Kingdom
+United States
+Accession countries
+Brazil
+Chile
+Colombia
+Costa Rica
+Israel
+Romania
+Association countries
+Argentina
+China
+Egypt
+India
+Indonesia
+Kenya
+Morocco
+Nigeria
+Senegal
+Singapore
+South Africa
+Thailand
+Ukraine
+Viet Nam
+All Countries and Regions
+Data
+Chevron down
+Use, download and buy global energy data
+Data explorers
+Understand and manipulate data with easy to use explorers and trackers
+Data explorers
+Data sets
+Free and paid data sets from across the energy system available for download
+Data sets
+Policies database
+Past, existing or planned government policies and measures
+Policies database
+Chart Library
+Access every chart published across all IEA reports and analysis
+Chart
+Explore data
+Reports
+Chevron down
+Read the latest analysis from the IEA
+Oil Market Report - September 2026
+Fuel report   — 11 September 2026
+Sheltering From Oil Shocks
+Measures to reduce impacts on households and businesses
+Fuel report   — 20 March 2026
+World Energy Outlook 2025
+Read more
+Flagship report   — 12 November 2025
+Energy Technology Perspectives 2026
+Read more
+Flagship report   — 26 March 2026
+All reports
+Search
+Bag
+1
+User Profile
+Search
+Sign In
+Flyout close
+You are connecting via IP recognition from
+.
+If you wish to proceed, click on
+Connect
+.
+If you prefer to log into your personal account, please sign in below.
+Connect
+Connect
+OR
+Email                    *
+Error
+Password                    *
+Forgot password?
+Eye
+Error
+Sign in
+Sign in
+Create an account
+Create a free IEA account to download our reports or subcribe to a paid service.
+Join for free
+Join for free
+Reports
+Oil Market Report - September 2026
+Oil Market Report - September 2026
+Subscribe
+Download PDF
+Overview
+Methodology
+Previous editions
+12
+About this report
+The IEA Oil Market Report (OMR) is one of the world's most authoritative and timely sources of data, forecasts and analysis on the global oil market – including detailed statistics and commentary on oil supply, demand, inventories, prices and refining activity, as well as oil trade for IEA and selected non-IEA countries.
+Published
+11 September 2026
+Licence
+Terms of Use for Non-CC Material
+Share
+Cite
+Highlights
+World oil demand is forecast to decline by 2.5 mb/d in 2026, 940 kb/d steeper than in last month’s
+Report
+, as the continuing impasse in negotiations between the United States and Iran delays the prospect of a normalisation of flows into next year. Losses will be concentrated in middle distillates and petrochemical feedstock products, especially in Asia. Oil demand is projected to recover by 2.6 mb/d in 2027, narrowly offsetting this year’s losses.
+Global oil production fell by 1.6 mb/d m-o-m to 100.1 mb/d in August, as more than 10 mb/d of Gulf output remained shut in amid heightened security risks. Total oil supply is set to fall by 5.7 mb/d to 100.7 mb/d this year, with the expected recovery in the Gulf now deferred until 2027. Production is set to rebound by 8 mb/d in 2027. The Americas Quintet dominates growth in non-OPEC+ output, adding 1.4 mb/d in 2026 and 1 mb/d next year.
+Refinery throughputs reached a summer peak of 81.4 mb/d in August, up 960 kb/d m-o-m, but 4.2 mb/d lower than a year ago, with losses spread across the Middle East, Russia and crude importing economies in Asia. Global runs are forecast to decline by 2.6 mb/d to 81.5 mb/d in 2026. Refining margins reached record levels in the Atlantic Basin in August, led by sharply higher diesel cracks, while surging freight rates weighed on Singapore profitability.
+Global observed oil inventories plunged by a further 95 mb in August, taking cumulative draws since February to 507 mb, or 2.8 mb/d on average. Oil on water volumes declined by 65 mb as tanker traffic out of the Middle East came under renewed attacks. Non-OECD inventories drew by 52 mb, led by China, while OECD stocks rose by 23 mb as builds in commercial tanks more than offset a 19 mb draw in government stocks.
+Benchmark North Sea Dated crude prices rose by $7.61/bbl to an average of $91.00/bbl in August, before surging to $113.48/bbl on 9 September. Backwardation reached extreme levels as crude markets tightened in tandem with disruptions in the Middle East and Russia, while demand shifted towards Atlantic Basin barrels. Tanker costs also were up sharply, in line with rising security risks and strong demand for ships.
+Diesel squeeze
+Benchmark crude oil prices surged to their highest level since May as negotiations between the United States and Iran to end the war in the Middle East remained at an impasse amid renewed hostilities. ICE Brent futures traded at $105/bbl at the time of writing, up $21/bbl since the start of August and 45% above pre-war levels, while physical benchmarks were significantly higher. However, the rise in both crude futures and physical prices pales in comparison with those for refined products, where market tightness is now most acute. Diesel/gasoil, which accounts for nearly 30% of global demand, saw prices in the United States surpass the $200/bbl mark in early September, 94% above pre-war levels, with Europe and Asia not far behind.
+The widening differential between crude and refined products has pushed refinery margins to record levels in the Atlantic Basin. Total oil exports from Gulf countries in August are currently estimated around 13 mb/d, nearly half their pre-war level. Crude losses appear to have narrowed to just below 45%, supported by increased flows bypassing the Strait, as well as US military escorts protecting flows through Hormuz. However, refined product and LPG exports remain nearly 60%, or 3.7 mb/d, less than in February.
+Notably, net exports of diesel/gasoil from the Gulf countries averaged 390 kb/d in August, just over a quarter of pre-war levels, as flows through the Strait of Hormuz remained severely constrained. Disruptions to Russia’s refining system and a near-halt to product exports following intensified Ukrainian attacks have compounded these losses. Combined, net exports of diesel/gasoil exports from the Gulf and Russia in August were 1.6 mb/d lower than in February, when they accounted for almost 45% of global seaborne trade. A partial offset comes from other regions, where throughputs are pushed to the limit to capture record profit margins.
+With the protracted US-Iran diplomatic standoff and renewed attacks in both the Gulf and the Red Sea’s Bab el-Mandeb choke point continuing to hamper the normalisation of oil flows, we have further cut our supply and demand projections for the remainder of the year. World oil supply is now projected to average 100.7 mb/d in 2026, down 5.7 mb/d y-o-y, and 1.3 mb/d lower than in our last Report, with a full recovery in supplies from Middle East producers deferred until 2027.
+Steep losses of petrochemical feedstocks and refined product supplies, along with higher fuel prices, notably for diesel, will continue to weigh on consumption. Global oil demand is forecast to fall by 2.5 mb/d in 2026, around 940 kb/d more than estimated in last month’s Report. Nevertheless, the pace of the decline is set to ease from 5.3 mb/d in 2Q26 to 3.4 mb/d in 3Q26 and 2 mb/d in 4Q26.
+Inventories have so far played a crucial role in balancing the market. Since the start of the war, global observed oil inventories have fallen by 507 mb, equal to an average draw of 2.8 mb/d. August alone saw stocks fall by a steep 95 mb, or 3.1 mb/d. With buffers shrinking and the global refining system stretched to the limit, the need for progress in resolving the conflict in the Middle East – and the Russia-Ukraine war, which is now in its fifth year – is greater than ever to avoid further market tightening and demand destruction.
+OPEC+ crude oil production
+1
+million barrels per day
+Jul 2026
+Supply
+Aug 2026
+Supply
+Aug 2026
+vs Target
+Aug 2026
+Implied Target
+1
+Sustainable
+Capacity
+2
+Eff Spare Cap
+vs Aug
+3
+Algeria
+0.97
+0.98
+-0.02
+1.0
+1.0
+0.02
+Congo
+0.29
+0.26
+-0.01
+0.28
+0.27
+0.0
+Equatorial Guinea
+0.04
+0.04
+-0.03
+0.07
+0.05
+0.01
+Gabon
+0.2
+0.19
+0.01
+0.18
+0.22
+0.03
+Iraq
+2.88
+3.86
+-0.55
+4.4
+4.87
+Kuwait
+1.8
+2.04
+-0.62
+2.66
+2.88
+Nigeria
+1.51
+1.51
+0.01
+1.5
+1.45
+0
+Saudi Arabia
+8.24
+5.97
+-4.45
+10.42
+12.11
+Total OPEC-8
+15.93
+14.85
+-5.66
+20.51
+22.84
+0.07
+Iran
+4
+2.72
+2.16
+3.8
+Libya
+4
+1.35
+1.4
+1.34
+0
+Venezuela
+4
+1.12
+1.16
+1.12
+0
+Total OPEC
+21.12
+19.56
+29.11
+0.07
+Azerbaijan
+0.44
+0.4
+-0.15
+0.55
+0.44
+0.04
+Kazakhstan
+1.55
+1.9
+0.28
+1.62
+1.83
+0
+Mexico
+5
+1.4
+1.39
+1.5
+0.11
+Oman
+0.83
+0.87
+0.03
+0.84
+0.9
+Russia
+8.56
+8.36
+-1.53
+9.89
+9.3
+Others
+6
+0.67
+0.63
+-0.24
+0.87
+0.86
+Total Non-OPEC
+13.46
+13.55
+-1.61
+13.76
+14.82
+0.15
+OPEC+ 18 in Nov 2022 deal
+5
+27.98
+27.0
+-7.26
+34.27
+36.17
+0.11
+Total OPEC+
+34.57
+33.11
+43.93
+0.22
+1. Includes extra voluntary curbs and revised, additional compensation cutback volumes. 2. Capacity levels can be reached within 90 days and sustained for an extended period. 3. Excludes shut in Iranian, Russian crude. 4. Iran, Libya, Venezuela exempt from cuts. 5. Mexico excluded from OPEC+ compliance. 6. Bahrain, Brunei, Malaysia, Sudan and South Sudan.
+Oil Market Report Documentation
+Definitions of key terms used in the OMR.
+For more info on the methodology, download the PDF below.
+Download the methodology PDF
+circle-arrow
+Previous editions
+Oil Market Report - August 2026
+arrow-right
+Oil Market Report - July 2026
+arrow-right
+Oil Market Report - June 2026
+arrow-right
+Oil Market Report - May 2026
+arrow-right
+Oil Market Report - April 2026
+arrow-right
+Oil Market Report - March 2026
+arrow-right
+Oil Market Report - February 2026
+arrow-right
+Oil Market Report - January 2026
+arrow-right
+Oil Market Report - December 2025
+arrow-right
+Oil Market Report - November 2025
+arrow-right
+Oil Market Report - October 2025
+arrow-right
+Oil Market Report - September 2025
+arrow-right
+Showing
+10
+of 12
+View all
+Newsletters
+The best of the IEA sent straight to your inbox
+Subscribe to newsletters
+Podcasts
+Top energy experts put IEA analysis in context
+Listen to our podcast
+Understand energy
+Reports
+News and commentaries
+Events
+Energy system
+Topics
+Countries and regions
+Glossary
+Explore data
+Data explorers
+Data sets
+Policies database
+Chart library
+Energy Statistics Browser
+IEA essentials
+About
+Mission
+Membership
+Structure
+Programmes
+International collaborations
+Training
+Connect
+Contact
+Press
+Careers
+Internships
+Delegates
+Help centre
+IEA
+© 2026 IEA
+Terms
+Privacy
+youtube
+linkedin
+bluesky
+facebook
+instagram
+x (formally twitter)
+Back to top
+Purchase licence
+Flyout close
+This service includes the PDF report (which provides information on supply, demand, stocks, prices and refinery activity) and tables in the report.
+Subscriptions run over 12 or 24 months (a 10% discount is automatically applied on 24-month subscriptions), from date to date.
+Duration
+12 months
+24 months (-10%)
+Users
+1 user
+5 users
+10 users
+Enterprise
+Global Enterprise
+Locations
+1 location
+Enterprise
+Multiple locations
+Copies
+Quantity
+Need help with your purchase ? Visit our
+help centre
+See if you qualify for a discount.
+Learn more
+Request price
+Name                    *
+Error
+Company
+Error
+Email                    *
+Error
+Additional information
+Error
+Error
+Error
+Error
+Error
+In purchasing a
+licence for Oil Market Report (OMR), I certify the following:
+Oil Market Report (OMR)
+12 months, 1 user, 1 location
+€  3 450
+icon
+Unsaved changes made to your selection
+Next
+Back
+Add to cart
+icon
+Product added to cart
+View cart
+Checkout
+Back
+icon
+Unsaved changes made to your selection
+Update cart
+Contact us
+Send request
+Cancel
+snackbar icon
+Product added to cart
+Cite report
+Close dialog
+IEA (2026),
+Oil Market Report - September 2026
+, IEA, Paris https://www.iea.org/reports/oil-market-report-september-2026
+Copy to clipboard
+Share this report
+Close dialog
+Share on Twitter
+Twitter
+Share on Facebook
+Facebook
+Share on LinkedIn
+LinkedIn
+Share on Bluesky
+Bluesky
+Share on Email
+Email
+Share on Print
+Print
+Subscription successful
+Close dialog
+Thank you for subscribing. You can unsubscribe at any time by clicking the link at the bottom of any IEA newsletter.

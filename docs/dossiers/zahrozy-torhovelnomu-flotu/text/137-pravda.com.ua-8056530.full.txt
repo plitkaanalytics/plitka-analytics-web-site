@@ -1,0 +1,160 @@
+URL:         https://www.pravda.com.ua/eng/news/2026/10/05/8056530/
+Кінцевий:    https://www.pravda.com.ua/eng/news/2026/10/05/8056530/
+Заголовок:   Russia's oil and gas revenues dropped by 22% in September despite rising oil prices
+Дата публ.:  2026-10-05
+Завантажено: 2026-10-07 09:41 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 159846
+Оригінал:    raw/137-pravda.com.ua-8056530.html
+sha256:      bd564013ab7072c9b6796ea89c16a298966ff684b9b9d28ded75ef46a76e90a4
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 20
+==============================================================================
+Russian oil and gas revenues fall by 22% year-on-year in September | Ukrainska Pravda
+Projects of "Ukrainian Pravda"
+Ukrainian military should not have to ask for help: the story of the Liberty Ukraine charity
+Life under constant stress: rebuilding a sense of safety for little Ukrainians
+Швидкий вхід, якщо ви вже авторизовані на УП/ЕП
+Russia's oil and gas revenues fell by 22% year-on-year. Stock photo: Getty Images
+Add UP as preferred source in Google
+Zelenskyy says Ukraine has not yet covered US$4bn deficit
+Pentagon disburses nearly US$400m in aid to Ukraine just before fiscal year-end
+EU allocates €325 million for five defence projects, four include Ukraine
+© 2000-2026, Ukrainska Pravda,
+Principles and Rules of UP Work
+The use of site materials is allowed only with a reference (for online publications — a hyperlink) to "Ukrainska Pravda" no lower than the third paragraph.
+Any copying, publication, reprinting, or further distribution of information containing a reference to "
+Any copying, reprinting, or reproduction of photographic works and/or audiovisual works owned by Getty Images is strictly prohibited.
+Materials marked as PROMOTED are advertisements and are published as advertising. The editorial board may not share the views promoted in them. Materials marked as SPECIAL PROJECT and WITH SUPPORT are also advertisements, but the editorial team participates in preparing this content and shares the views expressed in these materials.
+The editorial board is not responsible for the facts and value judgments published in advertising materials. According to Ukrainian law, the advertiser is responsible for the content of the advertisements.
+Project founder: Georgiy Gongadze,
+Registered online media entity; media identifier — R40-02280.
+Address: 01032, Kyiv, Zhylianska St., 48, 50A.
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Russian oil and gas revenues fall by 22% year-on-year in September | Ukrainska Pravda
+Ukrainska Pravda
+Укр
+Рос
+Eng
+Support Us
+Укр
+Рос
+Eng
+Sections
+News
+Stories
+Opinions
+Interview
+Podcasts
+Special Projects
+Archive
+Projects of "Ukrainian Pravda"
+Ukrainska Pravda (UKR)
+Ekonomichna Pravda (UKR)
+Life (UKR)
+Sport (UKR)
+European Pravda (ENG)
+Blogs
+Istorychna Pravda (ENG)
+Tabloid
+Mezha (ENG)
+Defence (ENG)
+Topics
+ATACMS
+Russia-Ukraine war
+Special projects
+Ukrainian military should not have to ask for help: the story of the Liberty Ukraine charity
+Life under constant stress: rebuilding a sense of safety for little Ukrainians
+Увійти або зареєструватися
+Увійти з Google
+або
+Email
+Пароль
+Забули пароль?
+Увійти
+Швидкий вхід, якщо ви вже авторизовані на УП/ЕП
+Ще не маєте підписки?
+Долучайтеся до клубу УП!
+News
+Stories
+Opinions
+Interview
+Podcasts
+Special Projects
+Archive
+Russia's oil and gas revenues dropped by 22% in September despite rising oil prices
+Semen Ruban
+—
+                5 October, 13:41
+Russia's oil and gas revenues fell by 22% year-on-year. Stock photo: Getty Images
+Посилання скопійовано
+Add UP as preferred source in Google
+Russia's oil and gas revenues amounted to approximately RUB 452.4 billion (approx. US$5.43 billion) in September, down 22% from September 2025.
+Source:
+Russian media outlet
+The Bell
+, citing data from the Russian Finance Ministry
+Details:
+September revenues were 7% higher than the RUB 424 billion (US$5.1 billion) recorded in August. Oil and gas revenues in August fell by 16% year-on-year.
+Advertisement:
+Much of the revenue is being swallowed up by budget spending to compensate oil refiners for the gap between domestic and global fuel prices. In September, these payments increased from RUB 197.3 billion (US$2.4 billion) to RUB 305.5 billion (US$3.7 billion).
+These payments consumed the entire additional revenue from the mineral extraction tax, which brought in RUB 807 billion (US$9.7 billion) in September, compared with RUB 702.7 billion (US$8.4 billion) in August.
+Since the beginning of the year, the Russian treasury has received RUB 5.47 trillion (US$65.6 billion) in oil and gas revenues, 17.2% less than in January-September 2025.
+The September figure was close to the Russian Finance Ministry's expectations, falling RUB 10 billion (US$120 million) short after additional oil and gas revenues were taken into account.
+In October, the Russian Finance Ministry expects to receive RUB 289.5 billion (US$3.5 billion) in additional oil and gas revenues.
+Background:
+Russia's wealthiest people
+have contributed more than 1% of the country's state spending
+in 2026 through "voluntary" payments. In August, it emerged that these contributions to the Russian budget had reached RUB 383.69 billion (US$4.6 billion) by mid-month, compared with RUB 15.6 billion (US$187 million) before Vladimir Putin met business leaders in March.
+Subscribe on
+Patreon
+to back our journalism long-term.
+money
+Russia
+Advertisement:
+Top news of today
+All news
+money
+Zelenskyy says Ukraine has not yet covered US$4bn deficit
+Pentagon disburses nearly US$400m in aid to Ukraine just before fiscal year-end
+EU allocates €325 million for five defence projects, four include Ukraine
+Latest news
+Advertisement:
+Advertisement:
+Ukrainska Pravda
+© 2000-2026, Ukrainska Pravda,
+LLC "UP Media Plus"
+. All rights reserved.
+Advertising on the site
+Events
+Rules for using UP materials
+AI policy
+Gender policy
+Principles and Rules of UP Work
+How to Write for UP
+Internship
+Promocodes
+The use of site materials is allowed only with a reference (for online publications — a hyperlink) to "Ukrainska Pravda" no lower than the third paragraph.
+Any copying, publication, reprinting, or further distribution of information containing a reference to "
+Interfax-Ukraine
+" is strictly prohibited.
+Any copying, reprinting, or reproduction of photographic works and/or audiovisual works owned by Getty Images is strictly prohibited.
+Materials marked as PROMOTED are advertisements and are published as advertising. The editorial board may not share the views promoted in them. Materials marked as SPECIAL PROJECT and WITH SUPPORT are also advertisements, but the editorial team participates in preparing this content and shares the views expressed in these materials.
+The editorial board is not responsible for the facts and value judgments published in advertising materials. According to Ukrainian law, the advertiser is responsible for the content of the advertisements.
+Project founder: Georgiy Gongadze,
+Editor-in-chief:
+Sevgil Musaeva
+,
+Founding editor:
+Olena Prytula
+,
+Editorial e-mail:
+[email protected]
+Registered online media entity; media identifier — R40-02280.
+Address: 01032, Kyiv, Zhylianska St., 48, 50A.
+Phone: +380 95 641 22 07
