@@ -92,14 +92,36 @@ export default function Page() {
         </p>
 
         <p>
-          Обидва затонулі судна йшли у виключних економічних зонах Румунії й
-          Болгарії, у водах країн НАТО, які не воюють. Жодне не перебувало під
-          санкціями
+          1 жовтня 1946 року Міжнародний військовий трибунал у Нюрнберзі визнав
+          гросадмірала Карла Деніца винним у порушенні Лондонського протоколу
+          1936 року. Протокол забороняв військовому кораблю, надводному чи
+          підводному, топити торговельне судно, не перевівши спершу екіпаж у
+          безпечне місце, і рятувальні шлюпки таким місцем не вважалися
           <a className="ref" href="#ref-8">
             [8]
           </a>
+          . Трибунал записав у вироку, що протокол однозначний: якщо командир не
+          може врятувати людей, він не може топити судно і має дати йому пройти
+          неушкодженим повз свій перископ
           <a className="ref" href="#ref-9">
             [9]
+          </a>
+          . До протоколу приєдналися і Сполучені Штати, і Радянський Союз
+          <a className="ref" href="#ref-10">
+            [10]
+          </a>
+          .
+        </p>
+
+        <p>
+          Вісімдесят років по тому ця норма не захистила жодного з цих суден.
+          Обидва затонулі йшли у виключних економічних зонах Румунії й Болгарії,
+          у водах країн НАТО, які не воюють, і жодне не перебувало під санкціями
+          <a className="ref" href="#ref-11">
+            [11]
+          </a>
+          <a className="ref" href="#ref-12">
+            [12]
           </a>
           . За три тисячі кілометрів на схід, в Ормузькій протоці, танкери
           горять уже восьмий місяць. Чому торговельне судно сьогодні не захищає
@@ -119,14 +141,14 @@ export default function Page() {
           не належать ні Україні, ні Росії. Alfa Watan збудували 1976 року, він
           ходив під прапором Того і належав компанії Baraka Shipping з
           турецького Мерсина
-          <a className="ref" href="#ref-8">
-            [8]
+          <a className="ref" href="#ref-11">
+            [11]
           </a>
           . Двадцятирічний Royad Mammadov ходив під прапором Сент-Кітс і Невіс,
           був записаний на компанію MG Shipping 5, а комерційно ним керувала
           стамбульська Spring Marine
-          <a className="ref" href="#ref-9">
-            [9]
+          <a className="ref" href="#ref-12">
+            [12]
           </a>
           . На борту Able, другого судна з-під Бяли, було одинадцять громадян
           Туреччини й семеро громадян Індії
@@ -159,14 +181,14 @@ export default function Page() {
           лондонського страхового ринку розширив зону воєнного ризику на все
           Чорне море. Поза нею лишилися тільки 12-мильні територіальні води
           Туреччини, Румунії, Болгарії та Грузії
-          <a className="ref" href="#ref-10">
-            [10]
+          <a className="ref" href="#ref-13">
+            [13]
           </a>
           . Доти до зони входили лише води біля берегів Росії та України. Рейс
           через неї не заборонено, але судновласник мусить попередити страховика
           й сплатити додаткову премію, а подекуди отримує відмову в покритті
-          <a className="ref" href="#ref-11">
-            [11]
+          <a className="ref" href="#ref-14">
+            [14]
           </a>
           .
         </p>
@@ -188,8 +210,8 @@ export default function Page() {
           попередні дванадцять місяців жодного. У самій старій зоні в
           п&apos;ятий рік війни в середньому уражають 28 суден на місяць проти
           чотирьох роком раніше
-          <a className="ref" href="#ref-10">
-            [10]
+          <a className="ref" href="#ref-13">
+            [13]
           </a>
           .
         </p>
@@ -203,8 +225,8 @@ export default function Page() {
           кінця листопада 2025 року атакує судна, що ходять у російські порти,
           насамперед танкери тіньового флоту, а з липня 2026 року також
           суховантажі, контейнеровози й ро-ро
-          <a className="ref" href="#ref-10">
-            [10]
+          <a className="ref" href="#ref-13">
+            [13]
           </a>
           .
         </p>
@@ -213,8 +235,8 @@ export default function Page() {
           Плавучих вибухонебезпечних предметів поза водами Росії та України за
           рік знайшли майже вшестеро більше, 65 проти 11, і замість мін тепер
           дрейфують безекіпажні катери та уламки дронів
-          <a className="ref" href="#ref-10">
-            [10]
+          <a className="ref" href="#ref-13">
+            [13]
           </a>
           . Міжнародна морська організація (IMO) називає війну «серйозною і
           безпосередньою загрозою» для екіпажів і суден у Чорному та Азовському
@@ -229,18 +251,18 @@ export default function Page() {
           Чорне море не єдине. Війна США та Ізраїлю з Іраном, що почалася 28
           лютого 2026 року, перетворила на зону полювання Ормузьку протоку, якою
           до війни йшла п&apos;ята частина світової нафти
-          <a className="ref" href="#ref-12">
-            [12]
+          <a className="ref" href="#ref-15">
+            [15]
           </a>
           . За даними IMO, до кінця серпня там загинули щонайменше двадцять
           моряків і портовиків
-          <a className="ref" href="#ref-13">
-            [13]
+          <a className="ref" href="#ref-16">
+            [16]
           </a>
           . Обидва театри б&apos;ють по тих самих ринках зерна, добрив і
           дизельного пального
-          <a className="ref" href="#ref-14">
-            [14]
+          <a className="ref" href="#ref-17">
+            [17]
           </a>
           .
         </p>
@@ -298,48 +320,68 @@ export default function Page() {
               <a href="https://t.me/Crimeanwind/110645">t.me/Crimeanwind</a>
             </li>
             <li id="ref-8">
+              Procès-verbal relating to the Rules of Submarine Warfare set forth
+              in Part IV of the Treaty of London of 22 April 1930, London,
+              06.11.1936. Текст за University of Minnesota Human Rights Library.{" "}
+              <a href="https://hrlibrary.umn.edu/instree/1936a.htm">
+                hrlibrary.umn.edu
+              </a>
+            </li>
+            <li id="ref-9">
+              International Military Tribunal, Nuremberg — Judgment: Doenitz,
+              01.10.1946. Текст за Avalon Project, Yale Law School.{" "}
+              <a href="https://avalon.law.yale.edu/imt/juddoeni.asp">
+                avalon.law.yale.edu
+              </a>
+            </li>
+            <li id="ref-10">
+              Fedlex / LexFind — Procès-verbal concernant les règles de la
+              guerre sous-marine, 1936: перелік держав-учасниць.{" "}
+              <a href="https://www.lexfind.ch/tolv/195671/fr">lexfind.ch</a>
+            </li>
+            <li id="ref-11">
               MagicPort — профіль судна ALFA WATAN (IMO 7510884). Комерційний
               AIS-агрегатор.{" "}
               <a href="https://magicport.ai/vessels/general-cargo/alfa-watan-mmsi-671480000">
                 magicport.ai
               </a>
             </li>
-            <li id="ref-9">
+            <li id="ref-12">
               MagicPort — профіль судна ROYAD MAMMADOV (IMO 9356969).
               Комерційний AIS-агрегатор.{" "}
               <a href="https://magicport.ai/vessels/general-cargo/royad-mammadov-mmsi-636020314">
                 magicport.ai
               </a>
             </li>
-            <li id="ref-10">
+            <li id="ref-13">
               Ambrey — «JWLA-035: Why the Whole Black Sea Is Now a Listed Area»,
               23.09.2026.{" "}
               <a href="https://ambrey.com/operations/event/jwla-035-why-the-whole-black-sea-is-now-a-listed-area/">
                 ambrey.com
               </a>
             </li>
-            <li id="ref-11">
+            <li id="ref-14">
               Regulas Shipping — «Joint War Committee Lists Almost the Entire
               Black Sea as War-Risk Area», 10.2026.{" "}
               <a href="https://regulasshipping.com/blog/joint-war-committee-lists-almost-the-entire-black-sea-as-war-risk-area/">
                 regulasshipping.com
               </a>
             </li>
-            <li id="ref-12">
+            <li id="ref-15">
               NPR — «U.S. military says it destroyed 5 Iranian oil tankers after
               attacks on Navy warship», 09.09.2026.{" "}
               <a href="https://www.npr.org/2026/09/09/nx-s1-5962641/us-destroy-iranian-oil-tankers">
                 npr.org
               </a>
             </li>
-            <li id="ref-13">
+            <li id="ref-16">
               ShareSansar (AFP) — «Six months of war: 20 dead in 68 incidents
               near Hormuz, IMO says», 25.08.2026.{" "}
               <a href="https://www.sharesansar.com/newsdetail/six-months-of-war-20-dead-in-68-incidents-near-hormuz-imo-says-2026-08-25">
                 sharesansar.com
               </a>
             </li>
-            <li id="ref-14">
+            <li id="ref-17">
               IEA — Oil Market Report, September 2026, 11.09.2026.{" "}
               <a href="https://www.iea.org/reports/oil-market-report-september-2026">
                 iea.org
