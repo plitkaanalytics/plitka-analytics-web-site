@@ -310,6 +310,12 @@ export default function Page() {
           <a className="ref" href="#ref-20">
             [20]
           </a>
+          . Після потоплення Alfa Watan посольство Росії в Болгарії заявило
+          Reuters, що обидва судна «не були в переліку цілей» Міноборони, і
+          закликало розслідувати, чиї це були дрони
+          <a className="ref" href="#ref-21">
+            [21]
+          </a>
           .
         </p>
 
@@ -319,8 +325,8 @@ export default function Page() {
           Військово-морські сили зв&apos;язалися з болгарськими колегами і
           встановили, що це комбінована російська атака морськими й повітряними
           дронами
-          <a className="ref" href="#ref-21">
-            [21]
+          <a className="ref" href="#ref-22">
+            [22]
           </a>
           .
         </p>
@@ -347,8 +353,8 @@ export default function Page() {
             Жодна з двох держав, у чиїх водах тонули судна, атакувальника не
             назвала. Міністерство внутрішніх справ Румунії причину пожежі на
             Royad Mammadov не вказало
-            <a className="ref" href="#ref-22">
-              [22]
+            <a className="ref" href="#ref-23">
+              [23]
             </a>
             . Радев сказав, що дрони були «явно або російськими, або
             українськими»
@@ -360,8 +366,8 @@ export default function Page() {
             заявив інше. «Потрібно знайти уламки дронів або щоб одна зі сторін
             взяла на себе відповідальність, але цього не сталося, тому ми не
             можемо підтвердити, чи вони українські, чи російські»
-            <a className="ref" href="#ref-23">
-              [23]
+            <a className="ref" href="#ref-24">
+              [24]
             </a>
             .
           </p>
@@ -370,8 +376,19 @@ export default function Page() {
             військову допомогу Україні, а в серпні, після вибуху дрона біля
             Трансбалканського газогону, її Міноборони заявляло, що дрон був
             типу, «широко вживаного українськими військовими»
-            <a className="ref" href="#ref-24">
-              [24]
+            <a className="ref" href="#ref-25">
+              [25]
+            </a>
+            .
+          </p>
+          <p>
+            Єврокомісія діє інакше. Її речник Крістіан Віганд назвав атаки на
+            судна з пшеницею «абсолютно неприйнятними» і закликав саме Росію
+            «припинити всі дії, які ставлять під загрозу міжнародне
+            судноплавство та життя моряків». На прохання Румунії й Болгарії ЄС
+            передає їм супутникові знімки
+            <a className="ref" href="#ref-26">
+              [26]
             </a>
             .
           </p>
@@ -382,8 +399,8 @@ export default function Page() {
           назвав події 5–6 жовтня «полюванням на судна турецьких власників» і
           стверджує, що Alfa Watan і Royad Mammadov пов&apos;язані з однією
           стамбульською компанією Spring Marine
-          <a className="ref" href="#ref-25">
-            [25]
+          <a className="ref" href="#ref-27">
+            [27]
           </a>
           . Підтвердити цю тезу ми не можемо. Spring Marine справді є
           комерційним менеджером Royad Mammadov, але Alfa Watan, за даними
@@ -536,6 +553,14 @@ export default function Page() {
               <a href="https://www.interfax.ru/russia/1120254">interfax.ru</a>
             </li>
             <li id="ref-21">
+              The Maritime Executive — «Bulgaria Suspends Search for Missing
+              Crew as Russia Denies Attack», 07.10.2026. Заява посольства РФ
+              через Reuters, дані заявлені.{" "}
+              <a href="https://maritime-executive.com/article/bulgaria-suspends-search-for-missing-crew-as-russia-denies-attack">
+                maritime-executive.com
+              </a>
+            </li>
+            <li id="ref-22">
               УП / «Європейська правда» — «Зеленський: Судна у водах Болгарії
               атакувала Росія, ВМС України вже контактує з болгарами»,
               06.10.2026.{" "}
@@ -543,14 +568,14 @@ export default function Page() {
                 pravda.com.ua
               </a>
             </li>
-            <li id="ref-22">
+            <li id="ref-23">
               Al Jazeera — «Ukraine says Russian drone attack sinks ship in
               Romanian waters», 05.10.2026.{" "}
               <a href="https://www.aljazeera.com/news/2026/10/5/ukraine-says-russian-drone-attack-sinks-ship-in-romanian-waters">
                 aljazeera.com
               </a>
             </li>
-            <li id="ref-23">
+            <li id="ref-24">
               УП / «Європейська правда» — «Болгарський міністр назвав війну РФ і
               України гібридною і не певен, чиї дрони вразили кораблі»,
               06.10.2026. Заява в ефірі бТВ.{" "}
@@ -558,14 +583,21 @@ export default function Page() {
                 pravda.com.ua
               </a>
             </li>
-            <li id="ref-24">
+            <li id="ref-25">
               Euronews — «Ukraine denies targeting Bulgaria as drone explodes
               near pipeline, Kyiv promises inquiry», 09.08.2026.{" "}
               <a href="https://www.euronews.com/2026/08/09/ukraine-denies-targeting-bulgaria-as-drone-explodes-near-pipeline-kyiv-promises-inquiry">
                 euronews.com
               </a>
             </li>
-            <li id="ref-25">
+            <li id="ref-26">
+              УП / «Європейська правда» — «У ЄС назвали неприйнятними удари по
+              торговельних суднах у Чорному морі», 07.10.2026.{" "}
+              <a href="https://www.pravda.com.ua/news/2026/10/07/8056886/">
+                pravda.com.ua
+              </a>
+            </li>
+            <li id="ref-27">
               NV — «Полювання РФ на судна турецьких власників. Біля Болгарії
               після атаки дронів затонуло друге за два дні судно», 06.10.2026.
               Коментар А. Клименка.{" "}
