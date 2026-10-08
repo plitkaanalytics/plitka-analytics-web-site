@@ -290,42 +290,24 @@ export default function Page() {
           <a className="ref" href="#ref-3">
             [3]
           </a>
-          . Ішов він уздовж румунського берега, маршрутом, який за усією логікую
-          мав бути безпечним адже за міжнародною логікою ця територія належить
+          . Ішов він уздовж румунського берега, маршрутом, який за усією логікою
+          мав бути безпечним, адже за міжнародною логікою ця територія належить
           країні НАТО
           <a className="ref" href="#ref-18">
             [18]
           </a>
-          . Компанія морської безпеки Ambrey звернула увагу, що всі три судна,
-          уражені у водах Румунії й Болгарії, працювали на дунайські порти, і
-          оцінила як дуже ймовірне, що атакували російські сили
+          . Москва полювання на такі судна не приховує. За день до удару по
+          Royad Mammadov Міноборони РФ заявило, що «поражены два морских судна
+          типа сухогруз, доставлявшие в порт Одесса военное имущество». Назв
+          суден відомство не навело і доказів не показало
           <a className="ref" href="#ref-19">
             [19]
-          </a>
-          . Міноборони РФ за день до удару по Royad Mammadov заявило, що
-          «поражены два морских судна типа сухогруз, доставлявшие в порт Одесса
-          военное имущество». Назв суден відомство не навело і доказів не
-          показало
-          <a className="ref" href="#ref-20">
-            [20]
           </a>
           . Після потоплення Alfa Watan посольство Росії в Болгарії заявило
           Reuters, що обидва судна «не були в переліку цілей» Міноборони, і
           закликало розслідувати, чиї це були дрони
-          <a className="ref" href="#ref-21">
-            [21]
-          </a>
-          .
-        </p>
-
-        <p>
-          Президент Володимир Зеленський заявив, що українські Сили оборони
-          жодних операцій у цьому районі моря не проводили. За його словами,
-          Військово-морські сили зв&apos;язалися з болгарськими колегами і
-          встановили, що це комбінована російська атака морськими й повітряними
-          дронами
-          <a className="ref" href="#ref-22">
-            [22]
+          <a className="ref" href="#ref-20">
+            [20]
           </a>
           .
         </p>
@@ -352,8 +334,8 @@ export default function Page() {
             Жодна з двох держав, у чиїх водах тонули судна, атакувальника не
             назвала. Міністерство внутрішніх справ Румунії причину пожежі на
             Royad Mammadov не вказало
-            <a className="ref" href="#ref-23">
-              [23]
+            <a className="ref" href="#ref-21">
+              [21]
             </a>
             . Радев сказав, що дрони були «явно або російськими, або
             українськими»
@@ -361,12 +343,16 @@ export default function Page() {
               [1]
             </a>
             . Того ж вечора, коли Зеленський говорив про встановлену спільно з
-            болгарами російську атаку, міністр оборони Болгарії Дімітар Стоянов
-            заявив інше. «Потрібно знайти уламки дронів або щоб одна зі сторін
-            взяла на себе відповідальність, але цього не сталося, тому ми не
-            можемо підтвердити, чи вони українські, чи російські»
-            <a className="ref" href="#ref-24">
-              [24]
+            болгарами російську атаку{" "}
+            <a className="ref" href="#ref-22">
+              [22]
+            </a>
+            , міністр оборони Болгарії Дімітар Стоянов заявив інше. «Потрібно
+            знайти уламки дронів або щоб одна зі сторін взяла на себе
+            відповідальність, але цього не сталося, тому ми не можемо
+            підтвердити, чи вони українські, чи російські»
+            <a className="ref" href="#ref-23">
+              [23]
             </a>
             .
           </p>
@@ -375,8 +361,8 @@ export default function Page() {
             військову допомогу Україні, а в серпні, після вибуху дрона біля
             Трансбалканського газогону, її Міноборони заявляло, що дрон був
             типу, «широко вживаного українськими військовими»
-            <a className="ref" href="#ref-25">
-              [25]
+            <a className="ref" href="#ref-24">
+              [24]
             </a>
             .
           </p>
@@ -386,8 +372,8 @@ export default function Page() {
             «припинити всі дії, які ставлять під загрозу міжнародне
             судноплавство та життя моряків». На прохання Румунії й Болгарії ЄС
             передає їм супутникові знімки
-            <a className="ref" href="#ref-26">
-              [26]
+            <a className="ref" href="#ref-25">
+              [25]
             </a>
             .
           </p>
@@ -398,8 +384,8 @@ export default function Page() {
           назвав події 5–6 жовтня «полюванням на судна турецьких власників» і
           стверджує, що Alfa Watan і Royad Mammadov пов&apos;язані з однією
           стамбульською компанією Spring Marine
-          <a className="ref" href="#ref-27">
-            [27]
+          <a className="ref" href="#ref-26">
+            [26]
           </a>
           . Підтвердити цю тезу ми не можемо. Spring Marine справді є
           комерційним менеджером Royad Mammadov, але Alfa Watan, за даними
@@ -424,14 +410,14 @@ export default function Page() {
           веде проти українського морського коридору з початку літа. Лише в
           липні 2026 року вона 67 разів атакувала об&apos;єкти морських портів,
           35 разів судна біля причалів і ще 22 рази судна в коридорі
-          <a className="ref" href="#ref-28">
-            [28]
+          <a className="ref" href="#ref-27">
+            [27]
           </a>
           . 13 липня в акваторії Чорноморська загинули п&apos;ятеро іноземних
           моряків на судні під прапором Того з добривами, 17 і 18 липня ще
           четверо моряків у портах Миколаєва й Одеси
-          <a className="ref" href="#ref-29">
-            [29]
+          <a className="ref" href="#ref-28">
+            [28]
           </a>
           .
         </p>
@@ -440,16 +426,16 @@ export default function Page() {
           19 липня три крилаті ракети влучили в балкер Golden Leo під прапором
           Гвінеї-Бісау, який виходив з порту Великої Одеси з кукурудзою.
           Загинули десятеро людей, серед них український лоцман
-          <a className="ref" href="#ref-29">
-            [29]
+          <a className="ref" href="#ref-28">
+            [28]
           </a>
           . Адміністрація морських портів України назвала цей удар однією з
           подій, що змінили погляд судновласників і страховиків на ризик заходу
           в Одесу. 22 липня в порти Великої Одеси не зайшло жодне судно, уперше
           відтоді, як запрацював коридор. За весь липень їх зайшло 169, а за
           перші одинадцять днів серпня лише сім
-          <a className="ref" href="#ref-30">
-            [30]
+          <a className="ref" href="#ref-29">
+            [29]
           </a>
           .
         </p>
@@ -462,8 +448,8 @@ export default function Page() {
           430 тисяч тонн у серпні, а Дунай майже подвоївся за місяць, до 1,24
           мільйона тонн. Кількість заходів суден у дунайські порти зросла з 363
           до 737
-          <a className="ref" href="#ref-19">
-            [19]
+          <a className="ref" href="#ref-30">
+            [30]
           </a>
           .
         </p>
@@ -484,15 +470,15 @@ export default function Page() {
           місяць, ніж у першому півріччі. З липня Ambrey нарахувала щонайменше
           дев&apos;ять уражених суден на підходах до Дунаю, п&apos;ять із них у
           румунських водах
-          <a className="ref" href="#ref-19">
-            [19]
+          <a className="ref" href="#ref-30">
+            [30]
           </a>
           . Компанія сформулювала це так: «Дунай більше не просто альтернативний
           маршрут. Він тепер частина спірної лінії фронту морської торгівлі
           України. Куди йдуть обсяги, туди йдуть і удари, від причалу до
           відкритого моря»
-          <a className="ref" href="#ref-19">
-            [19]
+          <a className="ref" href="#ref-30">
+            [30]
           </a>
           .
         </p>
@@ -501,8 +487,8 @@ export default function Page() {
           Такого навантаження Дунай не витримує. У липні витрата води на
           румунській ділянці впала до 1700 кубометрів на секунду проти звичних
           4700, найменше з 1996 року, і баржі стояли
-          <a className="ref" href="#ref-30">
-            [30]
+          <a className="ref" href="#ref-29">
+            [29]
           </a>
           . Наприкінці серпня на вхід у Дунай чекали близько 80 суден
           <a className="ref" href="#ref-31">
@@ -511,8 +497,8 @@ export default function Page() {
           , а 5 жовтня біля Суліни в черзі стояло до 125 суден, і очікування
           тривало 14–17 днів. Ambrey звертає увагу, що черга збирає судна в
           передбачуваних точках у межах досяжності дронів
-          <a className="ref" href="#ref-19">
-            [19]
+          <a className="ref" href="#ref-30">
+            [30]
           </a>
           .
         </p>
@@ -657,24 +643,24 @@ export default function Page() {
               <a href="https://t.me/milinfolive/180944">t.me/milinfolive</a>
             </li>
             <li id="ref-19">
-              Splash247 — «Aframax Rio blaze underscores widening Black Sea
-              threat», 07.10.2026. Оцінки Ambrey.{" "}
-              <a href="https://splash247.com/aframax-rio-blaze-underscores-widening-black-sea-threat/">
-                splash247.com
-              </a>
-            </li>
-            <li id="ref-20">
               «Интерфакс» — «Два сухогруза с военным имуществом поражены в
               Черном море на переходе в порт Одессы», 04.10.2026. Заява
               Міноборони РФ, дані заявлені.{" "}
               <a href="https://www.interfax.ru/russia/1120254">interfax.ru</a>
             </li>
-            <li id="ref-21">
+            <li id="ref-20">
               The Maritime Executive — «Bulgaria Suspends Search for Missing
               Crew as Russia Denies Attack», 07.10.2026. Заява посольства РФ
               через Reuters, дані заявлені.{" "}
               <a href="https://maritime-executive.com/article/bulgaria-suspends-search-for-missing-crew-as-russia-denies-attack">
                 maritime-executive.com
+              </a>
+            </li>
+            <li id="ref-21">
+              Al Jazeera — «Ukraine says Russian drone attack sinks ship in
+              Romanian waters», 05.10.2026.{" "}
+              <a href="https://www.aljazeera.com/news/2026/10/5/ukraine-says-russian-drone-attack-sinks-ship-in-romanian-waters">
+                aljazeera.com
               </a>
             </li>
             <li id="ref-22">
@@ -686,13 +672,6 @@ export default function Page() {
               </a>
             </li>
             <li id="ref-23">
-              Al Jazeera — «Ukraine says Russian drone attack sinks ship in
-              Romanian waters», 05.10.2026.{" "}
-              <a href="https://www.aljazeera.com/news/2026/10/5/ukraine-says-russian-drone-attack-sinks-ship-in-romanian-waters">
-                aljazeera.com
-              </a>
-            </li>
-            <li id="ref-24">
               УП / «Європейська правда» — «Болгарський міністр назвав війну РФ і
               України гібридною і не певен, чиї дрони вразили кораблі»,
               06.10.2026. Заява в ефірі бТВ.{" "}
@@ -700,21 +679,21 @@ export default function Page() {
                 pravda.com.ua
               </a>
             </li>
-            <li id="ref-25">
+            <li id="ref-24">
               Euronews — «Ukraine denies targeting Bulgaria as drone explodes
               near pipeline, Kyiv promises inquiry», 09.08.2026.{" "}
               <a href="https://www.euronews.com/2026/08/09/ukraine-denies-targeting-bulgaria-as-drone-explodes-near-pipeline-kyiv-promises-inquiry">
                 euronews.com
               </a>
             </li>
-            <li id="ref-26">
+            <li id="ref-25">
               УП / «Європейська правда» — «У ЄС назвали неприйнятними удари по
               торговельних суднах у Чорному морі», 07.10.2026.{" "}
               <a href="https://www.pravda.com.ua/news/2026/10/07/8056886/">
                 pravda.com.ua
               </a>
             </li>
-            <li id="ref-27">
+            <li id="ref-26">
               NV — «Полювання РФ на судна турецьких власників. Біля Болгарії
               після атаки дронів затонуло друге за два дні судно», 06.10.2026.
               Коментар А. Клименка.{" "}
@@ -722,7 +701,7 @@ export default function Page() {
                 nv.ua
               </a>
             </li>
-            <li id="ref-28">
+            <li id="ref-27">
               УНН — «Ukraine’s grain exports have collapsed due to the situation
               in the Black Sea: what happened to the maritime corridor»,
               14.08.2026. Дані Мінрозвитку.{" "}
@@ -730,17 +709,24 @@ export default function Page() {
                 unn.ua
               </a>
             </li>
-            <li id="ref-29">
+            <li id="ref-28">
               DC Marítimo — «Ukraine’s Ports in H1 2026: Growth, Disruption and
               the July Crisis», 04.07.2026, з доповненнями.{" "}
               <a href="https://www.dcmaritimo.es/en/analytics/ukraine-ports-h1-2026">
                 dcmaritimo.es
               </a>
             </li>
-            <li id="ref-30">
+            <li id="ref-29">
               Kyiv Post — «Ships Not Entering Odesa Ports: What This Means for
               Ukraine’s Grain Exports», 18.08.2026. Дані АМПУ, УКАБ, НБУ.{" "}
               <a href="https://www.kyivpost.com/post/82580">kyivpost.com</a>
+            </li>
+            <li id="ref-30">
+              Splash247 — «Aframax Rio blaze underscores widening Black Sea
+              threat», 07.10.2026. Оцінки Ambrey.{" "}
+              <a href="https://splash247.com/aframax-rio-blaze-underscores-widening-black-sea-threat/">
+                splash247.com
+              </a>
             </li>
             <li id="ref-31">
               Ag Policy &amp; Markets Daily — «Ukraine Grain Trade Told to Plan
