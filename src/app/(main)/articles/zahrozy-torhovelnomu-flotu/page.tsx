@@ -573,8 +573,8 @@ export default function Page() {
         </p>
 
         <p>
-          Всеукраїнська аграрна рада та уряд оцінює надлишок зерна, що
-          накопичується в країні через зупинку портів, приблизно в 30-35
+          Всеукраїнська аграрна рада та уряд оцінюють надлишок зерна, що
+          накопичується в країні через зупинку портів, приблизно в 30–35
           мільйонів тонн
           <a className="ref" href="#ref-34">
             [34]
@@ -609,7 +609,7 @@ export default function Page() {
           <a className="ref" href="#ref-29">
             [29]
           </a>
-          . Тим, хто все ж наважується на рейс - дорожчає страховка. Наприкінці
+          . Тим, хто все ж наважується на рейс, — дорожчає страховка. Наприкінці
           серпня додаткова премія за воєнний ризик для заходу в порти Великої
           Одеси й Дунаю становила 1–1,25% вартості судна, тоді як раніше ці
           цифри сягали 0,75% для Одеси, та 0,3–0,5% для Дунаю
@@ -624,7 +624,227 @@ export default function Page() {
           .
         </p>
 
-        {/* TODO: § 03 Схід моря (+ aside Ла-Манш і Балтика) → § 04 Ормуз (+ aside Кариби) → § 05 Чому судна ніхто не захищає → § 06 Ціна для обох берегів → § 07 Хто платить за чужу війну → § 08 Висновок */}
+        {/* ===================== § 02 ===================== */}
+        <h2 id="sec-east">
+          <span className="h2-num">§ 02 · Схід</span>Порт Росія
+        </h2>
+
+        <p>
+          Aframax Rio потрапив під санкції лише однієї країни, України. Рада
+          національної безпеки і оборони внесла його до списку 12 лютого 2026
+          року разом із ще 90 суднами тіньового флоту. За даними РНБО, танкер
+          належить зареєстрованій на Маршаллових Островах компанії Rio
+          Enterprises, а фрахтували його через сінгапурського оператора Navig8 і
+          грецьких менеджерів. У 2024–2026 роках він неодноразово вивозив нафту
+          з Усть-Луги, Новоросійська й Тамані до Індії, Сінгапуру й Саудівської
+          Аравії
+          <a className="ref" href="#ref-38">
+            [38]
+          </a>
+          .
+        </p>
+
+        <p>
+          Останні тижні перед ударом танкер вдавав, що йде в Румунію. Пунктом
+          призначення в його AIS стояла Констанца
+          <a className="ref" href="#ref-38">
+            [38]
+          </a>
+          , але серед заходів за останній рік, які показує сервіс MagicPort,
+          Констанци немає. Є Тузла, Самсун, Чанаккале, Суец і Порт-Саїд
+          <a className="ref" href="#ref-39">
+            [39]
+          </a>
+          . Горів він за 11 кілометрів від Сочі, у територіальних водах Росії
+          <a className="ref" href="#ref-7">
+            [7]
+          </a>
+          . Усіх 23 моряків, громадян Індії, урятували
+          <a className="ref" href="#ref-6">
+            [6]
+          </a>
+          . Наступного дня Зеленський повідомив про удар у Чорному морі, не
+          назвавши цілі
+          <a className="ref" href="#ref-40">
+            [40]
+          </a>
+          .
+        </p>
+
+        <p>
+          Російська влада назвала атаку терористичною{" "}
+          <a className="ref" href="#ref-41">
+            [41]
+          </a>
+          . Мінтранс уже за добу після відкритого горіння нафти на воді заявив,
+          що забруднення акваторії немає. Наслідки ліквідує зведене угруповання
+          Мінтрансу, МНС, Краснодарського краю і Міноборони
+          <a className="ref" href="#ref-42">
+            [42]
+          </a>
+          . Greenpeace попереджає про «безпрецедентне забруднення Чорного моря»,
+          масштабніше за два попередні великі розливи в регіоні
+          <a className="ref" href="#ref-41">
+            [41]
+          </a>
+          .
+        </p>
+
+        <p>
+          Aframax Rio лише найпомітніший епізод кампанії, яку Україна з кінця
+          2025 року веде проти російського морського експорту. Удари, які
+          приписують Україні, тепер у середньому лягають за 58 морських миль від
+          берега, біля північного узбережжя Туреччини й у відкритому морі на
+          південь від Новоросійська та Сочі
+          <a className="ref" href="#ref-13">
+            [13]
+          </a>
+          . 10 липня в Азовському морі за одну ніч уразили 18 російських суден,
+          з них 13 танкерів, а за 96 годин 35. 15 липня в Чорному морі за ніч
+          дрони вразили до 20 суден, серед них 17 танкерів і 2 газовози
+          <a className="ref" href="#ref-28">
+            [28]
+          </a>
+          . Того ж 10 липня Росія обмежила судноплавство в Азовському морі
+          <a className="ref" href="#ref-43">
+            [43]
+          </a>
+          .
+        </p>
+
+        <p>
+          Із 21 липня термінал «Шесхарис» у Новоросійську не завантажив жодного
+          танкера. У перші сім місяців року він відвантажував близько 650 тисяч
+          барелів нафти на добу, приблизно п&apos;яту частину морського експорту
+          Росії. Через дрони зупинявся й сусідній термінал Каспійського
+          трубопровідного консорціуму, через який іде близько 80% казахстанської
+          нафти, і Казахстан почав скорочувати видобуток. Російська влада
+          попередила всі судна в російській економічній зоні Чорного моря, що
+          там небезпечно
+          <a className="ref" href="#ref-44">
+            [44]
+          </a>
+          . 12–13 серпня зупинилися всі три зернові термінали Новоросійська,
+          KSK, NZT і NKHP, разом 24,6 мільйона тонн на рік, близько 75%
+          чорноморських зернових потужностей Росії
+          <a className="ref" href="#ref-43">
+            [43]
+          </a>
+          .
+        </p>
+
+        <div className="aside-note">
+          <p>
+            На півночі Росія відповідає конвоями. Великий протичовновий корабель
+            «Адмирал Левченко» і фрегат «Неустрашимый» супроводжували через
+            Північне море й Ла-Манш підсанкційні суховантажі General Skobelev і
+            Sparta, а британський флот їх відстежував
+            <a className="ref" href="#ref-45">
+              [45]
+            </a>
+            . Перший морський лорд Гвін Дженкінс пояснює це тим, що після
+            перехоплення британцями підсанкційного танкера Smyrtos у червні
+            судна тіньового флоту змушені міняти маршрути, а Москва відволікає
+            бойові кораблі на охорону вантажів
+            <a className="ref" href="#ref-45">
+              [45]
+            </a>
+            . На Балтиці 30 вересня прикордонники ФСБ на кілька годин затримали
+            кіпрський суховантаж Västerbotten, що йшов зі Швеції до естонського
+            Сілламяе
+            <a className="ref" href="#ref-46">
+              [46]
+            </a>
+            .
+          </p>
+        </div>
+
+        <h3>Скільки коштує Росії</h3>
+
+        <p>
+          Зерно в Росії застрягає так само, як в Україні. За даними Російського
+          зернового союзу, у другій декаді вересня країна вивезла 347 тисяч тонн
+          пшениці проти 1,3 мільйона роком раніше, а через Новоросійськ пройшло
+          72,5 тисячі тонн, у 9,6 раза менше. Покупців пшениці стало вісім
+          замість 29, Єгипет узяв у 3,6 раза менше, а Туреччина лише 6,1 тисячі
+          тонн проти понад 200 тисяч роком раніше. На весь вересень союз
+          прогнозує не більше мільйона тонн проти 5,7 мільйона роком раніше, і
+          відвантаження дедалі більше йдуть через балтійські Висоцьк та
+          Усть-Лугу
+          <a className="ref" href="#ref-47">
+            [47]
+          </a>
+          . Аналітики «Совекона» оцінюють падіння за липень–вересень удвічі, а
+          балтійські порти здатні замінити менше десятої частини звичних
+          південних обсягів
+          <a className="ref" href="#ref-48">
+            [48]
+          </a>
+          .
+        </p>
+
+        <p>
+          Кубань, головний зерновий регіон, оголосила режим надзвичайної
+          ситуації. «Ми зібрали великий урожай зерна, але зіткнулися з проблемою
+          його реалізації через обмеження роботи портів», — пояснив губернатор.
+          На федеральному рівні скасували експортні мита, запровадили мораторій
+          на банкрутство аграріїв і готують доплати на посів озимих
+          <a className="ref" href="#ref-49">
+            [49]
+          </a>
+          . Партію російської соняшникової олії на 20 тисяч тонн для Індії
+          скасували, бо постачальник не зміг її відвантажити, а ще близько 60
+          тисяч тонн затрималися
+          <a className="ref" href="#ref-36">
+            [36]
+          </a>
+          .
+        </p>
+
+        <p>
+          У тиждень до 24 вересня експорт дизельного пального й газойлю через
+          Чорне море впав до нуля, уперше за всю історію спостережень, а весь
+          морський експорт дизеля Росії йшов лише з балтійського Приморська
+          <a className="ref" href="#ref-50">
+            [50]
+          </a>
+          . Із сирою нафтою інакше. У вересні, за даними джерел ринку,
+          відвантаження з Новоросійська відновилися приблизно до 650 тисяч
+          барелів на добу
+          <a className="ref" href="#ref-51">
+            [51]
+          </a>
+          . Тижнева виручка від морського експорту нафти, за даними Bloomberg,
+          сягнула максимуму від початку повномасштабного вторгнення
+          <a className="ref" href="#ref-50">
+            [50]
+          </a>
+          .
+        </p>
+
+        <p>
+          Війна в Перській затоці підняла ціну Urals з приблизно 45 доларів за
+          барель до понад 92, удвічі. Але нафтогазові доходи федерального
+          бюджету за дев&apos;ять місяців 2026 року впали на 17%, бо видобуток
+          падає, уряд знизив його прогноз до мінімуму за 17 років, а
+          нафтопереробні заводи під ударами
+          <a className="ref" href="#ref-52">
+            [52]
+          </a>
+          . У вересні доходи впали на 22% рік до року, і весь приріст податку на
+          видобуток з&apos;їли компенсації нафтопереробникам
+          <a className="ref" href="#ref-53">
+            [53]
+          </a>
+          . Мінфін знизив оцінку нафтогазових доходів на 2026 рік з 8,9 до 7,6
+          трильйона рублів
+          <a className="ref" href="#ref-54">
+            [54]
+          </a>
+          .
+        </p>
+
+        {/* TODO: § 03 Ормуз + енергетика + Катар (+ aside Кариби) → § 04 Чому судна ніхто не захищає (Нюрнберг, ВЕЗ, ст. 5; Румунія, Болгарія, Катар) → § 05 Хто платить за чужу війну (FAO, Єгипет, олія для Індії, Африка, WFP) → § 06 Висновок */}
 
         {/* ===================== ДЖЕРЕЛА ===================== */}
         <section className="refs" id="sec-refs">
@@ -880,6 +1100,124 @@ export default function Page() {
               Questions About Marine Insurance in the Black Sea», 28.08.2026.{" "}
               <a href="https://en.cfts.org.ua/articles/war_related_risks_and_more_five_questions_about_marine_insurance_in_the_black_sea">
                 cfts.org.ua
+              </a>
+            </li>
+            <li id="ref-38">
+              Укрінформ — «Біля Сочі горить танкер тіньового флоту РФ, який
+              перебуває під санкціями України», 06.10.2026. Дані РНБО й
+              MarineTraffic.{" "}
+              <a href="https://www.ukrinform.ua/rubric-world/4171703-bila-soci-gorit-tanker-tinovogo-flotu-rf-akij-perebuvae-pid-sankciami-ukraini.html">
+                ukrinform.ua
+              </a>
+            </li>
+            <li id="ref-39">
+              MagicPort — профіль судна AFRAMAX RIO (IMO 9273844). Комерційний
+              AIS-агрегатор.{" "}
+              <a href="https://magicport.ai/vessels/tanker/aframax-rio-mmsi-373641000">
+                magicport.ai
+              </a>
+            </li>
+            <li id="ref-40">
+              РБК-Україна — «Україна уразила цілі у трьох регіонах РФ та Чорному
+              морі, — Зеленський», 07.10.2026.{" "}
+              <a href="https://www.rbc.ua/rus/news/ukrayina-urazila-tsili-troh-regionah-rf-ta-1791362284.html">
+                rbc.ua
+              </a>
+            </li>
+            <li id="ref-41">
+              The Maritime Executive — «Greenpeace Warns of Environmental
+              Fallout From Tanker Attack in Black Sea», 07.10.2026.{" "}
+              <a href="https://maritime-executive.com/article/greenpeace-warns-of-environmental-fallout-from-tanker-attack-in-black-sea">
+                maritime-executive.com
+              </a>
+            </li>
+            <li id="ref-42">
+              PortNews (Telegram) — повідомлення Мінтрансу РФ про ліквідацію
+              наслідків, 07.10.2026. Російське джерело, дані заявлені.{" "}
+              <a href="https://t.me/PortNews_ru/14455">t.me/PortNews_ru</a>
+            </li>
+            <li id="ref-43">
+              Baird Maritime — «Port shutdowns push Russia into deeper grain
+              export slowdown», 13.08.2026. Дані Reuters.{" "}
+              <a href="https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/port-shutdowns-push-russia-into-deeper-grain-export-slowdown">
+                bairdmaritime.com
+              </a>
+            </li>
+            <li id="ref-44">
+              The Moscow Times — «Major Russian Black Sea Oil Terminal Halts
+              Operations Amid Ukrainian Drone Threat», 25.07.2026. Дані
+              Bloomberg.{" "}
+              <a href="https://www.themoscowtimes.com/2026/07/25/major-russian-black-sea-oil-terminal-halts-operations-amid-ukrainian-drone-threat-a93337">
+                themoscowtimes.com
+              </a>
+            </li>
+            <li id="ref-45">
+              Royal Navy — «Royal Navy shadows Russian warships and shadow fleet
+              activity in UK waters», 29.08.2026.{" "}
+              <a href="https://www.royalnavy.mod.uk/news/2026/august/29/29082026-royal-navy-shadows-russian-warships-and-shadow-fleet-activity-in-uk-waters">
+                royalnavy.mod.uk
+              </a>
+            </li>
+            <li id="ref-46">
+              The Maritime Executive — «Russia Briefly Detains Cargo Ship Taking
+              Short Cut to Estonia», 10.2026.{" "}
+              <a href="https://maritime-executive.com/article/russia-briefly-detains-cargo-ship-taking-short-cut-to-estonia">
+                maritime-executive.com
+              </a>
+            </li>
+            <li id="ref-47">
+              UkrAgroConsult — «Russia may export only around 1 mln tons of
+              wheat in September», 09.2026. Дані Російського зернового союзу,
+              заявлені.{" "}
+              <a href="https://ukragroconsult.com/en/news/russia-may-export-only-around-1-mln-tons-of-wheat-in-september/">
+                ukragroconsult.com
+              </a>
+            </li>
+            <li id="ref-48">
+              The Sizov Report — «Russian Wheat Exports Start 2026/27 at Half
+              Last Year’s Pace», 09.2026.{" "}
+              <a href="https://blog.sizov.report/russian-wheat-exports-start-2026-27-at-half-last-years-pace/">
+                sizov.report
+              </a>
+            </li>
+            <li id="ref-49">
+              PortNews (Telegram) — режим НС у Краснодарському краї, 28.09.2026.
+              Російське джерело, дані заявлені.{" "}
+              <a href="https://t.me/PortNews_ru/14410">t.me/PortNews_ru</a>
+            </li>
+            <li id="ref-50">
+              The Insider — «Russian diesel exports via the Black Sea fall to
+              zero for the first time on record», 29.09.2026. Дані S&amp;P
+              Global, Bloomberg.{" "}
+              <a href="https://theins.press/en/news/297795">theins.press</a>
+            </li>
+            <li id="ref-51">
+              Newsquawk — «Russia's oil exports from Black Sea Novorossiysk Port
+              reportedly surged to 650k bpd in September», 22.09.2026. Дані
+              джерел ринку.{" "}
+              <a href="https://www.newsquawk.com/headlines/russias-oil-exports-from-black-sea-novorossiysk-port-reportedly-surged-to-650k-bpd-in-september-50-mm-sources-suggest">
+                newsquawk.com
+              </a>
+            </li>
+            <li id="ref-52">
+              The Insider — «Russia’s oil and gas revenues fall 17% in 2026
+              despite doubling of Urals crude prices», 05.10.2026. Дані Reuters,
+              Мінфіну РФ.{" "}
+              <a href="https://theins.press/en/news/297921">theins.press</a>
+            </li>
+            <li id="ref-53">
+              УП — «Russia's oil and gas revenues dropped by 22% in September
+              despite rising oil prices», 05.10.2026. Дані Мінфіну РФ через The
+              Bell.{" "}
+              <a href="https://www.pravda.com.ua/eng/news/2026/10/05/8056530/">
+                pravda.com.ua
+              </a>
+            </li>
+            <li id="ref-54">
+              Newsquawk — «Russia cuts oil and gas revenues estimate for 2026 to
+              RUB 7.6tln from RUB 8.9tln previously», 28.09.2026.{" "}
+              <a href="https://www.newsquawk.com/headlines/russia-cuts-oil-and-gas-revenues-estimate-for-2026-to-rub-76tln-from-rub-89tln-previously">
+                newsquawk.com
               </a>
             </li>
           </ol>
