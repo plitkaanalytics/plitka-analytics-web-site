@@ -172,6 +172,18 @@
 | 163 | [Laconia incident - Wikipedia](https://en.wikipedia.org/wiki/Laconia_incident) | 2001-12-13 | прочитано | 45359 | ? | `text/163-en.wikipedia.org-laconia_incident.txt` |
 | 164 | [Unrestricted submarine warfare - Wikipedia](https://en.wikipedia.org/wiki/Unrestricted_submarine_warfare) | 2004-04-09 | прочитано | 14437 | ? | `text/164-en.wikipedia.org-unrestricted_submarine_warfare.txt` |
 | 165 | [fr](https://www.lexfind.ch/tolv/195671/fr) | — | прочитано | 6867 | ? | `text/165-lexfind.ch-fr.txt` |
+| 166 | [Tanker hit by multiple projectiles off north coast of Qatar, UKMTO say](https://www.aljazeera.com/news/2026/10/8/tanker-hit-by-multiple-projectiles-off-north-coast-of-qatar-ukmto-says) | 2026-10-08 | прочитано | 3075 | ? | `text/166-aljazeera.com-tanker-hit-by-multiple-projectiles-off-north-coast-of-qa.txt` |
+| 167 | [Just a moment...](https://www.seatrade-maritime.com/security/crew-casualties-in-attack-on-tanker-off-qatar) | — | HTTP 403 — НЕ ПРОЧИТАНО | 16 | ? | `text/167-seatrade-maritime.com-crew-casualties-in-attack-on-tanker-off-qatar.txt` |
+| 168 | [UKMTO reports tanker attack 94km north of Al Shamal, Qatar / Qatar Liv](https://www.qatarliving.com/en/article/ukmto-reports-tanker-attack-94km-north-of-al-shamal-qatar) | 2026-10-08 | прочитано | 4049 | ? | `text/168-qatarliving.com-ukmto-reports-tanker-attack-94km-north-of-al-shamal-qa.txt` |
+| 169 | [Tanker Hit by Multiple Projectiles Off Qatar, Casualties Reported](https://www.arabtimesonline.com/news/tanker-hit-by-multiple-projectiles-off-qatar-casualties-reported/) | 2026-10-07 | МАЛО ТЕКСТУ (1072 зн.) — перевірити вручну | 1072 | ? | `text/169-arabtimesonline.com-tanker-hit-by-multiple-projectiles-off-qatar-casua.txt` |
+| 170 | [Tanker Struck 51nm North of Qatar in New Gulf Shipping Attack](https://discoveryalert.com/news/gulf-tanker-attack-qatar-ras-laffan-october-2026/) | 2026-10-07 | прочитано | 12360 | ? | `text/170-discoveryalert.com-gulf-tanker-attack-qatar-ras-laffan-october-2026.txt` |
+| 171 | [Британія заявила про обстріл танкера біля берегів Катару](https://www.pravda.com.ua/news/2026/10/08/8056964/) | 2026-10-08 | прочитано | 1355 | ? | `text/171-pravda.com.ua-8056964.txt` |
+| 172 | [Telegram Widget](https://t.me/milinfolive/181083) | 2026-10-07 | МАЛО ТЕКСТУ (308 зн.) — перевірити вручну | 308 | ? | `text/172-t.me-milinfolive-181083.txt` |
+| 173 | [Just a quick check…](https://timesofisrael.com/liveblog-october-07-2026) | 2026-07-01 | HTTP 403 — НЕ ПРОЧИТАНО | 51 | ? | `text/173-timesofisrael.com-liveblog-october-07-2026.txt` |
+| 174 | [au.investing.com](https://au.investing.com/news/commodities-news/hormuz-transits-at-lowest-in-over-two-months-after-attacks-data-shows-4678604) | — | HTTP 403 — НЕ ПРОЧИТАНО | 3 | ? | `text/174-au.investing.com-hormuz-transits-at-lowest-in-over-two-months-after-at.txt` |
+| 175 | [Shots Fired at Chinese Containership in the Red Sea](https://maritime-executive.com/article/shots-fired-at-chinese-containership-in-the-red-sea) | 2026-10-07 | прочитано | 3751 | ? | `text/175-maritime-executive.com-shots-fired-at-chinese-containership-in-the-red.txt` |
+| 176 | [Product tanker attacked in Red Sea as hostilities escalate](https://seatrade-maritime.com/security/product-tanker-attacked-in-red-sea-as-hostilities-escalate) | 2026-10-05 | прочитано | 6959 | ? | `text/176-seatrade-maritime.com-product-tanker-attacked-in-red-sea-as-hostilitie.txt` |
+| 177 | [Qatar Brings Empty LNG Ships Into Gulf in Potential Export Boost](https://gcaptain.com/qatar-brings-empty-lng-ships-into-gulf-in-potential-export-boost/) | 2026-10-07 | прочитано | 2051 | ? | `text/177-gcaptain.com-qatar-brings-empty-lng-ships-into-gulf-in-potential-expor.txt` |
 
 ## Проблемні джерела
 
@@ -187,6 +199,10 @@
 - **№120** https://mei.edu/publication/from-hormuz-to-the-sahel-a-fertilizer-shock-and-a-maghreb-solution/ — оригінал недоступний (403), узято з Wayback
 - **№134** https://www.spglobal.com/energy/en/news-research/latest-news/refined-products/092926-russias-black-sea-diesel-exports-fall-to-zero-for-first-time-on-record — оригінал недоступний (403), узято з Wayback
 - **№150** https://www.washingtonpost.com/business/2026/07/21/un-hunger-report-ifad-food-security/57da3b58-84ef-11f1-9cec-0fb26676f07e_story.html — оригінал 0; знімка немає в Wayback
+- **№167** https://www.seatrade-maritime.com/security/crew-casualties-in-attack-on-tanker-off-qatar — оригінал 403; знімка немає в Wayback
+- **№173** https://timesofisrael.com/liveblog-october-07-2026 — оригінал 403; знімка немає в Wayback
+- **№174** https://au.investing.com/news/commodities-news/hormuz-transits-at-lowest-in-over-two-months-after-attacks-data-shows-4678604 — оригінал 403; знімка немає в Wayback
+- **№176** https://seatrade-maritime.com/security/product-tanker-attacked-in-red-sea-as-hostilities-escalate — оригінал недоступний (403), узято з Wayback
 
 ---
 
