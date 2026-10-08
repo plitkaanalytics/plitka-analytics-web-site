@@ -1,0 +1,285 @@
+URL:         https://militarnyi.com/en/news/russian-tanker-asia-suffers-accident-arctic/
+Кінцевий:    https://militarnyi.com/en/news/russian-tanker-asia-suffers-accident-arctic/
+Заголовок:   Russian Oil Tanker Bound for Asia Suffers Accident in Arctic
+Дата публ.:  2026-08-13
+Завантажено: 2026-10-08 05:03 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 246955
+Оригінал:    raw/64-militarnyi.com-russian-tanker-asia-suffers-accident-arctic.html
+sha256:      6950bd351d58c7fef9d53b8c5daf346e7203f0d7d9bea39638e42e892f2f321f
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 34
+==============================================================================
+Russian Oil Tanker Bound for Asia Suffers Accident in Arctic
+An oil tanker sailing along the Northern Sea Route. July 2025. Photo credits: Atomflot
+Bundeswehr Begins Testing Pionierpanzer 3 Kodiak Without Planned Natter Weapon Station
+Russia Steps Up Sabotage Against Danish Defense Companies — Danish Intelligence
+Defense Ministry Codifies Phantom Defense Blade Interceptor Drone
+Print&Live and iSCALE 3D Develop Lightweight Non-Pneumatic Wheels for UGVs in Ukraine
+U.S. Orders Additional 1,320 Ukrainian F10 FPV Drones
+Russian icebreaker Viktor Chernomyrdin. February 20th, 2024. Photo credits: Ministry of Transport of the Russian Federation
+bc1qg0z99m95fte7kj8faa7h2kvnq92wvc53exe8gm
+0x8676644fA7B6d328310283cAC1065Ae01d97CEe7
+0xfD02863D3289416fcF50975c9DFda13623f97758
+Build there, not only ship there
+From C-295 to A400M: Kazakhstan Builds New Military Transport Aviation System
+Saudis Plan Counteroffensive Against Houthis to Loosen Stranglehold in Red Sea
+Communications: The Nervous System of a Fighting Force
+You Can Copy the Paperwork. You Can’t Copy the Deadline
+Russian Forces Begin Using New Geran-5 Version With Autonomous Optical Navigation
+Russian forces have begun using a new modification of the Geran-5 jet-powered UAV, which features an autonomous optical navigation system and a mod...
+Ukraine Receives NASAMS System and Air Defense Missiles from Partners — Zelensky
+Ukraine has received a new NASAMS air defense missile system, along with a package of missiles, from the United States and Norway.
+Over 600 Missiles and 2,500 UAVs: Air Force Commander Reveals F-16 Performance in Ukraine
+Ukrainian pilots flying F-16 fighter jets have already shot down over 3,150 enemy aerial targets.
+This was announced by the commander of the Ukr...
+BTR-60-Based Kamikaze Drone Helped Break Through Russian Defenses in Nove Village
+Ukrainian military personnel developed a BTR-60PB-based kamikaze drone that helped break through Russian defenses in the village of Nove.
+Japan to Consider Transferring Patriot Missiles to Ukraine
+Japan plans to resume discussions on providing or selling weapons to Ukraine, specifically interceptor missiles for Patriot systems.
+Ukraine Abandons Australian Eurocopter Tiger Attack Helicopters
+Ukraine has withdrawn its request for Eurocopter Tiger attack helicopters that Australia is currently retiring as it transitions to U.S. AH-64E Apa...
+Submit news or press releases:
+Publications may be cited under condition of source indication
+Web resources are required to provide a direct hyperlink available for search engines for the original publication
+Offline media should provide MILITARNYI.COM website address. Materials of "Special Projects" are published as advertising.
+© 2026              Militarnyi All rights reserved.
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Russian Oil Tanker Bound for Asia Suffers Accident in Arctic
+Thu, 8 October 2026
+Ukr
+Eng
+Donate
+Ukr
+Eng
+News
+Articles
+Blogs
+Videocontent
+Partners
+About Us
+Advertising
+Special projects
+Donate
+Russian Oil Tanker Bound for Asia Suffers Accident in Arctic
+#Arctic
+#Neighbor nations
+#Russia
+#World
+Vladyslav Khomenko
+August 13, 2026
+21:49
+An oil tanker sailing along the Northern Sea Route. July 2025. Photo credits: Atomflot
+News
+Bundeswehr Begins Testing Pionierpanzer 3 Kodiak Without Planned Natter Weapon Station
+October 7, 2026
+22:47
+Russia Steps Up Sabotage Against Danish Defense Companies — Danish Intelligence
+October 7, 2026
+22:32
+Defense Ministry Codifies Phantom Defense Blade Interceptor Drone
+October 7, 2026
+22:13
+Print&Live and iSCALE 3D Develop Lightweight Non-Pneumatic Wheels for UGVs in Ukraine
+October 7, 2026
+21:48
+U.S. Orders Additional 1,320 Ukrainian F10 FPV Drones
+October 7, 2026
+21:26
+All news
+A Russian oil tanker sustained serious hull damage while navigating the Northern Sea Route through Arctic ice, despite being escorted by an icebreaker.
+This was reported by the Russian insurance company AlfaStrakhovanie, which paid the shipowner 53 million rubles ($650,000) in compensation, according to
+gCaptain
+. The insurer did not disclose the name of the vessel, its owner, or the date and exact location of the incident.
+The tanker’s hull was deformed due to ice pressure while traveling in a convoy. The insurance company emphasized that even with icebreaker escort, navigation in Arctic waters involves increased stress on the vessel and high risks of damage.
+The incident occurred amid Russia’s increase in oil shipments via the Northern Sea Route to Asia. As of August, more than ten tankers had transported approximately 8 million barrels of crude oil along this route, accounting for more than half of the total volume delivered via this route throughout 2025.
+To reduce delivery times, Russia is increasingly deploying tankers with low ice class ratings, or none at all, on Arctic voyages during the summer and fall.
+Russian icebreaker Viktor Chernomyrdin. February 20th, 2024. Photo credits: Ministry of Transport of the Russian Federation
+At the same time, in 2026, the Northern Sea Route Administration stopped publishing vessel permits and daily operational logs publicly, making it more difficult to independently monitor accidents.
+This is not the first such incident on Russia’s Arctic route: in 2025, the non-ice-class SUEZMAX tanker LYNX became stuck in the ice of the East Siberian Sea with 1 million barrels of oil on board, and in previous years, collisions occurred between vessels while following
+icebreakers
+.
+Share this post:
+SUPPORT MILITARNYI
+PrivatBank ( Bank card )
+5169 3351 0164 7408
+copied
+Bank Account in UAH (IBAN)
+UA043052990000026007015028783
+copied
+Patreon
+PayPal
+Crypto
+BTC
+bc1qg0z99m95fte7kj8faa7h2kvnq92wvc53exe8gm
+copied
+USDT
+0x8676644fA7B6d328310283cAC1065Ae01d97CEe7
+copied
+ETH
+0xfD02863D3289416fcF50975c9DFda13623f97758
+copied
+Blogs
+Build there, not only ship there
+Artem Veselov
+October 5, 2026
+18:44
+From C-295 to A400M: Kazakhstan Builds New Military Transport Aviation System
+Darkhan Danyarov
+October 4, 2026
+22:48
+Saudis Plan Counteroffensive Against Houthis to Loosen Stranglehold in Red Sea
+Urich
+October 3, 2026
+18:49
+Communications: The Nervous System of a Fighting Force
+Volodymyr Stepanets
+September 28, 2026
+20:45
+You Can Copy the Paperwork. You Can’t Copy the Deadline
+Artem Veselov
+September 17, 2026
+20:18
+All blogs
+Popular
+Russian Forces Begin Using New Geran-5 Version With Autonomous Optical Navigation
+Russian forces have begun using a new modification of the Geran-5 jet-powered UAV, which features an autonomous optical navigation system and a mod...
+#Geran-5
+#Russia
+#UAV
+#Ukraine
+#War with Russia
+September 27, 2026
+22:46
+Ukraine Receives NASAMS System and Air Defense Missiles from Partners — Zelensky
+Ukraine has received a new NASAMS air defense missile system, along with a package of missiles, from the United States and Norway.
+
+Ukrainian Pre...
+#Air Defense
+#Europe
+#France
+#Germany
+#Military AID
+#Military assistance
+#NASAMS
+#Norway
+#SAM
+#The President of Ukraine
+#USA
+#Volodymyr Zelenskyy
+#World
+September 29, 2026
+17:27
+Over 600 Missiles and 2,500 UAVs: Air Force Commander Reveals F-16 Performance in Ukraine
+Ukrainian pilots flying F-16 fighter jets have already shot down over 3,150 enemy aerial targets.
+
+This was announced by the commander of the Ukr...
+#Air Defense
+#Airstrike
+#Aviation
+#F-16
+#Fighter jet
+#Lockheed Martin
+#Ukraine
+#Ukrainian Air Force
+#USA
+#War with Russia
+#World
+September 29, 2026
+20:36
+BTR-60-Based Kamikaze Drone Helped Break Through Russian Defenses in Nove Village
+Ukrainian military personnel developed a BTR-60PB-based kamikaze drone that helped break through Russian defenses in the village of Nove.
+
+A vide...
+#APC
+#Armored vehicles
+#Defense Tech & Miltech
+#Donbas
+#Ukraine
+#Unmanned Ground Vehicle (UGV)
+#War with Russia
+September 28, 2026
+20:11
+Japan to Consider Transferring Patriot Missiles to Ukraine
+Japan plans to resume discussions on providing or selling weapons to Ukraine, specifically interceptor missiles for Patriot systems.
+
+Itsunori On...
+#Air Defense
+#Asia
+#Japan
+#Military AID
+#Military assistance
+#MIM-104 Patriot
+#SAM
+#Ukraine
+#World
+October 2, 2026
+17:15
+Ukraine Abandons Australian Eurocopter Tiger Attack Helicopters
+Ukraine has withdrawn its request for Eurocopter Tiger attack helicopters that Australia is currently retiring as it transitions to U.S. AH-64E Apa...
+#Australia
+#Aviation
+#Helicopters
+#Ukraine
+#World
+September 30, 2026
+15:38
+Button Text
+NGO "MILITARNYI"
+Donate
+Submit news or press releases:
+[email protected]
+| Advertising inquiries:
+[email protected]
+Publications may be cited under condition of source indication
+Web resources are required to provide a direct hyperlink available for search engines for the original publication
+Offline media should provide MILITARNYI.COM website address. Materials of "Special Projects" are published as advertising.
+Content
+News
+Articles
+Blogs
+Special projects
+Videocontent
+About Militarnyi
+Advertisement
+Contact us
+Popular tags
+#Defense industry of Ukraine
+#Ukraine
+#World
+#War with Russia
+#Europe
+#Russia
+#UAV
+#USA
+Follow us
+X
+Facebook
+LinkedIn
+Youtube
+Instagram
+Telegram
+Threads
+BlueSky
+© 2026              Militarnyi All rights reserved.
+Developed by:
+Privacy Policy
+Terms of Service
+Підтримати нас можна через:
+Приват:
+5169 3351 0164 7408
+PayPal -
+[email protected]
+Стати нашим патроном за лінком ⬇
+Patreon
+Subscribe to our newsletter
+Subscribe
+or on ours
+Telegram
+Thank you!!
+You are subscribed to our newsletter

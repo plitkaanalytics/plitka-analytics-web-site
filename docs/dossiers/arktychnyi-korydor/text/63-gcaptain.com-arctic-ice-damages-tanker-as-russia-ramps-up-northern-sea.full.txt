@@ -1,0 +1,204 @@
+URL:         https://gcaptain.com/arctic-ice-damages-tanker-as-russia-ramps-up-northern-sea-route-oil-shipments/
+Кінцевий:    https://gcaptain.com/arctic-ice-damages-tanker-as-russia-ramps-up-northern-sea-route-oil-shipments/
+Заголовок:   Arctic Ice Damages Tanker as Russia Ramps Up Northern Sea Route Oil Shipments
+Дата публ.:  2026-08-13
+Завантажено: 2026-10-08 05:03 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 236954
+Оригінал:    raw/63-gcaptain.com-arctic-ice-damages-tanker-as-russia-ramps-up-northern-sea.html
+sha256:      ba00900ec51d544ece6e76307cfd48a0c0e51fc58f7f0ba8033f7bcb9c4d5f39
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 27
+==============================================================================
+Arctic Ice Damages Tanker as Russia Ramps Up Northern Sea Route Oil Shipments
+Grab a Seat at the Captain’s Table
+Essential news coupled with the finest maritime content sourced from across the globe.
+Don’t Miss Your Daily Briefing for the Maritime Industry
+Join the leading maritime news network
+Nuclear icebreaker Arkitka escorting commercial shipping along the Northern Sea Route. (Source: Atomflot via Telegram)
+Subscribe for Daily Maritime Insights
+Sign up for gCaptain’s newsletter and never miss an update
+Stay Informed. Stay Connected.
+Get The Daily Insights That Power Maritime Professionals Worldwide
+Essential maritime and offshore news, insights, and updates delivered daily straight to your inbox
+Stay Ahead with Our Weekly ‘Dispatch’ Email
+Dive into a sea of curated content with our weekly ‘Dispatch’ email. Your personal maritime briefing awaits!
+Drone Sinks Ship Off Bulgaria, as Fears Grow About Hybrid Attacks By Russia
+The crew of a merchant ship was missing on Tuesday after the vessel sank in the Black Sea off NATO member Bulgaria following a drone strike that Prime Minister Rumen Radev described as a gross violation of international law.
+Russia Accuses Danish Military Helicopters of making Dangerous Maneuvers Near Its Warships
+Russia has accused Danish military helicopters of making dangerous maneuvers near its warships in the Baltic Sea and handed an official note to Copenhagen complaining about such incidents, Russia's ambassador to Denmark said on Tuesday, according to Russia's RIA state news agency.
+Oil Spill from Shadow Fleet Tanker Spreading Off Oman, Satellite Images Show
+A sanctions-hit tanker is leaking oil off the coast of Oman and the spill has spread in recent days, increasing concern about possible environmental damage to coastal areas, according to an analysis of satellite imagery and shipping specialists.
+Subscribe to gCaptain Daily and stay informed with the latest global maritime and offshore news
+Stay informed with the latest maritime and offshore news, delivered daily straight to your inbox
+The Go-To Source for your Daily Maritime and Offshore News
+Stay informed with the latest maritime and offshore news, delivered straight to your inbox
+For general inquiries and to contact us,
+To submit a story idea or contact our editors, please email:
+For advertising opportunities contact
+Your Gateway to the Maritime World!
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Arctic Ice Damages Tanker as Russia Ramps Up Northern Sea Route Oil Shipments
+Advertise
+Forum
+Jobs
+Subscribe
+Join The Club
+Video
+Shipping
+Offshore
+Defense
+Ports
+Shipbuilding
+Accidents
+Cruise Ships
+×
+Advertise
+Forum
+Jobs
+Subscribe
+Grab a Seat at the Captain’s Table
+Essential news coupled with the finest maritime content sourced from across the globe.
+Sign Up
+Sign In
+Don’t Miss Your Daily Briefing for the Maritime Industry
+Join the leading maritime news network
+— trusted by our
+107,080 members
+Nuclear icebreaker Arkitka escorting commercial shipping along the Northern Sea Route. (Source: Atomflot via Telegram)
+Arctic Ice Damages Tanker as Russia Ramps Up Northern Sea Route Oil Shipments
+Malte Humpert
+Total Views: 3663
+August 13, 2026
+A tanker suffered serious damage to its hull while navigating through Arctic sea ice despite being assisted by an icebreaker, highlighting the risks facing vessels using Russia’s Northern Sea Route as Moscow rapidly expands oil shipments through the Arctic.
+The news comes days after Moscow
+dispatched an unprecedented convoy of sanctioned oil tankers to within 500 nautical miles of the North Pole
+sending the fleet onto one of the most northerly commercial shipping routes ever attempted in the Arctic.
+The incident resulted in an insurance payout of 53 million rubles, roughly $650,000, according to Russian insurer AlfaStrakhovanie, which did not disclose the name of the vessel or its owner.
+The insurer said the tanker sustained hull deformation while navigating through ice and stressed that icebreaker assistance does not eliminate the physical risks associated with Arctic navigation.
+“Even with icebreaker assistance, navigation in Arctic waters is associated with increased hull stress and the risk of damage,” AlfaStrakhovanie said in a
+company statement
+(in Russian).
+The case comes as Russia is sending increasing volumes of crude oil through the Northern Sea Route. More than a
+dozen tankers carrying about 8 million barrels of Russian crude were already en route
+to Asia as of this week, more than half the volume shipped through the route during the entire 2025 season.
+The increase is turning the summer Arctic navigation season into an increasingly important export corridor for Russian oil, but it is also placing more conventional commercial tankers in an environment where even relatively limited ice can impose significant loads on a ship’s hull.
+AlfaStrakhovanie said its specialists investigated the incident, assessed the damage and calculated the insurance compensation before paying the shipowner the full amount.
+“Insuring marine risks along the Northern Sea Route requires a thorough understanding of vessel operating conditions and technical expertise when assessing damage,” said Alexandra Lavrova, head of marine insurance claims at AlfaStrakhovanie.
+“It is especially important to accurately determine the nature, timing and extent of the damage so that the shipowner can promptly arrange repairs and return the vessel to service,” she added.
+The insurer did not provide details about when or where the incident occurred, the tanker’s size or ice classification, or whether it was carrying crude oil or petroleum products.
+The absence of those details makes it impossible to determine how severe the ice conditions were or whether the vessel was operating close to the limits of its ice capabilities. But the case illustrates a fundamental challenge of Arctic shipping: an icebreaker can open a navigable channel but does not eliminate the stresses imposed on vessels following behind.
+In addition, ships traveling in convoy must maintain close enough distances to benefit from the icebreaker’s work while leaving sufficient room to respond to changes in speed or maneuverability.
+The lack of information about the incident comes as transparency around shipping on the Northern Sea Route has declined. In previous years, the Northern Sea Route Administration regularly published notices and reports detailing incidents and other developments along the route, while its website provided access to vessel permits and daily operational logs showing which ships were active in different sections of the route.
+In 2026, much of that information is no longer publicly available, including vessel permits and the daily logs tracking traffic along the route, making it increasingly difficult to independently monitor Arctic shipping activity and incidents.
+There is a history of incidents involving tankers operating in Arctic waters.
+In November 2015,
+the product tankers
+Svyatoy Petr
+and
+Svyatoy Pavel
+collided in the Laptev Sea
+while traveling in an ice convoy behind the nuclear-powered icebreaker
+Vaygach
+.
+Svyatoy Petr
+lost propulsion and was unable to stop before striking
+Svyatoy Pavel
+. One vessel suffered damage to its stern bulwark while the other sustained a crack in its bow.
+An even earlier collision involved two larger oil tankers operating under icebreaker assistance. In July 2010, the
+Indiga
+and
+Varzuga
+, each carrying about 13,300 tons of diesel fuel, collided in difficult ice and poor visibility while traveling along the Northern Sea Route. Both vessels were accompanied by nuclear-powered icebreakers. Neither tanker lost seaworthiness and no oil spill was reported.
+In 2025, a non-ice-class Suezmax tanker,
+Lynx
+,
+became stuck for several days after encountering sea ice in the East Siberian Sea
+while carrying roughly 1 million barrels of Russian oil toward China. The vessel eventually proceeded with assistance from a nuclear-powered icebreaker.
+Other
+tankers with limited or no ice protection have also increasingly appeared on the route
+during the summer navigation season, when retreating sea ice allows Russia to authorize vessels that could not operate there during more challenging periods.
+The Northern Sea Route can substantially shorten voyages between Russian Arctic oil terminals and Asian markets compared with routes through the Suez Canal or around Africa. Russia is also seeking to make greater use of the route as sanctions and geopolitical tensions reshape its energy trade.
+But the latest insurance claim provides a reminder that shorter Arctic voyages do come with greater operational risk.
+Tags:
+arctic
+Arctic Shipping
+collision
+icebreakers
+northern sea route
+oil tanker
+russia
+Subscribe for Daily Maritime Insights
+Sign up for gCaptain’s newsletter and never miss an update
+— trusted by our
+107,080 members
+Prev
+Back to Main
+Next
+Stay Informed. Stay Connected.
+Get The Daily Insights That Power Maritime Professionals Worldwide
+Essential maritime and offshore news, insights, and updates delivered daily straight to your inbox
+— trusted by our
+107,080 members
+Have a news tip?
+Let us know.
+Stay Ahead with Our Weekly ‘Dispatch’ Email
+Dive into a sea of curated content with our weekly ‘Dispatch’ email. Your personal maritime briefing awaits!
+Sign Up
+Sign In
+Related Articles
+Defense
+Drone Sinks Ship Off Bulgaria, as Fears Grow About Hybrid Attacks By Russia
+The crew of a merchant ship was missing on Tuesday after the vessel sank in the Black Sea off NATO member Bulgaria following a drone strike that Prime Minister Rumen Radev described as a gross violation of international law.
+October 6, 2026
+Total Views: 1344
+Incidents
+Russia Accuses Danish Military Helicopters of making Dangerous Maneuvers Near Its Warships
+Russia has accused Danish military helicopters of making dangerous maneuvers near its warships in the Baltic Sea and handed an official note to Copenhagen complaining about such incidents, Russia's ambassador to Denmark said on Tuesday, according to Russia's RIA state news agency.
+September 15, 2026
+Total Views: 934
+Incidents
+Oil Spill from Shadow Fleet Tanker Spreading Off Oman, Satellite Images Show
+A sanctions-hit tanker is leaking oil off the coast of Oman and the spill has spread in recent days, increasing concern about possible environmental damage to coastal areas, according to an analysis of satellite imagery and shipping specialists.
+July 31, 2026
+Total Views: 2264
+Get The Industry’s
+Go-To
+News
+Subscribe to gCaptain Daily and stay informed with the latest global maritime and offshore news
+— just like
+107,080 professionals
+Secure Your Spot
+on the
+gCaptain Crew
+Stay informed with the latest maritime and offshore news, delivered daily straight to your inbox
+— trusted by our
+107,080 members
+The Go-To Source for your Daily Maritime and Offshore News
+Stay informed with the latest maritime and offshore news, delivered straight to your inbox
+— trusted by our
+107,080 members.
+Information
+About
+Careers
+Advertise with gCaptain
+Privacy Policy
+Contacts
+For general inquiries and to contact us,
+please email:
+[email protected]
+To submit a story idea or contact our editors, please email:
+[email protected]
+For advertising opportunities contact
+Email:
+[email protected]
+Phone: +1.805.704.2536.
+x
+Your Gateway to the Maritime World!
+Essential news coupled with the finest maritime content sourced from across the globe.
+Sign Up

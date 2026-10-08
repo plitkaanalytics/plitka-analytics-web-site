@@ -1,0 +1,212 @@
+URL:         https://etc.bellona.org/2026/09/08/monthly-highlights-from-the-russian-arctic-july-2026/
+Кінцевий:    https://etc.bellona.org/2026/09/08/monthly-highlights-from-the-russian-arctic-july-2026/
+Заголовок:   Monthly Highlights from the Russian Arctic, July 2026 - etc.bellona.org
+Дата публ.:  2026-09-08
+Завантажено: 2026-10-08 05:04 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 122410
+Оригінал:    raw/70-etc.bellona.org-monthly-highlights-from-the-russian-arctic-july-2026.html
+sha256:      1955c233d624e5ecbd653b5bb372e725d4baff270508b2863f391b837d74ce83
+Витяг:       trafilatura
+
+==============================================================================
+[
+              
+          
+    ](https://etc.bellona.org/2026/08/07/monthly-highlights-from-the-russian-arctic-june-2026/)
+
+### Monthly Highlights from the Russian Arctic, June 2026
+
+In this news digest, we monitor events that impact the environment in the Russian Arctic
+
+News
+
+Publish date: 08/09/2026
+
+News
+
+            In this news digest, we monitor events that impact the environment in the Russian Arctic
+          
+
+ 
+          
+                Our focus lies in identifying the factors that contribute to pollution and climate change.
+
+Ensuring complete and reliable access to environmental information in Russia has never been fully guaranteed. Following the Russian invasion of Ukraine on February 24, 2022, it became even more difficult. Some information ceased to be published altogether, such as daily oil production data and annual reports from certain industrial companies. Independent environmental organizations have been banned or closed.
+
+The Arctic region plays a crucial role in comprehending the process of global climate change. Russia owns approximately one-third of its territory, including the exclusive economic zone of the Arctic Ocean. To understand and examine trends, we monitor new legislation, the plans of industry, the Northern Sea Route, international economic sanctions, accidents, and emergencies in the Russian Arctic, as well as provide commentary on the news. [Subscribe](https://bellona.us9.list-manage.com/subscribe?u=7153236386b8e746cfb323d8e&id=a7a7a92bfd) to our mailing list to make sure you don’t miss the next digest.
+
+Our previous monthly highlights for June can be found [here](https://etc.bellona.org/2026/08/07/monthly-highlights-from-the-russian-arctic-june-2026/).
+
+**NORTHERN SEA ROUTE AND SHIPPING1. **
+
+– Arctic LNG 2
+
+– Arctic oil projects
+
+– Norilsk Nickel
+
+**THE INTERNATIONAL SITUATION IN THE ARCTIC AND SANCTIONS ON RUSSIA’S ACTIVITIES IN THE ARCTIC REGION****3.** [On July 23, the EU adopted its 21st package of sanctions against Russia](#03p)**4.** [In July, South Korea continued preparations to use the Arctic shipping route](#04p)
+
+**HEIGHTENED INDUSTRIAL ACTIVITY IN THE RUSSIAN ARCTIC****5. **[Modules for the third Arctic LNG 2 train delivered to the Belokamenka yard](#05p)**6.** [Main construction of the Chernogorsky mining and processing plant completed](#06p)**7.** [Development of the Syradasayskoye coal deposit in Taymyr put on hold](#07p)**8.** [NOVATEK increased gas production in the second quarter and first half of 2026](#08p)
+
+**ENVIRONMENTAL AND CLIMATE ISSUES IN THE ARCTIC9.** 
+
+In July, ice cover in the Kara Sea decreased. By mid-month, open water [prevailed](https://www.aari.ru/press-center/news/novosti-aari/aanii-vzlom-pripaya-v-prolive-sannikova) in the Gulf of Ob, while in the second half of July, the central part of the Kara Sea and a significant portion of the coastal waters from Baydaratskaya Bay to Pyasina Bay were [largely ice-free](https://www.aari.ru/press-center/news/novosti-aari/aanii-vzlom-pripaya-v-prolive-shokalskogo).
+
+Due to favorable climatic conditions and the clearing of ice from the waters, seasonal navigation restrictions were gradually lifted. From July 6, icebreaker escort operations ended [in Section No. 2](https://www.mapm.ru/Order/Details/47470) of the port of Dikson, while [in Section No. 1](https://portnews.ru/news/print/393684/) navigation was opened and vessels without ice strengthening were permitted to operate. In Sabetta, [ice navigation restrictions were eased](https://www.mapm.ru/Document/GetDocument/43476) from July 9, and on July 13 – 16 days earlier than [in 2025](https://portnews.ru/news/379906/) – the [icebreaker escort period ended](https://portnews.ru/news/394131/).
+
+By the end of July, ice conditions allowed vessels without a high ice class to operate on the approaches to the Utrenny terminal in the Gulf of Ob. On July 29, the LNG carrier *Arctic Pioneer* [became the first vessel](https://gcaptain.com/russia-sends-first-conventional-lng-carrier-to-arctic-lng-2-as-oil-tankers-gather-for-nsr-push/) without an ice class to arrive at Arctic LNG 2 this year.
+
+At the same time, [close pack ice persisted](https://www.aari.ru/press-center/news/novosti-aari/aanii-vzlom-pripaya-v-prolive-sannikova) in the Vilkitsky Strait in July, complicating and restricting eastbound vessel traffic along the Northern Sea Route.
+
+The first convoy of the summer-autumn navigation season to transit the eastern section of the Northern Sea Route as part of the Northern Supply deliveries [had to take a high-latitude route](https://atommedia.online/press-releases/fgup-atomflot-obespechilo-provodku-pervogo-karavana-v-port-pevek/) due to difficult ice conditions, as ice fields in the East Siberian Sea near the New Siberian Islands blocked the traditional route. The convoy, consisting of the dry cargo vessels *Mys Manorsky* and *Mys Flora* and escorted by the nuclear-powered icebreaker *Yakutia*, departed Arkhangelsk in late June and arrived in Pevek on July 8, delivering 17,000 tonnes of food, equipment, construction materials and machinery.
+
+A later voyage by the oil tanker *SP Dikson*, escorted by the nuclear-powered icebreaker *Taymyr* from Kandalaksha to Pevek and [completed](https://prochukotku.ru/news/transport/tanker_sp_dikson_edinogo_morskogo_operatora_otkryl_toplivnuyu_navigatsiyu_v_peveke/) on July 17, followed the traditional route through the Vilkitsky Strait. The tanker delivered almost 21,500 tonnes of diesel fuel.
+
+In late July, [a group formed](https://gcaptain.com/russia-sends-first-conventional-lng-carrier-to-arctic-lng-2-as-oil-tankers-gather-for-nsr-push/) in the eastern Kara Sea of at least seven oil tankers preparing to transit the Northern Sea Route eastbound. Six of them (*Viktor Bakaev*, *Vostochny Prospekt*, *Liteyny Prospekt*, *Jagger*, *Ligovsky Prospekt* and *Hyperion*) were waiting in the eastern Kara Sea, while *Breeze* was already proceeding east along the route. According to [ gCaptain](https://gcaptain.com/russia-sends-first-conventional-lng-carrier-to-arctic-lng-2-as-oil-tankers-gather-for-nsr-push/#:~:text=%D0%BE%D0%B6%D0%B8%D0%B4%D0%B0%D1%8E%D1%82%20%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D0%B1%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B8), the vessels were waiting for further improvement in ice conditions and icebreaker escort to transit the eastern sections of the Northern Sea Route.
+
+On July 2, transport company A-Service [announced](https://as-sib.com/novosti/ledovaya-obstanovka-na-marshrute-severnogo-morskogo-puti) that it had decided to postpone the departure of chartered vessels on the Arkhangelsk-Pevek route due to difficult ice conditions near the Vilkitsky Strait. The company decided to wait until ice conditions allowed passage without mandatory paid icebreaker escort. The first voyage of the season on the route was [made](https://as-shipping.pro/) by the vessel *Taymyr*, which departed Arkhangelsk on July 24.
+
+As usual, the main cargo flow along the Northern Sea Route in July consisted of shipments from the Yamal LNG and Arctic LNG 2 plants, oil shipments from the Varandey, Prirazlomnoye and Novoportovskoye fields, as well as maritime shipments by Norilsk Nickel.
+
+In July, 20 LNG cargoes were shipped from the Sabetta terminal. Sixteen voyages were made by 11 Arc7 ice-class LNG carriers, while another four voyages were made by Arc4 ice-class LNG carriers
+
+Twelve voyages were made directly from Sabetta to European ports, while another eight LNG carriers sailed to Asia. The vessels that traveled eastbound were *Georgiy Ushakov*, *Fedor Litke*, *Yakov Gakkel*, *Vladimir Voronin*, *Nikolay Urvantsev*, *Nikolay Zubov*, *Vladimir Rusanov* and *Vladimir Vize*.
+
+On July 13, the remaining ice navigation restrictions at the port of Sabetta were [lifted](https://ru.themoscowtimes.com/2026/07/13/port-sabetta-zavershil-ledokolnye-provodki-sudov-snyal-ledovye-ogranicheniya-s-13-iyulya-a200652), and the period of icebreaker escorts [ended](https://portnews.ru/news/394131/). After that, four Arc4 LNG carriers linked to Dynagas – *Clean Planet*, *Clean Vision*, *Clean Ocean* and *Clean Horizon* – joined direct shipments from Sabetta. They loaded at the terminal between July 16 and 24 and headed to European countries. *Clean Planet*, which departed Sabetta on July 16, became the first LNG carrier without an Arc7 ice class to load at Yamal LNG during the 2026 summer navigation season. Three of the four vessels are included in the UK sanctions list, with *Clean Horizon* being the exception and not subject to UK sanctions.
+
+Maintenance of Arc7 LNG carriers continued at the Danish Fayard shipyard. *Rudolf Samoylovich*, which arrived there on June 30, spent most of July at the shipyard and departed on July 23. On the same day, *Georgiy Brusilov* arrived at Fayard.
+
+On July 17, investigative organization Urgewald [reported](https://www.urgewald.org/en/media/over-100-parliamentarians-across-europe-demand-denmarks-fayard-stop-servicing-arc7-tankers) on an open letter from parliamentarians from 17 European countries calling on Fayard to stop servicing specialized icebreaking tankers used to export LNG from the Yamal LNG plant.
+
+In July, shipments from Arctic LNG 2 continued both via the floating storage units *Saam FSU* near Murmansk and *Koryak FSU* off Kamchatka, and directly to Asia via the Cape of Good Hope.
+
+A total of six LNG cargoes were shipped from the plant. The tanker *Alexey Kosygin* delivered the first July cargo to the *Saam FSU* floating storage unit in Murmansk, and the second to China via the Cape of Good Hope. *Iris* also first delivered a cargo to *Saam FSU* and, after its second loading, headed towards Asia via the same route as *Alexey Kosygin*. *Christophe de Margerie* transported its cargo along the Northern Sea Route to *Koryak FSU* off Kamchatka, while *Arctic Pioneer* headed towards Asia around Africa. *gCaptain*[ notes](https://gcaptain.com/russia-sends-first-conventional-lng-carrier-to-arctic-lng-2-as-oil-tankers-gather-for-nsr-push/) that *Arctic Pioneer* became the first LNG carrier without a high ice class to reach Arctic LNG 2 directly in 2026.
+
+In July, three LNG cargoes were shipped from the *Saam FSU* floating storage unit and loaded onto the tankers *Arctic Vostok*, *La Perouse* and *Merkuriy*. All three vessels headed towards Asia via the Cape of Good Hope.
+
+In July, two LNG cargoes were shipped from the *Koryak FSU* floating storage unit. They were loaded onto the tankers *Arctic Mulan* and *Luch*, which delivered the cargoes to the Beihai LNG terminal in China.
+
+Industry publications [report](https://neftegaz.ru/news/Suda-i-sudostroenie/931661-chaivo-i-avacha-rossiyskiy-spg-flot-popolnili-dva-novykh-tankera-gazovoza/) that two more LNG carriers, *Avacha* and *Chaivo*, are being prepared for operation. Both vessels will likely be used for the Arctic LNG 2 project. *Avacha* (formerly *T Handan*), built in 2008, was renamed in June and switched from the Panamanian to the Russian flag. *Chaivo* (formerly *T Halime*), built in 2007, was also renamed in July and reflagged from Panama to Russia.
+
+In addition, on July 28-29, the tanker *Mikhail Ulyanov* (IMO 9333670), which services the Prirazlomnoye field, was at the Utrenny terminal. The vessel likely loaded gas condensate there.
+
+In July, eight voyages were made from the Varandey terminal, which is owned by Lukoil. Oil shipments were carried out by three Arc6 ice-class shuttle tankers: *Vasily Dinkov*, *Kapitan Gotsky* and *Timofey Guzhenko*.
+
+From the Prirazlomnaya platform (Gazprom Neft), the tankers *Mikhail Ulyanov* and *Kirill Lavrov* carried out five oil shipments.
+
+Thirteen voyages from the Novoportovskoye field (Gazprom Neft) were recorded, carried out by the tankers *Shturman Malygin*, *Shturman Ovtsyn*, *Shturman Skuratov*, *Shturman Shcherbinin*, *Shturman Koshelev* and *Mikhail Lazarev*. The tanker *Shturman Albanov*, which also operates at the Novoportovskoye field, sailed to the Baltic Sea and on July 25 [was spotted](https://fleetphoto.ru/photo/554045/?lang=en) near the Kanonersky Shiprepairing Yard.
+
+In July, nine calls by seagoing vessels serving the metals company Norilsk Nickel were [recorded](https://www.ztf-nn.ru/ship-handling/sea/sea.pdf) at the port of Dudinka. Five calls were made by vessels from Norilsk Nickel’s own fleet: *Talnakh*, *Norilskiy Nickel*, *Monchegorsk* and *Nadezhda*, which called at the port twice. Another four calls were made by vessels operated by transport company Severny Proekt: *Taybola*, *Tambey* and *Utrenniy*.
+
+The Arctic tanker *Yenisey*, which specializes in transporting petroleum products to meet the needs of the Norilsk industrial region, made one voyage from Arkhangelsk to Dudinka.
+
+On July 8, the nuclear-powered icebreaker *Yakutia* completed the escort of the [first](https://prochukotku.ru/news/actual/pervyy_karavan_sudov_podkhodit_k_peveku/) convoy of the summer-autumn navigation season (*Mys Manorsky* and *Mys Flora*) to Pevek from the west. The icebreaker then took over the escort of a [new convoy](https://prochukotku.ru/news/transport/tekhniku_dlya_osvoeniya_mestorozhdeniy_i_stroymaterialy_dostavil_v_pevek_karavan_sudov/) (*FESCO Ulis*, *Mys Shmidta* and the tug *Kapitan Belomestnov*), after which it continued operations in the eastern sector near the Chukchi Sea.
+
+In July, *Taymyr* provided icebreaker escorts in the eastern section of the Northern Sea Route. On July 17, the icebreaker escorted a [convoy](https://prochukotku.ru/news/transport/tanker_sp_dikson_edinogo_morskogo_operatora_otkryl_toplivnuyu_navigatsiyu_v_peveke/) to Pevek consisting of the tanker *SP Dikson* and the dry cargo vessels *Sabetta* and *Mekhanik Brilin*. The icebreaker then escorted the motor vessel *Mys Flora* westward. By the end of July, *Taymyr* had set course for Murmansk, where it arrived by August 1.
+
+In July, *Arktika* [made](https://www.atomic-energy.ru/news/2026/07/14/167097) a high-latitude transit to the Greenland sector of the Arctic Ocean, where on July 10-12 it provided icebreaker escort for the ice-resistant scientific expedition platform *Severny Polyus *out of the ice. Atomflot Director Yakov Antonov noted that there is virtually no shipping in this area due to severe ice conditions.
+
+In July, the icebreaker *50 Let Pobedy* made two voyages ([1](https://www.aari.ru/press-center/news/vae/vysokoshirotnaya-arkticheskaya-ekspeditsiya-02.07-%E2%80%93-08.07.2026), [2](https://www.aari.ru/press-center/news/vae/vysokoshirotnaya-arkticheskaya-ekspeditsiya-23.07-%E2%80%93-29.07.2026)) as part of Polar Travel Club expedition cruises from Murmansk to the North Pole and Franz Josef Land.
+
+In July, the icebreaker *Yamal* was undergoing scheduled dry-dock repairs, the Atomflot press service [reported](https://portnews.ru/news/393978/) on July 9.
+
+For most of July, *Sibir* provided icebreaker escorts in the Vilkitsky Strait area, where difficult ice conditions persisted. From July 20 to 24, the icebreaker proceeded farther east to the Anzhu Islands, escorting the dry cargo vessel *Yamal Orlan* and the LNG carrier *Vladimir Rusanov*.
+
+From July 4 to 18, the icebreaker *Ural* was in Murmansk. After leaving the port, it returned to the Northern Sea Route and operated in the Vilkitsky Strait area in the second half of the month. From July 29, *Ural* continued operations in the eastern section of the Northern Sea Route.
+
+On July 23, the Council of the European Union adopted the 21st package of sanctions against Russia. Information on the new restrictive measures was [published](https://www.consilium.europa.eu/en/press/press-releases/2026/07/23/21st-package-of-sanctions-eu-hits-russian-energy-financial-services-and-crypto-hard/) on the official website of the Council of the EU.
+
+Under the new package, the EU introduced a requirement to notify the competent authorities of the sale or transfer of LNG tankers to third countries. In addition, the EU provided for the possibility of introducing further restrictions, under which sellers would be required to assess the risk of subsequent resale of the vessels and include contractual provisions prohibiting their transfer to Russian persons or for use in Russia.
+
+Following an assessment by the European Commission, which is expected to be completed within three months, the Council of the EU must decide [by October 25, 2026](https://www.tradecomplianceresourcehub.com/2026/07/29/eus-21st-sanctions-package-banks-barrels-and-a-bigger-blacklist/) whether to impose a full ban on the sale of LNG tankers to Russian companies.
+
+When adopting its 21st sanctions package, the EU eased restrictions on the transport of Russian LNG to third countries by introducing a temporary exemption for long-term contracts concluded before February 24, 2022. The volume of such shipments may not exceed the 2025 level, and operators are required to report regularly on deliveries. The exemption will remain in force until July 25, 2027, after which the Council of the EU will review it annually.
+
+This followed objections from Greece, which, according to the [ Financial Times](https://www.ft.com/content/3a40d574-41fe-4e04-a958-1173bb07f064), cited the impact of the ban on Greek shipping company Dynagas. Dynagas, owned by shipowner Georgios Prokopiou, operates 27 LNG carriers. Its fleet includes seven Arc7 ice-class LNG carriers serving Yamal LNG, including 
+
+Sanctions were also imposed on [41 shadow fleet vessels](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ%3AL_202601848). They will be subject to bans on access to EU ports and on the provision of services. A total of 673 vessels are now subject to such EU restrictions. Of the newly sanctioned vessels, at least nine operated in the Russian Arctic in 2024-2026.
+
+- Two LNG carriers are linked to the Arctic LNG 2 project: the Arc7 ice-class LNG carrier *Alexey Kosygin*(IMO 9904546) and the LNG carrier*Luch*(IMO 9317315). Both vessels became involved in the project’s logistics in 2026.
+- Several other vessels operate regularly on Arctic routes: the oil/chemical tankers *Pioneer*(IMO 9255282),*Andrey Pervozvanniy*(IMO 9255268) and*Aleksander Nevskiy*(IMO 9356610); the Arc4 ice-class oil tanker*Kord Arctic*(IMO 9036272), with Murmansk as its port of registry; and the oil/chemical tanker*Solstraum*(IMO 9157014), which regularly called at Murmansk in 2025.
+- The Aframax-class oil tanker *Tavian*(IMO 9147447) was in Murmansk in January 2026 and[was spotted](https://www.thebarentsobserver.com/news/tanker-with-false-imo-number-sails-in-the-barents-sea/443572)using a false IMO number to conceal its identity.*Dakar*(IMO 9251743), an oil/chemical tanker that also does not operate regularly in the Arctic, entered the Kola Peninsula area in 2026.
+
+The new package introduces additional restrictions on imports of goods that generate significant revenues for Russia and enable it to continue its war against Ukraine, [including](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202601848) restrictions on copper, nickel and lead ores, precious metal ores, unwrought zinc, zinc and chromium oxides, as well as a number of other goods. The new restrictions also affect Norilsk Nickel products: in the Arctic, the Russian company mines copper, nickel and platinum-group metals.
+
+Throughout the month, the authorities and businesses were preparing the first South Korean trial container voyage from Busan to Europe via the Arctic route.
+
+At the beginning of the month, Vice Minister of Oceans and Fisheries Nam Jae- heon [said](https://en.nocutnews.co.kr/news/6542745) that the vessel selection process was nearing completion and that around 1,300 TEU of cargo had already been secured for the voyage. (However, the actual load was lower: when *PanStar Acro* departed Busan on August 22, it was carrying [837 TEU](https://coast.mof.go.kr/coastNews/board/newsBoardView.do?dt2=620&page=1&seq=12299), including around 100 empty containers.)
+
+On July 22, South Korean shipping company PanStar [opened](https://en.portnews.ru/news/print/394894/) a [cargo booking platform](https://eshipping.panstarline.com/) for its first trial container voyage via the Northern Sea Route, scheduled to depart Busan on August 22.
+
+On July 8, the third Arctic Shipping Forum [was held](https://www.kmi.re.kr/web/board/view.do?idx=3631&rbsIdx=164) in Busan, organized by the Korea Maritime Institute, the Busan Port Authority, the Korea Polar Research Institute and the Korea Research Institute of Ships and Ocean Engineering. Participants discussed the technologies and infrastructure required for Arctic shipping, as well as its economic viability.
+
+In July, a new expedition by the South Korean research icebreaker *Araon* [began](https://media.kopri.re.kr/_prog/bbs/?GotoPage=1&code=0502&menu_dvs_cd=0402&mode=V&no=b8d9720f389033eb5619293ce5b556ab&site_dvs_cd=kopri), intended to provide a scientific basis for future Arctic shipping. On July 11, the vessel departed Gwangyang on an 83-day Arctic voyage. During the expedition, *Araon* plans to conduct research in the Bering Sea, East Siberian Sea, Chukchi Sea and the central Arctic. In addition to climate and oceanographic research, specialists plan to collect sea ice and weather data needed for safe navigation and use them as a basis for developing AI-based risk forecasting technology. The goal is to create South Korea’s own system for supporting Arctic shipping.
+
+The first two topsides modules, TMR-001 and TMR-002, intended for the third liquefaction train of Russia’s Arctic LNG 2 project, were offloaded at NOVATEK’s yard in Belokamenka, Murmansk Region. This was [reported](https://gcaptain.com/arctic-lng-2-modules-offloaded-at-novatek-yard-but-satellite-images-show-construction-still-largely-idle/) by gCaptain in late July based on satellite imagery from Synmax.
+
+The modules were manufactured in China, from where they took [two and a half months](https://neftegaz.ru/news/spg-szhizhennyy-prirodnyy-gaz/930567-arktik-spg-2-poluchil-klyuchevye-moduli-tretey-linii-szhizheniya-/) to reach the Center for the Construction of Large-Tonnage Marine Structures (CCLTMS) in Belokamenka.
+
+One of the modules [is being offloaded](https://neftegaz.ru/news/spg-szhizhennyy-prirodnyy-gaz/851199-arktik-spg-2-sdvinul-sroki-stroitelstva-3-y-linii-szhizheniya/) directly next to the unfinished gravity-based structure (GBS) for the third train. The second module was positioned closer to the assembly complex. This arrangement may indicate preparations to install the equipment directly on the GBS, potentially signaling the resumption of construction work that was suspended in July 2024 due to sanctions.
+
+At the same time, more recent imagery indicates that assembly work on the third train [remains largely idle](https://gcaptain.com/arctic-lng-2-modules-offloaded-at-novatek-yard-but-satellite-images-show-construction-still-largely-idle/). The cranes positioned over the GBS remain in the same locations as in earlier images. Elsewhere at the yard, there is also no significant increase in the amount of equipment or any visible work on the modules.
+
+In addition, TMR-001 and TMR-002 represent only part of the equipment required for construction of the third train. Another seven modules for various purposes are due to be delivered from China, while some of them remain unfinished because of Western sanctions.
+
+Construction of the second Arctic LNG 2 train has faced similar problems. Two of the four power plant modules for the second train are still [in China](https://gcaptain-com.translate.goog/us-slaps-chinese-yard-wison-with-sanctions-for-supplying-technology-to-arctic-lng-2/?_x_tr_sl=en&_x_tr_tl=ru&_x_tr_hl=ru&_x_tr_pto=wapp), where they have been stored at the port of Maojian since mid-April. The first two modules have been at the Arctic LNG 2 site since November 2024, but they can support operation of the second train at only half of its production capacity.
+
+As a reminder, the CCLTMS, formerly known as the Kola Yard, is a partially completed shipyard in Belokamenka, Murmansk Region, [owned](https://www.novatek.ru/ru/about/lng-projects/cskms/) by Novatek Murmansk, a subsidiary of NOVATEK.
+
+The CCLTMS primarily produces gravity-based structures on which LNG plant equipment is installed. They are built and outfitted in Belokamenka, then towed by sea to their operating site and installed on the seabed. In addition to the structures themselves, the yard is designed for the fabrication and integration of process equipment modules and gas liquefaction trains.
+
+The main purpose of building the CCLTMS was to establish domestic production of such equipment in Russia and eliminate dependence on external suppliers. However, as the second and third Arctic LNG 2 trains demonstrate, this has yet to be achieved.
+
+It was initially [planned](https://www.tv21.ru/news/2016/02/12/centr-stroitelstva-krupnotonnazhnyh-morskih-sooruzheniy-v-belokamenke-poluchil-status-strategicheskogo-investicionnogo-proekta-murman) that the Belokamenka yard would not only manufacture equipment for LNG projects, but also build drilling and production platforms for offshore oil production in the western sector of the Arctic and, together with Russian shipbuilding corporations, construct and service large-capacity offshore structures needed to support operations along the Northern Sea Route.
+
+RT-Engineering, a holding company within the Rostec State Corporation, has [completed](https://rosnedra.gov.ru/press/nedropolzovanie-v-smi/rostekh-postroil-v-arktike-kombinat-po-dobyche-platiny-i-palladiya/) the main construction phase of a mining and processing plant at the Chernogorskoye deposit near Norilsk, where platinum and palladium are to be mined. On July 10, the ore preparation section, which includes crushing, transportation and ore storage, was successfully [test-launched](https://rte.ru/news/rt-inzhiniring-uspeshno-realizoval-ocherednoy-etap-proekta-chernogorskogo-goka-osushchestvlen-tekhni/). During the tests, the facility processed more than 300 tonnes of overburden containing no target metals. Commissioning work is now underway.
+
+The plant is expected to enter industrial operation at the end of 2026. The Chernogorsky mining and processing plant has a [design capacity](https://www.interfax.ru/forumspb/1093833) of 7 million tonnes per year.
+
+*“Construction was completed within a short timeframe, while sanctions forced us to redesign the processing plant and completely replace the equipment. All materials and equipment were delivered primarily via the Northern Sea Route year-round. Commissioning work is now underway. We have carried out the technical launch of the first part of the processing complex. The next steps are comprehensive testing and commissioning of the entire facility,”* [said](https://rosnedra.gov.ru/press/nedropolzovanie-v-smi/rostekh-postroil-v-arktike-kombinat-po-dobyche-platiny-i-palladiya/) Rostec CEO Sergei Chemezov.
+
+Severnaya Zvezda has [suspended](https://sibirnews.ru/news/2026-07-15-osvoenie-syradasayskogo-ugolnogo-mestorozhdeniya-na-taymyre-zamorozili-do-2028-goda/) construction work at the Syradasayskoye deposit until July 2028. The reasons include falling coal prices, high interest rates and logistical difficulties. Severnaya Zvezda informed the Krasnoyarsk Region government of the decision as early as last summer, but it has only now become widely known.
+
+The project to develop the Syradasayskoye coking coal deposit is intended to become the largest coal mining enterprise in the Russian Arctic. Coal reserves at the deposit are estimated at 5.7 billion tonnes.
+
+Production was supposed to begin as early as 2022, and in 2026, according to the [Northern Sea Route development plan through 2035](http://government.ru/docs/46171/), the project was expected to ship 7 million tonnes of products. However, the project faced numerous delays at virtually every stage. The most significant were related to a [shortage](https://ru.thebarentsobserver.com/zamorozka-planov-osvoenie-zapolarnogo-ugolnogo-mestorozdenia-pod-voprosom-izza-sankcij-i-arkticeskih-ldov/213459) of vessels for exporting its products – coal and marketable coal concentrate, for which the beneficiation plant was never built due to sanctions.
+
+Nevertheless, the deposit was partially launched. It was [reported](https://www.vedomosti.ru/business/articles/2023/03/01/964846-severnaya-zvezda-trotsenko) that the first 100,000 tonnes of coal were shipped from the deposit to China in October 2022. The Russian Ministry of Energy later stated in its [report](https://minenergo.gov.ru/upload/iblock/aec/Doklad-ME-v-MER_o-khode-realizatsii-PRUP_2035_30.05.2024_SM_8443_12.pdf) that 574,000 tonnes of coal were shipped from the deposit in 2023 and subsequently exported to China as well.
+
+However, no further production at Syradasayskoye was reported in subsequent years.
+
+In the first half of 2026, NOVATEK produced 43.68 billion cubic metres of natural gas, including 21.65 billion cubic metres in the second quarter, up 2.7% from the same period in 2025, when production amounted to 42.53 billion cubic metres. This was [reported](https://www.novatek.ru/ru/investors/events/?id_4=7805) on the company’s website.
+
+NOVATEK’s total hydrocarbon production in the first half of the year amounted to 346.2 million barrels of oil equivalent (boe), including 7.14 million tonnes of liquid hydrocarbons. Compared with the first half of 2025, hydrocarbon production increased by 9.5 million boe, or 2.8%.
+
+At the same time, the company does not provide a breakdown of its statistics by region or individual production facility. However, Yamal LNG is known to be operating at close to its design capacity, meaning that it produced around 9.5-10 million tonnes of liquefied natural gas in the first half of 2026. This corresponds to approximately [13.8 billion cubic metres](https://www.natgas.info/gas-information/what-is-natural-gas/lng) of extracted natural gas. According to analytics firm Kpler, [10.25 million tonnes of LNG](https://www.reuters.com/business/energy/eu-imports-record-lng-volumes-russias-biggest-plant-2026-07-13/) were shipped from the plant for export during this period.
+
+As for Arctic LNG 2, around [1.6 million tonnes of LNG](https://www.bairdmaritime.com/shipping/tankers/gas/arctic-project-drives-growth-in-russian-lng-exports) are known to have been shipped from the project in the first half of the year, corresponding to approximately 2.2 billion cubic metres of extracted natural gas. However, no figures have been reported for how much LNG was actually produced during this period.
+
+NOVATEK’s other major hydrocarbon production assets are also [located](https://www.novatek.ru/ru/about/assets/?id_4=219) in the Yamal-Nenets Autonomous District. Some of the gas condensate produced there is stabilized at the Purovsky processing plant, also in the Yamal-Nenets Autonomous District, after which the stable gas condensate is sent for further processing to the plant in Ust-Luga, Leningrad Region.
+
+The scale of wildfires in Krasnoyarsk Krai was almost 30 times greater than during the same period in 2025, [reports](https://t.me/Sib_EXpress/74503)*Sibirsky Express*. Since the beginning of 2026, 1,112 wildfires have been recorded, covering a total area of more than 600,000 hectares, compared with 522 wildfires covering 22,500 hectares in 2025. Ninety-seven percent of all fires occurred in three municipalities – the Yeniseysky, Turukhansky and Evenki districts. The Turukhansky District lies entirely within Russia’s Arctic Zone, while the Evenki District is partially included in it.
+
+By the end of July, efforts were [underway](https://activatica.org/content/6ebd8562-7d54-4c76-8895-4117bf40c754/v-krasnoyarskom-krae-lesnye-pozhary-byut-rekordy) to extinguish 78 fires covering a total area of 86,600 hectares in the north of the region. The fires were located in the Evenki, Turukhansky, Taymyr Dolgan-Nenets and Yeniseysky districts.
+
+The fires are caused by hot, windy weather combined with high thunderstorm activity.
+
+Wildfires were also recorded in other regions.
+
+In Yakutia, as of the morning of July 31, 43 wildfires were [active](https://www.yakutia.kp.ru/online/news/7098888/) in seven districts of the republic. The fires had spread across 190,930 hectares, while the area of active burning stood at 286.4 hectares. In particular, fires were burning in the Arctic Anabar District, where two landscape fires covering a total of 1,451 hectares were recorded.
+
+Among other Arctic regions, wildfires were also [reported](https://salehard.bezformata.com/listnews/lesnie-pozhari-na-yamale/161668785/) in the Yamal-Nenets Autonomous District on the Yamal Peninsula in July. In the middle of the month, local media reported that the [“fire was under control”](https://yamal1.ru/novosti/2026/07/13/ogon-pod-kontrolem-na-yamale-stabiliziruetsya-situatsiya-s-prirodnymi-pozharami/), but the fires were not fully extinguished and later flared up again. By the end of August, the area of natural landscapes affected by fire in the Yamal-Nenets Autonomous District had reached [437,000 hectares](https://www.kommersant.ru/doc/8909266) (read more in Bellona’s next Arctic Digest, covering August).
+
+Two more wildfires and one landscape fire were [recorded](https://anadir.bezformata.com/listnews/chukotke-vedyotsya/161918672) in Chukotka.
+
+In this news digest, we monitor events that impact the environment in the Russian Arctic
+
+In this news digest, we monitor events that impact the environment in the Russian Arctic
+
+In this news digest, we monitor events that impact the environment in the Russian Arctic
+
+In this news digest, we monitor events that impact the environment in the Russian Arctic

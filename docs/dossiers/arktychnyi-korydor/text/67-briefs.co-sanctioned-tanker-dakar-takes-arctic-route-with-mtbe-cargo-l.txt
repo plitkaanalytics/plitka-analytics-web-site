@@ -1,0 +1,709 @@
+URL:         https://www.briefs.co/news/sanctioned-tanker-dakar-takes-arctic-route-with-mtbe-cargo-l/
+Кінцевий:    https://www.briefs.co/news/sanctioned-tanker-dakar-takes-arctic-route-with-mtbe-cargo-l/
+Заголовок:   Sanctioned tanker heads Arctic toward Russia
+Дата публ.:  2026-10-07
+Завантажено: 2026-10-08 05:04 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 460841
+Оригінал:    raw/67-briefs.co-sanctioned-tanker-dakar-takes-arctic-route-with-mtbe-cargo-l.html
+sha256:      54cfbe112cbcc6bf5a48ac627dae1a4ddb741b41f89ba8a4515504bf2b0d35ca
+Витяг:       bs4-full
+
+==============================================================================
+Sanctioned tanker heads Arctic toward Russia
+Briefs
+Finance
+Stock Market
+Crypto
+Tech
+Economy
+Global
+Real Estate
+Deep Briefs
+Investing
+Personal Finance
+Wealth
+Retirement
+Products
+Market Briefs
+Briefs Money
+Briefs Investor
+Briefs Pro
+Log In
+Free Newsletter
+Pro Login
+Stock
+Crypto
+Technology
+Economy
+Global Scoop
+Real Estate
+Deep Briefs
+Products
+Market Briefs
+Briefs Money
+Briefs Investor
+Briefs Pro
+Log In
+Close Menu ✕
+Briefs
+Finance
+Briefs
+Finance
+✕
+Stock Market
+Crypto
+Tech
+Economy
+Global
+Real Estate
+Deep Briefs
+▸
+Investing
+Personal Finance
+Retirement
+Wealth
+Products
+▸
+Market Briefs
+Briefs Pro
+Login
+Free Newsletter
+Warning
+:  Undefined variable $stocks in
+/var/www/briefs.co/htdocs/wp-content/plugins/oxygen/component-framework/components/classes/code-block.class.php(133) : eval()'d code
+on line
+448
+Warning
+:  foreach() argument must be of type array|object, null given in
+/var/www/briefs.co/htdocs/wp-content/plugins/oxygen/component-framework/components/classes/code-block.class.php(133) : eval()'d code
+on line
+448
+Warning
+:  Undefined variable $funds in
+/var/www/briefs.co/htdocs/wp-content/plugins/oxygen/component-framework/components/classes/code-block.class.php(133) : eval()'d code
+on line
+472
+Warning
+:  foreach() argument must be of type array|object, null given in
+/var/www/briefs.co/htdocs/wp-content/plugins/oxygen/component-framework/components/classes/code-block.class.php(133) : eval()'d code
+on line
+472
+/* the link was here */
+NEWS
+/
+Global Scoop
+Sanctioned tanker Dakar takes Arctic route with MTBE cargo likely headed for Russia
+Jackson Moreland
+Published
+Oct 7, 2026
+Share:
+Summary:
+Following a ship-to-ship handoff near South Korea in early September, the EU-blacklisted Dakar is headed west along Russia's Arctic shoreline with a cargo of MTBE.
+Kpler figures indicate a summer surge in Asian fuel shipments to Russia: over 1.2 million barrels in July, then roughly 700,000 from South Korea and about 320,000 from India in August.
+The rush reflects refinery outages in Russia after intensified Ukrainian strikes, and as Asia nears the winter season the pace is easing; preliminary reads indicate India shipped zero barrels to Russia in September.
+What's on the move and why it matters
+A small tanker named Dakar, which the European Union placed under sanctions earlier this year, is traveling west along Russia's Arctic shoreline with a load of methyl tert-butyl ether, or MTBE. Kpler's tracking shows the additive was first loaded in China onto the Yorik in early August, then shifted via ship-to-ship transfer to the Dakar near Yeosu, South Korea, in the first part of September.
+The vessel isn't broadcasting a destination. Given its
+sanctioned
+status, major European ports are largely off limits, making Russia the plausible end point. Bloomberg also observed the Dakar leaving South Korea in the first days of September and proceeding along the Arctic coast.
+The bigger picture: Asia's fuel lifeline to Russia
+Russia is normally a net exporter of fuels like diesel. But stepped-up Ukrainian strikes have crimped refining and led to shortages at home, drawing in supplies from Asia. Kpler's numbers show a notable jump in July and August: more than 1.2 million barrels arrived in July, mostly sourced from India, followed in August by around 700,000 barrels from South Korea and about 320,000 from India. Before that burst, monthly shipments hadn't cleared 150,000 barrels since the 2022 invasion.
+One ship in particular, the Aram Khachaturian, stood out with three runs across July and August totaling roughly 260,000 barrels of refined product, making it the busiest tanker over that stretch. Nine other carriers were involved too, some under EU and UK sanctions, with several deliveries executed via ship-to-ship transfers.
+Sanctioned cargoes find new routes, and those routes carry their own costs.
+Market Briefs covers energy trade free every morning
+.
+Arctic passage, logistics, and ownership details
+The
+Northern Sea Route
+is usually sailed by ships built for ice conditions, but in warmer months even sanctioned vessels that lack an ice-class rating, such as the Dakar, have completed the journey. The observed summer deliveries from South Korea and India did not use the Arctic corridor.
+Who exactly sent the recent cargoes from Asia remains unclear. The Guardian first brought the broader shipment pattern to light.
+Records in Equasis list Vulcano Marine SA as the Dakar's owner and show it shares an address with its manager, Ultramarine Navigation Management, in Dubai. Someone who answered a call placed to Vulcano Marine said the number was incorrect, and Ultramarine Navigation had no other contact details listed.
+What this could mean for your wallet
+Following the summer surge, flows have cooled as Asia approaches the Northern Hemisphere winter. Initial Kpler readings indicate India recorded zero exports to Russia in September, though voyages can take more than a month, so additional arrivals may still register. The fuels tracked in these flows span refined petroleum products and fuel oil.
+Big picture, when Russia needs to import gasoline components like MTBE and more refined fuel shows up from Asia, it reshuffles routes, freight rates, and margins. For everyday investors, watching volumes, origin points like Ulsan, and repeat-visitor tankers is a simple way to gauge where the shipping and fuel trade is tightening or loosening.
+Where a tanker sails tells you how enforcement is actually working.
+Get the free Market Briefs daily newsletter and follow the flows
+.
+Disclosure
+Trending Briefs
+Crypto prices slide as leveraged bets get flushed
+Oct 7, 2026
+Surplus California Wine Is Pushing Premium Bottles Into Private Labels
+Oct 7, 2026
+JPX Raises Kioxia's Topix Free-Float Weight
+Oct 7, 2026
+Vietnam's Rate Dilemma: Hold the Line as Inflation Heats Up
+Oct 7, 2026
+BofA's Savita Subramanian: Bonds Finally Look Like Real Competition for Stocks
+Oct 7, 2026
+ECB's Dolenc says current rates give the ECB room to handle shocks
+Oct 7, 2026
+Rupee Slides Toward Record Low After RBI Raises Rates
+Oct 7, 2026
+RWE Plays Down Role in Uniper After Teaming With KKR on Bid
+Oct 7, 2026
+Common Sense says ChatGPT for Teens falls short on crisis safeguards
+Oct 7, 2026
+SEBI says it shared Jane Street trade logs behind market-manipulation case
+Oct 7, 2026
+Get Market Briefs every morning for free!
+No fluff. No noise. No politics. Just finance news in 5 minutes.
+Subscribe Free
+Recent News
+Crypto
+October 7, 2026
+Crypto prices slide as leveraged bets get flushed
+Read more
+Economy
+October 7, 2026
+Surplus California Wine Is Pushing Premium Bottles Into Private Labels
+Read more
+Stock
+October 7, 2026
+JPX Raises Kioxia's Topix Free-Float Weight
+Read more
+Economy
+October 7, 2026
+Vietnam's Rate Dilemma: Hold the Line as Inflation Heats Up
+Read more
+Stock
+October 7, 2026
+BofA's Savita Subramanian: Bonds Finally Look Like Real Competition for Stocks
+Read more
+Economy
+October 7, 2026
+ECB's Dolenc says current rates give the ECB room to handle shocks
+Read more
+Economy
+October 7, 2026
+Rupee Slides Toward Record Low After RBI Raises Rates
+Read more
+Economy
+October 7, 2026
+RWE Plays Down Role in Uniper After Teaming With KKR on Bid
+Read more
+Technology
+October 7, 2026
+Common Sense says ChatGPT for Teens falls short on crisis safeguards
+Read more
+Stock
+October 7, 2026
+SEBI says it shared Jane Street trade logs behind market-manipulation case
+Read more
+Global Scoop
+October 7, 2026
+Hong Kong and Singapore Duel to Become Asia's Next Big Gold Hub
+Read more
+Crypto
+October 7, 2026
+Maryland man convicted in $50 million crypto theft tied to high-end card spree
+Read more
+Real Estate
+October 7, 2026
+Buyers Push To Renegotiate Commercial Real-Estate Deals As Rates Rise
+Read more
+Real Estate
+October 7, 2026
+Where A Six-Figure Salary Rents A House - And Where It Shrinks To 650 Square Feet
+Read more
+Technology
+October 7, 2026
+Apollo, banks in talks to help SpaceX finance $40 billion Nvidia GPU buy
+Read more
+Technology
+October 7, 2026
+Microsoft Prices Surface Laptop Ultra at $2,599 with Built-In Nvidia AI Chip
+Read more
+Economy
+October 7, 2026
+Trafigura books the Alexandros to China for $76 million as tanker rates spike
+Read more
+Economy
+October 7, 2026
+Kemi Badenoch says Tory plan would leave six in ten estates paying no inheritance tax in 2029-30
+Read more
+Economy
+October 7, 2026
+Fed minutes point to one more hike this year, with timing still open
+Read more
+Global Scoop
+October 7, 2026
+Trafigura picks up seven SFL tankers as shipping squeeze lifts prices
+Read more
+Global Scoop
+October 7, 2026
+China Signals Retaliatory Tools If EU Trade Steps Up
+Read more
+Economy
+October 7, 2026
+Oil spike and deficit worries lift 30-year yields to highest since 2002
+Read more
+Economy
+October 7, 2026
+Cocobod sells 3.39b cedis in cocoa bills to fund 2026-27 bean purchases
+Read more
+Economy
+October 7, 2026
+France's wine harvest heads for near 70-year low as heat bites and demand cools
+Read more
+Global Scoop
+October 7, 2026
+Court of Appeal overturns convictions of five former Barclays traders
+Read more
+Technology
+October 7, 2026
+CoreWeave taps AdaniConneX for first India data centers, eyes billions in buildout
+Read more
+Economy
+October 7, 2026
+Emerging Markets Slip as Hormuz Tensions Lift Oil, Yields and the Dollar
+Read more
+Stock
+October 7, 2026
+Garuda Plans More Borrowing and Has Longer Fuel Payment Terms as Costs Bite
+Read more
+Economy
+October 7, 2026
+France's protests and bond selloff are testing the ECB's nerve
+Read more
+Crypto
+October 7, 2026
+Winklevoss Twins Pitch Zcash Spot ETF At Token2049
+Read more
+Stock
+October 7, 2026
+Antofagasta's Centinela workers strike; unions warn of curbs as company keeps output outlook
+Read more
+Global Scoop
+October 7, 2026
+Poland will review Paramount Skydance's bid for TVN
+Read more
+Global Scoop
+October 7, 2026
+Bangkok sets 24/7 weather watch as IMF and World Bank meetings arrive
+Read more
+Economy
+October 7, 2026
+Putin Adds Nearly $60 Billion to Russia's War Budget as Spending Swells Toward Record
+Read more
+Technology
+October 7, 2026
+Musk Says His Team Will Build and Operate Terafab, Not TSMC
+Read more
+Economy
+October 7, 2026
+India's Coal Stockpiles at Power Plants Sink Toward Five-Year Low
+Read more
+Economy
+October 7, 2026
+Iceland holds Europe's priciest rates steady as inflation cools and wage talks loom
+Read more
+Global Scoop
+October 7, 2026
+Qatar Parks a Dozen Empty LNG Carriers in the Persian Gulf
+Read more
+Economy
+October 7, 2026
+Africa Credit Rating Agency Opens in Mauritius
+Read more
+Economy
+October 7, 2026
+Traders Move to Short the Euro as French Risks Mount
+Read more
+Global Scoop
+October 7, 2026
+Alephya in late-stage talks to take control of Saudi school operator Ajialuna
+Read more
+Economy
+October 7, 2026
+EU preps cap on Chinese hybrids as trade gap widens
+Read more
+Economy
+October 7, 2026
+Volkswagen's UK finance arm sets aside £725 million for car-loan redress
+Read more
+Stock
+October 7, 2026
+Trinity Metals eyes New York IPO as tungsten boom powers Rwanda expansion
+Read more
+Economy
+October 7, 2026
+EU governments view G7 fuel plan as tapping existing pledges, memo indicates
+Read more
+Economy
+October 7, 2026
+Hungary Sees Faster Growth Next Year as Euro Path Bolsters Bonds
+Read more
+Stock
+October 7, 2026
+Dangote Petroleum Opens GDRs To East African Investors
+Read more
+Global Scoop
+October 7, 2026
+How a missed email sent F-35 parts through Hong Kong and into Chinese hands
+Read more
+Stock
+October 7, 2026
+Activist investor pushes Nidec to weigh going private as scandal clouds outlook
+Read more
+Economy
+October 7, 2026
+Ghana Inflation Edges Up to 5.2% in September
+Read more
+Economy
+October 7, 2026
+Delhi High Court pauses FSSAI curb on "energy drink" labels for existing stock
+Read more
+Economy
+October 7, 2026
+Peru rate decision: analysts see first hike since January 2023 as prices stay sticky
+Read more
+Economy
+October 7, 2026
+Royal Mail plans up to 2,500 job cuts to rein in costs
+Read more
+Economy
+October 7, 2026
+Mark Carney Is Racing To Clear Hurdles For Pipelines and Power Projects
+Read more
+Economy
+October 7, 2026
+The Jersey Suburb Discount Is Fading Fast
+Read more
+Crypto
+October 7, 2026
+Eric Trump Says AI Spending Will Be Crypto's Fastest Growth Engine
+Read more
+Economy
+October 7, 2026
+Bank of England proposes indexing 100-plus regulatory thresholds to nominal GDP
+Read more
+Economy
+October 7, 2026
+IMF chief cheers Fed's focus on price stability as debt worries loom
+Read more
+Economy
+October 7, 2026
+IMF's Georgieva: AI surge, costly energy and towering debt are piling pressure on growth
+Read more
+Economy
+October 7, 2026
+Chevron's Mike Wirth warns diesel export ban could backfire as inventories thin
+Read more
+Economy
+October 7, 2026
+Temporary SALT Increase Still Gives Some Filers Big Tax Options For 2026
+Read more
+Economy
+October 7, 2026
+IMF's Georgieva to France: Get your fiscal house in order
+Read more
+Real Estate
+October 7, 2026
+Mortgage rates hit near 3‑year high as applications slide again
+Read more
+Stock
+October 7, 2026
+Oil Rises After Houthi-Linked Attacks Rekindle Supply Worries
+Read more
+Technology
+October 7, 2026
+Finland orders Google to pause work at two data center sites
+Read more
+Global Scoop
+October 7, 2026
+House Report Flags Webull's China Links, Says Risks Have Risen
+Read more
+Economy
+October 7, 2026
+Cox Automotive trims used-car price outlook as gas and inflation squeeze buyers
+Read more
+Technology
+October 7, 2026
+Disney+ Will Stream the Super Bowl and More Live Sports
+Read more
+Economy
+October 7, 2026
+10-year yield pops back to early-2000s levels as traders eye a big auction
+Read more
+Economy
+October 7, 2026
+Near-Term Inflation Fears Jump To Highest In Nearly 3½ Years
+Read more
+Global Scoop
+October 7, 2026
+ICE launches daily 100-ounce gold futures in London
+Read more
+Technology
+October 7, 2026
+SpaceX's Spectrum Bid Faces Pushback from Aerospace, Hospitals and Broadcasters
+Read more
+Technology
+October 7, 2026
+South Korea's Fifth Nuri Launch Puts Private Players More Firmly in the Driver's Seat
+Read more
+Stock
+October 7, 2026
+Pennon plunges after surprise cash call, dividend cut and bigger upgrade plan
+Read more
+Global Scoop
+October 7, 2026
+India's Venezuelan Oil Buys Jump to Near 7-year High
+Read more
+Economy
+October 7, 2026
+Nomura AM shifts manager scorecards to 3-, 5- and 10-year yardsticks
+Read more
+Stock
+October 7, 2026
+Frasers buys 8.8% of Under Armour in fresh US push
+Read more
+Economy
+October 7, 2026
+China Extends Gold-Buying Run, Adding 740,000 Ounces in September
+Read more
+Economy
+October 7, 2026
+France's Bond Stress Is "Serious," but Not an ECB Job, says Bank of France Chief
+Read more
+Economy
+October 7, 2026
+Takaichi Says Government Would Rework Budget Plans If Yields Jump
+Read more
+Economy
+October 7, 2026
+Norway lines up its biggest income-tax break in two decades in 2027 plan
+Read more
+Stock
+October 7, 2026
+Partners Group's fix for cash-hungry investors: split a flagship fund into two tracks
+Read more
+Economy
+October 7, 2026
+Sweden's Core Inflation Stays at 0.5%, Keeping a November Hike in Play
+Read more
+Stock
+October 7, 2026
+Shell's Q3 refining margins hit a record $42 as supply strains bite
+Read more
+Economy
+October 7, 2026
+Germany's Factory Rebound: August Output Pops 2%, Best Since March Last Year
+Read more
+Crypto
+October 6, 2026
+Crypto Card Payments Hit Record $12.5B As Fold and Aven Expand Offerings
+Read more
+Real Estate
+October 6, 2026
+Newly Pending Home Sales Drop 8.5% in September, Zillow Says
+Read more
+Stock
+October 6, 2026
+Distress in Leveraged Loans Climbs to Pandemic-Era Levels, Led by Tech
+Read more
+Real Estate
+October 6, 2026
+Early Chill Hits Home Sales While Rents Heat Up
+Read more
+Stock
+October 6, 2026
+Andre Esteves' Fortune Rockets $2.7 Billion on BTG Surge After Brazil Vote Shock
+Read more
+Stock
+October 6, 2026
+Mall-Shopping Teens Power Hallenstein Glasson's 57% Stock Surge
+Read more
+Global Scoop
+October 6, 2026
+Strait of Magellan Traffic Surges as Ships Bypass Panama Canal
+Read more
+Economy
+October 6, 2026
+Florida public schools lean on record short-term debt as enrollment and vouchers squeeze budgets
+Read more
+Global Scoop
+October 6, 2026
+IEA weighs G7-backed plan to tap up to 100 million barrels
+Read more
+Global Scoop
+October 6, 2026
+Judge Hears Disney Bid To Pause FCC's Early License Reviews For ABC Stations
+Read more
+Global Scoop
+October 6, 2026
+Australia's High Court Says Mine Approvals Must Weigh Coal's Downstream Emissions
+Read more
+Stock
+October 6, 2026
+Taiwan Is Pulling Ahead in the AI Trade as Korea's Memory Boom Cools
+Read more
+Economy
+October 6, 2026
+Asset Management One to lift talent spend as higher Japanese yields reshape portfolios
+Read more
+Technology
+October 6, 2026
+Jaguar's £130,000 Type 01 Aims to Jump-Start a Storied Brand's Electric Era
+Read more
+Economy
+October 6, 2026
+Gold steadies as Middle East oil recovers and bond yields slip
+Read more
+1
+2
+3
+…
+95
+Next »
+Load More News
+Get Market Briefs delivered to your inbox every morning for free!
+Join Free
+No fluff. No noise. No politics. Just finance news you can read in 5 minutes.
+Blogs
+October 5, 2026
+What Is the Briefs Connector? A Simple Guide
+By Briefs Finance
+The Briefs Connector lets your favorite AI read Briefs research, like Pro reports and the Briefs Score.
+Without it, an AI asked about investing can give answers that sound right but aren't backed by that research.
+It explains the research, but it won't tell you what to buy or sell.
+Read More
+October 5, 2026
+Is a Recession Coming? What the Last Five Rate Hiking Cycles Say
+By Jackson Moreland
+The Fed has started raising rates again, and in the last five hiking cycles going back to 1994, a recession never started while the hikes were underway.
+The pain showed up where there was a bubble to pop - housing in 2008, dot-coms in 2000, the pandemic money-printing boom in 2022 - and usually after the hikes ended.
+Private equity and private credit are feeling this cycle first, and how far the pain spreads depends on how high rates go and how long they stay there.
+Read More
+October 2, 2026
+Fed Interest Rates May Rise Again in 2026 - and the Newest Culprit Is AI
+By Nate Gregory
+Fed Governor Barr told a meeting our head of investing research attended that higher rates are likely in 2026, lower inflation may not come soon, and AI is now pushing prices up.
+The same week, President Trump asked the biggest AI companies to police themselves under an accord that's morally but not legally binding, because the White House sees AI as a race with China.
+Higher rates put downward pressure on asset prices and squeeze borrowers, but the way through hasn't changed: own investments, buy on a schedule, and treat downturns as discounts.
+Read More
+October 1, 2026
+Housing Market 2026: Why Office Buildings Are Cracking Before Houses Do
+By Andre Savage
+Office buildings are selling for 80% to 95% off because their five-year loans are resetting at much higher rates while half-empty floors have gutted the income those buildings are valued on.
+Housing is under pressure, not cracking: a $400,000 mortgage costs $975 more a month than at 3%, but six of every seven mortgages are still under 6% and those owners are staying put.
+Whether pressure turns into cracks is a race between unaffordability and the economy, and either way Jaspreet's rule is to treat your house as a liability and buy only what you can afford.
+Read More
+September 30, 2026
+Dividend Investing vs. Growth Investing: Why the Slower Portfolio Can End Up Bigger
+By Milena Thomas
+"What stock should I buy?" is the wrong first question. Growth, income, or wealth preservation comes first, and the goal changes which stocks even make sense.
+At $500 a month for 30 years, 13% growth builds about $1.75 million. 10% growth plus a reinvested 4% dividend builds a little more than $2.2 million and pays a little more than $80,000 a year.
+Income investors have US dividend ETFs, REITs, and international dividend funds to study. Growth investors have the Nasdaq 100, AI and chip funds, and small caps. None of it is a recommendation.
+Read More
+September 29, 2026
+Why Is Gold Going Down? A 5.2% Treasury Yield Just Took Its Job
+By Andre Savage
+President Trump rejected Iran's deal to reopen the Strait of Hormuz, oil prices jumped back up, and gold fell instead of rising.
+Treasury yields hit their highest level in more than 20 years, so investors sold gold and bought Treasuries that pay interest.
+Higher Treasury yields make the national debt, mortgages, car loans, and credit cards more expensive, with the Fed's next rate decision due October 28.
+Read More
+September 28, 2026
+The Strategic Bitcoin Reserve: Why the Government Wants Bitcoin to Explode
+By Jackson Moreland
+The US government holds about 328,000 Bitcoin, worth roughly $25 billion, and since a 2025 executive order it keeps seized coins instead of selling them.
+Washington wants a bigger pile of assets so its $40 trillion national debt looks smaller next to them, which lets it keep borrowing and spending.
+Bitcoin's wild price swings, and a government holding a coin built to escape governments, are the two risks investors need to watch.
+Read More
+September 25, 2026
+BRIEFS EXCLUSIVE: 43% Of Respondents Say Bills Outran Their Income Over Past Two Years
+By Briefs Finance
+43% of the 494 Market Briefs readers surveyed said their bills grew faster than their income over the past two years, even though 79% could cover a surprise $5,000 expense tomorrow.
+Half of readers own gold or crypto, the two classic bets against a weaker dollar, and only 13% bought nothing at all in the last 12 months.
+The median reader says it takes $150,000 a year to feel financially secure, about $62,000 above the U.S. median household income.
+Read More
+September 25, 2026
+The Economy Is Booming. So Why Did Stocks and Bonds Fall Together?
+By Milena Thomas
+S&P Global says the US economy is growing at its fastest rate since 2021, with corporate profits up 28.9% in a year, almost four times the historical average.
+Stocks and bonds fell at the same time, which is not how the two markets normally behave, because Treasury yields above 5% now compete with stocks for investors' money.
+Jaspreet Singh lays out three ways to invest through a shift like this: always be buying, buy the crash, or follow the money before it hits the headlines.
+Read More
+September 24, 2026
+The 2026 Economic Reset Is Starting: Are We in a Recession, or Is the Pain Still Ahead?
+By Nate Gregory
+The Federal Reserve has flipped from stimulating the economy to fighting inflation with higher interest rates, while the White House still wants growth at almost any cost.
+The national debt tops $40 trillion, has outgrown the entire U.S. economy, and its interest payments are now the government's fastest-growing expense.
+Higher rates bring pain for private equity, private credit, and speculative assets, but they open opportunities for investors holding cash, treasuries, and value assets.
+Read More
+1
+2
+3
+…
+28
+Next »
+Briefs
+.co
+Briefs Finance is on a mission to help people be better with money through our free daily newsletter and making Wall Street research clear and accessible.
+Join Briefs Pro
+Having Trouble or Have Questions?
+Call us here:
+1-888-259-5651
+Deep Briefs
+Investing
+Personal Finance
+Retirement
+Wealth
+Company
+About Us
+Advertise
+Contact
+FAQ
+Store
+Disclosure
+Privacy Policy
+Terms of Use
+DSAR Form
+Copyright © 2026 Briefs Media, LLC All Rights Reserved.
+Website managed by Stallion Cognitive®
+Home
+News
+Deep Briefs
+Search
+Menu
+Share via
+Facebook
+X (Twitter)
+LinkedIn
+Mix
+Pinterest
+Bluesky
+Tumblr
+Skype
+Buffer
+Pocket
+VKontakte
+Parler
+Xing
+Reddit
+Line
+Flipboard
+MySpace
+Delicious
+Amazon
+Digg
+Evernote
+Blogger
+LiveJournal
+Baidu
+MeWe
+NewsVine
+Yummly
+Yahoo
+WhatsApp
+Viber
+SMS
+Telegram
+Facebook Messenger
+Like
+Email
+Print
+Copy Link
+Copy link
+Copy
+Copied

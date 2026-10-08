@@ -1,0 +1,199 @@
+URL:         https://gcaptain.com/russian-shadow-fleet-lng-carrier-without-ice-class-stops-reverses-on-northern-sea-route-near-ice-edge/
+Кінцевий:    https://gcaptain.com/russian-shadow-fleet-lng-carrier-without-ice-class-stops-reverses-on-northern-sea-route-near-ice-edge/
+Заголовок:   Russian ‘Shadow Fleet’ LNG Carrier Without Ice-Class Stops, Reverses on Northern Sea Route Near Ice-Edge
+Дата публ.:  2025-09-02
+Завантажено: 2026-10-08 05:04 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 245132
+Оригінал:    raw/69-gcaptain.com-russian-shadow-fleet-lng-carrier-without-ice-class-stops-.html
+sha256:      4732bc5740975d3a44d4d626e996560f03c80202a78383cc8e57480a3125c646
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 29
+==============================================================================
+Russian ‘Shadow Fleet’ LNG Carrier Without Ice-Class Stops, Reverses on Northern Sea Route Near Ice-Edge
+Grab a Seat at the Captain’s Table
+Don’t Miss Your Daily Briefing for the Maritime Industry
+Join the leading maritime news network
+LNG carrier traveling through Arctic sea ice. (Source: DSME)
+August 29-31 showing the vessel backtracking and idling at 0 knots at the edge of the sea ice. (Source: Vesselfinder)
+Russian ice charts show considerable ice coverage in the waters near Pevek, ranging from 10 to 60 percent, including grounded hummocks. This summer season is the second year in a row when
+sea ice blocked the eastern reaches of the route even during late summer
+AIS track of nuclear icebreaker
+working to open a shipping lane and
+’s position at the edge of the sea ice. (Source: Shipatlas)
+Last week the plant’s majority owner, Novatek, had
+for the first time found a Chinese buyer after a year-long wait
+. More than one million tonnes of LNG produced in the Arctic could find their way to China in the coming weeks.
+Subscribe for Daily Maritime Insights
+Sign up for gCaptain’s newsletter and never miss an update
+Stay Informed. Stay Connected.
+Get The Daily Insights That Power Maritime Professionals Worldwide
+Essential maritime and offshore news, insights, and updates delivered daily straight to your inbox
+Stay Ahead with Our Weekly ‘Dispatch’ Email
+Dive into a sea of curated content with our weekly ‘Dispatch’ email. Your personal maritime briefing awaits!
+South Korea Denies Ukrainian Report That It Eased Russia’s Fuel Crisis
+Exclusive: Sanctioned Ships Carry Critical Chinese Equipment to Russia’s Arctic LNG 2
+Russia Doubles Its LNG Dark Fleet in Race to Boost Gas Exports
+The Go-To Source for your Daily Maritime and Offshore News
+Stay informed with the latest maritime and offshore news, delivered straight to your inbox
+For general inquiries and to contact us,
+To submit a story idea or contact our editors, please email:
+For advertising opportunities contact
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Russian ‘Shadow Fleet’ LNG Carrier Without Ice-Class Stops, Reverses on Northern Sea Route Near Ice-Edge
+Advertise
+Forum
+Jobs
+Subscribe
+Join The Club
+Video
+Shipping
+Offshore
+Defense
+Ports
+Shipbuilding
+Accidents
+Cruise Ships
+×
+Advertise
+Forum
+Jobs
+Subscribe
+Grab a Seat at the Captain’s Table
+Essential news coupled with the finest maritime content sourced from across the globe.
+Sign Up
+Sign In
+Don’t Miss Your Daily Briefing for the Maritime Industry
+Join the leading maritime news network
+— trusted by our
+107,080 members
+LNG carrier traveling through Arctic sea ice. (Source: DSME)
+Russian ‘Shadow Fleet’ LNG Carrier Without Ice-Class Stops, Reverses on Northern Sea Route Near Ice-Edge
+Malte Humpert
+Total Views: 59377
+September 2, 2025
+A Russian liquefied natural gas carrier without ice protection has reversed course and remains stopped near the edge of the sea ice on the Northern Sea Route. The vessel’s struggles highlight the challenges for non ice-class vessels in Arctic shipping, even during the summer months.
+The 138,028-cbm
+Arctic Metagaz
+is part of Russia’s expanding shadow fleet of LNG carriers in service of the sanctioned Arctic LNG 2 project.
+Arctic Metagaz
+continues to idle in the East Siberian Sea around 48 hours after she reversed course. The vessel
+was passing through patches of remaining summer sea ice following in proximity to the nuclear icebreaker
+Sibir
+on August 29 when she began backtracking her initial course just after midnight UTC.
+The vessel originally departed from the Russian port of Murmansk around August 19 carrying sanctioned supercooled gas in search of buyers in Asia.
+AIS track of
+Arctic Metagaz
+August 29-31 showing the vessel backtracking and idling at 0 knots at the edge of the sea ice. (Source: Vesselfinder)
+Icebreaker
+Sibir
+has been working for several weeks in the East Siberian Sea in an effort to open up shipping lanes through persistent summer sea ice along the Northern Sea Route.
+Russian ice charts show considerable ice coverage in the waters near Pevek, ranging from 10 to 60 percent, including grounded hummocks. This summer season is the second year in a row when
+sea ice blocked the eastern reaches of the route even during late summer
+.
+AIS track of nuclear icebreaker
+Sibir
+working to open a shipping lane and
+Arctic Metagaz
+’s position at the edge of the sea ice. (Source: Shipatlas)
+“Even in this ‘summer period’ ice conditions can be unpredictable and several Arctic LNG 2 ships have recently been challenged in the East Siberian Sea,” says Kjell Eikland, managing director of data provider
+Eikland Energy
+.
+Even high ice-class LNG carriers have suffered hull damage in the past. In 2021 an Arc7 ice-class LNG carrier sustained damage to one of its azimuthing propulsion units. That same year early onset of sea ice required an extensive rescue operation involving several icebreakers to free nearly three dozen vessels and escort them into ice-free waters.
+It is unclear if
+Arctic Metagaz
+sustained any damage during its attempt to pass through the ice. Russian officials have long touted the route as a new shipping corridor. They may thus not be keen to advertise the challenges the vessel encountered along the route.
+The Northern Sea Route Administration publishes daily traffic logs of all vessels active on the route.
+Arctic Metagaz
+’s position, however, has been removed from the publicly available records raising further questions over its status.
+Arctic Metagaz
+’s for now aborted attempt to punch through the sea ice with no ice-class may put a damper on Russia’s ability to ship out sanctioned gas from its Arctic LNG 2 facility. Another tanker with no ice protection,
+La Perouse
+, remains in a holding pattern further west along the Northern Sea Route.
+Last week the plant’s majority owner, Novatek, had
+for the first time found a Chinese buyer after a year-long wait
+. More than one million tonnes of LNG produced in the Arctic could find their way to China in the coming weeks.
+But beyond that the medium-term prospects for regular deliveries remain bleak. The summer shipping window will begin to rapidly close by mid-October leaving Novatek searching for suitable vessels to carry LNG through the ice. It currently only has one high ice-class Arc7 LNG carrier,
+Christophe de Margerie
+, and a handful of low-medium category vessels at its disposal; insufficient to maintain a regular shuttle operation during winter.
+Note: This article was originally published on September 1, 2025.
+Tags:
+arctic
+arctic lng 2
+LNG Shipping
+northern sea route
+russia
+Subscribe for Daily Maritime Insights
+Sign up for gCaptain’s newsletter and never miss an update
+— trusted by our
+107,080 members
+Prev
+Back to Main
+Next
+Stay Informed. Stay Connected.
+Get The Daily Insights That Power Maritime Professionals Worldwide
+Essential maritime and offshore news, insights, and updates delivered daily straight to your inbox
+— trusted by our
+107,080 members
+Have a news tip?
+Let us know.
+Stay Ahead with Our Weekly ‘Dispatch’ Email
+Dive into a sea of curated content with our weekly ‘Dispatch’ email. Your personal maritime briefing awaits!
+Sign Up
+Sign In
+Related Articles
+Energy
+South Korea Denies Ukrainian Report That It Eased Russia’s Fuel Crisis
+South Korea's presidential office on Wednesday dismissed a Ukrainian report that Russia has imported petroleum products from South Korean ports, calling the accusation inappropriate.
+11 hours ago
+Total Views: 221
+Energy
+Exclusive: Sanctioned Ships Carry Critical Chinese Equipment to Russia’s Arctic LNG 2
+Two U.S.-sanctioned heavy-lift vessels are carrying critical power-generation modules from China toward Russia’s Arctic LNG 2 project, according to satellite imagery and vessel-tracking data. The shipment is the latest sign that supply chains supporting the sanctioned liquefied natural gas project remain operational despite Western efforts to disrupt them.
+September 17, 2026
+Total Views: 4085
+Energy
+Russia Doubles Its LNG Dark Fleet in Race to Boost Gas Exports
+Russia has almost doubled the fleet of tankers ferrying liquefied natural gas from its US-sanctioned Arctic project in less than a year, as the country pushes to boost lucrative exports of the super-chilled fuel in spite of Western restrictions.
+September 1, 2026
+Total Views: 1043
+Get The Industry’s
+Go-To
+News
+Subscribe to gCaptain Daily and stay informed with the latest global maritime and offshore news
+— just like
+107,080 professionals
+Secure Your Spot
+on the
+gCaptain Crew
+Stay informed with the latest maritime and offshore news, delivered daily straight to your inbox
+— trusted by our
+107,080 members
+The Go-To Source for your Daily Maritime and Offshore News
+Stay informed with the latest maritime and offshore news, delivered straight to your inbox
+— trusted by our
+107,080 members.
+Information
+About
+Careers
+Advertise with gCaptain
+Privacy Policy
+Contacts
+For general inquiries and to contact us,
+please email:
+[email protected]
+To submit a story idea or contact our editors, please email:
+[email protected]
+For advertising opportunities contact
+Email:
+[email protected]
+Phone: +1.805.704.2536.
+x
+Your Gateway to the Maritime World!
+Essential news coupled with the finest maritime content sourced from across the globe.
+Sign Up

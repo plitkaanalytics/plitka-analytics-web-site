@@ -1,0 +1,341 @@
+URL:         https://www.kyivpost.com/post/86254
+Кінцевий:    https://www.kyivpost.com/post/86254
+Заголовок:   South Korea Sent 176,000 Tons of Fuel to Russia, Report Claims
+Дата публ.:  2026-10-06
+Завантажено: 2026-10-08 06:48 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 122148
+Оригінал:    raw/71-kyivpost.com-86254.html
+sha256:      7e8206e2dce7da5e788dbfe7a5099becd1ee158fc38e5f4ee71e38218e4220d6
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 31
+==============================================================================
+South Korea Faces Questions Over Russia Fuel Shipments
+South Korean ports reportedly handled over 176,000 tonnes of fuel bound for Russia in July and August, including shipments via sanctioned tankers. The news coincides with Seoul’s threats of further action against Kyiv over the latter’s disclosure of two North Korean POWs transferred to South Korea.
+For illustrative purposes: an oil tanker formerly known as the Bella-1, before it changed its name to the Marinera, is pictured from Hopeman Harbour, at sea in the Moray Firth, northern Scotland, on January 14, 2026. (Photo by ANDY BUCHANAN / AFP)
+, Kyiv time. Updated with CREA’s answers on the differing figures on Russia’s August seaborne oil product imports]
+Russian strikes damaged a historic film studio, destroyed an automotive warehouse and wiped out a bird rehabilitation center in the Kyiv region.
+To suggest a correction or clarification, write to us here
+Please leave your suggestions or corrections here
+Julia is a Deputy Head of News and
+Kyiv Post who has previously worked as a parliamentary editor, journalist, and news editor. She has specialized in covering the work of the Ukrainian parliament, government, and law enforcement agencies.
+Leo Chiu is a journalist and editor based in Eastern Europe since 2015. He has witnessed two presidential elections in Belarus and traveled widely to conflict zones and contested regions, producing reporting that bridges the gap between major developments and local realities.
+646 Drones Swarm Russia as Fires Hit Europe’s Largest Tank Farm, Oil Facilities
+Three Russian Officers Linked to Missile Strikes on Ukraine Killed in Tu-95 Crash
+Putin Signs Decree Increasing Russian Army: Over 2.4 Million, Including 1.5 Million Active-Duty Personnel
+Lavrov Says Turkey Must Guarantee S-400 Systems Won’t Reach Ukraine
+South Korea May Recall Ambassador Over Zelensky’s North Korean POW Disclosure
+South Korea Warns ‘Further Measures’ if Ukraine Refuses Public Apology
+South Korea Demands Apology From Ukraine Over Disclosure of North Korean POW Transfer
+Seoul Calls Out Zelensky for Admitting North Korean POWs Sent to South Korea
+Sweden Sends Patriot to Poland to Guard Ukraine Aid Hub
+OPINION: Putin’s Focus is Now French Elections
+Russia’s Birthday ‘Gift’ to Putin: 70 Missiles Strike Ukraine, Hitting Homes and Killing Civilians
+Fresh Intelligence Signals Massive Russian Strike Ahead, Zelensky Says
+Freeze or Liberation? How Ukrainians Expect the War to End
+Russia says it intercepted 646 drones overnight as fires were reported near major oil and chemical facilities in Volgograd and a huge tank farm in Samara.
+Web links to Kyiv Post material are allowed provided that they contain a hyperlink to the
+stories and only a brief extract (not more than 10 percent) of the text.
+Online media registration number: R40-05383
+All materials, including photographs, contained on this site are protected by copyright law and
+not be reproduced without the prior written permission of BIZNESGRUPP TOV at
+All Interfax-Ukraine news agency stories cannot be reproduced or distributed in any form without
+written permission of Interfax-Ukraine.
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+South Korea Faces Questions Over Russia Fuel Shipments
+War
+Ukraine
+World
+North America
+Latin America
+Europe
+Eastern Europe
+Middle East
+Africa
+Asia
+Economy
+Business
+Technology
+Finance
+Energy
+Agriculture
+Videos
+Podcasts
+Analysis
+Corruption Watch
+Opinions
+Culture
+Reviews
+History
+Sports
+Classifieds
+Spotlight
+Cartoons
+War
+Ukraine
+World
+Economy
+Videos
+Analysis
+Opinions
+Classifieds
+Spotlight
+EN
+UK
+EN
+UK
+War
+Ukraine
+World
+North America
+Europe
+Eastern Europe
+Middle East
+Asia
+Economy
+Business
+Technology
+Finance
+Energy
+Agriculture
+Videos
+Analysis
+Opinions
+Classifieds
+Spotlight
+Home
+Asia
+South Korea Faces Questions Over Russia Fuel Shipments
+South Korea
+Russia
+Oil
+South Korea Faces Questions Over Russia Fuel Shipments
+In brief:
+South Korean ports reportedly handled over 176,000 tonnes of fuel bound for Russia in July and August, including shipments via sanctioned tankers. The news coincides with Seoul’s threats of further action against Kyiv over the latter’s disclosure of two North Korean POWs transferred to South Korea.
+by
+Julia Struck-Feshchenko
+,
+Leo Chiu
+|
+                    
+                    Oct. 6, 2026, 5:24 pm
+    | Updated: 9m ago
+Make us preferred on Google
+Flip
+Share
+Facebook
+X (Twitter)
+LinkedIn
+Bluesky
+Email
+Copy
+Copied
+For illustrative purposes: an oil tanker formerly known as the Bella-1, before it changed its name to the Marinera, is pictured from Hopeman Harbour, at sea in the Moray Firth, northern Scotland, on January 14, 2026. (Photo by ANDY BUCHANAN / AFP)
+Content
+Share
+Facebook
+X (Twitter)
+LinkedIn
+Bluesky
+Email
+Copy
+Copied
+Flip
+Make us preferred on Google
+[
+UPDATED:
+Oct. 7, 1:32 pm
+                            , Kyiv time. Updated with CREA’s answers on the differing figures on Russia’s August seaborne oil product imports]
+South Korea
+reportedly handled large
+fuel
+shipments to Russia through its ports between July and August.
+An investigation by
+The Guardian
+, based on port records and ship-tracking data, found that more than 176,000 tonnes (metric tons) of fuel, mostly diesel, were loaded at South Korean ports in July and August onto seven tankers that made 14 voyages to Russia’s Far East.
+JOIN US ON TELEGRAM
+Follow our coverage of the war on the
+@Kyivpost_official
+.
+Three of the vessels were under UK or EU sanctions. One received its cargo through a ship-to-ship transfer in South Korean waters, a method that can make a shipment’s origin harder to trace.
+Isaac Levi, an analyst at the Finland-based think tank Centre for Research on Energy and Clean Air (CREA), told The Guardian that the shipments undermine Western sanctions and South Korea’s support for Ukraine.
+Advertisement
+The shipments do not appear to violate South Korean law, the report says, as Seoul’s sanctions on Russia primarily focus on export controls covering goods such as industrial machinery, electronics and vehicles.
+However, the shipments also cast doubt on Seoul’s stance on the war in Ukraine, particularly as Seoul has publicly supported Kyiv while stopping short of providing lethal weapons.
+South Korea has supplied Ukraine with humanitarian aid and non-lethal military equipment and pledged $2.3 billion in support in 2023, largely through loans.
+At the same time, Seoul has sought to preserve its economic ties with Moscow and has ruled out directly providing weapons to Ukraine.
+Other Topics of Interest
+Russian Attack Leaves Unexploded Ballistic Missile Among Homes in Kyiv, Hits Film Studio, and Bird Center
+Russian strikes damaged a historic film studio, destroyed an automotive warehouse and wiped out a bird rehabilitation center in the Kyiv region.
+Fuel flows to Russia surge
+The Guardian found that the sanctioned tanker Layla made two voyages from Ulsan to Vladivostok, carrying a combined 57,000 tonnes of diesel. On one voyage, it declared Vladivostok as its destination, while on another it listed Japan.
+Another sanctioned tanker, the Russian-flagged Astoria, loaded nearly 11,000 tonnes of fuel at Ulsan before sailing to Vladivostok. The vessel is also under Australian sanctions.
+The third sanctioned vessel, the Chongchon, did not enter a South Korean port. Instead, it received around 26,000 tonnes of fuel from the unsanctioned tanker Celeste I during a ship-to-ship transfer off Yeosu before heading toward Vladivostok.
+Advertisement
+The findings echoed a report from Reuters in early July, which said Russia sought jet fuel
+from Japan’s Chiba port to Russia via South Korea
+, though it’s unclear whether the operations relate to the latest findings presented by The Guardian.
+In the rumored plans, the cargo was expected to arrive in Russia in the first half of July after a likely ship-to-ship transfer off Yeosu, South Korea. Its final destination remained unclear.
+The reported route would mirror a similar shipment in 2022, when around 22,000 barrels of jet fuel were transported from Chiba to Russia’s Far Eastern port of Vladivostok via Yeosu.
+South Korea declined to comment, while the Japanese and Russian ministries did not respond.
+The owners and managers of the four tankers contacted by The Guardian did not respond to requests for comment.
+Russia
+has faced growing fuel shortages after Ukrainian drone strikes disrupted its refinery network. According to the International Energy Agency (IEA), Russian refinery throughput fell in June to its lowest level in more than two decades, while diesel production was down nearly 30% from a year earlier.
+Advertisement
+By July, Ukraine’s General Staff claimed to have knocked
+43%
+of Russia’s refinery capacity offline.
+According to The Guardian, Kpler data analyzed by CREA showed that Russia imported 368,000 tonnes of oil products by sea in August, more than seven times the previous month – a figure that is higher than the 172,000 tonnes listed by CREA in its
+August report
+.
+Responding to Kyiv Post’s inquiry about the differing figures, CREA analyst Luke Wickenden explained that the analysis released in early September did not account for tankers whose destinations were not confirmed.
+“At that point, several tankers were still shown as in transit with no confirmed destination, so their cargoes weren’t yet counted as arriving in Russia. A fuller Kpler extract on Sept. 24 showed 368,000 tonnes for August 2026,” Wickenden told Kyiv Post. “Either way, August 2026 was by far the largest month for Russia’s seaborne oil product imports since the full-scale invasion began.”
+The Guardian also said South Korea accounted for 112,000 tonnes, or about 31% of Russia’s overall imports, second only to India; Wickenden noted that South Korean imports made up the majority of the difference identified in the Sept. 24 Kpler extract.
+Advertisement
+“About half of the difference is fuel from South Korea (18,000 tonnes in the report, 112,000 tonnes in the later data), and the rest is additional cargoes from India, Morocco, and Turkiye,” he added.
+The increase began in July, around the time South Korean President Lee Jae Myung pledged $100 million for
+Ukraine
+’s reconstruction at a NATO summit in Turkey.
+Diplomatic rift between Kyiv and Seoul
+The fuel shipments come as relations between Seoul and Kyiv face a separate diplomatic dispute over two North Korean soldiers captured by Ukrainian forces.
+The soldiers were captured in January 2025 while fighting alongside Moscow forces in Russia’s Kursk region and were reportedly transferred to South Korea in September 2026.
+President Volodymyr
+Zelensky publicly disclosed the transfer
+during his address to the United Nations General Assembly in September, but South Korea says the parties had agreed to keep the deal confidential to protect the soldiers and their families in North Korea.
+Seoul subsequently
+demanded an explanation
+and apology from Kyiv.
+South Korean Foreign Minister Cho Hyun said Tuesday that Ukrainian Foreign Minister Andrii Sybiha had apologized in messages exchanged over the incident, but that the apology did not meet Seoul’s expectations.
+Cho added Seoul was considering several responses, including
+recalling its ambassador to Ukraine, Park Hee-chang.
+Ukraine has described the dispute as a diplomatic misunderstanding. Zelensky’s office said Seoul had been informed of the president’s UN speech in advance and that the address did not disclose identifiable information about the soldiers.
+Advertisement
+Cho said the soldiers’ safety, and that of their relatives in North Korea, had been the primary reason for the confidentiality agreement. He also suggested, while stressing that it was his personal interpretation, that Zelensky may have wanted to demonstrate at the UN that Ukraine had acted appropriately as a liberal democracy.
+To suggest a correction or clarification, write to us here
+You can also highlight the text and press
+Ctrl + Enter
+Contact Us
+Please leave your suggestions or corrections here
+Cancel
+Send
+Julia Struck-Feshchenko
+Julia is a Deputy Head of News and
+correspondent for
+Kyiv Post who has previously worked as a parliamentary editor, journalist, and news editor. She has specialized in covering the work of the Ukrainian parliament, government, and law enforcement agencies.
+Leo Chiu
+Leo Chiu is a journalist and editor based in Eastern Europe since 2015. He has witnessed two presidential elections in Belarus and traveled widely to conflict zones and contested regions, producing reporting that bridges the gap between major developments and local realities.
+POPULAR
+646 Drones Swarm Russia as Fires Hit Europe’s Largest Tank Farm, Oil Facilities
+By
+                                                                                        Julia Struck-Feshchenko
+Updated: Oct. 2, 2026
+Three Russian Officers Linked to Missile Strikes on Ukraine Killed in Tu-95 Crash
+By
+                                                                                        Kyiv Post
+Oct. 5, 2026
+Putin Signs Decree Increasing Russian Army: Over 2.4 Million, Including 1.5 Million Active-Duty Personnel
+By
+                                                                                        Kyiv Post
+Sept. 28, 2026
+Lavrov Says Turkey Must Guarantee S-400 Systems Won’t Reach Ukraine
+By
+                                                                                        Kyiv Post
+Sept. 28, 2026
+More on South Korea
+Zelensky
+South Korea May Recall Ambassador Over Zelensky’s North Korean POW Disclosure
+By
+                    Kyiv Post
+1d ago
+War in Ukraine
+South Korea Warns ‘Further Measures’ if Ukraine Refuses Public Apology
+By
+                    AFP
+Oct. 2, 2026
+War in Ukraine
+South Korea Demands Apology From Ukraine Over Disclosure of North Korean POW Transfer
+By
+                    Kyiv Post
+Sept. 28, 2026
+UN
+Seoul Calls Out Zelensky for Admitting North Korean POWs Sent to South Korea
+By
+                    Kyiv Post
+Sept. 25, 2026
+Read Next
+Ukraine
+Sweden Sends Patriot to Poland to Guard Ukraine Aid Hub
+By
+                    Kyiv Post
+9m ago
+War in Ukraine
+OPINION: Putin’s Focus is Now French Elections
+By
+                    Timothy Ash
+18m ago
+Russia
+Russian Attack Leaves Unexploded Ballistic Missile Among Homes in Kyiv, Hits Film Studio, and Bird Center
+By
+                    Kyiv Post
+23m ago
+War in Ukraine
+Russia’s Birthday ‘Gift’ to Putin: 70 Missiles Strike Ukraine, Hitting Homes and Killing Civilians
+By
+                    Kyiv Post
+Updated: 1h ago
+« Previous
+Fresh Intelligence Signals Massive Russian Strike Ahead, Zelensky Says
+Next »
+Freeze or Liberation? How Ukrainians Expect the War to End
+POPULAR
+646 Drones Swarm Russia as Fires Hit Europe’s Largest Tank Farm, Oil Facilities
+Russia says it intercepted 646 drones overnight as fires were reported near major oil and chemical facilities in Volgograd and a huge tank farm in Samara.
+By
+                                                                                                    Julia Struck-Feshchenko
+Oct. 2, 2026
+Three Russian Officers Linked to Missile Strikes on Ukraine Killed in Tu-95 Crash
+By
+                                                                                        Kyiv Post
+Oct. 5, 2026
+Putin Signs Decree Increasing Russian Army: Over 2.4 Million, Including 1.5 Million Active-Duty Personnel
+By
+                                                                                        Kyiv Post
+Sept. 28, 2026
+back to top
+Menu
+Ukraine
+World
+Business
+Economy
+Classifieds
+Spotlight
+PDF Archive
+Multimedia
+Video
+Podcasts
+Cartoons
+About
+About Us
+Contact Us
+Advertising
+Newsletter
+Policies
+Privacy Policy
+Cookie Policy
+Terms & Conditions
+Web links to Kyiv Post material are allowed provided that they contain a hyperlink to the
+                            stories and only a brief extract (not more than 10 percent) of the text.
+Online media registration number: R40-05383
+© 1995-2026 BISNESGROUPP LLC
+All materials, including photographs, contained on this site are protected by copyright law and
+                    may
+                    not be reproduced without the prior written permission of BIZNESGRUPP TOV at
+[email protected]
+.
+All Interfax-Ukraine news agency stories cannot be reproduced or distributed in any form without
+                    written permission of Interfax-Ukraine.
