@@ -1,0 +1,34 @@
+URL:         https://thebarentsobserver.com/news/two-mysterious-tankers-are-sailing-north-to-aid-sanctioned-gas-fleet/423743
+Кінцевий:    https://www.thebarentsobserver.com/news/two-mysterious-tankers-are-sailing-north-to-aid-sanctioned-gas-fleet/423743
+Заголовок:   Two mysterious tankers are sailing north to aid sanctioned gas fleet
+Дата публ.:  2025-01-28
+Завантажено: 2026-10-08 10:04 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 135057
+Оригінал:    raw/76-thebarentsobserver.com-423743.html
+sha256:      ee3c08e4964fdb4e1e223c54036c547c0f196737864d81b1c82d94d071ebab33
+Витяг:       trafilatura
+
+==============================================================================
+# Two mysterious tankers are sailing north to aid sanctioned gas fleet
+
+Brand new LNG carriers North Light and North Moon are heading for far northern Russian waters. Their four sister ships have been drifting for weeks in Arctic sea ice following their inclusion in US and EU sanctions lists.
+
+According to ship traffic data, the North Light and North Moon both left the South Korean port of Okvo in November 2024. About two months later, the ships were sailing in north Norwegian waters with a course for Murmansk.
+
+The North Light and North Moon are likely to be part of the so-called 'shadow fleet' that transports sanctioned Russian goods to international markets.
+
+The ships have been built at Hanwha Ocean, the shipyard that was previously known as Daewoo Shipbuilding & Marine Engineering (DSME). They are 295 metres long, 46 metres wide and have a summer deadweight capacity of 94,000 tonnes. Both sail under the flag of Singapore.
+
+Judging from data from MarineTraffic, they are heading towards Murmansk. They might also sail further east to the Ob Bay where Russia has two major LNG projects, the Yamal LNG and the Arctic LNG 2. The latter is heavily sanctioned by US and EU authorities, and all project infrastructure, ships and operations are in a state of paralysis.
+
+That includes four brand new tankers that over several weeks have drifted around in the icy waters of the Pechora Sea. The carriers North Way, North Mountain, North Air and North Sky have been lied in the Pechora Sea since they were [included on EU's latest sanctions list of December 17, 2024](https://www.thebarentsobserver.com/news/sanctioned-tankers-jam-in-freezing-seaice/422721). The ships are also sanctioned by the US Treasury.
+
+According to [Tradewinds](https://www.tradewindsnews.com/gas/ownership-switch-up-of-lng-carriers-rattles-market-as-ships-head-for-russian-arctic-business/2-1-1661672), it is Dubai-based entity White Fox Ship Management that operate the carriers.
+
+In 2020, DSME signed a $1.76 billion contract for the construction of six Arctic class (Arc7) LNG carriers. The ships were to be used to transport LNG for Novatek’s Arctic LNG 2 project in Russia.
+
+The North Light and North Moon are most likely part of this fleet, along with the North Way, North Mountain, North Air and North Sky.
+
+In addition to the six carriers from DSME, Novatek also signed charter contracts for 15 vessels from Russia’s Zvezda yard.
+
+Following Russia's full-scale invasion of Ukraine and the introduction of international sanctions, the cooperation between DSME and Novatek gradually came to a halt.

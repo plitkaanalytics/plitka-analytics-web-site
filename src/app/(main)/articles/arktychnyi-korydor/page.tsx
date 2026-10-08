@@ -410,21 +410,59 @@ export default function Page() {
         </p>
 
         <p>
-          У липні й серпні 2026 року з корейських портів до російського Далекого
-          Сходу пішло понад 176 тисяч тонн пального, переважно дизелю. Його
-          везли сім танкерів, три з них під санкціями ЄС і Британії,
-          з&apos;ясувала The Guardian. Корейського закону ці поставки, схоже, не
-          порушують, а сам Сеул від коментарів відмовився
+          Газовози North Light і North Moon збудувала корейська Hanwha Ocean,
+          колишня DSME. У листопаді 2024 року вони вийшли з корейського порту
+          Окпо, а на початку 2025-го вже йшли до Мурманська. Barents Observer
+          відносить їх, імовірно, до тіньового флоту
           <a className="ref" href="#ref-26">
             [26]
           </a>
-          . У серпні Південна Корея дала 31% морського імпорту нафтопродуктів
-          Росії, більше лише в Індії
+          , ГУР вносить North Light до бази суден, що перевозять російський
+          зріджений газ
           <a className="ref" href="#ref-27">
             [27]
           </a>
-          . Це тихоокеанський маршрут, а не арктичний. Але рейс Dakar показує,
-          що корейський рейд вписується й у північну логістику.
+          .
+        </p>
+
+        <p>
+          У липні й серпні 2026 року з корейських портів до російського Далекого
+          Сходу пішло понад 176 тисяч тонн пального, переважно дизелю. Його
+          везли сім танкерів, три з них під санкціями ЄС і Британії,
+          з&apos;ясувала The Guardian
+          <a className="ref" href="#ref-28">
+            [28]
+          </a>
+          . За даними Kpler, у серпні Південна Корея дала 31% морського імпорту
+          нафтопродуктів Росії, більше лише в Індії. Частина танкерів
+          оголошувала корейській владі пунктом призначення Японію чи Сінгапур, а
+          йшла у Владивосток. Танкер Chongchon узяв пальне з іншого судна на
+          рейді того самого Йосу, де згодом вантажився Dakar
+          <a className="ref" href="#ref-29">
+            [29]
+          </a>
+          .
+        </p>
+
+        <p>
+          Сеул звинувачення відкинув. Речниця адміністрації президента Кан Ю
+          Чжон заявила, що Південна Корея послідовно застосовує санкції й
+          експортний контроль проти Росії, перевіряє факти й ужиє заходів, якщо
+          знайде порушення. Україну вона закликала не робити публічних заяв без
+          перевірки. В Управлінні національної безпеки уточнили, що офіційна
+          статистика з серпня 2025 по серпень 2026 року не фіксує експорту
+          дизелю, бензину чи авіапального до Росії, а таке пальне не входить до
+          переліку з 1&nbsp;402 товарів під експортними обмеженнями
+          <a className="ref" href="#ref-30">
+            [30]
+          </a>
+          . Можливе пояснення розбіжності в тому, що на папері частина пального
+          йшла до Японії та Сінгапуру
+          <a className="ref" href="#ref-29">
+            [29]
+          </a>
+          . Самі ці поставки йшли Тихим океаном, а не Арктикою. Але рейс Dakar
+          показує, що корейський рейд вписується й у північну логістику.
         </p>
 
         <h3>Тіньовий флот</h3>
@@ -436,8 +474,8 @@ export default function Page() {
           під санкціями становлять близько трьох чвертей усіх танкерів на шляху.
           У 26 із 50 танкерів льодовий клас Ice3 або нижчий чи його немає
           зовсім, 33 старші за 15 років
-          <a className="ref" href="#ref-28">
-            [28]
+          <a className="ref" href="#ref-31">
+            [31]
           </a>
           .
         </p>
@@ -449,8 +487,8 @@ export default function Page() {
           грудні 2025 року Buran, за повідомленнями, чотири рази не зміг
           пробитися до терміналу в Обській затоці навіть за підтримки атомних
           криголамів
-          <a className="ref" href="#ref-29">
-            [29]
+          <a className="ref" href="#ref-32">
+            [32]
           </a>
           .
         </p>
@@ -458,14 +496,14 @@ export default function Page() {
         <p>
           Ходять шляхом і судна, які возили зброю з КНДР. Самі ці поставки йшли
           Тихим океаном, з північнокорейського Раджина до Дунаю й Восточного
-          <a className="ref" href="#ref-30">
-            [30]
+          <a className="ref" href="#ref-33">
+            [33]
           </a>
           . Але Maia-1 має льодовий клас Arc4 і наприкінці вересня 2026 року
           йшла ПМШ на захід, імовірно до Архангельська. Що вона везла цього
           разу, невідомо, як невідомо й те, чи возили зброю Арктикою взагалі
-          <a className="ref" href="#ref-31">
-            [31]
+          <a className="ref" href="#ref-34">
+            [34]
           </a>
           .{" "}
           <IfArticleVisible slug="rezervne-more">
@@ -659,11 +697,25 @@ export default function Page() {
               </a>
             </li>
             <li id="ref-26">
+              The Barents Observer — «Two mysterious tankers are sailing north
+              to aid sanctioned gas fleet», 28.01.2025.{" "}
+              <a href="https://thebarentsobserver.com/news/two-mysterious-tankers-are-sailing-north-to-aid-sanctioned-gas-fleet/423743">
+                thebarentsobserver.com
+              </a>
+            </li>
+            <li id="ref-27">
+              ГУР МО України, War&amp;Sanctions — картка судна North Light (IMO
+              9958298).{" "}
+              <a href="https://war-sanctions.gur.gov.ua/en/transport/ships/1002">
+                war-sanctions.gur.gov.ua
+              </a>
+            </li>
+            <li id="ref-28">
               Kyiv Post — «South Korea Sent 176,000 Tons of Fuel to Russia,
               Report Claims», 06.10.2026. Переказ розслідування The Guardian.{" "}
               <a href="https://www.kyivpost.com/post/86254">kyivpost.com</a>
             </li>
-            <li id="ref-27">
+            <li id="ref-29">
               Irish Examiner — «Fuel shipped to Russia from South Korea as
               Ukraine war grinds on», 06.10.2026. Передрук The Guardian; дані
               Kpler у розрахунку CREA.{" "}
@@ -671,7 +723,14 @@ export default function Page() {
                 irishexaminer.com
               </a>
             </li>
-            <li id="ref-28">
+            <li id="ref-30">
+              Укрінформ — «У Південній Кореї заперечили постачання пального до
+              РФ зі своїх портів», 08.10.2026. За повідомленням Yonhap.{" "}
+              <a href="https://www.ukrinform.ua/rubric-world/4172192-u-pivdennij-korei-zaperecili-postacanna-palnogo-do-rf-zi-svoih-portiv.html">
+                ukrinform.ua
+              </a>
+            </li>
+            <li id="ref-31">
               gCaptain — «Shadow Fleet Traffic on Northern Sea Route Surges as
               Arctic Safety Concerns Grow», 05.10.2026. Підрахунок Bellona
               Environmental Transparency Center.{" "}
@@ -679,21 +738,21 @@ export default function Page() {
                 gcaptain.com
               </a>
             </li>
-            <li id="ref-29">
+            <li id="ref-32">
               The Barents Observer — «Shadow tanker blocked by Arctic sea ice»,
               09.12.2025.{" "}
               <a href="https://www.thebarentsobserver.com/news/shadow-tanker-blocked-by-arctic-sea-icenbsp/442007">
                 thebarentsobserver.com
               </a>
             </li>
-            <li id="ref-30">
+            <li id="ref-33">
               iStories — «How North Korea armed Russia», 16.03.2026. Спільне
               розслідування з Open Source Centre.{" "}
               <a href="https://istories.media/en/stories/2026/03/16/how-north-korea-armed-russia/">
                 istories.media
               </a>
             </li>
-            <li id="ref-31">
+            <li id="ref-34">
               The Barents Observer — «Ships linked with Arctic Russia spotted in
               North Korea», 29.09.2026.{" "}
               <a href="https://www.thebarentsobserver.com/security/ships-linked-with-arctic-russia-spotted-in-north-korea/458913">

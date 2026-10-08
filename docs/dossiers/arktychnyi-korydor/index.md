@@ -79,6 +79,18 @@
 | 70 | [Monthly Highlights from the Russian Arctic, July 2026 - etc.bellona.or](https://etc.bellona.org/2026/09/08/monthly-highlights-from-the-russian-arctic-july-2026/) | 2026-09-08 | прочитано | 33776 | ? | `text/70-etc.bellona.org-monthly-highlights-from-the-russian-arctic-july-2026.txt` |
 | 71 | [South Korea Sent 176,000 Tons of Fuel to Russia, Report Claims](https://www.kyivpost.com/post/86254) | 2026-10-06 | прочитано | 7428 | ? | `text/71-kyivpost.com-86254.txt` |
 | 72 | [Ukrainian strikes force Russia to buy refined fuel from South Korea](https://www.bairdmaritime.com/shipping/tankers/ukrainian-strikes-force-russia-to-buy-refined-fuel-from-south-korea) | 2026-08-07 | прочитано | 2058 | ? | `text/72-bairdmaritime.com-ukrainian-strikes-force-russia-to-buy-refined-fuel-f.txt` |
+| 73 | [У Південній Кореї заперечили постачання пального до РФ зі своїх портів](https://www.ukrinform.ua/rubric-world/4172192-u-pivdennij-korei-zaperecili-postacanna-palnogo-do-rf-zi-svoih-portiv.html) | 2026-10-08 | прочитано | 3080 | ? | `text/73-ukrinform.ua-4172192-u-pivdennij-korei-zaperecili-postacanna-palnogo-d.txt` |
+| 74 | [Південна Корея заявила, що не постачала пальне Росії](https://epravda.com.ua/biznes/pivdenna-koreya-zayavila-shcho-ne-postachala-palne-rosiji-826340/) | 2026-10-07 | прочитано | 2294 | ? | `text/74-epravda.com.ua-pivdenna-koreya-zayavila-shcho-ne-postachala-palne-rosi.txt` |
+| 75 | [Постачання палива з Південної Кореї до РФ: у Сеулі відреагували на зви](https://www.unian.ua/economics/energetics/pivdenna-koreya-vidreaguvali-na-zvinuvachennya-u-postachanni-paliva-do-rf-13521921.html) | 2026-10-07 | прочитано | 11118 | ? | `text/75-unian.ua-pivdenna-koreya-vidreaguvali-na-zvinuvachennya-u-postachanni-.txt` |
+| 76 | [Two mysterious tankers are sailing north to aid sanctioned gas fleet](https://thebarentsobserver.com/news/two-mysterious-tankers-are-sailing-north-to-aid-sanctioned-gas-fleet/423743) | 2025-01-28 | прочитано | 2588 | ? | `text/76-thebarentsobserver.com-423743.txt` |
+| 77 | [NORTH LIGHT; IMO 9958298](https://war-sanctions.gur.gov.ua/en/transport/ships/1002) | 2024-11-01 | прочитано | 4752 | ? | `text/77-war-sanctions.gur.gov.ua-1002.txt` |
+| 78 | [First of MOL’s newly delivered Arc4 vessels lines up for Russian LNG s](https://tradewindsnews.com/gas/first-of-mol-s-newly-delivered-arc4-vessels-lines-up-for-russian-lng-ship-to-ship-transfer/2-1-1773033) | 2025-01-31 | прочитано | 1240 | ? | `text/78-tradewindsnews.com-2-1-1773033.txt` |
+| 79 | [Миллиардер Шишкарев не пришел на сделку по продаже «Росатому» контроля](https://theins.ru/news/296545) | 2026-08-28 | прочитано | 3057 | ? | `text/79-theins.ru-296545.txt` |
+| 80 | [«Росатом»: Сергей Шишкарев не пришел на завершение сделки по выкупу ег](https://expert.ru/news/rosatom-sergey-shishkarev-ne-prishel-na-zavershenie-sdelki-po-vykupu-ego-doli-v-gk-delo) | 2026-08-28 | прочитано | 3499 | ? | `text/80-expert.ru-rosatom-sergey-shishkarev-ne-prishel-na-zavershenie-sdelki-p.txt` |
+| 81 | [China Launches First Scheduled Weekly Arctic Container Service to Euro](https://gcaptain.com/china-launches-first-scheduled-weekly-arctic-container-service-to-europe/) | 2026-07-15 | прочитано | 4913 | ? | `text/81-gcaptain.com-china-launches-first-scheduled-weekly-arctic-container-se.txt` |
+| 82 | [«Росатом» выкупил у Шишкарева 51% группы «Дело»](https://www.vedomosti.ru/business/articles/2026/10/07/1235090-rosatom-vikupil) | 2026-10-07 | прочитано | 5567 | ? | `text/82-vedomosti.ru-1235090-rosatom-vikupil.txt` |
+| 83 | [www.tks.ru](https://www.tks.ru/logistics/2026/10/08/0002/rosatom-obedinit-delo-i-fesco-v-krupnejshuyu-natsionalnuyu-logisticheskuyu-kompaniyu/) | — | НЕ ВІДКРИЛОСЯ | 0 | ? | `text/83-tks.ru-rosatom-obedinit-delo-i-fesco-v-krupnejshuyu-natsionalnuyu-logi.txt` |
+| 84 | [1prime.ru](https://1prime.ru/20261007/likhachev-874022294.html) | — | НЕ ВІДКРИЛОСЯ | 0 | ? | `text/84-1prime.ru-likhachev-874022294.txt` |
 
 ## Проблемні джерела
 
@@ -97,6 +109,9 @@
 - **№41** https://tass.com/economy/2035913 — оригінал недоступний (0), узято з Wayback
 - **№45** https://mid.ru/en/foreign_policy/news/2136949/ — оригінал 0; знімка немає в Wayback
 - **№57** https://en.bd-pratidin.com/international/2026/10/06/71363 — оригінал 403; знімка немає в Wayback
+- **№80** https://expert.ru/news/rosatom-sergey-shishkarev-ne-prishel-na-zavershenie-sdelki-po-vykupu-ego-doli-v-gk-delo — оригінал недоступний (0), узято з Wayback
+- **№83** https://www.tks.ru/logistics/2026/10/08/0002/rosatom-obedinit-delo-i-fesco-v-krupnejshuyu-natsionalnuyu-logisticheskuyu-kompaniyu/ — оригінал 0; знімка немає в Wayback
+- **№84** https://1prime.ru/20261007/likhachev-874022294.html — оригінал 0; знімка немає в Wayback
 
 ---
 
