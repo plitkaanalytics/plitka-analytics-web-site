@@ -272,103 +272,8 @@ export default function Page() {
 
         {/* ===================== § 01 ===================== */}
         <h2 id="sec-west">
-          <span className="h2-num">§ 01 · Захід моря</span>Чотири судна за дві
-          доби
+          <span className="h2-num">§ 01 · Захід моря</span>Чиї дрони
         </h2>
-
-        <p>
-          Сигнал біди з Royad Mammadov надійшов до румунського Морського
-          координаційного центру рятувальних операцій о 10:37 5 жовтня
-          <a className="ref" href="#ref-18">
-            [18]
-          </a>
-          . Судно горіло приблизно за 20 морських миль від узбережжя Румунії і
-          за 9 миль на південний схід від платформи Pescăruș, яку експлуатує OMV
-          Petrom. Це вже за межами територіальних вод, але у виключній
-          економічній зоні Румунії
-          <a className="ref" href="#ref-4">
-            [4]
-          </a>
-          . До місця пішли рятувальні судна SAR Apollo, SAR Ares і SAR Artemis
-          та берегова охорона. Спершу зниклими вважали всіх тринадцятьох членів
-          екіпажу
-          <a className="ref" href="#ref-18">
-            [18]
-          </a>
-          .
-        </p>
-
-        <p>
-          Урятували одинадцятьох. Капітан, громадянин Азербайджану Рустам Ісмаїл
-          огли Гасанов, загинув, ще один азербайджанський моряк зник безвісти
-          <a className="ref" href="#ref-2">
-            [2]
-          </a>
-          . Трьох громадян Азербайджану госпіталізували в Румунії
-          <a className="ref" href="#ref-19">
-            [19]
-          </a>
-          . Міністерство закордонних справ Азербайджану того ж дня повторило
-          пораду своїм громадянам не найматися на судна, що ходять спірними
-          морськими коридорами
-          <a className="ref" href="#ref-2">
-            [2]
-          </a>
-          . Голова румунської Вільної профспілки моряків Адріан Міхелчою сказав
-          про загиблих коротко: «Це люди, які не мають жодного стосунку до
-          війни. Це не їхня війна»
-          <a className="ref" href="#ref-20">
-            [20]
-          </a>
-          .
-        </p>
-
-        <p>
-          Через шістнадцять годин, близько третьої ночі 6 жовтня, дрони накрили
-          два суховантажі за 70 миль на схід від Бяли. Прем&apos;єр Болгарії
-          Румен Радев заявив, що екіпажі «категорично підтвердили» атаку
-          морськими й повітряними дронами
-          <a className="ref" href="#ref-21">
-            [21]
-          </a>
-          . Alfa Watan ішов на північ з єгипетського Ель-Аріша до румунської
-          Суліни, його вантаж невідомий
-          <a className="ref" href="#ref-20">
-            [20]
-          </a>
-          . Екіпаж болгарського порома Dioscuria побачив вибух на борту і
-          повернув до судна, але застав лише перекинутий рятувальний човен і
-          жилети. Близько дев&apos;ятої ранку Alfa Watan зник з радарів
-          прикордонної поліції
-          <a className="ref" href="#ref-2">
-            [2]
-          </a>
-          .
-        </p>
-
-        <p>
-          Able з пшеницею йшов назустріч, з румунського Галаца до Стамбула
-          <a className="ref" href="#ref-20">
-            [20]
-          </a>
-          . Морський дрон влучив йому в корму, машинне відділення затопило, і
-          наступного ранку судно ще горіло, сидячи кормою у воді
-          <a className="ref" href="#ref-2">
-            [2]
-          </a>
-          . Dioscuria забрав усіх вісімнадцятьох моряків. Механік отримав опіки
-          45% тіла і перебуває в критичному стані, капітана поранило в голову,
-          груди й ногу
-          <a className="ref" href="#ref-1">
-            [1]
-          </a>
-          . Індія, чиї громадяни були на борту, заявила, що атаки на торговельні
-          судна й моряків «серйозно підривають світову торгівлю»
-          <a className="ref" href="#ref-2">
-            [2]
-          </a>
-          .
-        </p>
 
         <figure
           className="fig"
@@ -381,24 +286,6 @@ export default function Page() {
         </figure>
 
         <p>
-          Того ж дня біля Одещини російський дрон уразив судно під прапором
-          Маршаллових Островів з ріпаковою олією. У надбудові спалахнула пожежа,
-          загинув стюард, семеро моряків поранені. Назви судна начальник
-          Одеської ОВА Олег Кіпер не навів
-          <a className="ref" href="#ref-5">
-            [5]
-          </a>
-          . Ще 3 жовтня в одному з портів Одещини удар по судну під прапором
-          Ліберії вбив моряка
-          <a className="ref" href="#ref-4">
-            [4]
-          </a>
-          .
-        </p>
-
-        <h3>Чиї дрони</h3>
-
-        <p>
           Усе вказує на Росію. Royad Mammadov віз українську кукурудзу з Ізмаїла
           <a className="ref" href="#ref-3">
             [3]
@@ -407,21 +294,21 @@ export default function Page() {
           проросійський телеграм-канал «Военный осведомитель» пише, що ним
           «активно пользуются суда для захода и выхода из украинских портов в
           надежде избежать ударов российских дронов-камикадзе»
-          <a className="ref" href="#ref-22">
-            [22]
+          <a className="ref" href="#ref-18">
+            [18]
           </a>
           . Компанія морської безпеки Ambrey звернула увагу, що всі три судна,
           уражені у водах Румунії й Болгарії, працювали на дунайські порти, і
           оцінила як дуже ймовірне, що атакували російські сили
-          <a className="ref" href="#ref-23">
-            [23]
+          <a className="ref" href="#ref-19">
+            [19]
           </a>
           . Міноборони РФ за день до удару по Royad Mammadov заявило, що
           «поражены два морских судна типа сухогруз, доставлявшие в порт Одесса
           военное имущество». Назв суден відомство не навело і доказів не
           показало
-          <a className="ref" href="#ref-24">
-            [24]
+          <a className="ref" href="#ref-20">
+            [20]
           </a>
           .
         </p>
@@ -432,8 +319,8 @@ export default function Page() {
           Військово-морські сили зв&apos;язалися з болгарськими колегами і
           встановили, що це комбінована російська атака морськими й повітряними
           дронами
-          <a className="ref" href="#ref-25">
-            [25]
+          <a className="ref" href="#ref-21">
+            [21]
           </a>
           .
         </p>
@@ -460,8 +347,8 @@ export default function Page() {
             Жодна з двох держав, у чиїх водах тонули судна, атакувальника не
             назвала. Міністерство внутрішніх справ Румунії причину пожежі на
             Royad Mammadov не вказало
-            <a className="ref" href="#ref-26">
-              [26]
+            <a className="ref" href="#ref-22">
+              [22]
             </a>
             . Радев сказав, що дрони були «явно або російськими, або
             українськими»
@@ -473,8 +360,8 @@ export default function Page() {
             заявив інше. «Потрібно знайти уламки дронів або щоб одна зі сторін
             взяла на себе відповідальність, але цього не сталося, тому ми не
             можемо підтвердити, чи вони українські, чи російські»
-            <a className="ref" href="#ref-27">
-              [27]
+            <a className="ref" href="#ref-23">
+              [23]
             </a>
             .
           </p>
@@ -483,8 +370,8 @@ export default function Page() {
             військову допомогу Україні, а в серпні, після вибуху дрона біля
             Трансбалканського газогону, її Міноборони заявляло, що дрон був
             типу, «широко вживаного українськими військовими»
-            <a className="ref" href="#ref-28">
-              [28]
+            <a className="ref" href="#ref-24">
+              [24]
             </a>
             .
           </p>
@@ -495,8 +382,8 @@ export default function Page() {
           назвав події 5–6 жовтня «полюванням на судна турецьких власників» і
           стверджує, що Alfa Watan і Royad Mammadov пов&apos;язані з однією
           стамбульською компанією Spring Marine
-          <a className="ref" href="#ref-29">
-            [29]
+          <a className="ref" href="#ref-25">
+            [25]
           </a>
           . Підтвердити цю тезу ми не можемо. Spring Marine справді є
           комерційним менеджером Royad Mammadov, але Alfa Watan, за даними
@@ -510,7 +397,7 @@ export default function Page() {
           .
         </p>
 
-        {/* TODO: § 02 Від Одеси до Суліни → § 03 Схід моря (+ aside Ла-Манш і Балтика) → § 04 Ормуз (+ aside Кариби) → § 05 Чому судна ніхто не захищає → § 06 Ціна для обох берегів → § 07 Хто платить за чужу війну → § 08 Висновок */}
+        {/* TODO: § 02 (+ удар 3.10 по судну під прапором Ліберії в порту Одещини, ref KI 05.10) Від Одеси до Суліни → § 03 Схід моря (+ aside Ла-Манш і Балтика) → § 04 Ормуз (+ aside Кариби) → § 05 Чому судна ніхто не захищає → § 06 Ціна для обох берегів → § 07 Хто платить за чужу війну → § 08 Висновок */}
 
         {/* ===================== ДЖЕРЕЛА ===================== */}
         <section className="refs" id="sec-refs">
@@ -631,53 +518,24 @@ export default function Page() {
               </a>
             </li>
             <li id="ref-18">
-              УП / «Європейська правда» — «У Чорному морі біля Румунії стався
-              інцидент із судном з українським зерном: є загиблі», 05.10.2026.{" "}
-              <a href="https://www.pravda.com.ua/news/2026/10/05/8056543/">
-                pravda.com.ua
-              </a>
-            </li>
-            <li id="ref-19">
-              APA — «Three Azerbaijani citizens injured in drone attack on cargo
-              ship», 06.10.2026. Дані МЗС Азербайджану.{" "}
-              <a href="https://en.apa.az/incident/three-azerbaijani-citizens-injured-in-drone-attack-on-cargo-ship-528333">
-                apa.az
-              </a>
-            </li>
-            <li id="ref-20">
-              Euromaidan Press — «Two ships sunk and a third set ablaze off NATO
-              coasts in two days, and neither Bucharest nor Sofia will say
-              &laquo;Russia&raquo;», 06.10.2026.{" "}
-              <a href="https://euromaidanpress.com/2026/10/06/two-ships-sunk-and-a-third-set-ablaze-off-nato-coasts-in-two-days-and-neither-bucharest-nor-sofia-will-say-russia/">
-                euromaidanpress.com
-              </a>
-            </li>
-            <li id="ref-21">
-              Türkiye Today — «11 Turkish sailors rescued, Alfa Watan crew still
-              missing after Black Sea drone attack», 06.10.2026.{" "}
-              <a href="https://www.turkiyetoday.com/world/11-turkish-sailors-rescued-alfa-watan-crew-still-missing-after-black-sea-drone-attack-3229748">
-                turkiyetoday.com
-              </a>
-            </li>
-            <li id="ref-22">
               «Военный осведомитель» (Telegram), 05.10.2026. Проросійський
               канал.{" "}
               <a href="https://t.me/milinfolive/180944">t.me/milinfolive</a>
             </li>
-            <li id="ref-23">
+            <li id="ref-19">
               Splash247 — «Aframax Rio blaze underscores widening Black Sea
               threat», 07.10.2026. Оцінки Ambrey.{" "}
               <a href="https://splash247.com/aframax-rio-blaze-underscores-widening-black-sea-threat/">
                 splash247.com
               </a>
             </li>
-            <li id="ref-24">
+            <li id="ref-20">
               «Интерфакс» — «Два сухогруза с военным имуществом поражены в
               Черном море на переходе в порт Одессы», 04.10.2026. Заява
               Міноборони РФ, дані заявлені.{" "}
               <a href="https://www.interfax.ru/russia/1120254">interfax.ru</a>
             </li>
-            <li id="ref-25">
+            <li id="ref-21">
               УП / «Європейська правда» — «Зеленський: Судна у водах Болгарії
               атакувала Росія, ВМС України вже контактує з болгарами»,
               06.10.2026.{" "}
@@ -685,14 +543,14 @@ export default function Page() {
                 pravda.com.ua
               </a>
             </li>
-            <li id="ref-26">
+            <li id="ref-22">
               Al Jazeera — «Ukraine says Russian drone attack sinks ship in
               Romanian waters», 05.10.2026.{" "}
               <a href="https://www.aljazeera.com/news/2026/10/5/ukraine-says-russian-drone-attack-sinks-ship-in-romanian-waters">
                 aljazeera.com
               </a>
             </li>
-            <li id="ref-27">
+            <li id="ref-23">
               УП / «Європейська правда» — «Болгарський міністр назвав війну РФ і
               України гібридною і не певен, чиї дрони вразили кораблі»,
               06.10.2026. Заява в ефірі бТВ.{" "}
@@ -700,14 +558,14 @@ export default function Page() {
                 pravda.com.ua
               </a>
             </li>
-            <li id="ref-28">
+            <li id="ref-24">
               Euronews — «Ukraine denies targeting Bulgaria as drone explodes
               near pipeline, Kyiv promises inquiry», 09.08.2026.{" "}
               <a href="https://www.euronews.com/2026/08/09/ukraine-denies-targeting-bulgaria-as-drone-explodes-near-pipeline-kyiv-promises-inquiry">
                 euronews.com
               </a>
             </li>
-            <li id="ref-29">
+            <li id="ref-25">
               NV — «Полювання РФ на судна турецьких власників. Біля Болгарії
               після атаки дронів затонуло друге за два дні судно», 06.10.2026.
               Коментар А. Клименка.{" "}
