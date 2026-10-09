@@ -1206,7 +1206,7 @@ export default function Page() {
         </p>
 
         <p>
-          Як і в старі часи - захист з&apos;являється лише там, де є військовий
+          Як і в старі часи, захист з&apos;являється лише там, де є військовий
           конвой. В Ормузі нафту з Перської затоки частково рятують американські
           військові ескорти
           <a className="ref" href="#ref-17">
@@ -1231,7 +1231,7 @@ export default function Page() {
           <a className="ref" href="#ref-26">
             [26]
           </a>
-          . Проте, члени НАТО Болгарія, Румунія й Туреччина мають лише спільну
+          . Проте члени НАТО Болгарія, Румунія й Туреччина мають лише спільну
           протимінну групу
           <a className="ref" href="#ref-80">
             [80]
@@ -1248,19 +1248,19 @@ export default function Page() {
           Висока представниця ЄС Кая Каллас закликала до мораторію на атаки в
           Чорному морі, Туреччина й ООН готують перемовини про морське
           перемир&apos;я
-          <a className="ref" href="#ref-82">
-            [82]
+          <a className="ref" href="#ref-81">
+            [81]
           </a>
           . 7 жовтня Реджеп Таїп Ердоган говорив про безпеку судноплавства з
           Володимиром Путіним
-          <a className="ref" href="#ref-83">
-            [83]
+          <a className="ref" href="#ref-82">
+            [82]
           </a>
           . Індія запропонувала перемир&apos;я з трьох частин, одна з яких
           стосується саме комерційного судноплавства, і українська сторона
           назвала його найповнішим з отриманих
-          <a className="ref" href="#ref-84">
-            [84]
+          <a className="ref" href="#ref-83">
+            [83]
           </a>
           . Україна ще в серпні через посередника запропонувала Росії взаємно
           припинити удари по цивільних цілях у Чорному морі, але відповіді не
@@ -1269,8 +1269,8 @@ export default function Page() {
             [52]
           </a>
           , а раніше Москва вже відкидала таку пропозицію Києва
-          <a className="ref" href="#ref-82">
-            [82]
+          <a className="ref" href="#ref-81">
+            [81]
           </a>
           .
         </p>
@@ -1282,7 +1282,160 @@ export default function Page() {
           продовжуватимуть гинути на берегах Чорного, Червоного та інших морів.
         </p>
 
-        {/* TODO: § 05 Хто платить за чужу війну (FAO, Єгипет, олія для Індії, Африка, добрива, WFP) → § 06 Висновок */}
+        {/* ===================== § 05 ===================== */}
+        <h2 id="sec-cost">
+          <span className="h2-num">§ 05 · Ціна</span>Хто платить за чужу війну
+        </h2>
+
+        <p>
+          Росія й Україна разом дають 27,3% світового експорту пшениці
+          <a className="ref" href="#ref-84">
+            [84]
+          </a>
+          . За оцінкою «Совекона», у липні–вересні 2026 року обидві країни разом
+          вивезуть приблизно половину торішнього обсягу пшениці
+          <a className="ref" href="#ref-84">
+            [84]
+          </a>
+          . Індекс продовольчих цін FAO у вересні піднявся до 136 пунктів, на
+          5,8% вище, ніж роком раніше. Зерновий індекс зріс за рік на 17,2%,
+          пшениця подорожчала за місяць на 6,3% і досягла максимуму з серпня
+          2023 року. FAO пов&apos;язує це передусім із логістичними обмеженнями
+          в Чорноморському регіоні, через які імпортери переходять до інших
+          постачальників
+          <a className="ref" href="#ref-85">
+            [85]
+          </a>
+          . «Ми бачимо стійке і дедалі ширше зростання світових цін на сировину,
+          бо збої в Ормузькій протоці й Чорному морі поєднуються з кліматичними
+          потрясіннями», — каже головний економіст FAO Максимо Тореро. За його
+          словами, якщо це триватиме, зростання незабаром дійде до цін у
+          магазинах, насамперед у країнах, що імпортують продовольство й пальне
+          <a className="ref" href="#ref-86">
+            [86]
+          </a>
+          .
+        </p>
+
+        <figure
+          className="fig"
+          data-placeholder="ГРАФІК: індекс зернових цін FAO, 2025–2026 по місяцях; вересень 2026 — 122,8 пункту (+5,1% за місяць, +17,2% р/р); позначки: 28.02 (Ормуз), 13.04 (блокада), липень (зупинка Одеси, Новоросійська). Дані FAO. Власна графіка редакції."
+        >
+          <figcaption>
+            Індекс зернових цін FAO у 2025–2026 роках. Графіка PLITKA Analytics
+            за даними FAO.
+          </figcaption>
+        </figure>
+
+        <p>
+          Зерна у світі не поменшало. FAO прогнозує, що світовий урожай зернових
+          2026 року стане другим найбільшим в історії
+          <a className="ref" href="#ref-86">
+            [86]
+          </a>
+          . Воно застрягло там, де виросло: українські фермери продають нижче
+          собівартості, а імпортери платять більше, бо змагаються за те, що
+          фізично може до них доплисти
+          <a className="ref" href="#ref-31">
+            [31]
+          </a>
+          . Соняшникова олія в індексі FAO дешевшає третій місяць поспіль саме
+          тому, що в Чорноморському регіоні її вистачає
+          <a className="ref" href="#ref-85">
+            [85]
+          </a>
+          , а Індія тим часом недоотримує її. Країні потрібно близько 250 тисяч
+          тонн на місяць, у жовтні може надійти 160 тисяч, і індійські покупці
+          за три дні закупили 150 тисяч тонн пальмової олії на заміну
+          <a className="ref" href="#ref-45">
+            [45]
+          </a>
+          .
+        </p>
+
+        <p>
+          Найбільше залежить від Чорного моря Єгипет, один з найбільших у світі
+          покупців пшениці. Він імпортує близько 12,5 мільйона тонн на рік, 62%
+          свого споживання, і лише програма субсидованого хліба потребує 8,6
+          мільйона тонн зерна
+          <a className="ref" href="#ref-87">
+            [87]
+          </a>
+          . У першому півріччі 2026 року близько 80% імпортної пшениці Єгипту
+          дали Росія й Україна. У вересні імпорт упав на 77%. Ціна за тонну
+          виросла з приблизно 245 доларів на початку липня до 320, і трейдер
+          Хішам Сулейман пояснює ці 75 доларів прямо: війною Росії й України та
+          падінням їхнього експорту
+          <a className="ref" href="#ref-87">
+            [87]
+          </a>
+          . Частина пшениці для Єгипту йшла через російський порт Кавказ у
+          Керченській протоці, де її перевантажували на великі судна, але після
+          обмежень судноплавства порт закрився
+          <a className="ref" href="#ref-88">
+            [88]
+          </a>
+          .
+        </p>
+
+        <p>
+          «Шок пропозиції, який ми бачимо зараз, набагато більший, ніж на
+          початку війни Росії проти України в лютому 2022 року», — каже про
+          африканський ринок Андрій Сизов, голова аналітичної компанії
+          «Совекон». Продовольча інфляція в Нігерії перевищує 20%, в Ефіопії
+          15%, у Кенії сягає 9%
+          <a className="ref" href="#ref-89">
+            [89]
+          </a>
+          . Голова Зернової спілки Казахстану Євген Карабанов оцінює, що Росія й
+          Україна разом можуть недопоставити на світовий ринок 30–40 мільйонів
+          тонн зерна, і це підніме світові ціни на продовольство на 15–20%
+          <a className="ref" href="#ref-52">
+            [52]
+          </a>
+          .
+        </p>
+
+        <p>
+          Ормуз б&apos;є і по наступному врожаю, бо через протоку йшло до 30%
+          світової торгівлі добривами, зокрема 30–35% експорту сечовини, і після
+          закриття тут застрягло 3–4 мільйони тонн добрив. На відміну від нафти,
+          стратегічних запасів добрив світ не має
+          <a className="ref" href="#ref-90">
+            [90]
+          </a>
+          . За даними Світового банку, у лютому–квітні сечовина подорожчала
+          більш ніж на 80%, а в середньому за 2026 рік добрива будуть на 31%
+          дорожчі
+          <a className="ref" href="#ref-91">
+            [91]
+          </a>
+          . FAO попереджає, що нестача добрив і дорожча енергія загрожують
+          урожайності
+          <a className="ref" href="#ref-90">
+            [90]
+          </a>
+          .
+        </p>
+
+        <p>
+          Світова продовольча програма ще в березні попереджала, що через війну
+          з Іраном ще до 45 мільйонів людей можуть опинитися в гострому голоді.
+          Загалом таких людей стане 363 мільйони, більше, ніж після вторгнення
+          Росії в Україну 2022 року
+          <a className="ref" href="#ref-92">
+            [92]
+          </a>
+          . Тоді Чорне море ще працювало. У Судані, за даними WFP, гострий голод
+          уже переживають близько 20 мільйонів людей, а базові продукти за сім
+          місяців подорожчали майже на 40%
+          <a className="ref" href="#ref-84">
+            [84]
+          </a>
+          .
+        </p>
+
+        {/* TODO: § 06 Висновок */}
 
         {/* ===================== ДЖЕРЕЛА ===================== */}
         <section className="refs" id="sec-refs">
@@ -1835,13 +1988,6 @@ export default function Page() {
               </a>
             </li>
             <li id="ref-81">
-              Укрінформ — «Болгарія припинила пошуки екіпажу судна, яке затонуло
-              після удару дрона», 07.10.2026.{" "}
-              <a href="https://www.ukrinform.ua/rubric-world/4171906-bolgaria-pripinila-posuki-ekipazu-sudna-ake-zatonulo-pisla-udaru-drona.html">
-                ukrinform.ua
-              </a>
-            </li>
-            <li id="ref-82">
               Euromaidan Press — «Two ships sunk and a third set ablaze off NATO
               coasts in two days, and neither Bucharest nor Sofia will say
               &laquo;Russia&raquo;», 06.10.2026.{" "}
@@ -1849,19 +1995,77 @@ export default function Page() {
                 euromaidanpress.com
               </a>
             </li>
-            <li id="ref-83">
+            <li id="ref-82">
               Укрінформ — «Ердоган телефоном говорив із Путіним про безпеку
               судноплавства в Чорному морі», 07.10.2026.{" "}
               <a href="https://www.ukrinform.ua/rubric-world/4171971-erdogan-telefonom-govoriv-iz-putinim-pro-bezpeku-sudnoplavstva-v-cornomu-mori.html">
                 ukrinform.ua
               </a>
             </li>
-            <li id="ref-84">
+            <li id="ref-83">
               УП — «ЗМІ: Індія запропонувала Україні та РФ перемир’я з трьох
               частин, зокрема щодо безпеки в Чорному морі», 07.10.2026. Дані
               Hindustan Times.{" "}
               <a href="https://www.pravda.com.ua/news/2026/10/07/8056909/">
                 pravda.com.ua
+              </a>
+            </li>
+            <li id="ref-84">
+              Down To Earth — «Disruptions across Strait of Hormuz, Black Sea
+              and alternative routes raise global food and fuel security risks»,
+              25.09.2026. Дані S&amp;P Global, «Совекона», WFP.{" "}
+              <a href="https://www.downtoearth.org.in/energy/disruptions-across-strait-of-hormuz-black-sea-and-alternative-routes-raise-global-food-and-fuel-security-risks">
+                downtoearth.org.in
+              </a>
+            </li>
+            <li id="ref-85">
+              FAO — FAO Food Price Index, реліз від 02.10.2026.{" "}
+              <a href="https://www.fao.org/worldfoodsituation/foodpricesindex/en/">
+                fao.org
+              </a>
+            </li>
+            <li id="ref-86">
+              Daily Maverick (Reuters) — «World food prices near four-year high
+              in September, UN says», 02.10.2026.{" "}
+              <a href="https://www.dailymaverick.co.za/article/2026-10-02-world-food-prices-near-four-year-high-in-september-un-say.md">
+                dailymaverick.co.za
+              </a>
+            </li>
+            <li id="ref-87">
+              Al Manassa — «Egypt’s wheat imports drop 77% in September»,
+              04.10.2026.{" "}
+              <a href="https://manassa.news/en/news/34232">manassa.news</a>
+            </li>
+            <li id="ref-88">
+              Al Manassa — «Russian port restrictions threaten Egyptian wheat
+              supply chains», 30.07.2026.{" "}
+              <a href="https://manassa.news/en/news/33152">manassa.news</a>
+            </li>
+            <li id="ref-89">
+              African Business — «Wheat prices spike as Ukraine and Russia trade
+              Black Sea blows», 24.08.2026.{" "}
+              <a href="https://african.business/2026/08/resources/wheat-prices-spike-as-ukraine-and-russia-trade-black-sea-blows">
+                african.business
+              </a>
+            </li>
+            <li id="ref-90">
+              FAO — «Global agrifood implications of the 2026 conflict in the
+              Middle East», 2026.{" "}
+              <a href="https://openknowledge.fao.org/server/api/core/bitstreams/1aafb5d8-39d1-481a-b1f8-25facaec3051/content">
+                openknowledge.fao.org
+              </a>
+            </li>
+            <li id="ref-91">
+              World Bank — Food and Nutrition Security Update 122, 29.05.2026.{" "}
+              <a href="https://thedocs.worldbank.org/en/doc/40ebbf38f5a6b68bfc11e5273e1405d4-0090012022/related/Food-and-Nutrition-Security-Update-122-May-29-2026.pdf">
+                worldbank.org
+              </a>
+            </li>
+            <li id="ref-92">
+              Bloomberg — «UN Warns Prolonged Iran War Could Spur Record Global
+              Hunger», 17.03.2026. Дані WFP.{" "}
+              <a href="https://bloomberg.com/news/articles/2026-03-17/un-warns-prolonged-iran-war-could-trigger-record-global-hunger">
+                bloomberg.com
               </a>
             </li>
           </ol>
