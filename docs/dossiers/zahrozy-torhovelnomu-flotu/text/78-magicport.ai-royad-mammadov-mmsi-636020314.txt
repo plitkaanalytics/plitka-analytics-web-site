@@ -1,0 +1,95 @@
+URL:         https://magicport.ai/vessels/general-cargo/royad-mammadov-mmsi-636020314
+Кінцевий:    https://magicport.ai/vessels/general-cargo/royad-mammadov-mmsi-636020314
+Заголовок:   ROYAD MAMMADOV - (IMO 9356969) - Position, Specs, Managers & Sanctions Risks - MagicPort
+Дата публ.:  2026-10-07
+Завантажено: 2026-10-07 09:35 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 448898
+Оригінал:    raw/78-magicport.ai-royad-mammadov-mmsi-636020314.html
+sha256:      ff63f7ac94b63cd6149669a8c25192e047882f070d60e3263088911c11610e53
+Витяг:       trafilatura
+
+==============================================================================
+ROYAD MAMMADOV (IMO 9356969, MMSI 341609002) is a General Cargo Ship flagged in Saint Kitts and Nevis. ROYAD MAMMADOV was built in 2006 with a deadweight capacity of 6,933 MT and a length overall of 139 metres. The vessel was last recorded travelling at 7.8 knots, on a heading of 237 degrees, with a next recorded destination of RAVENNA port (ITRAN). Based on MagicPort's screening against 300+ international sanctions watchlists, ROYAD MAMMADOV is currently not sanctioned. MG SHIPPING 5 CO LTD is the registered owner of ROYAD MAMMADOV. SPRING MARINE DENIZCILIK is the commercial manager of ROYAD MAMMADOV. PALMALI GEMICILIK VE ACENTELIK is the ISM manager of ROYAD MAMMADOV. Profile data is sourced from AIS feeds and updated continuously.
+
+| Class | A | 
+|---|---|
+| Deadweight | 6933 | 
+| Gross Tonnage | 5684 | 
+| Net Tonnage | ••••••••• | 
+| Length overall (LOA) | 139 | 
+| Class Society | ••••••••• | 
+| Beam | ••••••••• | 
+| Depth moulded | ••••••••• | 
+
+## Ownership
+
+## Voyage History
+
+## Survey Renewal & Certificates
+
+| Code | Nature | Issued RO | Surveyed RO | Date of issue | Date of expire | 
+|---|---|---|---|---|---|
+
+## FAQ about ROYAD MAMMADOV vessel
+
+### What's the identification number for vessel ROYAD MAMMADOV?
+
+ROYAD MAMMADOV's IMO number is 9356969, and its MMSI is 341609002.
+
+### Which is the flag and call sign of vessel ROYAD MAMMADOV (IMO 9356969)?
+
+Vessel ROYAD MAMMADOV (IMO 9356969) sails under the flag of SAINT KITTS AND NEVIS with the call sign V4LC7.
+
+### What is the type and subtype of vessel ROYAD MAMMADOV (IMO 9356969)?
+
+ROYAD MAMMADOV (MMSI: 341609002) is classified as a general cargo ship.
+
+### What are the dimensions (LOA, beam) and carrying capacity (DWT) vessel ROYAD MAMMADOV (IMO 9356969)?
+
+The ship measures 139 meters in length overall (LOA) and 16 meters in width, providing a carrying capacity of 6,933 MTs deadweight (DWT).
+
+### Who is the owner and manager of ROYAD MAMMADOV (IMO 9356969)?
+
+ISM Manager of ROYAD MAMMADOV (IMO 9356969) is [PALMALI GEMICILIK VE ACENTELIK](https://magicport.ai/owners-managers/t%C3%BCrkiye/palmali-gemicilik-ve-acentelik).
+
+Commercial Manager of ROYAD MAMMADOV (IMO 9356969) is [SPRING MARINE DENIZCILIK](https://magicport.ai/owners-managers/t%C3%BCrkiye/spring-marine-denizcilik).
+
+Registered Owner of ROYAD MAMMADOV (IMO 9356969) is [MG SHIPPING 5 CO LTD](https://magicport.ai/owners-managers/t%C3%BCrkiye/mg-shipping-5-co-ltd).
+
+### What is the vessel ROYAD MAMMADOV (IMO 9356969)'s destination?
+
+The ship is en route to [RAVENNA port (ITRAN)](https://magicport.ai/ports/italy/ravenna-port-itran).
+
+### Which ports vessel ROYAD MAMMADOV (IMO 9356969) visited in the last 12 months (1 year)?
+
+ROYAD MAMMADOV (IMO 9356969) has a recorded port call history available to MagicPort Maritime Intelligence subscribers. In the last 12 months, the vessel has visited [YEYSK Port (RUYEY)](https://magicport.ai/ports/russian-federation/yeysk-port-ruyey), [Russian Federation](https://magicport.ai/ports/russian-federation), [ISTANBUL Port (TRIST)](https://magicport.ai/ports/turkey/istanbul-port-trist), [Turkey](https://magicport.ai/ports/turkey), [AZOV Port (RUAZO)](https://magicport.ai/ports/russian-federation/azov-port-ruazo), [Russian Federation](https://magicport.ai/ports/russian-federation), [HAIFA Port (ILHFA)](https://magicport.ai/ports/israel/haifa-port-ilhfa), [Israel](https://magicport.ai/ports/israel) and [TAMAN Port (RUTAM)](https://magicport.ai/ports/russian-federation/taman-port-rutam), [Russian Federation](https://magicport.ai/ports/russian-federation). Full port call history — including arrival and departure timestamps, voyage sequences, and port visit frequency — is accessible via MagicPort at [Maritime Intelligence](/solutions/maritime-intelligence).
+
+### Is ROYAD MAMMADOV (IMO 9356969) sanctioned?
+
+ROYAD MAMMADOV (IMO 9356969) is not sanctioned. Based on MagicPort's screening against 300+ government and international sanctions watchlists — including OFAC (US Office of Foreign Assets Control), EU sanctions lists, and UN Security Council designations — this status reflects the latest data available. Always verify against current watchlists before entering into any transaction involving this vessel. Need more details? Request a [Free Sanctions Screening Report](https://magicport.ai/resources/tools/free-maritime-sanctions-screening-report).
+
+### What is the risk profile of ROYAD MAMMADOV (IMO 9356969)?
+
+Vessel ROYAD MAMMADOV is currently flagged as Medium risk. MagicPort's risk profiling evaluates vessels across multiple dimensions — sanctions exposure, flag state risk, ownership-chain transparency, and AIS behaviour anomalies. For a detailed risk analysis, visit MagicPort's [Maritime Intelligence](/solutions/maritime-intelligence) platform.
+
+## Similar Vessels
+
+| Navigation Status | Under way sailing | 
+|---|---|
+| Reported ETA | ••••••••• | 
+| Reported Destination (AIS) | ITRAN | 
+| Last Position Update | ••••••••• | 
+| Speed | 7.8 knots | 
+| Draught | ••••••••• | 
+| Summer Draught | ••••••••• | 
+| Heading | 237º | 
+| Course | 196º | 
+| Next Destination | |
+| Current Position | ••••••••• | 
+
+| Shipyard Country | |
+|---|---|
+| Builder (Shipyard) | |
+| Year Build | 2006 | 
+| Keel Laid Year | - | 
+| Hull Type Code | ••••••••• |

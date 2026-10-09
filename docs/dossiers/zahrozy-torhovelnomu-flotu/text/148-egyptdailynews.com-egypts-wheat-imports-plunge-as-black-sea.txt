@@ -1,0 +1,44 @@
+URL:         https://egyptdailynews.com/egypts-wheat-imports-plunge-as-black-sea/
+Кінцевий:    https://egyptdailynews.com/egypts-wheat-imports-plunge-as-black-sea/
+Заголовок:   Egypt’s Wheat Imports Plunge as Black Sea Disruptions Raise
+Дата публ.:  2026-10-06
+Завантажено: 2026-10-07 10:10 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 73621
+Оригінал:    raw/148-egyptdailynews.com-egypts-wheat-imports-plunge-as-black-sea.html
+sha256:      4a14ac6fc4d1190b51e089a5f5721661c57bfcbd720cb85679ecb5e84afb4bc9
+Витяг:       trafilatura
+
+==============================================================================
+Ahmed Kamel – [Egypt Daily News](https://egyptdailynews.com/)
+
+Egypt’s wheat imports fell sharply during the third quarter of 2026 as fighting around the Black Sea disrupted grain shipments, increased freight and insurance costs, and encouraged government agencies to pause new purchases after building up supplies earlier in the year.
+
+The country imported about 1.3 million tonnes of wheat between July and September, a decline of roughly 65% from the same period last year, according to an official document. The drop followed a surge in purchases during the first half of the year, when Egyptian authorities moved to secure additional supplies amid growing concerns about the war between Russia and Ukraine and worsening instability across the Middle East.
+
+Egypt’s General Authority for Supply Commodities and the Future of Egypt Authority have not purchased wheat since May, according to a government official familiar with the issue. The suspension could continue until November, leaving private companies as the country’s main importers during the period.
+
+The government’s decision to step away from the market appears to reflect a combination of strategic stockpiling and caution over elevated prices. Egypt increased its imports by 48% in the first six months of the year, bringing the total to approximately 7.7 million tonnes. Those early purchases helped reduce the immediate need for additional government tenders as shipping conditions worsened.
+
+Private importers, however, have faced a more difficult market. Russia and Ukraine account for approximately 80% of Egypt’s wheat imports, with Russia supplying about 60% and Ukraine about 20%. That dependence has left Egyptian buyers highly exposed to attacks on ports, shipping delays and higher insurance premiums in the Black Sea.
+
+Egypt obtains wheat from more than 20 countries, but alternative suppliers are generally more expensive or less convenient. European and South American cargoes can help fill supply gaps, yet longer routes increase freight costs and delivery times. Importers must also consider the quality of the wheat, port capacity and the requirements of Egypt’s milling industry.
+
+The latest disruptions intensified in August when two major grain terminals at Novorossiysk, one of Russia’s most important export ports, suspended operations after being damaged by Ukrainian drone attacks. Most Russian wheat exports leave through Black Sea ports, making any interruption there potentially significant for major buyers in North Africa, the Middle East and Asia.
+
+Shipowners have also become more cautious about entering the region. Higher war-risk premiums, delays at ports and the possibility of damage to vessels have made Black Sea shipments more expensive to arrange. Some exporters have considered moving cargoes through alternative ports or routes, but those options can add substantially to the final cost.
+
+The increase has already been reflected in international prices. Wheat prices have risen to about $315 per tonne, compared with approximately $235 during the same period last year, according to grain traders. The increase has been driven by concerns over shipping safety, reduced availability from key exporters and uncertainty about how long the disruption will last.
+
+Egyptian importers are reluctant to build large inventories at current prices. The depreciation of the Egyptian pound against the dollar has made imported grain more expensive, while the possibility of a political settlement between Russia and Ukraine has created fears that prices could fall quickly. A sudden decline would leave companies that purchased large quantities at elevated prices facing financial losses.
+
+Some traders estimate that a peace agreement could reduce global wheat prices by about $50 per tonne. That possibility has encouraged buyers to cover only their immediate requirements rather than commit to long-term purchases.
+
+Domestic production is providing some protection. The Egyptian government received approximately five million tonnes of locally grown wheat during the latest harvest, supported by an increase in cultivated land to around 3.7 million feddans. Local procurement has reduced the amount of imported grain required for the subsidized bread system, although domestic output remains insufficient to meet total consumption.
+
+Egypt typically imports between 12 million and 13 million tonnes of wheat each year for government programs, commercial mills and food manufacturers. Forecasts suggest imports could reach about 12 million tonnes in 2026, roughly 9% below the previous year’s level.
+
+The lower volume does not necessarily indicate a comparable decline in demand. Much of the reduction reflects delayed purchases, government stockpiling and the difficulty of securing affordable shipments. Egypt still relies on wheat for its subsidized bread program and for a large private milling sector serving a population of more than 100 million people.
+
+The government’s challenge will be to maintain adequate reserves without paying excessively high prices. If Black Sea disruptions continue into the final months of the year, Egypt may need to expand purchases from Europe, North America or South America despite the additional cost.
+
+The country’s import strategy will therefore remain closely watched by global grain traders. Egypt is one of the world’s largest wheat buyers, and any shift in its purchasing activity can influence prices, freight markets and competition among exporting countries. For now, reduced imports reflect a cautious pause rather than a fundamental change in Egypt’s need for foreign wheat.

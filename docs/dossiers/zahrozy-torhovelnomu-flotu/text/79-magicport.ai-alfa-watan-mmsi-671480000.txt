@@ -1,0 +1,95 @@
+URL:         https://magicport.ai/vessels/general-cargo/alfa-watan-mmsi-671480000
+Кінцевий:    https://magicport.ai/vessels/general-cargo/alfa-watan-mmsi-671480000
+Заголовок:   ALFA WATAN - (IMO 7510884) - Position, Specs, Managers & Sanctions Risks - MagicPort
+Дата публ.:  2026-10-07
+Завантажено: 2026-10-07 09:35 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 447101
+Оригінал:    raw/79-magicport.ai-alfa-watan-mmsi-671480000.html
+sha256:      bf98f0d5c0754e3fabd91d27d1a5c4e2420a7bc49a36855d65913f4b0e1caff9
+Витяг:       trafilatura
+
+==============================================================================
+ALFA WATAN (IMO 7510884, MMSI 671480000) is a General Cargo Ship flagged in Togo. ALFA WATAN was built in 1976 with a deadweight capacity of 3,160 MT and a length overall of 83 metres. The vessel was last recorded travelling at 8.4 knots, on a heading of 8 degrees, with a next recorded destination of SULINA port (ROSUL). Based on MagicPort's screening against 300+ international sanctions watchlists, ALFA WATAN is currently not sanctioned. BARAKA SHIPPING CO LTD is the registered owner, commercial manager and ISM manager of ALFA WATAN. Profile data is sourced from AIS feeds and updated continuously.
+
+| Class | A | 
+|---|---|
+| Deadweight | 3160 | 
+| Gross Tonnage | 1864 | 
+| Net Tonnage | ••••••••• | 
+| Length overall (LOA) | 83 | 
+| Class Society | ••••••••• | 
+| Beam | ••••••••• | 
+| Depth moulded | ••••••••• | 
+
+## Ownership
+
+## Voyage History
+
+## Survey Renewal & Certificates
+
+| Code | Nature | Issued RO | Surveyed RO | Date of issue | Date of expire | 
+|---|---|---|---|---|---|
+
+## FAQ about ALFA WATAN vessel
+
+### What's the identification number for vessel ALFA WATAN?
+
+ALFA WATAN's IMO number is 7510884, and its MMSI is 671480000.
+
+### Which is the flag and call sign of vessel ALFA WATAN (IMO 7510884)?
+
+Vessel ALFA WATAN (IMO 7510884) sails under the flag of TOGO with the call sign 5VCS7.
+
+### What is the type and subtype of vessel ALFA WATAN (IMO 7510884)?
+
+ALFA WATAN (MMSI: 671480000) is classified as a general cargo ship.
+
+### What are the dimensions (LOA, beam) and carrying capacity (DWT) vessel ALFA WATAN (IMO 7510884)?
+
+The ship measures 83 meters in length overall (LOA) and 12 meters in width, providing a carrying capacity of 3,160 MTs deadweight (DWT).
+
+### Who is the owner and manager of ALFA WATAN (IMO 7510884)?
+
+ISM Manager of ALFA WATAN (IMO 7510884) is [BARAKA SHIPPING CO LTD](https://magicport.ai/owners-managers/t%C3%BCrkiye/baraka-shipping-co-ltd).
+
+Commercial Manager of ALFA WATAN (IMO 7510884) is [BARAKA SHIPPING CO LTD](https://magicport.ai/owners-managers/t%C3%BCrkiye/baraka-shipping-co-ltd).
+
+Registered Owner of ALFA WATAN (IMO 7510884) is [BARAKA SHIPPING CO LTD](https://magicport.ai/owners-managers/t%C3%BCrkiye/baraka-shipping-co-ltd).
+
+### What is the vessel ALFA WATAN (IMO 7510884)'s destination?
+
+The ship is en route to [SULINA port (ROSUL)](https://magicport.ai/ports/romania/sulina-port-rosul).
+
+### Which ports vessel ALFA WATAN (IMO 7510884) visited in the last 12 months (1 year)?
+
+ALFA WATAN (IMO 7510884) has a recorded port call history available to MagicPort Maritime Intelligence subscribers. In the last 12 months, the vessel has visited [BURGAS Port (BGBOJ)](https://magicport.ai/ports/bulgaria/burgas-port-bgboj), [Bulgaria](https://magicport.ai/ports/bulgaria), [SULINA Port (ROSUL)](https://magicport.ai/ports/romania/sulina-port-rosul), [Romania](https://magicport.ai/ports/romania), [ISTANBUL Port (TRIST)](https://magicport.ai/ports/turkey/istanbul-port-trist), [Turkey](https://magicport.ai/ports/turkey), [TULCEA Port (ROTCE)](https://magicport.ai/ports/romania/tulcea-port-rotce), [Romania](https://magicport.ai/ports/romania) and [TARTOUS Port (SYTTS)](https://magicport.ai/ports/syrian-arab-republic/tartous-port-sytts), [Syrian Arab Republic](https://magicport.ai/ports/syrian-arab-republic). Full port call history — including arrival and departure timestamps, voyage sequences, and port visit frequency — is accessible via MagicPort at [Maritime Intelligence](/solutions/maritime-intelligence).
+
+### Is ALFA WATAN (IMO 7510884) sanctioned?
+
+ALFA WATAN (IMO 7510884) is not sanctioned. Based on MagicPort's screening against 300+ government and international sanctions watchlists — including OFAC (US Office of Foreign Assets Control), EU sanctions lists, and UN Security Council designations — this status reflects the latest data available. Always verify against current watchlists before entering into any transaction involving this vessel. Need more details? Request a [Free Sanctions Screening Report](https://magicport.ai/resources/tools/free-maritime-sanctions-screening-report).
+
+### What is the risk profile of ALFA WATAN (IMO 7510884)?
+
+Vessel ALFA WATAN is currently not flagged as risky. MagicPort's risk profiling evaluates vessels across multiple dimensions — sanctions exposure, flag state risk, ownership-chain transparency, and AIS behaviour anomalies. For a detailed risk analysis, visit MagicPort's [Maritime Intelligence](/solutions/maritime-intelligence) platform.
+
+## Similar Vessels
+
+| Navigation Status | Under way sailing | 
+|---|---|
+| Reported ETA | ••••••••• | 
+| Reported Destination (AIS) | ROSUL | 
+| Last Position Update | ••••••••• | 
+| Speed | 8.4 knots | 
+| Draught | ••••••••• | 
+| Summer Draught | ••••••••• | 
+| Heading | 8º | 
+| Course | 10.5º | 
+| Next Destination | |
+| Current Position | ••••••••• | 
+
+| Shipyard Country | |
+|---|---|
+| Builder (Shipyard) | |
+| Year Build | 1976 | 
+| Keel Laid Year | 1976 | 
+| Hull Type Code | ••••••••• |

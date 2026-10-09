@@ -1,0 +1,60 @@
+URL:         https://www.cbc.ca/news/world/bulgaria-black-sea-drone-attacks-reported-9.7370638
+Кінцевий:    https://www.cbc.ca/news/world/bulgaria-black-sea-drone-attacks-reported-9.7370638
+Заголовок:   Crew of ship missing after drone attacks on 2 commercial vessels in Black Sea near Bulgaria | CBC News
+Дата публ.:  2026-10-06
+Завантажено: 2026-10-07 08:04 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 219112
+Оригінал:    raw/08-cbc.ca-bulgaria-black-sea-drone-attacks-reported-9.7370638.html
+sha256:      cba9b95a2377a18840b39c173b9b065f1aa49d7ae12a4b5c7358da34aa5997a6
+Витяг:       trafilatura
+
+==============================================================================
+[World](/news/world)
+
+# Crew of ship missing after drone attacks on 2 commercial vessels in Black Sea near Bulgaria
+
+## Origin of the drones not clear in incidents condemned by Bulgaria PM, European Commmision
+
+Bulgarian Prime Minister Rumen Radev said two commercial vessels were struck by drones on Tuesday in the first attack on shipping in the NATO member's exclusive economic zone in the Black Sea.
+
+"This is an unacceptable attack in Bulgaria's exclusive economic zone. It is a blatant violation of international law and maritime law," Radev said.
+
+Speaking after an emergency government meeting, Radev said sea and aerial drones attacked the ships at around 3 a.m. local time, about 128 kilometres off Bulgaria's coast near Byala.
+
+The Togo-flagged Alfa Watan suffered critical structural damage and sank at the scene. There was no immediate word on the crew's fate, he said.
+
+The second vessel, the Palau-flagged Able, caught fire after the attack. A Bulgarian ferry evacuated all 18 crew members. Two sailors suffered severe injuries and were flown to a hospital in the port city of Varna, Radev said.
+
+The origin of the drones was not immediately established.
+
+## Deadly Black Sea attack the previous day
+
+According to the available information, the Able was carrying wheat and sailing south, while the Alfa Watan was heading north. The Alfa Watan's cargo was unknown, Radev said, adding that authorities were monitoring for possible oil spills and other environmental pollution.
+
+"As a state responsible within our exclusive economic zone for the health and lives of anyone navigating in this area, regardless of who is responsible, we are obliged to conduct emergency search and rescue operations," he said.
+
+"What is happening is seriously disrupting shipping in the Black Sea, driving up insurance costs even further and making shipping extremely difficult," Radev said.
+
+He warned that the war was expanding geographically and increasing the risk of global conflict.
+
+NATO declined to comment and referred all inquiries about the drone attacks to Bulgarian authorities.
+
+Last month, the alliance's top commander, U.S. Gen. Alex Grynkewich, urged member countries to publicly identify those they believe responsible for drone incidents or acts of sabotage once sufficient evidence has been gathered.
+
+The German government took almost a month to publicly blame Russia for an attempted Aug. 4 attack at Leipzig/Halle Airport involving a drone laden with explosives.
+
+The attacks came a day after a Turkish-owned cargo ship carrying corn caught fire following a drone attack and later sank in the Black Sea off Romania's coast. Two people died and 11 crew members were rescued, Romanian authorities said.
+
+Ukrainian President Volodymyr Zelenskyy described that attack as "a horrific strike by two Russian drones on a civilian vessel" in neutral waters.
+
+European Commission President Ursula von der Leyen, in a statement on social media referencing both the Monday and Tuesday incidents, said attacks on civilian ships were unacceptable.
+
+"Commercial ships — and innocent crews — are being targeted, with lives already lost at sea," she said.
+
+Russian forces are also trying to choke shipping in Ukrainian ports in the Black Sea, denying Kyiv vital grain export revenue .
+
+The Russian Defence Ministry said Tuesday its forces overnight struck targets in Ukraine's southern Odesa region on the Black Sea coast with drones. An ammunition depot was hit, as were a bulk carrier in the Chornomorsk port carrying dual-use goods and port infrastructure in Izmail, the ministry said.
+
+Meanwhile, Russia's defence ministry said its air defences intercepted nearly 900 Ukrainian drones overnight over multiple regions of the country, as well as the occupied Crimean Peninsula and the Sea of Azov.
+
+Ukraine's domestically developed long-range drones and, increasingly, missiles have allowed Kyiv to hit Russian soil during the more than 4 ½ years since Moscow's forces launched a full-scale invasion.

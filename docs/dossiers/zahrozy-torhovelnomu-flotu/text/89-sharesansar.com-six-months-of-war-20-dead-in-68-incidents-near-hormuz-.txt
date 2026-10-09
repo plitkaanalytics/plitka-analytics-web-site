@@ -1,0 +1,30 @@
+URL:         https://www.sharesansar.com/newsdetail/six-months-of-war-20-dead-in-68-incidents-near-hormuz-imo-says-2026-08-25
+Кінцевий:    https://www.sharesansar.com/newsdetail/six-months-of-war-20-dead-in-68-incidents-near-hormuz-imo-says-2026-08-25
+Заголовок:   Six months of war: 20 dead in 68 incidents near Hormuz, IMO says
+Дата публ.:  2026-08-25
+Завантажено: 2026-10-07 09:36 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 217859
+Оригінал:    raw/89-sharesansar.com-six-months-of-war-20-dead-in-68-incidents-near-hormuz-.html
+sha256:      bc16cf7c81ec7ba3d70d80097e3fa046bef269a6e14ec298a95dea3748b5d481
+Витяг:       trafilatura
+
+==============================================================================
+# Six months of war: 20 dead in 68 incidents near Hormuz, IMO says
+
+##### 
+                                    Tue, Aug 25, 2026 4:08 PM
+                                                                        on
+                                                                        [Latest](https://www.sharesansar.com/category/latest),
+                                                                        [International](https://www.sharesansar.com/category/international),
+                                                                                                        
+
+                                
+                            The Strait of Hormuz has been the main focus of the six-month war between Iran and the US and Israel, with many commercial vessels targeted in the vital conduit for oil and gas shipments. In total, 68 incidents have been confirmed by the International Maritime Organization (IMO) in the Gulf and neighbouring bodies of water, the equivalent of one every 2.6 days. Across all incidents, at least 20 seafarers or port workers were reported killed, 35 wounded and one missing, the UN maritime agency said.
+
+About half of the incidents have involved tankers, 20 percent container ships and 15 percent bulk carriers. The United Kingdom Maritime Trade Operations (UKMTO) classified 47 of the incidents as attacks. Liberia-flagged vessels have been most affected, being involved in 13 incidents, followed by 10 vessels each from Panama and the Marshall Islands.
+
+Iran-flagged vessels were reported as being involved in four incidents. The rate of incidents has ebbed and flowed during the various phases of the war. From the outbreak of war at the end of February until an agreement establishing a framework for peace talks was struck in mid-June, an incident was reported on average once every 2.3 days.
+
+Incidents during this period accounted for 16 of the deaths and 19 of the injuries, and were recorded throughout the Gulf, both east and west of Hormuz, and off the coasts of Iraq, Iran, Qatar, Saudi Arabia, Oman and the United Arab Emirates. As peace talks continued, until around July 7, that rate halved to one incident every 4.6 days, on average. No seafarers or other workers were reported killed, missing or injured during this period. Four of the five incidents during this period were clustered off the Omani coast around the strait's narrowest point, along a route not authorised by Iranian authorities.
+
+Iran, which hopes to retain control of the Hormuz after the war and charge fees for passage, had warned vessels against taking the alternative route. Since talks collapsed, the rate has climbed almost back to pre-talks levels, with an incident recorded on average every 2.8 days. Four seafarers or workers have been killed, 16 injured and one reported missing as a result.

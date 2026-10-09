@@ -1,0 +1,48 @@
+URL:         https://gcaptain.com/more-tankers-hit-in-hormuz-as-irgc-orders-ship-to-turn-back/
+Кінцевий:    https://gcaptain.com/more-tankers-hit-in-hormuz-as-irgc-orders-ship-to-turn-back/
+Заголовок:   More Tankers Hit in Hormuz as IRGC Orders Ship to Turn Back
+Дата публ.:  2026-10-05
+Завантажено: 2026-10-07 08:07 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 235345
+Оригінал:    raw/27-gcaptain.com-more-tankers-hit-in-hormuz-as-irgc-orders-ship-to-turn-ba.html
+sha256:      25a826540616414ab8951a4a170a7cfe93419ca582bc39315187a30f31c38545
+Витяг:       trafilatura
+
+==============================================================================
+The security situation in the Strait of Hormuz deteriorated further over the weekend as UK Maritime Trade Operations reported several additional tanker attacks and a separate incident in which Iran’s Islamic Revolutionary Guard Corps threatened an inbound vessel with attack unless it turned around.
+
+The latest reports add to a surge in attacks against commercial shipping in the Strait, although the use of delayed reporting makes the precise number of individual incidents difficult to establish.
+
+UKMTO on Sunday issued three new “time-late” warnings involving tankers struck by unknown projectiles.
+
+One involved an LPG tanker transiting inbound through the Strait that was reportedly struck at 1716 UTC on October 4. A second involved a crude oil tanker struck at 1907 UTC the same day.
+
+UKMTO also reported that another crude oil tanker was struck above the waterline during an October 3 transit, but provided no incident time.
+
+Because that third report dates to a period in which several other tanker attacks had already been recorded, it was not immediately clear whether it represents a previously unreported attack or overlaps with an incident already documented by UKMTO and the Joint Maritime Information Center.
+
+The uncertainty illustrates the increasingly difficult task of establishing a real-time picture of what is happening inside the Strait, where several attacks have only become public hours or days later.
+
+JMIC’s October 4 advisory documented four confirmed tanker attacks between October 2 and October 3, identified as UKMTO incidents 147-26 through 150-26. All four occurred as vessels transited the Strait of Hormuz, with JMIC saying the attacks along the Omani side of the Strait were continuing. Update 102 JMIC Advisory Note 0…
+
+In one of those incidents, a drone reportedly entered a tanker’s funnel before falling into the engine room, causing a small fire and temporary loss of power. Another tanker was struck on its port quarter, lost power and briefly drifted before continuing toward Fujairah with tug assistance. A third vessel lost propulsion following another projectile strike. Update 102 JMIC Advisory Note 0…
+
+No crew casualties were reported in those four incidents.
+
+### IRGC Threatens Inbound Tanker
+
+A separate UKMTO advisory issued Sunday points to another form of pressure being applied to shipping.
+
+The master of a tanker approximately 11 nautical miles north of Khasab, Oman, reported being hailed by the IRGC while transiting inbound through the Strait.
+
+According to UKMTO, the vessel was instructed to turn back or it would be targeted. The master complied.
+
+The encounter did not result in an attack, but it provides a direct example of Iranian forces using the threat of force to influence commercial vessel movements through the Strait.
+
+JMIC has warned that IRGC attacks, attempted attacks and harassment remain persistent, including UAV overflights, targeted surveillance and VHF hailing of merchant vessels. The center said those activities demonstrate Iran’s intent to maintain pressure on ships using key transit lanes. 
+
+The attacks come after a sharp increase in reported incidents last week and suggest that the danger to ships using the Strait has not eased despite the heavy U.S. naval presence and sharply reduced commercial traffic.
+
+Separately, UKMTO reported that a tanker approximately 60 nautical miles south of Al Mukha, Yemen, observed multiple explosions close to the vessel on October 4. The crew was reported safe and no environmental impact was reported. That incident occurred near the Bab el-Mandeb and is separate from the attacks in Hormuz.
+
+The latest reports reinforce a problem that has become increasingly apparent in recent weeks: the true scale of attacks on commercial shipping may only become clear after the fact.

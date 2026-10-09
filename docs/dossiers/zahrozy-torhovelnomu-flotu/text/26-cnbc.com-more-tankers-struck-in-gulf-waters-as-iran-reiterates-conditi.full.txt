@@ -1,0 +1,273 @@
+URL:         https://cnbc.com/2026/10/04/more-tankers-struck-in-gulf-waters-as-iran-reiterates-conditions.html
+Кінцевий:    https://www.cnbc.com/2026/10/04/more-tankers-struck-in-gulf-waters-as-iran-reiterates-conditions.html
+Заголовок:   All U.S. bombers leave UK air base on concerns of suspected terror plots; more tankers struck near Iran in the Middle East
+Дата публ.:  2026-10-04
+Завантажено: 2026-10-07 08:07 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 828961
+Оригінал:    raw/26-cnbc.com-more-tankers-struck-in-gulf-waters-as-iran-reiterates-conditi.html
+sha256:      76a095bb6756306cf294626855372b847bf008788ea821d947137fe3c10a558c
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 18
+==============================================================================
+U.S. bombers leave UK air base on concerns of suspected terror plots
+All U.S. bombers leave UK air base on concerns of suspected terror plots; more tankers struck near Iran in the Middle East
+The U.S. withdrew all of its B-1 bombers stationed at a UK air base that is used by American military forces to strike Iran after an investigation discovered a planned terror attack.
+At least two vessels were struck over the weekend in waters near Oman and Iran, the United Kingdom Maritime Trade Operations Centre reported.
+Iranian Parliament Speaker Mohammad Bagher Ghalibaf said the Strait of Hormuz would not reopen unless Iran met its conditions for ending the war with the U.S.
+File: A United States Air Force B-52 Stratofortress strategic bomber takes off from RAF Fairford on March 19, 2026 in Fairford, England.
+More tankers struck in the Middle East
+Flames burn at a facility belonging to Saudi oil giant Aramco south of Riyadh on October 3, 2026. (Photo by AFP via Getty Images) /
+Without nuclear progress, U.S.-Iran hostilities could resume imminently: Analyst
+Brent crude oil price, U.S. dollars per barrel, year to date
+Choose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.
+Got a confidential news tip? We want to hear from you.
+Sign up for free newsletters and get more CNBC delivered to your inbox
+Get this delivered to your inbox, and more info about our products and services.
+Versant Media, LLC. All Rights Reserved. A Versant Media Company.
+Data is a real-time snapshot *Data is delayed at least 15 minutes.
+Global Business and Financial News, Stock Quotes, and Market Data
+Market Data Terms of Use and Disclaimers
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+U.S. bombers leave UK air base on concerns of suspected terror plots
+Skip Navigation
+Markets
+Pre-Markets
+U.S. Markets
+Europe Markets
+China Markets
+Asia Markets
+World Markets
+Currencies
+Prediction Markets
+Cryptocurrency
+Futures & Commodities
+Bonds
+Funds & ETFs
+Business
+Economy
+Finance
+Health & Science
+Media
+Real Estate
+Energy
+Climate
+Transportation
+Investigations
+Industrials
+Retail
+Wealth
+Sports
+Life
+Small Business
+Investing
+Personal Finance
+Fintech
+Financial Advisors
+Options Action
+ETF Street
+Buffett Archive
+Earnings
+Trader Talk
+Tech
+Cybersecurity
+AI
+Enterprise
+Internet
+Media
+Mobile
+Social Media
+CNBC Disruptor 50
+Tech Guide
+Politics & Policy
+White House
+Policy
+Defense
+Congress
+Expanding Opportunity
+Europe Politics
+China Politics
+Asia Politics
+World Politics
+Video
+Latest Video
+Full Episodes
+Livestream
+Top Video
+Live Audio
+Europe TV
+Asia TV
+CNBC Podcasts
+CEO Interviews
+Digital Originals
+Watchlist
+Investing Club
+Trust Portfolio
+Analysis
+Trade Alerts
+Meeting Videos
+Homestretch
+Jim's Columns
+Education
+Subscribe
+PRO
+Pro News
+Josh Brown
+Mike Santoli
+Calls of the Day
+My Portfolio
+Livestream
+Full Episodes
+Stock Screener
+Market Forecast
+Options Investing
+Chart Investing
+Subscribe
+Livestream
+Menu
+Make It
+select
+USA
+INTL
+Livestream
+Search quotes, news & videos
+Livestream
+Watchlist
+SIGN IN
+Create free account
+Markets
+Business
+Investing
+Tech
+Politics & Policy
+Video
+Watchlist
+Investing Club
+PRO
+Livestream
+Menu
+Wars and Military Conflicts
+All U.S. bombers leave UK air base on concerns of suspected terror plots; more tankers struck near Iran in the Middle East
+Published Sun, Oct 4 2026
+8:02 AM EDT
+Updated Sun, Oct 4 2026
+5:46 PM EDT
+Azhar Sukri
+Terri Cullen
+@in/TerriCullen
+WATCH LIVE
+Key Points
+The U.S. withdrew all of its B-1 bombers stationed at a UK air base that is used by American military forces to strike Iran after an investigation discovered a planned terror attack.
+At least two vessels were struck over the weekend in waters near Oman and Iran, the United Kingdom Maritime Trade Operations Centre reported.
+Iranian Parliament Speaker Mohammad Bagher Ghalibaf said the Strait of Hormuz would not reopen unless Iran met its conditions for ending the war with the U.S.
+In this article
+@LCO.1
+@CL.1
+Follow your favorite stocks
+CREATE FREE ACCOUNT
+File: A United States Air Force B-52 Stratofortress strategic bomber takes off from RAF Fairford on March 19, 2026 in Fairford, England.
+Leon Neal | Getty Images
+The U.S. Air Force withdrew all of its B-1 bombers stationed at an air base in southern England that is used by American military forces to strike Iran after an investigation discovered a planned terror attack, The Associated Press reported Sunday.
+The bombers were redeployed back to their home bases in the United States, AP reported, citing a Pentagon official who was not authorized to discuss sensitive military movements and spoke on condition of anonymity.
+Aviation watchers such as the Military Air Tracking Alliance and others have observed dozens of B-52 and B-1 bombers operating out of RAF Fairford since the opening days of the Iran war, AP said. These observers saw many B-1 bombers take off from the base on Sunday.
+A dual British-Iranian national was arrested in central London last week on suspicion of plotting a terror attack, following a security incident at RAF Fairford in late September. In total, authorities took six individuals into custody and later released them on bail during the investigation.
+British authorities have linked the terror plot to Tehran, although Iran has denied involvement.
+RAF Fairford is located 100 miles (160 kilometers) west of London and has been used by American bombers during decades of conflicts in the Middle East.
+More tankers struck in the Middle East
+At least two vessels were struck over the weekend in waters near Oman and
+Iran
+, the United Kingdom Maritime Trade Operations Centre reported, as Tehran reiterated its position on Sunday that the
+Strait of Hormuz
+would not reopen unless its conditions for ending the war with the U.S. are met.
+On Saturday, the UKMTO, a British maritime security alert service, said it received a report of a
+crude oil tanker
+being hit by an unknown projectile four nautical miles east of Oman. It said
+another tanker
+was reported as being similarly struck Sunday in the Strait of Hormuz, causing damage to its engine room.
+Attacks on shipping in the strait, through which about a fifth of the world's oil supplies moved before the start of the U.S. and Israel-led war on Feb. 28, have been happening on a regular basis for weeks.
+"The Strait of Hormuz will not open until Iran's seven conditions based on the Islamabad Memorandum are met, and Iran will not regulate its national security with tweets from American officials," Iranian state media agency Nour News quoted
+Parliament Speaker Mohammad Bagher Ghalibaf
+as saying Sunday.
+President
+Donald Trump
+and Iranian President Masoud Pezeshkian signed an interim deal in June, known as the Islamabad Memorandum of Understanding, that resulted in a brief hiatus in fighting.
+Tehran's conditions
+for allowing ships to proceed freely through the Strait of Hormuz include a halt to U.S. "acts of aggression," an end to the U.S. naval blockade of its ports and economic warfare, and the release of Iranian assets.
+A key demand of the U.S. has been that Iran dismantle its nuclear weapons program.
+Saudi attack
+Meanwhile, Saudi Arabia's energy infrastructure reportedly came under renewed attacks.
+Reuters reported Saturday that Yemen's Iran-aligned Houthis said they had targeted a facility owned by Saudi Arabian oil giant Aramco in the capital Riyadh with ballistic missiles and drones. The group said the attack was in retaliation for Saudi attacks on Yemen's Sanaa and other provinces.
+Flames burn at a facility belonging to Saudi oil giant Aramco south of Riyadh on October 3, 2026. (Photo by AFP via Getty Images) /
+- | Afp | Getty Images
+A large plume of smoke and fire rose above the facility, Reuters quoted a witness as saying.
+Saudi authorities have not commented on the reported attack. Aramco did not immediately respond to CNBC's emailed request for comment.
+If confirmed, it would be the latest escalation in what has effectively become a second front in the Iran war.
+Not if, but when
+Some investors say they expect full-scale fighting to resume in the Middle East.
+"The situation is fluid and volatile. To me, as we are developing and looking at the situation, it's not a question of if, but when the conflict resumes full force," Bader Al-Saif, founding president of Al-Saif Consulting, told CNBC's Access Middle East show on Friday.
+watch now
+VIDEO
+3:48
+03:48
+Without nuclear progress, U.S.-Iran hostilities could resume imminently: Analyst
+Access Middle East
+The ongoing attacks and prospect of a further escalation have driven energy prices higher in recent weeks, raising inflation expectations globally and putting upward pressure on
+government borrowing costs
+.
+Reports that
+the U.S. is sending a third aircraft carrier strike group
+to the Middle East, along with an amphibious force carrying 2,000 Marines, pushed crude oil prices higher on Thursday. But prices
+edged lower
+Friday, after the Group of Seven nations announced the release of diesel and crude stocks to ease the burden on consumers.
+Brent crude
+futures, the international benchmark, lost 6 cents to close at $102.25 per barrel, while U.S.
+West Texas Intermediate
+crude shed $1.76 to settle at $91.11 per barrel.
+Stock Chart Icon
+Stock chart icon
+Brent crude oil price, U.S. dollars per barrel, year to date
+—
+The Associated Press contributed to this report.
+Choose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.
+Subscribe to CNBC PRO
+Subscribe to Investing Club
+Licensing & Reprints
+CNBC Councils
+Join the CNBC Panel
+Digital Products
+News Releases
+Closed Captioning
+Corrections
+About CNBC
+Internships
+Site Map
+Careers
+Help
+Contact
+News Tips
+Got a confidential news tip? We want to hear from you.
+Get In Touch
+CNBC Newsletters
+Sign up for free newsletters and get more CNBC delivered to your inbox
+Sign Up Now
+Get this delivered to your inbox, and more info about our products and services.
+Advertise With Us
+Please Contact Us
+Ad Choices
+Privacy Policy
+Your Privacy Choices
+CA Notice
+Terms of Service
+©
+2026
+Versant Media, LLC. All Rights Reserved. A Versant Media Company.
+Data is a real-time snapshot *Data is delayed at least 15 minutes.
+      Global Business and Financial News, Stock Quotes, and Market Data
+      and Analysis.
+Market Data Terms of Use and Disclaimers
+Data also provided by

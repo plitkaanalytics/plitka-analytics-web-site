@@ -1,0 +1,188 @@
+URL:         https://www.cbsnews.com/news/us-strike-alleged-drug-smuggling-boat-caribbean-4-dead-southcom/
+Кінцевий:    https://www.cbsnews.com/news/us-strike-alleged-drug-smuggling-boat-caribbean-4-dead-southcom/
+Заголовок:   Another U.S. strike on alleged drug-smuggling boat kills 4, SOUTHCOM says
+Дата публ.:  2026-10-05
+Завантажено: 2026-10-07 08:09 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 617105
+Оригінал:    raw/31-cbsnews.com-us-strike-alleged-drug-smuggling-boat-caribbean-4-dead-sou.html
+sha256:      993f0558bccda587c6a22a230eecf770994579b3129f7068fff12e36c673ac26
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 12
+==============================================================================
+Another U.S. strike on alleged drug-smuggling boat kills 4, SOUTHCOM says - CBS News
+On October 4, under the direction of
+, Joint Task Force Western Hemisphere executed a lethal, kinetic strike on a go-fast vessel operating along established narco-trafficking routes in the Caribbean. Confirmed intelligence revealed the vessel's active involvement in…
+— U.S. Southern Command (@Southcom)
+Mexico arrests alleged cartel leader and fuel smuggler "The Tank"
+U.S. Marine arrested, accused of killing Japanese woman in Okinawa
+Alleged Chinese agent makes federal court appearance
+Tropical threat brewing in Gulf could impact U.S. as a hurricane this weekend. See maps, possible path.
+Trump’s Been Bombing Boats in the Caribbean. Is This Legal?
+Killing Narco Speedboat Survivors Is a War Crime
+© 2026 The Associated Press. All Rights Reserved. This material may not be published, broadcast, rewritten, or redistributed.
+Copyright ©2026 CBS Interactive Inc. All rights reserved.
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Another U.S. strike on alleged drug-smuggling boat kills 4, SOUTHCOM says - CBS News
+Latest
+U.S.
+Iran War
+Alito Interview
+World
+Politics
+Entertainment
+HealthWatch
+MoneyWatch
+Crime
+Space
+Sports
+Brand Studio
+The Free Press
+Local News
+Atlanta
+Baltimore
+Bay Area
+Boston
+Chicago
+Colorado
+Detroit
+Los Angeles
+Miami
+Minnesota
+New York
+Philadelphia
+Pittsburgh
+Sacramento
+Texas
+Live
+CBS News 24/7
+Baltimore
+Bay Area
+Boston
+Chicago
+Colorado
+Detroit
+Los Angeles
+Miami
+Minnesota
+New York
+Philadelphia
+Pittsburgh
+Sacramento
+Texas
+48 Hours
+60 Minutes
+Shows
+48 Hours
+60 Minutes
+CBS Evening News
+CBS Mornings
+CBS Morning News
+CBS Reports
+CBS Saturday Morning
+The Daily Report
+The Dish
+Face the Nation
+Sunday Morning
+The Takeout
+Things That Matter
+The Uplift
+CBS News Investigates
+CBS News Confirmed
+Podcasts
+Newsletters
+Download Our App
+CBS News Team
+Executive Team
+Brand Studio
+Paramount+
+Join Our Talent Community
+RSS Feeds
+U.S.
+Iran War
+Alito Interview
+Midterms
+World
+Politics
+HealthWatch
+MoneyWatch
+Entertainment
+Crime
+Sports
+The Free Press
+Watch CBS News
+World
+Another U.S. strike on alleged drug-smuggling boat kills 4, SOUTHCOM says
+October 5, 2026 / 4:10 AM EDT
+/ AP
+Add CBS News on Google
+The U.S. military said it attacked a boat suspected of being used to smuggle drugs in the Caribbean Sea on Sunday, killing four people, as the Trump administration continues its yearlong campaign against alleged traffickers in Latin America.
+The latest attack brings the number of people who have been killed in boat strikes by the U.S. military to at least 235 in 70 strikes since the administration began targeting those it calls "narcoterrorists" in September 2025. As with most of the military's statements on strikes in the eastern Pacific Ocean and Caribbean Sea, the U.S. Southern Command said it targeted the alleged drug traffickers along known smuggling routes.
+The military did not provide evidence that the vessel was ferrying drugs. A video posted on X showed what appeared to be an explosion destroying a moving boat, which the military said was a go-fast vessel.
+On October 4, under the direction of
+#SOUTHCOM
+, Joint Task Force Western Hemisphere executed a lethal, kinetic strike on a go-fast vessel operating along established narco-trafficking routes in the Caribbean. Confirmed intelligence revealed the vessel's active involvement in…
+pic.twitter.com/aK0jCTl74o
+— U.S. Southern Command (@Southcom)
+October 5, 2026
+The Trump administration is pursuing deals with allied nations to extend its offensive to land across multiple Latin American countries. Defense Secretary Pete Hegseth said during a visit to Panama in August that Colombia, Guatemala and Honduras had agreed to allow the U.S. to carry out joint military operations against criminal groups on their soil. Guatemala denied reaching such a deal. Ecuador
+launched similar missions
+with the U.S. in March.
+President Trump has said the U.S. is in "armed conflict" with cartels in Latin America and has justified the attacks as a necessary escalation to stem the flow of drugs into the U.S. and fatal overdoses claiming American lives. But his administration has offered little evidence to support its claims of killing smugglers.
+More from CBS News
+Mexico arrests alleged cartel leader and fuel smuggler "The Tank"
+U.S. Marine arrested, accused of killing Japanese woman in Okinawa
+Alleged Chinese agent makes federal court appearance
+Tropical threat brewing in Gulf could impact U.S. as a hurricane this weekend. See maps, possible path.
+Go deeper with The Free Press
+Trump’s Been Bombing Boats in the Caribbean. Is This Legal?
+Killing Narco Speedboat Survivors Is a War Crime
+© 2026 The Associated Press. All Rights Reserved. This material may not be published, broadcast, rewritten, or redistributed.
+CBS News 24/7
+Live
+CBS News 24/7
+Mexico arrests alleged cartel leader and fuel smuggler "The Tank"
+U.S. Marine arrested, accused of killing Japanese woman in Okinawa
+Alleged Chinese agent makes federal court appearance
+Trump’s Been Bombing Boats in the Caribbean. Is This Legal?
+Featured
+Political News
+Iran War Latest
+NFL Scores
+College Football Rankings
+Follow Us On
+YouTube
+Facebook
+Instagram
+X
+Privacy
+Privacy Policy
+California Notice
+Your Privacy Choices
+Terms of Use
+Minors' Privacy Policy
+More from CBS News
+Newsletters
+Podcasts
+Download Our App
+Brand Studio
+Sitemap
+Company
+About Paramount
+Advertise With Paramount
+Join Our Talent Community
+Help
+Feedback
+Contact the Ombudsman
+Copyright ©2026 CBS Interactive Inc. All rights reserved.
+View CBS News In
+CBS News App
+Open
+Chrome
+Safari
+Continue

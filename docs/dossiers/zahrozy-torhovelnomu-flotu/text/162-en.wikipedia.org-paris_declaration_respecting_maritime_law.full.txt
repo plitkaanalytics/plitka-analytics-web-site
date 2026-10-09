@@ -1,0 +1,1096 @@
+URL:         https://en.wikipedia.org/wiki/Paris_Declaration_Respecting_Maritime_Law
+Кінцевий:    https://en.wikipedia.org/wiki/Paris_Declaration_Respecting_Maritime_Law
+Заголовок:   Paris Declaration Respecting Maritime Law - Wikipedia
+Дата публ.:  2004-05-01
+Завантажено: 2026-10-07 14:51 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 222104
+Оригінал:    raw/162-en.wikipedia.org-paris_declaration_respecting_maritime_law.html
+sha256:      4d7533b857818af1daf410c67e18717008d9971679c1fb94017ddd576d054dd7
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 28
+==============================================================================
+Paris Declaration Respecting Maritime Law - Wikipedia
+From Wikipedia, the free encyclopedia
+1856 international treaty with legal novelty that nations could accede afterwards
+Negotiators assembled at for the
+(in Dutch). Vrije Universiteit Amsterdam, Faculteit der Letteren, Geschiedenis.
+ed.). Cambridge University Press. p.
+ed.). Cambridge University Press. pp.
+Guangdong Pirate Confederation
+Anti-piracy in the West Indies
+Operation Enduring Freedom – HOA
+Operation Dawn of Gulf of Aden
+Operation Dawn 8: Gulf of Aden
+Jim Hawkins and the Curse of Treasure Island
+Castaways of the Flying Dutchman
+Silver: Return to Treasure Island
+International Talk Like a Pirate Day
+A General History of the Pyrates
+List of ships attacked by Somali pirates
+https://en.wikipedia.org/w/index.php?title=Paris_Declaration_Respecting_Maritime_Law&oldid=1376163799
+Articles with short description
+Short description is different from Wikidata
+CS1 Dutch-language sources (nl)
+Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference
+Wikipedia articles incorporating text from the 1911 Encyclopædia Britannica
+This page was last edited on 22 September 2026, at 13:16
+Creative Commons Attribution-ShareAlike 4.0 License
+additional terms may apply. By using this site, you agree to the
+. Wikipedia® is a registered trademark of the
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Paris Declaration Respecting Maritime Law - Wikipedia
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main page
+Contents
+Current events
+Random article
+About Wikipedia
+Contact us
+Contribute
+Help
+Learn to edit
+Community portal
+Recent changes
+Upload file
+Special pages
+Search
+Search
+Appearance
+Donate
+Create account
+Log in
+Personal tools
+Donate
+Create account
+Log in
+Contents
+move to sidebar
+hide
+(Top)
+1
+History
+Toggle History subsection
+1.1
+Position of the United States
+2
+Signing parties
+3
+See also
+4
+Notes
+5
+References
+6
+Further reading
+Toggle the table of contents
+Paris Declaration Respecting Maritime Law
+15 languages
+Català
+Dansk
+Deutsch
+Español
+فارسی
+Français
+עברית
+Bahasa Indonesia
+日本語
+한국어
+Nederlands
+Norsk bokmål
+Polski
+Русский
+Svenska
+Edit links
+Article
+Talk
+English
+Read
+Edit
+View history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+Read
+Edit
+View history
+General
+What links here
+Related changes
+Upload file
+Permanent link
+Page information
+Cite this page
+Get shortened URL
+Switch to legacy parser
+Print/export
+Download as PDF
+Printable version
+In other projects
+Wikisource
+Wikidata item
+Appearance
+move to sidebar
+hide
+From Wikipedia, the free encyclopedia
+1856 international treaty with legal novelty that nations could accede afterwards
+Negotiators assembled at for the
+Congress of Paris
+.
+The Congress of Paris
+by
+Edouard Dubufe
+, 1856
+The
+Paris Declaration Respecting Maritime Law
+of 16 April 1856 was an international multilateral treaty agreed to by the warring parties in the
+Crimean War
+gathered at the
+Congress at Paris
+after the peace
+treaty of Paris
+had been signed in March 1856. As an important juridical novelty in
+international law
+, the treaty for the first time created the possibility for nations that were not involved in the establishment of the agreement and did not sign, to become a party by acceding the declaration afterwards.
+[
+1
+]
+So did altogether 55 nations, which otherwise would have been impossible in such a short period. This represented a large step in the globalisation of international law.
+The primary goal of both the
+Second French Empire
+and the
+United Kingdom of Great Britain and Ireland
+was to abolish
+privateering
+, a part of naval warfare whereby a belligerent party gave formal permission to privately owned ships by
+letters of marque
+to seize enemy vessels. By disrupting commerce, privateers could be effective against enemies that depended on trade and force them to deploy their warships to protect their merchant ships. In this way, maritime nations could wage war against larger land-based powers by the destruction of their commerce.  The Paris Declaration established international policies related to neutral and belligerent shipping on the high seas, introducing new rules for
+prizes of war
+, a piece of enemy property seized by a belligerent party during or after a war or battle, typically at sea.
+[
+2
+]
+The plenipotentiaries agreed on three major points: free ships make free goods, effective blockade, and no privateering. In return for surrendering the practice of seizing neutral goods on enemy ships, France insisted on Britain's abandoning its
+Rule of 1756
+prohibiting neutral assumption of enemy coastal and colonial trade.
+[
+3
+]
+History
+[
+edit
+]
+To put an end to the
+Crimean War
+(1853–1856), a series of diplomatic meetings were organised in Paris to negotiate peace, modelled after the
+Congress of Vienna
+. On the conclusion of the
+Treaty of Paris
+, which was signed on 30 March 1856, the
+plenipotentiaries
+assembled in conference also did agree on this declaration, at the suggestion of
+Count Walewski
+, the French Prime-Minister.
+[
+4
+]
+The declaration is the outcome of a
+modus vivendi
+signed between France and Britain at the dawn of the Crimean War in 1854 becoming war allies for the first time. These two powers had agreed that they would not seize enemy goods on neutral vessels nor neutral goods on enemy vessels. The belligerents had also agreed that they would not issue
+letters of marque
+, which they actually had not done during the war. At the close of this war the principal states of Europe concluded that private armed ships, maintained at private cost for private gain, and often necessarily for a long time beyond the reach of the regular naval force of the state, could not be kept under proper control. With the agreements written down in the Declaration of Paris these rules were confirmed and added to them the principle that
+blockades
+, in order to be obligatory, must be effective.
+The Declaration did not as such make privateers into a new category of international criminals, but rather made it a treaty obligation of states that they refrain from commissioning privateers in the first place. Most states normally treated foreign privateers as
+pirates
+in any case. In the plain wordings of the Declaration:
+Privateering is and remains abolished;
+The neutral flag covers enemy's goods, with the exception of contraband of war;
+Neutral goods, with the exception of contraband of war, are not liable to capture under enemy's flag;
+Blockades, in order to be binding, must be effective—that is to say, maintained by a force sufficient really to prevent access to the coast of the enemy.
+[
+5
+]
+The Declaration has been signed by Great Britain,
+Austria
+,
+France
+,
+Prussia
+,
+Russia
+,
+Sardinia
+, and
+Turkey
+. Ultimately, 55 states, royal houses and free cities ratified the Declaration, including the
+Ottoman Empire
+.
+[
+6
+]
+This treaty established maritime law among the major powers of Europe. It represented the first multilateral attempt to codify in times of peace rules which were to be applicable in the event of war. This declaration bound only its signatories and nations that did accede later, when at war with each other, and left them free to use privateers when at war with other states.
+Position of the United States
+[
+edit
+]
+The United States, which aimed at a complete exemption of non-contraband private property from capture at sea, withheld its formal adherence in 1857 when its "
+Marcy
+" amendment was not accepted by all powers, chiefly as a result of British influence. His proposed amendment would have exempted from seizure in time of war all private property that was not contraband, including enslaved persons.
+[
+7
+]
+The US was also keen on maintaining privateers. It argued that, not possessing a great navy, it would be obliged in time of war to rely largely upon merchant ships commissioned as war vessels, and that therefore the abolition of privateering would be entirely in favour of European powers, whose large navies rendered them practically independent of such aid. Several other maritime states did not accede to the declaration, such as
+China
+,
+Venezuela
+,
+Bolivia
+,
+Costa Rica
+,
+Honduras
+, and
+El Salvador
+.
+[
+6
+]
+In 1861, during the
+American Civil War
+, the United States declared that it would respect the principles of the declaration during hostilities. The
+Confederacy
+agreed to the provisions except for the right of privateering,
+[
+8
+]
+and went on to extensively employ privateers as
+blockade runners
+. During the
+Spanish–American War
+of 1898, when the United States Government affirmed its policy of conducting hostilities in conformity with the dispositions of the declaration. Spain too, though not a party, declared its intention to abide by the declaration, but it expressly gave notice that it reserved its right to issue letters of marque. At the same time both belligerents organized services of auxiliary cruisers composed of merchant ships under the command of naval officers.
+Some of the questions raised by this declaration were clarified by the
+1907 Hague Convention
+.
+The rules contained in this declaration later came to be considered as part of the general principles of
+international law
+and the United States too, though not formally a party, abides by provisions.
+[
+1
+]
+On February 13, 2025, US Congressmen
+Tim Burchett
+(R-TN) and
+Mark Messmer
+(R-IN) introduced a bill, The Cartel Marque and Reprisal Authorization Act of 2025, to the House of Representatives. The Act "would authorize
+President Trump
+to commission privately armed and equipped actors to seize the persons and property of any cartel, cartel member, or cartel-linked organizations."
+[
+9
+]
+Signing parties
+[
+edit
+]
+The following states signed the Paris Declaration or did accede afterwards:
+[
+10
+]
+Argentina
+Belgium
+Brazil
+Bulgaria
+Chile
+Denmark
+Ecuador
+France
+Greece
+Guatemala
+Haiti
+Japan
+Mexico
+Netherlands
+Ottoman Empire
+Peru
+Portugal
+Republic of New Granada
+(modern-day
+Colombia
+and
+Panama
+)
+Russia
+Spain
+States now part of
+Italy
+:
+Duchy of Modena and Reggio
+Duchy of Parma and Piacenza
+Grand Duchy of Tuscany
+Kingdom of Sardinia
+Kingdom of the Two Sicilies
+Papal States
+States within the
+German Confederation
+:
+Austrian Empire
+Duchy of Brunswick
+Duchy of Mecklenburg-Schwerin
+Duchy of Mecklenburg-Strelitz
+Duchy of Nassau
+Duchy of Saxe-Altenburg
+Duchy of Saxe-Coburg and Gotha
+Duchy of Saxe-Meiningen
+Duchy of Saxe-Weimar
+Electorate of Hesse
+Free City of Bremen
+Free City of Frankfurt
+Free City of Hamburg
+Free City of Lübeck
+Grand Duchy of Baden
+Grand Duchy of Oldenburg
+Kingdom of Bavaria
+Kingdom of Prussia
+Kingdom of Saxony
+Kingdom of Württemberg
+Landgraviate of Hesse-Darmstadt
+Principality of Anhalt-Dessau
+Sweden–Norway
+Switzerland
+United Kingdom
+Uruguay
+See also
+[
+edit
+]
+Hague Conventions (1907)
+which expanded on the provisions of this declaration.
+Notes
+[
+edit
+]
+1
+2
+Timon Schultz (April 2015).
+De verklaring van Parijs en Neutraliteit - Nederland en de ontwikkeling van het Internationaal Maritieme recht van 1856 tot de Eerste Wereldoorlog
+(in Dutch). Vrije Universiteit Amsterdam, Faculteit der Letteren, Geschiedenis.
+↑
+Schmidt 2005
+, p.
+75.
+↑
+Warren F. Spencer, "The Mason Memorandum and the Diplomatic Origins of the Declaration of Paris." in
+Diplomacy in an Age of Nationalism
+(1971) pp. 44-66.
+↑
+Barclay 1911
+↑
+The Avalon Project
+: Documents in Law, History and Diplomacy.
+"Laws of War
+: Declaration of Paris; April 16, 1856"
+. Yale Law School
+. Retrieved
+30 September
+2022
+.
+1
+2
+"Declaration Respecting Maritime Law - State Parties and Signatories"
+.
+ihl-databases.icrc.org
+. Paris. 1856
+. Retrieved
+2023-01-15
+.
+↑
+Chisholm 1911
+, p.
+697.
+↑
+Callahan, James Morton,
+The Diplomatic History of the Southern Confederacy
+, p.119
+↑
+Burchett, Tim (13 February 2025).
+"Burchett introduces bill to authorize President Trump to issue letters of marque and reprisals against cartels"
+. United States House of Representatives.
+↑
+"Treaties, States Parties and Commentaries: Declaration Respecting Maritime Law. Paris, 16 April 1856"
+.
+International Committee of the Red Cross
+. Retrieved
+20 May
+2021
+.
+References
+[
+edit
+]
+Barclay, Sir Thomas
+(1911).
+"Declaration of Paris"
+. In
+Chisholm, Hugh
+(ed.).
+Encyclopædia Britannica
+. Vol.
+7 (11th
+ed.). Cambridge University Press. p.
+914.
+Ronzitti, Natalino (1988).
+The Law of Naval Warfare: A Collection of Agreements and Documents with Commentaries
+. Martinus Nijhoff. p.
+64
+,65.
+ISBN
+90-247-3652-8
+.
+Schmidt, Donald E. (2005).
+The Folly of War: American Foreign Policy, 1898-2005
+. Algora. p.
+75
+.
+ISBN
+0-87586-382-5
+.
+Spencer, Warren F. "The Mason Memorandum and the Diplomatic Origins of the Declaration of Paris." in by N.N. Barker and M.L. Brown, eds.
+Diplomacy in an Age of Nationalism
+(1971) pp.
+44–66.
+This article
+incorporates text from a publication now in the
+public domain
+:
+Chisholm, Hugh
+, ed. (1911). "
+Marcy, William Learned
+".
+Encyclopædia Britannica
+. Vol.
+17 (11th
+ed.). Cambridge University Press. pp.
+696–
+697.
+Further reading
+[
+edit
+]
+English
+Wikisource
+has original text related to this article:
+Declaration of Paris
+Sir Thomas Barclay,
+Problems of International Practice and Diplomacy
+(London, 1907), chap. xv. 2
+online
+T. Gibson Bowles
+,
+The Declaration of Paris of 1856: being an account of the maritime rights of Great Britain; a consideration of their importance; a history of their surrender by the signature of the Declaration of Paris
+(London, 1900)
+online
+United States Congress.
+"Paris Declaration Respecting Maritime Law (id: M000127)"
+.
+Biographical Directory of the United States Congress
+.
+v
+t
+e
+Piracy
+Periods
+Ancient Mediterranean
+Golden Age
+21st century
+2022
+2023
+2024
+2025
+Types of pirate
+Albanian piracy
+Anglo-Turkish piracy
+Baltic Slavic pirates
+Barbary pirates (corsairs)
+Algiers
+Brethren of the Coast
+Buccaneers
+Cilician pirates
+Child pirate
+Cossack pirates
+Filibusters
+French corsairs
+Guangdong Pirate Confederation
+Jewish pirates
+Knights Hospitaller
+Maltese Corso
+Oyster pirate
+Oyster Wars
+Moro pirates
+Narentines
+Privateers
+Confederate
+River pirate
+Sea Beggars
+Sea Dogs
+Sindhi corsairs
+Timber pirate
+Ushkuyniks
+Uskoks
+Vikings
+Victual Brothers
+Wokou
+Women in piracy
+Areas
+Atlantic World
+Caribbean
+British Virgin Islands
+Spanish Main
+Lake Nicaragua
+Venezuela
+Gulf of Guinea
+Indian Ocean
+Horn of Africa
+Somali Coast
+Indonesia
+Persian Gulf
+Strait of Malacca
+Nosy Boraha
+Pirate Round
+Other waters
+Baltic Slavic piracy
+Barbary Coast
+Falcon Lake
+South China Coast
+Sulu Sea
+Pirate havens
+and bases
+Regency of Algiers
+Barataria Bay
+Flying Gang
+Île Sainte-Marie
+Libertalia
+Long Ya Men
+Lundy
+Maritime Hospitaller bases
+Malta
+Rhodes
+Tripoli
+in the New World
+Mahdia
+Mamora
+Port Royal
+Republic of Salé
+Saint Augustin
+Saint-Malo
+Tortuga
+Major figures
+Pirates
+Abduwali Muse
+Abraham Samuel
+Abshir Boyah
+Adam Baldridge
+Albert W. Hicks
+Alexandre Exquemelin
+Alfhild
+Anne Bonny
+Anne Dieu-le-Veut
+António de Faria
+Artemisia I of Caria
+Bartholomew Roberts
+Bartolomeu Português
+Benito de Soto
+Benjamin Hornigold
+Black Caesar
+Blackbeard
+Bully Hayes
+Cai Qian
+Charles Gibbs
+Charlotte Badger
+Charlotte de Berry
+Cheung Po Tsai
+Christina Anna Skytte
+Chui A-poo
+Dan Seavey
+Diabolito
+Dido
+Diego el Mulato
+Dirk Chivers
+Dominique You
+Edward England
+Edward Low
+Eli Boggs
+Elise Eskilsdotter
+Mary Lindsey
+Eustace the Monk
+Flora Burn
+Francis Drake
+François Le Clerc
+François l'Olonnais
+Fūma Kotarō
+Gan Ning
+George Cusack
+Grace O'Malley
+Hayreddin Barbarossa
+Hendrick Lucifer
+Hendrick van der Heul
+Henri Caesar
+Henry Every
+Henry Jennings
+Henry Mainwaring
+Henry Morgan
+Henry Strangways
+Hippolyte Bouchard
+Huang Bamei
+Israel Hands
+Jacquotte Delahaye
+Jan Janszoon
+Jean Lafitte
+Jeanne de Clisson
+Johanna Hård
+John Hawkins
+John Hoar
+John Newland Maffitt
+John Pro
+John Rackham
+Joseph Baker
+Joseph Barss
+José Joaquim Almeida
+Jørgen Jørgensen
+Klaus Störtebeker
+Lai Choi San
+Laurens de Graaf
+Lawrence Prince
+Liang Daoming
+Limahong
+Lo Hon-cho
+Louis-Michel Aury
+Mansel Alcantra
+Manuel Ribeiro Pardal
+Martin Frobisher
+Mary Critchett
+Mary Read
+Mary Wolverston
+Michel de Grammont
+Moses Cohen Henriques
+Nathaniel Gordon
+Ng Akew
+Nicholas van Hoorn
+Olivier Levasseur
+Redbeard
+Pedro Gilbert
+Peter Easton
+Pierre Lafitte
+Piet Pieterszoon Hein
+Princess Sela
+Rachel Wall
+Rahmah ibn Jabir al-Jalhami
+Richard Glover
+Richard Taylor
+Robert Culliford
+Robert Surcouf
+Roberto Cofresí
+Roche Braziliano
+Rusla
+Sadie Farrell
+Samuel Bellamy
+Samuel Hall Lord
+Samuel Mason
+Samuel Pallache
+Sayyida al Hurra
+Shap-ng-tsai
+Shirahama Kenki
+Simon Mascarino
+Sister Ping
+Stede Bonnet
+Teuta
+Thomas Cavendish
+Thomas Tew
+Veborg
+Victual Brothers
+Vincenzo Gambi
+Wang Zhi
+William Dampier
+William Kidd
+Zheng Jing
+Zheng Qi
+Zheng Yi
+Zheng Yi Sao
+Zheng Zhilong
+Pirate
+hunters
+Angelo Emo
+Chaloner Ogle
+David Porter
+Duarte Pacheco Pereira
+James Brooke
+Julius Caesar
+Jose Campuzano-Polanco
+Luis Fajardo
+Miguel Enríquez
+Pedro Menéndez de Avilés
+Pompey
+Richard Avery Hornsby
+Robert Maynard
+Thomas Warren
+Woodes Rogers
+Pirate ships
+Adventure Galley
+Ambrose Light
+Fancy
+Flying Dutchman
+Ganj-i-Sawai
+Queen Anne's Revenge
+Quedagh Merchant
+Marquis of Havana
+Saladin
+Whydah Gally
+York
+Pirate battles and incidents
+1582 Cagayan battles
+1985 Lahad Datu ambush
+Action of 9 November 1822
+Action of 28 October 2007
+Action of 11 November 2008
+Action of 9 April 2009
+Anti-piracy in the Aegean
+Antelope incident
+Anti-piracy in the West Indies
+Attack on Veracruz
+Balanguingui Expedition
+Battle of Boca Teacapan
+Battle of Cape Fear River
+Battle of Cape Lopez
+Battle of Doro Passage
+Battle of Mandab Strait
+Battle of Manila
+Battle of Minicoy Island
+Battle off Mukah
+Battle of Nam Quan
+Battle of New Orleans
+Battle of Ocracoke Inlet
+Battle of Pianosa
+Battle of the Leotung
+Battle of the Tiger's Mouth
+Battle of Tonkin River
+Battle of Ty-ho Bay
+Battle of Tysami
+Beluga Nomination
+incident
+Blockade of Charleston (Vane)
+Chepo Expedition
+Capture of the
+Ambrose Light
+Capture of John Rackham
+Capture of the schooner
+Bravo
+Capture of the sloop
+Ranger
+Capture of the sloop
+Anne
+Carré d'As IV
+incident
+Dai Hong Dan
+incident
+Falklands Expedition
+Great Lakes Patrol
+Irene
+incident
+Jiajing wokou raids
+Maersk Alabama
+hijacking
+MT
+Zafirah
+hijacking
+MT
+Orkim Harmony
+hijacking
+MV
+Moscow University
+hijacking
+North Star
+affair
+Operation Enduring Freedom – HOA
+Operation Atalanta
+Operation Dawn of Gulf of Aden
+Operation Dawn 8: Gulf of Aden
+Operation Ocean Shield
+Persian Gulf Campaign
+Pirate attacks in Borneo
+Quest
+incident
+Raid on Cartagena
+Sack of Baltimore
+Sack of Campeche
+Salvador Pirates
+Slave raid of Suðuroy
+Turkish Abductions
+Piracy law
+Acts of grace
+(
+1717–1718 Acts of Grace
+)
+International piracy law
+Letter of marque
+Paris Declaration Respecting Maritime Law
+Piracy Act
+(
+1536
+,
+1698
+,
+1717
+,
+1721
+,
+1837
+,
+1850
+)
+Piracy Law of 1820
+Slave trade
+African slave trade
+African Slave Trade Patrol
+Amistad
+Incident
+Atlantic slave trade
+Black Sea slave trade
+Barbary slave trade
+Blockade of Africa
+Capture of the
+Veloz Passagera
+Capture of the brig
+Brillante
+Indian Ocean slave trade
+Trans-Saharan slave trade
+Pirates in
+popular
+culture
+Fictional pirates
+Askeladd
+Tom Ayrton
+Barbe Rouge
+Captain Birdseye
+Captain Blood
+Captain Crook
+Captain Flint
+Captain Hook
+Captain Nemo
+Captain Pugwash
+Captain Sabertooth
+Captain Stingaree
+Charlotte de Berry
+Davy Jones
+Edward Kenway
+Elaine Marley
+Elizabeth Swann
+Guybrush Threepwood
+Hector Barbossa
+Jack Sparrow
+Jacquotte Delahaye
+José Gaspar
+Joshamee Gibbs
+Long John Silver
+Vaas Montenegro
+One Piece
+pirates
+Four Emperors
+Straw Hats
+Brook
+Franky
+Monkey D. Luffy
+Nami
+Nico Robin
+Roronoa Zoro
+Sanji
+Tony Tony Chopper
+Usopp
+Mr. Smee
+Sandokan
+Will Turner
+Yellowbeard
+Zanzibar
+Books
+The Pirate
+The Pilot: A Tale of the Sea
+Treasure Island
+Facing the Flag
+On Stranger Tides
+Jim Hawkins and the Curse of Treasure Island
+Castaways of the Flying Dutchman
+The Angel's Command
+Voyage of Slaves
+Long John Silver
+Pirate Latitudes
+Mistress of the Seas
+Silver: Return to Treasure Island
+One Piece
+Tropes
+Buried treasure
+Davy Jones's locker
+Eyepatch
+Jolly Roger
+Bloody flag
+Crossed Swords Jolly Roger
+Flag of Blackbeard
+Old Roger
+Straw Hats' Jolly Roger
+Skull and crossbones
+Keelhauling
+Marooning
+No purchase, no pay
+Peg leg
+Pet parrot
+Pirate code
+Pirate utopia
+Treasure map
+Walking the plank
+Miscellaneous
+Air pirate
+Space pirate
+International Talk Like a Pirate Day
+Pirates versus Ninjas
+The Pirates of Penzance
+Miscellaneous
+A General History of the Pyrates
+Captain Charles Johnson
+Truce of Ratisbon
+Pirate Round
+Mutiny
+Matelotage
+Piracy kidnappings
+Lists
+Pirates
+Pirate films and TV series
+Privateers
+List of ships attacked by Somali pirates
+Timeline of piracy
+Women in piracy
+Piracy
+portal
+Category
+Authority control databases
+International
+VIAF
+GND
+FAST
+National
+United States
+Israel
+Retrieved from "
+https://en.wikipedia.org/w/index.php?title=Paris_Declaration_Respecting_Maritime_Law&oldid=1376163799
+"
+Categories
+:
+International law
+Privateering
+Law of the sea treaties
+1856 treaties
+Treaties of Argentina
+Treaties of the Duchy of Anhalt
+Treaties of the Austrian Empire
+Treaties of the Grand Duchy of Baden
+Treaties of the Kingdom of Bavaria
+Treaties of Belgium
+Treaties of the Empire of Brazil
+Treaties of Bremen (state)
+Treaties of the Duchy of Brunswick
+Treaties of the Principality of Bulgaria
+Treaties of Chile
+Treaties of Denmark
+Treaties of Ecuador
+Treaties of the Second French Empire
+Treaties of the Free City of Frankfurt
+Treaties of the German Confederation
+Treaties of the Kingdom of Greece
+Treaties of Guatemala
+Treaties of Haiti
+Treaties of Hamburg
+Treaties of the Kingdom of Hanover
+Treaties of the Electorate of Hesse
+Treaties of the Grand Duchy of Hesse
+Treaties of the Empire of Japan
+Treaties of the Free City of Lübeck
+Treaties of the Grand Duchy of Mecklenburg-Schwerin
+Treaties of the Grand Duchy of Mecklenburg-Strelitz
+Treaties of the Holy See (754–1870)
+Treaties of Mexico
+Treaties of the Duchy of Modena and Reggio
+Treaties of the Duchy of Nassau
+Treaties of the Netherlands
+Treaties of the Republic of New Granada
+Treaties of Norway
+Treaties of the Duchy of Oldenburg
+Treaties of the Ottoman Empire
+Treaties of the Duchy of Parma
+Treaties of Peru
+Treaties of the Kingdom of Portugal
+Treaties of the Kingdom of Prussia
+Treaties of the Russian Empire
+Treaties of the Kingdom of Sardinia
+Treaties of the Duchy of Saxe-Altenburg
+Treaties of Saxe-Coburg and Gotha
+Treaties of the Duchy of Saxe-Meiningen
+Treaties of the Grand Duchy of Saxe-Weimar-Eisenach
+Treaties of the Kingdom of Saxony
+Treaties of the First Spanish Republic
+Treaties of the Spanish Empire
+Treaties of Sweden
+Treaties of Switzerland
+Treaties of the Kingdom of the Two Sicilies
+Treaties of the Grand Duchy of Tuscany
+Treaties of the United Kingdom (1801–1922)
+Treaties of Uruguay
+Treaties of the Kingdom of Württemberg
+International humanitarian law treaties
+1856 in France
+1856 in the Kingdom of the Two Sicilies
+Hidden categories:
+Articles with short description
+Short description is different from Wikidata
+CS1 Dutch-language sources (nl)
+Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference
+Wikipedia articles incorporating text from the 1911 Encyclopædia Britannica
+This page was last edited on 22 September 2026, at 13:16
+(UTC)
+.
+Page was rendered with
+Parsoid
+.
+Text is available under the
+Creative Commons Attribution-ShareAlike 4.0 License
+;
+additional terms may apply. By using this site, you agree to the
+Terms of Use
+and
+Privacy Policy
+. Wikipedia® is a registered trademark of the
+Wikimedia Foundation, Inc.
+, a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Legal & safety contacts
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+Search
+Search
+Toggle the table of contents
+Paris Declaration Respecting Maritime Law
+15 languages
+Add topic

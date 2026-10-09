@@ -1,0 +1,146 @@
+URL:         https://www.agriland.ie/farming-news/fao-global-food-prices-edge-down-in-june/
+Кінцевий:    https://www.agriland.ie/farming-news/fao-global-food-prices-edge-down-in-june/
+Заголовок:   FAO: Global food prices edge down in June
+Дата публ.:  2026-07-03
+Завантажено: 2026-10-09 17:45 UTC
+HTTP:        200   Тип: text/html;charset=utf-8   Байтів: 416819
+Оригінал:    raw/199-agriland.ie-fao-global-food-prices-edge-down-in-june.html
+sha256:      74cb9177540735db13b1729e8d2fdc556506ae24e72f462d1f1d5fef4ef56a29
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 23
+==============================================================================
+FAO: Global food prices edge down in June - Agriland.ie
+National Dairy Show Visitors Guide →
+FAO: Global food prices edge down in June
+DII launches new strategy to cut emissions in dairy sector
+Dairy Industry Ireland (DII) has launched what it calls a new strategy to cut dairy farm emissions...
+Harvest 2026: 'It’s all about the weather from this point onwards'
+With high pressure building across Ireland over the coming days, the flag is about to be dropped on...
+Preview: McEnaney Livestock gears up for inaugural premium breeding heifer sale
+Based in Corvally, Co. Monaghan, McEnaney Livestock has been making big impressions in the world of...
+INHFA survey outlines farmer concerns on nature restoration plan
+The Irish Natura and Hill Farmers' Association (INHFA) has carried out a survey to seek farmers'...
+Local TB outbreak forces cancellation of Dungarvan cattle classes
+A TB outbreak in the area of the Dungarvan Show in Co. Waterford has forced the cancellation of the...
+'Volatile' prices key challenge for NI agriculture - Danske Bank
+Managing the impact of volatility now constitutes the most significant challenge impacting on every...
+Gardaí seize tractor at checkpoint in Mayo
+Gardaí who were carrying out a checkpoint in Co. Mayo have seized a tractor for multiple alleged...
+Met Éireann: Cloudy overall this weekend
+Met Éireann said the weekend be cloudy overall with rain and drizzle at times mainly in the north...
+'Major boost' for Irish curlew population through new collaboration with UK
+A new collaboration involving conservation groups in Ireland and the UK is expected to provide a...
+Stay on top of your news on the go.
+Download the Agriland app today.
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+FAO: Global food prices edge down in June - Agriland.ie
+Top Stories
+Beef
+Dairy
+Sheep
+Tillage
+Machinery
+Northern Ireland
+Videos
+Podcasts
+Top Stories
+Beef
+Dairy
+Sheep
+Tillage
+Machinery
+Northern Ireland
+Videos
+Podcasts
+National Dairy Show Visitors Guide →
+FAO: Global food prices edge down in June
+By Kathleen O'Sullivan
+July 3, 2026 11:00 AM
+Share this article
+The benchmark measure of world food commodity prices edged down in June.
+The Food and Agriculture Organization of the United Nations (FAO) said lower quotations for cereals, sugar and dairy products outweighed higher quotations for vegetable oils and meat.
+The FAO Food Price Index, which tracks monthly changes in the international prices of a basket of globally-traded food commodities, averaged 130.3 points in June 2026.
+This is down 0.3% from its May level but remained 2.2% higher than its year-earlier level.
+World food prices
+Boubaker Ben-Belhassen, director of the FAO’s markets and trade division, said that while the overall benchmark for international food commodity prices declined slightly in June, individual commodity markets continue to respond differently to evolving factors.
+"In an increasingly uncertain global environment, transparent markets, timely information and predictable global trade remain essential to advance food security and strengthen the resilience of agri-food systems," he said.
+The FAO cereal price index declined by 3.5% from May, driven by lower international maize and wheat prices, but remained 2.7% higher than a year ago.
+Global wheat quotations dipped by 4.4% as rapid harvest progress and strong supply prospects in the Black Sea region outweighed concerns over crop prospects in Australia and the US.
+Additional downward pressure stemmed from a stronger US dollar and softer energy markets amid expectations of reduced tensions around the Strait of Hormuz.
+Maize
+World maize prices fell by 6.2%, reflecting prospects of ample supplies in exporting countries in South America and weaker ethanol demand.
+By contrast, the FAO all rice price index increased by 3.2% in June, as Asian demand for Indica rice strengthened, while weather concerns and elevated production, transport and marketing costs lent support to non-fragrant quotations.
+The FAO vegetable oil price index, by contrast, increased by 3.8% from May.
+Higher palm and rapeseed oil quotations, supported by stronger mandated biofuel demand and broadly stable sunflower oil prices, more than offset lower soyoil prices.
+Meat and dairy
+The FAO meat price index increased by 0.5%, reaching a new record high.
+International poultry meat prices increased, due in part to temporarily tighter domestic availability following production adjustments in response to earlier oversupply, while pig and bovine meat prices declined.
+The FAO dairy price index declined by 1.5% from the previous month, reflecting lower prices on skim milk powder, whole milk powder and butter, along with an eleventh consecutive monthly drop in international cheese prices as export supplies continued to exceed global import demand.
+The FAO sugar price index decreased by 5.7% from May, driven down by lower domestic ethanol prices in Brazil along with depreciation of the Brazilian real.
+Ongoing concerns over the potential impact of El Nino on sugar production in India and Thailand contained the overall decline in international sugar prices.
+Harvest prospects
+The FAO also released updated forecasts for 2026 harvests in its Cereal Supply and Demand Brief, with production seen on course to be the second-highest in history, although 1.9% below last year’s record high.
+Global total cereal output is now pegged at 2.983 billion tonnes.
+Coarse grain production forecast is close to the previous year’s level, buoyed by recent official estimates from Argentina, Brazil, China (mainland) and Zambia, all pointing to stronger harvests than previously anticipated.
+Global wheat output is expected to decline by 4.3% to 806.5 million tonnes, as recent official data from Australia point to El Nino driving output below the five-year average.
+World rice production is now anticipated to dip by 1.8% from its all-time high in 2025/2026.
+FAO lowered its forecast for world cereal utilisation in 2026/2027 to 2.961 billion tonnes, due to an expected reduction in global wheat utilisation.
+FAO’s forecast of world cereal stocks at the close of seasons in 2027 now stands at 957.8 million tonnes, leaving the global cereal stock-to-use ratio largely unchanged in 2027 at 32%.
+Related Stories
+Topics
+FAO
+FAO food price index
+global food prices
+Share this article
+More Stories
+Dairy
+3 months ago
+DII launches new strategy to cut emissions in dairy sector
+Dairy Industry Ireland (DII) has launched what it calls a new strategy to cut dairy farm emissions...
+Tillage
+3 months ago
+Harvest 2026: 'It’s all about the weather from this point onwards'
+With high pressure building across Ireland over the coming days, the flag is about to be dropped on...
+Sponsored
+Preview: McEnaney Livestock gears up for inaugural premium breeding heifer sale
+Based in Corvally, Co. Monaghan, McEnaney Livestock has been making big impressions in the world of...
+Agri Politics
+3 months ago
+INHFA survey outlines farmer concerns on nature restoration plan
+The Irish Natura and Hill Farmers' Association (INHFA) has carried out a survey to seek farmers'...
+Rural Life
+3 months ago
+Local TB outbreak forces cancellation of Dungarvan cattle classes
+A TB outbreak in the area of the Dungarvan Show in Co. Waterford has forced the cancellation of the...
+N.Ireland
+3 months ago
+'Volatile' prices key challenge for NI agriculture - Danske Bank
+Managing the impact of volatility now constitutes the most significant challenge impacting on every...
+Rural Life
+3 months ago
+Gardaí seize tractor at checkpoint in Mayo
+Gardaí who were carrying out a checkpoint in Co. Mayo have seized a tractor for multiple alleged...
+Rural Life
+3 months ago
+Met Éireann: Cloudy overall this weekend
+Met Éireann said the weekend be cloudy overall with rain and drizzle at times mainly in the north...
+Environment
+3 months ago
+'Major boost' for Irish curlew population through new collaboration with UK
+A new collaboration involving conservation groups in Ireland and the UK is expected to provide a...
+an Agriland Media company
+Join Mailing List
+Stay on top of your news on the go.
+Download the Agriland app today.
+© 2026 Agriland Media Ltd.
+Contact Us
+Terms & Conditions
+Privacy Policy
+Advertise with us
+Merchandise

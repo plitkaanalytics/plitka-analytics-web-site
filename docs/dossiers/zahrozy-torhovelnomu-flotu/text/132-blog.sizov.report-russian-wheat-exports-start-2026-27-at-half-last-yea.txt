@@ -1,0 +1,33 @@
+URL:         https://blog.sizov.report/russian-wheat-exports-start-2026-27-at-half-last-years-pace/
+Кінцевий:    https://blog.sizov.report/russian-wheat-exports-start-2026-27-at-half-last-years-pace/
+Заголовок:   Russian Wheat Exports Start 2026/27 at Half Last Year’s Pace - The Sizov Report blog
+Дата публ.:  2026-09-02
+Завантажено: 2026-10-07 09:41 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 106682
+Оригінал:    raw/132-blog.sizov.report-russian-wheat-exports-start-2026-27-at-half-last-yea.html
+sha256:      1d58aeeb5eee7f07a745c491baabf3359735172dc2fa05aa4ab77c9de8356146
+Витяг:       trafilatura
+
+==============================================================================
+Russian wheat exports are expected to remain around 2.0 mmt in September, compared with 4.6 mmt a year earlier, according to a[ new SovEcon report](https://sizov.report/reports/31007/). 
+
+If our September forecast is realized, Russia will export around 5.6 mmt of wheat in the first three months of the 2026/27 season, compared with 11.3 mmt in July–September last year, a decline of around 50%. July shipments totaled 1.6 mmt, down from 2.1 mmt a year earlier, while preliminary August exports are estimated at around 2.0 mmt, compared with 4.5 mmt last year.
+
+The weak pace reflects continued disruptions in the Azov-Black Sea basin. Shipments from Sea of Azov ports stopped completely in mid-July, while operations at Black Sea ports have also been heavily disrupted since mid-August. The Black Sea routes are still functioning, but only at reduced capacity: Tuapse continues to ship small volumes, NZT is loading slowly, and direct shipments have started from several berths in Novorossiysk without using elevator facilities, mainly on small vessels.
+
+Strikes on Black Sea port infrastructure continue, with no clear signs of de-escalation.
+
+Presidents Recep Tayyip Erdogan and Vladimir Putin met on September 1, but no public statements on Black Sea shipping or the grain plan were made following the meeting. Putin’s subsequent comments, however, made clear that Moscow is not prepared to return to a Black Sea grain agreement under the current conditions.
+
+Some alternative routes are gradually picking up volumes, including Russia’s Baltic Sea ports and terminals in Latvia and Lithuania. SovEcon expects them to handle up to 0.5 mmt a month, less than 10% of the volumes normally handled through Russia’s southern ports.
+
+Against this backdrop, we recently cut our 2026/27 Russian wheat export forecast by 3.2 mmt to 41.4 mmt. We do not expect the situation in the Azov-Black Sea basin to normalize in the coming weeks, although some recovery in shipments remains possible later in the autumn.
+
+*Extremely slow Russian shipments coupled with low Ukrainian exports are expected to continue to support global grain prices.*
+
+Get Black Sea grain market updates in your inbox
+
+    [
+      Subscribe
+    ](https://mailchi.mp/eddc2f8e7698/freenote)
+    to receive free insights on Russian and Ukrainian wheat, export flows, crop prospects, and Black Sea price trends.

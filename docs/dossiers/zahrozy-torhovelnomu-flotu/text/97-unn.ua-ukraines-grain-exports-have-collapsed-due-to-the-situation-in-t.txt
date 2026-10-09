@@ -1,0 +1,75 @@
+URL:         https://unn.ua/en/news/ukraines-grain-exports-have-collapsed-due-to-the-situation-in-the-black-sea-what-happened-to-the-maritime-corridor
+Кінцевий:    https://unn.ua/en/news/ukraines-grain-exports-have-collapsed-due-to-the-situation-in-the-black-sea-what-happened-to-the-maritime-corridor
+Заголовок:   Ukraine’s grain exports have collapsed due to the situation in the Black Sea: what happened to the maritime corridor
+Дата публ.:  2026-08-14
+Завантажено: 2026-10-07 09:37 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 341331
+Оригінал:    raw/97-unn.ua-ukraines-grain-exports-have-collapsed-due-to-the-situation-in-t.html
+sha256:      30229efbcdb63c9da416939ed78ff96de8441eef017dff42fec55087cf34a18f
+Витяг:       trafilatura
+
+==============================================================================
+# Ukraine’s grain exports have collapsed due to the situation in the Black Sea: what happened to the maritime corridor
+
+**Kyiv** • **UNN**
+
+Due to Russian strikes on ports and vessels, Ukraine’s grain exports fell to 30% of the required volume at the beginning of August. Minister Vysotskyi said that without restoring the operation of the Black Sea ports, exports would not exceed 50%.
+
+Due to Russian attacks on port infrastructure and civilian vessels, Ukrainian grain exports came under threat in early August. Minister of Agrarian Policy Taras Vysotskyi said this during a briefing in Kyiv on August 14, **UNN** reports.
+
+## Details
+
+Between August 1 and 12, Ukraine exported approximately 590,000 tonnes of grain, which represents about 30% of the required volume.
+
+There are opportunities to partially increase exports, but even so, without the resumption of operations at the Black Sea ports, they will amount to up to 50% of the required level
+
+
+The decline in exports occurred amid the de facto temporary suspension of commercial vessels' entry into Ukrainian seaports due to an intensification of Russian attacks.
+
+According to the Ministry for Communities, Territories and Infrastructure Development of Ukraine, at the end of July, the latest massive attacks by the russian federation on civilian port infrastructure, commercial vessels and crews effectively led to a temporary suspension of vessels' entry into Ukrainian ports. At the same time, no official decision to close the Ukrainian Maritime Corridor was announced, and the ports continued operating.
+
+In July 2026 alone, russia carried out 67 attacks on Ukrainian seaport facilities. In addition, 35 attacks on civilian vessels directly in the ports and another 22 attacks on vessels in the Ukrainian Maritime Corridor were recorded.
+
+The attacks continued in August. According to the relevant ministry, in the first days of the month russia attacked seaport facilities five times, civilian vessels in the ports three times, and vessels in the maritime corridor twice.
+
+The ministry emphasized that the Russian strikes are aimed, in particular, at disrupting the operation of Ukrainian ports, intimidating international shipowners, and undermining the safety of civilian shipping.
+
+## Seaports handled about 90% of agricultural exports
+
+The situation with maritime connections is critically important for Ukraine's agricultural sector, since the ports of Greater Odesa handled about 90% of Ukraine's agricultural exports. Ukrainian food products were supplied through them to more than 55 countries worldwide.
+
+From the start of operations of the Ukrainian Maritime Corridor in September 2023 through the end of July 2026, approximately 209.3 million tonnes of cargo were transported through it. Of this, 124.1 million tonnes consisted of grain. During this period, more than 8,200 vessels used the corridor.
+
+Ukraine's dependence on the ports of Greater Odesa is also demonstrated by cargo turnover figures. From the beginning of 2026 through the end of July, Ukrainian seaports handled approximately 46 million tonnes of cargo. Of this, 42.2 million tonnes accounted for the ports of Greater Odesa, and only 3.8 million tonnes for the ports of the Danube region.
+
+## Ukraine is expanding alternative routes
+
+Against the backdrop of threats to maritime exports, Ukraine, together with the European Commission, Moldova and Romania, is working to increase the capacity of alternative routes.
+
+In particular, the parties are discussing expanding the capacity of ports in the Danube region, railway and road infrastructure, speeding up customs and border procedures, and eliminating bottlenecks on transport routes.
+
+A separate area of focus is increasing opportunities for the transit of Ukrainian agricultural products through Moldova and Romania and attracting European funding for the development of the relevant infrastructure.
+
+At the same time, current cargo turnover figures indicate that alternative routes are not yet capable of fully replacing the capacity of the ports of Greater Odesa. This problem becomes particularly acute during the harvest season and the formation of grain export consignments.
+
+The Ministry for Communities, Territories and Infrastructure Development warned that systematic attacks by the russian federation on Ukrainian ports and civilian shipping pose risks not only to Ukraine's economy, but also to international trade and global food security.
+
+## Context
+
+The Ukrainian maritime corridor began operating in September 2023 after Russia withdrew from the Black Sea Grain Initiative and the previous mechanism for exporting food through the Black Sea effectively ceased to operate. Ukraine organized its own route for civilian vessels to the ports of Greater Odesa, which gradually became the country's main channel for maritime exports.
+
+From the beginning of the new corridor's operation through the end of July 2026, it transported approximately 209.3 million tonnes of cargo, including 124.1 million tonnes of grain. During this period, more than 8,200 vessels used the route. Ukrainian agricultural products were supplied through the seaports to more than 55 countries.
+
+The ports of Greater Odesa play a key role in Ukraine's agricultural logistics and handle approximately 90% of the country's agricultural exports by sea. Therefore, disruptions to vessels entering the ports directly affect the pace of grain and other agricultural product exports.
+
+The situation sharply deteriorated in the summer of 2026 due to an intensification of Russian attacks on port infrastructure and civilian shipping. According to official data, in July alone, Russia attacked Ukrainian seaport facilities 67 times, civilian vessels directly in the ports 35 times, and vessels in the Ukrainian maritime corridor another 22 times.
+
+At the end of July, the Ministry for Communities, Territories and Infrastructure Development reported that the latest massive attacks had effectively led to a temporary suspension of vessels entering Ukrainian ports. At the same time, Ukraine did not make an official decision to close the Ukrainian maritime corridor, and port infrastructure continued to operate.
+
+Because of the situation in the Black Sea, Ukraine, together with the European Commission, Romania and Moldova, began working on increasing the capacity of alternative routes, including through Danube ports, railways and road crossings. However, their current capacity is significantly lower than that of the ports of Greater Odesa: of the 46 million tonnes of cargo handled by Ukrainian seaports from the beginning of 2026 through the end of July, 42.2 million tonnes were handled by Greater Odesa and only 3.8 million tonnes by the Danube region ports.
+
+The decline in maritime exports is taking place against the backdrop of the new harvest, when Ukraine needs to increase grain shipments. Prolonged disruptions to shipping could place additional pressure on grain storage facilities and overland logistics, complicate exports and affect foreign-currency earnings from the agricultural sector.
+
+## We remind you
+
+Earlier, it [became known](https://unn.ua/news/ukraina-zaproponuvala-rosii-peremyria-v-chornomu-mori-vidpovidi-poky-ne-otrymala-zmi) that Ukraine proposed a truce to Russia in the Black Sea but has not yet received a response.

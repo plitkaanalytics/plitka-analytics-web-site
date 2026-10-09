@@ -1,0 +1,382 @@
+URL:         https://magicport.ai/vessels/general-cargo/royad-mammadov-mmsi-636020314
+Кінцевий:    https://magicport.ai/vessels/general-cargo/royad-mammadov-mmsi-636020314
+Заголовок:   ROYAD MAMMADOV - (IMO 9356969) - Position, Specs, Managers & Sanctions Risks - MagicPort
+Дата публ.:  2026-10-07
+Завантажено: 2026-10-07 09:35 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 448898
+Оригінал:    raw/78-magicport.ai-royad-mammadov-mmsi-636020314.html
+sha256:      ff63f7ac94b63cd6149669a8c25192e047882f070d60e3263088911c11610e53
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 47
+==============================================================================
+ROYAD MAMMADOV - (IMO 9356969) - Position, Specs, Managers & Sanctions Risks - MagicPort
+Software and data that power smarter maritime operations.
+Verified vessels, ports, and companies in one network.
+Real-time vessel, port, and market data.
+Streamline port calls, DA, and agency operations.
+Feed our maritime data and analytics straight into your own systems.
+Explore vessels, ports, and companies across the maritime world.
+Detailed profiles of vessels worldwide.
+Ports, terminals, and facilities worldwide.
+Owners and managers of the world's fleet.
+Providers supporting vessel and port operations.
+Trusted agents handling port calls worldwide.
+Suppliers and chandlers for provisions and spares.
+Bunker suppliers and traders for marine fuels.
+Shipyards for newbuilding, repair, and maintenance.
+Tug operators for towage and harbor assistance.
+Reports, guides, and insights for maritime professionals.
+Free monthly reports across key maritime markets.
+How maritime professionals grow their careers and their operations with MagicPort.
+Free tools and calculators for maritime professionals.
+Insights on port operations, compliance, and maritime industry trends.
+Latest maritime industry insights, reports, and guides.
+To view this risk profile, you’ll need to subscribe to MagicPort’s Maritime Intelligence.
+· Data sourced from AIS feeds and MagicPort's maritime intelligence layer
+Start free trial for full access
+Optimize your business operations with powerful Intelligence
+Access detailed vessel profiles
+Track all incoming vessels in advance
+Create and manage any number of fleets
+Set up alerts for your ports and fleets
+Filter vessels based on their ownership, technical details, survey schedules and more
+"MagicPort's maritime intelligence helps both our sales and operations.
+MagicPort has provided us extraordinary support, we feel the whole technology &
+business intelligence team behind us."
+Managing Director of Bravo Ship
+maritime community on a single digital platform to enable smart and sustainable shipping.
+Explore maritime data for 7 days free—vessel tracking, sanctions checks, and more.
+Use your company email. Personal addresses (Gmail, Yahoo, Outlook, etc.) aren't accepted.
+Check your email now to activate your trial.
+We've emailed your secure trial access link to
+If it doesn't arrive within a few minutes, look in your
+link has been sent again, you need to wait
+To get started, please check your inbox for the activation link we sent to
+has already had subscription before and it ended.
+Please subscribe to access all the premium features.
+Log in to access limited version
+Choose the product you would like to see in action
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+ROYAD MAMMADOV - (IMO 9356969) - Position, Specs, Managers & Sanctions Risks - MagicPort
+Products
+MagicPort Products
+Software and data that power smarter maritime operations.
+Trusted Maritime Network
+Verified vessels, ports, and companies in one network.
+Maritime Intelligence
+Real-time vessel, port, and market data.
+Port Call Management Software
+Streamline port calls, DA, and agency operations.
+Maritime APIs
+Feed our maritime data and analytics straight into your own systems.
+Maritime Directory
+Maritime Directory
+Explore vessels, ports, and companies across the maritime world.
+Vessels
+Detailed profiles of vessels worldwide.
+Ports
+Ports, terminals, and facilities worldwide.
+Owners & Managers
+Owners and managers of the world's fleet.
+Service Providers
+Providers supporting vessel and port operations.
+Ship Agents
+Trusted agents handling port calls worldwide.
+Suppliers
+Suppliers and chandlers for provisions and spares.
+Bunker Suppliers
+Bunker suppliers and traders for marine fuels.
+Shipyards
+Shipyards for newbuilding, repair, and maintenance.
+Tug Boats
+Tug operators for towage and harbor assistance.
+Resources
+Resources
+Reports, guides, and insights for maritime professionals.
+Port Traffic Reports
+Free monthly reports across key maritime markets.
+Customer Stories
+How maritime professionals grow their careers and their operations with MagicPort.
+Tools and Calculators
+Free tools and calculators for maritime professionals.
+Blog
+Insights on port operations, compliance, and maritime industry trends.
+Maritime Industry Insights
+Latest maritime industry insights, reports, and guides.
+Ask AI
+Sign In
+Request a demo
+MagicPort
+Vessels
+ROYAD MAMMADOV
+ROYAD MAMMADOV
+IMO: 9356969
+MMSI: 341609002
+General Cargo Ship
+Create Alert
+Add to Fleet
+Share
+Show on Map
+View risk profile
+To view this risk profile, you’ll need to subscribe to MagicPort’s Maritime Intelligence.
+See More
+ROYAD MAMMADOV (IMO 9356969, MMSI 341609002) is a General Cargo Ship flagged in Saint Kitts and Nevis. ROYAD MAMMADOV was built in 2006 with a deadweight capacity of 6,933 MT and a length overall of 139 metres. The vessel was last recorded travelling at 7.8 knots, on a heading of 237 degrees, with a next recorded destination of RAVENNA port (ITRAN). Based on MagicPort's screening against 300+ international sanctions watchlists, ROYAD MAMMADOV is currently not sanctioned. MG SHIPPING 5 CO LTD is the registered owner of ROYAD MAMMADOV. SPRING MARINE DENIZCILIK is the commercial manager of ROYAD MAMMADOV. PALMALI GEMICILIK VE ACENTELIK is the ISM manager of ROYAD MAMMADOV. Profile data is sourced from AIS feeds and updated continuously.
+Profile last updated:
+7 October 2026
+· Data sourced from AIS feeds and MagicPort's maritime intelligence layer
+General Information
+Class
+A
+Deadweight
+6933
+Gross Tonnage
+5684
+Net Tonnage
+•••••••••
+Length overall (LOA)
+139
+Class Society
+•••••••••
+Beam
+•••••••••
+Depth moulded
+•••••••••
+Ownership
+Port Call History
+Departure
+Destination
+Actual Time of Departure
+Actual Time of Arrival
+Port Visits Overview
+Port Name
+Visits In Time Period
+Date Of Last Visit
+Voyage History
+Show Voyage History
+Survey Renewal & Certificates
+Code
+Nature
+Issued RO
+Surveyed RO
+Date of issue
+Date of expire
+FAQ about ROYAD MAMMADOV vessel
+What's the identification number for vessel ROYAD MAMMADOV?
+ROYAD MAMMADOV's IMO number is 9356969, and its MMSI is 341609002.
+Which is the flag and call sign of vessel ROYAD MAMMADOV (IMO 9356969)?
+Vessel ROYAD MAMMADOV (IMO 9356969) sails under the flag of SAINT KITTS AND NEVIS with the call sign V4LC7.
+What is the type and subtype of vessel ROYAD MAMMADOV (IMO 9356969)?
+ROYAD MAMMADOV (MMSI: 341609002) is classified as a general cargo ship.
+What are the dimensions (LOA, beam) and carrying capacity (DWT) vessel ROYAD MAMMADOV (IMO 9356969)?
+The ship measures 139 meters in length overall (LOA) and 16 meters in width, providing a carrying capacity of 6,933 MTs deadweight (DWT).
+Who is the owner and manager of ROYAD MAMMADOV (IMO 9356969)?
+ISM Manager of ROYAD MAMMADOV (IMO 9356969) is
+PALMALI GEMICILIK VE ACENTELIK
+.
+Commercial Manager of ROYAD MAMMADOV (IMO 9356969) is
+SPRING MARINE DENIZCILIK
+.
+Registered Owner of ROYAD MAMMADOV (IMO 9356969) is
+MG SHIPPING 5 CO LTD
+.
+What is the vessel ROYAD MAMMADOV (IMO 9356969)'s destination?
+The ship is en route to
+RAVENNA port (ITRAN)
+.
+Which ports vessel ROYAD MAMMADOV (IMO 9356969) visited in the last 12 months (1 year)?
+ROYAD MAMMADOV (IMO 9356969) has a recorded port call history available to MagicPort Maritime Intelligence subscribers. In the last 12 months, the vessel has visited
+YEYSK Port (RUYEY)
+,
+Russian Federation
+,
+ISTANBUL Port (TRIST)
+,
+Turkey
+,
+AZOV Port (RUAZO)
+,
+Russian Federation
+,
+HAIFA Port (ILHFA)
+,
+Israel
+and
+TAMAN Port (RUTAM)
+,
+Russian Federation
+. Full port call history — including arrival and departure timestamps, voyage sequences, and port visit frequency — is accessible via MagicPort at
+Maritime Intelligence
+.
+Is ROYAD MAMMADOV (IMO 9356969) sanctioned?
+ROYAD MAMMADOV (IMO 9356969) is not sanctioned. Based on MagicPort's screening against 300+ government and international sanctions watchlists — including OFAC (US Office of Foreign Assets Control), EU sanctions lists, and UN Security Council designations — this status reflects the latest data available. Always verify against current watchlists before entering into any transaction involving this vessel. Need more details? Request a
+Free Sanctions Screening Report
+.
+What is the risk profile of ROYAD MAMMADOV (IMO 9356969)?
+Vessel ROYAD MAMMADOV is currently flagged as Medium risk. MagicPort's risk profiling evaluates vessels across multiple dimensions — sanctions exposure, flag state risk, ownership-chain transparency, and AIS behaviour anomalies. For a detailed risk analysis, visit MagicPort's
+Maritime Intelligence
+platform.
+Similar Vessels
+General Cargo Ship
+AKIMOTO
+General Cargo Ship
+LAGOA MAS
+General Cargo Ship
+MINEVA 3
+General Cargo Ship
+CSE BRAVERY EXPRESS
+General Cargo Ship
+ECO ELIXIR
+General Cargo Ship
+FINCH ARROW
+General Cargo Ship
+EMMA OLDENDORFF
+General Cargo Ship
+JOYFUL FORTUNE
+General Cargo Ship
+SCALA
+General Cargo Ship
+RYO SONG 9
+Show on Map
+Navigation Data
+Navigation Status
+Under way sailing
+Reported ETA
+•••••••••
+Reported Destination (AIS)
+ITRAN
+Last Position Update
+•••••••••
+Speed
+7.8 knots
+Draught
+•••••••••
+Summer Draught
+•••••••••
+Heading
+237º
+Course
+196º
+Next Destination
+Current Position
+•••••••••
+Ship Building
+Shipyard Country
+Builder (Shipyard)
+Year Build
+2006
+Keel Laid Year
+-
+Hull Type Code
+•••••••••
+Engine
+Engine Type
+••••••••••
+Engine Model
+••••••••••
+No. Of Main Engines
+••••••••••
+Propulsion Type
+••••••••••
+No. Of Propulsion Units
+••••••••••
+MCOkW
+••••••••••
+MCOhp
+••••••••••
+MCOrpm
+••••••••••
+Unlock Full Engine Details
+Start free trial for full access
+Share
+Unlock Maritime Intelligence
+Optimize your business operations with powerful Intelligence
+                                tool
+Access detailed vessel profiles
+Track all incoming vessels in advance
+Find vessels near your port
+Create and manage any number of fleets
+Set up alerts for your ports and fleets
+Filter vessels based on their ownership, technical details, survey schedules and more
+"MagicPort's maritime intelligence helps both our sales and operations.
+                                    MagicPort has provided us extraordinary support, we feel the whole technology &
+                                    business intelligence team behind us."
+Berkay Talay
+Managing Director of Bravo Ship
+Take the Next
+                        Step
+Try
+these features for free.
+Try it out
+Get full access
+today.
+Buy now
+Already have an account?
+Sign in here
+We connect and empower the
+                        maritime community on a single digital platform to enable smart and sustainable shipping.
+Submit
+Company
+Community
+Events
+Blog
+About
+Contact
+Solutions
+Trusted Maritime Network
+Maritime Intelligence
+Smart Port Call Management
+Explore
+Ports
+Ship Agents
+Ship Suppliers
+Service Providers
+Ship Owners / Managers
+Shipyards
+Vessels
+General Cargo
+Tanker
+Bulk Carrier
+Container
+Passenger
+© 2026
+MagicPort
+- All rights reserved.
+Cookies Policy
+Privacy Policy
+Terms & Conditions
+Unlock all premium features
+Explore maritime data for 7 days free—vessel tracking, sanctions checks, and more.
+Use your company email. Personal addresses (Gmail, Yahoo, Outlook, etc.) aren't accepted.
+Start my free trial
+Log in
+No credit card required
+Check your email now to activate your trial.
+We've emailed your secure trial access link to
+If it doesn't arrive within a few minutes, look in your
+Spam
+or
+Junk
+folder.
+Open
+Mail App
+Resend link
+Trial access
+                        link has been sent again, you need to wait
+to try again.
+Let's complete your sign up!
+To get started, please check your inbox for the activation link we sent to
+(we've sent a new one)
+Close
+Your trial has ended!
+has already had subscription before and it ended.
+                            Please subscribe to access all the premium features.
+Buy now
+Log in to access limited version
+Request a demo
+Choose the product you would like to see in action

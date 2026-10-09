@@ -1,0 +1,75 @@
+URL:         https://www.royalnavy.mod.uk/news/2026/august/29/29082026-royal-navy-shadows-russian-warships-and-shadow-fleet-activity-in-uk-waters
+Кінцевий:    https://www.royalnavy.mod.uk/news/2026/august/29/29082026-royal-navy-shadows-russian-warships-and-shadow-fleet-activity-in-uk-waters
+Заголовок:   Royal Navy monitors Russian warships and shadow fleet activity in UK waters during 72-hour operation
+Дата публ.:  2026-08-29
+Завантажено: 2026-10-07 09:20 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 143089
+Оригінал:    raw/73-royalnavy.mod.uk-29082026-royal-navy-shadows-russian-warships-and-shad.html
+sha256:      842500641c10c7705a8c1cbd80a21d99a20edcab88efe32a84002c2d60afe535
+Витяг:       trafilatura
+
+==============================================================================
+## Navy News
+
+Direct from the front-line, the official newspaper of the Royal Navy, Navy News, brings you the latest news, features and award winning photos every month.
+
+29 August 2026
+
+The Royal Navy completed an intense three-day operation tracking Russian Navy vessels and sanctioned cargo ships in UK waters.
+
+A powerful trio of warships – HMS Duncan, HMS St Albans and HMS Severn – utilised radars and sensors to monitor two Russian Navy warships and two sanctioned cargo ships through the North Sea and English Channel.
+
+
+A Merlin helicopter launched from HMS St Albans joined the operation, extending surveillance as the vessels approached the Strait of Dover.
+
+
+At the same time, HMS Mersey was shadowing replenishment vessel Akademik Pashin, sailing nearby demonstrating once again the Navy’s resolve to tackle and deter Putin’s shadow fleet.
+
+
+Overall, Royal Navy activations to monitor Russian activity is up 25% across the first eight months of the year compared to 2025. It comes after the UK interdicted a sanctioned shadow fleet oil tanker, Smyrtos, in the English Channel in June.
+
+
+General Sir Gwyn Jenkins, the First Sea Lord and Chief of Naval Staff, said: “The interception of the Smyrtos was a clear demonstration that the UK and Royal Navy will act against those who seek to evade sanctions to fund Russia’s egregious war on Ukraine.
+
+
+“Since that successful operation, we have seen Russian shadow fleet vessels increasingly forced to change their routes, imposing significant cost and delays to their journeys.
+
+
+“Alongside our allies, this approach is forcing Moscow to divert Russian warships away from their core purpose. That is because Russia knows we stand ready to act again, should it be required.
+
+
+“While this is a welcome development, we know there is no room for complacency. Shadow fleet vessels continue to pose an unacceptable risk to maritime security and the environment, wherever they sail.
+
+
+“That is why we remain vigilant and will continue to work alongside allies to uphold and enforce international law.”
+
+Type 45 destroyer Duncan, Type 23 frigate St Albans and patrol ship HMS Severn tracked Russian destroyer Admiral Levchenko as it escorted sanctioned cargo vessels General Skobelev and Sparta south through the North Sea and into the English Channel. In response Russia was forced to deploy costly military resources, including frigate Neustrashimy, to guard their illegal shipment.
+
+
+The Royal Navy ships tracked the Russian task group from the North Sea through the English Channel before handing over monitoring duties to a NATO ally off the coast of France near Ushant.
+
+
+HMS St Albans Commanding Officer, Commander Oli Ayers, said: “As part of the UK’s response to increased Russian activity within UK waters, St Albans was part of a group of NATO warships and aircraft escorting Russian warships and merchant vessels through the North Sea and English Channel, monitoring their activity.
+
+
+“As the Royal Navy's very high readiness frigate, this is our core business. We will continue these sorts of operations, working alongside NATO allies, over the next few months.”
+
+
+The UK is a strong leader in tackling Russia’s shadow fleet, having already sanctioned more than 500 vessels. with Russia’s oil and gas revenues falling by 24% year-on-year in 2025.
+
+
+Working with international partners, the UK continues to target the revenues that fund Russia’s illegal war in Ukraine while reducing Moscow’s ability to threaten European and global security. After completing this operation, HMS Duncan headed to Copenhagen for a high-profile engagement to celebrate the close bonds between Denmark and the UK.
+
+
+Commander James Mitchell, HMS Duncan’s Commanding Officer said: “Fresh from operations in the North Atlantic and High North as part of the UK Carrier Strike Group, HMS Duncan was tasked alongside HMS St Albans to monitor and escort a number of Russian military and civilian vessels through areas of UK interest.
+
+
+“The Royal Navy maintains a persistent watch on activity around the UK, and this operation demonstrated our readiness to respond whenever required.
+
+
+“I am enormously proud of the men and women of HMS Duncan. Whilst this type of activity is routine, it requires sustained vigilance, professionalism and teamwork. Their commitment and expertise throughout reflect the very best of the Royal Navy and underline our ability to protect the UK’s interests at sea, whenever and wherever we are called upon to do so.”
+
+
+This was the third time this month Portsmouth-based HMS Severn has been dispatched to report on Russian movements, having started the month on duty tracking Neustrashimy in the Channel, later working alongside HMS Tyne to shadow frigate RFN Admiral Gorshkov, hydrographic vessel Romuald Muklevich and Akademik Pashin.
+
+Direct from the front-line, the official newspaper of the Royal Navy, Navy News, brings you the latest news, features and award winning photos every month.

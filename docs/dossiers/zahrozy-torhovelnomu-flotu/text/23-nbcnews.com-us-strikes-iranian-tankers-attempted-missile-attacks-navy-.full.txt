@@ -1,0 +1,298 @@
+URL:         https://www.nbcnews.com/world/iran/us-strikes-iranian-tankers-attempted-missile-attacks-navy-warship-rcna596699
+Кінцевий:    https://www.nbcnews.com/world/iran/us-strikes-iranian-tankers-attempted-missile-attacks-navy-warship-rcna596699
+Заголовок:   Iran attacks American warships and base after U.S. sinks five Iranian tankers
+Дата публ.:  2026-09-08
+Завантажено: 2026-10-07 08:07 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 546280
+Оригінал:    raw/23-nbcnews.com-us-strikes-iranian-tankers-attempted-missile-attacks-navy-.html
+sha256:      9c0dc121a2ffd71029df5bf772ed25883092de8329c452701f75995cff45b654
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 21
+==============================================================================
+Iran attacks American warships and base after U.S. sinks five Iranian tankers
+IE 11 is not supported. For an optimal experience visit our site on another browser.
+There are no new alerts at this time
+They’re the latest tit-for-tat strikes as Washington and Tehran lurch back toward fighting during more than six months of war.
+U.S. destroys five Iranian oil tankers as war escalates once again
+Locals called their town ‘Almost Heaven’. A plan to open a Buc-ee’s exposed its underbelly.
+Outrage, backlash and inaction: Why can’t America stop rape on college campuses?
+France shuts down nearly 900 schools as violent student protests escalate
+Florida Democrats try to regain their mojo after years of Republican dominance
+Justice Department tells employees to adopt Trump’s AI rebrand
+U.S. housing market sets a grim record as sellers swamp buyers
+Texts show worried Cornell fraternity brothers coordinating responses as accusations came to light
+Former Olympic canoeist asks government watchdogs to probe ‘nightmare’ Reflecting Pool case
+A psychedelic drug could soon get approved in the U.S. What should the rules be?
+The Data Dive: Steve Kornacki on how Kansas became a surprise midterm battleground
+Baltic nations brace for Russian attacks as border threats escalate
+Tips came in just minutes after Cornell alerted students to an alleged sex assault at a frat house
+Gordon Lubold is a national security reporter for NBC News.
+Babak Dehghanpisheh is an NBC News Digital international editor based in New York.
+NBC News Subscription Terms of Service
+© 2026 NBCUniversal Media, LLC
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Iran attacks American warships and base after U.S. sinks five Iranian tankers
+IE 11 is not supported. For an optimal experience visit our site on another browser.
+Skip to Content
+NBC News Logo
+Politics
+U.S. News
+World
+Local
+New York
+Los Angeles
+Chicago
+Dallas-Fort Worth
+Philadelphia
+Washington, D.C.
+Boston
+Bay Area
+South Florida
+San Diego
+Connecticut
+Sports
+Business
+Prime Day Deals
+Gift card deals
+Tech deals
+Deals under $50
+Lightning deals
+Tipline
+Subscribe
+Share & Save —
+For You
+Subscriber Hub
+Saved
+Newsletters
+Settings
+Profile
+Preferences
+Subscription
+Search
+Search
+Sections
+U.S. News
+Politics
+World
+Business
+Sports
+Investigations
+Culture & Trends
+Health
+Science
+Tech
+Weather
+VIDEO
+Photos
+Sudoku
+Recipes
+NBC Selected
+NBC Asian America
+NBC BLK
+NBC Latino
+NBC OUT
+Local
+New York
+Los Angeles
+Chicago
+Dallas-Fort Worth
+Philadelphia
+Washington, D.C.
+Boston
+Bay Area
+South Florida
+San Diego
+Connecticut
+tv
+Today
+Nightly News
+Meet the Press
+Dateline
+Featured
+NBC News Now
+Nightly Films
+Stay Tuned
+Special Features
+Newsletters
+Podcasts
+Listen Now
+Business in America
+More From NBC
+NBC.COM
+NBCU Academy
+Peacock
+NEXT STEPS FOR VETS
+NBC News Site Map
+Help
+Follow NBC News
+news Alerts
+There are no new alerts at this time
+Search
+Search
+Facebook
+Twitter
+Email
+SMS
+Blue Sky
+Whatsapp
+Print
+Reddit
+Flipboard
+Pinterest
+Linkedin
+Latest Stories
+Politics
+U.S. News
+World
+Sports
+Business
+Prime Day Deals
+Tipline
+Iran war
+Iran attacks American warships and base after U.S. sinks five Iranian tankers
+They’re the latest tit-for-tat strikes as Washington and Tehran lurch back toward fighting during more than six months of war.
+Listen to this article with a
+free profile
+00:00
+00:00
+Add to Google
+U.S. destroys five Iranian oil tankers as war escalates once again
+02:06
+Get more news
+Live
+on
+Share
+Add
+NBC News
+to Google
+Sept. 8, 2026, 4:58 PM EDT
+/
+Updated
+Sept. 9, 2026, 1:53 AM EDT
+By
+Gordon Lubold
+and
+Babak Dehghanpisheh
+The U.S. military struck five Iranian tankers linked to the Islamic Revolutionary Guard Corps in response to attempted attacks by the IRGC on an American warship, according to U.S. Central Command.
+“The U.S. warship successfully evaded the attempted Iranian attacks and continued to patrol regional waters. No American personnel were harmed.” CENTCOM
+said in a post on X
+.
+Four of the tankers were attacked in the Gulf of Oman and one was hit near Kharg Island, according to CENTCOM.
+“American forces directed the crews to abandon ship before the vessels were struck and rendered inoperable,” it
+said in a statement
+.
+Two American warships were attacked and damaged by ballistic missiles, the IRGC
+said in a statement
+, according to the semi-official Fars news agency.
+The IRGC also
+said in a statement
+Tuesday that it had retaliated by launching missiles at American forces on the Al Azraq military base in Jordan, according to Fars.
+A U.S. official said that Iran fired a series of missiles toward Jordan but the Iranian response was considered ineffective, and the integrated air and missile defense systems were able to thwart the Iranian strikes. All American forces in Jordan are accounted for, the official said.
+Jordanian air defense systems intercepted 18 ballistic missiles and two missiles fell in unpopulated areas, a spokesperson for that country’s armed forces said Tuesday,
+according to Jordanian state media
+.
+The strikes on the Iranian tankers Tuesday come after the IRGC attempted to hit an American aircraft carrier and a destroyer over the weekend, resulting in a U.S. response in which the U.S. sank one tanker and permanently disabled two more.
+For Subscribers
+FOR SUBSCRIBERS
+Locals called their town ‘Almost Heaven’. A plan to open a Buc-ee’s exposed its underbelly.
+FOR SUBSCRIBERS
+Outrage, backlash and inaction: Why can’t America stop rape on college campuses?
+FOR SUBSCRIBERS
+France shuts down nearly 900 schools as violent student protests escalate
+FOR SUBSCRIBERS
+This voting bloc holds the key to the midterms
+FOR SUBSCRIBERS
+Florida Democrats try to regain their mojo after years of Republican dominance
+FOR SUBSCRIBERS
+Justice Department tells employees to adopt Trump’s AI rebrand
+FOR SUBSCRIBERS
+U.S. housing market sets a grim record as sellers swamp buyers
+FOR SUBSCRIBERS
+Texts show worried Cornell fraternity brothers coordinating responses as accusations came to light
+FOR SUBSCRIBERS
+Former Olympic canoeist asks government watchdogs to probe ‘nightmare’ Reflecting Pool case
+FOR SUBSCRIBERS
+A psychedelic drug could soon get approved in the U.S. What should the rules be?
+FOR SUBSCRIBERS
+The Data Dive: Steve Kornacki on how Kansas became a surprise midterm battleground
+FOR SUBSCRIBERS
+Baltic nations brace for Russian attacks as border threats escalate
+FOR SUBSCRIBERS
+Latino voters feel buyer’s remorse in battleground Texas
+FOR SUBSCRIBERS
+Tips came in just minutes after Cornell alerted students to an alleged sex assault at a frat house
+FOR SUBSCRIBERS
+What’s on the Supreme Court’s docket this term?
+For Subscribers
+FOR SUBSCRIBERS
+Locals called their town ‘Almost Heaven’. A plan to open a Buc-ee’s exposed its underbelly.
+FOR SUBSCRIBERS
+Outrage, backlash and inaction: Why can’t America stop rape on college campuses?
+FOR SUBSCRIBERS
+France shuts down nearly 900 schools as violent student protests escalate
+FOR SUBSCRIBERS
+This voting bloc holds the key to the midterms
+FOR SUBSCRIBERS
+Florida Democrats try to regain their mojo after years of Republican dominance
+FOR SUBSCRIBERS
+Justice Department tells employees to adopt Trump’s AI rebrand
+FOR SUBSCRIBERS
+U.S. housing market sets a grim record as sellers swamp buyers
+FOR SUBSCRIBERS
+Texts show worried Cornell fraternity brothers coordinating responses as accusations came to light
+FOR SUBSCRIBERS
+Former Olympic canoeist asks government watchdogs to probe ‘nightmare’ Reflecting Pool case
+FOR SUBSCRIBERS
+A psychedelic drug could soon get approved in the U.S. What should the rules be?
+FOR SUBSCRIBERS
+The Data Dive: Steve Kornacki on how Kansas became a surprise midterm battleground
+FOR SUBSCRIBERS
+Baltic nations brace for Russian attacks as border threats escalate
+FOR SUBSCRIBERS
+Latino voters feel buyer’s remorse in battleground Texas
+FOR SUBSCRIBERS
+Tips came in just minutes after Cornell alerted students to an alleged sex assault at a frat house
+FOR SUBSCRIBERS
+What’s on the Supreme Court’s docket this term?
+Iran also threatened to target oil tankers in Kuwait and Bahrain in retaliation for the U.S. strikes Tuesday.
+“Following the actions of the American military in targeting several Iranian oil tankers, we warn all oil tanker crews in the areas around the ports of Kuwait and Bahrain, which are hosting these forces and are complicit in their actions, to immediately evacuate their vessels, whether they are at anchor or docked as they will be targeted,” the IRGC’s navy
+said in a statement
+posted by Fars.
+The Strait of Hormuz, the vital waterway through which some 20% of the world’s oil flowed before the war, has become the key battleground in the conflict as both the U.S. and Iran have attacked tankers.
+The Trump administration on Tuesday also imposed sanctions on additional elements of Iran’s aviation industry, targeting more than two dozen commercial and private airlines, as well as foreign cargo service providers, in its new push to isolate Tehran from its remaining trading partners.
+A U.S. blockade of Iranian ports has squeezed the country’s economy by limiting its oil exports, while the American military has been helping a limited number of ships transit on a route through the Strait of Hormuz off Oman. Tehran wants ships to follow a route that it chooses through the strait, which was considered an international waterway before the war.
+Share
+Add
+NBC News
+to Google
+Gordon Lubold
+Gordon Lubold is a national security reporter for NBC News.
+Babak Dehghanpisheh
+Babak Dehghanpisheh is an NBC News Digital international editor based in New York.
+The Associated Press
+contributed
+.
+About
+Contact
+Help
+Careers
+Ad Choices
+Privacy Policy
+Your Privacy Choices
+CA Notice
+Terms of Service
+NBC News Subscription Terms of Service
+NBC News Sitemap
+Closed Captioning
+Subscribe
+Advertise
+NBC Selected
+© 2026 NBCUniversal Media, LLC
+NBC News Logo
+Today Logo

@@ -1,0 +1,88 @@
+URL:         https://manassa.news/en/news/34232
+Кінцевий:    https://manassa.news/en/news/34232
+Заголовок:   Egypt’s wheat imports drop 77% in September
+Дата публ.:  2026-10-04
+Завантажено: 2026-10-07 10:10 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 27201
+Оригінал:    raw/147-manassa.news-34232.html
+sha256:      ac181c179e6f9034e25442dce514bf644bdece3c3b69f078e0724b431f063825
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 5
+==============================================================================
+Egypt’s wheat imports drop 77% in September | Al Manassa
+Combating Harassment & Promoting Justice
+Facebook account of Mohamed Abdallah
+Egyptian wheat, April 22, 2012.
+Sunday, October 4, 2026 - 16:05
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Egypt’s wheat imports drop 77% in September | Al Manassa
+Main navigation
+Home
+Search
+Add Story
+Sign in
+النسخة العربية
+Secondary Navigation
+Combating Harassment & Promoting Justice
+Facebook account of Mohamed Abdallah
+Egyptian wheat, April 22, 2012.
+Egypt’s wheat imports drop 77% in September
+News_
+Enas Hussein
+Published
+					Sunday, October 4, 2026 - 16:05
+Share
+Share on Facebook
+Share on X
+Share on WhatsApp
+Share on LinkedIn
+Share on Reddit
+Share via Email
+Copy link
+متاح أيضا بالعربية
+Egypt’s wheat imports dropped 76.6% in September to 362,512 tons, down from 1.548 million tons in September 2025,
+according to a Commodity Exchange document reviewed by
+Al Manassa
+. The state’s General Authority for Supply Commodities received no shipments during the month.
+The sharp decline comes amid ongoing disruptions in the Black Sea market, where Russia and Ukraine serve as two of the world’s top wheat suppliers. The regional conflict and subsequent export reductions pushed local flour prices up by about 3,000 Egyptian pounds (about $57) per ton since early August, as
+Al Manassa
+monitored
+last month.
+“The drop in wheat imports is driven mainly by a $75 per ton surge in global prices since early July due to the Russian-Ukrainian war and the resulting sharp drop in their exports,” Hisham Soliman, manager of Mediterranean Star Trading and Grain Import Company, told
+Al Manassa
+.
+According to the Commodity Exchange document, Russia topped the list of exporters to the local market during September with 142,656 tons (39.4% of total monthly imports), followed by Ukraine with 132,784 tons (36.6%), Romania with 55,669 tons (15.3%), and Canada with 31,403 tons.
+Egypt
+relied on
+Russia and Ukraine to secure about 80% of its imported wheat needs during the first half of the current year, importing about 4.5 million tons from Russia alone during that period.
+Soliman explained that the quantities the government collected from the local wheat harvest contributed to reducing its import needs for now, noting that the state has not imported wheat for about three months.
+A stronger dollar against the pound is another key factor weighing on imports, Soliman noted
+, alongside widespread caution among private importers. Buyers hesitate to purchase large quantities out of fear that a potential peace settlement between Russia and Ukraine could spark a global price drop and leave them holding devalued inventory, a dynamic that has also contributed to lower overall consumption demand
+.
+Soliman pointed out that wheat prices rose from about $245 per ton at the beginning of July to $275, before reaching about $320 per ton, explaining that prices could decline by about $50 per ton
+if Russia and Ukraine reach a settlement
+.
+Despite the September drop, total wheat imports from the beginning of the year through the end of September increased by about 1.9%, reaching roughly 9.026 million tons compared with about 8.862 million tons during the same period last year, according to the document.
+Egypt’s total wheat imports reached about
+12.5 million tons
+in the 2025/26 fiscal year, according to Minister of Agriculture and Land Reclamation Alaa Farouk. Those imports covered approximately 62% of domestic consumption, which stands at
+an estimated 20.4 million
+tons annually.
+The country’s
+state-subsidized bread program
+alone requires roughly 8.6 million tons of grain annually.
+Sections
+News
+Politics
+Urban & Economy
+Society
+Culture
+Viewpoints
+Science & Technology
+Footer Menu

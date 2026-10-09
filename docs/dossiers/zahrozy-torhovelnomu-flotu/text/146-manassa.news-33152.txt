@@ -1,0 +1,46 @@
+URL:         https://manassa.news/en/news/33152
+Кінцевий:    https://manassa.news/en/news/33152
+Заголовок:   Russian port restrictions threaten Egyptian wheat supply chains
+Дата публ.:  2026-07-30
+Завантажено: 2026-10-07 10:10 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 31776
+Оригінал:    raw/146-manassa.news-33152.html
+sha256:      85659e856b48cbf5eede4dde81c998f823569f9c13adb20aa5f6324dce18c827
+Витяг:       trafilatura
+
+==============================================================================
+# Russian port restrictions threaten Egyptian wheat supply chains
+
+Egypt’s wheat supply chain is facing fresh disruption after Russia restricted truck deliveries at three Black Sea terminals that supply the country’s grain, as escalating drone attacks threaten regional shipping routes, * Reuters* reported, citing five grain industry sources.
+
+The affected facilities — the NZT and KSK terminals in Novorossiysk and the ZTKT terminal in Taman — together handle more than 20 million tons of grain a year, over 40% of Russia’s total seaborne grain exports, and serve major buyers including Egypt and Turkey.
+
+Port-level figures indicate the scale of Egypt-bound wheat traffic passing through the affected terminals. [Novorossiysk](https://portnews.ru/news/388999/) port shipped 1.5 million tons of wheat to Egypt in January and February 2026, while [Taman](https://www.kommersant.ru/doc/8463081) shipped 29,300 tons between Jan. 1 and Feb. 26. Together, the affected terminals in both ports supplied about 1.53 million tons within two months, equivalent to roughly 12% of [Egypt’s annual import requirement](https://www.fas.usda.gov/data/gain/2026/03/egypt-grain-and-feed-annual).
+
+Russia had also restricted navigation through the Sea of Azov earlier this month after Ukrainian drones struck several Russian grain vessels. The route normally carries about a quarter of the country’s grain exports.
+
+The disruption threatens to raise freight costs or delay shipments to Egypt, which relies heavily on Black Sea wheat. In the first half of 2026, Russia supplied Egypt with [4.5 million tons](https://portnews.ru/news/393683/) of wheat, compared with [3.9 million tons](https://english.nv.ua/business/egypt-becomes-largest-importer-amid-decline-in-ukraine-wheat-exports-50622766.html) from Ukraine.
+
+At the close of the fiscal year in June 2026, Egypt’s total wheat imports [reached 12.5 million tons](https://english.ahram.org.eg/NewsContentP/3/571233/Business/Egypt-reduces-wheat-imports-amid-rising-domestic-p.aspx), according to Agriculture and Land Reclamation Minister Alaa Farouk. Imports therefore represented around 61% of the country’s annual wheat consumption of approximately [20.3 million tons](https://www.fas.usda.gov/data/gain-report/2026/03/Grain%20and%20Feed%20Annual_Cairo_Egypt_EG2026-0002.pdf). The subsidized bread program alone requires an estimated [8.6 million tons](https://english.aawsat.com/business/5269778-egypt-aims-self-sufficiency-wheat-subsidized-bread-2028-minister-says).
+
+*Al Manassa* [reported in April](/news/31572) that Egypt imported a total of about 5.7 million tons of wheat in the first four months of 2026, a 10% year-on-year decline. The Future of Egypt Authority for Sustainable Development, the [newly reorganized](/en/news/33120) government buyer, procured 2.7 million tons for the General Authority for Supply Commodities, while private importers bought about 3 million tons.
+
+The port of Kavkaz is essential for ship-to-ship grain transfers, including Egypt-bound wheat, from smaller vessels to larger ships capable of sailing to overseas markets. Trade records document [Egypt-bound wheat passing through Kavkaz](https://portnews.ru/news/393683/) as recently as July 2026, but the port closed shortly after Russia imposed the navigation restrictions.
+
+The increased risk has led Russian exporters to consider Baltic ports as a safer alternative route. The Caspian Sea could also carry some shipments, but it cannot act as a direct substitute for Egypt-bound cargo because it is landlocked, and would require additional overland transport through Iran before reaching the Mediterranean.
+
+## Scrutiny over grain origins
+
+The disruption also highlights a more opaque element of the Russian-controlled supply network serving Egypt. Ukrainian authorities and investigative outlets have documented grain from Russian-occupied Ukrainian territories entering international export routes and mixing with supplies marketed abroad as Russian wheat. This is separate from the 2.1 million tons that Egypt imports openly from Ukraine under conventional contracts.
+
+An *OCCRP* investigation [published](https://www.occrp.org/en/scoop/russian-company-behind-egypt-wheat-cargo-had-history-of-selling-stolen-ukraine-grain) in February 2025 found that the bulk carrier Mikhail Nenashev delivered 24,290 tons of wheat to Alexandria designated for the “Minister of Defense/Future of Egypt.”
+
+*Ukrainian Shipping Magazine* has since [tracked](https://en.usm.media/bulk-carrier-with-stolen-grain-from-occupied-mariupol-is-being-unloaded-in-egypt/) further cargoes it reported originated in Russian-occupied territory before reaching Egyptian ports. The outlet reported that [the carrier Victoria K](https://en.usm.media/another-ship-with-stolen-grain-heads-from-mariupol-to-egypt/) arrived in Alexandria in March 2026 after loading about 7,400 tons of wheat in occupied Mariupol and calling at Russia’s Temryuk port for paperwork without loading additional cargo.
+
+That same month, the outlet [tracked another carrier](https://en.usm.media/another-ship-with-stolen-grain-heads-from-mariupol-to-egypt/), the Victoria V, which it said loaded about 7,000 tons in Mariupol before listing Alexandria as its destination.
+
+Most recently, *Ukrainian Shipping Magazine* [reported](https://en.usm.media/bulk-carrier-with-stolen-grain-from-occupied-mariupol-is-being-unloaded-in-egypt/) on July 20 that the sanctioned vessel Novaya Zemlya, carrying nearly 20,000 tons of wheat loaded at occupied Feodosia, changed its declared destination from Famagusta, Cyprus, and appeared off Alexandria. Ukraine’s military-intelligence sanctions database [lists the vessel](https://war-sanctions.gur.gov.ua/en/transport/ships/1087) for calling at occupied ports and “transporting grain from occupied Ukrainian territory, specifically the ports of Feodosia and Sevastopol.”
+
+Ukraine’s foreign ministry [formally raised](https://mfa.gov.ua/en/news/oleksandr-mishchenko-proviv-zustrich-z-poslom-yegiptu-barakatom-ellejti) the vessel’s case with Egyptian ambassador Barakat Elleithy on July 21. Elleithy said Egypt would not accept vessels carrying stolen Ukrainian grain and agreed to coordinate with Kyiv on such shipments. Yet Automatic Identification System (AIS) data showed the Novaya Zemlya entered El-Dekheila port [that same day](https://www.vesselfinder.com/vessels/details/9549281) and did not leave until July 25. *Al Manassa* was unable to verify by the time of publication whether the vessel unloaded its cargo on Egyptian soil after the Ukrainian notification.
+
+This gap matters legally. Under [Articles 40–41](https://legal.un.org/ilc/texts/instruments/english/draft_articles/9_6_2001.pdf) of the International Law Commission’s 2001 Articles on Responsibility of States for Internationally Wrongful Acts, states have a duty not to recognize, or assist in maintaining, situations created by serious breaches of peremptory norms. If Egypt accepted the grain after being notified that it was pillaged from occupied Ukrainian territory, it could be liable for wrongful recognition and aid or assistance in maintaining an internationally unlawful situation, namely Russia’s unlawful [exploitation](https://www.projectexpeditejustice.org/investigative/grand-theft) of resources from occupied Ukrainian territory.

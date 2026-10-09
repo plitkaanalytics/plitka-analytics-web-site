@@ -1,0 +1,154 @@
+URL:         https://ambrey.com/operations/event/jwla-035-why-the-whole-black-sea-is-now-a-listed-area/
+Кінцевий:    https://ambrey.com/operations/event/jwla-035-why-the-whole-black-sea-is-now-a-listed-area/
+Заголовок:   JWLA-035: Why the Whole Black Sea Is Now a Listed Area
+Дата публ.:  2026-09-23
+Завантажено: 2026-10-07 09:36 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 187216
+Оригінал:    raw/84-ambrey.com-jwla-035-why-the-whole-black-sea-is-now-a-listed-area.html
+sha256:      0271e49141aef2e9168b96f8a41ca94347355c6e42e185c0a3e57f4407a8fa0e
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 10
+==============================================================================
+Why the Whole Black Sea Is Now a Listed Area | Ambrey
+Integrated Lloyd’s insurance cover
+Ambrey will be in Singapore to connect with clients and partners.
+JWLA-035: Why the Whole Black Sea Is Now a Listed Area
+Sign up to the GOC to continue reading…
+GOC Fleet/Vessel Registration offers you access to our full suite of services, plus a number of inclusive services. if you’re already a member/registered for the GOC then you will have received this article/alert in your emails
+Keep up to date with Ambrey news
+Registered in England & Wales, Company No. 10222741
+Global Operations Centre – Registration
+I would like to recieve marketing information
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Why the Whole Black Sea Is Now a Listed Area | Ambrey
+Skip to content
+Ambrey
+Services
+Services
+Back
+Global Operations Centre
+Register Here
+Risk Analytics
+Advanced analysis
+Loss Prevention
+Prevention & Response
+Offshore Capability
+Safety & Security
+AGS Insurance
+Integrated Lloyd’s insurance cover
+Subsea Cable Protection
+Security Services
+Quick Service Links
+Analyst Assessments
+Guardian Watchkeeper
+Sentinel & ECDIS
+War Risk Insurance
+Risk Resilience Training
+GUARDIAN
+SPILLASIA 2026
+Ambrey will be in Singapore to connect with clients and partners.
+23-25 SEP
+Company
+Company
+Back
+About us
+Compliance
+Memberships & Partners
+Careers
+Contact
+Contact
+Home
+JWLA-035: Why the Whole Black Sea Is Now a Listed Area
+JWLA-035: Why the Whole Black Sea Is Now a Listed Area
+Black Sea
+23 September, 10:00 UTC
+Date issued: 23rd September 2026
+This document has been approved for distribution by Ambrey Analytics Ltd.
+“
+Ambrey assesses that JWLA-035 reflects a war that has already expanded beyond Russian and Ukrainian waters, and that the listing follows the threat rather than anticipating it.
+In the 12 months to 21 September 2026, 45 merchant vessels were struck outside the previously listed area, against none in the preceding 12 months; 33 of those strikes came in the last three months alone. With strikes on ports up from 21 to 139 quarter-on-quarter and neither belligerent accepting a maritime truce, Ambrey assesses it is HIGHLY LIKELY that the open Black Sea will remain a contested operating environment for the foreseeable future.”
+EXECUTIVE SUMMARY
+On 16 September 2026, the Joint War Committee (JWC) issued JWLA-035, extending the Black Sea listed area from the waters off Russia and Ukraine to the whole of the Black Sea, excluding the territorial waters of Türkiye, Romania, Bulgaria and Georgia.
+The expansion of the JWLA is largely driven by the losses the industry suffered in 2026.
+Ambrey’s four-year war-risk record supports the decision. In the 12 months to 21 September 2026, 45 merchant vessels were struck outside the previously listed area, compared with none in the preceding 12 months. 31 of those strikes occurred after 1 July 2026.
+The attacks have moved offshore. Ukraine-attributed strikes on Russia-linked shipping took place at a median of approximately 58NM from the nearest coast, predominantly off Türkiye’s north coast and in the open sea south of Novorossiysk and Sochi, waters that lay outside the previous boundary.
+Merchant vessels struck in the legacy listed area rose from an average of four per month in the fourth year of the war to 28 per month in the fifth year to date. This turned the legacy area into a target-poor environment as owners/operators withdrew the vessels from the area.
+Due to increased threat, vessels adapted their approaches to Russian ports and drifting positions. These changes and the increases in volume of direct strikes partially contributed to the losses outside of the legacy listed area.
+Unexploded ordnance (UXO) discoveries outside Russian and Ukrainian waters rose from 11 to 65 year on year (+491%), averaging 7.7 per month in 2026 against 1.2–1.7 per month in each of the previous four war years. UAVs and USVs have replaced sea mines as the dominant floating hazard.
+The exclusion of adjacent territorial waters should not be read as an absence of risk. The Romanian, Bulgarian and Turkish coasts continue to record the highest density of UXO finds, and at least one tanker was struck approximately 11.6NM north of the Bosphorus.
+Ambrey assesses it is HIGHLY LIKELY that the conditions which prompted the expansion will persist through the remainder of 2026, and that the listing will not be reduced in the near term.
+SITUATION
+The maritime domain of the conflict has entered its most intense phase since February 2022. Both belligerents have industrialised the production of Unmanned Aerial Vehicles (UAVs) and Unmanned Surface Vehicles (USVs) and are using them against opposition-affiliated maritime trade, rather than primarily against naval targets.
+Russia has sustained a campaign against the Ukrainian export corridor, striking the Greater Odesa ports, the Danube ports of Izmail and Reni, and merchant vessels in port, at anchor and underway. Ukraine has expanded a campaign against the Russian export system, striking Russian ports and terminals and, since late November 2025, merchant vessels trading to and from Russian ports in the open sea, including tankers assessed to be part of the “shadow fleet” and, since July 2026, dry bulk, general cargo, container and Ro-Ro vessels.
+Sign up to the GOC to continue reading…
+GOC Fleet/Vessel Registration offers you access to our full suite of services, plus a number of inclusive services. if you’re already a member/registered for the GOC then you will have received this article/alert in your emails
+Register for GOC
+Keep up to date with Ambrey news
+Email
+(Required)
+Submit
+Ambrey
+LinkedIn
+X
+Facebook
++44 (0)20 3503 0320
+enquiries@ambrey.com
+for every seafarer,
+every vessel, everywhere
+Solutions
+Global Operations Centre
+Risk Analytics
+Loss Prevention
+Offshore Capability
+AGS Insurance
+Company
+About
+Compliance
+Careers
+Partners
+Privacy Policy
+GOC Terms & Conditions
+Complaints Procedure
+Registered in England & Wales, Company No. 10222741
+© 2026 Ambrey
+Global Operations Centre – Registration
+"
+*
+" indicates required fields
+First Name
+*
+Last Name
+*
+Email
+*
+Mobile Phone Number
+Company Name
+*
+Industry
+*
+Shipping
+Financial Services
+Government
+Insurance
+Legal Services
+Maritime
+Oil & Energy
+Online Media
+Subsea Telco/Cables
+Technology
+Industry Type
+*
+Country/Region
+*
+Your Message
+Marketing
+I would like to recieve marketing information
+Captcha
+Submit Request
+Close modal

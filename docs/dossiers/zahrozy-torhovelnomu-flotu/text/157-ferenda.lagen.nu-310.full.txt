@@ -1,0 +1,66 @@
+URL:         https://ferenda.lagen.nu/icrc/310
+Кінцевий:    https://lagen.nu/icrc/310
+Заголовок:   London Treaty on Limitation and Reduction of Naval Armaments, 1930 – Treaty for the Limitation and Reduction of Naval Armaments, (Part IV, Art. 22, relating to submarine warfare). London, 22 April 193
+Дата публ.:  не вказана на сторінці
+Завантажено: 2026-10-07 14:51 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 8256
+Оригінал:    raw/157-ferenda.lagen.nu-310.html
+sha256:      41fc85426d0668f51398ae7e7f45b9f39ac684d0068fa2fbca914e18d2584a0e
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 3
+==============================================================================
+London Treaty on Limitation and Reduction of Naval Armaments, 1930 – Treaty for the Limitation and Reduction of Naval Armaments, (Part IV, Art. 22, relating to submarine warfare). London, 22 April 1930. | lagen.nu
+London Treaty on Limitation and Reduction of Naval Armaments, 1930
+United Kingdom of Great Britain and Northern Ireland
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+London Treaty on Limitation and Reduction of Naval Armaments, 1930 – Treaty for the Limitation and Reduction of Naval Armaments, (Part IV, Art. 22, relating to submarine warfare). London, 22 April 1930. | lagen.nu
+lagen
+.nu
+Sök lag, paragraf, rättsfall…
+⌘K
+Lagar
+Rättsfall
+Förarbeten
+Myndigheter
+EU-rätt
+Folkrätt
+Begrepp
+Om
+Nyheter
+London Treaty on Limitation and Reduction of Naval Armaments, 1930
+Treaty for the Limitation and Reduction of Naval Armaments, (Part IV, Art. 22, relating to submarine warfare). London, 22 April 1930.
+Titel
+Treaty for the Limitation and Reduction of Naval Armaments, (Part IV, Art. 22, relating to submarine warfare). London, 22 April 1930.
+ICRC-nummer
+310
+Antagen
+1930-04-22
+Ikraftträdande
+1930-12-31
+I kraft
+Ja
+Depositarie
+United Kingdom of Great Britain and Northern Ireland
+Ämnen
+Naval and Air Warfare
+Autentiska språk
+English, French
+Antal parter
+22
+Källa
+ihl-databases.icrc.org
+The Powers which have signed the abortive Treaty of Washington of 1922 relating to the use of Submarines and Noxious Gases in Warfare, concluded the Treaty of London for the Limitation and Reduction of Naval Armaments of 22 April 1930. Article 22 deals with the use of submarines in warfare. It was laid down in the Treaty that this Article - being declaratory of international law - should remain in force without limit of time (Article 23). Accordingly, when the Treaty of 1930 expired on 31 December 1936, Article 22 remained in force. However, in view of the last paragraph of Article 22, which states that the Contracting Parties invite all others Powers to express their assent to the rules embodied in this Article, a procès-verbal was signed on 6 November 1936 which incorporates verbatim the provisions of Article 22 of the Treaty of 1930. A considerable number of States acceded to this procès-verbal.
+Article 22
+Art. 22. The following are accepted as established rules of international law:
+(1) In their action with regard to merchant ships, submarines must conform to the rules of international law to which surface vessels are subject.
+(2) In particular, except in the case of persistent refusal to stop on being duly summoned, or of active resistance to visit or search, a warship, whether surface vessel or submarine, may not sink or render incapable of navigation a merchant vessel without having first placed passengers, crew and ship's papers in a place of safety. For this purpose the ship's boats are not regarded as a place of safety unless the safety of the passengers and crew is assured, in the existing sea and weather conditions, by the proximity of land, or the presence of another vessel which is in a position to take them on board.
+The High Contracting Parties invite all other Powers to express their assent to the above rules.
+Innehåll
+Sök
+Kontext

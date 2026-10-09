@@ -1,0 +1,37 @@
+URL:         https://github.com/iMariner/maritime-security-tracker/issues/63
+Кінцевий:    https://github.com/iMariner/maritime-security-tracker/issues/63
+Заголовок:   Verify INC-20261006-007: drone (UAV), Black Sea · Issue #63 · iMariner/maritime-security-tracker
+Дата публ.:  2026-10-06
+Завантажено: 2026-10-07 09:36 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 242978
+Оригінал:    raw/95-github.com-63.html
+sha256:      971a8cba1a8b262c5508fd6d8bec9409a5a425b660dc9a37a17e854faa1884a6
+Витяг:       trafilatura
+
+==============================================================================
+**INC-20261006-007** · status `reported` · region Black Sea
+
+**What was reported:** Odesa regional authorities said a Russian drone struck a Marshall Islands-flagged commercial vessel loaded with rapeseed oil in the Black Sea, setting the superstructure on fire and killing one person and injuring seven. Other reports said two foreign nationals were killed and three Indians were safe, and that a sailor died in a strike on a foreign vessel.
+
+- Vessel: unknown (IMO unknown, flag Marshall Islands, general cargo)
+- When: 2026-10-06
+- Where: Black Sea (Odesa region, Ukraine) (43.4, 34.5)
+- Attack type: drone (UAV)
+- Conflicting accounts: yes
+
+**Sources so far:**
+
+
+Reply with one comment starting with a verdict line. Only the repo owner and accounts in the `VERIFIERS` variable are accepted:
+
+```
+/verdict confirmed | reported | claimed | rejected
+vessel_name: ...      (optional corrections, one per line)
+imo: ...
+source: https://...   (evidence you used; repeatable)
+note: one line on why
+```
+
+INC-20261006-007· status`reported`· region Black SeaWhat was reported:Odesa regional authorities said a Russian drone struck a Marshall Islands-flagged commercial vessel loaded with rapeseed oil in the Black Sea, setting the superstructure on fire and killing one person and injuring seven. Other reports said two foreign nationals were killed and three Indians were safe, and that a sailor died in a strike on a foreign vessel.Sources so far:Reply with one comment starting with a verdict line. Only the repo owner and accounts in the
+
+`VERIFIERS`variable are accepted:

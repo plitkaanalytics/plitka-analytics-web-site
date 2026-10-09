@@ -1,0 +1,76 @@
+URL:         https://news.liga.net/en/politics/news/no-traffic-to-the-west-of-odesa-region-after-russian-attack-on-mayaky-what-are-the-alternative-routes
+Кінцевий:    https://news.liga.net/en/politics/news/no-traffic-to-the-west-of-odesa-region-after-russian-attack-on-mayaky-what-are-the-alternative-routes
+Заголовок:   No traffic to the west of Odesa region after Russian attack on Mayaky: what are the alternative routes?
+Дата публ.:  2025-12-19
+Завантажено: 2026-10-09 07:34 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 111908
+Оригінал:    raw/193-news.liga.net-no-traffic-to-the-west-of-odesa-region-after-russian-att.html
+sha256:      84ed47e78be752d42d13f1dec31add46e5ba655e859d69bd8955fa15d654f0e3
+Витяг:       trafilatura
+
+==============================================================================
+# No traffic to the west of Odesa region after Russian attack on Mayaky: what are the alternative routes?
+
+[Artem Dzheripa](https://www.liga.net/en/author/artem-dzheripa)
+
+Due to the Russian attack near the village of Mayaki in Odesa region, there is no vehicular traffic to settlements and border crossing points in the west of the region. Instead, the authorities have published a list of available border crossings in Vinnytsia and Chernivtsi regions. This is stated in [publication](https://t.me/MinDevUA/12772) by Ministry of Communities and Territories Development.
+
+"Due to the Russian attack near the village of Mayaki, traffic on the Odesa-Reni highway has been temporarily suspended. This means that traffic to checkpoints and settlements in the western part of Odesa region is currently not carried out," the statement said.
+
+The Ministry noted that it is currently working with local authorities and relevant bodies to explore possible options to provide alternative transportation in the region.
+
+### Inaccessible checkpoints in Odesa region and accessible in Vinnytsia and Chernivtsi regions
+
+The agency noted that traffic is currently blocked, in particular, to the following checkpoints:
+
+→ Reni – Giurgiulesti;
+
+→ Tobacco – Mirne;
+
+→ Vynohradivka – Vulcanesti;
+
+→ Maloyaroslavets – Chadyr Lunga 1;
+
+→ August – Bessarabia;
+
+→ New Trojans – Chadyr Lunga;
+
+→ Starokozache – Tudora;
+
+→ Orlivka – Isakcha.
+
+The Ministry added that it is in contact with the competent authorities of Moldova to redirect the vehicles to available checkpoints.
+
+The authorities clarified that checkpoints in Chernivtsi and Vinnytsia regions are now available for trucks and buses:
+
+→ Mamalyga – Kryva;
+
+→ Sokyryany – Oknytsia;
+
+→ Rososhany – Brichen;
+
+→ Mohyliv-Podilskyi – Otach (however, this checkpoint is overloaded).
+
+"The eCherha system works for both trucks and buses leaving Ukraine," the statement said.
+
+### Instructions for freight transport
+
+The Ministry of Internal Affairs noted that trucks that were planning to cross the border in Odesa region and are being redirected to alternative checkpoints need to:
+
+→ make changes to the customs declaration regarding the border crossing point;
+
+→ register in the eCherha system for the required item.
+
+"We would also like to inform you that no violations of the use of eCherha in terms of canceling entries have been recorded at the checkpoints in Odesa region. Therefore, carriers can cancel queues without the risk of restrictions," the agency emphasized.
+
+### For carriers traveling to Moldova
+
+The authorities point out that carriers traveling to Moldova need to select the appropriate checkpoint when registering with eCherha: "In the absence of a permit for a regular route through these checkpoints, a one-time permit or an Interbus logbook can be used for registration."
+
+The Ministry of Regional Development also explained that the checkpoints in Odesa region are operating normally, but traffic is currently limited.
+
+Updates on the operation of border crossing points appear on the official resources of the Border Guard and Customs Services.
+
+- In the evening of December 18 [Russians struck with a drone](https://news.liga.net/en/politics/news/russians-killed-a-woman-and-injured-children-by-hitting-a-car-on-a-bridge-in-odesa-region-the-highway-is-blocked)a car driving across a bridge near the village of Mayaki – a woman died from injuries and her three children were hospitalized. The attack blocked the highway in the area of the Dniester estuary near Mayaki, and travel to Moldova is difficult.
+
+## Comments (0)

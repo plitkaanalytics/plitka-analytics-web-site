@@ -1,0 +1,32 @@
+URL:         https://www.ukrinform.ua/rubric-world/4171230-dron-uraziv-zernovoz-u-cornomu-mori-poblizu-rumunii-e-zagibli-sudno-zatonulo.html
+Кінцевий:    https://www.ukrinform.ua/rubric-world/4171230-dron-uraziv-zernovoz-u-cornomu-mori-poblizu-rumunii-e-zagibli-sudno-zatonulo.html
+Заголовок:   Дрон уразив зерновоз у Чорному морі поблизу Румунії: є загиблі, судно затонуло
+Дата публ.:  2026-10-05
+Завантажено: 2026-10-07 09:20 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 60816
+Оригінал:    raw/65-ukrinform.ua-4171230-dron-uraziv-zernovoz-u-cornomu-mori-poblizu-rumun.html
+sha256:      c82dfbc732a2b832a7b732ef2a95e2f3ef44438c21d0efd7a80fe6657aed56de
+Витяг:       trafilatura
+
+==============================================================================
+# Дрон уразив зерновоз у Чорному морі поблизу Румунії: є загиблі, судно затонуло
+
+Про це повідомляє [Romania Journal](https://www.romaniajournal.ro/society-people/ship-hit-by-drone-near-romanias-neptun-deep/), передає Укрінформ.
+
+Зазначається, що в понеділок біля узбережжя Чорного моря, неподалік від морської газової платформи Pescăruș (яку експлуатує компанія OMV Petrom), безпілотник влучив у судно під турецьким прапором Royad Mammadov, яке перевозило зерно.
+
+Судно загорілося й затонуло, а румунська сторона взяла участь у рятувальній операції.
+
+Як повідомило Міністерство внутрішніх справ Румунії, двоє людей загинули, а 11 членів екіпажу вдалося врятувати.
+
+Інцидент стався за 20 морських миль від узбережжя [Румунії ](https://www.ukrinform.ua/tag-rumunia)та за 9 морських миль від платформи Pescăruș.
+
+За словами журналістки Digi24 Юлії Станчу, тривогу оголосили близько 11:00, коли Румунське управління морського флоту отримало повідомлення про серйозну подію, що трапилася за межами територіальних вод Румунії.
+
+**Читайте також:**
+
+[Уражене росіянами біля Одеси судно дрейфує без екіпажу за 40 миль від](/rubric-world/4171185-urazene-rosianami-bila-odesi-sudno-drejfue-bez-ekipazu-za-40-mil-vid-bolgarii-zmi.html)
+
+**Болгар**ії - ЗМІЯк повідомляв Укрінформ, у серпні Румунія піднімала у повітря винищувачі F-16 для знищення морського дрона, виявленого за кількасот метрів від [платформи газового проєкту Neptun Deep](https://www.ukrinform.ua/rubric-world/4156003-rumunia-znisila-morskij-dron-poblizu-platformi-neptun-deep-u-cornomu-mori.html) у Чорному морі.
+
+*Фото: vesselfinder*

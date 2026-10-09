@@ -1,0 +1,118 @@
+URL:         https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/port-shutdowns-push-russia-into-deeper-grain-export-slowdown
+Кінцевий:    https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/port-shutdowns-push-russia-into-deeper-grain-export-slowdown
+Заголовок:   Port shutdowns push Russia into deeper grain export slowdown
+Дата публ.:  2026-08-13
+Завантажено: 2026-10-07 09:37 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 714800
+Оригінал:    raw/107-bairdmaritime.com-port-shutdowns-push-russia-into-deeper-grain-export-.html
+sha256:      f965c4d3edc390c69642516bd35d4a7253bbeac9a3ff539ce3e529a6f5ac7a7c
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 6
+==============================================================================
+Port shutdowns push Russia into deeper grain export slowdown
+Russian exports already down sharply
+Black Sea truce could revive 80 per cent of Russian grain port capacity
+Ukraine and Russia open to limited energy and grain truce, US says
+Russia repurposes Arctic port's fertiliser gear to move grain around Black Sea blockade
+Russia's seaborne grain exports see steep August decline, port disruptions to blame
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Port shutdowns push Russia into deeper grain export slowdown
+SECURITY
+SHIPPING
+OFFSHORE
+WORKBOATS
+PAX/CRUISE
+UNMANNED
+FISHING
+TUGS
+DREDGE/CIVILS
+REGIONS
+REGIONS
+Ausmarine (OCEANIA)
+USA/CANADA
+EUROPE
+ASIA
+MIDDLE EAST/NORTH AFRICA
+LATIN AMERICA
+AFRICA
+POLAR
+MORE
+MORE
+NEWSLETTERS
+SHIPBUILDING
+INLAND WATERS
+BUSINESS & FINANCE
+VESSEL REVIEWS
+YACHTS
+TAXPAYER ABUSE
+GEAR & SERVICES
+SHOP
+Bulkers
+Port shutdowns push Russia into deeper grain export slowdown
+Disruption follows big Ukraine drone attack on Wednesday
+Port of Novorossiysk
+Rosmorport
+Reuters
+Published on
+:
+13 Aug 2026, 6:47 pm
+Copied
+Follow Us:
+Russia will have to further cut grain exports this month after halting loadings at its main ports on the Black and Azov seas, with another terminal announcing on Thursday that it had suspended operations.
+The move by KSK, Russia's largest sea grain terminal, means all three terminals in the Black Sea port of Novorossiysk have now been halted. Two others there - NZT and NKHP - were put out of action on Wednesday after a massive Ukrainian drone attack on the port.
+"The (suspension) decision was made to ensure the safety of staff and infrastructure," KSK owner Delo Group said in a statement. Sources said NKHP's loading gallery sustained severe damage, likely keeping the terminal offline for months, while NZT suffered less damage and could resume operations sooner.
+The sources said KSK has not been damaged. In recent weeks, both Russia and Ukraine have intensified attacks on each other's commercial shipping and ports, driving global grain prices higher.
+"The persistent hopes of a significant number of market participants that the situation in the Azov and Black seas would return to normal have been confronted with the inescapable reality of even greater escalation. The market is severely underestimating this situation," Andrey Sizov, head of the Sovecon agency, told
+Reuters
+.
+He said the terminal suspensions could reduce Russian exports by 0.7 to 1.2 million tonnes in August alone. Ukraine has transmitted an offer to Russia, via a third party,
+for both sides to halt attacks on civilian targets in the Black Sea
+, a source familiar with the matter told
+Reuters
+on Thursday, adding that Kyiv has yet to receive a response.
+Russian exports already down sharply
+Russia's Black Sea ports have become even more critical for exports because of shipping restrictions in the Sea of Azov imposed on July 10 after drone attacks.
+As a result, Russia's seaborne grain exports fell 20.3 per cent year on year in July, according to data from industry sources. Even before the latest disruption, analysts were already predicting that Russian grain exports would hit a 10-year low in August. They estimate that around one million tons of grain have been exported so far this month.
+Ports in the Azov-Black Sea basin handled 88 per cent of Russia's seaborne grain exports last season, including more than 29 million tonnes shipped through Black Sea terminals. Russia's Agriculture Ministry has set up a task force to coordinate the rerouting of farm exports.
+Forecasts cut
+This week's attack on Novorossiysk followed a late-July strike on the Taman Grain Terminal (ZTKT), leaving Russia's main Black Sea grain export corridor operating with significantly reduced capacity.
+Together, KSK, NZT and NKHP account for 24.6 million tonnes of annual throughput, around 75 per cent of Russia's Black Sea grain terminal capacity.
+Russian Grain Union head Arkady Zlochevsky told
+Reuters
+that August shipments may struggle to reach two million tons, compared with 5.7 million tons a year ago. He said the impact of the KSK shutdown would be at least 0.2 million tonnes.
+The attacks on Wednesday have also revived concerns about the vulnerability of Black Sea export infrastructure. Following the July strike on Taman, Russia's Grain Exporters and Producers Union warned that further disruptions could jeopardise shipments of 30 to 35 million tonnes of Russian wheat this season.
+Agrospeaker analyst Vitaly Shamaev estimates Russia's grain exports could fall to 21.7 million tons in 2026/27 under the current circumstances, dropping to 17.5 million tonnes if security risks escalate further. According to estimates by the OZK, grain exports last season exceeded 60 million tonnes.
+Yevgeny Karabanov of the Kazakhstan Grain Union said Russia and Ukraine together could fall short by 30 to 40 million tonnes in the supply of grain to world markets, potentially pushing global food prices 15 per cent to 20 per cent higher.
+"In practice, people in virtually every country will feel the effects of this," Karabanov said.
+(Reporting by Olga Popova and Gleb Stolyarov; Editing by Mark Trevelyan)
+Europe
+Black Sea
+Russia
+Ukraine
+Russia Ukraine War
+Port of Novorossiysk
+Azov Sea
+Follow Us:
+Related Stories
+Black Sea truce could revive 80 per cent of Russian grain port capacity
+Reuters
+25 Sep 2026
+Ukraine and Russia open to limited energy and grain truce, US says
+Reuters
+23 Sep 2026
+Russia repurposes Arctic port's fertiliser gear to move grain around Black Sea blockade
+Reuters
+22 Sep 2026
+Russia's seaborne grain exports see steep August decline, port disruptions to blame
+Reuters
+11 Sep 2026
+Baird Maritime
+Baird Maritime / Work Boat World
+www.bairdmaritime.com
+INSTALL APP

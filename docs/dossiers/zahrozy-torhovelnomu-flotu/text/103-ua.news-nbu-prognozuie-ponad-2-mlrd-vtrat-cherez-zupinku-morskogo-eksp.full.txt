@@ -1,0 +1,206 @@
+URL:         https://ua.news/en/ukraine/nbu-prognozuie-ponad-2-mlrd-vtrat-cherez-zupinku-morskogo-eksportu
+Кінцевий:    https://ua.news/en/ukraine/nbu-prognozuie-ponad-2-mlrd-vtrat-cherez-zupinku-morskogo-eksportu
+Заголовок:   The NBU forecasts losses of more than $2 billion due to the suspension of maritime exports
+Дата публ.:  2026-08-07
+Завантажено: 2026-10-07 09:37 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 105645
+Оригінал:    raw/103-ua.news-nbu-prognozuie-ponad-2-mlrd-vtrat-cherez-zupinku-morskogo-eksp.html
+sha256:      fb7b27b8eba1825e16c0be496fd723c52f6206d7124cc65b0deaadfc684e5e86
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 17
+==============================================================================
+The NBU forecasts losses of more than $2 billion due to the suspension of maritime exports | UA.NEWS
+A woman who was selling hard drugs was caught in the Khmelnytskyi region
+A Frenchman wanted for the enforcement of a sentence was detained in Chernivtsi
+In the Kharkiv region, a man was sentenced to 15 years in prison for attempting to rape a 13-year-old girl
+The Norwegian Council of Churches arrived in Kyiv for a two-day solidarity visit
+In Ukraine, civilians have registered nearly 25,000 firearms
+Holiday on October 7, 2026 — Serhiy Zymovyi: Traditions, Superstitions, and Things You Shouldn't Do
+Catholic Name Days on October 7, 2026: Who Celebrates Their Name Day and the Meanings of the Names
+Use of materials from the websites
+is permitted only if a reference (or, for online publications, a hyperlink) to UA.NEWS is included no later than the third paragraph.
+Use of materials is permitted only upon receipt of written permission from the UA.NEWS editorial board and the mandatory placement of a direct hyperlink to the original publication
+in the first paragraph of the material, which must be open to indexing by search engines.
+Materials marked with the “Advertisement” label are promotional and are published as advertisements. The editorial board may not share the views promoted therein. The editorial staff is not responsible for the facts and opinions published in advertising materials. In accordance with current Ukrainian legislation, the advertiser is responsible for the content of the advertisement.
+Materials in the “Blogs” section represent the personal opinion of the blog author; the editorial staff may not share the author’s views.
+Copyright infringement is prosecuted in accordance with the current legislation of Ukraine and the norms of international law.
+The online media outlet UA.NEWS serves only an audience aged 21 and older. Online media entity; media identifier - R40-05225.
+LLC “NEWS FLASH INFORMATION AGENCY.” All rights reserved.
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+The NBU forecasts losses of more than $2 billion due to the suspension of maritime exports | UA.NEWS
+ua
+en
+ru
+pl
+Email
+Sign In
+Sign Up
+World
+Ukraine
+War with Russia
+Investigations
+Open questions
+Cities that survived
+Kyiv
+Polytics
+Business
+Gambling
+Agro
+Energetics
+IT and Telecom
+Pharmaceuticals
+Logistics and transportation
+Metallurgy
+Analytics
+Finance
+Real estate
+Technologies
+Sport
+Esports
+proLife
+Health
+Culture
+Beauty
+Celebrities
+Autoworld
+Traveling
+Around the World
++21° Kyiv
++18° Warsaw
++8° Washington
+$ 44.91
+€ 50.29
+zł 11.48
+World
+Ukraine
+War with Russia
+Investigations
+Open questions
+Cities that survived
+Kyiv
+Polytics
+Business
+Gambling
+Agro
+Energetics
+IT and Telecom
+Pharmaceuticals
+Logistics and transportation
+Metallurgy
+Analytics
+Finance
+Real estate
+Technologies
+Sport
+Esports
+proLife
+Health
+Culture
+Beauty
+Celebrities
+Autoworld
+Traveling
+Around the World
+more…
+Email
+Sign In
+Sign Up
+en
+ua
+en
+ru
+pl
+$ 44.91
+€ 50.29
+zł 11.48
++21° Kyiv
++18° Warsaw
++8° Washington
+News
+Ukraine
+The NBU forecasts losses of more than $2 billion due to the suspension of maritime exports
+UA NEWS
+07
+                             August
+                             2026
+                             18:18
+The National Bank of Ukraine forecasts that, due to the suspension of maritime exports
+in the second half of 2026
+,
+the country will lose more than
+$2 billion in export revenue
+.
+Currently, cargo is being rerouted to rail, road transport, and Danube ports, but their capacity is insufficient. While Ukraine previously exported
+4–4.5 million metric tons
+of agricultural products per month, alternative routes allow for the export of only about 2
+.5 million metric tons
+.
+The National Bank of Ukraine notes that the rerouting of logistics will also increase farmers’ costs for transportation and storage of their products.
+At the same time, the regulator expects that most of these volumes will be exported in the first half of 2027, which will partially offset current losses.
+Source:
+NBU
+.
+As a reminder, the oilseed market in Ukraine
+has slumped
+following the attacks on ports.
+Cucumbers and vegetables
+used in
+borscht have become cheaper in Ukraine
+.
+National Cashback
+2025–2026: What Has Changed and Where You Can Spend the Money.
+Read us on
+Download our app
+RELATED MATERIALS
+News
+Ukraine
+A woman who was selling hard drugs was caught in the Khmelnytskyi region
+News
+Ukraine
+A Frenchman wanted for the enforcement of a sentence was detained in Chernivtsi
+News
+Ukraine
+In the Kharkiv region, a man was sentenced to 15 years in prison for attempting to rape a 13-year-old girl
+News
+Ukraine
+The Norwegian Council of Churches arrived in Kyiv for a two-day solidarity visit
+News
+Ukraine
+In Ukraine, civilians have registered nearly 25,000 firearms
+News
+Ukraine
+Holiday on October 7, 2026 — Serhiy Zymovyi: Traditions, Superstitions, and Things You Shouldn't Do
+News
+Ukraine
+Catholic Name Days on October 7, 2026: Who Celebrates Their Name Day and the Meanings of the Names
+×
+World
+Ukraine
+Kyiv
+Polytics
+Business
+Technologies
+Sport
+proLife
+Use of materials from the websites
+https://ua.news/
+is permitted only if a reference (or, for online publications, a hyperlink) to UA.NEWS is included no later than the third paragraph.
+Use of materials is permitted only upon receipt of written permission from the UA.NEWS editorial board and the mandatory placement of a direct hyperlink to the original publication
+https://ua.news/
+in the first paragraph of the material, which must be open to indexing by search engines.
+Materials marked with the “Advertisement” label are promotional and are published as advertisements. The editorial board may not share the views promoted therein. The editorial staff is not responsible for the facts and opinions published in advertising materials. In accordance with current Ukrainian legislation, the advertiser is responsible for the content of the advertisement.
+Materials in the “Blogs” section represent the personal opinion of the blog author; the editorial staff may not share the author’s views.
+Copyright infringement is prosecuted in accordance with the current legislation of Ukraine and the norms of international law.
+The online media outlet UA.NEWS serves only an audience aged 21 and older. Online media entity; media identifier - R40-05225.
+LLC “NEWS FLASH INFORMATION AGENCY.” All rights reserved.
+About the Project
+Terms of Use
+Private policy
+Contact the Editorial Team
+×

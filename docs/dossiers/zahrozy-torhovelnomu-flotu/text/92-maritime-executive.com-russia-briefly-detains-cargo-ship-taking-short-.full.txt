@@ -1,0 +1,198 @@
+URL:         https://maritime-executive.com/article/russia-briefly-detains-cargo-ship-taking-short-cut-to-estonia
+Кінцевий:    https://maritime-executive.com/article/russia-briefly-detains-cargo-ship-taking-short-cut-to-estonia
+Заголовок:   Russia Briefly Detains Cargo Ship Bound for Estonia
+Дата публ.:  2026-10-01
+Завантажено: 2026-10-07 09:36 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 142741
+Оригінал:    raw/92-maritime-executive.com-russia-briefly-detains-cargo-ship-taking-short-.html
+sha256:      c5817906c0258f5e08a28959384fd581a948708ecdfc137ca8b76eb8cc79dd65
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 19
+==============================================================================
+Norwegian Authorities Investigating Collision of Three Ships
+UKMTO: Tanker's Engine Room On Fire After Latest Hormuz Attack
+Houthis Face Being Cut Off on Yemeni Coast
+Op-Ed: An America-First Approach in Yemen
+Västerbotten was stopped for an inspection by the Russians but permitted to proceed into Estonia (Navalis Shipping)
+Stay on Top of the Daily Maritime News
+Iran’s Floating Oil Stocks Run Dry
+High Winds Cause STS Crane Runaway at Port of Guam
+USCG Calls Off Search for Survivors of Medical-Flight Crash off Nantucket
+Op-Ed: Europe's Shipping Future Depends on Stronger Ship Management
+Op-Ed: What America Must Change to Make Korean Shipbuilding Matter
+Poten: Sky-High Tanker Rates are Driving Refiners' Oil Buying Decisions
+Op-Ed: People Are the Powerbase of the Shipping Business
+The latest news in your inbox daily.
+Residents of a Norwegian coastal town reported being awoken early Monday morning to a loud boom that turned out to have been a collision between three short sea vessels navigating in one of the coastal fjords on Norway’s west coast. The authorities are trying to sort out the circumstances of the unusual collision between the three ships, which left one taking on water and all three damaged. The collision took place just after 01:30 a.m. October 5, near Alesund. Two...
+Iran has added to a rapidly-expanding list of strikes on energy shipping in the Strait of Hormuz with another attack on a tanker off the Musandam Peninsula. On Monday evening at about 1637 UTC, the master of a tanker informed UKMTO that the vessel was hit by an unknown projectile, sparking a fire in the engine room. The crew was still fighting the fire at the time of the report. No injuries were reported, nor any environmental damage. UKMTO advised...
+Yemen’s Internationally Recognized Government (IRG) has launched Operation Dawn of Yemen across all fronts, with apparently substantial support from allies. The IRG counterattack comes after Houthi forces made a breakthrough down the Tihama coast last month, capturing Mocha, Dhubab and finally Perim Island and the Ras Menhali peninsula, and thus potentially overextending themselves. The IRG’s president, Rashad Al-Alimi, has announced that the objective of Operation Dawn of Yemen is to recapture the capital Sana’a and to end the Houthi insurgency....
+[By Grace Wermenbol] On May 6, 2025, following a weeks-long bombardment on Houthi targets in Yemen, US President Donald Trump declared the fight to be over. The Houthis, “a band of individuals with advanced weaponry that were threatening global shipping”, had – according to the US president – “capitulated” and agreed to halt their attacks on maritime traffic in the Red Sea. In one of the first “America-First” deals of the second Trump administration, the United States had extracted itself...
+© Copyright 2026 The Maritime Executive, LLC. All rights reserved.
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Russia Briefly Detains Cargo Ship Bound for Estonia
+Go
+SUBSCRIBE NOW
+Media Kit
+news
+Features
+Podcasts
+Magazine
+Newsletter
+Advertise
+Directory
+Subscribe
+news
+features
+Podcasts
+magazine
+newsletter
+Jobs
+advertise
+subscribe
+TOP
+STORIES
+Norwegian Authorities Investigating Collision of Three Ships
+Published
+				by
+The Maritime Executive
+UKMTO: Tanker's Engine Room On Fire After Latest Hormuz Attack
+Published
+				by
+The Maritime Executive
+Houthis Face Being Cut Off on Yemeni Coast
+Published
+				by
+The Maritime Executive
+Op-Ed: An America-First Approach in Yemen
+Published
+				by
+The Lowy Interpreter
+3185
+Views
+Russia Briefly Detains Cargo Ship Bound for Estonia
+Västerbotten was stopped for an inspection by the Russians but permitted to proceed into Estonia (Navalis Shipping)
+Published
+					Oct 1, 2026 1:48 PM        		by
+The Maritime Executive
+A small cargo ship sailing from Sweden to Estonia was briefly detained by the Russian authorities for an inspection late on Wednesday, September 30, into Thursday, October 1. The Estonian Broadcasting Corporation (ERR) reported the situation and received confirmation from the Estonian Police and Border Guard Board.
+The
+Västerbotten
+(6,800 dwt) has been owned and operated by a German company since 2013, and according to its AIS track, it was sailing from Monsteras, Sweden, bound for Sillamäe, Estonia, when it was intercepted and stopped for an inspection. The tracking shows the ship making sharp turns and changing course. The ship, which was built in 2008, is registered in Cyprus.
+The Estonian Transport Administration told ERR that it had not received an explanation from the Russian authorities. It can only speculate as to why the vessel was detained and inspected.
+Route of the past 24 hours showing turns as the vessel was stopped for an inspection by Russian authorities (
+Vessel Finder
+)
+The ship’s route is along an internationally recognized corridor and one that Russia, Estonia, and Finland agreed to. It is used by ships to avoid some of the dangers of the coastal waters in Estonia, but in places it skirts and enters the Russian zone. Sillamäe, the authorities noted, is a rarely used port, and it is located close to Russia.
+The interception appears to have happened as the vessel approached or entered Russian waters. The news outlet EA Daily speculates the ship was taking the shortest available route. It would have saved about 4.5 miles and 40 minutes of sailing time, they write. Instead, it reports the ship was detained about six miles from the Estonian border.
+ERR quotes the head of the Transport Administration as saying that while the situation was “unpleasant,” it was not unusual, as countries have the right to inspect ships entering their territorial waters. The Estonian authorities have recommended since 2022, and since the start of the war in Ukraine, that vessels should avoid the route that takes them into Russian waters.
+It was the first known instance since 2025 where Russian authorities stopped a vessel in the area. A Liberian-flagged, Greek-owned tanker,
+Green Admire
+, was stopped by the Russians in May 2025, shortly after departing the Port of Sillamäe. The vessel was briefly detained and released.
+The border has been a scene of confrontations on both sides. In April 2025, Estonia detained a stateless tanker,
+Kiwala
+(115,577 dwt), in the same general area. It was held for two weeks to clear up safety violations and resolve its registration.
+Stay on Top of the Daily Maritime News
+The maritime news
+that matters most
+Get the latest maritime news delivered to your inbox daily.
+Subscribe Now
+In May 2025, Estonian authorities also attempted to board a crude oil tanker identifying as
+Jaguar
+(105,000 dwt) that was inbound for Primorsk, Russia, and reporting registry in Gabon. It led to an international incident as Estonia accused a Russian fighter jet of briefly violating Estonian airspace in an apparent attempt to stop the interception of the tanker. NATO, which provides air support for Estonia, also had jets monitoring the situation. Estonian authorities withdrew and let the vessel continue its voyage, although they filed a complaint with the Russians over the incident.
+Västerbotten
+was back underway on Thursday. As of the evening, it was approaching the Port of Sillamäe.
+MORE
+TOP STORIES
+Iran’s Floating Oil Stocks Run Dry
+High Winds Cause STS Crane Runaway at Port of Guam
+USCG Calls Off Search for Survivors of Medical-Flight Crash off Nantucket
+Op-Ed: Europe's Shipping Future Depends on Stronger Ship Management
+EDITORIALS
+TOP STORIES
+Op-Ed: An America-First Approach in Yemen
+Op-Ed: Europe's Shipping Future Depends on Stronger Ship Management
+Op-Ed: What America Must Change to Make Korean Shipbuilding Matter
+Poten: Sky-High Tanker Rates are Driving Refiners' Oil Buying Decisions
+Op-Ed: People Are the Powerbase of the Shipping Business
+The maritime news
+that matters most
+The latest news in your inbox daily.
+Subscribe Now
+SUBSCRIPTIONS
+SUBSCRIBE
+Print
+Digital
+Newsletter
+Renew
+Subscribe Now
+RELATED
+STORIES
+Shipping
+Norwegian Authorities Investigating Collision of Three Ships
+Published
+					Oct 5, 2026 4:56 PM        		by
+The Maritime Executive
+Residents of a Norwegian coastal town reported being awoken early Monday morning to a loud boom that turned out to have been a collision between three short sea vessels navigating in one of the coastal fjords on Norway’s west coast. The authorities are trying to sort out the circumstances of the unusual collision between the three ships, which left one taking on water and all three damaged. The collision took place just after 01:30 a.m. October 5, near Alesund. Two...
+Continue Reading...
+Tugs & Salvage
+UKMTO: Tanker's Engine Room On Fire After Latest Hormuz Attack
+Published
+					Oct 5, 2026 3:56 PM        		by
+The Maritime Executive
+Iran has added to a rapidly-expanding list of strikes on energy shipping in the Strait of Hormuz with another attack on a tanker off the Musandam Peninsula. On Monday evening at about 1637 UTC, the master of a tanker informed UKMTO that the vessel was hit by an unknown projectile, sparking a fire in the engine room. The crew was still fighting the fire at the time of the report. No injuries were reported, nor any environmental damage. UKMTO advised...
+Continue Reading...
+Government
+Houthis Face Being Cut Off on Yemeni Coast
+Published
+					Oct 5, 2026 3:08 PM        		by
+The Maritime Executive
+Yemen’s Internationally Recognized Government (IRG) has launched Operation Dawn of Yemen across all fronts, with apparently substantial support from allies. The IRG counterattack comes after Houthi forces made a breakthrough down the Tihama coast last month, capturing Mocha, Dhubab and finally Perim Island and the Ras Menhali peninsula, and thus potentially overextending themselves. The IRG’s president, Rashad Al-Alimi, has announced that the objective of Operation Dawn of Yemen is to recapture the capital Sana’a and to end the Houthi insurgency....
+Continue Reading...
+Government
+Op-Ed: An America-First Approach in Yemen
+Published
+					Oct 5, 2026 2:02 PM        		by
+The Lowy Interpreter
+[By Grace Wermenbol] On May 6, 2025, following a weeks-long bombardment on Houthi targets in Yemen, US President Donald Trump declared the fight to be over. The Houthis, “a band of individuals with advanced weaponry that were threatening global shipping”, had – according to the US president – “capitulated” and agreed to halt their attacks on maritime traffic in the Red Sea. In one of the first “America-First” deals of the second Trump administration, the United States had extracted itself...
+Continue Reading...
+SUBSCRIPTIONS
+SUBSCRIBE
+Print
+Digital
+Newsletter
+Renew
+Subscribe Now
+Show Comments
+About Us
+Advertise
+Newsletter
+Contact Us
+Privacy Policy
+Site Map
+News
+Features
+Podcasts
+Magazine
+Newsletter
+Piracy News
+Shipbuilding News
+Cruise Ship News
+Ports News
+Salvage News
+Training News
+Government News
+Environment News
+Corporate News
+Subscribe
+Facebook
+LinkedIn
+Twitter
+RSS Feed
+Instagram
+© Copyright 2026 The Maritime Executive, LLC. All rights reserved.

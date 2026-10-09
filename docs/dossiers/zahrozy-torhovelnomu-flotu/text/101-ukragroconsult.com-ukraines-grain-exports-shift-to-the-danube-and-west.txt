@@ -1,0 +1,45 @@
+URL:         https://ukragroconsult.com/en/news/ukraines-grain-exports-shift-to-the-danube-and-western-border-routes/
+Кінцевий:    https://ukragroconsult.com/en/news/ukraines-grain-exports-shift-to-the-danube-and-western-border-routes/
+Заголовок:   Ukraine’s grain exports shift to the Danube and western border routes
+Дата публ.:  2026-07-24
+Завантажено: 2026-10-07 09:37 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 105029
+Оригінал:    raw/101-ukragroconsult.com-ukraines-grain-exports-shift-to-the-danube-and-west.html
+sha256:      f970358b046fec764744b890a7aa790becc1d89ccd806e3373412cbdeaadd5dd
+Витяг:       trafilatura
+
+==============================================================================
+# Ukraine’s grain exports shift to the Danube and western border routes
+
+Following the effective halt of grain exports through Ukraine’s deep-water Black Sea ports, traders are redirecting shipments to Danube ports and western land border crossings. Market participants expect these routes to dominate Ukrainian grain export logistics in the coming weeks.
+
+Romania’s Port of Constanța is expected to become one of the main alternative gateways, reviving a route that was widely used in 2022. However, traders note that its viability will depend on whether Ukrainian farmers are willing to absorb significantly higher logistics costs, which would translate into lower farm-gate grain prices.
+
+Traders have already reported the first shipments of newly harvested wheat via alternative routes, although volumes remain limited. Trading activity is also subdued, with wheat cargoes to Egypt reportedly changing hands at around $260/t, while sellers were offering $262/t and buyers were bidding $255/t.
+
+The remaining stocks of last season’s corn also continue to face export difficulties. According to traders, inventories are nearly exhausted, but part of the crop has yet to be shipped because of the lack of available vessels and the suspension of operations at Ukraine’s deep-water ports.
+
+The Danube corridor is also facing growing challenges. Hot and dry weather across Europe has reduced water levels on the Danube, preventing barges from operating at full capacity on some sections and significantly disrupting navigation. This limits Constanța’s ability to fully offset the loss of Black Sea export capacity.
+
+Despite these logistical constraints, Europe remains the primary destination for Ukrainian grain exports. Buyers expect shipments to continue via Danube ports and western border crossings, although this will increase competition for local producers in Romania and other EU countries. According to Platts, Ukrainian corn was assessed at $232/t FOB POC, while 11.5% protein wheat was valued at $228.5/t FOB POC for shipment between late August and early September.
+
+### Read also
+
+
+### Argentine soybean meal trades above Brazilian for the first time since May
+
+
+### Indonesia strengthens its position in the global veterinary vaccine market
+
+
+### Ukraine ranks second in rail freight turnover among EU and candidate countries
+
+
+### Wheat, corn and soybeans rise in Chicago on Tuesday
+
+
+### GDT dairy price index rises 1.2%
+
+### Write to us
+
+Our manager will contact you soon

@@ -1,0 +1,13 @@
+URL:         https://www.upi.com/Top_News/World-News/2026/10/05/romania-drone-strike-sinks-cargo-ship/4661791223584
+Кінцевий:    https://www.upi.com/Top_News/World-News/2026/10/05/romania-drone-strike-sinks-cargo-ship/4661791223584
+Заголовок:   Just a moment...
+Дата публ.:  2026-10-05
+Завантажено: 2026-10-07 08:03 UTC
+HTTP:        403   Тип: text/html; charset=UTF-8   Байтів: 5967
+Оригінал:    raw/04-upi.com-4661791223584.html
+sha256:      d0fa0177cfc6cfe3262576f574221e9c8e741d5684879fb15c35b86fe433cf2f
+Витяг:       bs4-full
+Примітка:    оригінал 403; знімка немає в Wayback
+
+==============================================================================
+Just a moment...

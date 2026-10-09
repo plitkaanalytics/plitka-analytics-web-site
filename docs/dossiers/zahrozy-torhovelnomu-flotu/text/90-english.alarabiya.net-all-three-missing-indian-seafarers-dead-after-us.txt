@@ -1,0 +1,22 @@
+URL:         https://english.alarabiya.net/amp/News/middle-east/2026/06/11/all-three-missing-indian-seafarers-dead-after-us-strike-on-tanker-off-oman-coast
+Кінцевий:    https://english.alarabiya.net/amp/News/middle-east/2026/06/11/all-three-missing-indian-seafarers-dead-after-us-strike-on-tanker-off-oman-coast
+Заголовок:   خطوة إضافية واحدة
+Дата публ.:  2026-06-11
+Завантажено: 2026-10-07 09:36 UTC
+HTTP:        403   Тип: text/html; charset=UTF-8   Байтів: 180477
+Оригінал:    raw/90-english.alarabiya.net-all-three-missing-indian-seafarers-dead-after-us.html
+sha256:      e06e14251ecd84a566c8b7b8c728d6c80d240aaee1ff4ac51629f46554186510
+Витяг:       bs4-full
+Примітка:    оригінал 403; знімка немає в Wayback
+
+==============================================================================
+خطوة إضافية واحدة
+خطوة إضافية واحدة
+يرجى إكمال التحقق الأمني للوصول إلى الموقع
+يرجى إكمال اختبار CAPTCHA لإثبات أنك لست روبوتًا.
+One more step
+Please complete the security check to access the site
+Please complete the CAPTCHA to prove you are human and gain access to the site.
+185.237.75.216
+a46bebff9b305b90
+© جميع الحقوق محفوظة لشبكة العربية 2026

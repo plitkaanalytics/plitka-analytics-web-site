@@ -1,0 +1,20 @@
+URL:         https://theins.press/en/news/297921
+Кінцевий:    https://theins.press/en/news/297921
+Заголовок:   Russia’s oil and gas revenues fall 17% in 2026 despite doubling of Urals crude prices
+Дата публ.:  2026-10-05
+Завантажено: 2026-10-07 09:41 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 126572
+Оригінал:    raw/138-theins.press-297921.html
+sha256:      094eda3f4f981360bfa3d2c265106acf112306f77f0df184709dc3244b25b4dd
+Витяг:       trafilatura
+
+==============================================================================
+Russia’s year-on-year federal budget revenue from oil and gas fell 17% in the first three quarters of 2026 despite a sharp rise in the price of Russian crude. The decline was driven by lower production and reduced exports amid Ukrainian attacks on Russian oil infrastructure, as well as a stronger ruble, *Reuters *[reported](https://www.reuters.com/business/energy/russias-oil-earnings-fall-despite-price-jump-output-drops-rouble-rises-2026-10-05/).
+
+From January through September, tax revenue from oil and gas production totaled 5.47 trillion rubles ($64.43 billion), down from 6.61 trillion rubles in the same period of 2025. The oil and gas sector accounts for about 20% of Russia’s tax revenue, and this year’s budget deficit is expected to reach 3% of gross domestic product — nearly twice the level originally planned.
+
+At the same time, the price of Urals crude had risen above $92 a barrel by the end of September, roughly double its level from before the start of the U.S.-Israeli campaign against Iran on Feb. 28. Prior to the American-Israeli operation, Urals crude loaded at the Baltic port of Primorsk was trading at about $45 a barrel. On April 8, the price reached $113.89, its highest level since 2013. Nevertheless, shipments through the Russian Black Sea port of Novorossiysk are significantly down due to risks following a series of Ukrainian attacks and a shortage of available tankers.
+
+Russia is also cutting production. In September, the government lowered its forecast for oil and gas output in 2026 to their lowest levels in 17 years. According to OPEC data, Russia produced 8.718 million barrels of oil a day in August, 5.6% below January’s level of 9.240 million barrels a day. *Reuters* attributed part of the decline to repeated Ukrainian drone attacks on Russian oil refineries, which have forced facilities to reduce production and contributed to fuel shortages in some regions.
+
+A stronger ruble is also putting pressure on budget revenue. From January through August, the Russian currency was on average about 9% stronger against the dollar than it had been during the same period a year earlier. Because Russia collects much of its oil tax revenue in rubles, a stronger national currency reduces the domestic value of dollar-denominated export earnings.

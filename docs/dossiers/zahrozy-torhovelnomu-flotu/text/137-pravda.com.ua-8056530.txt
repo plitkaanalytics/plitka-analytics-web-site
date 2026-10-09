@@ -1,0 +1,33 @@
+URL:         https://www.pravda.com.ua/eng/news/2026/10/05/8056530/
+Кінцевий:    https://www.pravda.com.ua/eng/news/2026/10/05/8056530/
+Заголовок:   Russia's oil and gas revenues dropped by 22% in September despite rising oil prices
+Дата публ.:  2026-10-05
+Завантажено: 2026-10-07 09:41 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 159846
+Оригінал:    raw/137-pravda.com.ua-8056530.html
+sha256:      bd564013ab7072c9b6796ea89c16a298966ff684b9b9d28ded75ef46a76e90a4
+Витяг:       trafilatura
+
+==============================================================================
+# Russia's oil and gas revenues dropped by 22% in September despite rising oil prices
+
+Russia's oil and gas revenues amounted to approximately RUB 452.4 billion (approx. US$5.43 billion) in September, down 22% from September 2025.
+
+	**Source:** Russian media outlet [The Bell](https://t.me/thebell_io/39347), citing data from the Russian Finance Ministry
+
+	**Details:** September revenues were 7% higher than the RUB 424 billion (US$5.1 billion) recorded in August. Oil and gas revenues in August fell by 16% year-on-year.
+
+Much of the revenue is being swallowed up by budget spending to compensate oil refiners for the gap between domestic and global fuel prices. In September, these payments increased from RUB 197.3 billion (US$2.4 billion) to RUB 305.5 billion (US$3.7 billion).
+
+These payments consumed the entire additional revenue from the mineral extraction tax, which brought in RUB 807 billion (US$9.7 billion) in September, compared with RUB 702.7 billion (US$8.4 billion) in August.
+
+Since the beginning of the year, the Russian treasury has received RUB 5.47 trillion (US$65.6 billion) in oil and gas revenues, 17.2% less than in January-September 2025.
+
+The September figure was close to the Russian Finance Ministry's expectations, falling RUB 10 billion (US$120 million) short after additional oil and gas revenues were taken into account.
+
+In October, the Russian Finance Ministry expects to receive RUB 289.5 billion (US$3.5 billion) in additional oil and gas revenues.
+
+	**Background:** Russia's wealthiest people [have contributed more than 1% of the country's state spending](https://www.pravda.com.ua/eng/news/2026/08/18/8049119/) in 2026 through "voluntary" payments. In August, it emerged that these contributions to the Russian budget had reached RUB 383.69 billion (US$4.6 billion) by mid-month, compared with RUB 15.6 billion (US$187 million) before Vladimir Putin met business leaders in March.
+
+
+Subscribe onPatreonto back our journalism long-term.

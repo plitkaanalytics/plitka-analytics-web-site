@@ -1,0 +1,45 @@
+URL:         https://www.aljazeera.com/news/2026/10/5/ukraine-says-russian-drone-attack-sinks-ship-in-romanian-waters
+Кінцевий:    https://www.aljazeera.com/news/2026/10/5/ukraine-says-russian-drone-attack-sinks-ship-in-romanian-waters
+Заголовок:   Ukraine says Russian drone attack sinks ship in Romanian waters
+Дата публ.:  2026-10-05
+Завантажено: 2026-10-07 08:03 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 214906
+Оригінал:    raw/01-aljazeera.com-ukraine-says-russian-drone-attack-sinks-ship-in-romanian.html
+sha256:      83baf1c0ffca86dd7963860b4a644d8095f7912506182478ef11cd9fc572c853
+Витяг:       trafilatura
+
+==============================================================================
+# Ukraine says Russian drone attack sinks ship in Romanian waters
+
+*The incident is the latest suspected Russian drone incursion, as fears grow that the war in Ukraine could spill over.*
+
+Ukraine’s President Volodymyr Zelenskyy has blamed a Russian drone attack for the sinking of a ship in Romania’s section of the Black Sea.
+
+Romania reported that two people were killed and 11 rescued when a grain ship caught fire and sank in its waters on Monday. The Ukrainian president’s claim suggests the incident is the latest in a series of suspected incursions along NATO’s eastern flank, and will fuel concerns that Moscow’s war in Ukraine could spill over.
+
+## Recommended Stories
+
+list of 4 items- list 1 of 4[Russia’s ‘new doctrine’ targets civilian sites in Ukraine, Zelenskyy says](/news/2026/10/3/five-killed-as-kyiv-and-moscow-trade-strikes-russia-hits-second-bridge)
+- list 2 of 4[Pick-up truck overturns trying to carry military chopper in Russia](/video/newsfeed/2026/10/4/pick-up-truck-overturns-trying-to-carry-military-chopper-in-russia)
+- list 3 of 4[Ukraine ready for US-backed talks with Russia: Zelenskyy](/news/2026/10/4/ukraine-ready-for-us-backed-talks-with-russia-zelenskyy)
+- list 4 of 4[Trapped in occupied Oleshky: Ukrainians face hunger, drones and landmines](/news/2026/10/5/in-russia-occupied-oleshky-ukrainians-face-hunger-drones-and-landmines)
+
+“A horrific strike by two Russian drones on a civilian vessel in neutral waters carrying corn and owned by Turkiye,” Zelenskyy wrote on social media.
+
+According to the Romanian Ministry of Internal Affairs, the coastguard was alerted at about 11am local time (08:00 GMT) that a fire had broken out on the ship, adding that it was in the country’s “exclusive economic zone”.
+
+The ministry did not identify the cause of the fire.
+
+Azerbaijani and Indian citizens were on board the ship at the time of the attack, it is reported.
+
+Romania is among several NATO members to have reported incursions this year, as Russia and Ukraine have increasingly turned to launches of hundreds of drones and missiles.
+
+In May, a Russian drone [hit an apartment building](/video/newsfeed/2026/5/29/romania-to-expel-russian-consul-after-residential-drone-strike). In June, a stray Ukrainian maritime drone [exploded](/news/2026/6/5/drone-explosion-in-romanian-port-spurs-ukraine-war-spillover-fears) in the Black Sea port of Constanta. [In July](/news/2026/7/26/romania-summons-russian-envoy-as-it-shoots-down-third-intruding-drone), Bucharest summoned Russia’s ambassador after air defences intercepted three drones within the span of one week.
+
+Incursions by Russian drones into eastern European airspace are seen by some as a test of NATO and the European Union’s defences and response capabilities.
+
+The Baltic states have also seen drones enter their airspace throughout the war, with airspace violations contributing to the [collapse of Latvia’s government](/news/2026/5/28/latvia-parliament-approves-new-govt-after-drone-dispute-toppled-coalition) in late May after a dispute over how to respond to the incursions.
+
+The incursions have also [prompted Poland](/news/2026/9/25/poland-boosts-air-defence-after-russian-provocations-amid-ukraine-war) to bolster its air defence posture after accusing Moscow of violating its airspace in September. Suspected drones were shot down twice in Moldova.
+
+Romania’s Ministry of National Defence said the Romanian Naval Forces had destroyed nine drifting sea mines in the Black Sea since the start of the war.
