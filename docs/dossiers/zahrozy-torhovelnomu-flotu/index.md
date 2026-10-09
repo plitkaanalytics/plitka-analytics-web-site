@@ -194,6 +194,17 @@
 | 185 | [Telegram Widget](https://t.me/csources/528941) | 2026-10-07 | МАЛО ТЕКСТУ (323 зн.) — перевірити вручну | 323 | ? | `text/185-t.me-csources-528941.txt` |
 | 186 | [Не тільки нафта. Україна зриває поставки з Росії в Індію ще одного тов](https://biz.nv.ua/ukr/markets/ukrajina-okrim-nafti-zrivaye-postavki-z-rosiji-v-indiyu-shche-odnogo-tovaru-reuters-50648018.html) | 2026-10-08 | прочитано | 3866 | ? | `text/186-biz.nv.ua-ukrajina-okrim-nafti-zrivaye-postavki-z-rosiji-v-indiyu-shch.txt` |
 | 187 | [Україна уразила цілі у трьох регіонах РФ та Чорному морі, - Зеленський](https://www.rbc.ua/rus/news/ukrayina-urazila-tsili-troh-regionah-rf-ta-1791362284.html) | 2026-10-07 | прочитано | 4805 | ? | `text/187-rbc.ua-ukrayina-urazila-tsili-troh-regionah-rf-ta-1791362284.txt` |
+| 188 | [Telegram Widget](https://t.me/milinfolive/181056) | 2026-10-07 | МАЛО ТЕКСТУ (476 зн.) — перевірити вручну | 476 | ? | `text/188-t.me-milinfolive-181056.txt` |
+| 189 | [Telegram Widget](https://t.me/milinfolive/181141) | 2026-10-09 | МАЛО ТЕКСТУ (414 зн.) — перевірити вручну | 414 | ? | `text/189-t.me-milinfolive-181141.txt` |
+| 190 | [Telegram Widget](https://t.me/kpszsu/84151) | 2026-10-09 | МАЛО ТЕКСТУ (334 зн.) — перевірити вручну | 334 | ? | `text/190-t.me-kpszsu-84151.txt` |
+| 191 | [Telegram Widget](https://t.me/kpszsu/84254) | 2026-10-09 | МАЛО ТЕКСТУ (264 зн.) — перевірити вручну | 264 | ? | `text/191-t.me-kpszsu-84254.txt` |
+| 192 | [Odesa Region Cut Off From Romania and Moldova After Bridge Attack](https://www.kyivpost.com/post/66617) | 2025-12-19 | прочитано | 3643 | ? | `text/192-kyivpost.com-66617.txt` |
+| 193 | [No traffic to the west of Odesa region after Russian attack on Mayaky:](https://news.liga.net/en/politics/news/no-traffic-to-the-west-of-odesa-region-after-russian-attack-on-mayaky-what-are-the-alternative-routes) | 2025-12-19 | прочитано | 3579 | ? | `text/193-news.liga.net-no-traffic-to-the-west-of-odesa-region-after-russian-att.txt` |
+| 194 | [Ukraine and Moldova agree on alternative routes after Russian strike o](https://english.nv.ua/nation/ukraine-moldova-agree-alternative-routes-after-russian-strike-on-dniester-bridge-50571578.html) | 2025-12-27 | прочитано | 3802 | ? | `text/194-english.nv.ua-ukraine-moldova-agree-alternative-routes-after-russian-s.txt` |
+| 195 | [Загроза ударів дронів: Молдова будує укриття на кордоні та виводить пр](https://www.rbc.ua/rus/news/zagroza-udariv-droniv-moldova-budue-ukrittya-1791402508.html) | 2026-10-07 | прочитано | 2022 | ? | `text/195-rbc.ua-zagroza-udariv-droniv-moldova-budue-ukrittya-1791402508.txt` |
+| 196 | [Молдова облаштовує на кордоні з Україною захисні зони на випадок атак ](https://www.pravda.com.ua/news/2026/10/07/8056934/) | 2026-10-07 | прочитано | 2552 | ? | `text/196-pravda.com.ua-8056934.txt` |
+| 197 | [Україна обговорює з сусідніми країнами зміни в роботі кордону через ро](https://www.pravda.com.ua/news/2026/10/07/8056922/) | 2026-10-07 | прочитано | 1682 | ? | `text/197-pravda.com.ua-8056922.txt` |
+| 198 | [ISW: Russia may launch strikes against the bridge on the Odesa-Reni hi](https://intent.press/en/news/war/2026/analysts-have-warned-of-the-threat-of-russian-strikes-on-the-bridge-on-the-odesa-reni-highway/) | 2026-08-10 | прочитано | 2385 | ? | `text/198-intent.press-analysts-have-warned-of-the-threat-of-russian-strikes-on-.txt` |
 
 ## Проблемні джерела
 
