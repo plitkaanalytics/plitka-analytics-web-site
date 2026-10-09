@@ -44,7 +44,7 @@ export default function Page() {
       <div className="lede-block">
         <div className="lede-block__img">
           <img
-            src="/articles/totalna_viyna_v_mori/cover.jpg"
+            src="/articles/zahrozy-torhovelnomu-flotu/cover.jpg"
             alt="Іржаве напівзатоплене судно з розбитою надбудовою лежить біля причалу, на ньому сидять баклани; на горизонті силует військового корабля"
           />
         </div>
@@ -96,6 +96,17 @@ export default function Page() {
           . Війна проти судноплавства в Чорному морі продовжує переходити все
           нові межі та досягає нових рівнів жорстокості з кожним днем.
         </p>
+
+        <figure className="fig">
+          <img
+            src="/articles/zahrozy-torhovelnomu-flotu/mamadov.webp"
+            alt="Синьо-білий суховантаж Royad Mammadov з номером IMO 9356969 на борту сильно накренився й осів у воду, помаранчева рятувальна шлюпка висить на шлюпбалці"
+          />
+          <figcaption>
+            Royad Mammadov іде під воду біля берегів Румунії, 5 жовтня 2026
+            року.
+          </figcaption>
+        </figure>
 
         <p>
           1 жовтня 1946 року Міжнародний військовий трибунал у Нюрнберзі визнав
@@ -281,13 +292,9 @@ export default function Page() {
 
         <figure className="fig">
           <img
-            src="/articles/totalna_viyna_v_mori/able.png"
+            src="/articles/zahrozy-torhovelnomu-flotu/able.png"
             alt="Пошкоджене іржаве вантажне судно з димом над надбудовою; рятувальники в помаранчевих жилетах спускаються по трапу в надувний човен, поруч синьо-білий катер"
           />
-          <figcaption>
-            Евакуація екіпажу з ураженого судна. [ джерело й умова публікації;
-            якщо ілюстрація — позначити ]
-          </figcaption>
         </figure>
 
         <p>
@@ -399,6 +406,16 @@ export default function Page() {
           </a>
           .
         </p>
+
+        <figure className="fig">
+          <img
+            src="/articles/zahrozy-torhovelnomu-flotu/able-crew.webp"
+            alt="Моряки в помаранчевих рятувальних жилетах сходять з катера прикордонної поліції на причал у Варні; поруч прикордонник і фотографи"
+          />
+          <figcaption>
+            Моряки з Able сходять на берег у Варні, 6 жовтня 2026 року.
+          </figcaption>
+        </figure>
 
         <p>
           Удари біля Румунії й Болгарії стали продовженням кампанії, яку Росія
@@ -733,12 +750,11 @@ export default function Page() {
 
         <figure className="fig">
           <img
-            src="/articles/totalna_viyna_v_mori/sochi.jpg"
-            alt="Над морем на тлі помаранчевого заходу сонця здіймається величезний стовп чорного диму, біля води видно смугу полум'я"
+            src="/articles/zahrozy-torhovelnomu-flotu/sochi.webp"
+            alt="Над морем на тлі заходу сонця здіймається величезна хмара чорного диму, біля води смуга полум'я; на передньому плані берег і жовтий прапор на пляжі"
           />
           <figcaption>
-            Aframax Rio горить біля Сочі, 6 жовтня 2026 року. Кадр «Крымского
-            ветра».
+            Aframax Rio горить біля Сочі, 6 жовтня 2026 року. Вигляд з берега.
           </figcaption>
         </figure>
 
@@ -990,7 +1006,7 @@ export default function Page() {
 
         <figure className="fig">
           <img
-            src="/articles/totalna_viyna_v_mori/kylo.webp"
+            src="/articles/zahrozy-torhovelnomu-flotu/kylo.webp"
             alt="Нічний тепловізійний кадр згори: корпус танкера з написом M/T KYLO іде під воду, над кадром позначка UNCLASSIFIED"
           />
           <figcaption>
