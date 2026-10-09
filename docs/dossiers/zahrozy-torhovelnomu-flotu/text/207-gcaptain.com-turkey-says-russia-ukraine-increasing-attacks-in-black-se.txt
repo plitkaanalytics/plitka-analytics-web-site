@@ -1,0 +1,32 @@
+URL:         https://gcaptain.com/turkey-says-russia-ukraine-increasing-attacks-in-black-sea-ahead-of-winter/
+Кінцевий:    https://gcaptain.com/turkey-says-russia-ukraine-increasing-attacks-in-black-sea-ahead-of-winter/
+Заголовок:   Turkey Says Russia, Ukraine Increasing Attacks in Black Sea Ahead of Winter
+Дата публ.:  2026-10-08
+Завантажено: 2026-10-09 18:28 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 254638
+Оригінал:    raw/207-gcaptain.com-turkey-says-russia-ukraine-increasing-attacks-in-black-se.html
+sha256:      9fdfabedb0ce050bf4cae1f5e7e2c2d0e94edccd4e5c51e378b7c237c789ef59
+Витяг:       trafilatura
+
+==============================================================================
+By Tuvan Gumrukcu
+
+ANKARA, Oct 8 (Reuters) – Intensifying attacks by Russia and Ukraine ahead of the winter are further endangering navigational safety in the Black Sea, Turkish Foreign Minister Hakan Fidan said on Thursday, adding that world powers must not allow the region to be turned into a new front in the war.
+
+NATO member Turkey, which has maintained good ties with both Moscow and Kyiv since Russia’s full-scale invasion of Ukraine in 2022, has [repeatedly called](https://www.reutersconnect.com/all?search=all%3AS8N3YR0AE&linkedFromStory=true) on both sides to [halt attacks](https://www.reutersconnect.com/all?search=all%3AL6N45G08V&linkedFromStory=true) in the Black Sea that have also struck Turkish-flagged and Turkish-owned commercial vessels. Ankara says it is awaiting responses to [a proposal](https://www.reutersconnect.com/all?search=all%3AS8N44T0HQ&linkedFromStory=true) it conveyed to Russia and Ukraine aimed at stopping the attacks and ensuring the safe shipment of grain from the region.
+
+Speaking at a joint press conference with his Hungarian counterpart Anita Orban in Ankara, Fidan said the attacks, which he described as a serious threat to the regional security, were getting worse even as Turkey had already proposed solutions.
+
+“At the moment, both sides are engaged in tremendous attacks to establish some sort of military superiority over each other before we go into winter, and this seriously impacts navigational safety in the Black Sea,” Fidan said.
+
+“As regional countries (and) the international community, we must never allow the Black Sea to be turned into a new front for conflict. However, unfortunately as you can see, as the war expands, it is also showing its effects in the Black Sea,” he said.
+
+Turkey and the United Nations helped to mediate the so-called Black Sea Grain Initiative in July 2022 to allow for the safe export of Ukrainian grain amid the war, but Russia withdrew from the agreement the following year, complaining that its own food and fertilizer exports faced serious obstacles.
+
+Ukraine has stepped up attacks on ships and infrastructure facilitating Russian oil and grain exports since July, ?when Russia intensified its missile and drone strikes on the main Ukrainian grain export hubs of Odesa, Chornomorsk and Pivdennyi.
+
+In a late September meeting, Turkish President Tayyip Erdogan told Ukrainian counterpart Volodymyr Zelenskiy that attacks by Russia and Ukraine on commercial vessels in the Black Sea were inexplicable and steps must ?be taken to stop these.
+
+(Reporting by Tuvan GumrukcuEditing by Humeyra Pamuk)
+
+*(c) Copyright Thomson Reuters 2026. *

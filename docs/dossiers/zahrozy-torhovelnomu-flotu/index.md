@@ -206,6 +206,21 @@
 | 197 | [Україна обговорює з сусідніми країнами зміни в роботі кордону через ро](https://www.pravda.com.ua/news/2026/10/07/8056922/) | 2026-10-07 | прочитано | 1682 | ? | `text/197-pravda.com.ua-8056922.txt` |
 | 198 | [ISW: Russia may launch strikes against the bridge on the Odesa-Reni hi](https://intent.press/en/news/war/2026/analysts-have-warned-of-the-threat-of-russian-strikes-on-the-bridge-on-the-odesa-reni-highway/) | 2026-08-10 | прочитано | 2385 | ? | `text/198-intent.press-analysts-have-warned-of-the-threat-of-russian-strikes-on-.txt` |
 | 199 | [FAO: Global food prices edge down in June](https://www.agriland.ie/farming-news/fao-global-food-prices-edge-down-in-june/) | 2026-07-03 | прочитано | 4111 | ? | `text/199-agriland.ie-fao-global-food-prices-edge-down-in-june.txt` |
+| 200 | [Нефтяное пятно от загоревшегося у Сочи танкера Aframax Rio разрослось ](https://theins.ru/news/298074) | 2026-10-08 | прочитано | 1474 | ? | `text/200-theins.ru-298074.txt` |
+| 201 | [Greenpeace: На танкере Aframax Rio горело бункерное топливо, угроза ра](https://theins.ru/news/298093) | 2026-10-09 | прочитано | 4004 | ? | `text/201-theins.ru-298093.txt` |
+| 202 | [Telegram Widget](https://t.me/chp_sochi/49558) | 2026-10-08 | МАЛО ТЕКСТУ (650 зн.) — перевірити вручну | 650 | ? | `text/202-t.me-chp_sochi-49558.txt` |
+| 203 | [Telegram Widget](https://t.me/nvrsk_chp/86361) | 2026-10-09 | МАЛО ТЕКСТУ (563 зн.) — перевірити вручну | 563 | ? | `text/203-t.me-nvrsk_chp-86361.txt` |
+| 204 | [Large Bulker Abandoned After Attack Drifts Hundreds of Miles in Black ](https://maritime-executive.com/article/large-bulker-abandoned-after-attack-drifts-hundreds-of-miles-in-black-sea) | 2026-10-08 | прочитано | 2964 | ? | `text/204-maritime-executive.com-large-bulker-abandoned-after-attack-drifts-hund.txt` |
+| 205 | [Сирія закликає розслідувати затоплення судна у Чорному морі, де зникли](https://www.ukrinform.ua/rubric-world/4172463-siria-zaklikae-rozsliduvati-zatoplenna-sudna-u-cornomu-mori-de-znikli-bezvisti-ii-gromadani.html) | 2026-10-08 | прочитано | 2891 | ? | `text/205-ukrinform.ua-4172463-siria-zaklikae-rozsliduvati-zatoplenna-sudna-u-co.txt` |
+| 206 | [Болгарія вимагає від ЄС план безпеки навігації в Чорному морі](https://www.ukrinform.ua/rubric-world/4172322-bolgaria-vimagae-vid-es-plan-bezpeki-navigacii-v-cornomu-mori.html) | 2026-10-08 | прочитано | 3811 | ? | `text/206-ukrinform.ua-4172322-bolgaria-vimagae-vid-es-plan-bezpeki-navigacii-v-.txt` |
+| 207 | [Turkey Says Russia, Ukraine Increasing Attacks in Black Sea Ahead of W](https://gcaptain.com/turkey-says-russia-ukraine-increasing-attacks-in-black-sea-ahead-of-winter/) | 2026-10-08 | прочитано | 2630 | ? | `text/207-gcaptain.com-turkey-says-russia-ukraine-increasing-attacks-in-black-se.txt` |
+| 208 | [US Seeks Ukraine Peace Breakthrough Before Winter as Trump’s Envoys Ma](https://www.kyivpost.com/post/86536) | 2026-10-09 | прочитано | 4012 | ? | `text/208-kyivpost.com-86536.txt` |
+| 209 | [Росія хоче скасування санкцій США в обмін на "енергетичне перемир’я" –](https://www.pravda.com.ua/news/2026/10/09/8057222/) | 2026-10-09 | прочитано | 3567 | ? | `text/209-pravda.com.ua-8057222.txt` |
+| 210 | [Туреччина закликає не допустити перетворення Чорного моря на нову арен](https://www.ukrinform.ua/rubric-world/4172615-tureccina-zaklikae-ne-dopustiti-peretvorenna-cornogo-mora-na-novu-arenu-bojovih-dij.html) | 2026-10-09 | прочитано | 1922 | ? | `text/210-ukrinform.ua-4172615-tureccina-zaklikae-ne-dopustiti-peretvorenna-corn.txt` |
+| 211 | [Telegram Widget](https://t.me/sochi_txt/13855) | 2026-10-09 | МАЛО ТЕКСТУ (109 зн.) — перевірити вручну | 109 | ? | `text/211-t.me-sochi_txt-13855.txt` |
+| 212 | [Telegram Widget](https://t.me/chp_sochi/49569) | 2026-10-09 | МАЛО ТЕКСТУ (1104 зн.) — перевірити вручну | 1104 | ? | `text/212-t.me-chp_sochi-49569.txt` |
+| 213 | [Telegram Widget](https://t.me/csources/529186) | 2026-10-08 | МАЛО ТЕКСТУ (402 зн.) — перевірити вручну | 402 | ? | `text/213-t.me-csources-529186.txt` |
+| 214 | [Морской экспорт нефтепродуктов из России достиг трехмесячного максимум](https://theins.ru/news/298051) | 2026-10-08 | прочитано | 2254 | ? | `text/214-theins.ru-298051.txt` |
 
 ## Проблемні джерела
 
