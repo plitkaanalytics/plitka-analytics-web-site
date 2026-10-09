@@ -2964,6 +2964,21 @@
       "sha256": "ccfd83b41076d4269d82edb10d8d453f66bbcfa4bc6bb2f681c54233ef1fc93a",
       "archived": "",
       "note": ""
+    },
+    {
+      "n": 199,
+      "url": "https://www.agriland.ie/farming-news/fao-global-food-prices-edge-down-in-june/",
+      "slug": "199-agriland.ie-fao-global-food-prices-edge-down-in-june",
+      "status": 200,
+      "access": "прочитано",
+      "title": "FAO: Global food prices edge down in June",
+      "pubdate": "2026-07-03",
+      "chars": 4111,
+      "method": "trafilatura",
+      "extra_lines": 23,
+      "sha256": "74cb9177540735db13b1729e8d2fdc556506ae24e72f462d1f1d5fef4ef56a29",
+      "archived": "",
+      "note": ""
     }
   ]
 }

@@ -1,62 +1,64 @@
 /**
- * Експорт пшениці з Росії восени 2026 року проти 2025-го.
+ * Експорт пшениці з Росії восени 2026 року у відсотках від 2025-го.
  *
- * Три малі панелі, у кожної своя шкала, бо обсяги відрізняються на порядок:
- * сезон липень–вересень (млн т), друга декада вересня (тис. т) і Новоросійськ
- * у ту саму декаду (тис. т). У кожній панелі 2025 рік — taupe, 2026-й —
- * помаранчевий; значення підписані, тож колір не єдиний розрізнювач.
- * Кількість країн-покупців — текстом під панелями, не смугою.
+ * Показники мають різні одиниці (мільйони тонн, тисячі тонн, кількість
+ * країн), тому всі зведено до однієї величини: скільки від торішнього
+ * лишилося у 2026 році. Сіра доріжка — 100% торішнього рівня, помаранчева
+ * смуга — 2026 рік. Абсолютні значення підписані праворуч.
  *
- * Дані: «Совекон» (липень–вересень, вересень 2026 — оцінка), Російський
- * зерновий союз (друга декада вересня). Російські дані — заявлені.
+ * Дані: «Совекон» (липень–вересень, 2026 — оцінка), Російський зерновий союз
+ * (друга декада вересня, Новоросійськ, країни-покупці). Російські дані —
+ * заявлені.
  * Статичний SVG: сторінка статті — серверний компонент.
  */
 
 type Lang = "uk" | "en";
 
-const PANELS: {
+const ROWS: {
   uk: string;
   en: string;
-  unitUk: string;
-  unitEn: string;
   a: number;
   b: number;
-  max: number;
-  estimate?: boolean;
+  detUk: string;
+  detEn: string;
 }[] = [
   {
-    uk: "Липень–вересень",
-    en: "July–September",
-    unitUk: "млн т",
-    unitEn: "mn t",
+    uk: "Липень–вересень*",
+    en: "July–September*",
     a: 11.3,
     b: 5.6,
-    max: 12,
-    estimate: true,
+    detUk: "5,6 з 11,3 млн т",
+    detEn: "5.6 of 11.3 mn t",
   },
   {
     uk: "Друга декада вересня",
     en: "Mid-September",
-    unitUk: "тис. т",
-    unitEn: "k t",
     a: 1300,
     b: 347,
-    max: 1400,
+    detUk: "347 тис. т з 1,3 млн",
+    detEn: "347k t of 1.3 mn",
   },
   {
-    uk: "Новоросійськ, та сама декада",
-    en: "Novorossiysk, same period",
-    unitUk: "тис. т",
-    unitEn: "k t",
+    uk: "Країн-покупців",
+    en: "Buyer countries",
+    a: 29,
+    b: 8,
+    detUk: "8 з 29",
+    detEn: "8 of 29",
+  },
+  {
+    uk: "Через Новоросійськ",
+    en: "Via Novorossiysk",
     a: 696,
     b: 72.5,
-    max: 750,
+    detUk: "72,5 тис. т з 696",
+    detEn: "72.5k t of 696k",
   },
 ];
 
-const BUYERS: Record<Lang, [string, string]> = {
-  uk: ["Країн — покупців пшениці в другій декаді вересня:", "29 → 8"],
-  en: ["Countries buying Russian wheat in mid-September:", "29 → 8"],
+const HEAD: Record<Lang, string> = {
+  uk: "2026 рік у відсотках від 2025-го",
+  en: "2026 as a percentage of 2025",
 };
 const NOTE: Record<Lang, string> = {
   uk: "* 2026 — оцінка «Совекона»",
@@ -64,25 +66,21 @@ const NOTE: Record<Lang, string> = {
 };
 
 const ARIA: Record<Lang, string> = {
-  uk: "Три стовпчикові діаграми. За оцінкою «Совекона», у липні–вересні 2026 року Росія експортує близько 5,6 мільйона тонн пшениці проти 11,3 мільйона роком раніше. У другій декаді вересня — 347 тисяч тонн проти 1,3 мільйона, через Новоросійськ — 72,5 тисячі тонн проти 696 тисяч. Країн-покупців стало 8 замість 29",
-  en: "Three bar charts. According to SovEcon, Russia will export about 5.6 million tonnes of wheat in July–September 2026, against 11.3 million a year earlier. In mid-September it shipped 347 thousand tonnes against 1.3 million, and through Novorossiysk 72.5 thousand tonnes against 696 thousand. The number of buyer countries fell from 29 to 8",
-};
-
-const fmt = (v: number, lang: Lang) => {
-  const s =
-    v >= 1000 ? v.toLocaleString(lang === "uk" ? "uk-UA" : "en-US") : String(v);
-  return lang === "uk" ? s.replace(".", ",") : s;
+  uk: "Смугова діаграма, 2026 рік у відсотках від 2025-го. Експорт пшениці з Росії в липні–вересні — близько 50% торішнього (5,6 з 11,3 мільйона тонн, оцінка «Совекона»). У другій декаді вересня — 27% (347 тисяч тонн з 1,3 мільйона). Країн-покупців — 8 з 29, тобто 28%. Через Новоросійськ — 10% (72,5 тисячі тонн з 696 тисяч)",
+  en: "Bar chart, 2026 as a percentage of 2025. Russian wheat exports in July–September are about 50% of last year (5.6 of 11.3 million tonnes, SovEcon estimate). In mid-September, 27% (347 thousand of 1.3 million tonnes). Buyer countries, 8 of 29, or 28%. Via Novorossiysk, 10% (72.5 of 696 thousand tonnes)",
 };
 
 const W = 680;
-const H = 330;
-const PAD = { top: 44, bottom: 78, side: 16 };
-const PANEL_W = (W - PAD.side * 2) / 3;
-const PH = H - PAD.top - PAD.bottom;
-const BAR_W = 52;
+const LABEL_W = 170;
+const DET_W = 150;
+const TOP = 40;
+const ROW_H = 30;
+const GAP = 18;
+const H = TOP + ROWS.length * (ROW_H + GAP) + 18;
+const TRACK_W = W - LABEL_W - DET_W - 24;
+const X0 = LABEL_W;
 
 export default function RussiaWheatDrop({ lang = "uk" }: { lang?: Lang }) {
-  const base = PAD.top + PH;
   return (
     <svg
       viewBox={`0 0 ${W} ${H}`}
@@ -90,89 +88,75 @@ export default function RussiaWheatDrop({ lang = "uk" }: { lang?: Lang }) {
       role="img"
       aria-label={ARIA[lang]}
     >
-      {PANELS.map((p, k) => {
-        const cx = PAD.side + PANEL_W * k + PANEL_W / 2;
-        const h = (v: number) => (v / p.max) * PH;
-        const bars = [
-          { v: p.a, year: "2025", fill: "var(--taupe)", x: cx - BAR_W - 6 },
-          {
-            v: p.b,
-            year: p.estimate ? "2026*" : "2026",
-            fill: "var(--orange)",
-            x: cx + 6,
-          },
-        ];
+      <text x={X0} y={18} fontSize="11" fill="var(--taupe)">
+        {HEAD[lang]}
+      </text>
+      {[0, 50, 100].map((t) => (
+        <text
+          key={t}
+          x={X0 + (t / 100) * TRACK_W}
+          y={32}
+          textAnchor={t === 0 ? "start" : t === 100 ? "end" : "middle"}
+          fontSize="10"
+          fill="var(--taupe)"
+        >
+          {t}%
+        </text>
+      ))}
+
+      {ROWS.map((r, k) => {
+        const top = TOP + k * (ROW_H + GAP);
+        const pct = Math.round((r.b / r.a) * 100);
         return (
-          <g key={p.uk}>
+          <g key={r.uk}>
             <text
-              x={cx}
-              y={18}
-              textAnchor="middle"
+              x={X0 - 12}
+              y={top + ROW_H / 2 + 4}
+              textAnchor="end"
               fontSize="12"
+              fill="var(--ink)"
+            >
+              {lang === "uk" ? r.uk : r.en}
+            </text>
+            <rect
+              x={X0}
+              y={top}
+              width={TRACK_W}
+              height={ROW_H}
+              rx="3"
+              fill="var(--warm-gray)"
+              opacity="0.45"
+            />
+            <rect
+              x={X0}
+              y={top}
+              width={(pct / 100) * TRACK_W}
+              height={ROW_H}
+              rx="3"
+              fill="var(--orange)"
+            />
+            <text
+              x={X0 + (pct / 100) * TRACK_W + 8}
+              y={top + ROW_H / 2 + 5}
+              fontSize="13"
               fontWeight="600"
               fill="var(--ink)"
             >
-              {lang === "uk" ? p.uk : p.en}
+              {pct}%
             </text>
             <text
-              x={cx}
-              y={33}
-              textAnchor="middle"
-              fontSize="10"
+              x={X0 + TRACK_W + 12}
+              y={top + ROW_H / 2 + 4}
+              fontSize="11"
               fill="var(--taupe)"
             >
-              {lang === "uk" ? p.unitUk : p.unitEn}
+              {lang === "uk" ? r.detUk : r.detEn}
             </text>
-            <line
-              x1={cx - BAR_W - 18}
-              x2={cx + BAR_W + 18}
-              y1={base}
-              y2={base}
-              stroke="var(--warm-gray)"
-              strokeWidth="1"
-            />
-            {bars.map((b) => (
-              <g key={b.year}>
-                <rect
-                  x={b.x}
-                  y={base - h(b.v)}
-                  width={BAR_W}
-                  height={h(b.v)}
-                  rx="3"
-                  fill={b.fill}
-                />
-                <text
-                  x={b.x + BAR_W / 2}
-                  y={base - h(b.v) - 7}
-                  textAnchor="middle"
-                  fontSize="13"
-                  fontWeight="600"
-                  fill="var(--ink)"
-                >
-                  {fmt(b.v, lang)}
-                </text>
-                <text
-                  x={b.x + BAR_W / 2}
-                  y={base + 16}
-                  textAnchor="middle"
-                  fontSize="11"
-                  fill="var(--taupe)"
-                >
-                  {b.year}
-                </text>
-              </g>
-            ))}
           </g>
         );
       })}
 
-      <text x={PAD.side} y={H - 30} fontSize="12" fill="var(--taupe)">
-        {BUYERS[lang][0]}{" "}
-        <tspan fontWeight="600" fill="var(--ink)">
-          {BUYERS[lang][1]}
-        </tspan>
-      </text>
-      <text x={PAD.side} y={H - 12} fontSize="10" fill="var(--taupe)">
+      <text x={X0} y={H - 6} fontSize="10" fill="var(--taupe)">
         {NOTE[lang]}
       </text>
     </svg>

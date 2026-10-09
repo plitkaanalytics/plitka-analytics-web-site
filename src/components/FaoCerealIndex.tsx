@@ -1,8 +1,7 @@
 /**
  * Зерновий індекс FAO (2014–2016 = 100), січень 2025 — вересень 2026.
  *
- * Одна лінія без розриву: 2025 рік — taupe, 2026-й — помаранчевий, щоб
- * читач бачив рік, а не дві різні серії. Вертикальні позначки — події, з
+ * Одна лінія одним кольором; роки підписано під віссю. Вертикальні позначки — події, з
  * якими FAO і ринок пов'язують зростання: закриття Ормузу (28.02), блокада
  * іранських портів (13.04) і зупинка заходів у порти Великої Одеси (22.07).
  * Підписано лише перше, найнижче й останнє значення.
@@ -32,6 +31,14 @@ const EVENTS: { i: number; dy: number; uk: string; en: string }[] = [
   { i: 15.4, dy: 14, uk: "блокада Ірану", en: "Iran blockade" },
   { i: 18.7, dy: 0, uk: "зупинка Одеси", en: "Odesa halted" },
 ];
+
+/** Червень 2026: індекс −3,5% за місяць — жнива в Чорноморському регіоні й
+ *  очікування, що напруга навколо Ормузу спадає (FAO, реліз 3.07.2026). */
+const DIP = 17;
+const DIP_LABEL: Record<Lang, [string, string]> = {
+  uk: ["жнива і пауза", "в Ормузі"],
+  en: ["harvest and", "Hormuz lull"],
+};
 
 const ARIA: Record<Lang, string> = {
   uk: "Лінійний графік: зерновий індекс FAO з січня 2025 до вересня 2026 року. У 2025 році індекс знижувався від 111,8 у січні до 103,8 у жовтні. У 2026 році він зростав після закриття Ормузької протоки в лютому, блокади Ірану у квітні й зупинки портів Великої Одеси в липні і у вересні досяг 122,8 пункту, на 17,2% вище, ніж роком раніше",
@@ -120,7 +127,7 @@ export default function FaoCerealIndex({ lang = "uk" }: { lang?: Lang }) {
         textAnchor="middle"
         fontSize="11"
         fontWeight="600"
-        fill="var(--orange)"
+        fill="var(--taupe)"
       >
         2026
       </text>
@@ -148,17 +155,16 @@ export default function FaoCerealIndex({ lang = "uk" }: { lang?: Lang }) {
         </g>
       ))}
 
-      <path d={line(0, 12)} fill="none" stroke="var(--taupe)" strokeWidth="2" />
       <path
-        d={line(12, N)}
+        d={line(0, N)}
         fill="none"
         stroke="var(--orange)"
-        strokeWidth="3"
+        strokeWidth="2.5"
       />
 
       {[0, low].map((i) => (
         <g key={i}>
-          <circle cx={x(i)} cy={y(DATA[i])} r="4" fill="var(--taupe)" />
+          <circle cx={x(i)} cy={y(DATA[i])} r="4" fill="var(--orange)" />
           <text
             x={x(i)}
             y={y(DATA[i]) + (i === low ? 18 : -10)}
@@ -170,6 +176,25 @@ export default function FaoCerealIndex({ lang = "uk" }: { lang?: Lang }) {
           </text>
         </g>
       ))}
+      <circle cx={x(DIP)} cy={y(DATA[DIP])} r="4" fill="var(--orange)" />
+      <text
+        x={x(DIP)}
+        y={y(DATA[DIP]) + 18}
+        textAnchor="middle"
+        fontSize="10"
+        fill="var(--taupe)"
+      >
+        {DIP_LABEL[lang][0]}
+      </text>
+      <text
+        x={x(DIP)}
+        y={y(DATA[DIP]) + 30}
+        textAnchor="middle"
+        fontSize="10"
+        fill="var(--taupe)"
+      >
+        {DIP_LABEL[lang][1]}
+      </text>
       <circle
         cx={x(last)}
         cy={y(DATA[last])}

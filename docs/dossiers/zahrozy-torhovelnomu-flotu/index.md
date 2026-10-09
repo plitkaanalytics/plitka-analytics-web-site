@@ -205,6 +205,7 @@
 | 196 | [Молдова облаштовує на кордоні з Україною захисні зони на випадок атак ](https://www.pravda.com.ua/news/2026/10/07/8056934/) | 2026-10-07 | прочитано | 2552 | ? | `text/196-pravda.com.ua-8056934.txt` |
 | 197 | [Україна обговорює з сусідніми країнами зміни в роботі кордону через ро](https://www.pravda.com.ua/news/2026/10/07/8056922/) | 2026-10-07 | прочитано | 1682 | ? | `text/197-pravda.com.ua-8056922.txt` |
 | 198 | [ISW: Russia may launch strikes against the bridge on the Odesa-Reni hi](https://intent.press/en/news/war/2026/analysts-have-warned-of-the-threat-of-russian-strikes-on-the-bridge-on-the-odesa-reni-highway/) | 2026-08-10 | прочитано | 2385 | ? | `text/198-intent.press-analysts-have-warned-of-the-threat-of-russian-strikes-on-.txt` |
+| 199 | [FAO: Global food prices edge down in June](https://www.agriland.ie/farming-news/fao-global-food-prices-edge-down-in-june/) | 2026-07-03 | прочитано | 4111 | ? | `text/199-agriland.ie-fao-global-food-prices-edge-down-in-june.txt` |
 
 ## Проблемні джерела
 

@@ -289,13 +289,6 @@ export default function Page() {
           <span className="h2-num">§ 01 · Захід</span>Порт Україна
         </h2>
 
-        <figure className="fig">
-          <img
-            src="/articles/zahrozy-torhovelnomu-flotu/able.png"
-            alt="Пошкоджене іржаве вантажне судно з димом над надбудовою; рятувальники в помаранчевих жилетах спускаються по трапу в надувний човен, поруч синьо-білий катер"
-          />
-        </figure>
-
         <p>
           За даними сервісу MagicPort, Royad Mammadov за останній рік заходив у
           російські Єйськ, Азов і Тамань, а також у Стамбул і Хайфу
@@ -468,8 +461,8 @@ export default function Page() {
         <figure className="fig">
           <OdesaDanubeShift />
           <figcaption>
-            Перевалка Великої Одеси й Дунаю у 2026 році. Графіка PLITKA
-            Analytics за даними Ambrey.
+            Перевалка Великої Одеси й Дунаю до і після літніх ударів. Графіка
+            PLITKA Analytics за даними Мінрозвитку й Ambrey.
           </figcaption>
         </figure>
 
@@ -872,8 +865,9 @@ export default function Page() {
         <figure className="fig">
           <RussiaWheatDrop />
           <figcaption>
-            Експорт пшениці з Росії восени 2026 року проти 2025-го. Графіка
-            PLITKA Analytics за даними Російського зернового союзу й «Совекона».
+            Експорт пшениці з Росії восени 2026 року у відсотках від 2025-го.
+            Графіка PLITKA Analytics за даними Російського зернового союзу й
+            «Совекона».
           </figcaption>
         </figure>
 

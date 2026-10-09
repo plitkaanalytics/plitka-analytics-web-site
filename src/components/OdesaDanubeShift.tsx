@@ -1,64 +1,55 @@
 /**
  * Перевалка Великої Одеси й Дунаю у 2026 році: до і після літньої кампанії.
  *
- * Помісячного ряду для обох кластерів у відкритих джерелах немає, тому
- * графік — три горизонтальні смуги на одній шкалі в мільйонах тонн: Велика
- * Одеса в квітні (taupe, «до»), Велика Одеса й Дунай у серпні (помаранчеві,
- * «після»). Частка Дунаю — окремим підписом, не смугою, бо це інша одиниця.
+ * Дві пари стовпців на одній шкалі в мільйонах тонн. «До» — середня місячна
+ * перевалка в січні–липні 2026 року, наш розрахунок із даних Мінрозвитку
+ * (Велика Одеса 42,2 млн т, Дунай 3,8 млн т за сім місяців). «Після» —
+ * серпень 2026 року за Ambrey. Різні джерела, але одна величина: обсяг
+ * вантажів, оброблених портами за місяць.
  *
- * Дані: Ambrey через Splash247 (07.10.2026).
+ * Дані: Мінрозвитку через УНН (14.08.2026), Ambrey через Splash247 (07.10.2026).
  * Статичний SVG: сторінка статті — серверний компонент.
  */
 
 type Lang = "uk" | "en";
 
-const ROWS: { uk: string; en: string; v: number; after: boolean }[] = [
-  {
-    uk: "Велика Одеса, квітень",
-    en: "Greater Odesa, April",
-    v: 7.9,
-    after: false,
-  },
-  {
-    uk: "Велика Одеса, серпень",
-    en: "Greater Odesa, August",
-    v: 0.43,
-    after: true,
-  },
-  { uk: "Дунай, серпень", en: "Danube, August", v: 1.24, after: true },
+const GROUPS: { uk: string; en: string; before: number; after: number }[] = [
+  { uk: "Велика Одеса", en: "Greater Odesa", before: 6.0, after: 0.43 },
+  { uk: "Дунай", en: "Danube", before: 0.54, after: 1.24 },
 ];
 
-const UNIT: Record<Lang, string> = { uk: "млн т", en: "mn t" };
-const SHARE: Record<Lang, [string, string]> = {
-  uk: [
-    "Частка Дунаю в перевалці портів України:",
-    "~10% у I півріччі → 74% у серпні",
-  ],
-  en: ["Danube share of Ukraine's port cargo:", "~10% in H1 → 74% in August"],
+const LEG: Record<Lang, [string, string]> = {
+  uk: ["у середньому на місяць, січень–липень", "серпень"],
+  en: ["monthly average, January–July", "August"],
+};
+const UNIT: Record<Lang, string> = {
+  uk: "млн т на місяць",
+  en: "mn t per month",
 };
 
 const ARIA: Record<Lang, string> = {
-  uk: "Стовпчикова діаграма: порти Великої Одеси обробили 7,9 мільйона тонн у квітні 2026 року і лише 0,43 мільйона тонн у серпні, тоді як дунайські порти в серпні обробили 1,24 мільйона тонн. Частка Дунаю в перевалці українських портів зросла приблизно з 10% у першому півріччі до 74% у серпні",
-  en: "Bar chart: the Greater Odesa ports handled 7.9 million tonnes in April 2026 and only 0.43 million tonnes in August, while the Danube ports handled 1.24 million tonnes in August. The Danube's share of Ukraine's port cargo rose from about 10% in the first half of the year to 74% in August",
+  uk: "Стовпчикова діаграма: у січні–липні 2026 року порти Великої Одеси обробляли в середньому близько 6 мільйонів тонн на місяць, а в серпні 0,43 мільйона тонн. Дунайські порти обробляли в середньому 0,54 мільйона тонн на місяць, а в серпні 1,24 мільйона тонн",
+  en: "Bar chart: in January–July 2026 the Greater Odesa ports handled on average about 6 million tonnes a month, and 0.43 million tonnes in August. The Danube ports handled on average 0.54 million tonnes a month, and 1.24 million tonnes in August",
 };
 
-const num = (v: number, lang: Lang) =>
-  lang === "uk" ? String(v).replace(".", ",") : String(v);
+const num = (v: number, lang: Lang) => {
+  const t = Number.isInteger(v) ? v.toFixed(1) : String(v);
+  return lang === "uk" ? t.replace(".", ",") : t;
+};
 
 const W = 680;
-const H = 250;
-const LABEL_W = 190;
-const PAD = { top: 28, right: 64, bottom: 64, left: 12 };
-const PW = W - PAD.left - LABEL_W - PAD.right;
-const MAX_V = 8;
-const BAR_H = 26;
-const GAP = 22;
+const H = 300;
+const PAD = { top: 44, bottom: 44, left: 46, right: 16 };
+const PH = H - PAD.top - PAD.bottom;
+const MAX_V = 7;
+const BAR_W = 64;
 
-const x = (v: number) => PAD.left + LABEL_W + (v / MAX_V) * PW;
+const y = (v: number) => PAD.top + PH - (v / MAX_V) * PH;
 
 export default function OdesaDanubeShift({ lang = "uk" }: { lang?: Lang }) {
-  const ticks = [0, 2, 4, 6, 8];
-  const plotBottom = PAD.top + ROWS.length * (BAR_H + GAP) - GAP;
+  const ticks = [0, 1, 2, 3, 4, 5, 6, 7];
+  const groupW = (W - PAD.left - PAD.right) / GROUPS.length;
+  const base = y(0);
 
   return (
     <svg
@@ -70,18 +61,18 @@ export default function OdesaDanubeShift({ lang = "uk" }: { lang?: Lang }) {
       {ticks.map((t) => (
         <g key={t}>
           <line
-            x1={x(t)}
-            x2={x(t)}
-            y1={PAD.top - 6}
-            y2={plotBottom + 6}
+            x1={PAD.left}
+            x2={W - PAD.right}
+            y1={y(t)}
+            y2={y(t)}
             stroke="var(--warm-gray)"
             strokeWidth="1"
             opacity={t === 0 ? 0.9 : 0.3}
           />
           <text
-            x={x(t)}
-            y={plotBottom + 22}
-            textAnchor="middle"
+            x={PAD.left - 8}
+            y={y(t) + 4}
+            textAnchor="end"
             fontSize="11"
             fill="var(--taupe)"
           >
@@ -90,55 +81,83 @@ export default function OdesaDanubeShift({ lang = "uk" }: { lang?: Lang }) {
         </g>
       ))}
       <text
-        x={x(MAX_V)}
-        y={plotBottom + 36}
-        textAnchor="end"
+        x={PAD.left - 30}
+        y={PAD.top - 14}
+        textAnchor="start"
         fontSize="10"
         fill="var(--taupe)"
       >
         {UNIT[lang]}
       </text>
 
-      {ROWS.map((r, k) => {
-        const top = PAD.top + k * (BAR_H + GAP);
+      <g fontSize="11" fill="var(--ink)">
+        <rect
+          x={W - 372}
+          y={8}
+          width="12"
+          height="12"
+          rx="2"
+          fill="var(--taupe)"
+        />
+        <text x={W - 354} y={18}>
+          {LEG[lang][0]}
+        </text>
+        <rect
+          x={W - 96}
+          y={8}
+          width="12"
+          height="12"
+          rx="2"
+          fill="var(--orange)"
+        />
+        <text x={W - 78} y={18}>
+          {LEG[lang][1]}
+        </text>
+      </g>
+
+      {GROUPS.map((g, k) => {
+        const cx = PAD.left + groupW * k + groupW / 2;
+        const bars = [
+          { v: g.before, fill: "var(--taupe)", x: cx - BAR_W - 4 },
+          { v: g.after, fill: "var(--orange)", x: cx + 4 },
+        ];
         return (
-          <g key={r.uk}>
+          <g key={g.uk}>
+            {bars.map((b, i) => (
+              <g key={i}>
+                <rect
+                  x={b.x}
+                  y={y(b.v)}
+                  width={BAR_W}
+                  height={Math.max(base - y(b.v), 2)}
+                  rx="3"
+                  fill={b.fill}
+                />
+                <text
+                  x={b.x + BAR_W / 2}
+                  y={y(b.v) - 7}
+                  textAnchor="middle"
+                  fontSize="13"
+                  fontWeight="600"
+                  fill="var(--ink)"
+                >
+                  {num(b.v, lang)}
+                </text>
+              </g>
+            ))}
             <text
-              x={PAD.left + LABEL_W - 10}
-              y={top + BAR_H / 2 + 4}
-              textAnchor="end"
+              x={cx}
+              y={base + 22}
+              textAnchor="middle"
               fontSize="12"
-              fill="var(--ink)"
-            >
-              {lang === "uk" ? r.uk : r.en}
-            </text>
-            <rect
-              x={x(0)}
-              y={top}
-              width={Math.max(x(r.v) - x(0), 3)}
-              height={BAR_H}
-              rx="3"
-              fill={r.after ? "var(--orange)" : "var(--taupe)"}
-            />
-            <text
-              x={x(r.v) + 8}
-              y={top + BAR_H / 2 + 5}
-              fontSize="13"
               fontWeight="600"
               fill="var(--ink)"
             >
-              {num(r.v, lang)}
+              {lang === "uk" ? g.uk : g.en}
             </text>
           </g>
         );
       })}
-
-      <text x={PAD.left} y={H - 18} fontSize="12" fill="var(--taupe)">
-        {SHARE[lang][0]}{" "}
-        <tspan fontWeight="600" fill="var(--ink)">
-          {SHARE[lang][1]}
-        </tspan>
-      </text>
     </svg>
   );
 }
