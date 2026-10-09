@@ -874,7 +874,208 @@ export default function Page() {
           </figcaption>
         </figure>
 
-        {/* TODO: § 03 Ормуз + енергетика + Катар (+ aside Кариби) → § 04 Чому судна ніхто не захищає (Нюрнберг, ВЕЗ, ст. 5; Румунія, Болгарія, Катар) → § 05 Хто платить за чужу війну (FAO, Єгипет, олія для Індії, Африка, WFP) → § 06 Висновок */}
+        {/* ===================== § 03 ===================== */}
+        <h2 id="sec-world">
+          <span className="h2-num">§ 03 · Світ</span>Інші моря
+        </h2>
+
+        <p>
+          До війни Ормузькою протокою щодня проходило близько 125 великих
+          комерційних суден
+          <a className="ref" href="#ref-55">
+            [55]
+          </a>
+          . Після 28 лютого Іран фактично закрив протоку, а США з 13 квітня
+          блокують іранські порти. Транзит до неіранських портів блокада
+          формально не зачіпає, але судна, що йдуть до Ірану чи з нього,
+          американські сили розвертають або виводять з ладу
+          <a className="ref" href="#ref-56">
+            [56]
+          </a>
+          . 5 жовтня Центральне командування США підбило підсумок дванадцяти
+          тижнів блокади: 130 суден розвернуто, три виведено з ладу, 13
+          комерційних суден знищено
+          <a className="ref" href="#ref-56">
+            [56]
+          </a>
+          .
+        </p>
+
+        <p>
+          5 вересня, після того як Корпус вартових ісламської революції запустив
+          балістичні ракети по американських авіаносцю й есмінцю, США вдарили по
+          трьох іранських танкерах. Два вивели з ладу, третій, порожній Kylo,
+          знищили, і він затонув в Оманській затоці
+          <a className="ref" href="#ref-57">
+            [57]
+          </a>
+          . Перед ударом по Stark 1 американський літак вийшов на аварійний
+          канал: «Танкер STARK 1, говорить військовий літак США. Готуюся
+          стріляти вам у корму. Маєте десять хвилин, щоб прибрати екіпаж з
+          корми». Потім прозвучало останнє попередження: сідати в рятувальні
+          шлюпки й залишати судно
+          <a className="ref" href="#ref-58">
+            [58]
+          </a>
+          . 8 і 9 вересня США знищили ще п&apos;ять танкерів, екіпажам щоразу
+          наказували покинути судно перед ударом
+          <a className="ref" href="#ref-15">
+            [15]
+          </a>
+          . «Якщо Іран стрілятиме по кораблях США, ми знищуватимемо (і
+          топитимемо) його нафтові танкери», — пояснив міністр оборони Піт
+          Гегсет
+          <a className="ref" href="#ref-58">
+            [58]
+          </a>
+          .
+        </p>
+
+        <figure
+          className="fig"
+          data-placeholder="ВІДЕО / КАДР: потоплення танкера Kylo в Оманській затоці, 5.09.2026 — відео CENTCOM (матеріал уряду США, вільне використання). Альтернатива: кадр удару по Stark 1 або Downy."
+        >
+          <figcaption>
+            Танкер Kylo тоне в Оманській затоці після удару США, 5 вересня 2026
+            року. Відео CENTCOM.
+          </figcaption>
+        </figure>
+
+        <p>
+          У червні американська блокада вперше вбила моряків. Літак уразив
+          машинне відділення танкера Settebello під прапором Палау, бо екіпаж,
+          за версією Центрального командування, не виконував вказівок. Загинули
+          троє громадян Індії. Індія викликала заступника посла США й заявила
+          рішучий протест
+          <a className="ref" href="#ref-59">
+            [59]
+          </a>
+          .
+        </p>
+
+        <p>
+          На іранському боці танкери в протоці уражають «невідомі снаряди», про
+          які UKMTO, британський центр безпеки торговельного судноплавства,
+          часто дізнається із запізненням. 2–3 жовтня біля оманського берега
+          підтвердили чотири такі атаки, в одному випадку дрон влетів у димову
+          трубу й упав у машинне відділення. Окремо Корпус вартових по радіо
+          наказав танкеру за 11 миль на північ від Хасаба повернути назад,
+          інакше його атакують, і капітан підкорився
+          <a className="ref" href="#ref-60">
+            [60]
+          </a>
+          . За перші шість днів жовтня в Ормузі атакували дев&apos;ять танкерів,
+          половину від усього вересня
+          <a className="ref" href="#ref-55">
+            [55]
+          </a>
+          . Коли США вдарили по іранських танкерах, Корпус вартових закликав
+          екіпажі танкерів біля портів Кувейту й Бахрейну негайно покинути
+          судна, бо їх атакують
+          <a className="ref" href="#ref-15">
+            [15]
+          </a>
+          .
+        </p>
+
+        <p>
+          Увечері 7 жовтня кілька снарядів уразили танкер за 51 милю на північ
+          від катарського Мадінат-аш-Шамаль. Є жертви, але скільки, а також
+          назву судна й походження снарядів UKMTO не повідомив
+          <a className="ref" href="#ref-61">
+            [61]
+          </a>
+          . Це перший удар у Перській затоці поза Ормузом за кілька тижнів, за
+          54 кілометри від Рас-Лаффана, головного газового терміналу Катару.
+          Відповідальність ніхто не взяв
+          <a className="ref" href="#ref-62">
+            [62]
+          </a>
+          . Сталося це у виключній економічній зоні Катару, і Доха, як Софія й
+          Бухарест тижнем раніше, не коментує
+          <a className="ref" href="#ref-55">
+            [55]
+          </a>
+          .
+        </p>
+
+        <p>
+          До кінця серпня Міжнародна морська організація підтвердила в регіоні
+          68 інцидентів, у середньому один на 2,6 дня. Половина з них
+          стосувалася танкерів, найчастіше під прапорами Ліберії, Панами й
+          Маршаллових Островів
+          <a className="ref" href="#ref-16">
+            [16]
+          </a>
+          . Близько 20 тисяч моряків лишаються в регіоні, частина з них на
+          суднах, які не можуть вийти з Перської затоки. План евакуації шести
+          тисяч моряків, який підготувала IMO, призупинено
+          <a className="ref" href="#ref-63">
+            [63]
+          </a>
+          .
+        </p>
+
+        <p>
+          За оцінкою Міжнародного енергетичного агентства, у серпні в Перській
+          затоці було зупинено понад 10 мільйонів барелів видобутку на добу. Ще
+          в лютому Затока й Росія разом давали майже 45% світової морської
+          торгівлі дизельним пальним, а в серпні їхній чистий експорт був на 1,6
+          мільйона барелів на добу менший. Агентство прямо пов&apos;язує ці
+          втрати з українськими ударами по російських НПЗ і майже повною
+          зупинкою експорту нафтопродуктів з Росії. Дизель у США на початку
+          вересня коштував понад 200 доларів за барель, на 94% дорожче, ніж до
+          війни
+          <a className="ref" href="#ref-17">
+            [17]
+          </a>
+          .
+        </p>
+
+        <h3>Червоне море і Кариби</h3>
+
+        <p>
+          У Червоному морі хусити тепер воюють на суші. Урядові сили Ємену за
+          підтримки Саудівської Аравії б&apos;ються з ними за Моху й узбережжя
+          Баб-ель-Мандебу, а хусити відповідають ракетами по саудівських
+          аеропортах. Проти суден вони, за власними заявами, діють лише тоді,
+          коли ті пов&apos;язані із Саудівською Аравією
+          <a className="ref" href="#ref-64">
+            [64]
+          </a>
+          . 4 жовтня біля танкера Chrystal Sky за 60 миль на південь від Мохи
+          пролунала серія вибухів, один за сто метрів від борту
+          <a className="ref" href="#ref-65">
+            [65]
+          </a>
+          . 7 жовтня невеликий катер обстріляв на півночі Баб-ель-Мандебу
+          китайський контейнеровоз. Екіпаж не постраждав, хто стріляв, невідомо
+          <a className="ref" href="#ref-64">
+            [64]
+          </a>
+          . Європейська місія Aspides продовжує супроводжувати судна
+          <a className="ref" href="#ref-64">
+            [64]
+          </a>
+          .
+        </p>
+
+        <div className="aside-note">
+          <p>
+            Найпряміший приклад того, як оголошення «збройного конфлікту» знімає
+            з цивільного судна будь-який захист, дають Кариби. З вересня 2025
+            року американські військові завдали щонайменше 70 ударів по катерах,
+            яких адміністрація Трампа називає наркотерористами, і вбили
+            щонайменше 235 людей. Останній удар 4 жовтня вбив чотирьох. Доказів,
+            що катери везли наркотики, військові не наводять
+            <a className="ref" href="#ref-66">
+              [66]
+            </a>
+            .
+          </p>
+        </div>
+
+        {/* TODO: § 04 Чому судна ніхто не захищає (Нюрнберг, Лондонський протокол, ВЕЗ, ст. 5; Румунія, Болгарія, Катар; конвої там, де вони є) → § 05 Хто платить за чужу війну (FAO, Єгипет, олія для Індії, Африка, WFP) → § 06 Висновок */}
 
         {/* ===================== ДЖЕРЕЛА ===================== */}
         <section className="refs" id="sec-refs">
@@ -1248,6 +1449,92 @@ export default function Page() {
               RUB 7.6tln from RUB 8.9tln previously», 28.09.2026.{" "}
               <a href="https://www.newsquawk.com/headlines/russia-cuts-oil-and-gas-revenues-estimate-for-2026-to-rub-76tln-from-rub-89tln-previously">
                 newsquawk.com
+              </a>
+            </li>
+            <li id="ref-55">
+              Al Jazeera — «Tanker hit by multiple projectiles off north coast
+              of Qatar, UKMTO says», 08.10.2026.{" "}
+              <a href="https://www.aljazeera.com/news/2026/10/8/tanker-hit-by-multiple-projectiles-off-north-coast-of-qatar-ukmto-says">
+                aljazeera.com
+              </a>
+            </li>
+            <li id="ref-56">
+              IranWire — «CENTCOM Destroys 13 Vessels and Reroutes 130 Ships
+              Enforcing Maritime Blockade on Iran», 06.10.2026.{" "}
+              <a href="https://iranwire.com/en/news/158535-centcom-destroys-13-vessels-and-reroutes-130-ships-enforcing-maritime-blockade-on-iran/">
+                iranwire.com
+              </a>
+            </li>
+            <li id="ref-57">
+              Air &amp; Space Forces Magazine — «US Fighters, Drones Strike 3
+              Iranian Oil Tankers After Iran Fires on Navy Ships», 05.09.2026.{" "}
+              <a href="https://www.airandspaceforces.com/us-strikes-3-iranian-tankers-fighters-and-drones-trump-administration-seeks-higher-economic-costs-iran/">
+                airandspaceforces.com
+              </a>
+            </li>
+            <li id="ref-58">
+              CNN — «US military strikes three Iranian tankers in retaliation
+              for missile attacks», 05.09.2026. Аудіо радіопопереджень
+              підтверджене CNN.{" "}
+              <a href="https://www.cnn.com/2026/09/05/middleeast/iran-us-tanker-kharg-intl">
+                cnn.com
+              </a>
+            </li>
+            <li id="ref-59">
+              Baird Maritime — «India confirms three of its sailors died in US
+              tanker strike, another incident reported», 06.2026.{" "}
+              <a href="https://www.bairdmaritime.com/security/incidents/india-confirms-three-of-its-sailors-died-in-us-tanker-strike-another-incident-reported">
+                bairdmaritime.com
+              </a>
+            </li>
+            <li id="ref-60">
+              gCaptain — «More Tankers Hit in Hormuz as IRGC Orders Ship to Turn
+              Back», 05.10.2026. Дані UKMTO і JMIC.{" "}
+              <a href="https://gcaptain.com/more-tankers-hit-in-hormuz-as-irgc-orders-ship-to-turn-back/">
+                gcaptain.com
+              </a>
+            </li>
+            <li id="ref-61">
+              Arab Times — «Tanker Hit by Multiple Projectiles Off Qatar,
+              Casualties Reported», 07.10.2026. Дані UKMTO.{" "}
+              <a href="https://www.arabtimesonline.com/news/tanker-hit-by-multiple-projectiles-off-qatar-casualties-reported/">
+                arabtimesonline.com
+              </a>
+            </li>
+            <li id="ref-62">
+              Discovery Alert — «Tanker Struck 51nm North of Qatar in New Gulf
+              Shipping Attack», 10.2026. Коментар М. Келлі (EOS Risk Group);
+              аналітичний агрегатор.{" "}
+              <a href="https://discoveryalert.com/news/gulf-tanker-attack-qatar-ras-laffan-october-2026/">
+                discoveryalert.com
+              </a>
+            </li>
+            <li id="ref-63">
+              IMO — «Middle East: information related to shipping and seafarers
+              — Strait of Hormuz and the Middle East», оновлено 06.10.2026.{" "}
+              <a href="https://www.imo.org/en/mediacentre/hottopics/pages/middle-east-strait-of-hormuz.aspx">
+                imo.org
+              </a>
+            </li>
+            <li id="ref-64">
+              The Maritime Executive — «Shots Fired at Chinese Containership in
+              the Red Sea», 07.10.2026.{" "}
+              <a href="https://maritime-executive.com/article/shots-fired-at-chinese-containership-in-the-red-sea">
+                maritime-executive.com
+              </a>
+            </li>
+            <li id="ref-65">
+              Seatrade Maritime — «Product tanker attacked in Red Sea as
+              hostilities escalate», 05.10.2026.{" "}
+              <a href="https://seatrade-maritime.com/security/product-tanker-attacked-in-red-sea-as-hostilities-escalate">
+                seatrade-maritime.com
+              </a>
+            </li>
+            <li id="ref-66">
+              CBS News — «Another U.S. strike on alleged drug-smuggling boat
+              kills 4, SOUTHCOM says», 05.10.2026.{" "}
+              <a href="https://www.cbsnews.com/news/us-strike-alleged-drug-smuggling-boat-caribbean-4-dead-southcom/">
+                cbsnews.com
               </a>
             </li>
           </ol>
