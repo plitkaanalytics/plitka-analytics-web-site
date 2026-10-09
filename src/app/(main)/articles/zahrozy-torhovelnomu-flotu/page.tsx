@@ -39,10 +39,10 @@ export default function Page() {
       {/* ============ LEDE ============ */}
       <div className="lede-block">
         <div className="lede-block__img">
-          <figure
-            className="fig"
-            data-placeholder="ОБКЛАДИНКА: Alfa Watan у морі (VesselFinder / MarineTraffic) або Able після удару; кадр Aframax Rio у вогні вже стоїть у § 02. Умова публікації — уточнити."
-          ></figure>
+          <img
+            src="/articles/totalna_viyna_v_mori/cover.jpg"
+            alt="Іржаве напівзатоплене судно з розбитою надбудовою лежить біля причалу, на ньому сидять баклани; на горизонті силует військового корабля"
+          />
         </div>
         <p className="lede">
           Близько третьої ночі 6 жовтня 2026 року за 70 морських миль на схід
@@ -275,13 +275,14 @@ export default function Page() {
           <span className="h2-num">§ 01 · Захід</span>Порт Україна
         </h2>
 
-        <figure
-          className="fig"
-          data-placeholder="ФОТО: моряки з Able сходять на берег у Варні з катера прикордонної поліції, 6.10.2026 (BTA / Rumen Sarandev або Reuters / Petko Momchilov). Умова публікації — уточнити."
-        >
+        <figure className="fig">
+          <img
+            src="/articles/totalna_viyna_v_mori/able.png"
+            alt="Пошкоджене іржаве вантажне судно з димом над надбудовою; рятувальники в помаранчевих жилетах спускаються по трапу в надувний човен, поруч синьо-білий катер"
+          />
           <figcaption>
-            Моряки з Able у Варні, 6 жовтня 2026 року. [ джерело й умова
-            публікації ]
+            Евакуація екіпажу з ураженого судна. [ джерело й умова публікації;
+            якщо ілюстрація — позначити ]
           </figcaption>
         </figure>
 
@@ -728,13 +729,14 @@ export default function Page() {
           .
         </p>
 
-        <figure
-          className="fig"
-          data-placeholder="ФОТО (1–2 кадри): Aframax Rio у вогні біля Сочі ввечері 6.10.2026 — полум'я на палубі й нафта, що горить на воді; стовп диму над узбережжям. Кадри з соцмереж (AFPTV UGC, ASTRA, Fontanka) або XPost. Умова публікації — уточнити."
-        >
+        <figure className="fig">
+          <img
+            src="/articles/totalna_viyna_v_mori/sochi.jpg"
+            alt="Над морем на тлі помаранчевого заходу сонця здіймається величезний стовп чорного диму, біля води видно смугу полум'я"
+          />
           <figcaption>
-            Aframax Rio горить за 11 кілометрів від Сочі, 6 жовтня 2026 року. [
-            джерело й умова публікації ]
+            Aframax Rio горить біля Сочі, 6 жовтня 2026 року. Кадр «Крымского
+            ветра».
           </figcaption>
         </figure>
 
@@ -988,13 +990,14 @@ export default function Page() {
           .
         </p>
 
-        <figure
-          className="fig"
-          data-placeholder="ВІДЕО / КАДР: потоплення танкера Kylo в Оманській затоці, 5.09.2026 — відео CENTCOM (матеріал уряду США, вільне використання). Альтернатива: кадр удару по Stark 1 або Downy."
-        >
+        <figure className="fig">
+          <img
+            src="/articles/totalna_viyna_v_mori/kylo.webp"
+            alt="Нічний тепловізійний кадр згори: корпус танкера з написом M/T KYLO іде під воду, над кадром позначка UNCLASSIFIED"
+          />
           <figcaption>
-            Танкер Kylo тоне в Оманській затоці після удару США, 5 вересня 2026
-            року. Відео CENTCOM.
+            Танкер Kylo тоне в Оманській затоці, 5 вересня 2026 року. Кадр відео
+            CENTCOM.
           </figcaption>
         </figure>
 
