@@ -8,6 +8,10 @@ import {
   getAllArticles,
 } from "@/lib/articles";
 import ArticleHead from "@/components/ArticleHead";
+import OdesaDanubeShift from "@/components/OdesaDanubeShift";
+import RussiaWheatDrop from "@/components/RussiaWheatDrop";
+import UralsVsRevenue from "@/components/UralsVsRevenue";
+import FaoCerealIndex from "@/components/FaoCerealIndex";
 
 const SLUG = "zahrozy-torhovelnomu-flotu";
 
@@ -445,10 +449,8 @@ export default function Page() {
           .
         </p>
 
-        <figure
-          className="fig"
-          data-placeholder="ГРАФІК: перевалка Великої Одеси й дунайських портів по місяцях 2026 року (квітень — 7,9 млн т Одеса; серпень — 430 тис. т Одеса, 1,24 млн т Дунай; частка Дунаю ~10% у I півріччі → 74% у серпні). Дані Ambrey / АМПУ. Власна графіка редакції."
-        >
+        <figure className="fig">
+          <OdesaDanubeShift />
           <figcaption>
             Перевалка Великої Одеси й Дунаю у 2026 році. Графіка PLITKA
             Analytics за даними Ambrey.
@@ -852,10 +854,8 @@ export default function Page() {
           .
         </p>
 
-        <figure
-          className="fig"
-          data-placeholder="ГРАФІК: експорт пшениці РФ, вересень 2025 vs вересень 2026. Друга декада вересня: 1,3 млн т → 347 тис. т; Новоросійськ: 696 тис. т → 72,5 тис. т; покупців 29 → 8 (Російський зерновий союз). Липень–вересень: 11,3 → ~5,6 млн т (Совекон). Власна графіка редакції."
-        >
+        <figure className="fig">
+          <RussiaWheatDrop />
           <figcaption>
             Експорт пшениці з Росії восени 2026 року проти 2025-го. Графіка
             PLITKA Analytics за даними Російського зернового союзу й «Совекона».
@@ -923,10 +923,8 @@ export default function Page() {
           .
         </p>
 
-        <figure
-          className="fig"
-          data-placeholder="ГРАФІК: ціна Urals проти нафтогазових доходів бюджету РФ, 2026. Urals: ~$45 (до 28.02, Приморськ) → $113,89 (8.04, максимум з 2013) → понад $92 (кінець вересня). Доходи: січень–вересень 5,47 трлн руб. проти 6,61 трлн у 2025 (−17%); вересень 452,4 млрд руб. (−22% р/р); оцінка на рік 8,9 → 7,6 трлн. Дані Reuters, Мінфін РФ (заявлені). Власна графіка редакції."
-        >
+        <figure className="fig">
+          <UralsVsRevenue />
           <figcaption>
             Ціна Urals і нафтогазові доходи бюджету Росії у 2026 році. Графіка
             PLITKA Analytics за даними Reuters і Мінфіну РФ.
@@ -1321,10 +1319,8 @@ export default function Page() {
           .
         </p>
 
-        <figure
-          className="fig"
-          data-placeholder="ГРАФІК: індекс зернових цін FAO, 2025–2026 по місяцях; вересень 2026 — 122,8 пункту (+5,1% за місяць, +17,2% р/р); позначки: 28.02 (Ормуз), 13.04 (блокада), липень (зупинка Одеси, Новоросійська). Дані FAO. Власна графіка редакції."
-        >
+        <figure className="fig">
+          <FaoCerealIndex />
           <figcaption>
             Індекс зернових цін FAO у 2025–2026 роках. Графіка PLITKA Analytics
             за даними FAO.
