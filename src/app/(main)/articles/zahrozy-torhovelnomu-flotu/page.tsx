@@ -12,6 +12,7 @@ import OdesaDanubeShift from "@/components/OdesaDanubeShift";
 import RussiaWheatDrop from "@/components/RussiaWheatDrop";
 import UralsVsRevenue from "@/components/UralsVsRevenue";
 import FaoCerealIndex from "@/components/FaoCerealIndex";
+import BlackSeaWarRisk from "@/components/BlackSeaWarRisk";
 
 const SLUG = "zahrozy-torhovelnomu-flotu";
 
@@ -212,10 +213,8 @@ export default function Page() {
           .
         </p>
 
-        <figure
-          className="fig"
-          data-placeholder="КАРТА: Чорне море. Стара зона воєнного ризику JWC (води біля РФ і України) і нова за JWLA-035 від 16.09.2026 (усе море, крім 12 миль Туреччини, Румунії, Болгарії, Грузії). Точки 5–6.10: Royad Mammadov біля Pescăruș, Alfa Watan і Able за 70 миль від Бяли, судно під прапором Маршаллових Островів біля Одещини, Aframax Rio за 11 км від Сочі. Власна графіка редакції."
-        >
+        <figure className="fig">
+          <BlackSeaWarRisk />
           <figcaption>
             Зона воєнного ризику в Чорному морі до і після 16 вересня 2026 року
             та удари 5–6 жовтня. Графіка PLITKA Analytics.
