@@ -495,12 +495,69 @@ export default function Page() {
         </p>
 
         <p>
+          Вантажівки до Ізмаїла й Рені йдуть трасою Одеса–Рені через міст над
+          Дністром біля Маяків. Це останній український міст через Дністер в
+          Одеській області, бо міст у Затоці після сотень ударів давно
+          непроїзний
+          <a className="ref" href="#ref-32">
+            [32]
+          </a>
+          . Росія вперше вдарила по ньому в грудні 2025 року, і тоді рух на
+          захід області зупинявся, а Україна й Молдова домовлялися про
+          об&apos;їзні маршрути через молдовську територію
+          <a className="ref" href="#ref-33">
+            [33]
+          </a>
+          . У серпні 2026 року аналітики Інституту вивчення війни помітили, що
+          Росія переносить удари з морських портів на сухопутні маршрути
+          Одещини, щоб зірвати експорт зерна, і міст у Маяках опинився під
+          загрозою
+          <a className="ref" href="#ref-34">
+            [34]
+          </a>
+          .
+        </p>
+
+        <p>
+          5 жовтня снаряд рикошетом влучив у рейсовий автобус біля пункту
+          пропуску «Паланка — Маяки — Удобне», і роботу пункту призупинили
+          <a className="ref" href="#ref-35">
+            [35]
+          </a>
+          . Молдова облаштовує на пунктах пропуску укриття від дронів і виводить
+          своїх прикордонників зі спільних пунктів «Паланка» й «Крива» на власну
+          територію
+          <a className="ref" href="#ref-36">
+            [36]
+          </a>
+          . 9 жовтня Повітряні сили двічі попереджали про реактивні дрони, що
+          летять на Маяки
+          <a className="ref" href="#ref-37">
+            [37]
+          </a>
+          <a className="ref" href="#ref-38">
+            [38]
+          </a>
+          . Проросійський телеграм-канал «Военный осведомитель» 7 і 9 жовтня
+          публікував відео влучань реактивних «Герань-4» у колони українських
+          вантажівок на трасі біля Маяків. За його описом, удар 9 жовтня припав
+          на вантажівки, що стояли в заторі після чергового удару по мосту
+          <a className="ref" href="#ref-39">
+            [39]
+          </a>
+          <a className="ref" href="#ref-40">
+            [40]
+          </a>
+          .
+        </p>
+
+        <p>
           Під удар продовжують потрапляти і ті, хто ще заходить в Одесу. 17
           вересня російський дрон убив капітана судна під прапором Танзанії, яке
           йшло в український порт, а 3 жовтня в порту Одещини загинув моряк із
           судна під прапором Ліберії
-          <a className="ref" href="#ref-32">
-            [32]
+          <a className="ref" href="#ref-41">
+            [41]
           </a>
           <a className="ref" href="#ref-4">
             [4]
@@ -529,14 +586,14 @@ export default function Page() {
           мільярди доларів, а внесок обстрілів, насамперед руйнування логістики
           й блокування морських портів, у зростання ВВП в мінус 0,9 відсоткового
           пункту
-          <a className="ref" href="#ref-33">
-            [33]
+          <a className="ref" href="#ref-42">
+            [42]
           </a>
           . Ринкові оцінки жорсткіші: кожен день зупинки чорноморських портів
           коштує Україні близько 70 мільйонів доларів експортних надходжень, а
           дефіцит зовнішньої торгівлі вже за перше півріччя сягнув 28,3 мільярда
-          <a className="ref" href="#ref-34">
-            [34]
+          <a className="ref" href="#ref-43">
+            [43]
           </a>
           .
         </p>
@@ -576,11 +633,11 @@ export default function Page() {
           Всеукраїнська аграрна рада та уряд оцінюють надлишок зерна, що
           накопичується в країні через зупинку портів, приблизно в 30–35
           мільйонів тонн
-          <a className="ref" href="#ref-34">
-            [34]
+          <a className="ref" href="#ref-43">
+            [43]
           </a>
-          <a className="ref" href="#ref-35">
-            [35]
+          <a className="ref" href="#ref-44">
+            [44]
           </a>
           . Ще на початку вересня аграрна рада порадила експортерам будувати
           плани з розрахунку, що глибоководні порти не відкриються до грудня чи
@@ -592,8 +649,8 @@ export default function Page() {
           додатковому транзиті. «Інтереси наших власних фермерів лишаються в
           пріоритеті», — пояснив міністр сільського господарства Румунії Барна
           Танчош
-          <a className="ref" href="#ref-35">
-            [35]
+          <a className="ref" href="#ref-44">
+            [44]
           </a>
           .
         </p>
@@ -601,8 +658,8 @@ export default function Page() {
         <p>
           Соняшникової олії Україна, за даними асоціації «Укроліяпром», вивозить
           близько 300 тисяч тонн на місяць, удвічі менше за звичне
-          <a className="ref" href="#ref-36">
-            [36]
+          <a className="ref" href="#ref-45">
+            [45]
           </a>
           . Сільськогосподарська продукція та метали разом дають 70% усього
           українського експорту і більшість йшла морем
@@ -613,8 +670,8 @@ export default function Page() {
           серпня додаткова премія за воєнний ризик для заходу в порти Великої
           Одеси й Дунаю становила 1–1,25% вартості судна, тоді як раніше ці
           цифри сягали 0,75% для Одеси, та 0,3–0,5% для Дунаю
-          <a className="ref" href="#ref-37">
-            [37]
+          <a className="ref" href="#ref-46">
+            [46]
           </a>
           . У жовтні Ambrey повідомило, що багато страховиків узагалі
           відмовляються страхувати заходи в українські порти
@@ -638,8 +695,8 @@ export default function Page() {
           грецьких менеджерів. У 2024–2026 роках він неодноразово вивозив нафту
           з Усть-Луги, Новоросійська й Тамані до Індії, Сінгапуру й Саудівської
           Аравії
-          <a className="ref" href="#ref-38">
-            [38]
+          <a className="ref" href="#ref-47">
+            [47]
           </a>
           .
         </p>
@@ -647,13 +704,13 @@ export default function Page() {
         <p>
           Останні тижні перед ударом танкер вдавав, що йде в Румунію. Пунктом
           призначення в його AIS стояла Констанца
-          <a className="ref" href="#ref-38">
-            [38]
+          <a className="ref" href="#ref-47">
+            [47]
           </a>
           , але серед заходів за останній рік, які показує сервіс MagicPort,
           Констанци немає. Є Тузла, Самсун, Чанаккале, Суец і Порт-Саїд
-          <a className="ref" href="#ref-39">
-            [39]
+          <a className="ref" href="#ref-48">
+            [48]
           </a>
           . Горів він за 11 кілометрів від Сочі, у територіальних водах Росії
           <a className="ref" href="#ref-7">
@@ -665,8 +722,8 @@ export default function Page() {
           </a>
           . Наступного дня Зеленський повідомив про удар у Чорному морі, не
           назвавши цілі
-          <a className="ref" href="#ref-40">
-            [40]
+          <a className="ref" href="#ref-49">
+            [49]
           </a>
           .
         </p>
@@ -683,19 +740,19 @@ export default function Page() {
 
         <p>
           Російська влада назвала атаку терористичною{" "}
-          <a className="ref" href="#ref-41">
-            [41]
+          <a className="ref" href="#ref-50">
+            [50]
           </a>
           . Мінтранс уже за добу після відкритого горіння нафти на воді заявив,
           що забруднення акваторії немає. Наслідки ліквідує зведене угруповання
           Мінтрансу, МНС, Краснодарського краю і Міноборони
-          <a className="ref" href="#ref-42">
-            [42]
+          <a className="ref" href="#ref-51">
+            [51]
           </a>
           . Greenpeace попереджає про «безпрецедентне забруднення Чорного моря»,
           масштабніше за два попередні великі розливи в регіоні
-          <a className="ref" href="#ref-41">
-            [41]
+          <a className="ref" href="#ref-50">
+            [50]
           </a>
           .
         </p>
@@ -716,8 +773,8 @@ export default function Page() {
             [28]
           </a>
           . Того ж 10 липня Росія обмежила судноплавство в Азовському морі
-          <a className="ref" href="#ref-43">
-            [43]
+          <a className="ref" href="#ref-52">
+            [52]
           </a>
           .
         </p>
@@ -731,14 +788,14 @@ export default function Page() {
           нафти, і Казахстан почав скорочувати видобуток. Російська влада
           попередила всі судна в російській економічній зоні Чорного моря, що
           там небезпечно
-          <a className="ref" href="#ref-44">
-            [44]
+          <a className="ref" href="#ref-53">
+            [53]
           </a>
           . 12–13 серпня зупинилися всі три зернові термінали Новоросійська,
           KSK, NZT і NKHP, разом 24,6 мільйона тонн на рік, близько 75%
           чорноморських зернових потужностей Росії
-          <a className="ref" href="#ref-43">
-            [43]
+          <a className="ref" href="#ref-52">
+            [52]
           </a>
           .
         </p>
@@ -751,21 +808,21 @@ export default function Page() {
             Левченко» і фрегат «Неустрашимый» супроводжували через Північне море
             й Ла-Манш підсанкційні суховантажі General Skobelev і Sparta, а
             британський флот їх відстежував
-            <a className="ref" href="#ref-45">
-              [45]
+            <a className="ref" href="#ref-54">
+              [54]
             </a>
             . Перший морський лорд Гвін Дженкінс пояснює це тим, що після
             перехоплення британцями підсанкційного танкера Smyrtos у червні
             судна тіньового флоту змушені міняти маршрути, а Москва відволікає
             бойові кораблі на охорону вантажів
-            <a className="ref" href="#ref-45">
-              [45]
+            <a className="ref" href="#ref-54">
+              [54]
             </a>
             . Не обійшлося і провокацій у відповідь, на Балтиці 30 вересня
             прикордонники ФСБ на кілька годин затримали кіпрський суховантаж
             Västerbotten, що йшов зі Швеції до естонського Сілламяе
-            <a className="ref" href="#ref-46">
-              [46]
+            <a className="ref" href="#ref-55">
+              [55]
             </a>
             .
           </p>
@@ -781,14 +838,14 @@ export default function Page() {
           прогнозує не більше мільйона тонн проти 5,7 мільйона роком раніше, і
           відвантаження дедалі більше йдуть через балтійські Висоцьк та
           Усть-Лугу
-          <a className="ref" href="#ref-47">
-            [47]
+          <a className="ref" href="#ref-56">
+            [56]
           </a>
           . Аналітики «Совекона» оцінюють падіння за липень–вересень удвічі, а
           балтійські порти здатні замінити менше десятої частини звичних
           південних обсягів
-          <a className="ref" href="#ref-48">
-            [48]
+          <a className="ref" href="#ref-57">
+            [57]
           </a>
           .
         </p>
@@ -809,14 +866,14 @@ export default function Page() {
           його реалізації через обмеження роботи портів», — пояснив губернатор.
           На федеральному рівні скасували експортні мита, запровадили мораторій
           на банкрутство аграріїв і готують доплати на посів озимих
-          <a className="ref" href="#ref-49">
-            [49]
+          <a className="ref" href="#ref-58">
+            [58]
           </a>
           . Партію російської соняшникової олії на 20 тисяч тонн для Індії
           скасували, бо постачальник не зміг її відвантажити, а ще близько 60
           тисяч тонн затрималися
-          <a className="ref" href="#ref-36">
-            [36]
+          <a className="ref" href="#ref-45">
+            [45]
           </a>
           .
         </p>
@@ -825,19 +882,19 @@ export default function Page() {
           24 вересня експорт дизельного пального й газойлю через Чорне море впав
           до нуля, уперше за всю історію спостережень, а весь морський експорт
           дизеля Росії йшов лише з балтійського Приморська
-          <a className="ref" href="#ref-50">
-            [50]
+          <a className="ref" href="#ref-59">
+            [59]
           </a>
           . Із сирою нафтою інакше. У вересні, за даними джерел ринку,
           відвантаження з Новоросійська відновилися приблизно до 650 тисяч
           барелів на добу
-          <a className="ref" href="#ref-51">
-            [51]
+          <a className="ref" href="#ref-60">
+            [60]
           </a>
           . При цьому тижнева виручка від морського експорту нафти, за даними
           Bloomberg, сягнула максимуму від початку повномасштабного вторгнення
-          <a className="ref" href="#ref-50">
-            [50]
+          <a className="ref" href="#ref-59">
+            [59]
           </a>
           .
         </p>
@@ -848,18 +905,18 @@ export default function Page() {
           бюджету за дев&apos;ять місяців 2026 року впали на 17%, падає
           видобуток, уряд знизив його прогноз до мінімуму за 17 років, а
           нафтопереробні заводи продовжують залишатися під ударами
-          <a className="ref" href="#ref-52">
-            [52]
+          <a className="ref" href="#ref-61">
+            [61]
           </a>
           . У вересні доходи впали на 22% відносно попереднього року, а весь
           приріст податку на видобуток з&apos;їли компенсації нафтопереробникам
-          <a className="ref" href="#ref-53">
-            [53]
+          <a className="ref" href="#ref-62">
+            [62]
           </a>
           . Мінфін знизив оцінку нафтогазових доходів на 2026 рік з 8,9 до 7,6
           трильйона рублів
-          <a className="ref" href="#ref-54">
-            [54]
+          <a className="ref" href="#ref-63">
+            [63]
           </a>
           .
         </p>
@@ -882,21 +939,21 @@ export default function Page() {
         <p>
           До війни Ормузькою протокою щодня проходило близько 125 великих
           комерційних суден
-          <a className="ref" href="#ref-55">
-            [55]
+          <a className="ref" href="#ref-64">
+            [64]
           </a>
           . Після 28 лютого Іран фактично закрив протоку, а США з 13 квітня
           блокують іранські порти. Транзит до неіранських портів блокада
           формально не зачіпає, але судна, що йдуть до Ірану чи з нього,
           американські сили розвертають або виводять з ладу
-          <a className="ref" href="#ref-56">
-            [56]
+          <a className="ref" href="#ref-65">
+            [65]
           </a>
           . 5 жовтня Центральне командування США підбило підсумок дванадцяти
           тижнів блокади: 130 суден розвернуто, три виведено з ладу, 13
           комерційних суден знищено
-          <a className="ref" href="#ref-56">
-            [56]
+          <a className="ref" href="#ref-65">
+            [65]
           </a>
           .
         </p>
@@ -906,16 +963,16 @@ export default function Page() {
           балістичні ракети по американських авіаносцю й есмінцю, США вдарили по
           трьох іранських танкерах. Два вивели з ладу, третій, порожній Kylo,
           знищили, і він затонув в Оманській затоці
-          <a className="ref" href="#ref-57">
-            [57]
+          <a className="ref" href="#ref-66">
+            [66]
           </a>
           . Перед ударом по Stark 1 американський літак вийшов на аварійний
           канал: «Танкер STARK 1, говорить військовий літак США. Готуюся
           стріляти вам у корму. Маєте десять хвилин, щоб прибрати екіпаж з
           корми». Потім прозвучало останнє попередження: сідати в рятувальні
           шлюпки й залишати судно
-          <a className="ref" href="#ref-58">
-            [58]
+          <a className="ref" href="#ref-67">
+            [67]
           </a>
           . 8 і 9 вересня США знищили ще п&apos;ять танкерів, екіпажам щоразу
           наказували покинути судно перед ударом
@@ -925,8 +982,8 @@ export default function Page() {
           . «Якщо Іран стрілятиме по кораблях США, ми знищуватимемо (і
           топитимемо) його нафтові танкери», — пояснив міністр оборони Піт
           Гегсет
-          <a className="ref" href="#ref-58">
-            [58]
+          <a className="ref" href="#ref-67">
+            [67]
           </a>
           .
         </p>
@@ -947,8 +1004,8 @@ export default function Page() {
           за версією Центрального командування, не виконував вказівок. Загинули
           троє громадян Індії. Індія викликала заступника посла США й заявила
           рішучий протест
-          <a className="ref" href="#ref-59">
-            [59]
+          <a className="ref" href="#ref-68">
+            [68]
           </a>
           .
         </p>
@@ -961,13 +1018,13 @@ export default function Page() {
           трубу й упав у машинне відділення. Окремо Корпус вартових по радіо
           наказав танкеру за 11 миль на північ від Хасаба повернути назад,
           інакше його атакують, і капітан підкорився
-          <a className="ref" href="#ref-60">
-            [60]
+          <a className="ref" href="#ref-69">
+            [69]
           </a>
           . За перші шість днів жовтня в Ормузі атакували дев&apos;ять танкерів,
           половину від усього вересня
-          <a className="ref" href="#ref-55">
-            [55]
+          <a className="ref" href="#ref-64">
+            [64]
           </a>
           . Коли США вдарили по іранських танкерах, Корпус вартових закликав
           екіпажі танкерів біля портів Кувейту й Бахрейну негайно покинути
@@ -982,19 +1039,19 @@ export default function Page() {
           Увечері 7 жовтня кілька снарядів уразили танкер за 51 милю на північ
           від катарського Мадінат-аш-Шамаль. Є жертви, але скільки, а також
           назву судна й походження снарядів UKMTO не повідомив
-          <a className="ref" href="#ref-61">
-            [61]
+          <a className="ref" href="#ref-70">
+            [70]
           </a>
           . Це перший удар у Перській затоці поза Ормузом за кілька тижнів, за
           54 кілометри від Рас-Лаффана, головного газового терміналу Катару.
           Відповідальність ніхто не взяв
-          <a className="ref" href="#ref-62">
-            [62]
+          <a className="ref" href="#ref-71">
+            [71]
           </a>
           . Сталося це у виключній економічній зоні Катару, і Доха, як Софія й
           Бухарест тижнем раніше, не коментує
-          <a className="ref" href="#ref-55">
-            [55]
+          <a className="ref" href="#ref-64">
+            [64]
           </a>
           .
         </p>
@@ -1010,8 +1067,8 @@ export default function Page() {
           . Близько 20 тисяч моряків лишаються в регіоні, частина з них на
           суднах, які не можуть вийти з Перської затоки. План евакуації шести
           тисяч моряків, який підготувала IMO, призупинено
-          <a className="ref" href="#ref-63">
-            [63]
+          <a className="ref" href="#ref-72">
+            [72]
           </a>
           .
         </p>
@@ -1040,22 +1097,22 @@ export default function Page() {
           Баб-ель-Мандебу, а хусити відповідають ракетами по саудівських
           аеропортах. Проти суден вони, за власними заявами, діють лише тоді,
           коли ті пов&apos;язані із Саудівською Аравією
-          <a className="ref" href="#ref-64">
-            [64]
+          <a className="ref" href="#ref-73">
+            [73]
           </a>
           . 4 жовтня біля танкера Chrystal Sky за 60 миль на південь від Мохи
           пролунала серія вибухів, один за сто метрів від борту
-          <a className="ref" href="#ref-65">
-            [65]
+          <a className="ref" href="#ref-74">
+            [74]
           </a>
           . 7 жовтня невеликий катер обстріляв на півночі Баб-ель-Мандебу
           китайський контейнеровоз. Екіпаж не постраждав, хто стріляв, невідомо
-          <a className="ref" href="#ref-64">
-            [64]
+          <a className="ref" href="#ref-73">
+            [73]
           </a>
           . Європейська місія Aspides продовжує супроводжувати судна
-          <a className="ref" href="#ref-64">
-            [64]
+          <a className="ref" href="#ref-73">
+            [73]
           </a>
           .
         </p>
@@ -1068,8 +1125,8 @@ export default function Page() {
             яких адміністрація Трампа називає наркотерористами, і вбили
             щонайменше 235 людей. Останній удар 4 жовтня вбив чотирьох. Доказів,
             що катери везли наркотики, військові не наводять
-            <a className="ref" href="#ref-66">
-              [66]
+            <a className="ref" href="#ref-75">
+              [75]
             </a>
             .
           </p>
@@ -1294,19 +1351,74 @@ export default function Page() {
               </a>
             </li>
             <li id="ref-32">
+              Kyiv Post — «Odesa Region Cut Off From Romania and Moldova After
+              Bridge Attack», 19.12.2025.{" "}
+              <a href="https://www.kyivpost.com/post/66617">kyivpost.com</a>
+            </li>
+            <li id="ref-33">
+              The New Voice of Ukraine — «Ukraine and Moldova agree on
+              alternative routes after Russian strike on Dniester bridge»,
+              27.12.2025.{" "}
+              <a href="https://english.nv.ua/nation/ukraine-moldova-agree-alternative-routes-after-russian-strike-on-dniester-bridge-50571578.html">
+                english.nv.ua
+              </a>
+            </li>
+            <li id="ref-34">
+              Intent — «Analysts have warned of the threat of Russian strikes on
+              the bridge on the Odesa-Reni highway», 10.08.2026. Переказ звіту
+              ISW від 9.08.2026.{" "}
+              <a href="https://intent.press/en/news/war/2026/analysts-have-warned-of-the-threat-of-russian-strikes-on-the-bridge-on-the-odesa-reni-highway/">
+                intent.press
+              </a>
+            </li>
+            <li id="ref-35">
+              УП / «Європейська правда» — «Україна обговорює з сусідніми
+              країнами зміни в роботі кордону через російські удари»,
+              07.10.2026.{" "}
+              <a href="https://www.pravda.com.ua/news/2026/10/07/8056922/">
+                pravda.com.ua
+              </a>
+            </li>
+            <li id="ref-36">
+              РБК-Україна — «Загроза ударів дронів: Молдова будує укриття на
+              кордоні та виводить прикордонників», 07.10.2026. Дані МВС Молдови
+              через NewsMaker.{" "}
+              <a href="https://www.rbc.ua/rus/news/zagroza-udariv-droniv-moldova-budue-ukrittya-1791402508.html">
+                rbc.ua
+              </a>
+            </li>
+            <li id="ref-37">
+              Повітряні сили ЗСУ (Telegram), 09.10.2026, 04:37.{" "}
+              <a href="https://t.me/kpszsu/84151">t.me/kpszsu</a>
+            </li>
+            <li id="ref-38">
+              Повітряні сили ЗСУ (Telegram), 09.10.2026, 08:08.{" "}
+              <a href="https://t.me/kpszsu/84254">t.me/kpszsu</a>
+            </li>
+            <li id="ref-39">
+              «Военный осведомитель» (Telegram), 07.10.2026. Проросійський
+              канал, відео.{" "}
+              <a href="https://t.me/milinfolive/181056">t.me/milinfolive</a>
+            </li>
+            <li id="ref-40">
+              «Военный осведомитель» (Telegram), 09.10.2026. Проросійський
+              канал, відео; опис заявлений.{" "}
+              <a href="https://t.me/milinfolive/181141">t.me/milinfolive</a>
+            </li>
+            <li id="ref-41">
               РБК-Україна — «Дрони атакували судно з українським зерном біля
               Румунії: Зеленський відреагував», 05.10.2026.{" "}
               <a href="https://www.rbc.ua/rus/news/dron-atakuvav-sudno-ukrayinskim-zernom-nepodalik-1791203993.html">
                 rbc.ua
               </a>
             </li>
-            <li id="ref-33">
+            <li id="ref-42">
               Національний банк України — Інфляційний звіт, липень 2026 року.{" "}
               <a href="https://bank.gov.ua/admin_uploads/article/IR_2026-Q3.pdf?v=19">
                 bank.gov.ua
               </a>
             </li>
-            <li id="ref-34">
+            <li id="ref-43">
               Agroportal — «Зупинка портів: мінус 70 млн експортних надходжень
               щодня. Чи витримає гривня?», 31.07.2026. Авторський аналітичний
               матеріал.{" "}
@@ -1314,26 +1426,26 @@ export default function Page() {
                 agroportal.ua
               </a>
             </li>
-            <li id="ref-35">
+            <li id="ref-44">
               The Insider — переказ матеріалу Politico про відмову Румунії й
               Польщі в додатковому транзиті, 04.10.2026.{" "}
               <a href="https://theins.ru/news/297879">theins.ru</a>
             </li>
-            <li id="ref-36">
+            <li id="ref-45">
               NV Бізнес — «Не тільки нафта. Україна зриває поставки з Росії в
               Індію ще одного товару», 08.10.2026. Дані Reuters, «Укроліяпрому».{" "}
               <a href="https://biz.nv.ua/ukr/markets/ukrajina-okrim-nafti-zrivaye-postavki-z-rosiji-v-indiyu-shche-odnogo-tovaru-reuters-50648018.html">
                 biz.nv.ua
               </a>
             </li>
-            <li id="ref-37">
+            <li id="ref-46">
               Центр транспортних стратегій — «War-Related Risks and More: Five
               Questions About Marine Insurance in the Black Sea», 28.08.2026.{" "}
               <a href="https://en.cfts.org.ua/articles/war_related_risks_and_more_five_questions_about_marine_insurance_in_the_black_sea">
                 cfts.org.ua
               </a>
             </li>
-            <li id="ref-38">
+            <li id="ref-47">
               Укрінформ — «Біля Сочі горить танкер тіньового флоту РФ, який
               перебуває під санкціями України», 06.10.2026. Дані РНБО й
               MarineTraffic.{" "}
@@ -1341,40 +1453,40 @@ export default function Page() {
                 ukrinform.ua
               </a>
             </li>
-            <li id="ref-39">
+            <li id="ref-48">
               MagicPort — профіль судна AFRAMAX RIO (IMO 9273844). Комерційний
               AIS-агрегатор.{" "}
               <a href="https://magicport.ai/vessels/tanker/aframax-rio-mmsi-373641000">
                 magicport.ai
               </a>
             </li>
-            <li id="ref-40">
+            <li id="ref-49">
               РБК-Україна — «Україна уразила цілі у трьох регіонах РФ та Чорному
               морі, — Зеленський», 07.10.2026.{" "}
               <a href="https://www.rbc.ua/rus/news/ukrayina-urazila-tsili-troh-regionah-rf-ta-1791362284.html">
                 rbc.ua
               </a>
             </li>
-            <li id="ref-41">
+            <li id="ref-50">
               The Maritime Executive — «Greenpeace Warns of Environmental
               Fallout From Tanker Attack in Black Sea», 07.10.2026.{" "}
               <a href="https://maritime-executive.com/article/greenpeace-warns-of-environmental-fallout-from-tanker-attack-in-black-sea">
                 maritime-executive.com
               </a>
             </li>
-            <li id="ref-42">
+            <li id="ref-51">
               PortNews (Telegram) — повідомлення Мінтрансу РФ про ліквідацію
               наслідків, 07.10.2026. Російське джерело, дані заявлені.{" "}
               <a href="https://t.me/PortNews_ru/14455">t.me/PortNews_ru</a>
             </li>
-            <li id="ref-43">
+            <li id="ref-52">
               Baird Maritime — «Port shutdowns push Russia into deeper grain
               export slowdown», 13.08.2026. Дані Reuters.{" "}
               <a href="https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/port-shutdowns-push-russia-into-deeper-grain-export-slowdown">
                 bairdmaritime.com
               </a>
             </li>
-            <li id="ref-44">
+            <li id="ref-53">
               The Moscow Times — «Major Russian Black Sea Oil Terminal Halts
               Operations Amid Ukrainian Drone Threat», 25.07.2026. Дані
               Bloomberg.{" "}
@@ -1382,21 +1494,21 @@ export default function Page() {
                 themoscowtimes.com
               </a>
             </li>
-            <li id="ref-45">
+            <li id="ref-54">
               Royal Navy — «Royal Navy shadows Russian warships and shadow fleet
               activity in UK waters», 29.08.2026.{" "}
               <a href="https://www.royalnavy.mod.uk/news/2026/august/29/29082026-royal-navy-shadows-russian-warships-and-shadow-fleet-activity-in-uk-waters">
                 royalnavy.mod.uk
               </a>
             </li>
-            <li id="ref-46">
+            <li id="ref-55">
               The Maritime Executive — «Russia Briefly Detains Cargo Ship Taking
               Short Cut to Estonia», 10.2026.{" "}
               <a href="https://maritime-executive.com/article/russia-briefly-detains-cargo-ship-taking-short-cut-to-estonia">
                 maritime-executive.com
               </a>
             </li>
-            <li id="ref-47">
+            <li id="ref-56">
               UkrAgroConsult — «Russia may export only around 1 mln tons of
               wheat in September», 09.2026. Дані Російського зернового союзу,
               заявлені.{" "}
@@ -1404,25 +1516,25 @@ export default function Page() {
                 ukragroconsult.com
               </a>
             </li>
-            <li id="ref-48">
+            <li id="ref-57">
               The Sizov Report — «Russian Wheat Exports Start 2026/27 at Half
               Last Year’s Pace», 09.2026.{" "}
               <a href="https://blog.sizov.report/russian-wheat-exports-start-2026-27-at-half-last-years-pace/">
                 sizov.report
               </a>
             </li>
-            <li id="ref-49">
+            <li id="ref-58">
               PortNews (Telegram) — режим НС у Краснодарському краї, 28.09.2026.
               Російське джерело, дані заявлені.{" "}
               <a href="https://t.me/PortNews_ru/14410">t.me/PortNews_ru</a>
             </li>
-            <li id="ref-50">
+            <li id="ref-59">
               The Insider — «Russian diesel exports via the Black Sea fall to
               zero for the first time on record», 29.09.2026. Дані S&amp;P
               Global, Bloomberg.{" "}
               <a href="https://theins.press/en/news/297795">theins.press</a>
             </li>
-            <li id="ref-51">
+            <li id="ref-60">
               Newsquawk — «Russia's oil exports from Black Sea Novorossiysk Port
               reportedly surged to 650k bpd in September», 22.09.2026. Дані
               джерел ринку.{" "}
@@ -1430,13 +1542,13 @@ export default function Page() {
                 newsquawk.com
               </a>
             </li>
-            <li id="ref-52">
+            <li id="ref-61">
               The Insider — «Russia’s oil and gas revenues fall 17% in 2026
               despite doubling of Urals crude prices», 05.10.2026. Дані Reuters,
               Мінфіну РФ.{" "}
               <a href="https://theins.press/en/news/297921">theins.press</a>
             </li>
-            <li id="ref-53">
+            <li id="ref-62">
               УП — «Russia's oil and gas revenues dropped by 22% in September
               despite rising oil prices», 05.10.2026. Дані Мінфіну РФ через The
               Bell.{" "}
@@ -1444,35 +1556,35 @@ export default function Page() {
                 pravda.com.ua
               </a>
             </li>
-            <li id="ref-54">
+            <li id="ref-63">
               Newsquawk — «Russia cuts oil and gas revenues estimate for 2026 to
               RUB 7.6tln from RUB 8.9tln previously», 28.09.2026.{" "}
               <a href="https://www.newsquawk.com/headlines/russia-cuts-oil-and-gas-revenues-estimate-for-2026-to-rub-76tln-from-rub-89tln-previously">
                 newsquawk.com
               </a>
             </li>
-            <li id="ref-55">
+            <li id="ref-64">
               Al Jazeera — «Tanker hit by multiple projectiles off north coast
               of Qatar, UKMTO says», 08.10.2026.{" "}
               <a href="https://www.aljazeera.com/news/2026/10/8/tanker-hit-by-multiple-projectiles-off-north-coast-of-qatar-ukmto-says">
                 aljazeera.com
               </a>
             </li>
-            <li id="ref-56">
+            <li id="ref-65">
               IranWire — «CENTCOM Destroys 13 Vessels and Reroutes 130 Ships
               Enforcing Maritime Blockade on Iran», 06.10.2026.{" "}
               <a href="https://iranwire.com/en/news/158535-centcom-destroys-13-vessels-and-reroutes-130-ships-enforcing-maritime-blockade-on-iran/">
                 iranwire.com
               </a>
             </li>
-            <li id="ref-57">
+            <li id="ref-66">
               Air &amp; Space Forces Magazine — «US Fighters, Drones Strike 3
               Iranian Oil Tankers After Iran Fires on Navy Ships», 05.09.2026.{" "}
               <a href="https://www.airandspaceforces.com/us-strikes-3-iranian-tankers-fighters-and-drones-trump-administration-seeks-higher-economic-costs-iran/">
                 airandspaceforces.com
               </a>
             </li>
-            <li id="ref-58">
+            <li id="ref-67">
               CNN — «US military strikes three Iranian tankers in retaliation
               for missile attacks», 05.09.2026. Аудіо радіопопереджень
               підтверджене CNN.{" "}
@@ -1480,28 +1592,28 @@ export default function Page() {
                 cnn.com
               </a>
             </li>
-            <li id="ref-59">
+            <li id="ref-68">
               Baird Maritime — «India confirms three of its sailors died in US
               tanker strike, another incident reported», 06.2026.{" "}
               <a href="https://www.bairdmaritime.com/security/incidents/india-confirms-three-of-its-sailors-died-in-us-tanker-strike-another-incident-reported">
                 bairdmaritime.com
               </a>
             </li>
-            <li id="ref-60">
+            <li id="ref-69">
               gCaptain — «More Tankers Hit in Hormuz as IRGC Orders Ship to Turn
               Back», 05.10.2026. Дані UKMTO і JMIC.{" "}
               <a href="https://gcaptain.com/more-tankers-hit-in-hormuz-as-irgc-orders-ship-to-turn-back/">
                 gcaptain.com
               </a>
             </li>
-            <li id="ref-61">
+            <li id="ref-70">
               Arab Times — «Tanker Hit by Multiple Projectiles Off Qatar,
               Casualties Reported», 07.10.2026. Дані UKMTO.{" "}
               <a href="https://www.arabtimesonline.com/news/tanker-hit-by-multiple-projectiles-off-qatar-casualties-reported/">
                 arabtimesonline.com
               </a>
             </li>
-            <li id="ref-62">
+            <li id="ref-71">
               Discovery Alert — «Tanker Struck 51nm North of Qatar in New Gulf
               Shipping Attack», 10.2026. Коментар М. Келлі (EOS Risk Group);
               аналітичний агрегатор.{" "}
@@ -1509,28 +1621,28 @@ export default function Page() {
                 discoveryalert.com
               </a>
             </li>
-            <li id="ref-63">
+            <li id="ref-72">
               IMO — «Middle East: information related to shipping and seafarers
               — Strait of Hormuz and the Middle East», оновлено 06.10.2026.{" "}
               <a href="https://www.imo.org/en/mediacentre/hottopics/pages/middle-east-strait-of-hormuz.aspx">
                 imo.org
               </a>
             </li>
-            <li id="ref-64">
+            <li id="ref-73">
               The Maritime Executive — «Shots Fired at Chinese Containership in
               the Red Sea», 07.10.2026.{" "}
               <a href="https://maritime-executive.com/article/shots-fired-at-chinese-containership-in-the-red-sea">
                 maritime-executive.com
               </a>
             </li>
-            <li id="ref-65">
+            <li id="ref-74">
               Seatrade Maritime — «Product tanker attacked in Red Sea as
               hostilities escalate», 05.10.2026.{" "}
               <a href="https://seatrade-maritime.com/security/product-tanker-attacked-in-red-sea-as-hostilities-escalate">
                 seatrade-maritime.com
               </a>
             </li>
-            <li id="ref-66">
+            <li id="ref-75">
               CBS News — «Another U.S. strike on alleged drug-smuggling boat
               kills 4, SOUTHCOM says», 05.10.2026.{" "}
               <a href="https://www.cbsnews.com/news/us-strike-alleged-drug-smuggling-boat-caribbean-4-dead-southcom/">
