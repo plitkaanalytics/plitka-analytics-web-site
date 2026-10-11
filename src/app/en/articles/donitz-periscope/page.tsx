@@ -283,10 +283,9 @@ export default function Page() {
         </p>
 
         <p>
-          The Black Sea is not alone. The US and Israeli war with Iran, which
-          began on 28 February 2026, turned the Strait of Hormuz, through which
-          a fifth of the world&apos;s oil passed before the war, into a hunting
-          ground
+          But back to Hormuz. The US and Israeli war with Iran, which began on
+          28 February 2026, turned the Strait of Hormuz, through which a fifth
+          of the world&apos;s oil passed before the war, into a hunting ground
           <a className="ref" href="#ref-17">
             [17]
           </a>
@@ -990,9 +989,10 @@ export default function Page() {
           <a className="ref" href="#ref-67">
             [67]
           </a>
-          . Crude oil is a different story. In September, according to market
-          sources, loadings from Novorossiysk recovered to about 650,000 barrels
-          a day
+          . Even so, diesel is unlikely to risk going by the Black Sea, perhaps
+          only in the event of a real ceasefire. Crude oil is a different story.
+          In September, according to market sources, loadings from Novorossiysk
+          recovered to about 650,000 barrels a day
           <a className="ref" href="#ref-68">
             [68]
           </a>
@@ -1061,8 +1061,7 @@ export default function Page() {
           <a className="ref" href="#ref-73">
             [73]
           </a>
-          . On 10 October a US fighter disabled the propulsion of the
-          Panama-flagged cargo ship Ocean Molica, which had left an Iranian port
+          . The strikes continue to this day
           <a className="ref" href="#ref-74">
             [74]
           </a>
