@@ -221,6 +221,31 @@
 | 212 | [Telegram Widget](https://t.me/chp_sochi/49569) | 2026-10-09 | МАЛО ТЕКСТУ (1104 зн.) — перевірити вручну | 1104 | ? | `text/212-t.me-chp_sochi-49569.txt` |
 | 213 | [Telegram Widget](https://t.me/csources/529186) | 2026-10-08 | МАЛО ТЕКСТУ (402 зн.) — перевірити вручну | 402 | ? | `text/213-t.me-csources-529186.txt` |
 | 214 | [Морской экспорт нефтепродуктов из России достиг трехмесячного максимум](https://theins.ru/news/298051) | 2026-10-08 | прочитано | 2254 | ? | `text/214-theins.ru-298051.txt` |
+| 215 | [Трамп домовився із Путіним про постачання мільйонів тонн російського д](https://www.pravda.com.ua/news/2026/10/09/8057290/) | 2026-10-09 | прочитано | 2481 | ? | `text/215-pravda.com.ua-8057290.txt` |
+| 216 | [Telegram Widget](https://t.me/in_factum/48613) | 2026-10-09 | прочитано | 3816 | ? | `text/216-t.me-in_factum-48613.txt` |
+| 217 | [Росія частково скасувала заборону на експорт дизеля після угоди Трампа](https://www.pravda.com.ua/news/2026/10/10/8057400/) | 2026-10-10 | прочитано | 2342 | ? | `text/217-pravda.com.ua-8057400.txt` |
+| 218 | [Trump’s Putin Diesel Deal Overshadows Miami Peace Talks](https://www.kyivpost.com/post/86654) | 2026-10-10 | прочитано | 3019 | ? | `text/218-kyivpost.com-86654.txt` |
+| 219 | [US Envoys Warn Kyiv on Intel Cuts Over Refinery Strikes](https://www.kyivpost.com/post/86671) | 2026-10-10 | прочитано | 6275 | ? | `text/219-kyivpost.com-86671.txt` |
+| 220 | [Переговори України, Європи і США у Маямі завершилися достроково, - ЗМІ](https://www.rbc.ua/rus/news/peregovori-ukrayini-evropi-i-ssha-mayami-1791613252.html) | 2026-10-10 | прочитано | 1825 | ? | `text/220-rbc.ua-peregovori-ukrayini-evropi-i-ssha-mayami-1791613252.txt` |
+| 221 | [Telegram Widget](https://t.me/csources/529426) | 2026-10-10 | МАЛО ТЕКСТУ (902 зн.) — перевірити вручну | 902 | ? | `text/221-t.me-csources-529426.txt` |
+| 222 | [Трамп заявив про початок енергетичного перемир’я між Росією та Україно](https://www.ukrinform.ua/rubric-polytics/4173301-tramp-zaaviv-pro-pocatok-energeticnogo-peremira-miz-rosieu-ta-ukrainou.html) | 2026-10-11 | прочитано | 1426 | ? | `text/222-ukrinform.ua-4173301-tramp-zaaviv-pro-pocatok-energeticnogo-peremira-m.txt` |
+| 223 | [Зеленський не знав про "енергетичне перемир'я", але готовий погодитись](https://www.pravda.com.ua/news/2026/10/11/8057487/) | 2026-10-11 | прочитано | 2228 | ? | `text/223-pravda.com.ua-8057487.txt` |
+| 224 | [Україна готова не бити по російських НПЗ, якщо Росія не атакуватиме на](https://www.pravda.com.ua/news/2026/10/11/8057443/) | 2026-10-11 | прочитано | 2544 | ? | `text/224-pravda.com.ua-8057443.txt` |
+| 225 | [США запропонували Росії "бонуси" в обмін на припинення ударів по енерг](https://www.rbc.ua/rus/news/ssha-zaproponuvali-rosiyi-bonusi-obmin-pripinennya-1791705105.html) | 2026-10-11 | прочитано | 3120 | ? | `text/225-rbc.ua-ssha-zaproponuvali-rosiyi-bonusi-obmin-pripinennya-1791705105.txt` |
+| 226 | [Trump Envoys Witkoff and Kushner Eye Russia Visit](https://www.kyivpost.com/post/86702) | 2026-10-11 | прочитано | 4371 | ? | `text/226-kyivpost.com-86702.txt` |
+| 227 | [Telegram Widget](https://t.me/milinfolive/181210) | 2026-10-10 | МАЛО ТЕКСТУ (338 зн.) — перевірити вручну | 338 | ? | `text/227-t.me-milinfolive-181210.txt` |
+| 228 | [Telegram Widget](https://t.me/sochi_txt/13971) | 2026-10-11 | МАЛО ТЕКСТУ (169 зн.) — перевірити вручну | 169 | ? | `text/228-t.me-sochi_txt-13971.txt` |
+| 229 | [После атаки дронов на Ростов-на-Дону загорелся нефтеналивной терминал ](https://theins.ru/news/298138) | 2026-10-10 | прочитано | 1508 | ? | `text/229-theins.ru-298138.txt` |
+| 230 | [Telegram Widget](https://t.me/exilenova_plus/32304) | 2026-10-10 | МАЛО ТЕКСТУ (338 зн.) — перевірити вручну | 338 | ? | `text/230-t.me-exilenova_plus-32304.txt` |
+| 231 | [CENTCOM заявив про ураження судна, яке вийшло з іранського порту](https://www.pravda.com.ua/news/2026/10/11/8057419/) | 2026-10-11 | прочитано | 1581 | ? | `text/231-pravda.com.ua-8057419.txt` |
+| 232 | [Vessel Struck by Unknown Projectile Off UAE Coast Amid Surge in Attack](https://gcaptain.com/vessel-struck-by-unknown-projectile-off-uae-coast-amid-surge-in-attacks-ukmto-says/) | 2026-10-09 | прочитано | 2227 | ? | `text/232-gcaptain.com-vessel-struck-by-unknown-projectile-off-uae-coast-amid-su.txt` |
+| 233 | [October Sees Near Daily Strikes on Ships in Hormuz - USNI News](https://news.usni.org/2026/10/09/october-sees-near-daily-strikes-on-ships-in-hormuz) | 2026-10-09 | прочитано | 6273 | ? | `text/233-news.usni.org-october-sees-near-daily-strikes-on-ships-in-hormuz.txt` |
+| 234 | [КСИР пригрозил преследовать суда на «несогласованных» с ним маршрутах ](https://theins.ru/news/298098) | 2026-10-09 | прочитано | 2423 | ? | `text/234-theins.ru-298098.txt` |
+| 235 | [АР: Внаслідок атаки хуситів на аеропорт Саудівської Аравії 12 загиблих](https://www.pravda.com.ua/news/2026/10/11/8057412/) | 2026-10-11 | прочитано | 4887 | ? | `text/235-pravda.com.ua-8057412.txt` |
+| 236 | [Sybiha, WTO Chief Okonjo-Iweala Discuss Black Sea Shipping Security](https://www.kyivpost.com/post/86633) | 2026-10-09 | прочитано | 4733 | ? | `text/236-kyivpost.com-86633.txt` |
+| 237 | [Перемир’я у Чорному морі. Туреччина чекає реакції на свою пропозицію](https://www.rbc.ua/rus/news/peremir-ya-chornomu-mori-turechchina-chekae-1791488322.html) | 2026-10-08 | прочитано | 2510 | ? | `text/237-rbc.ua-peremir-ya-chornomu-mori-turechchina-chekae-1791488322.txt` |
+| 238 | [Країни Балтії вимагають від ЄС заблокувати транзит зерна з Росії](https://www.rbc.ua/rus/news/krayini-baltiyi-vimagayut-vid-es-zablokuvati-1791556940.html) | 2026-10-09 | прочитано | 2625 | ? | `text/238-rbc.ua-krayini-baltiyi-vimagayut-vid-es-zablokuvati-1791556940.txt` |
+| 239 | [Telegram Widget](https://t.me/milinfolive/181235) | 2026-10-10 | МАЛО ТЕКСТУ (476 зн.) — перевірити вручну | 476 | ? | `text/239-t.me-milinfolive-181235.txt` |
 
 ## Проблемні джерела
 
@@ -240,6 +265,7 @@
 - **№173** https://timesofisrael.com/liveblog-october-07-2026 — оригінал 403; знімка немає в Wayback
 - **№174** https://au.investing.com/news/commodities-news/hormuz-transits-at-lowest-in-over-two-months-after-attacks-data-shows-4678604 — оригінал 403; знімка немає в Wayback
 - **№176** https://seatrade-maritime.com/security/product-tanker-attacked-in-red-sea-as-hostilities-escalate — оригінал недоступний (403), узято з Wayback
+- **№233** https://news.usni.org/2026/10/09/october-sees-near-daily-strikes-on-ships-in-hormuz — оригінал недоступний (403), узято з Wayback
 
 ---
 

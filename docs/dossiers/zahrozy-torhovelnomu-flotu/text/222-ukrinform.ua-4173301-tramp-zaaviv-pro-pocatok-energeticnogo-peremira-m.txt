@@ -1,0 +1,26 @@
+URL:         https://www.ukrinform.ua/rubric-polytics/4173301-tramp-zaaviv-pro-pocatok-energeticnogo-peremira-miz-rosieu-ta-ukrainou.html
+Кінцевий:    https://www.ukrinform.ua/rubric-polytics/4173301-tramp-zaaviv-pro-pocatok-energeticnogo-peremira-miz-rosieu-ta-ukrainou.html
+Заголовок:   Трамп заявив про початок енергетичного перемир’я між Росією та Україною
+Дата публ.:  2026-10-11
+Завантажено: 2026-10-11 15:44 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 61315
+Оригінал:    raw/222-ukrinform.ua-4173301-tramp-zaaviv-pro-pocatok-energeticnogo-peremira-m.html
+sha256:      5850b318efed2b47d837dfdf5e46c31dfadccc24e9e3b6b7a048ce3e702f13c1
+Витяг:       trafilatura
+
+==============================================================================
+# Трамп заявив про початок енергетичного перемир’я між Росією та Україною
+
+Про це він написав у своїй соцмережі [Truth Social](http://x.com/TrumpTruthOnX/status/2109287347577913560), передає Укрінформ.
+
+«З цього моменту набирає чинності енергетичне перемир’я у війні між Росією та Україною. Обидві сторони досягли згоди. Не порушуйте його!», – написав Трамп.
+
+**Читайте також:**
+
+[У Німеччині назвали позицію](/rubric-polytics/4173281-u-nimeccini-nazvali-poziciu-trampa-sodo-ukraini-moralnim-bankrutstvom.html)
+
+**Трамп**а щодо України «моральним банкрутством»Як повідомляв Укрінформ, видання Axios з посиланням на американського чиновника написало, що Президент США Дональд Трамп [вирішив укласти угоду з Росією](https://www.ukrinform.ua/rubric-polytics/4172919-tramp-vimagav-vid-ukraini-v-odnostoronnomu-poradku-pripiniti-udari-po-rosijskih-npz-axios.html) щодо дизельного пального після того, як Президент України Володимир Зеленський відмовився в односторонньому порядку припинити удари по російських нафтопереробних заводах.
+
+Президент України Володимир Зеленський [заявив](https://www.ukrinform.ua/rubric-ato/4173237-ukraina-gotova-zupiniti-udari-po-npz-sojno-rosia-perestane-biti-po-energetici-zelenskij.html), що Україна буде готова зупинити удари по російських нафтопереробних заводах, якщо [Росія ](https://www.ukrinform.ua/tag-rosia)перестане завдавати ударів по українській енергетичній інфраструктурі.
+
+*Фото: ОП*
