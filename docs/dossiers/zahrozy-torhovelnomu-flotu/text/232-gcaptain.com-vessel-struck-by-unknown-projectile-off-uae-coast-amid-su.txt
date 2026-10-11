@@ -1,0 +1,36 @@
+URL:         https://gcaptain.com/vessel-struck-by-unknown-projectile-off-uae-coast-amid-surge-in-attacks-ukmto-says/
+Кінцевий:    https://gcaptain.com/vessel-struck-by-unknown-projectile-off-uae-coast-amid-surge-in-attacks-ukmto-says/
+Заголовок:   Vessel Struck by Unknown Projectile Off UAE Coast Amid Surge in Attacks, UKMTO Says
+Дата публ.:  2026-10-09
+Завантажено: 2026-10-11 15:45 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 252738
+Оригінал:    raw/232-gcaptain.com-vessel-struck-by-unknown-projectile-off-uae-coast-amid-su.html
+sha256:      11cfbc01fdd0ac76f14e7954677361ab52aba7af9247d5aa1b927aceaa29b1bd
+Витяг:       trafilatura
+
+==============================================================================
+LONDON, Oct 9 (Reuters) – A vessel was struck by an unknown projectile 13 nautical miles west of Al Jazeera in the United Arab Emirates on Friday, causing a fire that has since been extinguished, British navy affiliated agency UKMTO said, citing multiple sources.
+
+While there was no claim of responsibility, maritime security sources said on Friday that the strike was outside of the Hormuz area and indicated a widening of risk for ships.
+
+Earlier this week a tanker was struck off the coast of Qatar inside the Gulf.
+
+The status of the crew, extent of damage and environmental impact from the vessel struck on Friday remain unknown, UKMTO said, adding that authorities were investigating the incident.
+
+UKMTO does not typically name vessels, but two shipping and security sources said the vessel struck was the Panama-flagged crude supertanker GEM NO.2.
+
+“GEM NO.2 was struck by an unknown projectile approximately 13nm west of Al Jazeera, UAE, at 1000 (GMT),” British maritime risk management group Vanguard said.
+
+“The vessel reportedly issued a distress alert indicating a fire onboard, which was subsequently extinguished.”
+
+The vessel’s Panama-based operator, listed in shipping databases as Gem No.2 Maritime Corp, could not be reached for comment.
+
+The last position of the tanker, which was fully laden with oil, was at anchor off the UAE coast, LSEG ship tracking data showed on Friday.
+
+Tankers are [facing a higher risk of attacks](https://www.reutersconnect.com/all?search=all%3AL1N45U0E0&linkedFromStory=true) and intimidation as they try to get critical shipments through the Strait of Hormuz after ?Iran issued new warnings it would block routes that it has not authorized, sources told Reuters this week after [a surge in incidents in the past week](https://www.reutersconnect.com/all?search=all%3AL1N45T0HL&linkedFromStory=true).
+
+Attacks have become more frequent in recent days “and require added crew vigilance and additional industry monitoring,” the US-navy led Joint Maritime Information Center said in its latest update on Thursday.
+
+(Reporting by Jonathan Saul, Maha El Dahan, Eman Abouhassira and Muhammad Al Gebaly; Editing by Louise Heavens and Susan Fenton)
+
+*(c) Copyright Thomson Reuters 2026*

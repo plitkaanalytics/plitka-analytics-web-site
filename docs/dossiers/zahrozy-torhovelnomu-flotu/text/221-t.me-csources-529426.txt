@@ -1,0 +1,20 @@
+URL:         https://t.me/csources/529426
+Кінцевий:    https://t.me/csources/529426?embed=1&single=1
+Заголовок:   Telegram Widget
+Дата публ.:  2026-10-10
+Завантажено: 2026-10-11 15:44 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 17123
+Оригінал:    raw/221-t.me-csources-529426.html
+sha256:      a221294b6d921536904d92839adc43c95733dc0949477407359c87a244ea6424
+Витяг:       trafilatura
+
+==============================================================================
+"But the meeting was derailed when the Ukrainian team was blindsided by Trump's announcement that he had cut a deal with Russia's Vladimir Putin to release diesel, according to three people with direct knowledge of the talks.
+
+During the Miami meeting, Trump’s envoys Steve Witkoff and Jared Kushner raised the possibility that intelligence sharing could be cut off if Kyiv did not heed Washington’s warning to halt the strikes, according to people familiar with the matter.
+
+Ukraine uses US intelligence to carry out the attacks in a bid to choke off a vital source of revenue for Moscow’s war economy.
+
+A senior Ukrainian official said after Trump’s announcement that Kyiv would continue. 'We will burn [Russian] refineries,' the official said. Hours later, Ukrainian forces struck the Yug Rusi oil terminal in Rostov-on-Don, according to Russian authorities."
+
+Please open Telegram to view this post
