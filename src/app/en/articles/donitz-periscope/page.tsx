@@ -52,20 +52,27 @@ export default function Page() {
           />
         </div>
         <p className="lede">
-          At around three in the morning on 6 October 2026, some 70 nautical
-          miles east of the Bulgarian town of Byala, a sea drone and an aerial
-          drone struck two dry cargo ships. One of them, the Togo-flagged Alfa
-          Watan, went to the bottom. According to Bulgaria&apos;s Chief of
-          Defence, Admiral Emil Eftimov, the crew had{" "}
-          <strong>three minutes</strong> to save themselves
+          In October 2026, off the coasts of Romania and Bulgaria, two NATO
+          members, drones hit at least nine merchant ships
           <a className="ref" href="#ref-1">
             [1]
           </a>
-          . Rescuers found a capsized boat, three life rafts and life jackets.
-          Ten sailors were never found, and the search was called off the same
-          day
           <a className="ref" href="#ref-2">
             [2]
+          </a>
+          . <strong>Five</strong> of them went to the bottom, and up to 30
+          seafarers are counted as dead or missing
+          <a className="ref" href="#ref-2">
+            [2]
+          </a>
+          . According to the maritime security company Ambrey and the
+          International Maritime Organization, more than 570 ships have been
+          affected in the Black Sea since the start of the year and more than 40
+          seafarers killed. That is more than in the Persian Gulf, where the war
+          with Iran is in its eighth month. In the third quarter there were on
+          average more than four attacks a day
+          <a className="ref" href="#ref-3">
+            [3]
           </a>
           .
         </p>
@@ -74,30 +81,31 @@ export default function Page() {
       {/* ============ ARTICLE BODY ============ */}
       <div className="article-body">
         <p>
-          The day before, a grain carrier, the Royad Mammadov, sank after a
-          strike near the Romanian gas platform Pescăruș. Three hours before the
-          strike it had left the Ukrainian Danube port of Izmail with maize for
-          Ravenna in Italy
-          <a className="ref" href="#ref-3">
-            [3]
-          </a>
-          . Its captain was killed
+          Those that sank were the grain carrier Royad Mammadov with Ukrainian
+          maize, the cargo ships Alfa Watan, HS Dignity and Able, and, on 23
+          October off Constanța, the Khoryv with ten Ukrainians in its crew
           <a className="ref" href="#ref-4">
             [4]
           </a>
-          . On the same 6 October a Russian drone hit a Marshall Islands-flagged
-          ship carrying rapeseed oil off the Odesa region, killing a steward
+          <a className="ref" href="#ref-1">
+            [1]
+          </a>
           <a className="ref" href="#ref-5">
             [5]
           </a>
-          . And in the evening the tanker Aframax Rio caught fire eleven
-          kilometres off Sochi, and oil burned spectacularly on the open water
-          in full view of holidaymakers on the promenade
           <a className="ref" href="#ref-6">
             [6]
           </a>
+          . According to Bulgaria&apos;s Chief of Defence, Admiral Emil Eftimov,
+          the crew of the Alfa Watan had <strong>three minutes</strong> to save
+          themselves
           <a className="ref" href="#ref-7">
             [7]
+          </a>
+          . The tanker Yara J and the bulk carrier Sea Destiny were caught by
+          drones already inside Romanian territorial waters
+          <a className="ref" href="#ref-1">
+            [1]
           </a>
           . The war on shipping in the Black Sea keeps crossing new lines and
           growing more brutal by the day.
@@ -137,22 +145,12 @@ export default function Page() {
         </p>
 
         <p>
-          Eighty years on, the rule protected none of these ships. The ships
-          that sank were sailing in the exclusive economic zones of Romania and
-          Bulgaria, NATO members that are not at war, and not one of them was
-          even under sanctions
-          <a className="ref" href="#ref-11">
-            [11]
-          </a>
-          <a className="ref" href="#ref-12">
-            [12]
-          </a>
-          . Three thousand kilometres to the east, in the Strait of Hormuz,
-          tankers have been burning for eight months. Why does neither a flag,
-          nor neutral waters, nor the country whose waters a merchant ship is
-          crossing protect it today, and who will pay for the war at sea out of
-          their own pocket and with an empty stomach? PLITKA Analytics
-          investigates.
+          Eighty years on, the rule protected none of these ships. Three
+          thousand kilometres to the east, in the Strait of Hormuz, tankers have
+          been burning for eight months. Why does neither a flag, nor neutral
+          waters, nor the country whose waters a merchant ship is crossing
+          protect it today, and who will pay for the war at sea out of their own
+          pocket and with an empty stomach? PLITKA Analytics investigates.
         </p>
 
         {/* ===================== § 00 ===================== */}
@@ -177,12 +175,12 @@ export default function Page() {
           </a>
           . On board the Able, the second ship hit off Byala, were eleven
           Turkish and seven Indian nationals
-          <a className="ref" href="#ref-1">
-            [1]
+          <a className="ref" href="#ref-7">
+            [7]
           </a>
           ; the Royad Mammadov had Azerbaijani and Indian crew
-          <a className="ref" href="#ref-4">
-            [4]
+          <a className="ref" href="#ref-13">
+            [13]
           </a>
           . This is what the{" "}
           <span
@@ -207,15 +205,15 @@ export default function Page() {
           of the London insurance market extended its war-risk listed area to
           the whole of the Black Sea. Only the 12-mile territorial waters of
           Turkey, Romania, Bulgaria and Georgia were left outside it
-          <a className="ref" href="#ref-13">
-            [13]
+          <a className="ref" href="#ref-14">
+            [14]
           </a>
           . Until then the area covered only the waters off Russia and Ukraine.
           Sailing through it is not prohibited, but the shipowner must notify
           the insurer and pay an additional premium, and is sometimes refused
           cover altogether
-          <a className="ref" href="#ref-14">
-            [14]
+          <a className="ref" href="#ref-15">
+            [15]
           </a>
           .
         </p>
@@ -224,7 +222,8 @@ export default function Page() {
           <BlackSeaWarRisk lang="en" />
           <figcaption>
             The Black Sea war-risk area before and after 16 September 2026, and
-            the strikes of 5–6 October. Graphic by PLITKA Analytics.
+            the strikes on merchant ships in October. Graphic by PLITKA
+            Analytics.
           </figcaption>
         </figure>
 
@@ -234,8 +233,8 @@ export default function Page() {
           hit outside the old listed area, against none in the twelve months
           before. Inside the old area, in the fifth year of the war, an average
           of 28 ships a month are hit, against four a year earlier
-          <a className="ref" href="#ref-13">
-            [13]
+          <a className="ref" href="#ref-14">
+            [14]
           </a>
           .
         </p>
@@ -249,8 +248,8 @@ export default function Page() {
           November 2025 Ukraine has been attacking ships calling at Russian
           ports, above all shadow-fleet tankers, and since July 2026 dry cargo
           ships, container ships and ro-ros as well
-          <a className="ref" href="#ref-13">
-            [13]
+          <a className="ref" href="#ref-14">
+            [14]
           </a>
           .
         </p>
@@ -259,23 +258,17 @@ export default function Page() {
           Almost six times as many floating explosive objects were found outside
           Russian and Ukrainian waters in the past year, 65 against 11, and
           instead of mines it is now uncrewed boats and drone debris that drift
-          <a className="ref" href="#ref-13">
-            [13]
+          <a className="ref" href="#ref-14">
+            [14]
           </a>
           . The International Maritime Organization (IMO) calls the war a
           &quot;serious and imminent threat&quot; to crews and ships in the
           Black Sea and the Sea of Azov
-          <a className="ref" href="#ref-4">
-            [4]
+          <a className="ref" href="#ref-13">
+            [13]
           </a>
           . Since the start of the full-scale invasion at least 274 civilian
           vessels have been damaged in the Black Sea
-          <a className="ref" href="#ref-15">
-            [15]
-          </a>
-          . Richard Meade, editor-in-chief of Lloyd&apos;s List, believes that
-          while all eyes are on Hormuz, the Black Sea has become an even
-          deadlier place for seafarers
           <a className="ref" href="#ref-16">
             [16]
           </a>
@@ -308,41 +301,27 @@ export default function Page() {
         </h2>
 
         <p>
-          According to the MagicPort service, in the past year the Royad
-          Mammadov called at the Russian ports of Yeysk, Azov and Taman, as well
-          as Istanbul and Haifa
-          <a className="ref" href="#ref-12">
-            [12]
-          </a>
-          . The Alfa Watan visited Burgas, Sulina, Tulcea, Istanbul and Tartus
-          in Syria
-          <a className="ref" href="#ref-11">
-            [11]
-          </a>
-          . This is ordinary tramp tonnage that carries cargo for every side and
-          may well take no interest in politics. On its last voyage the Royad
-          Mammadov was carrying Ukrainian maize from Izmail
-          <a className="ref" href="#ref-3">
-            [3]
-          </a>
-          . It was sailing along the Romanian coast, on a route that by every
-          logic should have been safe, since under international law these
-          waters belong to a NATO country
+          The Royad Mammadov was sailing along the Romanian coast, on a route
+          that by every logic should have been safe, since under international
+          law these waters belong to a NATO country
           <a className="ref" href="#ref-20">
             [20]
           </a>
-          . Moscow makes no secret of hunting such ships. The day before the
-          strike on the Royad Mammadov, the Russian Ministry of Defence said
-          that &quot;two dry cargo vessels delivering military property to the
-          port of Odesa have been hit&quot;. It did not name the ships or show
-          any evidence
+          . Like hundreds of merchant ships before it, it chose the safest route
+          available. For a long time that route paid off, once a ship had
+          slipped past Ukraine&apos;s territorial waters. After all, Moscow
+          openly acknowledged strikes on vessels further north. In particular,
+          the day before the strike on the Royad Mammadov, the Russian Ministry
+          of Defence said that &quot;two dry cargo vessels delivering military
+          property to the port of Odesa have been hit&quot;. It did not name the
+          ships or show any evidence
           <a className="ref" href="#ref-21">
             [21]
           </a>
-          . After the Alfa Watan sank, the Russian embassy in Bulgaria told
-          Reuters that neither ship had been &quot;on the list of targets&quot;
-          of the defence ministry and called for an investigation into whose
-          drones they were
+          . After the Alfa Watan sank, the Russian embassy in Bulgaria was far
+          more modest and told Reuters that neither ship had been &quot;on the
+          list of targets&quot; of the defence ministry and called for an
+          investigation into whose drones they were
           <a className="ref" href="#ref-22">
             [22]
           </a>
@@ -350,37 +329,30 @@ export default function Page() {
         </p>
 
         <div className="callout callout--warn">
-          <div className="callout__title">Sofia and Bucharest stay silent</div>
+          <div className="callout__title">Bucharest and Sofia</div>
           <p>
-            Neither of the two states in whose waters the ships sank dared to
-            name the aggressor. Romania&apos;s interior ministry gave no cause
-            for the fire on the Royad Mammadov
+            After the first sinkings, neither of the two states in whose waters
+            the ships sank dared to name the aggressor. Romania&apos;s interior
+            ministry gave no cause for the fire on the Royad Mammadov
             <a className="ref" href="#ref-23">
               [23]
             </a>
-            . Bulgaria&apos;s president Rumen Radev said the drones were
+            . Bulgaria&apos;s prime minister Rumen Radev said the drones were
             &quot;clearly either Russian or Ukrainian&quot;
-            <a className="ref" href="#ref-1">
-              [1]
+            <a className="ref" href="#ref-7">
+              [7]
             </a>
-            , and the next day conceded that the type of cargo and the
-            ships&apos; direction of travel may point to Russia, although there
-            is no evidence that would allow responsibility to be placed on it
-            directly
+            , and that there is no evidence that would allow responsibility to
+            be placed on it directly
             <a className="ref" href="#ref-24">
               [24]
             </a>
-            . On the same evening that Zelensky spoke of a Russian attack
-            established jointly with the Bulgarians
-            <a className="ref" href="#ref-25">
-              [25]
-            </a>
-            , Bulgaria&apos;s defence minister Dimitar Stoyanov was also careful
+            . Bulgaria&apos;s defence minister Dimitar Stoyanov was also careful
             not to say too much: &quot;Drone debris has to be found, or one of
             the sides has to claim responsibility, but that has not happened, so
             we cannot confirm whether they are Ukrainian or Russian&quot;
-            <a className="ref" href="#ref-26">
-              [26]
+            <a className="ref" href="#ref-25">
+              [25]
             </a>
             .
           </p>
@@ -389,8 +361,36 @@ export default function Page() {
             military aid to Ukraine, and in August, after a drone exploded near
             the Balkan Stream gas pipeline, its defence ministry said the drone
             was of a type &quot;widely used by the Ukrainian military&quot;
+            <a className="ref" href="#ref-26">
+              [26]
+            </a>
+            .
+          </p>
+          <p>
+            When drones hit tankers off Sulina on 14 and 15 October, Bucharest
+            changed its tone. Romania&apos;s foreign minister Oana Țoiu called
+            the attacks &quot;callous and murderous&quot; and said that
+            &quot;Russia bears full responsibility&quot;
             <a className="ref" href="#ref-27">
               [27]
+            </a>
+            . After the Khoryv sank, President Nicușor Dan called it &quot;a new
+            example of the tragic consequences of Russia&apos;s aggression
+            against Ukraine&quot;
+            <a className="ref" href="#ref-2">
+              [2]
+            </a>
+            . Sofia summoned the Russian ambassador, but Radev went on insisting
+            there is no hard evidence, even though &quot;it is simply illogical
+            for Ukraine to attack ships carrying its own grain&quot;
+            <a className="ref" href="#ref-28">
+              [28]
+            </a>
+            . The drone debris Stoyanov was missing has now been found by the
+            Bulgarians aboard the Chelsea 3, and military prosecutors have
+            opened a case
+            <a className="ref" href="#ref-5">
+              [5]
             </a>
             .
           </p>
@@ -401,8 +401,8 @@ export default function Page() {
             specifically to &quot;stop all actions that endanger international
             shipping and the lives of seafarers&quot;. At the request of Romania
             and Bulgaria, the EU is passing satellite imagery to them
-            <a className="ref" href="#ref-28">
-              [28]
+            <a className="ref" href="#ref-29">
+              [29]
             </a>
             .
           </p>
@@ -414,26 +414,6 @@ export default function Page() {
           the search for the crew was called off without establishing their fate
           <a className="ref" href="#ref-24">
             [24]
-          </a>
-          .
-        </p>
-
-        <p>
-          Andrii Klymenko of the Black Sea Institute of Strategic Studies called
-          the events of 5–6 October &quot;a Russian hunt for ships of Turkish
-          owners&quot; and claims that the Alfa Watan and the Royad Mammadov are
-          linked to the same Istanbul company, Spring Marine
-          <a className="ref" href="#ref-29">
-            [29]
-          </a>
-          . We cannot confirm this. Spring Marine is indeed the commercial
-          manager of the Royad Mammadov, but according to MagicPort the Alfa
-          Watan is both owned and managed by Baraka Shipping of Mersin
-          <a className="ref" href="#ref-12">
-            [12]
-          </a>
-          <a className="ref" href="#ref-11">
-            [11]
           </a>
           .
         </p>
@@ -613,8 +593,8 @@ export default function Page() {
           <a className="ref" href="#ref-44">
             [44]
           </a>
-          <a className="ref" href="#ref-4">
-            [4]
+          <a className="ref" href="#ref-13">
+            [13]
           </a>
           .
         </p>
@@ -649,6 +629,11 @@ export default function Page() {
           year alone
           <a className="ref" href="#ref-46">
             [46]
+          </a>
+          . According to the Financial Times, agricultural exports from
+          Ukrainian ports have fallen by about 75% from pre-war levels
+          <a className="ref" href="#ref-3">
+            [3]
           </a>
           .
         </p>
@@ -731,6 +716,11 @@ export default function Page() {
           <a className="ref" href="#ref-33">
             [33]
           </a>
+          . By the end of October war-risk cover in the Black Sea had reached
+          15% of a ship&apos;s value, twice as much as in the Persian Gulf
+          <a className="ref" href="#ref-3">
+            [3]
+          </a>
           .
         </p>
 
@@ -767,17 +757,17 @@ export default function Page() {
           </a>
           . It caught fire 11 kilometres from Sochi, in Russian territorial
           waters
-          <a className="ref" href="#ref-7">
-            [7]
+          <a className="ref" href="#ref-52">
+            [52]
           </a>
           . All 23 crew members, Indian nationals, were rescued
-          <a className="ref" href="#ref-6">
-            [6]
+          <a className="ref" href="#ref-53">
+            [53]
           </a>
           . The next day Zelensky reported a strike in the Black Sea without
           naming the target
-          <a className="ref" href="#ref-52">
-            [52]
+          <a className="ref" href="#ref-54">
+            [54]
           </a>
           .
         </p>
@@ -795,32 +785,42 @@ export default function Page() {
 
         <p>
           The Russian authorities called the attack terrorism
-          <a className="ref" href="#ref-53">
-            [53]
+          <a className="ref" href="#ref-55">
+            [55]
           </a>
           . Within a day of oil burning openly on the water, the transport
           ministry declared that there was no pollution of the sea. The clean-up
           is being handled by a joint task force of the transport ministry, the
           emergencies ministry, Krasnodar region and the defence ministry
-          <a className="ref" href="#ref-54">
-            [54]
+          <a className="ref" href="#ref-56">
+            [56]
           </a>
           . Greenpeace warns of &quot;unprecedented pollution of the Black
           Sea&quot;, larger than the two previous major spills in the region
-          <a className="ref" href="#ref-53">
-            [53]
+          <a className="ref" href="#ref-55">
+            [55]
           </a>
           . According to Greenpeace&apos;s analysis of satellite imagery, by 8
           October the slick behind the tanker had grown to about 25 km², and the
           Aframax Rio itself had been towed north-west past Tuapse
-          <a className="ref" href="#ref-55">
-            [55]
+          <a className="ref" href="#ref-57">
+            [57]
           </a>
           . The organisation believes that what burned was most likely the
           ship&apos;s own bunker fuel, and bluntly calls the Russian
           authorities&apos; claims that there was no pollution untrue
-          <a className="ref" href="#ref-56">
-            [56]
+          <a className="ref" href="#ref-58">
+            [58]
+          </a>
+          . Within a week oiled birds began turning up on the beaches of Anapa,
+          Novorossiysk and Lazarevskoye
+          <a className="ref" href="#ref-59">
+            [59]
+          </a>
+          . And on 20 October, according to video from environmental activists,
+          the tanker was still lying at Novorossiysk with oil on board
+          <a className="ref" href="#ref-60">
+            [60]
           </a>
           .
         </p>
@@ -848,8 +848,8 @@ export default function Page() {
           2025. Strikes attributed to Ukraine now land on average 58 nautical
           miles from shore, off Turkey&apos;s northern coast and in open sea
           south of Novorossiysk and Sochi
-          <a className="ref" href="#ref-13">
-            [13]
+          <a className="ref" href="#ref-14">
+            [14]
           </a>
           . On 10 July 18 Russian vessels, 13 of them tankers, were hit in the
           Sea of Azov in a single night, and 35 within 96 hours. On 15 July
@@ -859,8 +859,8 @@ export default function Page() {
             [31]
           </a>
           . On that same 10 July Russia restricted shipping in the Sea of Azov
-          <a className="ref" href="#ref-57">
-            [57]
+          <a className="ref" href="#ref-61">
+            [61]
           </a>
           .
         </p>
@@ -874,14 +874,14 @@ export default function Page() {
           to stop, and Kazakhstan began cutting output. The Russian authorities
           warned all ships in Russia&apos;s Black Sea economic zone that the
           area was dangerous
-          <a className="ref" href="#ref-58">
-            [58]
+          <a className="ref" href="#ref-62">
+            [62]
           </a>
           . On 12–13 August all three grain terminals in Novorossiysk, KSK, NZT
           and NKHP, stopped work: 24.6 million tonnes a year between them, about
           75% of Russia&apos;s Black Sea grain capacity
-          <a className="ref" href="#ref-57">
-            [57]
+          <a className="ref" href="#ref-61">
+            [61]
           </a>
           .
         </p>
@@ -894,21 +894,21 @@ export default function Page() {
             Admiral Levchenko and the frigate Neustrashimy escorted the
             sanctioned cargo ships General Skobelev and Sparta through the North
             Sea and the English Channel, while the Royal Navy shadowed them
-            <a className="ref" href="#ref-59">
-              [59]
+            <a className="ref" href="#ref-63">
+              [63]
             </a>
             . The First Sea Lord, General Sir Gwyn Jenkins, explains this by
             saying that after the British seized the sanctioned tanker Smyrtos
             in June, shadow-fleet ships have been forced to change routes, and
             Moscow is diverting warships to guard cargoes
-            <a className="ref" href="#ref-59">
-              [59]
+            <a className="ref" href="#ref-63">
+              [63]
             </a>
             . Retaliatory provocations followed: in the Baltic on 30 September
             FSB border guards detained for several hours the Cypriot cargo ship
             Västerbotten, which was sailing from Sweden to Sillamäe in Estonia
-            <a className="ref" href="#ref-60">
-              [60]
+            <a className="ref" href="#ref-64">
+              [64]
             </a>
             .
           </p>
@@ -925,14 +925,14 @@ export default function Page() {
           than a million tonnes against 5.7 million a year earlier, and
           shipments increasingly go through the Baltic ports of Vysotsk and
           Ust-Luga
-          <a className="ref" href="#ref-61">
-            [61]
+          <a className="ref" href="#ref-65">
+            [65]
           </a>
           . Analysts at SovEcon estimate the fall in July–September at half, and
           the Baltic ports can replace less than a tenth of the usual southern
           volumes
-          <a className="ref" href="#ref-62">
-            [62]
+          <a className="ref" href="#ref-66">
+            [66]
           </a>
           .
         </p>
@@ -953,8 +953,8 @@ export default function Page() {
           the governor explained. At federal level export duties have been
           scrapped, a moratorium on farm bankruptcies introduced, and subsidies
           for sowing winter crops are being prepared
-          <a className="ref" href="#ref-63">
-            [63]
+          <a className="ref" href="#ref-67">
+            [67]
           </a>
           . A 20,000-tonne shipment of Russian sunflower oil for India was
           cancelled because the supplier could not load it, and another 60,000
@@ -969,38 +969,48 @@ export default function Page() {
           On 24 September exports of diesel and gasoil through the Black Sea
           fell to zero for the first time on record, and all of Russia&apos;s
           seaborne diesel exports went only from the Baltic port of Primorsk
-          <a className="ref" href="#ref-64">
-            [64]
+          <a className="ref" href="#ref-68">
+            [68]
           </a>
           . On 9 October, after a call with Putin, Trump announced that Russia
           would supply its diesel to US and world markets, and the US Treasury
           authorised transactions in it until 7 April 2027
-          <a className="ref" href="#ref-65">
-            [65]
+          <a className="ref" href="#ref-69">
+            [69]
           </a>
           . The next day Russia partially lifted its own ban on diesel exports
-          <a className="ref" href="#ref-66">
-            [66]
+          <a className="ref" href="#ref-70">
+            [70]
           </a>
           . Even analysts doubt there will be much to export. According to
           Kpler, Russian refineries are running at about 60% of capacity.
           &quot;Russia does not have an export problem. It has a refining
           problem,&quot; says Michelle Brouhard of Kpler
-          <a className="ref" href="#ref-67">
-            [67]
+          <a className="ref" href="#ref-71">
+            [71]
+          </a>
+          . The first tankers are already on their way. The PVT Azura is
+          carrying diesel from St Petersburg to Norfolk, and the Agioi Fanendes
+          40,000 tonnes from Primorsk to New York
+          <a className="ref" href="#ref-72">
+            [72]
+          </a>
+          . Supplies to Turkey and Brazil have resumed as well
+          <a className="ref" href="#ref-73">
+            [73]
           </a>
           . Even so, diesel is unlikely to risk going by the Black Sea, perhaps
           only in the event of a real ceasefire. Crude oil is a different story.
           In September, according to market sources, loadings from Novorossiysk
           recovered to about 650,000 barrels a day
-          <a className="ref" href="#ref-68">
-            [68]
+          <a className="ref" href="#ref-74">
+            [74]
           </a>
           . Meanwhile weekly revenue from seaborne oil exports, according to
           Bloomberg, reached its highest since the start of the full-scale
           invasion
-          <a className="ref" href="#ref-64">
-            [64]
+          <a className="ref" href="#ref-68">
+            [68]
           </a>
           .
         </p>
@@ -1011,19 +1021,19 @@ export default function Page() {
           and gas revenue for the first nine months of 2026 fell by 17%,
           production is falling, the government has cut its output forecast to a
           17-year low, and refineries remain under attack
-          <a className="ref" href="#ref-69">
-            [69]
+          <a className="ref" href="#ref-75">
+            [75]
           </a>
           . In September revenue was down 22% year on year, and the entire gain
           in mineral extraction tax was eaten up by compensation payments to
           refiners
-          <a className="ref" href="#ref-70">
-            [70]
+          <a className="ref" href="#ref-76">
+            [76]
           </a>
           . The finance ministry has cut its estimate of oil and gas revenue for
           2026 from 8.9 to 7.6 trillion roubles
-          <a className="ref" href="#ref-71">
-            [71]
+          <a className="ref" href="#ref-77">
+            [77]
           </a>
           .
         </p>
@@ -1045,25 +1055,25 @@ export default function Page() {
         <p>
           Before the war about 125 large commercial ships passed through the
           Strait of Hormuz every day
-          <a className="ref" href="#ref-72">
-            [72]
+          <a className="ref" href="#ref-78">
+            [78]
           </a>
           . After 28 February Iran effectively closed the strait, and since 13
           April the US has been blockading Iranian ports. Formally the blockade
           does not affect transit to non-Iranian ports, but ships heading to or
           from Iran are turned back or disabled by US forces
-          <a className="ref" href="#ref-73">
-            [73]
+          <a className="ref" href="#ref-79">
+            [79]
           </a>
           . On 5 October US Central Command summed up twelve weeks of the
           blockade: 130 ships stopped, three disabled, 13 commercial vessels
           destroyed
-          <a className="ref" href="#ref-73">
-            [73]
+          <a className="ref" href="#ref-79">
+            [79]
           </a>
           . The strikes continue to this day
-          <a className="ref" href="#ref-74">
-            [74]
+          <a className="ref" href="#ref-80">
+            [80]
           </a>
           .
         </p>
@@ -1073,16 +1083,16 @@ export default function Page() {
           fired ballistic missiles at a US aircraft carrier and destroyer, the
           US struck three Iranian tankers. Two were disabled; the third, the
           empty Kylo, was destroyed and sank in the Gulf of Oman
-          <a className="ref" href="#ref-75">
-            [75]
+          <a className="ref" href="#ref-81">
+            [81]
           </a>
           . Before the strike on the Stark 1, a US aircraft came on the
           emergency channel: &quot;Tanker STARK 1, this is the United States
           military aircraft. I am preparing to fire at your stern. You have 10
           minutes to clear the crew from the stern of your ship.&quot; Then came
           the final warning: get into the lifeboats and abandon ship
-          <a className="ref" href="#ref-76">
-            [76]
+          <a className="ref" href="#ref-82">
+            [82]
           </a>
           . On 8 and 9 September the US destroyed five more tankers, each time
           ordering the crews to abandon ship before the strike
@@ -1091,8 +1101,8 @@ export default function Page() {
           </a>
           . &quot;If Iran shoots at U.S. ships, we will destroy (and sink) their
           oil tankers,&quot; explained Pete Hegseth, head of the Pentagon
-          <a className="ref" href="#ref-76">
-            [76]
+          <a className="ref" href="#ref-82">
+            [82]
           </a>
           .
         </p>
@@ -1114,8 +1124,8 @@ export default function Page() {
           because, according to Central Command, the crew was not following
           instructions. Three Indian nationals were killed. India summoned the
           US deputy ambassador and lodged a strong protest
-          <a className="ref" href="#ref-77">
-            [77]
+          <a className="ref" href="#ref-83">
+            [83]
           </a>
           .
         </p>
@@ -1126,13 +1136,13 @@ export default function Page() {
           drone flew into a ship&apos;s funnel and fell into the engine room.
           Separately, the Revolutionary Guard ordered a tanker 11 miles north of
           Khasab by radio to turn back or be attacked, and the master complied
-          <a className="ref" href="#ref-78">
-            [78]
+          <a className="ref" href="#ref-84">
+            [84]
           </a>
           . In the first six days of October nine tankers were attacked in
           Hormuz, as many as in the whole first half of September
-          <a className="ref" href="#ref-72">
-            [72]
+          <a className="ref" href="#ref-78">
+            [78]
           </a>
           .
         </p>
@@ -1142,36 +1152,59 @@ export default function Page() {
           north of Madinat ash Shamal in Qatar. There were casualties, but UKMTO
           did not report how many, nor the name of the ship or the origin of the
           projectiles
-          <a className="ref" href="#ref-79">
-            [79]
+          <a className="ref" href="#ref-85">
+            [85]
           </a>
           . It was the first strike in the Persian Gulf outside Hormuz, 54
           kilometres from Ras Laffan, Qatar&apos;s main gas terminal. No one
           claimed responsibility
-          <a className="ref" href="#ref-80">
-            [80]
+          <a className="ref" href="#ref-86">
+            [86]
           </a>
           . It happened in Qatar&apos;s exclusive economic zone, and Doha, like
           Sofia and Bucharest a week earlier, chose not to comment
-          <a className="ref" href="#ref-72">
-            [72]
+          <a className="ref" href="#ref-78">
+            [78]
           </a>
           . Two days later a projectile hit the fully laden Panama-flagged
           supertanker GEM NO.2 at anchor 13 miles off the coast of the UAE
-          <a className="ref" href="#ref-81">
-            [81]
+          <a className="ref" href="#ref-87">
+            [87]
           </a>
           . The Revolutionary Guard threatened that from now on it would pursue
           ships on &quot;unauthorised routes&quot; across the whole region, not
           only in the Strait of Hormuz
-          <a className="ref" href="#ref-82">
-            [82]
+          <a className="ref" href="#ref-88">
+            [88]
           </a>
           . According to Lloyd&apos;s List, there were 12 attacks in the region
           between 28 September and 7 October, the highest weekly total since the
           war began
-          <a className="ref" href="#ref-16">
-            [16]
+          <a className="ref" href="#ref-89">
+            [89]
+          </a>
+          . On 11 October six ships were hit in a single day in the strait and
+          off Oman
+          <a className="ref" href="#ref-90">
+            [90]
+          </a>
+          , and on the 14th a container ship, the GFS Pride, and a bulk carrier
+          sank after being hit
+          <a className="ref" href="#ref-91">
+            [91]
+          </a>
+          <a className="ref" href="#ref-92">
+            [92]
+          </a>
+          . Britain and France are planning a multinational mission to escort
+          ships through the strait
+          <a className="ref" href="#ref-93">
+            [93]
+          </a>
+          , while Iran offers to reopen it in exchange for lifting the US
+          blockade
+          <a className="ref" href="#ref-94">
+            [94]
           </a>
           .
         </p>
@@ -1180,8 +1213,8 @@ export default function Page() {
           About 20,000 seafarers remain in the region, some of them on ships
           that cannot leave the Persian Gulf. An IMO plan to evacuate six
           thousand of them has been suspended
-          <a className="ref" href="#ref-83">
-            [83]
+          <a className="ref" href="#ref-95">
+            [95]
           </a>
           . By the end of August the International Maritime Organization had
           confirmed 68 attacks in the region, on average one every 2.6 days.
@@ -1216,19 +1249,24 @@ export default function Page() {
           Bab el-Mandeb, and the Houthis answer with missiles at Saudi airports.
           As for ships, the Houthis say they act only against those linked to
           Saudi Arabia
-          <a className="ref" href="#ref-84">
-            [84]
+          <a className="ref" href="#ref-96">
+            [96]
           </a>
           . On 4 October a series of explosions went off near the tanker
           Chrystal Sky 60 miles south of Mocha, one of them a hundred metres
           from its side
-          <a className="ref" href="#ref-85">
-            [85]
+          <a className="ref" href="#ref-97">
+            [97]
           </a>
           . On 7 October a small boat fired on a Chinese container ship in the
           northern Bab el-Mandeb. The crew was unharmed; who fired is unknown
-          <a className="ref" href="#ref-84">
-            [84]
+          <a className="ref" href="#ref-96">
+            [96]
+          </a>
+          . On 22 October the Houthis struck Dammam airport and the Shaybah oil
+          field in Saudi Arabia, and Brent rose to almost $113 a barrel
+          <a className="ref" href="#ref-98">
+            [98]
           </a>
           .
         </p>
@@ -1242,8 +1280,8 @@ export default function Page() {
             killing at least 235 people. The latest strike, on 4 October, killed
             four. The military offers no evidence that the boats were carrying
             drugs, and more often than not there is none
-            <a className="ref" href="#ref-86">
-              [86]
+            <a className="ref" href="#ref-99">
+              [99]
             </a>
             .
           </p>
@@ -1267,8 +1305,8 @@ export default function Page() {
           the economic zone it has rights to resources but cannot forbid a
           foreign warship or drone from entering. Even an aerial drone over the
           Bulgarian economic zone does not formally violate Bulgarian airspace
-          <a className="ref" href="#ref-87">
-            [87]
+          <a className="ref" href="#ref-100">
+            [100]
           </a>
           .
         </p>
@@ -1277,23 +1315,38 @@ export default function Page() {
           That is why Radev ruled out consultations under Article 4 of the North
           Atlantic Treaty, let alone Article 5. In his words, although this is
           Bulgaria&apos;s economic zone, the waters are considered neutral
-          <a className="ref" href="#ref-88">
-            [88]
+          <a className="ref" href="#ref-101">
+            [101]
           </a>
           . Article 6 of the treaty defines where an attack on allied ships
           counts as an attack on the Alliance, and the Black Sea is not among
           those places. Togo and Palau, whose flags the Alfa Watan and the Able
           flew, are not parties to the Rome Statute, so even the International
           Criminal Court has no obvious jurisdiction here
-          <a className="ref" href="#ref-87">
-            [87]
+          <a className="ref" href="#ref-100">
+            [100]
           </a>
           . Back in 2003 the International Court of Justice, ruling on the
           attacks on tankers in the Persian Gulf, found that a strike on a ship
           not flying the US flag cannot be treated as an attack on the United
           States
-          <a className="ref" href="#ref-87">
-            [87]
+          <a className="ref" href="#ref-100">
+            [100]
+          </a>
+          .
+        </p>
+
+        <p>
+          In October the drones reached the 12-mile zone as well. The Yara J and
+          the Sea Destiny, as the Romanian authorities acknowledged, were hit in
+          Romanian territorial waters, and in law such a strike counts as an
+          attack on the territory of the state itself
+          <a className="ref" href="#ref-1">
+            [1]
+          </a>
+          . Even Romania did not request consultations under Article 4
+          <a className="ref" href="#ref-102">
+            [102]
           </a>
           .
         </p>
@@ -1304,12 +1357,12 @@ export default function Page() {
           the enemy&apos;s merchant vessels, was abolished by the Paris
           Declaration of 1856, signed after the Crimean War, a war for the Black
           Sea
-          <a className="ref" href="#ref-89">
-            [89]
+          <a className="ref" href="#ref-103">
+            [103]
           </a>
           . Among the seven states that adopted it were Russia and Turkey
-          <a className="ref" href="#ref-90">
-            [90]
+          <a className="ref" href="#ref-104">
+            [104]
           </a>
           . Besides the United States and the Soviet Union, the London Protocol
           of 1936 was joined by Turkey, Bulgaria and Iran, that is, by almost
@@ -1343,13 +1396,13 @@ export default function Page() {
             [19]
           </a>
           ; in the Red Sea ships are escorted by the EU&apos;s Aspides mission
-          <a className="ref" href="#ref-84">
-            [84]
+          <a className="ref" href="#ref-96">
+            [96]
           </a>
           ; in the English Channel the Royal Navy shadows the Russian warships
           escorting the shadow fleet
-          <a className="ref" href="#ref-59">
-            [59]
+          <a className="ref" href="#ref-63">
+            [63]
           </a>
           . In the Black Sea there are no convoys.
         </p>
@@ -1362,8 +1415,8 @@ export default function Page() {
           October it turned up in Bulgaria&apos;s economic zone, 40 miles from
           Cape Shabla. No one is taking on its salvage; the Bulgarian navy
           merely monitors its drift
-          <a className="ref" href="#ref-91">
-            [91]
+          <a className="ref" href="#ref-105">
+            [105]
           </a>
           .
         </p>
@@ -1372,13 +1425,13 @@ export default function Page() {
           Andrii Klymenko believes the attacks could have been prevented only by
           joint patrols by Turkey, Bulgaria and Romania beyond their 12-mile
           zones
-          <a className="ref" href="#ref-29">
-            [29]
+          <a className="ref" href="#ref-106">
+            [106]
           </a>
           . But the NATO members Bulgaria, Romania and Turkey have only a joint
           mine countermeasures group
-          <a className="ref" href="#ref-92">
-            [92]
+          <a className="ref" href="#ref-107">
+            [107]
           </a>
           . On 7 October Bulgaria&apos;s Consultative Council for National
           Security recommended putting Black Sea security on the agenda of the
@@ -1387,8 +1440,48 @@ export default function Page() {
           losses. The Romanian MEP Dan Barna proposes taking Operation Aspides
           as the model, but with the combined navies of Romania and Bulgaria,
           funded by the EU
-          <a className="ref" href="#ref-93">
-            [93]
+          <a className="ref" href="#ref-108">
+            [108]
+          </a>
+          .
+        </p>
+
+        <p>
+          After the wave of strikes in mid-October, Romania proposed that
+          NATO&apos;s Black Sea members set up a joint military command against
+          drones
+          <a className="ref" href="#ref-109">
+            [109]
+          </a>
+          , and Bulgaria asked the Alliance for combat aircraft, missile systems
+          and counter-drone systems
+          <a className="ref" href="#ref-110">
+            [110]
+          </a>
+          . On 17 October Romanian F-16s shot down two jet-powered Geran drones
+          over the sea
+          <a className="ref" href="#ref-111">
+            [111]
+          </a>
+          . On 20 October the North Atlantic Council decided to send more
+          maritime patrol aircraft, drones and electronic warfare assets to the
+          region, along with forensic teams to analyse the explosives
+          <a className="ref" href="#ref-112">
+            [112]
+          </a>
+          <a className="ref" href="#ref-113">
+            [113]
+          </a>
+          . The European Parliament called on the EU to consider a naval
+          operation in the Black Sea, and on NATO to consider a &quot;Black Sea
+          Sentinel&quot;
+          <a className="ref" href="#ref-114">
+            [114]
+          </a>
+          . Escort ships are not among these decisions. Ships, meanwhile, now
+          take a longer route, hugging the Bulgarian coast to reduce the risk
+          <a className="ref" href="#ref-1">
+            [1]
           </a>
           .
         </p>
@@ -1397,71 +1490,97 @@ export default function Page() {
           The EU High Representative Kaja Kallas has called for a moratorium on
           attacks in the Black Sea, and Turkey and the UN are preparing talks on
           a maritime ceasefire
-          <a className="ref" href="#ref-94">
-            [94]
+          <a className="ref" href="#ref-115">
+            [115]
           </a>
           . On 7 October Recep Tayyip Erdoğan discussed shipping safety with
           Vladimir Putin
-          <a className="ref" href="#ref-95">
-            [95]
+          <a className="ref" href="#ref-116">
+            [116]
           </a>
           . India has proposed a three-part ceasefire, one part of which
           concerns commercial shipping specifically, and the Ukrainian side
           called it the most comprehensive it has received
-          <a className="ref" href="#ref-96">
-            [96]
+          <a className="ref" href="#ref-117">
+            [117]
           </a>
           . Back in August Ukraine proposed through an intermediary that both
           sides stop striking civilian targets in the Black Sea, but received no
           answer
-          <a className="ref" href="#ref-57">
-            [57]
+          <a className="ref" href="#ref-61">
+            [61]
           </a>
           , and Moscow had already rejected a similar proposal from Kyiv before
-          <a className="ref" href="#ref-94">
-            [94]
+          <a className="ref" href="#ref-115">
+            [115]
           </a>
           . On 9 October US and Ukrainian delegations met in Miami to discuss,
           among other things, a possible partial ceasefire covering strikes on
           energy and grain shipments
-          <a className="ref" href="#ref-97">
-            [97]
+          <a className="ref" href="#ref-118">
+            [118]
           </a>
           . According to US and Ukrainian officials, Moscow is prepared to
           discuss an energy ceasefire only in exchange for the lifting of US
           sanctions, and links it to a ceasefire in the Black Sea. Publicly,
           Kremlin spokesman Dmitry Peskov says Russia sees no sense in sectoral
           ceasefires
-          <a className="ref" href="#ref-98">
-            [98]
+          <a className="ref" href="#ref-119">
+            [119]
           </a>
           . That same day Trump announced his diesel deal with Putin, and the
           Miami talks, planned for two days, ended after the first
-          <a className="ref" href="#ref-65">
-            [65]
+          <a className="ref" href="#ref-69">
+            [69]
           </a>
           . According to Axios, Witkoff and Kushner threatened to cut off
           intelligence sharing with Kyiv unless Ukraine stopped striking Russian
           refineries. A US official denied an explicit threat but confirmed the
           pressure
-          <a className="ref" href="#ref-67">
-            [67]
+          <a className="ref" href="#ref-71">
+            [71]
           </a>
           . According to The New York Times, the US offered Moscow economic
           incentives, including the unfreezing of sovereign assets, for a
           limited ceasefire on energy or at sea
-          <a className="ref" href="#ref-99">
-            [99]
+          <a className="ref" href="#ref-120">
+            [120]
           </a>
           . On 11 October Trump announced that an energy ceasefire was in force
           &quot;from this moment&quot;
-          <a className="ref" href="#ref-100">
-            [100]
+          <a className="ref" href="#ref-121">
+            [121]
           </a>
           . It came as a surprise to Zelensky, but he replied that Ukraine would
           agree if Russia did
-          <a className="ref" href="#ref-101">
-            [101]
+          <a className="ref" href="#ref-122">
+            [122]
+          </a>
+          . The ceasefire never came. In the week after the announcement Russia
+          struck Ukrainian energy 76 times, according to Zelensky
+          <a className="ref" href="#ref-123">
+            [123]
+          </a>
+          , and on 21 October Peskov said Putin was not considering an energy
+          ceasefire
+          <a className="ref" href="#ref-124">
+            [124]
+          </a>
+          . Trump postponed sanctions on Russia under the &quot;Graham Act&quot;
+          for 60 days
+          <a className="ref" href="#ref-125">
+            [125]
+          </a>
+          , and US Energy Secretary Chris Wright promised to move sanctioned
+          tankers &quot;from the bad-guy fleet to the good-guy fleet&quot;
+          <a className="ref" href="#ref-126">
+            [126]
+          </a>
+          . On 24 October foreign ministers of eight countries met in Istanbul
+          to discuss shipping security in the Black Sea, Hormuz and the Bab
+          el-Mandeb
+          <a className="ref" href="#ref-127">
+            [127]
           </a>
           .
         </p>
@@ -1482,21 +1601,21 @@ export default function Page() {
 
         <p>
           Russia and Ukraine together account for 27.3% of world wheat exports
-          <a className="ref" href="#ref-102">
-            [102]
+          <a className="ref" href="#ref-128">
+            [128]
           </a>
           . SovEcon estimates that in July–September 2026 the two countries
           together will export roughly half of last year&apos;s wheat volume
-          <a className="ref" href="#ref-102">
-            [102]
+          <a className="ref" href="#ref-128">
+            [128]
           </a>
           . The FAO Food Price Index rose to 136 points in September, 5.8%
           higher than a year earlier. The cereal index rose 17.2% over the year,
           and wheat rose 6.3% in a month to its highest since August 2023. FAO
           links this primarily to logistical constraints in the Black Sea
           region, which are pushing importers to switch to other suppliers
-          <a className="ref" href="#ref-103">
-            [103]
+          <a className="ref" href="#ref-129">
+            [129]
           </a>
           . &quot;We are seeing a persistent and increasingly broad-based build
           up in global commodity prices, as disruptions in the Strait of Hormuz
@@ -1504,8 +1623,8 @@ export default function Page() {
           economist Maximo Torero. &quot;If sustained, these pressures will soon
           pass through to consumer food prices, especially in food and energy
           import-dependent countries&quot;
-          <a className="ref" href="#ref-104">
-            [104]
+          <a className="ref" href="#ref-130">
+            [130]
           </a>
           .
         </p>
@@ -1521,8 +1640,8 @@ export default function Page() {
         <p>
           There is no less grain in the world. FAO forecasts that the 2026 world
           cereal harvest will be the second largest on record
-          <a className="ref" href="#ref-104">
-            [104]
+          <a className="ref" href="#ref-130">
+            [130]
           </a>
           . The grain is stuck where it was grown: Ukrainian farmers sell their
           crop well below production cost, while importers, on the contrary, pay
@@ -1534,8 +1653,8 @@ export default function Page() {
           . Sunflower oil in the FAO index has been getting cheaper for the
           third month in a row precisely because there is plenty of it in the
           Black Sea region
-          <a className="ref" href="#ref-103">
-            [103]
+          <a className="ref" href="#ref-129">
+            [129]
           </a>
           , while India is short of it. The country needs about 250,000 tonnes a
           month, and in October only 160,000 may arrive. Indian buyers bought
@@ -1551,20 +1670,20 @@ export default function Page() {
           world&apos;s largest wheat buyers. It imports about 12.5 million
           tonnes a year, 62% of its consumption, and its subsidised bread
           programme alone needs 8.6 million tonnes of grain
-          <a className="ref" href="#ref-105">
-            [105]
+          <a className="ref" href="#ref-131">
+            [131]
           </a>
           . In the first half of 2026 Russia and Ukraine supplied about 80% of
           Egypt&apos;s imported wheat. In September imports fell by 77%. The
           price per tonne rose from about $245 in early July to $320
-          <a className="ref" href="#ref-105">
-            [105]
+          <a className="ref" href="#ref-131">
+            [131]
           </a>
           . Some of Egypt&apos;s wheat went through the Russian port of Kavkaz
           in the Kerch Strait, where it was transshipped onto larger vessels,
           but after the shipping restrictions the port closed altogether
-          <a className="ref" href="#ref-106">
-            [106]
+          <a className="ref" href="#ref-132">
+            [132]
           </a>
           .
         </p>
@@ -1575,15 +1694,15 @@ export default function Page() {
           2022,&quot; Andrey Sizov, head of the analytics firm SovEcon, says of
           the African market. Food inflation exceeds 20% in Nigeria and 15% in
           Ethiopia, and reaches 9% in Kenya
-          <a className="ref" href="#ref-107">
-            [107]
+          <a className="ref" href="#ref-133">
+            [133]
           </a>
           . Yevgeniy Karabanov of the Grain Union of Kazakhstan estimates that
           Russia and Ukraine together may fail to deliver 30–40 million tonnes
           of grain to the world market, which would push world food prices up by
           15–20%
-          <a className="ref" href="#ref-57">
-            [57]
+          <a className="ref" href="#ref-61">
+            [61]
           </a>
           .
         </p>
@@ -1594,19 +1713,19 @@ export default function Page() {
           urea exports, and after its closure 3–4 million tonnes of fertiliser
           got stuck there. Unlike oil, the world has no strategic fertiliser
           reserves
-          <a className="ref" href="#ref-108">
-            [108]
+          <a className="ref" href="#ref-134">
+            [134]
           </a>
           . According to the World Bank, urea rose in price by more than 80% in
           February–April, and on average fertilisers will be 31% more expensive
           in 2026
-          <a className="ref" href="#ref-109">
-            [109]
+          <a className="ref" href="#ref-135">
+            [135]
           </a>
           . FAO warns that the shortage of fertiliser and costlier energy
           threaten crop yields worldwide
-          <a className="ref" href="#ref-108">
-            [108]
+          <a className="ref" href="#ref-134">
+            [134]
           </a>
           .
         </p>
@@ -1616,14 +1735,14 @@ export default function Page() {
           Iran could push up to 45 million more people into acute hunger. In
           total their number could reach 363 million. That is more than after
           Russia&apos;s invasion of Ukraine in 2022
-          <a className="ref" href="#ref-110">
-            [110]
+          <a className="ref" href="#ref-136">
+            [136]
           </a>
           . In Sudan, according to WFP, about 20 million people are already in
           acute hunger, and staple foods have risen in price by almost 40% in
           seven months
-          <a className="ref" href="#ref-102">
-            [102]
+          <a className="ref" href="#ref-128">
+            [128]
           </a>
           .
         </p>
@@ -1662,51 +1781,55 @@ export default function Page() {
           <h3>Sources</h3>
           <ol>
             <li id="ref-1">
-              BTA — “Drone Attack on Two Merchant Ships in Bulgaria&apos;s
-              Exclusive Economic Zone Prompts President to Convene Security
-              Council”, 06.10.2026.{" "}
-              <a href="https://www.bta.bg/en/news/bulgaria/1218986-drone-attack-on-two-merchant-ships-in-bulgaria-s-exclusive-economic-zone-prompts">
-                bta.bg
+              The Maritime Executive — “Is Russia Probing NATO Weakness in the
+              Black Sea?”, 19.10.2026. Analysis.{" "}
+              <a href="https://maritime-executive.com/article/is-russia-probing-nato-weakness-in-the-black-sea">
+                maritime-executive.com
               </a>
             </li>
             <li id="ref-2">
-              Euronews — “Bulgaria calls off search for 10 missing sailors after
-              drone attack sinks cargo ship”, 06.10.2026, updated 07.10.2026.{" "}
-              <a href="https://www.euronews.com/2026/10/06/drones-hit-two-ships-off-coast-of-bulgaria-as-government-calls-emergency-meeting">
-                euronews.com
+              The Maritime Executive — “Romania Blames Russia for Ship Attack
+              Leaving 1 Dead and 3 Missing”, 23.10.2026.{" "}
+              <a href="https://maritime-executive.com/article/romania-blames-russia-for-ship-attack-leaving-1-dead-and-3-missing">
+                maritime-executive.com
               </a>
             </li>
             <li id="ref-3">
+              RBC-Ukraine — “The Black Sea has become more dangerous than the
+              Persian Gulf”, 25.10.2026. Summary of the Financial Times, Ambrey
+              and IMO data.{" "}
+              <a href="https://www.rbc.ua/rus/news/chorne-more-stalo-nebezpechnishim-persku-1792950012.html">
+                rbc.ua
+              </a>
+            </li>
+            <li id="ref-4">
               Euronews — “Turkish grain ship sinks in Black Sea after deadly
               drone attack”, 05.10.2026.{" "}
               <a href="https://www.euronews.com/2026/10/05/drone-reportedly-hits-ship-in-black-sea-killing-two-and-injuring-11">
                 euronews.com
               </a>
             </li>
-            <li id="ref-4">
-              The Kyiv Independent — “Russian drones strike cargo ship in Black
-              Sea, kill captain, Zelensky says”, 05.10.2026.{" "}
-              <a href="https://kyivindependent.com/russian-drones-strike-cargo-ship-in-black-sea-kill-captain-zelensky-says/">
-                kyivindependent.com
-              </a>
-            </li>
             <li id="ref-5">
-              The Kyiv Independent — “Drones strike merchant vessels in Black
-              Sea off Bulgaria, Ukraine, killing at least 1”, 06.10.2026.{" "}
-              <a href="https://kyivindependent.com/drones-strike-merchant-vessels-in-black-sea-off-bulgaria-and-ukraine-killing-at-least-one/">
-                kyivindependent.com
+              The Maritime Executive — “Bulgaria Recovers Drone Fragments from
+              Ship Attack While Second Ship Sinks”, 20.10.2026.{" "}
+              <a href="https://maritime-executive.com/article/bulgaria-recovers-drone-fragments-from-ship-attack-while-second-ship-sinks">
+                maritime-executive.com
               </a>
             </li>
             <li id="ref-6">
-              PortNews (Telegram) — Russian transport ministry statement on the
-              attack on the tanker Aframax Rio, 06.10.2026. Russian source,
-              figures as claimed.{" "}
-              <a href="https://t.me/PortNews_ru/14452">t.me/PortNews_ru</a>
+              The Sofia Globe — “Drone strike sinks merchant ship off Romania’s
+              coast, one dead, three missing”, 23.10.2026.{" "}
+              <a href="https://sofiaglobe.com/2026/10/23/drone-strike-sinks-merchant-ship-off-romanias-coast-one-dead-three-missing/">
+                sofiaglobe.com
+              </a>
             </li>
             <li id="ref-7">
-              Krymsky Veter (Telegram) — location of the fire from satellite
-              data, 06.10.2026. Monitoring channel.{" "}
-              <a href="https://t.me/Crimeanwind/110645">t.me/Crimeanwind</a>
+              BTA — “Drone Attack on Two Merchant Ships in Bulgaria&apos;s
+              Exclusive Economic Zone Prompts President to Convene Security
+              Council”, 06.10.2026.{" "}
+              <a href="https://www.bta.bg/en/news/bulgaria/1218986-drone-attack-on-two-merchant-ships-in-bulgaria-s-exclusive-economic-zone-prompts">
+                bta.bg
+              </a>
             </li>
             <li id="ref-8">
               Procès-verbal relating to the Rules of Submarine Warfare set forth
@@ -1744,30 +1867,30 @@ export default function Page() {
               </a>
             </li>
             <li id="ref-13">
+              The Kyiv Independent — “Russian drones strike cargo ship in Black
+              Sea, kill captain, Zelensky says”, 05.10.2026.{" "}
+              <a href="https://kyivindependent.com/russian-drones-strike-cargo-ship-in-black-sea-kill-captain-zelensky-says/">
+                kyivindependent.com
+              </a>
+            </li>
+            <li id="ref-14">
               Ambrey — “JWLA-035: Why the Whole Black Sea Is Now a Listed Area”,
               23.09.2026.{" "}
               <a href="https://ambrey.com/operations/event/jwla-035-why-the-whole-black-sea-is-now-a-listed-area/">
                 ambrey.com
               </a>
             </li>
-            <li id="ref-14">
+            <li id="ref-15">
               Regulas Shipping — “Joint War Committee Lists Almost the Entire
               Black Sea as War-Risk Area”, 10.2026.{" "}
               <a href="https://regulasshipping.com/blog/joint-war-committee-lists-almost-the-entire-black-sea-as-war-risk-area/">
                 regulasshipping.com
               </a>
             </li>
-            <li id="ref-15">
+            <li id="ref-16">
               Kyiv Post — “Sybiha Presses WTO Chief on Black Sea Shipping,
               Remote Audits”, 09.10.2026. Ministry for Development data.{" "}
               <a href="https://www.kyivpost.com/post/86633">kyivpost.com</a>
-            </li>
-            <li id="ref-16">
-              USNI News — “October Sees Near Daily Strikes on Ships in Hormuz”,
-              09.10.2026. Lloyd’s List data.{" "}
-              <a href="https://news.usni.org/2026/10/09/october-sees-near-daily-strikes-on-ships-in-hormuz">
-                news.usni.org
-              </a>
             </li>
             <li id="ref-17">
               NPR — “U.S. military says it destroyed 5 Iranian oil tankers after
@@ -1823,14 +1946,6 @@ export default function Page() {
               </a>
             </li>
             <li id="ref-25">
-              Ukrainska Pravda / Yevropeiska Pravda — “Zelensky: Russia attacked
-              the ships in Bulgarian waters, Ukraine&apos;s Navy already in
-              contact with the Bulgarians”, 06.10.2026.{" "}
-              <a href="https://www.pravda.com.ua/news/2026/10/06/8056782/">
-                pravda.com.ua
-              </a>
-            </li>
-            <li id="ref-26">
               Ukrainska Pravda / Yevropeiska Pravda — “Bulgarian minister calls
               the Russia–Ukraine war hybrid and is unsure whose drones hit the
               ships”, 06.10.2026. Statement on bTV.{" "}
@@ -1838,26 +1953,30 @@ export default function Page() {
                 pravda.com.ua
               </a>
             </li>
-            <li id="ref-27">
+            <li id="ref-26">
               Euronews — “Ukraine denies targeting Bulgaria as drone explodes
               near pipeline, Kyiv promises inquiry”, 09.08.2026.{" "}
               <a href="https://www.euronews.com/2026/08/09/ukraine-denies-targeting-bulgaria-as-drone-explodes-near-pipeline-kyiv-promises-inquiry">
                 euronews.com
               </a>
             </li>
+            <li id="ref-27">
+              Kyiv Post — “Romania Holds Russia Responsible as Attacks on 4
+              Black Sea Merchant Ships Kill 8”, 15.10.2026.{" "}
+              <a href="https://www.kyivpost.com/post/87207">kyivpost.com</a>
+            </li>
             <li id="ref-28">
-              Ukrainska Pravda / Yevropeiska Pravda — “EU calls strikes on
-              merchant ships in the Black Sea unacceptable”, 07.10.2026.{" "}
-              <a href="https://www.pravda.com.ua/news/2026/10/07/8056886/">
+              Ukrainska Pravda — “Bulgaria’s prime minister says there is no
+              proof of Russian involvement in the attacks on ships”, 15.10.2026.{" "}
+              <a href="https://www.pravda.com.ua/news/2026/10/15/8058122/">
                 pravda.com.ua
               </a>
             </li>
             <li id="ref-29">
-              NV — “Russia&apos;s hunt for ships of Turkish owners. A second
-              ship in two days sinks off Bulgaria after a drone attack”,
-              06.10.2026. Comment by A. Klymenko.{" "}
-              <a href="https://nv.ua/ukr/world/geopolitics/ataka-droniv-u-chornomu-mori-zatonulo-sudno-alfa-watan-ye-zagibli-50647583.html">
-                nv.ua
+              Ukrainska Pravda / Yevropeiska Pravda — “EU calls strikes on
+              merchant ships in the Black Sea unacceptable”, 07.10.2026.{" "}
+              <a href="https://www.pravda.com.ua/news/2026/10/07/8056886/">
+                pravda.com.ua
               </a>
             </li>
             <li id="ref-30">
@@ -2007,41 +2126,62 @@ export default function Page() {
               </a>
             </li>
             <li id="ref-52">
+              Krymsky Veter (Telegram) — location of the fire from satellite
+              data, 06.10.2026. Monitoring channel.{" "}
+              <a href="https://t.me/Crimeanwind/110645">t.me/Crimeanwind</a>
+            </li>
+            <li id="ref-53">
+              PortNews (Telegram) — Russian transport ministry statement on the
+              attack on the tanker Aframax Rio, 06.10.2026. Russian source,
+              figures as claimed.{" "}
+              <a href="https://t.me/PortNews_ru/14452">t.me/PortNews_ru</a>
+            </li>
+            <li id="ref-54">
               RBC-Ukraine — “Ukraine hit targets in three Russian regions and in
               the Black Sea — Zelensky”, 07.10.2026.{" "}
               <a href="https://www.rbc.ua/rus/news/ukrayina-urazila-tsili-troh-regionah-rf-ta-1791362284.html">
                 rbc.ua
               </a>
             </li>
-            <li id="ref-53">
+            <li id="ref-55">
               The Maritime Executive — “Greenpeace Warns of Environmental
               Fallout From Tanker Attack in Black Sea”, 07.10.2026.{" "}
               <a href="https://maritime-executive.com/article/greenpeace-warns-of-environmental-fallout-from-tanker-attack-in-black-sea">
                 maritime-executive.com
               </a>
             </li>
-            <li id="ref-54">
+            <li id="ref-56">
               PortNews (Telegram) — Russian transport ministry report on the
               clean-up, 07.10.2026. Russian source, figures as claimed.{" "}
               <a href="https://t.me/PortNews_ru/14455">t.me/PortNews_ru</a>
             </li>
-            <li id="ref-55">
+            <li id="ref-57">
               The Insider — the slick behind the tanker Aframax Rio according to
               Greenpeace, 08.10.2026.{" "}
               <a href="https://theins.ru/news/298074">theins.ru</a>
             </li>
-            <li id="ref-56">
+            <li id="ref-58">
               The Insider — Greenpeace on the fire aboard the Aframax Rio,
               09.10.2026. <a href="https://theins.ru/news/298093">theins.ru</a>
             </li>
-            <li id="ref-57">
+            <li id="ref-59">
+              The Insider — oiled birds found on the coast of Krasnodar region,
+              12.10.2026. <a href="https://theins.ru/news/298213">theins.ru</a>
+            </li>
+            <li id="ref-60">
+              Twitter i TikTok (Telegram) — video of the tanker Aframax Rio at
+              Novorossiysk, 20.10.2026. Original source: the Ekozashchita
+              channel. Telegram channel.{" "}
+              <a href="https://t.me/csources/530599">t.me</a>
+            </li>
+            <li id="ref-61">
               Baird Maritime — “Port shutdowns push Russia into deeper grain
               export slowdown”, 13.08.2026. Reuters data.{" "}
               <a href="https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/port-shutdowns-push-russia-into-deeper-grain-export-slowdown">
                 bairdmaritime.com
               </a>
             </li>
-            <li id="ref-58">
+            <li id="ref-62">
               The Moscow Times — “Major Russian Black Sea Oil Terminal Halts
               Operations Amid Ukrainian Drone Threat”, 25.07.2026. Bloomberg
               data.{" "}
@@ -2049,21 +2189,21 @@ export default function Page() {
                 themoscowtimes.com
               </a>
             </li>
-            <li id="ref-59">
+            <li id="ref-63">
               Royal Navy — “Royal Navy shadows Russian warships and shadow fleet
               activity in UK waters”, 29.08.2026.{" "}
               <a href="https://www.royalnavy.mod.uk/news/2026/august/29/29082026-royal-navy-shadows-russian-warships-and-shadow-fleet-activity-in-uk-waters">
                 royalnavy.mod.uk
               </a>
             </li>
-            <li id="ref-60">
+            <li id="ref-64">
               The Maritime Executive — “Russia Briefly Detains Cargo Ship Taking
               Short Cut to Estonia”, 10.2026.{" "}
               <a href="https://maritime-executive.com/article/russia-briefly-detains-cargo-ship-taking-short-cut-to-estonia">
                 maritime-executive.com
               </a>
             </li>
-            <li id="ref-61">
+            <li id="ref-65">
               UkrAgroConsult — “Russia may export only around 1 mln tons of
               wheat in September”, 09.2026. Russian Grain Union data, as
               claimed.{" "}
@@ -2071,30 +2211,30 @@ export default function Page() {
                 ukragroconsult.com
               </a>
             </li>
-            <li id="ref-62">
+            <li id="ref-66">
               The Sizov Report — “Russian Wheat Exports Start 2026/27 at Half
               Last Year&apos;s Pace”, 09.2026.{" "}
               <a href="https://blog.sizov.report/russian-wheat-exports-start-2026-27-at-half-last-years-pace/">
                 sizov.report
               </a>
             </li>
-            <li id="ref-63">
+            <li id="ref-67">
               PortNews (Telegram) — state of emergency in Krasnodar region,
               28.09.2026. Russian source, figures as claimed.{" "}
               <a href="https://t.me/PortNews_ru/14410">t.me/PortNews_ru</a>
             </li>
-            <li id="ref-64">
+            <li id="ref-68">
               The Insider — “Russian diesel exports via the Black Sea fall to
               zero for the first time on record”, 29.09.2026. S&amp;P Global and
               Bloomberg data.{" "}
               <a href="https://theins.press/en/news/297795">theins.press</a>
             </li>
-            <li id="ref-65">
+            <li id="ref-69">
               Kyiv Post — “Trump’s Putin Diesel Deal Overshadows Miami Peace
               Talks”, 10.10.2026.{" "}
               <a href="https://www.kyivpost.com/post/86654">kyivpost.com</a>
             </li>
-            <li id="ref-66">
+            <li id="ref-70">
               Ukrainska Pravda — “Russia partially lifts its diesel export ban
               after the Trump–Putin deal”, 10.10.2026. TASS reporting, as
               claimed.{" "}
@@ -2102,12 +2242,26 @@ export default function Page() {
                 pravda.com.ua
               </a>
             </li>
-            <li id="ref-67">
+            <li id="ref-71">
               Kyiv Post — “US Envoys Warn Kyiv on Intel Cuts Over Refinery
               Strikes”, 10.10.2026. Axios and Kpler data.{" "}
               <a href="https://www.kyivpost.com/post/86671">kyivpost.com</a>
             </li>
-            <li id="ref-68">
+            <li id="ref-72">
+              gCaptain — “Rare Russian Diesel Shipment Expected to Arrive in
+              Norfolk on November 2”, 23.10.2026.{" "}
+              <a href="https://www.rbc.ua/rus/news/rosiya-vidnovlyue-eksport-dizelyu-dvom-klyuchovim-1792505714.html">
+                rbc.ua
+              </a>
+            </li>
+            <li id="ref-73">
+              RBC-Ukraine — “Russia resumes diesel exports to two key buyers
+              after the deal with Trump”, 21.10.2026. Reuters reporting.{" "}
+              <a href="https://gcaptain.com/u-s-to-allow-dark-fleet-tankers-to-shed-sanctions-wright-says/">
+                gcaptain.com
+              </a>
+            </li>
+            <li id="ref-74">
               Newsquawk — “Russia&apos;s oil exports from Black Sea Novorossiysk
               Port reportedly surged to 650k bpd in September”, 22.09.2026.
               Market sources.{" "}
@@ -2115,13 +2269,13 @@ export default function Page() {
                 newsquawk.com
               </a>
             </li>
-            <li id="ref-69">
+            <li id="ref-75">
               The Insider — “Russia&apos;s oil and gas revenues fall 17% in 2026
               despite doubling of Urals crude prices”, 05.10.2026. Reuters and
               Russian finance ministry data.{" "}
               <a href="https://theins.press/en/news/297921">theins.press</a>
             </li>
-            <li id="ref-70">
+            <li id="ref-76">
               Ukrainska Pravda — “Russia&apos;s oil and gas revenues dropped by
               22% in September despite rising oil prices”, 05.10.2026. Russian
               finance ministry data via The Bell.{" "}
@@ -2129,42 +2283,42 @@ export default function Page() {
                 pravda.com.ua
               </a>
             </li>
-            <li id="ref-71">
+            <li id="ref-77">
               Newsquawk — “Russia cuts oil and gas revenues estimate for 2026 to
               RUB 7.6tln from RUB 8.9tln previously”, 28.09.2026.{" "}
               <a href="https://www.newsquawk.com/headlines/russia-cuts-oil-and-gas-revenues-estimate-for-2026-to-rub-76tln-from-rub-89tln-previously">
                 newsquawk.com
               </a>
             </li>
-            <li id="ref-72">
+            <li id="ref-78">
               Al Jazeera — “Tanker hit by multiple projectiles off north coast
               of Qatar, UKMTO says”, 08.10.2026.{" "}
               <a href="https://www.aljazeera.com/news/2026/10/8/tanker-hit-by-multiple-projectiles-off-north-coast-of-qatar-ukmto-says">
                 aljazeera.com
               </a>
             </li>
-            <li id="ref-73">
+            <li id="ref-79">
               IranWire — “CENTCOM Destroys 13 Vessels and Reroutes 130 Ships
               Enforcing Maritime Blockade on Iran”, 06.10.2026.{" "}
               <a href="https://iranwire.com/en/news/158535-centcom-destroys-13-vessels-and-reroutes-130-ships-enforcing-maritime-blockade-on-iran/">
                 iranwire.com
               </a>
             </li>
-            <li id="ref-74">
+            <li id="ref-80">
               Ukrainska Pravda — “CENTCOM says it hit a ship that had left an
               Iranian port”, 11.10.2026.{" "}
               <a href="https://www.pravda.com.ua/news/2026/10/11/8057419/">
                 pravda.com.ua
               </a>
             </li>
-            <li id="ref-75">
+            <li id="ref-81">
               Air &amp; Space Forces Magazine — “US Fighters, Drones Strike 3
               Iranian Oil Tankers After Iran Fires on Navy Ships”, 05.09.2026.{" "}
               <a href="https://www.airandspaceforces.com/us-strikes-3-iranian-tankers-fighters-and-drones-trump-administration-seeks-higher-economic-costs-iran/">
                 airandspaceforces.com
               </a>
             </li>
-            <li id="ref-76">
+            <li id="ref-82">
               CNN — “US military strikes three Iranian tankers in retaliation
               for missile attacks”, 05.09.2026. Audio of the radio warnings
               verified by CNN.{" "}
@@ -2172,28 +2326,28 @@ export default function Page() {
                 cnn.com
               </a>
             </li>
-            <li id="ref-77">
+            <li id="ref-83">
               Baird Maritime — “India confirms three of its sailors died in US
               tanker strike, another incident reported”, 06.2026.{" "}
               <a href="https://www.bairdmaritime.com/security/incidents/india-confirms-three-of-its-sailors-died-in-us-tanker-strike-another-incident-reported">
                 bairdmaritime.com
               </a>
             </li>
-            <li id="ref-78">
+            <li id="ref-84">
               gCaptain — “More Tankers Hit in Hormuz as IRGC Orders Ship to Turn
               Back”, 05.10.2026. UKMTO and JMIC data.{" "}
               <a href="https://gcaptain.com/more-tankers-hit-in-hormuz-as-irgc-orders-ship-to-turn-back/">
                 gcaptain.com
               </a>
             </li>
-            <li id="ref-79">
+            <li id="ref-85">
               Arab Times — “Tanker Hit by Multiple Projectiles Off Qatar,
               Casualties Reported”, 07.10.2026. UKMTO data.{" "}
               <a href="https://www.arabtimesonline.com/news/tanker-hit-by-multiple-projectiles-off-qatar-casualties-reported/">
                 arabtimesonline.com
               </a>
             </li>
-            <li id="ref-80">
+            <li id="ref-86">
               Discovery Alert — “Tanker Struck 51nm North of Qatar in New Gulf
               Shipping Attack”, 10.2026. Comment by M. Kelly (EOS Risk Group);
               analytical aggregator.{" "}
@@ -2201,47 +2355,96 @@ export default function Page() {
                 discoveryalert.com
               </a>
             </li>
-            <li id="ref-81">
+            <li id="ref-87">
               gCaptain (Reuters) — “Vessel Struck by Unknown Projectile Off UAE
               Coast Amid Surge in Attacks, UKMTO Says”, 09.10.2026.{" "}
               <a href="https://gcaptain.com/vessel-struck-by-unknown-projectile-off-uae-coast-amid-surge-in-attacks-ukmto-says/">
                 gcaptain.com
               </a>
             </li>
-            <li id="ref-82">
+            <li id="ref-88">
               The Insider — the IRGC threatens to pursue ships on “unauthorised”
               routes across the whole region, 09.10.2026.{" "}
               <a href="https://theins.ru/news/298098">theins.ru</a>
             </li>
-            <li id="ref-83">
+            <li id="ref-89">
+              USNI News — “October Sees Near Daily Strikes on Ships in Hormuz”,
+              09.10.2026. Lloyd’s List data.{" "}
+              <a href="https://news.usni.org/2026/10/09/october-sees-near-daily-strikes-on-ships-in-hormuz">
+                news.usni.org
+              </a>
+            </li>
+            <li id="ref-90">
+              gCaptain — “New Reports Reveal Five More Ships Hit Near Hormuz”,
+              12.10.2026. UKMTO data.{" "}
+              <a href="https://gcaptain.com/new-reports-reveal-five-more-ships-hit-near-hormuz/">
+                gcaptain.com
+              </a>
+            </li>
+            <li id="ref-91">
+              Ukrinform — “Two ships sink near the Strait of Hormuz after
+              attacks”, 15.10.2026. Reuters reporting.{" "}
+              <a href="https://www.ukrinform.ua/rubric-world/4174678-bila-ormuzkoi-protoki-vnaslidok-atak-zatonuli-dva-sudna.html">
+                ukrinform.ua
+              </a>
+            </li>
+            <li id="ref-92">
+              The Maritime Executive — “Iran Claims Containership Hit Mine and
+              Sank in Strait of Hormuz”, 14.10.2026.{" "}
+              <a href="https://maritime-executive.com/article/iran-claims-containership-hit-mine-and-sank-in-strait-of-hormuz">
+                maritime-executive.com
+              </a>
+            </li>
+            <li id="ref-93">
+              UK Defence Journal — “Britain and France to lead Hormuz transit
+              mission”, 24.10.2026.{" "}
+              <a href="https://ukdefencejournal.org.uk/britain-and-france-to-lead-hormuz-transit-mission/">
+                ukdefencejournal.org.uk
+              </a>
+            </li>
+            <li id="ref-94">
+              RBC-Ukraine — “Iran says it is ready to reopen the Strait of
+              Hormuz, on one condition”, 25.10.2026. AP reporting.{" "}
+              <a href="https://www.rbc.ua/rus/news/iran-zayaviv-gotovnist-vidkriti-ormuzku-protoku-1792896365.html">
+                rbc.ua
+              </a>
+            </li>
+            <li id="ref-95">
               IMO — “Middle East: information related to shipping and seafarers
               — Strait of Hormuz and the Middle East”, updated 06.10.2026.{" "}
               <a href="https://www.imo.org/en/mediacentre/hottopics/pages/middle-east-strait-of-hormuz.aspx">
                 imo.org
               </a>
             </li>
-            <li id="ref-84">
+            <li id="ref-96">
               The Maritime Executive — “Shots Fired at Chinese Containership in
               the Red Sea”, 07.10.2026.{" "}
               <a href="https://maritime-executive.com/article/shots-fired-at-chinese-containership-in-the-red-sea">
                 maritime-executive.com
               </a>
             </li>
-            <li id="ref-85">
+            <li id="ref-97">
               Seatrade Maritime — “Product tanker attacked in Red Sea as
               hostilities escalate”, 05.10.2026.{" "}
               <a href="https://seatrade-maritime.com/security/product-tanker-attacked-in-red-sea-as-hostilities-escalate">
                 seatrade-maritime.com
               </a>
             </li>
-            <li id="ref-86">
+            <li id="ref-98">
+              The Maritime Executive — “Oil Prices Jump After Houthi Strikes and
+              Iranian Shipping Attacks”, 22.10.2026.{" "}
+              <a href="https://maritime-executive.com/article/oil-prices-jump-after-houthi-strikes-and-iranian-shipping-attacks">
+                maritime-executive.com
+              </a>
+            </li>
+            <li id="ref-99">
               CBS News — “Another U.S. strike on alleged drug-smuggling boat
               kills 4, SOUTHCOM says”, 05.10.2026.{" "}
               <a href="https://www.cbsnews.com/news/us-strike-alleged-drug-smuggling-boat-caribbean-4-dead-southcom/">
                 cbsnews.com
               </a>
             </li>
-            <li id="ref-87">
+            <li id="ref-100">
               Diplomacy and Law — “Drone Attacks on Merchant Ships in
               Bulgaria&apos;s Black Sea EEZ: What International Law Says”,
               06.10.2026. Legal analysis.{" "}
@@ -2249,48 +2452,102 @@ export default function Page() {
                 diplomacyandlaw.com
               </a>
             </li>
-            <li id="ref-88">
+            <li id="ref-101">
               RBC-Ukraine — “Bulgaria will not invoke NATO Articles 4 and 5 over
               the attack on ships in the Black Sea”, 06.10.2026. BNT data.{" "}
               <a href="https://www.rbc.ua/rus/news/bolgariya-zadiyuvatime-statti-4-i-5-nato-1791305128.html">
                 rbc.ua
               </a>
             </li>
-            <li id="ref-89">
+            <li id="ref-102">
+              Kyiv Post — “Muted Response by NATO to First-Ever Russian Drone
+              Attack vs. Cargo Ship in Romanian Territory”, 16.10.2026.
+              Analysis.{" "}
+              <a href="https://www.kyivpost.com/analysis/87288">kyivpost.com</a>
+            </li>
+            <li id="ref-103">
               Wikipedia — “Paris Declaration Respecting Maritime Law”.{" "}
               <a href="https://en.wikipedia.org/wiki/Paris_Declaration_Respecting_Maritime_Law">
                 wikipedia.org
               </a>
             </li>
-            <li id="ref-90">
+            <li id="ref-104">
               Encyclopædia Britannica (1911) — “Declaration of Paris”. Text via
               Wikisource.{" "}
               <a href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Declaration_of_Paris">
                 wikisource.org
               </a>
             </li>
-            <li id="ref-91">
+            <li id="ref-105">
               The Maritime Executive — “Large Bulker Abandoned After Attack
               Drifts Hundreds of Miles in Black Sea”, 08.10.2026.{" "}
               <a href="https://maritime-executive.com/article/large-bulker-abandoned-after-attack-drifts-hundreds-of-miles-in-black-sea">
                 maritime-executive.com
               </a>
             </li>
-            <li id="ref-92">
+            <li id="ref-106">
+              NV — “Russia&apos;s hunt for ships of Turkish owners. A second
+              ship in two days sinks off Bulgaria after a drone attack”,
+              06.10.2026. Comment by A. Klymenko.{" "}
+              <a href="https://nv.ua/ukr/world/geopolitics/ataka-droniv-u-chornomu-mori-zatonulo-sudno-alfa-watan-ye-zagibli-50647583.html">
+                nv.ua
+              </a>
+            </li>
+            <li id="ref-107">
               Türkiye Today — “11 Turkish sailors rescued, Alfa Watan crew still
               missing after Black Sea drone attack”, 06.10.2026.{" "}
               <a href="https://www.turkiyetoday.com/world/11-turkish-sailors-rescued-alfa-watan-crew-still-missing-after-black-sea-drone-attack-3229748">
                 turkiyetoday.com
               </a>
             </li>
-            <li id="ref-93">
+            <li id="ref-108">
               Ukrinform — “Bulgaria demands an EU plan for navigation security
               in the Black Sea”, 08.10.2026.{" "}
               <a href="https://www.ukrinform.ua/rubric-world/4172322-bolgaria-vimagae-vid-es-plan-bezpeki-navigacii-v-cornomu-mori.html">
                 ukrinform.ua
               </a>
             </li>
-            <li id="ref-94">
+            <li id="ref-109">
+              The Insider — Romania proposes a joint command of NATO’s Black Sea
+              states against drones, 15.10.2026.{" "}
+              <a href="https://theins.ru/news/298321">theins.ru</a>
+            </li>
+            <li id="ref-110">
+              Ukrainska Pravda — “Bulgaria asks NATO for the ‘full spectrum’ of
+              counter-drone systems”, 16.10.2026.{" "}
+              <a href="https://www.pravda.com.ua/news/2026/10/16/8058324/">
+                pravda.com.ua
+              </a>
+            </li>
+            <li id="ref-111">
+              RBC-Ukraine — “Romania shoots down two Russian jet-powered drones
+              over its territory”, 18.10.2026. Romanian defence ministry data.{" "}
+              <a href="https://www.rbc.ua/rus/news/rumuniya-zbila-dva-reaktivni-droni-rf-svoeyu-1792307944.html">
+                rbc.ua
+              </a>
+            </li>
+            <li id="ref-112">
+              RBC-Ukraine — “NATO to send planes and drones to the Black Sea
+              over attacks on ships”, 21.10.2026. Reuters reporting.{" "}
+              <a href="https://www.rbc.ua/rus/news/nato-napravit-chorne-more-litaki-ta-droni-1792547742.html">
+                rbc.ua
+              </a>
+            </li>
+            <li id="ref-113">
+              The Maritime Executive — “NATO to Support Increased Black Sea
+              Surveillance”, 21.10.2026.{" "}
+              <a href="https://maritime-executive.com/article/nato-to-support-increased-black-sea-surveillance">
+                maritime-executive.com
+              </a>
+            </li>
+            <li id="ref-114">
+              Ukrainska Pravda — “European Parliament calls on the EU to deploy
+              a military operation in the Black Sea”, 23.10.2026.{" "}
+              <a href="https://www.pravda.com.ua/news/2026/10/23/8059350/">
+                pravda.com.ua
+              </a>
+            </li>
+            <li id="ref-115">
               Euromaidan Press — “Two ships sunk and a third set ablaze off NATO
               coasts in two days, and neither Bucharest nor Sofia will say
               ‘Russia’”, 06.10.2026.{" "}
@@ -2298,14 +2555,14 @@ export default function Page() {
                 euromaidanpress.com
               </a>
             </li>
-            <li id="ref-95">
+            <li id="ref-116">
               Ukrinform — “Erdoğan discussed Black Sea shipping safety with
               Putin by phone”, 07.10.2026.{" "}
               <a href="https://www.ukrinform.ua/rubric-world/4171971-erdogan-telefonom-govoriv-iz-putinim-pro-bezpeku-sudnoplavstva-v-cornomu-mori.html">
                 ukrinform.ua
               </a>
             </li>
-            <li id="ref-96">
+            <li id="ref-117">
               Ukrainska Pravda — “Media: India proposed a three-part ceasefire
               to Ukraine and Russia, including on Black Sea security”,
               07.10.2026. Hindustan Times reporting.{" "}
@@ -2313,32 +2570,32 @@ export default function Page() {
                 pravda.com.ua
               </a>
             </li>
-            <li id="ref-97">
+            <li id="ref-118">
               Kyiv Post — US–Ukraine talks in Miami, 09.10.2026.{" "}
               <a href="https://www.kyivpost.com/post/86536">kyivpost.com</a>
             </li>
-            <li id="ref-98">
+            <li id="ref-119">
               Ukrainska Pravda — “Russia wants US sanctions lifted in exchange
               for an ‘energy ceasefire’”, 09.10.2026.{" "}
               <a href="https://www.pravda.com.ua/news/2026/10/09/8057222/">
                 pravda.com.ua
               </a>
             </li>
-            <li id="ref-99">
+            <li id="ref-120">
               RBC-Ukraine — “US offered Russia ‘bonuses’ in exchange for halting
               strikes on energy”, 11.10.2026. The New York Times reporting.{" "}
               <a href="https://www.rbc.ua/rus/news/ssha-zaproponuvali-rosiyi-bonusi-obmin-pripinennya-1791705105.html">
                 rbc.ua
               </a>
             </li>
-            <li id="ref-100">
+            <li id="ref-121">
               Ukrinform — “Trump announces the start of an energy ceasefire
               between Russia and Ukraine”, 11.10.2026.{" "}
               <a href="https://www.ukrinform.ua/rubric-polytics/4173301-tramp-zaaviv-pro-pocatok-energeticnogo-peremira-miz-rosieu-ta-ukrainou.html">
                 ukrinform.ua
               </a>
             </li>
-            <li id="ref-101">
+            <li id="ref-122">
               Ukrainska Pravda — “Zelensky did not know about the ‘energy
               ceasefire’ but is ready to agree”, 11.10.2026. Zelensky’s words as
               relayed by an Axios journalist.{" "}
@@ -2346,7 +2603,38 @@ export default function Page() {
                 pravda.com.ua
               </a>
             </li>
-            <li id="ref-102">
+            <li id="ref-123">
+              Kyiv Post — “Zelensky: Russia Hit Energy Grid 76 Times Since
+              Ceasefire Call”, 18.10.2026.{" "}
+              <a href="https://www.rbc.ua/rus/news/putin-chitae-truth-social-zelenskiy-zayaviv-1791795002.html">
+                rbc.ua
+              </a>
+            </li>
+            <li id="ref-124">
+              Kyiv Post — “Kremlin Rejects Energy Ceasefire But Says Full Peace
+              Deal Requires Ukraine’s Participation”, 21.10.2026.{" "}
+              <a href="https://www.kyivpost.com/post/87414">kyivpost.com</a>
+            </li>
+            <li id="ref-125">
+              Ukrainska Pravda — “Rubio explains why Trump signed a waiver of
+              sanctions against Russia”, 18.10.2026.{" "}
+              <a href="https://www.kyivpost.com/post/87731">kyivpost.com</a>
+            </li>
+            <li id="ref-126">
+              gCaptain (Bloomberg) — “U.S. To Allow Dark Fleet Tankers To Shed
+              Sanctions, Wright Says”, 20.10.2026.{" "}
+              <a href="https://www.pravda.com.ua/news/2026/10/18/8058578/">
+                pravda.com.ua
+              </a>
+            </li>
+            <li id="ref-127">
+              Ukrinform — “Foreign ministers of eight countries discuss shipping
+              security in Istanbul”, 24.10.2026.{" "}
+              <a href="https://www.ukrinform.ua/rubric-world/4177568-glavi-mzs-vosmi-krain-obgovoruut-u-stambuli-bezpeku-sudnoplavstva.html">
+                ukrinform.ua
+              </a>
+            </li>
+            <li id="ref-128">
               Down To Earth — “Disruptions across Strait of Hormuz, Black Sea
               and alternative routes raise global food and fuel security risks”,
               25.09.2026. S&amp;P Global, SovEcon and WFP data.{" "}
@@ -2354,50 +2642,50 @@ export default function Page() {
                 downtoearth.org.in
               </a>
             </li>
-            <li id="ref-103">
+            <li id="ref-129">
               FAO — FAO Food Price Index, release of 02.10.2026.{" "}
               <a href="https://www.fao.org/worldfoodsituation/foodpricesindex/en/">
                 fao.org
               </a>
             </li>
-            <li id="ref-104">
+            <li id="ref-130">
               Daily Maverick (Reuters) — “World food prices near four-year high
               in September, UN says”, 02.10.2026.{" "}
               <a href="https://www.dailymaverick.co.za/article/2026-10-02-world-food-prices-near-four-year-high-in-september-un-say.md">
                 dailymaverick.co.za
               </a>
             </li>
-            <li id="ref-105">
+            <li id="ref-131">
               Al Manassa — “Egypt&apos;s wheat imports drop 77% in September”,
               04.10.2026.{" "}
               <a href="https://manassa.news/en/news/34232">manassa.news</a>
             </li>
-            <li id="ref-106">
+            <li id="ref-132">
               Al Manassa — “Russian port restrictions threaten Egyptian wheat
               supply chains”, 30.07.2026.{" "}
               <a href="https://manassa.news/en/news/33152">manassa.news</a>
             </li>
-            <li id="ref-107">
+            <li id="ref-133">
               African Business — “Wheat prices spike as Ukraine and Russia trade
               Black Sea blows”, 24.08.2026.{" "}
               <a href="https://african.business/2026/08/resources/wheat-prices-spike-as-ukraine-and-russia-trade-black-sea-blows">
                 african.business
               </a>
             </li>
-            <li id="ref-108">
+            <li id="ref-134">
               FAO — “Global agrifood implications of the 2026 conflict in the
               Middle East”, 2026.{" "}
               <a href="https://openknowledge.fao.org/server/api/core/bitstreams/1aafb5d8-39d1-481a-b1f8-25facaec3051/content">
                 openknowledge.fao.org
               </a>
             </li>
-            <li id="ref-109">
+            <li id="ref-135">
               World Bank — Food and Nutrition Security Update 122, 29.05.2026.{" "}
               <a href="https://thedocs.worldbank.org/en/doc/40ebbf38f5a6b68bfc11e5273e1405d4-0090012022/related/Food-and-Nutrition-Security-Update-122-May-29-2026.pdf">
                 worldbank.org
               </a>
             </li>
-            <li id="ref-110">
+            <li id="ref-136">
               Bloomberg — “UN Warns Prolonged Iran War Could Spur Record Global
               Hunger”, 17.03.2026. WFP data.{" "}
               <a href="https://bloomberg.com/news/articles/2026-03-17/un-warns-prolonged-iran-war-could-trigger-record-global-hunger">

@@ -1,0 +1,30 @@
+URL:         https://maritime-executive.com/article/is-russia-probing-nato-weakness-in-the-black-sea
+Кінцевий:    https://maritime-executive.com/article/is-russia-probing-nato-weakness-in-the-black-sea
+Заголовок:   Is Russia Probing NATO Weakness in the Black Sea?
+Дата публ.:  2026-10-18
+Завантажено: 2026-10-26 09:01 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 150357
+Оригінал:    raw/257-maritime-executive.com-is-russia-probing-nato-weakness-in-the-black-se.html
+sha256:      78b1c288fecd2ef04d752ce1af09f545d6f1f997409a4b27696fb811b7886cbc
+Витяг:       trafilatura
+
+==============================================================================
+# Is Russia Probing NATO Weakness in the Black Sea?
+
+Russia is clearly mounting a campaign in the Black Sea against merchant shipping, with the aim of reducing shipping volumes heading to and from Ukraine.
+
+There have been eight recorded attacks on merchant shipping in the western Black Sea in October, excluding attacks carried out directly on shipping and port facilities in Ukraine.
+
+Four vessels were attacked by drones in the sea area adjacent to the Romanian coastline. The San Marino-flagged chemical tanker Wine Trader (IMO 8808707) and the Turkish-flagged cargo ship Royad Mammadov (IMO 9356969) were attacked while located in the Romanian Exclusive Economic Zone (EEZ). The Comoros-flagged chemical/oil products tanker Yara J (IMO 9221803) and the Marshall Islands-flagged bulk carrier Sea Destiny (IMO 9454175) were struck in what the Romanian authorities acknowledged were the country's territorial waters, less than 12 nautical miles from shore.
+
+The remaining four, all cargo vessels, were attacked off the Bulgarian coast, apparently all in the Bulgarian EEZ. The Guinea-Bissau-flagged HS Dignity (IMO 9545912) was struck, leaving 11 sailors missing. The Maltese-flagged Chelsea-3 (IMO 9361392) was hit three times by drones, and the Palau-flagged Able/AEL (IMO 9001136) was also struck. Syrian authorities have lodged strong protests over the loss of the fourth cargo vessel, the Togo-flagged Alpha Watan (IMO 7510884), concerned that the search for 10 missing crew members – nine Syrians and one Egyptian – was called off too soon.
+
+Under the terms of the United Nations Convention on the Law of the Sea (UNCLOS), a coastal state has no security responsibility for the safe passage of a vessel through its EEZ; that responsibility falls instead to the flag state. Likewise, a coastal state is not legally obligated to defend a foreign-flag vessel passing through its territorial seas - but the coastal state exercises full sovereignty over its own waters within the 12-nautical-mile limit, so an attack is considered in the same light as an attack on the soil of the state.
+
+that matters most
+
+Get the latest maritime news delivered to your inbox daily.
+
+NATO has not made any substantive response to the situation and would not be expected to do so unless a member state requested aid or assistance. Hitherto, ships traveling between the Bosporus and Ukraine, if following the most direct course, have tended to pass through the Bulgarian EEZ and thence into Romanian territorial waters. But since the upsurge in attacks, more ships have taken a longer course, hugging the Bulgarian coast and traveling through Bulgarian territorial waters in hopes of reducing their risk.
+
+Though it initially declined to attribute the growing list of attacks to any specific nation, last week Romania [publicly accused](https://x.com/oana_toiu/status/2110760747747745831) Russia of conducting the attacks and called for NATO [assistance](https://www.euronews.com/2026/10/16/romanian-president-calls-for-greater-nato-oversight-in-the-black-sea-in-euronews-interview) to address the risk. The North Atlantic Council is scheduled to hold an [emergency meeting](https://x.com/MAERomania/status/2111497346928230507) to discuss defense and deterrence in the Black Sea on Tuesday.

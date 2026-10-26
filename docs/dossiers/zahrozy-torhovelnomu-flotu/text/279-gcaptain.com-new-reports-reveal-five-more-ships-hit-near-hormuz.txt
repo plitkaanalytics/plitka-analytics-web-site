@@ -1,0 +1,50 @@
+URL:         https://gcaptain.com/new-reports-reveal-five-more-ships-hit-near-hormuz/
+Кінцевий:    https://gcaptain.com/new-reports-reveal-five-more-ships-hit-near-hormuz/
+Заголовок:   Six Ships Struck in Single Day as Hormuz Attacks Accelerate
+Дата публ.:  2026-10-12
+Завантажено: 2026-10-26 09:14 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 246871
+Оригінал:    raw/279-gcaptain.com-new-reports-reveal-five-more-ships-hit-near-hormuz.html
+sha256:      5a7c47523be33f13ac9a691b7111d7918f867eabe996a30427bc1afb6eb1ff95
+Витяг:       trafilatura
+
+==============================================================================
+Six commercial vessels were reported struck in and around the Strait of Hormuz on October 11, including five tankers and a container ship, as attacks on merchant shipping continue to escalate across the region.
+
+UK Maritime Trade Operations (UKMTO) issued five additional attack warnings, four of them time-late reports, adding to an earlier tanker attack already documented in Sunday’s [Joint Maritime Information Center (JMIC) advisory](https://www.ukmto.org/-/media/ukmto/products/update-104-jmic-advisory-note-11-october-1.pdf?rev=ff03f3af21364e44a4e9413136d44456).
+
+The six reports describe five vessels struck while transiting the Strait of Hormuz and a sixth tanker attacked near Sohar anchorage, Oman, in the Gulf of Oman.
+
+The latest warnings, numbered 165-26 through 169-26, include an outbound product tanker, an outbound crude oil tanker, another outbound tanker and an inbound container ship, all struck by unidentified projectiles while passing through the strait.
+
+UKMTO confirmed that the crew of one outbound tanker was safe, although the environmental impact remained unknown. The other reports provided no details on casualties or the extent of damage.
+
+The fifth incident involved a tanker near Sohar anchorage that was struck by an uncrewed aerial vehicle (UAV). UKMTO initially classified the incident as suspicious activity before upgrading it to an attack. Local authorities were assisting with the evacuation of the crew, while damage and environmental assessments remained incomplete.
+
+An earlier attack, reported under UKMTO warning 164-26, involved another outbound tanker struck on its port side by an unidentified projectile. According to JMIC, the vessel sustained damage to its steering gear room and port-side water tank. No injuries were reported, and the tanker was proceeding to Fujairah anchorage.
+
+The six reported attacks add to a growing series of incidents since late September, with ships struck while entering and leaving the Strait of Hormuz, at anchor off the United Arab Emirates and elsewhere inside the Persian Gulf.
+
+The reports also underscore the difficulty of establishing the full extent of the attacks as they happen. Four of the latest incidents were reported after the fact, meaning security assessments and official incident counts may not reflect the most recent attacks.
+
+The latest incidents follow a [JMIC advisory issued Sunday](https://www.ukmto.org/-/media/ukmto/products/update-104-jmic-advisory-note-11-october-1.pdf?rev=ff03f3af21364e44a4e9413136d44456) that maintained the Strait of Hormuz security threat at **SEVERE**, its second-highest classification, warning that further deliberate attacks on merchant shipping were highly likely.
+
+At the time of that assessment, JMIC had recorded three confirmed attacks in the Strait of Hormuz over the preceding 72 hours, including an earlier incident reported late. The four additional time-late reports now add to an already deteriorating security picture.
+
+JMIC also warned that attacks were spreading beyond the strait’s transit lanes, with vessels targeted at anchorages and inside the Persian Gulf.
+
+The escalation comes as the United States continues efforts to restore commercial shipping through Hormuz despite continuing attacks.
+
+According to JMIC, U.S. Naval Cooperation and Guidance for Shipping (NCAGS) data showed approximately 29 vessel transits per day over the preceding 72 hours, compared with a historical average of roughly 138 daily transits. Independent tracking data, however, indicated substantially fewer vessels passing through the strait.
+
+The differing figures reflect an ongoing gap between U.S.-reported transit activity and independently observed shipping movements.
+
+The latest attacks also come amid continuing U.S. naval blockade operations against Iranian shipping. On October 10, U.S. forces disabled the bulk carrier *Ocean Molica* in the Gulf of Oman after the vessel allegedly attempted to evade the blockade, according to U.S. Central Command.
+
+The U.S. military action was separate from the six attacks reported on October 11.
+
+For commercial operators, the continuing strikes present a serious obstacle to any sustained recovery in traffic through the strait, regardless of whether navigational channels have been cleared or U.S. forces can facilitate individual passages.
+
+The latest reports also highlight the continuing risks facing civilian crews as ships attempt to enter and leave the Persian Gulf.
+
+UKMTO has urged vessels to transit with caution and report suspicious activity while authorities investigate the incidents.

@@ -1,6 +1,7 @@
 /**
  * Зона воєнного ризику Joint War Committee в Чорному морі після JWLA-035
- * (16.09.2026) і точки ударів 5–6 жовтня 2026 року.
+ * (16.09.2026) і точки ударів по торговельних суднах у жовтні 2026 року:
+ * суцільне коло — судно затонуло, кільце — уражене.
  *
  * Тонована вода — зона: усе Чорне й Азовське моря, крім 12-мильних
  * територіальних вод Туреччини, Румунії, Болгарії й Грузії (світла смуга
@@ -11,8 +12,13 @@
  * Берегова лінія — Natural Earth 1:50m (world-atlas), рівнокутна проєкція з
  * поправкою на широту 44°. Точки ударів орієнтовні: Royad Mammadov ~20 миль від
  * узбережжя Румунії, Alfa Watan і Able ~70 миль на схід від Бяли, Aframax Rio
- * ~11 км на захід від Сочі (тепловий слід NASA FIRMS за Baird Maritime). Дані: JWC / Ambrey, BTA, Digi24 через Kyiv Independent,
- * «Крымский ветер».
+ * ~11 км на захід від Сочі (тепловий слід NASA FIRMS за Baird Maritime),
+ * Chelsea 3 ~18 миль на схід від Бяли, HS Dignity ~17 миль від Крапеця,
+ * Yara J ~9 миль від Суліни (терводи Румунії), Wine Trader ~13 миль на
+ * південний схід від Суліни, Khoryv ~13 миль на схід від Констанци.
+ * Sea Destiny не позначено: точне місце невідоме. Дані: JWC / Ambrey, BTA,
+ * Digi24 через Kyiv Independent, «Крымский ветер», Maritime Executive,
+ * Kyiv Post, Sofia Globe.
  * Статичний SVG: сторінка статті — серверний компонент.
  */
 
@@ -38,33 +44,88 @@ const STRIKES: {
   dx: number;
   dy: number;
   anchor: "start" | "end";
+  /** затонуло (суцільне коло) чи лише уражене (кільце) */
+  sunk: boolean;
 }[] = [
+  {
+    x: 127,
+    y: 139,
+    uk: "Yara J, 14.10",
+    en: "Yara J, 14 Oct",
+    dx: 9,
+    dy: -6,
+    anchor: "start",
+    sunk: false,
+  },
+  {
+    x: 134,
+    y: 148,
+    uk: "Wine Trader, 15.10",
+    en: "Wine Trader, 15 Oct",
+    dx: 9,
+    dy: 9,
+    anchor: "start",
+    sunk: false,
+  },
+  {
+    x: 90,
+    y: 192,
+    uk: "Khoryv, 23.10",
+    en: "Khoryv, 23 Oct",
+    dx: 9,
+    dy: -5,
+    anchor: "start",
+    sunk: true,
+  },
   {
     x: 101.3,
     y: 206.8,
     uk: "Royad Mammadov, 5.10",
     en: "Royad Mammadov, 5 Oct",
-    dx: 10,
+    dx: 9,
+    dy: 8,
+    anchor: "start",
+    sunk: true,
+  },
+  {
+    x: 93,
+    y: 230,
+    uk: "HS Dignity, 13.10",
+    en: "HS Dignity, 13 Oct",
+    dx: 9,
     dy: 4,
     anchor: "start",
+    sunk: true,
   },
   {
     x: 115.7,
     y: 267.6,
     uk: "Alfa Watan, 6.10",
     en: "Alfa Watan, 6 Oct",
-    dx: 10,
+    dx: 9,
     dy: 0,
     anchor: "start",
+    sunk: true,
   },
   {
     x: 115.7,
     y: 287.7,
     uk: "Able, 6.10",
     en: "Able, 6 Oct",
-    dx: 10,
+    dx: 9,
     dy: 9,
     anchor: "start",
+    sunk: true,
+  },
+  {
+    x: 64,
+    y: 277,
+    uk: "Chelsea 3, 13.10",
+    en: "Chelsea 3, 13 Oct",
+    dx: -30,
+    dy: 30,
+    anchor: "start",
+    sunk: false,
   },
   {
     x: 569.7,
@@ -74,6 +135,7 @@ const STRIKES: {
     dx: -10,
     dy: 18,
     anchor: "end",
+    sunk: false,
   },
 ];
 
@@ -100,9 +162,9 @@ const CITIES: {
     y: 134.1,
     uk: "Суліна",
     en: "Sulina",
-    dx: 6,
+    dx: -6,
     dy: 3,
-    anchor: "start",
+    anchor: "end",
   },
   {
     x: 78.8,
@@ -143,22 +205,24 @@ const CITIES: {
   },
 ];
 
-const LEGEND: Record<Lang, [string, string, string]> = {
+const LEGEND: Record<Lang, [string, string, string, string]> = {
   uk: [
     "зона воєнного ризику JWC з 16.09",
     "12 миль від берега — поза зоною",
-    "удари 5–6 жовтня, орієнтовно",
+    "затонуло, жовтень 2026",
+    "уражено, жовтень 2026",
   ],
   en: [
     "JWC war-risk area since 16 Sep",
     "12 miles from shore — excluded",
-    "strikes on 5–6 Oct, approximate",
+    "sunk, October 2026",
+    "hit, October 2026",
   ],
 };
 
 const ARIA: Record<Lang, string> = {
-  uk: "Карта Чорного моря. З 16 вересня 2026 року зоною воєнного ризику лондонського Об'єднаного воєнного комітету є все Чорне й Азовське моря, крім 12-мильних територіальних вод Туреччини, Румунії, Болгарії та Грузії. Позначено орієнтовні місця ударів: Royad Mammadov 5 жовтня приблизно за 20 миль від узбережжя Румунії, Alfa Watan і Able 6 жовтня приблизно за 70 миль на схід від болгарської Бяли, Aframax Rio 6 жовтня приблизно за 11 кілометрів від Сочі",
-  en: "Map of the Black Sea. Since 16 September 2026 the London Joint War Committee's war-risk listed area covers the whole of the Black Sea and the Sea of Azov except the 12-mile territorial seas of Türkiye, Romania, Bulgaria and Georgia. Approximate strike locations are marked: Royad Mammadov on 5 October about 20 miles off the Romanian coast, Alfa Watan and Able on 6 October about 70 miles east of Byala, Bulgaria, and Aframax Rio on 6 October about 11 kilometres off Sochi",
+  uk: "Карта Чорного моря. З 16 вересня 2026 року зоною воєнного ризику лондонського Об'єднаного воєнного комітету є все Чорне й Азовське моря, крім 12-мильних територіальних вод Туреччини, Румунії, Болгарії та Грузії. Позначено орієнтовні місця ударів по торговельних суднах у жовтні 2026 року. Затонули Khoryv і Royad Mammadov біля Констанци, HS Dignity біля болгарського Крапеця, Alfa Watan і Able приблизно за 70 миль на схід від Бяли. Уражено танкери Yara J і Wine Trader біля Суліни, суховантаж Chelsea 3 біля Бяли й танкер Aframax Rio біля Сочі",
+  en: "Map of the Black Sea. Since 16 September 2026 the London Joint War Committee's war-risk listed area covers the whole of the Black Sea and the Sea of Azov except the 12-mile territorial seas of Türkiye, Romania, Bulgaria and Georgia. Approximate locations of strikes on merchant ships in October 2026 are marked. Sunk: the Khoryv and the Royad Mammadov off Constanța, the HS Dignity off Krapets, Bulgaria, and the Alfa Watan and the Able about 70 miles east of Byala. Hit: the tankers Yara J and Wine Trader off Sulina, the cargo ship Chelsea 3 off Byala and the tanker Aframax Rio off Sochi",
 };
 
 export default function BlackSeaWarRisk({ lang = "uk" }: { lang?: Lang }) {
@@ -214,19 +278,30 @@ export default function BlackSeaWarRisk({ lang = "uk" }: { lang?: Lang }) {
         ))}
         {STRIKES.map((s) => (
           <g key={s.uk}>
-            <circle
-              cx={s.x}
-              cy={s.y}
-              r="6"
-              fill="var(--orange)"
-              stroke="var(--white)"
-              strokeWidth="2"
-            />
+            {s.sunk ? (
+              <circle
+                cx={s.x}
+                cy={s.y}
+                r="5.5"
+                fill="var(--orange)"
+                stroke="var(--white)"
+                strokeWidth="1.5"
+              />
+            ) : (
+              <circle
+                cx={s.x}
+                cy={s.y}
+                r="4.5"
+                fill="var(--white)"
+                stroke="var(--orange)"
+                strokeWidth="2.5"
+              />
+            )}
             <text
               x={s.x + s.dx}
               y={s.y + s.dy}
               textAnchor={s.anchor}
-              fontSize="12"
+              fontSize="11"
               fontWeight="600"
               fill="var(--ink)"
             >
@@ -249,7 +324,7 @@ export default function BlackSeaWarRisk({ lang = "uk" }: { lang?: Lang }) {
           x={LX - 8}
           y={LY - 8}
           width="214"
-          height="62"
+          height="78"
           rx="3"
           fill="var(--paper)"
           fillOpacity="0.92"
@@ -291,6 +366,17 @@ export default function BlackSeaWarRisk({ lang = "uk" }: { lang?: Lang }) {
         />
         <text x={LX + 20} y={LY + 41}>
           {LEGEND[lang][2]}
+        </text>
+        <circle
+          cx={LX + 7}
+          cy={LY + 53}
+          r="4"
+          fill="var(--white)"
+          stroke="var(--orange)"
+          strokeWidth="2"
+        />
+        <text x={LX + 20} y={LY + 57}>
+          {LEGEND[lang][3]}
         </text>
       </g>
     </svg>

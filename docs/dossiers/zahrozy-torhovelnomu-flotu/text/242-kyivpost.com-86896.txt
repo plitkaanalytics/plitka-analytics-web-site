@@ -1,0 +1,49 @@
+URL:         https://www.kyivpost.com/post/86896
+Кінцевий:    https://www.kyivpost.com/post/86896
+Заголовок:   Bulgaria Will Summon Russian Ambassador After Drone Attack on Black Sea Ships
+Дата публ.:  2026-10-13
+Завантажено: 2026-10-26 09:00 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 112439
+Оригінал:    raw/242-kyivpost.com-86896.html
+sha256:      bd907f0cd53135d838de9587e87eff81850138ff92712dd3d0fa477fe25aa68c
+Витяг:       trafilatura
+
+==============================================================================
+Bulgaria will summon Russia’s ambassador after overnight attacks on commercial ships off its Black Sea coast, including a drone attack on a Ukrainian-owned cargo vessel and a separate incident in which another ship reportedly sank, Bloomberg [reported](https://www.bloomberg.com/news/articles/2026-10-13/bulgaria-to-summon-russian-ambassador-as-drones-hit-more-ships) Tuesday, Oct. 13.
+
+Bulgarian Prime Minister Rumen Radev said authorities did not have sufficient evidence to formally identify who was responsible. Ukraine blamed Russia and called for additional sanctions.
+
+### JOIN US ON TELEGRAM
+
+Follow our coverage of the war on the [@Kyivpost_official](https://t.me/Kyivpost_official).
+
+The Malta-flagged Chelsea 3, owned by a Ukrainian company, was attacked at about 1:30 a.m. on Tuesday, roughly 18 nautical miles (20 miles) off the coast near the Bulgarian town of Byala, Radev said, according to Bloomberg.
+
+Crew members reported an attack by three drones, but all survived and were rescued.
+
+Radev also described a second incident about 17 nautical miles (19 miles) off the village of Krapets, where preliminary information indicated that another vessel had been struck and sunk.
+
+Despite the decision to summon Russia’s ambassador, Radev said Bulgaria lacked the evidence needed to accuse a specific party.
+
+“We lack solid, clear evidence to level accusations against any specific party,” he said.
+
+He nevertheless suggested Russia could benefit from the incidents.
+
+Ukrainian Foreign Minister Andrii Sybiha [blamed](https://mfa.gov.ua/news/andrij-sibiga-vidreaguvav-na-udar-rosiyi-na-komercijni-sudna-poblizu-teritorialnih-vod-bolgariyi) Russia for the attacks near Bulgarian territorial waters, saying Ukrainian and Azerbaijani citizens had been injured.
+
+
+### 
+                                [ISW Russian Offensive Campaign Assessment, November 12, 2026](https://www.kyivpost.com/post/86879)
+                            
+
+Sybiha said the attacks demonstrated Moscow’s disregard for civilian lives and the safety of shipping in the Black Sea. He urged international partners to increase pressure on Russia, impose additional sanctions, and take action to protect freedom of navigation.
+
+“The Black Sea is a vital artery of global food security,” Sybiha said.
+
+“Russia is attacking it to weaponize hunger and hold the world hostage.”
+
+Sybiha called for a decisive international response to hold Russia accountable and safeguard commercial shipping.
+
+You can also highlight the text and press
+
+__Ctrl + Enter__

@@ -1,0 +1,42 @@
+URL:         https://maritime-executive.com/article/iran-claims-containership-hit-mine-and-sank-in-strait-of-hormuz
+Кінцевий:    https://maritime-executive.com/article/iran-claims-containership-hit-mine-and-sank-in-strait-of-hormuz
+Заголовок:   Iran Claims Containership Hit Mine and Sank in Strait of Hormuz
+Дата публ.:  2026-10-14
+Завантажено: 2026-10-26 09:14 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 152740
+Оригінал:    raw/278-maritime-executive.com-iran-claims-containership-hit-mine-and-sank-in-.html
+sha256:      25e978e17d5557f097e5faa9e8b0d047c3592aa36d48fccda4bc5bc5277c8654
+Витяг:       trafilatura
+
+==============================================================================
+# Iran Claims Containership Hit Mine and Sank in Strait of Hormuz
+
+The Islamic Revolutionary Guard Corps Navy released images on Wednesday morning, October 14, claiming that a containership had struck a mine while traveling on an “illegal and dangerous” route through the Strait of Hormuz. The cause of the incident has not been confirmed, but the sinking of the vessel is being widely reported after Iran struck a total of four vessels in the past hours.
+
+UK Maritime Trade Operations reported that it had received information that two container vessels had been struck, but both reports said there was minor damage to the ships. The vessels were not identified, but one was said to be a 50,000-tonne containership and the second was identified as a 19,000-tonne containership, with the reports saying both were struck by unidentified projectiles.
+
+The vessel seen with containers strewn in the water in the Iranian images is being identified as the *GFS Pride* (39,446 dwt), built in 2008, and operated by a company based in Dubai. The vessel was registered in Singapore with a capacity of 2,824 TEU.
+
+According to the Iranian statement, the vessel “exploded and caught fire” after striking a mine. They made no mention of the crew or any rescue efforts.
+
+It is one of two containerships from the same company that were reported to have been struck. The other, *GFS Giselle* (54,117 dwt), was built in 2015 and also registered in Singapore. It has a capacity of 4,370 TEU. Both vessels’ last registered position on GPS was in the Fujairah Anchorage nearly two weeks ago.
+
+Singapore's Maritime and Ports Authority issued a statement confirming the attack on both vessels and that the GFS Pride has sunk. It said all 21 crew members were safely evacuated while calling the attacks "unprovoked, unjustifiable, and a breach of international law." It said the *GFS Giselle* had been able to proceed to a safe anchorage and that all 22 crewmembers were safe.
+
+???? ???? ????????? ????? ?? ???? ??????? ?? ???? ????? ???? ??? ?? ????? ?????? ????: ?? ???? ????????? ????? ?? ??? ???? ?? ???? ??????? ? ????? ????? ???? ?? ???? ?? ????? ?? ?? ??? ?????? ????? ? ???? ??????? ???? ??. https://t.co/Szr4MUTQqD
+
+— ???????? ???? (@FarsNews_Agency)[October 14, 2026](https://x.com/FarsNews_Agency/status/2110357900774216016?ref_src=twsrc%5Etfw)
+
+A third container vessel, operated by Safeen Feeders (part of AD Ports Group), was also reported to have been targeted. The 23,500 dwt *Al Saadiyat*, registered in the Marshall Islands, has a capacity of 1,730 TEU. The product tanker *Alfonso* was also reportedly targeted overnight. The 38,842-dwt tanker is also managed from Dubai and registered in Barbados.
+
+The reports of the strikes came as Iran renewed its pronouncements, claiming to have deployed operational units in “a new formation” east of the Strait of Hormuz. It also claimed to have acquired “more advanced weapons” in recent weeks, saying it was ready to take on the U.S. Navy. It threatened any U.S. warships, and specifically the carriers, if they attempted to approach the Strait of Hormuz.
+
+The IRGC Navy earlier this week issued a warning that “A horrific fire is the inevitable fate of every rogue tanker that seeks to disregard the security and regulations of the Strait of Hormuz.”
+
+that matters most
+
+Get the latest maritime news delivered to your inbox daily.
+
+CENTCOM responded with another of its “fact check” statements refuting the Iranian claims of control of the Strait of Hormuz. It asserts the “IRGC’s navy commander has no navy,” while claiming 19 million barrels of crude oil passed through the Strait yesterday. It did not address the increased strikes by Iran against shipping.
+
+Separately, the security consultancy Vanguard Tech is reporting that the bulker *Cape Dao* (170,000 dwt) is reported to be sinking after an unsuccessful salvage attempt. The vessel, which is managed from the UAE and registered in Antigua & Barbuda, was struck on September 23. One seafarer was killed in the strike, which took place 15 nautical miles northeast of Khasab, Oman.
