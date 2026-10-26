@@ -1,0 +1,49 @@
+URL:         https://www.kyivpost.com/post/87726
+Кінцевий:    https://www.kyivpost.com/post/87726
+Заголовок:   Drone Attacks on Cargo Ships in the Black Sea
+Дата публ.:  2026-10-21
+Завантажено: 2026-10-26 09:01 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 114717
+Оригінал:    raw/263-kyivpost.com-87726.html
+sha256:      c47500b9a0d2fab1c79d6934db78aee021b24db9fa6dbe3a2c114ad2c8997ede
+Витяг:       trafilatura
+
+==============================================================================
+At least seven merchant ships have reportedly been attacked by drones in the Black Sea off the coasts of Romania and Bulgaria in recent days. It is not yet clear who is behind the strikes, which are fuelling concerns about a further escalation of the war in Ukraine and jeopardising key trade routes. Europe’s press discusses who is to blame and the consequences for security and global trade.
+
+**Ceasefire to protect grain exports in everyone’s interest**
+
+### JOIN US ON TELEGRAM
+
+Follow our coverage of the war on the [@Kyivpost_official](https://t.me/Kyivpost_official).
+
+*The Süddeutsche Zeitung (Germany) points out that many more countries may soon be hit by the escalation:*
+
+“If the Black Sea becomes a high-risk area, transport and insurance costs will inevitably rise – and with them, the price of the grain itself. Russia and Ukraine are among the world’s largest suppliers. Unlike at the start of the war, when it was only Russia targeting Ukraine with blockades and the shelling of its ports, Ukraine is now in a position to fight back and disrupt Russian exports. A ceasefire to protect grain deliveries is therefore urgently needed to avoid worsening the global famine. It is in everyone’s interest.”
+
+**Stop beating around the bush**
+
+*The latest drone attacks show how the Russian-Ukrainian war is moving ever closer to Bulgaria, writes Webcafé (Bulgaria) :*
+
+“The situation is so serious that this time the government felt compelled to summon the Russian ambassador for talks even though Prime Minister Radev stressed that there is currently no clear evidence to bring charges against either side. ... Summoning the Russian ambassador Eleonora Mitrofanova is a good start, but it must not stop there. On the contrary: we must stop beating about the bush. It must be made clear that such behaviour on Russia’s part is unacceptable and will have consequences.”
+
+
+### 
+                                [Zelensky Warns of Russia-Iran Nexus as Washington Pursues Moscow Talks](https://www.kyivpost.com/post/87677)
+                            
+
+**Black Sea as a new battlefield?**
+
+*El Periódico de Catalunya (Spain) suspects Russia:*
+
+“In recent days, at least seven merchant ships have been attacked by drones in the Black Sea, off the coasts of Romania and Bulgaria. ... Are these Russian attacks? Are we facing a potential act of war to which Europe is barely responding? ... This raises a delicate question: could Article 5 of the Nato Treaty on collective defence be invoked in the event of attacks taking place within the economic zones of allied states, even if these zones do not form part of their territorial waters? ... The key question is whether this is a series of attacks against commercial navigation linked to the war in Ukraine or a deliberate escalation designed to test Nato’s ability to respond. So far, there is no conclusive evidence either way.”
+
+**Evidence still pending**
+
+*At this point, there is no clear evidence proving who is behind the drone attacks, the pro-government newspaper Trud (Bulgaria) stresses:*
+
+“Bulgarian politicians have good reasons to refrain from making assessments or levelling accusations at either Russia or Ukraine until the results of the investigations into the origin of the drones have been announced. It is vital to draw a clear distinction between proven facts and the hysterical anti-Russian propaganda being disseminated in our media. ... Accusing Prime Minister Rumen Radev of being unwilling to name Russia as the aggressor even though it’s clear that the drones are Russian is pretty dumb and amounts to accusing him of not behaving like a propagandist from the socialist era.”
+
+You can also highlight the text and press
+
+__Ctrl + Enter__

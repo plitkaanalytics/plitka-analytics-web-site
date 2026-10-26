@@ -1,0 +1,36 @@
+URL:         https://gcaptain.com/irans-guards-say-two-tankers-hit-mines-in-strait-of-hormuz/
+Кінцевий:    https://gcaptain.com/irans-guards-say-two-tankers-hit-mines-in-strait-of-hormuz/
+Заголовок:   Iran's Guards Say Two Tankers Hit Mines In Strait Of Hormuz
+Дата публ.:  2026-10-17
+Завантажено: 2026-10-26 09:14 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 254375
+Оригінал:    raw/280-gcaptain.com-irans-guards-say-two-tankers-hit-mines-in-strait-of-hormu.html
+sha256:      7be7857cd0d94b1994eeaf4373a26f2cfec9911b8cddffd14cf419abd4915202
+Витяг:       trafilatura
+
+==============================================================================
+DUBAI, Oct 17 (Reuters) – Iran’s Revolutionary Guards Navy said on Saturday that two oil tankers had caught fire after hitting naval mines while crossing the [Strait of Hormuz](https://gcaptain.com/by-the-numbers-u-s-claims-control-of-hormuz-as-ship-attacks-hit-new-high/), the official Iranian news agency IRNA reported.
+
+State media said both tankers were carrying about 2 million barrels of crude oil.
+
+There was no independent confirmation of the reports.
+
+Read Also: [Fog of War Deepens in Hormuz as UKMTO Says Most Ship Attacks Go Unreported](https://gcaptain.com/fog-of-war-deepens-in-hormuz-as-ukmto-says-most-ship-attacks-go-unreported/)
+
+
+IRNA reported that the vessels had switched off their positioning and radar systems and attempted to use an unauthorized route through the strategic waterway. The second vessel was left immobilized after striking a mine, it added.
+
+State media earlier reported that the other tanker had also struck a mine while attempting to transit the strait via a route not authorized by Iran.
+
+The incidents come amid heightened tensions around the strait, a key oil shipping route. Disruptions to shipping in the waterway due to the US-Israeli war on Iran have boosted global energy prices and inflation. 
+
+Maritime officials said on Wednesday that a container ship and a dry bulk carrier sank near the strait after being hit by projectiles in separate incidents.
+
+Related Article: [Containership Sinks as Hormuz Attacks Spiral Out of Control](https://gcaptain.com/containership-sinks-as-hormuz-attacks-spiral-out-of-control/)
+
+
+Attacks around the waterway[ have surged](https://gcaptain.com/new-reports-reveal-five-more-ships-hit-near-hormuz/) over the past two weeks, with Iran saying it is stepping up strikes in response to the US blockade of itsports and tougher sanctions imposed last month.
+
+(Reporting by Menna Alaa El-Din. Additional reporting by Dubai newsroom. Editing by Sam Holmes and Mark Potter)
+
+*(c) Copyright Thomson Reuters 2026.*
