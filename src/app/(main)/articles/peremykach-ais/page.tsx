@@ -23,6 +23,7 @@ export async function generateMetadata(): Promise<Metadata> {
   return {
     title: `${getArticleBySlug(SLUG).title} — PLITKA Analytics`,
     description: DESCRIPTION,
+    openGraph: { images: ["/articles/peremykach-ais/cover.jpg"] },
   };
 }
 
