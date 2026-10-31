@@ -99,6 +99,14 @@ export const publications: ExternalPublication[] = [
     date: '2026-09-25',
   },
   {
+    kind: 'ours',
+    outlet: 'Оборонка',
+    title:
+      'Резервне море для нафти та пуску ракет. Як Росію витісняють у Каспійський басейн і чи дістане туди Україна',
+    url: 'https://oboronka.mezha.ua/yak-rosiyu-vitisnyayut-u-kaspiyskiy-baseyn-315964/',
+    date: '2026-10-08',
+  },
+  {
     kind: 'about',
     outlet: 'Радіо Хартія',
     title:
