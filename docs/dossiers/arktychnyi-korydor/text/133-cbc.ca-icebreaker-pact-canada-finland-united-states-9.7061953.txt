@@ -1,0 +1,125 @@
+URL:         https://www.cbc.ca/news/politics/icebreaker-pact-canada-finland-united-states-9.7061953
+Кінцевий:    https://www.cbc.ca/news/politics/icebreaker-pact-canada-finland-united-states-9.7061953
+Заголовок:   ANALYSIS | Canada's icebreaker pact looked great until Trump started threatening the Arctic | CBC News
+Дата публ.:  2026-01-27
+Завантажено: 2026-11-07 18:35 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 420382
+Оригінал:    raw/133-cbc.ca-icebreaker-pact-canada-finland-united-states-9.7061953.html
+sha256:      6322e814fbcd13f5d29c3d7e599dc5cfdf2a36cdb58be75fdc2ec82bb5118d01
+Витяг:       trafilatura
+
+==============================================================================
+[Politics](/news/politics)·Analysis
+
+# Canada's icebreaker pact looked great until Trump started threatening the Arctic
+
+## By building icebreakers for the U.S., Canada risks sharpening a sword that could be used to attack it
+
+U.S. President Donald Trump's threats to Greenland, and the claims of continental hegemony contained in the new U.S. national security strategy, have awoken Canadians to the threat to their own Arctic sovereignty.
+
+But Canada is still assisting the Americans in developing the very technology that could enable them to one day seize control of all or part of Canada's Arctic archipelago.
+
+Canadian co-operation and design is central to the construction of a new fleet of ships that the U.S. intends to use to strengthen its presence in the regions surrounding the North Pole.
+
+That new fleet will enter service under a new national security strategy that claims the right to demand access to all regions of the Western Hemisphere.
+
+"DoW [Department of War] will therefore provide the president with credible options to guarantee U.S. military and commercial access to key terrain from the Arctic to South America, especially Greenland, the Gulf of America and the Panama Canal," reads the [document](https://media.defense.gov/2026/Jan/23/2003864773/-1/-1/0/2026-NATIONAL-DEFENSE-STRATEGY.PDF). "We will ensure that the [Monroe Doctrine](https://www.cbc.ca/radio/frontburner/a-veteran-diplomat-explains-the-donroe-doctrine-9.7042917) is upheld in our time."
+
+## A controversial voyage 40 years ago
+
+The current state of play between the U.S. and Canada in the High Arctic is governed by informal agreements reached following the last sovereignty dispute in 1985.
+
+In that year the U.S. Coast Guard heavy icebreaker USCGC Polar Sea sailed from Greenland to the Chukchi Sea through the Northwest Passage. The U.S. government did not seek permission from Canada, but rather merely gave notification, in keeping with its long-held rejection of Canada's claims over the passage.
+
+(The distance between Arctic islands often exceeds the standard 12 nautical miles considered to be a nation's territorial waters. Therefore, Canada's claim that the channels between the islands are "internal waters" is questioned by other countries.)
+
+- Front BurnerA veteran diplomat explains the 'Donroe Doctrine' 
+- AnalysisWith Trump's Venezuela move and Greenland threats, are Canadians vulnerable? 
+
+The voyage provoked considerable furor in Canada, which the U.S. government sought to mollify by allowing Canadian observers on board.
+
+Two years after the passage of the Polar Sea, the U.S. quietly agreed that it would seek Canadian permission for future voyages, without recognizing the Canadian claim. That situation [continues today](https://www.usni.org/magazines/proceedings/1988/july/arctic-sovereignty-does-canada-own-northwest-passage).
+
+As Brian Mulroney noted at the time, "One of the great ironies of the position taken by the United States, if followed to its logical conclusion, is that it could lead to much further freedom of navigation in the Arctic for the Soviets."
+
+That's because if the U.S. insists the Northwest Passage is an international waterway, it risks throwing it open to the whole world, says Rob Huebert, an expert in Arctic sovereignty and security at the University of Calgary.
+
+"In whose mind would that be more secure from an American perspective?" he said.
+
+## Who controls the passage?
+
+Those considerations could persuade the U.S. to leave the status quo in the passage alone.
+
+But those same legal realities could also persuade Washington to take a more aggressive stance by seizing land on either side of the passage in order to assert its own "internal waters" claim, says Vincent Rigby, who served as national security and intelligence adviser to the prime minister until 2021 and now teaches at McGill University.
+
+In such a scenario, the U.S. would demand that other nations — including Canada — ask its permission to sail through what Canada considers Canadian territorial waters.
+
+"If you were to do that," Huebert said, "you'd have to seize the entire coastline going through the Northwest Passage."
+
+"You could do that. There's not very much in terms of Canadian resistance up there."
+
+Huebert says that while the precise demands and actions the U.S. will take remain unclear, pressure is almost certainly coming, and Canada should expect to hear false claims similar to the ones Trump made about Russian and Chinese ships surrounding Greenland.
+
+"I don't think that there's any question whatsoever, given how Trump has been so mistaken in mischaracterizing the problem with Greenland, that he's just going to slide over onto the Canadian issue and misrepresent it as well," he said.
+
+## The ICE Pact
+
+That reality casts a new light on the ICE (Icebreaker Collaboration Effort) Pact, a 2024 agreement that will see Canada, the U.S. and Finland construct icebreakers together, giving the U.S. far greater ability to reach into the High Arctic than it currently possesses.
+
+"We intend to scale up our capacity using the expertise and the know-how from Finland and Canada," a senior American security official [told CBC News](https://www.cbc.ca/news/politics/canada-us-finland-icebreakers-1.7260460) in a background briefing in Washington in July 2024. "This is a strategic imperative."
+
+The three-nation ICE Pact involves both of Canada's largest shipbuilders, Davie and Seaspan. Quebec's Davie Shipbuilding said that it will help NATO catch up to adversaries whose shipbuilding efforts "operate on an effective war footing."
+
+- How many military bases are there in the Arctic? Here are the facts 
+- As China explores the Arctic, Canada's military is preparing for confrontation 
+
+"No single nation can solve this challenge alone, but trusted allies with common goals and advanced shipbuilding can," said a [company release](https://www.davie.ca/en/news/2024-07-11-ice-packt-en/).
+
+But in the 18 months since that statement was issued, Washington's status as a "trusted ally" has been repeatedly called into question.
+
+"This is a good deal," says Rigby of the ICE Pact. "Certainly when we initially saw it before Trump's return it seemed good that we are helping each other build up those capacities as NATO allies. But it does beg the question now with the way Trump and the U.S. administration has been acting, is this the right path? Should we be working with the U.S. and potentially helping them build vessels that they're going to then use to violate Canadian sovereignty?"
+
+## 'Don't hit the panic button yet'
+
+The timelines of delivery are a factor in that calculation, the experts say.
+
+The first deliveries of mid-sized Arctic Security Cutters are not expected until 2028-29, when the mandate of the current president is supposed to end. The larger Polar Security Cutters won't be ready until years after that.
+
+Rigby says that buys Canada some time.
+
+"Don't hit the panic button yet, don't jettison this agreement," he said. "But you're going to have to watch it very, very carefully as we move forward. And if the U.S. does become more assertive and more aggressive, things like that will have to be reconsidered."
+
+Quebec's Davie shipyard is one of the sites where the icebreakers under the ICE Pact will be built. (Jacques Boissinot/The Canadian Press)
+
+"I don't think we're ever going back to complete normalcy with the Canada-U.S. relationship. But we all hope that whoever comes in, there's going to be some renewed stability."
+
+Huebert says threats to Canadian sovereignty shouldn't focus only on U.S. icebreaking capacity.
+
+"People focus on the icebreakers, but it's rather [the Americans'] amphibious capability of going and seizing those four airspaces that we have [in Yellowknife, Inuvik, N.W.T., Iqaluit and Goose Bay, N.L.]," he said.
+
+"Because if they are able to go in and capture the four forward operating locations, we've got no other routes of getting up there. That gives you strategic command of the region."
+
+Canada has long talked about strengthening its presence in the Far North, and is now paying the price for its failure to follow through on that commitment, say the experts.
+
+"We've been going at a leisurely pace in the Arctic for a long, long time," said Rigby. "If we say we're going to get subs, let's get moving, pick a sub. If we're going to enhance our satellite capability, let's get moving. This has got to be the number-one military priority."
+
+## The need to be seen
+
+In the meantime, Rigby says, Canada should be sending its new Arctic offshore patrol ships (AOPS) through the Northwest Passage on a more regular basis to make its presence felt.
+
+Huebert sees the threat as more present in Canada's Arctic islands than the passage.
+
+While Trump himself may have his own motivations, the U.S. defence establishment is genuinely worried about recent developments in Russian nuclear weapons technology, including stealthy hypersonic missiles and nuclear torpedoes that could target U.S. ports.
+
+Fears that American missile defence and deterrence are being rendered obsolete are the impetus behind Golden Dome.
+
+- A U.S. takeover of Greenland could be 'shattering of NATO,' warns Canada's former military commander 
+- French-U.K. Starlink rival pitches Canada on 'sovereign' satellite service for Arctic military operations 
+
+"It's really about monitoring hypersonics, stealthy cruise missiles that the Russians would be coming in with their bombers or with their submarines, trying to be undetected, launching and hoping that the old systems don't detect them," Huebert said. "That is what this is all about."
+
+It's in Canada's interest, the experts said, to continue to co-operate with the Americans where Canada can safely do so, while building up its own capabilities as quickly as possible.
+
+"It's a two-track game we're playing now, Rigby said, adding that the ICE Pact's positives still outweigh the risks.
+
+"I think it's probably too early to start talking about ripping the agreement up," he told CBC News. "Let's continue that work and keep a watching brief."

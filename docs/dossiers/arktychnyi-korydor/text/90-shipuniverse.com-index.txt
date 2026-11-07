@@ -1,0 +1,43 @@
+URL:         https://www.shipuniverse.com/?p=22513
+Кінцевий:    https://www.shipuniverse.com/news/arctic-shipping-route-update-northern-sea-route-traffic-breaks-2025-total-as-seasonal-container-services-take-hold/
+Заголовок:   Arctic Shipping Route Update: Northern Sea Route Traffic Breaks 2025 Total as Seasonal Container Services Take Hold
+Дата публ.:  2026-10-12
+Завантажено: 2026-11-07 17:56 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 207796
+Оригінал:    raw/90-shipuniverse.com-index.html
+sha256:      4839853fffb6682fc475a3ded25620482c1b1c31c2929e7290c26633f8f671d1
+Витяг:       trafilatura
+
+==============================================================================
+**🔔** [Subscribe to ShipUniverse Weekly →](https://www.shipuniverse.com/subscribe-to-shipuniverse/)
+
+Commercial use of the Northern Sea Route accelerated materially during the 2026 navigation season, but the corridor remains far from becoming a year-round substitute for Suez. The Centre for High North Logistics had identified 104 confirmed NSR transit voyages by September 30, already exceeding the 103 recorded during all of 2025, with approximately 3.7 million tonnes of transit cargo and another 45 vessels either inside the route or on voyages expected to transit it. CHNL says the season could approach 150 transits and more than 4.5 million tonnes of cargo if most of those voyages are completed. Container activity is also becoming more structured: China ran its first season of recurring weekly Asia-Europe Arctic sailings, while South Korea has just completed its first commercial container round trip between Busan and Europe. Yet direct Asia-Europe traffic remains a small minority of total NSR activity, the navigable season is still highly seasonal, and cargo density, insurance, Russian coordination, ice variability and sanctions exposure continue to complicate the economics of regular liner service.
+
+## Arctic Shipping Is Scaling, But It Is Scaling Unevenly
+
+Tankers and bulk carriers remain the backbone of Northern Sea Route traffic, while container shipping is moving from isolated demonstrations toward scheduled seasonal operations.
+
+**Important:**the approximately 150-transit figure is an interim scenario, not a final 2026 result. CHNL's confirmed count was 104 as of September 30 and the navigation season was still active.
+
+## What Changed During the 2026 Season
+
+The Arctic story is no longer only about shrinking distance. China, South Korea and Russia are now building different commercial, financial and logistics structures around the route.
+
+| Development | 2026 Evidence | Commercial Signal | Remaining Constraint | Next Milestone | 
+|---|---|---|---|---|
+| China-Europe Container Service | SEASONAL SERVICE 8 planned departures · >14,000 TEU Sea Legend moved from a 2025 proof-of-concept voyage into a recurring 2026 seasonal program using up to seven ships. | Shows that the route can support repeated high-value manufactured cargoes rather than only one-off demonstration voyages. | Some voyages ran four to nine days behind schedule. Final departures were moved forward because of forecast ice expansion. | Sea Legend says it wants to return in 2027 and stretch the operating season toward three to four months. | 
+| South Korean Commercial Trial | ROUND TRIP COMPLETE 50 days · Busan-Europe-Busan PanStar Acro called Felixstowe, Rotterdam and Gdansk before returning through the Arctic. | Seoul now has real operating data for distance, speed, consumption, ice routing and port performance rather than only modeling. | Only 737 TEU of the approximately 1,300 TEU targeted paying cargo was secured, plus empty containers. | Government target is development of regular Arctic services by 2030. | 
+| Korean Ice-Class Financing | FLEET SUPPORT KRW120B per year KOBC will support newbuild and secondhand ice-class ships across containers, bulk, tanker and PCTC segments. | Moves Arctic policy beyond subsidizing one trial voyage toward financing permanent Korean-controlled polar tonnage. | Ice-class ships cost more and their commercial utilization outside the short Arctic season must still be justified. | KOBC can invest up to 30% of vessel value as subordinated capital, with total financing potentially reaching 90% LTV. | 
+| Russian Logistics Consolidation | INTEGRATION Rosatom takes full control of Delo Russia's NSR development authority is combining Delo with transport assets including FESCO. | Links Arctic route management more closely with container terminals, ships, inland rail and logistics infrastructure. | Western sanctions and restricted access to finance, insurance, equipment and services continue to complicate international participation. | Rosatom says the combined assets will form Russia's largest integrated rail, road and port-terminal network. | 
+| Navigation Window | OPEN WATER PERSISTED Active through late September CHNL reported a mostly continuous open-water corridor along much of the principal route. | Larger conventional ships can increasingly use the corridor during the favorable summer window. | New ice begins forming again in autumn. Low or non-ice-class ships remain dependent on weather, routing decisions and permit conditions. | Higher ice-class tonnage may continue into November, depending on actual ice development. | 
+| Regulation / Insurance | HIGH COMPLEXITY Polar Code + sanctions screening Ships remain subject to mandatory polar safety requirements while counterparties and maritime services require careful Russia-related compliance review. | Specialist operators with suitable vessels, insurance and polar expertise gain a meaningful barrier to entry. | Insurance premiums, search-and-rescue limitations, limited port support and sanction exposure can offset part of the distance saving. | Commercial acceptance will depend on reliable cover, predictable Russian service arrangements and repeatable schedule performance. | 
+
+## Can the Shorter Voyage Absorb the Arctic Premium?
+
+Compare conventional Asia-Europe sailing costs with a shorter Arctic voyage, then add insurance, ice-navigation and other Arctic-specific costs to find the break-even point.
+
+**Scenario model only:**this tool is not a freight-rate forecast. It excludes canal tolls, port charges, container repositioning, revenue differences, ice-class capital premiums, crew requirements, Russian administrative charges, P&I terms, cargo insurance, emissions costs and vessel-specific speed/consumption changes in ice.
+
+We welcome your feedback, suggestions, corrections, and ideas for enhancements.
+
+[Please click here to get in touch](https://www.shipuniverse.com/contact/)

@@ -1,0 +1,93 @@
+URL:         https://www.metoffice.gov.uk/research/approach/monitoring/sea-ice/2026/arctic-and-antarctic-end-of-season-report---october-2026
+Кінцевий:    https://www.metoffice.gov.uk/research/approach/monitoring/sea-ice/2026/arctic-and-antarctic-end-of-season-report---october-2026
+Заголовок:   Arctic and Antarctic end-of-season report - October 2026
+Дата публ.:  2026-10-14
+Завантажено: 2026-11-07 18:03 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 105547
+Оригінал:    raw/116-metoffice.gov.uk-arctic-and-antarctic-end-of-season-report---october-2.html
+sha256:      5780e0e737e7e125a6d179c98dbe0088ec898c8cc8a6081a096cfd04c36ba1d4
+Витяг:       trafilatura
+
+==============================================================================
+# Arctic and Antarctic end-of-season report - October 2026
+
+Alex West and Ed Blockley - 14th October 2026
+
+**Summary**
+
+- Arctic sea ice extent for September 2026 was 5.34 million sq km, the 16thlowest September extent on record but the 5thhighest since 2007
+- This followed a cool and unusually stormy summer in the Arctic Ocean region, with the heatwaves that affected regions elsewhere in the Northern Hemisphere not extending to sea ice-covered areas
+- September Arctic sea ice extent remains far below the values seen prior to 2007, but has seen minimal decline since 2007, associated with a trend over this period to lower pressure (producing increased storminess) over Greenland and the Arctic Ocean
+- Antarctic sea ice extent for September 2026 was 17.76 million sq km, the 3rdlowest September extent on record after 2023 and 2024
+
+## Arctic
+
+### Sea ice extent
+
+Arctic sea ice extent for September 2026 was 5.34 million sq km according to the OSI SAF Sea Ice Index (Aaboe et al., 2026). This was the 16th lowest September extent in the satellite record since 1979, albeit the 5th highest since 2007. It was 1.43 million sq km below the 1981-2010 average, but 0.93 million sq km above the long-term linear trend (Figure 1). [*](#reference-a)
+
+*Figure 1. September Arctic sea ice extent during the satellite era, according to the OSI SAF Sea Ice Index (Aaboe et al., 2026), with linear trend and 1981-2010 average indicated.*
+
+*Figure 2. Average Arctic sea ice extent for September 2026, compared to the record low of September 2012 and the 1981-2010 September average, with regions referred to in the text labelled. Data are from EUMETSAT OSI SAF (Baordo et al., 2023).*
+
+**The 2026 melt season in detail**
+
+Like many recent years, the summer of 2026 was stormy and cyclonic in the Arctic Ocean region, with temperatures often near- or below-average (Figure 3). A ring of high-pressure systems surrounded the Arctic, with areas of well above-average upper air temperatures near and to the west of these, associated with heatwave conditions. However, over the Arctic Ocean itself, pressure remained relentlessly low. Storms tended to form over the Arctic itself, rather than moving in from warmer regions to the south, meaning that exchange of air with areas experiencing heatwaves was extremely limited.
+
+June was particularly cyclonic and actually saw the ice edge advance in some regions. July and August did see brief intrusions of high-pressure ridges in the Pacific sector of the Arctic, bringing warmer conditions, but with unsettled weather quickly taking hold again. The cold, stormy conditions continued through September, leading to an unusually rapid rise in extent following the sea ice minimum on 12th September.
+
+*Figure 3. (a)* *Arctic June-August 2026 anomaly relative to the 1981-2010 average in (a) sea level pressure; (b) 925 hPa temperature. Sea level pressure and temperature data are from the ERA5 reanalysis (Hersbach et al., 2017). The 925 hPa temperature represents conditions around 800 m above sea level.*
+
+As measured by 925 hPa temperatures over the Arctic Ocean region, the summer of 2026 was the coolest since 2018 with a temperature anomaly of +0.81°C relative to the 1981-2010 average (Figure 4). As measured by average Arctic Ocean mean sea level pressure, the summer was the most cyclonic (lowest pressure) since 1994, jointly with 2023.
+
+*Figure 4. Average May-August temperature anomaly, relative to the 1981-2010 average, for the Arctic Ocean region. Temperatures are taken at the 925 hPa level (about 800 m above the surface) to show the effect of atmospheric circulation on the sea ice, as surface temperatures are strongly influenced by the sea ice itself. Data are from the ERA5 reanalysis (Hersbach et al., 2017).*
+
+**Assessment of Arctic predictions**
+
+Predictions of September Arctic sea ice extent in summer 2026 followed a very similar pattern to the previous year, with the eventual September extent remaining at the top end of predictions until fairly late in the season. In every month from June to September, the Sea Ice Prediction Network collated predictions of September Arctic sea ice extent from institutions around the world, based on a mixture of dynamical and statistical modelling, and machine-learning techniques. The eventual September extent fell close to the higher end of the main body of predictions in all four months (Figure 5). This may reflect the fact that ice extent remained at near-record low values until late July, driven partly by very low extent in subarctic seas outside the Arctic Ocean.
+
+To supplement the SIPN predictions, statistical predictions of September sea ice extent based on detrended anomalies and historical melt trajectories were also published in the July and August sea ice briefings. Throughout June and July, the uncertainty intervals of each prediction barely encompassed the eventual September extent (Figure 6), but in early August the predicted September extent abruptly shifted upwards as the cool weather was finally reflected in slower than average ice loss. The rapid freezing in late September also brought a smaller abrupt increase in the prediction.
+
+*Figure 5. An evaluation of predictions of 2026 September sea ice extent submitted to the Sea Ice Outlook (brown box and whiskers), alongside statistical predictions performed for the July and August sea ice briefings (red and blue lines). Evolution of sea ice extent during the summer in 2025 and previous years is shown for context. As the SIPN predictions are made using the alternative NSIDC Sea Ice Index as reference, which usually measures lower sea ice extents than the OSI SAF Sea Ice Index used in these briefings, the average 1981-2010 September sea ice extent difference between the datasets has been added to the predictions for a fairer comparison.*
+
+**Recent trends in Arctic sea ice**
+
+The record low September extents of 2007 and 2012 were each far below anything that had been previously observed. As of 2026, September Arctic sea ice extent has not yet fallen further than in 2012. The lack of further sea ice loss is exemplified by the past six years, all of which display a September sea ice extent above the negative long-term trend, and by September 2026 in particular, which displays the second highest departure from the trend in the series (after 1996). Yet September sea ice extent remains far below the values typical of years prior to 2007 and cannot be said to have in any sense recovered; instead, the decline has paused.
+
+While slowing of the sea ice decline has been observed in all months (England et al., 2025), the trend over the past 20 years remains negative in all months except September and is significant from December-April (Figure 6a). Notable is a trend towards slower melt during the latter part of the melting season. In addition, regional changes have taken place in where sea ice is being lost; over the past 20 years, virtually all continued summer sea ice loss has occurred on the Atlantic side of the Arctic, whereas previously it had been concentrated on the Pacific side (Figure 6b).
+
+*Figure 6. (a) 2007-2026 linear trend in Arctic sea ice extent for each month of the year, with 1x and 2x standard error intervals. A month for which the zero line lies outside the shading indicates a <5% chance that the observed trend would be seen without an underlying decline (95% significance). For October-December, the trend period ends in 2025 as data are not available for 2026. (b) 2007-2026 linear trend in ice concentration for July. Green colours indicate a trend towards less sea ice, and faster melting; purple colours indicate more sea ice and slower melting. (c) 2007-2026 trend in mean sea level pressure for June-August, with green colours indicating a trend to less settled (stormier) weather, purple colours a trend to more anticyclonic, fine and settled weather. For (b) and (c), line shading indicates regions where the trend is significant, with a chance <5% that this would be observed without an underlying rise or decline.*
+
+The past 20 years also show a strong trend to lower pressure over Greenland and the Arctic Ocean during the summer (Figure 6c). This trend is the reverse of the ‘Dipole Anomaly’ pattern that was implicated in the severe sea ice melt of 2007 (Wang et al., 2009) and is associated with a trend to warmer conditions in the Atlantic sector of the Arctic but little change elsewhere. One possible reason for the flat sea ice trend over the past 20 years, therefore, is simply variability in Arctic summer weather; cooler, more cyclonic conditions predominating far more in the past few years than was the case in 2007 and the years immediately following, briefly counteracting the effect of a warming climate.
+
+## Antarctic
+
+### Sea ice extent
+
+Antarctic sea ice extent for September 2026 was 17.76 million sq km according to the OSI SAF Sea Ice Index (Aaboe et al., 2026). This was the 3rd lowest September extent in the satellite record since 1979, the lowest having been 17.35 million sq km in 2023. It was 1.08 million sq km below the 1981-2010 average (Figure 7).
+
+*Figure 7. September Antarctic sea ice extent during the satellite era, according to the OSI SAF Sea Ice Index (Aaboe et al., 2023), with linear trend and 1981-2010 average indicated.*
+
+Sea ice extent was above average in the seas surrounding the Antarctic Peninsula, and in the Ross Sea, where an unusual ‘arm’ of sea ice formed in late August, melting away in late September. It was near or below-average elsewhere, particularly in the Amundsen Sea where it was considerably lower than in the record low year of 2023 (Figure 8).
+
+Throughout most of the austral winter (June-August) of 2026, the Antarctic sea ice extent remained well below average as it increased to its seasonal maximum, albeit mostly above the exceptionally low years of 2023 and 2024. Contrasting weather patterns were seen; early in the season there was a strong positive phase of the Southern Annular Mode, with lower-than-average pressure over the Southern Ocean driving stronger than average westerly winds. However, towards the end of the season, a high-pressure ridge began to form over West Antarctica. This drove a more ‘meridional’ circulation with warm northerly winds to its west (associated with the low Amundsen Sea extent) and cold southerly winds to its east (associated with the higher extent adjacent to the Antarctic Peninsula). In September, the high-pressure ridge shifted westwards, driving above-average early spring melt in the Ross and Amundsen Seas, such that at the end of September Antarctic sea ice extent was briefly record low once again.
+
+*Figure 8. Antarctic sea ice extent for September 2026, compared to the record low of September 2023 and the 1981-2010 September average, with regions referred to in the text labelled. Data are from EUMETSAT OSI SAF (Baordo et al., 2023).*
+
+Antarctic sea ice has been persistently well below average since late 2021, with two successive record low minima in February 2022 and 2023, exceptionally low extent throughout the austral winter of 2023 which far surpassed previous record lows, and further extremely low extent in 2024 which would have been record low if observed prior to 2023. While extent has been a little less low in the past two years, it has not recovered to near-average levels for any extended period. The trend in Antarctic sea ice extent over the whole satellite record (since 1979) is now weakly negative at -0.08 million sq km / decade despite a lengthy period of slowly rising extent up until 2014.
+
+**References**
+
+*Aaboe, S., Lavergne, T., Sørensen, A. and Eastwood, S. (2026) OSI SAF Sea ice index 1978-onwards, Product OSI-420-a, Version 3.0, April 2026, Available at: **Sea-Ice Index, version 3.0 | OSI SAF**. Date Accessed: 13-10-2026.*
+
+*Baordo, F., Vargas, L. F. and Howe, E. (2023) OSI SAF Global Sea Ice Concentration (AMSR), Product OSI-408-a, Version 1.2, June 2023. Available at: **Global Sea-Ice Concentration (AMSR2) | OSI SAF**. Date Accessed: 06-10-2026.*
+
+*England, M. R., Polvani, L. M., Screen, J., & Chan, A. C. (2025). Minimal Arctic sea ice loss in the last 20 years, consistent with internal climate variability. Geophysical Research Letters, 52, e2025GL116175. **https://doi.org/10.1029/2025GL116175*
+
+*Hersbach, H. et al. (2017) Complete ERA5 from 1940: Fifth generation of ECMWF atmospheric reanalyses of the global climate. Copernicus Climate Change Service (C3S) Data Store (CDS). **https://doi.org/10.24381/cds.143582cf**. Date Accessed: 06-10-2026.*
+
+*Wang, J., J. Zhang, E. Watanabe, M. Ikeda, K. Mizobata, J. E. Walsh, X. Bai, and B. Wu (2009), Is the Dipole Anomaly a major driver to record lows in Arctic summer sea ice extent? Geophys. Res. Lett., 36, L05706. **https://doi.org/10.1029/2008GL036706*
+
+[* Note that according to the NSIDC Sea Ice Index, an alternative widely used dataset, the September extent is 13]
+
+thlowest since 1979 and is 1.60 million sq km below the 1981-2010 average. The discrepancy is due to small differences in how sea ice coverage is estimated from the microwave data received by the satellites.

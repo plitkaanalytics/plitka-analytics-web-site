@@ -1,0 +1,48 @@
+URL:         https://maritime-executive.com/index.php/article/south-korean-containership-completes-demonstration-arctic-voyage
+Кінцевий:    https://maritime-executive.com/index.php/article/south-korean-containership-completes-demonstration-arctic-voyage
+Заголовок:   South Korea Renews Commitment to Arctic Service as Boxship Ends NSR Trip
+Дата публ.:  2026-10-13
+Завантажено: 2026-11-07 18:03 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 176538
+Оригінал:    raw/108-maritime-executive.com-south-korean-containership-completes-demonstrat.html
+sha256:      60462b02f6a5caf4ef1a45dfab740fd35477581ffb42d614f7fd150bc5ec40ea
+Витяг:       trafilatura
+
+==============================================================================
+# South Korea Renews Commitment to Arctic Service as Boxship Ends NSR Trip
+
+South Korea celebrated the completion of its first Arctic round trip using a containership. Government officials said it demonstrated the potential of the Northern Sea Route (NSR) while saying it would play a critical role in the country's economy and committed to expanding the demonstration program next year.
+
+The containership *Panstar Acro* arrived back in Busan on Sunday, October 11, completing a 50-day round trip through the Arctic to Europe and back along Russia’s Northern Sea Route. While the voyage was not a commercial success, it is being hailed by Korean officials as an achievement that is a “springboard” for the development of their planned service.
+
+*Panstar Acro* (45,500 dwt) was acquired from HMM at the beginning of August and prepared for the demonstration voyage, which had been organized with the support of the South Korean government and the shipping association. Built in 2011, the ship has a capacity of 2,758 TEU, and the hull was ice-strengthened before the voyage. The captain and crew received Arctic training, and the first officer was transferred from South Korea’s icebreaker research ship to provide specific experience for the challenges of the trip.
+
+The ship docked in Busan Sunday morning, after having departed Gdansk, Poland, on September 18. It had set off from Busan on August 22 and entered the Arctic on August 31. It reached Felixstowe in the UK on September 12 and Rotterdam the following day. While the ship was five days behind schedule on its return, the trip was pronounced a success, with reports of no major incidents during the voyage.
+
+*Panstar Acro completed a 50-day round trip to Europe and back along the Northern Sea Route (President Lee on X)*
+
+South Korean President Lee Jae-myung hailed the return in a message on social media. He noted the trip took about 10 fewer days than the normal route via the Suez Canal. He wrote that it “allowed us to accumulate polar navigation experience and voyage data for our containerships. Based on this achievement, we will steadily prepare for the Arctic route era.”
+
+President Lee spoke at the welcome home ceremony on Tuesday, committing to investments to build up Busan as a maritime hub, as well as expanding Korea's logistics infrastructure. He has also pledged government support for polar training for future seafarers and research into core technologies for icebreakers and ice-capable vessels as well as South Korea's shipbuilding industry.
+
+South Korea, the president said, is committed to ensuring the new route "does not remain the exclusive interest of any one country." He said Korea would abide by international regulations and the principles of sanctions while ensuring the NSR is developed for mutual prosperity.
+
+President Lee presented commendations to the crew of Panstar Acro. He thanked them for their pioneering efforts.
+
+“The Arctic navigation data and experience accumulated through this test voyage will serve as precious groundwork for the commercialization of the Northern Sea Route,” said Hwang Jong-woo, the Minister of Oceans and Fisheries.
+
+The ministry reports it will examine sailing distance, transit time, operating costs, and fuel consumption data from the voyage to assess the route's economic feasibility. The minister said they would “prepare for next year’s trial plan with even greater substance.”
+
+Media reports are saying the vessel, however, failed to attract the expected cargo loads. Panstar had been marketing the voyage to its network, especially in Japan, as well as domestically in Korea. The reports vary on how many containers were transported, but they agree that only 737 laden containers were shipped to Europe. This included chemicals, used vehicles, and auto parts from six domestic shippers. Some reports said there were about 200 empties aboard on the outbound voyage, while others say it was as high as about 1,300 containers in total. Aju Press is reporting the ship failed to attract any import cargo, returning with 1,743 empties.
+
+Officials blamed the low cargo loads on a late start to the marketing campaign with a limited window before departure. They expect a stronger showing in 2027 and report capacity will slowly be increased to become economically viable between 2035 and 2040.
+
+The Ministry of Oceans and Fisheries renewed its commitment to the efforts, however, saying a new trial would be conducted in 2027. It still aims to launch a regular service by 2030. After the disruptions due to the war in the Middle East and the security concerns in the Red Sea, the ministry emphasizes the importance for Korea to develop alternate routes. Hwang said within 15 years they expect it will be possible to send ships through the Arctic for more than six months of the year.
+
+that matters most
+
+Get the latest maritime news delivered to your inbox daily.
+
+The completed trip by the *Panstar Acro* marked the third time South Korea has sent a vessel along the Northern Sea Route. In 2013, Hyundai Glovis chartered the tanker *Stena Polaris*, which transported a load of naphtha from the Russian port of Ust-Luga in the Baltic. South Korea ran a second test a decade ago, but this was the first time for it using a container vessel.
+
+By contrast, China reported last week that it had ended its 2026 Arctic season transporting approximately 14,000 TEU on eight voyages. The season, however, was suspended earlier than planned due to ice forecasts for October. The Port of Ningbo reported it had handled 7,761 TEU Arctic containers this season, while Sea Legend highlighted its sailings as the first weekly container service through the Arctic.

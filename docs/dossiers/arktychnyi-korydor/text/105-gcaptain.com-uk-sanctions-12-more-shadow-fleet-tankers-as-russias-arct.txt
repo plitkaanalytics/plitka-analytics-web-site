@@ -1,0 +1,28 @@
+URL:         https://gcaptain.com/uk-sanctions-12-more-shadow-fleet-tankers-as-russias-arctic-traffic-grows/
+Кінцевий:    https://gcaptain.com/uk-sanctions-12-more-shadow-fleet-tankers-as-russias-arctic-traffic-grows/
+Заголовок:   UK Sanctions 12 More 'Shadow-Fleet' Tankers as Russia's Arctic Traffic Grows
+Дата публ.:  2026-10-08
+Завантажено: 2026-11-07 18:03 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 247617
+Оригінал:    raw/105-gcaptain.com-uk-sanctions-12-more-shadow-fleet-tankers-as-russias-arct.html
+sha256:      d8f9330125dfa57732774b8e503dde439c6211910534603cc8bc56cef938e2bc
+Витяг:       trafilatura
+
+==============================================================================
+The United Kingdom on Thursday sanctioned 12 oil tankers it identified as part of Russia’s shadow fleet, including the 22-year-old *Dakar* that is currently making an unusual late-season voyage on the Northern Sea Route.
+
+The vessels were among 38 new Russian sanctions designations announced by the Foreign, Commonwealth and Development Office. The 12 tankers comprise nine chemical/products tankers and three oil tankers, according to the UK’s detailed sanctions notice. All were designated on Oct. 8 and are subject to UK shipping and trade sanctions.
+
+The vessels are *Bellaris*, *Dakar*, *Daphne V*, *Flint Wind*, *Alexander Nevskiy*, *Anaya*, *Andrey Pervozvanniy*, *Midvolga-3*, *Pioneer*, *Vasily Surikov*,* Virent* and *Yehope*. The UK said its reason for designating the ships was that they were involved in carrying oil or oil products originating in Russia from Russia to third countries.
+
+The Foreign Office said the additional designations bring the number of shadow-fleet oil tankers sanctioned by Britain to more than 600. “The message is simple: if you help Russia fund or equip this war, you will face the consequences,” the government said in its announcement.
+
+One of the newly sanctioned vessels, *Dakar*, has added significance for Arctic shipping. The 21,297-dwt chemical/products tanker, built in 2004, [is currently making a late-season voyage along Russia’s Northern Sea Route](https://gcaptain.com/sanctioned-22-year-old-non-ice-class-tanker-makes-rare-late-season-arctic-voyage/) while carrying methyl tert-butyl ether, a gasoline-blending component. The vessel is Ice Class 1B, according to a sales listing for the ship when it operated as *Vulcano M.*
+
+*Dakar*‘s voyage comes as the number of sanctioned and shadow-fleet vessels using the NSR has climbed sharply. Bellona’s Environmental Transparency Center [identified 50 shadow-fleet oil tankers and 18 LNG carriers on the route](https://gcaptain.com/shadow-fleet-traffic-on-northern-sea-route-surges-as-arctic-safety-concerns-grow/) between the beginning of the 2026 summer-autumn navigation season and mid-September, already exceeding the organization’s totals for the entire 2025 season of 38 oil tankers and 13 LNG carriers.
+
+Around three-quarters of the oil tankers identified by Bellona during the period were under sanctions. The organization also found that 26 of the 50 oil tankers had an ice class of Ice3 or lower, or no ice class at all, while 33 were at least 15 years old.
+
+The figures point to a growing role for sanctioned and older vessels in Russia’s Arctic energy logistics. 
+
+Rather than being limited to occasional voyages, shadow-fleet tankers are increasingly using the Northern Sea Route to move Russian oil and petroleum products toward Asian markets.

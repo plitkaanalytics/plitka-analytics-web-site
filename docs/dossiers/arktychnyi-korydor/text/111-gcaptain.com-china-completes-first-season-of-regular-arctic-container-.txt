@@ -1,0 +1,34 @@
+URL:         https://gcaptain.com/china-completes-first-season-of-regular-arctic-container-service/
+Кінцевий:    https://gcaptain.com/china-completes-first-season-of-regular-arctic-container-service/
+Заголовок:   China Completes First Season of Regular Arctic Container Service
+Дата публ.:  2026-10-07
+Завантажено: 2026-11-07 18:03 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 247374
+Оригінал:    raw/111-gcaptain.com-china-completes-first-season-of-regular-arctic-container-.html
+sha256:      673ce5aa078a613aa7d370a154e2c2b20d2caa3302c96197197296165fa2142c
+Витяг:       trafilatura
+
+==============================================================================
+**Weekly planned sailings carried high-value exports through the Northern Sea Route, with service to resume next summer.**
+
+China has completed the first season of regular weekly container shipping between China and Europe via the Northern Sea Route, with the operator completing the majority of sailings planned for 2026 before ending departures slightly earlier than scheduled because of Arctic ice forecasts.
+
+Sea Legend Shipping [launched its China-Europe Arctic Express in August](https://gcaptain.com/china-launches-first-scheduled-weekly-arctic-container-service-to-europe/), deploying up to seven container ships with low or moderate ice-class for eight weekly westbound voyages from Ningbo-Zhoushan and other Chinese ports. The company did not complete all sailings and some of them experienced significant delays between four and nine days, according to vessel tracking sites.
+
+The final two vessels departed Ningbo on Sept. 27, completing the firm’s summer Arctic schedule. The sailings had originally been scheduled to continue into early October, but the operator moved the final departures forward after forecasts indicated that Arctic sea ice would expand in October, according to Chinese provincial government reporting.
+
+The season carried more than 14,000 twenty-foot equivalent units of export cargo across the eight voyages, according to preliminary figures reported by Zhejiang authorities. Zhejiang-origin cargo accounted for about 59%, or more than 8,300 TEUs.
+
+Separately, Ningbo Customs reported that cargo recorded through its jurisdiction totaled 7,761 TEUs and was worth 5.33 billion yuan ($750 million). The cargo was dominated by energy-storage equipment, power batteries and new-energy vehicles, with shipments reaching Britain, Germany, the Czech Republic and more than 20 other countries and regions.
+
+Sea Legend’s published schedule called for eight voyages with about 15,700 TEUs of total vessel capacity, [with ](https://gcaptain.com/chinese-containership-istanbul-bridge-reaches-uk-via-arctic-route-in-record-20-days/)*Istanbul Bridge* being the largest with a capacity of 4,890 TEU. The first voyage of the season by *Dubai Tower* carried 1,370 TEUs from Ningbo, Shanghai, Taicang and Qingdao to Europe.
+
+The Arctic route takes about 18 to 20 days between China and Northern Europe, roughly half the transit time of traditional routes via the Suez Canal, according to Chinese transport authorities. The cargo mix has increasingly centered on higher-value manufactured goods for which shorter transit times can be commercially important.
+
+The end of Sea Legend’s departures does not mark the end of Chinese container activity on the Northern Sea Route for 2026. Other Chinese operators, including NewNew Shipping, [have also been using the Arctic route](https://gcaptain.com/chinas-newnew-shipping-line-pushes-deeper-into-arctic-with-first-murmansk-container-run/), while Sea Legend vessels from the eight-voyage program currently remain in transit or are returning from Europe.
+
+But no additional Sea Legend departures are planned this year. The service is explicitly seasonal, with Chinese transport authorities identifying the normal Arctic navigation window as roughly July through October. Sea Legend has said it intends to resume the service next summer.
+
+This year’s summer schedule marks a step beyond last year’s experimental voyages, when the Sea Legend service was still testing the commercial and operational feasibility of Arctic container shipping. 
+
+The program moved the service to a weekly schedule, with the company saying it ultimately hopes to establish a three- to four-month annual operating window and increase the number of voyages.

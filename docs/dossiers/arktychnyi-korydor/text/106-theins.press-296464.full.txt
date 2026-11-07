@@ -1,0 +1,173 @@
+URL:         https://theins.press/en/news/296464
+Кінцевий:    https://theins.press/en/news/296464
+Заголовок:   Russia expands its LNG carrier fleet for gas shipments to China ahead of planned EU ban
+Дата публ.:  2026-08-26
+Завантажено: 2026-11-07 18:03 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 136487
+Оригінал:    raw/106-theins.press-296464.html
+sha256:      14ab9d314e388c5a742642ad34d88d86e69d9514b3d8921f371ea9b72f1ec830
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 17
+==============================================================================
+Russia expands its LNG carrier fleet for gas shipments to China ahead of planned EU ban — The Insider in English
+We depend on contributions from readers like you
+Sign up for regular contributions
+Russia expands its LNG carrier fleet for gas shipments to China ahead of planned EU ban
+Sanctioned Russian LNG carrier Arctic Metagaz catches fire in the Mediterranean Sea
+On thin ice: Russia and China’s delicate balancing act in the Arctic
+10 “shadow fleet” tankers awaiting icebreakers in the Kara Sea are likely carrying oil from Russia’s Arctic fields
+Russia’s second domestically built ice-class LNG carrier heads to Arctic on first voyage
+Add The Insider as a preferred source on Google and our reporting will show up in your Top Stories more often. Every reader who chooses The Insider helps show Google that our journalism matters.
+Unraveling Havana Syndrome: New evidence links the GRU's assassination Unit 29155 to mysterious attacks on U.S. officials and their families
+Lost in translation: How Russia’s new elite hit squad was compromised by an idiotic lapse in tradecraft
+The Czech illegals: Husband and wife outed as GRU spies aiding bombings and poisonings across Europe
+A most wanted man: Fugitive Wirecard COO Jan Marsalek exposed as decade-long GRU spy
+The Lab: How FSB chemical weapons experts tried to poison Alexei Navalny
+Subscribe to our Sunday Digest
+By subscribing, you agree to The Insider's
+, as well as Google's reCAPTCHA terms
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Russia expands its LNG carrier fleet for gas shipments to China ahead of planned EU ban — The Insider in English
+Reports
+Analytics
+Investigations
+USD
+82.14
+EUR
+92.19
+OIL
+97.97
+Donate
+Русский
+РУ
+We depend on contributions from readers like you
+Sign up for regular contributions
+242
+News
+Russia expands its LNG carrier fleet for gas shipments to China ahead of planned EU ban
+The Insider
+August 26, 2026 at 06:17 PM
+Доступно на русском
+Russian gas giant Novatek and its partners are expanding the fleet of liquefied natural gas (LNG) carriers servicing the sanctioned Arctic LNG 2 project. Thanks to shrinking sea ice, shipments of sanctioned Russian LNG via the Northern Sea Route have reached a record level,
+The Barents Observer
+reports
+.
+According to
+Reuters
+, since the start of 2026 at least 31 cargoes totalling 2.3 million metric tons of LNG have been shipped from Arctic LNG 2 to the Chinese port of Beihai. Vessels involved in the shipments include the LNG carriers
+Voskhod
+,
+Arctic Pioneer
+,
+Arctic Vostok
+,
+Zarya
+,
+Arctic
+Mulan
+,
+La Pérouse
+,
+Buran
+, and
+Arctic Metagaz
+.
+Notably, in March, the
+Arctic Metagaz
+was
+disabled
+in a drone attack in the Mediterranean Sea.
+The Arctic LNG 2 project itself has been under international sanctions since 2023. The restrictions also apply to part of its infrastructure and to the vessels servicing the project. Nevertheless, Novatek and its partners continue to ramp up production and exports.
+At least 18 LNG carriers are currently involved in the shipments, including the new
+Aleksey Kosygin
+and
+Konstantin Posiet
+, built at Russia’s Zvezda shipyard. Part of the fleet is used to transport LNG via the Saam floating storage units near the Kola Peninsula and Koryak in Kamchatka.
+In addition, several more LNG carriers, mostly around 20 years old, have recently been acquired for Russian shipments. TradeWinds identifies these as the
+Merkuriy
+,
+Luch
+,
+Kosmos
+,
+Orion
+,
+Arctic Express
+,
+Chaivo
+, and
+Avacha
+. Some of them have already taken part in LNG operations near the Kola Peninsula.
+In parallel, Russia continues to build new vessels. Two more LNG carriers — the
+Sergey Witte
+and
+Viktor Chernomyrdin
+— are scheduled to enter service in 2026–2027.
+The Barents Observer
+expects further growth in Russian Arctic LNG shipments to China once the EU’s full ban on Russian LNG, planned for Jan. 1, 2027, takes effect. The restrictions will also affect Yamal LNG, which, unlike Arctic LNG 2, is not currently under sanctions.
+See also
+Sanctioned Russian LNG carrier Arctic Metagaz catches fire in the Mediterranean Sea
+March 3, 2026
+On thin ice: Russia and China’s delicate balancing act in the Arctic
+May 21, 2026
+10 “shadow fleet” tankers awaiting icebreakers in the Kara Sea are likely carrying oil from Russia’s Arctic fields
+August 4, 2026
+Russia’s second domestically built ice-class LNG carrier heads to Arctic on first voyage
+August 14, 2026
+We depend on contributions from readers like you
+Sign up for regular contributions
+Another way to support us
+Add The Insider as a preferred source on Google and our reporting will show up in your Top Stories more often. Every reader who chooses The Insider helps show Google that our journalism matters.
+Want to share it?
+Publication:
+“
+Russia expands its LNG carrier fleet for gas shipments to China ahead of planned EU ban
+”
+Popular
+Unraveling Havana Syndrome: New evidence links the GRU's assassination Unit 29155 to mysterious attacks on U.S. officials and their families
+Lost in translation: How Russia’s new elite hit squad was compromised by an idiotic lapse in tradecraft
+The Czech illegals: Husband and wife outed as GRU spies aiding bombings and poisonings across Europe
+A most wanted man: Fugitive Wirecard COO Jan Marsalek exposed as decade-long GRU spy
+The Lab: How FSB chemical weapons experts tried to poison Alexei Navalny
+Subscribe to our Sunday Digest
+By subscribing, you agree to The Insider's
+Terms of Service
+and
+Privacy Policy
+, as well as Google's reCAPTCHA terms
+(
+Privacy Policy
+,
+Terms of Service
+).
+About the project
+User agreement
+Privacy policy
+Follow Us:
+18+
+2026
+The Insider
+News
+Investigations
+Dispatch
+ECONOMICS
+Antifake
+SOCIETY
+OPINION
+CORRUPTION
+POLITICS
+Confession
+History
+Books
+Investigation Topics
+Fakesperts
+Subscribe to our Sunday Digest
+Subscribe to RSS Feed
+Follow Us:
+About the project

@@ -1,0 +1,13 @@
+URL:         https://jamestown.org/russia-lacks-icebreakers-its-arctic-fleet-needs-to-function-in-eastern-arctic/
+Кінцевий:    https://jamestown.org/russia-lacks-icebreakers-its-arctic-fleet-needs-to-function-in-eastern-arctic/
+Заголовок:   Just a moment...
+Дата публ.:  не вказана на сторінці
+Завантажено: 2026-11-07 18:34 UTC
+HTTP:        403   Тип: text/html; charset=UTF-8   Байтів: 6032
+Оригінал:    raw/125-jamestown.org-russia-lacks-icebreakers-its-arctic-fleet-needs-to-funct.html
+sha256:      86f18ab778c22bae325b5107b35698d995e8154c90b5e9065b8ac012cfd69eee
+Витяг:       bs4-full
+Примітка:    оригінал 403; CDX не відповідає (ліміт) — повторити пізніше
+
+==============================================================================
+Just a moment...

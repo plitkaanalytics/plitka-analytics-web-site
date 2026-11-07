@@ -1,0 +1,38 @@
+URL:         https://splash247.com/northern-sea-route-smashes-shipping-records-again/
+Кінцевий:    https://splash247.com/northern-sea-route-smashes-shipping-records-again/
+Заголовок:   Northern Sea Route smashes shipping records again - Splash247
+Дата публ.:  2026-10-20
+Завантажено: 2026-11-07 17:56 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 160643
+Оригінал:    raw/88-splash247.com-northern-sea-route-smashes-shipping-records-again.html
+sha256:      c6c747e6ffcc49fbc9f7fae18ee2c1c15e7c7e029d32537162e39cb38a5a5cb8
+Витяг:       trafilatura
+
+==============================================================================
+Shipping along Russia’s Northern Sea Route (NSR) has already broken last year’s transit record.
+
+New figures from Norway’s Centre for High North Logistics (CHNL) show 104 confirmed transits by September 30, surpassing the 103 recorded during the whole of 2025 and 97 in 2024.
+
+Estimated transit cargo reached 3.7m tonnes, up 15% on the whole of last year, while the combined deadweight of vessels using the route increased 26% to 7.8m dwt.
+
+The final tally could be considerably higher. CHNL identified another 45 potential transits already underway or within the route at the end of September, suggesting the season could approach 150 voyages and more than 4.5m tonnes of cargo.
+
+Tankers have been the biggest cargo contributors, with 22 eastbound voyages carrying approximately 2.1m tonnes, predominantly Russian crude heading for Asia. Bulk carriers accounted for another 1.1m tonnes of eastbound cargo, while considerable westbound activity involved ships repositioning from Asia towards European Russia.
+
+The route is also attracting growing interest from international operators. Four direct Asia-Europe voyages had been completed by September 30, compared with just one during the whole of last year.
+
+Russian energy exports are providing much of the momentum. Russian oil exports through the NSR have climbed nearly 50% this year, with approximately 20m barrels shipped to Asia between July and mid-October.
+
+Disruption around the Strait of Hormuz, Suez Canal and Black Sea has made the expensive and potentially hazardous Arctic passage increasingly attractive. Russian LNG shipments are also contributing to traffic growth, with CHNL recording four eastbound LNG cargoes totalling approximately 300,000 tonnes.
+
+However, the accelerating use of one of the planet’s most environmentally sensitive waterways is raising mounting concerns.
+
+Dr Sian Prior, lead advisor to the Clean Arctic Alliance, warned in a release from earlier in the year that growing commercial shipping activity would bring “increased climate impacts, increased pollution and increased loss of biodiversity.”
+
+The NGO is particularly concerned about black carbon emissions from ships burning fossil fuels. When deposited on snow and ice, the particles accelerate melting by reducing the amount of sunlight reflected away from the surface.
+
+Swiss researchers have found that exhaust from a single vessel can alter Arctic cloud formation, potentially accelerating sea-ice melt locally. Scientists from Lausanne’s Swiss Federal Institute of Technology used emissions from their own research ship as a natural experiment. Preliminary estimates suggest that when polluted clouds form above ice, changes in cloud properties can cause around 1 mm of additional melting per day within roughly 100 m.
+
+Greater tanker activity also increases the risk of oil spills in remote Arctic waters, where harsh conditions and limited emergency response infrastructure make pollution particularly difficult to contain.
+
+Publish a list of all the vessels and operators who have transitted the NSR this year, in the name of transparency. Go on, I dare you.

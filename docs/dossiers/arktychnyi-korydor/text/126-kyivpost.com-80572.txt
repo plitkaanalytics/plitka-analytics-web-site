@@ -1,0 +1,49 @@
+URL:         https://www.kyivpost.com/post/80572
+Кінцевий:    https://www.kyivpost.com/post/80572
+Заголовок:   China Declines to Supply Equipment for Russian Northern Sea Route Fleet Due to Sanctions
+Дата публ.:  2026-07-18
+Завантажено: 2026-11-07 18:34 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 114137
+Оригінал:    raw/126-kyivpost.com-80572.html
+sha256:      d074019c66321a52abcf74356639a42a7396678d28ea3970acf6e422e7686955
+Витяг:       trafilatura
+
+==============================================================================
+[China](https://www.kyivpost.com/topic/china) has refused to supply critical components for [Russia’s](https://www.kyivpost.com/topic/Russia) large-tonnage ice-class vessels due to international sanctions, complicating [Moscow’s](https://www.kyivpost.com/topic/moscow) plans to expand the Northern Sea Route (NSR).
+
+According to a presentation by Russia’s Central Marine Research and Design Institute (CNIIMF) cited by Russian business daily [Vedomosti](https://www.vedomosti.ru/business/articles/2026/07/16/1214052-rossiiskim-kompaniyam-nuzhno-ne-menee-52-sudov-ledovogo-klassa), the provision of Chinese propulsion and steering systems for these vessels is contingent upon an easing of sanctions pressure.
+
+### JOIN US ON TELEGRAM
+
+Follow our coverage of the war on the [@Kyivpost_official](https://t.me/Kyivpost_official).
+
+Russia currently lacks domestic alternatives for these specific energy installations.
+
+CNIIMF estimates that by 2030, Russian companies will require at least 10 oil tankers with a deadweight of 120,000 tons, five liquefied natural gas (LNG) carriers with a capacity of 174,000 cubic meters, three 40,000-ton universal bulk carriers, two gas condensate tankers, and three liquefied petroleum gas (LPG) tankers.
+
+All vessels must meet the Arc7 ice-class standard to operate year-round in the Arctic.
+
+CNIIMF Deputy Director Alexander Buyanov stated that Russian shipyards currently do not build large-tonnage ice-class vessels. He attributed this to a lack of shipyard capacity and the unavailability of necessary equipment, noting that domestic options are absent, Western equipment is sanctioned, and Chinese alternatives are restricted by sanctions compliance.
+
+The equipment shortage affects the Russian government’s targets for the NSR. The route, extending from the Kara Gates Strait to the Bering Strait, was projected to handle 80 million tons of cargo annually by 2024 and 200 million tons by 2030. Actual volumes reached 38 million tons in 2024 and 37 million tons the previous year (rounded.
+
+
+### 
+                                [Kyiv Starts Heating Hospitals and Schools as Repairs Delay Parts of City](https://www.kyivpost.com/post/87265)
+                            
+
+State nuclear corporation Rosatom and the Russian government have since reduced the 2030 forecast to between 70 and 100 million tons. Currently, 60% of the NSR’s cargo volume consists of Russian exports, primarily LNG, oil, and gas condensate from projects such as Yamal LNG, Arctic LNG 2, and Novoportovskoye.
+
+**Contrasting military cooperation**
+
+ The restriction on maritime technology contrasts with reported [cooperation between Moscow and Beijing in the military sector](https://www.kyivpost.com/post/79621).
+
+Recently leaked documents indicate ongoing bilateral cooperation focused on [developing next-generation armored vehicles equipped with artificial intelligence](https://www.kyivpost.com/post/80029), unmanned turrets, and integrated drone capabilities.
+
+Simultaneously, Russia has begun deploying upgraded T-72B3A main battle tanks equipped with the Arena-M active protection system, which state media claims is designed to counter first-person-view (FPV) drones.
+
+Furthermore, military personnel exchanges continue. Ukraine’s Military Intelligence (HUR) reported that [bilateral military training is ongoing](https://www.kyivpost.com/post/79863), noting that over 180 Russian troops trained in China in November 2025 and over 550 Chinese troops trained in Russia in known deployments.
+
+You can also highlight the text and press
+
+__Ctrl + Enter__

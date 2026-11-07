@@ -1,0 +1,99 @@
+URL:         https://carnegieendowment.org/russia-eurasia/politika/2026/09/russia-northern-sea-route
+Кінцевий:    https://carnegieendowment.org/russia-eurasia/politika/2026/09/russia-northern-sea-route
+Заголовок:   International Demand for Russia’s Arctic Shipping Route Is Unlikely to Last
+Дата публ.:  2026-09-30
+Завантажено: 2026-11-07 18:34 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 262577
+Оригінал:    raw/127-carnegieendowment.org-russia-northern-sea-route.html
+sha256:      1950c3d60d623e51c3ad8dd527081d2637fa01d909fe4d729644e8689ba3da05
+Витяг:       trafilatura
+
+==============================================================================
+[How Trump’s Wars Are Boosting Russian Oil Exports](/russia-eurasia/politika/2026/03/us-china-russia-iran-oil)
+
+- Mikhail Korostikov 
+
+```
+{
+  "authors": [
+    "Mikhail Korostikov"
+  ],
+  "type": "commentary",
+  "blog": "Carnegie Politika",
+  "centerAffiliationAll": "",
+  "centers": [
+    "Carnegie Endowment for International Peace",
+    "Carnegie Russia Eurasia Center"
+  ],
+  "englishNewsletterAll": "",
+  "nonEnglishNewsletterAll": "",
+  "primaryCenter": "Carnegie Russia Eurasia Center",
+  "programAffiliation": "",
+  "regions": [
+    "Russia"
+  ],
+  "topics": [
+    "Global Governance",
+    "Trade",
+    "Foreign Policy"
+  ]
+}
+```
+Commentary
+
+Cargo traffic through Russia’s Northern Sea Route has increased because of the disruption caused by the conflict in the Middle East, the Ukraine war, and U.S.-China tensions.
+
+Published on Sep 30, 2026
+
+The container ship *Dubai Tower* made history as the first vessel to take part in a[ regularly ](https://www.mot.gov.cn/xinwen/jiaotongyaowen/202608/t20260817_4222431.html)[scheduled service](https://www.mot.gov.cn/xinwen/jiaotongyaowen/202608/t20260817_4222431.html) via the Northern Sea Route when it reached the United Kingdom a little over three weeks after leaving China’s Ningbo-Zhoushan port on August 15 and heading north to the Arctic. Several other vessels—all operated by China’s Sea Legend Shipping—have since successfully completed the same journey, and the company has [pledged](https://www.cnn.com/2026/08/14/china/china-arctic-northern-sea-route-russia-intl-hnk-vis-dst) to offer a regular seasonal service. This link between China and Europe takes about twenty days: about half the time required to go via the Suez Canal.
+
+Crucially, the Northern Sea Route is largely free from geopolitical risk. Indeed, the pace of its development has been in proportion to the problems and delays on other shipping lanes. Today, three major conflicts are pushing shipping northward: Russia’s war against Ukraine, the U.S.-Israeli war on Iran, and the standoff between the United States and China. Of course, there is a flip side to this dynamic. If the intensity of these conflicts subsides, the Northern Sea Route will likely revert to being a domestic Russian shipping lane.
+
+The Northern Sea Route follows Russia’s Arctic coast for about[ ](https://arctic-today.ru/index.php/arkticheskaya-transportnaya-sistema/961-transarkticheskij-transportnyj-koridor)[5,600 kilometers](https://arctic-today.ru/index.php/arkticheskaya-transportnaya-sistema/961-transarkticheskij-transportnyj-koridor) from the Kara Strait to the Bering Strait. Navigation permits are[ ](https://www.aljazeera.com/news/2026/8/18/can-chinas-new-arctic-sea-route-to-europe-replace-middle-east-chokepoints)[issued](https://www.aljazeera.com/news/2026/8/18/can-chinas-new-arctic-sea-route-to-europe-replace-middle-east-chokepoints) by the Northern Sea Route Administration, an agency operating under Russian state nuclear company Rosatom. Ships transiting the route are accompanied by icebreakers from a[ ](https://www.cnbc.com/2026/03/28/china-russia-arctic-polar-icebreaker-ships.html)[fleet](https://www.cnbc.com/2026/03/28/china-russia-arctic-polar-icebreaker-ships.html) of about forty-five vessels (including eight that are nuclear-powered): the biggest such fleet in the world.
+
+The legal basis for Russia’s control of the route is Article 234 of the United Nations Convention on the Law of the Sea, which gives coastal states the right to enforce special laws in ice-covered areas within their exclusive economic zones. Admittedly, Moscow[ ](https://www.hudson.org/defense-strategy/how-we-turn-northern-sea-route-advantage-liselotte-odgaard)[demands](https://www.hudson.org/defense-strategy/how-we-turn-northern-sea-route-advantage-liselotte-odgaard) more than is allowed for under the convention, stipulating that all transiting vessels must obtain prior authorization and pay for pilotage and icebreaker escort.
+
+The history of the Northern Sea Route is one of undelivered promises. Even disregarding the failed projects of the 1990s and 2000s, a relatively recent Russian presidential order of 2018 [mandated](https://tass.ru/ekonomika/5182081) an increase in annual cargo traffic along the route to 80 million tons by 2024. In fact, less than half that target—just [37.9 million](https://expert.ru/promishlennost/marshrut-upiraetsya-v-lyed) tons—was transported in 2024.
+
+The Kremlin has long hoped that global warming would lead to increased usage of the route. It’s true that climate change has made it more appealing—albeit very gradually. According to the[ ](https://arctic.noaa.gov/report-card/report-card-2025/sea-ice-2025/)[Arctic Report Card](https://arctic.noaa.gov/report-card/report-card-2025/sea-ice-2025/), the sea ice cover at the end of summer 2025 was 28 percent less than in 2005 and the sea ice extent in March 2025 was the lowest since records began forty-seven years ago. However, average changes do not guarantee the route will be accessible on any particular date, so scheduling remains short-term. That makes the economics of sending cargo through the Arctic questionable when compared to almost all the alternatives. 
+
+For the moment, it’s hard to claim the Northern Sea Route is an economic success. In 2025, cargo traffic[ ](https://www.kommersant.ru/doc/8419017)[fell](https://www.kommersant.ru/doc/8419017) 2.3 percent to 37 million tons. While that year there were a record 103 transit passages (i.e., from Asia to Europe—not Russia–China passages or internal Russian ones), they only[ ](http://internationalfinance.com/magazine/logistics-magazine/arctic-shipping-route-promises-a-lot-but-delivers-far-less/)[carried](http://internationalfinance.com/magazine/logistics-magazine/arctic-shipping-route-promises-a-lot-but-delivers-far-less/) 3.2 million tons (less than 9 percent of the route’s total cargo). In comparison, even during the crisis period at the end of 2025, 244 vessels[ ](https://splash247.com/suez-traffic-shows-first-signs-of-recovery/)[passed](https://splash247.com/suez-traffic-shows-first-signs-of-recovery/) through the Suez Canal every week. It was 500 a week at the end of 2023.
+
+While an increase of cargo traffic through the Northern Sea Route in the near future seems certain, with volumes on track to exceed 40 million tons and set a[ ](https://en.highnorthnews.com/business/russias-northern-sea-route-cargo-to-surpass-40m-tonnes-as-china-south-korea-dispatch-containerships/1116787)[new record](https://en.highnorthnews.com/business/russias-northern-sea-route-cargo-to-surpass-40m-tonnes-as-china-south-korea-dispatch-containerships/1116787) in 2026, it will[ ](https://link.springer.com/article/10.1007/s13437-025-00400-w)[remain](https://link.springer.com/article/10.1007/s13437-025-00400-w) seasonal and continue to face navigation safety and time issues. In other words, the current growth of traffic is not a result of global warming or a change in the route’s economics; it’s due to the number of wars that the world is currently witnessing.
+
+First, the war in Ukraine and subsequent Western sanctions on Russia created unprecedented demand for the Northern Sea Route among Russian oil exporters. Commercial shipments of oil in the Arctic[ ](https://www.marinelink.com/news/russia-ramps-oil-exports-via-arctic-route-542009)[hit](https://www.marinelink.com/news/russia-ramps-oil-exports-via-arctic-route-542009) 13 million barrels in 2025 (up from[ ](https://www.spglobal.com/energy/en/news-research/latest-news/crude-oil/112923-russias-arctic-oil-exports-surge-but-risks-still-hamper-new-trade-route)[2.2 million barrels](https://www.spglobal.com/energy/en/news-research/latest-news/crude-oil/112923-russias-arctic-oil-exports-surge-but-risks-still-hamper-new-trade-route) in 2019) as exporters [chose](https://www.marinelink.com/news/russia-ramps-oil-exports-via-arctic-route-542009) a route free of inspections, detentions, and other restrictions.
+
+Second, the U.S.-Israeli war on Iran and the resulting disruption to traffic through the Strait of Hormuz and the Red Sea also made the Northern Sea Route more attractive. Both India and South Korea cited the Middle East conflict in their[ ](https://www.scmp.com/week-asia/economics/article/3364859/india-joins-china-and-south-korea-push-arctic-shipping-routes)[announcement](https://www.scmp.com/week-asia/economics/article/3364859/india-joins-china-and-south-korea-push-arctic-shipping-routes) of plans to use the Arctic route, with South Korea[ ](https://www.aljazeera.com/news/2026/8/22/south-korea-sending-first-container-ship-through-arctic-route)[sending](https://www.aljazeera.com/news/2026/8/22/south-korea-sending-first-container-ship-through-arctic-route) its first commercial ship to Europe this way in August. In other words, the war in the Persian Gulf has pushed even U.S. allies into using the Northern Sea Route.
+
+Third, the trade war between the United States and China has been a long-standing driver of development. About[ ](https://www.wilsoncenter.org/article/360deg-view-policies-needed-secure-shipping-chokepoints)[80 percent](https://www.wilsoncenter.org/article/360deg-view-policies-needed-secure-shipping-chokepoints) of China’s oil imports go via the Strait of Malacca (within the territorial waters of Malaysia, Singapore, and Indonesia, controlled by the U.S. Navy), and using the Arctic is part of China’s[ ](https://www.eurasiareview.com/26122025-northern-frontiers-chinas-strategic-push-along-the-northern-sea-route-analysis/)[strategy](https://www.eurasiareview.com/26122025-northern-frontiers-chinas-strategic-push-along-the-northern-sea-route-analysis/) of developing alternative routes (even though the Arctic is also vulnerable to U.S. military pressure).
+
+At the same time, the data show that the Arctic remains the most expensive of the three possible shipping routes between Asia and Europe. It currently costs about $8,500 per container, which,[ ](https://www.drewry.co.uk/supply-chain-advisors/supply-chain-expertise/world-container-index-assessed-by-drewry)[according](https://www.drewry.co.uk/supply-chain-advisors/supply-chain-expertise/world-container-index-assessed-by-drewry) to the Drewry maritime research consultancy, is almost[ ](https://www.lloydslist.com/LL1157867/China%E2%80%99s-Sea-Legend-pushes-Arctic-ambitions-with-first-near-weekly-China-Europe-liner-service)[double](https://www.lloydslist.com/LL1157867/China%E2%80%99s-Sea-Legend-pushes-Arctic-ambitions-with-first-near-weekly-China-Europe-liner-service) the August 2026 spot price for sending a 40-foot container from Shanghai to Rotterdam. Notably, it’s cheaper to send goods by railroad and takes about the same amount of time: The[ ](https://index1520.com/upload/medialibrary/233/mk56n1fi0jdfgcp8eqhi2y3fqk5tcwdi/15_01_2026-Eurasian-Logistics-Market-Update_EN.pdf)[average cost](https://index1520.com/upload/medialibrary/233/mk56n1fi0jdfgcp8eqhi2y3fqk5tcwdi/15_01_2026-Eurasian-Logistics-Market-Update_EN.pdf) of railroad transit from China to Europe in January 2026 was $6,000 per container.
+
+There is only one conclusion to be drawn from these numbers: The Northern Sea Route is only viable under certain conditions. Companies pay the $8,500 fee for every container not because of the time savings, but because there is nowhere on the route where the cargo can be halted. And they will only continue to do so if the alternatives remain problematic. Experts [predict](https://index1520.com/upload/medialibrary/233/mk56n1fi0jdfgcp8eqhi2y3fqk5tcwdi/15_01_2026-Eurasian-Logistics-Market-Update_EN.pdf) that going forward, ocean freight rates will return to late-2023 levels (below $1,500 per container), even if transit through Middle East waters is only partially restored. If that happens, the Arctic rate will be commercially unjustifiable.  
+
+Ultimately, it’s not the innate qualities of the Northern Sea Route that explain its current growing popularity, but the unusual extent of global conflict. Demand for the route only increases when alternatives are unavailable. In recent years, there have been no fundamental changes to the ice conditions, the icebreaker fleet, or the economics.
+
+As a result, any global conflict de-escalation will see this trend reverse, with the route reverting to its natural state: a seasonal, expensive, and nearly empty shipping lane that costs more to maintain than it generates in revenue.
+
+*This text is part of the “Russia 2030: Rogue Superpower” project.*
+
+Sinologist
+
+- Commentary[How Trump’s Wars Are Boosting Russian Oil Exports](/russia-eurasia/politika/2026/03/us-china-russia-iran-oil)- Mikhail Korostikov 
+ 
+- Commentary[A Protracted U.S.-China Trade War Would Be a Gift to Moscow](/russia-eurasia/politika/2025/05/russia-china-trade-wars-opportunities)- Mikhail Korostikov 
+ 
+
+Recent Work
+
+Carnegie does not take institutional positions on public policy issues; the views represented herein are those of the author(s) and do not necessarily reflect the views of Carnegie, its staff, or its trustees.
+
+- Commentary[By Waging War on Its Sovereignty, Putin Has United Ukraine](/russia-eurasia/politika/2026/11/ukraine-putin-identity)The war does threaten Putin’s existence. That is why he does not negotiate. - René Nyberg 
+ 
+- Commentary[Red Sea Mirage: Why Russia Is Still Waiting on a Military Base in Sudan](/russia-eurasia/politika/2026/10/russia-sudan-military-base)Russia’s coveted Red Sea naval base has fallen victim to its erratic foreign policy. - Sergey Konyashin 
+ 
+- Commentary[Deportation of Russian Propagandist Reveals Battle Over Church Influence in the Balkans](/russia-eurasia/politika/2026/10/russia-europe-military-blogger-detained)Mikhail Zvinchuk’s detention could have dealt a serious blow to Russia’s propaganda infrastructure in the Balkans. Instead, the incident has made something else eminently clear: Moscow values and protects its propagandists, while Europe still hasn’t figured out what to do with them. - Ivan Filippov, Ksenia Luchenko 
+ 
+- Commentary[Could Nuclear Warheads Really Be Deployed to the Baltic States?](/russia-eurasia/politika/2026/10/baltics-nuclear-weapon-deployment)Latvia and Lithuania have been considering whether they could temporarily host NATO nuclear weapons in the event of war or a similar crisis. - Sergejs Potapkins 
+ 
+- Commentary[The Fallacy of Energy Deals With Russia](/russia-eurasia/politika/2026/11/russia-energy-deals)Russia does not have to treat Western companies as equal partners. A centralized regime built on a foundation of oil and gas income was never going to relinquish what it saw as sovereign control. - Edward C. Chow
