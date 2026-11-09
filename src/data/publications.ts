@@ -74,6 +74,14 @@ export const partners: Partner[] = [
       en: 'An independent online medium founded in 2024 by Serhiy Zhadan and his team.',
     },
   },
+  {
+    name: 'Wschody',
+    url: 'https://wschody.net/pl/',
+    desc: {
+      uk: 'Емігрантський журнал російською й польською мовами про Росію, війну в Україні та польську політику.',
+      en: 'An émigré magazine in Russian and Polish covering Russia, the war in Ukraine and Polish politics.',
+    },
+  },
 ];
 
 export const publications: ExternalPublication[] = [
@@ -105,6 +113,18 @@ export const publications: ExternalPublication[] = [
       'Резервне море для нафти та пуску ракет. Як Росію витісняють у Каспійський басейн і чи дістане туди Україна',
     url: 'https://oboronka.mezha.ua/yak-rosiyu-vitisnyayut-u-kaspiyskiy-baseyn-315964/',
     date: '2026-10-08',
+  },
+  {
+    kind: 'ours',
+    outlet: 'Wschody',
+    title:
+      'Peryskop Dönitza. Totalna wojna przeciwko żegludze powróciła. Część pierwsza',
+    url: 'https://wschody.net/pl/peryskop-donitza-totalna-wojna-przeciwko-zegludze-powrocila-czesc-pierwsza/',
+    date: '2026-11-08',
+    note: {
+      uk: 'Переклад «Перископа Деніца» польською, частина перша',
+      en: 'Polish translation of Dönitzʼs Periscope, part one',
+    },
   },
   {
     kind: 'about',
