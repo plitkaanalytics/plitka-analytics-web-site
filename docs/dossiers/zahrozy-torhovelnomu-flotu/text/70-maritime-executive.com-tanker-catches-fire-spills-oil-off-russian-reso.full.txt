@@ -1,0 +1,200 @@
+URL:         https://maritime-executive.com/article/tanker-catches-fire-spills-oil-off-russian-resort-town-of-sochi
+Кінцевий:    https://maritime-executive.com/article/tanker-catches-fire-spills-oil-off-russian-resort-town-of-sochi
+Заголовок:   Tanker Catches Fire, Spills Oil off Russian Resort Town of Sochi
+Дата публ.:  2026-10-06
+Завантажено: 2026-10-07 09:20 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 139561
+Оригінал:    raw/70-maritime-executive.com-tanker-catches-fire-spills-oil-off-russian-reso.html
+sha256:      f49da93577ae70b36f87b84a3a80ec91069f54ebf2f9c6bc7985cde6878ff586
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 21
+==============================================================================
+Seafarers Now Command Huge Bonuses for Hormuz Transits
+Quick Action Stops OSV From Sinking at Dock in the Netherlands
+HD Hyundai Delivers World's First "Lashing-Free" Containership to CMA CGM
+After Russian Threats, Macron Puts Nuclear Deterrent at the Forefront
+Spreading, burning pool of oil from a tanker off the coast of Sochi, Oct. 6 (Russian social media)
+Stay on Top of the Daily Maritime News
+Chemical Concerns Pause Plan to Dredge North Carolina Port Channel
+FMC Threatens COSCO with Large Civil Penalty for Delayed Payment
+Video: How Royal Marines Board a Submarine
+Anduril and US Navy Invest $6.6B for New Submarine Manufacturing Yard
+Op-Ed: An America-First Approach in Yemen
+Op-Ed: Europe's Shipping Future Depends on Stronger Ship Management
+Op-Ed: What America Must Change to Make Korean Shipbuilding Matter
+Poten: Sky-High Tanker Rates are Driving Refiners' Oil Buying Decisions
+Op-Ed: People Are the Powerbase of the Shipping Business
+The latest news in your inbox daily.
+Shipowners aren't the only ones making a fortune from million-dollar day rates for Hormuz transits. Far from being coerced or tricked into sailing into harm's way, seafarers are reportedly able to earn a small fortune if they agree to brave the short but dangerous run through the strait. According to the Financial Times, tanker captains are making base salaries of up to $100,000 per month plus a $50,000 per-trip bonus aboard ships that make the Hormuz run. The rest of...
+The harbor master and local emergency services are reporting that a quick, coordinated action on Monday evening prevented a Spanish-flagged offshore support vessel from sinking at the dock in Eemshaven in the Netherlands. The vessel Nautilus reported that it was taking on water as it was returning to the Dutch port around 18:30 on October 5. The local emergency service, Veiligheidsregio Groningen, scaled the incident to a Level 1 emergency, reporting the vessel was clearly sinking with the forward section...
+South Korean shipbuilding group HD Hyundai is reporting the delivery of its first container vessel using the company’s newly developed "Lashing-Free" system that eliminates the need for workers to manually secure containers on board. It highlights benefits of increased capacity and ease of handling while also reporting that the system will be able to handle heavy weather and provide other benefits to the ships. The system was installed on a new containership built for CMA CGM, which underwent sea trials...
+The administration of French President Emmanuel Macron is putting new emphasis on France's nuclear deterrent, and specifically on its nuclear ballistic missile submarine fleet. In March, Macron used a launch ceremony at the L'Île Longue submarine base to announce that France would expand its arsenal and cooperate with other European countries on a broader nuclear deterrence system. On Tuesday, he made an unannounced trip to a frigate off Brittany for the first seagoing test-launch of an M51.3 ballistic missile -...
+© Copyright 2026 The Maritime Executive, LLC. All rights reserved.
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Tanker Catches Fire, Spills Oil off Russian Resort Town of Sochi
+Go
+SUBSCRIBE NOW
+Media Kit
+news
+Features
+Podcasts
+Magazine
+Newsletter
+Advertise
+Directory
+Subscribe
+news
+features
+Podcasts
+magazine
+newsletter
+Jobs
+advertise
+subscribe
+TOP
+STORIES
+Seafarers Now Command Huge Bonuses for Hormuz Transits
+Published
+				by
+The Maritime Executive
+Quick Action Stops OSV From Sinking at Dock in the Netherlands
+Published
+				by
+The Maritime Executive
+HD Hyundai Delivers World's First "Lashing-Free" Containership to CMA CGM
+Published
+				by
+The Maritime Executive
+After Russian Threats, Macron Puts Nuclear Deterrent at the Forefront
+Published
+				by
+The Maritime Executive
+1951
+Views
+Tanker Catches Fire, Spills Oil off Russian Resort Town of Sochi
+Spreading, burning pool of oil from a tanker off the coast of Sochi, Oct. 6 (Russian social media)
+Published
+					Oct 6, 2026 3:10 PM        		by
+The Maritime Executive
+A large tanker has caught fire off the coast of the resort city of Sochi, Russia, according to local media accounts and satellite sensing data.
+The vessel is readily visible from shore, and multiple videos depicting the fire have appeard on Russian social media channels. The bystander-image sequence begins with a substantial fire centered on cargo tanks amidships, followed by obvious signs of burning oil spreading aft down the starboard side. Later videos and photos show a large pool of burning oil on the water aft of the vessel and a towering column of smoke.
+Initial reports indicated that the vessel could be the
+Aframax Rio,
+previously sanctioned by Ukraine for alleged involvement in Russian oil exports. Marine traffic tracking sites last spotted
+Aframax Rio
+on Monday at a position just off the coast of Sirius, a small coastal town to the southeast of Sochi. NASA FIRMS infrared sensing data shows a large, intense heat signature to the west of Sochi, to the northwest of
+Aframax Rio's
+last detected position.
+Based on satellite imaging, TankerTrackers.com initially identified the vessel as the Russian-flagged tanker
+Sphere
+(IMO 9323974, ex names
+Marble, Creature, Marta 1, LR2 Eternity
+), then issued a
+correction
+and identified the vessel as
+Aframax Rio.
+October 6, 2026
+Kl 18 på tisdagskvällen började plötsligt liberianskflaggade oljetankern Aframax rio att brinna på redden utanför ryska hamnstaden Sotji. Sånt som händer om man tillhör den ryska skuggflottan och skulle frakta olja från Novorossijsk till Indien. Branden bara tilltar. https://t.co/S25aR23wmE
+— Fria Ukraina (@FriaUkraina)
+October 6, 2026
+Russian war reporting channel ExileNova+ indicates that there were no air raid sirens and no sounds of explosions prior to the fire. Ukraine has not claimed responsibility for an attack; it is as-yet unclear whether the casualty was accidental or combat-related.
+Stay on Top of the Daily Maritime News
+The maritime news
+that matters most
+Get the latest maritime news delivered to your inbox daily.
+Subscribe Now
+MORE
+TOP STORIES
+Chemical Concerns Pause Plan to Dredge North Carolina Port Channel
+FMC Threatens COSCO with Large Civil Penalty for Delayed Payment
+Video: How Royal Marines Board a Submarine
+Anduril and US Navy Invest $6.6B for New Submarine Manufacturing Yard
+EDITORIALS
+TOP STORIES
+Op-Ed: An America-First Approach in Yemen
+Op-Ed: Europe's Shipping Future Depends on Stronger Ship Management
+Op-Ed: What America Must Change to Make Korean Shipbuilding Matter
+Poten: Sky-High Tanker Rates are Driving Refiners' Oil Buying Decisions
+Op-Ed: People Are the Powerbase of the Shipping Business
+The maritime news
+that matters most
+The latest news in your inbox daily.
+Subscribe Now
+SUBSCRIPTIONS
+SUBSCRIBE
+Print
+Digital
+Newsletter
+Renew
+Subscribe Now
+RELATED
+STORIES
+Tugs & Salvage
+Seafarers Now Command Huge Bonuses for Hormuz Transits
+Published
+					Oct 6, 2026 9:38 PM        		by
+The Maritime Executive
+Shipowners aren't the only ones making a fortune from million-dollar day rates for Hormuz transits. Far from being coerced or tricked into sailing into harm's way, seafarers are reportedly able to earn a small fortune if they agree to brave the short but dangerous run through the strait. According to the Financial Times, tanker captains are making base salaries of up to $100,000 per month plus a $50,000 per-trip bonus aboard ships that make the Hormuz run. The rest of...
+Continue Reading...
+Tugs & Salvage
+Quick Action Stops OSV From Sinking at Dock in the Netherlands
+Published
+					Oct 6, 2026 9:12 PM        		by
+The Maritime Executive
+The harbor master and local emergency services are reporting that a quick, coordinated action on Monday evening prevented a Spanish-flagged offshore support vessel from sinking at the dock in Eemshaven in the Netherlands. The vessel Nautilus reported that it was taking on water as it was returning to the Dutch port around 18:30 on October 5. The local emergency service, Veiligheidsregio Groningen, scaled the incident to a Level 1 emergency, reporting the vessel was clearly sinking with the forward section...
+Continue Reading...
+Shipping
+HD Hyundai Delivers World's First "Lashing-Free" Containership to CMA CGM
+Published
+					Oct 6, 2026 8:34 PM        		by
+The Maritime Executive
+South Korean shipbuilding group HD Hyundai is reporting the delivery of its first container vessel using the company’s newly developed "Lashing-Free" system that eliminates the need for workers to manually secure containers on board. It highlights benefits of increased capacity and ease of handling while also reporting that the system will be able to handle heavy weather and provide other benefits to the ships. The system was installed on a new containership built for CMA CGM, which underwent sea trials...
+Continue Reading...
+Government
+After Russian Threats, Macron Puts Nuclear Deterrent at the Forefront
+Published
+					Oct 6, 2026 8:27 PM        		by
+The Maritime Executive
+The administration of French President Emmanuel Macron is putting new emphasis on France's nuclear deterrent, and specifically on its nuclear ballistic missile submarine fleet. In March, Macron used a launch ceremony at the L'Île Longue submarine base to announce that France would expand its arsenal and cooperate with other European countries on a broader nuclear deterrence system. On Tuesday, he made an unannounced trip to a frigate off Brittany for the first seagoing test-launch of an M51.3 ballistic missile -...
+Continue Reading...
+SUBSCRIPTIONS
+SUBSCRIBE
+Print
+Digital
+Newsletter
+Renew
+Subscribe Now
+Show Comments
+About Us
+Advertise
+Newsletter
+Contact Us
+Privacy Policy
+Site Map
+News
+Features
+Podcasts
+Magazine
+Newsletter
+Piracy News
+Shipbuilding News
+Cruise Ship News
+Ports News
+Salvage News
+Training News
+Government News
+Environment News
+Corporate News
+Subscribe
+Facebook
+LinkedIn
+Twitter
+RSS Feed
+Instagram
+© Copyright 2026 The Maritime Executive, LLC. All rights reserved.

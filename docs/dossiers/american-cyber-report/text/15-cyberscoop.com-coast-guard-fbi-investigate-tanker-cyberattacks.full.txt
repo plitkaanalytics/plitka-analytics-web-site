@@ -1,0 +1,245 @@
+URL:         https://cyberscoop.com/coast-guard-fbi-investigate-tanker-cyberattacks/
+Кінцевий:    https://cyberscoop.com/coast-guard-fbi-investigate-tanker-cyberattacks/
+Заголовок:   Coast Guard, FBI board US-bound foreign ships in order to probe for cyberattacks
+Дата публ.:  2026-09-16
+Завантажено: 2026-10-02 08:05 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 116616
+Оригінал:    raw/15-cyberscoop.com-coast-guard-fbi-investigate-tanker-cyberattacks.html
+sha256:      9de0887046c2fa239e661725402e50a8bc7889bee6a4940864e577d11acee842
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 41
+==============================================================================
+Coast Guard, FBI board US-bound foreign ships in order to probe for cyberattacks | CyberScoop
+Get our latest cybersecurity news first on Google.
+The agencies issued a joint statement saying the “joint security boardings” came in response to “indications that the networks of both vessels were compromised.”
+This feature uses an automated voice, which may result in occasional errors in pronunciation, tone, or sentiment.
+Tim Starks is senior reporter at CyberScoop. His previous stops include working at The Washington Post, POLITICO and Congressional Quarterly. An Evansville, Ind. native, he's covered cybersecurity since 2003. Email Tim here:
+Federal Bureau of Investigation (FBI)
+Authorities seize KillSec extortion group infrastructure, arrest 3 alleged members
+AI policy circles targeted in China-linked phishing operation
+WaterISAC reckons with range of threats after summer of cyberattacks
+National cyber director: Government-industry collaboration vital to managing AI risks, competition with nations
+A boat at the Port of Wilmington in Wilmington, N.C. The port is one of three ports in the state dealing with the aftermath of a cyberattack. (Getty Images)
+Coast Guard says it is monitoring cyberattack that disrupted North Carolina’s ports
+The cyberattack hit gate systems at all three North Carolina ports, as officials continue investigating the breach and its effects on operations.
+U.S. President Donald Trump, joined by Republican lawmakers, signs the One, Big Beautiful Bill Act into law during an Independence Day military family picnic on the South Lawn of the White House on July 4, 2025. (Photo by Samuel Corum/Getty Images)
+GOP domestic policy bill includes money for military cyber
+Freight shipping containers are stacked and ready for transport and export at the Port of Long Beach on Oct. 7, 1997. (Photo by Bob Riha, Jr./Getty Images)
+Biden signs executive order to give Coast Guard added authority over maritime cyber threats
+GAO: Federal agencies lack insight on ransomware protections for critical infrastructure
+A rising tide lifts all boats in maritime cybersecurity
+US Army combines fake hacks, natural disaster simulation to test municipal responses
+Coast Guard says Ryuk ransomware hit systems that monitor cargo transfers at maritime facility
+What the Section 702 lapse means for cybersecurity
+What AI alignment means for cybersecurity
+Jailbreaks, sandboxes, and the limits of AI safeguards
+ClickFix and the social engineering of routine
+US is looking to weave AI into critical infrastructure for cybersecurity, national cyber director says
+As AI world debates security, NVIDIA releases open source tools for agents
+ShinyHunters trades financial extortion for a reckless war of ego with the FBI
+Supreme Court permits states to use SAVE database for citizenship checks
+New bill would create federal investigative body for AI-driven hacks
+CISA outlines improvement plan for CVE program
+OpenAI, Ukraine partner on ‘Daybreak’ program to protect power grids and water systems
+Citing China, President Trump doubles down on hands-off approach to AI regulation
+Attackers exploited Citrix NetScaler zero-day for at least three weeks undetected
+Russian hackers Star Blizzard expand targeting, change up tactics to reach Ukraine and beyond
+Alleged ShinyHunters leader arrested in the Netherlands
+Kiteworks lifts shutdown advisory after 'credible threat intelligence' from federal authorities
+House and Senate members propose legislation for CISA to step up cyber defenses for biotech
+Bipartisan Senate leaders introduce bill to bolster telecom cybersecurity in response to Salt Typhoon hacks
+Watchdog finds most agencies failed to meet CISA cloud security orders, heightening risk of attack
+The president has called for AI leadership. Here’s the mission.
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Coast Guard, FBI board US-bound foreign ships in order to probe for cyberattacks | CyberScoop
+Skip to main content
+Advertisement
+CyberScoop
+AIScoop
+FedScoop
+DefenseScoop
+StateScoop
+EdScoop
+Advertise
+Search for:
+Search
+Open navigation
+Topics
+Back
+AI
+Cybercrime
+Commentary
+Financial
+Government
+Policy
+Privacy
+Technology
+Threats
+Research
+Workforce
+Special Reports
+Events
+Podcasts
+Videos
+Insights
+FedScoop 50
+Switch Site
+CyberScoop
+AIScoop
+FedScoop
+DefenseScoop
+StateScoop
+EdScoop
+Subscribe
+Advertisement
+Get our latest cybersecurity news first on Google.
+Click here!
+Close
+Threats
+Coast Guard, FBI board US-bound foreign ships in order to probe for cyberattacks
+The agencies issued a joint statement saying the “joint security boardings” came in response to “indications that the networks of both vessels were compromised.”
+By
+Tim Starks
+September 16, 2026
+Listen to this article
+0:00
+Learn more.
+This feature uses an automated voice, which may result in occasional errors in pronunciation, tone, or sentiment.
+(Getty Images)
+The Coast Guard and FBI boarded two foreign vessels coming to the United States last month to investigate potential cyberattacks on the ships, according to a joint statement from the agencies Wednesday.
+The “joint offshore security boardings” of the two commercial ships in the Gulf of Mexico on Aug. 21 and Aug. 24 “were designed to ensure integrity of the vessel’s operational and information technology systems following indications that the networks of both vessels were compromised,” according to the joint statement.
+“Currently, there are no reports of operational disruptions, vessel instability, physical danger to crews, or environmental impacts,” the statement reads. “The Coast Guard is actively managing communications with port operators, vessel owners, and local maritime stakeholders to ensure port operations continue safely and without interruption.”
+The vessels
+were reportedly tankers
+carrying oil and natural gas
+, and the first
+got hacked
+in the Strait of Gibraltar and lost communication for over 30 hours. Authorities were said to be  investigating whether Iran, or perhaps another group seeking to exploit the conflict between Iran and the United States, was behind the attacks.
+Advertisement
+Coast Guard cyber teams have been investigating “dark fleets” carrying sanctioned oil from Iran and Russia, which rely on digital masking to hide their operations and carry enhanced cyber risks, The Wall Street Journal
+reported in June
+.
+Then-President Joe Biden signed
+an executive order
+in 2024 giving the Coast Guard additional authorities to respond to cybersecurity incidents, citing the risks that a maritime cyber incident could cause “cascading” harm to the global supply chain.
+The Aug. 21 boarding party included Coast Guard law enforcement personnel, Coast Guard Cyber Protection Team members, a vessel inspector and FBI Cyber Action Team operators, who boarded “to conduct a comprehensive cyber security boarding and investigation,” according to the agencies’ joint statement. A similar team made up the Aug. 24 boarding party.
+“The captain, crew, and shore-side corporate staff were critical partners in helping to ensure the threats were mitigated,” the statement reads.
+Top Trump administration cyber officials have refused to answer questions from reporters recently about Iranian cyberattacks during the Middle East conflict.
+Trump himself has rejected
+the idea that Iran was behind a recent spate of attacks on U.S. water facilities.
+Written by Tim Starks
+Tim Starks is senior reporter at CyberScoop. His previous stops include working at The Washington Post, POLITICO and Congressional Quarterly. An Evansville, Ind. native, he's covered cybersecurity since 2003. Email Tim here:
+tim.starks@cyberscoop.com
+.
+In This Story
+Federal Bureau of Investigation (FBI)
+maritime cybersecurity
+Maritime
+Biden administration
+energy
+gas
+oil
+U.S. Coast Guard
+Iran
+Share
+Facebook
+LinkedIn
+Twitter
+Copy Link
+Add to Preferred Sources
+Advertisement
+Advertisement
+More Like This
+Authorities seize KillSec extortion group infrastructure, arrest 3 alleged members
+By
+Matt Kapko
+AI policy circles targeted in China-linked phishing operation
+By
+Greg Otto
+WaterISAC reckons with range of threats after summer of cyberattacks
+By
+Tim Starks
+Advertisement
+Top Stories
+National cyber director: Government-industry collaboration vital to managing AI risks, competition with nations
+By
+Tim Starks
+Advertisement
+More Scoops
+A boat at the Port of Wilmington in Wilmington, N.C. The port is one of three ports in the state dealing with the aftermath of a cyberattack. (Getty Images)
+Coast Guard says it is monitoring cyberattack that disrupted North Carolina’s ports
+The cyberattack hit gate systems at all three North Carolina ports, as officials continue investigating the breach and its effects on operations.
+By
+Greg Otto
+U.S. President Donald Trump, joined by Republican lawmakers, signs the One, Big Beautiful Bill Act into law during an Independence Day military family picnic on the South Lawn of the White House on July 4, 2025. (Photo by Samuel Corum/Getty Images)
+GOP domestic policy bill includes money for military cyber
+By
+Tim Starks
+Freight shipping containers are stacked and ready for transport and export at the Port of Long Beach on Oct. 7, 1997. (Photo by Bob Riha, Jr./Getty Images)
+Biden signs executive order to give Coast Guard added authority over maritime cyber threats
+By
+Christian Vasquez
+GAO: Federal agencies lack insight on ransomware protections for critical infrastructure
+By
+Matt Bracken
+A rising tide lifts all boats in maritime cybersecurity
+By
+Sen. Angus King
+Rep. Michael Gallagher
+US Army combines fake hacks, natural disaster simulation to test municipal responses
+By
+Shannon Vavra
+Coast Guard says Ryuk ransomware hit systems that monitor cargo transfers at maritime facility
+By
+Jeff Stone
+Latest Podcasts
+What the Section 702 lapse means for cybersecurity
+What AI alignment means for cybersecurity
+Jailbreaks, sandboxes, and the limits of AI safeguards
+ClickFix and the social engineering of routine
+Government
+US is looking to weave AI into critical infrastructure for cybersecurity, national cyber director says
+As AI world debates security, NVIDIA releases open source tools for agents
+ShinyHunters trades financial extortion for a reckless war of ego with the FBI
+Supreme Court permits states to use SAVE database for citizenship checks
+Technology
+New bill would create federal investigative body for AI-driven hacks
+CISA outlines improvement plan for CVE program
+OpenAI, Ukraine partner on ‘Daybreak’ program to protect power grids and water systems
+Citing China, President Trump doubles down on hands-off approach to AI regulation
+Threats
+Attackers exploited Citrix NetScaler zero-day for at least three weeks undetected
+Russian hackers Star Blizzard expand targeting, change up tactics to reach Ukraine and beyond
+Alleged ShinyHunters leader arrested in the Netherlands
+Kiteworks lifts shutdown advisory after 'credible threat intelligence' from federal authorities
+Policy
+House and Senate members propose legislation for CISA to step up cyber defenses for biotech
+Bipartisan Senate leaders introduce bill to bolster telecom cybersecurity in response to Salt Typhoon hacks
+Watchdog finds most agencies failed to meet CISA cloud security orders, heightening risk of attack
+The president has called for AI leadership. Here’s the mission.
+Advertisement
+About Us
+FedScoop
+DefenseScoop
+StateScoop
+EdScoop
+CyberScoop
+AIScoop
+Newsletters
+Advertise with us
+Ad specs
+(202) 887-8001
+hello@cyberscoop.com
+FB
+TW
+LinkedIn
+IG
+YT
+Close Ad
+Continue to CyberScoop

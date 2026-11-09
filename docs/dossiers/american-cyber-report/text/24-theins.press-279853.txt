@@ -1,0 +1,22 @@
+URL:         https://theins.press/en/news/279853
+Кінцевий:    https://theins.press/en/news/279853
+Заголовок:   Germany confiscates Russian “shadow fleet” tanker Eventin — along with $40 million worth of crude oil cargo
+Дата публ.:  2025-03-21
+Завантажено: 2026-10-02 08:06 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 112272
+Оригінал:    raw/24-theins.press-279853.html
+sha256:      1f9e47fbafc4114d42c186bd73e45b6b85158df2d984a98981b8635ff1d7dc2b
+Витяг:       trafilatura
+
+==============================================================================
+Germany has officially confiscated the Russian “shadow fleet” tanker *Eventin*, which sails under the Panamanian flag, according to a [report](https://www.spiegel.de/wirtschaft/russland-sanktionen-bundesregierung-beschlagnahmt-oeltanker-eventin-a-fe654068-6b6c-4f1a-b740-51e896a8005b) by *Der Spiegel*. The vessel lost the ability to maneuver and had been anchored off the coast of the island of Rügen in the Baltic Sea since mid-January. Following a decision by Germany’s Main Customs Office, both the outdated tanker and the roughly 100,000 tons of crude oil it carries — valued at over €40 million ($43.3 million) — are now the property of the German state.
+
+According to *Der Spiegel*, *Eventin* will be re-registered under a different flag.
+
+The tanker was traveling from the Russian port of Ust-Luga through the Baltic Sea, bound for Egypt, when it [lost control](https://theins.press/en/news/277792) and began drifting north of Rügen earlier this year. Due to the imminent risk of an oil spill, the tanker was towed to the waters near the town of Sassnitz, where it has been under round-the-clock surveillance by the coast guard and federal police.
+
+Since late February, the vessel has been officially listed by the European Union as part of Russia’s so-called “shadow fleet” — a collection of aging, poorly insured and poorly maintained tankers that Moscow uses to bypass the $60-per-barrel price cap imposed in December 2022 by the G7, EU, and Australia.
+
+German authorities are currently developing a plan for the safe removal of the oil from *Eventin* and are considering the next steps for dealing with the ship itself. Officials in the federal state of Mecklenburg–Vorpommern are eager to dispose of the tanker as soon as possible, citing concerns over potential environmental damage and risks to local tourism.
+
+Germany’s Ministry of Finance, which is responsible for the country’s customs service, declined to comment on the matter, referring to “ongoing customs measures and the current security situation.”

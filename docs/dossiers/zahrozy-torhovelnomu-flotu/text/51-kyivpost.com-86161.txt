@@ -1,0 +1,71 @@
+URL:         https://www.kyivpost.com/post/86161
+Кінцевий:    https://www.kyivpost.com/post/86161
+Заголовок:   Suspected Drone Strike Sinks Turkey-Owned Grain Ship From Ukraine Near Romania, Killing 2
+Дата публ.:  2026-10-05
+Завантажено: 2026-10-07 09:20 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 115136
+Оригінал:    raw/51-kyivpost.com-86161.html
+sha256:      9119e7a50f00dc1feee2762c0adc27af1d91c89dbe3dd2d4fc0e08a6a116df71
+Витяг:       trafilatura
+
+==============================================================================
+Two crew members were killed and 11 rescued after a Turkey-owned grain ship reportedly came under a drone attack and sank in the Black Sea near Romania on Monday, Oct. 5.
+
+The Royad Mammadov had departed the Ukrainian Danube port of Izmail carrying grain and was sailing toward Ravenna, Italy, according to Romanian broadcaster[ Digi24](https://www.digi24.ro/stiri/actualitate/o-nava-ar-fi-fost-lovita-de-o-drona-in-apropierea-neptun-deep-vasul-ar-fi-plecat-din-portul-ismail-3978043).
+
+### JOIN US ON TELEGRAM
+
+Follow our coverage of the war on the [@Kyivpost_official](https://t.me/Kyivpost_official).
+
+Romanian media reported that one or more drones struck the ship near the Pescăruș offshore oil and gas platform operated by OMV Petrom. However, Romanian authorities have so far officially confirmed only a fire aboard the vessel and have not determined its cause or identified who may have been responsible.
+
+The Romanian Interior Ministry said the burning ship sank while rescuers were searching for its crew.
+
+“Eleven crew members were rescued. Two deceased persons were also identified,” the ministry said.
+
+Three injured sailors were lifted from the area by helicopter for emergency medical treatment, while eight other crew members were taken aboard rescue vessels, Digi24 reported.
+
+## Ship sank outside Romanian territorial waters
+
+The incident occurred in Romania’s exclusive economic zone but outside its territorial waters, according to the Romanian Naval Authority.
+
+Romanian officials placed the ship approximately 30 nautical miles south of the coastal settlement of Sfântu Gheorghe. Media reports said it was about nine nautical miles southeast of the Pescăruș platform and roughly 20 nautical miles from Romania’s coast.
+
+
+### 
+                                [India Moves to Broker Black Sea Deal Between Russia and Ukraine](https://www.kyivpost.com/post/86144)
+                            
+
+Romania’s Maritime Rescue Coordination Center received the emergency call at approximately 10:37 a.m. and dispatched the rescue vessels SAR Apollo, SAR Artemis, and SAR Ares. A Romanian Coast Guard vessel and an Interior Ministry helicopter also joined the operation.
+
+The 140-meter (460-foot) Royad Mammadov sailed under the flag of Saint Kitts and Nevis, rather than Turkey. Shipping records identify Turkey-based MG Shipping 5 Co Ltd as its registered owner and list Turkish companies as its commercial and safety managers.
+
+VesselFinder data showed that the general cargo ship had last called at Izmail and was scheduled to arrive in Ravenna on Oct. 12.
+
+## Drone strike not yet officially confirmed
+
+Digi24 and other Romanian outlets described the incident as a drone attack, while witnesses reportedly said that two or three drones may have struck the vessel.
+
+The Romanian Naval Authority, Interior Ministry, and Coast Guard have not publicly confirmed that a drone caused the explosion and fire. They have also not attributed the incident to Russia, and no publicly released evidence has yet established the drone’s origin.
+
+Several hours before the maritime incident, Romania’s defense ministry[ said](https://www.mapn.ro/cpresa/19429_Informatie-de-presa) its radar systems detected an airborne target east of Vylkove, Ukraine, close to the Romanian border.
+
+Two Spanish F-18 fighter jets deployed in Romania for NATO air-policing duties were scrambled, and residents of northern Tulcea County received an emergency alert. The ministry said the target did not enter Romanian airspace.
+
+Authorities have not established any connection between that overnight incident and the fire aboard the Royad Mammadov.
+
+## Growing danger to Black Sea shipping
+
+Commercial vessels serving Ukrainian ports have repeatedly been damaged during Russia’s attacks on Ukraine’s Black Sea and Danube infrastructure.
+
+In April, a[ Russian drone struck a Liberia-flagged merchant ship](https://www.kyivpost.com/post/73985) traveling toward an Odesa region port to load corn. Its crew extinguished the fire and no casualties were reported.
+
+The Ukrainian Ports Association has said that[ more than 300 commercial vessels](https://www.kyivpost.com/post/84658) have been damaged or destroyed since the beginning of Russia’s full-scale invasion, with attacks increasingly targeting ships traveling to and from Ukrainian ports.
+
+The escalating danger has severely disrupted agricultural exports. Russia and Ukraine ordinarily account for more than a quarter of global wheat trade, while interruptions to Black Sea routes have pushed wheat prices to three-year highs and raised concerns about a[ new global food-security shock](https://www.kyivpost.com/post/85105).
+
+Romania has also experienced repeated incursions by Russian drones and the discovery of drifting naval mines since 2022. At the same time, Romanian authorities have investigated incidents involving Ukrainian naval drones, including one that[ exploded near Constanța](https://www.kyivpost.com/post/77587) in June after Kyiv said Russian electronic warfare had caused it to lose control.
+
+You can also highlight the text and press
+
+__Ctrl + Enter__

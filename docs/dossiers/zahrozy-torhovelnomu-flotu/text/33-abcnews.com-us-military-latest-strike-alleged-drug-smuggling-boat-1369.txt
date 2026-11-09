@@ -1,0 +1,24 @@
+URL:         https://abcnews.com/US/wireStory/us-military-latest-strike-alleged-drug-smuggling-boat-136994059
+Кінцевий:    https://abcnews.com/US/wireStory/us-military-latest-strike-alleged-drug-smuggling-boat-136994059
+Заголовок:   US military says latest strike on alleged drug-smuggling boat in Caribbean kills 4
+Дата публ.:  2026-10-05
+Завантажено: 2026-10-07 08:12 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 169962
+Оригінал:    raw/33-abcnews.com-us-military-latest-strike-alleged-drug-smuggling-boat-1369.html
+sha256:      31e57769c2be277645393dde5a0801e8a398f3bdb1df51e9000bc6ce7114b257
+Витяг:       trafilatura
+
+==============================================================================
+# US military says latest strike on alleged drug-smuggling boat in Caribbean kills 4
+
+The U.S. military says it has attacked a boat suspected of being used to smuggle drugs in the Caribbean Sea, killing four people
+
+WASHINGTON -- The U.S. military said it attacked a boat suspected of being used to smuggle drugs in the Caribbean Sea on Sunday, killing four people, as the Trump administration continues its [yearlong campaign](https://apnews.com/article/trump-maduro-venezuela-drug-cartels-military-timeline-91e242e5c56eec39b6b7d72bf55dbd2d) against alleged traffickers in Latin America.
+
+The latest attack brings the number of people who have been killed in boat strikes by the U.S. military to at least 235 in 70 strikes since President Donald Trump's administration began targeting those it calls “narcoterrorists” in September 2025. As with most of the military’s statements on strikes in the eastern Pacific Ocean and Caribbean Sea, U.S. Southern Command said it targeted the alleged drug traffickers along known smuggling routes.
+
+The military did not provide evidence that the vessel was ferrying drugs. A video posted on X showed what appeared to be an explosion destroying a moving boat, which the military said was a go-fast vessel.
+
+The Trump administration is pursuing deals with allied nations to extend its offensive to land across multiple Latin American countries. Defense Secretary Pete Hegseth said during a visit to Panama in August that Colombia, Guatemala and Honduras had [agreed to allow the U.S.](https://apnews.com/article/pete-hegseth-colombia-panama-cartels-b77cf42c8b2126283939611f5ec13af4) to carry out joint military operations against criminal groups on their soil. Guatemala denied reaching such a deal. Ecuador launched similar missions with the U.S. in March. 
+
+Trump, a Republican, has said the U.S. is in “armed conflict” with cartels in Latin America and has [justified the attacks](https://apnews.com/article/trump-maduro-drugs-venezuela-911-hegseth-3db3aafed492556bb9ca7de855c4849e) as a necessary escalation to stem the flow of drugs into the United States and fatal overdoses claiming American lives. But his administration has offered little evidence to support its claims of killing smugglers.

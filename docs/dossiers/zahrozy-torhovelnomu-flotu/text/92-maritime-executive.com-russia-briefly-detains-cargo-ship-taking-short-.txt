@@ -1,0 +1,40 @@
+URL:         https://maritime-executive.com/article/russia-briefly-detains-cargo-ship-taking-short-cut-to-estonia
+Кінцевий:    https://maritime-executive.com/article/russia-briefly-detains-cargo-ship-taking-short-cut-to-estonia
+Заголовок:   Russia Briefly Detains Cargo Ship Bound for Estonia
+Дата публ.:  2026-10-01
+Завантажено: 2026-10-07 09:36 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 142741
+Оригінал:    raw/92-maritime-executive.com-russia-briefly-detains-cargo-ship-taking-short-.html
+sha256:      c5817906c0258f5e08a28959384fd581a948708ecdfc137ca8b76eb8cc79dd65
+Витяг:       trafilatura
+
+==============================================================================
+# Russia Briefly Detains Cargo Ship Bound for Estonia
+
+A small cargo ship sailing from Sweden to Estonia was briefly detained by the Russian authorities for an inspection late on Wednesday, September 30, into Thursday, October 1. The Estonian Broadcasting Corporation (ERR) reported the situation and received confirmation from the Estonian Police and Border Guard Board.
+
+The *Västerbotten *(6,800 dwt) has been owned and operated by a German company since 2013, and according to its AIS track, it was sailing from Monsteras, Sweden, bound for Sillamäe, Estonia, when it was intercepted and stopped for an inspection. The tracking shows the ship making sharp turns and changing course. The ship, which was built in 2008, is registered in Cyprus.
+
+The Estonian Transport Administration told ERR that it had not received an explanation from the Russian authorities. It can only speculate as to why the vessel was detained and inspected.
+
+
+Route of the past 24 hours showing turns as the vessel was stopped for an inspection by Russian authorities ([Vessel Finder](https://www.vesselfinder.com/vessels/details/9436226))
+
+
+The ship’s route is along an internationally recognized corridor and one that Russia, Estonia, and Finland agreed to. It is used by ships to avoid some of the dangers of the coastal waters in Estonia, but in places it skirts and enters the Russian zone. Sillamäe, the authorities noted, is a rarely used port, and it is located close to Russia.
+
+The interception appears to have happened as the vessel approached or entered Russian waters. The news outlet EA Daily speculates the ship was taking the shortest available route. It would have saved about 4.5 miles and 40 minutes of sailing time, they write. Instead, it reports the ship was detained about six miles from the Estonian border.
+
+ERR quotes the head of the Transport Administration as saying that while the situation was “unpleasant,” it was not unusual, as countries have the right to inspect ships entering their territorial waters. The Estonian authorities have recommended since 2022, and since the start of the war in Ukraine, that vessels should avoid the route that takes them into Russian waters.
+
+It was the first known instance since 2025 where Russian authorities stopped a vessel in the area. A Liberian-flagged, Greek-owned tanker, *Green Admire*, was stopped by the Russians in May 2025, shortly after departing the Port of Sillamäe. The vessel was briefly detained and released.
+
+The border has been a scene of confrontations on both sides. In April 2025, Estonia detained a stateless tanker, *Kiwala *(115,577 dwt), in the same general area. It was held for two weeks to clear up safety violations and resolve its registration. 
+
+that matters most
+
+Get the latest maritime news delivered to your inbox daily.
+
+In May 2025, Estonian authorities also attempted to board a crude oil tanker identifying as *Jaguar *(105,000 dwt) that was inbound for Primorsk, Russia, and reporting registry in Gabon. It led to an international incident as Estonia accused a Russian fighter jet of briefly violating Estonian airspace in an apparent attempt to stop the interception of the tanker. NATO, which provides air support for Estonia, also had jets monitoring the situation. Estonian authorities withdrew and let the vessel continue its voyage, although they filed a complaint with the Russians over the incident.
+
+*Västerbotten *was back underway on Thursday. As of the evening, it was approaching the Port of Sillamäe.

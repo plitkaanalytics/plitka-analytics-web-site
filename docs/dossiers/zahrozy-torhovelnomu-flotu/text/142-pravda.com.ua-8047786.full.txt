@@ -1,0 +1,158 @@
+URL:         https://www.pravda.com.ua/eng/news/2026/08/07/8047786/
+Кінцевий:    https://www.pravda.com.ua/eng/news/2026/08/07/8047786/
+Заголовок:   National Bank of Ukraine estimates losses from halt in maritime exports at billions of dollars
+Дата публ.:  2026-08-07
+Завантажено: 2026-10-07 10:09 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 158771
+Оригінал:    raw/142-pravda.com.ua-8047786.html
+sha256:      2cf919f1cdad5623a03501be63619d585064a71ee42d88d8884490d678b02fd8
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 20
+==============================================================================
+How much Ukraine will lose from halt in maritime exports | Ukrainska Pravda
+Projects of "Ukrainian Pravda"
+Ukrainian military should not have to ask for help: the story of the Liberty Ukraine charity
+Life under constant stress: rebuilding a sense of safety for little Ukrainians
+Швидкий вхід, якщо ви вже авторизовані на УП/ЕП
+Grain. Stock photo: Getty Images
+Add UP as preferred source in Google
+Estonia bans transit of Russian and Belarusian grain in response to blockade of Ukrainian ports
+Zelenskyy discusses Black Sea security with Erdoğan
+"Grain from Ukraine feeds people all over the world": EU urges Russia to stop attacks on Ukrainian food exports
+© 2000-2026, Ukrainska Pravda,
+Principles and Rules of UP Work
+The use of site materials is allowed only with a reference (for online publications — a hyperlink) to "Ukrainska Pravda" no lower than the third paragraph.
+Any copying, publication, reprinting, or further distribution of information containing a reference to "
+Any copying, reprinting, or reproduction of photographic works and/or audiovisual works owned by Getty Images is strictly prohibited.
+Materials marked as PROMOTED are advertisements and are published as advertising. The editorial board may not share the views promoted in them. Materials marked as SPECIAL PROJECT and WITH SUPPORT are also advertisements, but the editorial team participates in preparing this content and shares the views expressed in these materials.
+The editorial board is not responsible for the facts and value judgments published in advertising materials. According to Ukrainian law, the advertiser is responsible for the content of the advertisements.
+Project founder: Georgiy Gongadze,
+Registered online media entity; media identifier — R40-02280.
+Address: 01032, Kyiv, Zhylianska St., 48, 50A.
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+How much Ukraine will lose from halt in maritime exports | Ukrainska Pravda
+Ukrainska Pravda
+Eng
+Support Us
+Eng
+Sections
+News
+Stories
+Opinions
+Interview
+Podcasts
+Special Projects
+Archive
+Projects of "Ukrainian Pravda"
+Ukrainska Pravda (UKR)
+Ekonomichna Pravda (UKR)
+Life (UKR)
+Sport (UKR)
+European Pravda (ENG)
+Blogs
+Istorychna Pravda (ENG)
+Tabloid
+Mezha (ENG)
+Defence (ENG)
+Topics
+ATACMS
+Russia-Ukraine war
+Special projects
+Ukrainian military should not have to ask for help: the story of the Liberty Ukraine charity
+Life under constant stress: rebuilding a sense of safety for little Ukrainians
+Увійти або зареєструватися
+Увійти з Google
+або
+Email
+Пароль
+Забули пароль?
+Увійти
+Швидкий вхід, якщо ви вже авторизовані на УП/ЕП
+Ще не маєте підписки?
+Долучайтеся до клубу УП!
+News
+Stories
+Opinions
+Interview
+Podcasts
+Special Projects
+Archive
+National Bank of Ukraine estimates losses from halt in maritime exports at billions of dollars
+Semen Ruban
+—
+                7 August, 17:06
+Grain. Stock photo: Getty Images
+Посилання скопійовано
+Add UP as preferred source in Google
+Direct losses from lost export revenue in the second half of 2026, resulting from the suspension of maritime exports from Ukraine, will exceed US$2 billion.
+Source:
+National Bank of Ukraine (NBU)
+inflation report
+Quote:
+"As in previous phases of the blockade, Ukraine is redirecting cargo flows to alternative routes: rail, road transport and Danube ports."
+Advertisement:
+Details:
+Meanwhile, the capacity of these routes is insufficient: while Ukraine typically exported 4-4.5 million tonnes of agricultural produce per month, alternative routes can only handle 2.5 million tonnes per month.
+This applies to the August-October period, as water levels on the Danube have fallen due to drought, limiting its capacity. Export volumes will increase from November, the NBU says.
+Redirecting logistics will increase storage and transport costs for the agricultural sector; direct revenue losses are expected to reach US$2 billion.
+Meanwhile, the NBU expects these volumes to be exported during the first half of 2027, offsetting the negative effect.
+"Thanks to well-developed alternative routes and farmers' experience, the situation remains more manageable than during the blockade of 2022," the NBU concludes.
+Background:
+The movement of vessels into Ukraine's Black Sea ports was suspended on 23 July due to the threat of Russian attacks. This followed weeks of aerial attacks on Ukraine's Black Sea ports.
+Due to Russian pressure on Ukraine's maritime corridor, Ukrainian traders have begun
+redirecting some of their wheat and other cargo towards the Danube
+, although most exporters are not prepared to compensate for the loss of the sea route at any cost and are taking a wait-and-see approach
+Subscribe on
+Patreon
+to back our journalism long-term.
+grain
+Russia-Ukraine war
+National Bank of Ukraine
+Advertisement:
+Top news of today
+All news
+grain
+Estonia bans transit of Russian and Belarusian grain in response to blockade of Ukrainian ports
+Zelenskyy discusses Black Sea security with Erdoğan
+"Grain from Ukraine feeds people all over the world": EU urges Russia to stop attacks on Ukrainian food exports
+Latest news
+Advertisement:
+Advertisement:
+Ukrainska Pravda
+© 2000-2026, Ukrainska Pravda,
+LLC "UP Media Plus"
+. All rights reserved.
+Advertising on the site
+Events
+Rules for using UP materials
+AI policy
+Gender policy
+Principles and Rules of UP Work
+How to Write for UP
+Internship
+Promocodes
+The use of site materials is allowed only with a reference (for online publications — a hyperlink) to "Ukrainska Pravda" no lower than the third paragraph.
+Any copying, publication, reprinting, or further distribution of information containing a reference to "
+Interfax-Ukraine
+" is strictly prohibited.
+Any copying, reprinting, or reproduction of photographic works and/or audiovisual works owned by Getty Images is strictly prohibited.
+Materials marked as PROMOTED are advertisements and are published as advertising. The editorial board may not share the views promoted in them. Materials marked as SPECIAL PROJECT and WITH SUPPORT are also advertisements, but the editorial team participates in preparing this content and shares the views expressed in these materials.
+The editorial board is not responsible for the facts and value judgments published in advertising materials. According to Ukrainian law, the advertiser is responsible for the content of the advertisements.
+Project founder: Georgiy Gongadze,
+Editor-in-chief:
+Sevgil Musaeva
+,
+Founding editor:
+Olena Prytula
+,
+Editorial e-mail:
+[email protected]
+Registered online media entity; media identifier — R40-02280.
+Address: 01032, Kyiv, Zhylianska St., 48, 50A.
+Phone: +380 95 641 22 07

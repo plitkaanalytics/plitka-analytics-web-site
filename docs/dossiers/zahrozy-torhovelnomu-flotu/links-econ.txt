@@ -1,0 +1,50 @@
+# Відкриті питання
+https://magicport.ai/vessels/general-cargo/royad-mammadov-mmsi-636020314
+https://magicport.ai/vessels/general-cargo/alfa-watan-mmsi-671480000
+https://magicport.ai/vessels/tanker/aframax-rio-mmsi-373641000
+https://www.ukrinform.net/rubric-ato/4171722-russian-shadow-fleet-tanker-under-ukrainian-sanctions-catches-fire-near-sochi.html
+https://www.interfax.ru/russia/1120254
+https://lenta.ru/news/2026/10/04/vs-rossii-porazili-dva-suhogruza-v-chernom-more/
+https://ambrey.com/operations/event/jwla-035-why-the-whole-black-sea-is-now-a-listed-area/
+https://regulasshipping.com/blog/joint-war-committee-lists-almost-the-entire-black-sea-as-war-risk-area/
+https://beinsure.com/news/black-sea-drone-attacks-on-ships-raise-marine-insurance-risks/
+https://splash247.com/aframax-rio-blaze-underscores-widening-black-sea-threat/
+https://www.imo.org/en/mediacentre/hottopics/pages/middle-east-strait-of-hormuz.aspx
+https://www.sharesansar.com/newsdetail/six-months-of-war-20-dead-in-68-incidents-near-hormuz-imo-says-2026-08-25
+https://english.alarabiya.net/amp/News/middle-east/2026/06/11/all-three-missing-indian-seafarers-dead-after-us-strike-on-tanker-off-oman-coast
+https://www.bairdmaritime.com/security/incidents/india-confirms-three-of-its-sailors-died-in-us-tanker-strike-another-incident-reported
+https://maritime-executive.com/article/russia-briefly-detains-cargo-ship-taking-short-cut-to-estonia
+https://ru.themoscowtimes.com/2026/10/01/rossiya-zaderzhala-zapadnoe-sudno-vbaltiiskom-more-votvet-nazahvati-tankerov-a207558
+https://balgarianovinite.com/en/russian-attack-ship-flying-marshall-islands-fl/
+https://github.com/iMariner/maritime-security-tracker/issues/63
+# Економіка: Україна
+https://www.dcmaritimo.es/en/analytics/ukraine-ports-h1-2026
+https://unn.ua/en/news/ukraines-grain-exports-have-collapsed-due-to-the-situation-in-the-black-sea-what-happened-to-the-maritime-corridor
+https://www.kyivpost.com/post/82580
+https://www.agbull.com/ukraine-grain-trade-told-to-plan-for-odesa-ports-to-stay-shut-into-winter/
+http://www.maritimeprofessional.com/news/ukrainian-food-shipments-through-danube-423419
+https://ukragroconsult.com/en/news/ukraines-grain-exports-shift-to-the-danube-and-western-border-routes/
+https://finance.yahoo.com/economy/articles/national-bank-ukraine-estimates-losses-140600301.html
+https://ua.news/en/ukraine/nbu-prognozuie-ponad-2-mlrd-vtrat-cherez-zupinku-morskogo-eksportu
+https://gmk.center/en/posts/the-economy-under-pressure-why-analysts-are-revising-their-gdp-forecasts-for-2026/
+# Економіка: Росія
+https://www.themoscowtimes.com/2026/07/25/major-russian-black-sea-oil-terminal-halts-operations-amid-ukrainian-drone-threat-a93337
+https://timesca.com/attacks-on-cpc-and-kazakhstan-oil-exports/
+https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/port-shutdowns-push-russia-into-deeper-grain-export-slowdown
+https://en.portnews.ru/news/390230/
+https://seanews.ru/en/2026/08/05/en-russian-ports-throughput-in-june-2026-up-16-4
+https://szru.gov.ua/news-media/news/kreml-ne-v-zmozi-zaminyty-chornomorskyi-eksport-zerna
+# Світ: продовольство й енергетика
+https://www.intellinews.com/fao-food-price-index-rises-as-weather-and-transport-disruptions-tighten-supplies-473604/
+https://ukragroconsult.com/en/news/global-food-prices-rise-in-september-on-grains-vegetable-oils-and-sugar-fao/
+https://www.fao.org/worldfoodsituation/foodpricesindex/en/
+https://openknowledge.fao.org/server/api/core/bitstreams/1aafb5d8-39d1-481a-b1f8-25facaec3051/content
+https://thedocs.worldbank.org/en/doc/40ebbf38f5a6b68bfc11e5273e1405d4-0090012022/related/Food-and-Nutrition-Security-Update-122-May-29-2026.pdf
+https://www.iea.org/reports/oil-market-report-september-2026
+https://www.cnbc.com/2026/09/11/iran-war-oil-diesel-iea-hormuz.html
+https://www.iea.org/commentaries/oil-markets-strain-to-plug-the-gap-left-by-middle-east-supply-shortfall
+https://en.wikipedia.org/wiki/2026_Iran_war_fuel_crisis
+https://mei.edu/publication/from-hormuz-to-the-sahel-a-fertilizer-shock-and-a-maghreb-solution/
+https://www.downtoearth.org.in/energy/disruptions-across-strait-of-hormuz-black-sea-and-alternative-routes-raise-global-food-and-fuel-security-risks
+https://eurasia.ro/2026/10/01/hunger-on-the-horizon-the-new-black-sea-grain-crisis/
+https://www.foreignpolicyjournal.com/2026/07/25/hormuz-closure-and-black-sea-attacks-drive-crop-prices-to-three-year-high-threatening-global-food-security/

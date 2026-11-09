@@ -1,0 +1,143 @@
+URL:         https://www.cnn.com/2026/01/10/politics/a-painted-flag-a-russian-bluff-and-an-18-day-chase-across-the-atlantic
+Кінцевий:    https://edition.cnn.com/2026/01/10/politics/a-painted-flag-a-russian-bluff-and-an-18-day-chase-across-the-atlantic
+Заголовок:   A painted flag, a Russian bluff and an 18-day chase across the Atlantic | CNN Politics
+Дата публ.:  2026-01-10
+Завантажено: 2026-10-02 09:42 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 4843550
+Оригінал:    raw/37-cnn.com-a-painted-flag-a-russian-bluff-and-an-18-day-chase-across-the-.html
+sha256:      80e2000c374e35a9da3c3cbbb0f96291d1157403b6468facb3f20aca71d1f96c
+Витяг:       trafilatura
+
+==============================================================================
+The Bella 1 had been tailed by a US Coast Guard cutter across the Atlantic Ocean for almost two weeks when the ship’s crew employed a novel tactic to evade the US military: painting a Russian flag on its hull.
+
+The aging, rusted crude oil tanker got a new name too — The Marinera. Moscow soon sent a diplomatic request to Washington to stop pursuit of the vessel.
+
+It was New Year’s Eve, and the tanker, sanctioned for being part of a shadow fleet used to move illicit oil around the world, was steaming north, potentially headed for Russian waters just east of Finland.
+
+Trump officials balked at the diplomatic warning, saying the newly painted flag was illegitimate and the vessel was “stateless,” effectively calling Russia’s bluff. A Coast Guard cutter, named the Munro, remained in pursuit.
+
+As the tanker approached the North Atlantic between the United Kingdom and Iceland, US military aircraft began prepositioning at airbases in the UK. Special operations forces, including Navy SEALs and an Army helicopter unit known as the “night stalkers,” were readied for a potential mission.
+
+            Finally on Wednesday, roughly 190 miles south of Iceland, US personnel rappelled down from helicopters and boarded the tanker, [taking control of it.](https://www.cnn.com/world/live-news/trump-venezuela-oil-greenland-07-01-26)
+    
+
+            A Russian submarine and a destroyer were in the area but that “they both left very quickly when we arrived,” President Donald Trump [said in a Fox News](https://www.cnn.com/world/live-news/venezuela-oil-trump-01-08-26#cmk69flbx000c3b6p2tgb34jt) interview Thursday.
+    
+
+The action ended an 18 day, roughly 4,000-mile chase that began when the tanker first took evasive measures to avoid the US Coast Guard as it approached Venezuela the week before Christmas.
+
+            The pursuit underscores the extent to which the US is determined to enforce Trump’s [“total and complete blockade”](https://www.cnn.com/2025/12/16/politics/blockade-venezuela-sanctioned-oil-tankers) of oil tankers entering and leaving Venezuela. But it also raises interesting questions about tactics and strategy, including why the administration waited so long to seize a tanker that, by all accounts was empty.
+    
+
+“The US Coast Guard has global reach for intelligence and tracking by partnering with not only the US Navy, but the wider intelligence community. What is unusual is to spend such a long time tracking before striking to take it down,” said retired Navy Adm. James Stavridis, a former NATO supreme allied commander and CNN senior military analyst.
+
+Former US military officials and analysts said, in interviews with CNN, that the seizure appeared intended to send a message to other sanctioned tankers now fleeing Venezuela that might try to embrace a Russian flag to avoid capture.
+
+Officials with knowledge of the matter said the Trump administration was unimpressed by the ship’s sudden change of flag and there was a desire to send a wider message that such a ploy would have no practical effect.
+
+“It would have set a bad precedent in a lot of ways if this ship would have been allowed to essentially re-flag mid journey and ‘become a Russian vessel,’” said Joseph Webster, a senior fellow at the Atlantic Council. “They wanted to prevent this tactic from being repeated in the future.”
+
+Webster said there were also larger considerations at play for the Russians. “They don’t want to upset the apple cart and compromise their position in a vastly more important negotiation with DC on Ukraine,” he said.
+
+            The US has now seized five tankers in the past month — including two in the Caribbean Sea on Wednesday and Friday, the Sophia and the Olina, after they had left the Venezuelan coast. The New York Times [reported](https://www.nytimes.com/2026/01/08/world/americas/navy-chasing-tankers-venezuela.html) that the US military is pursuing as many as 16 sanctioned tankers that left Venezuela in an attempt to evade the US blockade.
+    
+
+The moves signal how far the Trump administration now intends to go to enforce sanctions that have long been on the books against countries such as Russia, Iran and Venezuela, all of which have managed to sell illicit oil thanks to shadow fleets operating around the world.
+
+            The crackdown is a key part of the Trump administration’s pressure campaign on the Venezuelan government to cooperate on oil production — after [the US captured](https://www.cnn.com/2026/01/03/politics/nicolas-maduro-capture-venezuela) and brought the country’s leader, Nicolás Maduro, to the US to face charges — and to ensure that Venezuela’s oil reserves don’t leak out to other counties.
+    
+
+But unlike the other four tankers seized after departing Venezuela in the nearby Caribbean Sea, the Bella 1 was traveling toward the country and did not appear to have any oil on board.
+
+“It sends a blunt signal to the entire ‘shadow fleet,’ which numbers hundreds of hulls, that they are not safe anywhere in the world or whether they’re loaded with cargo or not,” Stavridis said.
+
+## Cracking down on the shadow fleet
+
+For years, shadow fleets of oil tankers have successfully managed to move millions of barrels of sanctioned crude out of Iran, Russia and Venezuela. Much of it has wound up in China, providing these countries with a vital source of revenue despite what are intended to be crippling economic sanctions.
+
+            The Bella 1 [was sanctioned](https://home.treasury.gov/news/press-releases/jy2399) in 2024 after the US Treasury Department accused the ship of being part of a network of vessels engaged “in the illicit transport of oil and other commodities.” At the time, it was owned by a company based in Panama.
+    
+
+Sanctioned tankers like the Bella 1 often try to obscure their identities by changing the country they fly under. The Bella 1 was flying under a false Guyanese flag when it approached Venezuela, for instance, according to US officials.
+
+The tanker was first observed transporting sanctioned crude oil in 2020, according to data and analytics firm Kpler. The ship had last visited Venezuela in May 2023, where it loaded approximately two million barrels of crude oil bound for Malaysia under an alias.
+
+In early September, the tanker loaded crude oil at Iran’s Kharg Island. The ship switched off its location tracking system in the Strait of Hormuz, a common tactic for vessels with sanctioned Iranian crude, according to Kpler. The Bella 1 remained dark for about two months and began transmitting location data again in late October in a “ballast” status, meaning it no longer had oil on board. Photos of the tanker show it was sitting high in the water, another indicator it was not transporting crude.
+
+The ship traveled through the Red Sea and Suez Canal and then through the Strait of Gibraltar, heading toward the Caribbean and Venezuela while trying to conceal its location, according to Kpler.
+
+## Tanker seizures began last month
+
+On December 10, the Bella 1 was in the midst of its voyage toward the Caribbean when the US first seized an oil tanker off the coast of Venezuela, the Skipper.
+
+            The FBI, Department of Homeland Security and Coast Guard all took part in the operation [to take control of the Skipper](https://www.cnn.com/2025/12/10/politics/oil-tanker-seized-venezuela), a crude oil tanker that had been previously sanctioned by the US in 2022.
+    
+
+The Skipper, which was carrying Venezuelan crude oil, had left a Venezuelan oil terminal and was headed to Cuba and then Asia, but it was intercepted by the US in international waters, according to a US official.
+
+“As you probably know we’ve just seized a tanker on the coast of Venezuela,” Trump said on December 10 after the operation. “Large tanker, very large, largest one ever seized, actually.”
+
+Asked what would happen to the oil that the tanker was transporting, Trump said, “We keep it, I guess.”
+
+            The tanker [is now in the Gulf Coast](https://www.marinetraffic.com/en/ais/details/ships/shipid:411444), south of Texas, according to ship-tracking website MarineTraffic.
+    
+
+            Trump ratcheted up the US posture even further the next week, saying in a Truth Social post [he was ordering](https://www.cnn.com/2025/12/16/politics/blockade-venezuela-sanctioned-oil-tankers) a “TOTAL AND COMPLETE BLOCKADE” of sanctioned oil tankers coming to and leaving from Venezuela.
+    
+
+            Four days later, the US [seized a second ship](https://www.cnn.com/2025/12/20/politics/venezuela-vessel-us-seize) off the coast of Venezuela, the Centuries, a Panamanian-flagged tanker that was leaving Venezuela and headed for Asia, according to a US official.
+    
+
+White House spokeswoman Anna Kelly said it was carrying sanctioned Venezuelan oil, though the ship itself did not appear on a list of sanctioned vessels.
+
+## ‘Well beyond US waters’
+
+The next day, the US Coast Guard also sought to seize the Bella 1 in international waters as it headed toward Venezuela in the Caribbean Sea.
+
+A warrant had been issued for the tanker’s seizure. But when the US Coast Guard attempted to board the vessel, the ship’s crew did not comply. Instead, the tanker changed direction and kept sailing north to flee, beginning the Coast Guard’s pursuit.
+
+            “The United States Coast Guard is in active pursuit of a sanctioned dark fleet vessel that is part of Venezuela’s illegal sanctions evasion,” a US official [said last month](https://www.cnn.com/2025/12/21/politics/us-pursuing-tanker-near-venezuela) after the attempted intercept. “It is flying a false flag and under a judicial seizure order.”
+    
+
+It wasn’t entirely clear where the tanker was headed, though Kpler analysts at the time wrote that Russia and the Baltic Sea were both possibilities.
+
+On December 30, a magistrate judge in the US District Court for the District of Columbia approved a seizure warrant for the Bella 1, valid through January 13. The warrant was unsealed on Thursday, though a 28-page affidavit supporting the seizure was completely redacted.
+
+            As the pursuit continued into the North Atlantic, a Russian flag [was spotted](https://www.cnn.com/2025/12/31/politics/oil-tanker-venezuela-russian-flag) on the ship by Coast Guard personnel on December 31, which a US official said had been sloppily painted on its side. That same day, Moscow sent the US a formal diplomatic request to stop its pursuit of the tanker.
+    
+
+The vessel appeared on Russia’s official register of ships under a new name, the Marinera.
+
+Lloyd’s List, a shipping trade publication, reported that 17 shadow fleet tankers had newly claimed a Russian flag last month as the US stepped up its aggression toward Venezuela.
+
+“It’s not completely unusual — you have these tankers that will paint over their names or change them or try to obscure things to make them look as if they’re a different tanker,” said Matt Smith, Kpler’s lead oil analyst for the Americas. “It’s unusual this was seized well beyond US waters. That’s the evolving piece of this.”
+
+US officials previously told CNN that the request created a potential complication if the US captured the ship. But the Trump administration rejected the claim of a Russian flag and considered the vessel to be stateless, according to two sources familiar with the matter, paving the way for the vessel’s capture.
+
+## Navy SEALs and ‘Night stalkers’
+
+Ahead of the US operation to seize the newly christened Marinera, the US military positioned assets in the UK as the tanker traveled in waters between the UK and Iceland, including at least 12 C-17s and two AC-130 gunships.
+
+US P-8 surveillance aircraft flying out of RAF Mildenhall in Suffolk, England, appeared to surveil the tanker ahead of its seizure, according to open-source flight data. At least two V-22 Ospreys were active in the UK, including one conducting fast-rope training, which enables troops to quickly disembark from the aircraft without it landing, according to video posted on social media and verified by CNN.
+
+The tanker was seized in a pre-dawn operation, according to Homeland Security Secretary Kristi Noem.
+
+US Navy SEALs were among the US forces that boarded and the tanker, transported by the US Army’s 160th Special Operations Aviation Regiment, a helicopter unit also known as the “night stalkers,” according to two people briefed on the operation.
+
+The UK provided support to the US operation, according to the British defense ministry.
+
+            Two Russian military aircraft flew over the US Coast Guard cutter a couple of days earlier Coast Guard Commandant Adm. Kevin Lunday told ABC News [in an interview](https://abcnews.go.com/Politics/video/inside-us-coast-guard-seizure-venezuela-linked-oil-129029010) Thursday. But he said that “at no time was the Coast Guard concerned at all about Russian military presence interfering with our legal authority and our operation that was ongoing.”
+    
+
+            Noem said in [a social media post](https://x.com/sec_noem/status/2002481990755627050?s=46) that the US Coast Guard Cutter Munro followed the tanker “across the high seas and through treacherous storms— keeping diligent watch, and protecting our country with the determination and patriotism that make Americans proud.”
+    
+
+            It’s not clear yet where the Bella 1 is headed. The vessel has moved south into the middle of the Atlantic since it was seized, according to [MarineTraffic](https://www.marinetraffic.com/en/ais/details/ships/shipid:711469). Trump told Fox News on Thursday that the “oil is being unloaded right now” following the ship’s seizure, though the tanker did not appear to have any oil on board.
+    
+
+Oil or not, the US could take the tanker to be processed and sold at auction, said Aaron Roth, a former strategic adviser to the Coast Guard commandant during the Obama and first Trump administrations.
+
+“I would assume based on the vessels and their composition and where they are in terms of safety and overall reliability, there probably would be a market for obtaining those ships,” Roth said. “So there may be a sale process at some point in the future.”
+
+            *CNN’s Sean Lyngaas, Nic Robertson, Kevin Liptak, Avery Schmitz, Gianluca Mezzofiore, Natasha Bertrand and Zachary Cohen contributed to this report.*

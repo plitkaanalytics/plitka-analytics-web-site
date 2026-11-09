@@ -1,0 +1,184 @@
+URL:         https://www.downtoearth.org.in/energy/disruptions-across-strait-of-hormuz-black-sea-and-alternative-routes-raise-global-food-and-fuel-security-risks
+Кінцевий:    https://www.downtoearth.org.in/energy/disruptions-across-strait-of-hormuz-black-sea-and-alternative-routes-raise-global-food-and-fuel-security-risks
+Заголовок:   Disruptions across Strait of Hormuz, Black Sea and alternative routes raise global food and fuel security risks
+Дата публ.:  2026-09-25
+Завантажено: 2026-10-07 09:40 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 889854
+Оригінал:    raw/121-downtoearth.org.in-disruptions-across-strait-of-hormuz-black-sea-and-a.html
+sha256:      182ddb228cec84ff88bcf8fb0faa1d4e13b82b61115e4c6f4ec48e6b608de992
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 11
+==============================================================================
+Triple Maritime Chokepoint: How Hormuz, Black Sea and Red Sea Disruptions Threaten Global Food and Fuel Security
+Disruptions across Strait of Hormuz, Black Sea and alternative routes raise global food and fuel security risks
+Red Sea adds third pressure point
+Black Sea grain flow faces disruption
+Importers turn to Argentina, Australia and Europe
+Food and fuel shocks reinforce each other
+Climate damage cost up to 4 times higher as 1.5°C overshoot risks grow: Report
+Regenerative agriculture: A lifeline for smallholders?
+Nepal demands climate justice after deadly floods | $20 million compensation claim
+Russia is cutting off Ukraine’s grain exports again, threatening a critical harvest and global food security
+© Copyright Down To Earth 2026. All rights reserved.
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Triple Maritime Chokepoint: How Hormuz, Black Sea and Red Sea Disruptions Threaten Global Food and Fuel Security
+हिंदी
+മലയാളം
+Print Edition
+Support Us
+Subscribe
+Health
+Agriculture
+Water
+Waste
+Climate
+Air
+Africa
+Data Centre
+Video
+Gallery
+Food
+Bookshop
+CSE Bulletins
+Subscribe
+Health
+Agriculture
+Water
+Waste
+Climate
+Air
+Africa
+Data Centre
+Video
+Gallery
+Food
+Bookshop
+CSE Bulletins
+Energy
+Disruptions across Strait of Hormuz, Black Sea and alternative routes raise global food and fuel security risks
+Amid the crisis, importers are turning to Argentina, Australia, Europe
+The Black Sea remains a critical corridor for global wheat trade.
+iStock
+Puja Das
+Published on
+:
+25 Sep 2026, 6:10 am
+Copied
+Follow Us
+Listen to this article
+The Iran-Israel-US war and the intensifying Russia-Ukraine conflict are simultaneously disrupting some of the world's most important routes for oil, grain and fertiliser, raising concerns over a wider food and fuel supply shock.
+The disruption in the Strait of Hormuz, which typically carries about a fifth of global oil and gas supplies, is unfolding alongside severe disruption to Black Sea grain shipments. Attacks on Russian and Ukrainian ports and vessels have reduced agricultural exports, while alternative routes through the Danube, Baltic and other corridors face capacity, infrastructure, weather and security constraints.
+The situation is now creating what humanitarian agencies describe as a “
+triple chokepoint
+” for food supply routes, with the Strait of Hormuz and Black Sea disruption joined by growing risks around the Bab el Mandeb Strait and the Red Sea.
+The convergence of the two conflicts is also feeding through energy markets. Global diesel prices have reached record levels amid supply disruptions linked to the wars in Iran and Ukraine,
+Reuters reported
+. Middle Eastern diesel shipments fell by half between March and August compared with a year earlier, while Russia's fuel exports have also been affected by Ukrainian attacks on refineries and ports.
+Higher fuel prices matter for food security because diesel is used in farm machinery, irrigation, harvesting, processing and transportation, while higher marine fuel costs increase the expense of moving grain and other commodities.
+The humanitarian consequences are particularly significant for countries dependent on international aid. The World Food Programme (WFP) has warned that disruptions to the three maritime chokepoints are pushing up the cost of delivering food and other supplies. WFP acting executive director Carl Skau, on September 14, 2026,
+said
+the disruption was “all hitting at once”, while the United Nations High Commissioner for Refugees (UNHCR) warned that further deterioration around the Red Sea could force shipments to be rerouted around the Cape of Good Hope, adding 25-30 days to shipping times.
+Red Sea adds third pressure point
+Bab-el-Mandeb, the narrow strait connecting the Red Sea with the Gulf of Aden, has become a new pressure point after Iran backed Houthi forces made rapid territorial gains along Yemen's western Red Sea coast and captured Perim Island. The development brings major shipping lanes within range of missiles, drones and artillery and increases the risk of disruption to vessels using the Red Sea.
+As much as 14 per cent of global maritime trade passes through the Red Sea. The UN agencies warned that disruption to the route would add to the higher food and oil costs already caused by the Iran war and Russia Ukraine conflict.
+The impact is particularly acute for humanitarian operations in Sudan. The WFP
+estimates
+that about 20 million people in Sudan are facing acute hunger, while 14 million have been displaced. The agency said the cost of basic food in Sudan had risen almost 40 per cent over seven months, while its shipping costs had increased 20 per cent and fuel costs for humanitarian flights had risen 35 per cent.
+The International Organization for Migration, which operates a common humanitarian pipeline for emergency relief distributions through a network of warehouses across Sudan and Chad, has also warned that it could be forced to halt relief supplies for hundreds of thousands of displaced Sudanese people without additional funding. Its 2026
+crisis response plan
+requires $170.15 million to assist 1.321 million people, including 783,000 people targeted for life saving assistance.
+Black Sea grain flow faces disruption
+The Black Sea remains a critical corridor for global wheat trade. Russia and Ukraine accounted for 27.3 per cent of global wheat exports in 2025-26, according to
+S&P Global
+, with Russia exporting 48 million tonnes and Ukraine 14.1 million tonnes.
+Since July, attacks on ports and commercial shipping have damaged grain infrastructure and disrupted trade. London's marine insurance market has expanded the Black Sea's high-risk zone, according to
+Reuters
+, raising war-risk premiums.
+S&P Global
+estimates Russian strikes have removed about one third of Ukraine's grain export capacity. The disruption is already affecting buyers.
+Bloomberg
+reported that four wheat cargoes secured by Tue Vuong, chief executive officer of Golden Wheat in Ho Chi Minh City, failed to ship. They represented roughly a fifth of his company's annual requirements. He later secured two replacement cargoes from Bulgaria.
+SovEcon estimates combined Russian and Ukrainian wheat exports could be roughly half their year-earlier level during July to September. Russia exported 4.4 million tonnes of grain in July and August, 31 per cent below a year earlier. September exports are expected at 2.45 million tonnes, about half the September 2025 level.
+Ukraine's challenge is increasingly logistics rather than production. The
+Ukrainian Grain Association
+forecasts 84.6 million tonnes of grain and oilseed production in 2026, up from about 80 million tonnes in 2025. Export potential could reach 52 million tonnes in 2026-27, compared with 41.1 million tonnes previously.
+But between August 1 and 26, Ukraine exported only 1.423 million tonnes of grains, oilseeds and processed agricultural products, according to the
+Ministry of Agrarian Policy and Food
+. Grain exports were 822,000 tonnes. Seaports handle about 90 per cent of Ukraine's grain and oilseed exports, while alternative routes are more expensive. Shifting exports to these routes increased logistics costs by at least $50 per tonne in August.
+The European Union's
+Solidarity Lanes
+have moved nearly 230 million tonnes of Ukrainian goods since May 2022, including 94 million tonnes of grain, oilseeds and related products, but cannot match the scale of Black Sea ports.
+Russia is similarly seeking alternatives, adapting Baltic and Arctic terminals for grain exports. Ust Luga, with a declared capacity of 37 million tonnes, began handling grain in August, while Murmansk, with capacity of up to 24 million tonnes, is preparing to start exports in October, according to a
+Reuters report
+. These routes have limited capacity or higher transport costs, making a full replacement of Black Sea shipments difficult.
+Global grain prices respond
+The effect is already being felt in international markets. The Food and Agriculture Organization's
+Food Price Index
+rose to 133.3 points in August, up 1.9 per cent from July and 2.5 per cent from a year earlier. Its Cereal Price Index increased 2.2 per cent during the month, while international wheat prices rose 2.6 per cent.
+In its September 4 update, the Food and Agriculture Organization said the rise in cereal prices reflected robust import demand, growing concerns over crop prospects and continued uncertainty surrounding critical trade flows. International wheat prices rose 2.6 per cent in August and were 15 per cent above their year earlier level, with FAO citing persistent disruptions to Black Sea export logistics, lower production prospects in much of Europe after hot and dry weather and a weaker United States dollar.
+FAO also said world maize prices increased 2.5 per cent in August, driven by concerns over yields in parts of the United States, deteriorating production prospects in the European Union, strong demand from ethanol and feed sectors, disruptions to inputs linked to the closure of the Strait of Hormuz and disruptions to Ukraine's export flows.
+Chicago wheat futures rose more than 17 per cent between the beginning of July and August 20 before retreating from their late-August peak. The price gap between Black Sea supplies and replacement cargoes has also widened. Black Sea wheat was trading at around $260 to $280 per tonne for August-September arrivals, while replacing those supplies with Australian wheat could cost
+Asian buyers
+around $315 to $320 per tonne.
+The burden is greater for import-dependent countries. Egypt, the world's biggest wheat importer, sourced more than 82 per cent of its imported wheat from Russia and Ukraine combined during the first half of 2026, according to data cited by Food Tank.
+Despite the rise in food prices, FAO's broader assessment does not indicate an immediate global cereal supply shortage. It
+forecasts
+2026 global cereal production at 2.98 billion tonnes, down 2 per cent from 2025 but still the second largest harvest on record. Global wheat production is forecast at 810.7 million tonnes, while world cereal stocks at the end of the 2026-27 season are projected at 947.2 million tonnes. FAO forecasts a cereal stocks to use ratio of 31.6 per cent, which remains relatively comfortable from a historical perspective, and world cereal trade to decline from record levels to 509.3 million tonnes in 2026-27.
+Importers turn to Argentina, Australia and Europe
+Reuters reported that Argentina's corn exports are expected to reach a record 10 million tonnes in August and September 2026, compared with usual August September exports of about 3 million tonnes. The increase is being driven partly by disruptions to Ukrainian grain exports and reduced European supplies following a severe heat wave.
+Argentine corn shipments to North Africa rose 45 per cent in the first seven months of 2026 to 6.5 million tonnes, according to Argentina's statistics agency
+INDEC
+. Morocco's imports rose 133 per cent year on year to 1.55 million tonnes, while Egypt's increased 48 per cent to 2.4 million tonnes and Algeria's 10 per cent to 2.4 million tonnes.
+Other importers are also looking for alternative sources. France has shipped wheat to Sudan for the first time in 18 years, while Libya has turned to the French port of Rouen after more than a decade, according to the Bloomberg report. Bangladesh is seeking supplies from Romania and Argentina, while buyers are also approaching Australia ahead of its new harvest.
+Food and fuel shocks reinforce each other
+The food security risks are being compounded by the energy crisis. Global diesel prices have reached record levels as disruptions linked to the Iran and Ukraine wars reduce supplies from major producers,
+Reuters reported
+. European diesel futures have more than doubled since the beginning of 2026. Russia also imposed a diesel export ban in July after Ukrainian drone attacks damaged its refineries. Diesel is widely used in farm equipment, heavy transport and electricity generation, meaning tighter supplies can raise costs across agriculture and food supply chains.
+Food Security
+Import
+Export
+Black Sea
+world food crisis
+global food crisis
+Starit of Hormuz
+Fuel shortage
+Strait of Bab El Mandeb
+fuel security
+Show Comments
+Related Stories
+Climate damage cost up to 4 times higher as 1.5°C overshoot risks grow: Report
+Puja Das
+3 minutes ago
+Regenerative agriculture: A lifeline for smallholders?
+DTE Staff
+30 Sep 2026
+Nepal demands climate justice after deadly floods | $20 million compensation claim
+DTE Staff
+11 Sep 2026
+Russia is cutting off Ukraine’s grain exports again, threatening a critical harvest and global food security
+Iryna Skubii
+17 Aug 2026
+Follow Us
+Subscribe
+Health
+Climate
+Africa
+News
+Video
+Data Centre
+In-depth
+Blogs
+Bookshop
+CSE Bulletins
+© Copyright Down To Earth 2026. All rights reserved.
+Powered by
+Quintype
+Down To Earth
+www.downtoearth.org.in
+INSTALL APP

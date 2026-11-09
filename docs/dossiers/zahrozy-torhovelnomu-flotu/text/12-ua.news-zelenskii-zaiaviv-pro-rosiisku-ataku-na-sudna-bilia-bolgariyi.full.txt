@@ -1,0 +1,197 @@
+URL:         https://ua.news/en/world/zelenskii-zaiaviv-pro-rosiisku-ataku-na-sudna-bilia-bolgariyi
+Кінцевий:    https://ua.news/en/world/zelenskii-zaiaviv-pro-rosiisku-ataku-na-sudna-bilia-bolgariyi
+Заголовок:   Zelenskyy reported a Russian attack on ships near Bulgaria
+Дата публ.:  2026-10-06
+Завантажено: 2026-10-07 08:07 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 104609
+Оригінал:    raw/12-ua.news-zelenskii-zaiaviv-pro-rosiisku-ataku-na-sudna-bilia-bolgariyi.html
+sha256:      9bc76aa7517f6208b2db8ddd50f62e39f56466415218ab5c84d43f765d2715bf
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 17
+==============================================================================
+Zelenskyy reported a Russian attack on ships near Bulgaria | UA.NEWS
+In Stockholm, an armed man exchanged gunfire with the police
+Civic Coalition leads in Poland, but right-wing parties could have a majority — RMF24
+Hungary may unblock Ukraine's negotiations with the EU on two clusters on October 7
+Egypt describes new species of ancient crocodile from the Mokattam Formation — The National
+Two killed in Israeli strike on Gaza — NDTV World
+Israel marks attack anniversary with no hostages in Gaza — The Hindu
+Poland mobilized its military aviation in response to Russia's massive attack on Ukraine
+Use of materials from the websites
+is permitted only if a reference (or, for online publications, a hyperlink) to UA.NEWS is included no later than the third paragraph.
+Use of materials is permitted only upon receipt of written permission from the UA.NEWS editorial board and the mandatory placement of a direct hyperlink to the original publication
+in the first paragraph of the material, which must be open to indexing by search engines.
+Materials marked with the “Advertisement” label are promotional and are published as advertisements. The editorial board may not share the views promoted therein. The editorial staff is not responsible for the facts and opinions published in advertising materials. In accordance with current Ukrainian legislation, the advertiser is responsible for the content of the advertisement.
+Materials in the “Blogs” section represent the personal opinion of the blog author; the editorial staff may not share the author’s views.
+Copyright infringement is prosecuted in accordance with the current legislation of Ukraine and the norms of international law.
+The online media outlet UA.NEWS serves only an audience aged 21 and older. Online media entity; media identifier - R40-05225.
+LLC “NEWS FLASH INFORMATION AGENCY.” All rights reserved.
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Zelenskyy reported a Russian attack on ships near Bulgaria | UA.NEWS
+ua
+ru
+en
+pl
+Email
+Sign In
+Sign Up
+World
+Ukraine
+War with Russia
+Investigations
+Open questions
+Cities that survived
+Kyiv
+Polytics
+Business
+Gambling
+Agro
+Energetics
+IT and Telecom
+Pharmaceuticals
+Logistics and transportation
+Metallurgy
+Analytics
+Finance
+Real estate
+Technologies
+Sport
+Esports
+proLife
+Health
+Culture
+Beauty
+Celebrities
+Autoworld
+Traveling
+Around the World
++20° Kyiv
++16° Warsaw
++8° Washington
+$ 44.85
+€ 50.38
+zł 11.51
+World
+Ukraine
+War with Russia
+Investigations
+Open questions
+Cities that survived
+Kyiv
+Polytics
+Business
+Gambling
+Agro
+Energetics
+IT and Telecom
+Pharmaceuticals
+Logistics and transportation
+Metallurgy
+Analytics
+Finance
+Real estate
+Technologies
+Sport
+Esports
+proLife
+Health
+Culture
+Beauty
+Celebrities
+Autoworld
+Traveling
+Around the World
+more…
+Email
+Sign In
+Sign Up
+en
+ua
+ru
+en
+pl
+$ 44.85
+€ 50.38
+zł 11.51
++20° Kyiv
++16° Warsaw
++8° Washington
+News
+World
+Zelenskyy reported a Russian attack on ships off the coast of Bulgaria
+UA.NEWS
+06
+                             October
+                             2026
+                             23:15
+In the Black Sea off the coast of Bulgaria, drones attacked two merchant ships—the ALFA WATAN and the ABLE. According to President Volodymyr Zelenskyy, the Ukrainian Armed Forces were not conducting any operations in that area, and Russia was responsible for the attack. One of the ships sank, while the other sustained significant damage.
+Two civilian merchant ships were targeted in an attack in the Black Sea near Bulgaria. The incident occurred on October 6 in Bulgaria’s exclusive economic zone. The ships in question are
+the ALFA WATAN,
+flying the flag of Togo, and
+the ABLE,
+flying the flag of Palau. According to Reuters, the ALFA WATAN sank after the attack. As of this writing, the crew of that vessel remains missing.
+The other vessel, the ABLE, sustained serious damage. A fire broke out on board, and the crew was evacuated. According to media reports, all 18 crew members were rescued, though several sustained injuries. President Volodymyr Zelenskyy stated that the Ukrainian military had not conducted any operations in this area of the Black Sea. “The Ukrainian Armed Forces did not conduct any operations in this area of the sea; this latest tragedy involving civilian vessels is part of Russia’s ongoing attempt to render the western part of the Black Sea completely unfit for navigation,” Zelenskyy said.
+According to the president, Ukrainian intelligence and security services are investigating all the circumstances of the attack. At the same time, Zelenskyy stated that following contact between the Ukrainian Navy and Bulgarian authorities, it was determined that the attack was carried out by Russian maritime and aerial drones. This is the version currently being put forward by the Ukrainian side.
+However, as of this writing, there has been no independent, definitive confirmation of the drones’ origin. Reuters reports that Bulgarian officials are investigating the incident, and Bulgarian Prime Minister Rumen Radev called the attack a gross violation of international law. The attack occurred in an area far from the Ukrainian coast. According to Reuters, the strike took place approximately 140 nautical miles from Ukraine. This heightens concerns about the safety of civilian shipping in the western part of the Black Sea.
+In Bulgaria, rescue and naval forces were deployed to assist the stricken vessels. Border police and aviation units also joined the operation. The crew of the ABLE was evacuated after the vessel sustained damage and a fire broke out on board.
+This is not the first such incident in the Black Sea in recent days. The day before, a fire broke out on the civilian vessel Royad Mammadov off the coast of Romania. Ukraine also claimed that it may have been attacked by Russian drones, but Romanian authorities have not confirmed the cause of the fire. Two people died as a result of that incident.
+Zelenskyy stated that Ukraine must strengthen cooperation with its partners in the Black Sea and work together to protect civilian shipping. “I have instructed our Armed Forces, the Ministry of Defense of Ukraine, our intelligence agencies, and all our services to cooperate as fully as possible with our partners so that both they and we have greater capabilities to defend ourselves,” the president said. The European Commission also responded to the recent attacks on civilian vessels. European Commission President Ursula von der Leyen called such attacks unacceptable and emphasized the danger they pose to merchant shipping and crews.
+Thus, the incident off the coast of Bulgaria has dealt yet another serious blow to the safety of civilian shipping in the Black Sea. The Ukrainian side directly accuses Russia, while the investigation into the circumstances of the attack is ongoing.
+President Volodymyr Zelenskyy
+announced
+this in an evening address.
+Read us on
+Download our app
+RELATED MATERIALS
+News
+World
+In Stockholm, an armed man exchanged gunfire with the police
+News
+World
+Civic Coalition leads in Poland, but right-wing parties could have a majority — RMF24
+News
+World
+Hungary may unblock Ukraine's negotiations with the EU on two clusters on October 7
+News
+World
+Egypt describes new species of ancient crocodile from the Mokattam Formation — The National
+News
+World
+Two killed in Israeli strike on Gaza — NDTV World
+News
+World
+Israel marks attack anniversary with no hostages in Gaza — The Hindu
+News
+World
+Poland mobilized its military aviation in response to Russia's massive attack on Ukraine
+×
+World
+Ukraine
+Kyiv
+Polytics
+Business
+Technologies
+Sport
+proLife
+Use of materials from the websites
+https://ua.news/
+is permitted only if a reference (or, for online publications, a hyperlink) to UA.NEWS is included no later than the third paragraph.
+Use of materials is permitted only upon receipt of written permission from the UA.NEWS editorial board and the mandatory placement of a direct hyperlink to the original publication
+https://ua.news/
+in the first paragraph of the material, which must be open to indexing by search engines.
+Materials marked with the “Advertisement” label are promotional and are published as advertisements. The editorial board may not share the views promoted therein. The editorial staff is not responsible for the facts and opinions published in advertising materials. In accordance with current Ukrainian legislation, the advertiser is responsible for the content of the advertisement.
+Materials in the “Blogs” section represent the personal opinion of the blog author; the editorial staff may not share the author’s views.
+Copyright infringement is prosecuted in accordance with the current legislation of Ukraine and the norms of international law.
+The online media outlet UA.NEWS serves only an audience aged 21 and older. Online media entity; media identifier - R40-05225.
+LLC “NEWS FLASH INFORMATION AGENCY.” All rights reserved.
+About the Project
+Terms of Use
+Private policy
+Contact the Editorial Team
+×

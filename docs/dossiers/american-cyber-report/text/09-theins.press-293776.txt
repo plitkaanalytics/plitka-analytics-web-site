@@ -1,0 +1,30 @@
+URL:         https://theins.press/en/news/293776
+Кінцевий:    https://theins.press/en/news/293776
+Заголовок:   “Shadow fleet” vessels found to have remote control and data deletion software, which creates risk of explosion and oil spills, WSJ reports
+Дата публ.:  2026-06-16
+Завантажено: 2026-10-02 08:05 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 129504
+Оригінал:    raw/09-theins.press-293776.html
+sha256:      3f9393ed9e7a479252eea5a111c8ee079d15b849fa9a2a55ee7490af1dcfe19c
+Витяг:       trafilatura
+
+==============================================================================
+The owners of the various “shadow fleet” tankers that transport Russian and Iranian oil in violation of sanctions use a set of digital tools to control crews and cover their tracks, *The Wall Street Journal* [reports](https://www.wsj.com/articles/the-dangerous-tech-found-aboard-dark-fleet-tankers-captured-by-the-u-s-34762a3a). U.S. Coast Guard cybersecurity specialists identified the use of information systems that are vulnerable to hacking, a discovery that was made by examining equipment on vessels seized by U.S. forces.
+
+According to the experts' report, malicious actors could exploit the unreliability of these systems in order to cause explosions or oil spills, making shadow fleet tankers even more dangerous to sailors and the environment than was previously understood.
+
+“We’ve known for years that the dark fleet posed significant physical risks, because we knew they were operating old ships, they weren’t maintaining them,” said Rear Adm. Jason Tama, head of the Coast Guard’s Cyber Command. “But what we didn’t know until these boardings was what type of cyber risks were aboard these ships.”
+
+
+It was found that the vessels are often equipped with communication systems providing constant internet connectivity, allowing tanker owners and operators to remotely interfere with shipboard systems using remote desktop applications such as AnyDesk and TeamViewer. At least one case was identified in which digital data was deleted remotely after U.S. personnel boarded the vessel.
+
+Some tankers were also discovered to be operating pirated software infected with malware. Moreover, the infected computers are connected to the vessels’ critical operational and navigational systems.
+
+“For a vessel that’s carrying tens of millions of gallons of crude oil, which is highly volatile, there’s always a risk of fire explosion,” Tama said. “The atmosphere in the tanks has to be very carefully managed to ensure that you’re not going to get a situation where there’s a fire explosion. And then there’s always a risk of an oil spill.”
+
+
+Several tankers were found to have multiple AIS devices installed. In one case, specialists found equipment that allowed switching between several vessel names when transmitting a location signal. Such equipment allows shadow fleet ships to conceal their true route.
+
+The Coast Guard report confirms that the detained tankers were not accidentally involved in sanctions evasion but were deliberately designed for illegal activity, Michelle Wiese Bockmann, senior maritime intelligence analyst at Windward AI, told the *WSJ*.
+
+In December 2025, the United States launched a global campaign against the shadow fleet, seizing vessels carrying Russian, Iranian, and Venezuelan oil at sea. On June 14, the United Kingdom [detained](https://theins.press/en/news/293691) a Russian shadow fleet tanker in the English Channel for the first time.

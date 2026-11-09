@@ -1,0 +1,204 @@
+URL:         https://www.newsquawk.com/headlines/russia-cuts-oil-and-gas-revenues-estimate-for-2026-to-rub-76tln-from-rub-89tln-previously
+Кінцевий:    https://www.newsquawk.com/headlines/russia-cuts-oil-and-gas-revenues-estimate-for-2026-to-rub-76tln-from-rub-89tln-previously
+Заголовок:   Russia cuts oil and gas revenues estimate for 2026 to RUB 7.6tln from RUB 8.9tln previously | Newsquawk
+Дата публ.:  2026-09-28
+Завантажено: 2026-10-07 09:41 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 272324
+Оригінал:    raw/139-newsquawk.com-russia-cuts-oil-and-gas-revenues-estimate-for-2026-to-ru.html
+sha256:      c91a27e22f28ba6747c92848851676936dc865ecb1f91907e2ec8be372a3c640
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 12
+==============================================================================
+Recent headlines that moved markets
+Yemeni Houthis hit Saudi Arabia's Ras Tanura refinery (550k BPD) with missiles, Sabereen reports.
+Brent crude, after we published
+Reports of a "massive explosion" at a oil refinery in Jeddah, Saudi, Naya reports.
+Saudi Arabia's East-West oil pipeline pumping reportedly halted after a new attack, AFP reports citing sources; "There was big damage and the pipeline stopped again".
+Yemeni forces spokesperson says Operation “Dawn of Yemen” has begun on a large scale to target Houthi capabilities, Al Arabiya reports.
+French President Macron says diesel and crude stocks to be released over 4 months; G7 leaders confirm the release up to 100mln barrels.
+Get both market opens in your inbox.
+This note and the other one — the EU open and the US open, every business day, written by the desk. No account needed.
+Make Newsquawk a preferred source on Google
+Select this to see Newsquawk more often in Top Stories when you search Google.
+© 2026 Newsquawk. All rights reserved.
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Russia cuts oil and gas revenues estimate for 2026 to RUB 7.6tln from RUB 8.9tln previously | Newsquawk
+Features
+Coverage
+News
+Pricing
+Enterprise
+Contact
+Log In
+Go live — 7 days for $29.99
+Go live — 7 days for £24.99
+Go live — 7 days for €29.99
+Home
+Headlines
+Russia cuts oil and gas revenues estimate for 2026 to RUB 7.6tln from RUB 8.9tln previously
+Russia cuts oil and gas revenues estimate for 2026 to RUB 7.6tln from RUB 8.9tln previously
+Newsquawk Staff
+/
+Oil news
+/
+Published
+28 Sept 2026, 16:22 UTC
+Newsquawk headlines
+UTC
+Every headline is on the live feed
+20
+minutes
+before this site.
+Go live — 7 days for $29.99
+Go live — 7 days for £24.99
+Go live — 7 days for €29.99
+16:03
+European Energy Commissioner writes to 27 member sates ahead of meeting; "I invite you to consider taking or continuing to take measures that can... reduce gas and electricity demand for as long as necessary,", reports AFP
+16:03
+Panama Canal Authority increases Neopanamax daily capacity to 10 slots
+16:02
+Russia cuts oil and gas revenues estimate for 2026 to RUB 7.6tln from RUB 8.9tln previously
+16:00
+Newsquawk Daily US Earnings Estimates - 29th September 2026: CCL
+15:59
+SpaceX (SPCX) Starship returns to earth in the Pacific Ocean
+On the Newsquawk feed at
+16:02
+,
+20
+minutes before this page.
+Use the Platform
+Free. No signup, no card.
+Context
+Revisions of this kind are a mechanical read-through of the finance ministry's underlying assumptions rather than new information: Russian budget revenue forecasts embed an assumed Urals price and a ruble exchange rate, and a downward cut of this size signals the official planning price has been marked lower, the discount to benchmarks wider, or volumes softer. On past occasions, such revisions have tracked realized commodity prices with a lag rather than led them, so the tell is the implied Urals assumption behind the number, which the ministry typically discloses alongside the budget framework. The distinction worth drawing is between a price-driven revision, which corroborates what crude markets already show, and a volume-driven one, which would point to compliance with output commitments or constraints on export logistics, freight, and shadow-fleet capacity. A lower revenue baseline also bears on fiscal financing and the tendency of past episodes to see the budget rule adjusted or the wealth fund tapped when oil and gas receipts undershoot, with knock-on effects for ruble flows from mandatory FX conversion. Worth noting is whether peers in the producer group signal any response on supply policy, since revenue pressure has historically tested quota discipline rather than reinforced it. The figure itself is a planning input, not a market print.
+Energy · last 90 days
+Recent headlines that moved markets
+ENERGY
+/
+5 Oct · 14:32 UTC
+Yemeni Houthis hit Saudi Arabia's Ras Tanura refinery (550k BPD) with missiles, Sabereen reports.
+Brent crude, after we published
++0.7%
+ENERGY
+/
+5 Oct · 13:24 UTC
+Reports of a "massive explosion" at a oil refinery in Jeddah, Saudi, Naya reports.
+WTI crude, after we published
++0.6%
+ENERGY
+/
+5 Oct · 08:29 UTC
+Saudi Arabia's East-West oil pipeline pumping reportedly halted after a new attack, AFP reports citing sources; "There was big damage and the pipeline stopped again".
+Brent, after we published
++1.7%
+ENERGY
+/
+5 Oct · 08:24 UTC
+Yemeni forces spokesperson says Operation “Dawn of Yemen” has begun on a large scale to target Houthi capabilities, Al Arabiya reports.
+WTI crude, after we published
++1.8%
+ENERGY
+/
+2 Oct · 13:58 UTC
+French President Macron says diesel and crude stocks to be released over 4 months; G7 leaders confirm the release up to 100mln barrels.
+WTI crude, after we published
+−1.8%
+ENERGY
+/
+2 Oct · 13:58 UTC
+French President Macron says diesel and crude stocks to be released over 4 months; G7 leaders confirm the release up to 100mln barrels.
+Brent crude, after we published
+−1.5%
+Newsquawk Daily
+Get both market opens in your inbox.
+This note and the other one — the EU open and the US open, every business day, written by the desk. No account needed.
+Subscribe
+Make Newsquawk a preferred source on Google
+↗
+Select this to see Newsquawk more often in Top Stories when you search Google.
+Related headlines
+[MARKET ANALYSIS] Crude pressured by recovering Hormuz flows and despite renewed Saudi attacks
+4 hours ago
+Chevron (CVX) CEO says demand for oil and gas will continue to grow and that they will invest in hardening the resilience of its assets
+5 hours ago
+Newsquawk Daily European Opening News  - 6th October 2026
+8 hours ago
+Newsquawk Daily Asia-Pac Opening News - 6th October 2026
+16 hours ago
+US President Trump says Russia refinery strikes and US closures are driving up gas prices
+21 hours ago
+Saudi Arabia's East-West pipeline sustained damage to three of the 11 pumping stations, but the pipeline itself was not damaged, Argus reports citing sources
+32 min ago
+IEA is expected to decide details of the G7 diesel and oil stock release at the Board meeting on October 14-15th, according to sources
+46 min ago
+UKMTO announces a time-delayed report of an outbound oil tanker was struck by an unknown projectile in the Strait of Hormuz on October 5th
+1 hour ago
+[CALENDAR ADDITION] US President Trump to deliver remarks in Baltimore at 16:00EDT/21:00BST
+1 hour ago
+Qatar says the US and Iran are still engaged in talks, AFP reports
+1 hour ago
+Islamabad denies Reuters claim of sending troops and military equipment to Saudi Arabia, reports Nour News
+2 hours ago
+Iraq sets oil price at USD 58/bbl in 2027 draft budget, according to reports, citing lawmakers
+2 hours ago
+US Secretary of State Rubio says Ukrainian membership into NATO is not on the table right now
+2 hours ago
+Satellite images reportedly show unusual heat signatures above Saudi Arabia’s Ghawar oil field; the world's largest onshore oil field, Fars reports
+3 hours ago
+Qatari Foreign Ministry spokesperson says contacts and visits are ongoing in an effort to achieve progress in talks between the US and Iran, Al Jazeera reports
+3 hours ago
+Iranian technical delegation will travel to Qatar to continue discussions on the status of Iranian military pilots, following talks between Iran’s Interior Minister and Qatari officials, Fars reports
+3 hours ago
+Vitol CEO says that over the last 7-10 days, 12mln bpd of crude and 2mln bpd of products exited the Middle East
+4 hours ago
+The diesel export ban may be lifted in October for some Russian companies, according to IFX
+4 hours ago
+EU officials will be holding an oil coordination group meeting on Wednesday
+4 hours ago
+Houthis say that they targeted Saudi Arabia's Abha airport with missiles, with no confirmation from Saudi officials
+4 hours ago
+The feed had this first.
+Use the Platform
+Features
+Human Intelligence
+Curated Market News
+Equities Suite
+Customisation & Alerts
+Enterprise
+Resources
+Headlines
+Markets
+Legacy Login
+Use the Platform
+Support
+Contact
+Pricing
+Glossary
+Company
+Careers
+Affiliate
+Glossary
+Legal
+Disclaimer
+Privacy
+Terms
+Coverage
+Multi-Asset
+Equities
+Fixed Income
+Energy
+Forex
+Metals
+How to Trade News Events
+How to Trade NFP
+How to Trade CPI
+How to Trade PCE
+How to Trade ISM
+How to Trade FOMC
+© 2026 Newsquawk. All rights reserved.

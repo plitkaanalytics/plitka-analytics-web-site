@@ -1,0 +1,50 @@
+URL:         https://www.themoscowtimes.com/2026/08/31/european-forces-intercept-russian-shadow-fleet-tanker-in-mediterranean-a93610
+Кінцевий:    https://www.themoscowtimes.com/2026/08/31/european-forces-intercept-russian-shadow-fleet-tanker-in-mediterranean-a93610
+Заголовок:   European Forces Intercept Russian ‘Shadow Fleet’ Tanker in Mediterranean - The Moscow Times
+Дата публ.:  2026-08-31
+Завантажено: 2026-10-05 10:08 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 51345
+Оригінал:    raw/51-themoscowtimes.com-european-forces-intercept-russian-shadow-fleet-tank.html
+sha256:      5438fbb3cfe521149a8ddf33661ecf602b6b732146d8bab8fe764434ce1cdd73
+Витяг:       trafilatura
+
+==============================================================================
+A European naval mission boarded a Russia-linked oil tanker suspected of sailing under a false flag in the Mediterranean over the weekend, the EU’s top diplomat Kaja Kallas[ said](https://x.com/kajakallas/status/2094382119875223868) Monday.
+
+Personnel operating under the Mediterranean naval initiative Operation EUNAVFOR MED IRINI boarded the MV SUN on Sunday for “flag verification,” Kallas wrote in a post on X.
+
+“This is the sixth suspected shadow fleet vessel boarded by our EU operations in recent months,” she said, referring to vessels with opaque ownership used to bypass Western sanctions against Russia.
+
+She said EU defense ministers plan to discuss “actions against the shadow fleet” at their meeting in Ireland on Tuesday.
+
+In July, the EU[ adopted](https://ru.themoscowtimes.com/2026/07/25/es-razreshil-konfiskovivat-i-prodavat-neft-s-narushayuschih-sanktsii-protiv-rossii-tankerov-a201829) a mechanism allowing member states to confiscate and sell Russian oil carried aboard shadow fleet vessels attempting to evade the bloc’s sanctions.
+
+President Vladimir Putin this month[ vowed](https://www.themoscowtimes.com/2026/08/12/putin-threatens-retaliation-if-europe-seizes-russian-ships-a93470) to retaliate in kind if European countries carried out plans to seize Russian commercial vessels. 
+
+Putin, who previously said the Russian Defense Ministry had received instructions to prepare a response, has slammed previous interceptions of Russia-linked vessels as “piracy.”
+
+EUNAVFOR MED Irini is an EU naval mission first launched in 2020 to enforce a UN arms embargo on Libya. EU governments have since broadened its scope, authorizing it to conduct verification boardings.
+
+The EU has[ sanctioned](https://ec.europa.eu/commission/presscorner/detail/en/ip_25_3070) around 600 ships suspected of being part of Russia’s “shadow fleet” network.
+
+*Reuters contributed reporting.*
+
+**A Message from The Moscow Times:**
+
+Dear readers,
+
+We are facing unprecedented challenges. Russia's Prosecutor General's Office has designated The Moscow Times as an "undesirable" organization, criminalizing our work and putting our staff at risk of prosecution. This follows our earlier unjust labeling as a "foreign agent."
+
+These actions are direct attempts to silence independent journalism in Russia. The authorities claim our work "discredits the decisions of the Russian leadership." We see things differently: we strive to provide accurate, unbiased reporting on Russia.
+
+We, the journalists of The Moscow Times, refuse to be silenced. But to continue our work, [we need your help](https://www.themoscowtimes.com/contribute?utm_source=contribute&utm_medium=article).
+
+Your support, no matter how small, makes a world of difference. If you can, please support us monthly starting from just $2. It's quick to set up, and every contribution makes a significant impact.
+
+By supporting The Moscow Times, you're defending open, independent journalism in the face of repression. Thank you for standing with us.
+
+Remind me later.
+
+**Remind me next month**
+
+		[Privacy Policy](https://www.themoscowtimes.com/page/privacy-policy).

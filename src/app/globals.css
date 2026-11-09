@@ -1500,6 +1500,21 @@ p {
   color: var(--steelB);
 }
 
+/* Роздільник перед епілогом: фінал без заголовка, щоб ніщо не оголошувало
+   підсумок. Три ромби по центру замість лінії на всю ширину. */
+.article-body hr.section-break {
+  border: 0;
+  margin: 56px 0 40px;
+  text-align: center;
+  overflow: visible;
+}
+.article-body hr.section-break::before {
+  content: "◆ ◆ ◆";
+  font-size: 11px;
+  letter-spacing: 0.9em;
+  color: var(--orange);
+}
+
 .article-body h2 .h2-num {
   font-family: var(--mono);
   font-size: 12px;

@@ -1,0 +1,74 @@
+URL:         https://www.foxnews.com/world/venezuela-oil-tanker-marinera-evades-us-interception-adopting-russian-identity-fleeing-atlantic.print
+Кінцевий:    https://www.foxnews.com/world/venezuela-oil-tanker-marinera-evades-us-interception-adopting-russian-identity-fleeing-atlantic.print
+Заголовок:   Venezuelan ‘dark fleet’ tanker evades US Coast Guard as Russia sends submarine to escort vessel: reports
+Дата публ.:  2026-01-06
+Завантажено: 2026-10-02 08:06 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 138149
+Оригінал:    raw/18-foxnews.com-venezuela-oil-tanker-marinera-evades-us-interception-adopt.html
+sha256:      15d01428cc9297f8476537be888b4d22cc3f2919b000d78f1753c3a9b4dafe54
+Витяг:       trafilatura
+
+==============================================================================
+By Emma Bussey
+
+    Published [January 06, 2026](https://www.foxnews.com/html-sitemap/2026/january/06/) 
+
+A Venezuela-linked oil tanker operating in the so-called "dark fleet" painted a Russian flag on its hull, changed its name, and reflagged to Russia in an apparent bid to evade the U.S. Coast Guard, according to reports.
+
+The vessel has since been spotted off Ireland, with the U.S., U.K., France and Ireland reportedly conducting aerial surveillance after it escaped U.S. interception in December, [The Times](https://www.thetimes.com/uk/defence/article/venezuela-oil-tanker-uk-nato-planes-mzdd5532r?gaa_at=eafs&gaa_n=AWEtsqc-LJO0sU3ByXC-WCFbR_56c4JORxJ4ObCyssLKSLRXAx4n0ayxIj5dLcD0KC0%3D&gaa_ts=695d72ca&gaa_sig=bc6pZPWcFdHPLg8GfpSx4W0JJodGHU2QGhNgKWFd0oYEQGG9J7wJ6-Jd-4LdF__1-4RY5eXYhd00un_40keEQA%3D%3D) reported.
+
+Meanwhile, Russia has reportedly since deployed a submarine and naval assets to escort the tanker to its own waters, the Wall Street Journal [reported](https://www.wsj.com/world/russia/russia-sends-submarine-to-escort-tanker-the-u-s-tried-to-seize-off-venezuela-4bd78dc7) late Tuesday.
+
+Russia’s state-controlled foreign media outlet RT [shared a video](https://twitter.com/RT_com/status/2008572288409768011) filmed from the tanker’s deck, allegedly showing a U.S. Coast Guard cutter following the vessel. 
+
+The tanker, Bella 1, had renamed itself Marinera and registered under the Russian flag after fleeing the region, according to an intelligence report from AI maritime analytics firm [Windward.](https://windward.ai/blog/russia-reclaims-its-dark-fleet-as-venezuela-tankers-come-under-attack/)
+
+**TREASURY TARGETS OIL TRADERS, TANKERS ACCUSED OF HELPING MADURO EVADE U.S. SANCTIONS**
+
+"Runaway Venezuela-trading tanker Bella 1 painted a Russian flag on its hull, changed its name, and reflagged to Russia mid-voyage last week to avoid capture by the U.S. Coast Guard in the Atlantic Ocean," Windward said.
+
+Multiple reports said Tuesday the vessel is now under U.S. military surveillance roughly 230 miles off the [Irish coast](https://www.foxnews.com/category/world/world-regions/ireland).
+
+According to reports, U.S. P-8 surveillance aircraft have tracked the tanker off Ireland only in recent days.
+
+[CBS News](https://www.cbsnews.com/news/u-s-interdict-tanker-carrying-venezuelan-oil-after-maduros-capture/) reported that U.S. forces have pursued the vessel since December, as [Washington intensified enforcement](https://www.foxnews.com/category/us/immigration/enforcement) against Venezuelan oil shipments.
+
+Intelligence sources said Venezuela had considered placing military personnel aboard oil tankers disguised as civilians to help vessels evade U.S. blockades and that U.S. forces are likely preparing to intercept the tanker.
+
+The pursuit of the vessel follows strikes in Venezuela under the Trump administration and the [Jan. 3 capture](https://www.foxnews.com/politics/maduro-appears-us-court-arraignment-questions-swirl-over-venezuelas-fate) of Venezuelan President Nicolás Maduro and his wife, Cilia Flores.
+
+**3 KEY TAKEAWAYS FROM TRUMP'S PUSH TO PUT US OIL FIRMS BACK IN VENEZUELA**
+
+Maduro appeared in a New York court on Monday, where he pleaded not guilty to [narco-terrorism charges](https://www.foxnews.com/category/world/terrorism/narco-terror) and said he was a "prisoner of war."
+
+On Jan. 1, Russia had formally asked the U.S. to stop its pursuit of the vessel, according to [Reuters](https://www.reuters.com/world/americas/russia-asks-us-stop-pursuit-fleeing-oil-tanker-ny-times-reports-2026-01-01/).
+
+Citing two people familiar with the matter, Reuters reported that Moscow made the diplomatic request as U.S. forces continued tracking the vessel for nearly two weeks in the Atlantic.
+
+The request came as Trump simultaneously sought to broker a peace agreement between Russia and Ukraine, Reuters added.
+
+**TRUMP’S VENEZUELA STRIKE SPARKS CONSTITUTIONAL CLASH AS MADURO IS HAULED INTO US**
+
+[TankerTrackers.com](http://TankerTrackers.com) alleges the vessel previously transported millions of barrels of [Iranian and Venezuelan](https://www.foxnews.com/category/world/conflicts/iran) crude to China between 2021 and 2025.
+
+"Bella 1, now known as Marinera, is not alone," Windward said.
+
+The tanker has been under [U.S. Treasury sanctions](https://www.foxnews.com/category/politics/finance/sanctions) since June 2024, accused of transporting illicit oil cargoes linked to a Hezbollah-connected company.
+
+"The very large crude carrier is joining a growing fleet of Western-sanctioned tankers seeking protection under Russia’s national flag," the firm added.
+
+"Over the past six months, a dozen or more of the darkest tankers operating globally have switched from open registries to Russia. This trend accelerated in December as the flag state emerged as a critical shield against drone strikes and vessel seizures."
+
+**VENEZUELA ORDERS NATIONWIDE MANHUNT FOR SUPPORTERS AFTER MADURO'S ARREST BY US FORCES**
+
+Windward also identified two additional Western-sanctioned tankers currently in Venezuelan waters that have reflagged to Russia in recent days to prevent U.S. naval interception.
+
+The tanker Hyperion departed Venezuela on Jan. 1 flying the Russian flag, while Premier signaled via AIS that it changed its flag from Gambia to Russia on Dec. 22.
+
+**CLICK HERE TO DOWNLOAD THE FOX NEWS APP**
+
+"Premier remains at the José Terminal in Venezuela," Windward said.
+
+Fox News Digital has reached out to the U.S. Coast Guard and the White House for comment.
+
+https://www.foxnews.com/world/venezuela-oil-tanker-marinera-evades-us-interception-adopting-russian-identity-fleeing-atlantic

@@ -1,0 +1,73 @@
+URL:         https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Declaration_of_Paris
+Кінцевий:    https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Declaration_of_Paris
+Заголовок:   1911 Encyclopædia Britannica/Declaration of Paris - Wikisource, the free online library
+Дата публ.:  2014-08-20
+Завантажено: 2026-10-07 14:51 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 69009
+Оригінал:    raw/161-en.wikisource.org-declaration_of_paris.html
+sha256:      44ae7497130c82bdd220ed342385b96fcf12f8abc8d6cd359e6498bb954229ac
+Витяг:       trafilatura
+
+==============================================================================
+# 1911 Encyclopædia Britannica/Declaration of Paris
+
+**DECLARATION OF PARIS,** a statement of principles of
+international law adopted at the conclusion (16th of April 1856)
+of the negotiations for the treaty of Paris at the suggestion of
+Count Walewski, the French plenipotentiary. The declaration
+set out that maritime law in time of war had long been the
+subject of deplorable disputes, that the uncertainty of the rights
+and duties in respect of it gave rise to differences of opinion
+between neutrals and belligerents which might occasion serious
+difficulties and even conflicts, and that it was consequently
+desirable to agree upon some fixed uniform rules. The plenipotentiaries
+therefore adopted the four following principles:—
+
+1. Privateering is and remains abolished; 2. The neutral flag covers enemy’s goods, with the exception of contraband of war; 3. Neutral goods, with the exception of contraband of war, are not liable to capture under the enemy’s flag; 4. Blockades, in order to be binding, must be effective, that is to say, maintained by a force sufficient really to prevent access to the coast of the enemy.
+
+They also undertook to bring the declaration to the knowledge of the states which had not taken part in the congress of Paris and to invite them to accede to it. The text of the declaration concluded as follows:—“Convinced that the maxims which they now proclaim cannot but be received with gratitude by the whole world, the undersigned plenipotentiaries doubt not that the efforts of their governments to obtain the general adoption thereof will be crowned with full success.”
+
+The declaration is of course binding only on the powers which
+adopted it or have acceded to it. The majority which adopted
+it consisted of Great Britain, Austria, France, Prussia, Russia,
+Sardinia and Turkey. The United States government declined
+to sign the declaration on the ground that, not possessing a great
+navy, they would be obliged in time of war to rely largely upon
+merchant ships commissioned as war vessels, and that therefore
+the abolition of privateering would be entirely in favour of
+European powers, whose large navies rendered them practically
+independent of such aid. All other maritime states acceded to
+the declaration except Spain, Mexico [1] and Venezuela.
+
+Although the United States and Spain were not parties to the declaration, both, during the Spanish-American War, observed its principles. The Spanish government, however, expressly gave notice that it reserved its right to issue letters of marque. At the same time both belligerents organized services of auxiliary cruisers composed of merchant ships under the command of naval officers. In how far this might operate as a veiled revival of the forbidden practice has now ceased to be a matter of much importance, the Hague Conference having adopted a series of rules on the subject which may be said to interpret the first of the four principles of the declaration with such precision as to take its place.
+
+The New Convention on the subject (October 18th, 1907) sets
+out that, in view of the incorporation in time of war of merchant
+vessels in combatant fleets, it is desirable to define the conditions
+under which this can be effected, that, nevertheless, the contracting
+powers, not having been able to come to an understanding
+on the question whether the transformation of a merchant
+ship into a war vessel may take place on the high sea, [2] are agreed
+that the question of the place of transformation is in no way
+affected by the rules adopted, which are as follows:—
+
+Art. i. No merchant ship transformed into a war vessel can have the rights and obligations attaching to this condition unless it is placed under the direct authority, the immediate control and the responsibility of the power whose flag it carries.
+
+Art. ii. Merchant ships transformed into war vessels must bear the distinctive external signs of war vessels of their nationality.
+
+Art. iii. The officer commanding must be in the service of the state, and properly commissioned by the competent authorities. His name must appear in the list of officers of the combatant fleet.
+
+Art. iv. The crew must be subject to the rules of military discipline.
+
+Art. v. Every merchant ship transformed into a war vessel is bound to conform, in its operation, to the laws and customs of war.
+
+Art. vi. The belligerent who transforms a merchant ship into a war vessel must, as soon as possible, mention this transformation on the list of vessels belonging to its combatant fleet.
+
+Art. vii. The provisions of the present convention are only applicable as among the contracting powers and provided the belligerents are all parties to the convention.
+
+See T. Gibson Bowles, *Declaration of Paris* (London, 1900); Sir T.
+Barclay, *Problems of International Practice and Diplomacy* (London,
+1907), chap. xv.2.  ([T. Ba.](https://en.wikisource.org/wiki/Author:Thomas_Barclay)) 
+
+- [↑](#cite_ref-1)At the 7th plenary sitting of the second Hague Conference (September 7th, 1907) the chiefs of the Spanish and Mexican delegations, M. de Villa Urratia and M. de la Barra, announced the determination of their respective governments to accede to the Declaration of Paris.
+- [↑](#cite_ref-2)This relates to the incident in the Russo-Japanese War of the transformation of Russian vessels which had passed through the Dardanelles unarmed.

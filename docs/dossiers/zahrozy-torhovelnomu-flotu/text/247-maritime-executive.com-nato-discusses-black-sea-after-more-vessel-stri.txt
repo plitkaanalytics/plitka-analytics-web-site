@@ -1,0 +1,48 @@
+URL:         https://maritime-executive.com/article/nato-discusses-black-sea-after-more-vessel-strikes-leave-seven-crew-missing
+Кінцевий:    https://maritime-executive.com/article/nato-discusses-black-sea-after-more-vessel-strikes-leave-seven-crew-missing
+Заголовок:   NATO Discusses Black Sea After More Vessel Strikes Leave Seven Crew Missing
+Дата публ.:  2026-10-15
+Завантажено: 2026-10-26 09:00 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 155800
+Оригінал:    raw/247-maritime-executive.com-nato-discusses-black-sea-after-more-vessel-stri.html
+sha256:      47f5e72cecbf417e400efebca535c12c10716f8d5517cf2e8b76884e7b40171b
+Витяг:       trafilatura
+
+==============================================================================
+# NATO Discusses Black Sea After More Vessel Strikes Leave Seven Crew Missing
+
+Romanian authorities are reporting an ongoing search and rescue effort in the Black Sea after two small product tankers were struck. Seven crewmembers from a San Marino-registered product tanker were reported missing while five others were evacuated. A second vessel reported no injuries and was said to be making its way to port under its own power as the increasing strikes are being discussed by NATO.
+
+The Maritime Coordination Center of the Romanian Naval Authority received the emergency call from the product tanker *Wine Trader* (6,259 dwt) at around 0700 on October 15. The vessel said it had been struck, and the crew was attempting to fight a fire. The first strike occurred in the area of the accommodation block and left several crewmembers unaccounted for and made a search difficult due to the intensity of the fire.
+
+A later report from the San Marino authorities said the captain reported the vessel was struck a second and possibly a third time. Damage to the water supply for the firefighting system forced them to suspend the efforts and evacuate.
+
+*Romania was organizing a search for the missing crewmembers (Interior Ministry of Romania)*
+
+The evacuation, however, was complicated by bad weather and high seas. A Romanian helicopter hoisted the injured crewmembers from the deck of the *Wine Trader*. Initial reports said there were four survivors, but the helicopter reported locating a fifth survivor. One person had suffered scalp burns, and another had mild smoke inhalation. 
+
+A second helicopter team was dispatched to the vessel and was planning to board it to search for possible additional survivors. Seven crewmembers were listed as missing. The nationalities of the crew were reported as Beninese, Croatian, and Bosnian.
+
+The vessel, built in 1989, was reported to be holding off approximately 13 nautical miles off Romania and the Salina Canal. It was empty, with reports saying it was scheduled to load vegetable seed oil from Moldova.
+
+The vessel’s flag state, San Marino, issued an alert for the Black Sea and Sea of Azov saying, “The administration strongly recommends avoiding transit through the high-risk areas until further notice. Companies are urged to carefully assess the need for any voyage and consider alternative routes wherever practicable.”
+
+Hours earlier on Wednesday evening, a Comoros-flagged chemical tanker, *Yara J* (10,000 dwt), reported it was also struck while anchored off Salina. Romania’s rescue agency ARSVOM reported that it dispatched a SAR vessel to the ship, but later reports said the crew was uninjured and the ship was making its way to Constanta. It is managed from Turkey with a crew of 17 from Syria, India, and Iran.
+
+Reports from Romania said these attacks were the first time a drone had hit a ship inside Romania’s territorial waters. The past strikes were reported to have been further offshore in the EEZ.
+
+Romanian President Nicu?or Dan cautioned that they need all the facts about what happened. He said there would be a response from Romania.
+
+Separately, the Russian Ministry of Defense reported it had struck two more cargo ships, it said, that were approaching the Odesa area. It repeated its consistent claim that the vessels were transporting military supplies to Ukraine. No further details were released on the attacks, but Reuters is identifying two vessels that were struck as a Marshall Islands-flagged Greek bulker *Sea Destiny* (82,172 dwt) and a Tanzania-flagged product tanker *Dania J.* (3585 dwt) managed from the UAE. There was no information on the level of damage to the vessels.
+
+The strikes came as NATO was conducting a scheduled meeting of the leaders in Brussels. Bulgaria’s president had said they would be raising the issue at the meeting after four vessels were struck off its coast in the past week, killing more than 20 seafarers.
+
+NATO Secretary General Mark Rutte released a statement saying he had met with the leaders of Romania and Bulgaria to discuss the situation in the Black Sea. He reported, “NATO has strengthened our posture along the eastern flank, including with increasing counter-drone capabilities. NATO will continue to work closely with our Allies in the Black Sea, adjusting our deterrence and defiance posture as needed.”
+
+that matters most
+
+Get the latest maritime news delivered to your inbox daily.
+
+Media reports said Romania would be discussing with Bulgaria and NATO the potential of invoking Article 4, a mutual defense clause in the NATO charter that says an attack on one nation is an attack on all NATO members.
+
+Bulgarian officials have previously said the rising threat in the Black Sea was raising the danger of expanding the conflict across the region. Both Bulgaria and Romania are reportedly seeking increased drone defenses from NATO and proposing new safety protocols for vessels in the Black Sea.

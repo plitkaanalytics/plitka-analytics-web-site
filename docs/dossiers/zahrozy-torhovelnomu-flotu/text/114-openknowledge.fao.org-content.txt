@@ -1,0 +1,1648 @@
+URL:         https://openknowledge.fao.org/server/api/core/bitstreams/1aafb5d8-39d1-481a-b1f8-25facaec3051/content
+Кінцевий:    https://openknowledge.fao.org/server/api/core/bitstreams/1aafb5d8-39d1-481a-b1f8-25facaec3051/content
+Заголовок:   content
+Дата публ.:  не вказана на сторінці
+Завантажено: 2026-10-07 09:39 UTC
+HTTP:        200   Тип: application/pdf;charset=UTF-8   Байтів: 3457797
+Оригінал:    raw/114-openknowledge.fao.org-content.pdf
+sha256:      647a50f9ffb5e89cfe2dd67cca24941355183e5ca059aca0994a1332926c248b
+Витяг:       pdftotext
+
+==============================================================================
+INFORMATION NOTE                                         15 March 2026
+
+                                                                                                                       © FAO
+
+GLOBAL AGRIFOOD                                          KEY MESSAGES
+IMPLICATIONS OF THE 2026
+CONFLICT IN THE MIDDLE EAST                              § The escalation of conﬂict in the Islamic Republic of Iran
+                                                            and the Middle East has sharply increased risks to
+Impacts on energy and fertilizer trade,                     global energy, fertilizer, and agrifood systems.
+and food security
+                                                         § The Strait of Hormuz, a critical chokepoint for oil, gas,
+EXECUTIVE SUMMARY                                           and fertilizers, has already seen disruptions that are
+                                                            raising energy and agricultural input costs worldwide.
+1. The conﬂict that erupted in the Persian Gulf in
+    February 2026 has generated a major shock to         § Fertilizer shortages and higher energy prices threaten
+    global energy, fertilizer, and agrifood systems.        crop yields, while remittance losses and potential
+    A central factor is the disruption of trade through     shifts to biofuel production could amplify food price
+    the Strait of Hormuz, a strategic maritime corridor     volatility, particularly in Africa, Asia, and other
+    linking Gulf energy producers with global markets.      import-dependent regions.
+    Under normal conditions, the strait carries around
+    20 million barrels of crude oil and reﬁned products  § Immediate measures such as developing alternative
+    per day — roughly one-quarter of global seaborne        trade routes, strengthening market monitoring,
+    oil — along with signiﬁcant volumes of liqueﬁed         providing ﬁnancial support for farmers, and offering
+    natural gas (LNG) and fertilizer exports.               targeted aid for vulnerable countries are needed to
+                                                            stabilize supply chains.
+2. Within days of the conﬂict, tanker traffic through
+    the strait collapsed by more than 90 percent,        § Longer-term strategies should focus on domestic
+    severely restricting shipments. This disruption         agriculture, sustainable fertilizer production, renewable
+    rapidly transmitted volatility to global energy         energy, and structural adjustments, while diplomatic
+    markets and the global agrifood system.                 efforts to reopen the Strait of Hormuz remain essential
+                                                            to safeguard global energy and food security.
+
+                  i
+3. The Persian Gulf plays a central role in the global energy system. Countries in the region, including
+    Bahrain, Iraq, the Islamic Republic of Iran, Kuwait, Qatar, Saudi Arabia, Oman and the United Arab
+    Emirates, account for a large share of global oil and gas exports. Approximately one ﬁfth of global
+    LNG exports originate in the Gulf. The region is also a key supplier of reﬁned fuels such as liqueﬁed
+    petroleum gas (LPG), diesel and jet fuel.
+
+4. As maritime risks increased and insurance costs surged, shipping activity through the Strait of
+    Hormuz dropped sharply, forcing producers to reduce output. By early March, export volumes
+    through the corridor had fallen to less than 10 percent of pre-conﬂict levels, leaving an estimated
+    10 million barrels per day of oil production temporarily shut in because of export constraints.
+
+5. Global markets reacted immediately. Oil prices rose rapidly as traders incorporated a substantial
+    geopolitical risk premium to market expectations. Brent crude prices increased by about
+    20–35 percent in the ﬁrst days of the conﬂict, brieﬂy reaching around USD 115–120 per barrel,
+    while US benchmark prices rose above USD 100 per barrel.
+
+6. Natural gas markets experienced even stronger movements, particularly in Europe, where
+    benchmark prices increased by roughly 50–75 percent during the ﬁrst weeks of the crisis. These
+    developments have tightened global energy markets and increased costs across transportation,
+    industry, and agriculture.
+
+7. Governments and international institutions have attempted to stabilize markets. On 11 March 2026
+    the International Energy Agency announced a coordinated release of approximately 400 million
+    barrels from strategic petroleum reserves, the largest emergency stock release in its history. While
+    the announcement helped calm markets, the volume released represents only about 20 days of
+    normal Gulf oil supply. This underscores the limited capacity of emergency reserves to offset
+    prolonged disruptions should the conﬂict persist.
+
+8. Beyond energy, the Persian Gulf is also a major hub for global fertilizer production and exports.
+    Countries such as the Islamic Republic of Iran, Qatar, Saudi Arabia, and Oman are among the world’s
+    leading exporters of nitrogen fertilizers, including urea and ammonia. In recent years the region has
+    accounted for roughly 30–35 percent of global urea exports and around 20–30 percent of ammonia
+    exports. Overall, up to 30 percent of internationally traded fertilizers normally transit the Strait of
+    Hormuz. With maritime traffic severely disrupted and several production facilities damaged or
+    temporarily closed due to security concerns, fertilizer supply chains have been heavily affected.
+    Production cuts and shipping constraints have stalled an estimated 3–4 million tonnes of fertilizer
+    trade per month.
+
+9. Unlike oil, the fertilizer sector does not have internationally coordinated strategic reserves, making
+    supply disruptions more difficult to manage. Prices have already increased signiﬁcantly. In early
+    March, Middle East granular urea prices rose by nearly 20 percent compared to late February levels,
+    while other fertilizer prices, such as diammonium phosphate, also rose. Because nitrogen fertilizer
+    production relies heavily on natural gas as a feedstock, the rise in energy prices has further
+    ampliﬁed production costs. It is estimated that global fertilizer prices could average 15–20 percent
+    higher during the ﬁrst half of 2026 if the crisis continues.
+
+10. These developments are beginning to affect global agricultural commodity markets. Rising fertilizer
+    costs and higher fuel prices increase production expenses for farmers and may lead to reduced
+    fertilizer use in many regions. Lower input application could result in lower crop yields later in the
+    year and tighter global grain supplies.
+
+                                                                        ii
+11. At the same time, higher energy prices are increasing costs throughout agricultural supply chains,
+    including farm operations, irrigation, transport, storage, and food processing.
+
+12. Early signals in international markets indicate that prices for major food commodities such as
+    wheat, rice, and vegetable oils have started to increase. The FAO Food Price Index remains below
+    the peak levels recorded during the 2022 global food price spike following the war in Ukraine, but it
+    has begun to rise again, reﬂecting renewed uncertainty in global commodity markets. Energy
+    shocks also reinforce the link between fuel markets and agricultural commodities through biofuels.
+    Higher oil prices increase the proﬁtability of ethanol and biodiesel production, raising demand for
+    feedstocks such as maize, soybean oil, and palm oil. As a result, volatility in energy markets can
+    rapidly transmit to food markets.
+
+13. Import-dependent countries in Asia, Africa and Latin America are particularly exposed to fertilizer
+    shortages and rising input costs. Many African economies rely heavily on imported fertilizers from
+    Gulf producers, and even moderate price increases can signiﬁcantly reduce fertilizer use among
+    smallholder farmers.
+
+14. Similarly, commercial farmers in Latin America, already facing difficult market conditions with low
+    commodity prices, may not be able to handle new increase in input costs and will have to reduce
+    fertilizer use.
+
+15. Lower fertilizer applications can reduce crop yields and increase food security risks directly and
+    indirectly in vulnerable regions through local supply changes and future reduction of outputs in
+    global breadbaskets. Higher energy prices also increase transport and logistics costs, raising the
+    cost of food imports and further pressuring domestic food prices.
+
+16. At the same time, the Gulf countries themselves face structural food security vulnerabilities.
+    Despite their energy wealth, most Gulf States rely on imports for between 70 and 90 percent of their
+    food supply, because domestic agricultural production is limited by water scarcity and climatic
+    constraints. Disruptions to maritime trade routes therefore threaten the primary channel through
+    which food reaches the region. Although Gulf governments maintain strategic food reserves that
+    can cover several months of consumption, a prolonged disruption to shipping could strain supply
+    chains and raise domestic food prices once reserves begin to decline.
+
+17. The Islamic Republic of Iran faces particularly severe pressures because it is both directly affected
+    by the conﬂict and vulnerable to macroeconomic instability. The conﬂict has disrupted imports of
+    key staples and agricultural inputs, while worsening an already fragile economic environment
+    characterized by currency depreciation and high inﬂation. The Islamic Republic of Iran relies on
+    imports for essential foods and feed commodities, including wheat, maize, rice, and vegetable oils.
+    The sharp depreciation of the Iranian currency has signiﬁcantly increased the domestic cost of
+    imported food and agricultural inputs. Wheat ﬂour prices in Tehran rose by about 120 percent in a
+    single month and nearly 200 percent compared to the previous year in early 2026. Rising import
+    costs, logistics disruptions, and policy responses aimed at protecting domestic supply are
+    accelerating food inﬂation and reducing household purchasing power.
+
+                                                                        iii
+18. The conﬂict may also generate broader economic effects beyond commodity markets. Gulf
+    economies host millions of migrant workers from South Asia, Southeast Asia, and Africa who send
+    home billions of dollars in remittances each year. If the conﬂict reduces economic activity in the
+    region or forces workers to return home, remittance ﬂows could decline signiﬁcantly. This would
+    reduce household incomes in several developing economies and compound the effects of rising
+    food and energy prices.
+
+19. The ongoing conﬂict in the Persian Gulf poses additional risks to global economic and food
+    security. Disruptions in oil, gas, and fertilizer exports have already triggered price spikes, and
+    prolonged instability could exacerbate inﬂation, slow growth, and destabilize markets worldwide.
+    Countries heavily reliant on Gulf imports, particularly in Asia, Africa, and the Middle East, face
+    compounded shocks as rising input costs undermine agricultural production, industrial output, and
+    household purchasing power.
+
+20. Fertilizer shortages and higher energy costs threaten crop yields, while tighter grain supplies could
+    trigger cross-commodity price contagion, further raising food prices in low-income, import-
+    dependent countries. At the same time, remittance ﬂows from Gulf labour migrants are at risk,
+    potentially reducing incomes for tens of millions of households, and a sustained shift toward
+    biofuels could divert crops from food production, amplifying price volatility in 2027 and beyond.
+
+21. Overall, the Persian Gulf conﬂict highlights the deep interconnections between energy markets,
+    fertilizer supply chains, and global agrifood systems. A prolonged disruption to trade through the
+    Strait of Hormuz could create cascading impacts across these sectors, raising production costs,
+    tightening agricultural supply, and increasing food prices worldwide. While global food markets
+    remain more stable than during previous crises, the current shock underscores the vulnerability of
+    interconnected energy and agrifood systems and the importance of coordinated international
+    action to stabilize markets, maintain open trade routes, and protect vulnerable populations from
+    rising food insecurity.
+
+22. A coordinated policy response is urgently needed to mitigate these risks and build resilience. In the
+    short term, alternative trade routes, market monitoring, targeted support for vulnerable import-
+    dependent countries, and ﬁnancial assistance for farmers are critical to stabilize supply chains and
+    protect populations. Medium-term strategies should prioritize diversiﬁcation of import sources,
+    regional coordination, and contingency planning, while long-term measures must focus on
+    domestic agricultural expansion, sustainable fertilizer production, renewable energy investments,
+    and structural adjustments to cope with persistent price volatility and biofuel-driven demand
+    shifts. Diplomatic efforts to de-escalate tensions and ensure freedom of navigation in the Strait of
+    Hormuz remain the single most effective way to stabilize global energy and food markets,
+    complementing these multi-layered interventions.
+
+                                                                        iv
+CONTENTS
+
+1. Gulf countries’ role in energy and fertilizer markets and disruption impacts ....................................2
+   1.1 Energy.....................................................................................................................................3
+   1.2 Fertilizer..................................................................................................................................7
+   1.3 Implications for commodity prices......................................................................................... 10
+
+2. From regional crisis to global impacts for agrifood systems .......................................................... 15
+   2.1 Rising costs for farmers and implications for fertilizer use and future yields .......................... 16
+   2.2 Loss of export markets and farm revenue .............................................................................. 18
+
+3. Threats to food security ...............................................................................................................20
+   3.1 The situation of Gulf countries...............................................................................................20
+   3.2 The Islamic Republic of Iran’s agrifood system under strain: a special case ............................24
+
+4. Modeling potential outcomes: scenario simulations, future risks, and policy options to mitigate
+   negative impacts..........................................................................................................................28
+   4.1 Scenario-based modeling and projected impacts ..................................................................28
+   4.2 Additional risks......................................................................................................................34
+   4.3 Policy options to mitigate risks .............................................................................................. 37
+
+Annex ............................................................................................................................................... 39
+
+                                                                        v
+FIGURES
+
+Figure 1.   Crude oil exports transiting the Strait of Hormuz by destination (2025) .............................. 2
+Figure 2.   Global energy supply originated from Persian Gulf countries (2025).................................... 3
+Figure 3.   Alternative routes for oil exports........................................................................................ 5
+Figure 4.   Energy prices .................................................................................................................... 6
+Figure 5.   Fertilizer price evolution.................................................................................................... 9
+Figure 6.   Evolution of FAO Food Price Index in nominal and real terms ............................................. 12
+Figure 7.   Corn and soybean oil prices .............................................................................................. 13
+Figure 8.   Ethanol and biodiesel prices ............................................................................................. 14
+Figure 9.   Agrifood systems with high dependency in relation to Persian Gulf countries (2023) .......... 15
+Figure 10.  Relative and absolute exposure to nitrogen shortage and price increase (2023) ................ 17
+Figure 11.  Gulf country import share in global markets (2023) ........................................................... 19
+Figure 12.  Vulnerability of Persian Gulf States to imported food (2023) ............................................. 20
+Figure 13.  Import dependency of Gulf States by commodity (2023).................................................... 21
+Figure 14.  Domestic retail food prices in Tehran ............................................................................... 27
+Figure 15.  Potential impacts in 2026: economy wide results ............................................................. 31
+Figure 16.  Potential impacts in 2026 on sectoral consumption and income, percentage change....... 33
+Figure 17.  Main countries exposed to remittances loss (2021)........................................................... 36
+
+Figure A1. Price trends for energy, fertilizers and agrifood commodities (since January 2024).......... 39
+
+TABLE
+
+Table 1. Islamic Republic of Iran food supply and vulnerability to external supply........................... 25
+
+BOX         From the war in Ukraine to the conﬂict in the Middle East: differences and similarities
+            between crises ..................................................................................................................11
+Box 1.
+
+            vi
+INFORMATION NOTE
+
+The ongoing conﬂict in the Persian Gulf, involving the Islamic Republic of Iran and other regional actors,
+has severely disrupted critical energy and commodity ﬂows. This note provides a comprehensive
+analysis of the conﬂict’s impacts across six key thematic areas: (1) the role of Gulf countries in energy
+and fertilizer markets and the impact of supply disruptions; (2) global repercussions of the regional
+conﬂict, especially for partners involved in fertilizers and food trade with the Gulf countries; (3) threats
+to food security within Gulf countries; and (4) forward looking analysis, and policy recommendations to
+mitigate existing challenges and address emerging risks. Each section presents the most important
+insights ﬁrst, supported by data from recent analysis, reports, and visual ﬁgures.
+The Persian Gulf region is a cornerstone of global energy and fertilizer supply. The Gulf countries —
+Bahrain, Iraq, the Islamic Republic of Iran, Kuwait, Qatar, Saudi Arabia, Oman, and the United Arab
+Emirates — collectively produce and export signiﬁcant shares of the world’s crude oil, liqueﬁed natural
+gas (LNG), and reﬁned petroleum products. Prior to the conﬂict, approximately 20 million barrels per
+day of oil and reﬁned products — around a quarter of global seaborne oil trade — transited the Strait of
+Hormuz. The outbreak of conﬂict on 28 February 2026, led to an immediate and dramatic reduction in
+Gulf exports, with tanker traffic through the strait falling by over 90 percent in early March and Gulf oil
+production curtailed by 10 million barrels per day by March 10 (IEA, 2026a). These disruptions triggered
+sharp spikes in global energy prices, with Brent crude brieﬂy reaching USD 115–120 per barrel and
+European natural gas prices surging by 50–75 percent. Simultaneously, the region’s fertilizer exports,
+particularly nitrogen fertilizers like urea and ammonia, have been severely constrained, threatening
+agricultural production in Asia, Africa, and beyond.
+The conﬂict’s ripple effects extend well beyond the Gulf. Countries dependent on imported fertilizers,
+including India, Pakistan, Bangladesh, and multiple African nations, face higher costs and potential
+shortages that could compromise crop yields. Meanwhile, food-exporting countries are experiencing
+delays and uncertainty in reaching Gulf markets, while nations with large expatriate populations in the
+Gulf risk reductions in remittance inﬂows. Within the Gulf itself, countries rely on imports for most of
+their staples, leaving them highly vulnerable to maritime disruptions. The Islamic Republic of Iran, as
+both a combatant and major regional economy, faces acute domestic pressures: soaring food prices,
+import disruptions, and preemptive export bans are straining an already fragile agricultural and
+economic system, threatening food affordability and availability for millions.
+
+                                                                        1
+This report also considers future risks under different conﬂict scenarios, highlighting the potential for
+prolonged supply shocks, rising food prices, and heightened vulnerability in low-income, import-
+dependent countries. Drawing on these analyses, it proposes a suite of short-, medium- and long-term
+policy options to mitigate the conﬂict’s impacts. These include expanding alternative trade routes,
+enhancing market monitoring, supporting vulnerable farmers and import-dependent populations, and
+promoting longer-term resilience in energy, fertilizer, and agrifood systems. While diplomatic
+resolution and restoration of maritime access remain paramount, the recommendations emphasize
+proactive measures to stabilize global food and energy security amid ongoing geopolitical uncertainty.
+
+1. GULF COUNTRIES’ ROLE IN ENERGY AND FERTILIZER
+   MARKETS AND DISRUPTION IMPACTS
+
+The Persian Gulf region sits at the heart of global energy markets because it hosts some of the largest
+producers and exporters of crude oil, LNG, and petroleum products in the world. The Strait of Hormuz,
+the narrow strategic waterway linking the Persian Gulf to the Arabian Sea, serves as the sole exit point
+to open seas for these exports, and normally about 20 percent of the world’s oil and a similar share of
+global LNG supply transit this chokepoint each day (see Figure 1.). This concentration of ﬂows means
+that even short disruptions can remove millions of barrels per day from global markets, sharply
+tightening supply and triggering rapid price increases that ripple across economies worldwide.
+Because energy is integral to transportation, industrial activity, and heating, volatility in Gulf oil and gas
+supplies directly affects global economic stability and inﬂation.
+Figure 1. Crude oil exports transiting the Strait of Hormuz by destination (2025)
+
+Note: Refer to the disclaimer on the last page for the names and boundaries used in this map.
+Source: IEA (International Energy Agency). 2026. Strait of Hormuz Factsheet. Paris. https://www.iea.org/about/oil-
+security-and-emergency-response/strait-of-hormuz
+
+                                                                        2
+Beyond energy, the Persian Gulf is also a critical hub for global fertilizer production and trade, especially
+nitrogen fertilizers, which are essential for modern agriculture. A large share of globally traded fertilizer —
+roughly a third of urea exports, 20 percent of ammonia exports and 20 percent of phosphate (IEA, 2026b)
+— moves through the Strait of Hormuz because Gulf producers like Qatar, Saudi Arabia, the Islamic
+Republic of Iran, and the United Arab Emirates are major exporters due to their access to abundant and
+relatively cheap natural gas feedstock. This link between energy and fertilizer markets means that
+disruptions to Gulf exports not only tighten fuel supplies but also choke off agricultural inputs, raising
+fertilizer prices and threatening crop yields and food security far from the region. Because there are no
+large strategic fertilizer reserves comparable to oil stocks, any sustained interruption to these flows can
+quickly elevate global fertilizer costs and contribute to broader food price inflation.
+
+1.1 Energy
+
+     1.1.1 Energy trade
+
+Prior to the conﬂict, the Strait of Hormuz carried roughly 20 million barrels per day of crude oil and
+reﬁned products, about 25 percent of the world’s seaborne oil trade (see Figure 2). The Gulf States,
+notably Saudi Arabia, the United Arab Emirates, Kuwait, Qatar, Iraq, and the Islamic Republic of Iran, are
+major oil producers and exporters, collectively accounting for more than 25 percent of the global
+output (IEA, 2026a). The region also supplies a signiﬁcant portion of global natural gas, especially LNG,
+and petroleum products.
+Figure 2. Global energy supply originated from Persian Gulf countries (2025)
+
+Note: LNG = liqueﬁed natural gas.
+Sources: IEA. 2026. Oil Security and Emergency Response: Strait of Hormuz. Paris. https://www.iea.org/about/oil-security-
+and-emergency-response/strait-of-hormuz and IEA. 2026. Oil Market Report - March 2026. Paris.
+https://www.iea.org/reports/oil-market-report-march-2026
+
+                                                                        3
+Roughly one-ﬁfth of global LNG exports originate in the Gulf and must pass through Hormuz. The Gulf is
+similarly critical for reﬁned fuels like diesel and jet fuel. For example, Gulf reﬁneries provided an
+estimated 60 percent of Europe’s jet fuel and 20 percent of its diesel in 2025 (IEA, 2026a). This means
+any major disruption in the Gulf directly threatens global energy security.
+The Islamic Republic of Iran is a signiﬁcant oil producer, pumping roughly 3.5 million barrels per day —
+about 4 percent of global supply — and the conﬂict has threatened both its production and export
+capacity. At the same time, the conﬂict has severely disrupted traffic through the Strait of Hormuz.
+
+     1.1.2 Logistic challenge in energy trade
+
+Within days of the conﬂict’s outbreak, tanker traffic through the Strait of Hormuz plunged by more
+than 90 percent, falling from an average of about 129 ship transits per day in February to barely 3–6 per
+day in early March (IMF, 2026). By mid-March, export volumes of crude oil and products through
+Hormuz were at less than 10 percent of their pre-conﬂict levels. With the main transit route effectively
+closed, Gulf producers have been forced to curtail oil output, shutting in about 10 million barrels per
+day of production by March 10 due to export constraints. These production cuts were partially offset
+by accelerated loading of tankers stranded inside the Gulf, which collectively added 8.6 million barrels
+per day of loading activity since the onset of the crisis and may help lift supply once the Strait
+reopens. Only Saudi Arabia and the United Arab Emirates have pipelines (displayed in red and green in
+Figure 3) that can bypass the Strait, with limited spare capacity — up to 5.5 million barrels per day,
+about one-quarter of the usual export of the region — leaving other producers like the Islamic Republic
+of Iran, Iraq, Kuwait, Qatar, and Bahrain almost completely reliant on the blocked route. This sudden
+supply loss of nearly a quarter of world oil trade marks one of the largest disruptions in oil market
+history. According to the latest IEA projections, global oil supply in March is expected to decline by
+8 million barrels per day, falling to 98.8 million barrels per day, its lowest level since the ﬁrst quarter of
+2022 (IEA, 2026a).
+
+                                                                        4
+Figure 3. Alternative routes for oil exports
+
+Source: IEA. 2026. Strait of Hormuz Factsheet. Paris. https://www.iea.org/about/oil-security-and-emergency-
+response/strait-of-hormuz
+
+Attacks on tankers, rising insurance costs, and security threats have drastically reduced shipping
+through the strait, creating immediate fears of a global supply shortage. These supply concerns have
+been ampliﬁed by production cuts and disruptions in other Gulf producers and by attacks on energy
+infrastructure across the region.
+The potential impacts of these disruptions are immense. In energy markets, a prolonged Gulf supply
+outage could ﬂip global oil from surplus into deﬁcit, driving prices to extreme levels and straining the
+world economy.
+Global markets reacted swiftly and turbulently to the Persian Gulf conﬂict, with energy prices spiking to
+multi-year highs and fertilizer costs surging, setting the stage for broader commodity inﬂation. A military
+strikes and tanker attacks brought Gulf oil exports to a standstill, traders immediately priced in a steep
+“geopolitical risk premium.” In the ﬁrst days of March 2026, Brent crude oil futures jumped more than
+20–35 percent compared to pre-conﬂict levels (see Figure 4), brieﬂy soaring to around USD 115–120 per
+barrel — the highest prices seen since 2022 but still not breaking the spike of the war in Ukraine (see
+Annex) (Investing.com, 2026a). The US benchmark, West Texas Intermediate, similarly spiked from about
+USD 70 in late February to above USD 100 at its peak in early March (Investing.com, 2026b).
+
+                                                                        5
+These sharp increases reﬂect fear of a global supply crunch as up to 15–20 million barrels per day of
+Gulf output were suddenly at risk. By mid-March, oil prices remained extremely volatile. Brent had
+pulled back to the low USD 90 after initial spikes but was still roughly USD 20 higher than before the
+conﬂict (IEA, 2026a).
+Figure 4. Energy prices
+
+Sources: Data for Brent Oil (LCOc1), Crude Oil WTI (CLc1) , Dutch TTF Natural Gas (TFAc1) and LNG Japan/Korea Marker PLATTS
+Future (JKMc1) from Investing.com. 2026. Commodities. [Accessed on 14 March 2026].
+https://www.investing.com/commodities
+
+Natural gas markets saw an even more dramatic response (see Figure 4). European gas benchmark,
+Dutch TTF, futures surged by 50–75 percent in the conﬂict’s ﬁrst two weeks, reﬂecting both lost LNG
+export volumes from the Gulf and panic buying by importers. A missile strike on a Qatari LNG facility on
+1 March sent TTF prices above EUR 65 per megawatt-hours (MWh), up nearly 50 percent overnight
+(Investing.com, 2026c). Overall, LNG prices jumped about 47 percent to EUR 65.5 per MWh in early
+March (Investing.com, 2026d). This instability hit reﬁned fuel markets as well. Diesel and jet fuel prices
+surged worldwide, since key suppliers like Saudi Arabia and the United Arab Emirates have cut reﬁnery
+runs and exports due to full storage tanks and security threats (IEA, 2026a). The abrupt loss of Gulf
+diesel and jet supply left little spare reﬁning capacity elsewhere to ﬁll the gap, driving those product
+prices sharply higher.
+
+                                                                        6
+The current situation remains highly volatile. Prices initially spiked above USD 110–120 per barrel amid
+fears that the conﬂict could shut down Gulf exports entirely and potentially remove millions of barrels
+per day from global markets. However, prices have recently ﬂuctuated as markets respond to changing
+geopolitical signals, including statements suggesting the conﬂict might ease and discussions about
+possible releases from strategic petroleum reserves or alternative export routes. Even with temporary
+declines, the market remains extremely sensitive to developments in the region because prolonged
+disruption of the Strait of Hormuz or regional oil infrastructure could push oil prices signiﬁcantly
+higher, potentially reaching USD 150 per barrel.
+
+     1.1.3 Energy policy responses to date
+
+Governments and institutions have scrambled to stabilize markets. On 11 March, the International
+Energy Agency (IEA) announced a coordinated release of 400 million barrels from emergency oil
+reserves, the largest such action in its history, to offset the Gulf supply losses (IEA, 2026c). While this
+move provided temporary relief, it has not fully calmed oil prices, which remain volatile. This
+intervention could only address short-term concerns since it is the equivalent of 20 days of Gulf
+countries’ supply. Some countries have also moved to secure alternative energy, but replacement
+options are limited and often costly. Overall, the markets’ reaction underscores the world’s exposure to
+the Gulf. In a conﬂict of this magnitude, energy can rise within days to levels that threaten both
+economic stability and food security across the globe.
+This is the sixth coordinated emergency stock release in IEA history. Previous releases occurred in 1991
+during the ﬁrst Gulf War, in 2025 after Hurricane Katrina disrupted US Gulf Coast oil production and
+reﬁning capacity, in 2011 in response to the loss of Libyan crude oil output during the civil conﬂict, and
+twice in 2022 after the beginning of the war in Ukraine. The release of 2026 has been the largest so far.
+
+1.2 Fertilizer
+
+Beyond oil, the Gulf region is also a key hub of the global fertilizer market, supplying a substantial share
+of nitrogen and phosphate fertilizers that support agricultural production worldwide. The region’s
+abundant natural gas resources allow Gulf countries to produce fertilizers at competitive costs, making
+them essential suppliers for many import-dependent countries in Asia, Africa, and beyond. Any
+disruption to Gulf fertilizer exports, whether from conﬂict, infrastructure attacks, or shipping
+bottlenecks, can quickly translate into higher fertilizer prices, reduced crop yields, and broader threats
+to global food security, showing how closely the Gulf’s energy and agricultural supply chains are
+connected to the stability of the global economy.
+
+                                                                        7
+     1.2.1 Fertilizer trade
+
+Gulf countries are among the top exporters of nitrogen fertilizers like urea and ammonia and
+phosphate fertilizers. Up to 30 percent of globally traded fertilizer products — roughly 16 million tonnes
+per year of nitrogenous, phosphates and sulfur — transit the Strait of Hormuz (Kpler, 2025).
+In particular, the Persian Gulf region provides an estimated 30–35 percent of the world’s urea exports
+and about 20–30 percent of ammonia exports in recent years (FAO, 2026a). For example, Qatar’s
+massive QAFCO complex produces 14 percent of global urea trade single-handedly, and Saudi Arabia
+and the Islamic Republic of Iran also rank among top nitrogen and phosphate fertilizer suppliers.
+The loss of Gulf exports creates an immediate global shortfall with no quick substitute, since no
+strategic fertilizer stockpiles exist internationally and alternative production in other regions was
+already limited by high energy costs and earlier export restrictions. The Gulf’s central role means any
+protracted conﬂict threatens cascading effects. The conﬂict has not only unleashed an energy crisis
+but also a fertilizer supply crisis, raising the possibility of lower agricultural yields and global food price
+spikes in the months ahead if the disruptions continue.
+With the outbreak of the conﬂict, these fertilizer ﬂows have been severely disrupted. Key facilities have
+been damaged or shut. Qatar’s Ras Laffan LNG and fertilizer operations were struck on 2 March, halting
+output of 112 billion cubic metres of LNG and associated ammonia production. Major fertilizer plants in
+Qatar, the United Arab Emirates, Saudi Arabia, the Islamic Republic of Iran, and Jordan have reduced or
+suspended production due to attacks and insecurity. The effective closure of Hormuz means that an
+estimated one-third of all fertilizer trade is stalled, with 3–4 million tonnes per month not reaching
+markets. In short, the conﬂict is choking off the world’s fertilizer highway, cutting supply lines that
+connect Gulf petrochemical plants to farms across Asia, Africa, and beyond.
+In addition, the Middle East conﬂict has tightened already fragile global fertilizer supply conditions.
+Even before the conﬂict, the market faced constraints due to reduced exports from major suppliers
+such as China and high energy costs in Europe that limited fertilizer production (IEA, 2026d). The new
+conﬂict has compounded these pressures, as nitrogen fertilizer markets reacted immediately to the
+geopolitical shock, pushing prices higher across markets in North America, Europe and Asia.
+
+                                                                        8
+     1.2.2 Fertilizer prices
+
+The fertilizer market experienced an immediate shock as well, as it is tightly linked to energy. Natural
+gas is the key feedstock for nitrogen fertilizers, so the spike in gas and oil prices, combined with
+disrupted Gulf production and shipping, caused fertilizer prices to skyrocket (see Figure 5). In the ﬁrst
+week of March, Middle East granular urea prices climbed to over USD 590 per tonne, up by USD 90
+(+19 percent) from late February (Investing.com, 2026e). Other benchmark fertilizer prices followed.
+For instance, US Gulf DAP rose to USD 655 per tonne, about 5 percent higher in the same period (Yahoo
+Finance, 2026a). Some regional fertilizer prices saw even steeper jumps. In Egypt, urea prices spiked
+28 percent in days, reaching USD 625 per tonne (Yahoo Finance, 2026b). Futures markets for fertilizers
+and their inputs initially leapt by 10 percent or more on news of the conﬂict. Tensions have also
+increased on the markets with a number of previously negotiated contracts cancelled for “force
+majeure” and forcing buyers, to go to the spot market, creating a surge in demand. Global fertilizer
+prices are projected to average roughly 15–20 percent higher in the ﬁrst half of 2026 than a year prior if
+the crisis persisted.
+Figure 5. Fertilizer price evolution
+
+Sources: Yahoo Finance. 2026. Urea (Granular) - US Gulf (UFV). [Accessed on 14 March 2026].
+https://ﬁnance.yahoo.com/chart/UFV%3DF and Investing.com. 2026. DAP FOB NOLA - Mar 26 – Historical Data. [Accessed on
+14 March 2026]. https://www.investing.com/indices/dap-fob-nola-futures-historical-data
+
+                                                                        9
+1.3 Implications for commodity prices
+
+So far, major agricultural commodity prices have risen, though the impact is somewhat mitigated by
+ample global grain supplies entering 2026 (AMIS, 2026). Commodity prices on world markets, as shown
+by the FAO Food Price Index in Figure 6, is at similar level as in spring 2021 and 21 percent below the
+spike of March 2022 at the height of the war in Ukraine crisis (FAO, 2026b).
+While these two crises have triggered global responses, and share some similarities, the comparison
+between the 2022 shock from the war in Ukraine and the current crisis in the Middle East highlights
+critical distinction in global economics. While both events have triggered massive disruptions in energy
+and fertilizers, the underlying mechanics of global agricultural supply and demand are operating in
+entirely different ways. Box 1 discusses the similarities and differences between the two crises in
+more details.
+
+                                                                       10
+Box 1. From the war in Ukraine to the conﬂict in the Middle East:
+          differences and similarities between crises
+
+The economic fallout from the war in Ukraine was characterized by a massive, simultaneous shock
+to both the direct supply of food and the inputs required to grow it, colliding with a period of intense
+global demand. Russian Federation and Ukraine were foundational to the global agrifood system,
+acting as dominant exporters of essential staples like wheat, corn, barley, and sunﬂower oil. The war
+immediately removed these ﬁnished agricultural products from the market. At the same time, trade
+disruptions heavily restricted Russian Federation's exports of natural gas and fertilizers, crippling
+the ability of other nations to scale up production to ﬁll the void. In the meantime, the world was just
+emerging from the pandemic era, meaning global consumer demand was exceptionally strong.
+Furthermore, poor weather conditions in late 2021 had already resulted in lower harvests, leaving
+global grain stocks slightly depleted before the war even began. This combination created a
+textbook inﬂationary spiral for food. High demand met an immediate, severe supply shock for grains
+and oilseeds. Food prices predictably skyrocketed, and the surging cost of energy and fertilizers
+effectively capped any short-term agricultural recovery.
+The current conﬂict in the Gulf region is generating a shock of similar, or perhaps even greater,
+magnitude to energy and fertilizer markets. However, the dynamics of the food market are entirely
+ﬂipped. Unlike the Black Sea region, the Middle East is not a major exporter of staple grains or
+oilseeds. The direct global supply of wheat, corn, and soybeans has not been physically destroyed or
+blockaded at the source by this speciﬁc conﬂict. The most crucial difference is that the Gulf nations
+are historically some of the world's most reliant net importers of food. Because the region is
+paralysed by conﬂict and blockades, a signiﬁcant portion of global agricultural demand has
+effectively been removed from the market.
+Because the fundamental architecture of the crisis is different, the economic outcomes and the
+necessary policy responses cannot be a repeat of 2022. Farmers in places like Brazil or the United
+States of America might ﬁnd themselves with plenty of grain but fewer buyers in the Middle East, all
+while paying excessive prices to fuel their tractors and fertilize their ﬁelds. Consequently, the
+optimal policy response shifts as we will see in Section 4.3. Instead of policies aimed strictly at
+securing emergency food supplies, governments must pivot protecting their domestic agricultural
+sectors from collapsing under the weight of input costs, while simultaneously ﬁnding new markets
+for the grain surpluses, or ﬁnding new ways to deliver them to the Gulf.
+
+                                                                     11
+The situation also remains signiﬁcantly below the 1970s food crisis. Nonetheless, the conﬂict’s ripple
+effects on food costs are a growing concern and cumulative effects could bring markets to previous
+extremes. Importers and producers are growing anxious that the Gulf conﬂict could reignite food
+inﬂation just as the world was recovering from the 2022–2023 food price crisis (FAO et al., 2025).
+Figure 6. Evolution of FAO Food Price Index in nominal and real terms
+
+Source: FAO. 2026. Food Price Index. [Cited 14 March 2026]. https://www.fao.org/worldfoodsituation/foodpricesindex/en
+
+     1.3.1 Differentiated responses across commodities
+
+In early March, commodities like wheat, rice, corn and vegetable oils saw prices ﬁrming on international
+markets, exacerbated by panic buying and stockpiling. Volatility has increased but some commodities
+were on an upward trend before the beginning of the conﬂict. Crucially, many fear a “cross-commodity
+price contagion,” when a price shock in one commodity spreads to other commodities, pushing their
+prices up. If farmers cut fertilizer use due to high costs, future harvests may shrink, leading to tighter
+grain supplies and a surge in food prices later in 2026. Higher energy prices drive up costs for farm inputs
+like fuel and electricity and transportation, while pricier fertilizer makes crop production more expensive.
+
+                                                                       12
+Figure 7. Corn and soybean oil prices
+
+Sources: Investing.com. 2026. US Soybean Oil (BOc1) [Accessed on 14 March 2026]. https://www.investing.com/commodities/
+us-soybean-oil-historical-data?cid=1178328 and Investing.com. 2026. US Corn (Cc1) – Historical Data. [Accessed on 14 March
+2026]. https://www.investing.com/commodities/us-corn-historical-data?cid=1178334
+
+In addition to spot market developments, futures markets for key cereals on the Chicago Board of
+Trade (CBT) have shown early signs of tightening and upward price pressure in response to the conﬂict
+and broader market uncertainty. In early 2026 trading, corn and soybean (seeds and oils) futures rose to
+multi-month highs, as shown in Figure 7, with contracts for delivery later in the year climbing on
+expectations of stronger demand and concerns over input costs, including rising energy and fertilizer
+prices. Importantly, these two commodities are also linked to the energy markets through their use as
+liquid biofuels.
+Traders have responded to geopolitical risk by increasing open interest and advancing prices for corn,
+soybeans, and other agricultural futures, reﬂecting a market repositioning toward anticipated tighter
+supplies and heightened volatility. For example, soybean futures have experienced robust activity with
+high open interest, indicating strong investor engagement, while corn futures have regained
+momentum as contracts for later delivery approach psychologically signiﬁcant price levels near USD 5
+per bushel, about USD 200 per tonne, amid sustained ethanol demand and export interest. Futures
+prices for wheat and other grains have also shown periods of strength, with rally dynamics inﬂuenced
+by global supply concerns and speculative positioning in the wake of the Persian Gulf disruptions.
+These movements in futures markets suggest that traders are pricing in a rising trend for food
+commodity costs over the medium term. This reinforces fears that elevated input costs, and supply
+bottlenecks could spill into higher global food prices throughout 2026 if these conditions persist.
+
+                                                                       13
+     1.3.2 The demand linkage: the role of biofuels
+
+Similarly, the rise in oil prices has led governments and fuel blenders to secure alternative, domestically
+produced energy sources, especially ethanol and biodiesel. This geopolitical shock translates directly
+into feedstock markets. Tight energy balances and high gasoline and diesel prices strengthen blending
+margins, which in turn support biofuel demand.
+Figure 8. Ethanol and biodiesel prices
+
+Sources: Neste. 2026. Renewable diesel HVO (UCO) ARA. [Accessed on 14 March 2026]. https://www.neste.com/investors/
+market-data/renewable-products and Investing.com. 2026. Chicago Ethanol Platts F (CUUc1) – Historical Data. [Accessed on
+14 March 2026] https://www.investing.com/commodities/chicago-ethanol-(platts)-futures-historical-data
+
+Rise in ethanol demand has driven up US corn futures during periods of record ethanol output despite
+broader commodity uncertainty. Similarly, the biodiesel sector, which is highly sensitive to
+vegetable-oil inputs, has been impacted by the crisis. Rising fossil-fuel prices and aggressive
+policy-driven blending mandates have contributed to earlier price appreciation in soybean oil
+(see Figure 7) and sustained tension in palm oil markets, where concerns about Indonesian supply and
+biodiesel mandates had already lifted prices before moderating late in the year. Even though global
+biodiesel prices eased slightly in early 2026 due to improved feedstock availability, they remain
+supported by strong demand for renewable fuel as energy security concerns rise amid instability in the
+Gulf. Ethanol prices have particularly strongly responded to the start of the conﬂict as an available
+option on the US markets to mitigate the price of blended gasoline at the pump (Figure 8).
+Every spike in Persian Gulf oil prices elevates the economic and strategic value of biofuels, but it also
+transmits volatility into agricultural commodity markets, tightening the connection between
+geopolitical risk, food-energy systems, and global inﬂation pressures.
+
+                                                                       14
+2. FROM REGIONAL CRISIS TO GLOBAL IMPACTS FOR
+   AGRIFOOD SYSTEMS
+
+The conﬂict in the Persian Gulf is transmitting a dual shock to agrifood systems worldwide,
+simultaneously tightening input supply and weakening export demand. As shown in Figure 9, many
+countries are deeply dependent on Gulf energy and fertilizer ﬂows. On the supply side, surging energy
+and fertilizer prices are eroding farmers’ margins, increasing liquidity pressures, and risking cuts in
+input use that could depress yields in the coming seasons. At the same time, for a number of exporters,
+the closure of Gulf markets removes a critical outlet for high-value products, reducing farm revenues
+and worsening already narrow cashﬂow conditions. Together, these cost–push and demand–shock
+channels could lead to reduced agricultural supply in the months ahead, setting the stage for a new
+wave of food price increases within roughly six- months.
+Figure 9. Agrifood systems with high dependency in relation to Persian Gulf countries (2023)
+
+Sources: FAO. 2026. FAOSTAT: Detailed trade matrix (fertilizers). [Accessed on 10 March 2026].
+https://www.fao.org/faostat/en/#data/RFM and FAO. 2026: Detailed trade matrix. [Accessed on 10 March 2026].
+https://www.fao.org/faostat/en/#data/TM
+
+                                                                       15
+2.1 Rising costs for farmers and implications for fertilizer use and
+     future yields
+
+The shockwaves from the Gulf conﬂict are rippling through countries far beyond the Middle East,
+especially those reliant on the region for fertilizer supplies and those economically tied to Gulf markets
+(Glauber, 2026). As Gulf exports of oil, gas, and fertilizers have collapsed, import-dependent nations in
+Latin America, Asia, and Africa are facing scarcity and higher costs. At the same time, countries that
+normally export food or labour to the Gulf are experiencing secondary impacts on their economies.
+
+     2.1.1 Immediate impacts on fertilizer importing countries
+
+One of the clearest effects is on major fertilizer-importing countries. Gulf States are key suppliers of
+nitrogen and phosphate fertilizers to South Asia, East Asia, and Africa. With roughly one-third of global
+fertilizer trade halted, these regions face immediate shortfalls. South Asian nations are among the
+hardest hit. For example, India and China each rely on the Gulf for an estimated 20 percent of their
+fertilizer imports, while Pakistan sources virtually all of its LNG from Qatar and the United Arab Emirates.
+Many African nations are also vulnerable because they depend on imported fertilizer, much of it from
+the Middle East. As show in Figure 9, war-torn Sudan is the most exposed, importing 54 percent of its
+fertilizers from Gulf sources. In East Africa, countries such as the United Republic of Tanzania,
+Somalia, Kenya, and Mozambique obtain a large share of their fertilizer from Gulf exporters and now
+face acute shortages. For instance, Kenya normally imports about 40 percent of its fertilizer from the
+Gulf and already struggles with 90 percent dependency on imported wheat, a combination that makes it
+highly vulnerable to food insecurity under a prolonged Gulf fertilizer cutoff.
+
+     2.1.2 A concern for both large- and small-scale farmers
+
+The Figure 10 illustrates a critical dual-axis vulnerability for producers in relation to the fertilizer
+situation. A country's exposure to Gulf supply shocks is not just about where they buy fertilizer, but how
+intensely they rely on it for crop yields. Countries with a high share of Gulf imports face immediate
+supply bottlenecks, while those with massive nitrogen application rates will suffer exponentially as
+global prices surge, regardless of where they source it.
+Analysing both metrics together, a clear cluster of severe vulnerability emerges, predominantly among
+intensive agricultural economies in Asia. Bangladesh represents an extreme risk proﬁle. Sourcing
+53.3 percent of its fertilizers from the Gulf and applying a massive 170.35 kg of nitrogen per hectare,
+any disruption threatens its supply chain while crippling operational costs. In addition, Bangladesh
+normally gets around two-thirds of its LNG from Qatar and about half of its imported urea from the Gulf
+region. Similarly, Jordan stands out with a staggering 78.9 percent Gulf import dependency coupled
+with very heavy ﬁeld application, with 123 kg per hectare. Major global producers like India and Thailand
+
+                                                                       16
+also land in the risky zone, balancing heavy usage, applying more than 120 kg of nitrogen fertilizer per
+hectare with signiﬁcant Gulf reliance of 35 percent. Indian media have reported at least one domestic
+fertilizer plant shutting down and others cutting production due to gas shortages and expensive inputs,
+raising alarm for the upcoming summer planting season (Acharya, 2026).
+Conversely, massive users like Egypt and China are relatively insulated from this speciﬁc conﬂict due to
+low Gulf dependency, with 6.4 percent and 9.1 percent, respectively, but the increase in fertilizer prices
+could still impact them.
+Figure 10. Relative and absolute exposure to nitrogen shortage and price increase (2023)
+
+Sources: FAO. 2026. FAOSTAT: Detailed trade matrix (fertilizers). [Accessed on 10 March 2026].
+https://www.fao.org/faostat/en/#data/RFM and FAO. 2026: Fertilizers by Nutrient. [Accessed on 10 March 2026].
+https://www.fao.org/faostat/en/#data/RFN
+
+                                                                        17
+Ultimately, the greatest systemic risk lies in Asian economies that combine highly intensive agricultural
+practices with fragile supply chains heavily dependent on the Gulf. These countries may be forced to
+pay signiﬁcant premiums to import fertilizers from more distant suppliers such as North Africa or
+Europe and Asia. Delayed or insufficient fertilizer supplies could translate into lower yields for staple
+crops such as rice, wheat, and maize later this year. This poses a particularly serious risk for densely
+populated regions of Asia, where these crops account for the bulk of food consumption and are central
+to food security. In Latin America, Brazil presents a signiﬁcant and highly impactful case of dual-axis
+vulnerability. Sourcing a ﬁfth of its fertilizers from the Gulf means Brazil is directly vulnerable to the
+logistical bottlenecks and supply shocks originating from the Middle East. Losing or struggling to
+reroute 20 percent of a critical agricultural input is a major operational hurdle. Because Brazil uses
+such a massive volume of nitrogen, any surge in global fertilizer prices — even for the 80 percent it
+sources from outside the Gulf — will dramatically inﬂate production costs for farmers who are already
+facing low commodity prices and minimal margins.
+
+The most critical takeaway of the Brazilian case is its systemic footprint. Unlike smaller, import-
+dependent nations where a fertilizer shock mostly drives local starvation risks, Brazil is a global
+agricultural powerhouse. It is a leading exporter of vital commodities like soybeans, corn, and sugar. If
+Brazilian farmers scale back fertilizer use due to skyrocketing costs or limited availability, crop yields
+will inevitably drop. This would transmit the shock directly into global food markets, driving up grocery
+and commodity prices worldwide.
+
+On the other side of the farm spectrum, across much of sub-Saharan Africa, where smallholder farmers
+use minimal fertilizer to begin with, any price spike can drastically reduce input usage and reduce
+yields that are already low. Higher fertilizer prices are likely to hit resource-poor farmers the hardest,
+risking lower harvests, impacting their own consumption, and increased food price inﬂation down the
+line. Some African governments may face ﬁscal strain if they try to expand subsidy programs to shield
+farmers from the rising input costs. Beyond smallholders and self-sufficiency production, in West
+Africa, major agricultural producers like Ghana, Nigeria, and Côte d’Ivoire could also be impacted, both
+through higher costs and potential shortfalls of fertilizer for key cash crops such as cocoa in the case
+of Ghana and Côte d’Ivoire.
+
+2.2 Loss of export markets and farm revenue
+
+Countries that export food and agricultural goods to the Gulf region are also affected.
+
+     2.2.1 The role of Gulf countries as importers
+
+The wealthy Gulf States are among the world’s largest importers of staple foods, meat, and dairy.
+As shown in Figure 11, the Persian Gulf region represents a critical demand centre in global agrifood
+trade, with the most pronounced impact seen in the rice market, where the region accounts for 14
+percent of global markets. This indicates that a signiﬁcant portion of globally exported rice is destined
+for the Gulf, and its outsized impact as a major global buyer. Other essential commodities are barley
+(6 percent), wheat (5 percent), maize (5 percent), and sweeteners (5 percent), which show a moderate
+but consistent market footprint.
+
+                                                                       18
+Figure 11. Gulf country import share in global markets (2023)
+
+Sources: FAO. 2026. FAOSTAT: Food Balances (2010-). [Accessed on 10 March 2026].
+https://www.fao.org/faostat/en/#data/FBS and FAO. 2026. FAOSTAT: Crops and livestock products.
+[Accessed on 10 March 2026]. https://www.fao.org/faostat/en/#data/TCL
+
+     2.2.2 Regional exposure
+
+Beyond their role in global markets, different products are sourced from different parts of the world.
+Grains are sourced from North America, Europe, and the Black Sea, while rice comes from South Asia,
+and meat from South America and South Asia.
+Disruptions in Gulf shipping and economic activity mean some of these normal trade ﬂows have been
+interrupted or delayed. For example, India — a key rice and meat supplier to Gulf markets — may see
+short-term declines in export volumes or logistical hurdles in reaching Gulf buyers, although it may
+redirect supplies elsewhere if the Gulf demand softens.
+As show in Figure 9, countries that have both high shares of import dependency on the input sides, and
+high share of export specialization towards the Gulf countries, are particularly exposed to the current
+situation, and their farmers will suffer from higher costs, lower availability of inputs and depressed
+export prices. Most vulnerable farmers are located in South Asia (Bangladesh, India, Pakistan and Sri
+Lanka), in East Africa (Sudan, Kenya and Somalia), and in the Middle East (Türkiye, Jordan).
+In summary, the Gulf conﬂict’s disruption of trade and economic ties is being felt worldwide.
+Fertilizer-importing nations are confronting higher costs and potential shortages that imperil their
+agricultural output. Food-exporting countries are managing delayed shipments and uncertain
+demand from Gulf markets.
+
+                                                                       19
+3. THREATS TO FOOD SECURITY
+
+Countries with large migrant worker populations in the Gulf are bracing for economic fallout from lost
+remittances. The combined effect could be particularly devastating for low-income, net food-importing
+countries. They face the double burden of more expensive energy and fertilizer imports and potentially
+reduced export revenue or remittance inﬂows. Many such countries already carry debt and food
+insecurity burdens, so the shock from the Gulf conﬂict heightens the risk of humanitarian crises far
+beyond the immediate region.
+
+3.1 The situation of Gulf countries
+
+Despite their oil wealth, Gulf countries are extremely vulnerable on the food front. They rely on imports for
+most staples, so conﬂict-related shipping disruptions pose an immediate threat to their food security.
+
+     3.1.1 Food-import dependency
+
+The nations of the Gulf Cooperation Council (GCC) — Saudi Arabia, the United Arab Emirates, Qatar,
+Kuwait, Bahrain, and Oman — as well as the Islamic Republic of Iran and Iraq, all have high dependence
+on imported food. In many of these countries, over 70–90 percent of staple foods are imported due to
+limited domestic agriculture a result of arid climates and water scarcity (see Figure 12).
+Figure 12. Vulnerability of Persian Gulf States to imported food (2023)
+
+Source: FAO. 2026. FAOSTAT: Food Balances (2010-). [Accessed on 10 March 2026].
+https://www.fao.org/faostat/en/#data/FBS
+
+                                                                       20
+For example, Qatar imports about 90 percent of its food, mostly via seaports. Saudi Arabia and the
+United Arab Emirates similarly import the bulk of their cereal grains, meat, and dairy needs, despite
+efforts to boost domestic production in niche areas. This dependence has been sustainable in
+peacetime through open trade and strategic stockpiling, but it becomes a critical liability when conﬂict
+erupts in the region.
+The vulnerability of Gulf nations’ agrifood systems is illustrated in recent analyses. Bahrain, the Islamic
+Republic of Iran, Iraq, Kuwait, Oman, Qatar, Saudi Arabia, and the United Arab Emirates all have
+extremely high import dependency ratios for staples (see Figure 13). Many of these countries, especially
+the smaller Gulf States, consume large quantities of cereals like wheat and rice per capita — often over
+100 kg of wheat per person per year — yet produce little to none of it domestically.
+Figure 13. Import dependency of Gulf States by commodity (2023)
+
+Source: FAO. 2026. FAOSTAT: Food Balances (2010-). [Accessed on 10 March 2026].
+https://www.fao.org/faostat/en/#data/FBS
+
+     3.1.2 Logistical challenge in food security
+
+The closure of the Strait of Hormuz jeopardizes the main maritime supply line for food into the Gulf.
+Normally, huge volumes of wheat, rice, sugar, vegetable oil, and other foodstuffs flow into Gulf ports each
+month from global suppliers. Now, with shipping traffic at a standstill, these essential imports cannot
+easily reach their destination. Alternative routes are limited. Some Gulf countries can re-route a portion
+of imports through the Red Sea. For instance, Saudi Arabia has port facilities on its western coast, but
+the Red Sea shipping lane has also been insecure due to attacks by Yemen’s Houthi rebels, which have
+disrupted Red Sea cargo traffic by about 60 percent in late 2023. Overland options are even more
+constrained. A small amount of grain can be trucked from Türkiye to the Gulf region or via the Islamic
+Republic of Iran’s rail links, but overland corridors cannot substitute for seaborne trade in volume.
+
+                                                                       21
+Around 100 million of tonnes (FAO, 2026c) of food are imported by the region every year, or about 274 000
+tonnes every day, the equivalent of 10 000 to 14 000 trucks daily. With flights partially suspended and land
+routes limited, a prolonged conflict will make it difficult for Gulf States to bring in enough food, and what
+arrives will cost significantly more due to longer routes and war-risk insurance premiums.
+
+Gulf governments do maintain strategic food reserves that can cover a few months of consumption. In
+fact, the GCC countries had accumulated grain stocks equivalent to about 4–6 months of normal use as
+a buffer. These reserves, along with high per capita income that allow Gulf States to purchase food at
+elevated world prices, provide some short-term resiliency. In the initial weeks of the conﬂict, most Gulf
+countries have avoided immediate shortages by drawing down stocks and paying premium prices for
+re-routed shipments. Food price inﬂation in the GCC countries was relatively modest before the
+conﬂict. However, if conﬂict and import disruptions persist beyond a few months, Gulf nations will start
+facing serious food supply challenges once reserves dwindle. At that point, domestic food prices could
+rise sharply, and certain products might become scarce, particularly in smaller Gulf States that have
+less storage or less diversiﬁed supply chains.
+
+Even before the conflict, Gulf countries’ food security was tied to global market stability and open trade
+routes. Traditionally, Gulf governments have managed this risk by maintaining stocks and diversifying
+import origins. For example, importing wheat from a mix of Europe, Australia, and the Black Sea region or
+buying rice from multiple Asian producers to avoid over-reliance on a single supplier. Some Gulf States
+have also invested in overseas agricultural land, for instance, in Sudan or Pakistan, to secure food
+supplies. And wealthy GCC nations can buy on spot markets to replenish reserves quickly when needed.
+
+However, no amount of stockpiling or supplier diversification can fully negate a physical blockade of trade
+routes. If maritime access to the Gulf remains blocked, the options to feed over 50 million people in these
+countries become very limited. Overland routes can only supply a fraction of normal volumes, and even
+Saudi Arabia’s Red Sea ports cannot handle the entire Gulf food import demand, especially under conflict
+conditions. As an example of the acute risk, the United Arab Emirates and Saudi Arabia are among the
+Islamic Republic of Iran’s top suppliers of refined sugar and wheat flour through re-export hubs, trade
+which is now endangered. Qatar is uniquely vulnerable, as it has no alternative port outside the Gulf and
+its food and fertilizer imports could be completely cut off. The country’s main food logistics hub would
+have to rely on air cargo or small-scale land routes, which are insufficient for its needs.
+
+     3.1.3 Impact on populations
+
+In the immediate term, Gulf States’ wealth allows them to cushion the blow of higher prices, but not
+indeﬁnitely. Saudi Arabia, the United Arab Emirates, and others have begun seeking workaround
+solutions, such as using ports in Oman, which, while still inside the Gulf, is closer to the Arabian Sea.
+They are also accelerating imports via air freight for critical items. These stopgaps, however, are costly
+and cannot fully replace normal volumes. If the conﬂict continues, food availability in the Gulf could
+deteriorate and prices will climb, affecting both citizens and the large expatriate workforce. There are
+already signs of food inﬂation and consumer concerns. For example, some Gulf supermarkets have
+seen runs on products like cooking oil and sugar as consumers worry about supply interruptions, and
+
+                                                                       22
+governments may need to increase subsidies to keep basic foods affordable. In short, the conﬂict has
+turned the Gulf’s food-import dependence into an immediate strategic vulnerability. Gulf countries are
+racing against time relying on reserves and emergency logistics to prevent a food security crisis on top
+of the ongoing energy crisis.
+The conﬂict has led the Islamic Republic of Iran to ban all its food and agricultural exports as of
+3 March, cutting off a source of staples for some of its immediate neighbours. Countries like Iraq and
+Afghanistan, which imported wheat ﬂour, dairy, and fruits from the Islamic Republic of Iran, are now
+scrambling for alternative suppliers as the country shuts its exports to preserve domestic supply. This
+adds to the strain on those neighbouring countries already contending with high global prices and
+could deepen food insecurity in places like Afghanistan, which is heavily aid-dependent for food, or
+even in parts of the Islamic Republic of Iran’s other neighbours that beneﬁted from Iranian exports.
+Beyond the GCC, several regional countries are already experiencing high and persistent levels of acute
+food insecurity, driven by a combination of conﬂict, economic fragility, and climate shocks that predate
+the Persian Gulf crisis. In Lebanon, the most recent Integrated Food Security Phase Classiﬁcation (IPC)
+analysis shows that around 874 000 people, about 17 percent of the population analysed, are facing
+Crisis (IPC Phase 3) or Emergency (IPC Phase 4) levels of acute food insecurity, with projections rising
+to nearly 961 000 people in the April–July 2026 period if current conditions continue. Persistent
+economic pressures, slow livelihood recovery, ongoing displacement, rising input costs, and
+drought-affected production continue to constrain food access and market functioning. Meanwhile in
+Yemen, IPC estimates indicate that more than 17 million people are experiencing high levels of acute
+food insecurity (IPC Phase 3 or higher), with pockets of the population projected in IPC Phase 5
+(Catastrophe), unless there are dramatic improvements in supply and assistance. These IPC
+classiﬁcations reﬂect very severe food access constraints that leave millions of households struggling
+to meet basic dietary needs.
+Countries like Syria and parts of Jordan are also highly vulnerable, with prolonged droughts and conﬂict
+having sharply reduced domestic cereal production and forced heavy reliance on imports amid rising
+prices and weak economic conditions. Syria’s 2025 wheat harvest was cut by an estimated 40 percent
+due to severe drought, forcing much higher import dependency and straining already overstretched
+markets and livelihoods. Meanwhile, acute food insecurity remains elevated among the most vulnerable
+households, including internally displaced populations, whose access to food and income has been
+undermined by years of instability and market disruption. This conﬂuence of shocks means that any
+additional pressure on regional food markets — such as further disruptions to trade routes, higher
+transportation costs, or inﬂation in staple prices — risks spiraling into broader food price inﬂation and
+deeper hunger, unless connections to global food markets are restored and sustained humanitarian
+assistance is scaled up.
+
+                                                                       23
+3.2 The Islamic Republic of Iran’s agrifood system under strain:
+     a special case
+
+The Islamic Republic of Iran, as both a party to the conﬂict and a major regional economy, faces a dual
+threat to its agrifood system: direct impacts from the conﬂict, including sanctions, export bans, and
+infrastructure damage, and indirect shocks through soaring import costs and inﬂation. The Iranian
+government has responded to the conﬂict by taking drastic measures to safeguard domestic supply.
+On 3 March, the Islamic Republic of Iran banned all food and agricultural exports to retain stocks at
+home. This move underscores the severity of the domestic food security concerns. Even before the
+conﬂict, the country’s economy was under strain from international sanctions and a sharp currency
+depreciation that drove food prices to record highs. The conﬂict has compounded these challenges by
+disrupting the Islamic Republic of Iran’s remaining trade routes and causing new shortages.
+
+     3.2.1 Partial food-import dependency
+
+The Islamic Republic of Iran is partially self-sufficient in a few staples but heavily dependent on imports
+for many key foods, making it highly vulnerable to trade disruptions as shown in Table 1. Wheat is the
+Islamic Republic of Iran’s most important staple, providing about 42 percent of per capita calorie
+intake. The country generally produces around 70–85 percent of its wheat needs domestically but still
+relies on imports for the rest — roughly a 15 percent import dependency for wheat in recent years.
+Critically, about half of the Islamic Republic of Iran’s imported wheat comes via the Caspian route from
+the Russian Federation, making up 45 percent of the Islamic Republic of Iran’s wheat imports, and over
+a quarter from Türkiye. Both of these sources have been partially disrupted. Amid the conﬂict, Russian
+Federation has reportedly suspended grain exports to Iran, and overland trade has been slowed by
+regional instability. Another 20 percent of the Islamic Republic of Iran’s wheat imports traditionally
+arrived from the United Arab Emirates, likely through re-exports, a route now complicated by the
+Hormuz blockade.
+The Islamic Republic of Iran’s own 2025 wheat harvest was slightly below average after two good years
+in 2023–24, and the ongoing conﬂict raises concerns about the upcoming 2026 harvest as fuel or
+transport disruptions prevent farmers from accessing inputs and markets. Domestic wheat stocks
+were about 4 million tonnes as of late 2025, enough for only 3–4 months of consumption. Thus, if
+imports remain constrained and domestic distribution is affected, The Islamic Republic of Iran could
+face a serious wheat shortfall by mid-2026, right as its next harvest comes in. The retail price of ﬂour in
+Tehran jumped 120 percent in January 2026 month-on-month and was nearly 200 percent higher than a
+year before, reﬂecting the currency crash and anticipations of conﬂict.
+
+                                                                       24
+INFORMATION NOTE                                                                                                                       15 March 2026
+GLOBAL AGRIFOOD IMPLICATIONS OF THE 2026 CONFLICT IN THE MIDDLE EAST
+
+Table 1. Islamic Republic of Iran food supply and vulnerability to external supply
+
+Commodity Domestic production /           Import dependency           Main suppliers / trade routes Key risks / issues
+                  self-sufficiency
+
+Wheat      Production covers >70% of      ~15% import                 Russian Federation (45%),      Russian exports reportedly
+           needs; stocks ~4 million       dependency                  Türkiye (26%), United Arab     suspended due to conflict;
+           tonnes (3–4 months                                         Emirates (20%); shipments via  potential transport disruptions
+           consumption)                                               Caspian Sea and the            during June harvest; sharp price
+                                                                      International North-South      spike due to currency
+                                                                      Transport Corridor (INSTC)     depreciation
+
+Maize      Very limited domestic          ~95% import                 Mainly Brazil (>70%), shipped Highly vulnerable to maritime
+           production                     dependency
+                                                                      via Strait of Hormuz           disruptions and feed cost shocks
+
+Rice       Domestic production            Imports ~1.2 million        Mainly India                   Water scarcity affects
+                                                                                                     production; reliance on imports
+           ~3.8 million tonnes;           tonnes (~28% of supply)                                    for supply stability
+
+           irrigation constraints
+
+Oilseeds   Domestic output very low       Heavy import                Brazil and Argentina           Import dependence for livestock
+and        (soybeans ~200,000 t;          dependence for              (soybeans/meal); Türkiye       feed and edible oils; volatility
+vegetable  sunflower ~40,000 t;           soybeans, soybean           (soymeal); United Arab         linked to currency depreciation,
+oils       rapeseed rising (~325,000 t))  meal, and vegetable oils    Emirates (rapeseed oil trade   sanctions, and global oil prices
+                                                                      hub)
+
+Meat       Total production               Mostly self-sufficient      Imports mainly bovine meat Feed import dependence
+           ~2.9 million tonnes (2025);    (~95%)
+           poultry dominates (>80%)                                   from Brazil, India, Pakistan,  (maize/soymeal); red meat
+
+                                                                      Türkiye, United Arab Emirates, relatively scarce and expensive
+
+Dairy      Milk production >9 million     Highly self-sufficient      Net exporter (main markets:    Relatively resilient sector with
+           tonnes (2025); strong          (95–100%)                   Iraq, Pakistan)                export capacity
+           growth
+
+Sugar      Production ~1.7 million        Imports 30–45% of           Mainly United Arab Emirates    Exposure to Strait of Hormuz
+           tonnes                         consumption                 (re-exports) via maritime      disruptions; import reliance
+                                                                      routes                         despite rising domestic
+                                                                                                     production
+
+Source: Elaboration based on FAO. 2026. FAOSTAT. [Accessed on 10 March 2026]. https://www.fao.org/faostat/en and other FAO estimates.
+
+                                                                  25
+INFORMATION NOTE                                                      15 March 2026
+GLOBAL AGRIFOOD IMPLICATIONS OF THE 2026 CONFLICT IN THE MIDDLE EAST
+
+Other staples show similar vulnerability. Maize, crucial for the Islamic Republic of Iran ’s livestock feed,
+is 95 percent imported, mostly from Brazil and Ukraine, and almost all of it typically arrives via long-haul
+shipments that pass through or near the Gulf. With Hormuz closed and parts of the country’s coast
+under threat, the feed supply for poultry and cattle is at risk, endangering domestic meat and dairy
+production despite its high nominal self-sufficiency in those products. Rice is another dietary staple
+that the country must import in large quantities. Domestic rice production, about 3.8 million tonnes
+milled, falls short, requiring annual imports of about 1.2 million tonnes, which is 28 percent of total rice
+supply, mostly from India. Any logistical hurdles at ports or trade restrictions can quickly lead to
+domestic rice shortages or steep price increases in the Islamic Republic of Iran.
+
+Oilseeds and vegetable oils are particularly vulnerable links. The country imports virtually all of its
+soybeans and vegetable oil. For instance, the Islamic Republic of Iran’s soybean imports for protein
+meal and oil extraction were projected to reach 2.8 million tonnes, primarily from Brazil and Argentina,
+while sunﬂower and palm oil are imported from Ukraine, Russian Federation and Southeast Asia.
+The conﬂict’s impact on currency and trade has already driven cooking oil prices sky high in the Islamic
+Republic of Iran. Sugar is another concern. The country produces only 1.7 million tonnes of sugar
+compared with about 2.4–2.5 million tonnes of demand, making it about 30 percent dependent on
+imports. Much of the sugar imports come through the United Arab Emirates, which reﬁnes and re-
+exports sugar from international markets. With Gulf trade in turmoil, Iran’s sugar supply is uncertain,
+though overland trade from other neighbours like Pakistan or Türkiye might partially compensate.
+
+     3.2.2 Impact on consumers
+
+The impact on Iranian consumers has been severe, as evidenced by skyrocketing food prices and
+inﬂation. Even before the conﬂict, the Islamic Republic of Iran was experiencing food inﬂation above
+40 percent year-on-year due to a sharply devalued rial and years of economic strain. The conﬂict
+poured fuel on this ﬁre. By early March 2026, overall food prices in the Islamic Republic of Iran were
+estimated to be 110 percent higher than a year prior. Many essential items have seen prices doubling or
+more. For instance, bread and cereal prices in Tehran are up about 142 percent year-on-year, meats by
+117 percent, dairy products and eggs by 108 percent, fruit by 113 percent, and cooking oil by over
+200 percent. Field reports indicate that rice in Tehran now costs roughly USD 4 per kilogram, nearly
+twice what it cost just months ago, and long queues form for government-subsidized bread. The data
+from Tehran’s retail markets show that staple food prices, which were already on an upward trajectory
+in 2025, spiked dramatically after the conﬂict’s onset (see Figure 14). Households are struggling as their
+purchasing power erodes. Many families can no longer afford previous levels of meat or dairy
+consumption, increasing risks of malnutrition.
+
+26
+INFORMATION NOTE                                                                                 15 March 2026
+GLOBAL AGRIFOOD IMPLICATIONS OF THE 2026 CONFLICT IN THE MIDDLE EAST
+
+Figure 14. Domestic retail food prices in TehranMillion IRR / KG
+
+            4.0M
+             3.5M
+             3.0M
+             2.5M
+            2.0M
+             1.5M
+             1.0M
+             0.5M
+            0.0M
+
+                  Jan-23
+                        Mar-23
+                               May-23
+                                       Jul-23
+                                              Sep-23
+                                                     Nov-23
+                                                            Jan-24
+                                                                   Mar-24
+                                                                          May-24
+                                                                                  Jul-24
+                                                                                         Sep-24
+                                                                                                Nov-24
+                                                                                                       Jan-25
+                                                                                                              Mar-25
+                                                                                                                     May-25
+                                                                                                                             Jul-25
+                                                                                                                                   Sep-25
+                                                                                                                                          Nov-25
+                                                                                                                                                  Jan-26
+
+                  Bread  Lentils (green)  Rice        Wheat (flour)  Sugar                       Vegetable oil
+
+Source: FAO. 2026. Food Price Monitoring and Analysis (FPMA) Tool. [Accessed on 15 March 2026].
+https://fpma.fao.org/giews/fpmat4/global/#/dashboard/home
+
+It is important to note a few mitigating factors speciﬁc to the country. Unlike the smaller Gulf
+monarchies, it has a large agricultural sector and produces much of its own meat and dairy. The Islamic
+Republic of Iran’s production of poultry meat, for example, meets about 95 percent of domestic
+consumption — about 2.4 million tonnes of poultry produced in 2025. Milk production has been growing
+over 9 million tonnes in 2025, and the country is a net exporter of dairy products in Asia. However,
+those sectors depend on imported feed and other inputs, which are in jeopardy. Additionally, the
+Islamic Republic of Iran’s government has tried to shield consumers by expanding subsidies and
+controlling prices on basic goods. For example, it imposed ﬁxed prices on bread. Such measures can
+only do so much when underlying costs are spiraling upward.
+
+In summary, the Islamic Republic of Iran’s food security situation is grave. Moderate- to high-import
+dependence for critical staples, limited reserves, especially for grains, and an already fragile economy
+now hit by conﬂict. The Islamic Republic of Iran ’s preemptive ban on food exports is a sign of the
+government’s concern about ensuring its own population has enough to eat. If the conﬂict continues to
+disrupt trade and ﬁnance, the Islamic Republic of Iran may face a food affordability crisis, even if
+physical supplies of staples are just sufficient. This is because prices have become prohibitively high
+for much of the population. International humanitarian agencies are closely watching the country and
+its neighbours for signs of acute food shortages or hunger, knowing that its domestic policies like
+export bans and price controls affect food availability in adjoining countries as well. The unfolding
+situation in the country is a crucial bellwether for how severely a regional conﬂict can undermine a
+nation’s entire agrifood system.
+
+                                                  27
+INFORMATION NOTE                                                      15 March 2026
+GLOBAL AGRIFOOD IMPLICATIONS OF THE 2026 CONFLICT IN THE MIDDLE EAST
+
+4. MODELING POTENTIAL OUTCOMES: SCENARIO
+   SIMULATIONS, FUTURE RISKS, AND POLICY OPTIONS TO
+   MITIGATE NEGATIVE IMPACTS
+
+The current Middle East crisis is triggering a complex web of economic disruptions that cannot be
+analysed in isolation. Because these shocks ripple simultaneously across multiple sectors and borders,
+analysing their impacts requires the use of an advanced modelling framework such as the
+MIRAGRODEP model — a multi-sectoral, multi-country, dynamic computable general equilibrium (CGE)
+model (Bouët et al., 2022).
+
+FAO modeling tools1 are particularly well suited to analyse this crisis because they capture the intricate
+input-output linkages between energy, fertilizers, and global agrifood systems. The model dynamically
+represents bilateral trade ﬂows and their re-routing, allowing analysis of how global markets adjust
+when a major buyer or supplier suddenly disappears. Crucially, it also closes the macroeconomic loop
+by calculating real income effects at the household level, balancing the windfall gains accruing to
+energy exporters against the decline in purchasing power in import-dependent economies. In the
+context of major price shocks, tracking changes in real income is essential to assess impacts on food
+consumption and affordability.
+
+Based on a rich dataset, the GTAP 11 database (Aguiar et al., 2022), and complemented with a dynamic
+baseline that captures the recent evolution of the global economy prior to the crisis, this modelling
+framework reﬂects the heterogeneity of countries in terms of production systems, consumption
+patterns, trade structures, specialization, and policy environments. Because the impact of the crisis
+will vary signiﬁcantly depending on countries’ energy mixes, agricultural practices such as fertilizer-
+use intensity and trade patterns, among many other structural characteristics, a framework capable of
+capturing this heterogeneity is essential.
+
+4.1 Scenario-based modeling and simulated impacts
+
+     4.1.1 Main channels of transmissions and future scenarios
+
+To accurately isolate the economic impact of the conﬂict, the simulations use a counterfactual
+approach, comparing a baseline scenario where no hostilities occur against simulated scenarios where
+the conﬂict disrupts the global economy. Using a computable general equilibrium model like
+MIRAGRODEP can capture the three primary, simultaneous shocks triggered by the crisis.
+
+First, the blockade of the Gulf region heavily constrains global oil and gas supplies, driving up energy
+prices. This directly inﬂates international transport costs and increases the operational overhead for
+virtually all macroeconomic sectors globally.
+
+1 MIRAGRODEP is a global economic simulation model used to analyse agriculture, food systems and trade policies. It is a
+dynamic, multi-country, multi-sector computable general equilibrium (CGE) model.
+
+                                                                       28
+INFORMATION NOTE                                                      15 March 2026
+GLOBAL AGRIFOOD IMPLICATIONS OF THE 2026 CONFLICT IN THE MIDDLE EAST
+
+Second, the agricultural input shock, as severe bottlenecks in Gulf fertilizer exports trigger an
+immediate spike in global farming costs. To mitigate these prohibitive expenses, farmers may
+endogenously reduce their fertilizer application, which will lower crop yields and contract local and
+global food supply.
+
+Finally, the economic paralysis within the Gulf drastically curtails the region’s ability to import goods.
+This creates a large negative demand shock for global agricultural exporters that rely on the Gulf as a
+major buyer.
+
+Because these disruptions occur concurrently, they trigger complex price ﬂuctuations across goods,
+services, and factors of production. MIRAGRODEP is essential in this context because it accounts for
+these simultaneous interactions, mapping out the subsequent macroeconomic ripple effects such as
+shifts in current account balances, changes in real exchange rates, and ﬂuctuations in purchasing
+power. The model has been used to assess different shocks and crises ranging from trade wars to
+COVID-19 pandemic (Laborde, Martin and Vos, 2021).
+
+Finally, given the high degree of uncertainty surrounding the duration and evolution of the conﬂict,
+three distinct chronological scenarios were designed. Treating these as a sensitivity analysis provides
+a robust range of potential economic outcomes, ensuring that the analysis is not overly reliant on a
+single ﬁxed prediction. The three scenarios considered:
+
+• A short conﬂict: the blockade of the Strait of Hormuz lasts for one month, and oil prices spike to
+    USD 120 per barrel for up to three months starting in March, remaining at USD 80 afterward until the
+    end of the year. A similar pattern is applied to natural gas prices, although the relative increase is
+    stronger. While fertilizer prices increase during the period of price spikes, this only impacts some
+    producers in the Southern Hemisphere that have not yet purchased their inputs. Farmers in the
+    Northern Hemisphere are not impacted during the spring planting campaign.
+
+• A medium-term disruption: the blockade is extended to three months, and oil prices, after reaching
+    USD 120 in March, rise to USD 140 in April and May. Starting in June, oil prices stabilize at USD 120
+    until the end of the year. A similar pattern is applied to natural gas prices, although the relative
+    increase is stronger. Fertilizer prices affect all farmers during the year in both hemispheres,
+    impacting their production and planting decisions.
+
+• A long-term shift: the situation in 2026 is identical to the medium scenario, but disruptions in trade
+    networks and oil prices extend into 2027 80 percent of the 2026 shock is maintained — and are
+    gradually removed through 2030. Growth trajectories are impacted by the perturbation, and total
+    factor productivity is adjusted accordingly.
+
+The model is adjusted to reﬂect these shocks. Bilateral trade costs between Gulf countries and third
+parties are increased to reduce trade ﬂows by 80 percent during the blockade period. Oil production in
+Gulf countries declines as capital, labour, and natural resources in the extraction sector becomes
+unproductive, reducing oil and natural gas supply and pushing prices higher in the world market.
+Additional price increases are applied to agricultural inputs to mimic the short-term relationship
+observed between fertilizer prices and natural gas prices.
+
+29
+INFORMATION NOTE                                                      15 March 2026
+GLOBAL AGRIFOOD IMPLICATIONS OF THE 2026 CONFLICT IN THE MIDDLE EAST
+
+Overall, since the simulations focus on 2026, and on the 2026–2030 period for the longer-term
+scenario, several model elasticities have been reduced to reproduce short-term responses such as
+limited factor substitution and to avoid the longer-term closure traditionally found in CGE models.
+
+While the CGE model effectively captures the core economic transmission channels, it is important to
+deﬁne the boundaries of these simulations. To isolate the speciﬁc market shocks and establish a clear
+baseline, the current modeling framework intentionally excludes several potential compounding
+factors.
+
+• No physical destruction of productive capital: the temporary shutdown and blockade of oil and gas
+    extraction is modeled but does not account for the physical, long-term destruction of Gulf
+    infrastructure. The simulations assume that productive capacity remains intact and can be fully
+    restored once hostilities cease, omitting any long-term structural damage or post-war
+    reconstruction costs.
+
+• Uninterrupted water and desalination infrastructure: the model does not factor in potential damage
+    to the Gulf's water supply. Given that local agriculture and daily survival depend heavily on energy-
+    intensive desalination plants, any disruption to this infrastructure would trigger a far more severe
+    and immediate contraction in regional agrifood supply than the current numbers project.
+
+• Stable demographics and migrant labour: no mass displacement of populations or sudden exodus
+    of foreign workers is assumed. While the model inherently captures a decline in global remittances
+    due to falling real wages within the Gulf, it treats the actual labour force as static. A large-scale
+    ﬂight of expatriate labour — a highly likely scenario in a prolonged conﬂict — would trigger a much
+    deeper regional economic collapse, but this remains outside the current scope.
+
+• Contained geographic scope: the simulation strictly conﬁnes the primary military operations and
+    direct economic blockades to the Persian Gulf and the Strait of Hormuz. The compounding
+    economic fallout from broader regional escalations or secondary conﬂict theatres such as active
+    military engagements in Lebanon is not modeled.
+
+• A strict “policy inaction” baseline: most crucially, the simulations assume no emergency
+    interventions by global or regional policymakers. The deployment of new social safety nets,
+    consumer food subsidies, or reactive trade measures such as export bans is not modeled. While
+    the model does include automatic ﬁscal adjustments to stabilize public deﬁcits, a standard
+    macroeconomic closure rule, it introduces no new policy instruments. Establishing this baseline of
+    complete inaction is vital. It enables measuring the raw, unﬁltered magnitude of the crisis so that it
+    can be accurately evaluated and necessary policy solutions can be provided. This also implies no
+    change in monetary policy that could affect economic growth projections and investment
+    decisions.
+
+30
+INFORMATION NOTE                                                      15 March 2026
+GLOBAL AGRIFOOD IMPLICATIONS OF THE 2026 CONFLICT IN THE MIDDLE EAST
+
+     4.1.2 Main ﬁndings
+
+Figure 15 shows the projected impacts of the conﬂict in 2026. We show the range of impacts for the
+three scenarios: short term conﬂict, medium term disruption and long term shirt. In most cases, the
+more intense scenario, the long term shift, has the strongest results, but this is not always the case,
+especially when some contradictory forces are at play e.g. the income effect for an African country
+exporting oil and importing fertilizer. The simulations reveal a stark and highly asymmetrical economic
+reality, particularly when comparing the epicentre of the conﬂict with the rest of the world.
+
+At the global aggregate level, the ongoing crisis is undeniably a net negative for consumers, even if
+some macroeconomic indicators appear deceptively resilient. Globally, general household welfare
+(household real income) is projected to decline by roughly 0.5–1.6 percent, while the volume of
+household food consumption shrinks by 0.6–1.3 percent. During the year, agrifood real retail prices
+faced by most consumers will increase by 0.2–0.6 percent, indicating very limited food price pressure
+in the short run. At the same time, global agrifood income contracts by 0.6–1.9 percent, showing
+impacts on both sides of the agrifood value chains.
+
+Figure 15. Potential impacts in 2026: economy wide results
+
+Notes: The height of the box represents the spread between the short, medium and long term scenarios. Most of the time, the
+long term scenario, with the larger and more persistent shock has the more adverse outcomes, but not always due to indirect
+effects. Percentage changes displayed.
+Source: MIRAGRODEP simulations.
+
+                                                                       31
+INFORMATION NOTE                                                      15 March 2026
+GLOBAL AGRIFOOD IMPLICATIONS OF THE 2026 CONFLICT IN THE MIDDLE EAST
+
+Looking at the differences across regions, it can be seen that the most devastating impact falls on
+household real income within the Gulf countries. Assuming no policy response, these countries face a
+catastrophic decline by 14.4–18.3 percent in real income. This reﬂects the sheer economic paralysis of
+being in a war zone, cut off from global trade, and facing increases in prices for most goods and
+services. Other regions experience more moderate declines, with Asia facing the most severe impacts
+at around 1.5 percent decline, followed by Latin America with declines of up to 1.2 percent.
+
+The Gulf’s demand is negatively affected through a contraction in the volume of food consumed by
+households. Food consumption in the Gulf plummets by 17–20 percent. Due to trade constraints,
+physical food supplies simply do not reach the region, and the resulting shortages signiﬁcantly inﬂate
+prices. For Asia, Latin America, and Africa, the impacts are much milder. Some short-duration
+scenarios even show tiny positive increases such as Latin America at 0.04 percent or Africa at
+0.08 percent likely because food that was destined for the Gulf is temporarily trapped in domestic
+markets, marginally boosting local availability before production scales down. Ultimately, longer
+disruptions lead to net declines everywhere up to 0.9 percent in Asia.
+
+Regarding real agrifood sector income, the Gulf countries appear as an anomaly with a positive sign.
+Paradoxically, local agrifood production in the Gulf increases signiﬁcantly, ranging from 0.9 percent to
+7.7 percent, and farmers increase their income. This is a classic wartime import-substitution effect.
+Because the Gulf is physically blockaded from importing its usual massive share of food, these nations
+are forced to artiﬁcially ramp up whatever local production they can muster at any cost, while still
+having access to inputs at reduced costs since they cannot be exported. Everywhere else, real income
+in the agrifood sector shrinks. Latin America is hit hardest during the year, down by 1.4–2.7 percent,
+aligning with its massive exposure to surging fertilizer prices. Asia and Africa also experience
+consistent real income contractions.
+
+Results for Africa is presented as a single regional block — showing aggregate household welfare
+ranging from a slight 0.2 percent gain to a 1.1 percent loss — but this masks a strong internal division.
+It is vital to emphasize that the continent is split into two very different realities, with contrasted
+outcomes including both winners and losers. Oil-exporting nations such as Nigeria and Angola capture
+massive revenue windfalls from the surge in global energy prices, and these gains pull the aggregate
+African numbers upward. However, the vast majority of African nations are net importers and remain
+highly vulnerable. They do not beneﬁt from higher revenues. Instead, they must pay higher premiums
+for fuel to keep their economies running and for the fertilizers needed to grow their food. For these
+countries, macroeconomic shock is severe, compounding existing debt, increasing the risk of
+economic crisis, and worsening food insecurity.
+
+Figure 16 shows the breakdown across the broader agrifood sector, the farm level, and speciﬁcally
+cereals. For the sake of analysis, the extreme distortions of the Gulf countries are excluded, since in
+this case the macroeconomic effects of the conﬂict dominate and the sectoral breakdown becomes
+less relevant.
+
+32
+INFORMATION NOTE                                                      15 March 2026
+GLOBAL AGRIFOOD IMPLICATIONS OF THE 2026 CONFLICT IN THE MIDDLE EAST
+
+Figure 16. Potential impacts in 2026 on sectoral consumption and income, percentage change
+
+Notes: The height of the box represents the spread between the short, medium and long term scenarios. Most of the time, the long
+term scenario, with the larger and more persistent shock has the more adverse outcomes, but not always due to indirect effects.
+Source: MIRAGRODEP simulations.
+
+A clear narrative emerges. The more reliant a sector is on fertilizers, the deeper the economic impact.
+These results clearly demonstrate that cereal producers experience the heaviest losses, confirming their
+vulnerability as intensive fertilizer users. At the global level, in the most extreme scenario for 2026, broader
+agrifood income drops by 1.89 percent. When this is narrowed down to the farm level, the loss deepens to
+3.01 percent. However, for cereals, the decline plunges to a severe 4.78 percent. Even in the short-term
+scenario — where the main disruptions are limited to one month and not all planting decisions are affected
+— global farm impacts are milder (-0.67 percent), but cereal producers already feel the pressure more
+acutely (-0.78 percent). This illustrates that when fertilizer prices spike, high-input crops such as rice, corn,
+and wheat suffer faster and experience disproportionately stronger margin compression.
+
+Across almost all scenarios and regions, the shock to producer income is signiﬁcantly larger than the
+decline in household food consumption. Only part of the cost increase is passed on to consumers.
+This creates a massive margin squeeze for farmers, who absorb the bulk of fertilizer and energy price
+shocks, while consumers experience a smaller, though still painful, reduction in available food.
+
+The most striking regional disparity is Latin America’s vulnerability, consistent with the earlier
+discussion of intensive, high-yield agricultural models like Brazil’s and the ex-ante vulnerability
+assessment in Section 3.1.2. For the 2026 cropping season, in the most severe scenario,
+Latin American cereal producers face a 7.27 percent drop in net real income, compared to Africa
+(1.31 percent drop) and Asia (4.21 percent drop).
+
+                                                                       33
+INFORMATION NOTE                                                      15 March 2026
+GLOBAL AGRIFOOD IMPLICATIONS OF THE 2026 CONFLICT IN THE MIDDLE EAST
+
+Examining the 2030 outcomes under the long-term scenario allows the assessment of the lasting
+economic scarring of a prolonged conﬂict. Comparing the global economy in 2030 with and without the
+conﬂict shows how initial supply shocks evolve into structural macroeconomic drags. While the acute
+shocks of 2026 moderate as markets adapt, the global economy settles into a persistent state of
+reduced growth, higher energy costs, and increased trade costs.
+
+The Gulf region shows painful adaptation by 2030. Food consumption remains 7.30 percent below a
+non-conﬂict baseline, an improvement from the roughly 17 percent loss in 2026. Elsewhere, the
+agricultural sector is permanently constrained by higher costs and slower growth, although the
+localized panic of 2026 has eased. Real agrifood producer income remains 1.38 percent below baseline.
+
+Latin America’s agrifood sector, hit by declines of 2.68 percent in 2026, partially recovers to a decline of
+1.67 percent by 2030, reﬂecting structural adaptation as farmers shift away from fertilizer-intensive
+crops and develop domestic input alternatives. Yet they cannot fully offset the penalties of a disrupted
+global market.
+
+Globally, households continue to consume less than in a peaceful baseline. Food consumption remains
+0.94 percent lower, and household welfare is down 1.45 percent. The 2030 simulation conﬁrms that
+under a prolonged conﬂict, there is no full recovery. Markets establish a new, equilibrium with slightly
+poorer economies.
+
+4.2 Additional risks
+
+     4.2.1 Macroeconomic long-term risks
+
+The ongoing conﬂict in the Persian Gulf carries signiﬁcant long-term risks for both regional and global
+economies. Disruptions in oil, gas, and fertilizer exports have already triggered immediate price spikes,
+but prolonged instability could exacerbate inﬂationary pressures, depress economic growth, and
+destabilize markets worldwide. Sustained high energy prices would increase production and
+transportation costs for goods and services far beyond the region, fueling broader commodity price
+inﬂation and placing additional strain on already vulnerable populations. Countries heavily dependent on
+Gulf imports, particularly in Asia, Africa, and the Middle East, could experience compounded economic
+shocks, with rising input costs undermining agricultural production, industrial output, and household
+purchasing power but also leading to depreciation of the currencies of low-income countries.
+
+The International Monetary Fund has highlighted that a protracted closure of the Strait of Hormuz or
+extended supply interruptions could push global inflation significantly higher while slowing recovery in
+fragile economies, potentially triggering a worldwide ripple effect on trade, investment, and food
+security. The reactivation of inflationary pressures could lead central banks to react by increasing
+interest rates, putting more pressure on economic growth, indebted countries, and farmers
+(Georgieva, 2026).
+
+34
+INFORMATION NOTE                                                      15 March 2026
+GLOBAL AGRIFOOD IMPLICATIONS OF THE 2026 CONFLICT IN THE MIDDLE EAST
+
+     4.2.2 Global food and energy security risks
+
+Beyond economic effects, the crisis poses systemic risks to global food and energy security. Fertilizer
+shortages, combined with higher energy costs, threaten future agricultural yields, particularly in
+regions heavily reliant on Gulf nitrogen and phosphate supplies. Lower crop production could trigger
+spillover effects across food commodities, where tighter grain supplies drive further food price
+inﬂation and exacerbate hunger in low-income, import-dependent countries. Simultaneously,
+remittance ﬂows from the Gulf, a lifeline for millions of households in South Asia and East Africa, are at
+risk, potentially reducing household income and consumption for tens of millions of people.
+
+     4.2.3 Extended move of food to biofuels
+
+A sudden or prolonged shift toward biofuels in response to high fossil-fuel prices can create signiﬁcant
+short- and long-term risks for global food commodity markets by strengthening the link between
+energy and agricultural prices and by diverting crops, inputs, and land and water away from food
+production. Historically, expansions in biofuel production, especially for ethanol and biodiesel derived
+from staple crops such as corn, soybeans, and palm oil, have exerted upward pressure on those crop
+prices by increasing demand for feedstocks that are also core food and livestock feed commodities.
+For example, research from Persson (2015) shows that the surge in biofuel production in the mid-2000s
+was associated with substantial increases in corn, with estimates indicating that increased biofuel
+demand contributed signiﬁcantly to price rises in those markets as biofuel feedstock demand
+outpaced supply growth in the short run.
+
+When energy prices spike, as in the wake of disruptions to Persian Gulf oil exports, policymakers and
+markets can lean even more heavily on biofuels as a partial energy alternative. This policy-driven
+increase in demand for biofuel feedstocks, still reinforced by tax incentives, can encourage farmers to
+shift acreage toward corn, soybeans, or other energy crops and away from other staple food crops.
+That shift reduces the effective supply of food crops and compresses inventories, which can push food
+commodity prices higher over the medium term. Over time, mandates for ethanol and biodiesel
+blending could shift long-term incentives and change acreage enough to ripple through grain markets
+and inﬂuence other food price indices.
+
+This food-versus-fuel dynamic poses a particular risk as the world faces compound shocks — higher
+fertilizer and fuel costs, increased biofuel mandates, and potential crop production shortfalls. If
+farmers plant more biofuel feedstocks to capture higher returns or to meet regulatory requirements,
+cropping patterns can shift further, tightening food crop availability and amplifying price volatility. In a
+stressed global market, this could lead to larger supply shocks and stronger food price responses in
+2027 and beyond, especially if other supply constraints like lower yields from fertilizer shortages or
+adverse weather coincide with elevated demand for biofuel feedstocks. In this scenario, the feedback
+loop between energy policy, crop prices, and food availability compounds the original crisis,
+exacerbating food insecurity risks in import-dependent regions.
+
+35
+INFORMATION NOTE                                                      15 March 2026
+GLOBAL AGRIFOOD IMPLICATIONS OF THE 2026 CONFLICT IN THE MIDDLE EAST
+
+     4.2.4 Reduction of remittances
+
+Another indirect but signiﬁcant impact is through labour and remittance linkages. The Gulf economies
+host millions of foreign workers from South Asia, Southeast Asia, and Africa who send home billions of
+dollars in remittances each year (Figure 17) (World Bank, 2023). The conﬂict threatens those livelihoods.
+For instance, there are approximately 9 million Indian expatriates in the GCC states sending home
+USD 50 billion annually, roughly 3 percent of India’s GDP. If security conditions force expatriate workers
+to return or if Gulf economies contract due to the conﬂict, countries like India, Pakistan, Bangladesh,
+Nepal, the Philippines, and Egypt could see a sharp drop in remittance inﬂows.
+
+This loss of income for tens of millions of households would have knock-on effects on poverty and
+consumption in those countries. As one example, Indian officials warn that a protracted conﬂict not
+only endangers energy security but also could signiﬁcantly dent India’s economic growth by reducing
+those remittances and placing 9 million Indian jobs in the Gulf at risk. Other South Asian countries like
+Pakistan, Bangladesh, and Nepal and East African nations with large diaspora in the Gulf face similar
+concerns.
+
+Figure 17. Main countries exposed to remittances loss (2021)
+
+Source: World Bank. 2023. The Global Knowledge Partnership on Migration and Development (KNOMAD) database. [Accessed
+on 14 March 2026]. https://data360.worldbank.org/en/dataset/WB_KNOMAD
+
+                                                                       36
+INFORMATION NOTE                                                      15 March 2026
+GLOBAL AGRIFOOD IMPLICATIONS OF THE 2026 CONFLICT IN THE MIDDLE EAST
+
+4.3 Policy options to mitigate risks
+
+Ensuring regional stability and maintaining freedom of navigation in the Persian Gulf are essential for
+global energy and food security. Diplomatic engagement to de-escalate tensions and reopen the Strait
+of Hormuz for civilian trade should be prioritized. Such efforts are critical to prevent localized
+disruptions from cascading into wider economic and humanitarian crises.
+
+The Persian Gulf conﬂict poses immediate and systemic risks to global energy, fertilizer, and food
+markets. A coordinated, multi-layered policy response is urgently required to manage short-term
+shocks, safeguard vulnerable populations, and strengthen long-term resilience. Recommendations are
+structured across short-, medium- and long-term horizons.
+
+      4.3.1 Short-term measures: stabilize markets and ensure supply ﬂows
+
+Develop alternative trade routes and contingency logistics. Reduce dependence on the Strait of
+Hormuz by expanding pipeline capacity for oil and gas to Red Sea and Mediterranean ports, improving
+rail and trucking corridors — for example, through Türkiye or the International North-South Transport
+Corridor — and securing access to alternative ports, including Oman and Red Sea hubs. Temporary
+measures such as naval escorts for commercial shipping and war-risk insurance guarantees can help
+restore partial ﬂows through Hormuz.
+
+Enhance market monitoring and preparedness. Agencies like the IEA and FAO should continuously
+monitor oil, gas, fertilizer, and staple food markets to detect volatility and emerging supply gaps. Early
+warning systems can trigger interventions, including strategic petroleum reserve releases or targeted
+fertilizer stock allocations, to prevent panic-driven price spikes.
+
+Support vulnerable import-dependent countries. Low-income nations facing surging import costs
+require immediate support. International ﬁnancial institutions and donor governments should provide
+emergency food aid, balance-of-payments support — for instance, through FAO’s Food Import Facility —
+and humanitarian assistance to countries at risk, including Yemen, Lebanon, Somalia, and Afghanistan.
+Safety nets and targeted subsidies are essential to shield populations from sharp price increases.
+
+Finance farmers and maintain agricultural production. Access to credit and ﬁnancial support for
+farmers exposed to higher fertilizer and energy costs is critical to avoid liquidity constraints that could
+compromise planting decisions and future yields. Policies should protect farmers from interest rate
+spikes caused by tight monetary conditions.
+
+Avoid short-term biofuel demand surges. In response to high fossil-fuel prices, incentives and
+subsidies for biofuels should be carefully managed to prevent a rapid diversion of food crops toward
+energy production, which could exacerbate food price volatility.
+
+37
+INFORMATION NOTE                                                      15 March 2026
+GLOBAL AGRIFOOD IMPLICATIONS OF THE 2026 CONFLICT IN THE MIDDLE EAST
+
+      4.3.2 Medium-term measures: diversify supply and strengthen regional cooperation
+
+Diversify import sources and enhance regional coordination. Countries dependent on Gulf energy,
+fertilizer, or food supplies should expand procurement from alternative partners, including North
+America, Latin America, and Africa, adopting an optimal trade partner portfolio2 and investing in the
+development of new supply chains. Fertilizer-importing nations can explore North African sources or
+invest in regional production capacity. Gulf States and neighbouring countries should coordinate
+reserve sharing and avoid export restrictions that worsen shortages.
+
+Promote market resilience and contingency planning. Governments should continue to develop risk-
+mitigation strategies for supply disruptions, including maintaining strategic reserves of critical
+commodities and reinforcing storage and distribution infrastructure.
+
+      4.3.3 Long-term measures: build structural resilience
+
+Invest in sustainable domestic agriculture and energy alternatives. Countries should invest in
+sustainable agricultural productivity and input-saving technology to expand domestic food production
+where feasible. Globally, investments in renewable energy and energy efficiency can reduce reliance on
+volatile Gulf oil and gas supplies.
+
+Develop sustainable fertilizer production. Localized production, including green ammonia initiatives,
+can decrease dependence on imported fertilizers and buffer markets against external shocks.
+
+Prepare for structural market shifts. Prolonged instability may drive long-term changes, including
+expanded biofuel production, altered cropping patterns, and persistent commodity price volatility.
+Policymakers should incorporate these potential shifts into agricultural, energy, and ﬁscal planning to
+mitigate cascading effects on food security and economic stability.
+
+2 FAO develops new innovative analytical approaches to provide cost-beneﬁt analysis of trade diversiﬁcation strategies.
+                                                                       38
+INFORMATION NOTE                                                                               15 March 2026
+GLOBAL AGRIFOOD IMPLICATIONS OF THE 2026 CONFLICT IN THE MIDDLE EAST
+
+ANNEX
+
+Figure A1. Price trends for energy, fertilizers and agrifood commodities (since January 2024)
+
+Sources: Investing.com. 2026. Commodities. [Accessed on 12 March 2026]. https://www.investing.com/commodities for Crude Oil WTI (CLc1), Brent Oil (LCOc1), Dutch TTF
+Natural Gas (TFAc1), LNG Japan/Korea Marker PLATTS Future (JKMc1) , US Corn (CCMc1), US Corn (EMAc1), US Corn (Cc1), Rough Rice (RRK6), US Wheat (Wc1), HRW Wheat
+(KWc1) and Milling Wheat N2 (BL2c1); Yahoo Finance. 2026. Urea (Granular) - US Gulf (UFV). [Accessed on 12 March 2026]. https://ﬁnance.yahoo.com/chart/UFV%3DF; Yahoo
+Finance. 2026. Urea (Granular) - Middle East (UME). [Accessed on 12 March 2026]. https://ﬁnance.yahoo.com/chart/UME%3DF; Yahoo Finance. 2026. Urea (Granular) - CFR
+Brazil (UFB). [Accessed on 12 March 2026]. https://ﬁnance.yahoo.com/chart/UFB%3DF and FAO. 2026. Food Price Monitoring and Analysis (FPMA) Tool. [Accessed on 12
+March 2026]. https://fpma.fao.org/giews/fpmat4/global/#/dashboard/home; Thai Rice Exporter Association. 2026. Export Rice Prices. [Accessed on 12 March 2026].
+http://www.thairiceexporters.or.th/default_eng.htm for other commodities.
+
+                                                                                                   39
+INFORMATION NOTE                                                      15 March 2026
+GLOBAL AGRIFOOD IMPLICATIONS OF THE 2026 CONFLICT IN THE MIDDLE EAST
+
+REFERENCES
+
+Acharya, S. 2026. India’s Fertilizer Plants Shut Down as West Asia War Cuts LNG Supplies. In: Outlook Business. [Cited 14 March
+2026]. https://www.outlookbusiness.com/economy-and-policy/indias-fertilizer-plants-shut-down-as-west-asia-war-cuts-
+lng-supplies
+
+Aguiar, A., Chepeliev, M., Corong, E. & Mensbrugghe, D. van der. 2022. The Global Trade Analysis Project (GTAP) Data Base:
+Version 11. Journal of Global Economic Analysis, 7(2). https://doi.org/10.21642/JGEA.070201AF
+
+AMIS. 2026. Market Monitor, No. 136, March 2026. Rome. https://storage.googleapis.com/amis-9189b-
+strapi/AMIS_Market_Monitor_Issue_136_ee9446fb36/AMIS_Market_Monitor_Issue_136_ee9446fb36.pdf
+
+Bouët, A., Laborde Debucquet, D., Robichaud, V., Traoré, F. & Tokgoz, S. 2022. MIRAGRODEP 2.0: Documentation. AGRODEP
+Technical Note TN-26. Washington, DC, International Food Policy Research Institute. https://hdl.handle.net/10568/128033
+
+FAO, IFAD (International Fund for Agricultural Development), UNICEF (United Nations Children’s Fund), WFP (World Food
+Programme) & WHO (World Health Organization). 2025. The State of Food Security and Nutrition in the World 2025 – Addressing
+high food price inﬂation for food security and nutrition. 2025. Rome. https://doi.org/10.4060/cd6008en
+
+FAO. 2026a. FAOSTAT: Detailed trade matrix (fertilizers). [Accessed on 14 March 2026].
+https://www.fao.org/faostat/en/#data/RFM
+
+FAO. 2026b. FAO Food Price Index. In: World Food Situation. [Cited 14 March 2026].
+https://www.fao.org/worldfoodsituation/foodpricesindex/en
+
+FAO. 2026c. FAOSTAT: Food Balances (2010-). [Accessed on 14 March 2026]. https://www.fao.org/faostat/en/#data/FBS
+
+Georgieva, K. 2026. Coping and Thriving in a Fluid World. Keynote Speech by IMF Managing Director Kristalina Georgieva at
+Japan’s Ministry of Finance’s ‘Future of the Global Economy amid a Fluid International Economic and Monetary Order’
+Symposium in Tokyo, Japan. Washington, DC, IMF. https://www.imf.org/en/news/articles/2026/03/09/sp030926-coping-and-
+thriving-in-a-ﬂuid-world
+
+Glauber, J. 2026. The Iran war: Potential food security impacts. In: IFPRI Blog: Issue Post Markets, Trade, and Institutions.
+[Cited 14 March 2026]. https://www.ifpri.org/blog/the-iran-war-potential-food-security-impacts
+
+IEA (International Energy Agency). 2026a. Oil Market Report - March 2026. Paris. https://www.iea.org/reports/oil-market-
+report-march-2026
+
+IEA. 2026b. Strait of Hormuz Factsheet. In: IEA. [Cited 15 March 2026]. https://www.iea.org/about/oil-security-and-
+emergency-response/strait-of-hormuz
+
+IEA. 2026c. IEA Member countries to carry out largest ever oil stock release amid market disruptions from Middle East
+conﬂict. In: IEA. [Cited 15 March 2026]. https://www.iea.org/news/iea-member-countries-to-carry-out-largest-ever-oil-
+stock-release-amid-market-disruptions-from-middle-east-conﬂict
+
+IEA. 2026d. Gas Market Report, Q1-2026. Paris. https://www.iea.org/reports/gas-market-report-q1-2026
+
+IMF (International Monetary Fund). 2026. PortWatch Dataset. [Accessed on 15 March 2026].
+https://portwatch.imf.org/datasets/fa9a5800b0ee4855af8b2944ab1e07af/
+
+Investing.com. 2026a. Brent Oil Futures Historical Data. [Accessed on 14 March 2026].
+https://www.investing.com/commodities/brent-oil-historical-data?cid=1184864
+
+Investing.com. 2026b. Crude Oil WTI Futures Historical Data. [Accessed on 14 March 2026].
+https://www.investing.com/commodities/crude-oil-historical-data?cid=1178037
+
+Investing.com. 2026c. Dutch TTF Natural Gas Futures Historical Data. [Accessed on 14 March 2026].
+https://www.investing.com/commodities/dutch-ttf-gas-c1-futures-historical-data
+
+Investing.com. 2026d. LNG Japan/Korea Marker PLATTS Future Historical Data. [Accessed on 14 March 2026].
+https://www.investing.com/commodities/dutch-ttf-gas-c1-futures-historical-data
+
+Investing.com. 2026e. DAP FOB NOLA Futures Historical Data. [Accessed on 14 March 2026].
+https://www.investing.com/indices/dap-fob-nola-futures-historical-data
+
+40
+INFORMATION NOTE                                                      15 March 2026
+GLOBAL AGRIFOOD IMPLICATIONS OF THE 2026 CONFLICT IN THE MIDDLE EAST
+
+Kpler. 2025. Global fertiliser dependency on Gulf exports: what if Hormuz is disrupted? In: Kpler. [Cited 15 March 2026].
+https://www.kpler.com/blog/global-fertiliser-dependency-on-gulf-exports-what-if-hormuz-is-disrupted
+
+Laborde, D., Martin, W. & Vos, R. 2021. Impacts of COVID-19 on global poverty, food security, and diets: Insights from global
+model scenario analysis. Agricultural Economics, 52(3): 375–390. https://doi.org/10.1111/agec.12624
+
+Persson, U.M. 2015. The impact of biofuel demand on agricultural commodity prices: a systematic review. WIREs Energy and
+Environment, 4(5): 410–428. https://doi.org/10.1002/wene.155
+
+World Bank. 2023. The Global Knowledge Partnership on Migration and Development (KNOMAD) database. [Accessed on 14
+March 2026]. https://data360.worldbank.org/en/dataset/WB_KNOMAD
+
+Yahoo Finance. 2026a. Urea (Granular) - US Gulf (UFV). [Accessed on 14 March 2026].
+https://ﬁnance.yahoo.com/chart/UFV%3DF
+
+Yahoo Finance. 2026b. Urea (Granular) - Middle East (UME). [Accessed on 14 March 2026].
+https://ﬁnance.yahoo.com/chart/UME%3DF
+
+41
+The designations employed and the presentation of material in this information product do not imply the expression of any opinion
+whatsoever on the part of the Food and Agriculture Organization of the United Nations (FAO) concerning the legal or development status of
+any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries. The mention of speciﬁc
+companies or products of manufacturers, whether or not these have been patented, does not imply that these have been endorsed or
+recommended by FAO in preference to others of a similar nature that are not mentioned.
+
+Required citation: FAO. 2026. Global Agrifood Implications of the 2026 Conﬂict in the Middle East – Impacts on energy and fertilizer trade and
+food security. Rome.
+
+Some rights reserved. This work is made               Contact information:                                                                         © FAO, 2026
+available under the Creative Commons                  Chief.Economist@fao.org                                                                          CD8875EN/1/03.26
+Attribution - 4.0 International licence (CC BY 4.0).  www.fao.org
+
+                                                      Food and Agricultural Organization of the United Nations
+                                                      Rome, Italy
+
+|42|
+

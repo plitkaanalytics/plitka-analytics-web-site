@@ -1,0 +1,231 @@
+URL:         https://www.cnbc.com/2026/09/11/iran-war-oil-diesel-iea-hormuz.html
+Кінцевий:    https://www.cnbc.com/2026/09/11/iran-war-oil-diesel-iea-hormuz.html
+Заголовок:   IEA warns global oil refining system ‘stretched to the limit’ as Iran, Ukraine wars tighten market
+Дата публ.:  2026-09-11
+Завантажено: 2026-10-07 09:39 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 755268
+Оригінал:    raw/117-cnbc.com-iran-war-oil-diesel-iea-hormuz.html
+sha256:      673675bd96b8f65f55a6fc4edd9972415161a0c06095cc7c64bed69b34003814
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 16
+==============================================================================
+IEA cuts oil supply forecast as Iran war delays Middle East recovery
+IEA warns global oil refining system ‘stretched to the limit’ as Iran, Ukraine wars tighten market
+The International Energy Agency has cut its 2026 global oil supply forecast by 6% as the Iran war drags on.
+It now expects global oil demand to fall by 2.5 million barrels per day this year.
+The energy agency also warned that shrinking inventories and strained refineries could further tighten markets.
+An employee looks out over oil transport pipelines on the Arabian Sea in Saudi Aramco's Ras Tanura oil refinery and oil terminal in Ras Tanura, Saudi Arabia.
+Simon Dawson | Bloomberg | Getty Images
+IEA significantly cuts its global oil demand forecast
+Choose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.
+Got a confidential news tip? We want to hear from you.
+Sign up for free newsletters and get more CNBC delivered to your inbox
+Get this delivered to your inbox, and more info about our products and services.
+Versant Media, LLC. All Rights Reserved. A Versant Media Company.
+Data is a real-time snapshot *Data is delayed at least 15 minutes.
+Global Business and Financial News, Stock Quotes, and Market Data
+Market Data Terms of Use and Disclaimers
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+IEA cuts oil supply forecast as Iran war delays Middle East recovery
+Skip Navigation
+Markets
+Pre-Markets
+U.S. Markets
+Europe Markets
+China Markets
+Asia Markets
+World Markets
+Currencies
+Prediction Markets
+Cryptocurrency
+Futures & Commodities
+Bonds
+Funds & ETFs
+Business
+Economy
+Finance
+Health & Science
+Media
+Real Estate
+Energy
+Climate
+Transportation
+Investigations
+Industrials
+Retail
+Wealth
+Sports
+Life
+Small Business
+Investing
+Personal Finance
+Fintech
+Financial Advisors
+Options Action
+ETF Street
+Buffett Archive
+Earnings
+Trader Talk
+Tech
+Cybersecurity
+AI
+Enterprise
+Internet
+Media
+Mobile
+Social Media
+CNBC Disruptor 50
+Tech Guide
+Politics & Policy
+White House
+Policy
+Defense
+Congress
+Expanding Opportunity
+Europe Politics
+China Politics
+Asia Politics
+World Politics
+Video
+Latest Video
+Full Episodes
+Livestream
+Top Video
+Live Audio
+Europe TV
+Asia TV
+CNBC Podcasts
+CEO Interviews
+Digital Originals
+Watchlist
+Investing Club
+Trust Portfolio
+Analysis
+Trade Alerts
+Meeting Videos
+Homestretch
+Jim's Columns
+Education
+Subscribe
+PRO
+Pro News
+Josh Brown
+Mike Santoli
+Calls of the Day
+My Portfolio
+Livestream
+Full Episodes
+Stock Screener
+Market Forecast
+Options Investing
+Chart Investing
+Subscribe
+Livestream
+Menu
+Make It
+select
+USA
+INTL
+Livestream
+Search quotes, news & videos
+Livestream
+Watchlist
+SIGN IN
+Create free account
+Markets
+Business
+Investing
+Tech
+Politics & Policy
+Video
+Watchlist
+Investing Club
+PRO
+Livestream
+Menu
+Oil Prices and News
+IEA warns global oil refining system ‘stretched to the limit’ as Iran, Ukraine wars tighten market
+Published Fri, Sep 11 2026
+6:56 AM EDT
+Sam Meredith
+@in/samuelmeredith
+@smeredith19
+WATCH LIVE
+Key Points
+The International Energy Agency has cut its 2026 global oil supply forecast by 6% as the Iran war drags on.
+It now expects global oil demand to fall by 2.5 million barrels per day this year.
+The energy agency also warned that shrinking inventories and strained refineries could further tighten markets.
+In this article
+@LCO26X
+@LCO27G
+Follow your favorite stocks
+CREATE FREE ACCOUNT
+An employee looks out over oil transport pipelines on the Arabian Sea in Saudi Aramco's Ras Tanura oil refinery and oil terminal in Ras Tanura, Saudi Arabia.
+Simon Dawson | Bloomberg | Getty Images
+The Iran and Ukraine wars are adding pressure to an oil refining system "stretched to the limit," the International Energy Agency warned Friday, as it once again cut its global supply and demand forecasts amid the ongoing energy shock.
+In its closely monitored
+monthly oil report
+, the IEA further cut its global oil supply and demand projections for the remainder of the year, warning that a full recovery in flows from Middle East producers has been deferred until next year as the
+Iran war drags on
+.
+The energy watchdog said it expects world oil supply to decline by 5.7 million barrels per day (bpd) in 2026, about 6% lower than 2025. The IEA previously forecast an annual drop of 4% in its last update in August.
+Global oil demand, meanwhile, is seen falling more than expected as an impasse in diplomatic talks between the U.S. and Iran delays the prospect of a truce, amid
+renewed attacks
+in both the Strait of Hormuz and the Red Sea's Bab el-Mandeb choke point.
+IEA significantly cuts its global oil demand forecast
+The IEA said demand is expected to drop by 2.5 million bpd this year, significantly more than its August forecast of a 1.6 million bpd decline.
+"Inventories have so far played a crucial role in balancing the market," the IEA said in its report.
+"With buffers shrinking and the global refining system stretched to the limit, the need for progress in resolving the conflict in the Middle East – and the Russia-Ukraine war, which is now in its fifth year – is greater than ever to avoid further market tightening and demand destruction," the agency added.
+The report comes at a time when
+oil prices have surged
+as the U.S. and Iran have exchanged attacks on tankers near the strategically vital Strait of Hormuz — and amid an escalation in fighting between Saudi Arabia and the Iran-backed Houthis in Yemen.
+Oil prices traded lower on Friday morning, but both major benchmarks could still end the week above $100 per barrel for the first time since mid-May.
+International benchmark
+Brent crude
+futures with November expiry traded 3% lower at $104.44 per barrel, while U.S.
+West Texas Intermediate
+futures with October expiry were last seen 2.6% lower at $99.86.
+Choose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.
+Subscribe to CNBC PRO
+Subscribe to Investing Club
+Licensing & Reprints
+CNBC Councils
+Join the CNBC Panel
+Digital Products
+News Releases
+Closed Captioning
+Corrections
+About CNBC
+Internships
+Site Map
+Careers
+Help
+Contact
+News Tips
+Got a confidential news tip? We want to hear from you.
+Get In Touch
+CNBC Newsletters
+Sign up for free newsletters and get more CNBC delivered to your inbox
+Sign Up Now
+Get this delivered to your inbox, and more info about our products and services.
+Advertise With Us
+Please Contact Us
+Ad Choices
+Privacy Policy
+Your Privacy Choices
+CA Notice
+Terms of Service
+©
+2026
+Versant Media, LLC. All Rights Reserved. A Versant Media Company.
+Data is a real-time snapshot *Data is delayed at least 15 minutes.
+      Global Business and Financial News, Stock Quotes, and Market Data
+      and Analysis.
+Market Data Terms of Use and Disclaimers
+Data also provided by

@@ -1,0 +1,30 @@
+URL:         https://maritime-executive.com/article/japan-launches-first-vessel-sanctions-in-support-of-ukraine
+Кінцевий:    https://maritime-executive.com/article/japan-launches-first-vessel-sanctions-in-support-of-ukraine
+Заголовок:   Japan Launches First Vessel Sanctions in Support of Ukraine
+Дата публ.:  2026-10-05
+Завантажено: 2026-10-07 09:20 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 139871
+Оригінал:    raw/75-maritime-executive.com-japan-launches-first-vessel-sanctions-in-suppor.html
+sha256:      7e994d043a3d0f830014c49174deee7736fc65a5b3343934704ea9f28c3a34f0
+Витяг:       trafilatura
+
+==============================================================================
+# Japan Launches First Vessel Sanctions in Support of Ukraine
+
+The Japanese government announced a package of sanctions at the end of last week designed to target Russian trade, which included its first-ever vessel sanctions. According to the government, it was imposed for the purpose of contributing to the international effort for achieving peace.
+
+The move was seen as an effort by the Japanese government to further align with the West. The package included 35 vessels as well as 33 entities and nine individuals. Japanese companies are required to obtain permission for payments to the individuals or entities and for capital transactions.
+
+In addition to specific restrictions on exports to the Russian Federation and Belarus, Japan targeted several other companies seen as supporting the Russian war efforts. It included four companies in Turkey and the UAE.
+
+The vessel sanctions targeted a network based in Oman by including 13 crude oil tankers registered in Oman. It also targeted 17 vessels flagged in Russia, mostly crude oil tankers, but also a product tanker and four RoRos or cargo vessels. The vessel sanctions also included five tankers that are identified as having a false flag or no known registry.
+
+Japan provided a temporary exclusion for contracts that had been entered into before October 2. It, however, only gave the companies a month, until November 1, to complete previous contracts. The sanctions include elements such as services or repairs to the vessel as well as a prohibition against providing insurance or any other supporting services.
+
+that matters most
+
+Get the latest maritime news delivered to your inbox daily.
+
+The sanctions, however, did not extend to Russia’s gas operation. Japan has been an importer of Russian gas, although the government reports it is working to transition to other sources. Last week, the UK, while extending sanctions to Russia’s newest gas carriers, noted that it was maintaining an exclusion for Japan as well as Korea. It said that Japan had committed to $20 billion in financial aid to Ukraine to be used to rebuild infrastructure, along with a recent $100 million aid package for Ukraine from Korea.
+
+Japan looks to position itself as being in unison with the other G7 nations that have been leading the sanctions efforts against Russia. Japan and Russia have already been at odds over islands in the Pacific, and tensions were raised further when President Vladimir Putin went to the islands during his Far East trip in August. Putin, however, last week said that he hoped to pursue mutually beneficial relations with Japan in the future.

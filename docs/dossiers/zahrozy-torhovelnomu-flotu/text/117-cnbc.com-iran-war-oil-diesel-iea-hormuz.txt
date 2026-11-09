@@ -1,0 +1,31 @@
+URL:         https://www.cnbc.com/2026/09/11/iran-war-oil-diesel-iea-hormuz.html
+Кінцевий:    https://www.cnbc.com/2026/09/11/iran-war-oil-diesel-iea-hormuz.html
+Заголовок:   IEA warns global oil refining system ‘stretched to the limit’ as Iran, Ukraine wars tighten market
+Дата публ.:  2026-09-11
+Завантажено: 2026-10-07 09:39 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 755268
+Оригінал:    raw/117-cnbc.com-iran-war-oil-diesel-iea-hormuz.html
+sha256:      673675bd96b8f65f55a6fc4edd9972415161a0c06095cc7c64bed69b34003814
+Витяг:       trafilatura
+
+==============================================================================
+The Iran and Ukraine wars are adding pressure to an oil refining system "stretched to the limit," the International Energy Agency warned Friday, as it once again cut its global supply and demand forecasts amid the ongoing energy shock.
+
+In its closely monitored [monthly oil report](https://www.iea.org/reports/oil-market-report-september-2026#overview), the IEA further cut its global oil supply and demand projections for the remainder of the year, warning that a full recovery in flows from Middle East producers has been deferred until next year as the [Iran war drags on](https://www.cnbc.com/2026/09/11/us-iran-war-trump-hormuz-banks-oil-sanctions.html).
+
+The energy watchdog said it expects world oil supply to decline by 5.7 million barrels per day (bpd) in 2026, about 6% lower than 2025. The IEA previously forecast an annual drop of 4% in its last update in August.
+
+Global oil demand, meanwhile, is seen falling more than expected as an impasse in diplomatic talks between the U.S. and Iran delays the prospect of a truce, amid [renewed attacks](https://www.cnbc.com/2026/09/11/iran-houthis-mokha-red-sea-yemen.html) in both the Strait of Hormuz and the Red Sea's Bab el-Mandeb choke point.
+
+
+The IEA said demand is expected to drop by 2.5 million bpd this year, significantly more than its August forecast of a 1.6 million bpd decline.
+
+"Inventories have so far played a crucial role in balancing the market," the IEA said in its report.
+
+"With buffers shrinking and the global refining system stretched to the limit, the need for progress in resolving the conflict in the Middle East – and the Russia-Ukraine war, which is now in its fifth year – is greater than ever to avoid further market tightening and demand destruction," the agency added.
+
+The report comes at a time when [oil prices have surged](https://www.cnbc.com/2026/09/10/iran-us-oil-hormuz-supply-trump-military-brent-wti.html) as the U.S. and Iran have exchanged attacks on tankers near the strategically vital Strait of Hormuz — and amid an escalation in fighting between Saudi Arabia and the Iran-backed Houthis in Yemen. 
+
+Oil prices traded lower on Friday morning, but both major benchmarks could still end the week above $100 per barrel for the first time since mid-May.
+
+International benchmark [Brent crude](https://www.cnbc.com/quotes/@LCO.1/) futures with November expiry traded 3% lower at $104.44 per barrel, while U.S. [West Texas Intermediate](https://www.cnbc.com/quotes/@CL.1/) futures with October expiry were last seen 2.6% lower at $99.86.

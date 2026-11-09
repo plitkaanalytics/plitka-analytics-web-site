@@ -1,0 +1,223 @@
+URL:         https://www.insurancebusinessmag.com/us/news/breaking-news/black-sea-tanker-strikes-push-warrisk-premiums-higher-as-underwriters-reassess-exposure-558492.aspx
+Кінцевий:    https://www.insurancebusinessmag.com/us/news/breaking-news/black-sea-tanker-strikes-push-warrisk-premiums-higher-as-underwriters-reassess-exposure-558492.aspx
+Заголовок:   Black Sea tanker strikes push war-risk premiums higher as underwriters reassess exposure
+Дата публ.:  2025-12-01
+Завантажено: 2026-10-07 08:12 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 94659
+Оригінал:    raw/35-insurancebusinessmag.com-black-sea-tanker-strikes-push-warrisk-premium.html
+sha256:      b1b7defe7c5bc51d1077745831e3a2e5cf0a8bc6f5c5088db5c07556e9b2b4e0
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 15
+==============================================================================
+Black Sea tanker strikes push war-risk premiums higher as underwriters reassess exposure | Insurance Business
+Black Sea tanker strikes push war-risk premiums higher as underwriters reassess exposure
+War cover repriced after fresh strikes
+Details of the tanker incidents
+Underwriters weigh shifting risk profile
+Implications for brokers, shipowners and cargo interests
+We'll keep you up-to-date with the latest breaking news, cutting edge opinion, and expert analysis affecting both your business and the industry as whole.
+Excess casualty rates may be peaking as property keeps falling, WTW says
+Most US workers lack end-of-life documents they say matter — Aflac
+Insurance moves: Arbol, HDI Global and Great American
+Amwins launches illumin Specialty MGA for hard-to-place general liability
+CFC adds executive protection, AI cover to cyber policy
+Our daily newsletter is FREE and keeps you up - to - date with the world of Insurance.
+Please complete the form below and click on subscribe for daily newsletters from IB US.
+Copyright © 2026 KM Business Information US, Inc
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Black Sea tanker strikes push war-risk premiums higher as underwriters reassess exposure | Insurance Business
+CONTINUE TO SITE
+CONTINUE TO SITE
+SELECT REGION
+UNITED STATES
+CANADA
+UNITED KINGDOM
+AUSTRALIA
+NEW ZEALAND
+ASIA
+News
+Insurance News
+Industry News
+Columns
+Diversity & Inclusion
+Mergers & Acquisitions
+Legal Advisory Board
+Reinsurance
+Risk Management
+TV
+Group Benefits
+Digital Transformation
+E&S
+Resources
+Annual Guides
+Business Strategy
+Data Hub
+E-mag
+Events
+Guides
+IB Talk
+Industry Reports
+Insurance Companies
+Leaders Network
+Risk, Compliance & Legal
+Opinion
+Premium Content
+Webinars
+White papers
+Best In Insurance
+Specialty
+Cannabis
+Catastrophe & Flood
+Claims
+Construction & Engineering
+Cyber
+Environmental
+E&S
+Group Benefits
+Hospitality
+Life & Health
+Marine
+Motor & Fleet
+Non-Profits & Charities
+Professional Risks
+Programs
+Property
+SME
+Digital Transformation
+Travel
+Workers Comp
+Contact Us
+Contact Us
+E-newsletter
+Authors
+Regular Contributors
+Advertise
+Login
+My account
+Logout
+My account
+Logout
+Login
+News
+Insurance News
+Industry News
+Columns
+Diversity & Inclusion
+Mergers & Acquisitions
+Legal Advisory Board
+Reinsurance
+Risk Management
+TV
+Group Benefits
+Digital Transformation
+E&S
+Resources
+Annual Guides
+Business Strategy
+Data Hub
+E-mag
+Events
+Guides
+IB Talk
+Industry Reports
+Insurance Companies
+Leaders Network
+Risk, Compliance & Legal
+Opinion
+Premium Content
+Webinars
+White papers
+Best In Insurance
+Specialty
+Cannabis
+Catastrophe & Flood
+Claims
+Construction & Engineering
+Cyber
+Environmental
+E&S
+Group Benefits
+Hospitality
+Life & Health
+Marine
+Motor & Fleet
+Non-Profits & Charities
+Professional Risks
+Programs
+Property
+SME
+Digital Transformation
+Travel
+Workers Comp
+Contact Us
+Contact Us
+E-newsletter
+Authors
+Regular Contributors
+Advertise
+Insurance News
+Black Sea tanker strikes push war-risk premiums higher as underwriters reassess exposure
+Drone strikes on Russian-bound tankers drive Black Sea war-risk premiums sharply higher
+INSURANCE NEWS
+By
+Chris Davis
+01 Dec 2025
+Share
+War risk premiums for shipping through the Black Sea have ticked higher after Ukrainian naval drones struck two tankers bound for a Russian port, prompting underwriters to reprice the threat environment and charterers to brace for further volatility, market sources say.
+War cover repriced after fresh strikes
+According to shipping and insurance market participants, additional war risk premiums for a standard seven-day voyage to Ukrainian ports have moved up to about 0.5% of a vessel’s value, from roughly 0.4% a little over a week ago.
+Rates for trips into Russian Black Sea ports – traditionally priced higher than those for Ukrainian calls – are now being quoted in a range of around 0.65% to 0.8%, compared with close to 0.6% last week, the same sources said.
+The latest repricing reflects growing concern that the weekend’s tanker attacks could signal a more sustained campaign, adding to already elevated risk perceptions around Russian-origin cargoes and Black Sea routes.
+Details of the tanker incidents
+The two tankers (link )
+Two oil tankers ablaze after ‘external impact' | Insurance Business
+targeted by Ukrainian naval drones were under Western sanctions and were sailing in ballast toward Novorossiysk, a key Russian Black Sea oil export hub, when they were hit, an official from Ukraine’s Security Service (SBU)
+One of the vessels, identified as the Mersin tanker, had previously called at a Russian port, according to maritime security sources. Their preliminary assessment is that the ship was struck using limpet-type devices, mirroring tactics seen in earlier attacks this year that have not been formally acknowledged by Ukraine.
+Underwriters weigh shifting risk profile
+For marine insurers and brokers, the strikes highlights how the Black Sea remains a fluid and politically sensitive risk zone, with pricing moving in step with perceptions of both capability and intent to disrupt trade.
+Munro Anderson, head of operations at Vessel Protect – a specialist in marine war risk cover and part of Pen Underwriting told Reuters– " the pattern of incidents suggests a broader strategy by Ukraine to squeeze Moscow’s energy revenues. That approach is now feeding directly into how underwriters are modeling exposures"
+He said the recent attacks are shaping the market’s view of Russia-focused traffic, with underwriters reassessing both the likelihood and potential severity of further disruptions to oil flows and related shipping activity.
+Implications for brokers, shipowners and cargo interests
+For brokers and their shipping and commodity clients, the move in war risk rates tightens already challenging economics on Black Sea routes. Operators must now weigh higher cover costs (link
+Data-driven seas: Behind the strategic pivot towards data-driven underwriting in marine insurance | Insurance Business
+_  against alternative options such as rerouting or delaying voyages – with knock-on implications for freight, charterparty negotiations and cargo supply chains.
+While capacity remains available for now, market participants will be watching closely to see whether any further escalation triggers more pronounced rate hikes, tighter terms, or a shift in appetite among specialist war risk underwriters.
+Related Stories
+Data-driven seas: Behind the strategic pivot towards data-driven underwriting in marine insurance
+Two oil tankers ablaze after ‘external impact'
+Free newsletter
+We'll keep you up-to-date with the latest breaking news, cutting edge opinion, and expert analysis affecting both your business and the industry as whole.
+SIGN UP
+LATEST NEWS
+Excess casualty rates may be peaking as property keeps falling, WTW says
+Insurance News
+Most US workers lack end-of-life documents they say matter — Aflac
+Group Benefits
+Insurance moves: Arbol, HDI Global and Great American
+Insurance News
+Amwins launches illumin Specialty MGA for hard-to-place general liability
+Insurance News
+CFC adds executive protection, AI cover to cyber policy
+Cyber
+Free newsletter
+Our daily newsletter is FREE and keeps you up - to - date with the world of Insurance.
+                    Please complete the form below and click on subscribe for daily newsletters from IB US.
+SIGN UP
+People
+Glossary
+Terms & conditions
+Privacy policy
+Cookie policy
+Consent Preferences
+Conditions of Use
+About us
+Contact us
+Sitemap
+Rss
+Copyright © 2026 KM Business Information US, Inc

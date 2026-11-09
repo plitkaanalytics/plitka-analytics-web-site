@@ -1,0 +1,32 @@
+URL:         https://intent.press/en/news/war/2026/analysts-have-warned-of-the-threat-of-russian-strikes-on-the-bridge-on-the-odesa-reni-highway/
+Кінцевий:    https://intent.press/en/news/war/2026/analysts-have-warned-of-the-threat-of-russian-strikes-on-the-bridge-on-the-odesa-reni-highway/
+Заголовок:   ISW: Russia may launch strikes against the bridge on the Odesa-Reni highway
+Дата публ.:  2026-08-10
+Завантажено: 2026-10-09 07:34 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 64380
+Оригінал:    raw/198-intent.press-analysts-have-warned-of-the-threat-of-russian-strikes-on-.html
+sha256:      ccfd83b41076d4269d82edb10d8d453f66bbcfa4bc6bb2f681c54233ef1fc93a
+Витяг:       trafilatura
+
+==============================================================================
+10 August 2026, 19:24
+
+# Analysts have warned of the threat of Russian strikes on the bridge on the Odesa-Reni highway
+
+[Ця стаття також доступна українською](/news/war/2026/analitiki-zaiavili-pro-zagrozu-rosiiskikh-udariv-po-mostu-na-trasi-odesa-reni/)
+
+
+
+PHOTO: mahala.com.ua
+
+According to analysts at the Institute for the Study of War (ISW), Russian forces are shifting their airstrikes from seaports to overland routes in the Odesa region in an effort to disrupt grain exports. A strategic bridge in Mayaky on the Odesa–Reni highway is under threat.
+
+This [is stated in a report by ](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-august-9-2026/)the Institute for the Study of War. 
+
+On the morning of August 9, Ukraine’s State Border Guard Service reported traffic restrictions on the M-15 Odesa–Reni highway following Russian strikes. Traffic was restored within a few hours.
+
+The bridge in Mayaky is a strategically important alternative route across the Dniester River, which Ukraine has been using ever since enemy strikes hampered maritime exports. It was already [targeted by](https://intent.press/en/news/war/2026/the-un-security-council-convened-in-response-to-missile-strikes-on-ships-off-the-coast-of-odesa-oblast/) the Russians last December. 
+
+On the night of August 9, Russian forces carried out one of [the most massive strikes](https://intent.press/en/news/society/2026/the-air-force-provided-details-on-the-scale-of-the-nighttime-strike-on-the-odesa-region/) on the Odesa region, using 11 missiles of various types and up to 100 drones, including jet-powered drones and “Banderole”-type loitering munitions. According to military officials, most of the missiles approached their targets along a ballistic trajectory, which makes them significantly more difficult to intercept.
+
+Ukraine has appealed to the European Commission to allocate 220 million euros in non-repayable aid. The grant will be allocated to the “5-7-9%” program to support businesses that have lost their ability to export due to attacks on the ports of Greater Odessa. It is noted that agricultural[enterprises currently require funding to](https://intent.press/en/news/war/2026/the-un-security-council-convened-in-response-to-missile-strikes-on-ships-off-the-coast-of-odesa-oblast/)continue their operations and carry out the fall planting campaign.

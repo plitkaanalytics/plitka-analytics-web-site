@@ -1,0 +1,284 @@
+URL:         https://maritime-executive.com/article/russia-s-syria-express-convoys-may-be-combining-multiple-ais-tricks
+Кінцевий:    https://maritime-executive.com/article/russia-s-syria-express-convoys-may-be-combining-multiple-ais-tricks
+Заголовок:   Russia's "Syria Express" Convoys May Be Combining Multiple AIS Tricks
+Дата публ.:  2026-05-27
+Завантажено: 2026-10-02 14:55 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 153094
+Оригінал:    raw/41-maritime-executive.com-russia-s-syria-express-convoys-may-be-combining.html
+sha256:      a7e2789e31c5a4990c8d2cef911e643fdddfc12c530102d1d1457ded6572b809
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 21
+==============================================================================
+US Sends Third Carrier Strike Group to the Gulf
+Philippine Coast Guard "Chases Off" Unauthorized Chinese Research Operation
+Video: Explosion and Fire Reported at Saudi Oil Port of Yanbu
+U.S. Navy Orders $25 Billion Worth of Missile Interceptors
+The notorious sanctioned cargo ship Sparta IV (VesselFinder)
+Peter Boerstling, Giangiuseppe Pili and Gary C. Kessler
+Stay on Top of the Daily Maritime News
+Op-Ed: People Are the Powerbase of the Shipping Business
+Pakistan Explores Buying or Chartering Boxship Due to Shipping Challenges
+Japan Conducts Demonstration Voyage of a Hydrogen-Fueled Tanker
+Rescue Operation Off South Africa Turns Tragic as Rescuers Are Killed
+GAO: Coast Guard Addressing Marine Firefighting Challenges, but Gaps Remain
+Corridor Sovereignty: Cooperation Without Surrendering Control
+Japanese Naval Strengthening Steals Limelight at U.S.-China Talks
+The Liner’s Dilemma: Schedule Integrity vs. Contractual Flexibility
+The latest news in your inbox daily.
+US officials in Washington have briefed the press that a third US Carrier Strike Group, led by the USS Theodore Roosevelt (CVN-71), is on its way to the Central Command area. The USS Theodore Roosevelt, homeported in San Diego, departed quietly on September 27. Also seen deploying from San Diego on September 28 was the Amphibious Ready Group led by the Wasp Class amphibious assault ship USS Makin Island (LHD-8), accompanied by the USS Anchorage (LPD-23) and the USS John...
+The Philippine Coast Guard reported Monday that it had "disrupted" and chased off a Chinese vessel that was conducting unauthorized research within the Philippine EEZ, a breach of the UN Convention on the Law of the Sea. The vessel in question, Jia Hai Ke 7 (or Jiahai Ke 7), was spotted loitering northwest of Itbayat in the Strait of Luzon on September 28, the PCG said. The area is strategic, providing a key passage from the open Pacific into the...
+The main Saudi oil export terminal on the Red Sea, located at Yanbu, appears to have been hit by an unidentified projectile on Thursday. The port has become a critical vulnerability in the European oil supply chain, and last week French President Emanuel Macron pledged to protect Yanbu with France's air defense capabilities. Bystander videos from the scene show one isolated fire in the vicinity of a tank farm; security consultancy Vanguard Tech confirms that the projectile landed within the...
+The U.S. Navy has signed a five-plus-two year deal with Raytheon for up to $25 billion worth of SM-6 multipurpose interceptor missiles. This SM-series variant is designed for long range anti-air warfare and has proven capability for shooting down cruise missiles, drones, and ballistic missiles, plus a secondary application as an antiship missile - all at lower cost than an SM-3. During the high-intensity phase of the war with Iran this year, the U.S. military's global stockpiles of all high-end...
+© Copyright 2026 The Maritime Executive, LLC. All rights reserved.
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Russia's "Syria Express" Convoys May Be Combining Multiple AIS Tricks
+Go
+SUBSCRIBE NOW
+Media Kit
+news
+Features
+Podcasts
+Magazine
+Newsletter
+Advertise
+Directory
+Subscribe
+news
+features
+Podcasts
+magazine
+newsletter
+Jobs
+advertise
+subscribe
+TOP
+STORIES
+US Sends Third Carrier Strike Group to the Gulf
+Published
+				by
+The Maritime Executive
+Philippine Coast Guard "Chases Off" Unauthorized Chinese Research Operation
+Published
+				by
+The Maritime Executive
+Video: Explosion and Fire Reported at Saudi Oil Port of Yanbu
+Published
+				by
+The Maritime Executive
+U.S. Navy Orders $25 Billion Worth of Missile Interceptors
+Published
+				by
+The Maritime Executive
+3664
+Views
+Russia's "Syria Express" Convoys May Be Combining Multiple AIS Tricks
+The notorious sanctioned cargo ship Sparta IV (VesselFinder)
+Published
+					May 27, 2026 8:58 PM        		by
+Peter Boerstling, Giangiuseppe Pili and Gary C. Kessler
+After withdrawing significant military assets from Syria after the fall of Bashar al-Assad at the end of 2024, Russia appears interested in reestablishing its historical foothold in the port of Tartus. Here is a recent case study illustrating how Russia is using sanctioned commercial vessels to deliver military matériel to the port, and how Automatic Identification System (AIS) manipulation is used in an attempt to conceal the activity.
+Two sanctioned Russian vessels and a naval replenishment oiler set sail from Baltic ports in April 2026, bound for Tartus, Syria. The sanctioned Russian-flagged oil products tanker
+General Skobelev
+(IMO 9503304), sanctioned cargo vessel
+Sparta
+(IMO 9268710), and replenishment oiler
+Akademik Pashin
+(IMO 9778193) departed from Saint Petersburg, Kaliningrad, and Murmansk, respectively, on April  15, 18, and 23. They were under the escort of the Gorshkov-class frigate
+Admiral Kasatonov
+, declaring Port Said, Egypt as their destination. After having likely turned off their AIS transponders, the vessels were later spotted in Tartus, Syria on May 11, possibly completing the first delivery to the base since
+Sparta IV
+(IMO 9743033) was reported in Tartus in May 2025.
+On April 15,
+General Skobelev
+departed Saint Petersburg, Russia, sailing south to Kaliningrad, where it joined with the
+Sparta
+- one of the sanctioned Oboronlogistics-operated vessels. NATO navies began monitoring the convoy as it transited the Baltic Sea. The convoy was then followed in the English Channel by the Dutch Navy's DSS
+Galatea
+and the UK Royal Navy’s RFA
+Tideforce
+to monitor the convoy's movements.
+Meanwhile, the Russian replenishment oil tanker
+Akademik Pashin
+transited south from the North Sea, joining the convoy as it passed Dover Strait on 23 April. The same day, the Russian Gorshkov-class frigate
+Admiral Kasatonov
+took over as the primary escort through the Channel.
+Figure 1: Russian convoy to Tartus, April 15 to May 11
+Satellite imagery acquired west of Portugal on 26 April confirmed the convoy's position in the Atlantic, possibly capturing
+General Skobelev
+,
+Sparta
+,
+Akademik Pashin
+, and
+Admiral Kasatonov
+still sailing together in close formation. After passing the English Channel,
+General Skobelev
+and
+Akademik Pashin
+likely turned off their AIS on April 24.
+Sparta
+’s AIS signals appeared until April 26 before possibly going dark.
+Figure 2: Sparta and the convoy
+As the convoy went through the Strait of Gibraltar, they briefly reappeared on AIS trackers. Once through the strait, both vessels possibly went dark again.
+In addition, on May 1 at 13:36 UTC,
+General Skobelev
+'s AIS appears to have been spoofed, showing its position near Estonia. Similarly, on May 8,
+Sparta
+’s AIS signal showed it in Kaliningrad while broadcasting a speed of 49.8 knots, far beyond the capability of a vessel of its size. Two days later, satellite imagery captured all four vessels southwest of Malta in international waters, heading east into the Mediterranean.
+Figure 3: The convoy near Malta in international waters
+Figure 4: The convoy near Crete in international waters
+Satellite imagery shows the movements of the convoy on the south coast of Crete, Greece, as well as the
+Admiral Kasatonov
+likely operating north of Tartus, confirming the convoy was approaching its true destination (Figure 4) and not Port Said.
+The first confirmed imagery of the convoy at Tartus was acquired on May 11. Images from May 13 appear to confirm
+Sparta
+,
+General Skobelev
+,
+Akademik Pashin
+, the Russian Navy Altay-class oil tanker
+Yelnya
+, and the bulk carrier
+Akson Serin
+all at berth. The exact cargo is unknown, though
+Sparta
+has historically functioned as a core asset for moving military logistics assets.
+After eleven days, satellite imagery acquired southeast of Spain pictured the
+Sparta
+,
+General Skobelev
+,
+Yelnya
+, and corvette
+Stoikiy
+sailing together on the return voyage  westbound, with a fifth vessel, potentially identified as
+Admiral Kasatonov
+, also present.
+Figure 5: The Convoy Returning
+On May 22,
+Sparta
+reappeared on AIS at 05:29 UTC and
+General Skobelev
+at 05:30 UTC, transiting the Strait of Gibraltar westbound and escorted by corvette
+Stoikiy
+and tanker
+Yelnya
+. Once through the strait,
+Sparta
+kept its AIS on while
+General Skobelev
+deactivated again, with
+Sparta
+heading to Kaliningrad and
+General Skobelev
+to Saint Petersburg - both returning to their ports of origin.
+New Ships and Changing Tactics in the Mediterranean
+The convoy likely used established evasion tactics including AIS darkness, possible AIS spoofing, and partial change of route. Although these are all well-known individual ruses, they have not been seen together in a single transit by the ships related to the ‘Syrian Express’, which so far have limited themselves to AIS darkness when close to Tartus. This time, instead, the possible deceptive tactics are significantly increased in sophistication. Moreover, the composition of the convoy changed to include the frigate
+Admiral Kasatonov
+. Interestingly, these are naval vessels far below the military capacity of the most recent Russian Mediterranean Squadron, already deliberately kept minimal.
+Peter Boerstling studies at James Madison University, Intelligence Analysis Program, School of Integrated Sciences.
+Giangiuseppe Pili (PhD) is an Assistant Professor, James Madison University; Senior Associate Fellow, NATO Defence College; Associate Fellow, Royal United Services Institute; and Regional Director, International Association for Intelligence Education.
+Stay on Top of the Daily Maritime News
+The maritime news
+that matters most
+Get the latest maritime news delivered to your inbox daily.
+Subscribe Now
+Gary C. Kessler, Ph.D., is president of Gary Kessler Associates, providing maritime cybersecurity education, research, and consulting, and co-author of Maritime Cybersecurity: A Guide for Leaders and Managers, 2/e. He is also a retired professor of cybersecurity and on the advisory boards of Cydome and the CyberBoat Challenge.
+Top image courtesy
+VesselFinder
+.
+MORE
+TOP STORIES
+Op-Ed: People Are the Powerbase of the Shipping Business
+Pakistan Explores Buying or Chartering Boxship Due to Shipping Challenges
+Japan Conducts Demonstration Voyage of a Hydrogen-Fueled Tanker
+Rescue Operation Off South Africa Turns Tragic as Rescuers Are Killed
+EDITORIALS
+TOP STORIES
+Op-Ed: People Are the Powerbase of the Shipping Business
+GAO: Coast Guard Addressing Marine Firefighting Challenges, but Gaps Remain
+Corridor Sovereignty: Cooperation Without Surrendering Control
+Japanese Naval Strengthening Steals Limelight at U.S.-China Talks
+The Liner’s Dilemma: Schedule Integrity vs. Contractual Flexibility
+The maritime news
+that matters most
+The latest news in your inbox daily.
+Subscribe Now
+SUBSCRIPTIONS
+SUBSCRIBE
+Print
+Digital
+Newsletter
+Renew
+Subscribe Now
+RELATED
+STORIES
+Government
+US Sends Third Carrier Strike Group to the Gulf
+Published
+					Oct 2, 2026 9:23 AM        		by
+The Maritime Executive
+US officials in Washington have briefed the press that a third US Carrier Strike Group, led by the USS Theodore Roosevelt (CVN-71), is on its way to the Central Command area. The USS Theodore Roosevelt, homeported in San Diego, departed quietly on September 27. Also seen deploying from San Diego on September 28 was the Amphibious Ready Group led by the Wasp Class amphibious assault ship USS Makin Island (LHD-8), accompanied by the USS Anchorage (LPD-23) and the USS John...
+Continue Reading...
+Government
+Philippine Coast Guard "Chases Off" Unauthorized Chinese Research Operation
+Published
+					Oct 1, 2026 11:37 PM        		by
+The Maritime Executive
+The Philippine Coast Guard reported Monday that it had "disrupted" and chased off a Chinese vessel that was conducting unauthorized research within the Philippine EEZ, a breach of the UN Convention on the Law of the Sea. The vessel in question, Jia Hai Ke 7 (or Jiahai Ke 7), was spotted loitering northwest of Itbayat in the Strait of Luzon on September 28, the PCG said. The area is strategic, providing a key passage from the open Pacific into the...
+Continue Reading...
+Government
+Video: Explosion and Fire Reported at Saudi Oil Port of Yanbu
+Published
+					Oct 1, 2026 11:29 PM        		by
+The Maritime Executive
+The main Saudi oil export terminal on the Red Sea, located at Yanbu, appears to have been hit by an unidentified projectile on Thursday. The port has become a critical vulnerability in the European oil supply chain, and last week French President Emanuel Macron pledged to protect Yanbu with France's air defense capabilities. Bystander videos from the scene show one isolated fire in the vicinity of a tank farm; security consultancy Vanguard Tech confirms that the projectile landed within the...
+Continue Reading...
+Government
+U.S. Navy Orders $25 Billion Worth of Missile Interceptors
+Published
+					Oct 1, 2026 9:56 PM        		by
+The Maritime Executive
+The U.S. Navy has signed a five-plus-two year deal with Raytheon for up to $25 billion worth of SM-6 multipurpose interceptor missiles. This SM-series variant is designed for long range anti-air warfare and has proven capability for shooting down cruise missiles, drones, and ballistic missiles, plus a secondary application as an antiship missile - all at lower cost than an SM-3. During the high-intensity phase of the war with Iran this year, the U.S. military's global stockpiles of all high-end...
+Continue Reading...
+SUBSCRIPTIONS
+SUBSCRIBE
+Print
+Digital
+Newsletter
+Renew
+Subscribe Now
+Show Comments
+About Us
+Advertise
+Newsletter
+Contact Us
+Privacy Policy
+Site Map
+News
+Features
+Podcasts
+Magazine
+Newsletter
+Piracy News
+Shipbuilding News
+Cruise Ship News
+Ports News
+Salvage News
+Training News
+Government News
+Environment News
+Corporate News
+Subscribe
+Facebook
+LinkedIn
+Twitter
+RSS Feed
+Instagram
+© Copyright 2026 The Maritime Executive, LLC. All rights reserved.

@@ -1,0 +1,703 @@
+URL:         https://www.skuld.com/topics/port/port-news/asia/maritime-security-update-gulf-region--strait-of-hormuz-and-red-sea/
+Кінцевий:    https://www.skuld.com/topics/port/port-news/asia/maritime-security-update-gulf-region--strait-of-hormuz-and-red-sea/
+Заголовок:   Maritime security update: Gulf Region / Strait of Hormuz and Red Sea
+Дата публ.:  2026-03-02
+Завантажено: 2026-10-07 08:13 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 173477
+Оригінал:    raw/37-skuld.com-maritime-security-update-gulf-region--strait-of-hormuz-and-r.html
+sha256:      47f08ab0c02f47e8fe27655d617bf21e4f0a78bbf96e712b4cf3ffad02e20a07
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 14
+==============================================================================
+Maritime security update: Gulf Region / Strait of Hormuz and Red Sea - Skuld
+Maritime security update: Gulf Region / Strait of Hormuz and Red Sea
+Image credit to: Visuals6x / Shutterstock.com
+and applies to vessels of all flags that enter or depart the blockaded area without authorisation.
+General notice of cancellation in respect of certain war risks
+US/Israeli military intervention in Iran: Charterparty implications
+US and Iranian tensions: Charterparty implications
+AIS spoofing and jamming in the Persian Gulf: a growing maritime security concern
+Updated threats to shipping in the Red Sea
+MSCIO Maritime Emergency Contact Map
+Industry Guidance on the Safe Management of Vessel Transit through the Strait of Hormuz (pdf)
+JWC Listed Areas (JWLA-033) (pdf)
+Vice President, Global Head of Claims Transformation
+Enter your email and recipient email to share this article.
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Maritime security update: Gulf Region / Strait of Hormuz and Red Sea - Skuld
+Skip to main content
+Emergency 24/7
+Search
+Log in
+Topics
+Products
+Vessels
+Correspondents
+Forms
+Rules & Conditions
+Emergency 24/7
+Menu
+Close menu
+Subscribe for updates
+Contact us
+About us
+Products
+Services
+Sustainability
+Rules & Conditions
+Forms
+Topics
+Press & Circulars
+Careers
+Courses
+LinkedIn
+RSS Feed
+Complaint handling procedure
+Cookies
+Ethics reporting
+Legal disclaimer
+Skuld privacy notice
+Transparency Act
+Search
+Correspondents
+Vessels
+Contact us
+About us
+Products
+Services
+Sustainability
+Rules & Conditions
+Forms
+Topics
+Press & Circulars
+Careers
+Courses
+Subscribe for updates
+LinkedIn
+RSS Feed
+Home
+/
+Topics
+/
+Maritime security update: Gulf Region / Strait of Hormuz and Red Sea
+Share this article by email
+Print this page
+Maritime security update: Gulf Region / Strait of Hormuz and Red Sea
+Port news
+Published: 2 March 2026
+Updated:
+17 August 2026
+Image credit to: Visuals6x / Shutterstock.com
+Update 17 August 2026
+Almost two months after the United States and Iran signed a memorandum of understanding aimed at reducing hostilities, the maritime security environment across the Gulf region remains characterised by elevated threat levels, reduced traffic volumes and continued operational uncertainty.
+While the Strait of Hormuz remains open to commercial traffic, vessel movements remain below historical levels and operators continue to face a combination of security threats, navigation hazards and operational uncertainty. Recent weeks have seen continued Iranian surveillance, vessel hailing and enforcement-related activity in and around the Strait of Hormuz, together with a number of reported missile, UAV and other maritime security incidents affecting regional shipping. Navigation hazards also remain a concern, including continued GNSS interference, AIS anomalies and the risk posed by drifting or uncharted mines. In the Red Sea, recent Houthi messaging has indicated an expanded focus on Saudi-linked shipping and a broader area of concern extending beyond the Bab el-Mandeb into parts of the northern Red Sea. At the same time, intelligence reporting has pointed to a renewed increase in Somali piracy activity affecting vessels operating near the Somali coast and the Gulf of Aden.
+Strait of Hormuz: open, but operating under elevated risk
+Recent weeks have demonstrated that the principal concern for maritime operators is no longer whether the Strait of Hormuz will close entirely, but rather the continued uncertainty surrounding safe and predictable vessel movements through one of the world's most important maritime chokepoints.
+Commercial traffic continues to transit the Strait, and the southern route remains available. However, multiple industry and military advisories report significantly reduced traffic volumes compared with normal operating conditions, reflecting continued caution among operators and charterers.
+The operating environment continues to be characterised by heightened naval activity, competing transit narratives, ongoing monitoring of merchant vessels and a sustained presence of military assets throughout the area. Recent advisories continue to assess the threat level in the Strait of Hormuz as severe.
+Transit arrangements and freedom of navigation
+A further development since late June has been the continued debate over transit arrangements in the Strait of Hormuz.
+Industry reporting indicates ongoing efforts by Iranian authorities to influence routing procedures and vessel movements through the Strait. At the same time, international maritime organisations and naval stakeholders have maintained that commercial shipping continues to enjoy freedom of navigation through available transit routes and that no single authority controls passage through the Strait.
+Recent advisories have reiterated that vessels may continue to use the southern route through the Strait and that commercial transits remain possible, although operators should expect increased naval interaction, VHF hailing, surveillance activity and requests for information. Mariners are also encouraged to maintain close engagement with UKMTO, NCAGS, and other recognised reporting mechanisms to support situational awareness and voyage planning.
+The consequence is an operating environment in which commercial navigation remains possible, but where routing decisions, security considerations and risk management continue to require significantly greater attention than under normal trading conditions.
+Continued attacks, surveillance and enforcement activity
+Despite a reduction in large-scale military exchanges, maritime security incidents continue to directly affect commercial shipping and crew safety.
+Recent reporting highlights projectile strikes, suspected UAV attacks, missile incidents, vessel monitoring and harassment activity involving merchant shipping operating in and around the Strait of Hormuz, the Gulf of Oman and Bab el-Mandeb. The
+IMO’s latest incident reporting
+records 65 confirmed incidents and 17 confirmed seafarer fatalities in the Strait of Hormuz and the wider Middle East, as at 11 August 2026. The same reporting includes incidents involving damaged vessels, abandoned vessels, injured crew and missing seafarers.
+Casualties have also been reported in the Red Sea. On 11 August, the small cargo vessel
+Tihamah
+was reportedly struck in the Bab el-Mandeb area. Lloyd’s List initially reported four seafarers feared dead, while Reuters later reported that four crew members and two Yemeni rescuers were killed, with further injuries reported among crew and rescue personnel.
+In the Gulf of Oman, the container vessel
+Vela Nova
+was reportedly struck on 11 August and left not under command, although all 17 crew members were accounted for according to Lloyd’s List reporting.
+These incidents underline that the current threat environment is not limited to disruption, delay or routing uncertainty. It continues to involve direct risk to vessels and seafarers. Iranian surveillance activity, including UAV overflights, VHF hailing and vessel monitoring, also continues to be reported, while international naval forces remain engaged in monitoring, verification and enforcement activities in the wider region.
+Navigation hazards remain a significant concern
+Alongside the direct security threat, mariners continue to face a range of navigational challenges.
+Persistent reports of GNSS interference, AIS anomalies and electronic disruption continue across the Gulf region and adjoining waters. Advisories also continue to reference the risk posed by drifting or uncharted mines in and around the traditional traffic separation scheme, while mine clearance and surveying operations remain ongoing.
+As a result, operators should ensure that bridge teams remain prepared to verify positional information using alternative means when necessary and maintain vigilance throughout transit.
+Red Sea: evolving Houthi posture
+Developments in the Red Sea continue to warrant close monitoring.
+Recent Houthi statements have suggested an expansion of the group's stated area of concern beyond the Bab el-Mandeb and southern Red Sea. Industry reporting indicates that messaging has increasingly focused on vessels associated with Saudi interests, and suggests that additional maritime access points could be contested.
+At the same time, missile and drone capabilities assessed to be available to the Houthis remain in place, and threat assessments continue to note the potential for future disruption affecting regional shipping routes. Commercial traffic through the Red Sea and Bab el-Mandeb continues, but at reduced levels compared with historical norms.
+Of particular relevance for operators trading to Saudi Arabian ports, recent reporting suggests that AIS-off operations at Yanbu berths, waiting areas and approaches remain elevated, reflecting the continued sensitivity of the regional security environment.
+Renewed concerns in the Gulf of Aden and the Western Indian Ocean
+Beyond developments in the Gulf region and Red Sea, operators should continue to monitor security risks in the wider Gulf of Aden and Western Indian Ocean.
+Recent intelligence reporting points to a renewed increase in Somali piracy activity, including several successful hijackings involving locally trading vessels operating near the Somali coast and the Gulf of Aden. While activity remains significantly below the levels experienced during the peak of Somali piracy, recent incidents demonstrate that piracy remains a credible threat, particularly for vessels operating close to the Somali coastline and established small-craft operating areas.
+The wider regional security picture continues to be influenced by a combination of piracy concerns, spillover from regional conflicts, and maritime security incidents affecting vessels transiting the Gulf of Aden. Recent
+US Maritime Administration (MARAD) guidance (2026-010)
+has also highlighted ongoing risks associated with piracy, armed robbery, kidnapping and ransom activity across the Gulf of Aden, Arabian Sea and Indian Ocean, reinforcing the importance of voyage-specific risk assessments and adherence to regional reporting procedures.
+Naval operations, industry reporting mechanisms, and BMP Maritime Security measures continue to play an important role in mitigating risk, and operators should remain vigilant when planning and conducting voyages through the region.
+The security environment across the Gulf region and Red Sea has evolved from the acute disruption experienced earlier in the year into a more prolonged period of elevated maritime risk.
+While commercial shipping continues to operate throughout the region, threat levels remain heightened due to the combination of ongoing military tensions, navigation hazards, electronic interference, maritime security incidents and uncertainty regarding transit arrangements.
+Shipowners and operators trading in the region should continue to conduct voyage-specific threat and risk assessments, liaise closely with their war risk insurers and monitor the latest guidance issued by UKMTO, JMIC, NAVCENT NCAGS, EUNAVFOR ASPIDES and other relevant authorities.
+Update 29 June 2026
+Recent developments indicate an interruption in what had been an early and tentative recovery phase in the Strait of Hormuz, with the
+temporary suspension of the IMO evacuation framework
+and renewed security incidents affecting commercial shipping.
+Evacuation framework paused following vessel attack
+The International Maritime Organization (IMO) has confirmed that its evacuation operation has been temporarily paused following an attack on a commercial vessel in the Gulf of Oman.
+The decision was taken to reconfirm that the necessary safety guarantees remain in place for vessels awaiting evacuation and for those operating in the wider region. The vessel involved had recently transited the Strait but was not participating in the IMO framework.
+Prior to the pause, the operation had enabled the evacuation of more than 100 vessels and approximately 2,400–2,500 seafarers, representing an initial easing of congestion following the earlier disruption of traffic through the Gulf.
+The suspension highlights the continued challenge of maintaining a coordinated transit regime in conditions where security assurances remain uncertain.
+Routing uncertainty and enforcement pressures
+The pause has also affected the temporary routing arrangements established to support evacuation movements. Information shared with the industry confirms that both northern and southern transit corridors remain subject to operational uncertainty.
+At the same time, Iranian authorities have reiterated that only routes approved by Iran should be used, warning that vessels deviating from those routes may face penalties or further action.
+This has reinforced an already complex operating environment, where vessels are effectively navigating between overlapping and, at times, conflicting expectations. In practice, some operators have responded by delaying or reversing voyages, particularly when attempting to transit via southern or non-Iranian-aligned routes.
+Continued incidents underline fragile conditions
+Recent reporting indicates that the security environment remains volatile.
+Incidents in recent days include vessels receiving coercive instructions to divert or await authorisation in Iranian waters, as well as a UAV strike on a tanker near the Strait, resulting in structural damage but no reported casualties.
+These events coincide with renewed military activity and exchanges between the United States and Iran, further placing pressure on the interim political framework agreed earlier in the month.
+The cumulative effect is that the Strait continues to operate as a contested environment, with both physical and enforcement-related risks remaining elevated.
+Shipping recovery continues, but remains fragile
+There had been early indications of recovery in vessel movements following the US–Iran agreement, with traffic levels increasing to their highest point since the escalation of hostilities earlier this year.
+Despite the pause in the evacuation framework and the recent attack, vessel movements have not ceased. Operators continue to transit selectively, reflecting a shift towards risk-managed rather than coordinated movement through the Strait.
+However, overall activity remains materially below pre-conflict norms, and the latest developments have reinforced a cautious approach among shipowners, with some vessels delaying or adjusting transit decisions in response to security concerns.
+The recovery is therefore uneven and remains closely linked to operational confidence, which continues to be affected by evolving security and regulatory conditions.
+Outlook
+The current situation reflects a fragile and incomplete recovery phase rather than a stabilised operating environment.
+The pause in the IMO evacuation framework, combined with continued incidents and unresolved routing expectations, highlights the extent to which:
+coordinated mechanisms remain dependent on credible security guarantees
+commercial operations are increasingly driven by individual risk assessments
+transit conditions remain sensitive to rapidly evolving developments
+While shipping activity has resumed to a degree, the Strait of Hormuz continues to operate under conditions of partial recovery, regulatory ambiguity and ongoing volatility.
+Update 25 June 2026
+Recent developments indicate that the Strait of Hormuz has entered a transitional phase characterised by controlled evacuation, fragmented routing regimes and increasing regulatory oversight, rather than a return to normal commercial transit.
+While a political agreement between the United States and Iran has created a framework for reducing hostilities, the practical conditions for merchant shipping remain constrained and subject to competing authorities.
+Strait of Hormuz: evacuation framework replaces ad hoc transit
+A material shift has occurred with the implementation of an
+IMO-coordinated evacuation plan
+designed to facilitate the departure of vessels stranded in the Gulf. The operation covers approximately 11,000 seafarers and several hundred vessels, reflecting the scale of disruption over recent months.
+Movements are conducted on a phased, controlled basis, with vessels assigned to transit groups and allocated specific departure windows. Ships are instructed not to proceed independently and must await direct instructions before commencing transit.
+Two temporary corridors are in use:
+a northern route through Iranian waters
+a southern route through Omani and UAE waters
+These routes operate outside the established traffic separation scheme, which remains unsafe due to mine risk and degraded navigation conditions.
+This process is best understood as a managed evacuation mechanism rather than a reopening of the Strait to free commercial movement.
+The IMO has also issued
+operational guidance and FAQs
+clarifying how the evacuation process is expected to function in practice. This emphasises that vessel movements will be centrally coordinated, with ships required to wait for specific instructions, remain within assigned transit groups and follow routing directions issued by the relevant coastal State. The guidance further highlights that transits may be halted at short notice for safety or security reasons, reinforcing that passage through the Strait at this stage is conditional and subject to real-time control rather than routine navigation.
+Competing routing authorities and conflicting instructions
+The evacuation framework is complicated by the absence of a unified control structure.
+Iran has stated that only routes approved by its authorities are permitted, with the Islamic Revolutionary Guard Corps (IRGC) indicating that vessels using alternative corridors may be considered in violation and subject to enforcement action.
+At the same time, the IMO-led framework includes a southern route coordinated with Oman and supported by broader international engagement.
+The result is a dual routing environment, where vessels must navigate between:
+multinational evacuation guidance
+Iranian routing and approval requirements
+This divergence introduces operational uncertainty and creates potential exposure where compliance with one framework may conflict with the expectations of another.
+Formalisation of transit conditions: insurance and route compliance
+Alongside route control, Iran has introduced mandatory insurance requirements for vessels transiting the Strait.
+Shipowners are required to obtain insurance approved by Iranian authorities, initially provided free of charge for a defined period but with provisions for future fees.
+Transit is also linked to:
+use of designated routes
+adherence to Iranian operational requirements
+Deviation from authorised routing is described by the IRGC as a violation and may trigger enforcement measures.
+These developments mark a shift towards a structured transit regime, with regulatory and financial dimensions that shipowners and operators must consider when assessing voyages involving the Strait.
+Political framework: limited operational clarity from the agreement
+The
+Memorandum of Understanding between the US and Iran
+, signed on 17 June, provides a high-level basis for restoring maritime traffic, including commitments relating to the safe passage of commercial vessels during an initial period.
+However, from a maritime perspective:
+key implementation details remain unresolved
+parties are understood to interpret aspects of the agreement differently
+current operational conditions continue to be shaped by unilateral measures, including routing and insurance requirements
+As a result, the agreement has enabled the start of evacuation operations but has not yet translated into a stable or unified transit framework.
+Red Sea and Gulf of Aden: no material shift in underlying threat
+The regional context outside the Strait remains broadly unchanged.
+Assessments continue to indicate that:
+Houthi forces retain the capability to conduct attacks against shipping in the Red Sea
+targeting continues to be influenced by commercial linkages, particularly to Israel and the United States
+the risk of misidentification and collateral damage persists even where incident activity is limited
+This suggests that the current phase in the Strait of Hormuz does not materially alter the risk calculus for Red Sea and Gulf of Aden transits.
+P&I perspective: transition to managed and conditional access
+The current environment reflects a shift from disruption to managed but conditional access, with several key implications for shipowners and operators:
+transit is subject to allocation, coordination and external approval, rather than shipowner discretion
+routing decisions must account for overlapping and potentially conflicting authority structures
+insurance and compliance requirements imposed by coastal states introduce additional exposure
+interaction with naval forces and authorities remains a primary operational risk factor
+In addition to physical risk, shipowners and operators should consider potential exposure related to:
+compliance with local regulatory frameworks
+sanctions and legal implications of engagement with designated entities
+delay, deviation and associated liabilities
+Traffic through the Strait of Hormuz is gradually resuming, but under conditions that differ fundamentally from pre-conflict operations.
+The current system combines:
+controlled evacuation
+partial reopening
+competing regulatory and enforcement mechanisms
+This creates a fluid environment in which access is possible but conditional, and where operational predictability remains limited.
+Update 9 June 2026
+The operating environment across the Gulf region remains highly constrained, but the past week has brought two important shifts. First, transit through the Strait of Hormuz is increasingly being managed through a model of coordinated passage rather than physical escort. Secondly, the Red Sea threat picture has sharpened again following the Houthis’ announcement on 8 June that they have reinstated their ban on Israeli shipping.
+Recent reporting from
+JMIC
+suggests that the immediate risk picture in the Strait has stabilised somewhat compared with the peak disruption phase, although the environment remains severe and highly sensitive to miscalculation, navigation interference and blockade-enforcement activity. In parallel, Risk Intelligence assesses that the broader strategic picture has not improved materially, with the United States and Iran continuing to exchange strikes while remaining entrenched in their respective positions.
+Strait of Hormuz: severe, and no return to normality
+The most material change in official reporting is that JMIC’s 7 June update reduced the regional threat level from CRITICAL to SEVERE, and also reduced the Strait of Hormuz from CRITICAL to SEVERE, explicitly citing the number of safe transits conducted via the southern route through Omani territorial waters. At the same time, JMIC continues to state that navigation interference, blockade-enforcement activity and mine-risk reporting remain relevant within and adjacent to the traffic separation scheme.
+That reduction should not be read as a return to normal operating conditions. Traffic remains far below historical norms. JMIC’s 7 June advisory records only 6 transits on 4 June, 4 on 5 June and 3 on 6 June, against a historical average of around 138 vessels per day. It also continues to report persistent GNSS interference across the Strait approaches, the Gulf of Oman and the Arabian Gulf.
+JMIC, moreover, maintains that mine-risk reporting continues to apply within and adjacent to the TSS, referring again to the NAVAREA IX warning (180/26) issued on 26 May concerning a suspected floating mine. Vessels anchored close to the Strait may still be instructed to relocate, while short-notice actions by Iranian units remain possible.
+Coordinated transit and the role of NCAGS
+At present, the US Navy is not offering routine escorts for merchant shipping in the Strait of Hormuz. Instead, the model is one of coordination, situational awareness and deconfliction. Vessels seeking to transit are expected to engage proactively with the established reporting framework, including MSCHOA, UKMTO and, crucially, NAVCENT’s NCAGS cell, where practical interaction with US naval forces takes place. Within that framework, operators may share transit plans, receive routing guidance and benefit from real-time monitoring and potential military response in the event of an incident. The US Navy has worked to establish defined transit "pathways" based on demonstrated safe passages, with ships guided along these routes through communication rather than physical escort.
+That means the current system is best understood as coordinated transit rather than convoying. As such, continuous communication remains central - vessels are expected to monitor VHF Channel 16, communicate their intentions clearly and comply immediately with instructions from naval units in the area.
+For shipowners and operators, the practical implication is that early engagement with the coordination centres, close alignment with war risk insurers, and strict adherence to reporting and communications procedures remain essential. The
+industry guidance
+on the safe management of vessel transit through the Strait of Hormuz, produced by ICS, BIMCO, INTERCARGO, INTERTANKO, IMCA and OCIMF, remains directly relevant in this regard.
+Recent Gulf developments: no sustained recovery and continued volatility
+Although JMIC has reported no new verified incidents affecting commercial shipping in the Gulf of Oman in the most recent reporting periods, the wider operating environment remains unstable. On 1 June, JMIC recorded an attack on a cargo vessel 40 nautical miles south-east of Umm Qasr, Iraq, describing a large explosion following a hit from an unknown projectile on the starboard side. In its subsequent updates of 4 and 7 June, JMIC recorded no further incidents of that type, but retained SEVERE threat levels for the Arabian Gulf and Gulf of Oman.
+Risk Intelligence added important strategic context - it states that the United States conducted strikes against Iranian facilities and claimed to have used a Hellfire missile against a vessel suspected of breaching the US naval blockade. It further states that Iran retaliated across the region, including against US military bases and port areas, and claimed to have attacked several vessels, including at least two operated by MSC in the region. Risk Intelligence’s core assessment is that these exchanges do not alter the underlying strategic picture, which remains one of periodic violence interspersed with suspended or largely performative negotiations.
+Red Sea: renewed Houthi policy signal
+The most important new development outside the Gulf itself is the renewed Houthi signal in the Red Sea. According to Ambrey’s 8 June threat circular, following escalation between Israel and Iran, the Houthis launched an attack against Israel on 8 June and, on the same day, military spokesperson Yahya Sare’e declared that the Houthis had reinstated their ban on Israeli shipping. Ambrey assesses Israel-owned, operated and managed shipping to be at high risk in the Red Sea and Gulf of Aden. Ambrey also notes that companies calling Israel may face a realistic future targeting risk and that vessels calling Israel may be exposed to collateral damage.
+This is an important development because it sharpens the distinction between the Gulf and Red Sea theatres. Ambrey explicitly states that threat levels in the Arabian Gulf, Strait of Hormuz and Gulf of Oman remain unchanged, while the immediate deterioration is concentrated on the Red Sea and Gulf of Aden for Israeli-linked interests.
+That in turn broadly aligns with JMIC’s latest Red Sea reporting, which continues to assess the Bab el-Mandeb and Southern Red Sea as MODERATE, with no confirmed attacks on merchant shipping in the last 72 hours and no operational indicators of imminent targeting, even though Houthi rhetoric persists.
+Multinational Military Mission: political support, but no immediate operational change
+A further development that remains relevant is the emerging
+Multinational Military Mission
+for the Strait of Hormuz. The joint statement issued following the UK and French-led 12 May meeting confirms broad political support from multiple states for an independent, and strictly defensive mission intended to support civilian shipping, reassure commercial operators and conduct mine-clearance operations. The same statement also makes clear that operations will commence only in a permissive environment, and that the mission is intended to complement ongoing diplomatic and de-escalation efforts rather than replace them.
+That limitation is important. For now, the Mission remains more significant politically than operationally. It signals sustained international concern over the security of commercial navigation through Hormuz, but it does not yet alter the practical reality faced by shipowners and masters.
+Alongside that new initiative, the longer-standing European Maritime Awareness in the Strait of Hormuz (EMASoH) framework continues to matter as an instrument intended to protect freedom of navigation, ensure coordination among parties in the area and contribute to de-escalation through military and diplomatic presence. Its military component, Operation AGENOR, is focused on maritime situational awareness and surveillance rather than convoying.
+P&I perspective: what matters for members now
+From a P&I perspective, the current phase is defined less by mass casualty incidents and more by structured yet still fragile risk management under military oversight. The principal exposures remain:
+miscalculation or misidentification in a congested and heavily monitored operating area
+navigation risk arising from persistent GNSS interference and mine reporting
+delay and deviation risk caused by restricted throughput and routing constraints
+sanctions and compliance exposure where interactions with state-controlled transit systems or conflicting instructions arise
+renewed war risk for Israel-linked shipping in the Red Sea following the Houthis' announcement of 8 June.
+The more encouraging aspect of the latest reporting is that a model of coordinated transit through the Strait of Hormuz now appears more clearly established than in earlier phases of the crisis. The limiting factor is that this remains coordination-led, capacity-constrained and politically contingent, rather than a restored system of normal commercial passage.
+Update 1 June 2026
+Gulf Region update – 29 May 2026
+The operating environment in the Gulf region remains highly constrained and complex. Since the previous update, the main developments include continued blockade enforcement activity, updated operational guidance from the Joint Maritime Information Center (JMIC), persistent mine risk in and around the Strait of Hormuz traffic separation scheme (TSS), and increased sanctions exposure linked to Iranian transit-control arrangements.
+Current operating environment
+According to
+JMIC’s 31 May update
+, the overall maritime threat level in the Middle East remains CRITICAL, with the Strait of Hormuz also assessed as CRITICAL, the Arabian Gulf and Gulf of Oman as SEVERE, and the Arabian Sea as MODERATE.
+JMIC continues to report significantly reduced traffic levels through the Strait. Commercial vessels are routing south of the TSS via Omani territorial waters, while blockade enforcement, navigation interference and mine-risk concerns persist.
+Risk Intelligence similarly assesses that the situation remains effectively stalled, with no clear pathway to a return to unrestricted transit. Instead, the operating model appears to be shifting towards controlled passage linked to Iranian transit arrangements.
+Blockade enforcement and military activity
+Recent JMIC advisories provide further clarity on the enforcement environment.
+JMIC Advisory Note 006-26
+states that the blockade of Iranian ports remains in force, and that vessels supporting ships in breach of the blockade - including through ship-to-ship operations - may also be considered non-compliant. The advisory highlights that enforcement measures may escalate to disabling or destructive fire where vessels do not respond appropriately to instructions. Mariners are advised to maintain a listening watch on VHF Channel 16 and clearly communicate intentions when requested by military forces.
+JMIC Advisory Note 005-26
+reports ongoing military operations north of the Musandam Peninsula, advising vessels to avoid the TSS, coordinate with
+USNAVCENT NCAGS
+, and comply immediately with directions from U.S. forces. The same advisory notes that vessels suspected of involvement in mine-laying may be treated as hostile and engaged in self-defence.
+The practical implication is that exposure is not limited to direct attack risk, but also includes rapid escalation linked to delayed response, misidentification, or perceived non-compliance.
+Mine risk and routing considerations
+Mine risk remains a persistent concern. JMIC reports that a NAVAREA IX warning (180/26) was issued on 26 May following the sighting of a suspected floating mine in the Strait approaches, with vessels advised to proceed with extreme caution.
+JMIC continues to assess that mine threats in and around the TSS remain credible, reinforcing earlier guidance to consider routing south of the TSS via Omani waters, where operationally feasible and aligned with official guidance.
+The Strait should therefore still be treated as a managed and constrained transit area, rather than a corridor operating under normal conditions.
+Incident picture and transit levels
+Recent JMIC updates indicate no confirmed new attacks affecting commercial shipping within the Strait of Hormuz during the latest reporting periods. However, transit volumes remain materially reduced. JMIC reports daily transits in the range of 3–4 vessels, compared with  historical averages of approximately 138 vessels per day.
+Earlier in the reporting period, JMIC and UKMTO reported an incident involving the tanker OLYMPIC LIFE east of Muscat, where an explosion was observed near the waterline. The crew was reported safe, and the cause remains under investigation.
+UKMTO’s 26 May summary
+states that it had received 52 incident reports across the Arabian Gulf, Strait of Hormuz and Gulf of Oman, including attack reports, suspicious activity, and hijack incidents.
+Overall, the picture remains one of low traffic, no sustained recovery trend, and continued exposure to both direct and indirect operational risks.
+Transit control, PGSA and sanctions exposure
+A significant development is the growing convergence between transit control and sanctions risk.
+Industry reporting and Risk Intelligence assessments indicate that Iran has formalised transit oversight through the Persian Gulf Strait Authority (PGSA), positioning it as a central administrative interface for vessels seeking to transit the Strait of Hormuz. According to Maritime Executive reporting, the framework introduces a permit-based system, under which vessels are required to apply for transit authorisation, submit detailed operational information — including ownership, cargo, crew and insurance details, and align with Iranian-issued transit procedures before passage is granted.
+The PGSA, therefore, represents a shift beyond ad hoc tolling towards a more structured traffic management and vetting regime, in which vessels may be screened and, based on submitted information, selectively approved or denied transit. This development effectively formalises Iranian oversight of vessel movements through the Strait, introducing both operational coordination requirements and additional compliance considerations for shipowners and their counterparties.
+On 27 May, the
+U.S. Treasury’s Office of Foreign Assets Control (OFAC)
+sanctioned the PGSA. OFAC states that engagement with the authority - including payments or receipt of transit-related services - may expose parties to sanctions risk, including for non-U.S. persons.
+OFAC further highlights that risk may arise regardless of payment method, including indirect or non-cash arrangements.
+This creates a complex operating environment in which compliance considerations may directly affect navigational decision-making, requiring careful assessment by shipowners, charterers and their counterparties.
+Red Sea / Gulf of Aden
+In the Southern Red Sea and Bab el-Mandeb, JMIC reports no confirmed attacks on merchant vessels in recent reporting periods, with the overall threat level assessed as MODERATE.
+However, both JMIC and Risk Intelligence continue to emphasise that the environment has not normalised, and that threat conditions can evolve rapidly. Risk Intelligence notes that any potential return to wider Red Sea transits remains driven by commercial and political considerations rather than a clear reduction in threat capability.
+Considerations for Members and Assureds
+In the current environment, Members and assureds should ensure that voyage planning reflects:
+the potential for rapid shifts in enforcement posture and the need for immediate compliance with military instructions;
+continued mine risk, particularly in and around the Strait approaches and TSS;
+ongoing navigation interference, including GNSS disruption;
+significantly elevated sanctions and compliance exposure, particularly in relation to transit authorisations and payment requests.
+Voyage-specific risk assessments should incorporate both security and compliance factors, with clear onboard and shore-side alignment on routing, communications, and verification of instructions through recognised channels such as UKMTO and NAVCENT NCAGS.
+Industry guidance issued by BIMCO, ICS, INTERCARGO, INTERTANKO, IMCA and OCIMF remains relevant, emphasising structured risk assessment, the Master’s overriding authority, and the potential for secondary navigational risks should traffic patterns shift.
+Update 22 May 2026
+Current operating environment
+The
+Joint Maritime Information Center
+(JMIC) continues to assess the Arabian Gulf / Strait of Hormuz and the Gulf of Oman / Arabian Sea operating environment as CRITICAL, citing navigation interference, blockade enforcement activity, mine reporting and residual kinetic risk.
+Traffic through the Strait remains significantly reduced, with continued high sensitivity to short-notice changes, and persistent congestion across anchorages.
+Developments since 8 May: incidents and operating conditions
+Since the 8 May update, JMIC has continued to record incidents affecting commercial shipping and to highlight the operational risks created by congestion, intermittent GNSS disruption, and mine reporting near the Traffic Separation Scheme (TSS).
+Key reported incidents include:
+8 May
+An Indian-flagged dhow transiting from Dubai to Yemen caught fire and capsized; one crew member was reported dead, and 17 were rescued.
+9 May
+UKMTO warning reported a merchant vessel struck by an unknown projectile northeast of Doha, Qatar; a small fire was contained, and no casualties were reported.
+14 May
+UKMTO warning reported suspicious activity involving unauthorised personnel taking a vessel while at anchor northeast of Fujairah, UAE.
+14 May
+UKMTO warning reported an attack on an Indian-flagged livestock carrier involving an explosion and subsequent sinking in the vicinity of Limah, Oman; all 14 crew were recovered by Omani authorities.
+Operationally, JMIC continues to note that mine reporting in and near the TSS remains a threat and that GNSS interference remains sporadic/consistent across the wider operating area.
+Traffic levels and congestion
+JMIC continues to report that daily transit volumes remain far below historical norms (historical reference point ~138 vessels/day) and recent transit figures illustrate ongoing suppression and instability.
+In parallel, high vessel density persists across major Arabian Gulf anchorages, and JMIC continues to recommend heightened situational awareness, including monitoring for navigation degradation and avoiding predictability where safe and practicable.
+Strategic direction: efforts to formalise control and monetise transit risk
+Beyond incident reporting, external analytical reporting indicates a shift towards more structured mechanisms of control linked to transit permissions and financial exposure.
+The
+Institute for the Study of War (ISW) / Critical Threats Project (CTP)
+assesses that Iran is introducing a formalised system framed as maritime insurance policies, using a combination of incentives and coercive measures to normalise and reinforce its control over traffic through the Strait. This includes reported efforts to require vessels to seek transit clearance or ‘insurance’ arrangements through Iranian-controlled channels, effectively linking physical access to the Strait with compliance with financial or administrative conditions.
+In parallel,
+Ambrey
+has identified a sustained campaign of fraudulent communications impersonating Iranian authorities and demanding cryptocurrency payments in exchange for transit authorisation. The activity presents financial, operational and security risks, including the possibility of vessels attempting transit based on false assurances or without valid authorisation. Taken together, these developments highlight a more complex operating environment in which payment demands, transit permissions and communications must be treated with caution, independently verified through trusted channels, and assessed against applicable sanctions and compliance obligations.
+Risk Intelligence similarly assesses that Iran is exploiting the current status quo to consolidate control of the Strait, including efforts to secure Asian acquiescence and to introduce mechanisms that may resemble a “Hormuz toll” system and associated payment routes.
+New industry guidance: Safe management of Strait of Hormuz transits (May 2026)
+A new industry guidance document (
+Industry Guidance on the Safe Management of Vessel Transit through the Strait of Hormuz
+), produced by the ICS, BIMCO, INTERCARGO, INTERTANKO, IMCA, and OCIMF, has been issued to complement
+BMP‑MS
+and support voyage-specific threat and risk assessment for transits into, within, or out of the Gulf region where a Strait transit may be required. It does not replace company procedures, the Master’s overriding authority, flag/coastal state requirements, charterparty obligations, insurance advice or official naval/governmental guidance.
+Key points relevant to current operating conditions include:
+Plan for extreme congestion as a navigational hazard, including reduced sea-room margins, AIS saturation and the potential for chain-reaction manoeuvring.
+Assume degraded GNSS during transit and prioritise radar/visual cross-checks and pre-transit drills.
+Use structured decision-making (threat picture, navigation picture, vessel readiness, crew posture, shore support) rather than a simple “go/no-go”.
+Treat fatigue and workload as risk multipliers in high-threat, high-density environments.
+Practical considerations for members and assureds
+Based on reporting since 8 May, voyage planning should continue to assume that conditions may change at short notice, including heightened enforcement activity, incident risk beyond the immediate Strait area, congestion-driven hazards, and degraded navigation inputs.
+Members are encouraged to ensure that voyage-specific risk assessments cover both security and navigational risk, with clear escalation routes, reporting discipline and contingency planning in place before committing to transit.
+Update 8 May 2026
+Current operating environment: sustained CRITICAL assessment
+The Joint Maritime Information Center (JMIC) continues to assess the wider Arabian Gulf / Strait of Hormuz / Gulf of Oman operating environment as CRITICAL, with traffic conditions remaining materially suppressed and highly sensitive to short‑notice changes in enforcement posture, mine‑risk reporting, and VHF control measures. This assessment has been consistent across successive JMIC updates issued between 28 April and 7 May.
+AIS‑based traffic reporting illustrates the instability in transit conditions rather than any recovery trend. Transit volumes fell to three transits per day on 26–27 April, briefly increased to low double‑digits (11 on 28 April; 16 on 29 April), before deteriorating again into low single digits and ultimately reaching zero reported transits on 6 May.
+UKMTO incident data for the period 28 February to 6 May (0800 UTC) records 46 incident reports across the region, including confirmed attacks, suspicious activity and hijack reporting, underlining that the operational risk profile remains materially elevated well beyond the narrow confines of the Strait itself.
+Mine risk and routing reality: "orderly transit" and the southern corridor
+A defining operational development during this period is the effective re‑definition of viable routing options.
+JMIC Advisory Note 004‑26
+("Enhanced Security – Conditions for Orderly Transit") confirms the establishment of an enhanced security area south of the Traffic Separation Scheme (TSS), with vessels advised routing via Omani territorial waters, coordinated on VHF Channel 16 with Omani authorities, to maintain safety of navigation.
+Crucially, the same advisory and subsequent operational summaries state that transit via or in close proximity to the TSS should be considered "extremely hazardous" due to the presence of mines that have not been fully surveyed or mitigated.
+Incident reporting from late‑April operational advisories confirms that this is an operational reality rather than a theoretical constraint. Reported mine risk, together with sporadic GNSS interference and direct VHF intervention, has in practice driven traffic into a de facto southern corridor, irrespective of wider political messaging that the Strait remains "open".
+Enforcement posture and Project Freedom: capability vs. predictability
+On 3 May, US Central Command (CENTCOM) announced the launch of Project Freedom, commencing on 4 May, with the stated aim of supporting freedom of navigation for commercial shipping through the Strait. The initiative was publicly described as involving significant naval and air assets, alongside a wider diplomatic‑military coordination framework (the “Maritime Freedom Construct”). However, industry reporting and operator feedback indicate that frequent short‑notice changes to the operational concept have complicated voyage planning rather than stabilising it.
+BIMCO has explicitly warned that abrupt pauses or changes in Project Freedom activity inject fresh uncertainty into risk assessments, and that uncoordinated transits continue to carry significant risk. BIMCO further notes that, at the time of reporting, no formalised operational guidance for shipping had been issued, and cautions that without Iranian consent, it remains unclear whether the threat to commercial shipping can be "degraded or suppressed".
+In light of Iranian warnings against transits not coordinated with its military, BIMCO highlights the risk of renewed hostilities if Project Freedom proceeds and the uncertainty over the initiative's longer‑term sustainability. BIMCO also emphasises that the overall security situation remains unchanged, underscoring the need for shipowners to continue conducting thorough, voyage‑specific risk assessments.
+Parallel reporting highlights that vessels continue to face conflicting expectations: guidance to coordinate via Omani waters and NCAGS channels on the one hand, while Iranian authorities maintain that safe passage requires coordination with their forces.
+Confirmed incident pattern: late April to early May escalation
+JMIC operational summaries and UKMTO reporting from late April into early May reflect a shift from intermittent quiet periods to renewed, multi‑vector pressure on commercial shipping.
+Key confirmed incidents include:
+3 May
+A northbound bulk carrier reported an attack by multiple small craft approximately 11 NM west of Sirik, Iran. The vessel departed the area; the crew were reported safe.
+4–5 May
+Increasing pressure in anchorage areas, with vessels receiving VHF Channel 16 instructions to vacate anchorages closer to the Strait, alongside continued mine warnings near the TSS.
+6 May
+A cargo vessel was struck by an unknown projectile within the Strait of Hormuz, confirmed by UKMTO.
+6 May (Gulf of Oman)
+US forces disabled the rudder of the Iranian‑flagged tanker M/T Hasna after non‑compliance with blockade warnings.
+7 May
+Iranian missiles, drones and small craft launched during the transit of three US Navy destroyers; US forces conducted self‑defence strikes in response.
+Contemporaneous incident and advisory reporting indicate that these incidents were not isolated, but formed part of a dense reporting cycle, with operational pressure extending to vessels at anchor and alongside, not only those in transit.
+Humanitarian shipments: formalised but conditional clearance
+JMIC Advisory Note 003‑26
+("Blockade Update – Humanitarian Shipment") sets out a formal vetting and clearance mechanism for vessels carrying food, medical supplies or other civilian‑essential cargoes destined for Iran. The process requires a detailed advance submission via NCAGS channels and explicitly notes that approval does not preclude boarding or inspection.
+Members engaged in such voyages should treat clearance as procedural access, not as a guarantee of uninterrupted movement.
+Operational recommendations (for this period)
+Members operating in the region should continue to apply enhanced operational controls, with particular attention to:
+Mine‑risk‑informed routing
+Treat the TSS and adjacent waters as potentially mine‑affected until survey and mitigation are explicitly confirmed; align voyage planning with the "orderly transit" guidance via Omani territorial waters.
+Communications discipline
+Maintain continuous VHF watch, respond promptly to official hails, and report suspicious activity immediately to UKMTO; anticipate anchorage‑area instructions.
+Electronic interference awareness
+Treat GNSS spoofing and signal disruption as standing hazards, and rely on cross‑checks rather than single navigation inputs.
+Humanitarian cargoes
+Where relevant, strictly follow the JMIC clearance and vetting process, recognising its conditional nature.
+Update 24 April 2026
+Ship seizures, blockade enforcement and escalating compliance and casualty‑response risk
+Current situation (Strait of Hormuz / Arabian Gulf / Gulf of Oman)
+The operating environment in the Gulf region has transitioned from severe disruption and intermittent strikes to a more complex posture characterised by interdiction and enforcement by multiple state actors, persistent navigational integrity issues, and heightened uncertainty around lawful passage, permits and sanctions‑related inspections. Risk Intelligence assesses that the Strait of Hormuz risk profile is no longer a binary "open/closed" question; rather, it is a graduated matrix influenced by flag, ownership, cargo, recent port calls and perceived political alignment.
+JMIC
+continues to assess the overall threat environment across the Arabian Gulf, the Strait of Hormuz and the Gulf of Oman as CRITICAL, and notes that commercial traffic through Hormuz remains far below historical norms. JMIC uses an indicative historical average of ~138 daily transits, while its AIS‑based tables throughout early to mid‑April show single‑digit/low‑teen daily totals, reflecting a sustained "wait‑and‑see" posture by shipowners and charterers.
+Key developments since 26 March 2026
+IRGC seizures and live fire against MSC‑operated containerships
+On 22 April, Iran’s IRGC Navy claimed it seized two MSC‑operated/MSC‑chartered containerships - the
+MSC Francesca
+and
+Epaminondas
+- alleging they transited without required permits. The
+Epaminondas
+was fired upon while sailing eastbound, with "heavy damage" to the navigation bridge; crew were reported safe, and the master reportedly stated no prior warning had been received and that the ship had been informed of permission to transit.
+The same incident set also included a third targeted vessel,
+Euphoria
+(Silmar‑operated), which continued toward the Gulf of Oman with no damage reported in the cited reporting.
+Fast‑boat swarms underline seizure risk
+A
+Reuters report
+(23 April) highlights that Iran’s use of fast‑boat swarms to seize vessels near Hormuz is a key escalation, forming part of a layered threat set alongside missiles, drones, mines and electronic interference. This further underscores that commercial shipping is not practically equipped to prevent military forces from conducting seizure operations at sea.
+US blockade enforcement and broad "right of visit" posture (13-16 April onwards)
+US authorities began enforcing a naval blockade of Iranian ports and coastal areas from
+13 April 2026
+. The enforcement zone extends into the
+Gulf of Oman and the Arabian Sea east of the Strait of Hormuz
+and applies to vessels of all flags that enter or depart the blockaded area without authorisation.
+While neutral transit through the Strait of Hormuz to and from
+non
+‑
+Iranian destinations
+is stated not to be the target of the blockade, neutral vessels may still be
+subject to visits and searches
+to verify whether they are carrying contraband. The associated contraband framework (see:
+JMIC Advisory Note 002-26
+dated 16 April 2026) is broad, covering both
+absolute
+and
+conditional
+categories, which materially increases uncertainty for shipowners, charterers, shippers and insurers. In practice, voyages may attract scrutiny if they are perceived as supporting Iranian trade or involve dual‑use goods.
+Enforcement geography expands - boarding in the Indian Ocean (23 April)
+US forces boarded the stateless tanker
+Majestic X
+(formerly
+Phonix
+) in the Indian Ocean, describing the action as a right‑of‑visit interdiction and signalling that sanctions enforcement against Iran‑linked oil shipments is being applied far beyond Hormuz.
+Operational implications for members
+Transit planning and the "two‑regime" risk problem
+Members should factor that the current environment includes overlapping and sometimes contradictory expectations: on one side, Iran's asserted control of routing/permissions; on the other, expanded blockade enforcement and contraband scrutiny. Risk Intelligence describes this as “overlapping threat envelopes” and a structurally higher baseline of legal and political risk, even when kinetic activity temporarily dips.
+Traffic suppression and congestion‑driven hazards
+JMIC repeatedly notes high concentrations of vessels at anchor/drifting/alongside, with congestion amplified by EMI/AIS anomalies and GNSS interference, increasing collision and anchor‑dragging risk. Members should treat time at anchor, STS, and port approaches as higher‑risk phases.
+Mine risk reporting and routing uncertainty
+Mine risk now represents the most persistent and operationally significant hazard in the Strait of Hormuz. According to information provided to the US House Armed Services Committee on 20 April, Pentagon officials assess that clearing naval mines laid by Iran in the Strait would take up to six months, even under the most optimistic political conditions. This means that a diplomatic agreement or ceasefire would not, in itself, allow an immediate return to normal commercial operations.
+Naval mines are indiscriminate and enduring by nature: they do not observe ceasefires, do not distinguish by flag, and continue to pose a threat long after hostilities subside. As a result, mine risk is expected to be the residual risk that persists longest following any political settlement. Shipowners and operators should therefore expect prolonged routing restrictions, controlled movements, or continued traffic suppression in and around the Strait, even if wider tensions de‑escalate.
+GNSS/GPS interference — practical consequences for port calls and safe navigation
+US MARAD’s Advisory 2026‑008
+highlights GPS disruption precautions and encourages incident reporting via NAVCEN and NATO Shipping Centre mechanisms.
+JMIC continues to note sporadic but persistent interference around the Strait of Hormuz approaches and recommends alternative positioning and anomaly reporting.
+Additionally, a specific operational example has emerged: Inchcape Shipping’s guidance for Oman indicates Mina Al Fahal terminal requires operational Doppler logs due to GPS interference, and vessels without a functioning Doppler log cannot be berthed.
+Red Sea / Bab el‑Mandeb / Gulf of Aden (continued watch)
+While this page focuses on the Gulf region, members should continue to monitor the Red Sea threat picture as it shapes rerouting decisions and insurance pricing. Risk Intelligence continues to assess that Houthi capability persists, with threat highest for Israel‑linked shipping, and elevated risk for US‑linked and certain Western‑linked vessels, alongside collateral risk for others.
+US MARAD Advisory 2026‑006
+similarly highlights the continuing Houthi threat vectors and cautions for vessels with Israel/US/UK associations or fleet structures linked to Israeli port calls.
+IMO and seafarer welfare
+IMO
+has emphasised that the conflict environment affects more than 20,000 seafarers in the region and has outlined a Council‑requested safe maritime evacuation framework using the established Strait of Hormuz traffic separation scheme (eastbound lane), contingent on parties refraining from attacks during evacuation.
+Recommendations to members – Strait of Hormuz and Gulf Region (April 2026)
+Plan for rapid change
+Treat the Strait of Hormuz as a dynamic, controlled transit corridor. Conditions may change at short notice depending on flag, ownership, cargo and perceived linkage.
+Expect inspection risk
+Vessels may be subject to boarding, inspection or diversion, including outside the Strait, under expanded enforcement regimes.
+Monitor and report
+Maintain VHF 16 watch and report incidents, warnings, GNSS interference or suspicious activity promptly to UKMTO and relevant authorities.
+Prepare for GNSS disruption
+Expect degraded GPS. Ensure alternative position-fixing and critical navigation equipment (e.g. Doppler log) are operational.
+Exercise anchorage caution
+High congestion and navigational anomalies increase collision and anchor‑dragging risk.
+Factor persistent mine risk into voyage planning
+Even in the event of de-escalation or ceasefire, routing restrictions, controlled movements, or prolonged traffic suppression may remain in place for an extended period. Mine risk is indiscriminate and may affect all vessels.
+Crew readiness matters
+Brief crews regularly for potential delays, inspections or detention; monitor fatigue and welfare.
+Plan for limited assistance
+Assume external emergency response may be delayed or unavailable following an incident.
+Update 26 March 2026
+Gulf Region: Strait of Hormuz and Red Sea
+Recent developments in the Gulf region and the Red Sea continue to create significant challenges for commercial shipping. The situation remains fluid, with ongoing military activity, restrictions on transit in key waterways, and increased navigational hazards. Skuld continues to monitor developments closely and provides the following updated assessment for members.
+Strait of Hormuz
+Current situation
+According to recent assessments, including the
+Risk Intelligence Middle East Weekly Report (25 March 2026)
+, the Strait of Hormuz remains severely disrupted. While Iranian authorities publicly deny that the strait is closed to navigation, commercial traffic has diminished significantly, with many vessels waiting in the Qeshm/Bandar Abbas concentration area or diverting their routes altogether.
+GNSS interference, VHF challenges from Iranian units, and intermittent strikes have contributed to unpredictable navigational conditions.
+Selective transit and potential fees
+Multiple reputable sources - including
+Lloyd’s List
+,
+Bloomberg
+, and further corroborated in
+Risk Intelligence’s analysis
+- have reported instances where certain vessels have transited the Strait of Hormuz only after undergoing a vetting or screening process with Iranian authorities. Several of these reports indicate ad‑hoc payments connected to such transit arrangements. These practices appear informal, selective, and not codified, and there is currently no published fee schedule from Iran.
+Risk Intelligence further assesses that Iran is likely seeking to formalise a new Traffic Separation Scheme (TSS) and potentially a fee‑based passage structure, reflecting an attempt to regulate and monetise transits in a manner inconsistent with longstanding navigational conventions.
+Compliance considerations
+Members are reminded that engaging in any payment, facilitation, or contractual arrangement involving entities linked to the Islamic Revolutionary Guard Corps (IRGC) may expose them to sanctions under US, EU, and UK regimes. Any solicitation for payment should be treated with extreme caution and escalated immediately to the flag state, insurers, and legal advisors.
+Official position of the Iranian authorities
+A
+statement
+issued by the Ministry of Foreign Affairs of the Islamic Republic of Iran (March 2026) confirms that Iran does not consider the Strait of Hormuz closed, asserting that navigation continues "in compliance with measures arising from the state of belligerency." The statement distinguishes between:
+"Aggressor" vessels
+(United States, Israel, and states cooperating with their operations), which Iran states do
+not
+qualify for normal or non‑hostile passage and may be subject to restrictive or enforcement measures; and
+"Non‑hostile" vessels
+, which may continue to transit the strait in coordination with Iranian authorities and provided they comply with declared security measures.
+Iran also stresses that any maritime safety or security arrangements in the Persian Gulf, Strait of Hormuz, or Sea of Oman must respect Iranian sovereignty and be coordinated with its authorities.
+International guidance
+The US
+MARAD 2026‑004
+advisory continues to urge vessels not to follow diversion instructions from unknown or unverified sources and to maintain contact with UKMTO and NAVCENT/NCAGS when operating in the region.
+The IMO Council has also called for international coordination on safe navigation in the area, though such arrangements remain politically sensitive given Iran's stated expectations.
+Red Sea and Gulf of Aden
+Threat environment
+Although the Houthis have not resumed attacks since the start of the current Iran–US–Israel confrontation, the threat level in the southern Red Sea and western Gulf of Aden remains elevated. The group retains the capability to strike vessels with aerial drones, naval drones, and missiles. Misidentification risks persist, particularly for vessels with historical links to Israel or the United States. The group retains the capability to deploy missiles, aerial drones, and naval drone systems.
+Maritime traffic remains significantly reduced at 40-50% compared with pre‑2023 levels, and insurance premiums and charterer requirements continue to influence transit decisions.
+Allegations of "safe passage" payments
+Several media outlets have referenced allegations (including discussions within a UN Panel of Experts report) that certain vessels may have made covert payments to secure passage through Houthi‑controlled waters. These claims remain unverified, and the Houthis have formally denied charging vessels for transit.
+No flag state, naval authority, or international body has confirmed the existence of a formal payment mechanism.
+Members should treat any such report or solicitation as a high‑risk compliance matter, potentially involving exposure to terrorism‑financing legislation across multiple jurisdictions.
+Operational considerations
+Navigation systems
+Widespread GNSS interference continues to affect both the Strait of Hormuz and parts of the Red Sea. Vessels should be prepared for degraded electronic navigation and maintain enhanced situational awareness.
+AIS transmission
+Risk Intelligence emphasises that there is no evidence that switching off AIS improves safety. On the contrary, maintaining AIS in accordance with SOLAS and flag‑state guidance remains the recommended practice unless directed otherwise by competent authorities. In many cases, AIS deactivation may hinder response and complicate identification following an incident.
+Misidentification risk
+Small craft, including fishing vessels, coastguard units, and smuggling craft, are frequently mistaken for hostile actors. Caution should be exercised when assessing intent in congested or ambiguous situations.
+Emergency preparedness
+Given the risk of missile or drone strikes and collateral damage, crews should be prepared to implement emergency procedures, including fire‑fighting, damage control, and communication with military authorities.
+Recommended actions for members
+Refrain from engaging with any party requesting payment, tolls, or facilitation fees connected to transit in the Strait of Hormuz or the Red Sea.
+Immediately report any such approach to the flag state, UKMTO, NAVCENT/NCAGS, and consult with a legal advisor.
+Conduct voyage‑specific risk assessments and ensure charterers are informed of the current operating environment.
+Monitor official maritime security advisories and notices as they are updated.
+Consult Skuld for guidance on cover implications, sanctions exposure, and operational risk.
+Conclusion
+The maritime security situation in both the Strait of Hormuz and the Red Sea remains highly dynamic. The emergence of informal or ad‑hoc payment arrangements, combined with sustained military activity and navigation hazards, presents significant operational and compliance risks for commercial shipping. Skuld will continue to closely follow developments and keep members updated.
+Update 16 March 2026
+Gulf Region
+Advisory hardens, Mine‑threat reporting rises, Traffic still suppressed
+Fresh official guidance and new reporting continue to shape how operators plan for operations in the Strait of Hormuz. The US Maritime Administration has issued
+Advisory 2026-004
+, which reinforces that the risk of Iranian attacks against commercial shipping in the Persian Gulf, the Strait of Hormuz, and the Gulf of Oman remains high and outlines practical conduct at sea. Masters are told to keep at least 30 nm clear of US naval units to avoid misidentification, to expect and cooperate with coalition awareness calls, queries and approaches, and to coordinate closely with NAVCENT NCAGS before, during and after transits. MARAD also warns against complying with over-the-horizon VHF or email “instructions” from Iranian forces. If such contacts occur, vessels should continue safely on track, log the encounter, and inform NCAGS. The advisory underlines that GNSS spoofing/jamming persists across the operating area and should be treated as a standing navigational hazard.
+Against this backdrop, open‑source reporting on mine activity has intensified.
+MarineInsight
+carried statements that US forces destroyed Iranian minelayers near the Strait of Hormuz and suggested that a limited number of mines may have been laid, claims that are already influencing insurer and naval posture.
+At the same time, industry‑facing threat summaries have not verified an operational minefield: the latest
+Joint Maritime Information Center
+update notes no confirmation of mining in the Strait of Hormuz as of 15 March, even as it keeps the regional risk level at CRITICAL, cites widespread GNSS interference, and records very limited cargo transits through the strait in the latest 24‑hour window.
+Risk Intelligence adopts a similar balance in its 11 March weekly report, observing that mine reports stem from official statements rather than independent confirmation, and stressing that Iran can and does achieve interdiction by missiles, UAVs and USVs - a combination that has effectively kept Hormuz shut by behaviour and enforcement rather than by declared closure. On that basis, shipowners and operators should treat the Strait of Hormuz as a potential mine hazard pending confirmation, while recognising that the current kinetic and electronic threat set alone is sufficient to suppress transits and keep ships clustered around UAE‑Oman approaches.
+Operationally, the environment remains degraded. JMIC’s latest snapshot describes heavily suppressed Strait of Hormuz flows - with AIS‑derived counts in the single‑digit range over the past day - and a dense concentration of vessels waiting at anchor or alongside around Fujairah, Khor Fakkan and adjacent ports. That congestion, coupled with spoofed positions, AIS anomalies and intermittent comms, increases routine collision and dragging risk and demands conservative bridge resource management and deliberate cross‑checking of every fix by radar, visual bearings, echo‑sounder trends and parallel indexing. Even for ships that are not attempting the Strait of Hormuz, the advisory picture now presumes persistent electronic unreliability and urges masters to verify any unexpected routing claims via recognised naval channels rather than ad hoc VHF chatter.
+For members, the immediate implications are practical and documentary rather than theoretical. If a vessel is held in port or prevented from leaving due to security directives, agent notices, pilotage suspensions, or credible mine‑risk precautions, keep a contemporaneous file that ties war‑risk causes to operational consequences (naval and port emails, logs, VHF recordings, ECDIS/VDR screenshots). That record supports discussions with war‑risk leaders and brokers and potentially mitigates later disputes about causation and duration should loss‑of‑hire or related provisions be engaged. Meanwhile, at sea, align conduct with MARAD 2026‑004 even if not US‑flag - maintain distance from naval units, anticipate coalition queries, do not comply with hostile over‑the‑horizon hails, and keep NAVCENT NCAGS in the loop from voyage planning through any anomaly reporting.
+In this phase, plan on the basis that a safe Strait of Hormuz passage cannot be assumed, that GNSS/AIS data may be unreliable, and that crew exposure remains the foremost risk driver. Treat the strait as a potential mine hazard pending confirmation until credible sanitisation or escort protocols are promulgated; route conservatively, avoid loitering in named high‑risk boxes and congested anchorages, and sustain disciplined UKMTO/MSCIO reporting alongside your NCAGS dialogue. Where commercial imperatives clash with navigational prudence, document your reasoning thoroughly; it strengthens both cover and defensibility if an incident occurs.
+Update 6 March 2026
+Gulf Region
+Emirates Shipping Association - Member Advisory (4 March)
+The Association has published a
+member advisory on 4 March
+, which reports that UAE ports remain largely functional:
+Jebel Ali (all four terminals), Hamriya, Sharjah, Fujairah/Khor Fakkan, RAK Ports, and AD Ports facilities are open; Ruwais/Abu Dhabi petroleum ports are at ISPS Level 2 (others Level 1).
+Two FOIZ fires adjacent to Fujairah were contained, and operations resumed.
+Fujairah Navigational Warning
+01/2026 notes intermittent GPS spoofing/jamming offshore, and RAK Ports are not accepting Iranian registered vessels/barges or cargo originating from Iran under current directives.
+Maritime intelligence updates
+Dryad highlights
+ballistic/drone impacts on Gulf aviation and port linked infrastructure, driving airspace closures and operational friction. It assesses potential sea mine use as the most plausible escalation tool at Strait of Hormuz - effective mainly through uncertainty and clearance delays, even with limited numbers.
+Whereas Risk Intelligence judges Strait of Hormuz as "effectively closed" by behaviour and enforcement, they note increased USV use as a cost-efficient strike option and recommends contingencies of up to a month for vessels stuck inside/outside the Gulf. Practical steps include anchoring ≥ 3 nm from energy or military sites and keeping distance from warships unless under direct protection, given collateral damage risk. It also reports no fresh Houthi maritime resumption as of 4 March, while warning that Red Sea coupling remains possible.
+GNSS interference is now a persistent operating condition as identified by Lloyd’s List Intelligence in their
+report of 4 March
+. Since the start of hostilities, 655 cargo‑carrying ships have experienced 1,735 GNSS interference events across the Middle East Gulf/Gulf of Oman (typical 3–4 hour duration), with daily incidents doubling to ~672 by 2 March and hotspots clustering off the UAE and south of Iran/near Oman. Consequently, analysts expect interference to outlast the missile exchanges, making degraded GNSS a planning baseline.
+Routing and ports - what current behaviour and status mean for voyages
+Updated analysis shows the present halt of transit through the Strait of Hormuz is operator‑led: Hormuz transits fell by > 80% on 1–2 March versus prior baselines, with no LNG and virtually no crude passages in the immediate aftermath - confirming that risk appetite, not a legal proclamation, is governing flows.
+Regional snapshots also continue to show most ports open, with discrete constraints shaping feasibility: Bahrain movements suspended; in Oman, Duqm and Salalah GCTs suspended (while Salalah CT, Sohar, Sur, Muscat remain operational); and Kuwait is redirecting containers to Shuwaikh.
+Update 4 March 2026
+The Wider Gulf Region
+Since yesterday’s note, two developments now shape day‑to‑day feasibility for Gulf trades. First, the insurance baseline has shifted: the Joint War Committee has expanded its Listed Areas, which typically drives higher additional premiums and tighter voyage terms when approaching or operating inside the re‑defined box.
+Second, while there is still no legal closure of the Strait of Hormuz, the operating picture has hardened - transit is now discouraged by naval advisory channels, traffic is clustering at a handful of anchorages and ports, and a USV strike plus a fatality alongside in Bahrain add new detail to the recent incident set.
+Together, these changes turn caution into active constraints on routing and port calls, with knock‑on effects for crew logistics and schedule integrity.
+Joint War Committee Listed Areas:
+JWC JWLA‑033
+(3
+March)
+The
+Joint War Committee
+has added Bahrain, Djibouti, Kuwait, Oman and Qatar to its Hull War, Piracy, Terrorism and Related Perils Listed Areas, and amended the boundaries of the broader Persian/Arabian Gulf – Gulf of Oman – Indian Ocean – Gulf of Aden – Southern Red Sea area. While application is policy‑by‑policy, listings typically result in additional premiums and stricter terms for calls/transits within the defined waters.
+Strait of Hormuz: Transit discouraged and traffic clustering
+MSCIO Advisory 01/2026 – Update 04
+(3 March) states that, although passage remains legally permissible, transit is presently discouraged. Masters are advised to maximise distance from naval units, expect GNSS unreliability, and maintain VHF 16 watch.
+MSCIO
+also reports dense clustering of merchant vessels at Jebel Ali, Dubai, Khor Fakkan, Fujairah, the eastern Strait of Hormuz TSS, and into the eastern Gulf of Oman/Northern Arabian Sea, which elevates routine navigation risk under interference and congestion.
+JMIC
+estimates daily Hormuz transits at the low point may have fallen to ~28, an ~80% reduction from a historical daily average near 138 - a function of operator decisions rather than a promulgated legal closure.
+Risk Intelligence Client Briefing: Operational notes for Gulf trades (2 March)
+Risk Intelligence reports uneven port conditions from debris and direct strikes and flags airspace restrictions complicating crew changes. As a straightforward mitigation near energy hubs or military activity, they advise anchoring ≥ 3 nm off major ports. RI expects continued pressure on energy infrastructure, key ports and US‑linked facilities, and suggests tracking four indicators for medium‑range planning: Iranian missile stockpiles, internal regime cohesion, political pressure on the US presidency, and Asian buyers’ tolerance for disruption.
+As a practical safety baseline, we encourage shipowners and operators to make conservative routing choices, avoid prolonged holding near chokepoints, and treat any transit of the Strait of Hormuz approaches as exceptional while naval channels continue to discourage passage. Maintain disciplined
+UKMTO/MSCIO reporting
+throughout, keep a continuous VHF 16 watch, and assume GNSS/AIS unreliability - cross‑check position fixes by radar and visual bearings, and retain VDR/ECDIS screenshots and log extracts whenever anomalies occur. Before firming port calls, verify status locally with agents and be prepared to adjust for temporary restrictions or pilotage requirements. Finally, plan with crew welfare in mind - allow for airspace‑related crew‑change constraints, keep rest hours protected during congestion delays, and elevate bridge manning in confined waters or poor electronic conditions.
+Update 3 March 2026
+The Wider Gulf Region: Maritime security update
+Since yesterday, several merchant vessels were struck in or near the approaches to the Strait of Hormuz. In the latest Joint Maritime Information Center (JMIC)
+update
+the following incidents have been reported:
+SKYLIGHT (IMO 9330020) was reported hit about 5 nm north of Khasab (Oman) with four crew injuries and an evacuation.
+MKD VYOM (IMO 9284386) suffered a projectile strike above the waterline with a fire brought under control.
+An attack on SEA LA DONNA (IMO 9380532) is under investigation.
+These incidents mark a shift from warnings to confirmed damage on multiple ships over the last 24–48 hours.
+Dryad Global
+has also assessed that sea mines remain a credible escalation option for Iran because even limited, quickly laid fields can produce disproportionate disruption in a narrow lane such as Hormuz - largely by eroding confidence and forcing slower, controlled movements, as seen during the Iran-Iraq “Tanker War” in 1984 to 1988.
+However, this currently remains as an analytical risk, not a confirmed event as yet. There are still no reports of mines being laid, sighted, or detonated at the time of writing, a position that aligns with JMIC’s latest advisory notes.
+As such, the immediate response at sea remains operator‑led - ships inside the Gulf have sheltered while others pause or divert away from the Strait of Hormuz. That behaviour reflects the confirmed strikes and ongoing electronic interference (GNSS/AIS/VHF) rather than any declared legal closure. Where sheltering has increased, routine risks rise - tight manoeuvring space, dragging anchors, and misunderstandings on VHF - especially near naval units.
+Official and accredited guidance (unchanged but relevant to the new strikes).
+US MARAD Maritime Alert 2026‑001A
+remains in force: avoid the wider Hormuz/Gulf of Oman/North Arabian Sea area where possible and keep ≥ 30 nm clear of US naval units; maintain contact with NCAGS and monitor official outputs. This alert is consistent with the heightened risk now evidenced by the recent strikes.
+UKMTO advisories
+continue to emphasise caution, reporting, and awareness of electronic interference and misidentification risks; masters should keep a listening watch on VHF 16 and report abnormal activity promptly.
+Following the confirmed vessel strikes, market reporting and security circulars indicate ongoing service suspensions/pauses and sheltering across liner trades serving the Middle East Gulf. This is now widely visible in schedules and anchorage density rather than policy statements.
+What this means for shipowner and operators, today:
+Plan for short‑notice traffic control in the approaches (possible speed reductions and controlled movements) if authorities initiate route sanitisation or clearance after any suspected mine-laying.
+Where schedules allow, re‑routing remains the lower‑exposure choice versus extendeholding near chokepoints.
+If sheltering, keep Closest Point of Approach (CPA) margins generous and radio work clear and professional, given the interference reports and close proximity of naval units.
+Maintain full UKMTO/NCAGS reporting and preserve evidence (e.g., log extracts, ECDIS/VDR screenshots of GNSS anomalies, message receipts).
+2 March 2026
+The maritime risk picture has escalated markedly. The
+Joint Maritime Information Center
+(JMIC) now assesses the regional maritime threat as CRITICAL (an attack is
+almost inevitable)
+after confirmed missile/projectile strikes on multiple merchant vessels in the Gulf of Oman/Strait of Hormuz approaches within the past 24 hours. The
+UKMTO
+continues to describe the wider area as highly volatile, warning of sustained GNSS/AIS/VHF interference and noting that VHF claims of a “closure” of the Strait are unverified and not legally binding. In parallel, the
+U.S. MARAD Maritime Alert 2026‑001A
+advises vessels to avoid the region where possible and to maintain at least 30 nm separation from US naval units while remaining in contact with NCAGS and monitoring UKMTO/JMIC outputs.
+Flag‑state postures have also tightened. The
+Norwegian Maritime Authority
+has raised MARSEC/ISPS Level 3 for Norwegian‑flagged vessels in the Persian Gulf, Strait of Hormuz and Gulf of Oman, signalling a probable or imminent security incident that requires further, specific protective measures under the ISPS Code.
+Beyond Hormuz,
+Lloyd’s List reports
+the US Navy has established a broad maritime warning zone and cautions that Houthi retaliation in the Red Sea/Bab al‑Mandab cannot be excluded; the EU’s EUNAVFOR ASPIDES mission remains on heightened readiness. Taken together, there is a credible risk of dual‑theatre disruption (Hormuz and Red Sea/BaM) if these trends coincide.
+Current situation: Strait of Hormuz, Gulf of Oman and adjacent waters
+JMIC confirms three separate vessel attacks in the last 24 hours:
+SKYLIGHT (IMO 9330020) was hit 5 nm north of Khasab with the crew evacuated and four injuries reported;
+MKD VYOM (IMO 9284386) sustained a projectile strike above the waterline with the fire subsequently controlled;
+SEA LA DONNA (IMO 9380532) reported an attack now under investigation.
+JMIC adds that no sea mines have been detected, and it has identified no specific targeting rationale that would distinguish these ships from other commercial traffic.
+Although many ships have received VHF hails asserting that the Strait is closed, there is no formal legal closure: JMIC notes no NAVAREA warning, no IMO Maritime Safety Information broadcast, and no charted exclusion zone.
+The observed slowdown is a function of operator risk response rather than a promulgated suspension of transit passage. Even so, the throughput reduction is material: against a historic daily average of roughly 138 vessels, the most recent 24‑hour count is around 110.
+Port‑side and coastal impacts underline the breadth of exposure. Jebel Ali recorded a debris‑related berth fire following an aerial interception, and anchorage density has increased at both approaches to the Strait; JMIC warns that clustering raises secondary risks - restricted manoeuvring space, anchor dragging, and collision exposure. Electronic warfare effects amplify those hazards: GNSS interference, AIS anomalies, and congested/contradictory VHF are widespread across the Gulf, the Gulf of Oman and Hormuz approaches.
+Commercial operators are adapting quickly. Hapag‑Lloyd has suspended all transits of the Strait of Hormuz, while CMA CGM has ordered vessels inside or bound for the Gulf to proceed to shelter pending reassessment. On the financing side, JMIC reports a war‑risk market escalation, including
+Notices of Cancellation
+with buy‑back options subject to underwriting.
+Red Sea/Bab al‑Mandab - Houthi activity and the “second theatre”
+Authoritative industry reporting indicates the Houthis are signalling a resumption of missile/drone activity against maritime targets in the Red Sea/Gulf of Aden following US–Israeli strikes on Iran, ending a months‑long period of relative calm in late‑2025. MARAD’s standing advisory catalogues the group’s tactics, techniques and procedures - from one‑way UAVs/USVs/UUVs to cruise/ballistic missiles, explosive boats, small‑arms fire and seizures - and cautions that targeting has extended beyond vessels with clear Israeli/US affiliations to occasional misidentification and collateral strikes. In anticipation of renewed pressure along the Red Sea corridor, the EU has extended Operation ASPIDES to 28 February 2027, sustaining defensive coverage and situational awareness along the Bab al-Mandeb (BaM) corridor, even as resources remain finite.
+The strategic concern is the overlap: a constrained Hormuz at the same time as renewed Red Sea/BaM activity yields a dual‑chokepoint problem with few workable maritime bypasses for Gulf‑bound cargo and heightened uncertainty for schedules, insurance and chartering.
+What to do now
+Refresh the Voyage Risk Assessment: before any approach to the affected waters, incorporating the latest JMIC, UKMTO, MARAD and flag‑state directives. Also factor explicitly for dual‑theatre exposure (Hormuz + Red Sea/BaM).
+Operate per the security level in force: Norwegian‑flagged vessels: implement MARSEC/ISPS Level 3 measures in the Persian Gulf/Strait of Hormuz/Gulf of Oman; whereas other flags should escalate posture per CSO guidance and flag instructions.
+Communicate and verify: Pre‑register/report with UKMTO; maintain a continuous VHF Ch.16 watch; respond professionally to directed hails; where practicable maintain ≥30 nm from U.S. naval units per MARAD. Treat unverified “closure” broadcasts as situational inputs, not legal restrictions - while still guarding against miscalculation near military units.
+Navigate with redundancy: Expect
+GNSS/AIS degradation
+; cross‑check positions with radar ranges, visual bearings and echo sounder; preserve screenshots and VDR extracts when anomalies occur to support insurance and post‑incident analysis.
+Manage density and timing: In congested approaches, plan generous CPAs, predictable courses/speeds and, where feasible, consider delaying, rerouting, or seeking escort/accompaniment recognising finite naval capacity (e.g., ASPIDES in Red Sea/BaM; situational awareness toward Hormuz).
+Related pages
+General notice of cancellation in respect of certain war risks
+US/Israeli military intervention in Iran: Charterparty implications
+US and Iranian tensions: Charterparty implications
+AIS spoofing and jamming in the Persian Gulf: a growing maritime security concern
+Updated threats to shipping in the Red Sea
+BMP MS (pdf)
+Maritime Global Security
+UKMTO MSCIO Reporting
+MSCIO Maritime Emergency Contact Map
+BIMCO War Risk Clauses
+Related documents
+Industry Guidance on the Safe Management of Vessel Transit through the Strait of Hormuz (pdf)
+JWC Listed Areas (JWLA-033) (pdf)
+Ruby Hassan
+Vice President, Global Head of Claims Transformation
+Share
+Enter your email and recipient email to share this article.
+Your email:
+Recipient email:
+Share
+Close
+Complaint handling procedure
+Cookies
+Ethics reporting
+Legal disclaimer
+Skuld privacy notice
+Transparency Act
+© Skuld 2026
+Member of

@@ -1,0 +1,188 @@
+URL:         https://gmk.center/en/posts/the-economy-under-pressure-why-analysts-are-revising-their-gdp-forecasts-for-2026/
+Кінцевий:    https://gmk.center/en/posts/the-economy-under-pressure-why-analysts-are-revising-their-gdp-forecasts-for-2026/
+Заголовок:   The economy under pressure: why analysts are revising their GDP forecasts for 2026
+Дата публ.:  2026-08-12
+Завантажено: 2026-10-07 09:37 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 97746
+Оригінал:    raw/104-gmk.center-the-economy-under-pressure-why-analysts-are-revising-their-.html
+sha256:      46337ddb5dd63eea917281e877acd751a4e4fd4d5a04d65ff9744b05735ef322
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 22
+==============================================================================
+Ukraine's Economy in 2026: Analysts Revise GDP Forecasts
+GMK - mining industry analytics
+Industrial orders in Germany fell in August due to a reduction in major contr...
+Creditors are preparing a direct sale of Liberty Galați with a starting price...
+Polish company JSW is set to carry out a major restructuring
+ArcelorMittal Eisenhüttenstadt is resuming operations at its blast furnace
+Nucor has raised the price of hot-rolled coils to $1,230 per tonne
+Steel consumption in India to rise by 7–8% in the coming years – CEO of Tata ...
+Industrial production in Ukraine fell by 6.1% y/y in August — State Statistic...
+Does the state need big business? Metinvest calls for a rethink of the approa...
+The European Commission has announced the price of CBAM certificates for Q3 2026
+WV Stahl calls for continued budgetary support for network tariffs
+The economy under pressure: why analysts are revising their GDP forecasts for 2026
+Chief Executive of the Ukrainian Employers’ Federation
+The issue of CBAM must remain the number one priority at the highest level of government
+In Ukraine, all the legal grounds for deferring payment under the CBAM on the grounds of force majeure are in place
+URC 2026: what Ukraine and the steel industry gained
+The government has drafted a new economic strategy amid a 0.5% y/y decline in the economy during Q1
+Steel consumption in Moldova: crisis overcome
+GMK - analytics, infographics, expert opinions
+Content publication only with reference to
+Editorial opinion may run counter to author’s opinion
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Ukraine's Economy in 2026: Analysts Revise GDP Forecasts
+Menu
+GMK - mining industry analytics
+UKR
+RUS
+ENG
+ENG
+UKR
+RUS
+Follow us
+Follow us
+Follow us
+Watch us
+Watch us
+News
+Posts
+Infographic
+Interview
+Analysis
+Manufacturers
+Сonsulting
+All news
+View all
+06 October 2026
+Industrial orders in Germany fell in August due to a reduction in major contr...
+06 October 2026
+Creditors are preparing a direct sale of Liberty Galați with a starting price...
+06 October 2026
+Polish company JSW is set to carry out a major restructuring
+06 October 2026
+ArcelorMittal Eisenhüttenstadt is resuming operations at its blast furnace
+06 October 2026
+Nucor has raised the price of hot-rolled coils to $1,230 per tonne
+06 October 2026
+Steel consumption in India to rise by 7–8% in the coming years – CEO of Tata ...
+06 October 2026
+Industrial production in Ukraine fell by 6.1% y/y in August — State Statistic...
+05 October 2026
+Does the state need big business? Metinvest calls for a rethink of the approa...
+05 October 2026
+The European Commission has announced the price of CBAM certificates for Q3 2026
+05 October 2026
+WV Stahl calls for continued budgetary support for network tariffs
+Companies
+Green steel
+Global Market
+Industry
+Infrastructure
+Society
+State
+Technologies
+Home
+Posts
+The economy under pressure: why analysts are revising their GDP forecasts for 2026
+shutterstock.com
+Ukraine's GDP
+Posts
+State
+Ukraine’s GDP
+Print
+723
+12 August 2026
+The economy under pressure: why analysts are revising their GDP forecasts for 2026
+Читайте українською
+Читайте на русском
+Yuriy Grigorenko
+In addition to the problems already encountered recently, there are now new quotas on the EU steel market and a blockade of the Black Sea ports
+The first half of 2026 proved to be more challenging for the Ukrainian economy than expected: shelling of energy infrastructure, a cold winter, rising energy prices and the impact of the CBAM have already affected GDP, whilst a significant negative impact from the blockade of Black Sea ports and new EU quotas on steel imports lies ahead. Even without taking into account the likelihood of large-scale missile strikes on critical infrastructure during the autumn and winter months, the Ukrainian economy has found itself on the brink of minimal growth.
+Current estimates
+The performance of the Ukrainian economy is deteriorating significantly. Although Ukraine’s real GDP increased by 0.6% year-on-year in the second quarter, the economy contracted by 0.6% year-on-year in the first quarter amid winter blackouts. It should be noted that Ukraine’s real GDP grew by 1.8% in 2025, compared with 3.2% in 2024.
+The main factors behind the economic contraction in the first half of the year include the following:
+Electricity shortages at the start of the year.
+As a result of shelling of energy infrastructure in January, many industrial enterprises partially or completely halted operations. Consequently, industrial production in Ukraine fell by 0.2% year-on-year for the period January–June.
+A cold winter.
+Low temperatures brought work to a standstill at most construction sites. Even the start of the construction season has not yet enabled the sector to return to growth: the volume of construction work in January–May fell by 6.5% year-on-year.
+Rising energy costs.
+Due to the escalating situation in the Persian Gulf, prices for gas and petroleum products in Ukraine have risen significantly since March. A further increase in energy tariffs, against a backdrop of electricity shortages, has led to a further rise in the cost of electricity itself.
+Impact of the CBAM.
+Ukraine did not receive a deferral or exemption from the CBAM, which resulted in significant losses in the steel sector.
+Restrictions on maritime logistics.
+Due to damage to port infrastructure caused by constant shelling, the physical volumes of maritime exports fell significantly at the start of the year. Throughout the first half of the year, sustained attacks hampered efforts to boost exports.
+At the start of the second half of the year, the following negative factors came into play: the introduction, from 1 July, of new quotas on steel imports into the EU, which could deal a significant blow to Ukrainian steel companies, and the blockade of the Black Sea ports, through which approximately 90% of Ukraine’s maritime exports pass.
+Even a medium-term suspension of operations at the ports of Greater Odesa threatens to lead to a significant reduction in exports, and to a lesser extent in imports, as well as a decline in foreign exchange earnings. The National Bank of Ukraine (NBU) estimates the total shortfall in foreign exchange earnings in the second half of the year due to Russia’s blockade of the ports at approximately $2.5 billion, whilst independent analysts estimate the negative impact of the blockade of the Black Sea ports on Ukraine’s GDP to be between -0.6% and -0.9%. Government forecasts do not currently take this factor into account, which could have catastrophic consequences for the economy by the end of the year.
+Added to the above-mentioned problems is accelerating inflation. For example, the year-on-year rise in industrial producer prices in June stood at 39%. Due to mounting price pressures, the NBU has revised down its inflation forecast for Ukraine for 2026 to 10% from 9.4% in its April forecast.
+‘The key driver of inflation is the rise in industrial producer prices: +40% year-on-year (including +80% for energy). Other significant factors driving inflation include: the devaluation of the hryvnia, increases in excise duties on tobacco and fuel, rising global prices for energy and vegetable oil, and increases in water supply tariffs,”
+notes
+Bohdan
+Danylyshyn
+, Chairman of the Board of the National Bank of Ukraine from 2016 to 2022.
+For its part, the exchange rate is under pressure from a huge deficit in the external trade in goods, which increased by 55% year-on-year in the first half of the year to $28.3 billion, creating significant conditions for devaluation.
+“The root cause of inflation in Ukraine is the trade deficit ($69 billion or 32% of GDP), which has to be covered by imports funded by foreign aid. The situation is exacerbated by rising global prices for energy resources that are critical to the Ukrainian economy,” explains Bohdan Danylyshyn.
+At the same time, despite all the challenges, Ukrainian businesses have maintained positive assessments of their performance for five consecutive months. In July, the business activity expectations index stood at 50.1, compared with 50.4 in June and 41.3 in January this year. It should be noted that an index reading above 50 indicates business optimism, whilst a reading below 50 indicates market pessimism.
+According to the NBU, the following factors contributed to respondents’ optimistic assessments in July: a sufficient level of international financial assistance, buoyant consumer demand, budgetary funding for infrastructure rehabilitation and road construction, a stable situation in the energy sector, and so on.
+Factors that held back business activity in July included: an increase in the intensity of shelling of critical infrastructure, logistical difficulties, heightened exchange rate expectations and staff shortages. By way of comparison, at the ‘low point’ of business expectations in January 2026, businesses were most concerned about energy shortages, rising costs of alternative power sources, logistics problems and other issues.
+Outlook for 2026
+The deterioration in the economic situation at the start of the year led to a revision of forecasts for Ukraine’s real GDP growth this year. Specifically, the Cabinet of Ministers has lowered its forecast for economic growth in 2026 to 1.6% year-on-year from 2.4% year-on-year, the figures on which the 2026 state budget was based when it was approved at the end of last year. Meanwhile, in June, the IMF downgraded its forecast for Ukraine’s real GDP growth this year to 1–1.6% year-on-year, down from 1.8–2.5% year-on-year in February.
+At the end of July, the NBU revised its forecast for real GDP growth in 2026 upwards to 1.8%, although in April the forecast had been revised downwards to 1.3%. Given everything that has been happening in the Ukrainian economy in July, this move seems overly optimistic. The NBU attributes the improved forecast to offsetting factors and the localisation of arms production, which could add 1.4 percentage points to GDP.
+However, the defence production factor has become so significant relative to other sectors that Dragon Capital forecasts a decline in the ‘civilian’ economy of approximately 1 percentage point this year (excluding the impact of the defence industry on GDP). In fact, the production of military equipment is currently the only sector of the Ukrainian economy showing sustained growth.
+The median forecast for real GDP growth by non-governmental analysts for the current year
+stands
+at 1.1 year-on-year (in December 2025, the forecast stood at 2.4 year-on-year). A key feature is that most estimates are based on the assumption that the war will continue in 2026 and 2027.
+At the same time, independent analysts expect the maritime corridor to operate on a limited basis in 2026 due to massive Russian strikes, although most anticipate that Black Sea ports will resume operations in 2027.
+Consequently, the current challenges facing Ukrainian businesses are not going to disappear any time soon; indeed, with the onset of the autumn and winter period, we can expect the ‘traditional’ exacerbation of electricity shortages and rising costs for alternative energy supplies.
+This represents the ‘bare minimum’ of problems (in addition to the inability to export goods to their full potential) that may worsen in the short term due to intensified missile strikes on all types of infrastructure. The NBU estimates the overall negative impact of these attacks on Ukraine’s GDP in 2026 at 0.9% of GDP, although this figure may be higher, given the significantly greater intensity of the attacks and economic and material losses that are substantially greater than before.
+‘Provided the intensity of attacks on infrastructure remains unchanged, it is expected that some Ukrainian manufacturers will relocate their production abroad. A similar risk exists for logistics: should the logistics infrastructure come under attack, some warehouse space may be relocated to neighbouring countries (in particular to Poland and Hungary). Taken together, this means a loss of production and logistics capacity, as well as human capital,”
+notes
+economic expert
+Danylo
+Monin
+.
+The future trajectory of the Ukrainian economy will depend on the security situation and the nature of any further damage, the stability of the power grid and logistics systems, as well as the timeliness of international financial assistance and geopolitical developments.
+Tags:
+macroeconomics
+,
+Ukraine’s GDP
+,
+Ukraine’s economy
+Ruslan Ilyichov
+Chief Executive of the Ukrainian Employers’ Federation
+Opinions
+State
+CBAM
+02 October 2026
+The issue of CBAM must remain the number one priority at the highest level of government
+In Ukraine, all the legal grounds for deferring payment under the CBAM on the grounds of force majeure are in place
+Related Articles
+30 June 2026
+URC 2026: what Ukraine and the steel industry gained
+25 May 2026
+The government has drafted a new economic strategy amid a 0.5% y/y decline in the economy during Q1
+02 March 2026
+Steel consumption in Moldova: crisis overcome
+GMK - analytics, infographics, expert opinions
+Subscribe to our newsletter
+Δ
+Contact Us
+[email protected]
+Follow us
+Follow us
+Follow us
+Watch us
+Watch us
+Content publication only with reference to
+gmk.center
+Editorial opinion may run counter to author’s opinion
+Sitemap
+Privacy & Cookies Policy
+Show Desktop Version

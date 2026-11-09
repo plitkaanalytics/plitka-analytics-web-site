@@ -1,0 +1,34 @@
+URL:         https://www.ukrinform.net/rubric-ato/4171722-russian-shadow-fleet-tanker-under-ukrainian-sanctions-catches-fire-near-sochi.html
+Кінцевий:    https://www.ukrinform.net/rubric-ato/4171722-russian-shadow-fleet-tanker-under-ukrainian-sanctions-catches-fire-near-sochi.html
+Заголовок:   Russian shadow fleet tanker under Ukrainian sanctions catches fire near Sochi
+Дата публ.:  2026-10-06
+Завантажено: 2026-10-07 09:35 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 54887
+Оригінал:    raw/81-ukrinform.net-4171722-russian-shadow-fleet-tanker-under-ukrainian-sanc.html
+sha256:      2157f0779d222676392a278d5df4a5a2ac2aa8781441fc06636f3302b37d5e70
+Витяг:       trafilatura
+
+==============================================================================
+# Russian shadow fleet tanker under Ukrainian sanctions catches fire near Sochi
+
+According to Ukrinform, this was reported by the [Astra](https://t.me/astrapress/127277) Telegram channel.
+
+AFRAMAX RIO (IMO: 9273844) is a large crude oil tanker. It is not included on the EU or Ukraine's allies' sanctions lists, but it was added to Ukraine's sanctions list by a decision of the National Security and Defense Council of Ukraine dated February 12, 2026, along with 90 other Russian shadow fleet vessels.
+
+According to the National Security and Defense Council, the vessel is owned by a company registered in the Marshall Islands, RIO ENTERPRISES SA. Its operations and chartering were carried out through international operator Navig8 Group of Singapore and Greek management companies, including Hellenic Tankers Co Ltd.
+
+**Read also:**
+
+[Ukraine has disabled more than 51% of Russia's oil refining capacity - MoD](/rubric-ato/4171038-ukraine-has-disabled-more-than-51-of-russias-oil-refining-capacity-mod.html)
+
+The AFRAMAX RIO tanker is capable of carrying 95,000–100,000 tonnes of oil, or approximately 700,000–750,000 barrels.
+
+According to MarineTraffic, the tanker left the port of Tuzla, Türkiye, on September 11, 2026, and headed for the port of Constanța, Romania.
+
+The vessel made an intermediate anchorage stop in Samsun, Türkiye, departing on September 19 and arriving in Constanța on September 22.
+
+The website does not show any calls at Russian Black Sea ports. The last position was recorded 23 hours ago, when the tanker was approximately 15 kilometers from Sochi.
+
+According to open-source data, between 2024 and 2026, the tanker repeatedly transported oil from Russian ports. Most frequently, it sailed from Ust-Luga, but it also loaded oil in Novorossiysk and Taman. Its listed destinations include India, Singapore and Saudi Arabia.
+
+As Ukrinform reported, Ukraine's Defense Intelligence Directorate [identified another 38 vessels](https://www.ukrinform.ua/rubric-world/4167025-gur-vstanovilo-se-38-suden-aki-rosia-vikoristovue-dla-obhodu-miznarodnih-sankcij.html) flying the flags of Barbados, Russia, Cameroon, Panama, Belize, Liberia, Sri Lanka, Türkiye, Tanzania, São Tomé and Príncipe, Hong Kong and Palau that are used by Russia to circumvent international sanctions.

@@ -1,0 +1,28 @@
+URL:         https://ua.news/en/ukraine/nbu-prognozuie-ponad-2-mlrd-vtrat-cherez-zupinku-morskogo-eksportu
+Кінцевий:    https://ua.news/en/ukraine/nbu-prognozuie-ponad-2-mlrd-vtrat-cherez-zupinku-morskogo-eksportu
+Заголовок:   The NBU forecasts losses of more than $2 billion due to the suspension of maritime exports
+Дата публ.:  2026-08-07
+Завантажено: 2026-10-07 09:37 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 105645
+Оригінал:    raw/103-ua.news-nbu-prognozuie-ponad-2-mlrd-vtrat-cherez-zupinku-morskogo-eksp.html
+sha256:      fb7b27b8eba1825e16c0be496fd723c52f6206d7124cc65b0deaadfc684e5e86
+Витяг:       trafilatura
+
+==============================================================================
+# The NBU forecasts losses of more than $2 billion due to the suspension of maritime exports
+
+The National Bank of Ukraine forecasts that, due to the suspension of maritime exports** in the second half of 2026**,** the country will lose more than ****$2 billion in export revenue****.**
+
+Currently, cargo is being rerouted to rail, road transport, and Danube ports, but their capacity is insufficient. While Ukraine previously exported **4–4.5 million metric tons** of agricultural products per month, alternative routes allow for the export of only about 2**.5 million metric tons**.
+
+The National Bank of Ukraine notes that the rerouting of logistics will also increase farmers’ costs for transportation and storage of their products.
+
+At the same time, the regulator expects that most of these volumes will be exported in the first half of 2027, which will partially offset current losses.
+
+**Source: ****NBU****.**
+
+As a reminder, the oilseed market in Ukraine [has slumped](https://ua.news/ua/ukraine/rinok-oliinikh-v-ukrayini-prosiv-pislia-udariv-po-portakh) following the attacks on ports.
+
+Cucumbers and vegetables [used in](https://ua.news/ua/agro/v-ukrayini-podeshevshali-ogirki-ta-ovochi-borshchovogo-naboru) borscht have become cheaper in Ukraine.
+
+[National Cashback](https://ua.news/ua/technologies/natsionalnii-keshbek-2025-2026-shcho-zminilosia-i-kudi-mozhna-vitrachati-groshi) 2025–2026: What Has Changed and Where You Can Spend the Money.

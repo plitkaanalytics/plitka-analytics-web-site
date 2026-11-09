@@ -1,0 +1,298 @@
+URL:         https://militarnyi.com/en/news/shadow-fleet-concealment-details-reveal-usa/
+Кінцевий:    https://militarnyi.com/en/news/shadow-fleet-concealment-details-reveal-usa/
+Заголовок:   How Shadow Fleet Conceals Its Activities: Details of Such Vessels Revealed by USA
+Дата публ.:  2026-09-25
+Завантажено: 2026-10-02 08:05 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 247281
+Оригінал:    raw/04-militarnyi.com-shadow-fleet-concealment-details-reveal-usa.html
+sha256:      d6773b9db705c843ca5cb0c77f53c9afbade8696a7b8c2686599bc52ae0cae86
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 38
+==============================================================================
+How Shadow Fleet Conceals Its Activities: Details of Such Vessels Revealed by USA
+The U.S. Coast Guard monitors a vessel. Photo credits: U.S. European Command
+Fire Breaks Out Near Volgograd Refinery After Ukrainian Drone Attack
+UFORCE Deploys 11 Unmanned Surface Vessels and 8 UAVs in NATO Exercises
+ICEYE and Nokia to Develop Satellite Communications System for Military Use
+Australian Corvo Strike Interceptor Drone Receives Combat Payload Simulator Module
+Russian Geran-4 Jet Drones Exploded in Moldova on September 30
+The Stamp 0.62 program, found on a shadow fleet vessel. Source: U.S. Coast Guard / DEF CON 34
+Shielding grids around the bridge antennas, which are likely used to support AIS spoofing by blocking the reception of GPS signals. Source: U.S. Coast Guard / DEF CON 34
+The Dark Fleet Networking infrastructure, which also includes Starlink and various antennas. Source: U.S. Coast Guard / DEF CON 34
+Viruses detected in the software of shadow fleet vessels. Source: U.S. Coast Guard / DEF CON 34
+bc1qg0z99m95fte7kj8faa7h2kvnq92wvc53exe8gm
+0x8676644fA7B6d328310283cAC1065Ae01d97CEe7
+0xfD02863D3289416fcF50975c9DFda13623f97758
+Communications: The Nervous System of a Fighting Force
+You Can Copy the Paperwork. You Can’t Copy the Deadline
+EW vs Starlink: What Actually Works?
+Iran Strikes U.S. Bases in the Region in New Escalation Cycle
+NB8 in a Week: Billion-Dollar Deals in Kyiv, an Alarming Signal From Moscow, and Air Defense Systems Near Vilnius
+Russian Forces Begin Using New Geran-5 Version With Autonomous Optical Navigation
+Russian forces have begun using a new modification of the Geran-5 jet-powered UAV, which features an autonomous optical navigation system and a mod...
+Russian Insurgents Blow Up Tank Cars Carrying Over 10,000 Metric Tons of Oil
+An insurgent movement in Russia carried out attacks on railroad tank cars, destroying over 10,000 metric tons of oil.
+#Civil war in the Russian Federation
+Trump Approves Transfer of Patriot Missile Production Licenses to Ukraine, Zelensky Says
+U.S. President Donald Trump has given final approval for Ukraine to receive licenses to produce interceptor missiles for Patriot air defense system...
+Ukraine Receives NASAMS System and Air Defense Missiles from Partners — Zelensky
+Ukraine has received a new NASAMS air defense missile system, along with a package of missiles, from the United States and Norway.
+Over 600 Missiles and 2,500 UAVs: Air Force Commander Reveals F-16 Performance in Ukraine
+Ukrainian pilots flying F-16 fighter jets have already shot down over 3,150 enemy aerial targets.
+This was announced by the commander of the Ukr...
+BTR-60-Based Kamikaze Drone Helped Break Through Russian Defenses in Nove Village
+Ukrainian military personnel developed a BTR-60PB-based kamikaze drone that helped break through Russian defenses in the village of Nove.
+Submit news or press releases:
+Publications may be cited under condition of source indication
+Web resources are required to provide a direct hyperlink available for search engines for the original publication
+Offline media should provide MILITARNYI.COM website address. Materials of "Special Projects" are published as advertising.
+© 2026              Militarnyi All rights reserved.
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+How Shadow Fleet Conceals Its Activities: Details of Such Vessels Revealed by USA
+Fri, 2 October 2026
+Ukr
+Eng
+Donate
+Ukr
+Eng
+News
+Articles
+Blogs
+Videocontent
+Partners
+About Us
+Advertising
+Special projects
+Donate
+How Shadow Fleet Conceals Its Activities: Details of Such Vessels Revealed by USA
+#Russia
+#Sanctions
+#USA
+#World
+Taras Safronov
+September 25, 2026
+23:52
+The U.S. Coast Guard monitors a vessel. Photo credits: U.S. European Command
+News
+Fire Breaks Out Near Volgograd Refinery After Ukrainian Drone Attack
+October 2, 2026
+10:29
+UFORCE Deploys 11 Unmanned Surface Vessels and 8 UAVs in NATO Exercises
+October 2, 2026
+09:52
+ICEYE and Nokia to Develop Satellite Communications System for Military Use
+October 1, 2026
+23:02
+Australian Corvo Strike Interceptor Drone Receives Combat Payload Simulator Module
+October 1, 2026
+22:48
+Russian Geran-4 Jet Drones Exploded in Moldova on September 30
+October 1, 2026
+22:01
+All news
+U.S. Coast Guard experts have revealed the technical methods that Russian shadow fleet vessels use to conceal their activities.
+The presentation was given at the
+DEF CON 34
+conference, and an analysis of it was prepared by the
+InformNapalm
+community.
+These vessels actively use methods to spoof data from the Automatic Identification System (AIS).
+Several transponders, tools for spoofing coordinates, means of remote access to ship computers, and tools for quickly forging documents were also found on board the vessels.
+The Stamp 0.62 program, found on a shadow fleet vessel. Source: U.S. Coast Guard / DEF CON 34
+“One of the most revealing finds is the Russian program Stamp 0.62 for Windows. It allows for the rapid generation of images of ship seals in the event that the ship’s name or IMO number is changed in documents,” InformNapalm reports.
+One of the main concealment tools is related to the AIS system, which vessels use to transmit their names, coordinates, and other data.
+Shielding grids around the bridge antennas, which are likely used to support AIS spoofing by blocking the reception of GPS signals. Source: U.S. Coast Guard / DEF CON 34
+On some tankers, researchers have detected multiple transponders that can be switched between, as well as equipment and software for transmitting false GPS coordinates.
+In simpler cases, the crew could physically restrict the antenna’s operation and thus stop the signal from being transmitted.
+At the same time, the onboard IT infrastructure is often quite rudimentary.
+The Dark Fleet Networking infrastructure, which also includes Starlink and various antennas. Source: U.S. Coast Guard / DEF CON 34
+Researchers found pirated navigation programs, software from torrent forums, and common remote access tools such as AnyDesk, TeamViewer, and ScreenConnect, which could operate without the crew’s authorization.
+During some operations, external operators attempted to remotely erase data from the ship’s systems after the vessel had already been detained. They use off-the-shelf digital tools for this purpose, so changing a vessel’s name, flag, or identity may be accompanied not only by a false AIS signal but also by a corresponding set of documents.
+Viruses detected in the software of shadow fleet vessels. Source: U.S. Coast Guard / DEF CON 34
+Currently, vessels from Russia’s shadow fleet are being actively intercepted by European Union forces. Recently, the Italian Navy intercepted an
+oil tanker
+from Russia’s shadow fleet in the Mediterranean Sea.
+Share this post:
+SUPPORT MILITARNYI
+PrivatBank ( Bank card )
+5169 3351 0164 7408
+copied
+Bank Account in UAH (IBAN)
+UA043052990000026007015028783
+copied
+Patreon
+PayPal
+Crypto
+BTC
+bc1qg0z99m95fte7kj8faa7h2kvnq92wvc53exe8gm
+copied
+USDT
+0x8676644fA7B6d328310283cAC1065Ae01d97CEe7
+copied
+ETH
+0xfD02863D3289416fcF50975c9DFda13623f97758
+copied
+Blogs
+Communications: The Nervous System of a Fighting Force
+Volodymyr Stepanets
+September 28, 2026
+20:45
+You Can Copy the Paperwork. You Can’t Copy the Deadline
+Artem Veselov
+September 17, 2026
+20:18
+EW vs Starlink: What Actually Works?
+Volodymyr Stepanets
+September 4, 2026
+20:49
+Iran Strikes U.S. Bases in the Region in New Escalation Cycle
+Urich
+September 2, 2026
+11:44
+NB8 in a Week: Billion-Dollar Deals in Kyiv, an Alarming Signal From Moscow, and Air Defense Systems Near Vilnius
+Anna Okrepka
+August 30, 2026
+15:56
+All blogs
+Popular
+Russian Forces Begin Using New Geran-5 Version With Autonomous Optical Navigation
+Russian forces have begun using a new modification of the Geran-5 jet-powered UAV, which features an autonomous optical navigation system and a mod...
+#Geran-5
+#Russia
+#UAV
+#Ukraine
+#War with Russia
+September 27, 2026
+22:46
+Russian Insurgents Blow Up Tank Cars Carrying Over 10,000 Metric Tons of Oil
+An insurgent movement in Russia carried out attacks on railroad tank cars, destroying over 10,000 metric tons of oil.
+
+The rebels carried out Ope...
+#Civil war in the Russian Federation
+#Neighbor nations
+#Russia
+#Saboteurs
+#War with Russia
+#World
+September 23, 2026
+20:19
+Trump Approves Transfer of Patriot Missile Production Licenses to Ukraine, Zelensky Says
+U.S. President Donald Trump has given final approval for Ukraine to receive licenses to produce interceptor missiles for Patriot air defense system...
+#Air Defense
+#MIM-104 Patriot
+#Ukraine
+#USA
+#Volodymyr Zelenskyy
+#War with Russia
+#World
+September 25, 2026
+14:39
+Ukraine Receives NASAMS System and Air Defense Missiles from Partners — Zelensky
+Ukraine has received a new NASAMS air defense missile system, along with a package of missiles, from the United States and Norway.
+
+Ukrainian Pre...
+#Air Defense
+#Europe
+#France
+#Germany
+#Military AID
+#Military assistance
+#NASAMS
+#Norway
+#SAM
+#The President of Ukraine
+#USA
+#Volodymyr Zelenskyy
+#World
+September 29, 2026
+17:27
+Over 600 Missiles and 2,500 UAVs: Air Force Commander Reveals F-16 Performance in Ukraine
+Ukrainian pilots flying F-16 fighter jets have already shot down over 3,150 enemy aerial targets.
+
+This was announced by the commander of the Ukr...
+#Air Defense
+#Airstrike
+#Aviation
+#F-16
+#Fighter jet
+#Lockheed Martin
+#Ukraine
+#Ukrainian Air Force
+#USA
+#War with Russia
+#World
+September 29, 2026
+20:36
+BTR-60-Based Kamikaze Drone Helped Break Through Russian Defenses in Nove Village
+Ukrainian military personnel developed a BTR-60PB-based kamikaze drone that helped break through Russian defenses in the village of Nove.
+
+A vide...
+#APC
+#Armored vehicles
+#Defense Tech & Miltech
+#Donbas
+#Ukraine
+#Unmanned Ground Vehicle (UGV)
+#War with Russia
+September 28, 2026
+20:11
+Button Text
+NGO "MILITARNYI"
+Donate
+Submit news or press releases:
+[email protected]
+| Advertising inquiries:
+[email protected]
+Publications may be cited under condition of source indication
+Web resources are required to provide a direct hyperlink available for search engines for the original publication
+Offline media should provide MILITARNYI.COM website address. Materials of "Special Projects" are published as advertising.
+Content
+News
+Articles
+Blogs
+Special projects
+Videocontent
+About Militarnyi
+Advertisement
+Contact us
+Popular tags
+#Defense industry of Ukraine
+#Ukraine
+#World
+#War with Russia
+#Europe
+#Russia
+#UAV
+#USA
+Follow us
+X
+Facebook
+LinkedIn
+Youtube
+Instagram
+Telegram
+Threads
+BlueSky
+© 2026              Militarnyi All rights reserved.
+Developed by:
+Privacy Policy
+Terms of Service
+Підтримати нас можна через:
+Приват:
+5169 3351 0164 7408
+PayPal -
+[email protected]
+Стати нашим патроном за лінком ⬇
+Patreon
+Subscribe to our newsletter
+Subscribe
+or on ours
+Telegram
+Thank you!!
+You are subscribed to our newsletter

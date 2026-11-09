@@ -1,0 +1,154 @@
+URL:         https://intent.press/en/news/war/2026/analysts-have-warned-of-the-threat-of-russian-strikes-on-the-bridge-on-the-odesa-reni-highway/
+Кінцевий:    https://intent.press/en/news/war/2026/analysts-have-warned-of-the-threat-of-russian-strikes-on-the-bridge-on-the-odesa-reni-highway/
+Заголовок:   ISW: Russia may launch strikes against the bridge on the Odesa-Reni highway
+Дата публ.:  2026-08-10
+Завантажено: 2026-10-09 07:34 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 64380
+Оригінал:    raw/198-intent.press-analysts-have-warned-of-the-threat-of-russian-strikes-on-.html
+sha256:      ccfd83b41076d4269d82edb10d8d453f66bbcfa4bc6bb2f681c54233ef1fc93a
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 7
+==============================================================================
+ISW: Russia may launch strikes against the bridge on th… | Intent
+Center for Public Investigations
+Certification of local deputies
+Editor-in-chief - Valeriy Bolgan
+2009-2026 © all rights reserved.
+When using materials, a link to the website is required.
+@click="window.scrollTo({ top: 0, behavior: 'smooth' })"
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+ISW: Russia may launch strikes against the bridge on th… | Intent
+All regions
+Odesa
+Mykolaiv
+Kherson
+Crimea
+UKR
+ENG
+Support
+News
+Publications
+Experts
+Blogs
+Declarations
+Menu
+×
+All regions
+Odesa
+Mykolaiv
+Kherson
+Crimea
+News
+Publications
+Experts
+Blogs
+Declarations
+Social media
+Sections
+×
+Anti-corruption
+Blog
+Center for Public Investigations
+Certification of local deputies
+Digest
+Economy
+Education
+Elections
+Games
+Health
+History
+Interview
+Library
+Media literacy
+Online
+Photo gallery
+Podcast
+Politics
+Recovery
+UrbanLife
+War
+World
+Tags
+Authors
+Home
+/
+News
+/
+War
+10 August 2026, 19:24
+Analysts have warned of the threat of Russian strikes on the bridge on the Odesa-Reni highway
+Ця стаття також доступна українською
+PHOTO: mahala.com.ua
+According to analysts at the Institute for the Study of War (ISW), Russian forces are shifting their airstrikes from seaports to overland routes in the Odesa region in an effort to disrupt grain exports. A strategic bridge in Mayaky on the Odesa–Reni highway is under threat.
+This
+is stated in a report by
+the Institute for the Study of War.
+On the morning of August 9, Ukraine’s State Border Guard Service reported traffic restrictions on the M-15 Odesa–Reni highway following Russian strikes. Traffic was restored within a few hours.
+The bridge in Mayaky is a strategically important alternative route across the Dniester River, which Ukraine has been using ever since enemy strikes hampered maritime exports. It was already
+targeted by
+the Russians last December.
+On the night of August 9, Russian forces carried out one of
+the most massive strikes
+on the Odesa region, using 11 missiles of various types and up to 100 drones, including jet-powered drones and “Banderole”-type loitering munitions. According to military officials, most of the missiles approached their targets along a ballistic trajectory, which makes them significantly more difficult to intercept.
+Ukraine has appealed to the European Commission to allocate 220 million euros in non-repayable aid. The grant will be allocated to the “5-7-9%” program to support businesses that have lost their ability to export due to attacks on the ports of Greater Odessa. It is noted that agricultural
+enterprises currently require funding to
+continue their operations and carry out the fall planting campaign.
+Юлія Калабайда
+Odesa
+Odesa region
+Odesa-Reni
+bombardments
+war
+Share
+Categories
+News
+Publications
+Experts
+Blogs
+Declarations
+Tags
+Sections
+Anti-corruption
+Blog
+Center for Public Investigations
+Certification of local deputies
+Digest
+Economy
+Education
+Elections
+Games
+Health
+History
+Interview
+Library
+Media literacy
+Online
+Photo gallery
+Podcast
+Politics
+Recovery
+UrbanLife
+War
+World
+Intent. Founded in 2009
+Editor-in-chief - Valeriy Bolgan
+intent.press@gmail.com
++38 (048) 737-38-98
+65023, Odesa, P.O. Box 209
+Our team
+Editorial policy
+Media ID - R40-05831
+Advertise with us
+Social media
+2009-2026 © all rights reserved.
+When using materials, a link to the website is required.
+intent.press@gmail.com
+20)"
+            @click="window.scrollTo({ top: 0, behavior: 'smooth' })"
+            aria-label="Back to top">

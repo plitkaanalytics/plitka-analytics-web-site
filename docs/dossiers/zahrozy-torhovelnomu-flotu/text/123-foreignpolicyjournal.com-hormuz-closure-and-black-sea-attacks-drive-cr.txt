@@ -1,0 +1,34 @@
+URL:         https://www.foreignpolicyjournal.com/2026/07/25/hormuz-closure-and-black-sea-attacks-drive-crop-prices-to-three-year-high-threatening-global-food-security/
+Кінцевий:    https://www.foreignpolicyjournal.com/2026/07/25/hormuz-closure-and-black-sea-attacks-drive-crop-prices-to-three-year-high-threatening-global-food-security/
+Заголовок:   Hormuz Closure And Black Sea Attacks Drive Crop Prices To Three-Year High, Threatening Global Food Security
+Дата публ.:  2026-07-25
+Завантажено: 2026-10-07 09:40 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 215468
+Оригінал:    raw/123-foreignpolicyjournal.com-hormuz-closure-and-black-sea-attacks-drive-cr.html
+sha256:      2318f340646c17735878d3158a5ba9b375f416b6656f36ac41d1a197fb935e1c
+Витяг:       trafilatura
+
+==============================================================================
+Global crop prices have surged to their highest levels in three years as a convergence of geopolitical crises and extreme weather events squeezes the world’s grain supply.
+
+The closure of the Strait of Hormuz has effectively blockaded approximately 3.9 million tonnes of Middle Eastern urea exports, cutting off roughly 30 percent of the region’s annual fertilizer trade.
+
+Urea is a critical nitrogen-based fertilizer used across virtually every major agricultural system, meaning supply disruptions translate almost immediately into higher production costs for farmers worldwide.
+
+Those higher costs are now working their way through global supply chains and landing directly on supermarket shelves, with food prices rising across multiple categories.
+
+Compounding the fertilizer shortage, ongoing attacks in the Black Sea region have disrupted grain shipments from one of the world’s most important agricultural export corridors.
+
+The Black Sea basin is a primary source of wheat, corn, and sunflower oil for markets across Europe, the Middle East, and North Africa, making any disruption there felt almost instantly in global commodity prices.
+
+Simultaneous heat waves have further stressed crop yields in key producing regions, adding a climate-driven dimension to what is already a severe supply crunch driven by conflict.
+
+A new United Nations report has warned that the combined impact of conflict-driven energy and fertilizer cost increases could push between 9 and 18 million more people into hunger worldwide.
+
+That figure represents a significant acceleration of food insecurity trends that were already being tracked with concern by international aid organizations heading into the second half of the decade.
+
+The warning from the UN underscores how quickly localized geopolitical events, such as a strait closure or regional conflict, can ripple outward to affect the most vulnerable populations across the globe.
+
+Fertilizer prices, energy costs, and grain futures are now moving in lockstep, creating a feedback loop that agricultural economists say could take months or years to fully unwind.
+
+Governments and food security agencies are being urged to accelerate emergency procurement strategies and invest in alternative supply routes before the price pressures deepen further into the global food system.

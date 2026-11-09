@@ -1,0 +1,204 @@
+URL:         https://www.cbsnews.com/news/coast-guard-fbi-board-oil-tanker-texas/
+Кінцевий:    https://www.cbsnews.com/news/coast-guard-fbi-board-oil-tanker-texas/
+Заголовок:   Coast Guard, FBI boarded Texas-bound oil tanker after ship's network was potentially breached
+Дата публ.:  2026-09-15
+Завантажено: 2026-10-02 08:05 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 628378
+Оригінал:    raw/16-cbsnews.com-coast-guard-fbi-board-oil-tanker-texas.html
+sha256:      f806e047b417a8dce58a70a81ff6b9e9d5ebbb03609325f8ee9deb97e91ebd8e
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 15
+==============================================================================
+Coast Guard, FBI boarded Texas-bound oil tanker after ship's network was potentially breached - CBS News
+Homeland Security and Justice Correspondent
+Nicole Sganga is CBS News' homeland security and justice correspondent. She is based in Washington, D.C., and reports for all shows and platforms.
+Updated on:  September 16, 2026 / 6:52 PM EDT
+August 2026: U.S. Coast Guard teams board oil tanker.
+August 2026: U.S. Coast Guard teams board oil tanker in Atlantic Ocean.
+Republicans dubbed it the "anti-transparency bill." A new high-speed rail watchdog report tests that claim.
+2 U.S. aviators eject landing plane on carrier off Virginia and 4 sailors hurt
+9 in 10 Americans have encountered a cyber scam as AI fuels fraud, Consumer Reports finds
+FTC investigating Anthropic, OpenAI and other companies over potential AI risks
+I Was the Target of an FBI Sting
+How the FBI Is Searching for Nancy Guthrie
+© 2026 CBS Interactive Inc. All Rights Reserved.
+Foreign actor breached network of Texas-bound oil tanker, federal authorities confirm
+Copyright ©2026 CBS Interactive Inc. All rights reserved.
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Coast Guard, FBI boarded Texas-bound oil tanker after ship's network was potentially breached - CBS News
+Latest
+U.S.
+Iran War
+Cornell Case
+World
+Politics
+Entertainment
+HealthWatch
+MoneyWatch
+Crime
+Space
+Sports
+Brand Studio
+The Free Press
+Local News
+Atlanta
+Baltimore
+Bay Area
+Boston
+Chicago
+Colorado
+Detroit
+Los Angeles
+Miami
+Minnesota
+New York
+Philadelphia
+Pittsburgh
+Sacramento
+Texas
+Live
+CBS News 24/7
+Baltimore
+Bay Area
+Boston
+Chicago
+Colorado
+Detroit
+Los Angeles
+Miami
+Minnesota
+New York
+Philadelphia
+Pittsburgh
+Sacramento
+Texas
+48 Hours
+60 Minutes
+Shows
+48 Hours
+60 Minutes
+CBS Evening News
+CBS Mornings
+CBS Morning News
+CBS Reports
+CBS Saturday Morning
+The Daily Report
+The Dish
+Face the Nation
+Sunday Morning
+The Takeout
+Things That Matter
+The Uplift
+CBS News Investigates
+CBS News Confirmed
+Podcasts
+Newsletters
+Download Our App
+CBS News Team
+Executive Team
+Brand Studio
+Paramount+
+Join Our Talent Community
+RSS Feeds
+U.S.
+Iran War
+Cornell Case
+Midterms
+World
+Politics
+HealthWatch
+MoneyWatch
+Entertainment
+Crime
+Sports
+The Free Press
+Watch CBS News
+U.S.
+Coast Guard, FBI boarded Texas-bound oil tanker after ship's network was potentially breached
+By
+Nicole  Sganga
+Nicole  Sganga
+Homeland Security and Justice Correspondent
+Nicole Sganga is CBS News' homeland security and justice correspondent. She is based in Washington, D.C., and reports for all shows and platforms.
+Read Full Bio
+Nicole  Sganga
+Updated on:  September 16, 2026 / 6:52 PM EDT
+/ CBS News
+Add CBS News on Google
+Coast Guard personnel and FBI agents boarded a Texas-bound commercial oil tanker in the Atlantic last month after determining the ship's network may have been compromised by a foreign actor, the Coast Guard said Tuesday.
+Iranian state media claimed that hackers obtained control over propulsion, navigation and cargo systems and lost communications for 30 hours.
+The Coast Guard did not disclose the name of the ship, but Iranian reports identified it as the VL Prosperity, a massive 333-meter supertanker capable of carrying roughly 2.3 million barrels of oil. Public vessel data shows the Liberian-flagged very large crude carrier was bound for Galveston, Texas. South Korea-based HMM Ocean Service Co., Ltd., which manages the VL Prosperity, confirmed the Coast Guard had boarded the vessel.
+On Aug. 20, Iran's Mehr News Agency reported that VL Prosperity had been attacked and had lost communications on Aug. 7 while sailing from Egypt's Sidi Kerir terminal toward the U.S. Citing an unnamed crew member, Mehr's report alleged that the attackers penetrated engine-room systems, reduced engine cooling flow, increased engine speed and interfered with fuel and lubricating-oil systems.
+August 2026: U.S. Coast Guard teams board oil tanker.
+Provided by U.S. Coast Guard
+According to the Coast Guard, a specialized team of its law enforcement personnel, a vessel inspector, Coast Guard Cyber Protection Team members and FBI Cyber Action Team operators boarded the ship on Aug. 21. The team examined both the vessel's operational technology and information-technology systems and worked with the crew and the ship's corporate operators to eradicate the threat. On Tuesday, the Coast Guard said there were currently "no reports of operational disruptions, vessel instability, physical danger to crews, or environmental impacts."
+August 2026: U.S. Coast Guard teams board oil tanker in Atlantic Ocean.
+Provided by U.S. Coast Guard
+Unconfirmed reports of the attack first surfaced publicly after the ship passed through the Strait of Gibraltar, between Spain and Morocco.
+The risk of penetrating a commercial oil tanker's system goes beyond stolen data or disabled communications. Modern tankers use interconnected operational technology, or OT, to control the vessels — with propulsion, navigation and cargo systems all internet-connected. Though it's unlikely, if a hostile state can reach and even hijack those systems remotely, an attacker could theoretically manipulate a vessel's movement or critical machinery, potentially turning a massive oil tanker into a weapon against a port.
+The U.S. has not provided details on the extent of the possible breach, only confirming there were indications the vessel's network had been compromised. HMM stated that it "has rigorous cyber protocols in place to ensure the safety and security of vessels under our care."
+The U.S. has also so far not attributed the possible cyberattack to a specific actor. After Mehr's report, Iranian state media amplified the story in the weeks following the breach, suggesting that the regime was opening a new cyber front in the war with the U.S. Four days after Mehr's report, Iran's Tasnim News Agency published an
+article
+with the headline "No American Vessel Is Safe Anymore: Will Cannons Give Way to Codes?"
+More from CBS News
+Republicans dubbed it the "anti-transparency bill." A new high-speed rail watchdog report tests that claim.
+2 U.S. aviators eject landing plane on carrier off Virginia and 4 sailors hurt
+9 in 10 Americans have encountered a cyber scam as AI fuels fraud, Consumer Reports finds
+FTC investigating Anthropic, OpenAI and other companies over potential AI risks
+Go deeper with The Free Press
+I Was the Target of an FBI Sting
+How the FBI Is Searching for Nancy Guthrie
+In:
+Iran
+Cyberattack
+© 2026 CBS Interactive Inc. All Rights Reserved.
+Foreign actor breached network of Texas-bound oil tanker, federal authorities confirm
+04:16
+Foreign actor breached network of Texas-bound oil tanker, federal authorities confirm
+(04:16)
+Republicans dubbed it the "anti-transparency bill." A new high-speed rail watchdog report tests that claim.
+2 U.S. aviators eject landing plane on carrier off Virginia and 4 sailors hurt
+9 in 10 Americans have encountered a cyber scam as AI fuels fraud, Consumer Reports finds
+I Was the Target of an FBI Sting
+Featured
+Political News
+Iran War Latest
+NFL Scores
+College Football Rankings
+Follow Us On
+YouTube
+Facebook
+Instagram
+X
+Privacy
+Privacy Policy
+California Notice
+Your Privacy Choices
+Terms of Use
+Minors' Privacy Policy
+More from CBS News
+Newsletters
+Podcasts
+Download Our App
+Brand Studio
+Sitemap
+Company
+About Paramount
+Advertise With Paramount
+Join Our Talent Community
+Help
+Feedback
+Contact the Ombudsman
+Copyright ©2026 CBS Interactive Inc. All rights reserved.
+View CBS News In
+CBS News App
+Open
+Chrome
+Safari
+Continue

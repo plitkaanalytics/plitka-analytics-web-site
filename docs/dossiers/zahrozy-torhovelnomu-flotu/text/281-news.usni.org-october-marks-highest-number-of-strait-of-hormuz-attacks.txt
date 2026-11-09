@@ -1,0 +1,13 @@
+URL:         https://news.usni.org/2026/10/22/october-marks-highest-number-of-strait-of-hormuz-attacks
+Кінцевий:    https://news.usni.org/2026/10/22/october-marks-highest-number-of-strait-of-hormuz-attacks
+Заголовок:   Just a moment...
+Дата публ.:  2026-10-22
+Завантажено: 2026-10-26 09:15 UTC
+HTTP:        403   Тип: text/html; charset=UTF-8   Байтів: 5892
+Оригінал:    raw/281-news.usni.org-october-marks-highest-number-of-strait-of-hormuz-attacks.html
+sha256:      f5c1a9fcfd4f9ebbc0af28e18c33b0e92a90fa78fb2b7cd95a81aba879793164
+Витяг:       bs4-full
+Примітка:    оригінал 403; CDX не відповідає (ліміт) — повторити пізніше
+
+==============================================================================
+Just a moment...

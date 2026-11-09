@@ -1,0 +1,57 @@
+URL:         https://www.dailymaverick.co.za/article/2026-10-02-world-food-prices-near-four-year-high-in-september-un-say.md
+Кінцевий:    https://www.dailymaverick.co.za/article/2026-10-02-world-food-prices-near-four-year-high-in-september-un-say.md
+Заголовок:   
+Дата публ.:  не вказана на сторінці
+Завантажено: 2026-10-07 10:10 UTC
+HTTP:        200   Тип: text/markdown; charset=utf-8   Байтів: 3088
+Оригінал:    raw/145-dailymaverick.co.za-2026-10-02-world-food-prices-near-four-year-high-i.html
+sha256:      5cedfe3a4f78813258a5f8c3fdd0cd029041198cbce3bdeef6cfd96f8fc24eac
+Витяг:       bs4-full
+
+==============================================================================
+---
+title: "World food prices near four-year high in September, UN say"
+description: "World food prices rose in September to their highest in nearly four years as logistics disruptions and weather concerns affected crop markets, the United Nations' Food and Agriculture Organization said."
+type: "NewsArticle"
+publisher: "Daily Maverick"
+site: "https://www.dailymaverick.co.za"
+section: "World"
+author: "Reuters"
+author_url: "https://www.dailymaverick.co.za/author/reuters/"
+canonical_url: "https://www.dailymaverick.co.za/article/2026-10-02-world-food-prices-near-four-year-high-in-september-un-say/"
+published: "2026-10-02T13:11:29"
+lang: "en-ZA"
+word_count: 323
+---
+
+# World food prices near four-year high in September, UN say
+
+> World food prices rose in September to their highest in nearly four years as logistics disruptions and weather concerns affected crop markets, the United Nations' Food and Agriculture Organization said.
+
+By Reuters · Published 2 October 2026, 15:11 SAST
+
+## Content
+
+Fears about a severe El Nino weather pattern have pushed international sugar prices to an 18-month high, while a war-related collapse in Black Sea trade pushed wheat futures to a three-year peak early last month. GRA/
+
+The FAO Food Price Index, which tracks monthly changes in international prices for a basket of food commodities, averaged 136.0 points, up from a revised 134.0 for August and the highest reading since November 2022.
+
+“We are seeing a persistent and increasingly broad-based build up in global commodity prices, as disruptions in the Strait of Hormuz and the Black Sea combine with climate shocks, putting pressure on energy, transport and key food commodities,” FAO Chief Economist Maximo Torero said.
+
+“If sustained, these pressures will soon pass through to consumer food prices, especially in food and energy import-dependent countries,” he said in a statement.
+
+FAO's sugar price index jumped 6.1% from August in a third consecutive monthly increase, as adverse weather threatened to curb supply in major production zones.
+
+The agency's cereal price benchmark rose 5.1% on the month, with reduced yield prospects for US corn adding to pressure from disruptions to Black Sea grain trade.
+
+Vegetable oil prices edged up 0.9%, driven by palm oil on the back of strong demand and concerns over El Nino-related production risks in Southeast Asia.
+
+FAO's overall meat index eased 1.1%. That reflected lower poultry prices, partly linked to a drop in European Union demand as new import rules took effect.
+
+In a separate report, FAO kept its forecast for global cereal production in 2026 almost unchanged at 2.979 billion metric tons, 2.1% below the previous year's peak but still the second-largest harvest on record.
+
+FAO cut its forecast for world cereal trade in 2026/27 by 0.7% from last month, citing lower wheat and maize export expectations amid constrained Black Sea shipping.
+
+FAO food price index at 4-year high [https://tmsnrt.rs/3VdMJtb](https://tmsnrt.rs/3VdMJtb)
+
+(Reporting by Gus Trompiz; Editing by Kirsten Donovan and Emelia Sithole-Matarise)

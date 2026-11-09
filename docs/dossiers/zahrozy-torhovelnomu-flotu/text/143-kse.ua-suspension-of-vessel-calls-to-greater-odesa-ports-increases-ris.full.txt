@@ -1,0 +1,126 @@
+URL:         https://kse.ua/about-the-school/news/suspension-of-vessel-calls-to-greater-odesa-ports-increases-risks-to-exports-and-economic-growth-ukraine-monthly-economic-update/
+Кінцевий:    https://kse.ua/about-the-school/news/suspension-of-vessel-calls-to-greater-odesa-ports-increases-risks-to-exports-and-economic-growth-ukraine-monthly-economic-update/
+Заголовок:   Suspension of Vessel Calls to Greater Odesa Ports Increases Risks to Exports and Economic Growth — Ukraine Monthly Economic Update - Kyiv School of Economics
+Дата публ.:  2026-08-25
+Завантажено: 2026-10-07 10:10 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 60947
+Оригінал:    raw/143-kse.ua-suspension-of-vessel-calls-to-greater-odesa-ports-increases-ris.html
+sha256:      9b15392a9c98faac68ca8c045e160a30c62c93422f94b824fee08497d4688779
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 3
+==============================================================================
+Suspension of Vessel Calls to Greater Odesa Ports Increases Risks to Exports and Economic Growth — Ukraine Monthly Economic Update - Kyiv School of Economics
+War impacts on Ukrainian agriculture
+Recovery of the Ukrainian economy
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Suspension of Vessel Calls to Greater Odesa Ports Increases Risks to Exports and Economic Growth — Ukraine Monthly Economic Update - Kyiv School of Economics
+Search for:
+Kyiv
+School of
+Economics
+Kyiv
+School of
+Economics
+University
+Bachelor’s Programs
+Master’s Programs
+Scholarships and Grants
+Academic Mobility
+KSE Institute
+War impacts on Ukrainian agriculture
+SelfSanctions / LeaveRussia
+Russia Will Pay
+The Invincible Land
+Annual Reports
+Recovery of the Ukrainian economy
+Partner’s Code of Conduct
+KSE Foundation
+Business School
+MBA (Executive programs)
+Individual corporate programs
+KSE ProfTech
+KSE Courses
+KSE Publications
+News
+Media queries
+About us
+People
+Vacancies
+Support Us
+Our partners
+Kyiv
+School of
+Economics
+Kyiv
+School of
+Economics
+University
+Bachelor’s Programs
+Master’s Programs
+Scholarships and Grants
+Academic Mobility
+KSE Institute
+War impacts on Ukrainian agriculture
+SelfSanctions / LeaveRussia
+Russia Will Pay
+The Invincible Land
+Annual Reports
+Recovery of the Ukrainian economy
+Partner’s Code of Conduct
+KSE Foundation
+Business School
+MBA (Executive programs)
+Individual corporate programs
+KSE ProfTech
+KSE Courses
+KSE Publications
+News
+Media queries
+About us
+People
+Vacancies
+Support Us
+Our partners
+Kyiv School of Economics
+About the School
+News
+Suspension of Vessel Calls to Greater Odesa Ports Increases Risks to Exports and Economic Growth — Ukraine Monthly Economic Update
+Suspension of Vessel Calls to Greater Odesa Ports Increases Risks to Exports and Economic Growth — Ukraine Monthly Economic Update
+25 August 2026
+Read the full issue
+KSE Institute has published the August edition of its Ukraine Monthly Economic Update, covering key economic developments and data through August 18, 2026. In January-June, Ukraine’s goods trade deficit widened by 44% year-on-year to $31.5 billion. Exports rose by just 4.6%, with the entire gain coming from agriculture, which now accounts for 63.1% of the export basket. Imports increased by 25.7% to $51.3 billion, with machinery and equipment recording the strongest growth.
+The maritime corridor has become the key risk to external trade. Following an escalation of Russian strikes on Greater Odesa, daily port calls fell from around 15 to one or two by the end of July. In August, traffic effectively stopped as shipowners suspended calls despite the ports remaining formally open. Grain shipments in the first days of August were down about 80% month-on-month. Land and Danube routes cannot fully replace maritime exports. At the same time, renewed strikes on gas production could increase Ukraine’s energy import needs. KSE Institute therefore expects the trade gap to continue widening through the end of the year.
+The short-term fiscal balance deteriorated in July. State budget general fund revenues amounted to UAH 165.8 billion, or 61.8% of the planned level. In particular, UAH 89.7 billion in expected grants did not arrive, while most major taxes also underperformed their monthly targets. The general fund deficit reached UAH 185 billion, compared with a planned UAH 109 billion. The government raised UAH 121.7 billion through domestic and external borrowing — 2.3 times the monthly plan. Further attacks on transport, energy and production infrastructure could put additional pressure on the domestic revenue base, making a stable flow of external financing critical for the budget.
+Headline inflation resumed its acceleration in July, rising to 7.7% year-on-year from 7.2% in June. Core inflation remained unchanged at 8.1%. The strongest new pressure came from administered prices, while services inflation remained elevated at 13.7%. KSE Institute expects headline inflation to move back toward 11% by the end of 2026. The main upside risks include higher logistics costs, further tariff increases, renewed energy and infrastructure shocks, and pressure on the hryvnia.
+At the end of July, the National Bank of Ukraine raised its key policy rate from 15% to 15.5%, six months after its previous cut. Nine of the eleven members of the Monetary Policy Committee supported the increase. The NBU’s baseline now envisages another hike to 16% in September. KSE Institute sees the move as a preemptive tightening: the need for a monetary policy response was expected, but the NBU began raising rates earlier than the Institute’s baseline had assumed.
+Meanwhile, the hryvnia was broadly stable in July. The official USD/UAH exchange rate averaged 44.70, while volatility was the lowest in 2026. However, significant underlying FX demand persisted. The client-market deficit reached $3.5 billion, while net NBU interventions amounted to $4.8 billion, among the largest monthly volumes on record. International reserves remained broadly unchanged at around $51.2 billion, but import coverage fell from 5.2 to 4.2 months. KSE Institute expects the hryvnia to gradually drift toward UAH 46.0–46.5 per USD by the end of the year, assuming external financing continues to arrive broadly on schedule.
+The real-sector recovery remains highly uneven. According to a preliminary estimate by the State Statistics Service of Ukraine, GDP grew by 0.6% in the second quarter y-o-y. Industrial production increased by 1.1% year-on-year in June, but growth was concentrated largely in defense-related industries. Machinery and equipment output rose by 58.2%, while metallurgy increased by 15.1%. At the same time, agricultural production fell by 8.4%, rail freight turnover by 27.7%, and construction output by 13.9%. If disruptions to maritime logistics persist, KSE Institute expects industrial output to hover near zero and potentially turn negative in the fourth quarter.
+Donate
+© 2025, Ukraine
+KSE Dragon Capital Building,
+Mykoly Shpaka St, 3
+Apply +38 073 248 69 76
+Apply
+[email protected]
+MBA +38 067 441 0111
+[email protected]
+Information
++38 067 434 720 6
+Media queries
+[email protected]
+Official correspondence
+[email protected]
+Donate
+Facebook
+YouTube
+LinkedIn
+Telegram
+Instagram
+Twitter
+TikTok

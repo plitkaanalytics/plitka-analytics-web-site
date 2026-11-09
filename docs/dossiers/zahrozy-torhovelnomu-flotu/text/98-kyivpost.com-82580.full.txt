@@ -1,0 +1,321 @@
+URL:         https://www.kyivpost.com/post/82580
+Кінцевий:    https://www.kyivpost.com/post/82580
+Заголовок:   Odesa Drone Attacks Halt Ships, Pushing Ukrainian Grain Below Production Cost
+Дата публ.:  2026-08-18
+Завантажено: 2026-10-07 09:37 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 126882
+Оригінал:    raw/98-kyivpost.com-82580.html
+sha256:      0b027c72a69aea46441f0f378bd4c4966dc810295814bc936628cd599212dc8c
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 27
+==============================================================================
+Ships Not Entering Odesa Ports: What This Means for Ukraine’s Grain Exports
+Ship traffic to Greater Odesa collapsed after Russian drone and missile attacks intensified, with just seven vessels entering in the first 11 days of August against 169 in July. USPA blames the drop on rising attack risk, while UCAB estimates Ukraine is losing $450-500 million in export revenue monthly as wheat and barley sell below production cost.
+(Image by Zakhar Dunin/Kyiv Post)
+Apartments on the 14th through 16th floors were damaged, while homes in another district caught fire during the overnight Russian attack.
+To suggest a correction or clarification, write to us here
+Please leave your suggestions or corrections here
+‘Warsaw Will Disappear in 2 or 3 Days’: Kremlin Threatens Poland
+Russia’s Lavrov Threatens Europe With a ‘Very Short’ War
+Moscow Used US Envoys to Deliver Tougher Peace Demands
+Polish FM: ‘We Would Defeat Russia Quite Quickly’ if Moscow Attacked NATO
+ANALYSIS: Zelensky’s Former Comedy Studio Hit in Russian Strike – It’s the Symbolism Moscow Is After
+Ukrainian Parliament Passes Key First-Reading Reforms for Parcel Tax and Small Business Bankruptcy
+Russian Strike Destroys Zelensky’s Former TV Studio Warehouse
+Zelensky Signs Law Targeting Scam Call Centers
+OPINION: Associate Membership – Appreciated in Canada; a Non-Starter in Ukraine?
+US House Passes Sweeping Russia Sanctions Bill, Sends It to Trump
+Russian Attack on Kyiv Injures 20, Including 2 Children, Hits Water Infrastructure
+Ukraine Returns Remains of Nationalist Leader Assassinated by Moscow in 1938
+Khmara Set for Defense Minister Vote Despite Questions Over His Military Status
+Nikolai Patrushev threatened to use Russia’s “entire arsenal” against Poland after Foreign Minister Radosław Sikorski said NATO could quickly defeat Moscow if attacked.
+Web links to Kyiv Post material are allowed provided that they contain a hyperlink to the
+stories and only a brief extract (not more than 10 percent) of the text.
+Online media registration number: R40-05383
+All materials, including photographs, contained on this site are protected by copyright law and
+not be reproduced without the prior written permission of BIZNESGRUPP TOV at
+All Interfax-Ukraine news agency stories cannot be reproduced or distributed in any form without
+written permission of Interfax-Ukraine.
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Ships Not Entering Odesa Ports: What This Means for Ukraine’s Grain Exports
+War
+Ukraine
+World
+North America
+Latin America
+Europe
+Eastern Europe
+Middle East
+Africa
+Asia
+Economy
+Business
+Technology
+Finance
+Energy
+Agriculture
+Videos
+Podcasts
+Analysis
+Corruption Watch
+Opinions
+Culture
+Reviews
+History
+Sports
+Classifieds
+Spotlight
+Cartoons
+War
+Ukraine
+World
+Economy
+Videos
+Analysis
+Opinions
+Classifieds
+Spotlight
+EN
+UK
+EN
+UK
+War
+Ukraine
+World
+North America
+Europe
+Eastern Europe
+Middle East
+Asia
+Economy
+Business
+Technology
+Finance
+Energy
+Agriculture
+Videos
+Analysis
+Opinions
+Classifieds
+Spotlight
+Home
+Ukraine
+Ships Not Entering Odesa Ports: What This Means for Ukraine’s Grain Exports
+in-depth
+EXCLUSIVE
+Ukraine
+Economy
+Agriculture
+Ships Not Entering Odesa Ports: What This Means for Ukraine’s Grain Exports
+In brief:
+Ship traffic to Greater Odesa collapsed after Russian drone and missile attacks intensified, with just seven vessels entering in the first 11 days of August against 169 in July. USPA blames the drop on rising attack risk, while UCAB estimates Ukraine is losing $450-500 million in export revenue monthly as wheat and barley sell below production cost.
+by
+Liubov Petrushko
+|
+                    
+                    Aug. 18, 2026, 1:38 pm
+Make us preferred on Google
+Flip
+Share
+Facebook
+X (Twitter)
+LinkedIn
+Bluesky
+Email
+Copy
+Copied
+(Image by Zakhar Dunin/Kyiv Post)
+Content
+Share
+Facebook
+X (Twitter)
+LinkedIn
+Bluesky
+Email
+Copy
+Copied
+Flip
+Make us preferred on Google
+On July 22, 2026, not a single ship entered the Greater Odesa ports. It was the first time this had happened since Ukraine’s maritime corridor started operating. Three days earlier, on July 19, the bulk carrier Golden Leo was attacked while leaving the port. The ship was badly damaged and later sank. Nine crew members and a Ukrainian pilot were killed.
+The Ukrainian Sea Ports Authority (USPA) told Kyiv Post that this attack was one of the key events that changed how shipowners and insurance companies viewed the risks of entering the Greater Odesa ports. Ship traffic has barely recovered since then: 169 ships entered the ports in July, but only seven in the first 11 days of August.
+JOIN US ON TELEGRAM
+Follow our coverage of the war on the
+@Kyivpost_official
+.
+USPA has not changed the rules or procedures for ships entering the ports. The problem is the much higher risk of attacks.
+Advertisement
+Since the beginning of 2026, USPA has recorded 160 attacks on port infrastructure, 87 attacks on civilian ships in ports, and 68 attacks on ships in the maritime corridor. The attacks became especially intense this summer. Since July 1, Russia has combined large-scale drone attacks with jet-powered Shahed drones, air strikes, and ballistic missiles. By August 11, USPA had recorded 88 attacks on port infrastructure, 48 on ships in ports, and 39 in the corridor.
+“Every day of disruption is critical for us,” USPA told Kyiv Post. The corridor can only return to normal operations if shipping becomes safer. The government, the military, and international partners are working to improve its protection.
+Other Topics of Interest
+Russian Strike Hits 19-Story Odesa Apartment Block, Injures 7 Including Child
+Apartments on the 14th through 16th floors were damaged, while homes in another district caught fire during the overnight Russian attack.
+For Ukraine’s agricultural sector, this brings back a problem it faced in 2022: the country once again has a large harvest that is difficult to export.
+What the corridor exports and why it matters
+Ukraine has been exporting an average of 4-4.5 million tonnes (4.4-5 million tons) of agricultural products per month. About 90% of these exports went through seaports, according to Ukraine’s central bank, the National Bank of Ukraine (NBU). Alternative routes by rail and through the Danube can currently handle about 2.5 million tonnes (2.7 million tons) per month, with the potential to increase this to 3.5 million tonnes (3.8 million tons).
+Advertisement
+“The shutdown of the corridor is critical. Agricultural products and metals account for 70% of Ukraine’s total exports, and most of them are shipped by sea,” Oleh Nivievskyi, head of the Center for Food and Land Use Research at the Kyiv School of Economics, told Kyiv Post. For large volumes of relatively low-cost goods, sea transport is almost impossible to replace.
+Farmers first felt the impact through lower prices. According to Maksym Hopka, an analyst at the Ukrainian Agribusiness Club (UCAB), between July 16 and August 6, the price of second-grade food wheat in central Ukraine fell by 31%, from Hr.9,200 ($206) to Hr.6,400 ($143) per tonne. Barley prices fell by 27%, and corn prices by 15%.
+The reason is simple, Hopka says: the price Ukrainian farmers receive is based on the global price minus delivery costs. When grain has to use more expensive routes instead of the sea, the farmer ultimately pays for the extra logistics through a lower purchase price.
+UCAB estimates that Ukrainian wheat is already selling about $15 per tonne below production cost and barley more than $40 below cost. For comparison, Black Sea Free on Board (FOB) wheat was trading at about $267.5 per tonne on July 28, showing how much value can be lost between the international export price and what a Ukrainian producer receives inland.
+Advertisement
+The figures are not directly comparable because they refer to different delivery terms and wheat specifications, but they show the size of the logistics gap.
+Barva Invest is seeing a similar trend. According to Volodymyr Korchun, a partner at Barva Invest, traders began stopping purchases of grain intended for deep-water ports around July 13-15. Since then, purchase prices for wheat, barley and corn have fallen by around Hr.2,000-3,000 ($45-67) per tonne.
+TAS Agro has decided not to sell some of its grain at current prices. “We have decided not to sell grain below production cost for now, so we are putting it into storage,” Anton Zhemerdieiev, Commercial Director at TAS Agro, told Kyiv Post.
+According to him, third-grade milling wheat with 11.5% protein, used mainly for flour production, now sells for about Hr.6,000 per tonne (around $118 per tonne), including VAT, at grain elevators. For many farmers, this means a loss of $30-35 on every tonne they sell.
+Advertisement
+What is happening with the contracts
+Across the market, contracts are mostly being delayed rather than cancelled, Korchun told Kyiv Post. International traders working under Delivered at Place (DAP) port contracts – where the seller delivers the goods to a specified port – cannot physically receive cargo because there are too few vessels to load it onto. Contract deadlines are therefore mostly being extended in the hope that ship traffic resumes.
+July data still does not show the full impact. According to UCAB, Ukraine exported 3.67 million tonnes of agricultural products in July, including 2.67 million tonnes (2.94 million tons) of grain, compared with 1.7 million tonnes (1.8 million tons) of grain in July last year. Much of it was shipped before the situation worsened in the second half of July, Hopka says. UCAB expects agricultural exports to almost halve from July to 1.5-1.6 million tonnes (1.6-1.7 million tons) in August.
+For the 2026-27 marketing year – from July 1, 2026 to June 30, 2027 – TAS Agro planned to sell about 70% of its products through seaports, including wheat, corn, rapeseed, and some non-GMO soybeans.
+The company has already received its first refusals from buyers to fulfill contracts with July delivery deadlines. “A more cooperative approach would be to look for alternatives together, such as extending delivery deadlines or changing the delivery route,” Zhemerdieiev told Kyiv Post.
+Buyers also have limited options because there are few economically viable alternatives to sea exports. TAS Agro is diversifying its sales channels and trying to fulfill contracts wherever it is physically and economically possible.
+Advertisement
+Where the grain is going now
+Ukraine faced a maritime blockade before, so the agricultural sector is returning to routes used in 2022-23. Cargo is again moving through the Danube ports of Izmail and Reni to Romania’s Constanța, as well as by rail through Romania, Slovakia, and Hungary to European ports, Hopka says. Gdańsk and Gdynia in Poland are also being considered for some shipments.
+Ukraine and Moldova are also discussing greater use of an existing rail transit route through Moldova to Constanța. Kyiv has asked for a 50% discount on Moldovan rail tariffs, while Moldova wants guaranteed shipment volumes. The route could handle up to 4.5 million tonnes (5 million tons) a year, or around 375,000 tonnes (412,366 tons) a month. Moldova previously carried Ukrainian grain by rail in 2022-23.
+But the old alternatives have their own problems. NIBULON has already redirected some cargo through the Danube and the EU, Trading Director Volodymyr Slavinskyi told Kyiv Post. Alternative logistics cost the company about $70 more per tonne, while higher global prices have compensated for only $15-20 of that amount. Korchun gives a similar example: wheat with 11.5% protein traded at about $210 per tonne DAP Odesa in the first half of July, compared with only $165-170 at Danube ports now.
+Advertisement
+“The difference from 2022 is that Ukraine now has alternative routes through the Danube and the EU,” Slavinskyi told Kyiv Post.
+Capacity is the other problem. Railways and their partners can move about 1 million tonnes (1.1 million tons) of grain per month, Hopka says. The Danube is also struggling with exceptionally low water levels. In July, flows in Romania fell to about 1,700 cubic meters per second (60,000 cubic feet per second), compared with a normal July average of 4,700, the lowest level since 1996. Drought and heat have left grain barges idle and reduced shipping capacity.
+UCAB estimates that the Danube, rail and road transport together can handle only about 1.4 million tonnes (1.5 million tons) per month in August, potentially rising to 3 million tonnes (3.3 million tons) by year-end. Greater Odesa, by comparison, handled 4.1-5 million tonnes (4.5-5.5 million tons) per month in the first half of 2026. Alternative routes can soften the crisis, Hopka says, but cannot replace Greater Odesa.
+How much will the blockade cost?
+UCAB estimates Ukraine is short of export capacity for 2.2-2.5 million tonnes (2.4-2.7 million tons) of grain per month, meaning $450-500 million in export revenue could be lost or delayed each month. The NBU puts the total shortfall in export revenue caused by logistics restrictions at about $2.5 billion in the second half of 2026, although it expects some of these products to be exported in the first half of 2027.
+The harvest itself will not disappear: it will be stored or sold on the domestic market. The problem for farmers is cash. Delayed exports mean delayed revenue just as they need working capital for the next sowing campaign.
+That makes the current situation potentially more dangerous than the 2022 blockade, Nivievskyi says. “In 2022, there was no pressure from a new harvest. Now there is a double problem: farmers need somewhere to store the grain and at the same time need money to sow winter crops. A large part of their working capital comes from selling the harvest. The sector can manage for another month, but after that the situation will become critical,” he told Kyiv Post.
+If sea export restrictions last another three months, TAS Agro expects lower domestic prices, fuller storage facilities, and growing pressure on working capital. The biggest risk is the next production cycle: farmers selling below cost may have to cut investment and spending on farming technology or change what they plant, Zhemerdieiev says.
+Smaller producers are the most vulnerable, Hopka says. Large agricultural companies are more likely to have their own elevators, reserved rail capacity, trading teams, and several routes. Small and medium-sized farmers must harvest now while paying salaries and rent and buying seeds, fertilizer and fuel for the next season.
+What happens if sea exports do not recover soon?
+TAS Agro is already increasing the processing of its own crops to reduce its dependence on direct sea exports. “The current situation is speeding up the transformation of our business model. We are moving from mainly exporting raw agricultural products to a model where processing, the domestic market and alternative export channels will play a bigger role,” Zhemerdieiev told Kyiv Post.
+The company is also keeping its plans to develop its own fleet, sea terminal, and grain elevators. The crisis has made control over the logistics chain even more important, Zhemerdieiev says, although wartime risks mean future investments will face stricter tests for safety, cost, return, utilization, and ability to work under different export scenarios.
+NIBULON believes Ukraine should keep alternative routes through the Danube and the EU even after Black Sea shipping stabilizes. UCAB similarly calls for investment in dry ports, border terminals, grain elevators, and facilities for transferring cargo between Ukrainian and European rail gauges, along with guaranteed transit capacity and permanent war-risk insurance.
+But the Danube’s current problems show the limits of this strategy: even infrastructure built as a backup can lose capacity because of drought and low water. In July, Danube flows fell to roughly a third of their normal level, disrupting barge traffic and limiting one of Ukraine’s main alternatives to Greater Odesa.
+The government, meanwhile, is trying to address the immediate cash problem. On Aug. 6, it changed the Affordable Loans 5-7-9% program, removing a rule that limited the share of a loan that could be used for working capital to 20% and cutting the rate on such agricultural loans from 15% to 10% a year.
+Authorities are also making it easier to borrow against harvested grain. The
+NBU increased
+the value banks can recognize for grain pledged as collateral, with the relevant liquidity coefficient raised to 0.75, making stored crops more useful as security for loans. The goal is to give farmers money for the autumn and spring sowing campaigns without forcing them to sell grain immediately at low prices.
+For now, contracts are being delayed, grain is going into storage and companies are rebuilding their logistics – increasingly without assuming that Greater Odesa will quickly return to normal. Autumn will show how much grain alternative routes can actually move and whether farmers have enough cash to wait rather than sell at current prices.
+It will also show whether the current halt in ship traffic was a crisis lasting only a few weeks, or the start of a season in which Ukrainian agricultural companies will have to operate without guaranteed access to their main export route.
+To suggest a correction or clarification, write to us here
+You can also highlight the text and press
+Ctrl + Enter
+Contact Us
+Please leave your suggestions or corrections here
+Cancel
+Send
+Liubov Petrushko
+POPULAR
+‘Warsaw Will Disappear in 2 or 3 Days’: Kremlin Threatens Poland
+By
+                                                                                        Kyiv Post
+Sept. 15, 2026
+Russia’s Lavrov Threatens Europe With a ‘Very Short’ War
+By
+                                                                                        Kyiv Post
+21h ago
+Moscow Used US Envoys to Deliver Tougher Peace Demands
+By
+                                                                                        Stefan Korshak
+Sept. 8, 2026
+Polish FM: ‘We Would Defeat Russia Quite Quickly’ if Moscow Attacked NATO
+By
+                                                                                        Alisa Orlova
+Sept. 14, 2026
+More on Ukraine
+Ukraine
+ANALYSIS: Zelensky’s Former Comedy Studio Hit in Russian Strike – It’s the Symbolism Moscow Is After
+By
+                    Sevinj Osmanqizi
+12h ago
+Ukraine
+Ukrainian Parliament Passes Key First-Reading Reforms for Parcel Tax and Small Business Bankruptcy
+By
+                    Viktoriia Papuna
+15h ago
+Ukraine
+Russian Strike Destroys Zelensky’s Former TV Studio Warehouse
+By
+                    AFP
+15h ago
+Ukraine
+Zelensky Signs Law Targeting Scam Call Centers
+By
+                    Kyiv Post
+15h ago
+Read Next
+Ukraine
+OPINION: Associate Membership – Appreciated in Canada; a Non-Starter in Ukraine?
+By
+                    Euractiv
+6h ago
+Ukraine
+US House Passes Sweeping Russia Sanctions Bill, Sends It to Trump
+By
+                    Kyiv Post
+9h ago
+Ukraine
+Russian Strike Hits 19-Story Odesa Apartment Block, Injures 7 Including Child
+By
+                    Kyiv Post
+Updated: 5h ago
+Ukraine
+Russian Attack on Kyiv Injures 20, Including 2 Children, Hits Water Infrastructure
+By
+                    Kyiv Post
+Updated: 2h ago
+« Previous
+Ukraine Returns Remains of Nationalist Leader Assassinated by Moscow in 1938
+Next »
+Khmara Set for Defense Minister Vote Despite Questions Over His Military Status
+POPULAR
+‘Warsaw Will Disappear in 2 or 3 Days’: Kremlin Threatens Poland
+Nikolai Patrushev threatened to use Russia’s “entire arsenal” against Poland after Foreign Minister Radosław Sikorski said NATO could quickly defeat Moscow if attacked.
+By
+                                                                                                    Kyiv Post
+Sept. 15, 2026
+Russia’s Lavrov Threatens Europe With a ‘Very Short’ War
+By
+                                                                                        Kyiv Post
+21h ago
+Moscow Used US Envoys to Deliver Tougher Peace Demands
+By
+                                                                                        Stefan Korshak
+Sept. 8, 2026
+back to top
+Menu
+Ukraine
+World
+Business
+Economy
+Classifieds
+Spotlight
+PDF Archive
+Multimedia
+Video
+Podcasts
+Cartoons
+About
+About Us
+Contact Us
+Advertising
+Newsletter
+Policies
+Privacy Policy
+Cookie Policy
+Terms & Conditions
+Web links to Kyiv Post material are allowed provided that they contain a hyperlink to the
+                            stories and only a brief extract (not more than 10 percent) of the text.
+Online media registration number: R40-05383
+© 1995-2026 BISNESGROUPP LLC
+All materials, including photographs, contained on this site are protected by copyright law and
+                    may
+                    not be reproduced without the prior written permission of BIZNESGRUPP TOV at
+[email protected]
+.
+All Interfax-Ukraine news agency stories cannot be reproduced or distributed in any form without
+                    written permission of Interfax-Ukraine.

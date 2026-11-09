@@ -1,0 +1,68 @@
+URL:         https://eurasia.ro/2026/10/01/hunger-on-the-horizon-the-new-black-sea-grain-crisis/
+Кінцевий:    https://eurasia.ro/2026/10/01/hunger-on-the-horizon-the-new-black-sea-grain-crisis/
+Заголовок:   Hunger on the Horizon: The New Black Sea Grain Crisis - Eurasia
+Дата публ.:  2026-10-01
+Завантажено: 2026-10-07 09:40 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 71010
+Оригінал:    raw/122-eurasia.ro-hunger-on-the-horizon-the-new-black-sea-grain-crisis.html
+sha256:      2a4d899438da7c6a9045ba2e23b242d2082cb724d87064f2c52f2310f52d7fd5
+Витяг:       trafilatura
+
+==============================================================================
+Recent escalation in the Russia-Ukraine war has halted the Black Sea grain trade and metastasized into a war on the global food system. Combined with drought in the Northern Hemisphere, a looming super El Niño, and persistent instability in the Middle East—the world is on the verge of a crisis that could erase years of progress in reducing global hunger and push millions into acute food insecurity.
+
+The Russia-Ukraine war re-erupted along its southern maritime axis in July 2026, shattering a three-year détente in the Black Sea and shuttering ports on the eve of harvest season. Strikes have since kept the world’s most important grain chokepoint closed, disrupting the export of 17 percent of the world’s traded grain. Barring rapid de-escalation, the crisis will materially increase global food prices and, in turn, could drive millions into acute food insecurity.
+
+The weaponization of the Black Sea chokepoint could scarcely arrive at a worse time. A super El Niño is forecast to shrink the Southern Hemisphere’s coming harvest; drought cut the U.S. wheat crop to its smallest since 1970; and the spring closure of the Strait of Hormuz sent fertilizer prices soaring during Northern Hemisphere planting. Wheat prices have already spiked to a three-and-a-half-year high of nearly $8 per bushel, and they may rise further still.
+
+Combined, Russia and Ukraine grow roughly 14 percent of the world’s wheat. Both countries export the bulk of what they grow, which gives them outsize weight in global trade. Russia, the world’s largest wheat exporter, accounts for roughly 21 percent of global wheat exports and Ukraine for some 6 percent, according to the latest data from the U.S. Department of Agriculture.
+
+A harvest denied
+
+In March, as the Iran war closed the Strait of Hormuz, I traveled with officials from the UN World Food Program (WFP) to the Port of Chornomorsk, less than one hundred miles from the war’s southern front, to gauge the sturdiness of the stalemate that had kept the Black Sea’s shipping lanes open. One restriction was placed on the visit: no photos. Published without careful censoring, images could reveal the location of newly fortified power facilities and discreetly placed air-raid shelters.
+
+The ports of the Black Sea are run by portoviki, port men. Their trade was perilous well before the outbreak of war, considering the mooring lines scything across the quay, heavy cargo swinging to and fro, spontaneously combustible grain dust, and the ever-present dangers of the water. But these days, Russian precision-guided munitions are the portoviki’s primary occupational hazard.
+
+When the air alarm sounds, dockworkers scramble for a series of shelters constructed alongside the silos just off the water’s edge. Crane operators, perched over one hundred feet of stepladder from the ground, tend to remain in their cabs, crossing their fingers and checking Telegram for clues as to what could be headed their way. Most survive to work another shift, but not everyone is so lucky.
+
+Ukraine’s infrastructure ministry recorded 124 Russian attacks on the Greater Odesa ports and waterways in July alone, leaving at least twenty port workers and sailors dead and injuring hundreds of others. And the campaign, which is nearly an order of magnitude more intense than last year’s, continues unabated: on September 12, a barrage of cruise and ballistic missiles and 129 drones struck Odesa and the surrounding region.
+
+The recent attacks on Ukraine’s Black Sea ports lay bare a major qualitative and quantitative leap in Russia’s long-range strike capabilities. In addition to a shortage of ballistic missile interceptors, Ukraine’s strained air defense network is struggling to interdict new jet-powered cruise missiles dubbed “Banderols,” which are ground-launched from occupied Crimea or air-launched on Orion mothership drones and attack helicopters. The five-meter-long (about sixteen feet) Banderols are powered by repurposed Chinese jet engines and carry 150-kilogram (roughly 330 pounds) warheads. Ukrainian intelligence estimates their unit cost between $150,000 and $300,000, and dozens are being produced each month. According to Vladyslav Vlasiuk, Ukraine’s commissioner for sanctions policy, Banderols are being used in 80 percent of strikes on Greater Odesa’s ports.
+
+Ships are increasingly fair game for Russian strikes too—Moscow has attacked at least fifty-seven cargo vessels in the Black Sea since June—reducing maritime traffic to a trickle. An average of just one vessel per day docked at the Odesa-region ports in July, down from over five a day the month prior, and cargo handling has fallen more than 90 percent over the same period. The worst ship-strike incident occurred on July 19, when three cruise missiles hit the Golden Leo, a bulker outbound with 2,800 tons of corn, killing ten crew members. The ship capsized a week later, five nautical miles off Odesa’s crowded beaches.
+
+Preliminary estimates suggest that the aggregate economic effect of Russia’s latest strike campaign will be severe. Customs data from the first two weeks of August reveals that grain exports fell a stunning 76 percent year-over-year. And the Ukrainian economy is now losing an estimated $70 million a day in export revenue. Ukraine’s economy minister, Oleksandr Kravchenko, calculates that the de facto blockade, together with Russia’s strikes on infrastructure, will cost the country 1.5 percentage points of GDP this year and jeopardize $40 billion in export revenue.
+
+Mutually assured disruption
+
+To the east, Russia’s Black Sea ports have fared no better than their Ukrainian counterparts. Over the past ten weeks, reciprocal Ukrainian drone attacks struck more than one hundred vessels in the Sea of Azov, forcing Russia on July 10 to halt commercial transits in the Kerch Strait and Don-Azov canal. In 2025, those routes facilitated up to a quarter of Russian wheat exports.
+
+Russia’s Novorossiysk port, which loads an additional 40 percent of the country’s grain exports, fell next. On August 12, hundreds of Ukrainian drones, anti-ship missiles, and unmanned surface vessels crippled the port. By the next afternoon, the KSK grain terminal—the largest on Russia’s Black Sea coast—had also suspended operations, idling all three of Novorossiysk’s grain terminals and some twenty-six million tons of annual export capacity. Operations have since partially resumed, but a fresh drone strike damaged the Demetra-owned NZT terminal on September 10.
+
+In total, Ukrainian strikes have destroyed or idled more than 70 percent of all Russian grain export capacity. The country’s July grain exports fell by some 38 percent year-over-year, and August shipments fell to their lowest level for the month in sixteen years. Analysts now forecast that Russian wheat shipments from July through September will total just 5.6 million tons—merely half of last year’s 11.3-million-ton haul.
+
+The resulting economic shock will be less painful than Kyiv’s, but still meaningful. Using SovEcon’s latest 2026–27 export forecast as a baseline, and assuming that only about half of those volumes can be rerouted through the Baltic, Caspian, and overland corridors, lost cereal exports at current price levels would reduce Russia’s GDP by over 0.2 percent.
+
+These money problems pale in comparison to the potential global effect of the disruption. As Ukrainian President Volodymyr Zelenskyy recently acknowledged: “This will be like Hormuz, only agricultural.”
+
+A global food chokepoint
+
+The deep-water ports on both sides of the Black Sea are critical export infrastructure. Despite Ukraine’s best efforts since the start of the full-scale invasion, bypass options are costly, vulnerable to long-range strikes, and severely capacity constrained. Ukraine’s Agriculture Minister Taras Vysotskyi told Reuters that Ukraine’s alternative modes of export—rivercraft on the Danube, rail, and trucks—could handle only 50 to 55 percent of the seaports’ monthly capacity. And Moscow is now targeting many of those bypass routes, striking the Maiaky highway bridge on the road to the Danube ports on August 9 and loading facilities at the Danube port of Izmail on September 8. According to new data compiled by Kpler and Bloomberg, low water levels in the Danube have further complicated rerouting, with approximately eighty vessels now stranded in the waterway.
+
+On the other side of the Black Sea, Russia’s bypass options are likewise limited and vulnerable to Ukrainian strikes. Its overland bypass routes, in addition to terminals on the Baltic and Caspian seas, may top out at less than 50 percent of pre-escalation levels. Rerouting has begun in earnest, and according to a new briefing from the Center for Strategic and International Studies, “grain shipments through Russia’s Baltic Sea terminals, plus potential shipments through Estonia and Latvia, could approach 10 million metric tons—about a fifth of the more than 46 million metric tons of grain Russia exported through its Azov and Black Sea ports in the 2025–2026 season.” But Ukrainian drones have now reached Russia’s Baltic ports, striking the fertilizer hub of Ust-Luga in early September—a reminder that Moscow’s bypass routes could soon be choked off too.
+
+Grain markets have begun to price in a major crisis. Benchmark Chicago wheat futures topped $7.90 a bushel in early September, the highest level since February 2023 and up more than 50 percent on the year. They have since eased to about $7.09, but that is still up roughly 36 percent from a year ago. According to SovEcon’s Andrey Sizov, most market participants remain “too complacent,” with current cereal prices reflecting sanguine assumptions about bypass capacity and the likelihood of a ceasefire in the Black Sea.
+
+Such a ceasefire remains elusive, if not improbable. By Zelenskyy’s account, Moscow has refused to consider a Black Sea truce or new grain corridor unless Ukraine halts its strike campaign against Russian energy assets.
+
+The good news is that global grain stockpiles are larger today than in 2022—when a Russian blockade trapped more than twenty million tons of Ukrainian grain bound for export, causing a global price shock that swelled the ranks of the acutely hungry by more than sixty million people. But, as the UN Food and Agriculture Organization’s latest Cereal Supply and Demand Brief notes, much of the current supply buffer consists of wheat reserves in Russia and Ukraine “linked to restricted export routes.”
+
+Environmental and geopolitical factors are also far worse than in 2022. Between the coming super El Niño, drought across both hemispheres (which the USDA expects to cut the top seven wheat exporters’ combined output by 11 percent), and conflict in the Middle East straining fertilizer exports through the Strait of Hormuz—the current stockpile buffer may be nullified.
+
+Combined with the closure of the Black Sea chokepoint, the global food system now faces a dangerous perfect storm. At current export run rates, the closure is poised to cut Russian and Ukrainian grain exports by over twenty-eight million tons between July and March, equal to about 5.5 percent of all grain traded globally last season. According to models developed by the WFP, the resulting rise in staple crop prices could push more than fifteen million people into acute food insecurity, even before accounting for drought and other pressures on prices.
+
+By that measure, the number of people driven into acute hunger by the current Black Sea crisis could exceed all recorded battlefield casualties in the Russia-Ukraine war.
+
+Data Sources
+
+In the map, bubble size reflects each port’s estimated annual grain export capacity in millions of metric tons, using data from the U.S. Department of Agriculture; UN World Food Program; the Russian Grain Union; terminal operators; Reuters, S&P Global, SovEcon, other news and trade reporting; and CFR research. Figures sum published capacities for each port’s terminals. Where none exist, they use official system-wide estimates or CFR estimates based on peak historical export volumes. Port statuses are as of September 23, 2026, and are based on terminal operators, the Ukrainian government, the Russian Grain Union, and news and trade reporting. Ports with significantly reduced traffic are shown as suspended.

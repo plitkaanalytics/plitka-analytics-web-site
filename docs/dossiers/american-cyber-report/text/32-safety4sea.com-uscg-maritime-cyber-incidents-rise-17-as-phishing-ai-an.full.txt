@@ -1,0 +1,544 @@
+URL:         https://safety4sea.com/uscg-maritime-cyber-incidents-rise-17-as-phishing-ai-and-ot-risks-reshape-the-threat-landscape/
+Кінцевий:    https://safety4sea.com/uscg-maritime-cyber-incidents-rise-17-as-phishing-ai-and-ot-risks-reshape-the-threat-landscape/
+Заголовок:   USCG: Maritime cyber incidents rise 17% as phishing, AI and OT risks reshape the threat landscape
+Дата публ.:  2026-07-08
+Завантажено: 2026-10-02 08:20 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 327027
+Оригінал:    raw/32-safety4sea.com-uscg-maritime-cyber-incidents-rise-17-as-phishing-ai-an.html
+sha256:      080309707278542d324ef0e427c97305e6daa0311a5302fbc5a95b5a3f3dffd0
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 45
+==============================================================================
+USCG: Maritime cyber incidents rise 17% as phishing, AI and OT risks reshape the threat landscape - SAFETY4SEA
+Subscribe to our Mailing Lists (It's free!)
+UK MAIB Investigation: Sinking of fishing vessel with multiple casualties
+BMA warns of deadly consequences of food allergy errors at sea
+Attack on MV Cape Dao sparks calls for stronger protection of Indian crews
+Two inland vessels collide near Kinderdijk with significant damage caused
+Book Review: A memoir of one young woman’s cadetship
+Seafarer mental health: Companies focus on prevention and early intervention
+MHSS: Suicide prevention training should be mandatory
+World Suicide Prevention Day: Breaking the silence at sea
+Shifting regulations complicate shipping’s decarbonisation investment plans
+MMMCZCS: Key questions remain around the Net-Zero Framework ahead of MEPC 85
+Companies shake hands to develop marine electrification projects
+Australia launches low carbon liquid fuels hub amid growing demand
+CYTUR finds 94% of marine equipment assessments warrant cyber risk treatment
+LNG tanker diverts after suspected cyberattack disrupts onboard systems
+New smart ship platform targets fragmented onboard systems and data
+Cyberattacks on two US-bound tankers put cyber risk back in the spotlight
+Tokyo MOU weighs tougher action as PSC risks mount across Asia-Pacific
+Better SIRE 2.0 results start with finding more problems first
+WSC: Over 9,600 cargo units found with safety deficiencies during inspections
+IACS: New Paris MoU methodology could increase PSC exposure for ships
+Xeneta: Container freight rates set to climb in early October
+6th SAFETY4SEA London Forum: Armed conflict is reshaping risk for ships and seafarers
+From the Dali to the shadow fleet: P&I Clubs face a changing risk landscape
+China’s steel slowdown puts iron ore demand and dry bulk flows in focus
+From reaction to prevention: Rethinking Flag State oversight
+EMPA: The success of maritime pilotage depends on teamwork
+The 16th EU Ship Recycling List: A test of regulatory consistency
+USCG: Maritime cyber incidents rise 17% as phishing, AI and OT risks reshape the threat landscape
+Angelicoussis Group expands fleet connectivity on more than 140 vessels
+Salvage operations continue for LNG tanker struck by missile in Hormuz
+Iran signals seven-day timeline to reopen Hormuz amid negotiations with US
+USCG clarifies safety rules for retractable pilothouses on towing vessels
+IUMI puts crew wellbeing at the heart of hull risk assessment
+Marine insurance faces rising risk as IUMI calls for greater focus on prevention
+BIMCO: Container shipping market faces mounting supply pressure in 2027
+Your email address will not be published.
+We use technologies like cookies to store and/or access device information. We do this to improve browsing experience and to show (non-) personalized ads. Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site. Not consenting or withdrawing consent, may adversely affect certain features and functions.
+The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.
+The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.
+The technical storage or access that is used exclusively for statistical purposes.
+The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.
+The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.
+Read more about these purposes
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+USCG: Maritime cyber incidents rise 17% as phishing, AI and OT risks reshape the threat landscape - SAFETY4SEA
+Subscribe to our Mailing Lists (It's free!)
+HOT TOPICS:
+Black Sea
+|
+Strait of Hormuz
+Friday 25 September 2026
+Home
+Safety
+All
+Accidents
+Alerts
+Geopolitics
+Loss Prevention
+Maritime Health
+Regulation
+Safety
+Seafarers
+Security
+UK MAIB Investigation: Sinking of fishing vessel with multiple casualties
+BMA warns of deadly consequences of food allergy errors at sea
+Attack on MV Cape Dao sparks calls for stronger protection of Indian crews
+Two inland vessels collide near Kinderdijk with significant damage caused
+SEAFiT
+All
+Intellectual
+Mental
+Physical
+Social
+Spiritual
+Book Review: A memoir of one young woman’s cadetship
+Seafarer mental health: Companies focus on prevention and early intervention
+MHSS: Suicide prevention training should be mandatory
+World Suicide Prevention Day: Breaking the silence at sea
+Green
+All
+Arctic
+Ballast
+Emissions
+Fuels
+Green Shipping
+Pollution
+Ship Recycling
+Technology
+Shifting regulations complicate shipping’s decarbonisation investment plans
+MMMCZCS: Key questions remain around the Net-Zero Framework ahead of MEPC 85
+Companies shake hands to develop marine electrification projects
+Australia launches low carbon liquid fuels hub amid growing demand
+Smart
+All
+Connectivity
+Cyber Security
+E-navigation
+Energy Efficiency
+Maritime Software
+Smart
+CYTUR finds 94% of marine equipment assessments warrant cyber risk treatment
+LNG tanker diverts after suspected cyberattack disrupts onboard systems
+New smart ship platform targets fragmented onboard systems and data
+Cyberattacks on two US-bound tankers put cyber risk back in the spotlight
+Risk
+All
+CIC
+Detentions
+Fines
+PSC Focus
+Vetting
+Tokyo MOU weighs tougher action as PSC risks mount across Asia-Pacific
+Better SIRE 2.0 results start with finding more problems first
+WSC: Over 9,600 cargo units found with safety deficiencies during inspections
+IACS: New Paris MoU methodology could increase PSC exposure for ships
+Others
+All
+Diversity in shipping
+Maritime Knowledge
+Offshore
+Ports
+Shipping
+Sustainability
+Videos
+Xeneta: Container freight rates set to climb in early October
+6th SAFETY4SEA London Forum: Armed conflict is reshaping risk for ships and seafarers
+From the Dali to the shadow fleet: P&I Clubs face a changing risk landscape
+China’s steel slowdown puts iron ore demand and dry bulk flows in focus
+Columns
+From reaction to prevention: Rethinking Flag State oversight
+EMPA: The success of maritime pilotage depends on teamwork
+The 16th EU Ship Recycling List: A test of regulatory consistency
+Trending Tags
+Anchor Your Health
+Book Review
+Career Paths
+Compass to Wellbeing
+Human Performance
+Industry Voices
+Interviews
+Maripedia
+Maritime History
+Regulatory Update
+Resilience
+Seafarer Stories
+SeaSense
+Training & Development
+Wellness Corner
+Wellness Tips
+Events
+No Result
+View All Result
+Home
+Safety
+All
+Accidents
+Alerts
+Geopolitics
+Loss Prevention
+Maritime Health
+Regulation
+Safety
+Seafarers
+Security
+UK MAIB Investigation: Sinking of fishing vessel with multiple casualties
+BMA warns of deadly consequences of food allergy errors at sea
+Attack on MV Cape Dao sparks calls for stronger protection of Indian crews
+Two inland vessels collide near Kinderdijk with significant damage caused
+SEAFiT
+All
+Intellectual
+Mental
+Physical
+Social
+Spiritual
+Book Review: A memoir of one young woman’s cadetship
+Seafarer mental health: Companies focus on prevention and early intervention
+MHSS: Suicide prevention training should be mandatory
+World Suicide Prevention Day: Breaking the silence at sea
+Green
+All
+Arctic
+Ballast
+Emissions
+Fuels
+Green Shipping
+Pollution
+Ship Recycling
+Technology
+Shifting regulations complicate shipping’s decarbonisation investment plans
+MMMCZCS: Key questions remain around the Net-Zero Framework ahead of MEPC 85
+Companies shake hands to develop marine electrification projects
+Australia launches low carbon liquid fuels hub amid growing demand
+Smart
+All
+Connectivity
+Cyber Security
+E-navigation
+Energy Efficiency
+Maritime Software
+Smart
+CYTUR finds 94% of marine equipment assessments warrant cyber risk treatment
+LNG tanker diverts after suspected cyberattack disrupts onboard systems
+New smart ship platform targets fragmented onboard systems and data
+Cyberattacks on two US-bound tankers put cyber risk back in the spotlight
+Risk
+All
+CIC
+Detentions
+Fines
+PSC Focus
+Vetting
+Tokyo MOU weighs tougher action as PSC risks mount across Asia-Pacific
+Better SIRE 2.0 results start with finding more problems first
+WSC: Over 9,600 cargo units found with safety deficiencies during inspections
+IACS: New Paris MoU methodology could increase PSC exposure for ships
+Others
+All
+Diversity in shipping
+Maritime Knowledge
+Offshore
+Ports
+Shipping
+Sustainability
+Videos
+Xeneta: Container freight rates set to climb in early October
+6th SAFETY4SEA London Forum: Armed conflict is reshaping risk for ships and seafarers
+From the Dali to the shadow fleet: P&I Clubs face a changing risk landscape
+China’s steel slowdown puts iron ore demand and dry bulk flows in focus
+Columns
+From reaction to prevention: Rethinking Flag State oversight
+EMPA: The success of maritime pilotage depends on teamwork
+The 16th EU Ship Recycling List: A test of regulatory consistency
+Trending Tags
+Anchor Your Health
+Book Review
+Career Paths
+Compass to Wellbeing
+Human Performance
+Industry Voices
+Interviews
+Maripedia
+Maritime History
+Regulatory Update
+Resilience
+Seafarer Stories
+SeaSense
+Training & Development
+Wellness Corner
+Wellness Tips
+Events
+No Result
+View All Result
+USCG: Maritime cyber incidents rise 17% as phishing, AI and OT risks reshape the threat landscape
+by
+The Editorial Team
+July 8, 2026
+in
+Cyber Security
+Credit: Shutterstock
+Facebook
+Twitter
+Email
+Linkedin
+The U.S. Coast Guard Cyber Command’s (CGCYBER) fifth annual Cyber Trends and Insights in the Marine Environment report highlights a maritime cyber landscape where threats are becoming more sophisticated, yet many successful attacks continue to rely on familiar weaknesses.
+D
+rawing on 2025 operational data and industry engagements, the report finds that reported maritime cyber incidents rose by 17% year-on-year, with phishing remaining a primary entry point, while operational technology featured in 62% of cyber missions. A key outcome is that maritime cyber resilience now depends not only on adopting advanced tools such as AI-enabled cybersecurity platforms, but on ensuring they are properly configured, integrated and supported by strong fundamentals, including secure terminal operating systems, effective MFA, incident reporting and continuity planning
+Related
+News
+Shifting regulations complicate shipping’s decarbonisation investment plans
+Xeneta: Container freight rates set to climb in early October
+According to the report, in 2025, AI integration with cybersecurity defenses produced varied results, showing that effectiveness depends heavily on system configuration and tuning. Additionally, Operational technology (OT)-related missions grew significantly, with 62% of missions including
+OT systems compared to 46% in 2024.
+Key trends and takeaways
+#1 A Terminal Operating System is only as secure as its configuration
+These systems play a critical role in port operations. They often have external applications for customers but are also integrated with operational and information technology systems, providing real-time visibility and management across terminal procedures.
+Because of the broad attack-surface and port operations’ dependency on these systems, it is imperative for organizations to integrate them securely to protect their data and operations from disruption.
+#2 Artificial Intelligence Cybersecurity Platforms, like all cybersecurity tools, are only effective when implemented properly
+Investment must be matched with proper setup to realize value. CGCYBER teams have observed extremely effective AI tools when configured properly and trained to understand an organization’s network. However, they have also observed organizations whose AI tools lack proper configuration to be far less effective at detecting malicious activity.
+#3 Despite evolving IT landscapes, basic attack vectors persist as attackers adapt traditional techniques.
+There have been significant changes in typical IT environments and cybersecurity defenses since CGCYBER CPTs began operating five years ago. The report notes there has been a move from on-premises email servers to almost exclusively cloud-based email, widespread adoption of multifactor authentication, and endpoint-detection and response at almost every mission location.
+Yet, CGCYBER has not seen major shifts in the most common findings from its CPT missions. The specific details of how exploits happen have evolved, but the underlying techniques remain fundamentally unchanged.
+#4 Dark Fleet operator’s common practices create significant cyber risk to the safe navigation and operations of their vessels.
+By operating in the shadows of international oversight, these vessels do not adhere to any standards or best practices for physical and cyber security. As part of U.S. Maritime Interdiction Operations, CGCYBER personnel deployed alongside traditional law enforcement boarding teams to identify and mitigate these risks while U.S. forces were present.
+As informed, CGCYBER also enhanced its threat-hunt reporting processes, conducted forward-deployed operations, and established its first National Mission Team, 1915 NMT, as a fully operational unit within the Cyber National Mission Force.
+The Coast Guard also made major investments and policy advances to strengthen cyber readiness. A historic $24.5 billion investment was approved to modernize Coast Guard assets, infrastructure, and technology, while plans were announced to expand and transform CGCYBER to better address future cyber threats and improve joint-force interoperability.
+Additionally, new cybersecurity regulations for Maritime Transportation System (MTS) entities took effect in 2025, introducing mandatory cyber incident reporting and future requirements for cybersecurity assessments and plans, while CGCYBER’s Cyber Protection Team activities remained separate from regulatory enforcement.
+The collaborative work between our exceptional workforce and our partners in the public and private sectors is the true foundation of our ability to secure our ports and waterways against any threat
+… said Rear Admiral Jason Tama, Commander, U.S. Coast Guard Cyber Command.
+Tags:
+Artificial Intelligence
+cyber security
+reports
+Trends
+USCG
+Previous Post
+Angelicoussis Group expands fleet connectivity on more than 140 vessels
+Next Post
+Salvage operations continue for LNG tanker struck by missile in Hormuz
+SUGGESTED
+FOR YOU
+Geopolitics
+Iran signals seven-day timeline to reopen Hormuz amid negotiations with US
+September 25, 2026
+Shipping
+From the Dali to the shadow fleet: P&I Clubs face a changing risk landscape
+September 24, 2026
+Safety
+USCG clarifies safety rules for retractable pilothouses on towing vessels
+September 24, 2026
+Seafarers
+IUMI puts crew wellbeing at the heart of hull risk assessment
+September 24, 2026
+Shipping
+Marine insurance faces rising risk as IUMI calls for greater focus on prevention
+September 23, 2026
+Shipping
+BIMCO: Container shipping market faces mounting supply pressure in 2027
+September 23, 2026
+Load More
+Leave a Reply
+Cancel reply
+Your email address will not be published.
+Required fields are marked
+*
+Comment
+*
+Name
+*
+Email
+*
+Explore more
+No Result
+View All Result
+MARITIME EVENTS
+Explore
+Safety
+SEAFiT
+Green
+Smart
+Risk
+Others
+SAFETY4SEA RED
+SAFETY4SEA Magazines
+SAFETY4SEA Events
+Useful Links
+About
+Disclaimer
+Editorial Policies
+Advertising
+Content Marketing
+Contact
+© 2025 SAFETY4SEA
+No Result
+View All Result
+Subscribe to our Mailing Lists (It's free!)
+Safety
+Accidents
+Alerts
+Loss Prevention
+Maritime Health
+Regulation
+Safety
+Seafarers
+Security
+SEAFiT
+Intellectual
+Mental
+Physical
+Social
+Spiritual
+Green
+Arctic
+Ballast
+Emissions
+Fuels
+Green Shipping
+Pollution
+Ship Recycling
+Technology
+Smart
+Connectivity
+Cyber Security
+E-navigation
+Energy Efficiency
+Maritime Software
+Smart
+Risk
+CIC
+Detentions
+Fines
+PSC Focus
+Vetting
+Others
+Diversity in shipping
+Maritime Knowledge
+Offshore
+Ports
+Shipping
+Sustainability
+Videos
+Columns
+Anchor Your Health
+Book Review
+Career Paths
+Compass to Wellbeing
+Human Performance
+Industry Voices
+Interviews
+Maripedia
+Maritime History
+Opinions
+Regulatory Update
+Resilience
+Seafarer Stories
+SeaSense
+Tip of the day
+Training & Development
+Wellness Corner
+Wellness Tips
+SAFETY4SEA RED
+SAFETY4SEA Magazines
+SAFETY4SEA Events
+© 2025 SAFETY4SEA
+Manage your privacy
+We use technologies like cookies to store and/or access device information. We do this to improve browsing experience and to show (non-) personalized ads. Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site. Not consenting or withdrawing consent, may adversely affect certain features and functions.
+Functional
+Functional
+Always active
+The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.
+Preferences
+Preferences
+The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.
+Statistics
+Statistics
+The technical storage or access that is used exclusively for statistical purposes.
+The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.
+Marketing
+Marketing
+The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.
+Manage options
+Manage services
+Manage {vendor_count} vendors
+Read more about these purposes
+Accept
+Deny
+Manage options
+Save preferences
+Manage options
+{title}
+{title}
+{title}
+Manage consent
+No Result
+View All Result
+Subscribe to our Mailing Lists (It's free!)
+Safety
+Accidents
+Alerts
+Loss Prevention
+Maritime Health
+Regulation
+Safety
+Seafarers
+Security
+SEAFiT
+Intellectual
+Mental
+Physical
+Social
+Spiritual
+Green
+Arctic
+Ballast
+Emissions
+Fuels
+Green Shipping
+Pollution
+Ship Recycling
+Technology
+Smart
+Connectivity
+Cyber Security
+E-navigation
+Energy Efficiency
+Maritime Software
+Smart
+Risk
+CIC
+Detentions
+Fines
+PSC Focus
+Vetting
+Others
+Diversity in shipping
+Maritime Knowledge
+Offshore
+Ports
+Shipping
+Sustainability
+Videos
+Columns
+Anchor Your Health
+Book Review
+Career Paths
+Compass to Wellbeing
+Human Performance
+Industry Voices
+Interviews
+Maripedia
+Maritime History
+Opinions
+Regulatory Update
+Resilience
+Seafarer Stories
+SeaSense
+Tip of the day
+Training & Development
+Wellness Corner
+Wellness Tips
+SAFETY4SEA RED
+SAFETY4SEA Magazines
+SAFETY4SEA Events
+© 2025 SAFETY4SEA
+Manage Consent

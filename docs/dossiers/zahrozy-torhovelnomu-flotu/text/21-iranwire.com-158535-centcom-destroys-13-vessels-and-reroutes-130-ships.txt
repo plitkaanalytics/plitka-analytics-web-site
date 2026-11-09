@@ -1,0 +1,30 @@
+URL:         https://iranwire.com/en/news/158535-centcom-destroys-13-vessels-and-reroutes-130-ships-enforcing-maritime-blockade-on-iran/
+Кінцевий:    https://iranwire.com/en/news/158535-centcom-destroys-13-vessels-and-reroutes-130-ships-enforcing-maritime-blockade-on-iran/
+Заголовок:   CENTCOM Destroys 13 Vessels and Reroutes 130 Ships Enforcing Maritime Blockade on Iran
+Дата публ.:  2026-10-06
+Завантажено: 2026-10-07 08:07 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 161742
+Оригінал:    raw/21-iranwire.com-158535-centcom-destroys-13-vessels-and-reroutes-130-ships.html
+sha256:      87843ac9769eeea98acb8cfbb444f7ad6bf4cd8dd6a1b2f0c75462dab1abdcbc
+Витяг:       trafilatura
+
+==============================================================================
+United States Central Command (CENTCOM) announced on Monday, October 5, 2026, that U.S. forces have destroyed 13 commercial vessels over the past 12 weeks while enforcing a naval blockade against Iran. The command alleged that the targeted ships had either breached the blockade or operated as part of a “multi-billion-dollar covert network managed by the Islamic Revolutionary Guard Corps (IRGC).”
+
+According to CENTCOM’s statement, U.S. forces enforcing the blockade through October 5 forced 130 commercial ships to alter course and disabled three vessels that refused to comply with directives.
+
+Vice Admiral Brad Cooper, Commander of CENTCOM, stated that the U.S. military remains focused on executing this mission and will act swiftly against any vessel attempting to break the blockade, characterizing his forces as highly trained, professional, and lethal.
+
+The United States initiated a naval blockade of Iranian ports on April 13, 2026, aimed at prohibiting commercial shipping from entering or exiting Iranian harbors, with a particular focus on halting crude oil exports. CENTCOM noted that the initial phase relied on military force to intercept or reroute ships attempting to berth at Iranian facilities.
+
+Data from energy intelligence firm Kpler indicated that during the first phase of the blockade, no Iranian tankers successfully exited the restricted zone, causing Iranian crude exports to plunge by roughly 78% in May compared to April, a drop of approximately 329,000 barrels per day.
+
+Following a temporary pause, President Donald Trump ordered the blockade reinstated, with CENTCOM reporting that enforcement resumed on July 14, 2026. Since then, U.S. forces have continuously intercepted and rerouted traffic attempting to access or depart Iranian ports.
+
+Naval pressure intensified further on August 24 with the launch of an economic campaign designated “Operation Economic Outcast.” The U.S. Department of the Treasury stated that the operation aims to sever the Islamic Republic’s revenue streams, financial transfer channels, crude sales, and sanction-evasion networks while simultaneously expanding secondary sanctions against foreign firms and nations engaging in commerce with Tehran.
+
+These combined measures have severely restricted Iran’s oil exports and access to foreign currency. The Washington Post reported in September that the maritime blockade and expanded sanctions have deprived Tehran of billions in revenue, worsening domestic inflation, product shortages, and the devaluation of the Iranian rial. However, there are no immediate signs that this pressure has impelled the Islamic Republic to alter its policies or accede to Washington’s demands.
+
+On September 30, the U.S. Treasury Department announced a new phase targeting Iran’s automotive, railway, steel, and manufacturing sectors as state oil revenues continue to fall.
+
+## comments

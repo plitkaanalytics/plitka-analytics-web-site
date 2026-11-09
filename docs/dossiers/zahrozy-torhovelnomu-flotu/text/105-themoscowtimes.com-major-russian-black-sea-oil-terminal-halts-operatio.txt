@@ -1,0 +1,48 @@
+URL:         https://www.themoscowtimes.com/2026/07/25/major-russian-black-sea-oil-terminal-halts-operations-amid-ukrainian-drone-threat-a93337
+Кінцевий:    https://www.themoscowtimes.com/2026/07/25/major-russian-black-sea-oil-terminal-halts-operations-amid-ukrainian-drone-threat-a93337
+Заголовок:   Major Russian Black Sea Oil Terminal Halts Operations Amid Ukrainian Drone Threat - The Moscow Times
+Дата публ.:  2026-07-25
+Завантажено: 2026-10-07 09:37 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 52181
+Оригінал:    raw/105-themoscowtimes.com-major-russian-black-sea-oil-terminal-halts-operatio.html
+sha256:      ca836b18475510f788027d3e02f3947f334cd5df71cf4670ed4af71a652eb829
+Витяг:       trafilatura
+
+==============================================================================
+Russia's largest Black Sea oil export terminal has suspended tanker loadings following a surge in Ukrainian drone attacks, disrupting roughly one-fifth of the country's seaborne crude exports, Bloomberg [reported](https://www.bloomberg.com/news/articles/2026-07-24/russia-s-top-black-sea-oil-port-halts-loadings-amid-safety-fears) Friday.
+
+The Sheskharis terminal in the Black Sea port of Novorossiysk has not loaded any tankers since Tuesday morning, Bloomberg reported, citing shipping data, satellite imagery and vessel-tracking services.
+
+The suspension is unlikely to have been caused by bad weather, Bloomberg said, noting that storm warnings for the area were issued only two days after the terminal's last loading operation.
+
+The disruption marks the latest sign that Ukraine's expanding drone campaign is increasingly affecting Russia's energy export infrastructure, following recent attacks that also interrupted operations at the nearby Caspian Pipeline Consortium (CPC) export terminal and [forced](https://www.themoscowtimes.com/2026/07/23/kazakhstan-cuts-oil-production-following-drone-strikes-on-black-sea-tankers-a93325) Kazakhstan to reduce oil production.
+
+The Sheskharis terminal exported an average of about 650,000 barrels of oil per day during the first seven months of the year. With Russia's average seaborne oil exports [running](https://www.bloomberg.com/news/articles/2026-07-07/russia-s-record-oil-exports-can-t-outpace-tumbling-prices) at about 3.6 million barrels per day this year, the suspension has effectively halted around one-fifth of the country's oil exports.
+
+Earlier this week, increased drone activity prevented tankers from loading crude at the nearby CPC terminal, which [handles](https://ru.themoscowtimes.com/2026/07/21/kazahstan-prekratit-postavki-nefti-cherez-chyornoe-more-iz-za-ukrainskih-atak-a201367) about 80% of Kazakhstan's oil exports. The disruption forced the terminal to suspend operations, leading Kazakhstan to begin cutting oil production.
+
+On Thursday, Russian authorities warned all vessels operating within the country's exclusive economic zone in the Black Sea that the area was unsafe because of the potential threat posed by Ukrainian aerial and naval drones.
+
+The warning also raised concerns about Russian grain exports. Novorossiysk handles roughly one-third of Russia's grain exports, making it the country's most important grain export hub.
+
+[Read this article in Russian at The Moscow Times' Russian service.](https://ru.themoscowtimes.com/2026/07/24/krupneishii-rossiiskii-nefteport-na-chyornom-more-priostanovil-zagruzku-tankerov-iz-za-atak-bespilotnikov-a201820)
+
+**A Message from The Moscow Times:**
+
+Dear readers,
+
+We are facing unprecedented challenges. Russia's Prosecutor General's Office has designated The Moscow Times as an "undesirable" organization, criminalizing our work and putting our staff at risk of prosecution. This follows our earlier unjust labeling as a "foreign agent."
+
+These actions are direct attempts to silence independent journalism in Russia. The authorities claim our work "discredits the decisions of the Russian leadership." We see things differently: we strive to provide accurate, unbiased reporting on Russia.
+
+We, the journalists of The Moscow Times, refuse to be silenced. But to continue our work, [we need your help](https://www.themoscowtimes.com/contribute?utm_source=contribute&utm_medium=article).
+
+Your support, no matter how small, makes a world of difference. If you can, please support us monthly starting from just $2. It's quick to set up, and every contribution makes a significant impact.
+
+By supporting The Moscow Times, you're defending open, independent journalism in the face of repression. Thank you for standing with us.
+
+Remind me later.
+
+**Remind me next month**
+
+		[Privacy Policy](https://www.themoscowtimes.com/page/privacy-policy).

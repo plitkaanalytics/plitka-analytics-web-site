@@ -1,0 +1,148 @@
+URL:         https://www.agbull.com/ukraine-grain-trade-told-to-plan-for-odesa-ports-to-stay-shut-into-winter/
+Кінцевий:    https://www.agbull.com/ukraine-grain-trade-told-to-plan-for-odesa-ports-to-stay-shut-into-winter/
+Заголовок:   Ukraine Grain Trade Told to Plan for Odesa Ports to Stay Shut Into Winter - Ag Bull Trading
+Дата публ.:  2026-09-02
+Завантажено: 2026-10-07 09:37 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 158848
+Оригінал:    raw/99-agbull.com-ukraine-grain-trade-told-to-plan-for-odesa-ports-to-stay-sh.html
+sha256:      3a0a696e1a29f81c33fd797377cffbb66757156da4bef6c89a92b9adc0a749a6
+Витяг:       trafilatura
+
+==============================================================================
+**POLICY****  ****•****  ****NEWS****  ****•****  ****MARKETS**
+
+**AG POLICY & MARKETS DAILY**
+
+WEDNESDAY, SEPTEMBER 2, 2026 | SPECIAL REPORT & ANALYSIS
+
+**MARKET PERSPECTIVE****  ****|****  ****BLACK SEA LOGISTICS**
+
+**Ukraine Grain Trade Told to Plan for Odesa Ports to Stay Shut Into Winter**
+
+*December-January assumption turns a logistics crisis into a 2027 crop threat*
+
+**Analysis****  ****·****  ****September 2, 2026**
+
+**Ukraine’s grain export crisis is moving into a more consequential phase: the trade is beginning to plan around Greater Odesa’s deep-water ports remaining unavailable through the end of 2026 and potentially into January, rather than treating the shutdown as a short-lived disruption.**
+
+**The Ukrainian Agrarian Council (UAC), the country’s largest farmers’ organization, advised exporters and producers Tuesday to construct trading strategies** on the assumption that deep-water port operations will not resume before December or January. Its advice was essentially to prepare for the worst rather than count on an early reopening.
+
+**That represents an important change in market psychology.** Until now, much of the trade has been attempting to estimate when Greater Odesa might reopen and how quickly volumes could recover. The UAC is effectively telling companies to reverse that thinking: assume the ports remain closed and treat any reopening before winter as an upside surprise.
+
+**That matters because some of the export scenarios built only weeks ago already look increasingly optimistic. **An Aug. 17 analysis from ASAP Agri assumed in one scenario that Greater Odesa could operate at 30% of prewar capacity in September and 50% from October, allowing total Ukrainian grain exports of about 38.2 million metric tons in 2026-27. Its most optimistic scenario assumed Odesa would reach 50% capacity in September, 80% in October and full operation in November, producing exports of roughly 45.8 million tons.
+
+**The UAC warning essentially says do not build business plans around either recovery path for now.**
+
+| Assumption set | September | October | November | 2026-27 exports | 
+| ASAP Agri, moderate case (Aug. 17) | Odesa at 30% of prewar capacity | 50% | 50% | About 38.2 MMT | 
+| ASAP Agri, optimistic case (Aug. 17) | Odesa at 50% of prewar capacity | 80% | Full operation | About 45.8 MMT | 
+| UAC planning guidance (Sept. 1) | Assume closed | Assume closed | Assume closed into Dec.-Jan. | Not published; plan below both paths | 
+
+*Table 1. What the trade assumed in mid-August versus what it is now told to assume. Sources: ASAP Agri analysis of Aug. 17; Ukrainian Agrarian Council guidance issued Sept. 1.*
+
+*Figure 3. The two August export scenarios and the guidance that supersedes them. Sources: ASAP Agri, Aug. 17; Ukrainian Agrarian Council, Sept. 1.*
+
+## Alternative Routes Cannot Replace Odesa
+
+**Ukraine can move more grain through the Danube, railways and road crossings,** but those routes are neither large enough nor cheap enough to replace the deep-water ports.
+
+*Figure 1. Ukraine’s export outlets with Greater Odesa assumed shut. Sources: Ukraine Agriculture Ministry; Ukrzaliznytsia; Reuters. Map is schematic and not to scale.*
+
+**Agriculture Minister Taras Vysotskyi has estimated that Ukraine has more than 60 million tons of agricultural products available for export,** requiring roughly 5 million tons of monthly capacity. Alternative routes can average only about 2.5 million tons per month, perhaps reaching 3 million in unusually favorable periods. Shipping through those alternatives also costs $50 per ton or more above the deep-water route.
+
+| Capacity item | Volume | Source | 
+| Agricultural products available for export | More than 60 million tons | Agriculture Minister Taras Vysotskyi | 
+| Monthly export capacity required | About 5.0 million tons | Vysotskyi | 
+| Alternative routes, typical month | About 2.5 million tons | Vysotskyi | 
+| Alternative routes, unusually favorable month | About 3.0 million tons | Vysotskyi | 
+| Implied monthly shortfall | About 2.0 to 2.5 million tons | Calculated | 
+| Rail deliveries to Reni and Izmail | About 500,000 tons per month | Ukrzaliznytsia | 
+
+*Table 2. The Danube, rail and road network covers roughly half of what Ukraine needs to move each month. Sources: Ukraine Agriculture Ministry; Ukrzaliznytsia; Ag Policy & Markets Daily calculation of the shortfall.*
+
+*Figure 2. Required monthly export capacity versus what the alternative routes can carry, in million metric tons. Source: Agriculture Minister Taras Vysotskyi.*
+
+**Across 60 million tons, Vysotskyi estimated that the additional logistics burden could approach $3 billion** — an amount he said neither Ukrainian producers nor the government can realistically absorb.
+
+**That is why the eventual economic burden falls heavily on farmers.** Grain exporters cannot indefinitely absorb an extra $40-$50 per ton of freight and handling costs. Much of that difference is ultimately reflected in lower bids at Ukrainian elevators and farms.
+
+| Cost element | Amount | Who absorbs it | 
+| Premium over the deep-water route | $50 per ton or more | Exporters initially | 
+| Freight and handling exporters cannot absorb | $40 to $50 per ton | Passed back to sellers | 
+| Added logistics burden across 60 million tons | Approaching $3 billion | Neither producers nor the government can carry it, Vysotskyi said | 
+| Where the difference shows up | Lower bids at elevators and farms | Ukrainian farmers | 
+| Consequence the ministry expects | Lower 2027 plantings, particularly winter wheat | The 2027 crop | 
+
+*Table 3. The detour premium starts with exporters and ends at the farmgate. Sources: Ukraine Agriculture Ministry; Ukrainian Agrarian Council.*
+
+*That distinction is important for the global market. Ukraine can simultaneously have very cheap grain internally and expensive grain delivered internationally. The bottleneck creates neither a conventional shortage nor a conventional surplus: Ukraine accumulates grain inland while importing countries must compete harder for supplies that can actually reach them.*
+
+## Danube Congestion Shows the Limits
+
+**The difficulty of scaling up the Danube route is already apparent.** *Reuters* reported Aug. 31 that roughly 80 vessels were waiting to enter the Danube for Ukrainian ports, up sharply in only five days. Traffic through the Sulina Canal was improving from roughly five vessels per day to at least seven, and potentially closer to 10, but shipping officials said clearing the backlog could still take several weeks.
+
+*Figure 4. Sulina Canal transit rates and the arithmetic of clearing an 80-vessel queue. Source: Reuters, Aug. 31; days-to-clear calculated by Ag Policy & Markets Daily.*
+
+**There are several bottlenecks.** Romania has limited numbers of pilots. Fuel and other priority cargoes compete for access. Ships leaving the Danube must also be inspected. And Russian attacks repeatedly halt work.
+
+**The Odesa region recorded more than 300 air-raid alerts during August totaling 238 hours.** Ukrainian railway officials have said that on some days not a single grain railcar can be unloaded because operations are suspended during alerts. Ukrzaliznytsia estimates it can deliver around 500,000 tons of grain monthly to Reni and Izmail.
+
+**So increased railway deliveries help, but they do not solve the basic mathematics of replacing Greater Odesa.**
+
+## Russia Is Still Pressing the Export System
+
+**Nor is there evidence that Russia is backing away from its campaign against Ukraine’s transportation network.** Russian strikes overnight Sept. 1 damaged export infrastructure in the Odesa region, as well as the Orlivka crossing on the Romanian border. Ukrainian officials said attacks also damaged energy infrastructure.
+
+**Then early Wednesday, Sept. 2, ***Reuters*** reported another Russian attack on Odesa,** damaging infrastructure and residential buildings and injuring eight people. The precise impact on port capacity was not immediately specified.
+
+**The sequence matters.** A reopening requires more than repairing individual terminals. Shipowners, insurers, grain companies and crews must have sufficient confidence that a resumed shipping corridor can operate reliably. Repeated strikes can therefore prolong disruption even when individual pieces of infrastructure remain physically usable.
+
+**That makes security and insurance risk almost as important as terminal damage itself.**
+
+## The Bigger Risk Is Moving From 2026 Exports to the 2027 Crop
+
+**Perhaps the most important element in the latest warning is what happens next.**
+
+**Ukraine’s Agriculture Ministry says reduced exports and falling farm income will probably result in lower plantings for the 2027 harvest, particularly winter wheat.** That creates a potentially self-reinforcing cycle. Farmers harvest a sizable 2026 crop but cannot move enough of it. Domestic grain prices weaken because storage and export capacity are constrained. Freight absorbs more of the export value. Farm cash flow deteriorates just as producers must purchase seed, fertilizer, fuel and other inputs for autumn planting.
+
+*Figure 5. How a closure running into December or January reaches the 2027 crop. Sources: Ukraine Agriculture Ministry; Ukrainian Agrarian Council; Reuters.*
+
+**The result may be acreage cuts, reduced input use or both.**
+
+**Analysts say that is why a closure extending into December or January is considerably more bullish for the longer-term wheat outlook than a four- or six-week port shutdown.** It moves directly through Ukraine’s autumn planting and financing window. Ukraine had harvested about 24.7 million tons of grain from 98% of the relevant area as of Sept. 1, according to Agriculture Ministry data cited by Reuters. Grain exports in August, meanwhile, fell by about one-third to only 774,000 tons.
+
+| Indicator | Latest reading | Detail | 
+| Grain harvested as of Sept. 1 | About 24.7 million tons | From 98% of the relevant area | 
+| August grain exports | 774,000 tons | Down about one-third | 
+| Vessels waiting to enter the Danube | About 80 | Aug. 31; up sharply in five days | 
+| Sulina Canal transit rate | From about 5 to at least 7 per day | Potentially closer to 10 | 
+| Odesa region air-raid alerts in August | More than 300 | Totaling 238 hours | 
+| Russian grain moving via the Black Sea | About 90% | Last season; Baltic capacity cannot replace it | 
+
+*Table 4. The Ukrainian grain scoreboard entering September. Sources: Ukraine Agriculture Ministry data cited by Reuters; Reuters reporting of Aug. 31 and Sept. 1-2; regional authorities.*
+
+**The problem therefore is increasingly not whether Ukraine can produce grain. It is whether farmers can monetize the grain they produce quickly enough to finance the next crop.**
+
+## Market Analysis: The Duration Premium Is Becoming More Important
+
+**For wheat markets, analysts say this shifts the emphasis from the size of individual attacks to the expected duration of disrupted Black Sea trade. **A single damaged elevator can be repaired. A vessel queue can eventually clear. But if commercial participants now assume Ukraine’s dominant export channel remains largely unavailable through year-end, buyers must begin arranging alternative supply months in advance.
+
+**That favors exporters such as the EU, U.S., Australia and other origins** capable of supplying milling wheat, particularly as importers extend forward coverage.
+
+**It also means the wheat market may increasingly price a transportation and availability premium, rather than simply a production-risk premium.**
+
+**There is another important dimension:** Russia’s Black Sea grain trade is also under pressure from Ukrainian attacks. *Reuters* reported Aug. 31 that Russian exporters were increasingly examining Baltic alternatives because Black Sea and Sea of Azov disruptions had impaired traditional routes. About 90% of Russia’s grain exports moved through the Black Sea last season, while the Baltic system has nowhere near enough capacity to fully replace southern outlets.
+
+**That produces an unusually important setup.** The world’s two critical Black Sea grain exporters are simultaneously facing export-logistics constraints. Neither country’s grain disappears. But the effective supply available to world importers can tighten because grain located inland in Ukraine or Russia is not equivalent to grain sitting aboard a vessel ready for delivery.
+
+## Bottom Line
+
+**The UAC’s December-January guidance is significant because it changes the clock. **The market had largely been asking how many weeks Ukraine’s deep-water export disruption might last. The Ukrainian trade is now being told to prepare for several more months.
+
+**If that assumption proves correct, analysts say three effects become increasingly likely:** Ukrainian domestic grain prices remain heavily discounted; world buyers increasingly shift purchases toward alternative origins; and Ukraine’s financial squeeze begins reducing 2027 winter-wheat acreage and potentially production.
+
+**That would transform the Black Sea disruption from a 2026 logistics shock into a 2027 supply story.**
+
+**And with attacks continuing on Odesa while Russia’s own Black Sea export system remains under pressure, the geopolitical premium embedded in wheat may prove considerably more durable than the market initially expected.**
+
+AG POLICY & MARKETS DAILY | MARKET PERSPECTIVE | BLACK SEA LOGISTICS — WEDNESDAY, SEPTEMBER 02, 2026

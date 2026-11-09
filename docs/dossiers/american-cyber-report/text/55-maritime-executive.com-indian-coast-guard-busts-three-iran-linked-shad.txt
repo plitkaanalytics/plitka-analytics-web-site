@@ -1,0 +1,35 @@
+URL:         https://maritime-executive.com/article/indian-coast-guard-busts-three-iran-linked-shadow-fleet-tankers
+Кінцевий:    https://maritime-executive.com/article/indian-coast-guard-busts-three-iran-linked-shadow-fleet-tankers
+Заголовок:   Indian Coast Guard Busts Three Iran-Linked Shadow Fleet Tankers
+Дата публ.:  2026-02-08
+Завантажено: 2026-10-05 10:08 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 140363
+Оригінал:    raw/55-maritime-executive.com-indian-coast-guard-busts-three-iran-linked-shad.html
+sha256:      170bf18cbf37b9b70e099f8648154cdb9bd8617cf6077cd1c42fe7c79b36fa5e
+Витяг:       trafilatura
+
+==============================================================================
+# Indian Coast Guard Busts Three Iran-Linked Shadow Fleet Tankers
+
+
+On Friday, the Indian Coast Guard busted three sanctioned tankers allegedly engaged in a "smuggling racket" in the Arabian Sea.
+
+The agency identified and followed the three ships using surveillance and data analysis. Based on this information, it launched a coordinated raid and interdicted the three ships at a position about 100 nautical miles to the west of Mumbai - outside of Indian territorial seas and the ICG's coastal-state jurisdiction.
+
+ICG personnel boarded the three ships on the high seas and conducted "sustained rummaging" to look for evidence. Further examination of electronic data and interrogation of the crew produced clues on the ship's "modus operandi and a global handler network," the ICG said.
+
+The vessels in question are all under U.S. sanctions, according to TankerTrackers.com. The consultancy identified them as* Al Jafzia* (IMO 9171498; ex name *Chiltern*, broadcasting a Nicaraguan flag, formerly false-flagged in Guyana), *Asphalt Star* (IMO 9463528; falsely broadcasting a Malian flag, formerly false-flagged in Aruba) and *Stellar Ruby* (IMO 9555199; flagged in Iran).  
+
+AIS data provided by Pole Star Global shows the vessels performed an intricate pattern of voyages and meet-ups that connected known transfer regions for Iranian petroleum - the anchorage areas off Basrah and Khor Fakkan - with ports on India's west coast. Widespread AIS spoofing in the Iranian oil trade allows vessels to engage in Iran-linked activity while appearing to be on ordinary commercial voyages to other nearby nations.
+
+All three ships are on the Treasury OFAC Iran sanctions list under EO 13902, and are believed to be linked to the network of sanctioned Indian national Jugwinder Singh Brar. According to the Treasury, Brar is a captain and shipowner who has a fleet of about 30 vessels, many operating in the Iran-linked shadow fleet. These ships engage in STS transfers to move Iranian petroleum from the Mideast to foreign buyers, concealing and falsifying its origins.
+
+“The Iranian regime relies on its network of unscrupulous shippers and brokers like Brar and his companies to enable its oil sales and finance its destabilizing activities,” said Secretary of the Treasury Scott Bessent. “The United States remains focused on disrupting all elements of Iran’s oil exports, particularly those who seek to profit from this trade.”
+
+that matters most
+
+Get the latest maritime news delivered to your inbox daily.
+
+As of Sunday, AIS data showed all three seized vessels in convoy and moving together towards a port on India's west coast.
+
+*Top image courtesy  VesselFinder*

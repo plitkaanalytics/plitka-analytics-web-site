@@ -1,0 +1,86 @@
+URL:         https://streamlinefeed.co.ke/news/shadow-fleet-seizures-open-new-front-between-russia-and-europe
+Кінцевий:    https://streamlinefeed.co.ke/news/shadow-fleet-seizures-open-new-front-between-russia-and-europe
+Заголовок:   Shadow Fleet Seizures Open New Front Between Russia and Europe
+Дата публ.:  2026-09-04
+Завантажено: 2026-10-05 10:08 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 164121
+Оригінал:    raw/53-streamlinefeed.co.ke-shadow-fleet-seizures-open-new-front-between-russ.html
+sha256:      1ff2c1a6eb68614f7b1b3d5150f86b4876126c2817098f4bc336ea25de537b4a
+Витяг:       trafilatura
+
+==============================================================================
+# Shadow Fleet Seizures Open New Front Between Russia and Europe
+
+From the Baltic to the Channel, Europe has boarded six shadow fleet tankers, yet most sail again, exposing the limits of the maritime sanctions war.
+
+[Streamline Feed Official](/user/c54a66eb-818a-481f-9aff-d789a9d141a1)Verified
+
+Royal Marines fast-roped onto the tanker Smyrtos in the English Channel on 14 June, taking control of 100,000 tonnes of crude in the United Kingdom's first boarding of a shadow fleet vessel.
+
+The operation was the sixth headline interception in European waters this cycle, and it defines a new phase of the Russia-Europe confrontation: a war of ships, flags and prosecutors, fought with helicopters and law of the sea clauses rather than missiles. The prize is the same in every case, the roughly ten billion euros a month Russia still earns from oil exports.
+
+## A season of boardings
+
+The pattern began in earnest when Finnish border guards boarded the Eagle S in December 2024 after a power cable and four communication lines to Estonia were cut. Finland's commandos then seized the Fitburg in January 2026 following suspected sabotage of a Baltic data cable, uncovering a hidden cargo of sanctioned Russian oil. Belgian forces, supported by the French Navy, took the MT Ethera on 28 February 2026. Sweden detained the Jin Hui south of Trelleborg on 3 May 2026. French commandos boarded the Tagor more than 400 nautical miles west of Brittany on 31 May 2026. Then came the Smyrtos.
+
+## The legal loophole
+
+Almost every boarding leans on Article 110 of the UN Convention on the Law of the Sea, which permits a warship to board a vessel reasonably suspected of sailing without a valid flag. Cameroon had struck the Smyrtos from its registry days earlier, leaving her stateless; the Tagor was suspected of falsely flying Cameroonian colours. The loophole is powerful and narrow: it authorises the boarding, not necessarily the prosecution.
+
+## Seize, fine, release
+
+The enforcement gap is the story's core. The Grinch was held for three weeks, paid a penalty of several million euros, and sailed. A court in Brest convicted the Boracay's captain in absentia to a year in prison and a 150,000 euro fine, about KES 22.5 million; the ship now carries Russian crude under a new name, Phoenix. The Helsinki District Court ruled against Finland in the Eagle S case because the damage occurred in the economic zone, beyond territorial waters, leaving jurisdiction with flag and crew states. Brussels has listed 632 shadow fleet vessels, yet analysts at the Center for European Policy Analysis note that most seized tankers sail again within weeks.
+
+- Russian shadow fleet: about 1,000 tankers, roughly 17 percent of the world tanker fleet
+- EU sanctions list: 632 vessels barred from ports and services
+- 2026 boardings: Fitburg (Finland), Ethera (Belgium and France), Jin Hui (Sweden), Tagor (France), Smyrtos (UK)
+- Russian oil revenue: more than 10 billion euros a month
+
+## Why Africa should watch
+
+Shadow fleet economics reach Mombasa and Lagos through freight and insurance. Every diverted tanker tightens compliant tonnage, and war-risk premiums in the Baltic and the Red Sea, where Houthi attacks continue, compound into pump prices set by Kenya's EPRA and Nigeria's fuel market. The Dangote refinery's crude sourcing and the Mombasa port's product imports both price in this risk.
+
+The next boarding is certain. The next conviction is not.
+
+## How did this story land?
+
+No sign-in required. Choose up to two. This captures your response to the story—it is not a vote on whether the reporting is true.
+
+## Sources & evidence
+
+The documents, data and reporting consulted for this article. Links open the original material so readers can inspect the evidence directly.
+
+- 01@AsharqNews on XNews report[Ship war: shadow fleet opens new fronts between Russia and Europe](https://x.com/AsharqNews/status/2095801383979036733)Published 4 Sept 2026Accessed 4 Sept 2026Evidence used - • Framing of the shadow fleet confrontation as a ship war between Russia and Europe
+ 
+- 02CEPAExpert commentary[Why Do Seized Russian Tankers Sail Away?](https://cepa.org/article/why-do-seized-russian-tankers-sail-away/)Published 17 Jun 2026Accessed 4 Sept 2026Evidence used - • Smyrtos boarding 14 June 2026 and Tagor boarding 31 May 2026
+- • Article 110 flag-check legal basis
+- • Boracay conviction and Phoenix rename; Eagle S jurisdiction ruling
+- • 632 vessels listed; Russia earns over 10 billion euros monthly
+ 
+- 03WikipediaResearch[Russian shadow fleet](https://en.wikipedia.org/wiki/Russian_shadow_fleet)Published 1 Aug 2026Accessed 4 Sept 2026Evidence used - • Fitburg seized by Finnish Coast Guard in January 2026
+- • Fleet scale of about 1,000 tankers
+ 
+- 04Al JazeeraNews report[UK boards and seizes Russian shadow fleet tanker in English Channel](https://www.aljazeera.com/news/2026/6/14/uk-boards-and-seizes-russian-shadow-fleet-tanker-in-english-channel)Published 14 Jun 2026Accessed 4 Sept 2026Evidence used - • UK seizure of a shadow fleet tanker confirmed by PM Keir Starmer on 14 June 2026
+ 
+- 05WindwardExpert commentary[Sweden Seizes Shadow Fleet Tanker Jin Hui](https://windward.ai/knowledge-base/sweden-seizes-shadow-fleet-tanker-jin-hui-the-false-flag-problem-is-bigger-than-one-ship/)Published 27 Aug 2026Accessed 4 Sept 2026Evidence used - • Swedish Coast Guard detained Jin Hui south of Trelleborg on 3 May 2026
+ 
+
+### Hot discussions around this story
+
+Keep the conversation in one place—threads here stay linked to the story and in the forums.
+
+Sign in to start a discussion
+
+Start a conversation about this story and keep it linked here.
+
+[Sign in](/auth/signin?redirect=https%3A%2F%2Fstreamlinefeed.co.ke%2Fnews%2Fshadow-fleet-seizures-open-new-front-between-russia-and-europe)
+
+Other hot threads
+
+[View forums](/forums)
+
+No trending threads yet—start one above.
+
+## Continue reading
+
+No weak match is forced. These are the latest verified stories from World News.

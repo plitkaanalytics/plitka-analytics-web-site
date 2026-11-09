@@ -1,0 +1,307 @@
+URL:         https://news.usni.org/2026/10/09/october-sees-near-daily-strikes-on-ships-in-hormuz
+Кінцевий:    https://web.archive.org/web/20261010023507id_/https://news.usni.org/2026/10/09/october-sees-near-daily-strikes-on-ships-in-hormuz
+Заголовок:   October Sees Near Daily Strikes on Ships in Hormuz - USNI News
+Дата публ.:  2026-10-09
+Завантажено: 2026-10-11 15:45 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 371733
+Оригінал:    raw/233-news.usni.org-october-sees-near-daily-strikes-on-ships-in-hormuz.html
+sha256:      34a9e630aa6c20655304adf04ba50ef6b589529ac91fff0ffd23c3629513274a
+Витяг:       trafilatura
+Примітка:    оригінал недоступний (403), узято з Wayback
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 19
+==============================================================================
+October Sees Near Daily Strikes on Ships in Hormuz - USNI News
+October Sees Near Daily Strikes on Ships in Hormuz
+Strait of Hormuz traffic on Oct. 9, 2026. Marine Traffic map
+U.S. Central Command said Oct. 5, 2026, that U.S. forces has disabled 3 vessels in a video shared to social media platform X. US Central Command image
+Arleigh Burke-class guided-missile destroyer USS Rafael Peralta (DDG-115) enforces a maritime blockade against an Iranian-flagged ship attempting to sail toward an Iranian port, April 24, 2026. US Navy photo
+Marine traffic in the Black Sea on Oct. 9, 2026. Marine Traffic map
+Heather Mongilio is a reporter with USNI News. She has a master’s degree in science journalism and has covered local courts, crime, health, military affairs and the Naval Academy.
+Get USNI News updates delivered to your inbox
+Leave this field empty if you're human:
+Report to Congress on U.S. Aircraft Combat Losses in Operation Epic Fury
+The following is the Oct. 5, 2026, Congressional Research Service report, U.S. Aircraft Combat Losses in Operation Epic Fury: Considerations…
+EU Needs More Ships for Red Sea; European Navies Adjust Hormuz Deployments
+The European Union is asking its members to increase the number of ships deployed with European Naval Force Aspides, which…
+Report to Congress on Bahrain, Issues for U.S. Policy
+The following is the Sept. 23, 2026, Congressional Research Service report, Bahrain: Issues for U.S. Policy.…
+Hormuz Transits Hit Three-week High, VLCC Rates Explode
+Non-Iranian linked transits through the Strait of Hormuz climbed to 97 last week, according to preliminary data from London-based Lloyd’s…
+USNI News is the independent, non-profit news service of the Naval Institute. Our mission is to provide unbiased coverage of the U.S. Navy, Marine Corps, Coast Guard and international maritime affairs.
+Copyright 2026 U.S. Naval Institute. All Rights Reserved.
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+October Sees Near Daily Strikes on Ships in Hormuz - USNI News
+October Sees Near Daily Strikes on Ships in Hormuz - USNI News
+About Us
+Membership
+Books & Press
+Proceedings
+Naval History
+Archives
+Events
+Advertise
+Subscribe
+Donate
+Join
+Browse By Topic
+Aviation
+Industry
+Documents
+Congress
+Fleet Tracker
+Foreign Forces
+China
+Iran
+Russia
+Long Form
+Merchant Marine
+Personnel
+News & Analysis
+Piracy
+Space
+Special Operations Forces
+Submarine Forces
+Surface Forces
+Survey
+The Basics
+Timelines
+U.S. Air Force
+U.S. Army
+U.S. Coast Guard
+U.S. Marine Corps
+U.S. Navy
+U.S. Space Force
+Veterans Affairs
+warship
+Latest
+Fleet and Marine Tracker
+About
+About
+Staff
+Advertise with USNI News
+Content License
+Search
+Suggestions
+Latest
+News & Analysis
+U.S. Navy
+Trending Topics
+China
+U.S. Navy
+U.S. Marine Corps
+Congress
+Industry
+Personnel
+Documents
+October Sees Near Daily Strikes on Ships in Hormuz
+Heather Mongilio
+October 9, 2026 4:09 PM
+Strait of Hormuz traffic on Oct. 9, 2026. Marine Traffic map
+A ship has been struck in the Strait of Hormuz nearly every day this month, according to the International Maritime Organization.
+Between Oct. 1 and Tuesday, nine ships – mostly crude oil tankers – were struck in the Strait of Hormuz or off the coast of Oman, according to the IMO. Two additional ships were hit since, with one struck on Wednesday and another struck on Friday, according to the United Kingdom Maritime Trade Operations.
+Wednesday’s attack was on an unnamed tanker off the coast of Madinat ash Shamal, Qatar, in the Persian Gulf. Friday’s attack was on an unnamed vessel off the coast of Al Jazeera, United Arab Emirates, according to the UKMTO advisories.
+Between Sept. 28 and Wednesday, there were 12 attacks, the highest weekly total since the war between the U.S. and Iran began, Richard Meade, editor-in-chief of London-based
+Lloyd’s List,
+said Thursday during a weekly webinar.
+U.S. Central Command said Oct. 5, 2026, that U.S. forces has disabled 3 vessels in a video shared to social media platform X. US Central Command image
+Both Iran and the U.S. have attacked ships as part of the ongoing conflict. The U.S. has struck ships that the Pentagon says violated its blockade or are sustaining Iran’s war effort. While a recent U.S. Central Command news release said the U.S. disabled 13 ships as part of its blockade and strikes, the U.S. did not list what ships it hit.
+Although attacks on vessels are rising, so are the number of transits week-over-week, with Middle East crude exports approaching pre-war levels, Meade said.
+There were 143 total transits between Sept. 28 and Wednesday, up three over the previous week, according to
+Lloyd’s List Intelligence
+data. Eastbound transits in that period rose by 7.1 percent, while westbound transits dropped 4.2 percent.
+Tanker and gas carrier transits were also down 10.2 percent over the same period.
+The rise in Middle East crude exports is due to the shuttle system, where ships are taking oil out of Persian Gulf ports, transporting it through the Strait of Hormuz – often with their automatic identification systems off – then doing a ship-to-ship transfer in the Arabian Sea.
+“While the shuttle system […] is no doubt a remarkable feat, if not a very inefficient and expensive one, this is not sustainable, and this is not the positivity that I think has been somewhat misleading out there in the mainstream press that we really want to be looking at,” Meade said. “This is not a sustainable new normal, as far as I’m concerned.”
+September Breaks Records
+Arleigh Burke-class guided-missile destroyer USS Rafael Peralta (DDG-115) enforces a maritime blockade against an Iranian-flagged ship attempting to sail toward an Iranian port, April 24, 2026. US Navy photo
+September saw 477 non-Iranian-linked transits through the Strait of Hormuz, the highest since the conflict began, according to
+Lloyd’s
+data. Of the 477 transits, 246 were eastbound, or away from the strait, while 231 were westbound.
+August saw more westbound than eastbound transits. While September tipped the scale back in favor of eastbound ships, the number of westbound transits was the highest it has been in at least four months.
+What drove the increase is owners’ and operators’ willingness to send in their ships and assume risk, Bridget Diakun, the maritime intelligence and research director at
+Lloyd’s List Intelligence
+, said during Thursday’s webinar.
+“It is growth and it is expansion, but really it’s people building on these supply chains that they have set up as kind of a work around to the circumstances,” she said.
+The question is now is this growth sustainable or will there be a cap, Diakun said.
+It’s unclear what the increase of attacks or possible escalation might do to the numbers.
+Iranian crude is at a yearly low, according to
+Lloyd’s List
+. It appears that there were no crude oil loadings in Iran in September, Tomer Raanan, senior maritime intelligence analyst at
+Lloyd’s List
+, said during Thursday’s webinar.
+Small amounts of liquid petroleum gas are making it out of the country, using the ship-to-ship transfer method that non-Iranian-linked ships are also using, Raanan said.
+The Worse Crisis
+Marine traffic in the Black Sea on Oct. 9, 2026. Marine Traffic map
+While all eyes are on Hormuz, the Black Sea has erupted as a more deadly place for seafarers, Meade said.
+Ukraine’s seaborne trade has plummeted as the fighting between Russia and Ukraine continues. There were 21 calls to Ukraine’s Black Sea ports in August, which is down around 90 percent compared to August 2025, according to
+Lloyd’s List
+.
+The decrease in trade mainly
+affects grain
+, although it also hits the tanker market as well, Diakun said.
+“The situation is really, really bad to put it frankly,” Diakun said. “I’ve been monitoring the situation in the Black Sea for several years since I’ve started here, and it’s a really resilient market, and the people operating in it have really high risk appetites, but everything has changed over the summer in the last couple of months. This is really serious.”
+To put it in context of the Strait of Hormuz, there are ship owners and companies that are moving ships through the strait, despite the Iranian attacks, who would not undertake the risk presented by the fighting in the Black Sea, Meade said.
+The Russo-Ukraine War will hit five years in February. In the first year of the war, there was a grain crisis when Ukraine could not export its product. The United Nations and Turkey
+brokered a grain deal
+in 2022 that allowed ships to sail through designated Black Sea lanes, but it ultimately fell apart.
+At the time, it was not difficult to find vessels that were prepared to sail to and from Ukrainian ports, Edgar Martin, the head analyst for Central and Eastern Europe at Infospectrum, which is part of
+Lloyd’s List Intelligence
+, said during the webinar.
+“That was a very different situation,” Martin said. “The risk wasn’t so high. But at the moment, the market has dramatically changed.”
+The Black Sea, minus the territorial waters of Black Sea countries that are not Russia or Ukraine, now falls under the Joint War Committee’s – which represents
+Lloyd’s
+and the International Underwriting Association company markets – highest war risk designation, Martin said.
+“The implications for the crew are complex, and let’s hope the crew understand the risk and they’re being paid accordingly,” he said.
+Heather Mongilio
+Heather Mongilio is a reporter with USNI News. She has a master’s degree in science journalism and has covered local courts, crime, health, military affairs and the Naval Academy.
+Email:
+[email protected]
+Signal: Hmongilio.52
+Follow @hmongilio
+Share to:
+Facebook
+X
+Pinterest
+Linkedin
+Whatsapp
+Email
+Share to:
+Facebook
+X
+Pinterest
+Linkedin
+Whatsapp
+Email
+Get USNI News updates delivered to your inbox
+Full Name
+Email address:
+Frequency
+Daily
+Weekly
+All
+Leave this field empty if you're human:
+Related Topics
+Iran
+News & Analysis
+Russia
+Surface Forces
+U.S. Navy
+Related Posts
+Aviation
+·
+Congress
+·
+Documents
+·
+Iran
+·
+U.S. Air Force
+·
+U.S. Navy
+Report to Congress on U.S. Aircraft Combat Losses in Operation Epic Fury
+The following is the Oct. 5, 2026, Congressional Research Service report, U.S. Aircraft Combat Losses in Operation Epic Fury: Considerations…
+Foreign Forces
+·
+Iran
+·
+News & Analysis
+·
+Surface Forces
+EU Needs More Ships for Red Sea; European Navies Adjust Hormuz Deployments
+The European Union is asking its members to increase the number of ships deployed with European Naval Force Aspides, which…
+Congress
+·
+Documents
+·
+Iran
+·
+Personnel
+·
+U.S. Air Force
+·
+U.S. Army
+·
+U.S. Coast Guard
+·
+U.S. Marine Corps
+·
+U.S. Navy
+·
+U.S. Space Force
+Report to Congress on Bahrain, Issues for U.S. Policy
+The following is the Sept. 23, 2026, Congressional Research Service report, Bahrain: Issues for U.S. Policy.…
+Iran
+·
+News & Analysis
+·
+Surface Forces
+Hormuz Transits Hit Three-week High, VLCC Rates Explode
+Non-Iranian linked transits through the Strait of Hormuz climbed to 97 last week, according to preliminary data from London-based Lloyd’s…
+USNI News is the independent, non-profit news service of the Naval Institute. Our mission is to provide unbiased coverage of the U.S. Navy, Marine Corps, Coast Guard and international maritime affairs.
+About USNI News
+Staff
+Contact Us
+Advertise with USNI News
+U.S. Naval Institute
+Membership
+Books & Press
+Proceedings
+Naval History
+Archives
+Events
+Donate
+Legal
+Privacy Policy
+Get USNI News updates delivered to your inbox
+Full Name
+Email address:
+Frequency
+Daily
+Weekly
+All
+Leave this field empty if you're human:
+Copyright 2026 U.S. Naval Institute. All Rights Reserved.
+Search
+Browse By Topic
+Aviation
+Industry
+Documents
+Congress
+Fleet Tracker
+Foreign Forces
+China
+Iran
+Russia
+Long Form
+Merchant Marine
+Personnel
+News & Analysis
+Piracy
+Space
+Special Operations Forces
+Submarine Forces
+Surface Forces
+Survey
+The Basics
+Timelines
+U.S. Air Force
+U.S. Army
+U.S. Coast Guard
+U.S. Marine Corps
+U.S. Navy
+U.S. Space Force
+Veterans Affairs
+warship
+Latest
+Fleet and Marine Tracker
+About
+About
+Staff
+Advertise with USNI News
+Content License

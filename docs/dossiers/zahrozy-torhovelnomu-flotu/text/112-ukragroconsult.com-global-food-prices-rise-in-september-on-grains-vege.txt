@@ -1,0 +1,45 @@
+URL:         https://ukragroconsult.com/en/news/global-food-prices-rise-in-september-on-grains-vegetable-oils-and-sugar-fao/
+Кінцевий:    https://ukragroconsult.com/en/news/global-food-prices-rise-in-september-on-grains-vegetable-oils-and-sugar-fao/
+Заголовок:   Global food prices rise in September on grains, vegetable oils and sugar — FAO
+Дата публ.:  2026-10-02
+Завантажено: 2026-10-07 09:39 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 104744
+Оригінал:    raw/112-ukragroconsult.com-global-food-prices-rise-in-september-on-grains-vege.html
+sha256:      e8dc69cc4074be9355b9092e3f690e157912dfee06517338635380e53cd49ac5
+Витяг:       trafilatura
+
+==============================================================================
+# Global food prices rise in September on grains, vegetable oils and sugar — FAO
+
+The FAO Food Price Index rose by 1.5% month-on-month in September 2026 to 136.0 points. It was 5.8% higher than a year earlier, although still 15.1% below the peak reached in March 2022.
+
+Cereals made the largest contribution to the increase. The FAO Cereal Price Index rose by 5.1% from August and by 17.2% year-on-year. Wheat prices increased by 6.3% to their highest level since August 2023 due to logistics constraints in the Black Sea region and dry weather in parts of North America.
+
+Corn prices rose by 5.6% month-on-month to their highest level in more than three years. The market was supported by lower-than-expected yields in the United States, reduced export availability from Brazil and disruptions to Black Sea trade. Uncertainty over shipping through the Strait of Hormuz also kept concerns over fuel, fertilizer and freight costs elevated.
+
+The FAO Vegetable Oil Price Index increased by 0.9% from August and was 18.3% higher year-on-year. Palm oil was the main driver, rising for a fourth consecutive month on strong import demand and concerns over production prospects in Southeast Asia. Sunflower oil prices, meanwhile, declined for a third consecutive month on expectations of ample supplies from the Black Sea region.
+
+Sugar recorded the strongest monthly increase, rising by 6.1%, while year-on-year growth reached 14.7%. Prices were supported by expectations of lower production in Thailand, concerns over crop prospects in India, adverse weather in Brazil and a reduction in sugar beet area in the EU.
+
+Meanwhile, meat prices declined by 1.1% month-on-month due to lower pork and poultry quotations, while the dairy index was virtually unchanged. Overall, September’s increase in global food prices was concentrated mainly in crop-based commodities — grains, vegetable oils and sugar.
+
+### Read also
+
+
+### Argentine soybean meal trades above Brazilian for the first time since May
+
+
+### Indonesia strengthens its position in the global veterinary vaccine market
+
+
+### Ukraine ranks second in rail freight turnover among EU and candidate countries
+
+
+### Wheat, corn and soybeans rise in Chicago on Tuesday
+
+
+### GDT dairy price index rises 1.2%
+
+### Write to us
+
+Our manager will contact you soon

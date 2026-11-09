@@ -1,0 +1,38 @@
+URL:         https://defcon.org/html/defcon-34/dc-34-speakers.html
+Видання:     DEF CON 34, програма Main Stage Talks
+Заголовок:   Taking on the Dark Fleet... in Cyberspace! (опис доповіді й біографії спікерів)
+Дата публ.:  не вказана на сторінці
+Завантажено: 2026-10-02 10:13 UTC
+Спосіб:      текст скопійовано редакцією з браузера: defcon.org обриває зʼєднання з робочої машини
+Примітка:    замінює непрочитане джерело №2
+
+==============================================================================
+Taking on the Dark Fleet... in Cyberspace!
+Sunday at 13:30 in LVCC - L1 - Exhibit Hall West 3 - 906 (Main Track 3) and DCTV-3
+30 minutes
+
+Kenneth Miltenberger US Coast Guard / 2003 Cyber Protection Team
+Shane Cancilla US Coast Guard / 2003 Cyber Protection Team
+In 2026, the US led what would become an international crackdown on Dark Fleet (sometimes called Shadow/Ghost Fleet): vessels that illegally transport sanctioned oil or other cargo. Little known to the public, Coast Guard Cyber Command was deploying its Cyber Protection Teams (CPTs) onboard these vessels to assure the security & safety of these vessels in cyber space. This talk provides a rare look at the US cyber operators deploying on Dark Fleet Tankers, the danger these vessels pose, and lessons learned from these boardings.
+
+Kenneth Miltenberger
+
+Commander Kenny Miltenberger currently serves as the first Commanding Officer of the 2003 Cyber Protection Team (CPT) in Alameda, CA. He is responsible for protecting the nation’s Marine Transportation System in cyberspace by conducting hunt, assess, and incident response operations. His team is the Coast Guard’s newest CPT and the only CPT geographically detached from Coast Guard Cyber Command (CGCYBER). He led the DEFCON 33 presentation, "From Shanghai to the Shore: The Silent Threat in Global Shipping".
+
+Kenny recently completed an assignment where he founded the Coast Guard’s Red Team and ran the Coast Guard's Blue Team. During that tour he founded CGCYBER’s educational phishing capability, led cyber Opposing Forces for a major multinational exercise, and oversaw over 100 Red and Blue Team missions. Other notable positions include his work as an engineer for the U.S. Navy’s Naval Sea Systems Command, where he was a developer on a shipboard cyber security platform.
+
+Kenny has a BS in Electrical Engineering from the Coast Guard Academy and an MS Electrical Engineering from University of Maryland (UMD) College Park.
+
+Kenny has also worked as part-time faculty at UMD College Park, where he taught Binary Exploitation in their Cyber Masters Program. Industry certifications include OSCP, GXPN, GCPN, GREM, and more
+
+LinkedIn
+
+Shane Cancilla
+
+Shane Cancilla is the Network Engineer for the 2003 Cyber Protection Team in Alameda, CA, focused on building and integrating tools for assessment, incident response, and threat hunting missions across Marine Transportation System and IT/OT/ICS environments. His work spans the engineering and deployment of sensors across complex networks and supporting mission-critical operations as a network analyst.
+
+He has previously worked with organizations including Lawrence Livermore and Lawrence Berkeley National Laboratories, where he supported high performance computing and virtualized network environments.
+
+Shane holds a B.S. in Computer Science from California State University, East Bay, along with CCNA and GCIH certifications.
+
+LinkedIn

@@ -1,0 +1,168 @@
+URL:         https://spotmedia.ro/en/news/news/time-bombs-on-the-oceans-dangerous-technology-on-board-tankers-captured-by-the-usa
+Кінцевий:    https://spotmedia.ro/en/news/news/time-bombs-on-the-oceans-dangerous-technology-on-board-tankers-captured-by-the-usa
+Заголовок:   Time bombs on the oceans: Dangerous technology on board tankers captured by the USA
+Дата публ.:  2026-06-17
+Завантажено: 2026-10-02 08:05 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 200357
+Оригінал:    raw/11-spotmedia.ro-time-bombs-on-the-oceans-dangerous-technology-on-board-ta.html
+sha256:      b3c3d155b96f2972ead2220c564cff687bc86237fb988090dfd294e6e34bfa8c
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 29
+==============================================================================
+Time bombs on the oceans: Dangerous technology on board tankers captured by the USA - spotmedia.ro
+Netanyahu says flight attacker 'underwent Islamist radical indoctrination'
+Trump divides US allies into "good" and "bad": Two important countries left out of a NATO group meeting
+US report on Romania’s business environment: High taxes, frequently changing laws and bureaucracy create hurdles for investors
+US report raises concerns over Romania’s justice system: Trials are lengthy, costly and unpredictable, DNA’s effectiveness has declined
+ATM rules are changing: Customers will be able to withdraw custom amounts regardless of which bank issued their card
+Time bombs on the oceans: Dangerous technology on board tankers captured by the USA
+The English translation of this article was generated with the assistance of AI technology.
+Follow the news from spotmedia.ro on
+Iran reveals a vulnerability of the USA that could be disastrous in a confrontation with China
+Romania Meets All Conditions for Early Elections. The Decision Now Rests With Nicușor Dan
+Trump made a big bet on AI. If he’s wrong, the consequences could be catastrophic
+A statement by the president is like an equation with too many unknowns
+Last US troops leave Iraq after two decades. Iran sees victory as fears of Islamic State resurgence grow
+Securistan. When did the intelligence services resume the state’s re-infiltration and why –
+European conservatives prepare for 2029. How they plan to win back voters from the far right
+Students challenge mandatory school uniforms. What studies say about bullying – and what other countries have found
+How Romania could benefit from a more united Central and Eastern Europe
+Sobering conclusion from CNN journalist who documented Trump’s lies for a decade: “American democracy has suffered”
+TollRo goes live with system riddled with errors: 80% of tests by hauliers found problems
+Romania, among the most expensive energy markets in the European Union
+Heat pumps are gaining ground in Europe, but Romania has a major disadvantage
+Citi and Erste See Romania Keeping S&P Rating, but 2027 Risks Loom
+Nicușor Dan explains why he opposes early elections: “Romania would be paralysed for five months”
+Mureșan Government Rejected by Parliament, Falling More Than 50 Votes Short (Photo & Video)
+Kelemen Hunor: My head hurts. I am terrified. It’s not just about the sword, the rifle, the machine gun! What does he say about the next appointment (Video)
+British PM says Brexit has done “more harm than good,” seeks new relationship with EU
+The hearings of the proposed ministers ended in a tie: 8 positive opinions, 8 negative. Wednesday, the decisive test for the Mureșan Government
+Serbian President Aleksandar Vučić resigns. He could return to power as prime minister
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Time bombs on the oceans: Dangerous technology on board tankers captured by the USA - spotmedia.ro
+Skip to content
+HOT
+Netanyahu says flight attacker 'underwent Islamist radical indoctrination'
+Trump divides US allies into "good" and "bad": Two important countries left out of a NATO group meeting
+US report on Romania’s business environment: High taxes, frequently changing laws and bureaucracy create hurdles for investors
+US report raises concerns over Romania’s justice system: Trials are lengthy, costly and unpredictable, DNA’s effectiveness has declined
+ATM rules are changing: Customers will be able to withdraw custom amounts regardless of which bank issued their card
+Politics
+Business
+Opinions
+Environment
+Social
+MORE
+Romanian Language Edition
+News
+Health
+Science
+Leisure
+Entertainment
+Education
+IT
+Media
+Sport
+Auto
+DONATE
+Time bombs on the oceans: Dangerous technology on board tankers captured by the USA
+Facebook
+Messenger
+WhatsApp
+Twitter
+LinkedIn
+E-Mail
+17.06.2026 20:03
+Foto: Facebook / U.S.  Navy
+Owners of ships carrying sanctioned oil from Iran and Russia are using risky digital tools to control crews and cover their tracks. However, this technology could be exploited by a malicious actor to cause a serious incident.
+Ships illegally transporting oil intercepted by the U.S. Coast Guard were found to be using vulnerable computer systems that could be remotely manipulated to cause explosions or massive spills, writes
+Wall Street Journal (WSJ)
+.
+As the U.S. and Iran are on the verge of signing an agreement to end the war and reopen the Strait of Hormuz, analysts warn that dozens of tankers from the "phantom fleet" stranded in the Persian Gulf and nearby areas could resume their illicit trade, significantly increasing the number of ships the United States needs to monitor and posing more risks on the oceans, the cited newspaper reports.
+Ship control can be taken remotely
+After elite American forces rapidly descend from helicopters onto a tanker's deck, a U.S. Coast Guard cyber control team boards. The experts have computers and technical equipment to analyze and secure the ship's digital infrastructure.
+ADVERTISING
+The findings of the inspections carried out so far, detailed in a new report obtained by the American daily, have alarmed U.S. officials. They say the ships intentionally circumvent physical inspections and the digital standards imposed on vessels legally carrying hazardous goods.
+Coast Guard discovered that unsupervised access was allowed to these applications, "meaning that remote connections could be established without a person being present at the workstation," the cited report shows.
+Thus, an old tanker with vulnerable digital infrastructure can fall under the computer control of a malicious actor, becoming a massive floating bomb
+, experts warn.
+Pirated software and malware programs
+In at least one case, administrators of such a ship tried to remotely erase data from the ship's board after it was boarded by the U.S., the report states.
+"We've known for years that the phantom fleet presents significant physical risks because we knew they were operating old ships and not maintaining them. But what we didn't know was what kind of cyber risks existed on board these ships," said Rear Admiral Jason Tama, head of the Coast Guard's Cyber Command.
+ADVERTISING
+"I don't think any of us slept at night when we realized how dangerous some of these ships were and realized our people were on board," Tama added. "We had to make sure those networks weren't compromised or turned into weapons in a way that could make them dangerous to our personnel."
+Cyber teams found that some ships were running pirated software loaded with malware programs for business management and navigation operations. According to U.S. officials, computers infected with malware programs are risky when connected to operational and navigation systems.
+"For a ship carrying tens of millions of gallons of oil, which is highly volatile, there is always a risk of explosion. The atmosphere in the tanks must be managed very carefully to ensure that an explosion cannot occur. And then there is always the risk of an oil spill," explained the rear admiral.
+ADVERTISING
+Digital deception tactics
+On board the ships, cyber teams also found evidence of methods used to avoid detection.
+Some tankers had multiple Automatic Identification System devices through which crews transmitted false identities. In one case, a switch was found that sailors used to electronically switch between ship names - the digital equivalent of repainting the ship's real name on the hull.
+"Unlike a situation where someone looks in obituaries and takes a name from there, owners of ships in the phantom fleet look for ships that have been dismantled and use the same names so that there is at least a digital trace of the existence of this ship," said Rear Admiral David Barata, Coast Guard's Deputy Commander for Operational Policy and Capabilities.
+Illegally operating ships were also found to have facilities that allowed crews to transmit false location data and mask their position. Instructions for falsifying GPS data were also found on board, the report states.
+"These ships try to hide. One of the ships we looked at signaled it was in Curaçao, but it was actually off the coast of Venezuela and transporting oil there," Barata said.
+The report confirms that tankers are intentionally involved in illicit activities, according to Michelle Wiese Bockmann, senior maritime intelligence analyst at Windward AI.
+Global crackdown against the "dark fleet"
+By publishing details about vulnerabilities and evasion methods found on board oil tankers from the phantom fleet, U.S. Coast Guard officials hope that other countries will be encouraged to step up their efforts to capture them.
+After the United States launched a global action in December against ships from the "phantom fleet," countries such as France, the United Kingdom, and Germany have blocked and seized tankers carrying Russian oil, WSJ notes.
+Over the past weekend, the British Royal Navy forces boarded a suspicious tanker sailing in the English Channel.
+T.D.
+The English translation of this article was generated with the assistance of AI technology.
+Follow the news from spotmedia.ro on
+Google News
+Facebook
+Messenger
+WhatsApp
+Twitter
+LinkedIn
+E-Mail
+OPINIONS & ANALYSES
+Iran reveals a vulnerability of the USA that could be disastrous in a confrontation with China
+Romania Meets All Conditions for Early Elections. The Decision Now Rests With Nicușor Dan
+Trump made a big bet on AI. If he’s wrong, the consequences could be catastrophic
+A statement by the president is like an equation with too many unknowns
+Emilian Isailă
+Last US troops leave Iraq after two decades. Iran sees victory as fears of Islamic State resurgence grow
+Securistan. When did the intelligence services resume the state’s re-infiltration and why –
+Video Podcast
+Emilian Isailă
+European conservatives prepare for 2029. How they plan to win back voters from the far right
+Students challenge mandatory school uniforms. What studies say about bullying – and what other countries have found
+Gabriela Pleș
+How Romania could benefit from a more united Central and Eastern Europe
+Sobering conclusion from CNN journalist who documented Trump’s lies for a decade: “American democracy has suffered”
+BUSINESS
+US report on Romania’s business environment: High taxes, frequently changing laws and bureaucracy create hurdles for investors
+Redacția SpotMedia.ro
+ATM rules are changing: Customers will be able to withdraw custom amounts regardless of which bank issued their card
+TollRo goes live with system riddled with errors: 80% of tests by hauliers found problems
+Romania, among the most expensive energy markets in the European Union
+Heat pumps are gaining ground in Europe, but Romania has a major disadvantage
+Citi and Erste See Romania Keeping S&P Rating, but 2027 Risks Loom
+POLITICS
+Nicușor Dan explains why he opposes early elections: “Romania would be paralysed for five months”
+Mureșan Government Rejected by Parliament, Falling More Than 50 Votes Short (Photo & Video)
+Redacția SpotMedia.ro
+Kelemen Hunor: My head hurts. I am terrified. It’s not just about the sword, the rifle, the machine gun! What does he say about the next appointment (Video)
+British PM says Brexit has done “more harm than good,” seeks new relationship with EU
+The hearings of the proposed ministers ended in a tie: 8 positive opinions, 8 negative. Wednesday, the decisive test for the Mureșan Government
+Redacția SpotMedia.ro
+Serbian President Aleksandar Vučić resigns. He could return to power as prime minister
+Privacy settings
+Cookie policy
+Privacy policy
+Terms and conditions
+Contact
+About Us
+Advertising
+Copyright © 2026 spotmedia.ro
+HOME
+POLITICS
+BUSINESS
+RO EDITION
+DONATE

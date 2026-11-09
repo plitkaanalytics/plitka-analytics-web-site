@@ -1,0 +1,86 @@
+URL:         https://african.business/2026/08/resources/wheat-prices-spike-as-ukraine-and-russia-trade-black-sea-blows
+Кінцевий:    https://african.business/2026/08/resources/wheat-prices-spike-as-ukraine-and-russia-trade-black-sea-blows
+Заголовок:   Wheat prices spike as Ukraine and Russia trade Black Sea blows - African Business
+Дата публ.:  2026-08-24
+Завантажено: 2026-10-07 10:10 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 174695
+Оригінал:    raw/149-african.business-wheat-prices-spike-as-ukraine-and-russia-trade-black-.html
+sha256:      14c229cc6163a8fdcbb875901914e3bbe62cc3536ba6047bb0eec26b26e99f98
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 4
+==============================================================================
+Wheat prices spike as Ukraine and Russia trade Black Sea blows - African Business
+Wheat prices spike as Ukraine and Russia trade Black Sea blows
+African nations are braced for further food price inflation as Ukraine and Russia  exchange attacks on each other’s Black Sea ports.
+Prefer African Business on Google
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Wheat prices spike as Ukraine and Russia trade Black Sea blows - African Business
+Wheat prices spike as Ukraine and Russia trade Black Sea blows - African Business
+Toggle Sidebar
+Subscribe
+Login
+Finance
+Business
+Politics
+Technology
+Resources
+Energy
+Arts & Culture
+Innov Africa Deals
+Opinion
+Newsletters
+Digital Editions
+Harry Clynch
+Mon 24th August 2026
+Wheat prices spike as Ukraine and Russia trade Black Sea blows
+African nations are braced for further food price inflation as Ukraine and Russia  exchange attacks on each other’s Black Sea ports.
+Image:
+Ukrainian Navy
+/ AFP
+Share
+Prefer African Business on Google
+Disruption in the Black Sea caused by the Russia-Ukraine war has sent the price of wheat up significantly, in a move that could have significant ramifications for food prices – and therefore food security – across Africa.
+Wheat prices have climbed significantly since the start of the year, with wheat futures up around 40% since the start of 2026 and more than 10% within the last two months alone.
+Russia and Ukraine are two of the biggest suppliers of grains to Africa. Between them, the two countries supplied roughly 44% of Africa’s imported wheat in 2024, with Russia the single largest supplier of wheat to the continent. North Africa is particularly dependent on Russian and Ukrainian imports: in the first half of this year, more than 82% of Egypt’s wheat imports came from those two countries.
+Lowest wheat exports in sixteen years
+Andrey Sizov, CEO at agricultural markets research firm SovEcon, tells
+African Business
+that, since July, Ukraine and Russia have exchanged attacks on each other’s Black Sea ports, putting downward pressure on available wheat supply and sending prices soaring. [Pictured above, the destroyed civilian cargo ship
+Golden Leo
+on the Black Sea, following an alleged Russian missile strike on 19 July.]
+“Russian wheat exports are now the lowest since 2010 and, for Ukraine, (its also) the lowest in 16 years,” Sizov says.
+“Activity at Ukraine’s three terminals in Odesa is close to zero – Odesa accounted for more than 90% of its wheat exports in the first half of 2026 – while all Russia’s terminals in the (Sea of) Azov and Black Sea, except one, are also shut down and they usually account for more than 80% of Russian wheat exports,” Sizov adds.
+“Ukrainian attacks in the (Sea of) Azov and then Black Sea started in July when [Ukrainian] President Zelensky said they were starting a new campaign to force Russia to start negotiations.
+“Russia in turn responded with elevated attacks on Odesa and we have seen attacks on terminals and vessels across the Black Sea.”
+Africa braces amid Black Sea carnage
+Sizov warns that these higher wheat prices – which he expects will rise further than their current level – are likely to feed into higher food prices in Africa.
+“For importers, prices increase faster than just the pure export price: on top of that they will have to pay a higher FOB [free on board] export price in the port of origination as well as higher freight prices,” he says.
+Free on board is the total cost of the product plus all charges incurred to deliver the goods onto the shipping vessel at the named port of origin.
+The price spikes come at a time when food inflation is already on the rise in many parts of Africa. Higher fuel prices, caused by the US-Israeli conflict with Iran and disruption of supply chains, has helped push up staple food prices given elevated transportation costs.
+The disruption around the Strait of Hormuz has also affected global flows of fertiliser and sent prices soaring, forcing African farmers either to cut back on fertiliser or pay higher rates, contributing to higher food prices.
+While it is an uneven picture across the continent – with some countries relatively unaffected – food inflation is currently running at over 20% in Nigeria, over 15% in Ethiopia, and at 9% in Kenya.
+Sizov suggests that Africa should brace itself for even higher wheat prices in the months to come.
+“The shock in supply we are seeing now is far bigger than the one we saw at the start of the war between Russia and Ukraine in February 2022.”
+“While prices may ease a bit [in the short-term], I think odds are high that we will see substantially higher prices in the future.”
+More from African Business
+Finance
+Business
+Politics
+Technology
+Resources
+Energy
+Arts & Culture
+Innov Africa Deals
+Our Network
+IC Publications
+African Banker
+New African
+Magazine de l'Afrique
+IC Events
+AB Intelligence

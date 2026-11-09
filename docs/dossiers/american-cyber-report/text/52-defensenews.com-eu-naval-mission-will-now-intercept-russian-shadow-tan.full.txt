@@ -1,0 +1,188 @@
+URL:         https://www.defensenews.com/global/europe/2026/07/23/eu-naval-mission-will-now-intercept-russian-shadow-tankers-in-the-indian-ocean/
+Кінцевий:    https://www.defensenews.com/global/europe/2026/07/23/eu-naval-mission-will-now-intercept-russian-shadow-tankers-in-the-indian-ocean/
+Заголовок:   EU naval mission will now intercept Russian shadow tankers in the Indian Ocean
+Дата публ.:  2026-07-23
+Завантажено: 2026-10-05 10:08 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 233897
+Оригінал:    raw/52-defensenews.com-eu-naval-mission-will-now-intercept-russian-shadow-tan.html
+sha256:      e2186241b227e59b2afe22bc6673adae4e73e76aa170d2fc6764aaba970178f3
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 24
+==============================================================================
+EU naval mission will now intercept Russian shadow tankers in the Indian Ocean
+Show Thought Leadership sub sections
+AFA Air, Space & Cyber Coverage
+A vessel that appears to be the Spanish Navy frigate Santa María F81, deployed as part of the European Union Naval Force Operation ATALANTA, is seen off the coast of Mogadishu, Somalia, on April 24, 2025.(Ed Ram/Getty Images)
+Trust between operators, CCAs starts with simulations: Former Air Force secretary
+Simulations and exercises will be key to boosting trust between operators and CCAs, according to former U.S. Air Force secretary Frank Kendall.
+Celebrating 40 years of Defense News
+Since 1986, Defense News has been the authoritative voice for the world's defense decision-makers.
+Guardsman learns to fly autonomous Black Hawk in less than an hour
+In a training first, an Army National Guardsman used a tablet to control Sikorsky's optionally piloted Black Hawk and plan its task during an exercise.
+Recap: Highlights from the US Army’s 2025 conference in Washington
+The Army continues to transform, with efforts focused on next-gen weaponry, long-range artillery, unmanned systems and much more.
+Pentagon stages first ‘Top Drone’ school for operators to hone skills
+Industry and military drone operators flew tethered and untethered first-person drones through a course designed to test endurance and maneuverability.
+Pentagon launches Office of Religious Affairs, will report directly to Hegseth
+Hegseth announces new four-star command for autonomous warfare
+Interview: Former Ukraine defense minister launches 'Army of Robots' initiative
+Troops develop AI-driven drone defense weapons | Defense News Weekly Full Episode 9.29.26
+Taiwan’s first two F-16V fighter jets arrive to bolster defenses against China
+French Air Force plans loyal wingman flight in 2028 in sovereign AI push
+Russia raises 2027 military spending by 27%, budget documents show
+Saudis plan assault on Houthis to break Red Sea chokehold
+Ukraine war fatigue fuels defense-spending downgrade plan in Italy
+General Contacts, Subscription Services
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+EU naval mission will now intercept Russian shadow tankers in the Indian Ocean
+Sections
+Search
+Sections
+Sections
+Air Warfare
+Land
+Naval
+Space
+Cyber
+Opens in new window
+C4ISR
+Opens in new window
+Pentagon
+Congress
+Global
+Video
+Thought Leadership
+Search
+Close
+Subscribe Now
+Air Warfare
+Land
+Naval
+Pentagon
+Congress
+Show Congress sub sections
+Budget
+Cyber
+Opens in new window
+C4ISR
+Opens in new window
+Space
+Training & Sim
+Unmanned
+Global
+Show Global sub sections
+Asia Pacific
+Europe
+Mideast Africa
+The Americas
+Industry
+Show Industry sub sections
+MilTech
+Top 100
+Opens in new window
+Pitch Desk
+Opens in new window
+Interviews
+Opinion
+Video
+Show Video sub sections
+Defense News Weekly
+Money Minute
+Outlook
+Press Releases
+Thought Leadership
+Show Thought Leadership sub sections
+Whitepapers & eBooks
+Opens in new window
+DSDs & SMRs
+Opens in new window
+Webcasts
+Opens in new window
+Events
+Opens in new window
+Newsletters
+Opens in new window
+Events Calendar
+Native
+Early Bird Brief
+Digital Edition
+Opens in new window
+Featured:
+Send us your pitch
+AFA Air, Space & Cyber Coverage
+Top 100 Defense Companies
+Europe
+EU naval mission will now intercept Russian shadow tankers in the Indian Ocean
+By
+Linus Höller
+Thursday, Jul 23, 2026
+A vessel that appears to be the Spanish Navy frigate Santa María F81, deployed as part of the European Union Naval Force Operation ATALANTA, is seen off the coast of Mogadishu, Somalia, on April 24, 2025.(Ed Ram/Getty Images)
+VIENNA — The European Union has authorized its naval mission in the Indian Ocean to stop and board Russian shadow fleet tankers suspected of operating under false flags, the bloc announced on Wednesday.
+EU member states have authorized Operation Atalanta, the union’s counter-piracy naval mission off the Horn of Africa, to begin conducting flag-verification boardings of vessels suspected of belonging to Russia’s shadow fleet in the western Indian Ocean. The decision, announced this week by EU foreign policy chief Kaja Kallas, extends to Atalanta a power already exercised by the EU’s Mediterranean mission, Operation Irini.
+Kallas made the announcement alongside news that Irini forces had boarded the sanctioned oil tanker MV South Star on July 20, acting on suspicion that the vessel was sailing under a false flag. “Every illicit voyage helps sustain Russia’s war machine. We are matching our sanctions with action at sea,” Kallas said, adding that the Atalanta authorization “further tightens the net.”
+The move considerably widens the EU’s geographic reach against the shadow fleet, a loosely defined network of tankers with opaque ownership structures that Moscow uses to sell oil above the Western-imposed price cap. While Irini patrols the Mediterranean, Atalanta operates across the Somali Basin, the Gulf of Aden, the Red Sea, the Gulf of Suez, the Gulf of Aqaba and waters around Oman, and was launched as the EU’s first-ever naval mission in 2008 to combat piracy.
+It is separate from the EU mission ASPIDES, which is designed to protect shipping in the Red Sea from attacks by the Iran-backed Yemeni Houthi rebels.
+The corridor where the mission operates is a critical transit route for tankers carrying Russian crude toward buyers in Asia. Brussels has already sanctioned more than 600 vessels suspected of belonging to the network.
+Generally, ships on the high seas cannot simply be stopped and boarded by any third country. However, Article 110 of the UN Convention on the Law of the Sea permits warships to stop and inspect a vessel only where there is reasonable suspicion it is stateless or flying a flag to which it is not entitled. This falls short of a blanket authority to stop any sanctioned or Russia-linked ship, but flying false flags has been a frequent practice on Russian shadow fleet vessels.
+The council decision, the operational plan and the rules of engagement that would spell out exactly how far Atalanta’s new powers extend have so far not been made public.
+The approach has already produced results elsewhere. Irini’s flag checks contributed to pressure that culminated in a Cameroon purge of 39 vessels from its shipping registry after investigators uncovered fraudulent paperwork and fake registry websites used to disguise shadow fleet tankers.
+Russian President Vladimir Putin has previously denounced such interceptions as “piracy,” underscoring how the expanded mandate is likely to further sharpen tensions between Brussels and Moscow over enforcement at sea.
+About
+Linus Höller
+Linus Höller is Defense News' Europe correspondent and OSINT investigator. He reports on the arms deals, sanctions, and geopolitics shaping Europe and the world. He holds master’s degrees in WMD nonproliferation, terrorism studies, and international relations, and works in four languages: English, German, Russian, and Spanish.
+Share:
+More In Europe
+Trust between operators, CCAs starts with simulations: Former Air Force secretary
+Simulations and exercises will be key to boosting trust between operators and CCAs, according to former U.S. Air Force secretary Frank Kendall.
+Celebrating 40 years of Defense News
+Since 1986, Defense News has been the authoritative voice for the world's defense decision-makers.
+Guardsman learns to fly autonomous Black Hawk in less than an hour
+In a training first, an Army National Guardsman used a tablet to control Sikorsky's optionally piloted Black Hawk and plan its task during an exercise.
+Recap: Highlights from the US Army’s 2025 conference in Washington
+The Army continues to transform, with efforts focused on next-gen weaponry, long-range artillery, unmanned systems and much more.
+Pentagon stages first ‘Top Drone’ school for operators to hone skills
+Industry and military drone operators flew tethered and untethered first-person drones through a course designed to test endurance and maneuverability.
+Featured Video
+Pentagon launches Office of Religious Affairs, will report directly to Hegseth
+Hegseth announces new four-star command for autonomous warfare
+Interview: Former Ukraine defense minister launches 'Army of Robots' initiative
+Troops develop AI-driven drone defense weapons | Defense News Weekly Full Episode 9.29.26
+Trending Now
+Taiwan’s first two F-16V fighter jets arrive to bolster defenses against China
+French Air Force plans loyal wingman flight in 2028 in sovereign AI push
+Russia raises 2027 military spending by 27%, budget documents show
+Saudis plan assault on Houthis to break Red Sea chokehold
+Ukraine war fatigue fuels defense-spending downgrade plan in Italy
+Facebook page
+Twitter feed
+RSS feed
+Defense News © 2026
+Terms of Use
+Privacy Policy
+Terms of Service
+Get Us
+Subscribe Now
+Newsletters
+Opens in new window
+Events
+Opens in new window
+RSS Feeds
+Opens in new window
+Shop Merch
+Opens in new window
+Contact Us
+Advertise
+General Contacts, Subscription Services
+Editorial Staff
+Pitch Desk
+Opens in new window
+About Us
+About Us
+Careers
+Opens in new window

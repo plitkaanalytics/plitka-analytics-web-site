@@ -1,0 +1,120 @@
+URL:         https://www.fao.org/worldfoodsituation/foodpricesindex/en/
+Кінцевий:    https://www.fao.org/worldfoodsituation/foodpricesindex/en/
+Заголовок:   FAO Food Price Index | Food and Agriculture Organization of the United Nations
+Дата публ.:  2026-10-02
+Завантажено: 2026-10-07 09:39 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 63698
+Оригінал:    raw/113-fao.org-en.html
+sha256:      b3ce389b05023e616cf1b7a5fd50c8cf364884b631250eabbbf1de372f07b3fd
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 9
+==============================================================================
+FAO Food Price Index  | Food and Agriculture Organization of the United Nations
+FAO Cereal Supply and Demand Brief
+Excel: Nominal and real indices from 1990 onwards (monthly and annual)
+Food Price Monitoring and Analysis (FPMA) Tool
+Regional Office for Asia and the Pacific
+Regional Office for Europe and Central Asia
+Regional Office for Latin America and the Caribbean
+Regional Office for the Near East and North Africa
+Transparency and accountability
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+FAO Food Price Index  | Food and Agriculture Organization of the United Nations
+Discover
+About FAO
+News
+Multimedia
+Main topics
+Statistics
+Members
+Publications
+English
+العربية
+中文
+Français
+Русский
+Español
+World Food Situation Home
+FAO Food Price Index
+Share
+Close
+World Food Situation
+FAO Food Price Index
+FAO Cereal Supply and Demand Brief
+FAO Food Price Index
+The FAO Food Price Index (FFPI) is a measure of the monthly change in international prices of a basket of food commodities. It consists of the average of five commodity group price indices weighted by the average export shares of each of the groups over 2014-2016.
+A feature article
+published in the June 2020 edition of the Food Outlook presents the revision of the base period for the calculation of the FFPI and the expansion of its price coverage, to be introduced from July 2020.
+A November 2013 article
+contains technical background on the previous construction of the FFPI.
+Monthly release dates for 2026: 9 January, 6 February, 6 March, 3 April, 8 May, 5 June, 3 July, 7 August, 4 September, 2 October, 6 November, 4 December.
+FAO Food Price Index edges up in September on higher sugar, cereal and vegetable oil prices
+Release date: 02/10/2026
+Download datasets:
+Excel: Nominal and real indices from 1990 onwards (monthly and annual)
+CSV: Nominal indices
+                        from 1990 onwards (monthly)
+Excel: Nominal and real
+indices from 1961 onwards
+(annual)
+For export quotations of various foodstuffs and national retail/wholesale prices of foods please visit FAO’s
+Food Price Monitoring and Analysis (FPMA) Tool
+For more information
+contact us
+.
+»
+The
+FAO Food Price Index* (FFPI
+) averaged 136.0 points in September 2026, up 2.0 points (1.5 percent) from its revised August level. Price indices for crop-based commodity groups (cereals, vegetable oils, and sugar) all increased from the previous month, while the meat price index declined and the dairy price index remained stable.
+Compared to a year earlier, the FFPI stood 7.4 points (5.8 percent) higher but remained 24.3 points (15.1 percent) below its peak reached in March 2022.
+»
+The
+FAO Cereal Price Index
+averaged 122.8 points in September, up 6.0 points (5.1 percent) from August and 18.0 points (17.2 percent) above its September 2025 value.
+World wheat prices increased by 6.3 percent from August, reaching their highest level since August 2023, although daily quotations eased towards the end of the month. The rise was largely associated with logistical constraints in the Black Sea region, which prompted importers to shift towards alternative origins. Dry weather conditions in parts of North America ahead of winter wheat planting also contributed to the increase. Global maize prices rose by 5.6 percent month-on-month to their highest level in more than three years, supported by a tightening supply outlook following lower-than-anticipated yields in the United States of America and less export availability in Brazil. Trade disruptions in the Black Sea region reduced maize export availability, while uncertainty over shipping through the Strait of Hormuz kept concerns about fuel, fertilizer and freight costs elevated, providing additional support to commodity prices, particularly for those used as biofuel feedstocks, such as maize. World sorghum and barley prices also increased in September, by 13.7 percent and 3.9 percent, respectively, in line with broader trend across feed grain markets, as well as expectations of increased Chinese purchases of sorghum following trade discussions between China and the United States of America. The FAO All Rice Price Index increased by 1.4 percent in September 2026, as Indica quotations rose amid weather concerns and seasonally tighter supplies.
+»
+The
+FAO Vegetable Oil Price Index
+averaged 198.6 points in September, up 1.8 points (0.9 percent) from August and 18.3 percent above its level a year earlier.
+The increase was driven mainly by higher world palm oil prices, more than offsetting a decline in sunflower oil quotations. Soy and rapeseed oil prices remained broadly stable during the month. International palm oil prices rose for the fourth consecutive month, supported by strong global import demand and concerns over the impact of dry weather on production prospects in Southeast Asia. By contrast, sunflower oil prices declined for the third successive month, reflecting expectations of ample supplies from the Black Sea region, although ongoing logistical disruptions and constrained export capacity through alternative routes contained the decline. World soy oil prices were little changed, remaining well above their year-earlier levels, supported by robust demand from the biofuel sector. Rapeseed oil prices also remained largely unchanged.
+»
+The
+FAO Meat Price Index
+averaged 127.9 points in September, down 1.5 points (1.1 percent) from its revised August value and in line with its level a year ago.
+The decline reflected lower poultry and pig meat quotations, while bovine and ovine meat prices remained broadly stable. International poultry meat quotations declined amid ample export supplies from Brazil and weaker import demand from the European Union following the entry into force on 3 September of the antimicrobial-related import requirements. The effect was most evident for higher-value products and was compounded by the front-loading of imports ahead of the implementation of the new rules. Pig meat prices also declined amid abundant supplies in major exporting countries. In the European Union, animal growth rates returned to normal levels following the decline during the summer heatwaves, supporting increased supplies and weighing on prices. For bovine meat, export prices in Australia declined amid intensified global competition, while quotations increased in Brazil, supported by stronger demand from the United States of America after the temporary expansion of the tariff-rate quota for lean beef trimmings on 1 September, which reduced duties on additional import volumes. Ovine meat prices remained on average unchanged, as support to export prices in Oceania from firm global import demand was tempered by lower quotations in New Zealand, largely reflecting currency movements.
+»
+The
+FAO Dairy Price Index
+averaged 119.1 points in September, down by 0.2 points (0.1 percent) from August.
+Declines in cheese prices were almost offset by increases in milk powder quotations, while butter prices changed little. The index remained 19.1 percent below its level a year earlier. While skim milk powder quotations stood 33.1 percent above their year-earlier level, cheese and butter prices were substantially lower. Milk powder prices rose across major origins, supported by sustained import demand, particularly from Asia, and limited availability for prompt delivery. In Oceania, firm buying interest more than offset downward pressure from seasonally larger milk production. Cheese prices declined across the major exporting regions. The trend was driven mainly by developments in the European Union, where weaker buying interest and strong competition from abundant export supplies from the United States of America weighed on prices. Increasing seasonal export availability in Oceania added further downward pressure. By contrast, butter prices were on average little changed, as lower export quotations in Oceania were largely offset by firmer prices in Europe due to limited milkfat availability following a hot and dry summer.
+»
+The
+FAO Sugar Price Index
+averaged 114.0 points in September, up 6.5 points (6.1 percent) from August and 14.6 points (14.7 percent) from a year ago, marking its third consecutive monthly increase and reaching its highest level since April 2025.
+The increase was mainly driven by prospects of tighter global sugar supplies in the 2026/27 season. In the European Union, a decline in planted area and adverse weather conditions during the growing season are expected to result in a smaller sugarbeet output. Forecasts of lower sugar production in Thailand and concerns over crop prospects in India, amid below-normal rainfall and strengthening El Niño conditions, contributed to the tighter global supply outlook. In addition, heavy rains disrupting harvest progress in Brazil’s key Centre-South growing region exerted further upward pressure on international sugar prices.
+* Unlike for other commodity groups, most prices utilized in the calculation of the FAO Meat Price Index are not available when the FAO Food Price Index is computed and published; therefore, the value of the Meat Price Index for the most recent months is derived from a mixture of projected and observed prices. This can, at times, require significant revisions in the final value of the FAO Meat Price Index which could in turn influence the value of the FAO Food Price Index.
+WeChat
+Follow us on
+FAO Organizational Chart
+Worldwide offices
+Regional Office for Africa
+Regional Office for Asia and the Pacific
+Regional Office for Europe and Central Asia
+Regional Office for Latin America and the Caribbean
+Regional Office for the Near East and North Africa
+Country Offices
+Jobs
+Contact us
+Terms and Conditions
+Data protection and privacy
+Scam Alert
+Report Misconduct
+Transparency and accountability
+Procurement
+© FAO 2026

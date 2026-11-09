@@ -1,0 +1,208 @@
+URL:         https://maritime-executive.com/article/oil-prices-jump-after-houthi-strikes-and-iranian-shipping-attacks
+Кінцевий:    https://maritime-executive.com/article/oil-prices-jump-after-houthi-strikes-and-iranian-shipping-attacks
+Заголовок:   Oil Prices Jump After Houthi Strikes and Iranian Shipping Attacks
+Дата публ.:  2026-10-22
+Завантажено: 2026-10-26 09:15 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 151631
+Оригінал:    raw/285-maritime-executive.com-oil-prices-jump-after-houthi-strikes-and-irania.html
+sha256:      695324e91b83573a061e0302cf504df5ea3747323c0ef5b28559514b0e8cd31b
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 18
+==============================================================================
+A Year of Offshore Oil Spills Prompts Growing Concern in Mexico
+LR: Ports Will Benefit From Early Planning for Nuclear Power Systems
+Smuggler Tactics Make a Mass Casualty in English Channel "Inevitable"
+Russian Trawlers Go Fishing for Cables
+Tankers on the move to and from Hormuz, Oct. 21. Iran reported multiple strikes on tanker traffic overnight Wednesday (Copernicus / Sentinel-2)
+Stay on Top of the Daily Maritime News
+Unexplained Ship Clusters Anchoring off Taiwan
+Maritime Procurement: Where the Cost is Really Set
+Argentina Seeks UNCLOS Ruling on UK-Backed Oil Project off the Falklands
+UK Approves Controversial Jackdaw Gas Project in the North Sea
+US Deep-Sea Mining Claim Areas Rival ISA Licenses in Size
+Russian Military Freighters May Be Slipping Intelligence Officers Ashore
+Standardization is Key to Boosting Economies of Scale
+When a Swedish Program to Investigate Engine Room Fires was Launched
+Seafarers Must Adapt to the Rapid Evolution of Piracy
+Understanding Trim back in 1972
+The latest news in your inbox daily.
+© Copyright 2026 The Maritime Executive, LLC. All rights reserved.
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Oil Prices Jump After Houthi Strikes and Iranian Shipping Attacks
+Go
+SUBSCRIBE FREE
+Friday, October 23, 2026
+Media Kit
+news
+Features
+Podcasts
+Magazine
+Newsletter
+Advertise
+Directory
+Subscribe
+Subscribe
+News
+Piracy News
+Shipbuilding News
+Cruise Ship News
+Ports News
+Salvage News
+Training News
+Government News
+Environment News
+Corporate News
+Features
+Podcasts
+Magazine
+Newsletter
+Advertise
+Directory
+Media Kit
+Contact
+TOP
+STORIES
+A Year of Offshore Oil Spills Prompts Growing Concern in Mexico
+Published
+				by
+Dialogue Earth
+LR: Ports Will Benefit From Early Planning for Nuclear Power Systems
+Published
+				by
+The Maritime Executive
+Smuggler Tactics Make a Mass Casualty in English Channel "Inevitable"
+Published
+				by
+The Maritime Executive
+Russian Trawlers Go Fishing for Cables
+Published
+				by
+The Maritime Executive
+381
+Views
+Oil Prices Jump After Houthi Strikes and Iranian Shipping Attacks
+Tankers on the move to and from Hormuz, Oct. 21. Iran reported multiple strikes on tanker traffic overnight Wednesday (Copernicus / Sentinel-2)
+By
+The Maritime Executive
+2026-10-22 17:12:08
+On Thursday, the continued Houthi attacks on Saudi energy targets prompted a jump in oil prices, driving Brent futures upwards to nearly $113 by the market close in New York.
+In an already-tight global supply situation, Saudi Arabia's energy ministry reported Wednesday that air defenses had intercepted a drone at the Shaybah oil field, located in the shifting dunes of the Empty Quarter. The unmanned aircraft had attempted to strike a processing facility at the processing plant. It was shot down outside of the perimeter fence, the ministry said, but debris hit a vehicle belonging to a contractor. One Philippine national and one Nepali national were killed, and two other workers - one Pakistani and one Indian - were injured, the ministry said.
+Two others were killed in a parallel attack on King Fahd International Airport in Dammam, a frequent target of Houthi strikes.
+"These treacherous attacks reflect the terrorist Houthi militia's persistence in continuing its criminal approach of targeting civilians and vital facilities," said Jasem Mohamed Albudaiwi, Secretary General of the Gulf Cooperation Council (GCC) in a statement.
+The series of Houthi strikes within Saudi Arabia have prompted the U.S. State Department to order the departure of non-essential diplomatic staff for safety purposes. Saudi Aramco has also ordered the evacuation of its headquarters at Dhahran, which was hit by a Houthi strike earlier this month.
+Shaybah's operations were not affected by Wednesday's attack, Saudi officials said, but the prospect of damaging strikes at the facility helped propel oil prices upwards. The field produces one million barrels per day, and the market has been undersupplied for months. Gulf export volumes have only just recovered to prewar levels within the past week.
+Separately, the government of Iran claimed that three tankers hit naval mines near the Strait of Hormuz, and that four more were struck by kinetic attacks in the Arabian Gulf during ship-to-ship transfer operations. An STS evolution is a particularly vulnerable moment for tankers to take incoming fire, with filled hoses on deck, no chance of maneuvering, and the prospect of a two-vessel simultaneous casualty.
+Videos and reports circulating confirm 4 tankers were struck yesterday, and not a single report from UKMTO. *shahed-type engine in the first video. https://t.co/feWTrQVugO
+— MenchOsint (@MenchOsint)
+October 22, 2026
+Stay on Top of the Daily Maritime News
+The maritime news
+that matters most
+Get the latest maritime news delivered to your inbox daily.
+Subscribe Free
+Iran's claims have not been confirmed, and UKMTO has reported no new strikes in the past 24 hours - though videos circulating on social media suggest that there may be some evidence of the claimed attacks. UKMTO recently acknowledged that the majority of attacks in the Mideast go unreported.
+The energy market lost one additional source of crude this month. Analysts with Kpler have confirmed that Iranian oil is no longer contributing to the global supply, its last floating reserves in East Asia having been sold off to Chinese buyers. The U.S. blockade on Iranian energy has been fully effective for months, and the National Iranian Oil Company has not loaded a single cargo since August 25, according to Kpler analyst Amena Bakr.
+MORE
+TOP STORIES
+Unexplained Ship Clusters Anchoring off Taiwan
+Maritime Procurement: Where the Cost is Really Set
+Argentina Seeks UNCLOS Ruling on UK-Backed Oil Project off the Falklands
+UK Approves Controversial Jackdaw Gas Project in the North Sea
+TRENDING
+STORIES
+LR: Ports Will Benefit From Early Planning for Nuclear Power Systems
+A Year of Offshore Oil Spills Prompts Growing Concern in Mexico
+Smuggler Tactics Make a Mass Casualty in English Channel "Inevitable"
+Russian Trawlers Go Fishing for Cables
+EDITORIALS
+A Year of Offshore Oil Spills Prompts Growing Concern in Mexico
+Unexplained Ship Clusters Anchoring off Taiwan
+Argentina Seeks UNCLOS Ruling on UK-Backed Oil Project off the Falklands
+US Deep-Sea Mining Claim Areas Rival ISA Licenses in Size
+Russian Military Freighters May Be Slipping Intelligence Officers Ashore
+BLOGS
+Standardization is Key to Boosting Economies of Scale
+When a Swedish Program to Investigate Engine Room Fires was Launched
+Seafarers Must Adapt to the Rapid Evolution of Piracy
+Understanding Trim back in 1972
+The Maritime News
+That Matters Most
+The latest news in your inbox daily.
+Subscribe Free
+SUBSCRIPTIONS
+SUBSCRIBE
+Print
+Digital
+Newsletter
+Renew
+Subscribe Now
+RELATED
+STORIES
+‹
+Offshore
+News
+A Year of Offshore Oil Spills Prompts Growing Concern in Mexico
+Ports
+News
+LR: Ports Will Benefit From Early Planning for Nuclear Power Systems
+Tugs & Salvage
+News
+Smuggler Tactics Make a Mass Casualty in English Channel "Inevitable"
+Government
+News
+Russian Trawlers Go Fishing for Cables
+Government
+News
+Unexplained Ship Clusters Anchoring off Taiwan
+Shipping
+News
+Maritime Procurement: Where the Cost is Really Set
+Offshore
+News
+Argentina Seeks UNCLOS Ruling on UK-Backed Oil Project off the Falklands
+Offshore
+News
+UK Approves Controversial Jackdaw Gas Project in the North Sea
+›
+SUBSCRIPTIONS
+SUBSCRIBE
+Print
+Digital
+Newsletter
+Renew
+Subscribe Now
+Show Comments
+About Us
+Advertise
+Media Kit
+Newsletter
+Contact Us
+Privacy Policy
+Site Map
+News
+Features
+Podcasts
+Magazine
+Newsletter
+Blogs
+Directory
+Jobs
+Shipping
+Offshore
+Piracy
+Shipbuilding
+Cruise Ship
+Ports
+Tug & Salvage
+Training
+Government
+Environment
+Business
+Subscribe
+© Copyright 2026 The Maritime Executive, LLC. All rights reserved.

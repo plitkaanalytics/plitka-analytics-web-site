@@ -1,0 +1,15 @@
+URL:         https://timesofisrael.com/liveblog-october-07-2026
+Кінцевий:    https://www.timesofisrael.com/liveblog-october-07-2026
+Заголовок:   Just a quick check…
+Дата публ.:  2026-07-01
+Завантажено: 2026-10-08 05:05 UTC
+HTTP:        403   Тип: text/html; charset=UTF-8   Байтів: 12825
+Оригінал:    raw/173-timesofisrael.com-liveblog-october-07-2026.html
+sha256:      5d11d2fd6698b46bd29dc0a3672a51edb899959b5acf39d93a817d35b1b66837
+Витяг:       bs4-full
+Примітка:    оригінал 403; знімка немає в Wayback
+
+==============================================================================
+Cloudflare capcha page
+TOI logo
+Just a quick check…

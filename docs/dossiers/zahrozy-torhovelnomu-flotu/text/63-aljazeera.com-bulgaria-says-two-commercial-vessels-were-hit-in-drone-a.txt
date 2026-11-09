@@ -1,0 +1,43 @@
+URL:         https://www.aljazeera.com/news/2026/10/6/bulgaria-says-two-commercial-vessels-were-hit-in-drone-attack-in-its-waters
+Кінцевий:    https://www.aljazeera.com/news/2026/10/6/bulgaria-says-two-commercial-vessels-were-hit-in-drone-attack-in-its-waters
+Заголовок:   Bulgaria searches for missing crew after drones hit two ships in Black Sea
+Дата публ.:  2026-10-06
+Завантажено: 2026-10-07 09:20 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 216088
+Оригінал:    raw/63-aljazeera.com-bulgaria-says-two-commercial-vessels-were-hit-in-drone-a.html
+sha256:      fccf97841a16ea6eaacddf2d0b2eaa3cfde43bbc4b671f2cf5e369d263f0764b
+Витяг:       trafilatura
+
+==============================================================================
+# Bulgaria searches for missing crew after drones hit two ships in Black Sea
+
+*Bulgaria launches search operation after Togo-flagged Alfa Watan sinks at scene of attack.*
+
+Bulgarian Prime Minister Rumen Radev says drones have hit two commercial vessels, sinking one ship and wounding several people, in what he denounced as an “absolutely unacceptable” attack.
+
+Speaking to reporters on Tuesday, Radev said the ships were attacked by sea drones and aerial drones at about 3am (00:00 GMT), about 70 nautical miles (130km) off Bulgaria’s coast, amid a rise in attacks on Black Sea shipping due to [expanding drone attacks](/video/inside-story/2026/5/30/is-the-war-in-ukraine-entering-a-new-phase-2) related to the Russia-Ukraine war.
+
+## Recommended Stories
+
+list of 4 items- list 1 of 4[Why has Putin added 15,000 new soldiers to Russia’s army?](/news/2026/9/29/why-has-putin-added-15000-new-soldiers-to-russias-army)
+- list 2 of 4[Ukraine calls for tighter sanctions as Russian attacks spark Kyiv gridlock](/news/2026/10/2/ukraine-calls-for-tighter-sanctions-as-russian-attacks-spark-kyiv-gridlock)
+- list 3 of 4[Russia’s ‘new doctrine’ targets civilian sites in Ukraine, Zelenskyy says](/news/2026/10/3/five-killed-as-kyiv-and-moscow-trade-strikes-russia-hits-second-bridge)
+- list 4 of 4[Ukraine says Russian drone attack sinks ship in Romanian waters](/news/2026/10/5/ukraine-says-russian-drone-attack-sinks-ship-in-romanian-waters)
+
+“This is an unacceptable attack in Bulgaria’s exclusive economic zone. It is a blatant violation of international law and maritime law,” Radev said.
+
+The Togo-flagged Alfa Watan suffered critical structural damage and sank at the scene. There was no immediate word on the crew’s fate, he said, as Bulgarian authorities launched a major search for the missing crew. Radev did not specify how many people were missing.
+
+The second vessel, the Palau-flagged Able, caught fire after the attack. A Bulgarian ferry and a naval fast boat evacuated all 18 crew members. Two sailors suffered serious injuries and were flown to a hospital in the port city of Varna, Radev said.
+
+The Able was reportedly carrying wheat and sailing south, while the Alfa Watan was heading north. The Alfa Watan’s cargo was unknown, Radev said, adding that authorities were monitoring for possible oil spills and other signs of environmental pollution.
+
+The origin of the drones was not immediately established, but the dual strike came a day after [another ship caught fire and sank](/news/2026/10/5/ukraine-says-russian-drone-attack-sinks-ship-in-romanian-waters) off the Romanian coast, killing one and leaving one missing, in what Ukraine said was a drone attack launched by Russia.
+
+Ukrainian President Volodymyr Zelenskyy described that attack as “a horrific strike by two Russian drones on a civilian vessel” in neutral waters.
+
+“What is happening is seriously disrupting shipping in the Black Sea, driving up insurance costs even further and making shipping extremely difficult,” Radev said after an emergency meeting on Tuesday.
+
+Black Sea shipping has been heavily affected by the [Russia-Ukraine war](/tag/ukraine-russia-crisis/) in recent months, and Radev warned that the war was expanding geographically and increasing the risk of global conflict.
+
+Hungarian Prime Minister Peter Magyar said Budapest “stands in full solidarity with Bulgaria” after the attack on the two ships.

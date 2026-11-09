@@ -1,0 +1,30 @@
+URL:         https://gcaptain.com/qatar-brings-empty-lng-ships-into-gulf-in-potential-export-boost/
+Кінцевий:    https://gcaptain.com/qatar-brings-empty-lng-ships-into-gulf-in-potential-export-boost/
+Заголовок:   Qatar Brings Empty LNG Ships Into Gulf in Potential Export Boost
+Дата публ.:  2026-10-07
+Завантажено: 2026-10-08 05:06 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 231351
+Оригінал:    raw/177-gcaptain.com-qatar-brings-empty-lng-ships-into-gulf-in-potential-expor.html
+sha256:      7f61fe18cbfb5d3fd1397995abe6d79350b1065ccc0d8a1b300853ec42cfde4d
+Витяг:       trafilatura
+
+==============================================================================
+By Stephen Stapczynski and Ruth Liao
+
+Oct 7, 2026 (Bloomberg) –Qatar has amassed a fleet of empty liquefied natural gas tankers in the Persian Gulf, a sign that one of the world’s biggest exporters of the fuel may be preparing to boost shipments through the Strait of Hormuz.
+
+At least 12 ballast LNG carriers owned or chartered by QatarEnergy are waiting in waters near the country, according to a Bloomberg News analysis of satellite images and ship-tracking data. Together, the vessels can hold about 1.1 million tons of LNG, or roughly 2% of the carrying capacity of the entire global tanker fleet.
+
+There’s no guarantee the vessels will sail through Hormuz once loaded, particularly as Iranian attacks on ships have intensified. A Greek-owned LNG carrier was hit by an unidentified object while sailing near the waterway, Athens News Agency reported on Tuesday, citing Greece’s shipping ministry.
+
+Read More: [Iran Ramps Up Ship Attacks in Hormuz as Oil, Gas Flows Climb](https://www.bloomberg.com/news/articles/2026-10-06/iran-ramps-up-ship-attacks-in-hormuz-as-oil-and-gas-flows-climb)
+
+QatarEnergy didn’t immediately respond to a request for comment.
+
+Still, the prospect of additional flows could help to temper global gas prices, which rallied to the highest level since late-2022 in Asia and Europe last month. LNG traffic through Hormuz rose in September to the highest level since the war began, but shipments remain about 75% below levels in February, before the US and Israel attacked Iran. 
+
+The recent increase in flows has caught some buyers off guard. India, for example, has been forced to scale back some spot purchases to make room for the return of Qatari cargoes.
+
+The market is now watching to see if the initial recovery in LNG shipments will continue. Oil shipments have rebounded sharply over the last few months. However, much of the crude has been loaded onto other ships in the Gulf of Oman in a tactic known as shuttling. Such transfers are technically more difficult with the super-chilled fuel.
+
+© 2026 Bloomberg L.P.

@@ -1,0 +1,13 @@
+URL:         https://au.investing.com/news/commodities-news/hormuz-transits-at-lowest-in-over-two-months-after-attacks-data-shows-4678604
+Кінцевий:    https://au.investing.com/news/commodities-news/hormuz-transits-at-lowest-in-over-two-months-after-attacks-data-shows-4678604
+Заголовок:   
+Дата публ.:  не вказана на сторінці
+Завантажено: 2026-10-08 05:05 UTC
+HTTP:        403   Тип: text/plain   Байтів: 3
+Оригінал:    raw/174-au.investing.com-hormuz-transits-at-lowest-in-over-two-months-after-at.html
+sha256:      d26eae87829adde551bf4b852f9da6b8c3c2db9b65b8b68870632a2db5f53e00
+Витяг:       bs4-full
+Примітка:    оригінал 403; знімка немає в Wayback
+
+==============================================================================
+403

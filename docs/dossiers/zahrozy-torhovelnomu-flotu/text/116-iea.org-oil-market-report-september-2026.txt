@@ -1,0 +1,71 @@
+URL:         https://www.iea.org/reports/oil-market-report-september-2026
+Кінцевий:    https://www.iea.org/reports/oil-market-report-september-2026
+Заголовок:   Oil Market Report - September 2026 – Analysis - IEA
+Дата публ.:  2026-09-11
+Завантажено: 2026-10-07 09:39 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 313427
+Оригінал:    raw/116-iea.org-oil-market-report-september-2026.html
+sha256:      c6ef0fc38857ec9089be060d8c570ee2b94f70b74e46c5adfb3c318e4d6f2838
+Витяг:       trafilatura
+
+==============================================================================
+#### About this report
+
+The IEA Oil Market Report (OMR) is one of the world's most authoritative and timely sources of data, forecasts and analysis on the global oil market – including detailed statistics and commentary on oil supply, demand, inventories, prices and refining activity, as well as oil trade for IEA and selected non-IEA countries.
+
+### Highlights
+
+- World oil demand is forecast to decline by 2.5 mb/d in 2026, 940 kb/d steeper than in last month’s - *Report*, as the continuing impasse in negotiations between the United States and Iran delays the prospect of a normalisation of flows into next year. Losses will be concentrated in middle distillates and petrochemical feedstock products, especially in Asia. Oil demand is projected to recover by 2.6 mb/d in 2027, narrowly offsetting this year’s losses.
+- Global oil production fell by 1.6 mb/d m-o-m to 100.1 mb/d in August, as more than 10 mb/d of Gulf output remained shut in amid heightened security risks. Total oil supply is set to fall by 5.7 mb/d to 100.7 mb/d this year, with the expected recovery in the Gulf now deferred until 2027. Production is set to rebound by 8 mb/d in 2027. The Americas Quintet dominates growth in non-OPEC+ output, adding 1.4 mb/d in 2026 and 1 mb/d next year. 
+- Refinery throughputs reached a summer peak of 81.4 mb/d in August, up 960 kb/d m-o-m, but 4.2 mb/d lower than a year ago, with losses spread across the Middle East, Russia and crude importing economies in Asia. Global runs are forecast to decline by 2.6 mb/d to 81.5 mb/d in 2026. Refining margins reached record levels in the Atlantic Basin in August, led by sharply higher diesel cracks, while surging freight rates weighed on Singapore profitability. 
+- Global observed oil inventories plunged by a further 95 mb in August, taking cumulative draws since February to 507 mb, or 2.8 mb/d on average. Oil on water volumes declined by 65 mb as tanker traffic out of the Middle East came under renewed attacks. Non-OECD inventories drew by 52 mb, led by China, while OECD stocks rose by 23 mb as builds in commercial tanks more than offset a 19 mb draw in government stocks. 
+- Benchmark North Sea Dated crude prices rose by $7.61/bbl to an average of $91.00/bbl in August, before surging to $113.48/bbl on 9 September. Backwardation reached extreme levels as crude markets tightened in tandem with disruptions in the Middle East and Russia, while demand shifted towards Atlantic Basin barrels. Tanker costs also were up sharply, in line with rising security risks and strong demand for ships. 
+
+### Diesel squeeze
+
+Benchmark crude oil prices surged to their highest level since May as negotiations between the United States and Iran to end the war in the Middle East remained at an impasse amid renewed hostilities. ICE Brent futures traded at $105/bbl at the time of writing, up $21/bbl since the start of August and 45% above pre-war levels, while physical benchmarks were significantly higher. However, the rise in both crude futures and physical prices pales in comparison with those for refined products, where market tightness is now most acute. Diesel/gasoil, which accounts for nearly 30% of global demand, saw prices in the United States surpass the $200/bbl mark in early September, 94% above pre-war levels, with Europe and Asia not far behind.
+
+The widening differential between crude and refined products has pushed refinery margins to record levels in the Atlantic Basin. Total oil exports from Gulf countries in August are currently estimated around 13 mb/d, nearly half their pre-war level. Crude losses appear to have narrowed to just below 45%, supported by increased flows bypassing the Strait, as well as US military escorts protecting flows through Hormuz. However, refined product and LPG exports remain nearly 60%, or 3.7 mb/d, less than in February.
+
+Notably, net exports of diesel/gasoil from the Gulf countries averaged 390 kb/d in August, just over a quarter of pre-war levels, as flows through the Strait of Hormuz remained severely constrained. Disruptions to Russia’s refining system and a near-halt to product exports following intensified Ukrainian attacks have compounded these losses. Combined, net exports of diesel/gasoil exports from the Gulf and Russia in August were 1.6 mb/d lower than in February, when they accounted for almost 45% of global seaborne trade. A partial offset comes from other regions, where throughputs are pushed to the limit to capture record profit margins.
+
+With the protracted US-Iran diplomatic standoff and renewed attacks in both the Gulf and the Red Sea’s Bab el-Mandeb choke point continuing to hamper the normalisation of oil flows, we have further cut our supply and demand projections for the remainder of the year. World oil supply is now projected to average 100.7 mb/d in 2026, down 5.7 mb/d y-o-y, and 1.3 mb/d lower than in our last Report, with a full recovery in supplies from Middle East producers deferred until 2027.
+
+Steep losses of petrochemical feedstocks and refined product supplies, along with higher fuel prices, notably for diesel, will continue to weigh on consumption. Global oil demand is forecast to fall by 2.5 mb/d in 2026, around 940 kb/d more than estimated in last month’s Report. Nevertheless, the pace of the decline is set to ease from 5.3 mb/d in 2Q26 to 3.4 mb/d in 3Q26 and 2 mb/d in 4Q26.
+
+Inventories have so far played a crucial role in balancing the market. Since the start of the war, global observed oil inventories have fallen by 507 mb, equal to an average draw of 2.8 mb/d. August alone saw stocks fall by a steep 95 mb, or 3.1 mb/d. With buffers shrinking and the global refining system stretched to the limit, the need for progress in resolving the conflict in the Middle East – and the Russia-Ukraine war, which is now in its fifth year – is greater than ever to avoid further market tightening and demand destruction.
+
+**OPEC+ crude oil production**1
+
+*million barrels per day*
+
+| Jul 2026Supply | Aug 2026Supply | Aug 2026vs Target | Aug 2026Implied Target 1 | SustainableCapacity 2 | Eff Spare Capvs Aug 3 | |
+|---|---|---|---|---|---|---|
+| Algeria | 0.97 | 0.98 | -0.02 | 1.0 | 1.0 | 0.02 | 
+| Congo | 0.29 | 0.26 | -0.01 | 0.28 | 0.27 | 0.0 | 
+| Equatorial Guinea | 0.04 | 0.04 | -0.03 | 0.07 | 0.05 | 0.01 | 
+| Gabon | 0.2 | 0.19 | 0.01 | 0.18 | 0.22 | 0.03 | 
+| Iraq | 2.88 | 3.86 | -0.55 | 4.4 | 4.87 | |
+| Kuwait | 1.8 | 2.04 | -0.62 | 2.66 | 2.88 | |
+| Nigeria | 1.51 | 1.51 | 0.01 | 1.5 | 1.45 | 0 | 
+| Saudi Arabia | 8.24 | 5.97 | -4.45 | 10.42 | 12.11 | |
+| Total OPEC-8 | 15.93 | 14.85 | -5.66 | 20.51 | 22.84 | 0.07 | 
+| Iran 4 | 2.72 | 2.16 | 3.8 | |||
+| Libya 4 | 1.35 | 1.4 | 1.34 | 0 | ||
+| Venezuela 4 | 1.12 | 1.16 | 1.12 | 0 | ||
+| Total OPEC | 21.12 | 19.56 |   |   | 29.11 | 0.07 | 
+| Azerbaijan | 0.44 | 0.4 | -0.15 | 0.55 | 0.44 | 0.04 | 
+| Kazakhstan | 1.55 | 1.9 | 0.28 | 1.62 | 1.83 | 0 | 
+| Mexico 5 | 1.4 | 1.39 | 1.5 | 0.11 | ||
+| Oman | 0.83 | 0.87 | 0.03 | 0.84 | 0.9 | |
+| Russia | 8.56 | 8.36 | -1.53 | 9.89 | 9.3 | |
+| Others 6 | 0.67 | 0.63 | -0.24 | 0.87 | 0.86 | |
+| Total Non-OPEC | 13.46 | 13.55 | -1.61 | 13.76 | 14.82 | 0.15 | 
+| OPEC+ 18 in Nov 2022 deal5 | 27.98 | 27.0 | -7.26 | 34.27 | 36.17 | 0.11 | 
+| Total OPEC+  | 34.57 | 33.11 |   |   | 43.93 | 0.22 | 
+
+#### Oil Market Report Documentation
+
+Definitions of key terms used in the OMR.
+
+For more info on the methodology, download the PDF below.

@@ -1,0 +1,271 @@
+URL:         https://thedocs.worldbank.org/en/doc/40ebbf38f5a6b68bfc11e5273e1405d4-0090012022/related/Food-and-Nutrition-Security-Update-122-May-29-2026.pdf
+Кінцевий:    https://thedocs.worldbank.org/en/doc/40ebbf38f5a6b68bfc11e5273e1405d4-0090012022/related/Food-and-Nutrition-Security-Update-122-May-29-2026.pdf
+Заголовок:   Food-and-Nutrition-Security-Update-122-May-29-2026.pdf
+Дата публ.:  не вказана на сторінці
+Завантажено: 2026-10-07 09:39 UTC
+HTTP:        200   Тип: application/pdf   Байтів: 599144
+Оригінал:    raw/115-thedocs.worldbank.org-food-and-nutrition-security-update-122-may-29-20.pdf
+sha256:      8278c105875cc1a53725b1a0a65d21e419c0a051437f8096fb64cee16bd8c29a
+Витяг:       pdftotext
+
+==============================================================================
+                                                                                                   May 2026
+
+ The findings, interpretations, and conclusions expressed in this update do not necessarily reflect the views
+ of the World Bank, its Board of Executive Directors, or the governments they represent.
+
+ KEY MESSAGES
+
+    • Global food and nutrition insecurity is increasing despite broadly stable supplies of major staples.
+         Since the last update in March, agricultural and cereal price indices have risen by 3 and 4 percent,
+         respectively. Conflict and climate shocks continue to be the primary drivers of acute food insecurity.
+         Up to 67 million people in need of food assistance in East and Southern Africa, with 14 localities
+         considered at risk of famine in Sudan, and nearly 52.9 million people are projected to be acutely food
+         insecure in West and Central Africa during the June to August 2026 lean season.
+
+    • The Middle East conflict is increasing risks to food security. Disruptions to oil, gas and fertilizer flows
+         through the Strait of Hormuz drove a 46 percent month-on-month rise in urea prices and increased
+         agricultural price indices by 8 percent, raising the risk of an affordability crisis. The World Bank
+         Commodity Markets Outlook projects that fertilizer prices will rise by 31 percent on average in 2026,
+         reaching their least affordable levels since 2022.
+
+    • A 61 to 87 percent probability of El Niño emerging by mid-2026 and continuing into 2027 could make
+         the situation worse by threatening crop production in South Asia, Southern Africa, and parts of East
+         Asia, with rice output potentially falling by 20 to 50 percent.
+
+ GLOBAL MARKETS OUTLOOK (as of May 22, 2026)
+
+Trends in Global Agricultural Commodity Prices
+
+Since the last update in March, agricultural and cereal prices indices have increased by 3 and 4 percent,
+respectively, while the export price index has decreased by 4 percent. Maize and wheat prices, which closed
+5 and 11 percent higher, respectively, are driving the increase in the cereal price index, and rice prices closed
+5 percent lower. On a year-on-year basis, average prices for wheat and maize are 19 and 5 percent higher,
+respectively, and rice prices are 6 percent lower. Maize and wheat prices are 23 and 18 percent higher,
+respectively, than in January 2020, and rice prices are 6 percent lower (Figure 1).
+
+The ongoing Middle East conflict has been a key driver of fertilizer market volatility. Fertilizer price pressures
+intensified from February through April 2026, with urea surging over 80 percent amid regional conflict-driven
+supply disruptions, while DAP and TSP fertilizers rose approximately 16 and 23 percent, respectively,
+reflecting the cumulative impact of energy cost pass-throughs and trade route uncertainty. Potash and
+phosphate rock prices showed no movement, consistent with their insulation from the geopolitical and energy
+dynamics that have driven nitrogen and phosphate fertilizer market volatility.
+
+                                                                                                                                              Official Use Only
+                      Figure 1: Cereal and Agricultural and Price Indexes
+
+                      Source: World Bank commodity price data.
+
+Food Price Inflation
+
+Domestic food price inflation remained moderately high between January and March 2026, with pronounced
+disparities between countries. Data for this period indicates a slight deterioration in low-income countries,
+resulting in a higher share of countries with food inflation above 5 percent (40.0 percent to 45.0 percent). On
+the other hand, conditions improved in lower-middle-income countries (from 40.8 percent to 36.7 percent),
+upper-middle-income countries (from 34.0 percent to 29.8 percent), and high-income countries (from 6.8
+percent to 5.1 percent) (Figure 2a). Regional patterns were similarly uneven. Latin America and the Caribbean
+and South Asia experienced an increase in food inflation, whereas Europe and Central Asia and parts of Africa
+generally saw moderate increases, although several countries in Eastern and Southern Africa continued to
+record double-digit food inflation. In real terms, food price inflation outpaced overall inflation (based on year-
+on-year changes in the overall Consumer Price Index [CPI]) in 14 percent of the 148 countries for which
+quarterly food CPI and overall CPI indexes are both available (Figure 2b), underscoring pressure on household
+purchasing power in those countries.
+
+ Source: International Monetary Fund, Haver Analytics and Trading Economics. Real food inflation is defined as food inflation
+                                                                      minus overall inflation.
+
+Trends in Global Food and Nutrition Security
+
+Global food and nutrition security is under mounting pressure. Supplies of major staples have remained
+relatively stable, but geopolitical shocks are intensifying. Their full impact on food prices, hunger and nutrition
+
+2
+
+                                                                                                                                              Official Use Only
+outcomes is still unfolding. The closure of the Strait of Hormuz has emerged as the defining market event of
+the period, triggering the largest commodity supply disruption on record.
+
+The World Bank Commodity Markets Outlook (April 2026) projects that fertilizer prices will rise 31 percent on
+average in 2026—deteriorating to the worst affordability levels since 2022—and the food price index is
+expected to increase by around 2 percent, with grains up 4 percent and oils and meals up 8 percent. The AMIS
+Market Monitor (May 2026) notes that the International Grains Council Grains and Oilseeds Index reached a
+near two-year high in April, with wheat, maize, rice, and soybeans all trending upward, although global supply
+fundamentals remain relatively strong, including record rice production and broadly stable maize stocks. An
+emerging El Niño—with a 61 to 87 percent probability of developing by mid-2026 and persisting into 2027—
+poses a further medium-term risk to crop production in South Asia, Southern Africa, and Australia.
+
+ REGIONAL UPDATES
+
+East and Southern Africa
+
+In East and Southern Africa, conflict and climate events continue to drive food insecurity, with up to 67 million
+people in need of food assistance. In Sudan, 14 localities are considered at risk of famine, and the situation
+is expected to worsen during the June to September lean season, compounded by atypically early depletion
+of food stocks, rising food prices, and closure of the Chadian border since February 2026. In the Democratic
+Republic of Congo, a rare Ebola strain has already caused dozens of deaths and hundreds of suspected and
+confirmed cases and is colliding with widespread food insecurity. The health crisis comes at a particularly
+dangerous moment in DRC: 26.5 million people countrywide are already facing acute food insecurity, with
+needs far outpacing the response. In South Sudan, 9 million people need food assistance, with Emergency
+outcomes expected across 34 counties through September amid conflict, flooding, and restricted
+humanitarian access. Climate compounds these crises. In Somalia, there is high concern that conditions of
+risk of famine may be reached in two to three months in crop-dependent agropastoral areas of Bay, Bakool,
+and Gedo between June and September if the below-average April to June gu rains end early or dry spells occur
+during critical crop development in May and June. Development of an early El Niño is likely to bring below-
+normal June to September 2026 rainfall across Ethiopia's Kiremt-producing areas, western Kenya, South
+Sudan, Sudan, and Karamoja in Uganda.
+
+East Asia and the Pacific
+
+Food security conditions remain uneven across East Asia and the Pacific, shaped by divergent import
+dependencies. Although near-record rice harvests across Cambodia, China, Indonesia, Thailand, and Viet
+Nam could provide a supply cushion, surging input costs are threatening the next planting cycle. Impact is
+most severe where recent shocks are overlapping with existing vulnerabilities. In Myanmar, food security has
+deteriorated as food prices have risen. Approximately 12.4 million people were facing crisis-level food
+insecurity (IPC Phase 3+) in May, and the figure is expected to climb to 20 million or more by mid-year. Extreme
+El Niño conditions may significantly reduce Malaysia’s rice production. In the Philippines, authorities warned
+in April that 15 provinces are at risk of severe El Niño–induced drought in the coming months, threatening
+national paddy output and staple food supply. Rice output could decline by 20 to 50 percent. Papua New
+Guinea and the Solomon Islands are facing a double catastrophe of price shocks linked to the conflict in the
+Middle East and Cyclone Maila and now also the threat of El Niño–induced drought. Farmers in Cambodia,
+Lao People’s Democratic Republic, and Thailand have seen farm profitability decline because of higher
+fertilizer and energy costs, which could affect rice planting decisions during the upcoming cropping season.
+
+3
+
+                                                                                                                                              Official Use Only
+In Thailand, severe drought conditions are forecast to persist over the next three years. In contrast, rice market
+conditions have improved in Indonesia, where public rice reserves reached a record 5 million tonnes in April
+2026. Annual rice inflation has moderated to 3.7 percent, indicating short-term price stabilization and better
+stock management. The country also seems to have excess stocks of fertilizer, which it is considering
+exporting to the region.
+
+Europe and Central Asia
+
+Food and nutrition security in Europe and Central Asia remains broadly stable, but risks have intensified
+because of spillovers from the Middle East conflict. Although there is no evidence of widespread acute food
+insecurity deterioration, higher energy, fertilizer, logistics, and food costs are increasing pressure on poorer
+households, and continued vigilance on inflation, fertilizer availability, and transport costs will be essential.
+At the same time, tighter input markets and disruptions in the Strait of Hormuz are increasing production costs
+and global food prices, notably for cereals and vegetable oils in April 2026. Rising fertilizer prices may weigh
+on yields, even as shifting trade routes create opportunities for alternative corridors, with Türkiye emerging as
+a strategic link between Europe and Asia.
+
+Impacts vary across the region. Import-dependent countries in Central Asia, the South Caucasus, and the
+Western Balkans are most exposed to price transmission, and Türkiye and Ukraine face pressures from
+logistics and trade disruptions. Governments are responding with duty liberalization, subsidies and credit
+programs, export restrictions, and broader fiscal support to sustain fertilizer use. Strong grain exports from
+Kazakhstan and intraregional trade continue to support regional supply conditions.
+
+Latin America and the Caribbean
+
+Food and nutrition security in Latin America and the Caribbean remains uneven. Strong harvests in major
+producers, including Brazil and Mexico, are increasing regional availability, but gains are not translating evenly
+into access, and significant vulnerabilities persist in Central America and the Caribbean. High fuel and staple
+food prices continue to erode purchasing power: diesel prices in Guatemala City rose by about 33 percent
+between January and March 2026, and white maize prices in Tegucigalpa remained 39 percent above the five-
+year average. More than 33 million people are facing hunger, and 167 million are experiencing moderate or
+severe food insecurity.
+
+Risks are rising from two directions. First, climate forecasts point to below-average rainfall in Central America
+during May to July 2026 and a likely El Niño later in the year, increasing drought risk in the Dry Corridor and
+northeastern Brazil. Second, the Middle East conflict is impacting fuel and fertilizer markets, raising transport
+and production costs.
+
+Haiti remains the region’s most severe hotspot, with about 6 million people projected to face Crisis-level food
+insecurity or worse through mid-2026, driven by gang violence, economic collapse, high inflation, climate
+shocks, and import dependency.
+
+Middle East and North Africa
+
+The regional outlook is sharply divided; conflict drives severe food insecurity across the Middle East, and
+greater rainfall and robust cereal production ease supply pressures in parts of North Africa. Still, the subregion
+remains exposed to rising energy and fertilizer import costs if tensions escalate.
+
+Conditions remain most severe in Yemen, where about 18.3 million people are projected to be in IPC acute
+food insecurity phase 3 (Crisis) to 4 (Emergency) through September 2026; in Syria, where more than 80
+percent of households are food insecure, and 600,000 children under five face acute malnutrition; and in
+
+4
+
+                                                                                                                                              Official Use Only
+Lebanon, where 1.24 million people are projected to be in IPC 3+ through August 2026, and more than 80
+percent of southern markets remain non-functional. Gaza illustrates the severity of access constraints, with
+truck inflows still well below precrisis levels, leaving food stocks sufficient for only 10 to 14 days and creating
+a 50 percent gap in key staples. Iraq is experiencing renewed inflationary pressure, including on inputs, such
+as urea, which rose by approximately 19 percent in a single week in April 2026.
+
+Morocco’s cereal output rebounded to 9 million tonnes, covering about 75 percent of wheat needs, and
+Tunisia’s harvest is projected to be 15 to 20 percent greater than the previous season.
+
+South Asia
+
+South Asia’s food and nutrition security remains broadly stable in terms of aggregate food availability, but
+affordability is becoming more fragile as the Middle East conflict raises fuel, freight, insurance, and fertilizer
+costs across food supply chains. The main risks are higher transport and input costs, tighter fertilizer markets,
+and renewed inflationary pressure on cereals and vegetable oils, which could intensify food price pressures
+during 2026. These effects will be uneven. India is better placed to absorb near-term shocks because cereal
+output reached record levels in 2025, and prospects for the 2026 wheat crop remain favorable, supported by
+procurement, public stocks, and input subsidies. In contrast, more-import-dependent economies such as
+Bhutan, Nepal , and Sri Lanka are more exposed to higher landed costs for food and agricultural inputs and to
+stronger pass-through to retail prices. Governments are responding using fertilizer procurement, subsidies,
+reserve management, and import diversification while also promoting use of more-resilient inputs such as
+organic inputs, bio- and nano-fertilizers, solar irrigation, and electric alternatives. Production prospects are
+mixed overall, with India’s cereal outlook remaining strong but fertilizer and energy constraints threatening
+yields and seasonal planting elsewhere in the region.
+
+West and Central Africa
+
+Food and nutrition security conditions in West and Central Africa remain fragile despite favorable harvests
+and an increase in cereal supplies. Final estimates for the 2025/26 season show that regional cereal
+production reached 80.4 million tonnes, about 4 percent above the previous season and 7 percent above the
+five-year average, supported by good rainfall across much of the Sahel. Markets are generally well supplied
+with local cereals and imported rice, helping reduce prices year on year in many countries. Millet, sorghum,
+and maize prices in several Sahelian markets remained stable or declined in March and April 2026 and were
+significantly below year-earlier levels, thanks to good harvests, carryover stocks, and supportive policies.
+
+Nevertheless, food insecurity remains widespread, and nearly 52.9 million people are projected to face acute
+food and nutrition insecurity (IPC Phase 3 or worse) during the June to August 2026 lean season, especially in
+conflict-affected areas of the central Sahel, the Lake Chad Basin, and northeastern Nigeria.
+
+The conflict in the Middle East is increasing concerns about higher fuel, freight, and fertilizer costs in a region
+that depends heavily on imported inputs and food. These pressures could affect the 2026/27 agricultural
+season by decreasing fertilizer affordability and increasing production costs. Pastoral conditions are also
+worsening in parts of the western and central Sahel because of pasture and water shortages, bushfires, and
+insecurity-related movement restrictions.
+
+5
+
+                                                                                                                                              Official Use Only
+© 2026 International Bank for Reconstruction and Development / The World Bank Group
+
+1818 H Street NW
+Washington DC 20433
+Telephone: 202-473-1000
+Internet: www.worldbank.org
+
+This work is a product of the staff of the World Bank Group with external contributions. The findings, interpretations, and
+conclusions expressed in this work do not necessarily reflect the views of the World Bank, its Board of Executive
+Directors, or the governments they represent.
+
+The World Bank Group does not guarantee the accuracy, completeness, or currency of the data included in this work and
+does not assume responsibility for any errors, omissions, or discrepancies in the information, or liability with respect to
+the use of or failure to use the information, methods, processes, or conclusions set forth. The boundaries, colors,
+denominations, and other information shown on any map in this work do not imply any judgment on the part of the World
+Bank Group concerning the legal status of any territory or the endorsement or acceptance of such boundaries.
+
+Nothing herein shall constitute or be construed or considered to be a limitation upon or waiver of the privileges and
+immunities of the World Bank Group, all of which are specifically reserved.
+
+Rights and Permissions
+The material in this work is subject to copyright. Because the World Bank Group encourages dissemination of its
+knowledge, this work may be reproduced, in whole or in part, for non-commercial purposes as long as full attribution to
+this work is given.
+
+Any queries on rights and licenses, including subsidiary rights, should be addressed to World Bank Publications, the
+World Bank Group, 1818 H Street NW, Washington, DC 20433, USA; fax: 202-522-2625; e-mail:
+pubrights@worldbank.org.
+
+6
+
+                                                                                                                                              Official Use Only
+

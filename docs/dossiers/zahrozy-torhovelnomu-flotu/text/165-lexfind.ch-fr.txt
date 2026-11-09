@@ -1,0 +1,120 @@
+URL:         https://www.lexfind.ch/tolv/195671/fr
+Кінцевий:    https://www.lexfind.ch/tolv/195671/fr
+Заголовок:   fr
+Дата публ.:  не вказана на сторінці
+Завантажено: 2026-10-07 14:52 UTC
+HTTP:        200   Тип: application/pdf   Байтів: 212120
+Оригінал:    raw/165-lexfind.ch-fr.pdf
+sha256:      357a5a7ed3ec44daf13ff172b222febc53e6a92b66ba3b9ac5c6b7891e705104
+Витяг:       pdftotext
+
+==============================================================================
+Règles                                                     0.515.127
+concernant l’action des sous-marins
+à l’égard des navires de commerce
+
+Signées à Londres le 6 novembre 1936
+Approuvées par le Conseil fédéral le 14 mai 1937
+Instrument d’adhésion déposé par la Suisse le 22 mai 1937
+Entrées en vigueur pour la Suisse le 22 mai 1937
+(Etat le 1er juillet 1972)
+
+Désireux de rendre universelles les règles posées par la partie IV (art. 22) du traité
+pour la limitation et la réduction des armements navals, signé à Londres le 22 avril
+1930 en ce qui concerne l’action des sous-marins à l’égard des navires de commerce,
+les représentants des Etats-Unis d’Amérique, de la France, de la Grande-Bretagne,
+de l’Italie, du Japon, de l’Afrique du Sud, de l’Australie, du Canada, de l’Inde, de
+l’Irlande et de la Nouvelle Zélande ont signé à Londres, le 6 novembre 1936, un
+«procès-verbal» par lequel ils invitent les Etats non signataires du traité susmention-
+né à accéder formellement et sans limite de temps aux «règles» suivantes:
+
+« (1) Dans leur action à l’égard des navires de commerce, les sous-marins doivent
+         se conformer aux règles du droit international auxquelles sont soumis les
+         bâtiments de guerre de surface.
+
+   (2) En particulier, excepté dans le cas de refus persistant de s’arrêter après
+         sommation régulière ou de résistance active à la visite, un navire de guerre,
+         qu’il soit bâtiment de surface ou sous-marin, ne peut couler ou rendre inca-
+         pable de naviguer un navire de commerce sans avoir au préalable mis les
+         passagers, l’équipage et les papiers de bord en lieu sûr. A cet effet, les
+         embarcations du bord ne sont pas considérées comme un lieu sûr, à moins
+         que la sécurité des passagers et de l’équipage ne soit assurée, compte tenu de
+         l’état de la mer et des conditions atmosphériques, par la proximité de la terre
+         ou la présence d’un autre bâtiment qui soit en mesure de les prendre à bord.»
+
+En date du 14 mai 1937, le Conseil fédéral a décidé d’accéder sans réserves ni limite
+de durée aux règles ci-dessus.
+
+RS 11 439
+                                                                                                     1
+0.515.127  Prévention de la guerre. Lois et coutumes de la guerre. Neutralité
+
+Champ d’application des règles le 1er juillet 1972
+
+Etats parties                 Adhésion                Entrée en vigueur
+                              Confirmation (C)
+Afghanistan
+Afrique du Sud*               25 mai            1937  25 mai             1937
+Albanie                        6 novembre       1936   6 novembre        1936
+Allemagne                      3 mars           1937   3 mars            1937
+Arabie saoudite               23 novembre       1936  23 novembre        1936
+Australie*                    11 juin           1937  11 juin            1937
+Autriche                       6 novembre       1936   6 novembre        1936
+Belgique                      1er avril         1937  1er avril          1937
+Brésil                        23 décembre       1936  23 décembre        1936
+Bulgarie                      31 décembre       1937  31 décembre        1937
+Canada*                       1er mars          1937  1er mars           1937
+Costa Rica                     6 novembre       1936   6 novembre        1936
+Danemark                       7 juillet        1937   7 juillet         1937
+Egypte                        21 avril          1937  21 avril           1937
+El Salvador                   23 juin           1937  23 juin            1937
+Etats-Unis                    24 novembre       1937  24 novembre        1937
+Finlande                       6 novembre       1936   6 novembre        1936
+France                        18 février        1937  18 février         1937
+Grande-Bretagne*               6 novembre       1936   6 novembre        1936
+Grèce                          6 novembre       1936   6 novembre        1936
+Guatemala                     11 janvier        1937  11 janvier         1937
+Haïti                          8 septembre      1938   8 septembre       1938
+Hongrie                       23 janvier        1937  23 janvier         1937
+Inde*                          8 décembre       1937   8 décembre        1937
+Irak                           6 novembre       1936   6 novembre        1936
+Iran                          27 décembre       1937  27 décembre        1937
+Irlande*                      21 janvier        1939  21 janvier         1939
+Italie                         6 novembre       1936   6 novembre        1936
+Japon*                         6 novembre       1936   6 novembre        1936
+Mexique                        6 novembre       1936   6 novembre        1936
+Népal                          3 janvier        1938   3 janvier         1938
+Norvège                       27 janvier        1937  27 janvier         1937
+Nouvelle-Zélande*             21 mai            1937  21 mai             1937
+Panama                         6 novembre       1936   6 novembre        1936
+Pays-Bas                      26 février        1937  26 février         1937
+Indes néerlandaises, Surinam
+                              30 septembre 1937       30 septembre 1937
+   et Curaçao
+Pérou                          3 juin           1937   3 juin            1937
+Pologne                       21 juillet        1937  21 juillet         1937
+Suède                         15 février        1937  15 février         1937
+Suisse                        22 mai            1937  22 mai             1937
+Tchécoslovaquie               14 septembre      1937  14 septembre       1937
+Thaïlande                     12 janvier        1938  12 janvier         1938
+
+2
+Action des sous-marins à l’égard des navire de commerce. Règles                         0.515.127
+
+Etats parties     Adhésion                                       Entrée en vigueur
+                  Confirmation (C)
+
+Tonga             22 juin           1971 C                        4 juin                1970
+Turquie            7 juillet        1937                          7 juillet             1937
+Union soviétique  27 décembre       1936                         27 décembre            1936
+Cité du Vatican   16 mars           1937                         16 mars                1937
+Yougoslavie       19 avril          1937                         19 avril               1937
+
+* Cet Etat est lié par ces règles en raison de sa ratification du traité de Londres du
+    22 avril 1930 pour la limitation et la réduction des armements navals.
+
+                                                                                              3
+0.515.127  Prévention de la guerre. Lois et coutumes de la guerre. Neutralité
+
+4
+

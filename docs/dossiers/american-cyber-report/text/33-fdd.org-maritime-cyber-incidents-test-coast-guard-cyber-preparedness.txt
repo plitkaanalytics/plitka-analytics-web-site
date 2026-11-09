@@ -1,0 +1,43 @@
+URL:         https://www.fdd.org/analysis/2026/09/23/maritime-cyber-incidents-test-coast-guard-cyber-preparedness/
+Кінцевий:    https://web.archive.org/web/20260929222140id_/https://www.fdd.org/analysis/2026/09/23/maritime-cyber-incidents-test-coast-guard-cyber-preparedness/
+Заголовок:   Maritime Cyber Incidents Test Coast Guard Cyber Preparedness
+Дата публ.:  2026-09-23
+Завантажено: 2026-10-02 08:20 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 79882
+Оригінал:    raw/33-fdd.org-maritime-cyber-incidents-test-coast-guard-cyber-preparedness.html
+sha256:      0421aa27a81ff7cc24fed257fb070d3d683b9b8e41da7679f24f5e2976f486f9
+Витяг:       trafilatura
+Примітка:    оригінал недоступний (403), узято з Wayback
+
+==============================================================================
+##### September 23, 2026 | Policy Brief
+
+# Maritime Cyber Incidents Test Coast Guard Cyber Preparedness
+
+###### September 23, 2026 | Policy Brief
+
+#### Maritime Cyber Incidents Test Coast Guard Cyber Preparedness
+
+The Coast Guard and the FBI are [investigating](https://abcnews.com/Politics/coast-guard-fbi-investigating-after-2-oil-tankers/story?id=136482324) multiple suspected cyberattacks on oil tankers that have disrupted trade routes throughout the Atlantic Ocean. On August 7, an oil tanker bound for the United States [lost access](https://cyberscoop.com/coast-guard-fbi-investigate-tanker-cyberattacks/) [to] its communication systems for more than [30 hours](https://en.mehrnews.com/news/247123/US-bound-oil-tanker-targeted-in-Cyberattack), while on September 19, a liquefied natural gas (LNG) tanker carrying U.S. LNG to Italy was unable to unload its cargo after [losing access](https://www.marineinsight.com/lng-tanker-carrying-us-cargo-to-europe-turns-back-after-crew-reports-suspected-cyberattack/) to internal control systems. The incidents highlight both the cyber threat facing U.S. maritime operations and the growing demands on the Coast Guard to support an industry that moves more than [90 percent](https://media.defense.gov/2020/Dec/16/2002553074/-1/-1/0/TRISERVICESTRATEGY.PDF) of global trade.
+
+## Cyberattacks Threaten Global Maritime Operations and Port Security
+
+The FBI and the Coast Guard issued a September 16 [joint statement](https://cyberscoop.com/coast-guard-fbi-investigate-tanker-cyberattacks/) on the alleged cyberattacks on U.S.-bound ships, explaining that they boarded the oil tanker in the Gulf of Mexico in August “to ensure integrity of the vessel’s operational and information technology systems” after evidence of network compromise by “foreign cyber actors.” Officials are [investigating](https://www.wsj.com/politics/national-security/u-s-probes-cyberattacks-on-energy-tankers-bound-for-american-coast-33d92f3a) whether Iran might be behind the attacks.
+
+Because ships have interconnected IT and operations management systems, a compromised network could cause crews to lose control of a vessel, disrupting trade and endangering the crew aboard. A crew that cannot safely [manage](https://www.wsj.com/articles/the-dangerous-tech-found-aboard-dark-fleet-tankers-captured-by-the-u-s-34762a3a) tankers carrying millions of gallons of crude oil raises the risk of a spill, fire, or explosion. After completing incident response and remediation, the agencies [confirmed](https://apnews.com/article/fbi-suspected-cyberattacks-oil-tankers-coast-guard-5c61bfec835a790e350f06cffc8f8021) there were no immediate threats to vessel stability, crew safety, or the environment.
+
+## As Attacks Increase, Coast Guard Focuses on Cyber Support
+
+Cyberattacks [on] the maritime industry are not [a rare] [occurrence](https://blog.cfglobal.co/the-supply-chain-consequences-of-maritime-cyber-attacks/). In 2025, the Coast Guard [responded](https://www.uscg.mil/Portals/0/Images/cyber/CTIME2025.pdf) to 42 reported cyber incidents affecting U.S. maritime systems, an increase from 36 incidents in 2024. In collaboration with U.S. Cyber Command, the Coast Guard began [executing](https://www.uscg.mil/Portals/0/Images/cyber/CTIME2025.pdf) multiple deployments [utilizing] its Cyber Protection Team in early December 2025 — ranging from Hunt and Incident Response missions to Maritime Interdiction Operations of Dark Fleet vessels using traditional law enforcement tactics.
+
+To address these threats, the Coast Guard on August 31 [announced](https://www.news.uscg.mil/maritime-commons/Article/4586266/us-coast-guard-established-the-office-of-maritime-cybersecurity-policy/) the [creation of] the Office of Maritime Cybersecurity Policy (CG-MCP) to develop domestic policy and direct compliance and enforcement strategy. If properly staffed, the office has the potential to provide support for American port operators as they navigate a complex threat landscape and new cybersecurity [requirements.](https://www.dragos.com/blog/maritime-cybersecurity-uscg-mtsa-requirements) Those requirements do not apply directly to foreign-flagged vessels, but the Coast Guard has [said](https://www.news.uscg.mil/maritime-commons/Article/4247529/final-rule-cybersecurity-in-the-marine-transportation-system-implementation-tim/) it will use its Captain of the Port authority to scrutinize those with poor cybersecurity practices entering U.S. waters.
+
+## Transparency and Collaboration: A Path to Maritime Cyber Preparedness
+
+Port authorities and shipping companies remain responsible for their systems’ security, but the Coast Guard [needs](https://cybersolarium.org/csc-2-0-reports/full-steam-ahead-enhancing-maritime-cybersecurity/) sufficient funding, personnel, and capabilities to provide the necessary support in its role as the federal government’s sector risk management agency. Without a competent federal partner, the industry may lack both the information to invest wisely and guidance to identify and mitigate risks.
+
+In February 2025, the U.S. Government Accountability Office (GAO) [warned](https://www.gao.gov/products/gao-25-107244) that the Coast Guard had not fully developed competency requirements for its workforce or assessed gaps between existing capabilities and future needs to accomplish its cyber mission. In June 2026, GAO [testified](https://www.gao.gov/video/coast-guard-actions-needed-help-ensure-effective-use-billions-funding) before Congress that the service faces a broader workforce issue and lacks a plan to evaluate its modernization goals. GAO noted that in a [prior] modernization reform, the Coast Guard disestablished its modernization oversight office without creating a replacement.
+
+Congress should require the Coast Guard to provide a resourcing and implementation plan for CG-MCP and its broader maritime cyber mission, identifying cyber-specific capabilities, personnel, and dedicated funding. The plan should establish a timeline for addressing workforce recommendations in the February 2025 GAO report. Only when the mission is properly resourced can the Coast Guard ensure nationwide maritime cyber resilience.
+
+*Sophie McDowall**is a research associate for the Center on Cyber and Technology Innovation (CCTI) at the Foundation for Defense of Democracies (FDD), where Elisa Montgomery is an intern. For more analysis from the authors and FDD, subscribe* *HERE**. Follow Sophie on X* *@SophieMcDowall_**. Follow FDD on X* *@FDD**and* *@FDD_CCTI**. FDD is a Washington, DC-based, nonpartisan research institute focusing on national security and foreign policy.*

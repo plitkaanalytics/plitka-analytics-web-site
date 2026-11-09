@@ -1,0 +1,38 @@
+URL:         https://gcaptain.com/u-s-to-allow-dark-fleet-tankers-to-shed-sanctions-wright-says/
+Кінцевий:    https://gcaptain.com/u-s-to-allow-dark-fleet-tankers-to-shed-sanctions-wright-says/
+Заголовок:   U.S. to Allow Dark-Fleet Tankers to Shed Sanctions, Wright Says
+Дата публ.:  2026-10-19
+Завантажено: 2026-10-26 09:15 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 244006
+Оригінал:    raw/290-gcaptain.com-u-s-to-allow-dark-fleet-tankers-to-shed-sanctions-wright-.html
+sha256:      34c4a0e501c9c2a860d5baafb9bfb509443d1522789a387ba18cd748805d0fe0
+Витяг:       trafilatura
+
+==============================================================================
+By Ari Natter and Annmarie Hordern (Bloomberg) —
+
+The Trump administration is authorizing the sale of** **sanctioned oil tankers in an effort to allow the vessels to start legitimately shipping crude, US Energy Secretary Chris Wright said.
+
+The US government is working with investors who buy idled sanctioned tankers, refurbish them and use the ships to transport non-sanctioned oil, Wright said Monday at a Citadel Securities event in New York.
+
+“We’re going to move some of the ships from what I call the ‘bad-guy fleet’ to the ‘good-guy fleet,’ ” Wright said. “They will not carry sanctioned oil anymore.”
+
+Wright’s comments represent the first detailed public explanation from the Trump administration about turning to sanctioned tankers as it seeks to expand the number of ships available to transport crude and boost supply disrupted by the war in Iran and the effective closure of the Strait of Hormuz.
+
+The Trump administration is undertaking an approval process to grant ships legitimate status, Wright said. He rejected the idea that the US was simply removing sanctions from tankers that carried crude from nations such as Russia or Iran. 
+
+“We are converting dark tankers to legitimate tankers,” Wright said. “There is no removing of sanctions.”
+
+The move comes as Republicans in the US confront voters who are concerned about higher fuel costs weeks before midterm elections. Gasoline and diesel prices surged following the Mideast conflict adding a pain point for voters already worried about affordability. 
+
+Wright estimated that there are about 1,600 vessels in the global “dark fleet” of sanctioned tankers. The Trump administration’s effort to convert those into lawful ships could ultimately add “dozens” or even “hundreds” of tankers to the legitimate fleet, he said.
+
+The perils of transporting oil through the strait have sent shipping fees skyrocketing. Moving oil from the Persian Gulf to East Asia costs more than six times as much as it did prior to the conflict.
+
+More than 40% of the world’s fleet of about 850 very large crude carriers are now either in the Persian Gulf or within a couple of days sailing time from it, according to Signal Ocean, a shipping data provider.
+
+In addition, Wright said during the wide-ranging interview that part of the reason the Trump administration agreed to work with Russian President Vladimir Putin to release the country’s diesel supplies into global markets in a widely criticized move was to provide an incentive for the Kremlin to end the war with Ukraine. 
+
+“If you can produce more diesel than you consume, you can export it to the world. Well, what’s their route to do that? They can they can end the conflict in Ukraine,” Wright said. “That would be a real plus. They could get an energy ceasefire with the Ukrainians and fix their refineries, or they can reduce their consumption of diesel for war fighting activities. So if they change their behavior, and all of these are steps towards peace in the conflict, and you have surplus diesel, where you can export it to the world.”
+
+*© 2026 Bloomberg L.P.*

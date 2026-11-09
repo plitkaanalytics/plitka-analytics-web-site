@@ -1,0 +1,252 @@
+/* Карта затримань (InterdictionsMap). Липкий блок на висоту екрана, під ним
+   довга «драбина», яку гортає читач: прокрутка рухає час, а не кадр. */
+
+.imap {
+  margin: 48px auto;
+}
+
+.imap__track {
+  position: relative;
+  height: 280vh;
+}
+
+.imap__sticky {
+  position: sticky;
+  /* Під шапкою сайту, а не під нею схованим */
+  top: var(--header-height);
+  height: calc(100vh - var(--header-height));
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 16px 0 12px;
+  background: var(--paper);
+}
+
+.imap__head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.imap__date {
+  font-size: 28px;
+  font-weight: 700;
+  color: var(--ink);
+  font-variant-numeric: tabular-nums;
+  min-width: 9ch;
+}
+
+.imap__counts {
+  display: flex;
+  gap: 18px;
+  font-size: 13px;
+  color: var(--slate);
+}
+.imap__counts b {
+  font-size: 20px;
+  color: var(--ink);
+  margin-right: 4px;
+  font-variant-numeric: tabular-nums;
+}
+
+.imap__grid {
+  flex: 1;
+  min-height: 0;
+  display: grid;
+  grid-template-columns: 1.15fr 1fr;
+  gap: 10px;
+}
+
+.imap__win {
+  position: relative;
+  min-height: 0;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid var(--rule);
+  border-radius: 6px;
+  overflow: hidden;
+  background: #eef2f5;
+}
+.imap__win svg {
+  flex: 1;
+  min-height: 0;
+  width: 100%;
+  height: 100%;
+  display: block;
+  /* Суходіл із запасом за рамкою заходить на поля вікна */
+  overflow: visible;
+}
+
+.imap__wtitle {
+  position: absolute;
+  top: 6px;
+  left: 8px;
+  z-index: 1;
+  font-size: 11px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--slate);
+  background: rgba(250, 250, 247, 0.85);
+  padding: 2px 6px;
+  border-radius: 3px;
+}
+
+.imap__sea {
+  fill: #eef2f5;
+}
+.imap__land {
+  fill: #dcd7cc;
+  stroke: #fafaf7;
+  stroke-width: 0.6;
+}
+
+.imap__pt {
+  opacity: 0;
+  transition: opacity 0.35s ease;
+  pointer-events: none;
+  cursor: pointer;
+  outline: none;
+}
+.imap__pt.is-on {
+  opacity: 1;
+  pointer-events: auto;
+}
+.imap__pt.is-on.is-old {
+  opacity: 0.42;
+}
+.imap__pt:focus-visible circle:not(.imap__hit) {
+  stroke: var(--ink);
+}
+.imap__hit {
+  fill: transparent;
+}
+
+.imap__note {
+  font-size: 12px;
+  font-weight: 600;
+  fill: var(--ink);
+  paint-order: stroke;
+  stroke: #eef2f5;
+  stroke-width: 3px;
+  stroke-linejoin: round;
+}
+.imap__note {
+  font-size: 10px;
+  font-weight: 400;
+  fill: var(--slate);
+}
+
+/* Спливні вікна в кутах європейського: з'являються з першою подією в них */
+.imap__pop {
+  position: absolute;
+  z-index: 2;
+  width: 27%;
+  display: flex;
+  flex-direction: column;
+  background: #eef2f5;
+  border: 1px solid var(--rule);
+  border-radius: 6px;
+  box-shadow: 0 6px 18px rgba(42, 42, 42, 0.18);
+  overflow: hidden;
+  opacity: 0;
+  transform: scale(0.92);
+  transition:
+    opacity 0.35s ease,
+    transform 0.35s ease;
+  pointer-events: none;
+}
+.imap__pop.is-on {
+  opacity: 1;
+  transform: none;
+  pointer-events: auto;
+}
+.imap__pop--tl {
+  top: 34px;
+  left: 8px;
+  transform-origin: top left;
+}
+.imap__pop--br {
+  bottom: 8px;
+  right: 8px;
+  transform-origin: bottom right;
+}
+.imap__win .imap__pop svg {
+  flex: none;
+  height: auto;
+}
+.imap__pop .imap__wtitle {
+  font-size: 10px;
+}
+
+.imap__ph {
+  flex: 1;
+  display: grid;
+  place-items: center;
+  font-size: 13px;
+  color: var(--slate);
+}
+
+.imap__legend {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px 16px;
+  font-size: 12px;
+  color: var(--slate);
+}
+.imap__legend li {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.imap > figcaption {
+  /* Той самий вигляд, що й у figure.fig figcaption */
+  font-family: var(--mono);
+  font-size: 11px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--slate);
+  font-weight: 700;
+  margin-top: 10px;
+  line-height: 1.5;
+  border-top: 1px solid var(--rule);
+  padding-top: 8px;
+}
+
+.imap__table {
+  margin-top: 16px;
+  font-size: 14px;
+}
+.imap__table summary {
+  cursor: pointer;
+  color: var(--steelB);
+  font-weight: 600;
+}
+
+@media (max-width: 700px) {
+  .imap__track {
+    height: 240vh;
+  }
+  .imap__date {
+    font-size: 22px;
+  }
+  .imap__counts {
+    gap: 10px;
+    font-size: 11px;
+  }
+  .imap__counts b {
+    font-size: 17px;
+  }
+  .imap__grid {
+    grid-template-columns: 1fr;
+    grid-template-rows: 0.75fr 1fr;
+  }
+  .imap__pop {
+    width: 36%;
+  }
+}

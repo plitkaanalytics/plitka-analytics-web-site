@@ -1,21 +1,16 @@
 import Link from 'next/link';
-import { getAllArticles } from '@/lib/articles';
+import { getAllArticles, groupByProject } from '@/lib/articles';
 
 export const metadata = { title: 'Проєкти — PLITKA Analytics' };
 
 export default function ProektyPage() {
   const articles = getAllArticles();
 
-  const projectMap = new Map<string, { code: string; title: string; dek?: string; count: number }>();
-  articles.forEach((a) => {
-    const existing = projectMap.get(a.project);
-    if (existing) {
-      existing.count++;
-    } else {
-      projectMap.set(a.project, { code: a.projectCode, title: a.project, count: 1 });
-    }
-  });
-  const projects = Array.from(projectMap.values());
+  const projects = groupByProject(articles).map(({ code, title, articles: list }) => ({
+    code,
+    title,
+    count: list.length,
+  }));
 
   return (
     <>

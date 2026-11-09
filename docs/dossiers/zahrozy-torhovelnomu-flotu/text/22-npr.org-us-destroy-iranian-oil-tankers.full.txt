@@ -1,0 +1,182 @@
+URL:         https://www.npr.org/2026/09/09/nx-s1-5962641/us-destroy-iranian-oil-tankers
+Кінцевий:    https://www.npr.org/2026/09/09/nx-s1-5962641/us-destroy-iranian-oil-tankers
+Заголовок:   U.S. military says it destroyed 5 Iranian oil tankers after attacks on Navy warship
+Дата публ.:  2026-09-09
+Завантажено: 2026-10-07 08:07 UTC
+HTTP:        200   Тип: text/html;charset=UTF-8   Байтів: 151817
+Оригінал:    raw/22-npr.org-us-destroy-iranian-oil-tankers.html
+sha256:      9723bcf3eb565e77e8c392313ee6b7813208b200bbe664a970d2c42ada70bf78
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 14
+==============================================================================
+U.S. military destroys 5 Iranian oil tankers : NPR
+Keyboard shortcuts for audio player
+Expand/collapse submenu for News
+Expand/collapse submenu for Culture
+Expand/collapse submenu for Music
+Expand/collapse submenu for Podcasts & Shows
+U.S. military destroys 5 Iranian oil tankers
+The U.S. military said it destroyed five Iranian oil tankers on Tuesday in response to the latest attacks on its warships. Iran hit American targets in Jordan.
+A motorboat travels past commercial vessels anchored amid haze in the Strait of Hormuz off Bandar Abbas, Iran, Monday, Sept. 7, 2026.
+After 6 months of war, Iran's battered regime remains entrenched
+Can Trump's economic war against Iran do what airstrikes and negotiations couldn't?
+U.S. says pipelines will make Strait of Hormuz irrelevant. Energy experts disagree
+NPR does not offer or accept money for coverage or interviews.
+Anyone who makes such an offer or request is not an NPR employee and does not represent NPR.
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+U.S. military destroys 5 Iranian oil tankers : NPR
+Accessibility links
+Skip to main content
+Keyboard shortcuts for audio player
+Open Navigation Menu
+Newsletters
+NPR Shop
+Get NPR+
+Close
+Navigation Menu
+Home
+News
+Expand/collapse submenu for News
+National
+World
+Politics
+Business
+Elections
+Health
+Science
+Climate
+Race
+Culture
+Expand/collapse submenu for Culture
+Books
+Movies
+Television
+Pop Culture
+Food
+Art & Design
+Performing Arts
+Life Kit
+Gaming
+Music
+Expand/collapse submenu for Music
+Tiny Desk
+New Music Friday
+All Songs Considered
+Music Features
+Live Sessions
+Podcasts & Shows
+Expand/collapse submenu for Podcasts & Shows
+Daily
+Morning Edition
+Weekend Edition Saturday
+Weekend Edition Sunday
+All Things Considered
+Up First
+Here & Now
+NPR Politics Podcast
+Featured
+Wait Wait...Don't Tell Me!
+Fresh Air
+Wild Card with Rachel Martin
+It's Been a Minute
+Embedded
+Get NPR+
+More Podcasts & Shows
+Search
+Newsletters
+NPR Shop
+Get NPR+
+Tiny Desk
+New Music Friday
+All Songs Considered
+Music Features
+Live Sessions
+About NPR
+Diversity
+Support
+Careers
+Press
+Ethics
+U.S. military destroys 5 Iranian oil tankers
+The U.S. military said it destroyed five Iranian oil tankers on Tuesday in response to the latest attacks on its warships. Iran hit American targets in Jordan.
+Middle East
+U.S. military says it destroyed 5 Iranian oil tankers after attacks on Navy warship
+September 9, 2026
+1:20 AM ET
+By
+The Associated Press
+A motorboat travels past commercial vessels anchored amid haze in the Strait of Hormuz off Bandar Abbas, Iran, Monday, Sept. 7, 2026.
+Vahid Salemi/AP
+hide caption
+toggle caption
+i
+Vahid Salemi/AP
+WASHINGTON — The U.S. military said it destroyed five Iranian oil tankers on Tuesday in response to the latest attacks on its warships and Tehran hit back at American targets in Jordan, the latest burst of back-and-forth strikes that have lurched the sides back toward open hostilities in a more than 6-month-old war.
+Middle East conflict
+After 6 months of war, Iran's battered regime remains entrenched
+Following the American strikes, Iran launched missiles toward U.S. targets in Jordan, Iranian state-run media said. Jordan's military said its air defense systems intercepted 18 ballistic missiles launched toward its territory and two others fell in places where no one lives. It said it has no reports of casualties. Jordan is a staunch U.S. ally that hosts American forces, making the kingdom's military bases a target of repeat Iranian strikes. U.S. Central Command said it had no information to offer.
+Sponsor Message
+The latest strikes are part of a dual economic and military approach by President Donald Trump as he struggles to bring an end to the war. The Trump administration on Tuesday also imposed sanctions on additional elements of Iran's aviation industry, targeting more than two dozen commercial and private airlines as well as foreign cargo service providers, in its new push to isolate Tehran from its remaining trading partners.
+Both the U.S. and Iran are seeking to exert control over the Strait of Hormuz, where about one-fifth of the world's oil passed before the war began. Rising energy prices are posing political problems for Trump and his Republican Party ahead of the November midterm elections. A barrel of international standard Brent crude briefly climbed as high as $99.46 on Tuesday.
+The U.S. forces also destroyed three Iranian oil tankers on Saturday after Iran's Revolutionary Guards tried to attack a U.S. aircraft carrier and destroyer with ballistic missiles, warning that it would, "if necessary, destroy Iran's limited and exposed oil fleet." Iran later said it planned to announce a new "exclusion zone" near the Strait of Hormuz aimed at vessels intending to transit.
+Middle East conflict
+Can Trump's economic war against Iran do what airstrikes and negotiations couldn't?
+Secretary of State Marco Rubio said the U.S. will not allow Iran's attacks to go unanswered.
+"Iran continues to try to hit U.S. naval ships. And for every time they do that or try to do that, they're going to lose tankers. And I think you'll see that again today," Rubio told reporters Tuesday when asked about the latest attacks in Iran while on a trip to Colombia.
+Danny Citrinowicz, an Iran expert at Israel's Institute for National Security Studies, warned that such back-and-forth strikes can only risk more retaliation and further impact to the global economy.
+Sponsor Message
+"There is no kinetic solution to the Strait of Hormuz problem," he said on social media. "Every attempt to impose one only brings Washington and Tehran closer to an escalation that may become increasingly difficult to control."
+U.S. Central Command said the military struck the tankers on Tuesday after the Revolutionary Guards targeted a Navy warship with ballistic missiles twice over the past two days. "The U.S. warship successfully evaded the attempted Iranian attacks and continued to patrol regional waters. No American personnel were harmed," it said in a statement.
+It said the Iranian tankers destroyed on Tuesday were the Kivik, Charminar, Horizon 1 and the Riesco in the Gulf of Oman. The U.S. military also destroyed the vessel Derya, which was located near Kharg Island in the Strait of Hormuz. The statement said the crews of the five vessels were told to abandoned ship before the attacks.
+Middle East conflict
+U.S. says pipelines will make Strait of Hormuz irrelevant. Energy experts disagree
+Iranian state television also reported the U.S. strikes, saying U.S. forces attacked Iranian oil tankers near the southern port of Jask and near Kharg Island in the Persian Gulf. It said the crews were evacuated.
+An Iranian state TV reporter in Jask said an Iranian tanker was struck near the coast of Yekbeni. State TV later reported that the U.S. military attacked a second tanker near waters off Jask. Separately, state television reported that another Iranian tanker was attacked in the Kharg Island anchorage area.
+Iran's Revolutionary Guard Navy on Tuesday had warned crews of oil tankers near ports in Kuwait and Bahrain to immediately leave their vessels, saying the ships could be targeted in retaliation for U.S. attacks on Iranian tankers. It accused Kuwait and Bahrain of hosting U.S. forces and assisting in the attacks.
+A U.S. blockade of Iranian ports has squeezed the country's economy by limiting its oil exports, while the American military has been helping a limited number of ships transit on a route through the Strait of Hormuz off Oman. Tehran wants ships to follow a route that it chooses through the strait, which was considered an international waterway before the war.
+NPR does not offer or accept money for coverage or interviews.
+Anyone who makes such an offer or request is not an NPR employee and does not represent NPR.
+Facebook
+Flipboard
+Email
+Read & Listen
+Home
+News
+Culture
+Music
+Podcasts & Shows
+Connect
+Newsletters
+Facebook
+Instagram
+Press
+Public Editor
+Corrections
+Transcripts
+Contact & Help
+About NPR
+Overview
+Diversity
+NPR Network
+Accessibility
+Ethics
+Finances
+Get Involved
+Support Public Radio
+Sponsor NPR
+NPR Careers
+NPR Shop
+NPR Extra
+Terms of Use
+Privacy
+Your Privacy Choices
+Text Only
+Sponsor Message
+Sponsor Message
+Become an NPR sponsor

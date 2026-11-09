@@ -1,0 +1,158 @@
+URL:         https://rntfnd.org/2026/06/18/the-dangerous-tech-found-aboard-dark-fleet-tankers-captured-by-the-u-s-wall-street-journal/
+Кінцевий:    https://rntfnd.org/2026/06/18/the-dangerous-tech-found-aboard-dark-fleet-tankers-captured-by-the-u-s-wall-street-journal/
+Заголовок:   The Dangerous Tech Found Aboard ‘Dark-Fleet’ Tankers Captured by the U.S. - Wall Street Journal - RNTF
+Дата публ.:  2026-06-18
+Завантажено: 2026-10-02 08:05 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 686523
+Оригінал:    raw/07-rntfnd.org-the-dangerous-tech-found-aboard-dark-fleet-tankers-captured.html
+sha256:      21e0718d9394abb4d18795d9932b3c32500db84ab30631d660a07bc1e9ecccfa
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 19
+==============================================================================
+The Dangerous Tech Found Aboard ‘Dark-Fleet’ Tankers Captured by the U.S. - Wall Street Journal - RNTF
+International Advisory Council
+Education & Nonprofit Partners
+The Dangerous Tech Found Aboard ‘Dark-Fleet’ Tankers Captured by the U.S. – Wall Street Journal
+What Can YOU Do? How Can YOU Help?
+PNT is the quiet backbone of everything but too many leaders still don't see the risk.
+You understand the systems, the dependencies, the failure chains. That insight is rare — and it's exactly what your country needs right now.
+Contact your government leaders and industry decision-makers and tell them resilient PNT isn't a feature
+— it's the foundation everything else depends on.
+Resilient PNT Key Talking Points
+Every conversation strengthens the mission.
+When GNSS degradation affects more than navigation – the hidden impact on UTM and BVLOS decision-making: Unmanned Airspace
+Insurers brace for mega-claims as jamming and spoofing incidents ramp up – Seatrade Maritime News
+One Size Does Not Fit All: Where Does LEO PNT Fit in the Future PNT Ecosystem? – Inside GNSS
+How and Why Celeste is a Big Upgrade – Open Receiver
+Airliners Jammed in SoCal/ Warnings of Global Crisis at ION – The Travel & Location Business News
+Become a RNT Foundation member and stay closely connected to the community of experts, policymakers, and advocates working to make resilient PNT a reality.
+The Resilient Navigation and Timing Foundation is a 501(c)3 scientific and educational charity incorporated in Virginia. Financial statements are available upon written request from the Virginia Office of Charitable and Regulatory Programs.
+© 2026 Resilient Navigation and Timing Foundation
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+The Dangerous Tech Found Aboard ‘Dark-Fleet’ Tankers Captured by the U.S. - Wall Street Journal - RNTF
+BLOG
+eNewsletter Archive
+LIBRARY
+Presentations
+CONTACT
+DONATE
+HOME
+WHO WE ARE
+Leadership Team
+International Advisory Council
+WHAT WE DO
+Events
+WHAT WE BELIEVE
+Our Core Beliefs
+Policy Recommendations
+OUR MEMBERS
+Martin C. Faga Society
+Navigator Society
+Corporate Timekeepers
+Education & Nonprofit Partners
+JOIN NOW
+The Dangerous Tech Found Aboard ‘Dark-Fleet’ Tankers Captured by the U.S. – Wall Street Journal
+
+June 18, 2026
+
+Blog
+Written by
+Editor
+Image: USCG – Cyber team member being lowered to a dark fleet tanker.
+What’s new:
+A WSJ exclusive about the
+complex cyber and EW capabilities
+found aboard
+dark fleet
+vessels.
+Why its important:
+It outlines a high degree of sophistication in many areas,
+including AIS spoofing.
+Using these can pose safety and security risks.
+What else to know:
+It is much
+more effective to apprehend criminals
+and gain intelligence instead of killing them.
+The
+USCG is a member of the US intelligence community
+and has authorities under Title 50. It has had a formal intelligence component since 1915.
+Exclusive
+The Dangerous Tech Found Aboard ‘Dark-Fleet’ Tankers Captured by the U.S.
+Ships carrying sanctioned oil are using systems that bad actors could use to cause an explosion or oil spill
+By
+Shelby Holliday
+June 15, 2026 5:32 pm ET
+Quick Summary
+U.S. Coast Guard cyber teams discovered “dark fleet” tankers use digital tools for illicit trade, creating cyber risks and deception.
+Coast Guard teams found “dark fleet” ships use remote desktop applications for unattended access and pirated software with malware.
+Tankers employ multiple Automatic Identification System devices, toggle switches, and custom-made Ethernet cables to broadcast false locations.
+READ MORE
+What Can YOU Do? How Can YOU Help?
+PNT is the quiet backbone of everything but too many leaders still don't see the risk.
+But
+you
+do.
+You understand the systems, the dependencies, the failure chains. That insight is rare — and it's exactly what your country needs right now.
+Contact your government leaders and industry decision-makers and tell them resilient PNT isn't a feature
+— it's the foundation everything else depends on.
+
+Start the Conversation
+Use our
+Resilient PNT Key Talking Points
+to make the case.
+Get the Guide
+
+U.S. Advocates
+Find your representatives at
+Congress.gov
+, then use our
+email template
+to reach them in minutes.
+When you get a response,
+let us know
+.
+Every conversation strengthens the mission.
+More PNT News
+When GNSS degradation affects more than navigation – the hidden impact on UTM and BVLOS decision-making: Unmanned Airspace
+Oct 1, 2026
+Insurers brace for mega-claims as jamming and spoofing incidents ramp up – Seatrade Maritime News
+Sep 30, 2026
+One Size Does Not Fit All: Where Does LEO PNT Fit in the Future PNT Ecosystem? – Inside GNSS
+Sep 29, 2026
+How and Why Celeste is a Big Upgrade – Open Receiver
+Sep 27, 2026
+Airliners Jammed in SoCal/ Warnings of Global Crisis at ION – The Travel & Location Business News
+Sep 26, 2026
+More Posts
+→
+Get PNT News in Your Inbox
+Subscribe
+Want to Deepen Your Impact?
+Become a RNT Foundation member and stay closely connected to the community of experts, policymakers, and advocates working to make resilient PNT a reality.
+Become a Member
+Contact Us
+Corporate Office
+4558 Shetland Green Rd.
+Alexandria, VA 22312
+Phone:
+800-522-6948
+Send Us a Message
+Get Involved
+Become a Member
+Donate Now
+Events
+Keep Up to Date
+Get RNT News in your Inbox!
+The Resilient Navigation and Timing Foundation is a 501(c)3 scientific and educational charity incorporated in Virginia. Financial statements are available upon written request from the Virginia Office of Charitable and Regulatory Programs.
+Privacy Policy
+and
+Terms of Service
+© 2026 Resilient Navigation and Timing Foundation
+Website developed by
+Emmatt Digital Solutions Inc.

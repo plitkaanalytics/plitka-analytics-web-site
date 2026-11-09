@@ -1,0 +1,561 @@
+URL:         https://en.wikipedia.org/wiki/Russian_shadow_fleet
+Кінцевий:    https://en.wikipedia.org/wiki/Russian_shadow_fleet
+Заголовок:   Russian shadow fleet - Wikipedia
+Дата публ.:  2024-12-18
+Завантажено: 2026-10-05 10:09 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 411408
+Оригінал:    raw/57-en.wikipedia.org-russian_shadow_fleet.html
+sha256:      a0894f1c7fe63e4adf1e1bafeebb598c52089800d612c4ee00138ed3a59478bd
+Витяг:       trafilatura
+
+==============================================================================
+# Russian shadow fleet
+
+
+The **Russian shadow fleet** is a [clandestine](https://en.wikipedia.org/wiki/Clandestine_operation) network of hundreds of vessels operated by [Russia](https://en.wikipedia.org/wiki/Russia) to evade [sanctions](https://en.wikipedia.org/wiki/Sanctions_(law)), following the enactment of [2022 Russian crude oil price cap sanctions](https://en.wikipedia.org/wiki/2022_Russian_crude_oil_price_cap_sanctions) by the [G7](https://en.wikipedia.org/wiki/G7) countries and [European Union](https://en.wikipedia.org/wiki/European_Union) (EU), in response to the [2022 Russian invasion of Ukraine](https://en.wikipedia.org/wiki/2022_Russian_invasion_of_Ukraine).
+
+To circumvent these restrictions, vessels use complex ownership and corporate management structures, [flags of convenience](https://en.wikipedia.org/wiki/Flag_of_convenience), [2] and frequently change their names.
+
+Various tactics are also used to obscure the origin of their cargo, including ship-to-ship transshipment, disabling
+
+[[3]](#cite_note-atl111-3)[transponders](https://en.wikipedia.org/wiki/Transponder), transmitting false data, and other deceptive or even illegal methods.
+
+
+[[4]](#cite_note-europarl-4)## Background
+
+According to a November 2024 briefing by the [European Parliamentary Research Service](https://en.wikipedia.org/wiki/European_Parliamentary_Research_Service), the terms *shadow fleet*, *dark fleet*, and *grey fleet* do not have a consistent definition and are used interchangeably by journalists and politicians, making it difficult to assess the scale of the phenomenon. In December 2023, the [International Maritime Organization](https://en.wikipedia.org/wiki/International_Maritime_Organization) (IMO) agreed on a precise definition, stating that *dark fleet* or *shadow fleet* are "ships that are engaged in illegal operations for the purposes of circumventing sanctions, evading compliance with safety or environmental regulations, avoiding insurance costs, or engaging in other illegal activities".[[4]](#cite_note-europarl-4)
+
+Shadow fleets have been used by Iran and Venezuela to avoid international [economic sanctions](https://en.wikipedia.org/wiki/Economic_sanctions). Russia was aware that sanctions against their country would result in a need to control [oil tankers](https://en.wikipedia.org/wiki/Oil_tanker) to export [crude](https://en.wikipedia.org/wiki/Crude_oil) and [processed oil](https://en.wikipedia.org/wiki/Petroleum_products). Tankers approaching their end of life were purchased by Russia for [Russian oil companies](https://en.wikipedia.org/wiki/Petroleum_industry_in_Russia#Russia's_oil_and_gas_companies) or opportunists to rent out for a large fee to maintain the flow of oil exports. The price of such old tankers rose, with vendors making large profits from their sales. [5] By the end of 2022 there were over 600 ships in the Russian shadow fleet, 400 of which were crude oil tankers;
+
+the fleet consisted of 1,100–1,400 ships by December 2023.
+
+[[6]](#cite_note-6)
+
+[[3]](#cite_note-atl111-3)Of these ships, 118 have been sanctioned by the United States, the
+
+[[7]](#cite_note-7)[European Union](https://en.wikipedia.org/wiki/European_Union)(EU), or the UK.
+
+In 2025, the shadow fleet was reported as having more than tripled in size since 2022.
+
+[[8]](#cite_note-:0-8)
+
+[[9]](#cite_note-9)A major issue with the Russian shadow fleet is [marine insurance](https://en.wikipedia.org/wiki/Marine_insurance): Western countries have minimum criteria for insurance, which includes verification of the condition of the ship.[[10]](#cite_note-wsj1-10) [11] Two thirds of ships carrying Russian oil have insurers classed as "unknown"—with the vessels therefore lacking proper insurance.
+
+Being old, they are more prone to breakdown or leakage.
+
+[[12]](#cite_note-12)in January 2024 the 18-year-old sanctioned
+
+[[13]](#cite_note-bbg1-13)*Peria*became stranded because of an
+
+[anchor](https://en.wikipedia.org/wiki/Anchor)malfunction, which caused the closure of the
+
+[Bosphorus](https://en.wikipedia.org/wiki/Bosphorus)to shipping.
+
+Shadow ship operators disguise the true owners and do not feel obliged to maintain the ships to a high standard. Turning off
+
+[[14]](#cite_note-bosp1-14)[automatic identification systems](https://en.wikipedia.org/wiki/Automatic_identification_system)and undertaking open sea
+
+[ship-to-ship transfers](https://en.wikipedia.org/wiki/Ship-to-ship_cargo_transfer)of oil increase the risk of
+
+[collisions](https://en.wikipedia.org/wiki/Ship_collision)and
+
+[spillages](https://en.wikipedia.org/wiki/Environmental_impact_of_shipping#Oil_spills).
+
+
+[[3]](#cite_note-atl111-3)Certain [flags of convenience](https://en.wikipedia.org/wiki/Flag_of_convenience) are favored. [Gabon](https://en.wikipedia.org/wiki/Gabon) more than doubled its [ships registry](https://en.wikipedia.org/wiki/Ship_registration) in 2023, with an estimated 98% of its tankers considered to be high risk and with no identifiable owner. The number of incidents affecting these tankers has increased to around two a month, with groundings, collisions, fire and engine failures, recovering the cost of rescuing these ships is doubtful due to the unknown owner and the unknown insurance, if any.[[3]](#cite_note-atl111-3)
+
+The [Ukrainian government](https://en.wikipedia.org/wiki/Ukrainian_government) oversees a catalog of ships operating as part of the shadow fleet, listing 1337 ships as of February 2026 [update].
+
+Various tactics are adopted to make it harder to track such vessels. These include the renaming of ships, changing their country of registration, sailing under false flags, switching off tracking signals, and broadcasting false locations. In one instance, the
+
+[[15]](#cite_note-Ukr1-15)*Arcusat*, previously named the
+
+*Tia*, changed its
+
+[IMO identification number](https://en.wikipedia.org/wiki/IMO_number).
+
+
+[[16]](#cite_note-16)## Sanctioning
+
+From the autumn of 2023, companies involved in breaching the [Russia Oil Price Cap Regime](https://en.wikipedia.org/wiki/2022_Russian_crude_oil_price_cap_sanctions) were investigated and sanctioned further by the U.S government. [17] On 10 January 2025, the 
+
+[U.S. Dept of the Treasury](https://en.wikipedia.org/wiki/United_States_Department_of_the_Treasury)added about 180 vessels, as well as traders, major oil companies, and senior Russian oil executives to the sanctioned list.
+
+
+[[18]](#cite_note-18)In June 2025, the
+
+[[19]](#cite_note-19)[Australian Government](https://en.wikipedia.org/wiki/Australian_Government)placed sanctions on 60 vessels it deemed part of Russia's shadow fleet.
+
+
+[[20]](#cite_note-f206-20)In July 2025, the United Kingdom sanctioned 135 oil tankers, along with the Russian companies Intershipping Services LLC and Litasco Middle East DMCC.[[21]](#cite_note-y068-21)
+
+[Finnish Customs](https://en.wikipedia.org/wiki/Finnish_Customs) declared the tanker *Eagle S* to be one of the shadow fleet, after an investigation was launched into the [sabotage by Russia](https://en.wikipedia.org/wiki/Russian_sabotage_operations_in_Europe) of the power cables linking Estonia and Finland. [22] The vessel was seized by the Finns, and the Estonian Navy launched an operation to protect undersea cables in the Baltic Sea.
+
+
+[[23]](#cite_note-23)### Insurance of tankers
+
+Sanctions imposed by the [G7](https://en.wikipedia.org/wiki/G7), the EU, and allied jurisdictions prohibit [P&I](https://en.wikipedia.org/wiki/Protection_and_indemnity_insurance) insurers and other maritime service providers under their jurisdiction from covering shipments of Russian-origin crude oil and petroleum products sold above the agreed [price cap](https://en.wikipedia.org/wiki/Price_cap). [4] As a result, a large portion of Russia's shadow fleet operates outside the international insurance system. Many of these tankers rely on Russian or offshore insurers, such as 
+
+[Ingosstrakh](https://en.wikipedia.org/wiki/Ingosstrakh).
+
+Investigations have repeatedly documented cases of vessels presenting falsified or expired insurance certificates, creating a gap in reliable coverage. The absence of dependable P&I insurance heightens risks for coastal states and the environment, as unreliable insurers may refuse to cover damages in the event of an accident. Despite efforts by international regulators and port authorities to tighten verification of insurance documentation, ships in the Russian shadow fleet can manipulate the system. The post-sanctions expansion of the fleet has increased the number of vessels lacking adequate international insurance, causing a considerable safety and environmental risk.
+
+[[24]](#cite_note-24)
+
+[[3]](#cite_note-atl111-3)Any suspected breaches of sanctions by insurance companies are investigated. Sometimes when an application for insurance is made, the company receives false information about the cargo's source, price and destination, and sometimes the ship's name and IMO number.[[25]](#cite_note-25)
+
+[Ro Marine](https://en.wikipedia.org/wiki/Ro_Marine), an insurance company based in [Oslo](https://en.wikipedia.org/wiki/Oslo), cancelled insurance on three tankers in December 2023 which were identified as non-compliant with oil price cap regulations. [26] Fake insurance documents from Ro Marine have been used to deceive NATO countries and support Russia's shadow fleet. Following exposés by Danwatch and the Norwegian broadcaster 
+
+[NRK](https://en.wikipedia.org/wiki/NRK), flag states have detained ships and revoked Ro Marine's approval. NATO has since tightened controls and investigated the company.
+
+
+[[27]](#cite_note-27)
+
+[[28]](#cite_note-28)
+
+[[29]](#cite_note-29)### Oil traders
+
+On 20 December 2023 the [US Department of the Treasury](https://en.wikipedia.org/wiki/US_Department_of_the_Treasury) announced sanctions against three companies that traded Russian oil at a price that did not comply with price cap rules, Voliton DMCC from the UAE, and the [Hong Kong](https://en.wikipedia.org/wiki/Hong_Kong) companies Bellatrix Energy Limited and Covart Energy Limited. Covart owns the oil products tanker *Sanar 15* (IMO 9777670), which is also sanctioned.[[30]](#cite_note-US2012-30)
+
+### Partial easing of sanctions
+
+On 12 March 2026, amid the [war with Iran](https://en.wikipedia.org/wiki/2026_Iran_war), U.S. Secretary of the Treasury [Scott Bessent](https://en.wikipedia.org/wiki/Scott_Bessent) announced the temporary lifting of restrictions on the sale of Russian oil held on detained shadow fleet tankers. The decision was intended to achieve "stability in global energy markets" and remained in effect until 11 April 2026.[[31]](#cite_note-31)
+
+## Legislation
+
+Despite causing tangible harm, targeted countries face significant legal hurdles in blocking the fleet. In accordance with the [United Nations Convention on the Law of the Sea](https://en.wikipedia.org/wiki/United_Nations_Convention_on_the_Law_of_the_Sea) (UNCLOS), ships are granted the right of innocent passage through territorial waters, including the 12 [nautical miles](https://en.wikipedia.org/wiki/Nautical_mile) (22 km; 14 mi) adjacent to a country's coastline. [3] The convention also contains articles that provide for restrictions on navigation that poses a serious threat to the environment. Vessels must also obey the laws of the country it is traversing, including having proper insurance and being in good repair.
+
+
+[[32]](#cite_note-foreignpolicy-32)The shadow fleet uses the [Danish Straits](https://en.wikipedia.org/wiki/Danish_Straits) for passage. Despite the country facing an environmental threat from the barely insured vessels in poor condition that often pass the straits without local navigational assistance and proper paperwork, merchant vessels are guaranteed the right of peaceful passage through the Danish Straits under the [Copenhagen Convention of 1857](https://en.wikipedia.org/wiki/Copenhagen_Convention_of_1857).[[32]](#cite_note-foreignpolicy-32)
+
+## Reactions
+
+The EU published a brief titled "Russia's 'shadow fleet': Bringing the threat to light", in October 2024, outlining Russia's tactics to evade sanctions. [4] On 14 November, the EU voted to adopt a resolution ensuring full enforcement of sanctions against Russia.
+
+
+[[33]](#cite_note-33)
+
+[[34]](#cite_note-34)Two ships caused an oil spill with severe environmental [damage in the Black Sea](https://en.wikipedia.org/wiki/2024_Black_Sea_oil_spill) in December 2024 due to negligence by their Russian operators. [35] According to 
+
+[Mykhailo Podolyak](https://en.wikipedia.org/wiki/Mykhailo_Podolyak), an advisor to the head of the
+
+[Office of the President of Ukraine](https://en.wikipedia.org/wiki/Office_of_the_President_of_Ukraine), these tankers are part of Russia's shadow fleet. Following the major environmental crisis caused by the ships, the worst this century in the Black Sea region, Ukraine called for the international community to take action to deter the fleet.
+
+Latvia also called for the ships to be banned from EU territorial waters.
+
+[[36]](#cite_note-36)
+
+[[8]](#cite_note-:0-8)On 16 December 2024, twelve countries consisting of Britain, Germany, Poland, the Netherlands, the [Nordic countries](https://en.wikipedia.org/wiki/Nordic_countries) (Denmark, Finland, Iceland, Norway, and Sweden) and the three [Baltic states](https://en.wikipedia.org/wiki/Baltic_states) (Estonia, Latvia and Lithuania) agreed to cooperate to "disrupt and deter" Russia's shadow fleet to prevent sanctions breaches. [37] The UK announced additional sanctions against the shadow fleet the following day.
+
+
+[[38]](#cite_note-38)## Maritime incidents
+
+### Attacks on vessels
+
+In late November 2025, [Ukraine's Security Service](https://en.wikipedia.org/wiki/Security_Service_of_Ukraine) (SBU) conducted drone strikes on the shadow fleet tankers [ Virat](https://en.wikipedia.org/wiki/MT_Virat?action=edit&redlink=1) and 
+
+*off the Turkish*
+
+[Kairos](https://en.wikipedia.org/wiki/MV_Kairos)[Black Sea](https://en.wikipedia.org/wiki/Black_Sea)coast, and later claimed responsibility.
+
+
+[[39]](#cite_note-39)
+
+[[40]](#cite_note-40)This was followed by an attack on the EU-sanctioned tanker
+
+[[41]](#cite_note-41)*Dashan*in the Black Sea.
+
+A Turkish company halted Russian-related operations after its vessel
+
+[[42]](#cite_note-42)*Mersin*was damaged.
+
+In December 2025, the SBU executed its first long-range strike in the
+
+[[43]](#cite_note-v830-43)[Mediterranean Sea](https://en.wikipedia.org/wiki/Mediterranean_Sea), targeting a tanker that had recently delivered oil to India.
+
+
+[[44]](#cite_note-44)According to a report by * The Atlantic* citing U.S. and Ukrainian officials in December 2025, the 
+
+[Trump administration](https://en.wikipedia.org/wiki/Second_presidency_of_Donald_Trump)did not object to the Ukrainian strikes on the shadow fleet and approved assistance for them, considering them an "important tool" to put pressure on the
+
+[Russian government](https://en.wikipedia.org/wiki/Federal_Government_of_Russia)to negotiate peace.
+
+
+[[45]](#cite_note-w493-45)### Enforcement actions
+
+| It has been suggested that  this article be  out into a new article titled[split](https://en.wikipedia.org/wiki/Wikipedia:Splitting). ([Seizure of Russian shadow fleet vessels](https://en.wikipedia.org/wiki/Seizure_of_Russian_shadow_fleet_vessels?action=edit&redlink=1))Discuss(March 2026) | 
+
+On 26 December 2024, the Finnish [Police Rapid Response Unit Karhu](https://en.wikipedia.org/wiki/Police_Rapid_Response_Unit_(Finland)), assisted by [Gulf of Finland Coast Guard District](https://en.wikipedia.org/wiki/Gulf_of_Finland_Coast_Guard_District?action=edit&redlink=1), two helicopters from the [Finnish Navy](https://en.wikipedia.org/wiki/Finnish_Navy) and the [Finnish Coast Guard](https://en.wikipedia.org/wiki/Finnish_Coast_Guard), and the patrol vessel [ Turva](https://en.wikipedia.org/wiki/Finnish_patrol_vessel_Turva?action=edit&redlink=1), boarded the 
+
+[Cook Islands](https://en.wikipedia.org/wiki/Cook_Islands)-registered tanker
+
+[, suspected of dragging its anchor and](https://en.wikipedia.org/wiki/Eagle_S)
+
+*Eagle S*[tearing off two submarine communication cables](https://en.wikipedia.org/wiki/2024_Estlink_2_incident)belonging to the Finnish company
+
+[Elisa](https://en.wikipedia.org/wiki/Elisa_(company))the day before.
+
+
+[[46]](#cite_note-46)
+
+[[47]](#cite_note-47)On 21 March 2025, German authorities detained the tanker *Eventin*. The ship, under the flag of [Panama](https://en.wikipedia.org/wiki/Panama), had left the Russian port of [Ust-Luga](https://en.wikipedia.org/wiki/Ust-Luga) and was heading for Egypt. The ship, which had been placed on a list of sanctioned ships by the EU in February, had lost engine power and drifted into German waters. After determining that the *Eventin* carried some 100,000 tons of sanctioned crude oil from Russia, German customs seized the ship and, in an unprecedented step, confiscated the cargo, theoretically transferring ownership to the German state. [48] That decision was contested in a 
+
+[Munich](https://en.wikipedia.org/wiki/Munich)court,
+
+which ruled in December 2025 that ships in distress that entered German waters, were not to be seized. The court suspended the measure, but did not decide the fate of the oil.
+
+[[49]](#cite_note-49)
+
+[[50]](#cite_note-50)On 11 April 2025, the [Estonian Navy](https://en.wikipedia.org/wiki/Estonian_Navy) minehunter [EML  Admiral Cowan](https://en.wikipedia.org/wiki/EML_Admiral_Cowan) seized the flagless tanker 
+
+*Kiwala*in the Baltic Sea. The ship, which claimed it was registered in
+
+[Djibouti](https://en.wikipedia.org/wiki/Djibouti), had been sanctioned by the EU and the UK, and was on its way to load oil in Ust-Luga.
+
+
+[[51]](#cite_note-51)
+
+[[52]](#cite_note-52)It was released on 28 April.
+
+[[53]](#cite_note-53)
+
+[[54]](#cite_note-:3-54)On 10 May, after unidentified drones were spotted over a military site in [Kiel](https://en.wikipedia.org/wiki/Kiel), German authorities asked the [Netherlands Coastguard](https://en.wikipedia.org/wiki/Netherlands_Coastguard) to look out for the [Antigua and Barbuda](https://en.wikipedia.org/wiki/Antigua_and_Barbuda)-flagged freighter *Dolphin*, manned by an all-Russian crew. The vessel was searched by the Dutch, who found no evidence that drones were operated from it.[[55]](#cite_note-:4-55)
+
+On 13 May, the Estonian Navy's patrol vessel [EML  Raju](https://en.wikipedia.org/wiki/EML_Raju) escorted the Gabonese-flagged tanker 
+
+*Jaguar*out of Estonia's territorial waters. The
+
+*Raju*was supported by
+
+[AgustaWestland AW139](https://en.wikipedia.org/wiki/AgustaWestland_AW139)helicopters,
+
+[M-28 Skytruck](https://en.wikipedia.org/wiki/PZL_M28_Skytruck)aircraft,
+
+and a Polish
+
+[[56]](#cite_note-56)[MiG 29](https://en.wikipedia.org/wiki/Mikoyan_MiG-29).
+
+A Russian
+
+[[54]](#cite_note-:3-54)[Sukhoi Su-35](https://en.wikipedia.org/wiki/Sukhoi_Su-35)fighter violated Estonia´s airspace the same day. Portuguese
+
+[F-16s](https://en.wikipedia.org/wiki/General_Dynamics_F-16_Fighting_Falcon)from
+
+[NATO](https://en.wikipedia.org/wiki/NATO)'s Baltic Air Policing Mission responded to the incident with a
+
+[reconnaissance flight](https://en.wikipedia.org/wiki/Aerial_reconnaissance).
+
+
+[[57]](#cite_note-57)On 17 May, while shadowing the Russian-crewed freighter *Luga* in the German Exclusive Economic Zone, unidentified drones overflew the [German Federal Coast Guard](https://en.wikipedia.org/wiki/German_Federal_Coast_Guard) [patrol boat  Potsdam](https://en.wikipedia.org/wiki/German_patrol_boat_Potsdam) for three hours before entering Dutch waters. The 
+
+*Luga*was eventually searched by Belgian authorities; no traces of drone activity were found.
+
+
+[[55]](#cite_note-:4-55)On 21 May, a shadow fleet tanker, the *Sun*, waving the Antigua and Barbuda flag, was spotted sailing around an undersea 600-[megawatt](https://en.wikipedia.org/wiki/Megawatt) power line linking Sweden and Poland. The vessel was scared off by a Polish aerial patrol, and later the area was swept by the Polish research ship [ORP  Heweliusz](https://en.wikipedia.org/wiki/ORP_Heweliusz).
+
+
+[[58]](#cite_note-58)On 16 June, for the first time, the Russian Navy began to escort shadow fleet tankers in [convoys](https://en.wikipedia.org/wiki/Convoy), when it accompanied the *Selva* and the *Sierra*, both of which were under UK and EU sanctions. The ships, guarded by the [Project 20380  Steregushchiy–class](https://en.wikipedia.org/wiki/Steregushchiy-class_corvette) missile corvette 
+
+*Boykiy*, were tracked heading to load oil at Russian ports.
+
+The convoy passed through the
+
+[[59]](#cite_note-59)[English Channel](https://en.wikipedia.org/wiki/English_Channel)on 22 June.
+
+
+[[60]](#cite_note-60)On 7 September, German Special Police forces seized and searched the Russian-crewed coaster *Scanlark* in the [Kiel Canal](https://en.wikipedia.org/wiki/Kiel_Canal). The vessel was suspected of operating a spy [drone](https://en.wikipedia.org/wiki/Drone_warfare) that overflew a [German Navy](https://en.wikipedia.org/wiki/German_Navy) warship on 26 August. The ship was owned by the Estonian company Vista Shipping Agency and registered under the flag of [Saint Vincent and the Grenadines](https://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines).[[61]](#cite_note-61)
+
+On 30 September, [French naval forces](https://en.wikipedia.org/wiki/French_Navy) seized the sanctioned Russian shadow fleet tanker *Boracay*, hoisting the flag of [Benin](https://en.wikipedia.org/wiki/Benin) by [Saint-Nazaire](https://en.wikipedia.org/wiki/Saint-Nazaire). [62] The ship was suspected of being one of three tankers which 
+
+[launched drones over Denmark between 22 and 28 September](https://en.wikipedia.org/wiki/2025_Danish_drone_incidents), disrupting
+
+[Copenhagen Airport](https://en.wikipedia.org/wiki/Copenhagen_Airport)operations.
+
+Russian President
+
+[[63]](#cite_note-63)[Vladimir Putin](https://en.wikipedia.org/wiki/Vladimir_Putin)called the incident "an act of piracy".
+
+French authorities later determined that the tanker was the
+
+[[64]](#cite_note-:6-64)*Kiwala*, seized by the Estonian Navy in April. Two Chinese sailors—the captain and his first mate—were arrested.
+
+
+[[62]](#cite_note-:5-62)The tanker was released five days later along with the crewmembers.
+
+[[64]](#cite_note-:6-64)
+
+[[65]](#cite_note-65)
+
+[[66]](#cite_note-66)On 20 November, the American destroyer [USS  Stockdale](https://en.wikipedia.org/wiki/USS_Stockdale_(DDG-106)) intercepted the 
+
+[Comorian](https://en.wikipedia.org/wiki/Comoros)-flagged tanker
+
+*Seahorse*, a sanctioned Russian shadow fleet ship sailing in the
+
+[Caribbean Sea](https://en.wikipedia.org/wiki/Caribbean_Sea)towards Venezuela. The Russian vessel was forced to shift course to Cuba.
+
+
+[[67]](#cite_note-67)On 31 December, a Finnish coastguard vessel, supported by helicopters and special troops, captured the freighter [ Fitburg](https://en.wikipedia.org/wiki/2025_Elisa_data_cable_incident), which was registered with St. Vincent and the Grenadines, and was en route to 
+
+[Haifa](https://en.wikipedia.org/wiki/Haifa)from St. Petersburg.
+
+*Fitburg*was carrying structural steel, whose importation is sanctioned by the EU, and was suspected of damaging two undersea cables linking Estonia and Finland. Two crewmembers were arrested by the Finnish police.
+
+
+[[68]](#cite_note-68)
+
+[[69]](#cite_note-69)
+
+[[70]](#cite_note-70)On 7 January 2026, the [US Navy](https://en.wikipedia.org/wiki/United_States_Navy) and the [US Coast Guard](https://en.wikipedia.org/wiki/United_States_Coast_Guard) seized the Russian-flagged tanker [ Marinera](https://en.wikipedia.org/wiki/2025–2026_United_States_oil_blockade_of_Venezuela#Marinera_(Bella_1)) in the North Atlantic, after it had been shadowed by the patrol vessel 
+
+[USCGC](https://en.wikipedia.org/wiki/USCGC_Munro_(WMSL-755))for several weeks.
+
+*Munro*
+
+[[71]](#cite_note-71)The tanker has previously bore the name
+
+[[72]](#cite_note-72)*Bella I*and hoisted the flag of
+
+[Guyana](https://en.wikipedia.org/wiki/Guyana).
+
+
+[[73]](#cite_note-73)On 22 January, the French Navy seized the UK-sanctioned and [Comorian](https://en.wikipedia.org/wiki/Comoros)-flagged tanker *Grinch* in the [Alboran Sea](https://en.wikipedia.org/wiki/Alboran_Sea), during an operation led by a [Horizon-class frigate](https://en.wikipedia.org/wiki/Horizon-class_frigate) and monitored by the British patrol boat [HMS  Dagger](https://en.wikipedia.org/wiki/HMS_Dagger_(P296)). Naval commandos transported by two 
+
+[NH90](https://en.wikipedia.org/wiki/NH90)helicopters boarded the ship, despite previous Russian warnings against boarding.
+
+
+[[74]](#cite_note-74)
+
+[[75]](#cite_note-Rawnsley-75)
+
+[[76]](#cite_note-76)The tanker had departed from
+
+[[77]](#cite_note-77)[Murmansk](https://en.wikipedia.org/wiki/Murmansk)on 5 January.
+
+French president
+
+[[78]](#cite_note-78)[Emmanuel Macron](https://en.wikipedia.org/wiki/Emmanuel_Macron)said that "We will not tolerate any violation,"(...) "The activities of the 'shadow fleet' contribute to financing the war of aggression against Ukraine". Ukrainian president
+
+[Volodomyr Zelensky](https://en.wikipedia.org/wiki/Volodymyr_Zelenskyy)thanked Emmanuel Macron, and declared that "This is exactly the kind of resolve needed to ensure that Russian oil no longer finances Russia's war".
+
+The tanker was eventually released on 17 February after "paying several million euros and three weeks of costly immobilisation", in the words of French Foreign Minister
+
+[[79]](#cite_note-79)[Jean-Noël Barrot](https://en.wikipedia.org/wiki/Jean-Noël_Barrot).
+
+
+[[80]](#cite_note-80)On 14 February, the *Veronica III*, a Panama-flagged tanker known to transport Russian oil, was boarded by the US Navy in the Indian Ocean.[[81]](#cite_note-81)
+
+On 28 February, the [Guinea](https://en.wikipedia.org/wiki/Guinea)-registered tanker *Ethera* was seized in a part of the [North Sea](https://en.wikipedia.org/wiki/North_Sea) inside Belgium's [exclusive economic zone](https://en.wikipedia.org/wiki/Exclusive_economic_zone) by [Belgian special forces](https://en.wikipedia.org/wiki/Special_Forces_Group_(Belgium)) assisted by French helicopters. The ship was returning to Russia and suspected by authorities of being a part of the Russian shadow fleet.[[82]](#cite_note-:2-82) [83]  The Russian captain was questioned, and a criminal investigation was launched. The tanker was escorted to 
+
+[Zeebrugge](https://en.wikipedia.org/wiki/Zeebrugge).
+
+The Belgian
+
+[[82]](#cite_note-:2-82)[Federal Public Service Mobility and Transport](https://en.wikipedia.org/wiki/Federal_Public_Service_Mobility_and_Transport)later determined that the ship had been sailing under a false flag and had not been registered since August 2025, and the owner of the vessel lost his case before a Belgian court on 14 April 2026.
+
+
+[[84]](#cite_note-:9-84)On 8 March, Sweden detained a crew member of the Russian "shadow fleet" [cargo ship](https://en.wikipedia.org/wiki/Cargo_ship) *Caffa 17*, which was seized on 7 March due to suspicion of transporting stolen Ukrainian grain. The [Swedish Coast Guard](https://en.wikipedia.org/wiki/Swedish_Coast_Guard) said the ship is on Ukraine's sanctions list, and was sailing under a false Guinean flag. The crew member detained is suspected of violations of the maritime code, the ship safety act and the use of a forged document. [85] In August 2026, Swedish Court documents obtained by 
+
+*indicated that the ship would be handed over to Ukraine, with the Supreme Court rejecting Caffa Shipping Ltd's appeal to block the transfer.*
+
+[Agence France-Presse](https://en.wikipedia.org/wiki/Agence_France-Presse)
+
+[[86]](#cite_note-e079-86)On 12 March, the Swedish Coast Guard said it had seized the false-flagged tanker *Sea Owl II,* belonging to the Russian shadow fleet and sailing under a Comorian flag. It added that the ship is on an EU sanctions list and has recently been transporting oil between Russia and Brazil.[[87]](#cite_note-o054-87) [88] The Russian captain of the ship was arrested by the Swedish Prosecution Authority for the forgery of documents.
+
+
+[[88]](#cite_note-:7-88)On 20 March, France seized the oil tanker *Deyna* in the Mediterranean, which had sailed from Russia and was suspected of being part of the Russian shadow fleet and flying a false Mozambican flag. [89] The operation was carried out with support from the United Kingdom, whose armed forces, including 
+
+[HMS](https://en.wikipedia.org/wiki/HMS_Cutlass_(P295))based at
+
+*Cutlass*[Gibraltar](https://en.wikipedia.org/wiki/Gibraltar), assisted in monitoring and tracking the vessel.
+
+On 16 April, France freed the tanker after its owner paid a fine and conceded that he had been unable to provide proof of the ship's nationality.
+
+[[90]](#cite_note-90)
+
+[[91]](#cite_note-91)On 8 April, the Russian frigate [ Admiral Grigorovich](https://en.wikipedia.org/wiki/Russian_frigate_Admiral_Grigorovich) convoyed two shadow fleet tankers, the Cameroon-registered 
+
+*Enigma*and the Russian flagged
+
+*Universal*, through the English Channel, shadowed by the fleet replenishment ship
+
+[RFA](https://en.wikipedia.org/wiki/RFA_Tideforce).
+
+*Tideforce**Universal*had been outlawed in British waters in September 2025, while
+
+*Enigma*had been sanctioned by the United Kingdom.
+
+The following day, Russian spokesman
+
+[[92]](#cite_note-:8-92)[Dmitry Peskov](https://en.wikipedia.org/wiki/Dmitry_Peskov)declared that "The Russian Federation considers itself entitled to, and will certainly take, measures to protect its interests", dubbing the recent boarding of Russian shadow fleet tankers "acts of piracy".
+
+The British government later admitted that 184 sanctioned vessels from the Russian shadow fleet transited through British waters from March to May.
+
+[[93]](#cite_note-93)
+
+[[94]](#cite_note-94)The Swedish Coast Guard said it boarded and detained the *Jin Hui* sailing under a Syrian flag on 3 May 2026, with the captain of the ship, a Chinese citizen, being arrested suspected of offenses including using a false document. Swedish Civil Defense Minister [Carl-Oskar Bohlin](https://en.wikipedia.org/wiki/Carl-Oskar_Bohlin) said the ship was under sanctions and suspected of being part of the Russian shadow fleet.[[95]](#cite_note-b062-95)
+
+On 1 June French navy troops boarded the tanker *Tagor* in the Atlantic Ocean, 740 kilometres (460 mi) west of [Brittany](https://en.wikipedia.org/wiki/Brittany),  after the ship had left the port of Murmansk earlier. After confirming that it was sailing under a wrong flag, it was seized and diverted.[[96]](#cite_note-96)
+
+On 14 June, [Royal Marine Commandos](https://en.wikipedia.org/wiki/Royal_Marine_Commandos) seized the Cameroon-flagged tanker *Smyrtos*, supported by the Royal Navy frigate [HMS  Sutherland](https://en.wikipedia.org/wiki/HMS_Sutherland_(F81)), the minesweeper 
+
+[HMS](https://en.wikipedia.org/wiki/HMS_Ledbury_(M30)), the Maritime Air Group and an RAF
+
+*Ledbury*[P-8 Poseidon](https://en.wikipedia.org/wiki/P-8_Poseidon)patrol aircraft.
+
+The tanker had departed Ust-Luga on 5 June bounded for Port Said.
+
+[[97]](#cite_note-97)
+
+[[98]](#cite_note-98)On 30 August, the Italian [offshore patrol ship](https://en.wikipedia.org/wiki/Offshore_patrol_vessel) [ Paolo Thaon di Revel](https://en.wikipedia.org/wiki/Italian_offshore_patrol_vessel_Paolo_Thaon_di_Revel) intercepted and boarded the tanker MV 
+
+*Sun*west of
+
+[Pantelleria](https://en.wikipedia.org/wiki/Pantelleria)for flag verification as part of the European Union's
+
+[Operation Irini](https://en.wikipedia.org/wiki/Operation_Irini). The oiler had departed from
+
+[Cotonou](https://en.wikipedia.org/wiki/Cotonou), in
+
+[Benin](https://en.wikipedia.org/wiki/Benin), and was bound to Istambul.
+
+
+[[99]](#cite_note-99)### Russian military involvement and espionage
+
+In August 2025, the Danish investigative media company * Danwatch* reported that it had obtained internal correspondence from the Danish state-owned 
+
+[pilotage](https://en.wikipedia.org/wiki/Piloting)company
+
+[DanPilot](https://en.wikipedia.org/wiki/DanPilot?action=edit&redlink=1)speaking about reports of uniformed "extra crew members"—presumably Russian—photographing infrastructure such as bridges. Danish military sources suggested this was done so as to inform the Russian
+
+[Federal Security Service](https://en.wikipedia.org/wiki/Federal_Security_Service)(FSB).
+
+In December 2025, Sweden's
+
+[[100]](#cite_note-k065-100)*reported that the*
+
+[Sveriges Television](https://en.wikipedia.org/wiki/Sveriges_Television)[Swedish Amphibious Corps](https://en.wikipedia.org/wiki/Swedish_Amphibious_Corps)(Amf) had reported armed and uniformed personnel behaving in a similar way. The Amf believed they had been hired by private security companies. SVT quoted Swedish military officials who said that there was an increased Russian military presence in shadow fleet shipping lanes, supposedly to support the shadow fleet.
+
+
+[[101]](#cite_note-k233-101)In February 2026, [Agence France-Presse](https://en.wikipedia.org/wiki/Agence_France-Presse) reported that two Russian security crew were aboard the *Boracay* when French authorities boarded the ship; one was a former member of the [Wagner group](https://en.wikipedia.org/wiki/Wagner_group). They were tasked with protection instructions, ensuring the ship followed orders in line with Russian interests, and gathering intelligence. Their presence was confirmed the captain's lawyer. [102] The crew were reported to be part of a private security group called Moran Security Group, founded by retired FSB colonel Vyacheslav Kalashnikov.
+
+
+[[103]](#cite_note-warsaw-institute-putins-invisible-army-103)In April, Russian warships began escorting "shadow fleet" vessels in British waters.[[92]](#cite_note-:8-92)[[104]](#cite_note-104)
+
+On 16 June 2026, in an apparent retaliation for the capture of the tanker *Skyros*, the Russian frigate *Admiral Grigorovich* fired warning shots at a British yacht in the English Channel off the [Isle of Wight](https://en.wikipedia.org/wiki/Isle_of_Wight). The yacht, who suffered no injuries or damage, was assisted by the British patrol vessel [HMS  Tyne](https://en.wikipedia.org/wiki/HMS_Tyne_(P281)).
+
+
+[[105]](#cite_note-105)In July 2026, intelligence experts said that Russia had used the shadow fleet to launch drones to spy on nuclear weapons in Britain and bases across Europe. Analysts pinpointed the timing of drone sightings in 13 European countries, and on each occasion at least one Russian shadow fleet tanker was nearby.[[106]](#cite_note-y765-106)
+
+## See also
+
+[Russian shadow fleet](https://commons.wikimedia.org/wiki/Category:Russian%20shadow%20fleet).
+
+## References
+
+- [↑](#cite_ref-1)- ["Russia-related Designations; Issuance of Russia-related General License"](https://ofac.treasury.gov/recent-actions/20231201).- *OFAC*. Retrieved 30 December 2024.
+- [↑](#cite_ref-2)- ["Russia's 'shadow fleet': Bringing the threat to light | Think Tank | European Parliament"](https://www.europarl.europa.eu/thinktank/en/document/EPRS_BRI(2024)766242). Retrieved 1 January 2025.- `{{`: CS1 maint: url-status (- [cite news](https://en.wikipedia.org/wiki/Template:Cite_news)}}- [link](https://en.wikipedia.org/wiki/Category:CS1_maint:_url-status))
+- [1](#cite_ref-atl111_3-0)- [2](#cite_ref-atl111_3-1)- [3](#cite_ref-atl111_3-2)- [4](#cite_ref-atl111_3-3)- [5](#cite_ref-atl111_3-4)- [6](#cite_ref-atl111_3-5)Braw, Elisabeth (11 January 2024).- ["Russia's growing dark fleet: Risks for the global maritime order"](https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/russias-growing-dark-fleet-risks-for-the-global-maritime-order/).- *Atlantic Council*. Retrieved 23 January 2025.
+- [1](#cite_ref-europarl_4-0)- [2](#cite_ref-europarl_4-1)- [3](#cite_ref-europarl_4-2)- [4](#cite_ref-europarl_4-3)Caprile, Anna; Leclerc, Gabija (November 2024).- ["Russia's 'shadow fleet': Bringing the threat to light"](https://www.europarl.europa.eu/RegData/etudes/BRIE/2024/766242/EPRS_BRI(2024)766242_EN.pdf)(PDF).- *europarl.europa.eu*. European Parliament. Retrieved 26 January 2025.
+- [↑](#cite_ref-5)Braw, Elisabeth (9 January 2025).- ["Greece Is Making a Killing Selling Ships to Russia"](https://foreignpolicy.com/2023/09/11/greece-russia-tankers-oil-sanctions/).- *Foreign Policy*. Retrieved 23 January 2025.
+- [↑](#cite_ref-6)Hunter, Archie; Steel, Alix; Smith, Grant.- ["Russia's 'Shadow Fleet' of Tankers Swells to 600 Ships, Trafigura Says"](https://www.bloomberg.com/news/articles/2023-02-03/trafigura-sees-7-of-oil-product-tankers-now-in-shadow-fleet). Bloomberg. Retrieved 10 August 2026.
+- [↑](#cite_ref-7)- ["2 Dark Fleet Risks You're Overlooking"](https://windward.ai/blog/2-dark-fleet-risks-youre-overlooking/).- *Windward° (blog)*. Retrieved 10 August 2026.
+- [1](#cite_ref-:0_8-0)- [2](#cite_ref-:0_8-1)Gavin, Gabriel (16 December 2024).- ["Clamp down on Russian shadow fleet after tanker oil spill, says Latvia"](https://www.politico.eu/article/russia-shadow-fleet-tanker-oil-spill-black-sea-latvia/).- *POLITICO*. Retrieved 18 December 2024.
+- [↑](#cite_ref-9)- ["Russia's Shadow Tanker Fleet Reportedly Triples Since 2022, Global Report Finds"](https://united24media.com/latest-news/russias-shadow-tanker-fleet-reportedly-triples-since-2022-9620).- *UNITED24 Media*. 4 July 2025. Retrieved 20 August 2025.
+- [↑](#cite_ref-wsj1_10-0)- ["The Shadow Tankers Sneaking Russian Oil Past Western Sanctions"](https://www.youtube.com/watch?v=16c32pvyx7k). The Wall Street Journal. YouTube. 15 February 2024.
+- [↑](#cite_ref-bbg2_11-0)- ["The Shadow Fleet Fueling Russia's War"](https://www.youtube.com/watch?v=Azm4yKKIlqE). Bloomberg Originals. YouTube. 6 December 2023.
+- [↑](#cite_ref-12)- ["Russia's shadow fleet is a disaster waiting to happen"](https://www.politico.eu/article/russia-shadow-fleet-oil-tankers-ships-accidents-ukraine-war-sanctions/).- *POLITICO*. 30 October 2023. Retrieved 5 December 2025.
+- [↑](#cite_ref-bbg1_13-0)- ["Russia Oil Tankers Do Strange Things Since US Sanctions Ramp-Up"](https://www.bloomberg.com/news/articles/2024-01-05/russia-oil-tankers-do-strange-things-since-us-sanctions-ramp-up). Bloomberg. YouTube. 6 January 2024.
+- [↑](#cite_ref-bosp1_14-0)- ["Bosporus maritime traffic temporarily halted as tanker anchors"](https://www.dailysabah.com/turkiye/istanbul/bosporus-maritime-traffic-temporarily-halted-as-tanker-anchors).- [Daily Sabah](https://en.wikipedia.org/wiki/Daily_Sabah)
+- [↑](#cite_ref-Ukr1_15-0)- ["Aircraft and Marine Vessels Airports and Ports involved in the transportation of weapons, stolen Ukrainian products and in the circumvention of sanctions"](https://web.archive.org/web/20260302090416/https://war-sanctions.gur.gov.ua/en/transport/ships).- *War & Sanctions*. Archived from- [the original](https://war-sanctions.gur.gov.ua/en/transport/ships)on 2 March 2026. Retrieved 2 March 2026.
+- [↑](#cite_ref-16)- ["Dozens of sanctioned Russian tankers navigate Channel despite UK vow of 'assertive' action"](https://www.bbc.com/news/articles/c2d77rr51rko).- *www.bbc.com*. 23 January 2026. Retrieved 23 January 2026.
+- [↑](#cite_ref-17)Epstein, Jonathan M.; Pribyl, Sean T. (20 November 2023).- ["U.S. Ramps Up Sanctions on Companies and Vessels Violating the Russian Oil Price Cap Regime"](https://www.lexology.com/library/detail.aspx?g=724f53a4-8daf-49b6-bcc1-9086b34161f0).- *Lexology*. Retrieved 5 December 2025.
+- [↑](#cite_ref-18)- ["US to impose sanctions on Russian oil fleet and traders, document shows"](https://www.reuters.com/business/energy/new-us-sanctions-russian-tankers-hit-oil-supplies-india-refining-sources-say-2025-01-10/).- *Reuters*.- [Archived](https://web.archive.org/web/20250118153459/https://www.reuters.com/business/energy/new-us-sanctions-russian-tankers-hit-oil-supplies-india-refining-sources-say-2025-01-10/)from the original on 18 January 2025. Retrieved 26 January 2025.
+- [↑](#cite_ref-19)- ["Treasury Intensifies Sanctions Against Russia by Targeting Russia's Oil Production and Exports"](https://home.treasury.gov/news/press-releases/jy2777).- *U.S. Department of the Treasury*. 23 December 2024. Retrieved 26 January 2025.
+- [↑](#cite_ref-f206_20-0)Wiseman, Lewis (18 June 2025).- ["Australian government places sanctions on 60 vessels in Russia's shadow fleet of oil tankers"](https://www.abc.net.au/news/2025-06-18/australia-sanctions-russian-shadow-fleet-oil-tankers/105430822?utm_source=abc_news_app&utm_medium=content_shared&utm_campaign=abc_news_app&utm_content=other).- *ABC News*. Retrieved 24 June 2025.
+- [↑](#cite_ref-y068_21-0)- ["UK targets 135 Russian 'shadow fleet' tankers with fresh sanctions"](https://www.reuters.com/world/uk-targets-135-russian-shadow-fleet-tankers-with-fresh-sanctions-2025-07-21/).- *Reuters*. 21 July 2025. Retrieved 21 July 2025.
+- [↑](#cite_ref-b781_22-0)Tahir, Tariq (26 December 2024).- ["Finns suspect Russian shadow fleet tanker sabotaged Baltic power cable"](https://www.thenationalnews.com/news/europe/2024/12/26/finns-suspect-russian-shadow-fleet-tanker-sabotaged-baltic-power-cable/).- *The National*. Retrieved 26 December 2024.
+- [↑](#cite_ref-23)- ["As Finland seizes Russian ship, Estonia launches naval patrols"](https://www.politico.eu/article/estonia-finland-russia-shipnaval-ports-sanction-germany-baltic-sea/).- *POLITICO*. 27 December 2024. Retrieved 28 December 2024.
+- [↑](#cite_ref-24)- ["FT: российский «теневой флот» фактически не застрахован от разлива нефти"](https://www.asn-news.ru/news/85861)[FT: Russia's 'shadow fleet' is virtually uninsured against oil spills].- *www.asn-news.ru*(in Russian). Retrieved 21 November 2025.
+- [↑](#cite_ref-25)- ["A shadow-fleet oil tanker that falsified its location and carried Venezuelan crude got stuck near Singapore"](https://finance.yahoo.com/news/shadow-fleet-oil-tanker-falsified-225724219.html).- *finance.yahoo.com*. 8 December 2023.
+- [↑](#cite_ref-26)- ["Norway's Ro Marine cancels P&I coverage for tankers breaching Russia sanctions"](https://www.lloydslist.com/LL1147581/Norways-Ro-Marine-cancels-PI-coverage-for-tankers-breaching-Russia-sanctions).- *Lloyds List*. 12 December 2023.
+- [↑](#cite_ref-27)Espeland, Stian (4 April 2025).- ["Stans-ordre og haste-tiltak mot skip over hele verden"](https://www.nrk.no/vestland/flaggstater-verden-rundt-stanser-skip-og-palegger-tiltak-etter-avsloring-fra-nrk-og-danwatch-1.17363840)[Stop orders and emergency measures against ships worldwide].- *NRK*(in Norwegian Bokmål). Retrieved 4 April 2025.
+- [↑](#cite_ref-28)Espeland, Stian (25 March 2025).- ["Falske dokumenter brukt til å lure Nato-land i skyggeflåte-kontroller"](https://www.nrk.no/vestland/xl/falske-dokument-fra-norsk-selskap-brukt-til-a-lure-nato-land-i-skyggeflate-kontroller-1.17354948)[Fake documents used to deceive NATO countries in shadow fleet inspections].- *NRK*(in Norwegian Bokmål). Retrieved 4 April 2025.
+- [↑](#cite_ref-29)- ["Norwegian Firm Under Investigation For Fake Insurance Of Russian Tankers"](https://www.marineinsight.com/shipping-news/norwegian-firm-under-investigation-for-fake-insurance-of-russian-tankers/).- *Marine Insight*. 3 April 2025. Retrieved 4 April 2025.
+- [↑](#cite_ref-US2012_30-0)- ["Treasury Tightens the Price Cap with New Sanctions and Updated Guidance"](https://home.treasury.gov/news/press-releases/jy2008).- *home.treasury.gov*. 20 December 2023.
+- [↑](#cite_ref-31)- ["US easing of Russia oil sanctions faces pushback from other leaders"](https://www.bbc.com/news/articles/clyzj3g3pygo).- *www.bbc.com*. 13 March 2026. Retrieved 30 May 2026.
+- [1](#cite_ref-foreignpolicy_32-0)- [2](#cite_ref-foreignpolicy_32-1)Johnson, Keith (16 October 2024).- ["Can Denmark Use International Law to Fight Russia's Shadow Fleet?"](https://foreignpolicy.com/2024/09/16/russia-oil-tankers-shadow-fleet-international-law-denmark-unclos/).- *Foreign Policy*. Retrieved 14 October 2024.
+- [↑](#cite_ref-33)- ["Europe Parliament Calls for Crackdown on Russia's Shadow Fleet"](https://maritime-executive.com/article/europe-parliament-calls-for-crackdown-on-russia-s-shadow-fleet).- *The Maritime Executive*. Retrieved 26 January 2025.
+- [↑](#cite_ref-34)- ["Document summary"](https://oeil.secure.europarl.europa.eu/oeil/en/document-summary?id=1795760).- *OEIL*. Retrieved 26 January 2025.
+- [↑](#cite_ref-35)- ["Russian oil tanker breaks up, another in distress in Black Sea"](https://www.politico.eu/article/russia-oil-tankers-distress-spill-black-sea-kerch-strait/).- *POLITICO*. 15 December 2024. Retrieved 18 December 2024.
+- [↑](#cite_ref-36)Harding, Luke (16 December 2024).- ["Ukraine calls for sanctions against Russia oil tankers over Black Sea spill"](https://www.theguardian.com/world/2024/dec/16/ukraine-calls-for-sanctions-against-russia-oil-tankers-over-black-sea-spill).- *The Guardian*.- [ISSN](https://en.wikipedia.org/wiki/ISSN_(identifier))- [0261-3077](https://search.worldcat.org/issn/0261-3077). Retrieved 18 December 2024.
+- [↑](#cite_ref-37)Sytas, Andrius (16 December 2024).- ["Western nations agree to 'disrupt and deter' Russia shadow fleet, Estonia says"](https://www.reuters.com/world/europe/western-nations-agree-disrupt-deter-russia-shadow-fleet-estonia-says-2024-12-16/).- *Reuters*.
+- [↑](#cite_ref-38)- ["UK slaps new sanctions on Russian shadow fleet"](https://www.politico.eu/article/uk-new-sanction-russian-shadow-fleet-oil-war/).- *POLITICO*. 17 December 2024. Retrieved 18 December 2024.
+- [↑](#cite_ref-39)- ["Украинские СМИ назвали подрыв двух танкеров «теневого флота» России у берегов Турции операцией СБУ"](https://meduza.io/news/2025/11/29/ukrainskie-smi-nazvali-podryv-dvuh-tankerov-tenevogo-flota-rossii-u-beregov-turtsii-operatsiey-sbu)[Ukrainian media have described the bombing of two Russian "shadow fleet" tankers off the coast of Turkey as an SBU operation.].- *Meduza*(in Russian). Retrieved 29 November 2025.
+- [↑](#cite_ref-40)- ["Unmanned vessel attacked Russian shadow-fleet tanker in Black Sea, Turkey says"](https://www.reuters.com/world/middle-east/unmanned-vessel-attacked-russian-shadow-fleet-tanker-black-sea-turkey-says-2025-11-29/).- *Reuters*. 29 November 2025. Retrieved 29 November 2025.
+- [↑](#cite_ref-41)- ["Turkish official says Black Sea tankers may have been hit by mines, missiles or drones"](https://abcnews.go.com/International/wireStory/turkish-official-black-sea-tankers-hit-mines-missiles-127958418).- *ABC News*. 29 November 2025. Retrieved 29 November 2025.
+- [↑](#cite_ref-42)- ["Дроны СБУ поразили в Черном море танкер "теневого флота" РФ – DW – 11 December 2025"](https://www.dw.com/ru/drony-sbu-porazili-v-cernom-more-tanker-tenevogo-flota-rf/a-75100133)[SBU drones hit a tanker belonging to Russia's "shadow fleet" in the Black Sea – DW – December 11, 2025].- *dw.com*(in Russian). Retrieved 23 December 2025.
+- [↑](#cite_ref-v830_43-0)- ["Owner of oil tanker damaged near Senegal says it is ceasing all Russian operations"](https://www.reuters.com/world/owner-oil-tanker-damaged-near-senegal-says-it-is-ceasing-all-russian-operations-2025-12-02/).- *Reuters*. 2 December 2025. Retrieved 3 December 2025.
+- [↑](#cite_ref-44)- ["Ukraine strikes Russian 'shadow fleet' tanker in Mediterranean"](https://www.reuters.com/business/aerospace-defense/ukraine-hits-russian-shadow-fleet-tanker-mediterranean-first-time-sbu-source-2025-12-19/).- *Reuters*. 19 December 2025.
+- [↑](#cite_ref-w493_45-0)Yana, Porokhnia (12 December 2025).- ["The Atlantic: Trump doesn't mind Ukraine's attacks on Russia's "shadow fleet" – approves aid"](https://news.liga.net/en/politics/news/the-atlantic-trump-doesnt-mind-ukraines-attacks-on-russias-shadow-fleet-approves-aid).- *LIGA.net*. Retrieved 16 December 2025.
+- [↑](#cite_ref-46)- ["Finnish coastguard boards tanker suspected of causing power and internet cable outages"](https://www.theguardian.com/world/2024/dec/26/finnish-coastguard-boards-eagle-s-oil-tanker-suspected-of-causing-power-cable-outages).- *Reuters*. The Guardian. 26 December 2024.- [ISSN](https://en.wikipedia.org/wiki/ISSN_(identifier))- [0261-3077](https://search.worldcat.org/issn/0261-3077). Retrieved 25 January 2026.
+- [↑](#cite_ref-47)- ["Estlink 2: Aseistautuneet valmiusjoukot lähetettiin keskellä yötä Eagle S -alukselle, kun syyttäjä pohti vielä terrorismia"](https://www.hs.fi/suomi/art-2000010927044.html)[Armed readiness troops were sent to the Eagle S vessel in the middle of the night while the prosecutor was still considering terrorism].- *Helsingin Sanomat*(in Finnish). 26 December 2024. Retrieved 25 January 2026.
+- [↑](#cite_ref-48)Staib, Julian (21 March 2025).- ["Zoll beschlagnahmt Tanker der russischen Schattenflotte"](https://www.faz.net/aktuell/politik/inland/russlands-schattenflotte-zoll-beschlagnahmt-tanker-110371513.html)[Customs seizes tanker of the Russian shadow fleet].- *Frankfurter Allgemeine Zeitung*(in German). Retrieved 21 March 2025.
+- [↑](#cite_ref-49)Moldenhauer, Eike (22 October 2025).- ["Stürme bedrohen schrottigen Öltanker vor Rügen: Droht eine Katastrophe in der Ostsee?"](https://www.nordkurier.de/regional/ruegen/stuerme-bedrohen-vor-ruegen-liegenden-oeltanker-droht-eine-katastrophe-in-der-ostsee-4032449)[Storms threaten derelict oil tanker off Rügen: Is a catastrophe imminent in the Baltic Sea?].- *Nordkurier*(in German). Retrieved 22 October 2025.
+- [↑](#cite_ref-50)Moldenhauer, Eike (11 December 2025).- ["Urteil: Öltanker "Eventin" vor Rügen darf vorerst nicht eingezogen werden"](https://www.ndr.de/nachrichten/mecklenburg-vorpommern/urteil-oeltanker-eventin-vor-ruegen-darf-vorerst-nicht-eingezogen-werden,eventin-128.html)[Tanker Eventin off Rügen not allowed to be seized].- *NDR*(in German). Retrieved 11 December 2025.
+- [↑](#cite_ref-51)- ["Estonian navy seizes flagless, sanctioned tanker heading to Russia"](https://www.lloydslist.com/LL1153166/Estonian-navy-seizes-flagless-sanctioned-tanker-heading-to-Russia).- *Lloyd's List*. 11 April 2025. Retrieved 11 April 2025.
+- [↑](#cite_ref-52)- ["Estonia detains Russian 'shadow fleet'-linked oil tanker near Tallinn"](https://www.euronews.com/my-europe/2025/04/11/estonian-authorities-detain-russian-shadow-fleet-linked-oil-tanker-near-tallinn).- *euronews*. 11 April 2025. Retrieved 11 April 2025.
+- [↑](#cite_ref-53)- ["В Финском заливе эстонский тральщик М6731 Admiral Cowan задержал танкер Kiwala под флагом Джибути -"](https://podolyaka.ru/v-finskom-zalive-estonskiy-tralschik-m6731-admiral-cowan-zaderzhal-tanker-kiwala-pod-flagom-dzhibuti/)[In the Gulf of Finland, the Estonian minesweeper M6731 Admiral Cowan detained the tanker Kiwala, which flies the flag of Djibouti.].- *Podolyaka*(in Russian). 11 April 2025. Retrieved 11 April 2025.
+- [1](#cite_ref-:3_54-0)- [2](#cite_ref-:3_54-1)- ["Estonia attempts to detain "civilian vessel" in Gulf of Finland, ship confirmed as member of Russia's "shadow fleet""](https://theins.ru/en/news/281297).- *The Insider*(in Russian). Retrieved 17 May 2025.
+- [1](#cite_ref-:4_55-0)- [2](#cite_ref-:4_55-1)- ["Freighters with Russian crew deployed drones in European airspace: report"](https://nltimes.nl/2025/06/10/freighters-russian-crew-deployed-drones-european-airspace-report).- *NL Times*. 10 June 2025. Retrieved 13 September 2025.
+- [↑](#cite_ref-56)- ["Navy escorts suspected 'shadow fleet' tanker out of Estonian waters"](https://news.err.ee/1609694456/navy-escorts-suspected-shadow-fleet-tanker-out-of-estonian-waters).- *ERR*. 14 May 2025. Retrieved 14 May 2025.
+- [↑](#cite_ref-57)- ["Russian fighter jet breaches Estonia's airspace"](https://news.err.ee/1609694252/russian-fighter-jet-breaches-estonia-s-airspace).- *ERR*. 14 May 2025. Retrieved 15 May 2025.
+- [↑](#cite_ref-58)Erling, Barbara; Strzelecki, Marek (21 May 2025).- ["Poland intervenes as Russian 'shadow fleet' ship spotted near power cable"](https://www.reuters.com/world/europe/poland-says-russian-ship-performed-suspicious-manoeuvres-near-cable-sweden-2025-05-21/).- *Reuters*. Retrieved 21 May 2025.
+- [↑](#cite_ref-59)- ["Corvette With Uran Missiles Deployed to Guard russian Shadow Fleet"](https://en.defence-ua.com/news/corvette_with_uran_missiles_deployed_to_guard_russian_shadow_fleet-14939.html).- *Defense Express*. Retrieved 24 June 2025.
+- [↑](#cite_ref-60)Brahy, Jérôme.- ["Russia sends warship for the first time to escort sanctioned shadow fleet through English Channel"](https://armyrecognition.com/news/navy-news/2025/russia-sends-warship-for-the-first-time-to-escort-sanctioned-shadow-fleet-through-english-channel).- *Army Recognition*. Retrieved 24 June 2025.
+- [↑](#cite_ref-61)- ["German Forces Seize Cargo Ship Suspected of Launching Russian Spy Drone"](https://united24media.com/latest-news/german-forces-seize-cargo-ship-suspected-of-launching-russian-spy-drone-11512).- *UNITED24 Media*. 9 September 2025. Retrieved 10 September 2025.
+- [1](#cite_ref-:5_62-0)- [2](#cite_ref-:5_62-1)- ["France detains two crew members of Russia-linked tanker off western French coast"](https://www.france24.com/en/europe/20251001-france-investigates-suspected-shadow-fleet-oil-tanker-anchored-off-its-coast).- *France 24*. 1 October 2025. Retrieved 1 October 2025.
+- [↑](#cite_ref-63)Kesteloo, Haye (30 September 2025).- ["France Seizes Shadow Fleet Tanker Suspected In Copenhagen Airport Drone Attack"](https://dronexl.co/2025/09/30/france-shadow-fleet-tanker-copenhagen-airport-drone-attack/).- *Dronexl*. Retrieved 1 October 2025.
+- [1](#cite_ref-:6_64-0)- [2](#cite_ref-:6_64-1)- ["France: Captain of tanker linked to Russian 'shadow fleet' charged"](https://www.bbc.com/news/articles/cqxz1wvqvzqo).- *www.bbc.com*. 2 October 2025. Retrieved 7 October 2025.
+- [↑](#cite_ref-65)- ["French military intercepts Russian ship suspected of launching drones into European airspace, Guardian reports"](https://kyivindependent.com/french-military-intercepts-russian-ship-suspected-of-launching-drones-into-european-airspace/).- *The Kyiv Independent*. 1 October 2025. Retrieved 7 October 2025.
+- [↑](#cite_ref-66)- ["Russia-linked 'shadow fleet' oil tanker stopped by France resumes voyage"](https://www.france24.com/en/europe/20251003-russia-linked-oil-tanker-stopped-by-france-resumes-voyage-according-to-vessel-trackers).- *France 24*. 3 October 2025. Retrieved 8 October 2025.
+- [↑](#cite_ref-67)- ["U.S. Navy Vessel Blocks Russian Oil Tanker from Reaching Venezuela"](https://defensemirror.com/news/40575).- *defensemirror.com*. Retrieved 21 November 2025.
+- [↑](#cite_ref-68)Harding, Luke (31 December 2025).- ["Finnish police seize vessel suspected of damaging underwater cable"](https://www.theguardian.com/world/2025/dec/31/finnish-police-seize-vessel-suspected-damaging-underwater-cable).- *The Guardian*.- [ISSN](https://en.wikipedia.org/wiki/ISSN_(identifier))- [0261-3077](https://search.worldcat.org/issn/0261-3077). Retrieved 6 January 2026.
+- [↑](#cite_ref-69)Hall, Ben; Milne, Richard (5 January 2026).- ["Baltic countries on alert after series of suspicious undersea cable outages"](https://www.ft.com/content/36bcbfe7-3420-4e1f-a24c-c7c5ef17229b).- *www.ft.com*. Retrieved 6 January 2026.
+- [↑](#cite_ref-70)Oelofse, Louis (2 January 2026).- ["Finnish police arrest 2 over undersea cable damage – DW – 01/02/2026"](https://www.dw.com/en/finnish-police-arrest-2-over-undersea-cable-damage/a-75369402).- *dw.com*. Retrieved 6 January 2026.
+- [↑](#cite_ref-71)- ["U.S. launches operation to seize Russian-flagged oil tanker linked to Venezuela"](https://www.nbcnews.com/world/venezuela/us-seize-russia-flagged-oil-tanker-bella1-marinera-venezuela-rcna252738).- *NBC News*. 7 January 2026. Retrieved 7 January 2026.
+- [↑](#cite_ref-72)- ["US announces seizure of Russian tanker in Atlantic"](https://unn.ua/en/news/us-reports-tanker-seizure-in-atlantic-media).- *Ukrainian National News (UNN)*. 7 January 2026. Retrieved 7 January 2026.
+- [↑](#cite_ref-73)- ["US forces attempt to board oil tanker after pursuit across Atlantic"](https://www.bbc.com/news/articles/c7v0deypjl4o).- *BBC*. 7 January 2026. Retrieved 8 January 2026.
+- [↑](#cite_ref-74)Altman, Howard (22 January 2026).- ["Shadow Fleet Tanker Seizure Operations Expand In The Face Of Russian Warnings"](https://www.twz.com/sea/shadow-fleet-tanker-seizure-operations-expand-in-the-face-of-russian-warnings).- *The War Zone*. Retrieved 22 January 2026.
+- [↑](#cite_ref-Rawnsley_75-0)Rawnsley, Jessica (22 January 2026).- ["France seizes suspected Russian 'shadow fleet' tanker in the Mediterranean"](https://www.bbc.com/news/articles/cdexxr2y907o).- *www.bbc.com*. Retrieved 22 January 2026.
+- [↑](#cite_ref-76)Solletty, Marion (22 January 2026).- ["French Navy boards suspected Russian shadow fleet tanker"](https://www.politico.eu/article/france-emmanuel-macron-navy-boards-russian-shadow-fleet-vessel/).- *POLITICO*. Retrieved 22 January 2026.
+- [↑](#cite_ref-77)- ["Royal Navy intelligence supports French seizure of Russian shadow fleet tanker"](https://www.navylookout.com/royal-navy-intelligence-supports-french-seizure-of-russian-shadow-fleet-tanker/).- *Navy Lookout*. 22 January 2026. Retrieved 22 January 2026.
+- [↑](#cite_ref-78)- ["France intercepts suspected Russian shadow fleet tanker in Mediterranean"](https://www.reuters.com/world/europe/french-navy-intercepts-sanctioned-russian-tanker-mediterranean-macron-says-2026-01-22/an).- [Reuters](https://en.wikipedia.org/wiki/Reuters)
+- [↑](#cite_ref-79)- ["French navy boards tanker 'from Russia' in Mediterranean"](https://www.france24.com/en/live-news/20260122-french-navy-boards-tanker-from-russia-in-mediterranean).- *France 24*. 22 January 2026. Retrieved 23 January 2026.
+- [↑](#cite_ref-80)Guilbert, Kieran (17 February 2026).- ["France releases suspected Russian 'shadow fleet' tanker after fine"](https://www.euronews.com/2026/02/17/france-releases-suspected-russian-shadow-fleet-tanker-after-fine).- *euronews*. Retrieved 17 February 2026.
+- [↑](#cite_ref-81)- ["US boards second oil tanker in Indian Ocean after it fled Venezuelan raid"](https://www.theguardian.com/world/2026/feb/15/us-forces-board-second-venezuelalinked-oil-tanker-in-indian-ocean).- *The Guardian*. Associated Press. 15 February 2026.- [ISSN](https://en.wikipedia.org/wiki/ISSN_(identifier))- [0261-3077](https://search.worldcat.org/issn/0261-3077). Retrieved 17 February 2026.
+- [1](#cite_ref-:2_82-0)- [2](#cite_ref-:2_82-1)Connolly, Kate (1 March 2026).- ["Suspected Russian 'shadow fleet' tanker seized in North Sea"](https://www.theguardian.com/world/2026/mar/01/suspected-russian-shadow-fleet-tanker-seized-north-sea).- *The Guardian*.- [ISSN](https://en.wikipedia.org/wiki/ISSN_(identifier))- [0261-3077](https://search.worldcat.org/issn/0261-3077). Retrieved 1 March 2026.
+- [↑](#cite_ref-:1_83-0)- ["Belgium, with France's assistance, seizes suspected Russian 'shadow fleet' tanker"](https://www.lemonde.fr/en/international/article/2026/03/01/belgium-with-france-s-assistance-seizes-suspected-russian-shadow-fleet-tanker_6750977_4.html). Le Monde. 1 March 2026.
+- [↑](#cite_ref-:9_84-0)- ["Ondernemingsrechtbank Gent verklaart vordering eigenaar MS Ethera ongegrond"](https://www.rechtbanken-tribunaux.be/nl/nieuwsartikel-lokaal/ondernemingsrechtbank-gent-verklaart-vordering-eigenaar-ms-ethera-ongegrond).- *Hoven & Rechtbanken*. Retrieved 30 May 2026.
+- [↑](#cite_ref-x311_85-0)- ["Sweden Detains Crew Member of Russian 'Shadow Fleet' Ship"](https://www.themoscowtimes.com/2026/03/08/sweden-detains-crew-member-of-russian-shadow-fleet-ship-a92156).- *The Moscow Times*. 13 March 2026. Retrieved 13 March 2026.
+- [↑](#cite_ref-e079_86-0)Blackburn, Gavin (6 August 2026).- ["Sweden to hand over seized Russian 'shadow fleet' ship to Ukraine"](https://www.euronews.com/my-europe/2026/08/06/sweden-to-hand-over-russian-shadow-fleet-ship-to-ukraine-court-documents-show). euronews. Retrieved 7 August 2026.
+- [↑](#cite_ref-o054_87-0)The Moscow Times (13 March 2026).- ["Sweden Seizes False-Flagged Oil Tanker Allegedly Bound for Russia"](https://www.themoscowtimes.com/2026/03/13/sweden-seizes-false-flagged-oil-tanker-allegedly-bound-for-russia-a92216).- *The Moscow Times*. Retrieved 13 March 2026.
+- [1](#cite_ref-:7_88-0)- [2](#cite_ref-:7_88-1)Phillips, Aleks (15 March 2026).- ["Sweden detains captain of Russian shadow fleet ship"](https://www.bbc.com/news/articles/cpqwg0yej04o).- *BBC*. Retrieved 8 April 2026.
+- [↑](#cite_ref-89)- ["French navy seizes oil tanker sailing from Russia accused of flying false flag in Mediterranean"](https://www.france24.com/en/france/20260320-french-navy-seizes-oil-tanker-sailing-from-russia-accused-of-flying-false-flag-in-mediterranean).- *France 24*. 20 March 2026.
+- [↑](#cite_ref-90)- ["UK supported French operation to board 'shadow fleet' tanker"](https://www.independent.co.uk/news/uk/home-news/french-john-healey-mediterranean-emmanuel-macron-defence-secretary-b2942721.html).- *The Independent*. 20 March 2026.
+- [↑](#cite_ref-91)- ["Russia-linked tanker leaves French port after paying fine"](https://www.lemonde.fr/en/france/article/2026/04/16/russia-linked-tanker-leaves-french-port-after-paying-fine_6752491_7.html).- *lemonde.fr*. 16 April 2026.- `{{`: CS1 maint: url-status (- [cite web](https://en.wikipedia.org/wiki/Template:Cite_web)}}- [link](https://en.wikipedia.org/wiki/Category:CS1_maint:_url-status))
+- [1](#cite_ref-:8_92-0)- [2](#cite_ref-:8_92-1)Cotterill, Tom (8 April 2026).- ["Exclusive: Putin mocks Starmer with warship in Channel"](https://www.telegraph.co.uk/news/2026/04/08/russia-warship-mocks-starmer-in-channel/).- *The Telegraph*. Retrieved 9 April 2026.
+- [↑](#cite_ref-93)- ["Kremlin says Russia has right to defend itself from 'piracy' after report of warship escort near UK"](https://www.reuters.com/world/uk/kremlin-says-russia-has-right-defend-itself-piracy-after-report-warship-escort-2026-04-09/).- *Reuters*.
+- [↑](#cite_ref-94)Edgington, Tom; Cheetham, Joshua; Spencer, Thomas (12 May 2026).- ["Russia's shadow fleet ships defying PM's threat and entering UK waters"](https://www.bbc.com/news/articles/cn8pvgw802no).- *www.bbc.com*. Retrieved 2 June 2026.
+- [↑](#cite_ref-b062_95-0)The Associated Press (6 May 2026).- ["Sweden detains sanctioned oil tanker believed to be linked to Russia's shadow fleet"](https://abcnews.com/International/wireStory/sweden-detains-sanctioned-oil-tanker-believed-linked-russias-132709350).- *ABC News*. Retrieved 6 May 2026.
+- [↑](#cite_ref-96)Moore, Henry (1 June 2026).- ["Macron says French navy has boarded Russia-linked oil tanker in Atlantic"](https://www.bbc.com/news/articles/cn8pwgej1gxo).- *BBC news*. Retrieved 1 June 2026.
+- [↑](#cite_ref-97)Kipling, Ella; Symonds, Tom (14 June 2026).- ["Royal Marines board Russian shadow fleet oil tanker in English Channel"](https://www.bbc.com/news/articles/clyek039l2vo).- *www.bbc.com*. Retrieved 14 June 2026.
+- [↑](#cite_ref-98)Lister, Tim; Sherwood, Oliver; Cheney, Satish (14 June 2026).- ["UK intercepts Russian 'shadow fleet' tanker for first time"](https://www.cnn.com/2026/06/14/europe/uk-intercepts-russian-shadow-fleet-tanker-for-first-time).- *CNN*. Retrieved 14 June 2026.
+- [↑](#cite_ref-99)Rennolds, Nathan (31 August 2026).- ["Suspected Russian shadow fleet oil tanker boarded by EU forces"](https://www.euronews.com/my-europe/2026/08/31/suspected-russian-shadow-fleet-oil-tanker-boarded-by-eu-forces-in-the-mediterranean).- *euronews*. Retrieved 31 August 2026.
+- [↑](#cite_ref-k065_100-0)- ["Pilot Warns: Shadow Fleet Spies in Denmark"](https://danwatch.dk/en/pilot-warns-dark-fleet-spies-in-denmark/).- *Danwatch*. 2 August 2025. Retrieved 16 December 2025.
+- [↑](#cite_ref-k233_101-0)- ["Marinen: Ryssland skyddar skuggflottan med militär operation"](https://www.svt.se/nyheter/inrikes/marinen-ryssland-skyddar-skuggflottan-med-militar-operation).- *SVT Nyheter*(in Swedish). 15 December 2025. Retrieved 16 December 2025.
+- [↑](#cite_ref-afp-france24-tanker_102-0)- ["Two Russian security personnel were on board France-seized tanker, sources say"](https://www.france24.com/en/live-news/20260223-two-russian-security-personnel-were-on-board-france-seized-tanker-sources).- *France 24*. Agence France-Presse. 23 February 2026. Retrieved 23 February 2026.
+- [↑](#cite_ref-warsaw-institute-putins-invisible-army_103-0)Kuczyński, Grzegorz (18 February 2026).- ["Putin's invisible Army"](https://warsawinstitute.org/putins-invisible-army/).- *Warsaw Institute*. Retrieved 23 February 2026.
+- [↑](#cite_ref-104)- ["Royal Navy monitors shadow fleet vessels but Russian naval escort complicates boarding dilemma"](https://www.navylookout.com/royal-navy-monitors-shadow-fleet-vessels-but-russian-naval-escort-complicates-boarding-dilemma/).- *Navy Lookout*. 9 April 2026. Retrieved 9 April 2026.
+- [↑](#cite_ref-105)Sabbagh, Dan (16 June 2026).- ["Russian frigate fires warning shots at British yacht in Channel – reports"](https://www.theguardian.com/uk-news/2026/jun/16/russian-frigate-fires-warning-shots-at-british-yacht-in-channel-reports).- *The Guardian*.- [ISSN](https://en.wikipedia.org/wiki/ISSN_(identifier))- [0261-3077](https://search.worldcat.org/issn/0261-3077). Retrieved 16 June 2026.
+- [↑](#cite_ref-y765_106-0)- ["Russian drones spy on nuclear weapons in Britain"](https://www.telegraph.co.uk/news/2026/07/02/putin-shadow-tankers-drones-nuclear-weapons-russia-nato/?WT.mc_id=tmgoff_youtube_drones-nuclear-weapons-russia-nato%2F).- *telegraph.co.uk*. 2 July 2026. Retrieved 23 July 2026.

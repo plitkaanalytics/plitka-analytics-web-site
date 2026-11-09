@@ -1,0 +1,32 @@
+URL:         https://maritime-executive.com/article/greenpeace-warns-of-environmental-fallout-from-tanker-attack-in-black-sea
+Кінцевий:    https://maritime-executive.com/article/greenpeace-warns-of-environmental-fallout-from-tanker-attack-in-black-sea
+Заголовок:   Greenpeace Warns of Environmental Fallout From Tanker Attack in Black Sea
+Дата публ.:  2026-10-07
+Завантажено: 2026-10-08 10:04 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 149235
+Оригінал:    raw/184-maritime-executive.com-greenpeace-warns-of-environmental-fallout-from-.html
+sha256:      ca52fe73d022d8c2cd456b4676bae2469d44ac90a9751e7b0ac3238b4b54c458
+Витяг:       trafilatura
+
+==============================================================================
+# Greenpeace Warns of Environmental Fallout From Tanker Attack in Black Sea
+
+Smoke from the burning tanker off the resort town of Sochi, Russia petered out on Wednesday, less than 24 hours after the vessel was hit by one or more Ukrainian drones. Russian authorities have confirmed that a "terrorist attack" on the merchant tanker occurred, and Russian media outlets have confirmed its identity as the Liberian-flagged *Aframax Rio. *
+
+All 23 crewmembers (all Indian nationals) were evacuated safely from the tanker, and no injuries were reported, according to the Russian Ministry of Transport. The agency says that after an initial period of monitoring to allow the flames to subside, the fire has now been brought under control. Russia's public health ministry claims that no pollution has been detected, though burning petroleum on the water was visible in bystander imagery from the night of the attack. Nearby public beaches have been closed as a precautionary measure, and environmental monitoring of air and water quality continues, according to Sochi Mayor Andrey Proshunin.
+
+The vessel's salvage status as of October 7 is unknown; in unverified images circulating on social media on October 7, local citizens suggested that the ship had taken on a list to starboard. The vessel is on the move, drifting with the current up the coastline of the Lazarevsky District, Proshunin said in a statement.
+
+"I ask everyone to remain calm, adhere to established restrictions, and rely only on verified information. The city's emergency response team is constantly monitoring the situation," Proshunin said.
+
+In a statement, environmental NGO Greenpeace warned that the attack on the laden tanker could lead to "unprecedented pollution of the Black Sea and the destruction of marine ecosystems," exceeding the scale of the last two substantial spills in the region.
+
+"[Russian oil] poses a direct threat to the people of Russia itself and to the environment of the entire Black Sea region," the NGO wrote.
+
+that matters most
+
+Get the latest maritime news delivered to your inbox daily.
+
+It was the second drone-boat attack on Sochi in a month following a strike on September 9, which hit a public beach and injured 30 bystanders.
+
+Both Ukraine and Russia have made extensive use of drone technology to attack civilian-crewed merchant ships, both domestic and foreign-flagged. On Tuesday, a Russian drone strike sank a Turkish-operated merchant ship off the coast of Bulgaria, killing ten foreign crewmembers. A separate Russian strike sparked a fire and injured two crewmembers on a second Turkish-operated vessel.

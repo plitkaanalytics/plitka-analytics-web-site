@@ -1,0 +1,368 @@
+URL:         https://media.defcon.org/DEF%20CON%2034/DEF%20CON%2034%20presentations/DEF%20CON%2034%20-%20Kenneth%20Miltenberger,%20Shane%20Cancilla%20-%20Taking%20on%20the%20Dark%20Fleet...%20in%20Cyberspace!.pdf
+Кінцевий:    https://media.defcon.org/DEF%20CON%2034/DEF%20CON%2034%20presentations/DEF%20CON%2034%20-%20Kenneth%20Miltenberger,%20Shane%20Cancilla%20-%20Taking%20on%20the%20Dark%20Fleet...%20in%20Cyberspace!.pdf
+Заголовок:   Taking on the Dark Fleet... in Cyberspace! (Miltenberger, Cancilla, USCG, DEF CON 34)
+Дата публ.:  2026-08 (DEF CON 34)
+Завантажено: 2026-10-02 08:01 UTC
+HTTP:        —   Тип: application/pdf   Байтів: 5438201
+Оригінал:    raw/01-uscg-defcon34-dark-fleet.pdf
+sha256:      c301a3acfc344979382d30ab1237c55d4f1766d7f59d50988261593e3d076aa7
+Витяг:       pdftotext
+Примітка:    скачано редакцією вручну в браузері: media.defcon.org обриває зʼєднання з робочої машини
+
+==============================================================================
+                                                                    UNCLASSIFIED
+
+U.S. Coast Guard
+
+Coast Guard Cyber Command
+
+Taking on the Dark Fleet
+…in Cyberspace!
+
+Kenny Miltenberger                              Shane Cancilla
+Commander, U.S. Coast Guard                     Network Engineer, 2003 Cyber Protection Team
+Commanding Officer, 2003 Cyber Protection Team
+
+                                                UNCLASSIFIED                                  1
+                   UNCLASSIFIED
+
+# whoami’s
+
+            Kenny                Shane
+
+                   UNCLASSIFIED
+             UNCLASSIFIED
+
+We do cyber
+
+             Source: TheUNCClLaAwSSIoFIfEDKnowledge:
+                                                                                                          UNCLASSIFIED
+
+U.S. Coast Guard Cyber Protection Teams
+
+                                                                                                                        Reserve
+
+UNCLASSIFIED
+           UNCLASSIFIED
+
+Last year
+
+           UNCLASSIFIED  5
+           UNCLASSIFIED
+
+This year
+
+           UNCLASSIFIED  6
+                UNCLASSIFIED
+
+The Dark Fleet
+
+• AKA: shadow, ghost, or dark fleet
+
+• Disaggregated
+
+• Avoid sanctions & regulations
+
+• False flags and open registries
+
+• In 2024 US Congressional
+ Research Service estimates 1600
+ ships carrying sanctioned oil
+
+                                     More reading: The Global Oil Tanker Market: An
+                                     Overview as It Relates to Sanctions |
+                                     Congress.gov | Library of Congress
+
+                UNCLASSIFIED                                                         7
+                                                   UNCLASSIFIED
+
+Dark Fleet Crackdown
+
+• December 2025 led by the US
+
+• Shortly followed by
+ interdictions from: India,
+ Belgium, France, Sweden, UK,
+ Finland, Estonia, Germany,
+ and others.
+
+• Over 19 physical interdictions
+ globally since December 2025.
+
+      (up from <5 in the previous 10 years total)
+
+                                                   Example of an interdicted vessel, M/T Sophia, was
+                                                   operating in international waters and conducting illicit
+                                                   activities in the Caribbean Sea. Source
+
+                                                   UNCLASSIFIED                                              8
+                              UNCLASSIFIED
+
+Safety of Dark Fleet Vessels
+
+• Dark Fleet Vessels are not                Source: Inert Gas System Requirements on Ships 2025
+ compliant with rules and                   Guide
+ regulations or general due diligence
+ to secure IT and OT networks
+ aboard.
+
+• Tanker lifespans.
+
+• Proliferation of high speed, low cost
+ satellite communications.
+
+• Example: inert gas generators.
+
+                              UNCLASSIFIED  9
+UNCLASSIFIED
+
+?
+
+UNCLASSIFIED  10
+                           UNCLASSIFIED
+
+Solution: Integrate Cyber
+
+• Cyber Control Teams
+
+• Cyber Positive Control (POSCON)
+
+• Guiding principals: protect our boarding
+ team, protect the vessel, and protect the
+ vessel’s crew.
+
+• Being helpful nerds to our boarding teams.
+
+                           UNCLASSIFIED       11
+                                                                                                          UNCLASSIFIED
+
+Getting out of your comfort zone
+
+Jake getting hoisted
+
+Operational   Technical              Alan climbing Jacob's Ladder
+PPE           Enterprise Networks
+Camping gear  vs. Small-Network Oil                                                                                     Mike eats an MRE onboard a seized tanker
+MREs          Tankers
+
+                                     UNCLASSIFIED                                                                       12
+UNCLASSIFIED
+
+Findings
+
+UNCLASSIFIED  13
+                                                                                                          UNCLASSIFIED
+
+Cybersecurity of Dark Fleet Vessels
+
+Consolidated Findings of Dark Fleet Vessel Cybersecurity Assessment
+
+UNCLASSIFIED                                                                                                            14
+                                                    UNCLASSIFIED
+
+Dark Fleet Networking
+
+• Satellite Internet:  • Onboard Networking:
+
+       • KU Band              • Modem
+       • StarLink             • Core Switch
+                              • User Switches/WAPs
+
+Source: Maritime IT Operations with Satellite
+Communication and Starlink
+
+                                                    UNCLASSIFIED  15
+                                         UNCLASSIFIED
+
+IT/OT Segmentation
+
+OT / IT Integration: Bad cyber-hygiene,
+and OT/IT integration make this more
+and more difficult.
+
+Variable Bad cyber-hygiene, and
+OT/IT integration make this more and
+more difficult.
+
+Ethernet to Serial on AIS                Engineering Control Room CAN to Ethernet Gateways
+
+                                         UNCLASSIFIED                                       16
+                                                   UNCLASSIFIED
+
+Malware & Anti-Virus                               Event                   Count
+                                                   Confirmed Malware       17
+• Malware: Compromised segmentation through        Detections
+   foreign USB devices is a well known and         Threat history cleared  344
+   documented issue onboard Dark Fleet Vessels...  Remediation Failures    2
+                                                   Protection Disabled     5
+• Exploitable propagation methods                  Configuration Changed   2,268
+  observed:
+                                                                 Fleet-Wide Malware / AV Statistics
+     • SMB
+
+     • RDP
+
+     • Weak Credentials (like rockyou.txt weak),
+        shared, or not used at all
+
+     • Disabled anti-virus (or disabling after
+        running a malicious executable)
+
+     • Outdated OSs
+
+     • Shared removable media devices
+
+                                                   UNCLASSIFIED                                      17
+                                                                            UNCLASSIFIED
+
+  Malware & Anti-Virus                                                                    MusaLLaT Dynamic Analysis Artifacts
+
+▪ Malware: Multiple observed cases of
+   malicious software living on host
+   workstations and public vessel servers
+
+       ▪ Foreign USB introduction to air gapped
+           networks is a known issue.
+
+• MusaLLaT.exe: USB Propagating
+   malware execution attempted, could
+   endanger air gapped networks.
+
+                   • Changes local DNS records to prevent EDR
+                        solutions from accessing public servers.
+
+                   • Disables UAC, TaskManager, Cmd Prompt,
+                        Windows System Restore, and Regedit.
+
+                   • Firewall modifications to allow inbound TCP/139.
+
+                   • Attempts to write legacy autorun.inf file to D:\, and
+                        hides it.
+
+• Trojans: Numerous trojans, some targeting
+
+   PRC social practices
+
+•A
+
+                                                                            UNCLASSIFIED                                       18
+                                                                                                 UNCLASSIFIED
+
+Technical Findings – Remote Disk Wiping
+
+▪ Remote Access:
+
+       ▪ TeamViewer
+       ▪ RemoteDesktop
+       ▪ ScreenConnect
+
+▪ System Tampering: Remote
+   access to workstation onboard
+   then PowerShell from there to
+   zero-fill server hard drives.
+
+UNCLASSIFIED                                                                                                   19
+                                                                                                 UNCLASSIFIED
+
+Navigation Systems Tampering – AIS manipulation
+
+▪ Antenna Tampering: Apparent
+   attenuation cages around pilothouse
+   antennas, suspected to support AIS
+   spoofing activities by cutting of receipt of
+   legitimate GPS signals.
+
+UNCLASSIFIED                                                                                                   20
+                              UNCLASSIFIED
+
+Vessel Position
+Simulation: Use of laptops
+with specialized software to
+spoof NMEA data outputs
+through serial connection to
+AIS.
+
+                              Example NMEA manipulation software
+                              Source: NemaTalker 1.9 Download (Free trial) - NemaTalker.exe
+
+                              UNCLASSIFIED                                                   21
+                                       UNCLASSIFIED
+
+Multiple AIS units & NMEA 0183
+Tampering: Spliced serial connections
+between GPS & bridge navigation
+systems.
+
+                                                     Physical selector between two AIS units of
+                                                     different brands
+
+                                       UNCLASSIFIED                                              22
+                                                                                                 UNCLASSIFIED  AIS vs LRIT
+
+Navigation Systems Tampering – Long Range Identification & Tracking
+
+▪ LRIT: Vessels over 300 gross tons are mandated by the
+   International Maritime Organization (IMO) to transmit their
+   identity & location every 6 hrs to one of 4 bodies:
+
+       ▪ Coastal State
+       ▪ Flag State
+       ▪ Port State
+       ▪ SAR Authorities
+
+▪ Typically built on INMARSAT-C
+
+       ▪ Closed, encrypted, private communications for coastal and flag state
+           monitoring.
+
+▪ Spoofing from a legal & safety prospective is much more serious, but
+   typically harder in practice.
+
+▪ To spoof, simulate external GPS or tamper with firmware
+
+UNCLASSIFIED                                                                                                                23
+UNCLASSIFIED
+
+Navigation Systems Tampering – Long Range Identification & Tracking
+
+▪ Firmware: we observed shared firmware for INSMARSAT-C         Generic LRIT Terminal
+   terminals
+
+• GPS Spoofing: observed indicators of when the vessel
+   began AIS spoofing, it spoofed their LRIT position as well,
+   indicating there's likely no dedicated GPS unit unlike most
+   newer models.
+
+• Impact: Evades flag and coastal state level tracking which
+   further aid in evading sanctions & legal prosecution.
+   Could also negatively impact SAR cases by not being
+   properly identified as a potential "good Samaritan."
+
+UNCLASSIFIED                                                                           24
+UNCLASSIFIED
+
+Collateral Findings
+
+UNCLASSIFIED         25
+                                                                                                  UNCLASSIFIED
+
+Strange Programs – Stamp 0.62
+
+Stamp 0.62: Russian Windows Executable for
+custom stamp generation to support rapid
+changing of vessel names and IMO numbers for
+use on official documentation
+
+Stamp 0.62                                                                                                      Re-Created Example of Vessel Stamp
+
+            UNCLASSIFIED                                                                                                                            26
+                     UNCLASSIFIED
+
+Acknowledgements
+
+LTJG Noah Soto –
+holistic dark fleet
+analysis lead.
+
+                     UNCLASSIFIED  27
+

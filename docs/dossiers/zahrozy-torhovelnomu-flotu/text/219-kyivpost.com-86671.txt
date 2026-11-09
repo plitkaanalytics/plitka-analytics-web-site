@@ -1,0 +1,71 @@
+URL:         https://www.kyivpost.com/post/86671
+Кінцевий:    https://www.kyivpost.com/post/86671
+Заголовок:   US Envoys Warn Kyiv on Intel Cuts Over Refinery Strikes
+Дата публ.:  2026-10-10
+Завантажено: 2026-10-11 15:44 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 116492
+Оригінал:    raw/219-kyivpost.com-86671.html
+sha256:      24971964854c07b1a1c8ac06a9aabc079f016e61d1c16719799c1a6c5de23377
+Витяг:       trafilatura
+
+==============================================================================
+[US](https://www.kyivpost.com/topic/us) special envoys Steve [Witkoff](https://www.kyivpost.com/topic/witkoff) and Jared Kushner have warned Ukrainian negotiators during [high-level talks in Miami](https://www.kyivpost.com/post/86654) that Washington could cut off intelligence sharing if Kyiv does not halt long-range drone strikes on [Russian](https://www.kyivpost.com/topic/Russia) oil refineries.
+
+Accodring to [Axios](https://www.axios.com/2026/10/10/trump-zelensky-putin-diesel-deal-war), the reported ultimatum came amid escalating friction over a bilateral agreement between US President Donald [Trump](https://www.kyivpost.com/topic/trump) and Russian President Vladimir [Putin](https://www.kyivpost.com/topic/putin) to supply Russian diesel to US and international markets – a transaction the White House claimed would alleviate elevated consumer fuel prices.
+
+### JOIN US ON TELEGRAM
+
+Follow our coverage of the war on the [@Kyivpost_official](https://t.me/Kyivpost_official).
+
+A US official disputed that the American envoys issued an explicit threat, but confirmed that Witkoff and Kushner conveyed that Washington expected reciprocity from Kyiv given US deliveries of ammunition and intelligence, warning that Ukrainian actions should not harm American consumers.
+
+“The attacks on the refineries cause pain in Russia, but it causes pain for the US, too,” the US official told Axios. “[President Volodymyr] Zelensky is misreading the room. By continuing to hit refineries, he is eroding the goodwill that he has built with Trump over the last six months.”
+
+According to Axios, the talks in Miami centered on finalizing post-war security guarantees that the US, [Europe](https://www.kyivpost.com/topic/europe), and NATO would provide to Ukraine as part of a settlement framework to end the conflict, alongside prospective territorial compromise proposals.
+
+
+### 
+                                [Putin Rejects Peace Talks in Trump Call, Vows to Press War](https://www.kyivpost.com/post/86665)
+                            
+
+Witkoff and Kushner presented a post-war reconstruction and security package, with discussions addressing Ukraine’s accession path to the [EU](https://www.kyivpost.com/topic/eu), post-war relations with [NATO](https://www.kyivpost.com/topic/nato), and a durable European security architecture.
+
+## Trump’s diesel pivot
+
+The diplomatic rift deepened after [Zelensky](https://www.kyivpost.com/topic/zelensky) rejected US demands for a [unilateral halt to deep strikes on Russian petrochemical assets](https://www.kyivpost.com/post/85979).
+
+Ukrainian officials had proposed a mutual energy armistice, conveying to Trump, Witkoff, and Kushner that Kyiv would suspend strikes on Russian oil refineries if Moscow concurrently halted missile and drone bombardments against Ukraine’s electricity grid and heating plants.
+
+However, Trump insisted on an unconditional, unilateral suspension of strikes on Russian refining facilities, arguing that the operations contributed directly to domestic fuel inflation ahead of winter.
+
+The US president did not view strikes on Russian commercial refineries as equivalent to Russian attacks on Ukraine’s power and water infrastructure, the US official told Axios.
+
+“President Trump decided to strike the diesel deal with Russia after Ukrainian President Volodymyr Zelensky ignored half a dozen US requests to stop attacking Russian refineries,” the official stated.
+
+In an interview with Axios following the White House announcement, Zelensky described the agreement as an unexpected and “unfair” development, characterizing the sanctions waiver as an unjustified concession to Putin.
+
+The US official maintained that the administration seeks to engage Moscow in diplomatic negotiations, asserting that while Putin continues to strike Ukrainian territory, Washington assesses the [Kremlin](https://www.kyivpost.com/topic/kremlin) remains open to discussions on concluding the war if an acceptable framework is presented.
+
+## Refining deficits and operational defiance
+
+The friction over refinery targeting unfolds as Ukrainian officials reaffirm that Kyiv will not abandon asymmetric deep strikes against Russian energy infrastructure.
+
+A senior Ukrainian official told the Financial Times on Saturday that [Ukraine intends to press ahead with drone strikes on refineries](https://www.kyivpost.com/post/86666), stating plainly: “We will burn [Russian] refineries.”
+
+Energy market analysts have expressed skepticism regarding Moscow’s physical capacity to fulfill the export volumes announced by Trump, citing extensive operational damage across the Russian refining sector.
+
+Independent market tracking by intelligence firm Kpler indicates that Russian refineries are currently operating at approximately 60 percent of installed capacity due to emergency maintenance and equipment deficits caused by Ukrainian drone waves.
+
+“The biggest question for me is: where are they going to get the diesel from?” said Michelle Brouhard, head of policy and geopolitical risk at Kpler. “Russia does not have an export problem. It has a refining problem.”
+
+Prior to 2025, Russia exported an average of 2.6 million metric tons of diesel monthly by sea, but maritime shipments collapsed throughout 2026 as successive strikes idled primary distillation and cracking units across European Russia and Siberia. Constrained refining output prompted the Kremlin to enact an export ban on domestic diesel in July to stave off domestic fuel deficits.
+
+Trump’s announcement claimed [Moscow had agreed to supply more than 300,000 metric tons of diesel](https://www.kyivpost.com/post/86641) immediately, followed by 500,000 tons in November and 1 million tons thereafter, potentially scaling to 3 million tons depending on refinery operations.
+
+Following the announcement, the US Treasury Department issued a temporary general license authorizing transactions involving Russian diesel through April 7, 2027.
+
+The waiver was enacted only three weeks after Trump signed into law the [Lindsey O. Graham Sanctioning Russia and Iran Act](https://www.kyivpost.com/post/86402) of 2026, which aimed to expand statutory sanctions across Russia’s energy, banking, and defense sectors.
+
+You can also highlight the text and press
+
+__Ctrl + Enter__

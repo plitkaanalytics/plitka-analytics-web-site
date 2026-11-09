@@ -1,0 +1,318 @@
+URL:         https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_campaign
+Кінцевий:    https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_campaign
+Заголовок:   2026 Strait of Hormuz campaign - Wikipedia
+Дата публ.:  2026-03-20
+Завантажено: 2026-10-07 08:09 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 449260
+Оригінал:    raw/30-en.wikipedia.org-2026_strait_of_hormuz_campaign.html
+sha256:      21ee0409cd6582c437b86b9877a6ab3a0a8a8284bd388008bed571bceb782653
+Витяг:       trafilatura
+
+==============================================================================
+# 2026 Strait of Hormuz campaign
+
+
+| 2026 Strait of Hormuz campaign | |
+|---|---|
+| Part of the [2026 Iran War](https://en.wikipedia.org/wiki/2026_Iran_War)and the[2026 Strait of Hormuz crisis](https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis) | |
+| Type | [Airstrikes](https://en.wikipedia.org/wiki/Airstrikes) | 
+| Location | |
+| Planned by | [United States](https://en.wikipedia.org/wiki/United_States) | 
+| Target | Iranian naval vessels and drones | 
+| Date | 19 March 2026 – present | 
+| Executed by | [United States Air Force](https://en.wikipedia.org/wiki/United_States_Air_Force)[United States Navy](https://en.wikipedia.org/wiki/United_States_Navy)[Israeli Air Force](https://en.wikipedia.org/wiki/Israeli_Air_Force) | 
+| Outcome | [Memorandum](https://en.wikipedia.org/wiki/Islamabad_Memorandum)[Naval blockade of Iran](https://en.wikipedia.org/wiki/2026_United_States_naval_blockade_of_Iran)from 13 April 2026[Operation Project Freedom](https://en.wikipedia.org/wiki/Operation_Project_Freedom)from 4 to 6 May 2026 (temporary halt)[July 2026 United States strikes against Iran](https://en.wikipedia.org/wiki/July_2026_United_States_strikes_against_Iran)
+ | 
+
+On 19 March 2026, the [United States](https://en.wikipedia.org/wiki/United_States) began an aerial campaign against [Iranian](https://en.wikipedia.org/wiki/Iran) targets to reopen the [Strait of Hormuz](https://en.wikipedia.org/wiki/Strait_of_Hormuz) following [its closure by Iran](https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis) in response to the [attacks by the United States and Israel](https://en.wikipedia.org/wiki/2026_Iran_war). The operation was announced as part of a plan to reopen the passage to international shipping by destroying Iranian naval vessels and drones targeting shipping in the strait.[[1]](#cite_note-1)[[2]](#cite_note-2)[Israel](https://en.wikipedia.org/wiki/Israel) assassinated [Alireza Tangsiri](https://en.wikipedia.org/wiki/Alireza_Tangsiri), the naval officer overseeing the blockade of the Strait of Hormuz.[[3]](#cite_note-:2-3)
+
+On 13 April 2026, the United States imposed a [naval blockade on Iran](https://en.wikipedia.org/wiki/2026_United_States_naval_blockade_of_Iran) following the failure of the [Islamabad Talks](https://en.wikipedia.org/wiki/Islamabad_Talks) during the [ceasefire](https://en.wikipedia.org/wiki/2026_Iran_war_ceasefire). [4] On 23 April, President Trump ordered the U.S. Navy to destroy any Iranian boats laying mines in the Hormuz.
+
+On 3 May, Trump said that
+
+[[5]](#cite_note-5)[the U.S. will help free up ships in the Strait of Hormuz](https://en.wikipedia.org/wiki/Operation_Project_Freedom)beginning the next morning.
+
+On 6 May, President Trump announced a temporary pause in the U.S. military's "Project Freedom" operation to reopen the Strait of Hormuz, indicating "great progress" toward a possible agreement with Iran. The operation will be delayed briefly to assess the potential for a "complete and final agreement" with Iran.
+
+[[6]](#cite_note-internazionale3may-6)
+
+[[7]](#cite_note-7)On 17 June, Trump and Iranian President [Masoud Pezeshkian](https://en.wikipedia.org/wiki/Masoud_Pezeshkian) signed [the memorandum of understanding](https://en.wikipedia.org/wiki/Islamabad_Memorandum) to end the war, with Trump signing it during dinner with French President [Emmanuel Macron](https://en.wikipedia.org/wiki/Emmanuel_Macron) at the [Palace of Versailles](https://en.wikipedia.org/wiki/Palace_of_Versailles) following the [G7 summit](https://en.wikipedia.org/wiki/52nd_G7_summit). [8] On 18 June, primary mediator Pakistan announced that the US-Iran memorandum of understanding aimed at ending the war implies Tehran will promptly reopen the Hormuz Strait and that the American blockade of Iranian ports will cease immediately.
+
+
+[[9]](#cite_note-9)On 8 July, the interim ceasefire deal between the US and Iran collapsed after [Iran allegedly struck multiple commercial ships in the Strait of Hormuz](https://en.wikipedia.org/wiki/List_of_ships_attacked_during_the_2026_Iran_war) and the US responded by striking Iranian territory, followed by Iranian strikes on US bases in the Gulf States. [10] On 14 July, the US reinstated the naval blockade.
+
+
+[[11]](#cite_note-11)On 25 August, US officials confirmed Trump's claim that the US Navy cleared mines from the Strait of Hormuz Traffic Separation Scheme, adding that over recent months, underwater drones identified over 100 suspected mines and private contractors dealt with them. [12] Trump stated that the US will destroy Iranian vessels laying additional mines in the Strait of Hormuz.
+
+
+[[13]](#cite_note-13)## Background
+
+The [Iran war](https://en.wikipedia.org/wiki/2026_Iran_war) began on 28 February 2026 after the United States and [Israel](https://en.wikipedia.org/wiki/Israel) conducted airstrikes on various Iranian military targets, which included the [assassination of Ali Khamenei](https://en.wikipedia.org/wiki/Assassination_of_Ali_Khamenei), the Supreme Leader of Iran. In response, Iran closed the Strait of Hormuz to all foreign shipping. The [Islamic Revolutionary Guard Corps](https://en.wikipedia.org/wiki/Islamic_Revolutionary_Guard_Corps) (IRGC) transmitted warnings via VHF radio to vessels in the Straits, stating that "no ship is allowed to pass the Strait of Hormuz." The British [Royal Navy](https://en.wikipedia.org/wiki/Royal_Navy) said that the closure was not legally binding though safety cannot be guaranteed, so several ships stayed in port or turned back.[[14]](#cite_note-14)
+
+On 2 March 2026, the IRGC officially confirmed that the strait was closed to "unfriendly nations", allowing only Iran-approved vessels to pass. On 4 March, the IRGC said that the [Islamic Republic of Iran Navy](https://en.wikipedia.org/wiki/Islamic_Republic_of_Iran_Navy) had achieved "complete control" of the strait. [15] Several Iran-approved ships have passed the strait during the conflict, mostly petroleum ships bound for 
+
+[China](https://en.wikipedia.org/wiki/China)and
+
+[India](https://en.wikipedia.org/wiki/India), some with military escort.
+
+
+[[16]](#cite_note-16)Iran also threatened to set fire to any other ship that passed through it.
+
+[[17]](#cite_note-17)In response to the closure, United States President
+
+[[18]](#cite_note-18)[Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump)said that 12 March the U.S. Navy would begin escorting oil tankers through the strait "as soon as possible."
+
+
+[[19]](#cite_note-19)## Prelude
+
+On 15 March 2026, Donald Trump called on "countries of the world that receive oil through the Hormuz Strait" to "take care of that passage" militarily. The following day, several U.S.-aligned [NATO](https://en.wikipedia.org/wiki/NATO) countries rejected Trump's request, including [Germany](https://en.wikipedia.org/wiki/Germany), [Spain](https://en.wikipedia.org/wiki/Spain), [Italy](https://en.wikipedia.org/wiki/Italy), [Estonia](https://en.wikipedia.org/wiki/Estonia), the [United Kingdom](https://en.wikipedia.org/wiki/United_Kingdom), [Australia](https://en.wikipedia.org/wiki/Australia), [South Korea](https://en.wikipedia.org/wiki/South_Korea), and [Japan](https://en.wikipedia.org/wiki/Japan), as well as the [European Union](https://en.wikipedia.org/wiki/European_Union). The various nations declined, citing the lack of strategic goals or reluctance to get drawn into the war. German Defense Minister [Boris Pistorius](https://en.wikipedia.org/wiki/Boris_Pistorius) said "this is not our war, we have not started it."[[20]](#cite_note-20) [21] Trump rebuked his NATO allies, calling their decision a "very foolish mistake" and said that the United States does "not need the help of anyone" in the war.
+
+On 19 March, 5 large European nations and Japan issued a statement to secure the strait after "first establishing a truce and building a multilateral naval coalition".
+
+[[22]](#cite_note-22)Trump later lambasted NATO, calling them "cowards," stating that "without the U.S.A., NATO is a paper tiger."
+
+[[23]](#cite_note-23)
+
+[[24]](#cite_note-24)On 18 March, the [United Arab Emirates](https://en.wikipedia.org/wiki/United_Arab_Emirates) declared its willingness to join a U.S.-led military effort to secure the Strait of Hormuz.[[25]](#cite_note-25)
+
+## Campaign
+
+On 17 March, [United States Central Command](https://en.wikipedia.org/wiki/United_States_Central_Command) (CENTCOM) announced that it had employed multiple [GBU-72](https://en.wikipedia.org/wiki/GBU-72) 5,000-pound penetrator munitions on underground missile silos along the Iranian coast near the strait. The munitions penetrated layers of rock and concrete to destroy underground bunkers which stored Iran's many [cruise missiles](https://en.wikipedia.org/wiki/Cruise_missile) and unused [anti-ship missiles](https://en.wikipedia.org/wiki/Anti-ship_missile).[[26]](#cite_note-26)[[27]](#cite_note-:1-27)[[28]](#cite_note-28)
+
+On 19 March, General [Dan Caine](https://en.wikipedia.org/wiki/Dan_Caine) announced that the U.S. was deploying [A-10 Thunderbolt II jets](https://en.wikipedia.org/wiki/Fairchild_Republic_A-10_Thunderbolt_II) to strike "fast-attack watercraft" and [Boeing AH-64 Apache](https://en.wikipedia.org/wiki/Boeing_AH-64_Apache) gunships to "handle one-way attack drones" in an attempt to open the Strait of Hormuz. CENTCOM subsequently published footage showing U.S. strikes "destroying Iranian naval assets that threaten international shipping in and near the Strait of Hormuz."[[29]](#cite_note-:0-29) [30] That same day, 
+
+[France](https://en.wikipedia.org/wiki/France),
+
+[Germany](https://en.wikipedia.org/wiki/Germany),
+
+[Italy](https://en.wikipedia.org/wiki/Italy),
+
+[Japan](https://en.wikipedia.org/wiki/Japan),
+
+[Netherlands](https://en.wikipedia.org/wiki/Netherlands)and
+
+[United Kingdom](https://en.wikipedia.org/wiki/United_Kingdom)declared their support to contribute in the efforts to open the
+
+[Strait of Hormuz](https://en.wikipedia.org/wiki/Strait_of_Hormuz),
+
+as did the
+
+[[31]](#cite_note-31)[European Union](https://en.wikipedia.org/wiki/European_Union).
+
+
+[[32]](#cite_note-32)On 20 March, Iran said that 16 commercial boats in the port of [Bandar Lengeh](https://en.wikipedia.org/wiki/Bandar_Lengeh) "were completely burned" by U.S.–Israeli strikes. [29] Trump announced that "The Hormuz Strait will have to be guarded and policed, as necessary, by other Nations who use it — The United States does not! If asked, we will help these countries in their Hormuz efforts, but it shouldn’t be necessary once Iran’s threat is eradicated."
+
+Officials said that the U.S. military is dispatching 2,500 additional
+
+[[33]](#cite_note-33)[Marines](https://en.wikipedia.org/wiki/United_States_Marine_Corps)to the
+
+[Middle East](https://en.wikipedia.org/wiki/Middle_East), who are trained to conduct
+
+[amphibious landings](https://en.wikipedia.org/wiki/Amphibious_warfare). It has been speculated that the Marines could be used to militarily seize
+
+[Kharg Island](https://en.wikipedia.org/wiki/Kharg_Island), an important island in the
+
+[Persian Gulf](https://en.wikipedia.org/wiki/Persian_Gulf), which the
+
+[U.S. Air Force](https://en.wikipedia.org/wiki/U.S._Air_Force)had
+
+[bombed earlier in the war](https://en.wikipedia.org/wiki/2026_Kharg_Island_attack)while leaving most of the oil infrastructure on the island intact.
+
+
+[[27]](#cite_note-:1-27)A total of 22 countries, including the United Kingdom, France, Germany, Japan, [Bahrain](https://en.wikipedia.org/wiki/Bahrain), and the [United Arab Emirates](https://en.wikipedia.org/wiki/United_Arab_Emirates), signed a statement declaring their willingness to "contribute to appropriate efforts to ensure safe passage" in the Strait of Hormuz, and that preparations were underway.[[34]](#cite_note-34)
+
+On 21 March, President Trump issued an ultimatum to Iran, demanding it to "fully open, without threat" the Strait of Hormuz within 48 hours, threatening to otherwise strike Iranian power plants, "with the biggest one first." [35] In response, Iran doubled down, threatening to "completely" close the Strait of Hormuz and strike vital infrastructure across the region such as energy and desalination facilities critical for drinking water.
+
+
+[[36]](#cite_note-36)[Iranian opposition](https://en.wikipedia.org/wiki/Iranian_opposition)figure
+
+[Reza Pahlavi](https://en.wikipedia.org/wiki/Reza_Pahlavi)called on Trump and Netanyahu "to continue targeting the regime and its apparatus of repression, while sparing the civilian infrastructure Iranians will need to rebuild our country."
+
+
+[[37]](#cite_note-37)On 26 March, Israel killed Iran's top naval commander, [Alireza Tangsiri](https://en.wikipedia.org/wiki/Alireza_Tangsiri), portraying the killing as part of an effort to support the U.S.'s push to reopen the Strait of Hormuz. [38] According to Israeli defense minister 
+
+[Israel Katz](https://en.wikipedia.org/wiki/Israel_Katz), Tangsiri was overseeing the blockade of the Strait of Hormuz and was "directly responsible for the terrorist act of bombing and blocking the Strait of Hormuz."
+
+U.S. Admiral
+
+[[3]](#cite_note-:2-3)[Brad Cooper](https://en.wikipedia.org/wiki/Brad_Cooper_(admiral))said the assassination "makes the region safer."
+
+Tangsiri's killing was confirmed by Iranian authorities.
+
+[[39]](#cite_note-39)
+
+[[40]](#cite_note-40)On 27 March, Iran remained firm in asserting its control over the Strait of Hormuz. [41] The same day, it reported that Iran had successfully blocked two Chinese ships which were attempting to enter the Strait of Hormuz.
+
+
+[[42]](#cite_note-42)On 1 April, airstrikes targeting the strategically important [Hengam Island](https://en.wikipedia.org/wiki/Hengam_Island) in the Strait of Hormuz caused seven injuries, including one critically. According to a provincial official, the strikes hit civilian sites.[[43]](#cite_note-43)
+
+On 2 April, Bahrain called on the [United Nations Security Council](https://en.wikipedia.org/wiki/United_Nations_Security_Council) to support its resolution authorizing military force and "all necessary means" to open the Strait of Hormuz. [Russia](https://en.wikipedia.org/wiki/Russia), China, and France have expressed their opposition to such measure. [44] The resolution was vetoed by Russia and China on 7 April as it placed all the blame on Iran, effectively blocking UN authorization of military force to open the Strait of Hormuz.
+
+
+[[45]](#cite_note-45)On 11 April, Trump said that American forces has started "clearing" the strait. [46] Iran stated that an American vessel on way to the strait turned backed after warning.
+
+
+[[47]](#cite_note-47)*reported that several U.S. Navy*
+
+[The Wall Street Journal](https://en.wikipedia.org/wiki/The_Wall_Street_Journal)[destroyers](https://en.wikipedia.org/wiki/Destroyer)entered the Strait of Hormuz for the first time since the war began. A U.S. official described the event as an "operation that focused on freedom of navigation through International waters”. Iranian government reportedly threatened to attack the ships, accusing U.S. of ceasefire violation.
+
+
+[[48]](#cite_note-48)
+
+[[49]](#cite_note-49)[U.S. Central Command](https://en.wikipedia.org/wiki/U.S._Central_Command)said the ships are taking part in
+
+[mine clearance](https://en.wikipedia.org/wiki/Mine_clearance)operations.
+
+
+[[50]](#cite_note-50)On April 12, [JD Vance](https://en.wikipedia.org/wiki/JD_Vance) announced that the [talks between the U.S. and Iran](https://en.wikipedia.org/wiki/Islamabad_Talks) had failed, as he was unable to reach an agreement after a day of negotiations. [51] Afterwards, Trump declared a 
+
+[naval blockade](https://en.wikipedia.org/wiki/2026_United_States_naval_blockade_of_Iran)on the Strait of Hormuz, announcing that the U.S. Navy will prevent ships from entering or exiting the Strait and intercept vessels that have paid tolls to Iran.
+
+CENTCOM announced that the blockade will be enforced on vessels of all nations entering or departing Iranian ports and coastal areas but "will not impede freedom of navigation for vessels transiting the Strait of Hormuz to and from non-Iranian ports."
+
+[[52]](#cite_note-52)The
+
+[[4]](#cite_note-:3-4)[IRGC Navy](https://en.wikipedia.org/wiki/Islamic_Revolutionary_Guard_Corps_Navy)said that any military vessel approaching the strait would be considered a ceasefire violation and would meet a "severe response."
+
+On 14 April, a U.S. Navy destroyer forced two oil tankers trying to leave Iran to return.
+
+[[53]](#cite_note-53)On 15 April, Admiral
+
+[[54]](#cite_note-54)[Brad Cooper](https://en.wikipedia.org/wiki/Brad_Cooper_(admiral))said that the U.S. had implemented a full blockade of all of Iran's ports.
+
+
+[[55]](#cite_note-55)On 23 April, Trump ordered the U.S. Navy to destroy any Iranian boats laying mines in the Hormuz.[[56]](#cite_note-56)
+
+On 3 May, Trump said that [the U.S. will help free up ships in the Strait of Hormuz](https://en.wikipedia.org/wiki/Operation_Project_Freedom) beginning the next morning.[[6]](#cite_note-internazionale3may-6)
+
+On 4 May, the Iranian military warned the U.S. to keep out of Hormuz.[[57]](#cite_note-57)
+
+On 6 May, President Trump announced a temporary halt in the U.S. military's "Project Freedom" operation to reopen the Strait of Hormuz, citing "great progress" toward a potential agreement with Iran. Trump stated that the operation will be paused for "a short period" to determine whether a "complete and final agreement" with Iran could be achieved.[[58]](#cite_note-58)
+
+On 17 June, Trump and Iranian President [Masoud Pezeshkian](https://en.wikipedia.org/wiki/Masoud_Pezeshkian) signed [the memorandum of understanding](https://en.wikipedia.org/wiki/Islamabad_Memorandum) to end the war, with Trump signing the document during dinner with French President [Emmanuel Macron](https://en.wikipedia.org/wiki/Emmanuel_Macron) at the [Palace of Versailles](https://en.wikipedia.org/wiki/Palace_of_Versailles) after the [G7 summit](https://en.wikipedia.org/wiki/52nd_G7_summit).[[59]](#cite_note-59)
+
+On 18 June, primary mediator Pakistan stated that the signing of the US-Iran memorandum of understanding to end the war implies Tehran will reopen the Hormuz "instantly" and the American blockade of Iranian ports will end "immediately."[[60]](#cite_note-60)
+
+On 8 July, the US-Iran interim truce agreement broke down after [Iran allegedly struck multiple commercial ships in the Strait of Hormuz](https://en.wikipedia.org/wiki/List_of_ships_attacked_during_the_2026_Iran_war) and the US responded by striking Iranian territory, followed by Iranian strikes on US bases in the Gulf States.[[61]](#cite_note-61)
+
+On 15 July, CENTCOM said that the US reinstated the naval blockade on Iran the day before.[[62]](#cite_note-62)
+
+On 25 August, US officials with firsthand knowledge corroborated Trump's assertion that the US Navy had cleared mines from the Hormuz Traffic Separation Scheme, Oman's primary maritime corridor with Iran, adding that over the last few months, underwater drones carried out a systematic scanning of the area, identifying over 100 objects suspected of having mines, which were then removed or detonated by private contractors. [63] Trump added that the US will destroy Iranian vessels laying more mines in the Hormuz.
+
+On September 27th, Iran claimed to have captured a REMUS 600 in the Strait.
+
+[[64]](#cite_note-64)
+
+[[65]](#cite_note-65)
+
+[[66]](#cite_note-66)## Reactions
+
+On 21 March, the [Houthis](https://en.wikipedia.org/wiki/Houthis) in [Yemen](https://en.wikipedia.org/wiki/Yemen) warned that it would respond to any escalation against Iran, including efforts to reopen the Strait of Hormuz. It specifically warned the two Arab countries offering to join the Strait of Hormuz campaign—Bahrain and the UAE—that they "will be the first to lose in this battle."[[67]](#cite_note-67)
+
+According to one report, Iran is considering temporarily suspending shipments through the Strait of Hormuz to avoid confrontation with the U.S.[[68]](#cite_note-68)
+
+## Analysis
+
+Re-opening of the Strait of Hormuz is considered not to be feasible with military means, especially after U.S. failure to form a coalition with its allies or with the affected Asian countries.[[69]](#cite_note-69)
+
+The [International Maritime Organization (IMO)](https://en.wikipedia.org/wiki/International_Maritime_Organization) confirmed 46 attacks on ships, as June 11, resulting in 14 deaths of innocent seafarers, with attacks continued during the [April 8, 2026 declared ceasefire](https://en.wikipedia.org/wiki/2026_Iran_war_ceasefire). The IMO reported that an estimated 1,000 ships and 20,000 crew remained stranded in the [Arabian Gulf](https://en.wikipedia.org/wiki/Arabian_Gulf) at that date, then exceeding 100 days.[[70]](#cite_note-70)
+
+## See also
+
+## References
+
+- [↑](#cite_ref-1)Cloud, David S.; Seligman, Lara; and Gordon, Michael R. (2026-03-20).- ["U.S. War Planes and Helicopters Kick Off Battle to Reopen Hormuz"](https://www.wsj.com/world/middle-east/u-s-war-planes-and-helicopters-kick-off-battle-to-reopen-hormuz-530cdb78).- *The Wall Street Journal*. Retrieved 2026-03-20.
+- [↑](#cite_ref-2)Liptak, Kevin; Treene, Alayna; Cohen, Zachary; Bertrand, Natasha; Sciutto, Jim (2026-03-20).- ["US furiously seeks to avert potential monthslong closure of Strait of Hormuz"](https://www.cnn.com/2026/03/20/politics/us-strait-of-hormuz-avert-closure-iran).- *CNN*. Retrieved 2026-03-20.
+- [1](#cite_ref-:2_3-0)- [2](#cite_ref-:2_3-1)- ["Israel says it has killed Iran's navy chief overseeing Strait of Hormuz blockade"](https://www.bbc.com/news/articles/cy81p99x07no).- *BBC News*. 2026-03-26.- [Archived](https://web.archive.org/web/20260326152845/https://www.bbc.com/news/articles/cy81p99x07no)from the original on 2026-03-26. Retrieved 2026-03-26.
+- [1](#cite_ref-:3_4-0)- [2](#cite_ref-:3_4-1)George, Susannah; Allison, Natalie; and Hussain, Shaiq (2026-04-12).- ["Trump announces naval blockade of Iran after Islamabad talks yield no deal"](https://www.washingtonpost.com/world/2026/04/12/iran-us-talks-ceasefire-vance/).- [The Washington Post](https://en.wikipedia.org/wiki/The_Washington_Post)- [ISSN](https://en.wikipedia.org/wiki/ISSN_(identifier))- [0190-8286](https://search.worldcat.org/issn/0190-8286).- [Archived](https://web.archive.org/web/20260412184839/https://www.washingtonpost.com/world/2026/04/12/iran-us-talks-ceasefire-vance/)from the original on 2026-04-12. Retrieved 2026-04-13.
+- [↑](#cite_ref-5)- ["Trump orders US military to 'shoot and kill' Iranian boats in Hormuz"](https://telanganatoday.com/trump-orders-us-military-to-shoot-and-kill-iranian-boats-in-hormuz). Telangana Today.- [Associated Press](https://en.wikipedia.org/wiki/Associated_Press). 2026-04-23. Retrieved 2026-04-23.
+- [1](#cite_ref-internazionale3may_6-0)- [2](#cite_ref-internazionale3may_6-1)- ["Trump says US to help free up ships in Strait of Hormuz starting Monday morning"](https://www.internazionale.it/ultime-notizie-reuters/2026/05/03/trump-says-us-to-help-free-up-ships-in-strait-of-hormuz-starting-monday-morning).- *Internazionale*. Reuters. 3 May 2026. Retrieved 3 May 2026.- [- [dead link](https://en.wikipedia.org/wiki/Wikipedia:Link_rot)
+- [↑](#cite_ref-7)- ["Iran war live: Trump says Hormuz operation paused amid US, Tehran talks"](https://www.aljazeera.com/news/liveblog/2026/5/6/iran-war-live-trump-says-hormuz-operation-paused-amid-us-tehran-talks).- *Al Jazeera*. 6 May 2026. Retrieved 6 May 2026.
+- [↑](#cite_ref-8)- ["Trump, Iran's President Sign Deal To End West Asia War"](https://www.deccanchronicle.com/world/iran-mou-signed-on-wednesday-by-trump-iran-president-us-official-1964365). Deccan Chronicle. AFP. 17 June 2026. Retrieved 17 June 2026.
+- [↑](#cite_ref-9)- ["Iran To "Instantly" Reopen Hormuz, US To "Immediately" Lift Blockade: Pak PM"](https://www.ndtv.com/world-news/iran-to-instantly-reopen-hormuz-us-to-immediately-lift-blockade-pak-pm-shehbaz-sharif-11652070). NDTV. Agence France Presse. 18 June 2026. Retrieved 18 June 2026.
+- [↑](#cite_ref-10)- ["Trump says Iran deal 'is over' after Gulf strikes, calls Tehran 'sick people'"](https://www.ynetnews.com/article/sjyyiyoxze).- [Ynet](https://en.wikipedia.org/wiki/Ynet)
+- [↑](#cite_ref-11)- ["U.S. renews naval blockade on Iranian ports, strikes dozens of Iranian military sites near Hormuz, CENTCOM says"](https://www.haaretz.com/israel-news/israel-security/2026-07-15/ty-article-live/trump-threatens-to-attack-iranian-power-plants-bridges/0000019f-6383-d0b9-ab9f-73fb65c70000?liveBlogItemId=1368612134#1368612134).- *Haaretz*. 15 July 2026.
+- [↑](#cite_ref-12)- ["Trump: Mines fully removed from Strait of Hormuz"](https://www.axios.com/2026/08/25/hormuz-mines-remove-oil-iran-trump).- [Axios](https://en.wikipedia.org/wiki/Axios_(website))
+- [↑](#cite_ref-13)- ["Trump again says Strait of Hormuz cleared of mines"](https://www.timesofisrael.com/liveblog_entry/trump-again-says-strait-of-hormuz-cleared-of-mines/).- [The Times of Israel](https://en.wikipedia.org/wiki/The_Times_of_Israel)
+- [↑](#cite_ref-14)Zhdannikov, Dmitry & Rashad, Marwa (2026-02-28).- ["Iran closes Strait of Hormuz after US-Israel strikes, reports say"](https://www.independent.co.uk/news/world/middle-east/iran-strait-of-hormuz-closed-oil-shipments-suspended-us-attack-b2929506.html).- *The Independent*.- [Archived](https://web.archive.org/web/20260302084927/https://www.independent.co.uk/news/world/middle-east/iran-strait-of-hormuz-closed-oil-shipments-suspended-us-attack-b2929506.html)from the original on 2026-03-02. Retrieved 2026-03-20.
+- [↑](#cite_ref-15)- ["Iran's IRGC say they have 'complete control' over Strait of Hormuz"](https://www.timesofisrael.com/liveblog_entry/irans-irgc-say-they-have-complete-control-over-strait-of-hormuz/).- *The Times of Israel*. AFP. 2026-03-04.- [ISSN](https://en.wikipedia.org/wiki/ISSN_(identifier))- [0040-7909](https://search.worldcat.org/issn/0040-7909). Retrieved 2026-03-20.
+- [↑](#cite_ref-16)- ["Iran is Making Unimpeded Use of the Strait of Hormuz"](https://maritime-executive.com/article/iran-is-making-unimpeded-use-of-the-strait-of-hormuz).- *The Maritime Executive*. 15 March 2026.
+- [↑](#cite_ref-17)- ["India and Pakistan Offering Escorts as Ships Pass Through Strait of Hormuz"](https://maritime-executive.com/article/india-and-pakistan-offering-escorts-as-ships-pass-through-strait-of-hormuz).- *The Maritime Executive*. 16 March 2026.
+- [↑](#cite_ref-18)- ["Iran threatens to set ships on fire if they enter Strait of Hormuz"](https://globalnews.ca/news/11713355/iran-strait-of-hormuz-ships-threat/).- *Global News*.- [Archived](https://web.archive.org/web/20260302220910/https://globalnews.ca/news/11713355/iran-strait-of-hormuz-ships-threat/)from the original on 2026-03-02. Retrieved 2026-03-20.
+- [↑](#cite_ref-19)Kimball, Spencer (2026-03-12).- ["Energy Secretary Wright says U.S. 'not ready' to escort oil tankers through Strait of Hormuz yet"](https://www.cnbc.com/2026/03/12/energy-secretary-wright-says-us-not-ready-to-escort-tankers-through-strait-of-hormuz-yet.html).- *CNBC*. Retrieved 2026-03-20.
+- [↑](#cite_ref-20)- ["'Not our war': U.S. allies balk at Trump's Strait of Hormuz demands"](https://www.nbcnews.com/world/iran/us-allies-respond-trump-strait-of-hormuz-demands-nato-iran-war-rcna263650).- *NBC News*. 2026-03-16. Retrieved 2026-03-20.
+- [↑](#cite_ref-21)- ["Trump says Nato making 'foolish mistake' over Iran"](https://www.bbc.com/news/articles/c0434932w44o).- *BBC News*. 2026-03-18. Retrieved 2026-03-20.
+- [↑](#cite_ref-22)Holland, Steve (17 March 2026).- ["Trump says NATO's refusal to help on Iran is "very foolish mistake""](https://www.reuters.com/world/middle-east/nato-countries-dont-want-get-involved-iran-operation-trump-says-2026-03-17/).- *Reuters*. Retrieved 20 March 2026.
+- [↑](#cite_ref-23)- ["As U.S. Applies Force in Hormuz, European Powers Support Post-War Security"](https://maritime-executive.com/article/as-u-s-applies-force-in-hormuz-european-powers-support-post-war-security).- *The Maritime Executive*. 19 March 2026.- readiness to contribute to appropriate efforts to ensure safe passage through the strait 
+- [↑](#cite_ref-24)- ["Trump calls NATO "cowards" over lack of support in Iran war"](https://www.reuters.com/world/trump-calls-nato-cowards-over-lack-support-iran-war-2026-03-20/).- *Reuters*. 20 March 2026. Retrieved 20 March 2026.
+- [↑](#cite_ref-25)- ["Israel Iran War: UAE could join any US-led effort to secure Strait of Hormuz, says senior official"](https://economictimes.indiatimes.com/news/defence/israel-iran-war-uae-could-join-any-us-led-effort-to-secure-strait-of-hormuz-says-senior-official/articleshow/129645457.cms).- *The Economic Times*. Reuters. 2026-03-18.- [ISSN](https://en.wikipedia.org/wiki/ISSN_(identifier))- [0013-0389](https://search.worldcat.org/issn/0013-0389). Retrieved 2026-03-20.
+- [↑](#cite_ref-26)- ["CENTCOM: US strikes Iranian missile site in Strait of Hormuz"](https://www.jpost.com/middle-east/iran-news/article-890322).- *The Jerusalem Post*. 2026-03-18. Retrieved 2026-03-20.
+- [1](#cite_ref-:1_27-0)- [2](#cite_ref-:1_27-1)Broadwater, Luke;- [Cooper, Helene](https://en.wikipedia.org/wiki/Helene_Cooper); and- [Schmitt, Eric](https://en.wikipedia.org/wiki/Eric_P._Schmitt)(2026-03-20).- ["A Look at the Escalating Battle for the Strait of Hormuz"](https://www.nytimes.com/2026/03/20/us/politics/battle-for-strait-of-hormuz.html).- *The New York Times*.- [ISSN](https://en.wikipedia.org/wiki/ISSN_(identifier))- [0362-4331](https://search.worldcat.org/issn/0362-4331). Retrieved 2026-03-21.
+- [↑](#cite_ref-28)- ["U.S. Hits Iran's Antiship Missile Sites in the Strait of Hormuz"](https://maritime-executive.com/article/u-s-hits-iran-s-antiship-missile-sites-in-the-strait-of-hormuz).- *The Maritime Executive*. 17 March 2026.
+- [1](#cite_ref-:0_29-0)- [2](#cite_ref-:0_29-1)- ["US deploys A-10s, Apaches to reopen Strait of Hormuz"](https://www.jpost.com/middle-east/iran-news/article-890654).- *The Jerusalem Post*. 2026-03-20. Retrieved 2026-03-20.
+- [↑](#cite_ref-30)- [Schmitt, Eric](https://en.wikipedia.org/wiki/Eric_P._Schmitt)(2026-03-20).- ["U.S. Military Ramps Up Assaults on Iranian Drones and Vessels to Clear Strait of Hormuz"](https://www.nytimes.com/2026/03/20/us/politics/us-military-strait-hormuz.html).- *The New York Times*.- [ISSN](https://en.wikipedia.org/wiki/ISSN_(identifier))- [0362-4331](https://search.worldcat.org/issn/0362-4331). Retrieved 2026-03-20.
+- [↑](#cite_ref-31)- ["Cinco países europeos y Japón se abren a contribuir a los esfuerzos para garantizar el paso por Ormuz"](https://www.infobae.com/america/mundo/2026/03/19/cinco-paises-europeos-y-japon-se-abren-a-contribuir-a-los-esfuerzos-para-garantizar-el-paso-por-ormuz/).- *infobae*(in Spanish). 2026-03-19. Retrieved 2026-03-21.
+- [↑](#cite_ref-32)- ["La Unión Europea avaló que algunos países contribuyan a desbloquear el estrecho de Ormuz"](https://www.infobae.com/america/mundo/2026/03/20/la-union-europea-avalo-que-algunos-paises-contribuyan-a-desbloquear-el-estrecho-de-ormuz/).- *infobae*(in Spanish). 2026-03-20. Retrieved 2026-03-21.
+- [↑](#cite_ref-33)Rasgon, Adam;- [Schmitt, Eric](https://en.wikipedia.org/wiki/Eric_P._Schmitt); Regalado, Francesca; and Levenson, Michael (2026-03-20).- ["U.S. Attacks Iranian Targets to Try to Open Strait of Hormuz"](https://www.nytimes.com/2026/03/20/world/middleeast/us-iran-strait-hormuz.html).- *The New York Times*.- [ISSN](https://en.wikipedia.org/wiki/ISSN_(identifier))- [0362-4331](https://search.worldcat.org/issn/0362-4331). Retrieved 2026-03-20.
+- [↑](#cite_ref-34)Ward, Euan (2026-03-21).- ["Update from Euan Ward"](https://www.nytimes.com/live/2026/03/21/world/iran-war-oil-trump/eb5d6cdf-947e-5208-b38f-86924fbb7177).- *The New York Times*.- [ISSN](https://en.wikipedia.org/wiki/ISSN_(identifier))- [0362-4331](https://search.worldcat.org/issn/0362-4331). Retrieved 2026-03-21.
+- [↑](#cite_ref-35)- [Sanger, David E.](https://en.wikipedia.org/wiki/David_E._Sanger)(2026-03-22).- ["Update from David E. Sanger"](https://www.nytimes.com/live/2026/03/21/world/iran-war-oil-trump/955f002b-7ace-562f-9659-32fe65eb3fe1).- *The New York Times*.- [ISSN](https://en.wikipedia.org/wiki/ISSN_(identifier))- [0362-4331](https://search.worldcat.org/issn/0362-4331). Retrieved 2026-03-22.
+- [↑](#cite_ref-36)- ["Iran threatens to 'completely' close Strait of Hormuz and hit power plants after Trump's ultimatum"](https://apnews.com/article/iran-us-israel-trump-lebanon-march-22-2026-16cc60862529b873666ce4c1f6529d78).- *AP News*. 2026-03-22. Retrieved 2026-03-22.
+- [↑](#cite_ref-37)- ["Exiled prince Pahlavi urges US, Israel to spare Iran civilian infrastructure"](https://www.iranintl.com/en/202603225840).- *iranintl.com*. 2026-03-22. Retrieved 2026-03-22.
+- [↑](#cite_ref-38)Sands, Leo and George, Susannah (2026-03-26).- ["Israel says it killed Iran's top naval commander in bid to reopen Strait of Hormuz"](https://www.washingtonpost.com/world/2026/03/26/us-israel-iran-navy-chief-killed-hormuz/).- *The Washington Post*.- [ISSN](https://en.wikipedia.org/wiki/ISSN_(identifier))- [0190-8286](https://search.worldcat.org/issn/0190-8286). Retrieved 2026-03-26.
+- [↑](#cite_ref-39)- [Cooper, Helene](https://en.wikipedia.org/wiki/Helene_Cooper)(2026-03-26).- ["Update by Helene Cooper"](https://www.nytimes.com/live/2026/03/26/world/iran-war-israel-trump-oil/9e07c177-390f-53f2-8bf5-35bc6f8c9fad).- *The New York Times*.- [ISSN](https://en.wikipedia.org/wiki/ISSN_(identifier))- [0362-4331](https://search.worldcat.org/issn/0362-4331). Retrieved 2026-03-26.
+- [↑](#cite_ref-40)- ["Iran confirms death of IRGC Navy chief Alireza Tangsiri"](https://www.timesofisrael.com/liveblog_entry/iran-confirms-death-of-irgc-navy-chief-alireza-tangsiri/).- *The Times of Israel*. 2026-03-30.- [ISSN](https://en.wikipedia.org/wiki/ISSN_(identifier))- [0040-7909](https://search.worldcat.org/issn/0040-7909). Retrieved 2026-03-30.
+- [↑](#cite_ref-41)- ["Iran War Live Updates: Tehran Moves to Assert Its Control Over Strait of Hormuz"](https://www.nytimes.com/live/2026/03/27/world/iran-war-trump-oil-israel).- *The New York Times*. March 27, 2026. Retrieved March 27, 2026.
+- [↑](#cite_ref-42)- ["Iran Blocks Two Chinese Ships From Hormuz in Rare Move"](https://www.wsj.com/livecoverage/iran-war-middle-east-news-updates). The Wall Street Journal. March 27, 2026. Retrieved March 27, 2026.
+- [↑](#cite_ref-43)Hakim, Shirin (2026-04-01).- ["Update from Shirin Hakim"](https://www.nytimes.com/live/2026/04/01/world/iran-war-trump-oil-news/c29ebf0b-3e93-5883-b793-d3a6d6e4da03).- *The New York Times*.- [ISSN](https://en.wikipedia.org/wiki/ISSN_(identifier))- [0362-4331](https://search.worldcat.org/issn/0362-4331). Retrieved 2026-04-01.
+- [↑](#cite_ref-44)Brunnstrom, David; Irish, John (2 April 2026).- ["Bahrain hopes for Hormuz vote in UN, but China opposes authorization of force"](https://www.reuters.com/world/middle-east/bahrain-hopes-vote-revised-hormuz-resolution-friday-2026-04-02/).- *Reuters*. Retrieved 2 April 2026.
+- [↑](#cite_ref-45)Fassihi, Farnaz (2026-04-07).- ["Russia and China Veto Proposed U.N. Resolution to Open the Strait of Hormuz"](https://www.nytimes.com/2026/04/07/world/middleeast/un-resolution-veto-strait-of-hormuz-china-russia.html).- *The New York Times*.- [ISSN](https://en.wikipedia.org/wiki/ISSN_(identifier))- [0362-4331](https://search.worldcat.org/issn/0362-4331). Retrieved 2026-04-07.
+- [↑](#cite_ref-46)- ["Trump says U.S. forces are 'clearing' Strait of Hormuz"](https://www.thehindu.com/news/international/trump-strait-of-hormuz-clearing-empty-tankers-heading-to-us-to-load-up-with-oil-and-gas/article70850847.ece).- *The Hindu*.- [Reuters](https://en.wikipedia.org/wiki/Reuters). 2026-04-11.- [ISSN](https://en.wikipedia.org/wiki/ISSN_(identifier))- [0971-751X](https://search.worldcat.org/issn/0971-751X).- [Archived](https://web.archive.org/web/20260411200527/https://www.thehindu.com/news/international/trump-strait-of-hormuz-clearing-empty-tankers-heading-to-us-to-load-up-with-oil-and-gas/article70850847.ece)from the original on 2026-04-11. Retrieved 2026-04-11.
+- [↑](#cite_ref-47)- ["US military ship turns back from Hormuz route after Iran's 30-min warning"](https://www.hindustantimes.com/world-news/us-military-ship-turns-back-from-hormuz-route-after-irans-30-min-warning-101775915292475.html).- *Hindustan Times*. 2026-04-11. Retrieved 2026-04-11.
+- [↑](#cite_ref-48)- ["U.S. Warships Transit Hormuz as U.S.-Iran Meet Face-to-Face for Peace Talks"](https://www.wsj.com/livecoverage/iran-war-latest-news-israel-us-lebanon-2026).- [The Wall Street Journal](https://en.wikipedia.org/wiki/The_Wall_Street_Journal)
+- [↑](#cite_ref-49)- [Ravid, Barak](https://en.wikipedia.org/wiki/Barak_Ravid)(April 11, 2026).- ["U.S. warships cross Strait of Hormuz for first time since Iran war began"](https://www.axios.com/2026/04/11/us-iran-navy-strait-of-hormuz).- [Axios](https://en.wikipedia.org/wiki/Axios_(website))- [Archived](https://web.archive.org/web/20260411193932/https://www.axios.com/2026/04/11/us-iran-navy-strait-of-hormuz)from the original on April 11, 2026. Retrieved April 11, 2026.
+- [↑](#cite_ref-50)- ["US military 'setting conditions' to clear mines from Strait of Hormuz"](https://www.reuters.com/world/asia-pacific/trump-says-us-forces-are-clearing-strait-hormuz-2026-04-11/).- [Reuters](https://en.wikipedia.org/wiki/Reuters)
+- [↑](#cite_ref-51)- ["No Deal: U.S.-Iran peace talks in Islamabad collapse"](https://www.npr.org/2026/04/12/nx-s1-5782538/u-s-iran-peace-talks-islamabad-collapse).- [NPR News](https://en.wikipedia.org/wiki/NPR_News)- [Archived](https://web.archive.org/web/20260413102846/https://www.npr.org/2026/04/12/nx-s1-5782538/u-s-iran-peace-talks-islamabad-collapse)from the original on April 13, 2026.
+- [↑](#cite_ref-52)- ["Trump says U.S. will blockade Strait of Hormuz and intercept ships that paid tolls to Iran"](https://www.cbsnews.com/news/trump-strait-of-hormuz-blockade-iran/).- *CBS News*. 2026-04-12. Retrieved 2026-04-12.
+- [↑](#cite_ref-53)Behrooz, Parin (2026-04-12).- ["Update by Parin Behrooz"](https://www.nytimes.com/live/2026/04/12/world/iran-war-trump-talks-pakistan/d43e91d7-9511-5fb7-b3de-26e6da723f33).- *The New York Times*.- [ISSN](https://en.wikipedia.org/wiki/ISSN_(identifier))- [0362-4331](https://search.worldcat.org/issn/0362-4331). Retrieved 2026-04-12.
+- [↑](#cite_ref-54)- ["US destroyer turns back two oil tankers leaving Iran - Reuters"](https://www.iranintl.com/en/202604147460).- [Iran International](https://en.wikipedia.org/wiki/Iran_International)
+- [↑](#cite_ref-55)- ["US forces fully implement blockade of Iranian ports - CENTCOM"](https://www.iranintl.com/en/202604151508).- [Iran International](https://en.wikipedia.org/wiki/Iran_International)
+- [↑](#cite_ref-56)- ["Trump orders US military to 'shoot and kill' Iranian boats in Hormuz"](https://telanganatoday.com/trump-orders-us-military-to-shoot-and-kill-iranian-boats-in-hormuz). Telangana Today.- [Associated Press](https://en.wikipedia.org/wiki/Associated_Press). 2026-04-23. Retrieved 2026-04-23.
+- [↑](#cite_ref-57)- ["Iran warns US to stay out of Hormuz after Trump says US will 'guide' ships"](https://www.aljazeera.com/news/2026/5/4/iran-warns-us-to-stay-out-of-hormuz-after-trump-says-us-will-guide-ships).- *Al Jazeera*. 4 May 2026. Retrieved 4 May 2026.
+- [↑](#cite_ref-58)- ["Iran war live: Trump says Hormuz operation paused amid US, Tehran talks"](https://www.aljazeera.com/news/liveblog/2026/5/6/iran-war-live-trump-says-hormuz-operation-paused-amid-us-tehran-talks).- *Al Jazeera*. 6 May 2026. Retrieved 6 May 2026.
+- [↑](#cite_ref-59)- ["Trump, Iran's President Sign Deal To End West Asia War"](https://www.deccanchronicle.com/world/iran-mou-signed-on-wednesday-by-trump-iran-president-us-official-1964365). Deccan Chronicle. Agence France Presse. 17 June 2026. Retrieved 18 June 2026.
+- [↑](#cite_ref-60)- ["Iran To "Instantly" Reopen Hormuz, US To "Immediately" Lift Blockade: Pak PM"](https://www.ndtv.com/world-news/iran-to-instantly-reopen-hormuz-us-to-immediately-lift-blockade-pak-pm-shehbaz-sharif-11652070). NDTV. Agence France Presse. 18 June 2026. Retrieved 18 June 2026.
+- [↑](#cite_ref-61)- ["Trump says Iran deal 'is over' after Gulf strikes, calls Tehran 'sick people'"](https://www.ynetnews.com/article/sjyyiyoxze).- [Ynet](https://en.wikipedia.org/wiki/Ynet)
+- [↑](#cite_ref-62)- ["U.S. renews naval blockade on Iranian ports, strikes dozens of Iranian military sites near Hormuz, CENTCOM says"](https://www.haaretz.com/israel-news/israel-security/2026-07-15/ty-article-live/trump-threatens-to-attack-iranian-power-plants-bridges/0000019f-6383-d0b9-ab9f-73fb65c70000?liveBlogItemId=1368612134#1368612134).- *Haaretz*. 15 July 2026.
+- [↑](#cite_ref-63)- ["Trump: Mines fully removed from Strait of Hormuz"](https://www.axios.com/2026/08/25/hormuz-mines-remove-oil-iran-trump).- [Axios](https://en.wikipedia.org/wiki/Axios_(website))
+- [↑](#cite_ref-64)- ["Trump again says Strait of Hormuz cleared of mines"](https://www.timesofisrael.com/liveblog_entry/trump-again-says-strait-of-hormuz-cleared-of-mines/).- [The Times of Israel](https://en.wikipedia.org/wiki/The_Times_of_Israel)
+- [↑](#cite_ref-65)Zumkeller, Natalie (27 September 2026).- ["Iran fängt US-Unterwasserdrohne in Strasse von Hormus ab"](https://www.blick.ch/ausland/typ-remus-600-iran-faengt-us-unterwasserdrohne-in-strasse-von-hormus-ab-id22282576.html).- *Blick*(in Swiss High German).
+- [↑](#cite_ref-66)- ["نیروی دریایی سپاه: یک زهپاد آمریکا را به دام انداختیم"](https://www.bbc.com/persian/live/cmvgyyq2ldqgt).- *BBC News فارسی*(in Persian). 27 September 2026.
+- [↑](#cite_ref-67)Magdy, Samy (21 March 2026).- ["Houthi rebels say they will respond to any escalation against Iran"](https://apnews.com/live/iran-war-israel-trump-03-21-2026#0000019d-1258-dbe1-abff-3bfb86300000).- *AP News*. Retrieved 2026-03-21.
+- [↑](#cite_ref-68)- ["Iran weighing short-term pause in Hormuz shipments - Bloomberg"](https://www.iranintl.com/en/202604146644).- [Iran International](https://en.wikipedia.org/wiki/Iran_International)
+- [↑](#cite_ref-69)- ["محاصره دریایی آمریکا علیه ایران؛ چه کسی بیشتر ضرر میکند؟"](https://www.bbc.com/persian/articles/c36r2nz9gwro).- *BBC News فارسی*. 17 April 2026.
+- [↑](#cite_ref-70)- ["Seafarer lives pawns of war and propaganda in Hormuz"](https://www.seatrade-maritime.com/crewing/seafarer-lives-pawns-of-war-and-propaganda-in-hormuz).- *Seatrade Maritime News*. Retrieved 2026-06-15.
+
+[Categories](/wiki/Help:Category):
+
+- [American airstrikes during the 2026 Iran war](/wiki/Category:American_airstrikes_during_the_2026_Iran_war)
+- [Airstrikes in Iran](/wiki/Category:Airstrikes_in_Iran)
+- [Industrial fires and explosions in Asia](/wiki/Category:Industrial_fires_and_explosions_in_Asia)
+- [2026 in international relations](/wiki/Category:2026_in_international_relations)
+- [2026 in Iran](/wiki/Category:2026_in_Iran)
+- [History of the Strait of Hormuz](/wiki/Category:History_of_the_Strait_of_Hormuz)
+- [Iran–United States military relations](/wiki/Category:Iran%E2%80%93United_States_military_relations)
+- [Maritime incidents in 2026](/wiki/Category:Maritime_incidents_in_2026)
+- [March 2026 in Asia](/wiki/Category:March_2026_in_Asia)
+- [International maritime incidents](/wiki/Category:International_maritime_incidents)
+- [Blockades by the United States](/wiki/Category:Blockades_by_the_United_States)
+- [Blockades of the Middle Eastern crisis (2023–present)](/wiki/Category:Blockades_of_the_Middle_Eastern_crisis_(2023%E2%80%93present))
+- [Petroleum economics](/wiki/Category:Petroleum_economics)
+- [Petroleum politics](/wiki/Category:Petroleum_politics)
+- [Second presidency of Donald Trump](/wiki/Category:Second_presidency_of_Donald_Trump)
+- [Military operations of the 2026 Iran war](/wiki/Category:Military_operations_of_the_2026_Iran_war)
+- [Air campaigns](/wiki/Category:Air_campaigns)
+- [Military campaigns involving the United States](/wiki/Category:Military_campaigns_involving_the_United_States)
+- [United States Navy in the 21st century](/wiki/Category:United_States_Navy_in_the_21st_century)
+- [Industrial accidents and incidents in Iran](/wiki/Category:Industrial_accidents_and_incidents_in_Iran)
+- [Military campaigns involving Iran](/wiki/Category:Military_campaigns_involving_Iran)
+- [Military campaigns involving Israel](/wiki/Category:Military_campaigns_involving_Israel)

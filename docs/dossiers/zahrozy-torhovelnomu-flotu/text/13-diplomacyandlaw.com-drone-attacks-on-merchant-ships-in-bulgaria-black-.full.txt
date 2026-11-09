@@ -1,0 +1,157 @@
+URL:         https://www.diplomacyandlaw.com/post/drone-attacks-on-merchant-ships-in-bulgaria-black-sea-eez
+Кінцевий:    https://www.diplomacyandlaw.com/post/drone-attacks-on-merchant-ships-in-bulgaria-black-sea-eez
+Заголовок:   Drone Attacks on Merchant Ships in Bulgaria’s Black Sea EEZ: What International Law Says
+Дата публ.:  2026-10-06
+Завантажено: 2026-10-07 08:07 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 1119296
+Оригінал:    raw/13-diplomacyandlaw.com-drone-attacks-on-merchant-ships-in-bulgaria-black-.html
+sha256:      d3b04dbe8d66a6d2af1a21985f4192c3962896479e5256d3511c577450565e3e
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 7
+==============================================================================
+Use tab to navigate through the menu items.
+Exclusive Economic Zone Explained
+Neutrality in International Law
+US Strikes Iranian Oil Tankers: Military Objectives and Economic Warfare Under IHL
+What Is an Armed Attack in International Law?
+Self-Defense in International Law
+State Responsibility in International Law
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Drone Attacks on Merchant Ships in Bulgaria’s Black Sea EEZ: What International Law Says
+top of page
+Home
+About Us
+International Law
+Store
+Donate
+More
+International Human Rights
+International Relations
+History of International Law
+Digital International Law
+International Law Today
+Policy Briefs
+Treaties
+Cases
+Resources
+Study Materials
+My Subscriptions
+Contact
+More
+Use tab to navigate through the menu items.
+Log In
+Drone Attacks on Merchant Ships in Bulgaria’s Black Sea EEZ: What International Law Says
+Edmarverson A. Santos
+19 hours ago
+14 min read
+Introduction
+The Bulgaria drone attack of 6 October 2026 struck two foreign-flagged merchant ships in the Black Sea, approximately 70 nautical miles east of Byala and Cape St. Athanasius, according to Prime Minister Rumen Radev’s later account. Radev said that maritime and aerial drones were used. The Togo-flagged ALFA WATAN sank, while the Palau-flagged ABLE caught fire and its 18 crew members were evacuated, two of them injured. As of the latest reporting available on 6 October, the crew of ALFA WATAN remained unaccounted for (Maritime.bg, 2026a; Reuters, 2026a).
+The location is legally significant, but Bulgaria’s exclusive economic zone is not part of its sovereign territory. Under the United Nations Convention on the Law of the Sea (UNCLOS), Bulgaria possesses specified sovereign rights and jurisdiction in its EEZ, while other States retain freedoms that include navigation and overflight. At approximately 70 nautical miles offshore, the reported attacks occurred well beyond Bulgaria’s maximum 12-nautical-mile territorial sea (United Nations, 1982).
+That distinction does not make attacks on merchant shipping lawful. If the strikes formed part of an international armed conflict, the status and use of the vessels and the rules governing attacks at sea become central. If the operation was unrelated to an armed conflict, other rules concerning the use of force, State responsibility, maritime security, and national jurisdiction may instead govern particular aspects of the incident.
+Responsibility for the strikes had not been established by Bulgarian authorities. Reuters reported a preliminary assessment from an unnamed maritime-security source pointing to probable Russian involvement, but that assessment did not amount to official attribution. Legal responsibility cannot be assigned to Russia, Ukraine, or another actor merely from suspicion, weapon resemblance, or the broader military context (Reuters, 2026a).
+1. The Attacks East of Byala
+Radev placed the attacks at about 03:00 on 6 October, approximately 70 nautical miles east of Byala and Cape St. Athanasius in Bulgaria’s EEZ. Earlier reports had used a distance of about 80 miles, so the 70-nautical-mile figure is best treated as the prime minister’s subsequent account rather than as a precise set of strike coordinates. The two targets were general cargo vessels: ALFA WATAN, flying the flag of Togo, and ABLE, flying the flag of Palau (Maritime.bg, 2026a).
+ALFA WATAN suffered critical structural damage and sank. The search-and-rescue operation continued after the loss of the vessel, and Varna regional governor Mario Smurkov stated late that morning that no members of its crew had yet been found. Reuters reported that the vessel’s cargo had not been disclosed (Maritime.bg, 2026b; Reuters, 2026a).
+ABLE remained afloat but sustained a major fire. All 18 members of its crew were evacuated with assistance from the Bulgarian-flagged ferry DIOSCURIA, and two were reported injured. Reuters identified ABLE as the vessel carrying grain (Reuters, 2026a; Maritime.bg, 2026c).
+Important facts remained unresolved. Bulgarian authorities had not publicly identified the specific drone models, launch locations, operators, or forensic evidence tying the weapons to a particular State or armed force. Publicly available official and major-news reporting also had not established that either merchant vessel was performing a military function when attacked.
+2. The Bulgaria Drone Attack and the EEZ
+UNCLOS draws a legal boundary between the territorial sea and the exclusive economic zone. Article 2 provides that coastal-State sovereignty extends over the territorial sea and the airspace above it, while Article 3 permits a territorial sea extending no more than 12 nautical miles from the applicable baselines. A location approximately 70 nautical miles from Bulgaria’s coast is accordingly outside the territorial sea (United Nations, 1982).
+The EEZ operates under a different regime. Articles 55 and 56 give the coastal State sovereign rights over the exploration, exploitation, conservation, and management of natural resources, together with jurisdiction over specified matters including artificial islands and installations, marine scientific research, and protection and preservation of the marine environment. These rights are substantial, but they are not territorial sovereignty.
+Article 58 preserves freedoms of navigation and overflight and other internationally lawful uses of the sea associated with those freedoms. States exercising those rights must have due regard to the rights and duties of the coastal State, while the coastal State is itself subject to corresponding obligations. The EEZ is consequently an area of allocated rights and jurisdiction rather than an offshore extension of national territory (United Nations, 1982).
+The distinction extends to the airspace above the zone. Bulgarian sovereignty covers the airspace above its territorial sea but does not extend across the entire airspace above its EEZ. An aerial drone operating there cannot be characterized as violating Bulgarian sovereign airspace solely because it was flying above Bulgaria’s EEZ. Its conduct may still violate other rules of international law.
+3. Can Hostilities Occur in a State’s EEZ?
+The international law of naval warfare does not generally treat an EEZ in the same way as territorial waters. The San Remo Manual addresses hostile actions conducted within the EEZ or continental shelf of a neutral State and requires belligerents to have due regard for the coastal State’s rights, including economic activities, installations, safety zones, and protection of the marine environment (International Institute of Humanitarian Law, 1994, para. 34).
+The Manual uses the specific legal category of a neutral State. Whether all rules of neutrality applicable to naval warfare govern Bulgaria’s position in relation to the Russia-Ukraine conflict would require analysis beyond the fact that Bulgaria is not itself a belligerent in that conflict. That question does not alter the narrower UNCLOS conclusion: Bulgaria’s EEZ is not Bulgarian territory, and military activity there is not prohibited merely because it occurs within the zone.
+The San Remo Manual is not a treaty. Adopted in 1994 following work by international legal and naval experts, it seeks to restate the international law applicable to armed conflicts at sea. Its provisions cannot simply be treated as binding because they appear in the Manual; their authority depends on the treaty rules or customary international law they reflect, while some provisions also contain elements of progressive development.
+This distinction is significant in the Bulgarian incident. The central issue is not whether drones were physically present in Bulgaria’s EEZ. If the strikes were part of an armed conflict, their legality turns much more directly on who conducted them, the status of the vessels, the applicable targeting rules, and the rights of States affected by the operation.
+4. Were ALFA WATAN and ABLE Lawful Targets?
+If the strikes were conducted by a party to the Russia-Ukraine international armed conflict as part of that conflict, the legal status of ALFA WATAN and ABLE becomes central. Commercial ships do not become lawful military objectives merely because they navigate through a region affected by war. Their actual use, conduct, cargo, and relationship with belligerent armed forces have to be considered.
+The San Remo Manual provides that attacks must be limited to military objectives and treats merchant vessels as civilian objects unless they qualify as military objectives. Its general test covers objects which, by their nature, location, purpose, or use, make an effective contribution to military action and whose destruction, capture, or neutralization offers a definite military advantage in the circumstances ruling at the time (International Institute of Humanitarian Law, 1994, paras. 40–41).
+The status of Bulgaria’s EEZ does not alter those targeting requirements. Even where belligerent operations may lawfully occur outside a non-belligerent State’s territorial sea, that does not give the belligerent a general right to attack commercial shipping. The legality of each attack remains dependent on the status and conduct of the vessel concerned.
+4.1 Neutral Merchant Ships and Military Objectives
+Neutral merchant vessels receive more specific protection under the law of naval warfare. Paragraph 67 of the San Remo Manual identifies circumstances in which such a ship may become subject to attack, including engaging in belligerent acts on behalf of the enemy, acting as an auxiliary to enemy armed forces, participating in the enemy’s intelligence system, or sailing under enemy military convoy (International Institute of Humanitarian Law, 1994, para. 67).
+The rule also contains safeguards that materially narrow those exceptions. Where a neutral merchant vessel is suspected of carrying contraband or breaching a blockade, attack on that basis requires prior warning followed by an intentional and clear refusal to stop or intentional and clear resistance to visit, search, or capture. Where a vessel otherwise makes an effective contribution to enemy military action, paragraph 67 further requires that it not be feasible first to place passengers and crew in a place of safety, subject to the Manual’s provision concerning warning.
+Interference with a merchant vessel must also be distinguished from attacking it. The Manual separately regulates visit, search, diversion, and capture of neutral merchant vessels. It also places additional restrictions on the exceptional destruction of a captured neutral vessel. A legal basis to stop or capture a ship does not automatically create a legal basis to destroy it.
+4.2 Applying the Rules to the Two Ships
+The available evidence most clearly indicates ordinary commercial activity in relation to ABLE. Reuters reported that the vessel was carrying grain. No authoritative public material available on 6 October established that ABLE was carrying military matériel, acting as an auxiliary to armed forces, collecting intelligence, sailing under military convoy, or otherwise making an effective contribution to military action (Reuters, 2026a).
+The factual record concerning ALFA WATAN was less complete because its cargo had not been disclosed. That absence of information cannot itself be treated as evidence of military use. Publicly available Bulgarian and major international reporting had not established that the vessel was integrated into military operations or performed another function capable of making it a military objective.
+If either ship remained a civilian object and was intentionally made the object of attack in connection with an international armed conflict, international criminal law could become relevant. Article 8(2)(b)(ii) of the Rome Statute criminalizes intentionally directing attacks against civilian objects that are not military objectives in an international armed conflict. The Elements of Crimes require, among other things, that the perpetrator directed an attack, that the object was civilian, that the perpetrator intended the civilian object to be the object of the attack, and that the conduct took place in the context of and was associated with an international armed conflict (ICC, 1998; Assembly of States Parties, 2002).
+Whether the International Criminal Court could exercise jurisdiction is a separate question. Article 12(2)(a) recognizes vessel registration as a jurisdictional connection where the relevant conduct occurs on board a vessel registered to a State Party or a State that has accepted the Court’s jurisdiction. Neither Togo nor Palau is among the ICC’s current States Parties, so registration of ALFA WATAN and ABLE does not itself establish that jurisdictional basis. Other possible grounds would depend on separate facts, including the nationality of an alleged perpetrator, an acceptance of jurisdiction under Article 12(3), or a Security Council referral (ICC, 1998; Assembly of States Parties, 2026).
+5. Attribution: Who Carried Out the Attacks?
+Russian responsibility remained a possibility under investigation rather than an established legal fact. Reuters reported that an unnamed maritime-security source regarded Russian involvement as probable, but Bulgarian authorities had not publicly attributed the attack to Russia, Ukraine, or another State. A preliminary assessment cannot by itself establish State responsibility (Reuters, 2026a).
+The International Law Commission’s Articles on Responsibility of States for Internationally Wrongful Acts distinguish attribution from breach. Article 2 requires both conduct attributable to a State and conduct constituting a breach of an international obligation. Identifying who operated a weapon answers the attribution question; it does not by itself identify the international obligation that was violated (International Law Commission, 2001, art. 2).
+The 2001 Articles are not a treaty. The General Assembly has repeatedly commended them to governments while leaving open the question of their future adoption or other appropriate action. They remain a central framework for analyzing State responsibility, while the legal status of particular propositions still depends on whether they reflect customary international law or another binding source (United Nations General Assembly, 2025).
+5.1 Evidence and State Responsibility
+Under Article 4 of the ILC Articles, conduct of a State organ is attributable to the State. If members of a State’s armed forces conducted the operation in that capacity, the attribution analysis would ordinarily proceed through that rule. The next question would be whether the attributable conduct breached an international obligation binding on that State (International Law Commission, 2001).
+A private or proxy actor presents a different problem. Article 8 addresses conduct carried out on the instructions of, or under the direction or control of, a State in relation to the relevant conduct. Political alignment, the origin of a weapon, geographic proximity, or strategic benefit may provide investigative leads but are not substitutes for the applicable attribution test.
+Forensic and operational evidence could materially change the assessment. Recovered drone components, radar or electro-optical tracks, launch locations, communications, telemetry, satellite imagery, electronic signatures, intelligence material, or admissions could connect the operation to a particular actor. Until such evidence supports attribution, legal conclusions about responsibility must remain distinct from political accusation.
+6. Self-Defense, Flag States, and NATO
+The flags of the attacked vessels are legally relevant. ALFA WATAN was registered in Togo and ABLE in Palau. Bulgaria’s legal interests arise from different circumstances: the attacks occurred in its EEZ, created an acute maritime-security problem close to its coast, prompted Bulgarian search-and-rescue action, and potentially affected rights that Bulgaria possesses under the law of the sea.
+At the jus ad bellum level, an attributable State operation may raise questions under the prohibition on the use of force in Article 2(4) of the UN Charter, depending on the States and legally protected interests against which that force was directed. That question is analytically distinct from Article 51. Even where conduct amounts to an unlawful use of force, a State may resort to defensive force only if the conditions governing self-defense are satisfied (United Nations, 1945).
+The fact that an attack occurred inside Bulgaria’s EEZ does not, by itself, establish that Bulgaria suffered an armed attack. Nor does the identification of Togo and Palau as flag States settle whether an attack on either merchant ship reaches the Article 51 threshold. Attribution, gravity, the State against which the attack is legally directed, necessity, and proportionality must be considered before any claim to use defensive force.
+6.1 Article 51 and Oil Platforms
+The International Court of Justice considered related questions involving attacks on merchant shipping in Oil Platforms (Islamic Republic of Iran v. United States of America). In assessing the United States’ reliance on self-defense, the Court examined both responsibility for the incidents and whether the attacks relied upon were capable of satisfying the armed-attack requirement (ICJ, 2003).
+Paragraph 64 is especially relevant. The Court observed that the Texaco Caribbean did not fly the United States flag and that an attack on that vessel was not, on that basis, to be equated with an attack on the United States. The Court’s reasoning formed part of its assessment of the U.S. self-defense claim; it did not create a converse rule that every attack on a merchant vessel automatically constitutes an armed attack on its flag State (ICJ, 2003, para. 64).
+The judgment supports a cautious approach to the Bulgarian incident. Togo and Palau have direct legal connections through vessel nationality, while Bulgaria possesses distinct coastal-State and security interests. None of those connections eliminates the need to establish the identity of the attacker and the other legal conditions governing resort to self-defense.
+6.2 Why NATO Article 5 Is Not Automatic
+Bulgaria’s membership of NATO does not make the strikes an automatic Article 5 event. Article 5 establishes the collective-defense obligation following an armed attack against one or more Parties, while Article 6 defines the treaty’s principal territorial and material scope for that purpose. It covers specified Allied territory and attacks on the forces, vessels, or aircraft of Parties within the geographical areas identified by the Treaty (NATO, 1949, arts. 5–6).
+The reported attacks occurred in Bulgaria’s EEZ rather than on Bulgarian territory, and the merchant vessels were registered in Togo and Palau rather than in NATO member States. Article 6 does not identify the Black Sea among the maritime areas specified for attacks on the forces, vessels, or aircraft of the Parties. On the facts presently established, the attack does not become an Article 5 case merely because it took place in a NATO member’s EEZ.
+Article 4 has a broader consultative function. A Party may seek consultations whenever, in its opinion, the territorial integrity, political independence, or security of any Party is threatened. It does not require a prior determination that an armed attack has occurred. Article 4 consultations and Article 5 collective defense are consequently distinct legal and political mechanisms (NATO, 1949, art. 4).
+7. Bulgaria’s Response and Black Sea Shipping Risk
+Following the attacks, Prime Minister Rumen Radev convened an interinstitutional meeting involving representatives of the Bulgarian ministries responsible for defense, interior, transport, and the environment, together with the presidential institution and security services. Bulgarian authorities also continued the search-and-rescue operation for ALFA WATAN’s crew (Council of Ministers of Bulgaria, 2026; Maritime.bg, 2026b).
+UNCLOS provides a clear legal basis for the search-and-rescue dimension. Article 58(2) makes Articles 88–115 applicable in the EEZ insofar as they are compatible with Part V.
+That includes Article 98, which requires coastal States to promote adequate and effective search-and-rescue services and, where circumstances require, cooperate with neighboring States. Bulgaria also possesses jurisdiction in its EEZ concerning protection and preservation of the marine environment under Article 56, alongside the Convention’s broader environmental obligations (United Nations, 1982).
+Flag-State responsibilities remain relevant to the investigation. Article 94 establishes duties concerning ships flying a State’s flag, and relevant high-seas provisions apply in the EEZ through Article 58(2) insofar as they are compatible with the EEZ regime. Bulgaria may gather evidence and act within its own lawful competences while cooperating with Togo and Palau, but the existence of an EEZ does not confer general territorial jurisdiction over foreign merchant ships.
+If a responsible State is later identified and an international obligation is shown to have been breached, the law of State responsibility may require cessation and reparation. Countermeasures, where legally available, are non-forcible measures intended to induce compliance and remain subject to substantive and procedural restrictions. Article 50 of the ILC Articles expressly preserves the prohibition on the threat or use of force (International Law Commission, 2001).
+The Bulgarian attacks followed another serious merchant-shipping incident in Romania’s EEZ. On 5 October, ROYAD MAMMADOV sank following a fire; Romanian authorities reported that two people died and 11 crew members were rescued. Ukraine attributed that incident to Russian drones, but Romanian authorities had not established the cause in the reporting available at the time (Reuters, 2026b).
+The Romanian incident supplies relevant regional context but does not establish who attacked ALFA WATAN and ABLE. Similar timing, geography, or methods can inform an investigation without substituting for evidence connecting a particular operation to its perpetrator.
+Repeated attacks and other conflict-related hazards pose substantial risks to commercial navigation in the western Black Sea. They affect search-and-rescue operations, shipping routes, insurance, coastal security, and the practical exercise of navigation rights. Those broader consequences increase the urgency of investigation and protective coordination, but they neither transform Bulgaria’s EEZ into sovereign territory nor reduce the evidentiary threshold for attributing a particular strike.
+Also read
+·
+Exclusive Economic Zone Explained
+·
+Law of the Sea Explained
+·
+Neutrality in International Law
+·
+US Strikes Iranian Oil Tankers: Military Objectives and Economic Warfare Under IHL
+·
+What Is an Armed Attack in International Law?
+·
+Self-Defense in International Law
+·
+North Atlantic Treaty (1949)
+·
+State Responsibility in International Law
+Conclusion
+International law does not treat the 6 October attacks as strikes on Bulgarian sovereign territory merely because they occurred inside Bulgaria’s Black Sea EEZ. UNCLOS gives Bulgaria substantial sovereign rights and jurisdiction within that zone, but sovereignty over the sea and the airspace above it extends through the territorial sea rather than across the entire EEZ.
+The more difficult legal issue concerns the status of ALFA WATAN and ABLE. If they remained civilian merchant vessels and were intentionally attacked in connection with an international armed conflict, the strikes would raise serious issues under the law of naval warfare and could, if the required elements were established, engage international criminal law. The available public record had not established a military function for either vessel, although important facts concerning ALFA WATAN remained unknown.
+Attribution remains decisive for the legal consequences that could follow. The information available on 6 October did not establish which State or other actor carried out the strikes. Bulgaria may continue rescue operations, gather evidence within its lawful competences, address environmental and navigational risks, cooperate with the flag States, and use NATO’s consultative mechanisms where appropriate. Neither Article 51 self-defense nor NATO Article 5 follows simply from the fact that two foreign merchant vessels were attacked in Bulgaria’s EEZ.
+References
+Assembly of States Parties (2002) Elements of Crimes, ICC-ASP/1/3 (Part II-B), adopted 9 September 2002.
+Assembly of States Parties (2026) The States Parties to the Rome Statute. International Criminal Court.
+Council of Ministers of the Republic of Bulgaria (2026) ‘Prime Minister Rumen Radev convenes a meeting with institutions in connection with the incident in Bulgaria’s economic zone in the Black Sea’, 6 October.
+International Court of Justice (2003) Oil Platforms (Islamic Republic of Iran v. United States of America), Judgment, I.C.J. Reports 2003, p. 161.
+International Criminal Court (1998) Rome Statute of the International Criminal Court, adopted 17 July 1998, entered into force 1 July 2002.
+International Institute of Humanitarian Law (1994) San Remo Manual on International Law Applicable to Armed Conflicts at Sea. San Remo.
+International Law Commission (2001) Articles on Responsibility of States for Internationally Wrongful Acts, with commentaries, Yearbook of the International Law Commission, 2001, Vol. II, Part Two.
+Maritime.bg
+(2026a) ‘Rumen Radev: The two ships were attacked with sea and aerial drones’, 6 October.
+Maritime.bg
+(2026b) ‘Mario Smurkov: No information on the sailors from the sunken ALFA WATAN’, 6 October.
+Maritime.bg
+(2026c) ‘Large-Scale SAR Operation in the Black Sea Following Drone Strikes: Bulgarian Ro-Pax Rescues Crew, Second Vessel Sinks’, 6 October.
+NATO (1949) North Atlantic Treaty, Washington, D.C., 4 April 1949.
+Reuters (2026a) ‘Crew missing after drone sinks ship in Bulgaria’s Black Sea’, 6 October.
+Reuters (2026b) ‘Two dead, 11 rescued in serious maritime incident in Black Sea, Romania says’, 5 October.
+United Nations (1945) Charter of the United Nations, San Francisco, 26 June 1945.
+United Nations (1982) United Nations Convention on the Law of the Sea, Montego Bay, 10 December 1982.
+United Nations General Assembly (2025) Responsibility of States for internationally wrongful acts, Resolution 80/159, 15 December 2025.
+International Law Today
+bottom of page

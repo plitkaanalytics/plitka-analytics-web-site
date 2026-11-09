@@ -1,0 +1,30 @@
+URL:         https://cyberscoop.com/coast-guard-fbi-investigate-tanker-cyberattacks/
+Кінцевий:    https://cyberscoop.com/coast-guard-fbi-investigate-tanker-cyberattacks/
+Заголовок:   Coast Guard, FBI board US-bound foreign ships in order to probe for cyberattacks
+Дата публ.:  2026-09-16
+Завантажено: 2026-10-02 08:05 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 116616
+Оригінал:    raw/15-cyberscoop.com-coast-guard-fbi-investigate-tanker-cyberattacks.html
+sha256:      9de0887046c2fa239e661725402e50a8bc7889bee6a4940864e577d11acee842
+Витяг:       trafilatura
+
+==============================================================================
+# Coast Guard, FBI board US-bound foreign ships in order to probe for cyberattacks
+
+The Coast Guard and FBI boarded two foreign vessels coming to the United States last month to investigate potential cyberattacks on the ships, according to a joint statement from the agencies Wednesday.
+
+The “joint offshore security boardings” of the two commercial ships in the Gulf of Mexico on Aug. 21 and Aug. 24 “were designed to ensure integrity of the vessel’s operational and information technology systems following indications that the networks of both vessels were compromised,” according to the joint statement.
+
+“Currently, there are no reports of operational disruptions, vessel instability, physical danger to crews, or environmental impacts,” the statement reads. “The Coast Guard is actively managing communications with port operators, vessel owners, and local maritime stakeholders to ensure port operations continue safely and without interruption.”
+
+[The vessels](https://www.wsj.com/politics/national-security/u-s-probes-cyberattacks-on-energy-tankers-bound-for-american-coast-33d92f3a) were reportedly tankers [carrying oil and natural gas](https://www.bloomberg.com/news/articles/2026-09-15/us-coast-guard-boards-oil-tanker-in-cyber-attack-investigation), and the first [got hacked](https://abcnews.com/Politics/coast-guard-fbi-investigating-after-2-oil-tankers/story?id=136482324) in the Strait of Gibraltar and lost communication for over 30 hours. Authorities were said to be  investigating whether Iran, or perhaps another group seeking to exploit the conflict between Iran and the United States, was behind the attacks.
+
+Coast Guard cyber teams have been investigating “dark fleets” carrying sanctioned oil from Iran and Russia, which rely on digital masking to hide their operations and carry enhanced cyber risks, The Wall Street Journal [reported in June](https://www.wsj.com/articles/the-dangerous-tech-found-aboard-dark-fleet-tankers-captured-by-the-u-s-34762a3a?mod=article_inline).
+
+Then-President Joe Biden signed [an executive order](https://cyberscoop.com/biden-executive-order-coast-guard-cyber/) in 2024 giving the Coast Guard additional authorities to respond to cybersecurity incidents, citing the risks that a maritime cyber incident could cause “cascading” harm to the global supply chain.
+
+The Aug. 21 boarding party included Coast Guard law enforcement personnel, Coast Guard Cyber Protection Team members, a vessel inspector and FBI Cyber Action Team operators, who boarded “to conduct a comprehensive cyber security boarding and investigation,” according to the agencies’ joint statement. A similar team made up the Aug. 24 boarding party.
+
+“The captain, crew, and shore-side corporate staff were critical partners in helping to ensure the threats were mitigated,” the statement reads.
+
+Top Trump administration cyber officials have refused to answer questions from reporters recently about Iranian cyberattacks during the Middle East conflict. [Trump himself has rejected](https://cyberscoop.com/trump-blames-minnesota-water-cyberattacks-iran/) the idea that Iran was behind a recent spate of attacks on U.S. water facilities.

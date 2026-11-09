@@ -1,0 +1,130 @@
+URL:         https://en.wikipedia.org/wiki/Unrestricted_submarine_warfare
+Кінцевий:    https://en.wikipedia.org/wiki/Unrestricted_submarine_warfare
+Заголовок:   Unrestricted submarine warfare - Wikipedia
+Дата публ.:  2004-04-09
+Завантажено: 2026-10-07 14:51 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 163727
+Оригінал:    raw/164-en.wikipedia.org-unrestricted_submarine_warfare.html
+sha256:      2e8b66457384a63dc03624727fd40cba5747b88e95c3c60b5555231844f9539f
+Витяг:       trafilatura
+
+==============================================================================
+# Unrestricted submarine warfare
+
+**Unrestricted submarine warfare** is a type of [naval warfare](https://en.wikipedia.org/wiki/Naval_warfare) in which [submarines](https://en.wikipedia.org/wiki/Submarine) sink [merchant ships](https://en.wikipedia.org/wiki/Merchant_ship) such as [freighters](https://en.wikipedia.org/wiki/Freighter_(ship)) and [tankers](https://en.wikipedia.org/wiki/Tanker_(ship)) without warning. The use of unrestricted submarine warfare has had significant impacts on international relations in regard to both the [First World War](https://en.wikipedia.org/wiki/World_War_I) and the [Second World War](https://en.wikipedia.org/wiki/World_War_II). Its history has been dominated by German decision making.
+
+There have been attempts to limit the use of unrestricted naval warfare, with some dating back to before the turn of the 20th century as an extension of rules for surface raiders. While initially submarines operated successfully by attacking on the surface using [deck guns](https://en.wikipedia.org/wiki/Deck_gun), attacking without warning while submerged reduces the opportunity for the target to escape or defend itself if armed.
+
+## History
+
+[[edit](/w/index.php?title=Unrestricted_submarine_warfare&action=edit§ion=1)]
+
+[Customary naval law](https://en.wikipedia.org/wiki/Customary_international_law) (specifically, so called [cruiser rules](https://en.wikipedia.org/wiki/Cruiser_rules)) specified that while enemy warships may be attacked freely, civilian and neutral ships can only be interfered with if carrying contraband (announced previously in a contraband list), and the lives of the crew should be protected. [1] Formal limitations on warfare at sea date back to the 
+
+[1899 Hague Convention](https://en.wikipedia.org/wiki/1899_Hague_Convention).
+
+
+[[2]](#cite_note-:0-3)However, the Imperial German navy was heavily criticised internally by high level officials for their relative inactivity at the start of WWI. To boost the role of the navy, and buoyed by early successes of U-boat warfare, [Admiral Tirpitz](https://en.wikipedia.org/wiki/Admiral_Tirpitz) and [Admiral von Pohl](https://en.wikipedia.org/wiki/Hugo_von_Pohl) suggested a plan whereby U-boats, given a free hand to attack shipping, could potentially force Britain into a "conciliatory mood" in as few as six weeks. The admirals appealed to public opinion through press interviews, [3] posing the submarines as "miracle weapons", despite the extremely small number of vessels available. It was believed that a "shock effect" would cause shipping to cease, and that neutrals would judge the campaign a reasonable reprisal for the British naval blockade. Chancellor 
+
+[Bethmann Hollweg](https://en.wikipedia.org/wiki/Bethmann_Hollweg)accepted this strategy on February 1, 1915, and a directive issued the next day, with a public announcement on the 4th.
+
+British
+
+[[4]](#cite_note-5)[Q-ship](https://en.wikipedia.org/wiki/Q-ship)operations reported first successes the same year.
+
+This first campaign was not fully unrestricted as it was aimed at Allied vessels, with neutral shipping officially not to be targeted. Many submarine commanders also chose to adhere to cruiser rules anyway. However, the German Admiralty encouraged the U-boats to attack without warning and minimise efforts at identifying targets, as "accidental" sinking of neutral vessels was viewed to have a useful deterrent effect. In the end, the German campaign did not have a significant impact on Britain's goods traffic, but took a heavy civilian toll, including to neutrals. In the most dramatic episode they sank [ Lusitania](https://en.wikipedia.org/wiki/RMS_Lusitania) in May 1915 in a few minutes, killing over a hundred American passengers.
+
+In the face of US anger, German Chancellor
+
+[[5]](#cite_note-6)[Bethmann Hollweg](https://en.wikipedia.org/wiki/Bethmann_Hollweg)obtained a secret directive to exclude passenger vessels from being targeted and to make strenuous measures to avoid striking neutral vessels, a measure made into a formal and public suspension of unrestricted warfare after the sinking of
+
+[in August 1915. Submarines operated under prize rules for 1916 - indeed even during 1915 the majority of attacks were made on the surface.](https://en.wikipedia.org/wiki/SS_Arabic_(1902))
+
+*Arabic*
+
+[[6]](#cite_note-7)Admiral [Henning von Holtzendorff](https://en.wikipedia.org/wiki/Henning_von_Holtzendorff), chief of the [Imperial Admiralty](https://en.wikipedia.org/wiki/German_Imperial_Admiralty) staff, argued successfully in early 1917 to resume unrestricted attacks, at a greater scale than 1915 and thus hopefully successfully starve the British into surrender. The [German high command](https://en.wikipedia.org/wiki/Oberste_Heeresleitung) realized the resumption of unrestricted submarine warfare meant war with the [United States](https://en.wikipedia.org/wiki/United_States) but calculated that American mobilization would be too slow to stop a German victory on the [Western Front](https://en.wikipedia.org/wiki/Western_Front_(World_War_I)).[[7]](#cite_note-8) [8] The decision made by Germany became one of the "trigger mechanisms" causing the United States, who were previously neutral, to 
+
+[join the war in favour of the British](https://en.wikipedia.org/wiki/American_entry_into_World_War_I). While initially successful, the U-boats would once again fall short of the hopes of the German Admiralty.
+
+
+[[9]](#cite_note-10)After World War I, there was a strong push to construct international rules prohibiting submarine attacks on merchant ships. [2] In 1922 the United States, the United Kingdom, 
+
+[Japan](https://en.wikipedia.org/wiki/Empire_of_Japan),
+
+[France](https://en.wikipedia.org/wiki/France), and
+
+[Italy](https://en.wikipedia.org/wiki/Kingdom_of_Italy)signed the
+
+[Washington Treaty on Poison Gas and Submarines](https://en.wikipedia.org/wiki/Washington_Naval_Treaty), to so restrict the use of submarines as to make them useless as
+
+[commerce raiders](https://en.wikipedia.org/wiki/Commerce_raiding).
+
+France did not ratify, so the treaty did not go into effect.
+
+[[10]](#cite_note-11)In 1936, states signed the [London Protocol on Submarine Warfare](https://en.wikipedia.org/wiki/Second_London_Naval_Treaty). To be deemed acceptable, naval attacks needed to follow [prize rules](https://en.wikipedia.org/wiki/Prize_(law)), which called for warships to search merchantmen [11] and place crews in "a place of safety" 
+
+before sinking them.
+
+[[12]](#cite_note-13)Interwar prohibitions on unrestricted submarine warfare have been described as being too unspecified, thus leading to disagreements over how to interpret the rules and agreements. [2] For example, it was unclear what differentiated merchant ships from military ships, in particular given that Britain wanted to retain the rights to arm its merchants.
+
+Furthermore, it was considered impractical for small submarines to take on the crews of noncombatant ships due to a lack of space.
+
+[[2]](#cite_note-:0-3)Crews could be placed in emergency boats, but there was disagreement as to how safe that was.
+
+[[2]](#cite_note-:0-3)
+
+[[2]](#cite_note-:0-3)Prior to World War II, 48 states had accepted the prohibitions on unrestricted submarine warfare, including the great power combatants during World War II. [2] However states rapidly abandoned these restrictions: Mostly significantly Germany with 
+
+[War Order No. 154](https://en.wikipedia.org/wiki/War_Order_No._154), and the US from the start of the
+
+[War in the Pacific](https://en.wikipedia.org/wiki/Allied_submarines_in_the_Pacific_War).
+
+
+[[13]](#cite_note-14)## Instances
+
+[[edit](/w/index.php?title=Unrestricted_submarine_warfare&action=edit§ion=2)]
+
+There have been four campaigns of unrestricted submarine warfare, one in World War I and three in World War II:
+
+- The [U-boat campaign](https://en.wikipedia.org/wiki/U-boat_Campaign_(World_War_I))of World War I, waged intermittently by Germany between 1915 and 1918 against[Britain](https://en.wikipedia.org/wiki/United_Kingdom)and her[allies](https://en.wikipedia.org/wiki/Allies_of_World_War_I). One of the most infamous acts was on May 7, 1915, when[U-boat](https://en.wikipedia.org/wiki/U-boat)*U-20*[torpedoed the British Cunard luxury liner RMS](https://en.wikipedia.org/wiki/Sinking_of_RMS_Lusitania). Germany's resumption of unrestricted submarine warfare in February 1917, together with the*Lusitania*[Zimmermann Telegram](https://en.wikipedia.org/wiki/Zimmermann_Telegram), brought[American entry into World War I](https://en.wikipedia.org/wiki/American_entry_into_World_War_I)on the British side.
+- The [Battle of the Atlantic](https://en.wikipedia.org/wiki/Battle_of_the_Atlantic)during[World War II](https://en.wikipedia.org/wiki/World_War_II). Between 1939 and 1945, it was waged between[Nazi Germany](https://en.wikipedia.org/wiki/Nazi_Germany)and the[Allies](https://en.wikipedia.org/wiki/Allies_of_World_War_II)and also from 1940 to 1943 between[Fascist Italy](https://en.wikipedia.org/wiki/Fascist_Italy_(1922–1943))and the Allies.
+- The [Baltic Sea Campaigns](https://en.wikipedia.org/wiki/Baltic_Sea_campaigns_(1939–45))during World War II. Between 1941 and 1945, it was waged between Nazi Germany and the[Allies](https://en.wikipedia.org/wiki/Allies), primarily in the[Baltic Sea](https://en.wikipedia.org/wiki/Baltic_Sea).
+- The [Pacific War](https://en.wikipedia.org/wiki/Pacific_War)during World War II, between 1941 and 1945, waged between the[Allies](https://en.wikipedia.org/wiki/Allies)and the Japanese Empire.
+
+The four cases were attempts to impose a naval [blockade](https://en.wikipedia.org/wiki/Blockade) on countries, especially those heavily dependent on merchant shipping to supply their war industries and feed their populations (such as Britain and Japan). Of these, the US submarine effort was by far the most successful, working together with mines to reduce the Japanese merchant fleet to less than a quarter its initial tonnage.[[14]](#cite_note-15)
+
+## See also
+
+[[edit](/w/index.php?title=Unrestricted_submarine_warfare&action=edit§ion=3)]
+
+## Notes
+
+[[edit](/w/index.php?title=Unrestricted_submarine_warfare&action=edit§ion=4)]
+
+- [↑](#cite_ref-1)At the time, a vessel flying the flag of a different country during wartime as a ruse was considered acceptable; however, failing to reveal the true colors of their home nation before engaging in a battle is a war crime.
+
+## References
+
+[[edit](/w/index.php?title=Unrestricted_submarine_warfare&action=edit§ion=5)]
+
+- [↑](#cite_ref-2)Mallison, Sally V.; Mallison, W. Thomas (1991). "Naval targeting: lawful objects of attack".- *International Law Studies*.- **64**.
+- [1](#cite_ref-:0_3-0)- [2](#cite_ref-:0_3-1)- [3](#cite_ref-:0_3-2)- [4](#cite_ref-:0_3-3)- [5](#cite_ref-:0_3-4)- [6](#cite_ref-:0_3-5)- [7](#cite_ref-:0_3-6)- [Legro, Jeffrey W.](https://en.wikipedia.org/wiki/Jeffrey_W._Legro)(1997). "Which Norms Matter? Revisiting the 'Failure' of Internationalism".- *International Organization*.- **51**(1): 31–63.- [doi](https://en.wikipedia.org/wiki/Doi_(identifier)):- [10.1162/002081897550294](https://doi.org/10.1162%2F002081897550294).- [JSTOR](https://en.wikipedia.org/wiki/JSTOR_(identifier))- [2703951](https://www.jstor.org/stable/2703951).- [S2CID](https://en.wikipedia.org/wiki/S2CID_(identifier))- [154368865](https://api.semanticscholar.org/CorpusID:154368865).
+- [↑](#cite_ref-4)Ritter, Gerhard (1972).- *The Sword and the Scepter vol III: The tragedy of statesmanship*. University of Miami Press. pp. 18–19.
+- [↑](#cite_ref-5)Ritter, pp.119-14
+- [↑](#cite_ref-6)Eardley, Nick (1 May 2014).- ["Files show confusion over Lusitania"](https://www.bbc.co.uk/news/uk-27218532).- *BBC News*.- [Archived](https://web.archive.org/web/20171130025019/http://www.bbc.co.uk/news/uk-27218532)from the original on 30 November 2017.
+- [↑](#cite_ref-7)Ritter, pp.148-150
+- [↑](#cite_ref-8)Steffen, Dirk (2004). "The Holtzendorff Memorandum of 22 December 1916 and Germany's Declaration of Unrestricted U-boat Warfare".- *The Journal of Military History*.- **68**(1): 215–224.- [doi](https://en.wikipedia.org/wiki/Doi_(identifier)):- [10.1353/jmh.2003.0412](https://doi.org/10.1353%2Fjmh.2003.0412).- [S2CID](https://en.wikipedia.org/wiki/S2CID_(identifier))- [159765016](https://api.semanticscholar.org/CorpusID:159765016).- [Project MUSE](https://en.wikipedia.org/wiki/Project_Muse)- [50680](https://muse.jhu.edu/article/50680).
+- [↑](#cite_ref-9)See- [The Holtzendorff Memo (English translation) with notes](http://www.gwpda.org/naval/holtzendorffmemo.htm)- [Archived](https://web.archive.org/web/20050309235031/http://www.gwpda.org/naval/holtzendorffmemo.htm)2005-03-09 at the- [Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine)
+- [↑](#cite_ref-10)Manseck, Hartmut (2007).- ["The U-Boat, A German Fate?"](https://www.proquest.com/docview/199358222).- *Naval Forces*.- **28**(1).- [ProQuest](https://en.wikipedia.org/wiki/ProQuest)- [199358222](https://www.proquest.com/docview/199358222). Retrieved 19 January 2024.
+- [↑](#cite_ref-11)- ["Washington Conference | Treaties & Facts"](https://www.britannica.com/event/Washington-Conference-1921-1922).- *Encyclopedia Britannica*. Retrieved 2020-04-11.
+- [↑](#cite_ref-12)Holwitt, Joel I.- *"Execute Against Japan"*, Ph.D. dissertation, Ohio State University, 2005, pp.5-6.
+- [↑](#cite_ref-13)Holwitt, p.92: quoting Article 22 of the Naval Treaty.
+- [↑](#cite_ref-14)- ["The Trial of Admiral Doenitz"](https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/t/the-trial-of-admiral-doenitz.html).
+- [↑](#cite_ref-15)John Merrill (16 November 2021).- ["World War II: Japan's Disinterest in Merchant Ship Convoying"](https://archive.navalsubleague.org/2001/world-war-ii-japans-disinterest-in-merchant-ship-convoying).
+
+## Sources
+
+[[edit](/w/index.php?title=Unrestricted_submarine_warfare&action=edit§ion=6)]
+
+- Ronzitti, Natalino (1988). *The Law of Naval Warfare: A Collection of Agreements and Documents With Commentaries*. Martinus Nijhoff.[ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier))[978-90-247-3652-2](https://en.wikipedia.org/wiki/Special:BookSources/978-90-247-3652-2).
+- Willmott, H. P. (2003). *World War I*.[Dorling Kindersley](https://en.wikipedia.org/wiki/Dorling_Kindersley).[ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier))[978-0-7894-9627-0](https://en.wikipedia.org/wiki/Special:BookSources/978-0-7894-9627-0).

@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { getAllArticles, formatDate } from '@/lib/articles';
+import { getAllArticles, formatDate, groupByProject } from '@/lib/articles';
 
 export const metadata = { title: 'Investigations — PLITKA Analytics' };
 
@@ -19,23 +19,13 @@ export default async function ArticlesPageEN({
   const { project: projectFilter } = await searchParams;
 
   const all = getAllArticles('en');
-  const filtered = projectFilter
-    ? all.filter((a) => a.projectCode === projectFilter)
-    : all;
-
-  const groups = new Map<string, { code: string; title: string; articles: typeof filtered }>();
-  filtered.forEach((a) => {
-    const g = groups.get(a.projectCode);
-    if (g) {
-      g.articles.push(a);
-    } else {
-      groups.set(a.projectCode, { code: a.projectCode, title: a.project, articles: [a] });
-    }
-  });
+  const groups = groupByProject(all).filter(
+    (g) => !projectFilter || g.code === projectFilter,
+  );
 
   return (
     <>
-      {Array.from(groups.values()).map(({ code, title, articles }) => (
+      {groups.map(({ code, title, articles }) => (
         <section className="section" key={code} id={`project-${code}`}>
           <div className="container">
             <div className="section__head">
@@ -61,7 +51,7 @@ export default async function ArticlesPageEN({
         </section>
       ))}
 
-      {filtered.length === 0 && (
+      {groups.length === 0 && (
         <section className="section">
           <div className="container">
             <p style={{ color: 'var(--slate)' }}>No materials found.</p>

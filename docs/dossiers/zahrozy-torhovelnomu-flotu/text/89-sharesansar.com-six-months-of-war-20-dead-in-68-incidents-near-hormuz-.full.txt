@@ -1,0 +1,223 @@
+URL:         https://www.sharesansar.com/newsdetail/six-months-of-war-20-dead-in-68-incidents-near-hormuz-imo-says-2026-08-25
+Кінцевий:    https://www.sharesansar.com/newsdetail/six-months-of-war-20-dead-in-68-incidents-near-hormuz-imo-says-2026-08-25
+Заголовок:   Six months of war: 20 dead in 68 incidents near Hormuz, IMO says
+Дата публ.:  2026-08-25
+Завантажено: 2026-10-07 09:36 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 217859
+Оригінал:    raw/89-sharesansar.com-six-months-of-war-20-dead-in-68-incidents-near-hormuz-.html
+sha256:      bc16cf7c81ec7ba3d70d80097e3fa046bef269a6e14ec298a95dea3748b5d481
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 15
+==============================================================================
+Six months of war: 20 dead in 68 incidents near Hormuz, IMO says - || ShareSansar ||
+Government Revenue & Expenditure
+Nepal Drops One Spot to 90th in Economic Freedom Ranking
+Brilliant Securities Launches Margin Trading Facility with Financing Up to 70%
+NIMB Ace Capital Holds Investor Awareness Programs in Kathmandu, Pokhara
+NEPSE Website Down Due to Technical Error
+NRB Directs Banks to Dispense New Rs 100 Notes Through ATMs
+Just Keep Going: Citizens Bank's Message to Nepal's Entrepreneurs
+The Most Difficult Part Has Already Been Done; What Follows Is Growth: An Interview with Bijaya Lal Shrestha, CEO at LS Capital
+Start Small, Stay Consistent, Grow Big: An Interview with Bhavan Karmacharya, Head of Investment at Prabhu Capital, on the Launch of PSIS and the Power of SIP
+NMB Hybrid Fund L-II Opens for Subscription; CEO Deepesh Kumar Vaidya Shares Insights on Fund Strategy and Growth Prospects
+Interview with Mr. Sachindra Dhungana on the Launch of NIBL Stable Fund; A 12-Year Maturity Mutual Fund for Steady Returns
+IMS Investment Management Services Pvt. Ltd.
+Dhalko Linkroad -17, Kathmandu
+Regd No (Dept. of Information) : 669/074-75
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Six months of war: 20 dead in 68 incidents near Hormuz, IMO says - || ShareSansar ||
+Login
+Register
+Contact Us
+FAQ
+Write For Us
+Home
+News
+All News
+Announcements
+Economy
+Inflation
+Gold & Silver Price
+GDP & Market Cap
+GDP Growth & NEPSE
+Weekly Deposit & Lending
+Government Revenue & Expenditure
+Capital Expenditure
+Remittance
+BFIs Deposit/Lending Growth
+Short-Term Interest Rates
+Budget Surplus/Deficit Status
+BFI's Interest Rate
+Market
+Market Overview
+Live Trading
+Stock Heat Map
+By Turnover
+By Volume
+Today's Share Price
+Floorsheet
+AGM / SGM
+Proposed Dividend
+Sectorwise Share Price
+Indices / Sub-Indices
+Datewise Indices
+Top Brokers
+NEPSE Candlestick Chart
+Index History Data
+IPO/FPO
+Check IPO/FPO Result
+IPO/FPO News
+IPO/FPO Allotment News
+Company
+Listed Companies
+Mutual Funds & NAVs
+Corporate Debentures
+Promoter Lock In
+Merged Companies
+Mergers & Acquisitions
+Trading Suspended Companies
+Name Changed Companies
+Investment
+Investment Overview
+Existing Issues
+Upcoming Issue
+Auction
+Training
+Indepth Training
+Technical Analysis
+Online Training
+Registration Form
+Forum
+Knowledge
+Registered Companies CDSC
+Registered C-ASBA BFIs
+Licensed DP List
+ASBA Member BFIS
+Merchant Bankers
+Share Registrars
+Credit Ratings
+Broker List
+Commercial Banks
+Insurance Companies
+Beginner's  Guides
+Part 1
+Part 2
+Part 3
+Video Tutorials
+Investment Summit 2019
+Tax for Bonus List
+Analysis
+Technical Analysis
+Moving Average
+180-Days Average
+Pivot Analysis
+Top Companies in Nepal
+Tools
+Share Calculator
+Wt. Avg. Calculator
+SIP Calculator
+Bonus Adj. Calculator
+Right Adj. Calculator
+Dividend Calculator
+CAGR Calculator
+EMI Calculator
+Share Kheladi
+⬈ SS Pro
+Login to SS Pro
+About SS Pro
+Six months of war: 20 dead in 68 incidents near Hormuz, IMO says
+Tue, Aug 25, 2026 4:08 PM
+                                                                        on
+Latest
+,
+International
+,
+-Rss
+The Strait of Hormuz has been the main focus of the six-month war between Iran and the US and Israel, with many commercial vessels targeted in the vital conduit for oil and gas shipments. In total, 68 incidents have been confirmed by the International Maritime Organization (IMO) in the Gulf and neighbouring bodies of water, the equivalent of one every 2.6 days. Across all incidents, at least 20 seafarers or port workers were reported killed, 35 wounded and one missing, the UN maritime agency said.
+About half of the incidents have involved tankers, 20 percent container ships and 15 percent bulk carriers. The United Kingdom Maritime Trade Operations (UKMTO) classified 47 of the incidents as attacks. Liberia-flagged vessels have been most affected, being involved in 13 incidents, followed by 10 vessels each from Panama and the Marshall Islands.
+Iran-flagged vessels were reported as being involved in four incidents. The rate of incidents has ebbed and flowed during the various phases of the war. From the outbreak of war at the end of February until an agreement establishing a framework for peace talks was struck in mid-June, an incident was reported on average once every 2.3 days.
+Incidents during this period accounted for 16 of the deaths and 19 of the injuries, and were recorded throughout the Gulf, both east and west of Hormuz, and off the coasts of Iraq, Iran, Qatar, Saudi Arabia, Oman and the United Arab Emirates. As peace talks continued, until around July 7, that rate halved to one incident every 4.6 days, on average. No seafarers or other workers were reported killed, missing or injured during this period. Four of the five incidents during this period were clustered off the Omani coast around the strait's narrowest point, along a route not authorised by Iranian authorities.
+Iran, which hopes to retain control of the Hormuz after the war and charge fees for passage, had warned vessels against taking the alternative route. Since talks collapsed, the rate has climbed almost back to pre-talks levels, with an incident recorded on average every 2.8 days. Four seafarers or workers have been killed, 16 injured and one reported missing as a result.
+Recent
+News
+7 Oct, 2026
+Nepal Drops One Spot to 90th in Economic Freedom Ranking
+7 Oct, 2026
+Brilliant Securities Launches Margin Trading Facility with Financing Up to 70%
+7 Oct, 2026
+NIMB Ace Capital Holds Investor Awareness Programs in Kathmandu, Pokhara
+7 Oct, 2026
+NEPSE Website Down Due to Technical Error
+7 Oct, 2026
+NRB Directs Banks to Dispense New Rs 100 Notes Through ATMs
+Recent
+Interviews
+6 Jul, 2026
+Just Keep Going: Citizens Bank's Message to Nepal's Entrepreneurs
+13 May, 2026
+The Most Difficult Part Has Already Been Done; What Follows Is Growth: An Interview with Bijaya Lal Shrestha, CEO at LS Capital
+6 Jun, 2025
+Start Small, Stay Consistent, Grow Big: An Interview with Bhavan Karmacharya, Head of Investment at Prabhu Capital, on the Launch of PSIS and the Power of SIP
+6 Feb, 2025
+NMB Hybrid Fund L-II Opens for Subscription; CEO Deepesh Kumar Vaidya Shares Insights on Fund Strategy and Growth Prospects
+16 Jan, 2024
+Interview with Mr. Sachindra Dhungana on the Launch of NIBL Stable Fund; A 12-Year Maturity Mutual Fund for Steady Returns
+Analysis
+Technical Analysis
+Moving Average
+180 Days Avg Prices
+Pivot Analysis
+Weekly Market Analysis
+Top Companies in Nepal
+News
+IPO/FPO News
+Dividend, Right & Bonus
+Exclusive
+Company Analysis
+Share Listing
+Info
+Write For Us
+Share Registrar (RTS)
+Broker List
+Merchant Bankers
+C-ASBA BFIs
+DP Members
+IPO Results
+Existing Issues
+Upcoming Issues
+Ongoing Auctions
+Market
+Today's Share Price
+Floorsheet
+Indices/Sub-indices
+Top Transactions
+Top Turnovers
+Top Traded Shares
+Top Losers
+Top Gainers
+Top Brokers
+IMS Investment Management Services Pvt. Ltd.
+Dhalko Linkroad -17, Kathmandu
+sharesansar@gmail.com
+977-‪01-5359786‬
+,
+5365399
+Editor: Usha Shakya
+Regd No (Dept. of Information) : 669/074-75
+Home
+ShareSansar Forum
+Create Free Account
+Careers
+Advertise With Us
+Go To SS Pro
+Terms & Conditions
+© 2026
+Sharesansar
+NEPSE
+Calendar

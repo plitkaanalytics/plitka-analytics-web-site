@@ -1,0 +1,385 @@
+URL:         https://www.dcmaritimo.es/en/analytics/ukraine-ports-h1-2026
+Кінцевий:    https://www.dcmaritimo.es/en/analytics/ukraine-ports-h1-2026
+Заголовок:   DC Marítimo | European & Global Logistics
+Дата публ.:  2026-07-04
+Завантажено: 2026-10-07 09:37 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 107589
+Оригінал:    raw/96-dcmaritimo.es-ukraine-ports-h1-2026.html
+sha256:      71ebcd35191c002b22e6813dfa1c17213be3c64d62e5e8c8b92f23dce8845a24
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 2
+==============================================================================
+DC Marítimo | European & Global Logistics
+This material is published for informational purposes only.
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+DC Marítimo | European & Global Logistics
+About
+Services
+Updates
+Contact
+ES
+☰
+All updates
+20-07-2026
+·
+By
+DC Marítimo S.L.
+Ukraine's Ports in H1 2026: Growth, Disruption and the July Crisis
+1. Key figures — H1 2026
+In the first half of 2026, Ukraine's seaports handled
+42.4 million tonnes of cargo
+, up 6% year-on-year. The quarterly pattern was uneven: Q1 2026 came in at 21.1 million tonnes (down 8.3% y/y, reflecting the peak wave of strikes in spring), while Q2 2026 offset the decline with growth.
+Grains and oilseeds:
+23.6 million tonnes (+20% y/y)
+— the main growth driver, supported by a strong 2025 harvest and the functioning of the maritime corridor.
+Iron ore:
+12.03 million tonnes (−25.4% y/y)
+— the drop in seaport throughput reflects lower output at the mining and processing plants (GOKs) amid power-supply disruptions following strikes on the energy system (Ferrexpo halted production in January and resumed only in early March), together with weaker Chinese demand; some of the displaced volume is being redirected overland to the EU.
+Containers: over
+63,000 TEU (+43.3% y/y)
+handled in Q1 2026 — the fastest-growing segment.
+Ukraine's maritime corridor: from its launch in August 2023 through 15 July 2026,
+more than 208 million tonnes of cargo
+passed through it (cumulatively), including about 90 million tonnes of agricultural products.
+Breakdown by cluster
+The Greater Odesa ports (Odesa, Chornomorsk, Pivdennyi)
+handled more than 90% of Ukraine's seaborne exports. At Pivdennyi, the country's deepest berth (up to 19 m) and the TIS container terminal played the key role. Chornomorsk retained its status as the main hub for Kernel and Delta Wilmar agri-exports, until the July strikes temporarily disrupted terminal operations.
+The Danube ports (Izmail, Reni, Ust-Dunaisk)
+, having handled redirected traffic in 2022–2023, are now losing ground. They are projected to handle around 5 million tonnes in 2026 (down roughly 44% versus 2025), as draught restrictions, constrained rail capacity and high logistics costs make the route uncompetitive while the maritime corridor is operating.
+2. The intensification of Russian strikes on port infrastructure
+Overall dynamics, 2024–2026
+Russian strikes on Ukraine's port infrastructure have risen sharply:
+2024:
+roughly 36 documented strikes on ports.
+2025:
+96 strikes.
+January to early July 2026:
+already more than 180 documented attacks using cruise missiles, Iskander and Kinzhal ballistic missiles, and Shahed / Gerbera strike drones. In the first four months of 2026 alone, more than 800 drones were launched at the Odesa region — roughly 10 times more than in the same period of 2025.
+Timeline of key events, April–July 2026
+25 April 2026
+— debris from a Russian Shahed fell in the port of Galați (Romania); a similar incident recurred on 29 May. NATO classified this as unintentional, but border states reinforced their air defences.
+26 April 2026
+— strike on Chornomorsk: a tank holding 6,000 tonnes of sunflower oil was destroyed (Delta Wilmar / Kernel terminal).
+3 May 2026
+— attack on Kernel's vegetable-oil terminal in Chornomorsk; more than
+1,100 tonnes of sunflower oil
+spilled into the harbour.
+19 May 2026
+— a Kernel grain elevator in the Khmelnytskyi region was damaged (inland infrastructure in the export chain).
+4–5 June 2026
+— a fresh wave of strikes on Kernel storage facilities; partial grain spillage.
+10–12 July 2026
+— a combined strike with Kh-101 and Iskander-M missiles and drones on Kernel's terminal in Chornomorsk. According to the company's own statement, these were "some of the heaviest military strikes" on its assets in the entire war: grain silos, oil and meal transshipment facilities, and power lines were damaged.
+Around 45,000 tonnes of wheat and 9,000 tonnes of sunflower oil were stranded or lost
+, with a further roughly 25,000 tonnes of oil in storage at risk.
+13 July 2026
+— a strike on a Togo-flagged vessel carrying mineral fertilisers in Chornomorsk's waters: 5 foreign crew members were killed and 10 injured, according to Odesa regional governor Oleh Kiper.
+14 July 2026
+— attack on two merchant vessels — one Tanzania-flagged, one Liberia-flagged — near the port of Odesa; the captain of one of them was killed.
+15 July 2026
+— a combined strike on Odesa; a residential building was damaged and three civilians were killed.
+16 July 2026
+— a day of mourning in Odesa.
+17 July 2026
+— a strike on the port of Mykolaiv: two Ukrainian seafarers aboard a foreign vessel were killed.
+17–18 July 2026
+— another strike on the port of Odesa, killing two more seafarers.
+19 July 2026
+— Russian forces attacked the civilian bulk carrier Golden Leo (Guinea-Bissau flag, Turkish shipowner) with three cruise missiles as it left a Greater Odesa port carrying corn and heading for the Bosphorus. Eighteen people were on board — citizens of Syria and India and a Ukrainian pilot; two were injured and 10 were killed. It was one of the most high-profile strikes on commercial shipping, aimed directly at an active export route.
+The July 2026 crisis: one-third of export capacity lost
+On 15 July 2026, the All-Ukrainian Agrarian Council and Farmers Union Ukraine reported that recent weeks of strikes had effectively knocked out
+about one-third of Ukraine's grain-export port capacity
+.
+Industry data sharpen the picture. By mid-July, 4 of the 13 large grain terminals in Greater Odesa had suspended grain purchases, and at least one terminal halted loading after the owner of a chartered vessel cancelled the charter. Given that
+up to 90% of the country's total exports
+move through the seaports, the loss of even part of the terminal capacity directly disrupts foreign trade.
+Beyond the direct destruction, the strikes are creating a "bottleneck" in the accumulation of vessel-sized parcels. According to industry estimates, the deepwater ports have lost the ability to accumulate
+about 2.5 million tonnes of cargo per month
+; as a result, Ukraine is entering the new season with carryover stocks of roughly 4 million tonnes of corn and a comparable volume of wheat.
+According to market participants, virtually all major players have halted grain purchases at deep-water terminals under CPT terms, and exports through the deepwater ports have effectively stopped. In a single day, Kernel cut its bid prices at TransBulkTerminal three times — class 2/3 wheat from UAH 10,400 to 10,200/t, and corn from UAH 10,400 to 10,200/t. According to industry estimates, deepwater exports will effectively be idle for at least the next 20 days, with farmers selling only the minimum volumes needed to maintain liquidity while logistics stabilise.
+Days of consecutive strikes on ports and terminals have led vessels to avoid calling at Ukrainian ports. A number of traders have stopped buying in Odesa, and part of the shipments are being redirected to the Romanian–Bulgarian Constanța–Varna–Burgas (CVB) corridor.
+Some analysts warn that
+up to 75% of Black Sea grain trade could be paralysed for two months or longer
+if Russia sustains its current pace of attacks.
+3. Ukraine's counter-campaign: strikes on Russia's fleet and refineries
+The maritime campaign of Ukraine's Unmanned Systems Forces
+Since June 2026, Ukraine's Unmanned Systems Forces (USF) have mounted a systematic operation against Russia's shadow tanker fleet and auxiliary vessels in the Sea of Azov and the Black Sea.
+3 June 2026
+— the corvette
+Boykiy
+was hit at Kronstadt (Gulf of Finland). This was the first documented case of a successful long-range Ukrainian strike on a Russian Navy warship at a Baltic Fleet base.
+10 July 2026
+— Operation "MoLoChKa" in the Sea of Azov: 18 Russian vessels were struck in a single night, 13 of them tankers. The USF commander reported
+35 Russian vessels struck over 96 hours
+.
+14 July 2026
+— the Ukrainian naval drone
+Sarhan-3000
+sank the FSB patrol ship
+Izumrud
+off Novorossiysk.
+15 July 2026
+— in one night in the Black Sea, Ukrainian drones struck up to 20 vessels (17 tankers, 2 gas carriers and 1 tug).
+17–18 July 2026
+— a strike on the
+Slavneft-YANOS
+refinery in the Yaroslavl region; in the Black and Azov seas, 2 tankers (including 1 gas carrier) and 1 tug were hit.
+Cumulatively, by mid-July 2026, between
+116 and 136 shadow-fleet vessels
+had been struck according to Ukraine's General Staff and open sources — a record for the entire war. By the USF's own count, its strikes had hit 147 Russian vessels in the Azov and Black seas since the start of July alone (including, per a 16 July report, 11 vessels in a single day, three of them dry-cargo vessels).
+A separate line of effort is the Azov–Don Canal: according to figures cited by the USF commander, up to
+30% of Russia's grain exports
+pass through this region, so disrupting shipping here directly constrains Russia's export capacity.
+Strikes on refineries and oil logistics
+Since spring 2026, Ukrainian drones and missiles have stepped up attacks on Russia's key refineries:
+31 May 2026
+— the Novoshakhtinsk refinery was hit by Neptune cruise missiles.
+The
+Ilsky, Afipsky and Volgograd refineries and Kapotnya
+(the Moscow refinery) were struck repeatedly, as were the transshipment terminals at Primorsk and Ust-Luga on the Baltic and Novorossiysk on the Black Sea.
+According to Ukraine's General Staff (4 July 2026),
+43% of Russia's refining capacity
+had been knocked out, with cumulative sector losses of around
+$13.5 billion since August 2025
+.
+By March–April 2026, up to
+40% of Russia's oil-export capacity (≈2 million bpd)
+had been taken offline — one of the most serious oil-supply disruptions in Russia's modern history.
+The Kremlin's response
+On 13 July 2026, Vladimir Putin publicly promised a "mirror response, many times more powerful," to the Ukrainian strikes. A wave of massed attacks hit the Odesa region's ports over the next 4–5 days, triggering the 15–18 July crisis.
+Finland's president, Alexander Stubb (early July 2026), stated that Russia's oil output and exports had fallen
+by 40%
+because of the Ukrainian strikes. In June 2026, Russia's refinery throughput fell to
+4.1 million bpd
+— a multi-year low, about 28% below its five-year average and 35% below nameplate capacity.
+A fuel shortage affected about 50 million people
+(35% of Russia's population) by 9 July; a state of emergency was declared in Crimea, with free retail fuel sales banned. Russia imposed a ban on gasoline and jet-fuel exports; on 2 July, Prime Minister Mishustin signed a decree lowering fuel environmental standards from Euro-5 to Euro-3 through the end of 2026.
+4. Impact on the global grain market
+The mid-July 2026 price shock
+Wheat on the CBOT (Chicago SRW):
+up about
+13%
+from 6 July; the September contract settled on 15 July at
+679¼ cents/bushel
+(+34¼ cents on the day). The 15 July peak was a two-year high of around
+698 cents
+.
+KC HRW (Kansas City):
+the September contract settled at
+721¼ cents/bushel
+(+43¼ cents on 15 July), the best weekly close in two years.
+MATIF / Euronext (milling wheat):
+the September contract rose
+7.31% in a single day
+on 15 July to €231.75/t (~$264.40/t), the highest level since February 2025.
+Romanian/Bulgarian wheat rose 10.59% over the week to its highest since June 2024; the spread between Black Sea Romanian wheat and Russian/Ukrainian wheat widened to about
+$25/t
+. Russian 12.5% wheat was quoted FOB at $235–240/t and Ukrainian 11.5% wheat at $229–230/t, but the four ABCD trading majors (ADM, Bunge, Cargill, Louis Dreyfus)
+stopped publishing domestic purchase bids
+from 15 July.
+Australia as an alternative:
+premium wheat ($271/t) and standard wheat ($266/t) — Asian importers are already shifting to Australian grain.
+Corn and sunflower oil
+CBOT September corn: $176.18/t on 15 July (+2.05%), easing to $173.82/t on 16 July.
+MATIF August corn: $280.10/t on 15 July (+2.56%).
+Black Sea sunflower oil reached a 2025/26 seasonal high of ~$1,335–1,340/t (Russia) and $1,320–1,325/t (Ukraine). Global ending stocks of sunflower oil in 2025/26 are forecast at
+record lows
+. Together, Ukraine and Russia account for around
+50% of world trade
+in this product.
+Response of key importers
+Egypt (GASC)
+— by 15 July it had bought about 4.69 million tonnes of wheat since the start of the season (target: 5 million tonnes). After the escalation, GASC paused purchases pending stabilisation; CIF 12.5% offers stood at $254/t for August–September shipment.
+Turkey
+remains the largest regional importer of grain and feed, but its own 2026/27 harvest is expected to be close to a record (22.5 million tonnes, +1.5 million tonnes), which should temper import demand.
+Saudi Arabia
+was buying wheat with 12.5% protein at $267/t.
+Algeria
+bought about 800,000 tonnes in June, partly under contracts at a premium to MATIF.
+India
+recorded a 20% y/y rise in sunflower-oil prices ($1,455/t on 3 July).
+Looking to the 2026/27 marketing year, Egypt remains the largest wheat importer, with purchasing potential of up to
+13.5 million tonnes
+of wheat; it is followed by Algeria (about 8.5 million tonnes), Yemen (4.35 million tonnes) and Tunisia (1.85 million tonnes). For these countries the key risk is not a physical grain shortage but higher freight and insurance costs, vessel delays and rising import prices.
+Analysts see Bulgaria and Poland as the first beneficiaries of the disruption to Black Sea exports, followed by Romania, Germany and France. Europe cannot fully replace Black Sea volumes, however: Bulgarian feed wheat from Burgas was offered at about $247/t, but with freight to Italy its cost reached ~$270/t, against Italian buyers' willingness to pay no more than $250/t. Importers are expected to spread purchases across several suppliers, including Argentina, Australia, Canada and the United States.
+Analysts expect export forecasts for both Russia and Ukraine to be cut substantially. Together, Russia and Ukraine account for around
+one-third of global wheat exports
+.
+Ukraine's own forecast
+According to the Ukrainian Grain Association (UGA) and the Ministry of Economy:
+The 2026 harvest is put at
+83.6 million tonnes
+of grains, pulses and oilseeds (up from 80 million tonnes).
+The 2026/27 export potential is up to
+50.8 million tonnes
+(assuming logistics stability), versus 42.3 million tonnes in the current season.
+The forecast for Ukrainian wheat exports has been raised to
+14.5 million tonnes
+(from 14.0 million).
+Deputy Economy Minister Taras Vysotskyi (18 June 2026), however, warned bluntly that if the intensity of attacks persists,
+grain exports through the port of Odesa could fall to 4 million tonnes/month
+, while the Danube terminals can offset no more than 1 million tonnes/month because of high logistics costs.
+Additional pressure comes from an overloaded domestic logistics system still moving last season's crop. Delivery of grain from the central regions to the ports, which previously took about two weeks, can stretch to a month during periods of intensified shelling, and wheat exports in July 2026 may come in below 1 million tonnes, against the 1.5–2 million tonnes typical for the start of the season.
+5. Impact on oil and fuel
+Price dynamics
+Brent:
+from $76/bbl (10 July) to
+$88.10/bbl (17–18 July)
+— up about
+11% over the week
+.
+WTI:
+$82.49/bbl on 18 July.
+Urals:
+$66.84/bbl on 16 July — well below Brent, with the discount staying wide amid sanctions pressure and shadow-trade risks.
+The mid-July 2026 spike coincided with a parallel US–Iran escalation near the Strait of Hormuz, which reinforced the geopolitical risk premium.
+Russian seaborne crude exports
+A paradoxical effect of the Ukrainian strikes on refineries has been
+rising crude exports alongside falling product exports
+. Russia is forced to sell crude because its domestic refineries cannot process it:
+May 2026:
+exports from western ports rose 15% m/m to 2.5 million bpd — the highest since September 2025.
+June 2026:
+a record
+~3 million bpd
+from western ports, expected to hold into July.
+In June, total Russian seaborne oil exports reached
+5.8 million bpd
+(+620,000 bpd versus May). Product exports fell to 1.91 million bpd. Output forecasts were cut to 8.9 million bpd in 2026 and 8.8 million in 2027.
+The shadow fleet carries about 70% of Russia's crude and 27% of its products. Pacific ports account for 43% of shadow crude volumes and the Baltic for 33%. The key destinations are China (30%) and India (21%).
+The geography of supply shifted sharply: exports to India
+fell 59% m/m
+, while shipments to Singapore jumped 581% m/m, to Egypt reached 458,000 bpd (a transshipment hub) and to China stood at 965,600 bpd (+12% m/m).
+Wartime shipping and insurance
+Voyage freight costs for Russian oil to India exceeded
+$20 million
+as early as March 2026. According to insurance brokers, by mid-July 2026 Black Sea war-risk premiums had returned to the levels of December 2023 – early 2024 (0.45–0.7% of the insured hull value for seven days of cover), meaning a marked increase in the insurance component of freight.
+The
+UNITY Facility
+(Marsh McLennan + Lloyd's of London, with the Ukrainian government and DZ Bank) — launched in November 2023 and expanded in March 2024 beyond grain to cover a wider range of non-military cargoes — remains the key mechanism helping sustain commercial shipping to and from Ukrainian ports. Its coverage continued to expand in 2024–2025, and new support tranches were confirmed at URC 2026 with the involvement of the EBRD and the EIB.
+6. Investment, concessions and institutional developments
+Concession of Chornomorsk's universal and ferry terminals
+At the URC 2026 forum in Gdańsk (25–26 June 2026), Deputy Prime Minister Oleksiy Kuleba announced a shortlist of
+four prequalified bidders
+:
+APM Terminals B.V.
+— the terminal arm of the A.P. Møller–Maersk group.
+A consortium of
+Mariner (Malta) + TAS (Ukraine)
+.
+Yilport Holding Anonim Şirketi
+(Turkey).
+A consortium of
+Abu Dhabi Ports (PJSC) + SKF Holdings UK Ltd
+.
+Tender parameters: a universal/container terminal for 40 years (berths 1–6, roughly 1.2 km), minimum investment of $50 million, with targets of 250,000 TEU/year plus 3 million tonnes/year of other cargo. A separate tender covers the ferry terminal — 35 years, a minimum of $40 million, ~2 million tonnes/year. Potential budget revenue is up to
+$1 billion
+.
+The bidders include companies from among the
+world's top 20 port operators
+. The winner is expected to be selected through a competitive dialogue by the end of 2026.
+Olvia and Kherson
+Olvia (Mykolaiv region):
+a QTerminals (Qatar) concession dating from 2020. On 14 August 2025, a memorandum on resuming the concession was signed ahead of the new PPP Law No. 4510-IX taking effect in October 2025. The law allows concession terms to be adjusted for force-majeure circumstances.
+Kherson:
+the Risoil-Kherson concession (2020, 30 years) is effectively frozen. The infrastructure is "almost 100% destroyed," and the port lies within firing range from the left bank of the Dnipro and the Kinburn Spit.
+Pivdennyi: the MSC–TIS deal and the Epicentr project
+June 2026
+— MSC (Mediterranean Shipping Company) acquired a
+51% stake in TIS (Trans-Investment-Service)
+, Ukraine's largest private stevedore (operating since 1994). This is MSC's first direct stake in a Ukrainian terminal and the first major entry by a global shipping leader since 2022. DP World had earlier sold its 51% stake in March 2026.
+The Epicentr project:
+a grain terminal at Pivdennyi with capacity of
+5 million t/year
+, costing
+$160–270 million
+, on ~32 hectares, with 50 silos for 250,000 tonnes, a 350 m berth at 16 m depth, and two gantry cranes rated at 1,500 t/hour each. Launch is planned for 2026.
+International financing at URC 2026
+At the URC 2026 conference in Gdańsk, financing packages were announced, a significant share of which will go to port and logistics infrastructure:
+EIB
+— over
+€470 million
+(including reconstruction and port projects).
+EBRD
+— over
+€500 million
+; President Odile Renaud-Basso (15 May 2026) noted "significant interest" from investors in Ukrainian concessions.
+World Bank
+— a
+$3.39 billion DPO
+(Development Policy Operation), including an infrastructure allocation.
+World Bank port-sector review (17 June 2026)
+— presented by the Ministry for Development of Communities and Territories; it sets out four reform tracks: control of port land, port governance (supervisory boards), reinvestment of revenues, and a national ports master plan.
+Regulatory updates: UNITY and insurance
+Over 2024–2025 the UNITY Facility was extended to
+all non-military cargo
+; in March 2024 ore, steel, electrical equipment, container shipping and animal feed were added.
+In 2026,
+Cabinet of Ministers Resolution No. 1541
+was adopted (an update to the secondary legislation on marine insurance and the operation of foreign vessels in Ukrainian ports under wartime conditions).
+7. Container shipping: the sector's growth leader
+Despite the strikes, the container segment posted the
+fastest growth in the industry
+: +43.3% y/y in TEU terms in Q1 2026 (over 63,000 TEU). With its TIS deal, MSC has in effect signalled that it sees long-term potential in Pivdennyi as the region's container hub; APM Terminals at Chornomorsk could become a second anchor player. The development of feeder lines to Constanța, Piraeus and Gdańsk allows cargo to move without direct calls by large vessels, though feeder rates retain a 25–40% premium over pre-war levels.
+8. Outlook to end-2026
+Base case (55% probability)
+Russia sustains a high intensity of strikes, but Ukraine restores part of its capacity within 6–10 weeks.
+Grain exports from the Odesa region's ports
+fall from ~5 to ~3.5–4 million t/month
+in Q3.
+CBOT wheat holds in a
+650–720 cents/bushel
+range through the end of September.
+Brent remains in a range of $82–92/bbl, with volatility tied to the broader Middle East escalation.
+Annual throughput at Ukrainian ports reaches
+83–86 million tonnes
+(versus the previous forecast of 90-plus million tonnes).
+Stress case (25%)
+Russian strikes persist through July–August at 15-plus drones a day against the Odesa region's ports.
+Kernel and other large traders move more than 50% of operations out of the deepwater ports to the Danube and the Romanian–Bulgarian CVB corridor.
+Up to
+75% of Black Sea grain trade
+is blocked for two months.
+CBOT wheat above
+750 cents/bushel
+, Brent above
+$95/bbl
+.
+Ukraine's annual grain-export forecast is cut from 43 million tonnes to
+32–35 million tonnes
+.
+Upside case (20%)
+Diplomatic pressure (the United States, Saudi Arabia, Turkey) forces Russia to shift from massed strikes to selective ones.
+Successful Ukrainian strikes on refineries and the tanker fleet push the Kremlin to seek compromises on maritime de-escalation.
+Export flows recover within 3–4 weeks; annual throughput reaches
+90-plus million tonnes
+, while grain exports reach 42–43 million tonnes, close to the UGA forecast.
+The Chornomorsk concession is signed by the end of Q4 2026 (the initial investment phase begins).
+9. Summary for investors and traders
+The key risk for H2 2026 is not cargo volume but insurance premiums and the ability to secure vessels willing to call at Ukrainian ports.
+The UNITY Facility sustains a baseline of confidence, but the loss of another 1–2 large vessels could prompt some Lloyd's syndicates to withdraw cover.
+Kernel, Nibulon, MHP and Astarta
+are the major Ukrainian agribusiness groups most exposed to the July crisis — Kernel especially, with damage across three key locations: its Chornomorsk terminal, the Khmelnytskyi elevator and part of the Pivdennyi vegetable-oil terminal.
+MSC, APM, AD Ports and Yilport
+are among the global operators best positioned to benefit from a long-term investment in Ukraine. The key triggers are the signing of the Chornomorsk concession (Q4 2026) and a rising share of container traffic in 2027–2028.
+Wheat and sunflower oil
+remain the main carriers of the Black Sea risk premium: any new strike on Kernel or Delta Wilmar could trigger a 3–7% price reaction in the relevant MATIF and CBOT contracts.
+Russia's shadow tanker fleet
+is the most vulnerable link in the oil supply chain. A continuation of the USF campaign, including operations such as "MoLoChKa," could shift Russia's exports toward Primorsk–Ust-Luga (the Baltic) and Kozmino (the Pacific).
+The Urals–Brent discount
+remains wide; exporters are forced to sell more crude and fewer products, deepening Russia's domestic fuel crisis.
+This material is published for informational purposes only.
+All referenced data remain the property of their respective authors and organisations.
+All updates
+Home
+Privacy and Cookies Policy
+Legal Notice
+Terms & Conditions
+© 2026
+DC Marítimo S.L.

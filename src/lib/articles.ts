@@ -10,6 +10,9 @@ export interface ArticleFrontmatter {
   authors: string[];
   project: string;
   projectCode: string;
+  /** Коди інших проєктів, у яких стаття теж показується. Основний проєкт —
+   *  projectCode: від нього береться назва в метаданих статті. */
+  alsoIn?: string[];
   tags: string[];
   readingTime: number;
   category: string;
@@ -93,6 +96,42 @@ export function getAllArticles(locale: 'uk' | 'en' = 'uk'): ArticleListItem[] {
     })
     .filter(isShown)
     .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
+}
+
+/** Усі проєкти статті: спершу основний, далі додаткові з alsoIn. */
+export function projectCodesOf(a: ArticleFrontmatter): string[] {
+  const extra = (a.alsoIn ?? []).filter((c) => c !== a.projectCode);
+  return [a.projectCode, ...new Set(extra)];
+}
+
+export interface ProjectGroup {
+  code: string;
+  title: string;
+  articles: ArticleListItem[];
+}
+
+/**
+ * Групує статті за проєктами з урахуванням alsoIn. Назву проєкту дає стаття,
+ * для якої він основний. Код без жодної такої статті пропускається: інакше
+ * на проді виліз би проєкт без назви, якщо його єдина основна стаття ще
+ * stagingOnly.
+ */
+export function groupByProject(articles: ArticleListItem[]): ProjectGroup[] {
+  const titles = new Map<string, string>();
+  for (const a of articles) {
+    if (!titles.has(a.projectCode)) titles.set(a.projectCode, a.project);
+  }
+  const groups = new Map<string, ProjectGroup>();
+  for (const a of articles) {
+    for (const code of projectCodesOf(a)) {
+      const title = titles.get(code);
+      if (!title) continue;
+      const g = groups.get(code);
+      if (g) g.articles.push(a);
+      else groups.set(code, { code, title, articles: [a] });
+    }
+  }
+  return Array.from(groups.values());
 }
 
 function articleFilePath(slug: string, locale: 'uk' | 'en'): string {

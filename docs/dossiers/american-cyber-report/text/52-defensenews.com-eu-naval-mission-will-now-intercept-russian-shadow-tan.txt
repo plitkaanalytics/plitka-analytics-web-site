@@ -1,0 +1,32 @@
+URL:         https://www.defensenews.com/global/europe/2026/07/23/eu-naval-mission-will-now-intercept-russian-shadow-tankers-in-the-indian-ocean/
+Кінцевий:    https://www.defensenews.com/global/europe/2026/07/23/eu-naval-mission-will-now-intercept-russian-shadow-tankers-in-the-indian-ocean/
+Заголовок:   EU naval mission will now intercept Russian shadow tankers in the Indian Ocean
+Дата публ.:  2026-07-23
+Завантажено: 2026-10-05 10:08 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 233897
+Оригінал:    raw/52-defensenews.com-eu-naval-mission-will-now-intercept-russian-shadow-tan.html
+sha256:      e2186241b227e59b2afe22bc6673adae4e73e76aa170d2fc6764aaba970178f3
+Витяг:       trafilatura
+
+==============================================================================
+VIENNA — The European Union has authorized its naval mission in the Indian Ocean to stop and board Russian shadow fleet tankers suspected of operating under false flags, the bloc announced on Wednesday.
+
+EU member states have authorized Operation Atalanta, the union’s counter-piracy naval mission off the Horn of Africa, to begin conducting flag-verification boardings of vessels suspected of belonging to Russia’s shadow fleet in the western Indian Ocean. The decision, announced this week by EU foreign policy chief Kaja Kallas, extends to Atalanta a power already exercised by the EU’s Mediterranean mission, Operation Irini.
+
+Kallas made the announcement alongside news that Irini forces had boarded the sanctioned oil tanker MV South Star on July 20, acting on suspicion that the vessel was sailing under a false flag. “Every illicit voyage helps sustain Russia’s war machine. We are matching our sanctions with action at sea,” Kallas said, adding that the Atalanta authorization “further tightens the net.”
+
+The move considerably widens the EU’s geographic reach against the shadow fleet, a loosely defined network of tankers with opaque ownership structures that Moscow uses to sell oil above the Western-imposed price cap. While Irini patrols the Mediterranean, Atalanta operates across the Somali Basin, the Gulf of Aden, the Red Sea, the Gulf of Suez, the Gulf of Aqaba and waters around Oman, and was launched as the EU’s first-ever naval mission in 2008 to combat piracy.
+
+It is separate from the EU mission ASPIDES, which is designed to protect shipping in the Red Sea from attacks by the Iran-backed Yemeni Houthi rebels.
+
+The corridor where the mission operates is a critical transit route for tankers carrying Russian crude toward buyers in Asia. Brussels has already sanctioned more than 600 vessels suspected of belonging to the network.
+
+Generally, ships on the high seas cannot simply be stopped and boarded by any third country. However, Article 110 of the UN Convention on the Law of the Sea permits warships to stop and inspect a vessel only where there is reasonable suspicion it is stateless or flying a flag to which it is not entitled. This falls short of a blanket authority to stop any sanctioned or Russia-linked ship, but flying false flags has been a frequent practice on Russian shadow fleet vessels.
+
+The council decision, the operational plan and the rules of engagement that would spell out exactly how far Atalanta’s new powers extend have so far not been made public.
+
+The approach has already produced results elsewhere. Irini’s flag checks contributed to pressure that culminated in a Cameroon purge of 39 vessels from its shipping registry after investigators uncovered fraudulent paperwork and fake registry websites used to disguise shadow fleet tankers.
+
+Russian President Vladimir Putin has previously denounced such interceptions as “piracy,” underscoring how the expanded mandate is likely to further sharpen tensions between Brussels and Moscow over enforcement at sea.
+
+Linus Höller is Defense News' Europe correspondent and OSINT investigator. He reports on the arms deals, sanctions, and geopolitics shaping Europe and the world. He holds master’s degrees in WMD nonproliferation, terrorism studies, and international relations, and works in four languages: English, German, Russian, and Spanish.

@@ -1,0 +1,54 @@
+URL:         https://www.themoscowtimes.com/2026/07/22/european-forces-intercept-shadow-fleet-oil-tanker-in-mediterranean-sea-a93311
+Кінцевий:    https://www.themoscowtimes.com/2026/07/22/european-forces-intercept-shadow-fleet-oil-tanker-in-mediterranean-sea-a93311
+Заголовок:   European Forces Intercept ‘Shadow Fleet’ Oil Tanker in Mediterranean Sea - The Moscow Times
+Дата публ.:  2026-07-22
+Завантажено: 2026-10-05 10:08 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 50320
+Оригінал:    raw/50-themoscowtimes.com-european-forces-intercept-shadow-fleet-oil-tanker-i.html
+sha256:      9aa402f1885064bc212772514289fa4e107929bdf6c6d2635a19229dbbe0daec
+Витяг:       trafilatura
+
+==============================================================================
+A European naval mission boarded a Russia-linked oil tanker suspected of sailing under a false flag this week, the EU’s top diplomat Kaja Kallas[ said](https://x.com/kajakallas/status/2079894169527439855) Wednesday.
+
+Personnel operating under the Mediterranean naval initiative Operation EUNAVFOR MED IRINI boarded the MV South Star on Monday for “flag verification,” Kallas wrote in a post on X.
+
+“We’re turning up the pressure on Russia’s shadow fleet,” she said, referring to vessels with opaque ownership used to skirt Western sanctions against Russia.
+
+The EU’s naval force mission [confirmed](https://x.com/EUNAVFOR_MED/status/2079901182798033183) its crew boarded the sanctioned tanker in international waters in the Mediterranean Sea. 
+
+Both Kallas and the EU published photos showing military helicopters and speedboats encircling the vessel.
+
+According to marine traffic monitoring data, the South Star, which sails under the flag of Cameroon, was [located](https://www.marinetraffic.com/en/ais/details/ships/shipid:125441/mmsi:613271012/imo:9263186/vessel:SOUTH%20STAR) in the West Mediterranean as of Wednesday afternoon.
+
+It was not immediately clear whether the flag verification operation was still underway 48 hours after the initial boarding.
+
+The vessel reportedly departed the Tunisian port of Rades on July 10 and was scheduled to arrive there again on July 22.
+
+Kallas said EU member states have also authorized the bloc’s naval mission off the coast of Somalia and the western Indian Ocean to conduct similar flag verification boardings of suspected Russian “shadow fleet” vessels.
+
+“This decision further tightens the net,” she posted.
+
+Brussels has[ sanctioned](https://ec.europa.eu/commission/presscorner/detail/en/ip_25_3070) nearly 600 ships suspected of being part of Russia’s “shadow fleet” network.
+
+Russian President Vladimir Putin has slammed previous interceptions of Russia-linked vessels as “piracy.”
+
+**A Message from The Moscow Times:**
+
+Dear readers,
+
+We are facing unprecedented challenges. Russia's Prosecutor General's Office has designated The Moscow Times as an "undesirable" organization, criminalizing our work and putting our staff at risk of prosecution. This follows our earlier unjust labeling as a "foreign agent."
+
+These actions are direct attempts to silence independent journalism in Russia. The authorities claim our work "discredits the decisions of the Russian leadership." We see things differently: we strive to provide accurate, unbiased reporting on Russia.
+
+We, the journalists of The Moscow Times, refuse to be silenced. But to continue our work, [we need your help](https://www.themoscowtimes.com/contribute?utm_source=contribute&utm_medium=article).
+
+Your support, no matter how small, makes a world of difference. If you can, please support us monthly starting from just $2. It's quick to set up, and every contribution makes a significant impact.
+
+By supporting The Moscow Times, you're defending open, independent journalism in the face of repression. Thank you for standing with us.
+
+Remind me later.
+
+**Remind me next month**
+
+		[Privacy Policy](https://www.themoscowtimes.com/page/privacy-policy).

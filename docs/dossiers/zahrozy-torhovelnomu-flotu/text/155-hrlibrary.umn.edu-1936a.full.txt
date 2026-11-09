@@ -1,0 +1,71 @@
+URL:         https://hrlibrary.umn.edu/instree/1936a.htm
+Кінцевий:    https://hrlibrary.umn.edu/instree/1936a.htm
+Заголовок:   Procès-verbal relating to the Rules of Submarine Warfare set forth in Part IV of the Treaty of London of 22 April 1930, London, 6 November 1936.
+Дата публ.:  2023-02-01
+Завантажено: 2026-10-07 14:51 UTC
+HTTP:        200   Тип: text/html   Байтів: 4605
+Оригінал:    raw/155-hrlibrary.umn.edu-1936a.html
+sha256:      c4ebf75dce8fe3abc1d43cc28d606df789fa250ef3107b99878760c852e73c54
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 4
+==============================================================================
+Procès-verbal relating to the Rules of Submarine Warfare set forth in Part IV of the Treaty of London of 22 April 1930, London, 6 November 1936.
+Procès-verbal relating to the Rules of Submarine
+Warfare set forth in Part IV of the Treaty of London of 22 April
+1930, 173 L.N.T.S. 353, entered into force Nov. 6, 1936.
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Procès-verbal relating to the Rules of Submarine Warfare set forth in Part IV of the Treaty of London of 22 April 1930, London, 6 November 1936.
+This site was archived on 2023-02-01 and is no longer receiving updates. Links, accessibility, and other functionality may be limited.
+Procès-verbal relating to the Rules of Submarine
+Warfare set forth in Part IV of the Treaty of London of 22 April
+1930, 173 L.N.T.S. 353, entered into force Nov. 6, 1936.
+[The Human Rights Library wishes to express its gratitude to
+the Institute Henry Dunant for its contribution of this document.]
+Whereas the Treaty for the Limitation and Reduction of Naval
+Armaments signed in London on 22 April 1930, has not been ratified
+by all the Signatories;
+And whereas the said Treaty will cease to be in force after
+31 December 1936, with the exception of Part IV thereof, which
+sets forth rules as to the action of submarines with regard to
+merchant ships as being established rules of international law,
+and remains in force without limit of time;
+And whereas the last paragraph of Article 22 in the said Part
+IV states that the High Contracting Parties invite all other Powers
+to express their assent to the said rules;
+And whereas the Governments of the French Republic and the
+Kingdom of Italy have confirmed their acceptance of the said rules
+resulting from the signature of the said Treaty;
+And whereas all the Signatories of the said Treaty desire that
+as great a number of Powers as possible should accept the rules
+contained in the said Part IV as established rules of international
+law;
+The undersigned, representatives of their respective Governments,
+bearing in mind the said Article 22 of the Treaty, hereby request
+the Government of the United Kingdom of Great Britain and Northern
+Ireland forthwith to communicate the said rules, as annexed thereto,
+to the Governments of all Powers which are not Signatories of
+the said Treaty, with an invitation to accede thereto definitely
+and without limit of time.
+Rules
+(1). In their action with regard to merchant ships, submarines
+must conform to the rules of international law to which surface
+vessels are subject.
+(2). In particular, except in the case of persistent refusal
+to stop on being duly summoned, or of active resistance to visit
+or search, a warship, whether surface vessel or submarine, may
+not sink or render incapable of navigation a merchant vessel without
+having first placed passengers, crew and ship's papers in a place
+of safety. For this purpose the ship's boats are not regarded
+as a place of safety unless the safety of the passengers and crew
+is assured, in the existing sea and weather conditions, by the
+proximity of land, or the presence of another vessel which is
+in a position to take them on board.
+Signed in London, the sixth day of November, nineteen hundred
+and thirty-six.
+(Here follow signatures)

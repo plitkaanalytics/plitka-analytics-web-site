@@ -1,0 +1,13 @@
+URL:         https://www.seatrade-maritime.com/security/ukmto-issues-four-hormuz-attack-warnings-in-four-hours
+Кінцевий:    https://www.seatrade-maritime.com/security/ukmto-issues-four-hormuz-attack-warnings-in-four-hours
+Заголовок:   Just a moment...
+Дата публ.:  не вказана на сторінці
+Завантажено: 2026-10-07 08:08 UTC
+HTTP:        403   Тип: text/html; charset=UTF-8   Байтів: 5924
+Оригінал:    raw/28-seatrade-maritime.com-ukmto-issues-four-hormuz-attack-warnings-in-four.html
+sha256:      9e34ff64c3398a96ff78232e2c7d7acf50cf8f0cffb7ad49f713f0aeee5c8d34
+Витяг:       bs4-full
+Примітка:    оригінал 403; знімка немає в Wayback
+
+==============================================================================
+Just a moment...

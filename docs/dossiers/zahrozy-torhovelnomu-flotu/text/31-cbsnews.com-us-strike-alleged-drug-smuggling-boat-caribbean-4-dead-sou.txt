@@ -1,0 +1,22 @@
+URL:         https://www.cbsnews.com/news/us-strike-alleged-drug-smuggling-boat-caribbean-4-dead-southcom/
+Кінцевий:    https://www.cbsnews.com/news/us-strike-alleged-drug-smuggling-boat-caribbean-4-dead-southcom/
+Заголовок:   Another U.S. strike on alleged drug-smuggling boat kills 4, SOUTHCOM says
+Дата публ.:  2026-10-05
+Завантажено: 2026-10-07 08:09 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 617105
+Оригінал:    raw/31-cbsnews.com-us-strike-alleged-drug-smuggling-boat-caribbean-4-dead-sou.html
+sha256:      993f0558bccda587c6a22a230eecf770994579b3129f7068fff12e36c673ac26
+Витяг:       trafilatura
+
+==============================================================================
+# Another U.S. strike on alleged drug-smuggling boat kills 4, SOUTHCOM says
+
+The U.S. military said it attacked a boat suspected of being used to smuggle drugs in the Caribbean Sea on Sunday, killing four people, as the Trump administration continues its yearlong campaign against alleged traffickers in Latin America.
+
+The latest attack brings the number of people who have been killed in boat strikes by the U.S. military to at least 235 in 70 strikes since the administration began targeting those it calls "narcoterrorists" in September 2025. As with most of the military's statements on strikes in the eastern Pacific Ocean and Caribbean Sea, the U.S. Southern Command said it targeted the alleged drug traffickers along known smuggling routes.
+
+The military did not provide evidence that the vessel was ferrying drugs. A video posted on X showed what appeared to be an explosion destroying a moving boat, which the military said was a go-fast vessel.
+
+The Trump administration is pursuing deals with allied nations to extend its offensive to land across multiple Latin American countries. Defense Secretary Pete Hegseth said during a visit to Panama in August that Colombia, Guatemala and Honduras had agreed to allow the U.S. to carry out joint military operations against criminal groups on their soil. Guatemala denied reaching such a deal. Ecuador[ launched similar missions](https://www.cbsnews.com/news/ecuador-us-backed-anti-drug-operations-were-at-war/) with the U.S. in March.  
+
+President Trump has said the U.S. is in "armed conflict" with cartels in Latin America and has justified the attacks as a necessary escalation to stem the flow of drugs into the U.S. and fatal overdoses claiming American lives. But his administration has offered little evidence to support its claims of killing smugglers.

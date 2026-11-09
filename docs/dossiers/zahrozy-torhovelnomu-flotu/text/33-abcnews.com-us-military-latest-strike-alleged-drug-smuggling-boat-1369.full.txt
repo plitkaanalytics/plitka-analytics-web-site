@@ -1,0 +1,94 @@
+URL:         https://abcnews.com/US/wireStory/us-military-latest-strike-alleged-drug-smuggling-boat-136994059
+Кінцевий:    https://abcnews.com/US/wireStory/us-military-latest-strike-alleged-drug-smuggling-boat-136994059
+Заголовок:   US military says latest strike on alleged drug-smuggling boat in Caribbean kills 4
+Дата публ.:  2026-10-05
+Завантажено: 2026-10-07 08:12 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 169962
+Оригінал:    raw/33-abcnews.com-us-military-latest-strike-alleged-drug-smuggling-boat-1369.html
+sha256:      31e57769c2be277645393dde5a0801e8a398f3bdb1df51e9000bc6ce7114b257
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 11
+==============================================================================
+US military says latest strike on alleged drug-smuggling boat in Caribbean kills 4 - ABC News
+We'll notify you here with news about
+Turn on desktop notifications for breaking stories about interest?
+FILE - President Donald Trump talks with Defense Secretary Pete Hegseth after a roundtable on criminal cartels in the State Dining Room of the White House, Oct. 23, 2025, in Washington. (AP Photo/Evan Vucci, File)
+7-year-old girl dies after being stabbed in Chicago attack, police say
+12-year-old girl fatally shot in park where youth football game was being played
+Ukraine says attacks knocked out over half of Russia's oil refining capacity
+South Korea blames North Korean mines for border blast injuries and demands apology
+24/7 coverage of breaking news and live events
+Children's Online Privacy Policy
+Do Not Sell or Share My Personal Information
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+US military says latest strike on alleged drug-smuggling boat in Caribbean kills 4 - ABC News
+ABC News
+Live
+Video
+Local
+Shows
+Good Morning America
+ShopGMA
+Interest Successfully Added
+We'll notify you here with news about
+Turn on desktop notifications for breaking stories about interest?
+Off
+On
+Stream on
+US military says latest strike on alleged drug-smuggling boat in Caribbean kills 4
+The U.S. military says it has attacked a boat suspected of being used to smuggle drugs in the Caribbean Sea, killing four people
+By
+The Associated Press
+October 4, 2026, 10:44 PM
+1:58
+FILE - President Donald Trump talks with Defense Secretary Pete Hegseth after a roundtable on criminal cartels in the State Dining Room of the White House, Oct. 23, 2025, in Washington. (AP Photo/Evan Vucci, File)
+The Associated Press
+WASHINGTON --
+The U.S. military said it attacked a boat suspected of being used to smuggle drugs in the Caribbean Sea on Sunday, killing four people, as the Trump administration continues its
+yearlong campaign
+against alleged traffickers in Latin America.
+The latest attack brings the number of people who have been killed in boat strikes by the U.S. military to at least 235 in 70 strikes since President Donald Trump's administration began targeting those it calls “narcoterrorists” in September 2025. As with most of the military’s statements on strikes in the eastern Pacific Ocean and Caribbean Sea, U.S. Southern Command said it targeted the alleged drug traffickers along known smuggling routes.
+The military did not provide evidence that the vessel was ferrying drugs. A video posted on X showed what appeared to be an explosion destroying a moving boat, which the military said was a go-fast vessel.
+Popular Reads
+7-year-old girl dies after being stabbed in Chicago attack, police say
+Oct 4
+12-year-old girl fatally shot in park where youth football game was being played
+Oct 4
+Ukraine says attacks knocked out over half of Russia's oil refining capacity
+2 days ago
+The Trump administration is pursuing deals with allied nations to extend its offensive to land across multiple Latin American countries. Defense Secretary Pete Hegseth said during a visit to Panama in August that Colombia, Guatemala and Honduras had
+agreed to allow the U.S.
+to carry out joint military operations against criminal groups on their soil. Guatemala denied reaching such a deal. Ecuador launched similar missions with the U.S. in March.
+Trump, a Republican, has said the U.S. is in “armed conflict” with cartels in Latin America and has
+justified the attacks
+as a necessary escalation to stem the flow of drugs into the United States and fatal overdoses claiming American lives. But his administration has offered little evidence to support its claims of killing smugglers.
+Sponsored Content by Taboola
+Popular Reads
+7-year-old girl dies after being stabbed in Chicago attack, police say
+Oct 4
+12-year-old girl fatally shot in park where youth football game was being played
+Oct 4
+Ukraine says attacks knocked out over half of Russia's oil refining capacity
+2 days ago
+South Korea blames North Korean mines for border blast injuries and demands apology
+2 days ago
+ABC News Live
+24/7 coverage of breaking news and live events
+ABC News Network
+Privacy Policy
+Your US State Privacy Rights
+Children's Online Privacy Policy
+Interest-Based Ads
+About Nielsen Measurement
+Terms of Use
+Do Not Sell or Share My Personal Information
+Contact Us
+©
+2026
+ABC News

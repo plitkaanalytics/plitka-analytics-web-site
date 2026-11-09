@@ -1,0 +1,466 @@
+URL:         https://www.imo.org/en/mediacentre/hottopics/pages/middle-east-strait-of-hormuz.aspx
+Кінцевий:    https://www.imo.org/en/mediacentre/hottopics/pages/middle-east-strait-of-hormuz.aspx
+Заголовок:   Middle East
+Дата публ.:  2026-07-06
+Завантажено: 2026-10-07 09:36 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 78181
+Оригінал:    raw/88-imo.org-middle-east-strait-of-hormuz.html
+sha256:      0e0f885aa6f488adb96a0357a85ab2d893becfe786af2405f26c78719c0e93e3
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 26
+==============================================================================
+Affiliated Bodies and Programmes
+World Maritime University (WMU) and IMO International Maritime Law Institute (IMLI)
+Diversity, Equity and Inclusion
+Meeting Summaries and schedule
+​Senior Management Committee (SMC)
+Implementation of Instruments Support
+Copyright and Permission Requests
+Frequently Asked Questions (FAQ)
+Listing of current IMO publications
+Search the MKC Online Catalogue
+How and Where to Find IMO Information
+Seafarers Happiness Index - Quarter 1 2026
+Guidance on training and certification of seafarers affected by the situation in the Arabian Sea, the Sea of Oman and the Gulf Region, particularly in and around the Strait of Hormuz - MSC.1/Circ.1698
+United Nations Security Council
+Notice to Mariners issued by Oman (NAVAREA IX)
+Joint Maritime Information Center (JMIC) - Advisories
+Maritime Security Center Indian Ocean (MSCIO) advisories
+Industry guidance and statements
+International Chamber of Shipping (ICS)
+International Transport Workers’ Federation (ITF)
+relevant news related to the Strait of Hormuz and the Middle East here
+International Maritime Organization (IMO)
+4 Albert Embankment, London SE1 7SR, United Kingdom
+Affiliated Bodies and Programs
+Copyright International Maritime Organization (IMO).
+The official languages of IMO are Arabic, Chinese, English, French, Russian and Spanish. The working languages are English, French and Spanish. Some content on this site is available in all official languages. The majority is presented in the working languages.
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Middle East
+About IMO
+FAQs
+History of IMO
+Careers at IMO
+Procurement
+Membership
+Structure
+Council Candidates
+Strategic Plan
+Annual report
+Conventions
+Documents and Resources
+IMO Events
+Affiliated Bodies and Programmes
+World Maritime University (WMU) and IMO International Maritime Law Institute (IMLI)
+Financial Statements Summary
+IMO and Multilingualism
+Diversity, Equity and Inclusion
+Contact Us
+Media Centre
+Press Briefings
+Meeting Summaries and schedule
+Secretary-General
+​Senior Management Committee (SMC)
+What's New
+Hot Topics
+Attending IMO Meetings
+IMO Events
+Our Work
+Maritime Safety
+Maritime Security and Piracy
+Marine Environment
+Legal Affairs
+Human Element
+Facilitation
+Member State Audit Scheme
+Implementation of Instruments Support
+Technical Cooperation
+Partnerships and Projects
+Conferences
+External Relations
+Circulars
+Publications
+IMO ePublications
+Distributors' Details
+Catalogue ＆ Code Listings
+Just Published
+Future Titles
+Flyers
+Supplements
+Copyright and Permission Requests
+Counterfeit copies
+IMDG Code
+The IMO-Vega Database
+Frequently Asked Questions (FAQ)
+Listing of current IMO publications
+Knowledge Centre
+Search the MKC Online Catalogue
+How and Where to Find IMO Information
+Index of IMO Resolutions
+Current Awareness Bulletin
+Conferences and Meetings
+Maritime Facts and Figures
+Resources for Seafarers
+Contacts
+Contact us
+Careers
+English
+Français
+Español
+Русский
+العربية
+汉语
+IMO WEB ACCOUNTS
+Middle East
+Home
+Media Centre
+Hot Topics
+Middle East
+Information related to shipping and seafarers - Strait of Hormuz and the Middle East.
+The ongoing instability in the Middle East creates a rapidly evolving situation for global shipping.
+IMO is closely monitoring developments to protect more than 20,000 seafarers in the region, including those stranded on vessels unable to exit the Strait of Hormuz.
+IMO has prepared an evacuation plan, in accordance with the direction of the
+IMO Council
+and in coordination with Member States and industry, to safely evacuate around 6,000 seafarers from the region.
+The evacuation plan is currently
+paused
+.
+IMO is also participating in a UN-led
+dedicated Task Force
+on the Strait of Hormuz.
+This page provides data updates, official statements, regional contacts, incident list and guidance from IMO and partner organizations.
+Media queries should be sent to
+media@imo.org
+Latest news
+Updated list of incidents
+(updated 6 October)
+Stop attacking merchant ships and seafarers: IMO Secretary-General to Member States
+(16 September)
+Six months of uncertainty for seafarers in Strait of Hormuz
+(28 August)
+Safety of straits used for international navigation - FAQs
+More news on Strait of Hormuz
+Strait of Hormuz transits data
+Average daily transits (east and west bound) through the Strait of Hormuz.
+Data is an average based on several available sources and is provided for general awareness only.
+For previous graphics (month by month)
+please
+click here
+.
+4 October 2026
+Seafarers
+IMO is deeply concerned about the wellbeing and safety of seafarers affected by the ongoing situation in the Strait of Hormuz. Around 20,000 seafarers, as well as port workers and offshore crews, are
+impacted
+in the region. While the disruption to global trade is significant, IMO’s primary concern remains the humanitarian and safety implications for seafarers on board ships operating in the area.
+Suppor
+t for seafarers and stranded ships
+Resources and helplines:
+Supporting Seafarers
+Seafarers Happiness Index - Quarter 1 2026
+Guidance on training and certification of seafarers affected by the situation in the Arabian Sea, the Sea of Oman and the Gulf Region, particularly in and around the Strait of Hormuz - MSC.1/Circ.1698
+(6 July 2026)
+Testimonies
+Watch
+testimonies from seafarers affected by conflicts here
+.
+Regional Contact Points
+Bahrain
+Capt. Adel Najat
+Email:
+adel.najat@mtt.gov.bh
+Tel: +97317337988
+Iran (Islamic Republic of)
+Contact the Vessel Traffic Service centre of the nearest Iranian port via VHF Ch 16.
+See
+NV 2181/2898106
+Iraq
+IRAQ SAR Center contact details
+Address: Al Faw Grand Port, Basra, Iraq.
+Longitude and latitude Location:  29° 50.710’ North – 048° 30.211’ East.
+Email:
+SAR@jak.net
+VHF Emergency Response Channel: International Channel 16.
+Local Emergency Phone Number: (525).
+International Emergency Phone Number:  +9647864777823
+Responsible Contact Person: SAR Manager, Mr. Matthew Evans
+Kuwait
+Cdr. Abdulaziz Haidar
+Email:
+abdulazizhaidar@moi.gov.kw
+Department Email:
+naval.agencies@moi.gov.kw
+Oman
+Mohammed Abdullah Al Rawahi
+Director General of Maritime Affairs
+Ministry of Transport, Communications and Information Technology
+Sultanate of Oman
+Email:
+Mohammed.Al-Rawahi@mtcit.gov.om
+Mobile: 00968 99569795
+Nooh Salim Al Subhi
+Director of Navigation and Maritime Safety
+Ministry of Transport, Communications and Information Technology
+Sultanate of Oman
+Email:
+Nooh.alsubhi@mtcit.gov.om
+Mobile: 00968 95080158
+Qatar
+Email:
+followupteammaritime@mot.gov.qa
+Tel: +974 40451574
+Saudi Arabia
+Flag State Matters:
+Email:
+stcw.seafarers@tga.gov.sa
+Port State Matters:
+Mr. Abdullah Alruzayq
+Mobile: +966 55 707 7773
+Email: A.alruzyq@mawani.gov.sa
+Download CL 5159 (Kingdom of Saudi Arabia)
+, including
+Ship Provisioning Service Providers
+- East Coast Ports list with contacts
+United Arab Emirates
+Captain Abdulla Darwish Al Hayyas
+Tel: +971 4 5274640
+Email:
+abdulla.alhayyas@moei.gov.ae
+and
+shipping@moei.gov.ae
+See also IMO
+GISIS: Contact Points
+Highlighted incidents
+Please find below a list of highlighted incidents that include deaths/injuries.
+Full list of confirmed incidents
+here
+.
+CAPE DAO (IMO 9219020) - 23 September - One seafarer fatality.
+LR STEPHANIE (IMO 9282625) - 21 September - Two seafarers injured.
+EL GAIA (IMO 9325336) - 12 September - Two seafarers missing.
+HERCULES STAR (IMO 9916135)
+- 9 September -
+Two seafarer fatalities.
+SIDR (IMO 9854715) - 31 August - Two seafarer fatalities.
+MINOAN DIGNITY (IMO 9294484) - 17 August - One seafarer fatality.
+RIYAN STAR (IMO 9156761) - 15 August - One seafarer fatality.
+MINOAN PIONEER (IMO 9471630) - 3 August - One seafarer missing.
+KAIFAN (IMO 9656046) - 20 July - Two seafarers injured.
+AL BAHYAH (IMO 9937799) - 14 July - One seafarer fatality. Three seafarers injured.
+MOMBASA B (IMO 9739501) - 14 July - Eleven seafarers injured.
+GFS GALAXY (IMO 9401271) - 11 July - One seafarer fatality.
+SETTEBELLO (IMO 9162916) - 9 June - Three seafarers fatalities.
+CMA CGM SAN ANTONIO (IMO 9294173) - 5 May - Eight seafarers injured.
+HMM NAMU (IMO 1039292) - 4 May - One seafarer injured.
+VOLANS (IMO 9298856) / BADR (BARGE)  - 2 May - One seafarer fatality.
+MAYUREE NAREE (IMO 9323649) - 11 March - Three seafarer fatalities.
+SAFESEA VISHNU (IMO 9327009) - 11 March - One seafarer fatality.
+ARABIA III (IMO 8771332) - 7 March - One
+seafarer injured.
+MUSSAFAH 2  (IMO 9522051) - 6 March - Four seafarer fatalities. Three severely injured.
+STENA IMPERATIVE (IMO 9666077) - 1 March - One
+shipyard worker
+fatality. Two
+shipyard workers
+seriously injured.
+MKD VYOM (IMO 9284386) - 1 March -
+One seafarer fatality.
+SKYLIGHT (IMO 9330020) - 1 March - Four seafarers injured. Two seafarer fatalities.
+IMO safe evacuation framework
+The IMO Council (
+C.ES.2, 18-19 March
+) called for the establishment of a safe maritime framework, as a provisional and urgent measure, to facilitate the safe evacuation of merchant ships currently confined within the Gulf region. In line with the Council request, IMO began implementing a plan to evacuate ships and seafarers that had been stranded in the Gulf due to the conflict.
+The evacuation framework is a voluntary mechanism that maintains the rights and freedoms of navigation embodied in the United Nations Convention on the Law of the Sea (UNCLOS) and customary international law. It is applicable to all vessels which are subject to the International Convention for the Safety of Life at Sea (SOLAS) that are currently confined in the Persian Gulf and wish to depart.
+IMO has worked closely with relevant states and industry partners to develop a list of affected vessels.
+Daily evacuation reports (outbound transits) are published below.
+This evacuation plan is
+currently paused
+.
+More details here:
+Operational FAQs – IMO Strait of Hormuz Evacuation Plan
+DATE
+TOTAL VESSELS EVACUATED
+23 June 2026
+14
+24 June 2026
+41
+25 June 2026
+51
+26 June 2026
+30
+TOTAL
+136
+ESTIMATED TOTAL SEAFARERS EVACUATED TO DATE
+TOTAL
+2,900
+Communications from Member States
+Communications received and circulated by IMO can be found on
+IMODOCS
+under "Circular Letters" (register as a public user to access). Available in the six official languages.
+IMO Secretary-General statements
+Stop attacking merchant ships and seafarers: IMO Secretary-General to Member States
+(16 September)
+Six months of uncertainty for seafarers in Strait of Hormuz
+(28 August)
+IMO Secretary-General condemns new attacks on ships in the Strait of Hormuz
+(8 July)
+IMO pauses evacuation in Strait of Hormuz following attack
+(25 June)
+See all
+IMO Secretary-General statements 
+   here
+.
+Strait of Hormuz  - shipping route
+The existing Traffic Separation Scheme (TSS) in the Strait of Hormuz was proposed by Iran and Oman and adopted by
+IMO in 1968.
+It designates shipping lanes for maritime traffic in order to reduce collisions and  improve safety.
+Traffic Separation Scheme in the Strait of Hormuz, IMO Ships’ Routeing publication
+Read more on
+ships routeing
+Read more on
+Safety of straits used for international navigation - FAQs
+Resources and links
+Non-exhaustive resources and links
+Updates from UN Security Council
+United Nations Security Council
+Impact on shipping and trade
+Strait of Hormuz Disruptions: Beyond reopening:  Lasting impacts on vulnerable economies
+(UNCTAD) (30 June 2026)
+The Strait of Hormuz trade shock. Importers diversify, but cannot fully offset losses
+(International Trade Centre) (26 July 2026)
+In Focus: FAO response to global food security challenges - Middle East Conflict in 2026
+(FAO)
+International Energy Agency (IEA) -  The Middle East and Global Energy Markets
+Warnings and advisories
+Notice to Mariners issued by Oman (NAVAREA IX)
+United Kingdom Maritime Trade Operations (UKMTO) - Latest incidents
+United Kingdom Maritime Trade Operations (UKMTO) - Advisories
+Joint Maritime Information Center (JMIC) - Advisories
+NAVAREA IX Warnings
+INTERCARGO - Advice for Members regarding situation in Strait of Hormuz and Middle East
+Maritime Security Center Indian Ocean (MSCIO) advisories
+Guidance on training and certification of seafarers affected by the situation in the Arabian Sea, the Sea of Oman and the Gulf Region, particularly in and around the Strait of Hormuz - MSC.1/Circ.1698
+(6 July 2026)
+Download Best Management Practices (BMP) Maritime Security (2025)
+Industry guidance and statements
+BIMCO
+INTERTANKO
+International Chamber of Shipping (ICS)
+International Transport Workers’ Federation (ITF)
+World Shipping Council (WSC)
+Please find
+relevant news related to the Strait of Hormuz and the Middle East here
+.
+Hot Topics
+SDGs
+IMO e-Learning
+TC Portal
+PUBLICATIONS
+International Maritime Organization (IMO)
+4 Albert Embankment, London SE1 7SR, United Kingdom
++44 (0) 20 7735 7611
++44 (0) 20 7735 7611
+info@imo.org
+IMO in the UN
+Member States
+Affiliated Bodies and Programs
+Circulars
+Conventions
+IMO FAQ
+Careers at IMO
+Internships
+Externships
+Procurement
+Casualties
+National Contacts
+Publications Online Ordering
+Certificate Verification
+LRIT
+MKC Online Catalogue
+IMO Web Accounts
+Documents and Resources
+Fraud Alert
+Site Index
+Contact Us
+Copyright International Maritime Organization (IMO).
+Terms of use
+Privacy Policy
+The official languages of IMO are Arabic, Chinese, English, French, Russian and Spanish. The working languages are English, French and Spanish. Some content on this site is available in all official languages. The majority is presented in the working languages.
+About IMO
+ABOUT IMO
+FAQs
+History of IMO
+Careers at IMO
+Procurement
+Membership
+Structure
+Council Candidates
+Strategic Plan
+Annual report
+Conventions
+Documents and Resources
+IMO Events
+Affiliated Bodies and Programmes
+World Maritime University (WMU) and IMO International Maritime Law Institute (IMLI)
+Financial Statements Summary
+IMO and Multilingualism
+Diversity, Equity and Inclusion
+Contact Us
+Media Centre
+MEDIA CENTRE
+Press Briefings
+Meeting Summaries and schedule
+Secretary-General
+​Senior Management Committee (SMC)
+What's New
+Hot Topics
+Attending IMO Meetings
+IMO Events
+Our Work
+OUR WORK
+Maritime Safety
+Maritime Security and Piracy
+Marine Environment
+Legal Affairs
+Human Element
+Facilitation
+Member State Audit Scheme
+Implementation of Instruments Support
+Technical Cooperation
+Partnerships and Projects
+Conferences
+External Relations
+Circulars
+Publications
+PUBLICATIONS
+IMO ePublications
+Distributors' Details
+Catalogue ＆ Code Listings
+Just Published
+Future Titles
+Flyers
+Supplements
+Copyright and Permission Requests
+Counterfeit copies
+IMDG Code
+The IMO-Vega Database
+Frequently Asked Questions (FAQ)
+Listing of current IMO publications
+Knowledge Centre
+KNOWLEDGE CENTRE
+Search the MKC Online Catalogue
+How and Where to Find IMO Information
+Index of IMO Resolutions
+Current Awareness Bulletin
+Conferences and Meetings
+Maritime Facts and Figures
+Resources for Seafarers
+Contacts
+Contact us
+Careers
+IMO Web Accounts

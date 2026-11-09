@@ -1,0 +1,768 @@
+URL:         https://www.bellingcat.com/news/2023/05/11/grain-trail-tracking-russias-ghost-ships-with-satellite-imagery/
+Кінцевий:    https://www.bellingcat.com/news/2023/05/11/grain-trail-tracking-russias-ghost-ships-with-satellite-imagery/
+Заголовок:   Grain Trail: Tracking Russia's Ghost Ships with Satellite Imagery - bellingcat
+Дата публ.:  2023-05-11
+Завантажено: 2026-10-02 14:55 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 160881
+Оригінал:    raw/40-bellingcat.com-grain-trail-tracking-russias-ghost-ships-with-satellite.html
+sha256:      c6b4c74641c328d070b281eb35b9542d3afcd4b1faa368224f3e6f7810e295b5
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 20
+==============================================================================
+Grain Trail: Tracking Russia's Ghost Ships with Satellite Imagery - bellingcat
+Ollie is a Lecturer in Geocomputation at University College London’s Centre for Advanced Spatial Analysis (@oballinger).
+Nice spot of MIKHAIL NENASHEV (IMO: 9515539) bulk carrier loading grain at Sevastopol grain terminal
+at the Avlita terminal in Sevastopol on 24 July, 2022. Courtesy: Planet Labs.
+An image of a ship the SeaKrime project says was captured on 24 July, 2022 (left) appears to match up with a satellite
+from Planet (right) taken on the same day.
+at the Avlita terminal in Sevastopol on 19 February 2023. Courtesy: Planet Labs.
+Russia's sophisticated smuggling that has used falsified manifests & seaborne subterfuge to steal Ukrainian grain is not slowing down & is carried out by state enterprises: CMC's Matros Pozynich transits Bosphorus carrying 27200t stolen wheat from occupied Sevastopol to Tartus.
+from Planet (left) taken on 19 February compared to images (courtesy @YorukIsik) of what appears to be the same ship five days later passing through the Bosphorus.
+A graphic shows how SAR differs from optical satellite imagery.
+A satellite image captured by Planet appears to match what can be seen on the SDT on the same day.
+Satellite and SAR imagery shows the scene at the Avlita Terminal when no ship is present.
+A ship is spotted by the SDT at the Avlita Terminal on 25 June, 2022.
+The minimum ship length of the SDT set to 160m on 25 July, 2022.
+An area of interest (in red) details all the ships present in the Kerch Strait between Crimea and Russia during a defined period of time. The area of interest does not cover the entirety of the Kerch Strait.
+Tracking a Sanctioned Russian Vessel’s West African Odyssey
+Heading Off: New Technique Helps Track Grain Smuggling Expansion to Libya
+Tracing Digital Links Between Viory and Ruptly
+Your donations directly contribute to our ability to publish groundbreaking investigations and uncover wrongdoing around the world.
+Principles for Data Collection
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Grain Trail: Tracking Russia's Ghost Ships with Satellite Imagery - bellingcat
+Grain Trail: Tracking Russia's Ghost Ships with Satellite Imagery - bellingcat
+Investigations
+Resources
+Ukraine
+Workshops
+EN
+Русский
+Français
+Español
+Deutsch
+Українська
+Donate
+Search for:
+Investigations
+Resources
+Ukraine
+Workshops
+Donate
+Ollie Ballinger
+Ollie is a Lecturer in Geocomputation at University College London’s Centre for Advanced Spatial Analysis (@oballinger).
+Grain Trail: Tracking Russia's Ghost Ships with Satellite Imagery
+May 11, 2023
+Russia
+Ukraine
+Translations:
+English (UK)
+Українська
+The main grain terminal at the Port of Sevastopol in occupied Crimea has fallen quiet in recent years – at least according to ship monitoring services.
+Automated Identification Systems (AIS) tracking data, which provides open source information on the positioning and movement of ships, shows few vessels visiting the Avlita grain terminal since Russia annexed Crimea from Ukraine in 2015.
+International
+sanctions
+on the city of Sevastopol and the
+Avlita
+terminal (which has also been referred to as Aval in some media reports and registers) could explain why traffic has seemingly been so low.
+But other open sources paint a radically different picture of events at the terminal.
+Satellite imaging services such as Planet, social media posts and a new Synthetic Aperture Radar (SAR) tool built as part of Bellingcat’s Tech Fellowship scheme, show that vessels have in fact covertly continued to make regular visits.
+Bellingcat identified at least 179 days in the first 12 months of Russia’s full-scale invasion where ships had been present at the Avlita terminal with their AIS transponders seemingly turned off.
+This appears to support the findings of several media
+reports
+that claimed activity at the terminal has continued apace.
+The
+Financial Times
+,
+Bloomberg
+,
+CNN
+,
+Reuters
+, the
+BBC
+, the
+Wall Street Journal
+and
+Associated Press
+have all reported on apparent grain exports at the terminal since the onset of Russia’s full-scale invasion, even highlighting some of the ships involved. Some have even
+pointed to evidence
+the terminal has been used as an exit point for grain taken from areas of occupied Ukraine, something Ukrainian ministers have
+claimed
+is “outright robbery” but which Russia denies.
+Yet despite this coverage, many details about operations at the terminal remain unknown or are undocumented.
+For example, the SeaKrime monitoring project of the
+controversial
+Ukrainian activist group Myrotvorets has published a list of ships it says have visited the Avlita Terminal to export stolen grain. However, only a handful of vessels on this list are documented with accompanying imagery. And while media reports have raised the issue, most have focussed on individual ships or incidents rather than providing a full account of the scale of the operation.
+Bellingcat can now add further details about the frequency of ship visits to the Avlita terminal over the first year of Russia’s invasion, as well as help identify more dates when ships were present there.
+Satellite imagery service Planet provided Bellingcat with access to imagery over the first 12 months of Russia’s full-scale invasion.
+In total, there are 148 days that ships appear to have been present at the terminal, based on Planet imagery alone. With the permission of Planet, Bellingcat is publishing each of these images. They can be seen in the interactive above and are individually linked at the bottom of this story.
+Bellingcat has also been able to identify a further 31 days when ships were present at the terminal thanks to a
+Ship Detection Tool (SDT)
+that utilises synthetic aperture radar captured by the European Space Agency’s Sentinel-1 satellite, providing extra coverage when optical satellite imagery is not available.
+Bellingcat is also sharing all SDT images at the bottom of this story to allow open source researchers to further investigate the vessels and the path of potential grain exports from Sevastopol.
+According to Katerina Yaresko, an analyst who has provided data for the SeaKrime project, most countries have begun refusing to accept grain that can be proven to come from Crimea following media reports about the issue. However, she added that some vessels are still travelling to ports in Syria.
+So called ship-to-ship transfers, meanwhile, remain an ongoing issue primarily in the Kerch Strait between Russia and Crimea, she added. Reports by
+Bloomberg
+and the
+Wall Street Journal
+previously detailed this issue, which sees vessels load grain in Sevastopol before transferring that cargo to another grain-carrying vessel out at sea. This process can help obscure the true origin of the grain.
+Bridget Diakun, a reporter who specialises in ship tracking at the shipping news journal Lloyd’s List told Bellingcat that the identity of some ships operating out of the Avlita terminal are now known (including those on a US State Department list
+reported
+by the New York Times) – but much is to still to be confirmed about the operation.
+“It’s complex,” Diakun said, not least because of the aforementioned ship-to-ship transfer issue.
+Diakun explained that there appears to be a fleet of vessels involved in grain export activities at the port, with some heading south towards the Bosphorus and others east towards the Kerch Strait where the grain transfers occur.
+Satellite imagery, however, can help illuminate what has been happening, she added.
+A Year in Sevastopol
+The Planet satellite imagery shared with Bellingcat provides a clearer picture of events at the Avlita terminal during the first year of Russia’s full-scale invasion.
+These images can be cross-referenced with ship lists including those published by Yaresko on her social media channels and by the SeaKrime project. Footage from ship-spotters including
+Yörük Işık
+, who monitors ships passing through the Bosphorus, can help triangulate the movement of vessels that have switched off their AIS transponders.
+For example, on 24 July 2022, social media reports and the SeaKrime project claimed that a ship named the Mikhail Nenashev had docked at the grain terminal.
+❗
+#StolenUkrainianGrain
+Nice spot of MIKHAIL NENASHEV (IMO: 9515539) bulk carrier loading grain at Sevastopol grain terminal
+27/07/2022
+Compare with spot by
+@kattyfun1
+at 24/07/2022👇
+Fyi
+@YorukIsik
+@kattyfun1
+@IntercityFC
+@OSINT88
+@CovertShores
+@TheShipYard2
+https://t.co/qd5FhaFZSH
+pic.twitter.com/18fYeRAoQu
+— Xyc (@Cyx_5)
+July 27, 2022
+Tweet archived
+here
+.
+This appears consistent with satellite
+imagery
+provided by Planet on that day.
+A ship is
+pictured
+at the Avlita terminal in Sevastopol on 24 July, 2022. Courtesy: Planet Labs.
+Note the colouring on the side of the ship, as well as the four cranes on the deck and the white and yellow paint on the chimney that can be seen in both images. This also appears consistent with images of the Mikhail Nenashev that can be seen on
+MarineTraffic.com
+.
+An image of a ship the SeaKrime project says was captured on 24 July, 2022 (left) appears to match up with a satellite
+image
+from Planet (right) taken on the same day.
+In a separate example from 19 February 2023, another large vessel can be seen docked at the terminal in Planet
+imagery
+.
+A ship is
+pictured
+at the Avlita terminal in Sevastopol on 19 February 2023. Courtesy: Planet Labs.
+Five days later, social media images posted by Yörük Işık showed a ship named the Matros Pozynich as it moved through the Bosphorus. The appearance of this ship appeared consistent with the ship seen in satellite imagery at the Avlita terminal in the days prior.
+Russia's sophisticated smuggling that has used falsified manifests & seaborne subterfuge to steal Ukrainian grain is not slowing down & is carried out by state enterprises: CMC's Matros Pozynich transits Bosphorus carrying 27200t stolen wheat from occupied Sevastopol to Tartus.
+pic.twitter.com/lrpYzcZQAb
+— Yörük Işık (@YorukIsik)
+February 24, 2023
+Note the four cranes, the blue chimney as well as the pylon at the front of the vessel that can be seen in both images below.
+A satellite
+image
+from Planet (left) taken on 19 February compared to images (courtesy @YorukIsik) of what appears to be the same ship five days later passing through the Bosphorus.
+AIS data visible on MarineTraffic shows that the Matros Pozynich had been visible in the Black Sea, just south of Crimea on February 14. However, the AIS notifications then stopped before reappearing on February 23 as the vessel headed south towards the Bosphorus.
+The owner of the Matros Pozynich is listed as Crane Marine Contractor (CMC) by the
+Equasis
+shipping database. CMC was also listed by Equasis as the owner of the Mikhail Nenashev until February 2023. CMC did not respond to Bellingcat’s emailed questions asking whether either vessel docked at the Avlita terminal on the dates mentioned, what they were carrying and why their AIS transponders appeared to have been switched off when in Sevastopol. A call by Bellingcat to the CMC office was answered but the respondent immediately hung up when they heard the topic of our investigation.
+Further resources to triangulate the movement of ships to and from Sevastopol’s grain terminal (visible in the satellite imagery shared at the bottom of this story) include the accounts of
+Yaresko
+and open source researcher
+MT Anderson,
+as well as
+Yörük Işık.
+AIS data from the likes of
+MarineTraffic
+,
+Spire
+or
+VesselFinder
+is also revealing, whether it displays the exact positioning of a ship or the time period that AIS is switched off. Other satellite imagery of the vessels either at sea or at other ports (should they be available) could also potentially be used to make visual comparisons.
+Ship Detection Tool
+Although an incredibly valuable and illuminating resource, it must be noted that there can still be some black spots in optical satellite imagery coverage. Visibility is limited when it’s dark and cloudy. Satellite revisit times (the time between satellite image captures of the same location) also mean full coverage is not always possible.
+But peering beyond the clouds and boosting coverage is achievable with the right research techniques.
+Bellingcat employed a Ship Detection Tool that uses publicly available Synthetic Aperture Radar (SAR) imagery – generated when the European Space Agency’s Sentinel-1 satellite sends out a pulse of radio waves – to gather information about the Avlita terminal.
+The tool was developed as part of Bellingcat’s Tech Fellowship scheme and can be found
+here
+. A full guide on how to use the SDT, as well its other possible applications, can be found
+here
+. Bellingcat is also listing each day the SDT documented a ship at the Avlita Terminal at the bottom of this story.
+While the picture generated by the SDT is very different from the optical imagery provided by other satellite imagery services, it is no less effective in confirming the presence, or absence, of a ship.
+How does the SDT Work?
+Instead of relying on reflected sunlight like optical satellites, Sentinel-1 sends a pulse of radio waves and uses the echo generated to gather information and create a picture. As well as piercing through clouds, radio waves can also display what’s going on at night.
+This is similar to the way a bat uses sonar to “see” in the dark: by emitting calls and listening to echoes.
+A graphic shows how SAR differs from optical satellite imagery.
+What’s more, when Sentinel-1 sends a pulse of radio waves onto a flat surface like the sea there is little to reflect the waves back to the satellite. A low return signal means a darker colour is presented on any SAR image. But when the radio waves hit a ship they are reflected back to the satellite and generate a higher return signal, and therefore a much brighter colour.
+This makes detecting ships fairly straightforward if they are known to position themselves at a particular set of coordinates – such as at the Avlita Terminal.
+A satellite image captured by Planet appears to match what can be seen on the SDT on the same day.
+The above images were taken on 29 September, 2022, and show a large bulk carrier docked at the Avlita Terminal.
+The two images below, meanwhile, show the scene when no ship was present.
+Satellite and SAR imagery shows the scene at the Avlita Terminal when no ship is present.
+It must be noted that Sentinel-1 images have not been as frequent since late 2021 due to the failure of one of the two satellites in the constellation.
+This means that more ships may be recorded in the years prior to 2021. It does not mean that marine traffic has dropped off in recent years.
+Over the past year the SDT has captured imagery at Sevastopol on 120 separate days. Eighty-six of these matched days recorded by Planet imagery, while 31 were recorded on days that there was no available Planet imagery.
+For example, on 25 June 2022, the SeaKrime project reported that a ship named the  Matros Koshka was present at the Avlita Terminal. The SDT shows that there was indeed a ship present that day, something it would not have been possible to know otherwise given there was no satellite imagery captured at this time.
+A ship is spotted by the SDT at the Avlita Terminal on 25 June, 2022.
+While obtaining visual confirmation of the name of the ship was not possible with the SDT alone, it is notable (although not conclusive) that public data about the size of the ship, which
+Marine Traffic states is 169 metres
+, is consistent with details captured by the tool when the minimum ship length option is observed.
+The minimum ship length of the SDT set to 160m on 25 July, 2022.
+The Matros Koshka is also listed by Equasis as being owned by Crane Marine Contracting and the company did not respond to requests for comment about whether the vessel was at the Avlita terminal on June 25.
+AIS tracking data visible on MarineTraffic showed that the Matros Koshka transmitted its presence just north of the Bosphorus on June 12, heading towards Sevastopol. It then went dark before reappearing on July 7 as it re-approached the Bosphorus.
+The SDT has the added benefit of being a completely automated tool, as well as being open source and free to use.
+It must be noted that some vessels detailed by satellite imagery and the SDT may be the same ships returning to the terminal over time or, on other occasions, the same ship may have stayed in port for several days and appeared in consecutive images.
+Yet despite these caveats, what’s clear from the imagery is that a variety of ships capable of carrying grain have been coming and going from the terminal since the start of the conflict, and in the years prior, despite AIS tracking data returning few results.
+If all of these vessels were operating at full capacity, then it is possible that millions of tons of grain could have exited Crimea via the terminal and Sevastopol.
+With data going back to 2015, when Russia first annexed Crimea, the SDT details activity at the port long before the start of the conflict.
+It could also provide insight when focussed elsewhere.
+Alternative SDT Functions
+Given the SDT can capture data over a prolonged period from a wide area of interest, it could be possible to uncover new leads that help identify ship-to-ship transfers, as previously highlighted as an ongoing issue by Yaresko, Daukin and detailed in the aforementioned reporting of
+Bloomberg
+and the
+Wall Street Journal
+.
+While there is a lot of data to analyse, the SDT can capture the shape and placement of vessels in any defined area at sea or in dock when the Sentinel-1 satellite passes overhead.
+With
+reports
+that ship-to-ship transfers have been taking place in the Kerch Strait, drawing an area of interest with the SDT is the first logical step.
+Given the sheer number of ships passing through this area, however, researchers must note that finding the exact moments of ship-to-ship transfers on the SDT will likely take a lot of patience.
+An area of interest (in red) details all the ships present in the Kerch Strait between Crimea and Russia during a defined period of time. The area of interest does not cover the entirety of the Kerch Strait.
+With the SDT gathering more and more SAR imagery as time goes on, it is possible that new leads that can be cross-checked against satellite imagery or other open source information that could help identify which ships have been loading grain in Crimea before exchanging it with other vessels at sea to mask its true origin.
+However Diakun of Lloyd’s List warned that investigators must be wary that ship-to-ship transfers could also be happening in this region with products other than grain or that have nothing to do with grain taken from Ukraine.
+As with the previous media investigations, it is not possible to know for certain whether every ship captured at the Avlita Terminal and beyond by satellite or SAR imagery was indeed loading grain, or the provenance of any grain that may have been loaded.
+Yet the fact that grain has been transported to and from Crimea since the onset of Russia’s full invasion does not appear to be in doubt.
+Russia’s own Tass news agency
+reported
+in June last year that grain from the Kherson region was being transported to the region.
+Local news
+reports
+from Sevastopol have also documented the operation of the Avlita Terminal.
+Emailed questions to Avlita did not receive a response prior to publication while calls to the company’s offices in Moscow and Sevastopol went unanswered. The Russian government did not respond to emailed request for comment.
+Bellingcat will now begin the task of attempting to match up as much information as possible from the SDT and satellite imagery from Planet to local reports and those of ship spotters posted on social media.
+It invites the open source community to use the SDT tool and satellite images listed below to begin to build up an even greater picture of events at Sevastopol, the Kerch Strait and elsewhere in the Black Sea.
+Planet imagery comes in both three metre (PlanetScope) and 0.5 metre (SkySat) resolution, with SkySat images offering a sharper and more detailed view.
+All Planet and SDT images can be seen below. Click or tap on each link to see a full size image.
+February
+25 February, 2022:
+SDT Image
+March 2022
+10 March, 2022:
+SDT Image
+11 March, 2022:
+PlanetScope
+13 March, 2022:
+PlanetScope
+14 March, 2022:
+PlanetScope
+15 March, 2022:
+SDT Image
+22 March, 2022:
+SDT Image
+23 March, 2022:
+PlanetScope
+24 March, 2022:
+PlanetScope
+25 March, 2022:
+Planet SkySat
+26 March, 2022:
+PlanetScope
+and
+SDT Image
+27 March, 2022:
+Planet SkySat
+and
+SDT Image
+28 March, 2022:
+PlanetScope
+30 March, 2022:
+Planet SkySat
+31 March, 2022:
+Planet SkySat
+April 2022
+02 April, 2022:
+Planet SkySat
+and
+SDT Image
+03 April, 2022:
+SDT Image
+15 April, 2022:
+SDT Image
+19 April, 2022:
+SDT Image
+20 April, 2022:
+Planet SkySat
+and
+SDT Image
+21 April, 2022:
+Planet SkySat
+24 April, 2022:
+Planet SkySat
+25 April, 2022:
+Planet SkySat
+26 April, 2022:
+PlanetScope
+and
+SDT Image
+27 April, 2022:
+Planet SkySat
+and
+SDT Image
+28 April, 2022:
+PlanetSkySat
+29 April, 2022:
+Planet SkySat
+May 2022
+02 May, 2022:
+Planet SkySat
+and
+SDT Image
+03 May, 2022:
+PlanetScope
+09 May, 2022:
+Planet SkySat
+11 May, 2022:
+Planet SkySat
+12 May, 2022:
+PlanetScope
+13 May, 2022:
+Planet SkySat
+and
+SDT Image
+19 May, 2022:
+Planet SkySat
+20 May, 2022:
+Planet SkySat
+and
+SDT Image
+21 May, 2022:
+Planet SkySat
+and
+SDT Image
+23 May, 2022:
+Planet SkySat
+25 May, 2022:
+Planet SkySat
+and
+SDT Image
+26 May, 2022:
+Planet SkySat
+27 May, 2022:
+Planet SkySat
+28 May, 2022:
+PlanetScope
+29 May, 2022:
+Planet SkySat
+30 May, 2022:
+Planet SkySat
+31 May, 2022:
+PlanetScope
+June 2022
+01 June, 2022:
+Planet SkySat
+and
+SDT Image
+02 June, 2022:
+Planet SkySat
+and
+SDT Image
+03 June, 2022:
+Planet SkySat
+04 June, 2022:
+Planet SkySat
+05 June, 2022:
+Planet SkySat
+08 June, 2022:
+PlanetScope
+11 June, 2022:
+Planet SkySat
+12 June, 2022:
+Planet SkySat
+13 June, 2022:
+Planet SkySat
+14 June, 2022:
+PlanetScope
+and
+SDT Image
+15 June, 2022:
+PlanetScope
+16 June, 2022:
+Planet SkySat
+18 June, 2022:
+Planet SkySat
+and
+SDT Image
+19 June, 2022:
+Planet SkySat
+and
+SDT Image
+22 June, 2022:
+PlanetScope
+23 June, 2022:
+Planet SkySat
+25 June, 2022:
+SDT Image
+26 June, 2022:
+SDT Image
+30 June, 2022:
+PlanetScope
+and
+SDT Image
+July 2022
+01 July, 2022:
+SDT Image
+02 July, 2022:
+PlanetScope
+04 July, 2022:
+Planet SkySat
+05 July, 2022:
+Planet SkySat
+13 July, 2022:
+PlanetScope
+and
+SDT Image
+21 July, 2022:
+PlanetScope
+24 July, 2022:
+Planet SkySat
+25 July, 2022:
+SDT Image
+26 July, 2022: P
+lanetScope
+27 July, 2022:
+Planet SkySat
+28 July, 2022:
+Planet SkySat
+29 July, 2022:
+PlanetScope
+31 July, 2022:
+Planet SkySat
+and
+SDT Image
+August 2022
+02 August, 2022:
+PlanetScope
+03 August, 2022:
+PlanetScope
+05 August, 2022:
+Planet SkySat
+and
+SDT Image
+06 August, 2022:
+Planet SkySat
+and
+SDT Image
+07 August, 2022:
+Planet SkySat
+08 August, 2022:
+Planet SkySat
+10 August, 2022:
+Planet SkySat
+12 August, 2022:
+Planet SkySat
+13 August, 2022:
+Planet SkySat
+and
+SDT Image
+14 August, 2022:
+PlanetScope
+16 August, 2022:
+Planet SkySat
+18 August, 2022:
+PlanetScope
+and
+SDT Image
+19 August, 2022:
+Planet SkySat
+20 August, 2022:
+Planet SkySat
+21 August, 2022:
+Planet SkySat
+22 August, 2022:
+Planet SkySat
+23 August, 2022:
+Planet SkySat
+24 August, 2022:
+Planet SkySat
+26 August, 2022:
+Planet SkySat
+29 August, 2022:
+Planet SkySat
+30 August, 2022:
+Planet SkySat
+September 2022
+02 September, 2022:
+Planet SkySat
+04 September, 2022:
+Planet SkySat
+07 September, 2022:
+Planet SkySat
+10 September, 2022:
+Planet SkySat
+14 September, 2022:
+Planet SkySat
+17 September, 2022:
+SDT Image 1
+and
+SDT Image 2
+23 September, 2022:
+Planet SkySat
+26 September, 2022:
+Planet SkySat
+28 September, 2022:
+Planet SkySat
+29 September, 2022:
+Planet SkySat
+and
+SDT Image
+30 September, 2022:
+Planet SkySat
+October 2022
+04 October, 2022:
+Planet SkySat
+09 October, 2022:
+Planet SkySat
+10 October, 2022:
+Planet SkySat
+11 October, 2022:
+PlanetScope
+and
+SDT Image
+12 October, 2022:
+Planet SkySat
+and
+SDT Image
+13 October, 2022:
+Planet SkySat
+14 October, 2022:
+Planet SkySat
+15 October, 2022:
+Planet SkySat
+16 October, 2022:
+Planet SkySat
+and S
+DT Image
+17 October, 2022:
+Planet SkySat
+and
+SDT Image
+18 October, 2022:
+Planet SkySat
+24 October, 2022:
+SDT Image
+27 October, 2022:
+PlanetScope
+28 October, 2022:
+Planet SkySat
+and
+SDT Image
+29 October, 2022:
+Planet SkySat
+and
+SDT Image
+November 2022
+05 November, 2022:
+Planet SkySat
+and
+SDT Image
+06 November, 2022:
+Planet SkySat
+07 November, 2022:
+PlanetScope
+08 November, 2022:
+Planet SkySat
+09 November, 2022:
+Planet SkySat
+and
+SDT Image
+10 November, 2022:
+Planet SkySat
+and
+SDT Image
+11 November, 2022:
+Planet SkySat
+12 November, 2022:
+Planet SkySat
+15 November, 2022:
+Planet SkySat
+16 November, 2022:
+SDT Image
+18 November, 2022:
+PlanetScope
+22 November, 2022:
+SDT Image
+28 November, 2022:
+SDT Image
+29 November, 2022:
+Planet SkySat
+and
+SDT Image
+30 November, 2022:
+PlanetScope
+December 2022
+03 December, 2022:
+SDT Image
+04 December, 2022:
+SDT Image
+10 December, 2022:
+SDT Image
+11 December, 2022:
+SDT Image
+14 December, 2022:
+Planet SkySat
+15 December, 2022:
+SDT Image
+20 December, 2022:
+Planet SkySat
+21 December, 2022:
+Planet SkySat
+22 December, 2022:
+Planet SkySat
+and
+SDT Image
+23 December, 2022:
+SDT Image
+27 December, 2022:
+SDT Image
+30 December, 2022:
+Planet SkySat
+31 December, 2022:
+Planet SkySat
+January 2023
+01 January, 2023:
+Planet SkySat
+02 January, 2023:
+Planet SkySat
+03 January, 2023:
+Planet SkySat
+and
+SDT Image
+04 January, 2023:
+SDT Image
+08 January, 2023:
+SDT Image
+09 January, 2023:
+Planet SkySat
+and
+SDT Image
+10 January, 2023:
+Planet SkySat
+13 January, 2023:
+Planet SkySat
+20 January, 2023:
+SDT Image
+21 January, 2023:
+Planet SkySat
+and
+SDT Image
+22 January, 2023:
+Planet SkySat
+25 January, 2023:
+Planet SkySat
+28 January, 2023:
+SDT Image
+February 2023
+01 February, 2023:
+Planet SkySat
+and
+SDT Image
+02 February, 2023:
+PlanetScope
+and
+SDT Image
+04 February, 2023:
+Planet SkySat
+05 February, 2023:
+Planet SkySat
+07 February, 2023:
+Planet SkySat
+08 February, 2023:
+SDT Image
+09 February, 2023:
+Planet SkySat
+and
+SDT Image
+10 February, 2023:
+PlanetScope
+13 February, 2023:
+Planet SkySat
+and
+SDT Image
+14 February, 2023:
+SDT Image
+16 February, 2023:
+PlanetScope
+19 February, 2023:
+Planet SkySat
+20 February, 2023:
+SDT Image
+21 February, 2023:
+SDT Image
+23 February, 2023:
+Planet SkySat
+Sophie Tedling and
+Teemu Nieminen
+from Bellingcat’s
+Global Authentication Project (GAP)
+contributed to this report alongside Bellingcat’s Eoghan Macguire and Youri van der Weide.
+Bellingcat is a non-profit and the ability to carry out our work is dependent on the kind support of individual donors. If you would like to support our work, you can do so
+here
+. You can also subscribe to our Patreon channel
+here
+. Subscribe to our
+Newsletter
+and follow us on Twitter
+here
+and Mastodon
+here
+.
+Share this article
+Related articles
+Cameroon
+Central Africa
+Gabon
+Tracking a Sanctioned Russian Vessel’s West African Odyssey
+Libya
+Russia
+Ship Tracking
+Heading Off: New Technique Helps Track Grain Smuggling Expansion to Libya
+Media
+Russia
+UAE
+Tracing Digital Links Between Viory and Ruptly
+Bluesky
+Linkedin
+Instagram
+Mastodon
+Facebook
+Threads
+Telegram
+YouTube
+Patreon
+Discord
+Twitch
+Donate
+Your donations directly contribute to our ability to publish groundbreaking investigations and uncover wrongdoing around the world.
+Donate
+Who We Are
+General Information
+Our Team
+Awards
+Newsletter
+Funding & Supporters
+Standards & Practices
+Principles for Data Collection
+Data Privacy
+Careers
+Contact Us

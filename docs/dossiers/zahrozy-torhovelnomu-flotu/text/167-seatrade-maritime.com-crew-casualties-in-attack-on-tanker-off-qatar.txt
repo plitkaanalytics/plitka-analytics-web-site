@@ -1,0 +1,13 @@
+URL:         https://www.seatrade-maritime.com/security/crew-casualties-in-attack-on-tanker-off-qatar
+Кінцевий:    https://www.seatrade-maritime.com/security/crew-casualties-in-attack-on-tanker-off-qatar
+Заголовок:   Just a moment...
+Дата публ.:  не вказана на сторінці
+Завантажено: 2026-10-08 05:04 UTC
+HTTP:        403   Тип: text/html; charset=UTF-8   Байтів: 5876
+Оригінал:    raw/167-seatrade-maritime.com-crew-casualties-in-attack-on-tanker-off-qatar.html
+sha256:      2c6c52906f290ea436065a6eff21beeea4fe656301237e0053a8b1f0c6487c23
+Витяг:       bs4-full
+Примітка:    оригінал 403; знімка немає в Wayback
+
+==============================================================================
+Just a moment...

@@ -1,0 +1,116 @@
+URL:         https://www.justsecurity.org/128760/law-sea-assessment-boarding-bella1-marinera/
+Кінцевий:    https://www.justsecurity.org/128760/law-sea-assessment-boarding-bella1-marinera/
+Заголовок:   Law of the Sea Assessment of the seizure of Bella 1 / Marinera
+Дата публ.:  2026-01-14
+Завантажено: 2026-10-02 09:42 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 238238
+Оригінал:    raw/38-justsecurity.org-law-sea-assessment-boarding-bella1-marinera.html
+sha256:      9818759148fcc62ea095f74398dba7f7d029b2b1a9459c3f6be326450911144b
+Витяг:       trafilatura
+
+==============================================================================
+On Jan. 7, after a more than two-week [pursuit](https://www.reuters.com/business/energy/us-seizing-venezuela-linked-oil-tanker-after-weeks-long-pursuit-2026-01-07/), the United States Coast Guard and other U.S. military forces boarded and seized the “shadow fleet” tanker *Marinera*. The operation took place in the Atlantic Ocean “[roughly 190 miles off the southern coast of Iceland in the northern Atlantic Ocean](https://edition.cnn.com/2026/01/08/us/russia-oil-tanker-seizure-what-we-know-intl-hnk).” The U.K. provided surveillance [assistance](https://www.bbc.com/news/live/cwynjdqgellt) to the operation. The tanker – under U.S. domestic legal [sanctions](https://home.treasury.gov/news/press-releases/jy2399) since mid-2024 – was formerly named *Bella 1* and sailed (possibly as late as December 2025) under a Guyanese flag. On Dec. 31, 2025 and Jan. 1, 2026, she was noted as sailing under a Russian flag and a new name (*Marinera*). Another tanker, the *Sophia*, was also seized at around the same time in the Caribbean. A fifth tanker, the *Olina*, was then seized in the Caribbean a few days later. The [ Sophia](https://edition.cnn.com/2026/01/08/us/russia-oil-tanker-seizure-what-we-know-intl-hnk) and 
+
+[were reported as being stateless, and in the absence of better particulars it is difficult to further assess these seizures beyond noting what has previously been said about the course of U.S. seizure operations and the legal issues attending the U.S. Venezuela-linked operations at sea (including](https://edition.cnn.com/2026/01/09/politics/oil-tanker-seizure-caribbean)
+
+*Olina*[here](https://www.justsecurity.org/128285/podcast-us-russian-oil-tankers/),
+
+[here](https://www.justsecurity.org/127199/seizure-skipper-venezuela-lawful/),
+
+[here](https://www.justsecurity.org/127396/venezuela-military-blockade-international-law/),
+
+[here](https://www.lowyinstitute.org/the-interpreter/maritime-boardings-international-law-venezuela-context), and
+
+[here](https://www.justsecurity.org/127791/maritime-law-high-seas-seizure-skipper/)).
+
+Consequently, in this article, we will focus on the lawfulness of the seizure of the *Marinera*, and in particular jurisdictional and maritime law enforcement authorisation under the UN Convention on the Law of the Sea (UNCLOS), a treaty that is widely recognized to reflect customary international law binding on States that are not party to it, including the United States. (A forthcoming article will analyse the applicability of a second rule set under which the boarding and capture can be potentially assessed – the law of naval warfare.) We conclude that, based on the publicly available information to date, it is difficult to sustain the lawfulness of the U.S.-led and UK-supported seizure of the *Marinera.*
+
+**The Fundamental Issue – Did the ***Marinera*** Have a “Flag”?**
+
+*Marinera*
+
+On the claims as currently reported, the lawfulness of the seizure of the *Marinera* in terms of UNCLOS-based maritime law enforcement authorities turns primarily on whether the vessel was without nationality. This is because the law of the sea requires every vessel to hold a nationality – it’s “flag state,” which is the state in which it is registered. The flag state has jurisdiction over the vessel, and protection rights in relation to the vessel. If a vessel is without nationality, then this is tantamount to there being no jurisdiction over the vessel apart from (in a conduct management sense) the nationality jurisdiction of the crew members. This is unacceptable to states in that it creates the possibility of places where no state can exercise sufficient jurisdiction over wrongful activity – effectively, a place of impunity. Thus, when a warship (or other appropriately authorised sovereign immune vessel) comes across another vessel that it reasonably suspects of being without nationality, and that vessel is outside the territorial sea of all States, then that warship can exercise the UNCLOS Article 110 right of visit to board that vessel to determine the situation.
+
+The U.S. claim regarding the *Marinera *appears to be that she was without nationality at the time of its seizure, based on the fact that she had previously been registered in Guyana (as *Bella 1*) but that this registration had since been rescinded by Guyana. At the time of the first attempted boarding in December 2025, the [justification](https://edition.cnn.com/2025/12/21/politics/us-pursuing-tanker-near-venezuela) provided was that “[i]t is flying a false flag and under a judicial seizure order.” 
+
+But the jurisdictional situation then [shifted](https://edition.cnn.com/2026/01/10/politics/a-painted-flag-a-russian-bluff-and-an-18-day-chase-across-the-atlantic) with the Dec. 31, 2025 indications of Russian registration, and a diplomatic note from Russia asking the United States to cease pursuit – presumably on the basis that Russia was now the flag state of the vessel. However, within this altered context, the U.S. [administration’s](https://www.nbcnews.com/world/venezuela/us-seize-russia-flagged-oil-tanker-bella1-marinera-venezuela-rcna252738) explanation of the legal basis for the Jan. 7, 2026 boarding was more ambiguous than the original December 2025 claim: 
+
+White House press secretary Karoline Leavitt said at a news briefing that the Marinera was “deemed stateless” after “flying a false flag.”
+
+
+Another subsequent [report](https://edition.cnn.com/2026/01/10/politics/a-painted-flag-a-russian-bluff-and-an-18-day-chase-across-the-atlantic) explained that 
+
+Officials with knowledge of the matter said the Trump administration was unimpressed by the ship’s sudden change of flag and there was a desire to send a wider message that such a ploy would have no practical effect.
+
+
+It is not clear whether the “flying a false flag” assertion related to a claim that *Marinera* continued to use the Guyana flag after de-registration, or to a claim that the use of the Russian flag at the time of seizure was not effective. Nor has the being “unimpressed by the ship’s sudden change of flag” been unpacked or explained in any legal sense, although one commentator has [indicated](https://edition.cnn.com/2026/01/10/politics/a-painted-flag-a-russian-bluff-and-an-18-day-chase-across-the-atlantic) that it “would have set a bad precedent in a lot of ways if this ship would have been allowed to essentially re-flag mid journey and become a Russian vessel… They wanted to prevent this tactic from being repeated in the future.” There is also a [report](https://edition.cnn.com/2026/01/10/politics/a-painted-flag-a-russian-bluff-and-an-18-day-chase-across-the-atlantic) that “the Trump administration rejected the claim of a Russian flag and considered the vessel to be stateless, according to two sources familiar with the matter, paving the way for the vessel’s capture.” 
+
+The United States also [reportedly continued](https://www.bbc.com/news/live/cwynjdqgellt) to refer to the vessel as *Bella 1*. If this is accurate, it would lend support to an argument that the United States simply rejected the Russian claim to have registered *Marinera* and that the United States therefore continued to view the tanker as stateless based on the de-registration by Guyana. It is notable that statelessness also appears to be the basis for the U.K.’s support to the operation, with the U.K. Defense Secretary [stating](https://www.theguardian.com/uk-news/2026/jan/07/uk-helped-us-seize-russian-flagged-tanker-defence-ministry-says) that 
+
+The tanker … had changed its name “five times in the last five years” and had been falsely flying the flag of Guyana when it was called Bella 1 and arrived in the Caribbean.
+
+A stateless vessel, the defence secretary said, “may be lawfully intercepted and subjected to the law of the interdicting state.”
+
+
+By contrast, as reported by the BBC, [Russian](https://www.bbc.com/news/live/cwynjdqgellt) claims made at the time referred to the tanker being “granted temporary permission to sail under the State Flag of the Russian Federation, issued in accordance with Russian legislation and the norms of international law.” One [industry news site](https://www.marineinsight.com/shipping-news/russia-labels-u-s-seizure-of-russian-oil-tanker-marinera-as-piracy/) indicated that:
+
+By December 24, 2025, the ship had changed its name to
+
+Marineraand flag to Russia, showing a fresh coat of paint after getting a temporary registration from Russia’s Maritime Register out of Sochi.
+
+The Russian claim of jurisdiction and the U.S. counter-claim as to statelessness therefore raise three specific UNCLOS-governed issues: how a vessel may effectively change its registration; what is required for a “genuine link” to be recognized between a vessel and a flag State; and the question of a vessel’s status when it is viewed to be operating under “two flags.”
+
+**Was there a Changed Registration?**
+
+To be sure, changing registration mid-voyage is an unusual practice and one that is viewed with suspicion. As to registration processes, Jen Parker has correctly [observed](https://www.lowyinstitute.org/the-interpreter/maritime-boardings-international-law-venezuela-context):
+
+Article 92 [of UNCLOS] makes clear that a ship may not change its flag during a voyage except in cases of a genuine transfer of ownership or formal change of registry. Simply repainting a flag or asserting a new nationality mid-voyage has no legal effect. However, as technology has allowed for the registration of vessels online at sea, there is an open question about whether it was formally registered to Russia at the time of boarding.
+
+
+As noted above, and despite the ambiguous use of the term “temporary,” the reported Russian claim appears to be that a switch to Russian registry was completed in accordance with Russian domestic law and “the norms of international law.” On the sparse information available, it is therefore more likely than not that the *Marinera’s* registration by Russia would be considered, as a matter of international law, to be prima facie effective. This is in large part due to the second issue we need to assess – the law of the sea and its approach to “genuine link.” As Parker points out, the “genuineness” of the formal change of registry from Guyana to Russia is the key to whether the *Marinera*’s re-registration was effective. 
+
+**Genuine Link**
+
+States generally have wide latitude to determine what will be required as a matter of their domestic law to permit a ship to be registered in their State and, accordingly, fly their flag. Article 91(1) of UNCLOS provides that:
+
+Every State shall fix the conditions for the grant of its nationality to ships, for the registration of ships in its territory, and for the right to fly its flag. Ships have the nationality of the State whose flag they are entitled to fly.
+
+There must exist a genuine link between the State and the ship.
+
+The 1986 [UN Convention on Conditions for Registration of Ships](https://treaties.un.org/pages/viewdetails.aspx?src=treaty&mtdsg_no=xii-7&chapter=12&clang=_en) details a range of more granular aspects around the concept of “genuine link” (for example, in Articles 5 and 6), setting out detailed requirements for flag states regarding their obligations to register, monitor, and take measures in relation to vessels under their flag. However, this treaty has not entered into force (it has not achieved the number of states and percentage of world fleet tonnage entry-into-force requirements as set out in Article 19). The orthodox interpretation of “genuine link” thus remains as stated in the relevant jurisprudence of the International Tribunal on the Law of the Sea (ITLOS), which in practice sets a pretty low bar. In the [2014 Virginia G case](https://www.itlos.org/index.php?id=171), ITLOS explained:
+
+- The Tribunal considers that article 91, paragraph 1, third sentence, of the Convention requiring a genuine link between the flag State and the ship should not be read as establishing prerequisites or conditions to be satisfied for the exercise of the right of the flag State to grant its nationality to ships…
+- … As stated by the Tribunal in the M/V “SAIGA” (No. 2) Case, “[t]here is nothing in article 94 [of UNCLOS, concerning the duties of the flag state] to permit a State which discovers evidence indicating the absence of proper jurisdiction and control by a flag State over a ship to refuse to recognize the right of the ship to fly the flag of the flag State.”
+
+In other words, the concept of “genuine link” does not have a lot to say about what a State must require to permit a vessel to fly its flag, but is nevertheless quite clear that other states can’t use an argument about lax or scant flag state activity as a basis for asserting a lack of that genuine link.
+
+A fair conclusion – on the admittedly slim facts at hand, but noting the official Russian claim – is that (1) the Russian registration is likely to be, prima facie, effective, and (2) the United States’s apparent rejection of that Russian assertion of registration, on the implied basis of non-genuineness, is difficult to promote.
+
+It is of course possible that the United States has other information that undermines the Russian claim. But on the publicly available information at the moment, the Russian claim of flag state jurisdiction, and thus protection rights over the *Marinera*, based on fulfilment of Russian domestic law requirements for registration and the limited international law approach to genuine link, appears to be effective. 
+
+This then raises the third issue – could the effectiveness of this registration and Russia’s attendant assertion of jurisdiction and protection rights be overcome by a U.S. claim that the *Marinera* was in fact still registered by some other state as well as Russia at the time of the seizure?
+
+**A Two Flags Argument?**
+
+Article 92(2) of UNCLOS is very clear that:
+
+A ship which sails under the flags of two or more States, using them according to convenience, may not claim any of the nationalities in question with respect to any other State, and may be assimilated to a ship without nationality.
+
+
+The object of this provision is that a vessel in this situation is barred from claiming the protection of any of these flags, and thus becomes a vessel without nationality. The consequence is that the vessel is therefore liable to the right of visit (boarding without flag state consent) as per UNCLOS Article 110(1)(d) as a “ship without nationality.” This is where the ambiguity in U.S. statements complicates the analysis, because it is unclear which of the following (if either) is being asserted by the United States:
+
+(1) The *Marinera* was not properly registered by Russia, and had no other nationality, so she was a vessel without nationality simpliciter.
+
+(2) The *Marinera *was, at the time of the boarding, still registered by some other state as well as by Russia, and thus was a vessel without nationality by operation of Article 92(2).
+
+As already noted above, the vessel without nationality simpliciter argument will fall at the hurdle of an orthodox interpretation of the flag state’s (rather slim) obligations in terms of achieving the necessary Article 91(2) “genuine link,” including the conditions for an Article 92(1) “real transfer of ownership or change of registry” during a voyage.
+
+This would mean that the only “statelessness” justification the United States could make is the two flags argument. However, there has been no elaboration of any claim that the *Marinera* was operating under two flag registries at the time of the seizure, so this justification also seems likely to be ineffective.
+
+**Concluding Thoughts**
+
+It is possible, of course, that there has been a course of diplomatic dealings that remains confidential in nature that has muted Russia’s protest and given the United States (and UK) confidence to assert the statelessness of the *Marinera. *Russia’s reference to having given the vessel “temporary permission” to fly under its flag could, in such a scenario, be a face-saving means of asserting that the vessel was not in fact properly registered in Russia at the time of its boarding (or to allow the United States to claim as much). 
+
+The *Marinera* was [brought to the UK](https://www.bbc.com/news/articles/cr57v650380o) to take on fresh supplies, according to recent reporting. The UK’s involvement is significant. Given the UK recently stopped sharing intelligence with the United States that could be used in its lethal strikes against suspected drug ferrying vessels in the Caribbean and eastern Pacific, likely to [avoid complicity in internationally wrongful acts, it is significant that the UK joined with the United States in support of this action, and may suggest there is at least a colorable basis in international law for the seizure. ](https://www.justsecurity.org/124762/caribbean-strikes-intelligence-sharing/)
+
+On the other hand, the information available to date would give rise to a very different conclusion. Indeed, it is very difficult to see how the boarding and seizure of the *Marinera* was lawful in terms of UNCLOS-based maritime law enforcement authorization. This then raises a separate question as to the legal basis – the law of naval warfare (LoNW). We will examine this issue in our next essay.

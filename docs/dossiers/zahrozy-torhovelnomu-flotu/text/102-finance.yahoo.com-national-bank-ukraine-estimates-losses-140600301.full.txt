@@ -1,0 +1,371 @@
+URL:         https://finance.yahoo.com/economy/articles/national-bank-ukraine-estimates-losses-140600301.html
+Кінцевий:    https://finance.yahoo.com/economy/articles/national-bank-ukraine-estimates-losses-140600301.html
+Заголовок:   National Bank of Ukraine estimates losses from halt in maritime exports at billions of dollars
+Дата публ.:  2026-08-07
+Завантажено: 2026-10-07 09:37 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 882010
+Оригінал:    raw/102-finance.yahoo.com-national-bank-ukraine-estimates-losses-140600301.html
+sha256:      96705e49dc8bcc4d0deb91710d1e881b6be1eeca4e64b42d5f0ad1187f7f8776
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 3
+==============================================================================
+Best October Prime Day tech deals
+Best high-yield savings accounts
+Copyright © 2026 Yahoo. All rights reserved.
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+National Bank of Ukraine estimates losses from halt in maritime exports at billions of dollars
+Oops, something went wrong
+Skip to navigation
+Skip to main content
+Skip to right column
+Yahoo Finance
+Home
+News
+Finance
+Sports
+More
+News
+US
+Politics
+World
+Tech
+Science
+Originals
+Weather
+Newsletters
+Finance
+My portfolio
+News
+Markets
+Research
+Community
+Personal finance
+Videos
+Sports
+Fantasy Football 2026
+College football
+NFL
+NBA
+MLB
+NHL
+College basketball
+Soccer
+Fantasy
+Sports Betting
+NFL Odds
+Yahoo Sports AM
+World Cup
+Shopping
+October Prime Day deals
+Style
+Beauty
+Health
+Home and garden
+Tech
+Gift ideas
+Stores
+Shopping Guides
+Deals
+Toys and games
+Shopping lists
+General
+Entertainment
+Celebrity
+TV
+Movies
+Music
+How to Watch
+Videos
+Nonfiction Hotlist
+Games
+Life
+Health
+Parenting
+Pets
+Horoscopes
+Food
+Travel
+Autos
+Local
+October Prime Day tech deals
+Best October Prime Day tech deals
+Selected edition
+US
+English
+Sign in
+My Portfolio
+News
+Markets
+Stock market
+Crypto
+Real estate
+Magnificent 7
+Private markets
+Futures & Derivatives
+Originals
+Newsletters
+Economy & Policy
+Earnings
+Oil & gas
+Strait of Hormuz
+Tariffs
+Clean Energy
+Tech
+Aerospace & Defense
+Enterprise Cloud
+Pharma & Biotech
+Cybersecurity
+Exchange-Traded Funds
+Markets
+Stocks
+Most active
+Day gainers
+Day losers
+Trending
+Highest dividend
+Small cap
+Large cap
+Most expensive
+Highest beta
+Pink sheet
+Unusual volume
+Crypto
+Most active
+Day gainers
+Day losers
+Private companies
+52 week gainers
+Recently funded
+Most funded
+Options
+Day gainers
+Day losers
+Highest open interest
+Highest implied volatility
+Sectors
+Technology
+Financial services
+Consumer cyclical
+Communication services
+Healthcare
+Industrials
+Consumer defensive
+Energy
+Basic materials
+Real estate
+Utilities
+Treasury bonds
+Futures
+Currencies
+World indices
+ETFs
+Mutual funds
+Calendars
+Earnings
+IPOs
+Stock splits
+Economic events
+Research
+Screeners
+Stocks
+Most shorted
+Most active penny stocks
+Analyst strong buy
+Stock comparison
+NVDA vs INTC
+NVDA vs AMD
+GOOG vs AMZN
+AAPL vs MSFT
+TSLA vs RIVN
+Currency converter
+Advanced charts
+Community
+Personal Finance
+My Money
+BETA
+Credit cards
+Compare Credit Cards
+Best 0% APR cards
+Best balance transfer cards
+Best rewards cards
+Best travel cards
+Banking
+Best CD rates
+Best high-yield savings accounts
+Best money market accounts
+Best free checking accounts
+Best online banks
+Mortgage
+Best mortgage lenders
+Best mortgage rates
+Mortgage refinance
+First time homebuyer
+Mortgage payment calculator
+Home affordability calculator
+Insurance
+Find car insurance
+Types of car insurance
+Find life insurance
+Taxes
+How to file
+Tax brackets and rates
+Child tax credit
+Tax extension
+Tax refund status
+Student loans
+Federal vs. private
+How to apply
+FAFSA 2026-27
+Student loan assistance
+Personal loans
+Best personal loans
+Improve credit score
+How to get approved
+Calculators
+All Calculators
+50/30/20 Budget Calculator
+Compound Interest Calculator
+Savings Calculator
+Savings Goal Calculator
+Social Security Calculator
+Watch
+Watch Now
+Shows
+The 8:30
+Sozzi Unleashed
+The Daily Wolf
+Market Hang
+In the Loop
+Built Different
+How They Run
+Power Players
+The Big Idea
+Trader Talk
+Latest
+Must-watch Interviews
+Fed Watch
+ETF Report
+FA Corner
+...
+Network
+U.S. markets open in 3h 53m
+US Markets
+US Markets
+Europe Markets
+Asia Markets
+Cryptocurrencies
+Rates
+Commodities
+Currencies
+U.S. markets open in 3h 53m
+S&P Futures
+7,868.50
+-5.50
+-0.07%
+Dow Futures
+51,733.00
+-83.00
+-0.16%
+Nasdaq Futures
+31,368.00
+-115.25
+-0.37%
+Russell 2000 Futures
+2,838.20
+-10.00
+-0.35%
+10-Yr Bond
+5.27
+-0.04
+-0.79%
+VIX
+15.32
++0.31
++2.06%
+Gold
+4,148.40
+-38.70
+-0.92%
+Bitcoin USD
+83,681.00
+-2,289.67
+-2.66%
+Crude Oil Nov 26
+89.62
++0.18
++0.20%
+ADVERTISEMENT
+National Bank of Ukraine estimates losses from halt in maritime exports at billions of dollars
+Semen Ruban
+August 7, 2026
+1 min read
+Direct losses from lost export revenue in the second half of 2026, resulting from the suspension of maritime exports from Ukraine, will exceed US$2 billion.
+Source:
+National Bank of Ukraine (NBU)
+inflation report
+Quote:
+"As in previous phases of the blockade, Ukraine is redirecting cargo flows to alternative routes: rail, road transport and Danube ports."
+Details:
+Meanwhile, the capacity of these routes is insufficient: while Ukraine typically exported 4-4.5 million tonnes of agricultural produce per month, alternative routes can only handle 2.5 million tonnes per month.
+This applies to the August-October period, as water levels on the Danube have fallen due to drought, limiting its capacity. Export volumes will increase from November, the NBU says.
+Redirecting logistics will increase storage and transport costs for the agricultural sector; direct revenue losses are expected to reach US$2 billion.
+Meanwhile, the NBU expects these volumes to be exported during the first half of 2027, offsetting the negative effect.
+"Thanks to well-developed alternative routes and farmers' experience, the situation remains more manageable than during the blockade of 2022," the NBU concludes.
+Background:
+The movement of vessels into Ukraine's Black Sea ports was suspended on 23 July due to the threat of Russian attacks. This followed weeks of aerial attacks on Ukraine's Black Sea ports.
+Due to Russian pressure on Ukraine's maritime corridor, Ukrainian traders have begun
+redirecting some of their wheat and other cargo towards the Danube
+, although most exporters are not prepared to compensate for the loss of the sea route at any cost and are taking a wait-and-see approach
+Subscribe on
+Patreon
+to back our journalism long-term.
+Terms
+and
+Privacy Policy
+Privacy Dashboard
+More Info
+Recommended Stories
+Copyright © 2026 Yahoo. All rights reserved.
+Trending Topics
+Dow Jones
+S&P 500
+DAX Index
+Nvidia
+Tesla
+DJT
+Tariffs
+Explore Further
+Mortgages
+Credit Cards
+Sectors
+Crypto Heatmap
+Financial News
+About
+Data Disclaimer
+Help
+Feedback
+Sitemap
+Licensing
+What's New
+About Our Ads
+Terms
+and
+Privacy Policy
+Privacy Dashboard
+More Info
+ADVERTISEMENT
+Edit your Dock
+More News
+Terms
+and
+Privacy Policy
+Privacy Dashboard
+Ad Terms
+Feedback
+More Info

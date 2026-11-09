@@ -1,0 +1,841 @@
+URL:         https://en.wikipedia.org/wiki/2026_Iran_war_fuel_crisis
+Кінцевий:    https://en.wikipedia.org/wiki/2026_Iran_war_fuel_crisis
+Заголовок:   2026 Iran war fuel crisis - Wikipedia
+Дата публ.:  2026-03-30
+Завантажено: 2026-10-07 09:39 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 838742
+Оригінал:    raw/119-en.wikipedia.org-2026_iran_war_fuel_crisis.html
+sha256:      5d6fe6cdd49311e5e28af9bdc028150c5dbe479de59705c7d4821d9c8b503158
+Витяг:       trafilatura
+
+==============================================================================
+# 2026 Iran war fuel crisis
+
+
+| This article needs to be  updated.(June 2026) | 
+
+The **2026 Iran war fuel crisis** is a worldwide fuel crisis caused by the [war between Iran and the U.S.-Israel coalition](https://en.wikipedia.org/wiki/2026_Iran_war). The [closure of the Strait of Hormuz](https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis), through which over 20% of the world's oil trade passes, and attacks on energy infrastructure in Iran and several [Gulf Cooperation Council](https://en.wikipedia.org/wiki/Gulf_Cooperation_Council) countries led to a large disruption in global oil supplies. [2] The disruption led to global oil prices rising
+
+and caused fuel shortages in countries which imported most of their fuel from the
+
+[[3]](#cite_note-cnbc-80-3)[Persian Gulf](https://en.wikipedia.org/wiki/Persian_Gulf)region. Much of the world has been affected by
+
+[panic buying](https://en.wikipedia.org/wiki/Panic_buying)and severe disruption to the distribution of
+
+[petroleum products](https://en.wikipedia.org/wiki/Petroleum_products),
+
+[liquefied natural gas](https://en.wikipedia.org/wiki/Liquefied_natural_gas)(LNG), and
+
+[urea](https://en.wikipedia.org/wiki/Urea)used for
+
+[fertiliser](https://en.wikipedia.org/wiki/Fertiliser).
+
+The economies of most countries are expected to be adversely affected by the crisis, leading to [inflation](https://en.wikipedia.org/wiki/Inflation) and heightened risks of [stagflation](https://en.wikipedia.org/wiki/Stagflation) and [recession](https://en.wikipedia.org/wiki/Recession).[[4]](#cite_note-economist-1-4) [5] As of April 2026 there were ongoing concerns about 
+
+[energy security](https://en.wikipedia.org/wiki/Energy_security)as well as
+
+[food security](https://en.wikipedia.org/wiki/Food_security), related to fertiliser shortages and costs.
+
+[Brent](https://en.wikipedia.org/wiki/Brent_Crude) prices initially surged to a peak of approximately $118 in late March 2026 before declining to around $70 by July 1, then rebounded to over $100 by late July and fluctuated between $87 and $97 through August. [6] As of early September 2026, price surged up to $109 as renewed attacks on shipping and energy infrastructure reversed earlier gains.
+
+
+[[7]](#cite_note-7)By June 2026, the yearly inflation rate is 3.53%, with the [consumer price index](https://en.wikipedia.org/wiki/Consumer_price_index) decreasing by 0.42% and weekly earnings increasing by 0.77% since May 2026. [8] In July, the 
+
+[IMF](https://en.wikipedia.org/wiki/International_Monetary_Fund)revised its world
+
+[GDP](https://en.wikipedia.org/wiki/Gross_domestic_product)growth rate to 3% for 2026 and 3.4% in 2027.
+
+According to the same report, the effects of the oil supply shock on the world economy are unevenly distributed, weighing more on energy importers and vulnerable economies.
+
+[[9]](#cite_note-weo-update-9)
+
+[[9]](#cite_note-weo-update-9)## Overview
+
+[[edit](/w/index.php?title=2026_Iran_war_fuel_crisis&action=edit§ion=1)]
+
+The 2026 Iran war caused immediate volatility in energy markets, with Brent crude oil prices surging 10–13% to around $80–82 per barrel by 2 March 2026, [3] and dropping back to near $70 by July, 
+
+[2026](https://www.marketwatch.com/investing/future/brn00?countrycode=uk). The conflict has caused the restriction of nearly all traffic through the Strait of Hormuz, leading to what the
+
+[International Energy Agency](https://en.wikipedia.org/wiki/International_Energy_Agency)has characterised as the "largest supply disruption in the history of the global oil market".
+
+
+[[11]](#cite_note-nyt-echoes-11)The head of the IEA described the situation caused by the war as the "greatest global energy security challenge in history".
+
+[[2]](#cite_note-omr-2)
+
+[[12]](#cite_note-12)Iran's closure of the [Strait of Hormuz](https://en.wikipedia.org/wiki/Strait_of_Hormuz) disrupted 20% of global oil supplies and significant [liquefied natural gas](https://en.wikipedia.org/wiki/Liquefied_natural_gas) (LNG) volumes.[[13]](#cite_note-13) [14] Analysts have forecast that prices could reach $100 per barrel if disruptions persisted, potentially adding 0.8% to global inflation.
+
+
+[[15]](#cite_note-15)Even after Iran and the United States [announced a ceasefire](https://en.wikipedia.org/wiki/2026_Iran_war_ceasefire) on 8 April, ship traffic through the Strait of Hormuz remained far below pre-war levels.[[16]](#cite_note-guardian-ceasefire-16)[[17]](#cite_note-cbs-ceasefire-17)
+
+Exports from the region have been typically going to Asian countries, with China, India, Japan, and South Korea accounting for 75% of oil and 59% of LNG exports.[[18]](#cite_note-18) [19] However, Singapore and Taiwan depend more on Qatari LNG, while Pakistan and Bangladesh are more price sensitive.
+
+
+[[20]](#cite_note-20)Qatari state-owned oil and gas company [QatarEnergy](https://en.wikipedia.org/wiki/QatarEnergy) announced on 3 March that it was declaring [Force Majeure](https://en.wikipedia.org/wiki/Force_Majeure) on its contracts with buyers, and internal sources, according to [Reuters](https://en.wikipedia.org/wiki/Reuters), said that it would soon be shutting down gas liquefication, as LNG tankers could not leave the Gulf, and that restarting it would take weeks. [21] These announcements caused increases in world gas prices, which analysts said was a part of the 
+
+[Iranian Government](https://en.wikipedia.org/wiki/Iranian_Government)'s plan to apply pressure on the world to stop the war.
+
+On 6 March, Qatar warned that if the war continues, other Gulf energy producers may be forced to halt exports and declare Force Majeure.
+
+[[22]](#cite_note-22)Also on 6 March, it was reported that according to satellite imagery analysis by both
+
+[[23]](#cite_note-23)[Bloomberg](https://en.wikipedia.org/wiki/Bloomberg_News)and the Energy Economics and Society Research Institute in
+
+[Tokyo](https://en.wikipedia.org/wiki/Tokyo), that
+
+[Ras Laffan](https://en.wikipedia.org/wiki/Ras_Laffan_gas_processing_plant), the main gas facility in Qatar, appears not to have been damaged before the "unprecedented shutdown" which sent fuel prices higher.
+
+The United States, buffered by domestic production, faced less direct impact but saw petrol prices rise 5–10 cents per gallon daily.
+
+[[24]](#cite_note-24)
+
+[[25]](#cite_note-NPR-25)On 18 March, Iran hit Qatar's inactive [Ras Laffan Industrial City](https://en.wikipedia.org/wiki/Ras_Laffan_Industrial_City) LNG complex, causing a 17% reduction in Qatar's LNG production capacity. [26] The damages from this attack would take 3–5 years to fix.
+
+Consequently, LNG spot prices in Asia increased by over 140 %.
+
+[[27]](#cite_note-27)
+
+[[28]](#cite_note-28)The impacts of the conflict are similar to the [1970s energy crisis](https://en.wikipedia.org/wiki/1970s_energy_crisis), including acute supply shortages, currency volatility, inflation, and heightened risks of [stagflation](https://en.wikipedia.org/wiki/Stagflation) and [recession](https://en.wikipedia.org/wiki/Recession).[[11]](#cite_note-nyt-echoes-11)[[29]](#cite_note-El_Safty-2026-29)[[30]](#cite_note-30)[[31]](#cite_note-Reuters-31)
+
+According to the International Energy Agency's World Energy Investment 2026 report, the crisis was prompting a reshaping of global energy investment and accelerating diversification away from Middle Eastern supply routes. The agency projected total energy investment of $3.4 trillion in 2026, with oil investment falling for a third consecutive year to below $500 billion, while natural gas investment rose to $330 billion—its highest in a decade—driven by new LNG projects in the United States and Qatar. Coal investment was projected to reach $180 billion, the highest since 2012. IEA Executive Director Fatih Birol described the situation as "the largest energy security crisis the world has ever faced", drawing a parallel with the oil shocks of the 1970s.[[32]](#cite_note-32)
+
+Countries such as Australia and India have more sufficient reserves but face challenges with panic buying.[[33]](#cite_note-ndtv-fuel-panic-33)[[34]](#cite_note-34)[[4]](#cite_note-economist-1-4)[[35]](#cite_note-35) [36] Economies most reliant on the strait for energy imports are in Asia, with Europe also viewing the strait as vital for its energy security. The initial disruption of petroleum is expected to affect Asia the most, but Europe is likely to be hit hard in the medium-to-long term, and the UK is expected to be the worst-hit major economy.
+
+
+[[37]](#cite_note-37)
+
+[[38]](#cite_note-38)The British think tank The Food Policy Institute has warned of long-term increases in food prices due to disruption in fuel and fertiliser markets. [39] The Strait of Hormuz is central to the global fertiliser trade. Over 30 per cent of global 
+
+[urea](https://en.wikipedia.org/wiki/Urea), which is widely used and produced from natural gas – is exported from Gulf countries through the Strait. Much of the cost of producing some foods, including corn and wheat, is in the cost of fertiliser, and this cost, along with rising energy costs, makes basic food production very expensive. Much of the Gulf states' food is imported – for example, over 90 per cent in Qatar. These factors have led to fears of
+
+[food insecurity](https://en.wikipedia.org/wiki/Food_security)not only in Gulf states, but around the world.
+
+
+[[40]](#cite_note-40)
+
+[[41]](#cite_note-mpherson-41)As of 28 March, analysts fear that another hard oil crisis is unfolding that is expected to be very decisive to the global economy.[[42]](#cite_note-42)
+
+Oil prices increased on September 13 due to market stability after recent declines. Investors are awaiting potential U.S.-Iran talks at the UN General Assembly. Analysts believe the price rise may result from traders adjusting their positions rather than a change in market trends.[[43]](#cite_note-43)
+
+### Airlines
+
+[[edit](/w/index.php?title=2026_Iran_war_fuel_crisis&action=edit§ion=2)]
+
+Airlines are being affected by the shortage of [jet fuel](https://en.wikipedia.org/wiki/Jet_fuel) in parts of Asia and Oceania. Many airlines in southeast Asia and Oceania are either adding surcharges to fares or cancelling flights or routes. Australia, which sources most of its jet fuel from China, followed by Singapore and South Korea, has 30 days' worth of jet fuel held in reserve.[[44]](#cite_note-whiting-44)
+
+South Korea makes the refined product and exports it around the region, but it relies mostly on crude arriving via the Gulf, so it is considering limiting its exports. Korean Air is the country's third airline to enter "emergency mode", at this point focusing only on internal cost-reduction measures.[[44]](#cite_note-whiting-44)
+
+## Africa
+
+[[edit](/w/index.php?title=2026_Iran_war_fuel_crisis&action=edit§ion=3)]
+
+### Algeria
+
+[[edit](/w/index.php?title=2026_Iran_war_fuel_crisis&action=edit§ion=4)]
+
+Algeria is an [oil and natural gas producer](https://en.wikipedia.org/wiki/Energy_in_Algeria), and one of the [European Union](https://en.wikipedia.org/wiki/European_Union)'s largest suppliers of LNG. It has entered talks with Spain and Italy, as well as fielding enquiries from other countries, including Vietnam. It could benefit economically.[[45]](#cite_note-wekesa-45)
+
+### Egypt
+
+[[edit](/w/index.php?title=2026_Iran_war_fuel_crisis&action=edit§ion=5)]
+
+Egypt relies on imported oil, so the government has introduced measures to keep fuel usage down, including the mandatory closure of retail businesses at 9pm for a month, dimming street lights and roadside advertisements. It has slowed down some large government projects, and increased the price of both petrol and public transport fares. Non-essential workers have been ordered to work from home one day per week.[[45]](#cite_note-wekesa-45)
+
+### Ethiopia
+
+[[edit](/w/index.php?title=2026_Iran_war_fuel_crisis&action=edit§ion=6)]
+
+Ethiopia is experiencing a severe fuel crisis, with over 180,000 tonnes of fuel undelivered in recent weeks. This has halved the country's daily diesel supply from 9.2 million to 4.5 million litres, according to Minister Kassahun Gofe. [46] In 
+
+[Ethiopia](https://en.wikipedia.org/wiki/Ethiopia), security institutions have been prioritised, along with, major government projects, key industries, and essential goods production. There are fuel restrictions, and petrol stations are prioritising public transport. Fuel supplies to the
+
+[Tigray Region](https://en.wikipedia.org/wiki/Tigray_Region)have been completely suspended.
+
+Addis Ababa residents have reported that, “Over the past month, prices of many commodities have increased significantly ...bottled water, cooking oil, eggs and other essentials have risen by nearly 40 per cent.”
+
+[[47]](#cite_note-bbcafrica-47)
+
+[[48]](#cite_note-48)### Ghana
+
+[[edit](/w/index.php?title=2026_Iran_war_fuel_crisis&action=edit§ion=7)]
+
+Ghana, which has limited refining capacity, relies on imported refined products, but is supplied by a range of producers, including Russia.[[45]](#cite_note-wekesa-45)
+
+### Kenya
+
+[[edit](/w/index.php?title=2026_Iran_war_fuel_crisis&action=edit§ion=8)]
+
+Kenya is badly affected by the war, as it sources all its oil from the Middle East. There has been panic buying of petrol, but the [Energy and Petroleum Regulatory Authority](https://en.wikipedia.org/wiki/Energy_and_Petroleum_Regulatory_Authority) (EPRA) has maintained stability in prices for 30 days. The war has also affected some exports, with ships taking longer to reach their destination, so the Kenya Ports Authority has prioritised the export of perishable products such as tea, flowers, and avocados. [45] The fuel crisis has greatly impacted Kenya's important 
+
+[floriculture](https://en.wikipedia.org/wiki/Floriculture)industry.
+
+
+[[47]](#cite_note-bbcafrica-47)The EPRA announced record high fuel price increases on 15 April. [49] This resulted in public transport operators hiking their fares by roughly 25% dependent on various factors.
+
+
+[[50]](#cite_note-50)These actions are expected to raise inflation and increase prices for basic goods and important services.
+
+[[51]](#cite_note-51)
+
+[[52]](#cite_note-52)### Mauritius
+
+[[edit](/w/index.php?title=2026_Iran_war_fuel_crisis&action=edit§ion=9)]
+
+Mauritius is dependent on oil imports for generating power, and, after a shipment of oil had not arrived as scheduled on 30 March, only 21 days of stock remained in the country. The government arranged for more expensive alternative fuel to be shipped from Singapore, and imposed restrictions to reduce wastage of fuel.[[47]](#cite_note-bbcafrica-47)
+
+### Namibia
+
+[[edit](/w/index.php?title=2026_Iran_war_fuel_crisis&action=edit§ion=10)]
+
+The Namibian Government reduced fuel levies by 50% for at least three months, using its National Energy Fund to stabilise prices until the end of June. Gas and oil exploration continues in the country, which expects to start producing oil by 2030.[[45]](#cite_note-wekesa-45)
+
+### Nigeria
+
+[[edit](/w/index.php?title=2026_Iran_war_fuel_crisis&action=edit§ion=11)]
+
+Nigeria is a [major oil producer](https://en.wikipedia.org/wiki/Petroleum_industry_in_Nigeria), and its large [Dangote refinery](https://en.wikipedia.org/wiki/Dangote_refinery) has increased production to help meet world shortages. [45] Despite the government and oil companies profiting from this, ordinary citizens are not expected to benefit immediately, due to transport cost increases.
+
+
+[[47]](#cite_note-bbcafrica-47)### South Africa
+
+[[edit](/w/index.php?title=2026_Iran_war_fuel_crisis&action=edit§ion=12)]
+
+Saudi Arabia supplies most of South Africa's fuel. [53] The 
+
+[South African Government](https://en.wikipedia.org/wiki/South_African_Government)has said that there was no shortage of fuel in the country, but prices have increased and some petrol stations have introduced their own rationing of diesel. With more traffic potentially taking the route around the
+
+[Cape of Good Hope](https://en.wikipedia.org/wiki/Cape_of_Good_Hope), and ships needing to fuel along the African coast, some ports such as
+
+[Walvis Bay](https://en.wikipedia.org/wiki/Walvis_Bay),
+
+[Cape Town](https://en.wikipedia.org/wiki/Cape_Town), and
+
+[Durban](https://en.wikipedia.org/wiki/Durban)may come under increased pressure, but also benefit from the diversion.
+
+
+[[47]](#cite_note-bbcafrica-47)### Uganda
+
+[[edit](/w/index.php?title=2026_Iran_war_fuel_crisis&action=edit§ion=13)]
+
+At the end of March, Uganda only had a few weeks' worth of stock.[[53]](#cite_note-1news-53)
+
+### South Sudan
+
+[[edit](/w/index.php?title=2026_Iran_war_fuel_crisis&action=edit§ion=14)]
+
+South Sudan has large oil reserves, but most of it is exported and it relies on imports for refined products. Because the country generates 96% of its electricity from oil, the government has started rationing electricity in the capital, [Juba](https://en.wikipedia.org/wiki/Juba), which affects businesses, and rolling power cuts are expected to continue.[[45]](#cite_note-wekesa-45)[[47]](#cite_note-bbcafrica-47)
+
+### Zimbabwe
+
+[[edit](/w/index.php?title=2026_Iran_war_fuel_crisis&action=edit§ion=15)]
+
+Zimbabwe has announced plans to scrap some taxes on fuel imports, which rose 40% in under a month. It has increased the amount of ethanol in its petrol from 5% to 20%.[[45]](#cite_note-wekesa-45)[[47]](#cite_note-bbcafrica-47)
+
+## Americas
+
+[[edit](/w/index.php?title=2026_Iran_war_fuel_crisis&action=edit§ion=16)]
+
+### North America
+
+[[edit](/w/index.php?title=2026_Iran_war_fuel_crisis&action=edit§ion=17)]
+
+Fuel prices across North America have gone up significantly, beginning in early March, due to the market conditions shifting rapidly as the crisis continues. Liquefied natural gas prices have largely remained the same since the beginning of the energy crisis due to the lack of connectivity in the North American liquefied natural gas market, with minimal pipelines and export points. Gas prices have risen $1.16 a gallon in the United States since the start of the war, with prices expected to hit $5.00 a gallon if the Strait of Hormuz is not opened by mid-April. [58] In California, a state heavily reliant on energy imports from Asia,
+
+gasoline prices surpassed $6 a gallon in seven counties as of March 30.
+
+[[59]](#cite_note-59)In Canada, gas prices have risen approximately 30 percent from March to April.
+
+[[60]](#cite_note-60)
+
+[[61]](#cite_note-61)[Jet fuel](https://en.wikipedia.org/wiki/Jet_fuel)in North America has spiked 95 percent since the war began, causing multiple airlines to raise prices for
+
+[checked baggage](https://en.wikipedia.org/wiki/Checked_baggage). Shipping services, such as the
+
+[United States Postal Service](https://en.wikipedia.org/wiki/United_States_Postal_Service),
+
+[Amazon](https://en.wikipedia.org/wiki/Amazon_(company)), and
+
+[FedEx](https://en.wikipedia.org/wiki/FedEx)implemented fuel surcharges.
+
+
+[[62]](#cite_note-62)On 24 April, U.S. exports of crude and petroleum products rose to nearly 12.9 million barrels a day.[[63]](#cite_note-63)
+
+On 2 May 2026, [Spirit Airlines](https://en.wikipedia.org/wiki/Spirit_Airlines) ceased all operations citing rising fuel costs despite the Trump administration's attempts to save the company.[[64]](#cite_note-64)
+
+In September 2026, Costco began rationing motor oil to two boxes per customer per week. [65] The 
+
+[Strategic Petroleum Reserve](https://en.wikipedia.org/wiki/Strategic_Petroleum_Reserve_(United_States))fell to its lowest levels since November 1982 as 172 million barrels were planned to be drawn down.
+
+
+[[66]](#cite_note-66)According to the AAA, average diesel prices in the United States reached $6.53 on 22 September, up 77% from a year ago.[[67]](#cite_note-67)
+
+## Asia
+
+[[edit](/w/index.php?title=2026_Iran_war_fuel_crisis&action=edit§ion=18)]
+
+Asian countries are the primary destination for crude oil from the Gulf, with most of it travelling via the Strait of Hormuz. In 2024, around 84 per cent of the crude oil and 83 per cent of LNG passing through the Strait went to Asia; nearly 70 per cent of the oil went to China, India, Japan, and South Korea. [68] Governments and businesses across the region have been imposing measures to reduce the impact of the fuel crisis, and among the worst hit countries in the region include Pakistan, Bangladesh, and Vietnam.
+
+
+[[68]](#cite_note-hale-68)
+
+[[69]](#cite_note-69)### Bangladesh
+
+[[edit](/w/index.php?title=2026_Iran_war_fuel_crisis&action=edit§ion=19)]
+
+Bangladesh is among the worst hit economies and is projected to have a severe impact on GDP growth inducing recession-like conditions.[[70]](#cite_note-70) [71] There have been fears of unrest due to the fuel crisis.
+
+
+[[72]](#cite_note-72)
+
+[[73]](#cite_note-73)
+
+[[74]](#cite_note-74)Universities were closed in advance for the upcoming [Eid al-Fitr](https://en.wikipedia.org/wiki/Eid_al-Fitr) holidays in order to conserve electricity and fuel. [75] All shopping centres and commercial establishments have also been directed to shut down by 8.00 pm.
+
+This was later revised to 6 pm, before being increased to 7 pm and extended the restrictions to cultural events.
+
+[[76]](#cite_note-76)
+
+[[77]](#cite_note-77)
+
+[[78]](#cite_note-78)Bangladesh relies on coal for much of its power, and has ramped up power generation from coal as well as importing more power created from coal.[[79]](#cite_note-ratcliffe-79)
+
+### China
+
+[[edit](/w/index.php?title=2026_Iran_war_fuel_crisis&action=edit§ion=20)]
+
+As of March 2025, the government is estimated to have 401 million barrels stored in above-ground facilities and 668 million barrels in above-ground commercial storage. [80] By December 2025, United States 
+
+[Energy Information Administration](https://en.wikipedia.org/wiki/Energy_Information_Administration)estimated Chinese held around 1.4 billion barrels of crude oil in reserve from both government-held and state-owned national oil companies (NOC) inventories, which are both part of the strategic reserves.
+
+Outside of the official strategic reserves, Chinese corporate and commercial refineries also have several hundred million barrels of crude oil.
+
+[[81]](#cite_note-81)China hiked prices serveal times during the war, but due to queue forming in the gas stations in multiple Chinese cities, the
+
+[[82]](#cite_note-nyt_260615-82)[Chinese government](https://en.wikipedia.org/wiki/Chinese_government)reduced its planned fuel price hikes.
+
+
+[[83]](#cite_note-bbc-china-price-83)China's large strategic reserve helped the country insulate itself significantly from the [2026 Iran war](https://en.wikipedia.org/wiki/2026_Iran_war) and ensuing global fuel crisis.[[84]](#cite_note-84)[[85]](#cite_note-85)[[86]](#cite_note-86)
+
+By late June 2026, China's strategic petroleum reserve (SPR) remained nearly unchanged after the Iran war. [87] To ensure domestic supplies without using strategic reserve, China halted its supplies of refined oil products to other countries.
+
+
+[[87]](#cite_note-nyt_260621-87)China is a major [oil refiner](https://en.wikipedia.org/wiki/Oil_refiner) and exporter of petroleum products. On 5 March, major Chinese refiners, including [China Petroleum & Chemical](https://en.wikipedia.org/wiki/China_Petroleum_&_Chemical) (Sinopec) and Rongsheng Petrochemical Co Ltd, were ordered by the government to stop accepting new fuel export contracts. [Jet fuel](https://en.wikipedia.org/wiki/Jet_fuel) refuelling for international flights and supplies to [Hong Kong](https://en.wikipedia.org/wiki/Hong_Kong) and [Macau](https://en.wikipedia.org/wiki/Macau) are exempt from this guidance.[[88]](#cite_note-reuters-china-refine-88)[[89]](#cite_note-bloomberg-china-refine-89)
+
+During the crisis, China primarily tapped into its corporate stockpiles, outside its official SPR of 1.23 billion barrels, to supply domestic needs. [87] There could also be other previously unreported reserves in China.
+
+These corporate reserves can be used at one million barrels per day for a year. China's growing
+
+[[90]](#cite_note-vox-90)[renewable energy](https://en.wikipedia.org/wiki/Renewable_energy)sector and
+
+[electric vehicle](https://en.wikipedia.org/wiki/Electric_vehicle)industry have also reduced the demand for petroleum products.
+
+
+[[82]](#cite_note-nyt_260615-82)Although China restricted overall exports of refined oil products during the war, it still supplied limited volumes to selected partner countries, either due to friendly relations or to secure diplomatic leverage.  The conflict has also provided China with an opportunity to expand its [renewable energy](https://en.wikipedia.org/wiki/Renewable_energy) technologies in Asia.[[91]](#cite_note-91)
+
+### India
+
+[[edit](/w/index.php?title=2026_Iran_war_fuel_crisis&action=edit§ion=21)]
+
+India imports around half of its crude oil from Middle Eastern countries. [92] On 27 March, the 
+
+[Indian government](https://en.wikipedia.org/wiki/Indian_government)reduced
+
+[excise duties](https://en.wikipedia.org/wiki/Excise_Duty_(India))on petrol and diesel by
+
+[₹](https://en.wikipedia.org/wiki/Indian_rupee)10 (10¢ US) per litre to keep fuel prices from rising.
+
+
+[[93]](#cite_note-cnbc-india-tax-93)Unfounded panic about shortages led to people forming long queues for petrol.
+
+[[94]](#cite_note-firstpost-india-tax-94)
+
+[[33]](#cite_note-ndtv-fuel-panic-33)India is the 4th largest country in the world by oil refining capacity and throughput. [95] Indian refiners started buying petroleum from Russia as the war disrupted supplies from the Middle East.
+
+To ensure domestic availability of fuel, the government raised export duties to ₹21.5 (22¢ US) per litre on diesel and to ₹29.5 (31¢ US) per litre on aviation fuel.
+
+[[96]](#cite_note-reuters-india-russia-96)
+
+[[93]](#cite_note-cnbc-india-tax-93)
+
+[[94]](#cite_note-firstpost-india-tax-94)[Liquefied petroleum gas](https://en.wikipedia.org/wiki/Liquefied_petroleum_gas) (LPG) is the main cooking fuel for households and restaurants in India. 60% of India's LPG demand is fulfilled by imports, most of which pass through the Hormuz Strait. [97] It was the first fuel to be affected by the crisis, leading to long queues and delayed deliveries.
+
+
+[[98]](#cite_note-bbc-lpg-india-98)Many people are using fuels like
+
+[[99]](#cite_note-indiatoday-lpg-99)[kerosene](https://en.wikipedia.org/wiki/Kerosene), coal and wood as stopgap measures.
+
+In the month of March 2026, India installed piped gas connections to 580,000 new households.
+
+[[100]](#cite_note-bbc-india-fuel-100)Piped gas in India is mainly sourced from
+
+[[101]](#cite_note-retures-pipe-india-101)[domestic gas fields](https://en.wikipedia.org/wiki/Oil_and_gas_industry_in_India), therefore its supply was unaffected by the war.
+
+
+[[102]](#cite_note-intoday-pipedgas-102)Nearly 75% of [electricity in India](https://en.wikipedia.org/wiki/Electricity_in_India) is generated from coal. India plans to increase coal power to meet high energy demands in the summer amid the oil and gas crisis.[[103]](#cite_note-reuters-coal-india-103)[[79]](#cite_note-ratcliffe-79)
+
+In [Gujarat](https://en.wikipedia.org/wiki/Gujarat) state, the gas shortage has led to its ceramics industry shutting down. [97] In 
+
+[Mumbai](https://en.wikipedia.org/wiki/Mumbai), many restaurants shut down fully or partially in early March, due to the lack of cooking gas.
+
+
+[[97]](#cite_note-ewe-97)### Indonesia
+
+[[edit](/w/index.php?title=2026_Iran_war_fuel_crisis&action=edit§ion=22)]
+
+Indonesia, although [an oil producer itself](https://en.wikipedia.org/wiki/Energy_in_Indonesia#Oil), imports around a third of its supply. As the largest economy in [Southeast Asia](https://en.wikipedia.org/wiki/Southeast_Asia), it keeps a fuel reserve of around 22 days.[[68]](#cite_note-hale-68)
+
+The shortage in fuel imports have caused prices for unsubsidized fuel to increase by up to 32%, as well as a surge in spending for fuel, electricity, and fertilizers subsidies to double that of last year.[[104]](#cite_note-104)
+
+### Japan
+
+[[edit](/w/index.php?title=2026_Iran_war_fuel_crisis&action=edit§ion=23)]
+
+As of February 2026, 94.2% of Japan's crude oil imports came from the Middle East. [105] However, the impacts of the oil supply disruption due to the strait closure were partly mitigated by its large stockpiles.
+
+
+[[106]](#cite_note-106)On 16 March, the [Government of Japan](https://en.wikipedia.org/wiki/Government_of_Japan) started releasing 80 million barrels of oil, equivalent to 15 days of domestic demand, from its strategic reserves.[[107]](#cite_note-japan-oil-release-107)
+
+### Myanmar
+
+[[edit](/w/index.php?title=2026_Iran_war_fuel_crisis&action=edit§ion=24)]
+
+Myanmar, which has experienced [civil war since 2021](https://en.wikipedia.org/wiki/Myanmar_civil_war_(2021–present)), has restricted private vehicle use to alternate days, and there are long queues at petrol stations. [97] The country is lacking in refineries, and it relies on oil products imported from Thailand, Vietnam, and 
+
+[Singapore](#Singapore).
+
+
+[[68]](#cite_note-hale-68)### Nepal
+
+[[edit](/w/index.php?title=2026_Iran_war_fuel_crisis&action=edit§ion=25)]
+
+The executive director of the state-run [Nepal Oil Corporation](https://en.wikipedia.org/wiki/Nepal_Oil_Corporation) announced that, as of March 13, authorities would refill only half of consumers' empty cylinders to lengthen liquid petroleum stockpiles.[[108]](#cite_note-108)
+
+### Philippines
+
+[[edit](/w/index.php?title=2026_Iran_war_fuel_crisis&action=edit§ion=26)]
+
+| This article needs to be  updated.(September 2026) | 
+
+Since late February 2026, the closure of the [Strait of Hormuz](https://en.wikipedia.org/wiki/Strait_of_Hormuz) during the [2026 Iran war](https://en.wikipedia.org/wiki/2026_Iran_war) disrupted roughly 20 percent of the world's oil supply, triggering a [global economic downturn](https://en.wikipedia.org/wiki/Economic_impact_of_the_2026_Iran_war) and fuel shortages. [109] The Philippines, which imports most of its oil from the 
+
+[Middle East](https://en.wikipedia.org/wiki/Middle_East), was particularly vulnerable to supply disruptions because of its heavy dependence on
+
+[imported petroleum](https://en.wikipedia.org/wiki/List_of_countries_by_oil_imports).
+
+
+[[109]](#cite_note-2026_Philippine_energy_crisis_BBC-109)On March 23, [Claire Castro](https://en.wikipedia.org/wiki/Claire_Castro), press officer of the [Office of the President of the Philippines](https://en.wikipedia.org/wiki/Office_of_the_President_of_the_Philippines), said the country was experiencing a "price disruption" caused by the conflict in the Middle East but was not yet facing an oil crisis. Her remarks were echoed by Energy Secretary [Sharon Garin](https://en.wikipedia.org/wiki/Sharon_Garin). [110] The same day, President 
+
+[Bongbong Marcos](https://en.wikipedia.org/wiki/Bongbong_Marcos)ordered the creation of a crisis committee to maintain economic stability and ensure the continued delivery of essential resources, including supplies for schools.
+
+
+[[111]](#cite_note-111)On March 24, Marcos declared a state of national energy emergency, stating that the country had sufficient crude oil supplies until June 30. [112] The Philippines became the first country to declare an energy emergency in response to the war.
+
+
+[[109]](#cite_note-2026_Philippine_energy_crisis_BBC-109)According to the [Philippine Institute for Development Studies](https://en.wikipedia.org/wiki/Philippine_Institute_for_Development_Studies) (PIDS), the energy crisis could push between 1.3 million and 3.1 million Filipinos into poverty.[[113]](#cite_note-113)
+
+The Philippines declared a state of emergency on 24 March due to a concurrent strike by transport workers, [114] and government offices in the Philippines are working only four days per week.
+
+
+[[68]](#cite_note-hale-68)### Singapore
+
+[[edit](/w/index.php?title=2026_Iran_war_fuel_crisis&action=edit§ion=27)]
+
+[Singapore](https://en.wikipedia.org/wiki/Singapore) is an important hub for the passage of oil; it receives crude oil, mostly from the Middle East, and its refineries (most of which are on the 32-square-kilometre (12 sq mi) [Jurong Island](https://en.wikipedia.org/wiki/Jurong_Island)) produce the products which are then exported around the [Asia-Pacific region](https://en.wikipedia.org/wiki/Asia-Pacific_region), processing up to 1.5 million barrels of crude per day. Singapore and Australia made an agreement to keep their energy trade flowing, and Singapore economic officials have said that the country's refineries are maintaining stable operations and drawing on diverse supplies of crude oil.[[115]](#cite_note-dingwall-115)
+
+### South Korea
+
+[[edit](/w/index.php?title=2026_Iran_war_fuel_crisis&action=edit§ion=28)]
+
+The crisis has not had a dramatic impact on the lives of most South Koreans, and energy minister [Kim Sung-hwan](https://en.wikipedia.org/wiki/Kim_Sung-hwan_(politician)?action=edit&redlink=1) has said that the country would not experience problems with supply for over a year. However, the [Korean Government](https://en.wikipedia.org/wiki/Government_of_South_Korea) launched an energy-saving campaign, encouraging its citizens to have brief showers, and limit their use of washing machines, [97] and it has postponed the decommissioning of coal-fired power plants as well as reducing the limit on electricity made from coal.
+
+
+[[79]](#cite_note-ratcliffe-79)### Sri Lanka
+
+[[edit](/w/index.php?title=2026_Iran_war_fuel_crisis&action=edit§ion=29)]
+
+Sri Lanka has introduced a four-day working week. In addition, there are long queues for petrol, causing people to miss out on work.[[79]](#cite_note-ratcliffe-79)[[97]](#cite_note-ewe-97)
+
+### Thailand
+
+[[edit](/w/index.php?title=2026_Iran_war_fuel_crisis&action=edit§ion=30)]
+
+Thailand has been severely impacted by the crisis. Thailand imports 57% of its oil from the [Middle East](https://en.wikipedia.org/wiki/Middle_East), which requires to pass the [Strait of Hormuz](https://en.wikipedia.org/wiki/Strait_of_Hormuz). The [diesel fuel](https://en.wikipedia.org/wiki/Diesel_fuel) price has increased from 29.94 [THB](https://en.wikipedia.org/wiki/Thai_baht) per litre in February, up to peak price of 50.54 THB per litre in 7 April.[[116]](#cite_note-116)
+
+The government froze diesel prices at 29.94 THB per litre in the first 15 days of the crisis, [117] and has directed people to raise their air-conditioning temperatures and reduce their outer clothing, to reduce energy consumption, and employees of all government agencies are 
+
+[working from home](https://en.wikipedia.org/wiki/Working_from_home).
+
+
+[[118]](#cite_note-118)[Phipat Ratchakitprakarn](https://en.wikipedia.org/wiki/Phipat_Ratchakitprakarn), [Deputy Prime Minister of Thailand](https://en.wikipedia.org/wiki/Deputy_Prime_Minister_of_Thailand) and co-owner of PTG Energy (branded as PT), one of the largest oil companies in Thailand, was assigned by [Anutin Charnvirakul](https://en.wikipedia.org/wiki/Anutin_Charnvirakul), [Prime Minister of Thailand](https://en.wikipedia.org/wiki/Prime_Minister_of_Thailand) to control and mitigate the impact of fuel crisis in Thailand. He has been criticised by Thai citizens for his failure to manage the impact, and the "Ban PT" movement has gained traction across the internet.[[119]](#cite_note-119)
+
+In [Pathum Thani Province](https://en.wikipedia.org/wiki/Pathum_Thani_Province), north of Bangkok, the local [Provincial Administrative Organization](https://en.wikipedia.org/wiki/Provincial_Administrative_Organization) (PAO) has terminated its 4.45 [satang](https://en.wikipedia.org/wiki/Satang) per litre (Equivalent to 0.445 THB) fuel dispenser tax for 3 months, in 317 stations across the province. Normally, this tax generates 4 million THB per month for the PAO. By this measure the PAO hopes to reduce fuel costs for the residents of Pathum Thani Province, especially for farmers.[[120]](#cite_note-120)
+
+On 3 April, Ruthaphon Naowarat, Minister of Justice, stated in CCSA Press Conference that the [Ministry of Justice](https://en.wikipedia.org/wiki/Ministry_of_Justice_(Thailand)) had detected 57 million litres of fuel missing from 217 million litres transported by sea to six oil depots in [Surat Thani province](https://en.wikipedia.org/wiki/Surat_Thani_province), only 160 million litres arrived at destination. This has created controversies regarding government responsibilities.[[121]](#cite_note-121)
+
+On 4 April, [Bangchak Corporation](https://en.wikipedia.org/wiki/Bangchak_Corporation), the third largest oil company in Thailand with around 2200 petrol stations nationwide, announced the *"Fry to Fly"* Program, which offers customers to exchange 2 litres of used [cooking oil](https://en.wikipedia.org/wiki/Cooking_oil) for 1 litre of diesel fuel or [petrol](https://en.wikipedia.org/wiki/Petrol) (up to 20 litres of cooking oil per person) at 15 stations across the [Bangkok Metropolitan Region](https://en.wikipedia.org/wiki/Bangkok_Metropolitan_Region). This program reduces customers' fuel costs and allows Bangchak to use the used cooking oil to produce [sustainable aviation fuel](https://en.wikipedia.org/wiki/Sustainable_aviation_fuel) (SAF). The program will be in effect from 6 to 30 April.[[122]](#cite_note-thaipbs-fly-to-fry-122)[[123]](#cite_note-thairath-fry-to-fly-123)
+
+On 8 April, the Energy Policy Administration Committee announced on the [Royal Gazette of Thailand](https://en.wikipedia.org/wiki/Royal_Gazette_(Thailand)) that diesel prices would be cut at the refinery level by 2 THB per litre, aiming to reduce fuel costs and cost of living for Thai citizens. This reduction includes Diesel B0, Diesel B7 and Diesel B20 blends, effective from 9 April. This resulted in diesel fuel prices dropping from 50.54 THB per litre on 7 April, to 48.40 THB per litre on 9 April. [124] On 11 April prices dropped to 44.40 THB per litre for normal diesel and to 37.40 THB per litre for Diesel B20.
+
+
+[[125]](#cite_note-125)### Vietnam
+
+[[edit](/w/index.php?title=2026_Iran_war_fuel_crisis&action=edit§ion=31)]
+
+Vietnam is among the most fragile of South East Asian countries due to low energy security, relying on countries such as China and Thailand for petroleum imports. [126] Vietnam is among the worst hit in South East Asia, with only Laos and Cambodia facing a worse situation.
+
+
+[[127]](#cite_note-127)The economic impact of the fuel crisis is expected to slow Vietnam's economic growth.  [128] The fuel crisis has had a widespread impact on Vietnamese society as people change habits and find new ways of production.
+
+Gig workers were especially hard hit by the doubling price of fuel.
+
+[[129]](#cite_note-129)
+
+[[130]](#cite_note-130)The [government of Vietnam](https://en.wikipedia.org/wiki/Government_of_Vietnam) has abolished some fuel levies until mid-April, but fuel prices are still way above what they were before the war. Increased shipping costs for local businesses have hurt them economically, with customers dropping off.[[97]](#cite_note-ewe-97)
+
+## Europe
+
+[[edit](/w/index.php?title=2026_Iran_war_fuel_crisis&action=edit§ion=32)]
+
+Primarily through the suspension of Qatari [liquefied natural gas](https://en.wikipedia.org/wiki/Liquefied_natural_gas) (LNG) and the closure of the [Strait of Hormuz](https://en.wikipedia.org/wiki/Strait_of_Hormuz), [131] several publications including the 
+
+[BBC](https://en.wikipedia.org/wiki/BBC),
+
+[PBS](https://en.wikipedia.org/wiki/PBS),
+
+[Deutsche Welle](https://en.wikipedia.org/wiki/Deutsche_Welle),
+
+[Euronews](https://en.wikipedia.org/wiki/Euronews),
+
+[Financial Times](https://en.wikipedia.org/wiki/Financial_Times)and
+
+[Bruegel](https://en.wikipedia.org/wiki/Bruegel_(think_tank)), along with banks and think tanks, have projected that the continent will enter an energy crisis in 2026 similar to the
+
+[2022 energy crisis](https://en.wikipedia.org/wiki/Global_energy_crisis_(2021–2023))that followed the War in Ukraine.
+
+
+[[132]](#cite_note-132)
+
+[[133]](#cite_note-133)
+
+[[134]](#cite_note-134)
+
+[[135]](#cite_note-135)
+
+[[136]](#cite_note-136)
+
+[[137]](#cite_note-137)
+
+[[138]](#cite_note-138)The conflict coincided with historically low European gas storage levels – estimated at just 30% capacity following a harsh 2025–2026 winter – causing Dutch [TTF](https://en.wikipedia.org/wiki/Title_Transfer_Facility) gas benchmarks to nearly double to over €60/MWh by mid-March. [139] On 26 March, the 
+
+[European Commission](https://en.wikipedia.org/wiki/European_Commission)advised its
+
+[member states](https://en.wikipedia.org/wiki/Member_state_of_the_European_Union)to fill their gas storages early to avoid price spikes later in the year.
+
+
+[[140]](#cite_note-140)"Just like the crisis after Russia's fullscale invasion of Ukraine. Different conflict. Same European divisions; same dilemmas over energy. We can't keep going round in these circles. Something's got to give."
+
+
+After the Qatari Ministry of Defence announced on 2 March that two Iranian drones [attacked Qatari gas facilities](https://en.wikipedia.org/wiki/2026_Iranian_strikes_on_Qatar), followed closely by an announcement from QatarEnergy that all gas production in the country had been halted, [European natural gas prices](https://en.wikipedia.org/wiki/Title_Transfer_Facility) nearly doubled. This raised concerns over energy security and fertiliser costs.[[141]](#cite_note-Guardian-141) [142] EU natural gas prices decreased again to a less-high €48/MWh on Wednesday 4 March.
+
+
+[[143]](#cite_note-143)The Iran conflict also bolstered the necessity for [renewable energy](https://en.wikipedia.org/wiki/Renewable_energy), as solar and wind power can reduce vulnerability to external supply and decentralised power generation that offers greater autonomy from global energy markets. With fluctuating oil prices, renewable energy has become significantly more cost-competitive.[[144]](#cite_note-144) [145] April 2026 was the strongest month of 
+
+[electric vehicle](https://en.wikipedia.org/wiki/Electric_car)sales on record in Europe.
+
+
+[[146]](#cite_note-jacobin-speeding-146)[Shell plc](https://en.wikipedia.org/wiki/Shell_plc)'s CEO warned that Europe could face shortages of fuel by April.
+
+British supermarket chain
+
+[[147]](#cite_note-147)[Asda](https://en.wikipedia.org/wiki/Asda)warned that it was already facing shortages of fuel at their fuel stations.
+
+
+[[148]](#cite_note-148)In addition to broader fuel supply disruptions, reports in April 2026 indicated significant impacts on global energy and aviation markets linked to tensions in the Strait of Hormuz during the Iran–United States conflict. Restricted maritime traffic was reported to have contributed to supply constraints in oil and jet fuel, affecting global energy flows and increasing market volatility.[[149]](#cite_note-149)[[150]](#cite_note-150)
+
+The disruption contributed to sharp increases in global energy prices. Reports indicated that oil prices rose above 100 USD per barrel, while jet fuel prices increased significantly, in some cases more than doubling compared to the previous month. European markets were identified as particularly vulnerable, with concerns raised over potential fuel shortages within weeks if supply conditions did not stabilise.[[151]](#cite_note-151)[[152]](#cite_note-152)
+
+Industry groups and analysts warned that continued disruption could lead to operational challenges at European airports, including potential flight cancellations and capacity constraints. The International Air Transport Association (IATA) noted that even in the event of a reopening of the Strait of Hormuz, recovery in jet fuel supply could take months due to persistent constraints in refining capacity and logistics across the region.[[153]](#cite_note-153)[[154]](#cite_note-154)
+
+In response to the rising energy prices, the [European Central Bank](https://en.wikipedia.org/wiki/European_Central_Bank) and the [Bank of England](https://en.wikipedia.org/wiki/Bank_of_England) left interest rates unchanged.[[155]](#cite_note-155)
+
+### Germany
+
+[[edit](/w/index.php?title=2026_Iran_war_fuel_crisis&action=edit§ion=33)]
+
+On April 13, the German government announced tax cuts for petrol and diesel fuel for two months in response to rising prices, generating critics from some economists.[[156]](#cite_note-156)
+
+### Ireland
+
+[[edit](/w/index.php?title=2026_Iran_war_fuel_crisis&action=edit§ion=34)]
+
+On 7 April, a [series of protests](https://en.wikipedia.org/wiki/2026_Irish_fuel_protests) against rising fuel prices began across major road networks, cities and ports in The Republic of Ireland. The protests continued until 14 April also causing a vote of no confidence in its government.[[157]](#cite_note-bbc-irish-protest-157)
+
+### Slovenia
+
+[[edit](/w/index.php?title=2026_Iran_war_fuel_crisis&action=edit§ion=35)]
+
+On 23 March, Slovenia became the first EU country since the start of the crisis to introduce fuel rationing. Fuel purchases were limited to 50 litres per day for private motorists and 200 litres per day for businesses and farmers. This measure was enacted to curb drivers from neighbouring countries such as Austria taking advantage of lower fuel prices in Slovenia.[[158]](#cite_note-bbc-slovenia-158)
+
+### United Kingdom
+
+[[edit](/w/index.php?title=2026_Iran_war_fuel_crisis&action=edit§ion=36)]
+
+Shipping disruption contributed to volatility in UK energy markets, with analysts warning that wholesale gas price increases could raise household energy bills and expose the country's reliance on global fuel markets. [159] The situation also renewed political debate over the role of 
+
+[domestic production in the North Sea](https://en.wikipedia.org/wiki/North_Sea_oil), including potential reforms to the UK's Energy Profits Levy (
+
+[windfall tax](https://en.wikipedia.org/wiki/Windfall_tax_(United_Kingdom))) on oil and gas producers and the future of investment in the sector.
+
+However, analysts noted that additional drilling in the North Sea would be unlikely to significantly reduce UK energy bills in the short term, as most oil and gas produced there is sold on international markets at global prices.
+
+[[160]](#cite_note-160)
+
+[[161]](#cite_note-161)April 2026 reached the highest level of
+
+[[162]](#cite_note-162)[solar panel](https://en.wikipedia.org/wiki/Solar_panel)installations in the United Kingdom since 2012.
+
+
+[[146]](#cite_note-jacobin-speeding-146)## Middle East
+
+[[edit](/w/index.php?title=2026_Iran_war_fuel_crisis&action=edit§ion=37)]
+
+According to the International Energy Agency (IEA), the global natural gas market has been significantly affected by geopolitical disruptions in the Middle East, resulting in a short-term supply shock and reduced availability of liquefied natural gas (LNG) in global markets. The agency reported that these developments have tightened global gas balances and increased price volatility. While global LNG supply growth is expected to continue in the medium term, the market is projected to remain tight through 2026 and 2027, depending on geopolitical conditions and infrastructure recovery.[[163]](#cite_note-163)
+
+## Oceania
+
+[[edit](/w/index.php?title=2026_Iran_war_fuel_crisis&action=edit§ion=38)]
+
+### Australia
+
+[[edit](/w/index.php?title=2026_Iran_war_fuel_crisis&action=edit§ion=39)]
+
+Fuel prices at the petrol and diesel stations started soaring in early March in Australia, partly driven by panic buying. More critical to overall inflationary forces though, is the supply of diesel to drive heavy machinery. Australia's diesel is largely dependent on refineries in Singapore, South Korea, Malaysia, Taiwan and India.[[164]](#cite_note-eia-aus-164) [165] Experts have warned that the increased price of diesel would lead to much higher food prices, threatening both food security and the "just-in-time" logistics infrastructure that serves food retailers.
+
+Australia holds around 29 to 36 days' reserves of fuel,
+
+[[41]](#cite_note-mpherson-41)[and a large proportion of this was released to support retailers in regional areas. If the Strait of Hormuz continues to be blocked, the
+
+*]*[as of?](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Dates_and_numbers#Chronological_items)*Liquid Fuel Emergency Act 1984*could be triggered, which allows for formal transaction limits and rationing of fuel.
+
+This act was passed in response to the
+
+[[41]](#cite_note-mpherson-41)[1970s fuel crisis](https://en.wikipedia.org/wiki/1970–1979_world_oil_market_chronology), and has not been triggered since then.
+
+In the meantime, the government has lowered the standard for the
+
+[[166]](#cite_note-166)[flash point](https://en.wikipedia.org/wiki/Flash_point)for both diesel and petrol, which will make it easier for the country's two refineries to produce more fuel.
+
+
+[[167]](#cite_note-167)In mid-March, the state governments of [Victoria](https://en.wikipedia.org/wiki/Victoria_State_Government) and [Tasmania](https://en.wikipedia.org/wiki/Tasmanian_Government) made public transport free to all users, for differing fixed time periods. On 30 March 2026, the [Australian Government](https://en.wikipedia.org/wiki/Australian_Government) under Prime Minister [Anthony Albanese](https://en.wikipedia.org/wiki/Anthony_Albanese), after a meeting of [National Cabinet](https://en.wikipedia.org/wiki/National_Cabinet_(Australia)), announced a National Fuel Security Plan, to coordinate responses across all states and territories of Australia. The four-stage plan specifies roles and responsibilities of governments and industry partners. At this point, the country was at level two, dubbed "Keeping Australia moving", after going through a preparation and planning phase. The federal government announced the cutting of fuel excise by 50%, along with a three-month pause on road user charges for trucks.[[168]](#cite_note-168)
+
+Singapore and Australia have signed an agreement to keep their energy trade flowing, with Singapore diversifying the origins of its supplies of crude oil.[[115]](#cite_note-dingwall-115)
+
+### New Zealand
+
+[[edit](/w/index.php?title=2026_Iran_war_fuel_crisis&action=edit§ion=40)]
+
+On 12 March, the [New Zealand Government](https://en.wikipedia.org/wiki/New_Zealand_Government) released six days' worth of [petroleum](https://en.wikipedia.org/wiki/Petroleum) following a global directive by the [International Energy Agency](https://en.wikipedia.org/wiki/International_Energy_Agency) to release 400 million barrels of petrol in response to supply disruptions caused by the [2026 Iran war](https://en.wikipedia.org/wiki/2026_Iran_war).[[169]](#cite_note-169)
+
+On 24 March, the New Zealand Government announced that about 143,000 working families with children would receive a $50 tax credit to help with rising fuel costs from 7 April. Another 14,000 families were also expected to be eligible for a lower tax credit.[[170]](#cite_note-170)
+
+On 27 March, the New Zealand Government released its four-level fuel alert level system in response to fuel shortages caused by the Iran conflict. That day the country was placed on the first phase, watchful, with the public advised to use fuel cautiously.[[171]](#cite_note-171)
+
+### Other Pacific nations
+
+[[edit](/w/index.php?title=2026_Iran_war_fuel_crisis&action=edit§ion=41)]
+
+Several governments of Pacific nations, including [Samoa](https://en.wikipedia.org/wiki/Samoa), [Fiji](https://en.wikipedia.org/wiki/Fiji), [Vanuatu](https://en.wikipedia.org/wiki/Vanuatu), and [Papua New Guinea](https://en.wikipedia.org/wiki/Papua_New_Guinea), publicly reported by the end of March that they had enough fuel reserves to continue operating for a few months. However, some officials have privately expressed concerns about the future if oil deliveries to the region are halted owing to the war, and prices have gone up in all of these countries as well as [Solomon Islands](https://en.wikipedia.org/wiki/Solomon_Islands), [Tonga](https://en.wikipedia.org/wiki/Tonga), and [Marshall Islands](https://en.wikipedia.org/wiki/Marshall_Islands). Officials in Samoa, [Cook Islands](https://en.wikipedia.org/wiki/Cook_Islands) and Fiji have warned citizens against panic buying and [hoarding](https://en.wikipedia.org/wiki/Hoarding_(economics)). [172] Australian Foreign Minister 
+
+[Penny Wong](https://en.wikipedia.org/wiki/Penny_Wong)and Minister for Pacific Island Affairs
+
+[Pat Conroy](https://en.wikipedia.org/wiki/Pat_Conroy_(politician))have signalled their willingness to ensure that regional neighbours do not run out of fuel. The
+
+[New Zealand Government](https://en.wikipedia.org/wiki/New_Zealand_Government)stated that it was assessing how it could help the Pacific region, particularly the
+
+[Polynesian nations](https://en.wikipedia.org/wiki/Polynesia).
+
+
+[[173]](#cite_note-d056-173)Due to rising fuel costs, [Air New Zealand](https://en.wikipedia.org/wiki/Air_New_Zealand) has cancelled 1,100 flights in the Pacific region, affecting around 44,000 passengers.[[172]](#cite_note-pmn-pacific-crisis-172)
+
+## See also
+
+[[edit](/w/index.php?title=2026_Iran_war_fuel_crisis&action=edit§ion=42)]
+
+## References
+
+[[edit](/w/index.php?title=2026_Iran_war_fuel_crisis&action=edit§ion=43)]
+
+- [↑](#cite_ref-1)- ["Weekly Retail Gasoline and Diesel Prices"](https://www.eia.gov/dnav/pet/pet_pri_gnd_dcus_nus_w.htm).- *U.S. Energy Information Administration*.- [Energy Information Administration](https://en.wikipedia.org/wiki/Energy_Information_Administration). Retrieved 14 September 2026.
+- [1](#cite_ref-omr_2-0)- [2](#cite_ref-omr_2-1)- ["Oil Market Report - March 2026"](https://www.iea.org/reports/oil-market-report-march-2026).- *International Energy Agency*. 12 March 2026. Retrieved 13 March 2026.
+- [1](#cite_ref-cnbc-80_3-0)- [2](#cite_ref-cnbc-80_3-1)- ["Oil soars amid Strait of Hormuz shipping fears as Iran war drives prices to nearly $80"](https://www.cnbc.com/2026/03/02/iran-us-oil-strait-hormuz-war-middle-east-energy-brent-crude-wti-conflict.html). CNBC. 2 March 2026.- [Archived](https://web.archive.org/web/20260302084948/https://www.cnbc.com/2026/03/02/iran-us-oil-strait-hormuz-war-middle-east-energy-brent-crude-wti-conflict.html)from the original on 2 March 2026. Retrieved 2 March 2026.
+- [1](#cite_ref-economist-1_4-0)- [2](#cite_ref-economist-1_4-1)- ["The damage to the world economy from the Iran war will be severe, but uneven"](https://www.economist.com/briefing/2026/03/12/the-damage-to-the-world-economy-from-the-iran-war-will-be-severe-but-uneven).- *The Economist*.- [ISSN](https://en.wikipedia.org/wiki/ISSN_(identifier))- [0013-0613](https://search.worldcat.org/issn/0013-0613). Retrieved 19 March 2026.
+- [↑](#cite_ref-cfr-economy_5-0)- ["How the Iran War Ignited a Geoeconomic Firestorm"](https://www.cfr.org/articles/how-the-iran-war-ignited-a-geoeconomic-firestorm).- *cfr.org*.- [Council on Foreign Relations](https://en.wikipedia.org/wiki/Council_on_Foreign_Relations). 17 March 2026.- [Archived](https://web.archive.org/web/20260320113443/https://www.cfr.org/articles/how-the-iran-war-ignited-a-geoeconomic-firestorm)from the original on 20 March 2026. Retrieved 20 April 2026.
+- [↑](#cite_ref-6)- ["Crude Oil Prices: Brent - Europe"](https://fred.stlouisfed.org/series/DCOILBRENTEU).- *fred.stlouisfed.org*. 10 September 2026. Retrieved 12 September 2026.
+- [↑](#cite_ref-7)- ["Oil soars to $109, pushing up chances of US interest rate increase"](https://www.aljazeera.com/economy/2026/9/10/oil-jumps-to-105-pushing-up-chances-of-a-us-interest-rate-increase).- *Al Jazeera*. 10 September 2026.
+- [↑](#cite_ref-8)- ["Inflation Update"](https://www.jec.senate.gov/public/index.cfm/republicans/inflation-update).- *United States Joint Economic Committee*. Retrieved 25 July 2026.
+- [1](#cite_ref-weo-update_9-0)- [2](#cite_ref-weo-update_9-1)- ["Global Economy in Crosscurrents of War and Technology"](https://www.imf.org/en/publications/weo/issues/2026/07/08/world-economic-outlook-update-july-2026). July 2026.
+- [↑](#cite_ref-EIA_OilPriceData_10-0)- ["Petroleum & Other Liquids / Data ▼ / Download series history"](https://www.eia.gov/dnav/pet/pet_pri_spt_s1_w.htm). U.S. Energy Information Administration (EIA).- [Archived](https://web.archive.org/web/20260605153644/https://www.eia.gov/dnav/pet/pet_pri_spt_s1_w.htm)from the original on 5 June 2026.
+- [1](#cite_ref-nyt-echoes_11-0)- [2](#cite_ref-nyt-echoes_11-1)Lindner, Emmett (13 March 2026).- ["Echoes of the '70s in What's Now the Largest Oil Shock Ever"](https://www.nytimes.com/2026/03/13/world/middleeast/oil-supply-shock-1973-embargo.html).- *The New York Times*.- [ISSN](https://en.wikipedia.org/wiki/ISSN_(identifier))- [0362-4331](https://search.worldcat.org/issn/0362-4331). Retrieved 18 March 2026.
+- [↑](#cite_ref-12)- ["IEA chief: World faces 'greatest global energy security challenge in history'"](https://www.middleeasteye.net/live-blog/live-blog-update/iea-chief-world-faces-greatest-global-energy-security-challenge-history).- *Middle East Eye*.- [Archived](https://web.archive.org/web/20260331062305/https://www.middleeasteye.net/live-blog/live-blog-update/iea-chief-world-faces-greatest-global-energy-security-challenge-history)from the original on 31 March 2026. Retrieved 30 March 2026.
+- [↑](#cite_ref-13)- ["Three Scenarios for the Global Economy and the Iran Crisis"](https://www.icis.com/asian-chemical-connections/2026/03/three-scenarios-for-the-global-economy-and-the-iran-crisis).- *ICIS*. 2 March 2026.- [Archived](https://web.archive.org/web/20260303021131/https://www.icis.com/asian-chemical-connections/2026/03/three-scenarios-for-the-global-economy-and-the-iran-crisis/)from the original on 3 March 2026. Retrieved 2 March 2026.
+- [↑](#cite_ref-14)Balaraman, Kavya; Shivaprasad, Ashitha; Shivaprasad, Ashitha (27 March 2026).- ["Oil prices to stay elevated across Iran war scenarios"](https://www.reuters.com/business/energy/oil-prices-stay-elevated-across-iran-war-scenarios-2026-03-27/).- [Reuters](https://en.wikipedia.org/wiki/Reuters)
+- [↑](#cite_ref-15)- ["War in the Middle East – implications for markets and macro"](https://think.ing.com/articles/war-in-the-middle-east-implications-for-markets-and-macro).- *ING*. 2 March 2026. Retrieved 2 March 2026.
+- [↑](#cite_ref-guardian-ceasefire_16-0)Partridge, Joanna (8 April 2026).- ["Ceasefire changes little for shipping in strait of Hormuz, experts say"](https://www.theguardian.com/world/2026/apr/08/us-iran-ceasefire-mass-exodus-ships-strait-hormuz-analysts).- [The Guardian](https://en.wikipedia.org/wiki/The_Guardian)- [Archived](https://web.archive.org/web/20260412031807/https://www.theguardian.com/world/2026/apr/08/us-iran-ceasefire-mass-exodus-ships-strait-hormuz-analysts)from the original on 12 April 2026. Retrieved 14 April 2026.
+- [↑](#cite_ref-cbs-ceasefire_17-0)Ingram, Julia (9 April 2026).- ["Strait of Hormuz still seeing significantly lower traffic despite Iran war ceasefire"](https://www.cbsnews.com/news/strait-of-hormuz-lower-traffic-despite-iran-war-ceasefire/).- [CBS News](https://en.wikipedia.org/wiki/CBS_News).- [Archived](https://web.archive.org/web/20260411091759/https://www.cbsnews.com/news/strait-of-hormuz-lower-traffic-despite-iran-war-ceasefire/)from the original on 11 April 2026. Retrieved 14 April 2026.
+- [↑](#cite_ref-18)Hedley, Nick (26 February 2026).- ["Asian countries most at risk from oil and gas supply disruptions in Strait of Hormuz"](https://zerocarbon-analytics.org/insights/briefings/asian-countries-most-at-risk-from-oil-and-gas-supply-disruptions-in-strait-of-hormuz/).- *Zero Carbon Analytics*.- [Archived](https://web.archive.org/web/20260301155247/https://zerocarbon-analytics.org/insights/briefings/asian-countries-most-at-risk-from-oil-and-gas-supply-disruptions-in-strait-of-hormuz/)from the original on 1 March 2026. Retrieved 4 March 2026.
+- [↑](#cite_ref-19)- ["Crude Awakening: The New Oil Crisis"](https://iqalanalysis.com/oil-crisis-iran-gulf-energy-attacks/).- *Iqal Analysis*. 22 March 2026. Retrieved 27 March 2026.
+- [↑](#cite_ref-20)- ["S Korea, Taiwan, and Singapore vulnerable to lost Qatari LNG"](https://www.vortexa.com/insights/korea-taiwan-singapore-qatari-lng).- *Vortexa*. 10 March 2026.- [Archived](https://web.archive.org/web/20260310152203/https://www.vortexa.com/insights/korea-taiwan-singapore-qatari-lng)from the original on 10 March 2026. Retrieved 30 March 2026.
+- [↑](#cite_ref-21)Rashad, Marwa (4 March 2026).- ["Exclusive: Qatar shuts gas liquefaction, will take weeks to restart, sources say"](https://www.reuters.com/business/energy/qatarenergy-declares-force-majeure-lng-shipments-2026-03-04/).- [Reuters](https://en.wikipedia.org/wiki/Reuters)
+- [↑](#cite_ref-22)Farchy, Jack; Longley, Alex; Azevedo Rocha, Priscila; Gorrivan, Charles; Lee, Julian (3 March 2026).- ["Trump's War on Iran Has Traders Staring Down an Energy Crisis"](https://www.bloomberg.com/news/features/2026-03-03/why-oil-price-surge-is-limited-after-trump-s-iran-strikes).- [Bloomberg News](https://en.wikipedia.org/wiki/Bloomberg_News)
+- [↑](#cite_ref-23)England, Andrew; Moore, Malcolm (6 March 2026).- ["Qatar warns war will force Gulf to stop energy exports 'within days'"](https://www.ft.com/content/be122b17-e667-478d-be19-89d605e978ea).- *Financial Times*. Retrieved 6 March 2026.
+- [↑](#cite_ref-24)Liao, Ruth; Stapczynski, Stephen (7 March 2026).- ["Qatar's Main LNG Equipment Intact, Satellite Analysis Shows"](https://www.bloomberg.com/news/articles/2026-03-06/qatar-s-main-lng-equipment-intact-satellite-analysis-shows).- [Bloomberg News](https://en.wikipedia.org/wiki/Bloomberg_News)
+- [↑](#cite_ref-NPR_25-0)- ["Oil prices surge and stocks fall amid fears over Iran war"](https://www.npr.org/2026/03/02/nx-s1-5732287/iran-war-oil-gasoline-prices). NPR. 2 March 2026.- [Archived](https://web.archive.org/web/20260302152122/https://www.npr.org/2026/03/02/nx-s1-5732287/iran-war-oil-gasoline-prices)from the original on 2 March 2026. Retrieved 2 March 2026.
+- [↑](#cite_ref-26)Kantchev, Georgi (19 March 2026).- ["Iranian Attack on World's Largest LNG Plant Triggers Spike in Prices"](https://www.wsj.com/livecoverage/iran-us-israel-war-news-2026/card/iranian-attack-on-world-s-largest-lng-plant-triggers-spike-in-prices-tZ2GlUClv7Y0oEbDlcEl?mod=Searchresults&pos=5&page=1).
+- [↑](#cite_ref-27)- ["Qatar's LNG Exports Disrupted For 5 Years In Iran War: These Nations Impacted"](https://www.ndtv.com/world-news/iran-war-news-qatars-17-lng-exports-disrupted-in-iran-attacks-these-nations-impacted-11241053).
+- [↑](#cite_ref-28)- ["Iran war damage to Qatar hits global LNG outlook, upends Asia demand growth"](https://www.reuters.com/business/energy/iran-war-damage-qatar-hits-global-lng-outlook-upends-asia-demand-growth-2026-03-26/).- [Reuters](https://en.wikipedia.org/wiki/Reuters)
+- [↑](#cite_ref-El_Safty-2026_29-0)El Safty, Sarah (17 March 2026).- ["Gulf importers race to reroute as Hormuz closure jolts supply chains"](https://www.japantimes.co.jp/business/2026/03/17/gulf-importers-hormuz-supply-chains/).- *The Japan Times*.
+- [↑](#cite_ref-30)Suthenthiran, Anusha (2 March 2026).- ["The 2026 Iran War, An Initial Take and Implications"](https://web.archive.org/web/20260309001808/https://www.oxfordeconomics.com/resource/the-2026-iran-war-an-initial-take-and-implications/).- *Oxford Economics*. Archived from- [the original](https://www.oxfordeconomics.com/resource/the-2026-iran-war-an-initial-take-and-implications)on 9 March 2026. Retrieved 2 March 2026.
+- [↑](#cite_ref-Reuters_31-0)- ["Iran conflict poses new risk to US economic resilience"](https://www.reuters.com/world/middle-east/iran-conflict-poses-new-risk-us-economic-resilience-2026-03-02).- *Reuters*. 2 March 2026. Retrieved 2 March 2026.
+- [↑](#cite_ref-32)- ["World Energy Investment 2026 – Analysis"](https://www.iea.org/reports/world-energy-investment-2026).- *IEA*. 28 May 2026. Retrieved 26 June 2026.
+- [1](#cite_ref-ndtv-fuel-panic_33-0)- [2](#cite_ref-ndtv-fuel-panic_33-1)Dwivedi, Sujata Kanhaiya (23 March 2026).- ["Why Kolhapur's Fuel Crisis Is A Logistical Issue, Not A Supply Problem"](https://www.ndtv.com/india-news/iran-israel-us-war-why-maharashtra-kolhapurs-fuel-crisis-is-a-logistical-issue-not-a-supply-problem-middle-east-conflict-11253109).- *NDTV*.
+- [↑](#cite_ref-34)- ["Asia energy crisis: How countries cope with fuel shortages amid Iran war"](https://www.deccanherald.com/world/asia/philippines-to-pakistan-a-look-at-how-asian-countries-are-hit-by-energy-crisis-3945218).- *Deccan Herald*. Retrieved 29 March 2026.
+- [↑](#cite_ref-35)Duggal, Hanna (24 March 2026).- ["How does the current global oil crisis compare with the 1973 oil embargo?"](https://www.aljazeera.com/news/2026/3/24/how-does-the-current-global-oil-crisis-compare-with-the-1973-oil-embargo).- *Al Jazeera*.- [Archived](https://web.archive.org/web/20260328195119/https://www.aljazeera.com/news/2026/3/24/how-does-the-current-global-oil-crisis-compare-with-the-1973-oil-embargo)from the original on 28 March 2026. Retrieved 28 March 2026.
+- [↑](#cite_ref-36)Helman, Christopher (17 March 2026).- ["The Countries Most In Danger Of Running Out Of Oil"](https://www.forbes.com/sites/christopherhelman/2026/03/17/the-countries-most-in-danger-of-running-out-of-oil/).- *Forbes*.- [Archived](https://web.archive.org/web/20260318192701/https://www.forbes.com/sites/christopherhelman/2026/03/17/the-countries-most-in-danger-of-running-out-of-oil/)from the original on 18 March 2026. Retrieved 30 March 2026.
+- [↑](#cite_ref-37)Nelson, Eshe; Davis, River Akira (19 March 2026).- ["The Iran War's Economic Threat to Europe and Asia"](https://www.nytimes.com/2026/03/19/business/iran-war-fiscal-spending-debt.html).- *The New York Times*. London, Brussels, Tokyo.- [ISSN](https://en.wikipedia.org/wiki/ISSN_(identifier))- [0362-4331](https://search.worldcat.org/issn/0362-4331). Retrieved 29 March 2026.
+- [↑](#cite_ref-38)- ["Iran war: How exposed are European economies?"](https://www.euronews.com/business/2026/03/05/iran-war-how-exposed-are-european-economies).- *euronews*. 5 March 2026. Retrieved 29 March 2026.
+- [↑](#cite_ref-39)- ["How the Middle East escalation could affect food prices"](https://www.foodpolicy.uk/news/how-middle-east-escalation-could-affect-food-prices).- *Food Policy Institute*. 4 March 2026. Retrieved 5 March 2026.
+- [↑](#cite_ref-40)Balci, Gokcay; Surucu-Balci, Ebru (4 March 2026), Reid, Sarah (ed.),- *Strait of Hormuz: Gulf states' food security is at immediate risk but wider shortages could push up consumer prices globally*, The Conversation,- [doi](https://en.wikipedia.org/wiki/Doi_(identifier)):- [10.64628/ab.dymtsjj67](https://doi.org/10.64628%2Fab.dymtsjj67)
+- [1](#cite_ref-mpherson_41-0)- [2](#cite_ref-mpherson_41-1)- [3](#cite_ref-mpherson_41-2)McPherson, Emily (19 March 2026).- ["Experts warn of 50 per cent food price spike as fuel crisis deepens"](https://www.9news.com.au/national/experts-warn-of-50-percent-food-price-spike-as-fuel-crisis-deepens/2a78bc14-b7c8-470d-9515-751baa999b51).- [Nine News](https://en.wikipedia.org/wiki/Nine_News)
+- [↑](#cite_ref-42)Peterson, Matt (28 March 2026).- ["Analysis: A new oil shock is building. The next few weeks of war will be decisive for the economy"](https://www.cnbc.com/2026/03/28/oil-gas-prices-iran-war-hormuz.html).- *CNBC*. Retrieved 28 March 2026.
+- [↑](#cite_ref-43)- ["Oil rises slightly ahead of potential U.S.-Iran talks"](https://www.cnbc.com/2026/09/22/oil-rises-slightly-ahead-of-potential-us-iran-talks.html).- *CNBC*. Retrieved 21 September 2026.
+- [1](#cite_ref-whiting_44-0)- [2](#cite_ref-whiting_44-1)Whiting, Natalie (2 April 2026).- ["Australia sources most of its jet fuel from Asia, but suppliers are feeling the pinch"](https://www.abc.net.au/news/2026-04-03/asian-fuel-suppliers-restricting-exports-australia/106521808).- *ABC News*. Retrieved 3 April 2026.
+- [1](#cite_ref-wekesa_45-0)- [2](#cite_ref-wekesa_45-1)- [3](#cite_ref-wekesa_45-2)- [4](#cite_ref-wekesa_45-3)- [5](#cite_ref-wekesa_45-4)- [6](#cite_ref-wekesa_45-5)- [7](#cite_ref-wekesa_45-6)- [8](#cite_ref-wekesa_45-7)Wekesa, Annah Nanjala (1 April 2026).- ["Fuel Crisis In Africa: How Top 10 Economies On The Continent Are Coping With Middle East War"](https://thekenyatimes.com/africa/fuel-crisis-in-africa-how-top-10-economies-on-the-continent-are-coping-with-middle-east-war/).- [The Kenya Times](https://en.wikipedia.org/wiki/The_Kenya_Times)
+- [↑](#cite_ref-46)- ["Ethiopia hit hard by the fuel crisis"](https://www.ethiopiaobserver.com/2026/04/09/ethiopia-hit-hard-by-the-fuel-crisis/). 9 April 2026.
+- [1](#cite_ref-bbcafrica_47-0)- [2](#cite_ref-bbcafrica_47-1)- [3](#cite_ref-bbcafrica_47-2)- [4](#cite_ref-bbcafrica_47-3)- [5](#cite_ref-bbcafrica_47-4)- [6](#cite_ref-bbcafrica_47-5)- [7](#cite_ref-bbcafrica_47-6)Rukanga, Basillioh; Nyoka, Shingai; Khaliland, Hafsa; Okafor, Makuochi (31 March 2026).- ["Rationing power and diluting petrol - how African countries are coping with effects of Iran war"](https://www.bbc.com/news/articles/cq8wkq1n9epo).- [BBC News](https://en.wikipedia.org/wiki/BBC_News)- [Archived](https://web.archive.org/web/20260331133739/https://www.bbc.com/news/articles/cq8wkq1n9epo)from the original on 31 March 2026. Retrieved 2 April 2026.
+- [↑](#cite_ref-48)- ["Fuel shortages spread across Ethiopia as Middle East tensions disrupt supply"](https://eastleighvoice.co.ke/regional/339474/fuel-shortages-spread-across-ethiopia-as-middle-east-tensions-disrupt-supply). 26 April 2026.
+- [↑](#cite_ref-49)Mike Kihaki (15 April 2026).- ["Gen Z plans fresh protests as fuel prices hit record high"](https://www.standardmedia.co.ke/national/article/2001545471/gen-z-plans-fresh-protests-as-fuel-prices-hit-record-highs).- *The Standard*. Retrieved 15 April 2026.
+- [↑](#cite_ref-50)Fidel Kizito (15 April 2026).- ["Pain for commuters as matatus, boda bodas hike fares"](https://www.capitalfm.co.ke/business/2026/04/pain-for-commuters-as-matatus-boda-bodas-hike-fares/).- *Capital Business*. Capital FM.- [Archived](https://web.archive.org/web/20260415185236/https://www.capitalfm.co.ke/business/2026/04/pain-for-commuters-as-matatus-boda-bodas-hike-fares/)from the original on 15 April 2026. Retrieved 15 April 2026.
+- [↑](#cite_ref-51)- ["Matatu owners announce 25% fare hike after fuel price increase"](https://www.the-star.co.ke/news/2026-04-15-matatu-owners-announce-25-fare-hike-after-fuel-increase).- *The Star*. 15 April 2026.- [Archived](https://web.archive.org/web/20260415184624/https://www.the-star.co.ke/news/2026-04-15-matatu-owners-announce-25-fare-hike-after-fuel-increase)from the original on 15 April 2026. Retrieved 15 April 2026.
+- [↑](#cite_ref-52)Michaels, Aloys (15 April 2026).- ["How fuel price surge is set to hit cost of basic goods, transport and key services"](https://peopledaily.digital/business/how-fuel-price-surge-is-set-to-hit-cost-of-basic-goods-transport-and-key-services).- *People Daily*. Retrieved 15 April 2026.
+- [1](#cite_ref-1news_53-0)- [2](#cite_ref-1news_53-1)- ["Africa is hurting again from a global crisis it had no part in starting"](https://www.1news.co.nz/2026/03/29/africa-is-hurting-again-from-a-global-crisis-it-had-no-part-in-starting/).- *1News*.- [Archived](https://web.archive.org/web/20260401115804/https://www.1news.co.nz/2026/03/29/africa-is-hurting-again-from-a-global-crisis-it-had-no-part-in-starting/)from the original on 1 April 2026. Retrieved 29 March 2026.
+- [↑](#cite_ref-EIAgasPrices_54-0)Data from- ["Petroleum & Other Liquids / Data / Weekly U.S. All Grades All Formulations Retail Gasoline Prices"](https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=pet&s=emm_epm0_pte_nus_dpg&f=w). U.S. Energy Information Administration. 2026.- [Archived](https://web.archive.org/web/20260508185722/https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=pet&s=emm_epm0_pte_nus_dpg&f=w)from the original on 8 May 2026.
+- [↑](#cite_ref-NYTimes_20260420_55-0)DePillis, Lydia (20 April 2026).- ["Why Gas Prices Go Up Fast and Take So Long to Fall"](https://www.nytimes.com/2026/04/20/business/economy/gas-stations-pricing.html).- *The New York Times*.- Source: AAA for national average unleaded retail gasoline prices. 
+- [↑](#cite_ref-56)Breuninger, Kevin (23 April 2026).- ["Trump says Americans should expect higher gas prices for 'a little while'"](https://www.cnbc.com/2026/04/23/trump-iran-war-gas-prices-strait-of-hormuz.html). CNBC.
+- [↑](#cite_ref-EIA_diesel_57-0)- ["Petroleum & Other Liquids / Browse Data / Weekly U.S. No 2 Diesel Retail Prices (Dollars per Gallon)"](https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=EMD_EPD2D_PTE_NUS_DPG&f=W). U.S. Energy Information Administration (EIA). 2026.- [Archived](https://web.archive.org/web/20260916163538/https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=EMD_EPD2D_PTE_NUS_DPG&f=W)from the original on 16 September 2026.
+- [↑](#cite_ref-58)Cunningham, Mary (7 April 2026).- ["Gas prices could soon breach $5 a gallon if Strait of Hormuz remains shut, J.P. Morgan analysts say"](https://www.cbsnews.com/news/gas-prices-today-iran-war-strait-of-hormuz/).- *CBS News*. Retrieved 7 April 2026.
+- [↑](#cite_ref-59)Somasekhar, Arathy; Jao, Nicole.- ["California hit by much higher oil prices as Iran war stresses refiners"](https://www.reuters.com/business/energy/california-hit-by-much-higher-oil-prices-iran-war-stresses-refiners-2026-03-13/). Retrieved 11 June 2026.
+- [↑](#cite_ref-60)Rodriguez, Angela (31 March 2026).- ["Gas tops $6 a gallon in these California cities. Where to find cheapest prices"](https://www.msn.com/en-us/money/economy/gas-tops-6-a-gallon-in-these-california-cities-where-to-find-cheapest-prices/ar-AA1ZLVrz).- *www.msn.com*. The Sacramento Bee. Retrieved 11 June 2026.
+- [↑](#cite_ref-61)Bakx, Kyle (3 April 2026).- ["The energy crisis is getting worse. How protected is Canada?"](https://www.cbc.ca/news/canada/calgary/how-protected-is-canada-energy-crisis-9.7151847).- *CBC News*.- [Archived](https://web.archive.org/web/20260404120127/https://www.cbc.ca/news/canada/calgary/how-protected-is-canada-energy-crisis-9.7151847)from the original on 4 April 2026. Retrieved 7 April 2026.
+- [↑](#cite_ref-62)Buchwald, Elisabeth (7 April 2026).- ["Beyond gas: The price increases American consumers are experiencing from the Iran war"](https://www.cnn.com/2026/04/07/economy/fuel-surcharge-fees-added-oil).- *CNN*. Retrieved 7 April 2026.
+- [↑](#cite_ref-63)Dulaney, Chelsey; Douglas, Jason (25 April 2026).- ["U.S. Energy Exports Hit Records as World Adjusts to a Closed Persian Gulf"](https://www.wsj.com/business/energy-oil/us-energy-exports-persian-gulf-closure-588c257e).- *The Wall Street Journal*. Retrieved 27 April 2026.
+- [↑](#cite_ref-64)- ["Spirit Airlines shuts down, industry's first Iran war casualty"](https://www.straitstimes.com/world/united-states/spirit-airlines-shuts-down-industry-s-first-iran-war-casualty).- *The Straits Times*. 2 May 2026.- [ISSN](https://en.wikipedia.org/wiki/ISSN_(identifier))- [0585-3923](https://search.worldcat.org/issn/0585-3923). Retrieved 2 May 2026.
+- [↑](#cite_ref-65)Tolomia, Cris (14 September 2026).- ["Costco rations Kirkland motor oil, raises price to $57.99"](https://finance.yahoo.com/energy/articles/costco-rations-kirkland-motor-oil-133308837.html). Retrieved 14 September 2026.
+- [↑](#cite_ref-66)- ["Oil stocks in US Strategic Petroleum Reserve fall to lowest level since 1982"](https://www.reuters.com/business/energy/oil-stocks-us-strategic-petroleum-reserve-fall-lowest-level-since-1982-2026-09-14/).- *Reuters.com*. Retrieved 15 September 2026.
+- [↑](#cite_ref-67)Picchi, Aimee (22 September 2026).- ["Diesel prices just hit a new record. Would a U.S. export ban bring relief?"](https://www.cbsnews.com/news/diesel-export-ban-record-price-impact/).- *CBS News*. Retrieved 22 September 2026.
+- [1](#cite_ref-hale_68-0)- [2](#cite_ref-hale_68-1)- [3](#cite_ref-hale_68-2)- [4](#cite_ref-hale_68-3)- [5](#cite_ref-hale_68-4)Hale, Erin (12 March 2026).- ["Southeast Asia shuts offices, limits travel as oil crisis deepens"](https://www.aljazeera.com/news/2026/3/12/southeast-asia-shuts-offices-limits-travel-as-oil-crisis-deepens).- *Al Jazeera*.- [Archived](https://web.archive.org/web/20260316134857/https://www.aljazeera.com/news/2026/3/12/southeast-asia-shuts-offices-limits-travel-as-oil-crisis-deepens)from the original on 16 March 2026. Retrieved 2 April 2026.
+- [↑](#cite_ref-69)Peltier, Elian; ur-Rehman, Zia (14 March 2026).- ["Surge in Oil Prices Shakes Pakistan's Already Fragile Economy"](https://www.nytimes.com/2026/03/14/world/asia/pakistan-oil-prices.html).- *The New York Times*.- [ISSN](https://en.wikipedia.org/wiki/ISSN_(identifier))- [0362-4331](https://search.worldcat.org/issn/0362-4331). Retrieved 19 April 2026.
+- [↑](#cite_ref-70)- ["Iran war could wipe out up to 3% of Bangladesh GDP"](https://www.thedailystar.net/business/economy/news/iran-war-could-wipe-out-3-bangladesh-gdp-4129661).- *The Daily Star*.- [Archived](https://web.archive.org/web/20260315225234/https://www.thedailystar.net/business/economy/news/iran-war-could-wipe-out-3-bangladesh-gdp-4129661)from the original on 15 March 2026. Retrieved 19 April 2026.
+- [↑](#cite_ref-71)- ["Iran war and the bankruptcy of Bangladesh foreign policy"](https://www.middleeastmonitor.com/20260417-iran-war-and-the-bankruptcy-of-bangladesh-foreign-policy/).- *Middle East Monitor*. 17 April 2026. Retrieved 19 April 2026.
+- [↑](#cite_ref-72)Mukherji, Biman (5 April 2026).- ["Why war on Iran threatens to unleash unrest in South Asia"](https://www.scmp.com/week-asia/economics/article/3348974/why-war-iran-threatens-unleash-unrest-south-asia).- *South China Morning Post*. Retrieved 19 September 2026.
+- [↑](#cite_ref-73)Kallol, Asif Showkat (17 March 2026).- ["Iran war could leave Bangladesh facing seven economic shocks, analysts warn"](https://www.pressenza.com/2026/03/iran-war-could-leave-bangladesh-facing-seven-economic-shocks-analysts-warn/).- *Pressenza*. Retrieved 19 April 2026.
+- [↑](#cite_ref-74)- ["Can the Bangladesh economy survive the Iran war?"](https://www.dhakatribune.com/opinion/op-ed/406339/can-the-bangladesh-economy-survive-the-iran-war).- *Dhaka Tribune*. Retrieved 19 April 2026.
+- [↑](#cite_ref-75)- ["Bangladesh shuts universities early to save power amid energy crisis"](https://www.reuters.com/business/energy/bangladesh-shuts-universities-early-save-power-amid-energy-crisis-2026-03-09/).- *Reuters*. 9 March 2026.
+- [↑](#cite_ref-76)- ["All shops to close by 8:00 pm, shop owners association announces"](https://en.prothomalo.com/business/local/l0zd9ufnl0).- [Prothom Alo](https://en.wikipedia.org/wiki/Prothom_Alo)
+- [↑](#cite_ref-77)- ["Shops to remain open until 7pm as govt revises earlier closure deadline"](https://www.tbsnews.net/bangladesh/shops-remain-open-until-7pm-govt-revises-earlier-closure-deadline-1403341).- *The Business Standard*. 5 April 2026. Retrieved 1 May 2026.
+- [↑](#cite_ref-78)- ["Govt orders fairs, cultural events to end by 7pm"](https://www.thedailystar.net/news/bangladesh/news/govt-orders-fairs-cultural-events-end-7pm-4145291).- *The Daily Star*. Retrieved 1 May 2026.
+- [1](#cite_ref-ratcliffe_79-0)- [2](#cite_ref-ratcliffe_79-1)- [3](#cite_ref-ratcliffe_79-2)- [4](#cite_ref-ratcliffe_79-3)Ratcliffe, Rebecca (1 April 2026).- ["Asia ramps up use of dirty fuels to cover energy shortfall triggered by Iran war"](https://www.theguardian.com/world/2026/apr/01/iran-energy-crisis-asia-dirty-fuels-coal).- *The Guardian*.- [Archived](https://web.archive.org/web/20260402031406/https://www.theguardian.com/world/2026/apr/01/iran-energy-crisis-asia-dirty-fuels-coal)from the original on 2 April 2026. Retrieved 2 April 2026.
+- [↑](#cite_ref-80)Downs, Erica (30 April 2025).- ["China's Oil Demand, Imports and Supply Security"](https://www.energypolicy.columbia.edu/publications/chinas-oil-demand-imports-and-supply-security/).- *Center on Global Energy Policy at Columbia University SIPA | CGEP*.- [Archived](https://web.archive.org/web/20250501174358/https://www.energypolicy.columbia.edu/publications/chinas-oil-demand-imports-and-supply-security/)from the original on 1 May 2025. Retrieved 20 July 2025.
+- [↑](#cite_ref-81)Hill, Sean; Han, Eric; Russo, Jonathan (20 April 2026).- ["China, the United States, and Japan hold most strategic oil inventories in 2025"](https://www.eia.gov/todayinenergy/detail.php?id=67504).- *Energy Information Administration*.
+- [1](#cite_ref-nyt_260615_82-0)- [2](#cite_ref-nyt_260615_82-1)Friedman, Lisa; Stevenson, Alexandra (15 June 2026).- ["How China Can Move the Price of Oil Even by Not Buying"](https://www.nytimes.com/2026/06/15/business/china-oil-iran.html).- *The New York Times*.
+- [↑](#cite_ref-bbc-china-price_83-0)Butler, Gavin (24 March 2026).- ["China dials back on fuel price hikes to 'reduce burden' on drivers"](https://www.bbc.com/news/articles/cwyvxejqyx4o).- [BBC News](https://en.wikipedia.org/wiki/BBC_News).- [Archived](https://web.archive.org/web/20260325094412/https://www.bbc.com/news/articles/cwyvxejqyx4o)from the original on 25 March 2026. Retrieved 4 April 2026.
+- [↑](#cite_ref-84)Stevenson, Alexandra; Zhao, Murphy (6 April 2026).- ["This Is Not China's War, but Beijing Started Preparing for It Years Ago"](https://www.nytimes.com/2026/04/06/business/china-oil-shock-iran-war.html).- *The New York Times*.
+- [↑](#cite_ref-85)Sen, Sumanta; Kongkunakornkul, Pasit; Li, Sam; Jackson, Lewis; Howe, Colleen (31 March 2026).- ["How China can survive without the Strait of Hormuz"](https://www.reuters.com/graphics/IRAN-CRISIS/CHINA-OIL/egpbeormkvq/).- *Reuters*.
+- [↑](#cite_ref-86)Jones, Callum (20 March 2026).- ["China has been preparing for a global energy crisis for years. It is paying off now"](https://www.theguardian.com/world/2026/mar/20/china-oil-reserves-global-energy-crisis).- *The Guardian*.
+- [1](#cite_ref-nyt_260621_87-0)- [2](#cite_ref-nyt_260621_87-1)- [3](#cite_ref-nyt_260621_87-2)Bradsher, Keith (21 June 2026).- ["While the World Scrambles for Oil, China Sits on Full Tanks"](https://www.nytimes.com/2026/06/21/business/china-oil-iran.html).- *The New York Times*.
+- [↑](#cite_ref-reuters-china-refine_88-0)Yap, Trixie Sher Li; Liu, Siyi; Aizhu, Chen (5 March 2026).- ["China urges refiners to suspend fuel exports amid Mideast war, sources say"](https://www.reuters.com/business/energy/china-urges-refiners-suspend-fuel-exports-amid-mideast-conflict-sources-say-2026-03-05/).- [Reuters](https://en.wikipedia.org/wiki/Reuters).- [Archived](https://web.archive.org/web/20260308123947/https://www.reuters.com/business/energy/china-urges-refiners-suspend-fuel-exports-amid-mideast-conflict-sources-say-2026-03-05/)from the original on 8 March 2026. Retrieved 4 April 2026.
+- [↑](#cite_ref-bloomberg-china-refine_89-0)Cang, Alfred (5 March 2026).- ["China Tells Top Refiners to Halt Diesel and Gasoline Exports"](https://www.bloomberg.com/news/articles/2026-03-05/china-tells-top-refiners-to-suspend-diesel-and-gasoline-exports).- [Bloomberg News](https://en.wikipedia.org/wiki/Bloomberg_News).- [Archived](https://web.archive.org/web/20260315141704/https://www.bloomberg.com/news/articles/2026-03-05/china-tells-top-refiners-to-suspend-diesel-and-gasoline-exports)from the original on 15 March 2026. Retrieved 4 April 2026.
+- [↑](#cite_ref-vox_90-0)Keating, Joshua (13 June 2026).- ["The mystery of how China is keeping down the world's oil prices"](https://www.vox.com/politics/491853/china-oil-imports-iran).- *Vox*.
+- [↑](#cite_ref-91)Stevenson, Alexandra; Zhao, Murphy (7 May 2026).- ["War and Energy Shortages Boost China's Influence in Asia"](https://www.nytimes.com/2026/05/07/business/war-energy-china-iran.html).- *The New York Times*.
+- [↑](#cite_ref-india-opec-import_92-0)- ["OPEC's share in India's annual oil imports rises after 8-yr drop"](https://economictimes.indiatimes.com/industry/energy/oil-gas/opecs-share-in-indias-annual-oil-imports-rises-after-8-yr-drop/articleshow/117326493.cms).- [The Economic Times](https://en.wikipedia.org/wiki/The_Economic_Times). Reuters. 17 January 2025.- [Archived](https://web.archive.org/web/20250209222436/https://economictimes.indiatimes.com/industry/energy/oil-gas/opecs-share-in-indias-annual-oil-imports-rises-after-8-yr-drop/articleshow/117326493.cms)from the original on 9 February 2025. Retrieved 7 April 2026.
+- [1](#cite_ref-cnbc-india-tax_93-0)- [2](#cite_ref-cnbc-india-tax_93-1)Salve, Priyanka (27 March 2026).- ["India takes a 'huge hit' on tax revenue to keep fuel prices from surging during the Iran war"](https://www.cnbc.com/2026/03/27/india-fuel-tax-cut-oil-prices-iran-war-impact.html).- [CNBC](https://en.wikipedia.org/wiki/CNBC).- [Archived](https://web.archive.org/web/20260402202326/https://www.cnbc.com/2026/03/27/india-fuel-tax-cut-oil-prices-iran-war-impact.html)from the original on 2 April 2026. Retrieved 7 April 2026.
+- [1](#cite_ref-firstpost-india-tax_94-0)- [2](#cite_ref-firstpost-india-tax_94-1)Kumar, Dheeraj (27 March 2026).- ["India cuts petrol, diesel taxes; imposes export duties to shield domestic supply amid Iran war"](https://www.firstpost.com/business/india-cuts-windfall-tax-on-petrol-diesel-as-iran-war-disrupts-oil-flows-13993672.html).- [Firstpost](https://en.wikipedia.org/wiki/Firstpost).- [Archived](https://web.archive.org/web/20260327200855/https://www.firstpost.com/business/india-cuts-windfall-tax-on-petrol-diesel-as-iran-war-disrupts-oil-flows-13993672.html)from the original on 27 March 2026. Retrieved 7 April 2026.
+- [↑](#cite_ref-opec-stat-2025_95-0)- ["2025 OPEC Annual Statistical Bulletin"](https://www.opec.org/assets/assetdb/asb-2025.pdf)(PDF).- *opec.org*.- [OPEC](https://en.wikipedia.org/wiki/OPEC). 4 July 2025. p. 34.- [Archived](https://web.archive.org/web/20260302010158/https://www.opec.org/assets/assetdb/asb-2025.pdf)(PDF) from the original on 2 March 2026. Retrieved 7 April 2026.
+- [↑](#cite_ref-reuters-india-russia_96-0)Verma, Nidhi; Renshaw, Jarrett; Holland, Steve (6 March 2026).- ["Exclusive: Indian refiners buying prompt Russian oil as Iran war hits supplies, sources say"](https://www.reuters.com/business/energy/indian-refiners-buying-prompt-russian-oil-iran-war-hits-supplies-sources-say-2026-03-05/).- [Reuters](https://en.wikipedia.org/wiki/Reuters). Retrieved 7 April 2026.
+- [1](#cite_ref-ewe_97-0)- [2](#cite_ref-ewe_97-1)- [3](#cite_ref-ewe_97-2)- [4](#cite_ref-ewe_97-3)- [5](#cite_ref-ewe_97-4)- [6](#cite_ref-ewe_97-5)- [7](#cite_ref-ewe_97-6)Ewe, Koh; Drury, Flora (24 March 2026).- ["How the Iran war impacts you if you live in Asia"](https://www.bbc.com/news/articles/c1450zj6n48o).- *BBC News*.- [Archived](https://web.archive.org/web/20260401141306/https://www.bbc.com/news/articles/c1450zj6n48o)from the original on 1 April 2026. Retrieved 2 April 2026.
+- [↑](#cite_ref-bbc-lpg-india_98-0)Biswas, Soutik (12 March 2026).- ["'The situation is dire': War on Iran squeezes India's cooking-gas supplies"](https://www.bbc.com/news/articles/cm2xg0p4y84o).- [BBC News](https://en.wikipedia.org/wiki/BBC_News).- [Archived](https://web.archive.org/web/20260317104202/https://www.bbc.com/news/articles/cm2xg0p4y84o)from the original on 17 March 2026. Retrieved 7 April 2026.
+- [↑](#cite_ref-indiatoday-lpg_99-0)Mukul, Sushim (3 April 2026).- ["40-day wait for LPG cylinder to 2-day delivery: A reality check across 12 states"](https://www.indiatoday.in/india/story/india-lpg-crisis-middle-east-war-booking-problems-delivery-delays-black-market-delhi-bihar-up-2890810-2026-04-03).- [India Today](https://en.wikipedia.org/wiki/India_Today).- [Archived](https://web.archive.org/web/20260404040051/https://www.indiatoday.in/india/story/india-lpg-crisis-middle-east-war-booking-problems-delivery-delays-black-market-delhi-bihar-up-2890810-2026-04-03)from the original on 4 April 2026. Retrieved 7 April 2026.
+- [↑](#cite_ref-bbc-india-fuel_100-0)Singh Khadka, Navin (20 March 2026).- ["Gas shortage caused by Iran war may push India back to dirtier fuels"](https://www.bbc.com/news/articles/c1d6vyy9v61o).- [BBC News](https://en.wikipedia.org/wiki/BBC_News).- [Archived](https://web.archive.org/web/20260323080528/http://www.bbc.com/news/articles/c1d6vyy9v61o)from the original on 23 March 2026. Retrieved 7 April 2026.
+- [↑](#cite_ref-retures-pipe-india_101-0)Verma, Nidhi (2 April 2026).- ["India looks to turn LPG import crisis into push for piped gas"](https://www.reuters.com/sustainability/boards-policy-regulation/india-looks-turn-lpg-import-crisis-into-push-piped-gas-2026-04-02/).- [Reuters](https://en.wikipedia.org/wiki/Reuters). Retrieved 8 April 2026.
+- [↑](#cite_ref-intoday-pipedgas_102-0)Singh, Anand (26 March 2026).- ["Why India is pushing LPG users to switch to PNG"](https://www.indiatoday.in/india/story/why-india-is-pushing-lpg-users-to-switch-to-piped-png-liquefied-natural-gas-explained-2887073-2026-03-25).- *indiatoday.in*.- [India Today](https://en.wikipedia.org/wiki/India_Today).- [Archived](https://web.archive.org/web/20260326092216/https://www.indiatoday.in/india/story/why-india-is-pushing-lpg-users-to-switch-to-piped-png-liquefied-natural-gas-explained-2887073-2026-03-25)from the original on 26 March 2026. Retrieved 8 April 2026.
+- [↑](#cite_ref-reuters-coal-india_103-0)- ["India says it is ready for unprecedented coal power demand in summer"](https://www.reuters.com/business/energy/india-says-ready-unprecedented-demand-coal-with-adequate-stock-88-days-2026-03-11/).- [Reuters](https://en.wikipedia.org/wiki/Reuters). 11 March 2026. Retrieved 7 April 2026.
+- [↑](#cite_ref-104)- ["Indonesia raises price of widely used fuel by 32%, adds to cost-of-living concerns"](https://www.reuters.com/business/energy/indonesia-raises-price-widely-used-fuel-by-32-adds-cost-of-living-concerns-2026-06-10/). Reuters. 10 June 2026.
+- [↑](#cite_ref-105)- ["Preliminary Report on Petroleum Statistics"](https://web.archive.org/web/20260402144002/https://www.meti.go.jp/english/statistics/tyo/sekiyuso/pdf/h2j581011e.pdf)(PDF).- *meti.go.jp*.- [Ministry of Economy, Trade and Industry](https://en.wikipedia.org/wiki/Ministry_of_Economy,_Trade_and_Industry). 31 March 2026. Archived from- [the original](https://www.meti.go.jp/english/statistics/tyo/sekiyuso/pdf/h2j581011e.pdf)(PDF) on 2 April 2026. Retrieved 2 April 2026.
+- [↑](#cite_ref-106)- ["Japan retains 254 days' worth of oil reserves amid Strait of Hormuz closure: PM Takaichi"](https://mainichi.jp/english/articles/20260302/p2a/00m/0na/011000c).- [The Mainichi](https://en.wikipedia.org/wiki/The_Mainichi). 2 March 2026.- [Archived](https://web.archive.org/web/20260311105301/https://mainichi.jp/english/articles/20260302/p2a/00m/0na/011000c)from the original on 11 March 2026. Retrieved 2 April 2026.
+- [↑](#cite_ref-japan-oil-release_107-0)Tang, Francis (16 March 2026).- ["Japan begins its largest-ever oil release from strategic reserves"](https://www.japantimes.co.jp/business/2026/03/16/economy/oil-release-japan/).- [The Japan Times](https://en.wikipedia.org/wiki/The_Japan_Times).- [Archived](https://web.archive.org/web/20260317045551/https://www.japantimes.co.jp/business/2026/03/16/economy/oil-release-japan/)from the original on 17 March 2026. Retrieved 2 April 2026.
+- [↑](#cite_ref-108)Sharma, Gopal (12 March 2026).- ["Nepal to ration cooking gas due to panic over shortage"](https://www.reuters.com/business/energy/nepal-ration-cooking-gas-due-panic-over-shortage-2026-03-12/).- *Reuters*.- [Archived](https://web.archive.org/web/20260313182158/https://www.reuters.com/business/energy/nepal-ration-cooking-gas-due-panic-over-shortage-2026-03-12/)from the original on 13 March 2026. Retrieved 2 April 2026.
+- [1](#cite_ref-2026_Philippine_energy_crisis_BBC_109-0)- [2](#cite_ref-2026_Philippine_energy_crisis_BBC_109-1)- [3](#cite_ref-2026_Philippine_energy_crisis_BBC_109-2)Tewari, Suranjana; Guinto, Joel; Rawnsley, Jessica (25 March 2026).- ["Marcos promises 'flow of oil' as Philippines declares energy emergency"](https://web.archive.org/web/20260324143757/https://www.bbc.com/news/articles/c3ex8ez3717o).- [BBC News](https://en.wikipedia.org/wiki/BBC_News)- [the original](https://www.bbc.com/news/articles/c3ex8ez3717o)on 24 March 2026. Retrieved 25 March 2026.
+- [↑](#cite_ref-110)Cabato, Luisa (23 March 2026).- ["Palace: PH facing 'price disruption,' not yet an oil crisis"](https://newsinfo.inquirer.net/2199812/palace-ph-facing-price-disruption-not-yet-an-oil-crisis).- [Philippine Daily Inquirer](https://en.wikipedia.org/wiki/Philippine_Daily_Inquirer)
+- [↑](#cite_ref-111)Esguerra, Darryl John (23 March 2026).- ["Marcos orders creation of crisis committee amid Middle East conflict"](https://www.pna.gov.ph/articles/1271525).- [Philippine News Agency](https://en.wikipedia.org/wiki/Philippine_News_Agency)
+- [↑](#cite_ref-2026_Philippine_energy_crisis_NationalEnergyEmergencyDeclaration_112-0)Cabato, Luisa (27 March 2026).- ["Marcos: PH has enough crude oil supply until June 30"](https://newsinfo.inquirer.net/2202216/marcos-on-crude-oil).- [Philippine Daily Inquirer](https://en.wikipedia.org/wiki/Philippine_Daily_Inquirer)
+- [↑](#cite_ref-113)De Leon, Nyah Genelle C. (17 April 2026).- ["PIDS: Energy crisis may push up to 3.1M Filipinos into poverty"](https://newsinfo.inquirer.net/2213698/pids-energy-crisis-may-push-up-to-3-1m-filipinos-into-poverty).- [Philippine Daily Inquirer](https://en.wikipedia.org/wiki/Philippine_Daily_Inquirer)
+- [↑](#cite_ref-114)- ["Marcos promises 'flow of oil' as Philippines declares energy emergency"](https://www.bbc.com/news/articles/c3ex8ez3717o).- *BBC News*. 25 March 2026.- [Archived](https://web.archive.org/web/20260328190855/https://www.bbc.com/news/articles/c3ex8ez3717o)from the original on 28 March 2026. Retrieved 29 March 2026.
+- [1](#cite_ref-dingwall_115-0)- [2](#cite_ref-dingwall_115-1)Dingwall, Doug (1 April 2026).- ["Singapore's major oil source is blocked and experts warn Australians will pay"](https://www.abc.net.au/news/2026-04-02/singapore-oil-refineries-energy-shock-response/106504438).- *ABC News*.- [Archived](https://web.archive.org/web/20260401193125/https://www.abc.net.au/news/2026-04-02/singapore-oil-refineries-energy-shock-response/106504438)from the original on 1 April 2026. Retrieved 2 April 2026.
+- [↑](#cite_ref-116)- ["ราคาน้ำมันวันนี้ 7 เมษายน 2569 เช็กล่าสุดจากแต่ละปั๊ม "โซฮอล์-ดีเซล" ลิตรละกี่บาท"](https://www.thairath.co.th/news/society/2925084).- *www.thairath.co.th*(in Thai). 7 April 2026. Retrieved 7 April 2026.
+- [↑](#cite_ref-117)- [""นายกฯ อนุทิน" สั่งตรึงราคาน้ำมันดีเซล ลิตรละ 29.94 บาท เป็นเวลา 15 วัน"](https://www.thairath.co.th/news/politic/2917695).- *www.thairath.co.th*(in Thai). 3 March 2026.- [Archived](https://web.archive.org/web/20260421181646/https://www.thairath.co.th/news/politic/2917695)from the original on 21 April 2026. Retrieved 7 April 2026.
+- [↑](#cite_ref-118)- ["พลังงานชงมาตรการประหยัดชวนเปิดแอร์ 26-27 องศาฯ-งดใส่สูทผูกไท"](https://www.amarintv.com/news/politic/540237).- *www.amarintv.com*(in Thai). 9 March 2026. Retrieved 7 April 2026.
+- [↑](#cite_ref-119)- ["โซเชียลเสียงแตก! ดรามาแบน "ปั๊ม PT" ลุกลาม แแฟรนไชส์โอดวอนเห็นใจ ด้าน "ปานเทพ" ถามความเห็นชาวเน็ต"](https://mgronline.com/onlinesection/detail/9690000031206).- *mgronline.com*(in Thai).- [Manager Online](https://en.wikipedia.org/wiki/Manager_Online). 1 April 2026. Retrieved 7 April 2026.
+- [↑](#cite_ref-120)- [""บิ๊กแจ๊ส" สั่ง อบจ.ปทุมธานี งดเก็บ 3 เดือน ภาษีน้ำมัน 4.45 สตางค์/ลิตร"](https://www.thaipbs.or.th/news/content/504163).- *Thai PBS*(in Thai). 2 April 2026.- [Archived](https://web.archive.org/web/20260404041023/https://www.thaipbs.or.th/news/content/504163)from the original on 4 April 2026. Retrieved 7 April 2026.
+- [↑](#cite_ref-121)- ["More than 57m litres of fuel oil go missing at sea - Justice minister"](https://world.thaipbs.or.th/detail/more-than-57-million-litres-of-fuel-oil-go-missing-at-sea-justice-minister/60918).- *world.thaipbs.or.th*. 6 April 2026. Retrieved 9 April 2026.
+- [↑](#cite_ref-thaipbs-fly-to-fry_122-0)- ["Thailand launches cooking oil-for-fuel scheme to cut living costs"](https://world.thaipbs.or.th/detail/thailand-launches-cooking-oil-for-fuel-scheme-to-cut-living-costs/60897).- [Thai PBS](https://en.wikipedia.org/wiki/Thai_PBS). 4 April 2026.- [Archived](https://web.archive.org/web/20260407094745/https://world.thaipbs.or.th/detail/thailand-launches-cooking-oil-for-fuel-scheme-to-cut-living-costs/60897%5C)from the original on 7 April 2026. Retrieved 7 April 2026.
+- [↑](#cite_ref-thairath-fry-to-fly_123-0)- ["Bangchak Launches Fry to Fly – Exchange 2 Liters of Cooking Oil for 1 Liter of Fuel Pilot Program"](https://en.thairath.co.th/news/society/2924629).- [Thairath](https://en.wikipedia.org/wiki/Thairath). 4 April 2026.- [Archived](https://web.archive.org/web/20260407095253/https://en.thairath.co.th/news/society/2924629)from the original on 7 April 2026. Retrieved 7 April 2026.
+- [↑](#cite_ref-124)- ["Diesel prices to drop 2.14 baht a litre nationwide"](https://www.bangkokpost.com/thailand/general/3233268/diesel-prices-to-drop-214-baht-a-litre-nationwide).- [Bangkok Post](https://en.wikipedia.org/wiki/Bangkok_Post). 8 April 2026. Retrieved 9 April 2026.
+- [↑](#cite_ref-125)- ["PTT and Bangchak Reduce Prices of All Diesel and Gasoline Types Effective 5 AM Tomorrow, 11 Apr 2026"](https://en.thairath.co.th/news/society/2926071).- *en.thairath.co.th*.- [Thairath](https://en.wikipedia.org/wiki/Thairath). 10 April 2026. Retrieved 10 April 2026.
+- [↑](#cite_ref-126)- ["The war against Iran and the fragility of Southeast Asia's energy responses"](https://asialink.unimelb.edu.au/diplomacy/insights/war-against-iran-and-fragility-southeast-asias-energy-responses/).- *asialink.unimelb.edu.au*. Retrieved 19 April 2026.
+- [↑](#cite_ref-127)Siow, Maria (24 March 2026).- ["Why Vietnam is leaning on Russia to weather energy turmoil"](https://www.scmp.com/week-asia/economics/article/3347735/why-vietnam-leaning-russia-weather-energy-turmoil).- *South China Morning Post*. Retrieved 19 April 2026.
+- [↑](#cite_ref-128)Ngoc, Bich (2 April 2026).- ["Vietnam's economy to suffer hard hit without decisive action"](https://vir.com.vn/vietnams-economy-to-suffer-hard-hit-without-decisive-action-149846.html).- *Vietnam Investment Review - VIR*. Retrieved 19 April 2026.
+- [↑](#cite_ref-129)- ["Amid fuel crisis, people change habits, businesses find new ways of productions"](https://vietnamnet.vn/en/amid-fuel-crisis-people-change-habits-businesses-find-new-ways-of-productions-2502988.html).- *VietNamNet News*. Retrieved 19 April 2026.
+- [↑](#cite_ref-130)Snell, Govi.- ["Vietnam's gig workers slammed by rising fuel costs amid fallout of Iran war"](https://www.aljazeera.com/economy/2026/4/6/vietnams-gig-workers-slammed-by-rising-fuel-costs-amid-fallout-of-iran-war).- *Al Jazeera*.- [Archived](https://web.archive.org/web/20260407145935/https://www.aljazeera.com/economy/2026/4/6/vietnams-gig-workers-slammed-by-rising-fuel-costs-amid-fallout-of-iran-war)from the original on 7 April 2026. Retrieved 19 April 2026.
+- [↑](#cite_ref-131)Rinaldi, Pietro (13 March 2026).- ["Europe Wanted to Quit Russian Energy, Iran's War Just Complicated That gas prices are to high"](https://www.iai.it/en/publications/c05/europe-wanted-quit-russian-energy-irans-war-just-complicated). IAI.
+- [↑](#cite_ref-132)Johnston, Ian (19 April 2026).- ["Brussels pushes remote working to ease energy crisis"](https://www.ft.com/content/bbc9c31e-cc43-41a6-8fb7-057d44b25a21).- *Financial Times*.
+- [↑](#cite_ref-133)- ["Europe's energy crisis"](https://www.bruegel.org/podcast/europes-energy-crisis).- *Bruegel*. 1 April 2026. Retrieved 19 April 2026.
+- [↑](#cite_ref-134)- ["As Iran war rages, Europe gears up for energy crisis"](https://www.dw.com/en/as-iran-war-rages-europe-gears-up-for-energy-crisis/a-76641027).- *dw.com*. Retrieved 19 April 2026.
+- [↑](#cite_ref-135)- ["Europe faces another energy crisis"](https://www.caixabankresearch.com/en/economics-markets/commodities/europe-faces-another-energy-crisis).- *CaixaBank Research*. 16 April 2026. Retrieved 19 April 2026.
+- [↑](#cite_ref-136)Leicester, John (16 April 2026).- ["Europe nears energy crisis with global implications, head of energy agency warns"](https://www.pbs.org/newshour/world/europe-nears-energy-crisis-with-global-implications-head-of-energy-agency-warns).- *PBS News*. Associated Press. Retrieved 19 April 2026.
+- [↑](#cite_ref-137)- ["How Europe sleepwalked into yet another energy crisis"](https://www.bbc.com/news/articles/c24de9e97vno).- *www.bbc.com*. 19 March 2026. Retrieved 19 April 2026.
+- [↑](#cite_ref-138)- ["The second energy shock: Why Europe still isn't energy secure"](https://www.allianz.com/en/economic_research/insights/publications/specials_fmo/2603010_Energy_shock.html).- *Allianz*. Retrieved 19 April 2026.
+- [↑](#cite_ref-139)- ["Iran War: a turning point for European energy transition policies?"](https://www.iddri.org/en/publications-and-events/blog-post/iran-war-turning-point-european-energy-transition-policies).- *IDDRI*. 9 March 2026.
+- [↑](#cite_ref-140)Abnett, Kate (26 March 2026).- ["EU urges countries to start filling gas storage early amid Iran war, sources say"](https://www.reuters.com/sustainability/boards-policy-regulation/eu-urges-countries-start-filling-gas-storage-early-amid-iran-war-sources-say-2026-03-26/). Reuters.- [Archived](https://web.archive.org/web/20260328134028/https://www.reuters.com/sustainability/boards-policy-regulation/eu-urges-countries-start-filling-gas-storage-early-amid-iran-war-sources-say-2026-03-26/)from the original on 28 March 2026. Retrieved 1 April 2026.
+- [↑](#cite_ref-Guardian_141-0)- ["Middle East crisis pushes up oil prices – and could drive inflation rises too"](https://www.theguardian.com/business/2026/mar/02/middle-east-crisis-oil-prices-inflation-us-iran-interest-rates-growth).- *The Guardian*. 2 March 2026. Retrieved 2 March 2026.
+- [↑](#cite_ref-142)Stapczynski, Stephen; Liao, Ruth; El Wardany, Salma (4 March 2026).- ["Qatar's Hard-Won Reputation as Safest Gas Supplier Lost in Days"](https://www.bloomberg.com/news/articles/2026-03-04/iran-war-dents-qatar-s-reputation-as-lng-s-safest-bet).- [Bloomberg News](https://en.wikipedia.org/wiki/Bloomberg_News)
+- [↑](#cite_ref-143)- ["Passage denied: Oil and gas swing wildly as Hormuz crisis drags on"](https://www.euronews.com/business/2026/03/04/passage-denied-hormuz-shutdown-keeps-oil-prices-on-an-upward-trajectory).- [euronews](https://en.wikipedia.org/wiki/Euronews). 4 March 2026.
+- [↑](#cite_ref-144)Bryan, Kenza; Mooney, Attracta (6 March 2026).- ["Middle East war strengthens case for renewables, say clean energy experts"](https://www.ft.com/content/001a7cb8-96a9-4b6c-95ad-d609976141c).- *The Financial Times*.
+- [↑](#cite_ref-145)Worland, Justin (6 March 2026).- ["Wars Like Ukraine and Iran Are Pushing Countries To Rethink How They Get Their Energy"](https://time.com/7382998/iran-war-global-energy-transition/).- *Time Magazine*.
+- [1](#cite_ref-jacobin-speeding_146-0)- [2](#cite_ref-jacobin-speeding_146-1)Pollin, Robert (9 June 2026).- ["Donald Trump Is Accidentally Speeding the Green Transition"](https://jacobin.com/2026/06/trump-fossil-fuels-green-transition-workers).- *Jacobin*. Retrieved 15 June 2026.
+- [↑](#cite_ref-147)Ambrose, Jillian (25 March 2026).- ["Europe could face fuel shortage by April as Iran throttles supplies, says Shell boss"](https://www.theguardian.com/business/2026/mar/25/europe-could-face-iran-war-fuel-rationing-by-april-warns-shell-boss).- *The Guardian*. Retrieved 26 March 2026.
+- [↑](#cite_ref-148)Partridge, Joanna (27 March 2026).- ["Asda warns of 'temporary shortages' at some petrol pumps amid Iran war"](https://www.theguardian.com/money/2026/mar/27/asda-boss-warns-of-temporary-shortages-at-some-petrol-pumps-iran-war).- *The Guardian*.- [ISSN](https://en.wikipedia.org/wiki/ISSN_(identifier))- [0261-3077](https://search.worldcat.org/issn/0261-3077). Retrieved 28 March 2026.
+- [↑](#cite_ref-149)- ["Airports could face a jet fuel crunch within 3 weeks as airlines weigh flight cancellations"](https://www.cnbc.com/2026/04/10/jet-fuel-shortage-european-airports-strait-of-hormuz.html).- *CNBC*. 10 April 2026.- [Archived](https://web.archive.org/web/20260414122801/https://www.cnbc.com/2026/04/10/jet-fuel-shortage-european-airports-strait-of-hormuz.html)from the original on 14 April 2026.
+- [↑](#cite_ref-150)- ["Airports Council International warns of fuel shortages if Strait of Hormuz not reopened amid US-Iran war talks"](https://news.sky.com/story/airports-council-international-warns-of-fuel-shortages-if-strait-of-hormuz-not-reopened-amid-us-iran-war-talks-13530261).- *Sky News*. 10 April 2026.
+- [↑](#cite_ref-151)Jolly, Jasper; Ambrose, Jillian (10 April 2026).- ["Fears of UK and EU flight cancellations as airports warn of jet fuel shortages"](https://www.theguardian.com/world/2026/apr/10/european-airports-jet-fuel-shortages-flights-iran).- *The Guardian*. Retrieved 19 September 2026.
+- [↑](#cite_ref-152)- ["The Iran war is spiking jet fuel prices and cutting flights — what American travelers need to do now"](https://uk.finance.yahoo.com/news/iran-war-spiking-jet-fuel-161000056.html). 11 April 2026.
+- [↑](#cite_ref-153)Edmonds, Lauren; Rains, Taylor; Goel, Shubhangi; Syme, Pete; Li, Katherine (7 April 2026).- ["Airlines are canceling flights as they face jet fuel shortages and rising prices brought on by the Iran war"](https://www.businessinsider.com/airlines-cancel-flights-rising-jet-fuel-prices-shortage-iran-2026-4).- *Business Insider*.- [Archived](https://web.archive.org/web/20260413001128/https://www.businessinsider.com/airlines-cancel-flights-rising-jet-fuel-prices-shortage-iran-2026-4)from the original on 13 April 2026.
+- [↑](#cite_ref-154)- ["Airline and travel industries see no immediate relief from Iran ceasefire"](https://www.reuters.com/business/energy/iata-chief-says-jet-fuel-supply-could-take-months-recover-after-hormuz-reopening-2026-04-08/).- *Reuters*. 7 April 2026.
+- [↑](#cite_ref-155)Hannon, Paul (27 April 2026).- ["ECB and BOE to Leave Key Rates Unchanged as Fate of Hormuz Strait Remains Unclear"](https://www.wsj.com/pro/central-banking/ecb-and-boe-to-leave-key-rates-unchanged-as-fate-of-hormuz-strait-remains-unclear-36d4bce4).- *The Wall Street Journal*. Retrieved 27 April 2026.
+- [↑](#cite_ref-156)- ["Germany's fuel tax cut in response to oil price hike slammed as poorly targeted"](https://www.cleanenergywire.org/news/germanys-fuel-tax-cut-response-oil-price-hike-slammed-poorly-targeted).- *Clean Energy Wire*. 13 April 2026. Retrieved 13 April 2026.
+- [↑](#cite_ref-bbc-irish-protest_157-0)Gataveckaite, Gabija (7 April 2026).- ["Protesters call for fuel price cap as slow-moving convoys caused delays"](https://www.bbc.com/news/articles/c7vq86d6yevo).- [BBC News](https://en.wikipedia.org/wiki/BBC_News).- [Archived](https://web.archive.org/web/20260408084729/https://www.bbc.com/news/articles/c7vq86d6yevo)from the original on 8 April 2026. Retrieved 10 April 2026.
+- [↑](#cite_ref-bbc-slovenia_158-0)Delauney, Guy (23 March 2026).- ["Slovenia becomes first EU country to introduce fuel rationing"](https://www.bbc.com/news/articles/c77m4zx6zvmo).- [BBC News](https://en.wikipedia.org/wiki/BBC_News).- [Archived](https://web.archive.org/web/20260405165013/https://www.bbc.com/news/articles/c77m4zx6zvmo)from the original on 5 April 2026. Retrieved 24 April 2026.
+- [↑](#cite_ref-159)Ambrose, Jillian; Elgot, Jessica (4 March 2026).- ["Energy bills could rise by £160 after Iran conflict pushes gas prices higher"](https://www.theguardian.com/money/2026/mar/04/iran-conflict-energy-bills-gas-prices).- *The Guardian*.- [ISSN](https://en.wikipedia.org/wiki/ISSN_(identifier))- [0261-3077](https://search.worldcat.org/issn/0261-3077). Retrieved 9 March 2026.
+- [↑](#cite_ref-160)Parsons, Regan (4 March 2026).- ["Talks on reform of offshore windfall tax to take place within days - and unlock £50 billion investment"](https://www.pressandjournal.co.uk/fp/news/6970204/windfall-tax-reform-replacement/).- *Press and Journal*.- [Archived](https://web.archive.org/web/20260325022231/https://www.pressandjournal.co.uk/fp/news/6970204/windfall-tax-reform-replacement/)from the original on 25 March 2026. Retrieved 9 March 2026.
+- [↑](#cite_ref-161)Leake, Jonathan (4 March 2026).- ["Britain's vulnerability to the Gulf exposed as energy crisis unfolds"](https://www.telegraph.co.uk/business/2026/03/04/britains-vulnerability-gulf-exposed-energy-crisis).- *The Telegraph*.
+- [↑](#cite_ref-162)Garton-Crosbie, Abbi (4 March 2026).- ["Would more drilling in the North Sea lower energy bills amid Middle East crisis?"](https://www.thenational.scot/news/25908450.north-sea-drilling-will-uk-oil-gas-cut-energy-bills/).- *The National*. Retrieved 9 March 2026.
+- [↑](#cite_ref-163)- ["Middle East crisis disrupts international natural gas markets and delays global LNG supply wave"](https://www.iea.org/news/middle-east-crisis-disrupts-international-natural-gas-markets-and-delays-global-lng-supply-wave).- *iea.org*. 24 April 2026. Retrieved 19 September 2026.
+- [↑](#cite_ref-eia-aus_164-0)- ["Australia"](https://www.eia.gov/international/analysis/country/AUS).- *eia.gov*.- [U.S. Energy Information Administration](https://en.wikipedia.org/wiki/U.S._Energy_Information_Administration). 4 December 2025.- [Archived](https://web.archive.org/web/20260125183655/https://www.eia.gov/international/analysis/country/AUS)from the original on 25 January 2026. Retrieved 4 April 2026.
+- [↑](#cite_ref-guardian-aus-crisis2_165-0)Commins, Patrick (24 March 2026).- ["Seven charts that reveal how unprepared Australia was for the fuel crisis"](https://www.theguardian.com/business/2026/mar/24/seven-charts-that-reveal-how-unprepared-australia-was-for-the-fuel-crisis).- [The Guardian](https://en.wikipedia.org/wiki/The_Guardian)- [Archived](https://web.archive.org/web/20260325080052/https://www.theguardian.com/business/2026/mar/24/seven-charts-that-reveal-how-unprepared-australia-was-for-the-fuel-crisis)from the original on 25 March 2026. Retrieved 4 April 2026.
+- [↑](#cite_ref-166)Staszewska, Ewa; Razik, Naveen (26 March 2026).- ["These powers have never been used. Could the fuel crisis force the government's hand?"](https://www.sbs.com.au/news/article/emergency-fuel-powers-energy-minister/phvtx7g5k).- [SBS News](https://en.wikipedia.org/wiki/SBS_News)- [Archived](https://web.archive.org/web/20260327205238/https://www.sbs.com.au/news/article/emergency-fuel-powers-energy-minister/phvtx7g5k)from the original on 27 March 2026. Retrieved 2 April 2026.
+- [↑](#cite_ref-167)Walker, Liana (2 April 2026).- ["What lowering the diesel flash point means for Australia's refineries"](https://www.abc.net.au/news/2026-04-03/what-lowering-diesel-standard-means-for-refineries/106512346).- [ABC News](https://en.wikipedia.org/wiki/ABC_News_(Australia))
+- [↑](#cite_ref-168)Karakulak, Helen; Dowdell, Rory (30 March 2026).- ["Fuel excise halved, SA rules out free fares"](https://www.indailysa.com.au/news/just-in/2026/03/30/free-public-transport-ruled-out-in-sa-despite-calls-amid-fuel-crisis).- [InDaily](https://en.wikipedia.org/wiki/InDaily)
+- [↑](#cite_ref-169)- ["NZ will release six days of fuel amid global concerns over supply"](https://www.rnz.co.nz/news/political/589332/nz-will-release-six-days-of-fuel-amid-global-concerns-over-supply).- [RNZ](https://en.wikipedia.org/wiki/RNZ)- [Archived](https://web.archive.org/web/20260313200415/https://www.rnz.co.nz/news/political/589332/nz-will-release-six-days-of-fuel-amid-global-concerns-over-supply)from the original on 13 March 2026. Retrieved 13 March 2026.
+- [↑](#cite_ref-170)Pearse, Adam (24 March 2026).- ["Fuel crisis: About 140,000 families to receive $50 a week to help with high fuel prices"](https://www.nzherald.co.nz/nz/politics/fuel-prices-government-to-announce-support-package-for-families-under-the-pump-as-petrol-hits-4-a-litre-in-some-areas/4IGEJBXRFZAUPOUCSWCB2ECOGA/).- [The New Zealand Herald](https://en.wikipedia.org/wiki/The_New_Zealand_Herald)- [Archived](https://web.archive.org/web/20260324035032/https://www.nzherald.co.nz/nz/politics/fuel-prices-government-to-announce-support-package-for-families-under-the-pump-as-petrol-hits-4-a-litre-in-some-areas/4IGEJBXRFZAUPOUCSWCB2ECOGA/)from the original on 24 March 2026. Retrieved 24 March 2026.
+- [↑](#cite_ref-171)- ["NZ's fuel alert system - what you need to know"](https://www.1news.co.nz/2026/03/27/nzs-fuel-alert-system-what-you-need-to-know/).- [1News](https://en.wikipedia.org/wiki/1News)- [Archived](https://web.archive.org/web/20260328020026/https://www.1news.co.nz/2026/03/27/nzs-fuel-alert-system-what-you-need-to-know/)from the original on 28 March 2026. Retrieved 28 March 2026.
+- [1](#cite_ref-pmn-pacific-crisis_172-0)- [2](#cite_ref-pmn-pacific-crisis_172-1)Rovoi, Christine (30 March 2026).- ["Pacific nations urged to stay calm as global fuel crisis continues to bite"](https://pmn.co.nz/read/pacific-region/pacific-nations-call-for-calm-urged-to-prepare-as-global-fuel-crisis-deepens).- *pmn.co.nz*.- [Pacific Media Network](https://en.wikipedia.org/wiki/Pacific_Media_Network).- [Archived](https://web.archive.org/web/20260403062649/https://pmn.co.nz/read/pacific-region/pacific-nations-call-for-calm-urged-to-prepare-as-global-fuel-crisis-deepens)from the original on 3 April 2026. Retrieved 3 April 2026.
+- [↑](#cite_ref-d056_173-0)Dziedzic, Stephen; Faa, Marian; Sas, Nick (1 April 2026).- ["Australia assessing how to protect Pacific nations from fuel shortages caused by Iran war"](https://www.abc.net.au/news/2026-04-01/australia-looks-to-help-pacific-islands-fuel-shortage-iran-war/106520750).- [ABC News](https://en.wikipedia.org/wiki/ABC_News_(Australia))- [Archived](https://web.archive.org/web/20260401030122/https://www.abc.net.au/news/2026-04-01/australia-looks-to-help-pacific-islands-fuel-shortage-iran-war/106520750)from the original on 1 April 2026. Retrieved 1 April 2026.

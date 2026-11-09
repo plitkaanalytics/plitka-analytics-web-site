@@ -1,0 +1,73 @@
+URL:         https://news.usni.org/2026/01/22/u-s-targeting-shadow-oil-fleets-using-u-n-law-of-the-sea-convention-former-coast-guard-jags-say
+Кінцевий:    https://web.archive.org/web/20260304122225id_/https://news.usni.org/2026/01/22/u-s-targeting-shadow-oil-fleets-using-u-n-law-of-the-sea-convention-former-coast-guard-jags-say
+Заголовок:   U.S. Targeting Shadow Oil Fleets Using U.N. Law of the Sea Convention, Former Coast Guard JAGs Say - USNI News
+Дата публ.:  2026-01-22
+Завантажено: 2026-10-02 08:05 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 353059
+Оригінал:    raw/14-news.usni.org-u-s-targeting-shadow-oil-fleets-using-u-n-law-of-the-sea.html
+sha256:      25529f0a465a72b28d8e7c2f39ea78349ab64a0595dd12c40f6d909ff0fcd703
+Витяг:       trafilatura
+Примітка:    оригінал недоступний (403), узято з Wayback
+
+==============================================================================
+The U.S. could use two provisions of international maritime law as justification to seize oil tankers sanctioned by the U.S. Treasury, two maritime law experts told USNI News.
+
+The ongoing campaign, which includes Tuesday’s seizure of tanker MT *Sagitta* by the U.S. Coast Guard and military forces, relies on provisions under the U.N. Convention on the Law of the Sea to enforce the sanction actions on the so-called “shadow fleet” that fuels illicit oil sales.
+
+Oil tanker* Sagitta* is registered under a Panamanian flag, although shipping websites also have the vessel under a Liberian or Guyanese flag. Panama and the U.S. have a longstanding boarding agreement, often used for counter narcotics, in which Panama typically allows the U.S. to board ships sailing under its flag, two former top lawyers for the Coast Guard told USNI News.
+
+The U.S. has to notify Panama that it wants to board a ship sailing under its flag, retired Rear Adm. Fred Kenney, a former Coast Guard judge advocate general, told USNI News. Usually, Panama agrees, as the country wants to remove the vessels that are part of the “shadow fleet” – sanctioned ships that often use deceptive practices, such as false flags, to transport goods – from its registry.
+
+That is what happened in the case of MT *Centuries *and MT* Sophia*, which the U.S. seized Dec. 20 and Jan. 7, respectively, Kenney said. Like *Sagitta*, both ships sailed under a Panamanian flag.
+
+Under the United Nations Convention on the Law of the Sea, which dictates international maritime law, the flag state has jurisdiction over vessels in its registry.
+
+A flag state “assume[s] jurisdiction under its internal law over each ship flying its flag and its master, officers and crew in respect of administrative, technical and social matters concerning the ship,” reads the Convention on the Law of the Sea, Article 94, “Duties of the Flag State.”
+
+While Panama typically agrees to U.S. boarding requests, if Panama declines, the U.S. cannot board the ship, Kenney said.
+
+In the case of the other tankers, the U.S. looked to other articles of international law, former Coast Guard JAG retired Rear Adm. William Baumgartner told USNI News.
+
+Under Article 110 of the convention, a country has a right to visit a vessel, during which they can ensure a vessel is registered to the country of its flag, Baumgartner said. A ship must be registered to a country, and it can only fly the flag of one state.
+
+If the ship is not registered or if it claims two flags, it’s treated as stateless, and in that case, the U.S. can enforce U.S. law on the ship, he said.
+
+“A ship which sails under the flags of two or more States, using them according to convenience, may not claim any of the nationalities in question with respect to any other State, and may be assimilated to a ship without nationality,” reads Article 92 of the Convention on the Law of the Sea.
+
+While the U.S. was part of the negotiations and agreed to most of the provisions under the convention, it [did not sign or ratify UNCLOS](https://digital-commons.usnwc.edu/cgi/viewcontent.cgi?article=2949&context=ils).
+
+In some cases, a ship will fly one flag but its master will claim another that is registered under a different country, such as North Korea, because the country does not cooperate with the U.S., Baumgartner said.
+
+“They’ve claimed two nationalities, so they’re entitled to no nationality protection,” he said.
+
+A vessel may also fly a false flag, such as the case of MT *Skipper*, which was the first tanker seized Dec. 10 by the U.S., Kenney said. The ship flew a Guyanese flag, but Guyana refuted the registration, meaning the tanker was stateless.
+
+When a ship is seized, it’s the ship itself that is arrested because ships have personalities, Baumgartner said.
+
+“So many of the standard maritime cases are named after the ship,” he said.
+
+For example, the Pennsylvania rule about ship collisions comes from a [Supreme Court case ](https://supreme.justia.com/cases/federal/us/86/125/)where *Pennsylvania*, a steamer, was the defendant.
+
+This comes from maritime law acknowledging that a ship moves between ports and also needs to have contracts for fuel and other supplies.
+
+The arrests are a way to make sure debts are paid, Baumgartner said. If a ship owes a debt on a contract, the person who provided the supplies can petition to have the ship arrested so that the ship’s owner pays for the debt, he said. If the owner doesn’t appear, a ship will go to judicial auction. In the cases of a seizure, the owners are not likely to come forward, Baumgartner said, as they are trying to stay hidden.
+
+“That’s the threat. The owners typically know that the vessel will sell for less at an auction than it’s worth, and they are motivated to come and pay off the debt so that the vessel isn’t sold,” Baumgartner said.
+
+The crew on the sanctioned vessels could be deported, Kenney said, pointing to a U.S. Department of Justice policy change from February 2025 to deport the low-level crew members instead of prosecuting them, he said.
+
+But if the owners do abandon the vessel, it could be a problem because the crew doesn’t have a way to get home.
+
+“The seafarers wind up becoming basically pawns in a much larger political game,” Kenney said. “It’s really detrimental to the seafarers themselves and their families.”
+
+Right now, there are two options when dealing with vessels associated with Venezuela, Kenney said.
+
+There are seizures and there are lethal strikes.
+
+The seizures have a legal basis in the Convention on the Law of the Sea, while attorneys and lawmakers – mostly Democrats – have questioned the legality of the strikes on boats suspected of ferrying illegal narcotics.
+
+The questionable legality around the strikes could make it more difficult for the U.S. to defend the seizures, Baumgartner said.
+
+The statements made by President Donald Trump about taking back Venezuelan oil can also make it more difficult. Trump claims Venezuela stole U.S. oil because U.S. companies previously had exclusive access to Venezuelan oil before the country nationalized the industry in 1975, according to *Politifact.*
+
+“I do worry a bit that the solid legal footing that many of the tanker seizures have been on will somehow get messed up with the questioning of the legality of many of our other actions in the Caribbean, in the Eastern Pacific, as we’re shooting drug boats, as well as the operation to take [Nicolás] Maduro out of Venezuela,” Baumgartner said.
