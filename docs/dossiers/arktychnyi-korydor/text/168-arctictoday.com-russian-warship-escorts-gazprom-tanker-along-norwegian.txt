@@ -1,0 +1,26 @@
+URL:         https://www.arctictoday.com/russian-warship-escorts-gazprom-tanker-along-norwegian-coast/
+Кінцевий:    https://www.arctictoday.com/russian-warship-escorts-gazprom-tanker-along-norwegian-coast/
+Заголовок:   Russian warship escorts Gazprom tanker along Norwegian coast - ArcticToday
+Дата публ.:  2026-08-20
+Завантажено: 2026-11-08 06:39 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 121925
+Оригінал:    raw/168-arctictoday.com-russian-warship-escorts-gazprom-tanker-along-norwegian.html
+sha256:      6aed5fe811b75efe5f0b6339cea0c41a97e21562517c3df011d86e22d46a46af
+Витяг:       trafilatura
+
+==============================================================================
+# Russian warship escorts Gazprom tanker along Norwegian coast
+
+[The Independent Barents Observer](https://thebarentsobserver.com/en)
+
+A frigate from Russia’s Northern Fleet is escorting the LNG carrier Portovyy en route from the Baltic Sea towards Murmansk. The tanker is likely to proceed to the Northern Sea Route.
+
+The two vessels were spotted together in the Baltic Sea earlier this week. The frigate Admiral Kasatonov was on its way from Baltiysk, a major Russian naval base, according to OSINT analyst Russian Forces Spotter. Photos from ship spotter and photographer Frank Behling show the two vessels sailing together. The frigate is one of several warships deployed by Moscow to escort commercial ships transporting goods to and from Russian ports. The involvement of the Navy follows mounting pressure from European countries against Russia’s so-called shadow fleet, as well as fears of Ukrainian drone attacks.
+
+The LNG carrier Portovyy is owned and operated by Gazprom LNG Portovaya, a subsidiary of Gazprom. It serves the company’s small-scale Russian LNG plant located in Vyborg, near St Petersburg. On 20 August, the two vessels sailed northwards along the Norwegian coast. According to ship traffic data, the destination of the Portovyy was Murmansk. However, it is likely to proceed eastwards to the Northern Sea Route and ultimately end up in a Chinese port.
+
+The sea ice along the Northern Sea Route is at its lowest level in late August, and sailing in the area is currently on the rise. Dozens of ships were sailing on the eastern stretch of the route in mid-August. Among them are oil tankers without ice-class protection. Ice maps from 18 August show that the route was mostly ice-free, with the exception of a belt of sea ice in the western part of the Laptev Sea and in the East Siberian Sea. In Arctic waters, Russian shippers can sail without fear of Ukrainian drones and raids by Western coast guards.
+
+However, risks remain high due to harsh and rapidly changing weather and ice conditions. The frigate Admiral Kasatonov belongs to the Northern Fleet and has Severomorsk on the Kola Peninsula as its home port. It is one of Russia’s most modern warships. Several other Northern Fleet vessels have been involved in escorting commercial vessels, including the destroyers Admiral Levchenko and Severomorsk. According to the Northern Fleet, the latter was based in the Baltic Sea from December 2025 and was tasked with “ensuring the safety of vessels carrying cargo in the interests of the Russian Federation.” “The Northern Fleet sailors carried out this important task with due diligence.
+
+Not a single representative of the navies of countries hostile to Russia even entertained the thought of questioning the legality of the vessels under their protection sailing in the waters of the Baltic Sea,” the Northern Fleet newspaper Na Strazhe Zapolyarya reported in its 24 July edition. The Severomorsk was subsequently sent to the Mediterranean, including to Syria, where it “escorted civilian vessels operating in Russia’s interests.”

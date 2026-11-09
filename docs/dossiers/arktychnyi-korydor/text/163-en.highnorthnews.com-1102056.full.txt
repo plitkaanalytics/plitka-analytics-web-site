@@ -1,0 +1,257 @@
+URL:         https://en.highnorthnews.com/politics/russian-shadow-fleet-lng-carrier-diverts-to-norways-arctic-instead-of-china/1102056
+Кінцевий:    https://en.highnorthnews.com/politics/russian-shadow-fleet-lng-carrier-diverts-to-norways-arctic-instead-of-china/1102056
+Заголовок:   Russian Shadow Fleet LNG Carrier Diverts to Norway’s Arctic Instead of China
+Дата публ.:  2026-02-02
+Завантажено: 2026-11-08 09:06 UTC
+HTTP:        -   Тип: text/html   Байтів: 220265
+Оригінал:    raw/163-en.highnorthnews.com-1102056.html
+sha256:      a1fe679e1de76a56976a91396d4275b3e1e9fd28f263051dd6bf66b259cc759b
+Витяг:       trafilatura
+Примітка:    сайт віддає curl'у PoW-перевірку «Are we human?»; сторінку
+             збережено з браузера редактора (Ctrl+S) 08.11.2026 — це DOM
+             після рендеру, не байти відповіді сервера
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 42
+==============================================================================
+passes through broken ice in the Arctic.
+Sanctioned LNG carrier Valera’s track from the Baltic Sea up along Norway’s coastline to Murmansk.
+MagicPort Maritime Intelligence
+Gazprom Sends First-Ever Shipment of Baltic LNG to China via the Arctic
+Norway to Boost Capacity to Detect Drones Near the Border With Russia
+UK and Allied Show of Strength in the North
+Power Crisis: How on Earth Could Things Go so Wrong?
+U.S., Japan and South Korea Launch Arctic Pacific Partnership Amid Continued Commercial Ties to Russia
+Climate Change Puts Arctic Tourism Under Pressure: “A complex situation,” Says Researcher
+Greenland’s Prime Minister: Equality in Nordic Cooperation is a Matter of Political Will
+Norway Detains Sanctioned Chinese Ship Sailing Under False Flag, Inspects Second Vessel
+Closer Cooperation With Indigenous Peoples Can Strengthen Total Defence in the North
+The Norwegian Government Responds to Preparedness Criticism From Nordland
+Top Alaska Military Officer: "Homeland Defense in the Arctic Cannot be Seasonal or Episodic"
+China Tests Domestic Satellite Communication in Arctic As Polar Capabilities Expand
+Defence researcher: Putin is Gradually Raising our Tolerance For War
+Norway and Russia Have Reached a Fisheries Agreement for 2027
+Russia’s Shadow Fleet and Greenland Tensions on Top
+Chinese Heavy-Lift Ships Remain Off Northern Norway as German Navy Vessel Patrols Area
+The EU's New Arctic Strategy: 'A Good Starting Point,' Says Researcher
+NATO Chief: Greenland Crisis Never Neared Confrontation
+Greetings From a Broken Shit House
+Antibodies Against Avian Influenza Detected in Polar Bears in Greenland
+From Norfolk in the US, NATO is Closely Monitoring the Threat Situation in the High North
+Launches High North Strategy to Drive Investment and Growth
+Nordic Council Literature Prize Awarded to Sámi Novel
+Russian Radio Station in Svalbard Halt Broadcasts Over Missing Norwegian Permit
+Russia’s Arctic ‘Shadow Fleet’ Goes Digital as New Putin Decree Tightens Grip on Shipping Data
+Closer Arctic Research Cooperation With the Nordics Won’t Weaken U.S. Research Ties
+The Norwegian Frigate HNoMS Fridtjof Nansen on Svalbard Patrol
+Keel Laid for Future Flagship of the Canadian Icebreaker Fleet
+To Upgrade Existing Subsea Fibre Cables to Svalbard and Deploy Technology on New Cable System
+Norwegian–Russian Fisheries Cooperation Back on Its Feet
+No Promises to Accelerate Construction of New Bridge Near the Norwegian-Russian Border
+Norwegian Coast Guard Boards Sanctioned Chinese Heavy-Lift Ships Off the Coast of Northern Norway
+Russian ‘Zombie Tanker’ Sails Up Norwegian Coastline After Being Blocked by German Police
+High North News is an independent newspaper published by the High North Center at the Nord university. High North News follows the
+Norwegian Press Code of Ethics
+and is edited according to the
+Association of Norwegian Editors – Rights and Duties of the Editor
+. High North News is not responsible for the content or opinions expressed on external web pages.
+High North News. All Rights Reserved.
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Russian Shadow Fleet LNG Carrier Diverts to Norway’s Arctic Instead of China
+Jump to main content
+NOR
+ENG
+Search
+Menu
+Business
+Politics
+Science
+Arctic Living
+Opinions
+Employees
+Newsletter
+Contact
+About us
+LinkedIn
+Facebook
+X
+Instagram
+Bluesky
+High North News
+Business
+Politics
+Science
+Arctic Living
+Opinions
+Search
+Menu
+Business
+Politics
+Science
+Arctic Living
+Opinions
+Employees
+Newsletter
+Contact
+About us
+LinkedIn
+Facebook
+X
+Instagram
+Bluesky
+NOR
+ENG
+politics
+Russian Shadow Fleet LNG Carrier Diverts to Norway’s Arctic Instead of China
+The ice class 2 LNG ship
+Velikiy Novgorod
+passes through broken ice in the Arctic.
+Sovcomflot
+A sanctioned Russian LNG tanker loaded with gas from Gazprom’s Baltic Portovaya plant sailed north along the Norwegian coastline toward Murmansk instead of heading for China highlighting the further integration of Russia’s shadow fleet logistics.
+Malte Humpert
+Malte
+Humpert
+Journalist
+Published
+2 February 2026 - 08:37
+A sanctioned Russian LNG tanker, Valera, loaded with liquefied natural gas at Portovaya LNG in the Russian Baltic, has turned north and sailed along the Norwegian coastline toward Murmansk.
+The routing has puzzled maritime observers because there is no regasification infrastructure in the region.
+Valera, formerly known as Velikiy Novgorod, diverted from its expected journey to China after loading LNG at Portovaya on January 25, 2026.
+The development further underscores growing concerns about Russia’s “shadow fleet” and increased traffic in Norway’s northern and Arctic waters.
+The tanker, which has been sanctioned by the United States, United Kingdom, Canada, the EU and Switzerland over its role in transporting Russian LNG, had previously delivered a cargo to China’s Beihai terminal in December 2025, marking the first sanctioned LNG export from Portovaya to Asia since U.S. sanctions were imposed earlier in the year.
+The vessel’s recent northward routing toward Murmansk and along the Norwegian coastline is unusual
+Valera also
+previously delivered gas from Portovaya to Jintang, China via the Northern Sea Route in August 2023
+.
+The vessel’s recent northward routing toward Murmansk and along the Norwegian coastline is unusual; there are no regasification terminals in the Russian Arctic or immediately adjacent waters that could readily take onboard LNG.
+Analysts have noted that without such a facility, there is no obvious commercial reason for the carrier to proceed to the region while laden with cargo, suggesting alternative motives behind the maneuver.
+And Valera’s ice-class is insufficient to head to China via the Arctic during the winter.
+Purpose of Arctic diversion unclear
+One speculative possibility is that Valera could conduct a ship-to-ship (STS) transfer to another vessel or unload into a floating storage unit (FSU) such as the Saam FSU moored in the Russian Arctic.
+Both scenarios, however, would be logistically inefficient: STS operations require calm conditions rarely found during winter and Saam FSU is already at capacity receiving cargo from the Arctic LNG 2 project.
+It is also notable that the Portovaya facility is operated by Gazprom, whereas infrastructure like the Saam FSU is linked to Novatek, making informal transfers across company networks less likely without clear commercial arrangements.
+Sanctioned LNG carrier Valera’s track from the Baltic Sea up along Norway’s coastline to Murmansk.
+MagicPort Maritime Intelligence
+The Valera deviation comes amid a broader pattern of unconventional movements by Russian energy shipping assets and questions about how sanctioned or “shadow fleet” vessels interact with international maritime norms.
+Busy Norwegian Arctic waters
+For Norway, whose northern maritime zones are already critical arteries for global energy shipments, these movements represent a potential expansion of risk.
+Historically, much of the shipping traffic involving Russia’s Arctic oil and gas headed westward toward European destinations or along the Northern Sea Route to Asia.
+Recent traffic patterns suggest a more complex picture: routes have become bidirectional and opportunistic, influenced by sanctions, logistical constraints, and alternative export strategies beyond traditional east-west corridors.
+For example, the Russian oil tanker Tavian, after being refused entry to German Baltic ports in January 2025,
+diverted to Murmansk and then lingered off Kildin Island before transiting into Kola Bay
+, potentially to load oil products, illustrating how vessels may use northern waters as dynamic staging areas.
+Also read:
+Gazprom Sends First-Ever Shipment of Baltic LNG to China via the Arctic
+Another instance underscoring this trend was the oil products tanker Hyperion, which sailed from Murmansk to Venezuela in early 2025, carrying naphtha, a move that broadened the geographic scope of Russian Arctic energy exports and integrated the region further into global markets via long-haul routes.
+The Valera vessel itself has a history tied closely to these sanction-circumvention dynamics.
+According to tracking databases, it is affiliated with Sovcomflot and has been subject to multiple sanctions since early 2025 for transporting Russian LNG to third countries, at times with its Automatic Identification System switched off, a tactic associated with the so-called shadow fleet used to evade tracking and sanctions enforcement.
+Norwegian authorities have taken notice of these developments.
+While Norway’s own sanctions regime implemented in alignment with EU measures restricts certain transshipment services for Russian LNG, Russian LNG carriers not under sanctions are still permitted to use Norwegian Arctic ports and waters for operations such as crew changes and resupply, drawing scrutiny from regulators and policymakers as sanctioned vessels continue to navigate these spaces.
+This increased movement of potentially sanctioned and shadow fleet vessels along Norway’s maritime approaches poses challenges for maritime and environmental safety, as well as for geopolitical oversight in the Arctic.
+politics
+politics
+Norway to Boost Capacity to Detect Drones Near the Border With Russia
+politics
+UK and Allied Show of Strength in the North
+opinions
+Power Crisis: How on Earth Could Things Go so Wrong?
+politics
+U.S., Japan and South Korea Launch Arctic Pacific Partnership Amid Continued Commercial Ties to Russia
+science
+Climate Change Puts Arctic Tourism Under Pressure: “A complex situation,” Says Researcher
+politics
+Greenland’s Prime Minister: Equality in Nordic Cooperation is a Matter of Political Will
+opinions
+Come Aboard!
+politics
+Norway Detains Sanctioned Chinese Ship Sailing Under False Flag, Inspects Second Vessel
+science
+Closer Cooperation With Indigenous Peoples Can Strengthen Total Defence in the North
+politics
+The Norwegian Government Responds to Preparedness Criticism From Nordland
+politics
+Top Alaska Military Officer: "Homeland Defense in the Arctic Cannot be Seasonal or Episodic"
+politics
+China Tests Domestic Satellite Communication in Arctic As Polar Capabilities Expand
+science
+Defence researcher: Putin is Gradually Raising our Tolerance For War
+politics
+Norway and Russia Have Reached a Fisheries Agreement for 2027
+opinions
+Russia’s Shadow Fleet and Greenland Tensions on Top
+politics
+Chinese Heavy-Lift Ships Remain Off Northern Norway as German Navy Vessel Patrols Area
+politics
+The EU's New Arctic Strategy: 'A Good Starting Point,' Says Researcher
+politics
+NATO Chief: Greenland Crisis Never Neared Confrontation
+opinions
+Greetings From a Broken Shit House
+science
+Antibodies Against Avian Influenza Detected in Polar Bears in Greenland
+politics
+From Norfolk in the US, NATO is Closely Monitoring the Threat Situation in the High North
+business
+Launches High North Strategy to Drive Investment and Growth
+arctic living
+Nordic Council Literature Prize Awarded to Sámi Novel
+business
+Russian Radio Station in Svalbard Halt Broadcasts Over Missing Norwegian Permit
+politics
+Russia’s Arctic ‘Shadow Fleet’ Goes Digital as New Putin Decree Tightens Grip on Shipping Data
+science
+Closer Arctic Research Cooperation With the Nordics Won’t Weaken U.S. Research Ties
+opinions
+At The Center of Geopolitics
+politics
+The Norwegian Frigate HNoMS Fridtjof Nansen on Svalbard Patrol
+politics
+Keel Laid for Future Flagship of the Canadian Icebreaker Fleet
+business
+To Upgrade Existing Subsea Fibre Cables to Svalbard and Deploy Technology on New Cable System
+opinions
+Norwegian–Russian Fisheries Cooperation Back on Its Feet
+politics
+No Promises to Accelerate Construction of New Bridge Near the Norwegian-Russian Border
+politics
+Norwegian Coast Guard Boards Sanctioned Chinese Heavy-Lift Ships Off the Coast of Northern Norway
+Also read:
+Russian ‘Zombie Tanker’ Sails Up Norwegian Coastline After Being Blocked by German Police
+HIGH
+NORTH
+NEWS
+ABOUT US
+High North News is an independent newspaper published by the High North Center at the Nord university. High North News follows the
+Norwegian Press Code of Ethics
+and is edited according to the
+Association of Norwegian Editors – Rights and Duties of the Editor
+. High North News is not responsible for the content or opinions expressed on external web pages.
+ADDRESS:
+High North News
+Nord University
+Postbox 1490
+8049 Bodø
+Norway
+EDITOR IN CHIEF:
+Trine Jonassen
+TELEPHONE:
+(+47) 917 77 527
+E-MAIL HIGH NORTH NEWS
+EDITORIAL STAFF:
+EDITOR/COMMENTATOR:
+Arne O. Holm
+Tel:
+(+47) 905 29 472
+JOURNALIST:
+Hilde-Gunn Bye
+JOURNALIST:
+Astri Edvardsen
+TRANSLATOR:
+Birgitte Annie Hansen
+Copyright © 2026
+High North News. All Rights Reserved.
+Powered by Labrador CMS

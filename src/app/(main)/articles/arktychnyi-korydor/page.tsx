@@ -120,6 +120,29 @@ export default function Page() {
         </p>
 
         <p>
+          Війна закриває південь. Останню партію чавуну з Новоросійська
+          відвантажили 31 липня, а з 14 жовтня Мурманськ уперше з 1996 року
+          приймає уральський чавун для Туреччини. Дорога туди на десять днів
+          довша, і частина виробників, за оцінкою аналітика Argus для FT,
+          доплачує до 100 доларів за тонну
+          <a className="ref" href="#ref-10">
+            [10]
+          </a>
+          . 28 жовтня в Мурманську почали вантажити й першу пробну партію
+          пшениці, 29,5 тисячі тонн для Північної Африки
+          <a className="ref" href="#ref-11">
+            [11]
+          </a>
+          . Губернатор Ростовської області Юрій Слюсар 5 листопада сказав, що
+          робота портів Ростова, Таганрога й Азова «фактично призупинена»
+          <a className="ref" href="#ref-12">
+            [12]
+          </a>
+          . Цей вантаж іде на захід, повз Норвегію, і криголами йому не
+          потрібні.
+        </p>
+
+        <p>
           До кінця вересня ПМШ пройшли 22 танкерні рейси на схід із приблизно
           2,1 мільйона тонн вантажу, здебільшого сирої нафти. Вантажили її в
           Мурманську, Приморську й Усть-Лузі. Container News називає це
@@ -342,6 +365,25 @@ export default function Page() {
               <a href="https://safety4sea.com/northern-sea-route-transits-surpass-2025-levels-as-eu-seeks-greater-arctic-access/">
                 safety4sea.com
               </a>
+            </li>
+            <li id="ref-10">
+              Kyiv Post — «Russia Reroutes Pig Iron to Arctic Port for First
+              Time in 30 Years», 07.11.2026. Переказ Financial Times.{" "}
+              <a href="https://www.kyivpost.com/post/89440">kyivpost.com</a>
+            </li>
+            <li id="ref-11">
+              «Новая газета Европа» — «Россия вынуждена вывозить зерно через
+              Арктику из-за украинских атак на черноморские порты — FT»,
+              01.11.2026. Переказ Financial Times.{" "}
+              <a href="https://novayagazeta.eu/articles/2026/11/01/rossiia-vynuzhdena-vyvozit-zerno-cherez-arktiku-iz-za-ukrainskikh-atak-na-chernomorskie-porty-ft-news">
+                novayagazeta.eu
+              </a>
+            </li>
+            <li id="ref-12">
+              BFM — «„Южный морской путь встал“ — эксперт об остановке портов
+              Ростовской области после атак беспилотников», 06.11.2026. Слова
+              Слюсаря — з ефіру «Россия 24».{" "}
+              <a href="https://www.bfm.ru/news/623079">bfm.ru</a>
             </li>
           </ol>
         </section>

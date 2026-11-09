@@ -1,0 +1,301 @@
+URL:         https://www.kyivpost.com/post/87733
+Кінцевий:    https://www.kyivpost.com/post/87733
+Заголовок:   Russian Ports Lose Up to 100% of Cargo, Seek Government Bailout After Drone Strikes
+Дата публ.:  2026-10-21
+Завантажено: 2026-11-08 06:42 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 115922
+Оригінал:    raw/178-kyivpost.com-87733.html
+sha256:      2a044d9bb79871c438c5f69bc7e43d1678f146008998e75574824e4c97635c23
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 27
+==============================================================================
+Russian Ports Lose Up to 100% of Cargo, Seek Government Bailout After Drone Strikes
+Russian ports on the Black and Azov seas lost up to 100% of cargo volumes in September following massive drone attacks, prompting officials to seek state bailouts. The disruption has put thousands of jobs at risk and caused estimated monthly losses exceeding $2.2 billion.
+A view of the coal terminal of the far-eastern Russian port of Vladivostok on September 5, 2022. (Photo by Kirill KUDRYAVTSEV / AFP)
+Vitali Klitschko cited the fact that the activists' slogans coincided with the grievances voiced by the central government.
+To suggest a correction or clarification, write to us here
+Please leave your suggestions or corrections here
+Kyiv Post is Ukraine’s first and oldest English news organization, reporting since 1995. Its international reach – 90% of readers are outside of Ukraine – make it truly Ukraine’s global voice.
+‘Let’s Sign a Diesel Deal’: Zelensky Challenges Trump
+12 Senators Sign Bipartisan Letter Urging Trump to Rescind Russian Diesel Deal
+Lavrov Claims Peace Deal Would Mean End of Zelensky’s ‘Regime’
+White House Ordered Restrictions on Ukraine’s Starshield, Disrupting Drone Defense – Reuters
+OPINION: Putin Expands His Hybrid War to the Black Sea
+Romania F-16s Down Two Drones Over Black Sea Waters
+ANALYSIS: Muted Response by NATO to First-Ever Russian Drone Attack vs. Cargo Ship in Romanian Territory
+Romania Says Eight People Missing After Fire on Vessel in Black Sea
+Kremlin Rejects Energy Ceasefire But Says Full Peace Deal Requires Ukraine’s Participation
+Drone Attacks on Cargo Ships in the Black Sea
+Air Raid Alerts Stall Ukraine-Poland Border Crossings
+Ukrainian Drone Maker Wild Hornets Rethinks Reliance on Starlink
+Zelensky disputes Russia’s ability to lower global diesel prices and offers Washington a reciprocal Ukrainian energy agreement.
+Web links to Kyiv Post material are allowed provided that they contain a hyperlink to the
+stories and only a brief extract (not more than 10 percent) of the text.
+Online media registration number: R40-05383
+All materials, including photographs, contained on this site are protected by copyright law and
+not be reproduced without the prior written permission of BIZNESGRUPP TOV at
+All Interfax-Ukraine news agency stories cannot be reproduced or distributed in any form without
+written permission of Interfax-Ukraine.
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Russian Ports Lose Up to 100% of Cargo, Seek Government Bailout After Drone Strikes
+War
+Ukraine
+World
+North America
+Latin America
+Europe
+Eastern Europe
+Middle East
+Africa
+Asia
+Economy
+Business
+Technology
+Finance
+Energy
+Agriculture
+Videos
+Podcasts
+Analysis
+Corruption Watch
+Opinions
+Culture
+Reviews
+History
+Sports
+Classifieds
+Spotlight
+Cartoons
+War
+Ukraine
+World
+Economy
+Videos
+Analysis
+Opinions
+Classifieds
+Spotlight
+EN
+UK
+EN
+UK
+War
+Ukraine
+World
+North America
+Europe
+Eastern Europe
+Middle East
+Asia
+Economy
+Business
+Technology
+Finance
+Energy
+Agriculture
+Videos
+Analysis
+Opinions
+Classifieds
+Spotlight
+Home
+World
+Russian Ports Lose Up to 100% of Cargo, Seek Government Bailout After Drone Strikes
+Black Sea
+Azov
+Russia
+Russian Ports Lose Up to 100% of Cargo, Seek Government Bailout After Drone Strikes
+In brief:
+Russian ports on the Black and Azov seas lost up to 100% of cargo volumes in September following massive drone attacks, prompting officials to seek state bailouts. The disruption has put thousands of jobs at risk and caused estimated monthly losses exceeding $2.2 billion.
+by
+Kyiv Post
+|
+                    
+                    Oct. 21, 2026, 1:15 pm
+Make us preferred on Google
+Flip
+Share
+Facebook
+X (Twitter)
+LinkedIn
+Bluesky
+Email
+Copy
+Copied
+A view of the coal terminal of the far-eastern Russian port of Vladivostok on September 5, 2022. (Photo by Kirill KUDRYAVTSEV / AFP)
+Content
+Share
+Facebook
+X (Twitter)
+LinkedIn
+Bluesky
+Email
+Copy
+Copied
+Flip
+Make us preferred on Google
+Russian ports on the Black and Azov seas lost 95-100% of their cargo volumes and 85% of passenger traffic in September following massive drone attacks.
+Major ports, including Novorossiysk, Taman and Tuapse, have sent employees on unpaid leave or laid them off as operations grind to a halt, Kommersant
+reported
+on Oct. 21, citing sources familiar with the matter.
+JOIN US ON TELEGRAM
+Follow our coverage of the war on the
+@Kyivpost_official
+.
+The disruption has put southern Russia’s logistics network under severe strain, according to OTEKO, which operates terminals in Taman.
+The company said combined monthly losses for businesses and government budgets at all levels exceed 200 billion rubles ($2.2 billion), citing expert estimates.
+Krasnodar governor seeks state bailout
+Krasnodar Krai Governor Veniamin Kondratyev has asked Deputy Prime Minister Dmitry Patrushev for emergency state support to keep the region’s seaports afloat.
+Advertisement
+In a letter reviewed by Kommersant, Kondratyev proposed subsidies to cover wages, equipment maintenance, warehouse and port infrastructure upkeep, electricity and utility bills.
+He also called for compensation for the costs of keeping terminals ready to resume operations once restrictions are lifted, partial reimbursement of loan interest and subsidized loans to cover cash-flow shortfalls during shutdowns.
+Patrushev instructed the Transport, Finance, Agriculture and Economic Development ministries on Oct. 6 to review the proposals, Kommersant reported.
+The Association of Commercial Seaports had previously appealed to the government for assistance, seeking tax and rent payment deferrals, wage subsidies, reinsurance for war-related risks and a suspension of regulatory inspections.
+Other Topics of Interest
+Kyiv Mayor Klitschko Accuses Government of Staging Anti-Mayor Protest
+Vitali Klitschko cited the fact that the activists' slogans coincided with the grievances voiced by the central government.
+Its proposals included deferring payments for federally owned facilities leased by port operators, as well as VAT, corporate income tax, social insurance contributions, property tax and land tax.
+Billions at stake
+The southern Russian port industry employs around 20,000-25,000 people, according to a source cited by Kommersant.
+Subsidizing their wages at the minimum wage level would cost the government an estimated 550 million-670 million rubles ($6.1 million-$7.4 million) per month, or 6.6 billion-8 billion rubles ($73 million-$89 million) annually.
+Advertisement
+The ports themselves pay around 700 million rubles ($7.8 million) in property and land taxes each year, alongside approximately 1.5 billion rubles ($16.7 million) in rent for federally owned facilities.
+“If the infrastructure is not supported and these highly specialized workers are not retained now, everything will have to be rebuilt from scratch once hostilities end,” a source told Kommersant.
+OTEKO said state support was needed to restore cargo throughput at ports that handle key Russian exports, including coal, grain, metals and petroleum products.
+Ukraine’s campaign against Russian ports
+Ukraine has stepped up long-range strikes on Russian ports, oil terminals and logistics hubs in an effort to disrupt military operations and reduce the export revenues helping fund Moscow’s war against Ukraine.
+In September, Ukrainian forces struck
+Novorossiysk’s port infrastructure and fuel-oil storage facilities
+, as well as the
+Makhachkala Commercial Sea Port
+on the Caspian Sea, which Kyiv says is used to transport Iranian-made Shahed drones to Russia.
+Advertisement
+Previous attacks have also disrupted operations at
+Novorossiysk’s Sheskharis oil terminal
+, while a series of strikes on
+Tuapse’s port and oil refinery
+caused more than $300 million in direct infrastructure damage, according to Ukraine’s General Staff.
+To suggest a correction or clarification, write to us here
+You can also highlight the text and press
+Ctrl + Enter
+Contact Us
+Please leave your suggestions or corrections here
+Cancel
+Send
+Kyiv Post
+Kyiv Post is Ukraine’s first and oldest English news organization, reporting since 1995. Its international reach – 90% of readers are outside of Ukraine – make it truly Ukraine’s global voice.
+POPULAR
+‘Let’s Sign a Diesel Deal’: Zelensky Challenges Trump
+By
+                                                                                        Kyiv Post
+Oct. 12, 2026
+12 Senators Sign Bipartisan Letter Urging Trump to Rescind Russian Diesel Deal
+By
+                                                                                        Kyiv Post
+Oct. 14, 2026
+Lavrov Claims Peace Deal Would Mean End of Zelensky’s ‘Regime’
+By
+                                                                                        Kyiv Post
+20h ago
+White House Ordered Restrictions on Ukraine’s Starshield, Disrupting Drone Defense – Reuters
+By
+                                                                                        Kyiv Post
+Oct. 16, 2026
+More on Black Sea
+EXCLUSIVE
+War in Ukraine
+OPINION: Putin Expands His Hybrid War to the Black Sea
+By
+                    Jonathan Sweet
+1d ago
+Europe
+Romania F-16s Down Two Drones Over Black Sea Waters
+By
+                    TVP World
+Oct. 18, 2026
+NATO
+ANALYSIS: Muted Response by NATO to First-Ever Russian Drone Attack vs. Cargo Ship in Romanian Territory
+By
+                    Stefan Korshak
+Oct. 16, 2026
+Drones
+Romania Says Eight People Missing After Fire on Vessel in Black Sea
+By
+                    AFP
+Oct. 15, 2026
+Read Next
+Energy
+Kremlin Rejects Energy Ceasefire But Says Full Peace Deal Requires Ukraine’s Participation
+By
+                    Julia Struck-Feshchenko
+10m ago
+Russia
+Drone Attacks on Cargo Ships in the Black Sea
+By
+                    Eurotopics
+46m ago
+War in Ukraine
+Kyiv Mayor Klitschko Accuses Government of Staging Anti-Mayor Protest
+By
+                    Kateryna Zakharchenko
+54m ago
+Ukraine
+Air Raid Alerts Stall Ukraine-Poland Border Crossings
+By
+                    Kyiv Post
+58m ago
+« Previous
+Ukrainian Drone Maker Wild Hornets Rethinks Reliance on Starlink
+POPULAR
+‘Let’s Sign a Diesel Deal’: Zelensky Challenges Trump
+Zelensky disputes Russia’s ability to lower global diesel prices and offers Washington a reciprocal Ukrainian energy agreement.
+By
+                                                                                                    Kyiv Post
+Oct. 12, 2026
+12 Senators Sign Bipartisan Letter Urging Trump to Rescind Russian Diesel Deal
+By
+                                                                                        Kyiv Post
+Oct. 14, 2026
+Lavrov Claims Peace Deal Would Mean End of Zelensky’s ‘Regime’
+By
+                                                                                        Kyiv Post
+20h ago
+back to top
+Menu
+Ukraine
+World
+Business
+Economy
+Classifieds
+Spotlight
+PDF Archive
+Multimedia
+Video
+Podcasts
+Cartoons
+About
+About Us
+Contact Us
+Advertising
+Newsletter
+Policies
+Privacy Policy
+Cookie Policy
+Terms & Conditions
+Web links to Kyiv Post material are allowed provided that they contain a hyperlink to the
+                            stories and only a brief extract (not more than 10 percent) of the text.
+Online media registration number: R40-05383
+© 1995-2026 BISNESGROUPP LLC
+All materials, including photographs, contained on this site are protected by copyright law and
+                    may
+                    not be reproduced without the prior written permission of BIZNESGRUPP TOV at
+[email protected]
+.
+All Interfax-Ukraine news agency stories cannot be reproduced or distributed in any form without
+                    written permission of Interfax-Ukraine.

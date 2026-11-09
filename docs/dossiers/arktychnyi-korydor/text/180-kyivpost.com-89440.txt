@@ -1,0 +1,67 @@
+URL:         https://www.kyivpost.com/post/89440
+Кінцевий:    https://www.kyivpost.com/post/89440
+Заголовок:   Russia Reroutes Pig Iron to Arctic Port for First Time in 30 Years
+Дата публ.:  2026-11-07
+Завантажено: 2026-11-08 07:18 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 118296
+Оригінал:    raw/180-kyivpost.com-89440.html
+sha256:      493cf59d0042689f05f37ef61200f82ad35458ec93d8e2df9c3a200a79d15da1
+Витяг:       trafilatura
+
+==============================================================================
+[Russia](https://www.kyivpost.com/topic/Russia) has begun exporting pig iron through its Arctic port of Murmansk for the first time in 30 years, rerouting shipments away from southern waters following Ukrainian drone and missile strikes in the [Black Sea](https://www.kyivpost.com/topic/black-sea), the [Financial Times](https://www.ft.com/content/80d91653-c210-43cd-b91e-2b8c644561c1?syn-25a6b1a6=1) reported.
+
+Video footage published by the Commercial Port of Murmansk showed cranes and electromagnets loading pig iron onto a cargo vessel, with port authorities confirming that structural shifts in southern logistics had triggered a sharp cargo surge through the northern hub.
+
+### JOIN US ON TELEGRAM
+
+Follow our coverage of the war on the [@Kyivpost_official](https://t.me/Kyivpost_official).
+
+The port confirmed that it began handling pig iron on Oct. 14, marking the first time the facility processed the commodity since 1996.
+
+According to the Financial Times, the test cargo of 65,000 metric tons is likely headed to [Turkey](https://www.kyivpost.com/topic/turkey), as the [EU](https://www.kyivpost.com/topic/eu) enacted a total ban on imports of Russian pig iron on Jan. 1, 2026.
+
+Russia ranks alongside [Brazil](https://www.kyivpost.com/topic/Brazil) and Ukraine as one of the world’s largest exporters of pig iron, a foundational raw material utilized in electric arc furnaces and foundry manufacturing.
+
+## Russia abandons Black Sea routes for metal shipments
+
+Russian metals producers were forced to seek alternative export corridors after Ukrainian maritime strikes disrupted commercial shipping in the Black Sea.
+
+Maritime security consultancy Ambrey recorded nearly 700 kinetic impacts and drone strikes across the Black Sea basin this year alone. The persistent interdictions halted bulk metals loadings at Russia’s primary southern port of Novorossiysk, where the final export shipment of pig iron was logged on July 31.
+
+
+### 
+                                [Russia Cracks Down on Those Questioning pro-Putin Poll Results](https://www.kyivpost.com/post/89435)
+                            
+
+To preserve raw material exports, Russian exporters initially redirected cargoes toward Baltic Sea terminals. However, severe cargo congestion across Baltic ports forced state logistics operators to route heavy industrial shipments thousands of kilometers north to the Arctic.
+
+Transporting metal via the Arctic Circle introduces major logistical penalties. More than 180 railcars were required to move the initial 65,000-ton cargo from metallurgical smelters in the Ural Mountains to Murmansk.
+
+Maritime transit from the Barents Sea to Mediterranean buyers adds roughly 10 days to voyage times compared to traditional Black Sea routes, sharply driving up delivery expenses.
+
+Freight rates from Murmansk to Turkey are nearly double those from Black Sea terminals, Austin Barnes, a metals analyst at price reporting agency Argus, told the Financial Times. Barnes said some Russian metallurgical producers are paying up to $100 more per ton in combined rail and maritime freight costs to maintain export volumes.
+
+## How Murmansk is adapting to bulk metals transit
+
+Located north of the Arctic Circle near the Finnish border, Murmansk has historically operated primarily as an export terminal for hydrocarbons and coal.
+
+To handle heavy industrial metals, port engineers manufactured specialized loading buckets and retrofitted cranes with industrial electromagnets. Murmansk port authorities stated that they will assess establishing regular monthly pig iron shipments once trial loadings conclude, alongside initiatives to expand grain and general cargo transshipment.
+
+However, maritime and logistics specialists noted that rerouting heavy bulk freight creates systemic bottlenecks for the state-owned monopoly Russian Railways, which already faces railcar shortages and network congestion.
+
+Yoruk Isik, a maritime shipping analyst based in Istanbul, observed that the shift to remote Arctic terminals underscores structural logistical vulnerabilities. Isik noted that improvising long-distance detours remains difficult to sustain due to strict rail network constraints and harsh winter operating conditions in the polar north.
+
+## Moscow’s sanctions strategies
+
+The logistical workaround arrives as [Moscow](https://www.kyivpost.com/topic/moscow) explores alternative economic partnerships to offset Western sanctions and maintain hard-currency revenues.
+
+Speaking at the Russia-Africa summit in Moscow on Oct. 29, Russian President Vladimir [Putin](https://www.kyivpost.com/topic/putin) said Russian industrial corporations are actively exploring [relocating production operations to African countries](https://www.kyivpost.com/post/88581). Putin explicitly linked the initiative to Western sanctions restrictions, claiming that Russian businesses possess significant investment capital despite international financial barriers.
+
+The summit, attended by [delegations from 48 African nations](https://www.kyivpost.com/post/88280), saw state-owned enterprises pitch joint industrial ventures, including Rosatom proposing floating nuclear power stations and aluminum producer Rusal signing a preliminary agreement to mine and process bauxite in Ghana.
+
+Ukrainian defense intelligence (HUR) previously warned that Moscow leverages international resource corridors and re-routed [export supply chains to circumvent trade bans](https://www.kyivpost.com/post/78799), acquire dual-use components for weapons manufacturing, and generate funds to sustain its war against Ukraine.
+
+You can also highlight the text and press
+
+__Ctrl + Enter__

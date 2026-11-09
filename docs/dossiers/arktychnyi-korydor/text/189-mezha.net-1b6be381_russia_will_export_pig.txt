@@ -1,0 +1,44 @@
+URL:         https://mezha.net/eng/news/1b6be381_russia_will_export_pig
+Кінцевий:    https://mezha.net/eng/news/1b6be381_russia_will_export_pig
+Заголовок:   Russia will export pig iron through Murmansk for the first time in 30 years to avoid Ukrainian strikes. | Межа
+Дата публ.:  2026-11-07
+Завантажено: 2026-11-08 07:57 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 171289
+Оригінал:    raw/189-mezha.net-1b6be381_russia_will_export_pig.html
+sha256:      6028b894eead33c20f9c52ceff742ab36b4f3d38cbe750dc058fc81548643d7e
+Витяг:       trafilatura
+
+==============================================================================
+# Russia will export pig iron through Murmansk for the first time in 30 years to avoid Ukrainian strikes.
+
+[
+						
+					
+	]
+
+Russian exporters are weighing a costly alternative as risks rise along a key maritime corridor. The proposed route adds days and expense.
+
+*Russia is preparing to resume pig iron exports through the Arctic port of Murmansk for the first time since 1996, in an effort to avoid Ukrainian strikes in the Black Sea. According to the Financial Times, the alternative route extends delivery times and increases transportation costs.*
+
+Reported by __ Financial Times__.
+
+*Photo: Port of Murmansk, May 8, 2022, archival illustrative photo. Source: *[Svetlov Artem / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Murmansk_port_2022-05.jpg)*, *[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)*.*
+
+According to the publication, a trial shipment of 65,000 tonnes of pig iron is planned to be sent through Murmansk to the Mediterranean Sea. More than 180 railcars were used to transport the metal to assemble the cargo.
+
+Turkey is the likely destination. The FT links this to the European Union’s ban on imports of Russian pig iron, which has been in effect since January 1, 2026.
+
+Shipping from Murmansk to Turkey takes around 10 days longer than from Black Sea ports. According to Austin Barnes, an analyst at price reporting agency Argus, freight costs on this route are almost twice as high.
+
+Some Russian producers, he estimates, pay an additional $100 per tonne to transport raw materials by rail and sea.
+
+Russia previously exported pig iron through Novorossiysk. According to the FT, the last shipment of the metal from the Black Sea port took place on July 31, 2026.
+
+Russian exporters are seeking alternative routes amid attacks on vessels in the Black Sea by both sides. According to maritime security company Ambrey, cited by __ Ukrinform__ with reference to the FT, nearly 700 strikes have been recorded in the region since the start of 2026.
+
+Murmansk has traditionally been a hub for Russian oil exports. Amid threats in the Black Sea, the port is expanding its handling of metals and grain.
+
+**You might be interested in:**
+
+- [China’s container ship Istanbul Bridge takes the Arctic Northern Sea Route, signaling ambitions for a Polar Silk Road amid climate change and geopolitical shifts.](https://mezha.net/eng/news/china-s-istanbul-bridge-navigates-arctic-northern-sea-route-boosting-polar-silk-road-ambitions/)
+- [Turkish Foreign Minister Hakan Fidan called on regional countries and the international community to prevent the Black Sea from becoming a new battlefield, warning that attacks on civilian vessels endanger shipping and the environment.](https://mezha.net/eng/news/6e7d72f4_turkey_urges_regional/)

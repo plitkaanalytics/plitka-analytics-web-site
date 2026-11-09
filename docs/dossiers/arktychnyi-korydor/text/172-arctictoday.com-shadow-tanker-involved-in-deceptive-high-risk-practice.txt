@@ -1,0 +1,24 @@
+URL:         https://www.arctictoday.com/shadow-tanker-involved-in-deceptive-high-risk-practices-enters-norwegian-arctic-waters/
+Кінцевий:    https://www.arctictoday.com/shadow-tanker-involved-in-deceptive-high-risk-practices-enters-norwegian-arctic-waters/
+Заголовок:   Shadow tanker involved in "deceptive, high-risk practices" enters Norwegian Arctic waters - ArcticToday
+Дата публ.:  2026-06-12
+Завантажено: 2026-11-08 06:39 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 122945
+Оригінал:    raw/172-arctictoday.com-shadow-tanker-involved-in-deceptive-high-risk-practice.html
+sha256:      4521a6a2e0f13b0bc72420e5b08ee8f67bfaf5726ed97c4322065912c9e77b0c
+Витяг:       trafilatura
+
+==============================================================================
+# Shadow tanker involved in “deceptive, high-risk practices” enters Norwegian Arctic waters
+
+[The Independent Barents Observer](https://thebarentsobserver.com/en)
+
+The Vayu 1 has changed its flag state nine times in three years and may be sailing in violation of international safety regulations.
+
+The 21-year-old ship, currently sailing under the flag of Cameroon, entered Norwegian waters in the Barents Sea on 12 June. It set out from Arkhangelsk on 30 May and has an unknown destination, according to ship traffic data from MarineTraffic. The Vayu 1 (IMO 9290517) has changed its flag state nine times since 2023. For most of 2025, it sailed either under a false flag or an unknown flag, according to the ship information system Equasis. Likewise, the ship has repeatedly changed its ship manager and its International Safety Management (ISM) manager.
+
+Its current ISM manager is unknown, according to Equasis. The International Safety Management (ISM) Code is an international standard established by the International Maritime Organisation (IMO) for the safe operation of ships and for pollution prevention. The Vayu 1 is subject to international sanctions imposed by the EU, the UK, and several other countries. According to OpenSanctions, an open-source database of sanctions, the ship is involved in “deceptive, high-risk practices.” It has repeatedly turned off its Automatic Identification System (AIS) and been involved in risky ship-to-ship oil transfer operations. The tanker has a gross tonnage of 23,240.
+
+The current registered owner of the ship is Layla Maritime Inc., a company sanctioned by Ukraine and registered in the Seychelles. A compilation of shipping data conducted by the Barents Observer shows that more than 120 sanctioned ships have sailed along the Norwegian coast since September 2025. Most of them had Murmansk as their destination, and the majority were oil tankers. The Vayu 1 sailed north along the Norwegian coast in March this year. Many of the “shadow tankers” involved in shipments of sanctioned Russian oil today have Russian guards with experience from the war in Ukraine on board.
+
+According to The Times (behind paywall), a significant number of these guards previously worked for the mercenary Wagner Group. The newspaper identified as many as 83 former Wagner soldiers on 189 voyages through British waters since 2023. According to the report, the guards carry no weapons. Their main task is to monitor non-Russian captains and prevent them from cooperating with European authorities.

@@ -1,0 +1,35 @@
+URL:         https://www.pravda.com.ua/eng/news/2026/07/14/8044034/
+Кінцевий:    https://www.pravda.com.ua/eng/news/2026/07/14/8044034/
+Заголовок:   Russia to reroute exports away from Sea of Azov following drone attacks – Reuters
+Дата публ.:  2026-07-14
+Завантажено: 2026-11-08 06:37 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 159632
+Оригінал:    raw/153-pravda.com.ua-8044034.html
+sha256:      1eb21b29d6746c2f81a708869ad9e55bdb6e0eb1e72282e011e5b32dcb5dd46a
+Витяг:       trafilatura
+
+==============================================================================
+# Russia to reroute exports away from Sea of Azov following drone attacks – Reuters
+
+Russia is preparing to reroute grain shipments away from the Sea of Azov following Ukrainian drone attacks on tankers, ferries, tugboats and other vessels.
+
+	**Source:** [Reuters](https://www.reuters.com/world/russia-prepares-reroute-grain-exports-sea-azov-after-ukrainian-attacks-2026-07-14/)
+
+	**Details:** Around a quarter of Russia's grain exports pass through the Sea of Azov.
+
+Following Ukrainian attacks, on 14 July shipping in the Sea of Azov remained restricted, marking the biggest disruption to Black Sea grain trade since the start of Russia's full-scale invasion of Ukraine.
+
+Russia's Ministry of Agriculture said the situation would not affect export volumes or domestic food security, as grain could be rerouted through alternative ports.
+
+"Given Russia's significant capacity for handling agricultural cargo in various regions, supply logistics will be rerouted if necessary," the ministry stated.
+
+However, neither the Ministry of Agriculture nor the Ministry of Transport, which published a separate statement, confirmed that shipping restrictions are in place in the Sea of Azov.
+
+Nevertheless, on 13 July, a Russian source told Reuters that commercial vessels can move freely in the Sea of Azov but cannot enter or exit through the Kerch Strait.
+
+Grain exporters said cargo could be rerouted through deep-water grain terminals on the Black Sea or through Baltic Sea ports, although some of the latter have come under Ukrainian drone attacks.
+
+	**Background:** On the night of 13-14 July, Ukraine's Forces of Unmanned Systems [damaged five tankers, five dry cargo vessels and one tugboat](https://www.pravda.com.ua/eng/news/2026/07/14/8044017/); over nine days, drones struck 116 vessels in total.
+
+
+Support Ukrainska Pravda onPatreonto help us keep reporting!

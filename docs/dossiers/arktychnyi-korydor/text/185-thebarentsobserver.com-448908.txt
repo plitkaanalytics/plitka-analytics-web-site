@@ -1,0 +1,43 @@
+URL:         https://www.thebarentsobserver.com/news/shadow-tanker-sailed-outside-200mile-zone-to-avoid-norwegian-scrutiny/448908
+Кінцевий:    https://www.thebarentsobserver.com/news/shadow-tanker-sailed-outside-200mile-zone-to-avoid-norwegian-scrutiny/448908
+Заголовок:   Shadow tanker sailed outside 200-mile zone to avoid Norwegian scrutiny
+Дата публ.:  2026-04-17
+Завантажено: 2026-11-08 10:43 UTC
+HTTP:        -   Тип: text/html   Байтів: 119560
+Оригінал:    raw/185-thebarentsobserver.com-448908.html
+sha256:      bac9648422a7832cfdaf61e31917bc01bb880edd500cd082dd5ab6811558375f
+Витяг:       trafilatura
+Примітка:    сайт віддає curl'у PoW-перевірку «Are we human?»; сторінку
+             збережено з браузера редактора (Ctrl+S) 08.11.2026 — це DOM
+             після рендеру, не байти відповіді сервера
+
+==============================================================================
+# Shadow tanker sailed outside 200-mile zone to avoid Norwegian scrutiny
+
+Norwegian authorities tried, to no avail, to establish contact with the 23-year-old tanker flying the flag of Equatorial Guinea and operating under opaque ownership as it sailed northwards towards Murmansk.
+
+The 240-metre-long tanker Apple (IMO 9271327) deliberately avoided Norway’s ship reporting area as it made its way to the Arctic Russian port this week.
+
+Ship traffic data show that the Apple sailed outside Norway’s Exclusive Economic Zone (EEZ), from the North Sea to the Barents Sea. On April 16, it passed south of Bear Island with just a 30 km margin, before entering the Russian part of the Barents Sea on April 17. It is expected to make a port call in Murmansk on April 18.
+
+The chosen route suggests the vessel may be concealing irregularities.
+
+When sailing outside the EEZ, ships are not required to report to national coastal authorities on matters related to safety, security, or marine environmental protection.
+
+It is also unclear whether the Apple possesses valid insurance documents.
+
+Arve Dimmen, Director of Navigation Technology and Maritime Services at the Norwegian Coastal Administration, confirmed to the Barents Observer that the Vessel Traffic Service (VTS) in Vardø, northern Norway, attempted to obtain updated contact details for the vessel—but without success.
+
+"They [VTS Vardø] were unable to make contact," he said. "This means we have neither CLC data nor Barents SRS data for this vessel," he added.
+
+The Civil Liability Convention (CLC) certificate verifies insurance coverage for oil pollution damage.
+
+The Barents Ship Reporting System (Barents SRS), established in 2013 by Norway and Russia with approval from the International Maritime Organisation (IMO), mandates that all tankers and ships carrying polluting cargo must submit a report before entering the area between Lofoten and the Norwegian-Russian maritime border.
+
+The Apple is part of the "shadow fleet" transporting sanctioned Russian oil to international markets. It is subject to sanctions by the EU, USA, UK, and other countries. It will load oil in Murmansk and then return westwards through north Norwegian waters.
+
+Like most "shadow vessels," it has changed its name and flag multiple times since 2022, previously sailing under the names View, Cup, and Lea, and under the flags of Antigua and Barbuda, Liberia, and a false Guinean flag.
+
+According to the Equasis shipping database, the tanker has a history of unclear ownership. After March 2025, Equasis listed its owner and manager as "Rptd Sold Undisclosed Interest", a term used when the buyer or seller is not publicly disclosed. Since March 30, 2026, its owner was reported to be Aqua Fleet Limited, a sanctioned company registered in Azerbaijan.
+
+Operators of Russia’s shadow fleet are growing increasingly cautious of foreign law enforcement. In recent months, the French Navy has boarded two shadow tankers carrying Russian Arctic oil in the Mediterranean. Authorities in Germany, the UK, Sweden, and Denmark have also taken enforcement actions against Russia-affiliated carriers.

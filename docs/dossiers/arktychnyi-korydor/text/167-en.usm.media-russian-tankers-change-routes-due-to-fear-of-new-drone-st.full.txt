@@ -1,0 +1,128 @@
+URL:         https://en.usm.media/russian-tankers-change-routes-due-to-fear-of-new-drone-strikes/
+Кінцевий:    https://en.usm.media/russian-tankers-change-routes-due-to-fear-of-new-drone-strikes/
+Заголовок:   Russian tankers change routes due to fear of new drone strikes | Ukrainian and World Shipping News - Ukrainian Shipping Magazine - Ukrainian and World Shipping News
+Дата публ.:  2025-12-18
+Завантажено: 2026-11-08 06:38 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 60844
+Оригінал:    raw/167-en.usm.media-russian-tankers-change-routes-due-to-fear-of-new-drone-st.html
+sha256:      b70e09b50cfdaad7c71646d6b36be239aa585c7275263d2b0851310ee8d15755
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 22
+==============================================================================
+Russian tankers change routes due to fear of new drone strikes | Ukrainian and World Shipping News - Ukrainian Shipping Magazine - Ukrainian and World Shipping News
+There is still no electricity supply in the Odesa port: stevedoring companies operate from generators
+In the tender for the construction of a vessel for the USPA, a Romanian company was again chosen instead of Nibulon
+France to extend patrol plane mission in Black Sea due to attacks on vessels
+Storms are still raising oil from the bottom that settled after the Chornomorsk strike
+Sanctioned vessels are increasingly flying the Russian flag
+European Commission President to visit Bulgaria and Romania amid increase in attacks in the Black Sea
+The port of Chornomorsk approved a program to support employees
+The first container with Ukrainian powdered milk arrived at the port of Algeria
+Ukraine tops the ranking of barley suppliers to the EU for the first time
+The European Commission recommends that Ukraine restore product safety controls
+Egypt and Algeria provided almost half of Ukrainian wheat exports in October
+IMO Council supports document initiated by Ukraine on shipping protection
+Registration certificate of Information Agency “Ukrainian Shipping Magazine”: КВ №752-574Р.
+Director: Marharyta Kovalenko.
+Contact phone number of the newsroom:
+Ukrainian Shipping Magazine is a media dedicated to current events and news of shipping, in the world in general and in Ukraine in particular.
+Incidents, achievements, analytics, operational information, the activities of enterprises and the state of shipping, the sectoral policy of the state, the economic component – all this can be found in USM publications.
+Exclusive data, comments, and expert reviews from shipping industry experts are a must for USM as we bring you the best quality news!
+The use of materials is permitted provided that there is a link (for Internet publications – hyperlinks) to Ukrainian Shipping Magazine at least in the third paragraph.
+Materials marked ® or “Supported” are published as advertising.
+© 2021-2026, Ukrainian Shipping Magazine.
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Russian tankers change routes due to fear of new drone strikes | Ukrainian and World Shipping News - Ukrainian Shipping Magazine - Ukrainian and World Shipping News
+News
+Analytics
+Articles
+Interview
+Blogs
+Ua
+You are reading
+Russian tankers change routes due to fear of new drone strikes
+Share
+Home
+»
+Abroad
+»
+Russian tankers change routes due to fear of new drone strikes
+Russian tankers change routes due to fear of new drone strikes
+18.12.2025 - 13:12
+Tanker trips from Novorossiysk are increasingly taking a coastal corridor along Georgia and Turkey, lengthening the crossing and making monitoring more difficult.
+At least two tankers carrying Russian crude oil have taken a coastal route to the Bosphorus instead of a direct course through the middle of the Black Sea, Bloomberg
+reported
+.
+This detour adds about 350 nautical miles (about 70% of the way from the port to the strait), increasing travel time and costs, but also moving ships away from sectors where naval drones operate.
+Meanwhile, traffic monitoring has revealed discrepancies between AIS signals and the actual locations of individual vessels. In particular, satellite imagery has identified the tanker Jumbo. In the images, it was about 4.4 nautical miles from the coordinates transmitted by its transponder 20 minutes earlier.
+The rerouting comes amid a series of attacks by Ukrainian Sea Baby drones on Russian-linked vessels transiting the Black Sea in recent weeks. All of the reported attacks occurred when the tankers were empty — meaning they were not carrying any crude oil.
+For the market, this means higher logistics costs and voyage times, and for regulators and insurers, additional compliance risks, as AIS spoofing and the use of “flags of convenience” by the Russians make it harder to track supply chains and enforce sanctions in the Black Sea and Turkish Straits.
+See also:
+How the market reacted to the attack on tankers carrying sanctioned oil
+Black Sea
+Russia
+spoofing
+Tankers
+Post navigation
+There is still no electricity supply in the Odesa port: stevedoring companies operate from generators
+In the tender for the construction of a vessel for the USPA, a Romanian company was again chosen instead of Nibulon
+You may also like
+France to extend patrol plane mission in Black Sea due to attacks on vessels
+6.11.2026 - 15:40
+Storms are still raising oil from the bottom that settled after the Chornomorsk strike
+6.11.2026 - 11:21
+Sanctioned vessels are increasingly flying the Russian flag
+5.11.2026 - 16:30
+Read Next
+In the tender for the construction of a vessel for the USPA, a Romanian company was again chosen instead of Nibulon
+News feed
+France to extend patrol plane mission in Black Sea due to attacks on vessels
+6.11.2026 - 15:40
+European Commission President to visit Bulgaria and Romania amid increase in attacks in the Black Sea
+6.11.2026 - 15:01
+The port of Chornomorsk approved a program to support employees
+6.11.2026 - 13:42
+The first container with Ukrainian powdered milk arrived at the port of Algeria
+6.11.2026 - 12:49
+Storms are still raising oil from the bottom that settled after the Chornomorsk strike
+6.11.2026 - 11:21
+Ukraine tops the ranking of barley suppliers to the EU for the first time
+6.11.2026 - 10:47
+The European Commission recommends that Ukraine restore product safety controls
+6.11.2026 - 10:12
+Egypt and Algeria provided almost half of Ukrainian wheat exports in October
+5.11.2026 - 17:12
+Sanctioned vessels are increasingly flying the Russian flag
+5.11.2026 - 16:30
+IMO Council supports document initiated by Ukraine on shipping protection
+5.11.2026 - 15:43
+All news
+Our Telegram channel
+Registration certificate of Information Agency “Ukrainian Shipping Magazine”: КВ №752-574Р.
+Director: Marharyta Kovalenko.
+Contact phone number of the newsroom:
++380999681086
+,
+email:
+[email protected]
+.
+Ukrainian Shipping Magazine is a media dedicated to current events and news of shipping, in the world in general and in Ukraine in particular.
+Incidents, achievements, analytics, operational information, the activities of enterprises and the state of shipping, the sectoral policy of the state, the economic component – all this can be found in USM publications.
+Exclusive data, comments, and expert reviews from shipping industry experts are a must for USM as we bring you the best quality news!
+Website development
+The use of materials is permitted provided that there is a link (for Internet publications – hyperlinks) to Ukrainian Shipping Magazine at least in the third paragraph.
+Materials marked ® or “Supported” are published as advertising.
+© 2021-2026, Ukrainian Shipping Magazine.
+Main
+News
+Analytics
+Articles
+Interview
+Blogs
+Ua

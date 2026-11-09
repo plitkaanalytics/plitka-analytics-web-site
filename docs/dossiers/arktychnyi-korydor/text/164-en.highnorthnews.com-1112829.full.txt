@@ -1,0 +1,273 @@
+URL:         https://en.highnorthnews.com/politics/france-detains-russian-arctic-oil-tanker/1112829
+Кінцевий:    https://en.highnorthnews.com/politics/france-detains-russian-arctic-oil-tanker/1112829
+Заголовок:   France Detains Russian Arctic Oil Tanker
+Дата публ.:  2026-06-03
+Завантажено: 2026-11-08 10:43 UTC
+HTTP:        -   Тип: text/html   Байтів: 215491
+Оригінал:    raw/164-en.highnorthnews.com-1112829.html
+sha256:      8d9392441caba1a162572561d49e17d4c4612c91f0f7b35efeb40178494b25cf
+Витяг:       trafilatura
+Примітка:    сайт віддає curl'у PoW-перевірку «Are we human?»; сторінку
+             збережено з браузера редактора (Ctrl+S) 08.11.2026 — це DOM
+             після рендеру, не байти відповіді сервера
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 42
+==============================================================================
+being boarded by French forces.
+’s activity around Norway during the past 9 months.
+(Source: MagicPort Maritime Intelligence)
+Norway to Boost Capacity to Detect Drones Near the Border With Russia
+UK and Allied Show of Strength in the North
+Power Crisis: How on Earth Could Things Go so Wrong?
+U.S., Japan and South Korea Launch Arctic Pacific Partnership Amid Continued Commercial Ties to Russia
+Climate Change Puts Arctic Tourism Under Pressure: “A complex situation,” Says Researcher
+Greenland’s Prime Minister: Equality in Nordic Cooperation is a Matter of Political Will
+Norway Detains Sanctioned Chinese Ship Sailing Under False Flag, Inspects Second Vessel
+Closer Cooperation With Indigenous Peoples Can Strengthen Total Defence in the North
+The Norwegian Government Responds to Preparedness Criticism From Nordland
+Top Alaska Military Officer: "Homeland Defense in the Arctic Cannot be Seasonal or Episodic"
+China Tests Domestic Satellite Communication in Arctic As Polar Capabilities Expand
+Defence researcher: Putin is Gradually Raising our Tolerance For War
+Norway and Russia Have Reached a Fisheries Agreement for 2027
+Russia’s Shadow Fleet and Greenland Tensions on Top
+Chinese Heavy-Lift Ships Remain Off Northern Norway as German Navy Vessel Patrols Area
+The EU's New Arctic Strategy: 'A Good Starting Point,' Says Researcher
+NATO Chief: Greenland Crisis Never Neared Confrontation
+Greetings From a Broken Shit House
+Antibodies Against Avian Influenza Detected in Polar Bears in Greenland
+From Norfolk in the US, NATO is Closely Monitoring the Threat Situation in the High North
+Launches High North Strategy to Drive Investment and Growth
+Nordic Council Literature Prize Awarded to Sámi Novel
+Russian Radio Station in Svalbard Halt Broadcasts Over Missing Norwegian Permit
+Russia’s Arctic ‘Shadow Fleet’ Goes Digital as New Putin Decree Tightens Grip on Shipping Data
+Closer Arctic Research Cooperation With the Nordics Won’t Weaken U.S. Research Ties
+The Norwegian Frigate HNoMS Fridtjof Nansen on Svalbard Patrol
+Keel Laid for Future Flagship of the Canadian Icebreaker Fleet
+To Upgrade Existing Subsea Fibre Cables to Svalbard and Deploy Technology on New Cable System
+Norwegian–Russian Fisheries Cooperation Back on Its Feet
+No Promises to Accelerate Construction of New Bridge Near the Norwegian-Russian Border
+Norwegian Coast Guard Boards Sanctioned Chinese Heavy-Lift Ships Off the Coast of Northern Norway
+UK-Sanctioned Russian LNG Carrier Stops at Northern Norway Port
+The appearance of a British-sanctioned LNG tanker at a north Norwegian port has intensified scrutiny of how effectively European sanctions on Russia’s energy sector are being coordinated across the continent, as vessels tied to Moscow’s Arctic gas trade continue to access logistical support along the Norwegian coast.
+High North News is an independent newspaper published by the High North Center at the Nord university. High North News follows the
+Norwegian Press Code of Ethics
+and is edited according to the
+Association of Norwegian Editors – Rights and Duties of the Editor
+. High North News is not responsible for the content or opinions expressed on external web pages.
+High North News. All Rights Reserved.
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+France Detains Russian Arctic Oil Tanker
+Jump to main content
+NOR
+ENG
+Search
+Menu
+Business
+Politics
+Science
+Arctic Living
+Opinions
+Employees
+Newsletter
+Contact
+About us
+LinkedIn
+Facebook
+X
+Instagram
+Bluesky
+High North News
+Business
+Politics
+Science
+Arctic Living
+Opinions
+Search
+Menu
+Business
+Politics
+Science
+Arctic Living
+Opinions
+Employees
+Newsletter
+Contact
+About us
+LinkedIn
+Facebook
+X
+Instagram
+Bluesky
+NOR
+ENG
+politics
+Shadow Fleet On the Rise Along Norway’s Coast:
+France Detains Russian Arctic Oil Tanker
+Shadow fleet oil tanker
+Tagor
+being boarded by French forces.
+President Macron/X
+France has detained a Russian-linked tanker carrying Arctic crude oil after naval commandos boarded the vessel in the Atlantic Ocean. This highlights growing concerns over shadow fleet vessels running through Arctic and North Atlantic waters.
+Malte Humpert
+Malte
+Humpert
+Journalist
+Published
+3 June 2026 - 14:07
+Modified
+3 June 2026 - 15:47
+France has detained a Russian-linked oil tanker carrying Arctic crude after French naval forces boarded the vessel in the Atlantic Ocean, the latest move in a still nascent European crackdown on Moscow’s so-called shadow fleet used to transport oil in circumvention of Western sanctions.
+The tanker,
+Tagor
+, was intercepted on May 31 more than 400 nautical miles west of Brittany during a French operation supported by Britain, according to French authorities and President Emmanuel Macron. French commandos boarded the vessel from helicopters after the ship’s captain allegedly failed to comply with orders to stop.
+French officials said the vessel had departed from Russia’s Arctic port of Murmansk and was sailing under a false flag registration.
+Following the boarding, authorities reported suspected irregularities in the vessel’s documentation and referred the case to prosecutors in Brest, with the ship subsequently diverted to French waters for further investigation.
+Unacceptable that ships circumvent international sanctions
+Emmanuel Macron
+“The French Navy intercepted a new tanker under international sanctions originating from Russia: the
+Tagor
+,” Macron said in a statement published on social media.
+“It is unacceptable that ships circumvent international sanctions, violate the law of the sea and finance the war that Russia has been waging against Ukraine.”
+French maritime authorities said the vessel was suspected of operating under a false Cameroonian flag while bound for Limbe, Cameroon. Prosecutors have opened an investigation into alleged maritime violations, including failure to comply with orders and questions surrounding the ship’s nationality.
+The detention marks at least the fourth time France has boarded or detained vessels linked to Russia’s shadow fleet since late 2025, underscoring a more aggressive French approach to sanctions enforcement than that adopted by some other European coastal states.
+Vessel carrying Arctic oil
+Automatic Identification System (AIS) data reviewed by HNN show
+Tagor
+loaded oil at Murmansk in early May before spending weeks conducting holding patterns off the coast of Kirkenes in northern Norway. The vessel later began a southbound voyage along Norway’s coastline before entering the North Atlantic.
+AIS records further show
+Tagor
+repeatedly operating along the maritime border between Norway and Russia throughout April and May, frequently lingering in waters that have become an increasingly important transit corridor for Russian oil and liquefied natural gas exports.
+Over the past nine months, the tanker has travelled up and down Norway’s coastal waters on at least four occasions, according to the tracking data.
+Tagor
+’s activity around Norway during the past 9 months.
+(Source: MagicPort Maritime Intelligence)
+The vessel’s movements reflect a broader trend in which Arctic and North Atlantic waters have become a key operating area for Russia’s shadow fleet.
+Western governments say the fleet consists of ageing tankers employing opaque ownership structures, frequent flag changes and other practices designed to obscure the origin and destination of Russian energy exports.
+Shadow fleet highway
+The issue has drawn particular attention in Norway, whose long Arctic coastline
+sits astride shipping routes linking Russian energy projects with global markets
+.
+Norwegian officials have ruled out the seizure of Russian shadow fleet vessels solely on sanctions-related grounds, arguing such actions would require a clear legal basis under international law.
+At the same time, Norway continues to allow Russian LNG carriers to access parts of its maritime infrastructure,
+including vessels sanctioned by some allied countries.
+Shipping data have shown Russian LNG carriers and
+related vessels making dozens of stops or holding-position operations off northern Norway since 2024
+, while Russia has expanded the use of shadow fleet shipping tied to Arctic energy exports.
+Russia condemned the French operation, with Kremlin officials describing the detention as illegal and likening it to piracy. France maintains the interception was conducted in accordance with international maritime law and forms part of broader efforts to enforce sanctions imposed following Russia’s invasion of Ukraine.
+As European governments seek to tighten restrictions on Russian energy revenues, the detention of
+Tagor
+signals that enforcement efforts are increasingly extending beyond ports and territorial waters into the shipping lanes of the North Atlantic and Arctic.
+arctic oil
+shadow fleet
+russia
+norway
+france
+politics
+politics
+Norway to Boost Capacity to Detect Drones Near the Border With Russia
+politics
+UK and Allied Show of Strength in the North
+opinions
+Power Crisis: How on Earth Could Things Go so Wrong?
+politics
+U.S., Japan and South Korea Launch Arctic Pacific Partnership Amid Continued Commercial Ties to Russia
+science
+Climate Change Puts Arctic Tourism Under Pressure: “A complex situation,” Says Researcher
+politics
+Greenland’s Prime Minister: Equality in Nordic Cooperation is a Matter of Political Will
+opinions
+Come Aboard!
+politics
+Norway Detains Sanctioned Chinese Ship Sailing Under False Flag, Inspects Second Vessel
+science
+Closer Cooperation With Indigenous Peoples Can Strengthen Total Defence in the North
+politics
+The Norwegian Government Responds to Preparedness Criticism From Nordland
+politics
+Top Alaska Military Officer: "Homeland Defense in the Arctic Cannot be Seasonal or Episodic"
+politics
+China Tests Domestic Satellite Communication in Arctic As Polar Capabilities Expand
+science
+Defence researcher: Putin is Gradually Raising our Tolerance For War
+politics
+Norway and Russia Have Reached a Fisheries Agreement for 2027
+opinions
+Russia’s Shadow Fleet and Greenland Tensions on Top
+politics
+Chinese Heavy-Lift Ships Remain Off Northern Norway as German Navy Vessel Patrols Area
+politics
+The EU's New Arctic Strategy: 'A Good Starting Point,' Says Researcher
+politics
+NATO Chief: Greenland Crisis Never Neared Confrontation
+opinions
+Greetings From a Broken Shit House
+science
+Antibodies Against Avian Influenza Detected in Polar Bears in Greenland
+politics
+From Norfolk in the US, NATO is Closely Monitoring the Threat Situation in the High North
+business
+Launches High North Strategy to Drive Investment and Growth
+arctic living
+Nordic Council Literature Prize Awarded to Sámi Novel
+business
+Russian Radio Station in Svalbard Halt Broadcasts Over Missing Norwegian Permit
+politics
+Russia’s Arctic ‘Shadow Fleet’ Goes Digital as New Putin Decree Tightens Grip on Shipping Data
+science
+Closer Arctic Research Cooperation With the Nordics Won’t Weaken U.S. Research Ties
+opinions
+At The Center of Geopolitics
+politics
+The Norwegian Frigate HNoMS Fridtjof Nansen on Svalbard Patrol
+politics
+Keel Laid for Future Flagship of the Canadian Icebreaker Fleet
+business
+To Upgrade Existing Subsea Fibre Cables to Svalbard and Deploy Technology on New Cable System
+opinions
+Norwegian–Russian Fisheries Cooperation Back on Its Feet
+politics
+No Promises to Accelerate Construction of New Bridge Near the Norwegian-Russian Border
+politics
+Norwegian Coast Guard Boards Sanctioned Chinese Heavy-Lift Ships Off the Coast of Northern Norway
+Read also
+UK-Sanctioned Russian LNG Carrier Stops at Northern Norway Port
+The appearance of a British-sanctioned LNG tanker at a north Norwegian port has intensified scrutiny of how effectively European sanctions on Russia’s energy sector are being coordinated across the continent, as vessels tied to Moscow’s Arctic gas trade continue to access logistical support along the Norwegian coast.
+HIGH
+NORTH
+NEWS
+ABOUT US
+High North News is an independent newspaper published by the High North Center at the Nord university. High North News follows the
+Norwegian Press Code of Ethics
+and is edited according to the
+Association of Norwegian Editors – Rights and Duties of the Editor
+. High North News is not responsible for the content or opinions expressed on external web pages.
+ADDRESS:
+High North News
+Nord University
+Postbox 1490
+8049 Bodø
+Norway
+EDITOR IN CHIEF:
+Trine Jonassen
+TELEPHONE:
+(+47) 917 77 527
+E-MAIL HIGH NORTH NEWS
+EDITORIAL STAFF:
+EDITOR/COMMENTATOR:
+Arne O. Holm
+Tel:
+(+47) 905 29 472
+JOURNALIST:
+Hilde-Gunn Bye
+JOURNALIST:
+Astri Edvardsen
+TRANSLATOR:
+Birgitte Annie Hansen
+Copyright © 2026
+High North News. All Rights Reserved.
+Powered by Labrador CMS

@@ -1,0 +1,15 @@
+URL:         https://112.ua/en/port-murmanska-vperse-z-1996-roku-pocav-obrobku-cavunu-persa-partia-poide-do-tureccini-196600
+Кінцевий:    https://112.ua/en/port-murmanska-vperse-z-1996-roku-pocav-obrobku-cavunu-persa-partia-poide-do-tureccini-196600
+Заголовок:   Sorry, you have been blocked
+Дата публ.:  не вказана на сторінці
+Завантажено: 2026-11-08 06:40 UTC
+HTTP:        403   Тип: text/html; charset=UTF-8   Байтів: 4541
+Оригінал:    raw/173-112.ua-port-murmanska-vperse-z-1996-roku-pocav-obrobku-cavunu-persa-pa.html
+sha256:      27b1ecd6482ead1f0a038886cc1c76f4952a89ab5eda155ac043929c0d73d132
+Витяг:       trafilatura
+Примітка:    оригінал 403; CDX не відповідає (ліміт) — повторити пізніше
+
+==============================================================================
+This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.
+
+You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.

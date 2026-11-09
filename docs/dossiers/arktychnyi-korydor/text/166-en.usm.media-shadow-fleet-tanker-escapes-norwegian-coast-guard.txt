@@ -1,0 +1,32 @@
+URL:         https://en.usm.media/shadow-fleet-tanker-escapes-norwegian-coast-guard/
+Кінцевий:    https://en.usm.media/shadow-fleet-tanker-escapes-norwegian-coast-guard/
+Заголовок:   "Shadow Fleet" Tanker Escapes Norwegian Coast Guard | Ukrainian and World Shipping News - Ukrainian Shipping Magazine - Ukrainian and World Shipping News
+Дата публ.:  2026-04-21
+Завантажено: 2026-11-08 06:38 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 59359
+Оригінал:    raw/166-en.usm.media-shadow-fleet-tanker-escapes-norwegian-coast-guard.html
+sha256:      e3d784ea760a1a4252fde2bd3908823cf71d9031ef3242390e1df5eaf37365d7
+Витяг:       trafilatura
+
+==============================================================================
+# “Shadow Fleet” Tanker Escapes Norwegian Coast Guard
+
+**The suspected sanctions-violating vessel turned off its AIS, ignored inspection requests and left Norway’s economic zone, heading towards Russian waters.**
+
+The tanker Apple, which is linked to the Russian Federation’s so-called shadow fleet, evaded inspection by the Norwegian Coast Guard and left Norway’s exclusive economic zone, [writes ](https://www.gospodarkamorska.pl/norwegia/-nrk-tankowiec-floty-cieni-uciekl-strazy-przybrzeznej)Gospodarka Morska.
+
+The incident occurred near Cape Nordkapp. The patrol ship KV Andenes attempted to contact the vessel after it turned off its AIS transponder and disappeared from tracking systems.
+
+Despite repeated calls, the tanker did not respond and continued moving towards Russian territorial waters, effectively avoiding inspection.
+
+According to the registries, Apple is an Aframax-class tanker with a length of about 240 meters and a deadweight of more than 105 thousand tons. It was built more than 20 years ago. The vessel flies the flag of Equatorial Guinea and, according to preliminary information, is operated by structures from offshore jurisdictions.
+
+Norwegian services also found that the tanker does not have recognized insurance and is in unsatisfactory technical condition, which makes it particularly dangerous for navigation in Arctic conditions.
+
+According to international maritime law, Norway has the right to conduct inspections of vessels in its economic zone in the event of a threat of an environmental disaster. At the same time, the forced detention of such a vessel, according to Norwegian law enforcement officers, “carries significant risks.”
+
+As noted by the representative of the Norwegian Coastal Administration, Hans-Petter Mortensholm, an attempt at forceful intervention could allegedly lead to an immediate oil leak due to the poor technical condition of the tanker. At the same time, experts indicate that Moscow may deliberately use such vessels as a tool of pressure.
+
+“Russia is deliberately sending technically questionable vessels into Arctic waters, understanding that Norway will not risk an environmental disaster,” said Staale Ulriksen, an analyst at the Norwegian Naval Academy.
+
+Also, the day before, USM reported that Britain is not detaining tankers of the Russian “shadow fleet” because it is [afraid of the costs](https://en.usm.media/britain-does-not-detain-russian-shadow-fleet-tankers-because-it-fears-the-costs-of-maintaining-them-media/) of maintaining them.

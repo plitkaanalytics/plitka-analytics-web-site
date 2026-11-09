@@ -1,0 +1,13 @@
+URL:         https://tradersunion.com/news/commodities/show/4143953-russia-pig-iron-murmansk-exports/
+Кінцевий:    https://tradersunion.com/news/commodities/show/4143953-russia-pig-iron-murmansk-exports/
+Заголовок:   Just a moment...
+Дата публ.:  не вказана на сторінці
+Завантажено: 2026-11-08 06:41 UTC
+HTTP:        403   Тип: text/html; charset=UTF-8   Байтів: 6020
+Оригінал:    raw/174-tradersunion.com-4143953-russia-pig-iron-murmansk-exports.html
+sha256:      6009746f770f1e378aeee06d2f6a1f60ee7ac604025c50b8d65c1cf52becc126
+Витяг:       bs4-full
+Примітка:    оригінал 403; CDX не відповідає (ліміт) — повторити пізніше
+
+==============================================================================
+Just a moment...

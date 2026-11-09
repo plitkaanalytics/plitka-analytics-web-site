@@ -1,0 +1,28 @@
+URL:         https://www.arctictoday.com/sanctioned-tanker-with-unclear-ownership-and-dubious-insurance-sails-unchallenged-along-norwegian-coast/
+Кінцевий:    https://www.arctictoday.com/sanctioned-tanker-with-unclear-ownership-and-dubious-insurance-sails-unchallenged-along-norwegian-coast/
+Заголовок:   Sanctioned tanker with unclear ownership and dubious insurance sails unchallenged along Norwegian coast - ArcticToday
+Дата публ.:  2026-03-24
+Завантажено: 2026-11-08 06:39 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 126592
+Оригінал:    raw/171-arctictoday.com-sanctioned-tanker-with-unclear-ownership-and-dubious-i.html
+sha256:      e2916e07dffe4149d780c5991f3e2a47abbf825f3089adb019697c42d74932b7
+Витяг:       trafilatura
+
+==============================================================================
+# Sanctioned tanker with unclear ownership and dubious insurance sails unchallenged along Norwegian coast
+
+[The Independent Barents Observer](https://thebarentsobserver.com/en)
+
+The 23-year-old tanker Paz, carrying nearly 150,000 tonnes of sanctioned Russian Arctic oil, departed from Murmansk on March 10. Despite suspicions that it may be operating with falsified insurance documents, Norwegian authorities did not intervene.
+
+The 174-metre-long oil tanker, sailing under a false flag, set a course through Norwegian waters and travelled south along the entire Norwegian coast. By March 24, it had reached waters south of the Canary Islands. For many years, the Paz—originally named Nordic Cosmos—was operated by Nordic American Tanker Ltd, a Norwegian shipping company. Today, it is part of the so-called “shadow fleet,” transporting sanctioned Russian oil to international buyers. Before October 2022, the vessel was known as Aulis.
+
+Over the past two years, it has changed its flag state four times. According to the shipping database Equasis, it currently sails under a false Curaçao flag, though other ship-tracking services list its flag as Mozambique. Prior to March 2025, its flag state was unknown. Ownership and management of the Paz remain unclear. Equasis lists its owner and manager as “Rptd Sold Undisclosed Interest,” a term used in shipping records when the buyer or seller is not publicly disclosed.
+
+Questions also surround its insurance. Arve Dimmen, Director of Navigation Technology and Maritime Services at the Norwegian Coastal Administration, confirmed to the Barents Observer that the Paz did not provide a valid Civil Liability Convention (CLC) certificate, which proves insurance coverage for oil pollution damage. He also stated that the tanker has no known owner. Despite these concerns, Norwegian authorities took no action as the vessel navigated the country’s extensive and challenging waters. “Apart from this [the CLC certificate], we have not recorded any particular incidents or unusual sailing patterns in the Norwegian Economic Zone (NEZ),” Dimmen said in an email to the Barents Observer.
+
+The Paz has attracted the attention of Ukrainian intelligence, which reported that the tanker is sailing with fake insurance. According to Ukrainian sources, the vessel claims to hold an insurance certificate from the German company “Seaguard P&I”, but no such entity appears in German registries. Operators of Russia’s shadow fleet are increasingly wary of foreign law enforcement actions. Over the past three months, the French Navy boarded two shadow tankers carrying Russian Arctic oil in the Mediterranean. Authorities in Germany, the UK, Sweden, and Denmark have also taken enforcement actions against Russia-affiliated carriers.
+
+In early March 2026, the Arctic Metagaz, a sanctioned LNG carrier transporting gas from the Kola Peninsula, was attacked and destroyed by drones in the Mediterranean. Norvald Kjerstad, a Norwegian professor specialising in ice navigation, suggests that Russia’s sanctioned LNG carriers are now opting for the longer route around Africa instead of passing through the Suez Canal. “This is likely a result of the attack on the Arctic Metagaz in the Mediterranean,” he told the Barents Observer. The Paz is also taking the route around Africa, with China as its likely destination. The Paz is one of many tankers with unclear ownership that load oil in the northern port of Murmansk.
+
+Since October 2025, over 80 sanctioned “shadow vessels” have sailed along the Norwegian coast to Murmansk. Despite the questionable nature of many of these ships, Norwegian law enforcement has yet to take action against any of them.

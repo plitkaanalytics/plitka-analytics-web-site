@@ -1,0 +1,176 @@
+URL:         https://www.thebarentsobserver.com/news/30yearold-tanker-linked-with-iran-drifting-along-norways-arctic-coast/461333
+Кінцевий:    https://www.thebarentsobserver.com/news/30yearold-tanker-linked-with-iran-drifting-along-norways-arctic-coast/461333
+Заголовок:   30-year-old tanker linked with Iran drifting along Norway’s Arctic coast
+Дата публ.:  2026-11-04
+Завантажено: 2026-11-08 10:43 UTC
+HTTP:        -   Тип: text/html   Байтів: 121125
+Оригінал:    raw/184-thebarentsobserver.com-461333.html
+sha256:      b31b83de0d283a0d43d2dbfc3407d663bc957eda8cedeeffea305bb5e2aa58a0
+Витяг:       trafilatura
+Примітка:    сайт віддає curl'у PoW-перевірку «Are we human?»; сторінку
+             збережено з браузера редактора (Ctrl+S) 08.11.2026 — це DOM
+             після рендеру, не байти відповіді сервера
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 29
+==============================================================================
+The Padre, which previously sailed under the names Narval, Polar Rock and Ce Merapi, has been drifting along the Norwegian-Russia maritime border for at least two weeks.
+Photo: screenshot of video by Arxipelagos.com
+The Padre (IMO 9116632) on the maritime border between Norway and Russia on November 3, 2026.
+Map: NAIS Barentswatch/Barents Observer
+The oil tanker Padre previously sailed under the names Narval, Polar Rock and Ce-Merapi.
+Trump’s new envoy to Norway travelled straight from the Royal Palace to the Russian border
+Civil societies under pressure – an alarming global trend
+NASAMS sensors to be deployed along Norway’s border with Russia
+European diplomats stand in remembrance as political repression deepens in Russia
+Man who trained child soldiers in Nikel was killed in war
+"We have been killed." Novaya Gazeta announces closure
+Renowned Arctic ornithologist jailed for three and a half years over 2,000-rouble donation
+"We’ll fight for Oleg together!"
+Professor Molchanov to remain under arrest
+Governor says Rostec might build drone centre in Murmansk
+Equinor boosts profits, steps up development of new Arctic field
+Nuclear-capable Bulava missile hit target at Cape Kanin
+Published by: The Independent Barents Observer AS
+The Barents Observer follows the
+Code of Ethics of the Norwegian Press
+Right and Duties of the Editor
+. We report under full editorial independence and have no external interference.
+Freedom to write - freedom to publish.
+to our independent journalism. That’s how we get better.
+Støtt oss via Vipps: 105 792 - Det betyr mye!
+newstips@thebarentsobserver.com
+News editor Farida Kurbangaleeva
+Journalist Georgii Chentemirov
+georgii@thebarentsobserver.com
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+30-year-old tanker linked with Iran drifting along Norway’s Arctic coast
+Jump to main content
+Fight Censorship!
+Contribute
+Video
+Podcast
+Opinion
+Security
+Democracy and media
+Climate crisis
+Travel
+About us
+Advertise with us
+Newsletter
+Bluesky
+Facebook
+Instagram
+Telegram
+LinkedIn
+X
+Русский
+Video
+Podcast
+Opinion
+Search
+The Padre, which previously sailed under the names Narval, Polar Rock and Ce Merapi, has been drifting along the Norwegian-Russia maritime border for at least two weeks.
+Photo: screenshot of video by Arxipelagos.com
+30-year-old tanker linked with Iran drifting along Norway’s Arctic coast
+For more than two weeks, a 241-metre-long oil tanker sailing under a false Nicaraguan flag has criss-crossed the Norwegian-Russian maritime border in the Barents Sea. The Padre is connected with a Russian company accused of weapons shipments from Iran.
+Atle Staalesen
+Atle
+Staalesen
+4 November 2026 - 17:06
+According to ship traffic data, the
+Padre
+(IMO 9116632) has been situated in the area of the Norwegian-Russian maritime border for more than two weeks. The tanker, which previously sailed under the names
+Narval
+and
+Polar Rock
+, is on a US sanctions list because of its alleged links with the Iranian regime.
+The tanker is believed to have loaded oil in Murmansk, setting out from the Kola Bay on 19 October. Its destination is not clear, and neither is the reason why it remains in the waters off the Norwegian-Russian Arctic coast.
+The Padre (IMO 9116632) on the maritime border between Norway and Russia on November 3, 2026.
+Map: NAIS Barentswatch/Barents Observer
+Although the name of the shipowner has changed repeatedly over the last five years, the Padre is likely to remain connected with MG-Flot, a company with close connections to the Russian state.
+According to
+the US Department of State, vessels belonging to MG-Flot were involved in the transfer of close-range ballistic missiles from Iran to Russia in 2024. In late 2025, one of the company’s ships delivered air defence vehicles and related materiel from Iran to Russia.
+The company has also been involved in weapons deliveries to and from North Korea.
+According to Equasis, an electronic ship information system, the registered owner of the
+Padre
+was Transfin-M PC and Marine Trans Shipping LLC in the period 2021–2026. Since April 2026, the tanker has been owned by an unknown company named Equilibrio Perfecto Maritime.
+All the entities are likely to be interconnected.
+According to Equasis, the
+Padre
+has sailed under a false Nicaraguan flag since 1 August 2026. Prior to that, it sailed under the Russian flag.
+The oil tanker Padre previously sailed under the names Narval, Polar Rock and Ce-Merapi.
+Photo: screenshot of video by Arxipelagos.com
+Murmansk has one of Russia’s biggest commercial seaports, handling large volumes of crude oil—much of it produced in Arctic fields and exported through transshipment operations in the Kola Bay. Almost all the tankers exporting oil from Murmansk belong to Russia’s so-called shadow fleet.
+In a comment to the Barents Observer, Arve Dimmen, Director of Navigation Technology and Maritime Services at the Norwegian Coastal Administration, confirms that the
+Padre
+is being monitored.
+"We monitor all tanker traffic along the Norwegian coast, paying particular attention to oil tankers, for which we are now requesting insurance details for those entering the Norwegian Exclusive Economic Zone (NEEZ). Given this vessel’s age, flag and history, it is one of the vessels we are monitoring particularly closely."
+shadow fleet
+barents sea
+north korea
+sanctions
+news
+iran
+Trump’s new envoy to Norway travelled straight from the Royal Palace to the Russian border
+Civil societies under pressure – an alarming global trend
+30-year-old tanker linked with Iran drifting along Norway’s Arctic coast
+NASAMS sensors to be deployed along Norway’s border with Russia
+European diplomats stand in remembrance as political repression deepens in Russia
+Man who trained child soldiers in Nikel was killed in war
+"We have been killed." Novaya Gazeta announces closure
+Renowned Arctic ornithologist jailed for three and a half years over 2,000-rouble donation
+"We’ll fight for Oleg together!"
+Professor Molchanov to remain under arrest
+Governor says Rostec might build drone centre in Murmansk
+Equinor boosts profits, steps up development of new Arctic field
+Nuclear-capable Bulava missile hit target at Cape Kanin
+ABOUT
+CONTACTS
+SUBSCRIBE FREE NEWSLETTER
+© 2002 - 2026
+Published by: The Independent Barents Observer AS
+About us
+The Barents Observer follows the
+Code of Ethics of the Norwegian Press
+and the document
+Right and Duties of the Editor
+. We report under full editorial independence and have no external interference.
+Freedom to write - freedom to publish.
+Donate
+to our independent journalism. That’s how we get better.
+Støtt oss via Vipps: 105 792 - Det betyr mye!
+newstips@thebarentsobserver.com
+Publisher
+Atle Staalesen
+atle@thebarentsobserver.com
+Editor
+Thomas Nilsen
+thomas@thebarentsobserver.com
+☏ +47-905 73 143
+News editor Farida Kurbangaleeva
+farida@thebarentsobserver.com
+Opinion editor Laura A. Janda
+janda.laura@gmail.com
+Journalist Denis Zagore
+denis@thebarentsobserver.com
+Journalist Georgii Chentemirov
+georgii@thebarentsobserver.com
+Journalist Olesia Krivtsova
+olesia@thebarentsobserver.com
+Visiting address:
+Storgata 5, Kirkenes, Norway
+Sign up for the newsletter
+Privacy policy
+Follow us
+Bluesky
+We left X
+Facebook
+Instagram
+Telegram
+LinkedIn
+YouTube
+Powered by Labrador CMS
