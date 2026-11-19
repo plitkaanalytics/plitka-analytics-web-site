@@ -1,0 +1,280 @@
+URL:         https://www.lawfaremedia.org/article/wrangling-warships-russias-proposed-law-northern-sea-route-navigation
+Кінцевий:    https://www.lawfaremedia.org/article/wrangling-warships-russias-proposed-law-northern-sea-route-navigation
+Заголовок:   Wrangling Warships: Russia’s Proposed Law on Northern Sea Route Navigation
+Дата публ.:  2023-01-18
+Завантажено: 2026-10-06 13:27 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 94472
+Оригінал:    raw/59-lawfaremedia.org-wrangling-warships-russias-proposed-law-northern-sea-.html
+sha256:      1b682a1699a386edccbd0709663584ea643b553497a82d1958c584bed14999f3
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 18
+==============================================================================
+Wrangling Warships: Russia’s Proposed Law on Northern Sea Route Navigation | Lawfare
+The upcoming main navigation can be gotten through utilizing the tab key. Any buttons that open a sub navigation can be triggered by the space or enter key.
+Criminal Justice & Rule of Law
+Foreign Relations & International Law
+Trials of the Trump Administration
+Tracking Domestic Deployments of the U.S. Military
+Tracking Government Non-Compliance in Habeas Corpus Cases
+Trump Administration Trial Coverage
+Read Testimony Heard by the Trump Grand Jury in Fulton County
+Precision Lethality and Civilian Harm Mitigation
+Monday, October 17, 2022, 8:00 AM
+A 2022 meeting of the Russian Parliament. (Reuters, https://bit.ly/3EEnCFr; CC by 1.0, ​​https://creativecommons.org/publicdomain/mark/1.0/)
+Cornell Overfield is an analyst at the Center for Naval Analyses, the Navy’s federally funded research and development center. His views do not necessarily represent those of his employer.
+Lawfare Daily: The Trump-Xi Summit and U.S.-China AI Competition
+2025 Civilian Casualties Report Reveals U.S. Civilian Protection Gaps
+Despite admitting to its biggest civilian harm incidents in years, the U.S. military has not accounted for dozens of victims from 2025.
+Lawfare Daily: Did Washington Walk Into Beijing’s Trap? Xi’s State Visit with Jonathan Czin
+Hard National Security Choices
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Wrangling Warships: Russia’s Proposed Law on Northern Sea Route Navigation | Lawfare
+Skip to Main Content
+Menu
+Close
+Subscribe
+Support
+Store
+Facebook
+X
+LinkedIn
+The upcoming main navigation can be gotten through utilizing the tab key. Any buttons that open a sub navigation can be triggered by the space or enter key.
+Topics
+Armed Conflict
+Congress
+Courts & Litigation
+Criminal Justice & Rule of Law
+Cybersecurity & Tech
+Democracy & Elections
+Executive Branch
+Foreign Relations & International Law
+Intelligence
+States & Localities
+Surveillance & Privacy
+Terrorism & Extremism
+Podcasts & Multimedia
+Podcasts
+Lawfare Daily
+Rational Security
+No Bull
+Escalation
+Scaling Laws
+Videos/Webinars
+Deportation, Inc.
+Projects & Series
+25th Anniversary of 9/11
+Trials of the Trump Administration
+Litigation Tracker
+Tracking Domestic Deployments of the U.S. Military
+Tracking Government Non-Compliance in Habeas Corpus Cases
+Litigation Coverage
+Trump Administration Trial Coverage
+Read Testimony Heard by the Trump Grand Jury in Fulton County
+Lawfare Research Intiative
+Security by Design
+Section 230 Tracker
+Installing Updates to ECPA
+Reviews & Essays
+Precision Lethality and Civilian Harm Mitigation
+Archived Projects
+The Jan. 6 Project
+Resources
+Documents
+Job Board
+Lawfare News
+About
+About Lawfare
+Our Story
+Masthead
+The Lawfare Team
+Support
+Editorial Guidelines
+Search Lawfare
+Search
+Advanced Search
+Foreign Relations & International Law
+Wrangling Warships: Russia’s Proposed Law on Northern Sea Route Navigation
+Cornell  Overfield
+Monday, October 17, 2022, 8:00 AM
+Share On:
+Share on Facebook
+Share on X
+Share on LinkedIn
+Share on BlueSky
+Share on Threads
+Print this article
+A proposed amendment in the Russian parliament would require foreign warships to obtain diplomatic clearance before navigating through the internal waters of the Northern Sea Route. It is plainly illegal—Moscow’s own past actions tell us so.
+A 2022 meeting of the Russian Parliament. (Reuters, https://bit.ly/3EEnCFr; CC by 1.0, ​​https://creativecommons.org/publicdomain/mark/1.0/)
+Cornell  Overfield
+@cornellatyale
+Meet The Authors
+Subscribe to Lawfare
+The governance of the Northern Sea Route competes with the
+extension of continental shelves
+for the title of most contentious and widely misunderstood aspect of Arctic law. Russia
+claims certain jurisdictions
+over the Northern Sea Route (NSR) that the United States and some other states
+find expansive
+and incompatible with international law. To date, these do not apply to foreign warships, but a recent Russian legislative initiative seeks to change this. An
+amendment
+proposed on Aug. 4 would require, among other things, diplomatic clearance for any foreign warships transiting the straits of the Northern Sea Route. As of Oct. 17, however, the proposal remains a draft.
+The Russian lawmakers who drafted the proposal present it as a neat, legal solution to Russia’s desire to control navigation by all users in the Russian Arctic. However, Moscow’s past legal claims actually undercut the proposal’s legal argument that Russia today enjoys total control over foreign navigation in the covered internal waters. Instead, a regime of innocent passage clearly applies to the internal waters of the Northern Sea Route.
+The Problem of Governing the Northern Sea Route
+As climate change reshapes the Arctic, Russian officials hope that it will also reshape the patterns of global trade. In recent years, Moscow has
+promoted the Northeast Passage
+as a new artery that will save time and money for shipping between Europe and Asia. This vision has not yet panned out in practice; destination shipping moving Russian natural resources to markets
+far outweighs
+Europe-to-Asia shipping, and
+international traffic collapsed
+in the wake of Russia’s invasion of Ukraine.
+Still, Russia has introduced governance regimes that aim to make the Northeast Passage an artery for global trade while maintaining control over commercial navigation (see Figure 1). Russia’s
+Law on Internal Waters and Territorial Sea
+and
+Codex for Trade Activities
+define the Northern Sea Route (NSR) and require foreign commercial vessels to seek prior permission before entering the NSR zone, as well as adhere to requirements on icebreaker and ice pilotage services. For justification, the NSR regulation implicitly invokes Article 234 of the
+U.N. Convention on the Law of the Sea (UNCLOS)
+, which expands coastal state authority in exclusive economic zones covered by ice for all or most of the year.
+Figure 1. The Northern Sea Route area in the context of Russia’s Arctic maritime zones.
+While Russia
+hopes to encourage
+and profit from commercial use, melting ice and easier access will likely also bring greater naval activity in the Arctic. To date, Russian lawmakers
+have not managed
+to square the letter of international law and their security anxieties.
+The Russian legal regime currently on the books does not claim to apply to sovereign immune vessels, despite
+some
+mistaken
+assertions
+to the contrary. As I have
+argued elsewhere
+, a close reading of Russian legislation indicates that these laws clearly do not apply to warships and other vessels with sovereign immunity in accordance with UNCLOS’s Article 236, which exempts such vessels from regulations justified by provisions like Article 234. Moves by Russian lawmakers in recent years, including the draft law discussed here, suggests that they, too, recognize that their current regime does not apply to foreign warships.
+The Proposed Law
+The amendment’s core change is to add a new article, Article 14.3, to the
+Law on Internal Waters
+. It would establish clear obligations for foreign sovereign immune vessels, with four notable provisions that, together, would codify a Russian claim that the relevant areas are internal waters under Russia’s absolute control (see Figure 2).
+Figure 2. Areas that would be affected by Russia’s proposed amendment on foreign warship navigation in the NSR.
+First, the amendment requires diplomatic clearance from Moscow at least 90 days in advance for foreign warships and other government vessels seeking to pass through the internal waters of the NSR (specifically, without any port calls). While the amendment is silent on Russia’s ability to deny diplomatic clearance, it would seem natural that Russia could do so in line with the diplomatic clearance process used in other situations like port visits. (Diplomatic clearance is the process by which one state assents to the vessels or aircraft of another state visiting or transiting their territory.)
+Second, the law mandates that, as a general rule, no more than one foreign sovereign immune vessel may be in any of Russia’s NSR internal waters simultaneously. This provision further supports the assumption that the proposal’s core function is to create a legal basis for denying or controlling the timeline for foreign passage through Russian internal waters.
+Third, the law requires sovereign immune vessels capable of submerged navigation to sail on the surface under their flag. This provision further reinforces
+Russia’s assertions
+that these straits are not straits used for international navigation where transit passage rules (UNCLOS Article 32) would apply. The transit passage regime applicable to international straits would permit submerged navigation.
+Finally, the law announces that the Russian government may suspend passage for warships and other government vessels for security reasons. Any sovereign immune vessels in internal waters at the time of an announced suspension would receive instructions from the Russian government on how to proceed. This further reflects Russia’s position that the straits do not fall under the jurisdiction of UNCLOS, since transit passage rights may not be suspended according to UNCLOS Article 37.
+A more limiting aspect of the law is that it applies only to internal waters in the NSR, which, in the grand scheme of things, is a relatively small area: about 3 percent of the NSR area. However, Russia
+claims the four major straits
+(Kara Gate and the Vilkitskii, Sannikov, and Laptev straits) of the Northeast Passage as internal waters. Navigation north of these chokepoints is possible, but ships transiting the Northeast Passage have traditionally stuck closer to shore. Thus, if passed, the law would not apply to sovereign immune vessels steering north of the New Siberian Islands and Novaya Zemlya but would apply to vessels steering through any of the straits.
+These provisions aimed at denying or controlling the timing of foreign warship navigation in the internal waters of the NSR rely on a key legal premise: that the waters are internal waters under Russia’s absolute control, where neither innocent nor transit passage rights apply.
+The Proposal’s Legal Basis
+The legislative report accompanying the bill illuminates the importance the lawmakers assign to exerting control over foreign warships in the NSR while remaining faithful to UNCLOS. In particular, the report notes that the general NSR regime cannot ever apply to foreign sovereign immune vessels, since that regime is based on Article 234 (the “ice-covered areas” article), and Article 236 clearly exempts foreign sovereign immune vessels from measures based on Article 234. Russian lawmakers have refrained from passing a bill that would apply the Article 234-based NSR regime
+in toto
+to foreign warships, but it seems they have found a solution in international law on internal waters.
+Generally, internal waters are under a state’s absolute sovereignty, and are akin to land or ports for the purpose of navigation. No presumptive right to navigate exists, and any foreign users seeking to enter internal waters, even if without an intention to call at a port, must obtain prior permission from the coastal state. This requirement applies equally to all foreign vessels, whether commercial or naval.
+These controls apply with two grandfathered exceptions for innocent and transit passage. Article 8 of UNCLOS stipulates that if innocent passage rights applied to waters enclosed with straight baselines, innocent passage will continue to apply in the enclosed area. Article 35(a) extends that logic to international straits, so that transit passage will continue to apply to international straits enclosed with straight baselines.
+Each of the measures discussed above (diplomatic clearance, restrictions on the number of transiting vessels, requirement to surface, and possibility of suspension) show that Russia does not believe either of the grandfathering exceptions apply to these internal waters. Russia’s requirement that vessels must surface during navigation and its assertion of its right to suspend passage is plainly incompatible with international law on transit passage (outlined in UNCLOS Articles 39(c) and 44). Requiring advance diplomatic clearance and the restriction on the number of simultaneous sovereign immune users are likewise incompatible with
+Russia’s own interpretation
+, affirmed together with the U.S. in 1989, of the general rules governing innocent passage.
+The Grandfathered Innocent Passage Regime of Russian Arctic Straits
+Russian lawmakers’ implied assumption that no grandfathered passage regime applies to Russian internal waters in the Northern Sea Route is factually misguided. The legal logic laid out in the proposed law “solves” the problem of controlling foreign warships in the NSR only if no grandfathered innocent or transit passage rights apply. However, Moscow’s past positions unambiguously affirmed innocent passage rights in the most important Arctic straits that Russia currently claims as internal waters. By the plain letter of UNCLOS and its antecedent treaty, this means innocent passage must continue to exist in areas where Russia would introduce a law entirely at odds with innocent passage.
+Legal positions staked by the Union of Soviet Socialist Republics (USSR) in 1964 and 1967, when U.S. Coast Guard icebreakers appeared poised to pass through the Vilkitskii Strait joining the Kara and Laptev Seas, clearly establish this right to innocent passage. The resulting flurry of
+diplomatic notes
+sent between the U.S. and USSR at the time prove that the Soviet Union did not claim historic title to the two most important straits in the Northeast Passage. Instead, the Soviet Union position maintained that the Kara Gate and Vilkitskii Strait were Soviet territorial waters where innocent passage rights existed, but simply did not extend to U.S. government vessels under Soviet law at the time. The USSR claimed historic title, which the U.S. promptly and firmly rejected, only in the Sannikov and Dmitry Laptev straits, likely for reasons that reinforce the above claim.
+Both exchanges took place before the clarifications achieved at the Third Conference on the Law of the Sea (1973-1982), so note three important legal differences framing these interactions. First, the USSR claimed a 12-nautical-mile territorial sea, whereas the U.S. at this point still adhered to the 3-nautical-mile limit. Second, the USSR asserted that innocent passage rights did not apply to warships and other sovereign immune vessels. Specifically, they required foreign warships to obtain prior diplomatic clearance before entering territorial seas. Subsequently, Moscow and Washington have harmonized their positions on these disputes. UNCLOS standardized the 12-nautical-mile territorial sea, while the 1989 U.S.-USSR Joint Statement on the Uniform Interpretation of Rules of International Law Governing Innocent Passage confirmed that “[a]ll ships, including warships, regardless of cargo, armament or means of propulsion, enjoy the right of innocent passage through the territorial sea[.]” Finally, note that the USSR throughout the diplomatic exchange used “territorial waters” (территориальные воды) to connote the modern term “territorial sea,” in
+alignment
+with Soviet law at the time.
+The principal subject of both incidents was the Vilkitskii Strait, which the USSR notes repeatedly and exclusively referred to as “territorial waters”—that is, territorial seas—in subsequent messaging. The Soviet foreign ministry’s diplomatic notes to the United States unambiguously described the Vilkitskii Strait as “overlapped twofold by Soviet territorial waters” (1964) and “territorial waters of the USSR” (1967). (See Figure 3 for a visual confirmation of this overlap.) A subsequent note verbale in 1967 reiterated that the Soviet Union claimed territorial waters in the Vilkitskii Strait.
+The Soviet notes indicate that innocent passage rights existed in the strait—the hitch was just that these rights did not apply to foreign warships. This position was consistent with Soviet
+reservations
+to the 1958 convention, and also enshrined in the 1960 Statute on Protection of the Border, to which the Soviets repeatedly referred. That statute
+stipulates
+that “non warships enjoy the right of innocent passage in territorial waters” (Article 15), whereas foreign warships may pass through territorial waters only “upon prior permission.” Since innocent passage does not exist in internal waters based on historic title, this can only further confirm that the Soviet Union was not claiming historic title in the Vilkitskii Strait.
+Figure 3. Estimated extent of the USSR’s territorial sea in 1964 and 1967.
+Soviet claims to the Kara Gate imp
+ly a similar logic, since those notes refer to “all straits running west and east in the Karsky Sea,
+inasmuch as they are overlapped twofold by Soviet territorial waters
+” (emphasis added). This would include the Kara Gate, which is less than 24 nautical miles wide at its narrowest. (See Figure 3.)
+Thus, had a U.S. government vessel attempted to sail through the Kara Gate, the USSR likely would have made the same argument it made for the Vilkitskii Strait—these were Soviet territorial seas where innocent passage rights existed, just not for U.S. government vessels. What is crystal clear is that these Soviet notes did not make any historic title claim to the Kara Gate.
+In contrast, the Soviet Union did make affirmative claims to historic title in the Dmitry Laptev and Sannikov straits. The 1964 note, for example, read, “the Dmitry Laptev and Sannikov straits, which … belong historically to Russia.” Note that these straits are wider than 24 nautical miles at their narrowest point, and so a high sea channel would have existed through the straits. (See Figure 3.) Not even the Soviet Union’s interpretation of innocent passage would have given it the excuse to prohibit U.S. government vessel passage. In this context, claiming historic title seems an obvious, if dubious, way to make a case for denying foreign navigational rights where they would otherwise have existed. The U.S. promptly protested this claim and has continued to
+protest Russia’s historic title claims
+in the Arctic in subsequent diplomatic exchanges.
+Only in 1985 did the USSR draw straight baselines in the Arctic. As a state party to the 1958 Convention on the Territorial Sea at that time, the USSR was bound by Article 5(2) of that convention, which preserves innocent passage rights where straight baselines enclose any territorial sea or high seas. In 2021, Russia
+revised their Arctic baselines
+, at which time Russia was bound by both the 1958 convention and UNCLOS’s identical clause. Additionally, neither Russia’s 1985 nor 2021 straight baseline acts claim that the lines delimit a historic internal waters claim, as
+Canada’s 1985 order
+establishing Arctic
+straight baselines
+did.
+The implication of the USSR’s notes is that innocent passage rights continue to exist in all the Arctic straits under the grandfathering mechanism in Article 5.2 of the 1958 Convention and Article 8.2 of UNCLOS. By the Soviet Union’s own terms, innocent passage rights existed and thus continue to exist in the Vilkitskii Strait and Kara Gate, even while enclosed with straight baselines. Furthermore, because the U.S. explicitly rejected the USSR’s opportunistic claim to historic title in the Dmitry Laptev and Sannikov straits, innocent passage should be the basic regime even if these, too, are internal waters.
+Conclusion
+With the proposed amendment, the Russian Duma clearly aims to correct a perceived weakness in the NSR’s current legal order—that it does not in any way control warships. Requiring diplomatic clearance and restricting the number of simultaneous foreign naval users would be a significant innovation. The geographic scope of the proposal is limited; foreign warships would still be permitted to sail in Russia’s territorial sea and exclusive economic zone north of the straits. But still, the U.S., and possibly other users, are sure to protest if the bill becomes law.
+Both Russian lawmakers apparently concerned with complying with UNCLOS as well as states championing that treaty in the face of encroachments should pay special attention to the legal consequences of Moscow’s claims in 1964 and 1967. For Russian lawmakers, it makes their project plainly contrary to UNCLOS. For maritime states and law of the sea advocates, the clear grandfathered innocent passage regime existing in Russia’s Arctic internal waters can be a common rallying point that is less contentious than U.S. claims that the straits are international straits.
+Topics:
+Foreign Relations & International Law
+Back to Top
+Cornell  Overfield
+@cornellatyale
+Read More
+Cornell Overfield is an analyst at the Center for Naval Analyses, the Navy’s federally funded research and development center. His views do not necessarily represent those of his employer.
+}
+More Articles
+Lawfare Daily: The Trump-Xi Summit and U.S.-China AI Competition
+Peter E. Harrell
+Martin  Chorzempa
+Jen  Patja
+Oct 2, 2026
+2025 Civilian Casualties Report Reveals U.S. Civilian Protection Gaps
+Madison  Hunke
+Megan  Karlshoej-Pedersen
+Anna  Zahn
+Oct 1, 2026
+Despite admitting to its biggest civilian harm incidents in years, the U.S. military has not accounted for dozens of victims from 2025.
+Lawfare Daily: Did Washington Walk Into Beijing’s Trap? Xi’s State Visit with Jonathan Czin
+Julia  Curlee
+Jon  Czin
+Jen  Patja
+Sep 30, 2026
+Other Topics
+Armed Conflict
+Congress
+Courts & Litigation
+Criminal Justice & Rule of Law
+Cybersecurity & Tech
+Democracy & Elections
+Executive Branch
+Foreign Relations & International Law
+Intelligence
+States & Localities
+Surveillance & Privacy
+Terrorism & Extremism
+Subscribe to Lawfare
+Email Address
+*
+First Name
+Last Name
+Newsletters
+Today on Lawfare
+The Week That Was
+Bot Input
+Subscribe
+Hard National Security Choices
+Stay Connected
+Facebook
+X
+LinkedIn
+Youtube
+Lawfare
+Topics
+Podcasts
+Resources
+Job Board
+Support
+About
+Our Story
+Masthead
+© 2026
+The Lawfare Institute
+Published by
+The Lawfare Institute

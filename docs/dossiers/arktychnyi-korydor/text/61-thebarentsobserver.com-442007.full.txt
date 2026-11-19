@@ -1,0 +1,206 @@
+URL:         https://www.thebarentsobserver.com/news/shadow-tanker-blocked-by-arctic-sea-icenbsp/442007
+Кінцевий:    https://www.thebarentsobserver.com/news/shadow-tanker-blocked-by-arctic-sea-icenbsp/442007
+Заголовок:   Shadow tanker blocked by Arctic sea ice
+Дата публ.:  2025-12-09
+Завантажено: 2026-10-06 13:28 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 125476
+Оригінал:    raw/61-thebarentsobserver.com-442007.html
+sha256:      0742b3546bf32d9eb44dfd40fb84b9ac7d5a2c82eb0e5c7418f19d445d35f1f7
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 29
+==============================================================================
+The sea ice in the Gulf of Ob came earlier and was more impermeable than in previous years. Despite the presence of several nuclear-powered icebreakers, the Buran did not manage to make it through the ice.
+The Buran made several attempts to reach the Utrenny terminal in the Gulf of Ob, but had to give up because of the sea ice.
+Map: screenshot from Goradar.ru
+The Buran (previously named North Air) is among Russia's sanctioned 'shadow fleet' carriers.
+The Yakutia sailed through the Norwegian Sea on December 9 after repairs in St. Petersburg. The ship will sail to the Gulf of Ob where it will provide escort through thick sea ice.
+Naval landing on Arctic archipelago reveals major pollution
+Russian fishery tycoon, who sues Norway, seeks Arctic sway
+Norway successfully tests new naval missile
+Naval flotilla explores new passage on Northern Sea Route
+Ships linked with Arctic Russia spotted in North Korea
+A familiar garden bird in an unfamiliar world
+Five days after the vote, FSB arrests leading election expert
+Doctor, 74, volunteers for war as Northern Russia loses medical staff
+"Culture cannot stay silent in wartime"
+Murmansk governor and major general give up seats in regional parliament
+As Arctic sea ice reaches this year’s low, shipping reaches historic high
+Arctic summer sea ice: Perhaps the reality is more complex than what we are told
+Published by: The Independent Barents Observer AS
+The Barents Observer follows the
+Code of Ethics of the Norwegian Press
+Right and Duties of the Editor
+. We report under full editorial independence and have no external interference.
+Freedom to write - freedom to publish.
+to our independent journalism. That’s how we get better.
+Støtt oss via Vipps: 105 792 - Det betyr mye!
+newstips@thebarentsobserver.com
+News editor Farida Kurbangaleeva
+Journalist Georgii Chentemirov
+georgii@thebarentsobserver.com
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Shadow tanker blocked by Arctic sea ice
+Jump to main content
+Fight Censorship!
+Contribute
+Video
+Podcast
+Opinion
+Security
+Democracy and media
+Climate crisis
+Travel
+About us
+Advertise with us
+Newsletter
+Bluesky
+Facebook
+Instagram
+Telegram
+LinkedIn
+X
+Русский
+Video
+Podcast
+Opinion
+Search
+The sea ice in the Gulf of Ob came earlier and was more impermeable than in previous years. Despite the presence of several nuclear-powered icebreakers, the Buran did not manage to make it through the ice.
+Photo: Rosatomflot
+Shadow tanker blocked by Arctic sea ice
+There were several powerful icebreakers in the area, but the 293-metre-long gas carrier
+Buran
+still had to give up its efforts to reach the Utrenny terminal in the Gulf of Ob.
+Atle Staalesen
+Atle
+Staalesen
+9 December 2025 - 17:32
+The tanker, which has shuttled between the far northern terminal and Chinese ports multiple times this year, has failed to break through the thick ice layers on the Ob bay.
+Reportedly, the
+Buran
+made four attempts to make it to the terminal in the period of December 2-7. Apparently, they were all unsuccessful.
+Ship traffic data from December 9 show that the tanker remains in the adjacent waters of the Kara Sea.
+The Buran made several attempts to reach the Utrenny terminal in the Gulf of Ob, but had to give up because of the sea ice.
+Map: screenshot from Goradar.ru
+After an exceptionally warm October, the Arctic weather quickly changed. By early December, the waters in the Gulf of Ob had frozen to an extent that was not expected by the local shippers.
+The solid ice came earlier and was more impermeable than in previous years, a shipping news site
+reports
+.
+The
+Buran
+is one of four carriers in a 'shadow fleet' used by Novatek to transport liquified natural gas from the Arctic LNG 2 project to China.
+The Buran (previously named North Air) is among Russia's sanctioned 'shadow fleet' carriers.
+Photo: belokamenka51 on VK
+During the summer and fall of 2025, the
+Buran
+,
+Iris
+,
+Voskhod
+and
+Zarya
+conducted at least 12 shipments from Utrenny, a terminal that is part of the Arctic LNG 2 project. Most of the shipments went across the Northern Sea Route to China.
+The four tankers, as well as the Arctic LNG 2 itself, are under international sanctions.
+The
+Buran
+and its sister vessels have ice standard Arc4, which is insufficient for sailing in thick sea ice. Reportedly, the
+Buran
+got major damage when it sailed through sea ice last winter and subsequently had to go through several months of repair at a Chinese yard.
+Russia is in dire need of tankers with higher ice standards. A fleet of 15 specialised Arc7 icebreaking LNG carriers serve the Yamal LNG project, but Novatek has not managed to build a similar fleet for the Arctic LNG 2.
+An Arc7 tanker for the project, the
+Aleksei Kosygin
+,
+is under construction at the Zvezda Yard in Vladivostok
+. The carrier, which is named after the Soviet Politburo leader, is expected to make it into Arctic water in the course of the winter.
+Almost the whole Russian fleet of nuclear-powered icebreakers is now in and around the Gulf of Ob. The Buran is assisted by the
+50 Let Pobedy
+, while other ships are escorted by the
+Ural
+, the
+Arktika
+, the
+Taymyr
+and
+Yamal
+.
+On December 9 the
+Sibir
+escorted a convoy of four ships that approached the Vilkitsky Strait.
+At the same time, the
+Yakutiya
+was on its way through the Norwegian Sea en route from St. Petersburg to Sabetta. This powerful icebreaker that entered service in December 2024 had to sail all the way to St. Petersburg for repairs and upgrades. A floating dock that was built by the Turkish Kuzey Star Shipyard
+has not made it to Murmansk because of international sanctions.
+The Yakutia sailed through the Norwegian Sea on December 9 after repairs in St. Petersburg. The ship will sail to the Gulf of Ob where it will provide escort through thick sea ice.
+Map: NAIS Barentwatch
+The dock, which has a lifting capacity of 30,000 tons, has been built for Russia's new generation of icebreaker, but remains stuck in Turkey.
+news
+arctic lng
+arctic shipping
+ob bay
+sea-ice
+nuclear-powered icebreakers
+buran
+Naval landing on Arctic archipelago reveals major pollution
+Russian fishery tycoon, who sues Norway, seeks Arctic sway
+Norway successfully tests new naval missile
+Naval flotilla explores new passage on Northern Sea Route
+Ships linked with Arctic Russia spotted in North Korea
+A familiar garden bird in an unfamiliar world
+Five days after the vote, FSB arrests leading election expert
+Doctor, 74, volunteers for war as Northern Russia loses medical staff
+"Culture cannot stay silent in wartime"
+Murmansk governor and major general give up seats in regional parliament
+As Arctic sea ice reaches this year’s low, shipping reaches historic high
+Barents Pride cancelled
+Arctic summer sea ice: Perhaps the reality is more complex than what we are told
+ABOUT
+CONTACTS
+SUBSCRIBE FREE NEWSLETTER
+© 2002 - 2026
+Published by: The Independent Barents Observer AS
+About us
+The Barents Observer follows the
+Code of Ethics of the Norwegian Press
+and the document
+Right and Duties of the Editor
+. We report under full editorial independence and have no external interference.
+Freedom to write - freedom to publish.
+Donate
+to our independent journalism. That’s how we get better.
+Støtt oss via Vipps: 105 792 - Det betyr mye!
+newstips@thebarentsobserver.com
+Publisher
+Atle Staalesen
+atle@thebarentsobserver.com
+Editor
+Thomas Nilsen
+thomas@thebarentsobserver.com
+☏ +47-905 73 143
+News editor Farida Kurbangaleeva
+farida@thebarentsobserver.com
+Opinion editor Laura A. Janda
+janda.laura@gmail.com
+Journalist Denis Zagore
+denis@thebarentsobserver.com
+Journalist Georgii Chentemirov
+georgii@thebarentsobserver.com
+Journalist Olesia Krivtsova
+olesia@thebarentsobserver.com
+Visiting address:
+Storgata 5, Kirkenes, Norway
+Sign up for the newsletter
+Privacy policy
+Follow us
+Bluesky
+We left X
+Facebook
+Instagram
+Telegram
+LinkedIn
+YouTube
+Powered by Labrador CMS

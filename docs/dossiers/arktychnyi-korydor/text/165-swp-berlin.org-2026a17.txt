@@ -1,0 +1,156 @@
+URL:         https://www.swp-berlin.org/10.18449/2026A17/
+Кінцевий:    https://www.swp-berlin.org/10.18449/2026A17/
+Заголовок:   Russlands begrenzte Fähigkeiten zum Schutz seiner »Schattenflotte«
+Дата публ.:  2026-04-02
+Завантажено: 2026-11-08 06:38 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 299382
+Оригінал:    raw/165-swp-berlin.org-2026a17.html
+sha256:      756900e0c5c07f9e4262f9c3696d02ece813c19f89bef954f68e452a3bb86021
+Витяг:       trafilatura
+
+==============================================================================
+# Russlands begrenzte Fähigkeiten zum Schutz seiner »Schattenflotte«
+
+Deutschlands Handlungsspielräume in der Nordsee und darüber hinaus
+
+SWP-Aktuell 2026/A 17, 02.04.2026, 8 Seitendoi:10.18449/2026A17
+
+ForschungsgebieteRussland kann diejenigen Tanker, die es zur Umgehung westlicher Ölsanktionen einsetzt, außerhalb seiner angrenzenden Seegebiete nur begrenzt schützen. In den vergangenen sechs Monaten ist es Frankreich, den USA und zuletzt Belgien gelungen, einzelne dieser technisch mangelhaften und oft intransparent registrierten Schiffe im Atlantik, in der Nordsee und im Mittelmeer anzuhalten, ohne dass Moskau dies verhindern konnte. Darin offenbart sich ein bekanntes strukturelles Problem der russischen Marine: Ihr fehlen große Überwasserkampfschiffe, um globale Seehandelswege zu patrouillieren. Deutschland sollte dieses Defizit stärker in Betracht ziehen und seine bislang auf die Ostsee konzentrierte Politik auch auf andere Seegebiete ausdehnen – etwa durch die Unterstützung von Festsetzungen entsprechender Tanker in der Nordsee.
+
+Russlands Finanzierung der im Februar 2022 begonnenen Vollinvasion der Ukraine beruht maßgeblich auf Energieexporten. Um die Einnahmen zu begrenzen, führten westliche Staaten im Dezember 2022 eine Preisobergrenze für russisches Öl ein. Westliche Unternehmen dürfen Transport-, Finanz- und Versicherungsdienstleistungen für Kauf und Lieferung des Öls nur übernehmen, wenn der Preis unterhalb der festgesetzten Schwelle liegt. Die Idee ist, Russland gezielt zu schwächen, ohne den globalen Ölmarkt zu destabilisieren.
+
+Da Russland in den Vorjahren seine Exportinfrastruktur kaum diversifiziert hat, führt es sein Öl größtenteils über den Seeweg aus. Um weiterhin hohe Erträge zu generieren, griff Moskau in zunehmendem Maße systematisch auf die Nutzung von Tankern zurück, die nicht internationalen Sicherheits- und Umweltnormen entsprechen und deren Eigentums- und Registrierungs- bzw. Flaggenstatus oft und wahrscheinlich bewusst undurchsichtig ist. Aufgrund der Nichteinhaltung dieser Standards stellen die Schiffe eine Gefahr für den Seeverkehr und die Umwelt dar.
+
+Diese Tanker werden gemeinhin als »Schattenflotte« bezeichnet. Es handelt sich jedoch um keinen von Russland gesteuerten Schiffsverband, sondern lediglich um den Sammelbegriff für ein bereits länger bekanntes Phänomen von Seetransport außerhalb etablierter Kontrollmechanismen. Da dieses Phänomen bis 2022 fast ausschließlich im Globalen Süden auftrat, fand es in vielen Staaten Europas und eben auch in Deutschland wenig Beachtung. Das hat sich seit November 2024 geändert.
+
+## Uneinigkeit beim Vorgehen außerhalb von Hoheitsgewässern
+
+Nachdem es in der Ostsee wiederholt zu Beschädigungen von Unterwasserinfrastruktur und zu weiteren sicherheitsgefährdenden Vorfällen (z. B. gestörte Navigationssignale und Drohnenüberflüge) gekommen war, mehrten sich die Anzeichen, dass dafür einige der mit Moskau in Verbindung stehenden Schiffe verantwortlich sein könnten. Die Anrainerstaaten befürchten, dass solche Ereignisse die maritime Ordnung in dem Binnenmeer destabilisieren könnten und es häufiger zu Havarien oder Umweltschäden kommt. Da ein vollständiges Unterbinden dieser Schifffahrt nicht durchsetzbar ist, zielen ihre Bemühungen darauf ab, mittels verstärkter Überwachung und Kontrollen gefährliche oder illegale Aktivitäten frühzeitig zu erkennen und zu verhindern.
+
+Die Eingriffsbefugnisse der Anrainer sind allerdings begrenzt: Internationale Abkommen sichern die Freiheit der zivilen Schifffahrt und schränken die exekutiven Kompetenzen der Küstenstaaten außerhalb ihrer Hoheitsgewässer (»12-Meilen-Zone«) auf wenige Ausnahmen ein. Die Strafverfolgung obliegt somit dem Staat, dessen Flagge ein Schiff führt. Oft handelt es sich um außereuropäische Länder, deren Ressourcen für Aufsicht und Vollstreckung limitiert sind. Das führt zu einem strukturellen Durchsetzungsdefizit. Seit 2024 suchen die Ostseeanrainer daher nach Rechtsgrundlagen, um präventiv agieren zu können.
+
+Ende Dezember 2024 wurde erstmals ein Tanker in der Ostsee angehalten: Die EAGLE S war auf dem Weg aus dem Finnischen Meerbusen, an dessen Ende sich russische Ölterminals befinden. Nachdem sie in ungewöhnlicher Fahrweise ein am Meeresgrund verlegtes, von Finnland nach Estland führendes Stromkabel überquert hatte, fiel die Elektrizitätsversorgung in Estland aus. Helsinki ließ den Tanker daraufhin von Spezialkräften des Grenzschutzes entern und festsetzen. Die finnische Regierung berief sich dabei auf nationale Vorschriften.
+
+Nach diesem Ereignis und infolge einer verstärkten Nato-Überwachung ab Januar 2025 und der Festsetzung eines weiteren Tankers durch Estland im April erhöhte Russland im Mai seine militärische Präsenz in der östlichen Ostsee. Dazu gehören Patrouillen mit Kriegsschiffen und Kampfflugzeugen sowie gesteigerte Übungsaktivitäten. Offensichtlich fühlt sich Moskau in seinem Recht auf Durchfahrt eingeschränkt und will dieses nun erzwingen; allem Anschein nach dienen die Maßnahmen dazu, die Reaktionsbereitschaft der Nato auszutesten und in den europäischen Gesellschaften ein Gefühl der Unsicherheit zu erzeugen.
+
+Russlands militärische Fähigkeiten in der Ostseeregion, insbesondere die weitreichenden Flugkörpersysteme, sind ein gewichtiger Faktor, wenn es zu erklären gilt, warum es unter den übrigen Anrainern und darüber hinaus bisher keine gemeinsame Haltung beim Vorgehen gegen die »Schattenflotte« außerhalb ihrer Hoheitsgewässer gibt. Die Positionen der verschiedenen Regierungen lassen sich in zwei Lager einteilen:
+
+Das erste betrachtet die »Schattenflotte« primär als sicherheitspolitisches Problem. Es setzt sich aus den besonders exponierten Anrainern zusammen: den zwei nordischen und den drei baltischen Staaten sowie Polen. Wegen ihrer Nähe zu Russland und einer ausgeprägten Bedrohungsperzeption sind diese Länder bereit, auch allein Maßnahmen zu ergreifen und damit verbundene Eskalationsrisiken in Kauf zu nehmen.
+
+Das zweite Lager sieht in der »Schattenflotte« hingegen vorrangig eine ordnungsrechtliche Herausforderung. Zu ihm zählen Dänemark und Deutschland plus geografisch nachgelagerte Staaten des nordeuropäischen Raums wie Island und Norwegen. Die Regierungen dieser Staaten unterstützen restriktive Maßnahmen, präferieren jedoch ein koordiniertes Vorgehen, das direkte Konfrontationsdynamiken mit Moskau begrenzen soll.
+
+Obwohl die Risikobereitschaft beider Gruppen variiert, teilen sie die Erfahrung, dass wegen der hohen Militärpräsenz in der Ostsee jede Maßnahme gegen die »Schattenflotte« außerhalb von Hoheitsgewässern Signalwirkung hat. Russland besitzt gemäß dem Seerechtsübereinkommen der Vereinten Nationen (SRÜ) zwar ein Recht auf ungehinderte Durchfahrt, doch die übrigen Anrainer können gleichwohl verlangen, dass Moskau und seine Schiffe den Seeverkehr nicht gefährden. Ohne vertrauensbildende Formate wird die maritime Ordnung zunehmend durch militärische Drohungen geschwächt und erschüttert. Das erhöht das Eskalationsrisiko.
+
+Um es zu mindern, können Maßnahmen gegen die »Schattenflotte« auch in anderen Seegebieten erfolgen, wo Russlands Schutz- und Projektionsfähigkeiten deutlich geringer sind.
+
+## Präzedenzfall BORACAY
+
+Der Fall des Tankers KIWALA alias BORACAY illustriert zentrale Charakteristika und Herausforderungen des Phänomens »Schattenflotte«: Das mit Baujahr 2007 recht alte Schiff fiel durch mehrfache Wechsel von Namen, Besitzer und Flaggenstaat sowie eine lückenhafte Bewegungshistorie auf. Ab Oktober 2024 wurde es von Großbritannien zur russischen »Schattenflotte« gezählt, seit Februar 2025 befindet es sich auf einer entsprechenden EU-Sanktionsliste. Trotz einer kurzzeitigen Festsetzung durch Estland im April und eines Anschlags mit einer Haftmine ungeklärter Urheberschaft im Juli setzte es seine Fahrt fort. Unter dem Namen BORACAY nahm es Anfang September vom Ölverladehafen Primorsk bei St. Petersburg Kurs gen Indien. Kurz darauf umrundete es Dänemark. In dieser Zeit kam es zu außergewöhnlich vielen Sichtungen von Flugdrohnen unbekannter Herkunft über kritischer Infrastruktur, was zur zeitweisen Einstellung des Betriebs von Flughäfen führte. In den Medien wurde prompt ein Zusammenhang mit dem anstehenden EU-Gipfel in Kopenhagen Anfang Oktober 2025 hergestellt. Kommentatoren spekulierten über eine Verbindung der Flugdrohnen mit Tankern der »Schattenflotte«, darunter die BORACAY.
+
+Ende September wurde der Tanker dann von Spezialkräften der französischen Marine geentert und mehrere Tage vor dem Hafen von Saint-Nazaire im Nordosten des Golfs von Biskaya festgesetzt. Die zuständige Staatsanwaltschaft von Brest begründete die Maßnahme mit Unklarheiten über den Flaggenstatus des Schiffes. Medienberichten zufolge berief sie sich dabei auf Artikel 110 des SRÜ.
+
+Die Anwendbarkeit dieses Artikels auf die »Schattenflotte« wurde bis dahin lediglich in maritimen Fachkreisen diskutiert. Die Idee hinter der Norm ist, trotz der Freiheit der Meere besonders schwerwiegende Rechtsverstöße ahnden zu können. Obwohl Artikel 110 in Teil VII des SRÜ enthalten ist, der die Hohe See regelt, findet er über Artikel 58 (2) grundsätzlich auch in der Ausschließlichen Wirtschaftszone (AWZ) Anwendung, da dort die für die Hohe See maßgeblichen Vorschriften über die Freiheit der Schifffahrt entsprechend gelten. So soll verhindert werden, dass sich zivile Schiffe unter Berufung auf die Flaggenstaatshoheit oder durch das Führen einer falschen bzw. fehlenden Flagge der internationalen Kontrolle entziehen. Zu diesem Zweck wird militärischen Schiffen und Luftfahrzeugen das Recht zum Betreten ziviler Schiffe gewährt, sofern ein begründeter Verdacht hinsichtlich der in der Norm aufgeführten Tatbestände besteht, darunter Staatenlosigkeit und unzulässige Flaggenführung, etwa in der Form einer fehlenden Berechtigung zur Flaggenführung oder des Führens mehrerer Flaggen. Medienrecherchen zeigen, dass eine Vielzahl von Schiffen, die mit Russland in Verbindung stehen, ohne korrekte Flagge unterwegs ist.
+
+Ob Artikel 110 im Falle der BORACAY einschlägig war und das Schiff etwas mit den Überflügen der Drohnen zu tun hatte, wird seit Februar 2026 vor Gericht verhandelt.
+
+## Putin spricht von »Piraterie«
+
+Wenige Tage nach der französischen Aktion äußerte sich Russlands Staatspräsident Wladimir Putin dazu: Auf einer öffentlichen Veranstaltung Anfang Oktober 2025 hob er hervor, der Zwischenfall habe in internationalen Gewässern stattgefunden, das Schiff sei unter Flagge eines Drittstaats gefahren und die Besatzung multinational gewesen. Deswegen und weil sich die Verdachtsmomente gegen die BORACAY nicht bestätigt hätten, stelle das Vorgehen Frankreichs seines Erachtens einen Akt der Piraterie dar. Putin warnte, künftige Aktionen dieser Art könnten schwerwiegende Konsequenzen haben. Daran schloss er eine grundsätzliche Bemerkung an: Er kritisierte, dass der Westen von Russland stets verlange, sich ans Völkerrecht zu halten, es selbst aber nicht tue. Sein Land halte keine Schiffe fest. Außerdem sei das Etikett »Schattenflotte« – was tatsächlich richtig ist – ein begriffliches Konstrukt, das im Seerecht nicht existiere.
+
+Putins strategische Rahmung, das Anhalten der BORACAY mit Piraterie gleichzusetzen und den Begriff der »Schattenflotte« zu delegitimieren, markiert eine neue Etappe der Diskursverschiebung: Während Russland das Anhalten der mit ihm in Verbindung stehenden Schiffe in der Ostsee zuvor lediglich mit diplomatischem Protest auf der Grundlage einer juristischen Argumentation quittiert hatte, zielt das Narrativ des kriminellen Charakters westlichen Handelns erkennbar darauf, die Debatte von Einzelfallkritik auf die Ebene genereller Ordnungspolitik zu heben.
+
+Putins scharfe Worte lassen indes schnell übersehen, dass seinem Land die Mittel fehlen, Seewege außerhalb bestimmter Bereiche und Orte zu schützen. Hierbei handelt es sich um eine bekannte und offenbar in Kauf genommene Schwäche der russischen Marine. Sie resultiert aus der geografischen Lage des Landes und daraus abgeleiteten seestrategischen Erwägungen.
+
+## Defizite der russischen Marine
+
+Obwohl Russland über eine lange Küstenlinie verfügt, lassen sich aus klimatischen und infrastrukturellen Gründen nur wenige Stellen für die Schifffahrt ständig nutzen. Diese Orte liegen weit verteilt, nah an den Außengrenzen und von keinem gibt es einen ungehinderten Zugang zum Atlantik und zum Pazifik. Schiffe von und zu russischen Häfen müssen also die Gewässer anderer Staaten passieren.
+
+Vor diesem Hintergrund liegt der Schwerpunkt der maritimen Verteidigung Russlands traditionell auf – wie es zu Sowjetzeiten hieß – *Seedominanz*, also auf einer lokal bis regional, situativ und zeitlich begrenzten Überlegenheit. Ziel dieses Ansatzes ist es, Seekorridore verteidigen zu können, um Blockaden zu verhindern oder Attacken bis ins Landesinnere. Mit dem Aufkommen amerikanischer Atomwaffen und mit den Reichweitensteigerungen der Trägersysteme stieg die Relevanz dieses Konzepts. Um Schutzmaßnahmen systematischer zu organisieren, hat sich in der sowjetischen Marinetheorie ab den 1950er Jahren das Denken in konzentrischen Ringen etabliert. Seedominanz soll demnach innerhalb der sogenannten *Nahen Zone *(»near sea zone«) erreicht werden, ein Bereich zwischen 600 bis 1.000 Kilometern vor dem eigenen Festland. Von beispielsweise Kaliningrad aus gesehen, umfasst diese Zone die gesamte Ostsee. Um solch ein Gebiet zu kontrollieren, genügen unter anderem kleine Kriegsschiffe wie Korvetten und Schnellboote sowie Kampfflugzeuge.
+
+Ab der daran anschließenden *Fernen Zone* (»far sea zone«) bis 2.000 Kilometer vor dem eigenen Festland bedarf es hingegen größerer Kriegsschiffe mit längerer Seeausdauer wie Kreuzer, Zerstörer und Fregatten und ab der darüber hinaus gehenden *Ozeanzone* (»oceanic zone«) erfordert der Schutz zusätzlich Versorgungsschiffe und Abstützpunkte. An all diesen Mitteln und Fähigkeiten mangelt es Russland seit Auflösung der Sowjetunion jedoch: Da die zuvor überdimensionierte und wartungsbedürftige Marine finanziell nicht mehr tragfähig war, musste Moskau priorisieren. Um die maritime nukleare Abschreckung in Form von Atom-U-Booten, die mit Interkontinentalraketen beladen sind, zu erhalten, wurden zahlreiche große Überwasserkriegsschiffe – selbst solche mit damals vergleichsweise wenig Dienstzeit – ausgemustert und Bauprogramme verzögert bis eingestellt. Mit ihrer Reduzierung und der sukzessiven Auflösung von Auslandsgeschwadern sank allerdings die Fähigkeit, Seehandelsrouten zu überwachen, erheblich. 
+
+Von dieser Zäsur hat sich die russische Marine trotz Modernisierungen seit Putins Amtsantritt 1999 nicht erholt. Wenngleich der russische Präsident immer wieder die Bedeutung einer Seestreitmacht als Instrument der Politik betont, spiegelt sich diese rhetorische Gewichtung nur bedingt in staatlichen Grundlagendokumenten wider: In der 2022 aktualisierten Version der Maritimen Doktrin wird zwar festgehalten, dass der Zugang zu internationalen Seewegen einerseits Russlands sozioökonomischer Entwicklung diene, andererseits aber von den USA und ihren Verbündeten behindert werde. Trotzdem werden solche Routen in der neu eingeführten strategischen Kategorisierung von Seegebieten nur als wichtig eingestuft und nicht als vital, also existenziell. Das heißt, dass Moskaus maritimer Fokus weiterhin auf den unmittelbar angrenzenden Gewässern liegt und auch die Seestreitkräfte auf diesen Raum ausgerichtet bleiben.
+
+Obwohl sich Russland laut der Doktrin im Atlantik inklusive der Ostsee einer militärischen Konfrontation mit der Nato gegenübersieht, werden diese Gewässer ebenfalls bloß als wichtig (und nicht als vital) erachtet. In dieser Kategorie stehen wirtschaftliche Ziele im Vordergrund, nicht sicherheitspolitische. Fachleute erkennen in dieser Einstufung die Einsicht Moskaus, außerhalb seiner angrenzenden Gewässer nicht über die nötigen Mittel zu verfügen, der Nato etwas entgegenzuhalten.
+
+## Offenbarung operativer Grenzen
+
+Bestätigung findet diese These im russischen Marinediskurs: Im Dezember 2025 erschien im einflussreichen Militärmagazin *Voennaja Mysl* ein langer Artikel über Möglichkeiten des militärischen Schutzes der zivilen Schifffahrt. Autor ist Flottenadmiral Alexander Moissejew, seit März 2024 Oberbefehlshaber der Marine.
+
+Zu Beginn des Beitrags schlägt Moissejew einen Bogen von der Maritimen Doktrin über zeitgenössische Umstände hin zu Putins Narrativ, wonach es der Westen sei, der die internationale Ordnung störe. So stellt der Flaggoffizier zunächst klar, dass die Nutzung des Maritimen Raumes – in Russland »Weltozean« genannt – ein Schlüsselfaktor für die Transformation seines Landes im 21. Jahrhundert sei. Dies setze sinngemäß eine regelbasierte freie Seefahrt voraus. Die Nato unterminiert seiner Ansicht nach dieses Grundprinzip, indem deren Mitglieder gegen russische oder mit Russland in Verbindung stehende Handelsschiffe vorgehen. Moskau werde dadurch gewissermaßen zu Gegenmaßnahmen genötigt.
+
+Nach einigen Passagen, in denen der Autor zusammenfasst, was die vier Flotten der russischen Marine schon jetzt zur maritimen Sicherheit des Landes beitragen würden, deutet Moissejew am Ende des Artikels an, dass sich die gegenwärtige Phase erhöhter Spannungen voraussichtlich fortsetzen werde. Für die Zukunft brauche es ressortübergreifende Lösungen, die von den Seestreitkräften koordiniert werden sollten. Moissejew benennt sieben Punkte: Dazu gehören zum Beispiel Anpassungen von Fahrregeln und Routen und eine situationsabhängige Verteidigung von Seewegen.
+
+Auffällig an den Punkten ist, dass sie zurückhaltend und technokratisch formuliert sind. Das heißt, es geht mehr um Steuerung und operative Flexibilität statt um eine reine militärische Antwort. Für diesen Ansatz sollte Moissejew wenig später, nach der nächsten Festsetzung eines mit Russland in Verbindung stehenden Tankers außerhalb der Nahen Zone, öffentliche Kritik ernten.
+
+## Festsetzung der MARINERA
+
+Im Zusammenhang mit der Zuspitzung des amerikanischen Drucks auf Venezuela und der Verhängung einer Seeblockade gegen Tanker geriet Mitte Dezember 2025 die BELLA 1 in das Visier der US-Küstenwache. Wie die BORACAY ist das Schiff mit Baujahr 2002 recht alt, hat diverse Wechsel von Namen, Flaggenstaat und Eignern hinter sich und weist Lücken in der Bewegungshistorie auf. Schon die US-Regierung unter Präsident Joe Biden hatte die BELLA 1 im Juni 2024 auf eine Sanktionsliste gesetzt, weil es Verbindungen zur libanesischen Terrororganisation Hisbollah gab.
+
+Die BELLA 1 fiel den USA auf, weil sie vom Iran kommend trotz Blockade Venezuela ansteuerte. Da sie ohne gültige Flagge unterwegs war, kündigte die US-Küstenwache an, sie anhalten zu wollen. Daraufhin änderte die Besatzung den Kurs Richtung Atlantik und schaltete mehrere Tage lang das Funkerkennungssystem aus. Als es Ende Dezember wieder ein Signal vom Tanker gab, befand er sich in der Nähe der Azoren und trug plötzlich den Namen MARINERA. Aus US-Regierungskreisen hieß es, die Besatzung habe außerdem eine russische Flagge an die Außenwand gemalt und behaupte, nun unter deren Hoheit zu fahren. Moskau solle kurz darauf Washington formal gebeten haben, von einer Verfolgung der MARINERA abzusehen. Daneben wurde bekannt, dass auch andere Tanker in venezolanischen Gewässern die Flagge Russlands angenommen hätten.
+
+Anfang Januar 2026 verlegten die USA zahlreiche Luftfahrzeuge nach Großbritannien. In Fachkreisen führte das zu Spekulationen, die flüchtige, nordostwärts fahrende MARINERA könne doch noch festgesetzt werden. Amerikanische Medien meldeten gleichzeitig unter Berufung auf dortige Regierungsvertreter, Russland habe ein U‑Boot und weitere Kriegsschiffe entsandt, um den Tanker vor einem Zugriff zu schützen.
+
+Ehe sich der Eindruck eines Wettlaufs verbreiten konnte, enterten US-Spezialkräfte die zwischen Island und den britischen Inseln navigierende MARINERA und brachten sie unter ihre Kontrolle. Weder die russische Flagge noch russische Kriegsschiffe hielten sie davon ab; US-Präsident Trump behauptete zwar, die Einheiten hätten sich schnell zurückgezogen, doch ein bekannter russischer Militärblogger widersprach: die russischen Kriegsschiffe seien um einen Tag zu spät gewesen.
+
+Da die Operation am russisch-orthodoxen Weihnachtstag stattfand, fiel Moskaus Protest zunächst moderat aus: In ersten Mitteilungen bestätigten das Außen- und das Transportministerium, das Schiff sei temporär berechtigt gewesen, die russische Flagge zu führen. Weil es sich zum Zeitpunkt des Zugriffs in internationalen Gewässern befand, handele es sich beim amerikanischen Vorgehen um eine Verletzung des Seerechts.
+
+Rund um die Festsetzung der MARINERA erschienen in russischen Medien Berichte über weitere Tanker in der Karibik mit russischem Bezug, welche von den USA angehalten wurden oder noch angehalten werden könnten. Die Resonanz in Russland auf das wiederholte Anhalten von Schiffen, die für seine Wirtschaft wichtig sind, belegt zum einen, dass es sich hierbei nicht um Einzelfälle handelt, und zum anderen, dass mit diesen Aktionen eine Schwäche ausgenutzt wird. Westliche Fachleute betonten obendrein, dass die russische Strategie, Tanker durch Umflaggung vor dem Zugriff zu bewahren oder gar politisch einzusetzen, um Blockaden zu brechen, nicht aufgegangen ist.
+
+## Russische Binnenkritik
+
+Russische Fachleute bestätigten die westliche Einschätzung, dass es ihrem Land an Fähigkeiten fehlt, zivile Schiffe in der Fernen Zone und darüber hinaus zu schützen: Ein bekannter Kreml-treuer Militärblogger kritisierte Moissejews sieben Punkte als zu defensiv. Sie kämen faktisch einer Selbstbeschränkung gleich. Er stimmte Moissejew zwar darin zu, dass die russische Marine höchstens die Nordostpassage durch den Arktischen Ozean und die Verbindung in den Pazifik garantieren könne; für die Frage, wie eine Seeblockade durchbrochen werden könne, liefere Moissejew aber keine Ideen. Ein weiterer Militärblogger bemängelte die Diskrepanz zwischen den politischen und militärischen Forderungen nach Härte und den fehlenden Fähigkeiten der Marine. Selbst in der Ostsee würden die vorhandenen Mittel kaum ausreichen, Tanker vor westlichem Zugriff zu bewahren. Der Grund dafür sei, dass Moskau seit dem Ende der Sowjetunion nicht die materiellen, strukturellen und logistischen Voraussetzungen geschaffen habe, der globalen amerikanischen Seemacht etwas entgegensetzen zu können.
+
+Derartige öffentlich formulierte Binnenkritik ist selten und fand daher in westlichen Fachkreisen Beachtung. Die Beiträge spiegeln die Sorge wider, das Vorgehen Frankreichs und der USA könne andere Staaten ermutigen, in gleicher Weise zu agieren, und so zum neuen Standard des Umgangs mit dem Phänomen »Schattenflotte« werden.
+
+Bestätigung dafür lieferte Paris Ende Januar: Im westlichen Mittelmeer wurde der in Murmansk gestartete Tanker GRINCH durch Spezialkräfte angehalten. Großbritannien soll dabei mit Aufklärung unterstützt haben. Wie im Falle der BORACAY soll die GRINCH unter falscher Flagge gefahren sein. Nennenswerte russische Reaktionen blieben erst mal aus.
+
+## Putins maritimer Berater droht
+
+Mitte Februar 2026 sorgte ein Interview mit Nikolai Patruschew in einer staatsnahen russischen Wochenzeitung für Aufsehen. Der enge Vertraute Putins leitet seit dessen Gründung im August 2024 das sogenannte Maritime Kollegium.
+
+In dem Gespräch wiederholte er das Narrativ, wonach das Anhalten von Handelsschiffen Piraterie darstelle, und prognostizierte, dass diese Akte zunehmen würden. Großbritannien, Frankreich und selbst die Baltischen Staaten strebten danach, Russland den Zugang zum Atlantik ganz zu verwehren. Die Freiheit der Seefahrt sei für ein normales Leben in Russland jedoch essenziell. Nur die Marine könne sie gewährleisten. Patruschew räumte zwar eine Fähigkeitslücke für Einsätze in der Fernen und in der Ozeanzone ein. Doch mit einem bereits in die Wege geleiteten Modernisierungsprogramm, dessen Horizont bis 2050 reicht, werde man am Ende dieses Zeitraums wieder über eine ausgewogene Marine (»balanced fleet«) verfügen. Im Hinblick auf die Ostsee unterstellte Patruschew der Nato, sie plane, Kaliningrad zu belagern, weitere Handelsschiffe festzusetzen und die Unterwasserinfrastruktur zu sabotieren, um dann Russland dafür verantwortlich zu machen. Er glaube nicht, das Bündnis lasse sich auf diplomatischem Wege davon abhalten. Sollte es zu einer Blockade kommen, werde die russische Marine sie durchbrechen. Der maritime Raum werde dadurch zunehmend zu einem Vorfeld militärischer Aggressionen.
+
+Patruschews Äußerungen fielen zeitlich mit den Verhandlungen zwischen Russland und der Ukraine in Genf zusammen. Westliche Medien werteten sie als rhetorische Eskalation: Die Behauptung, der Westen lasse sich nur durch harte Zurückweisung stoppen, wurde als Drohung aufgefasst.
+
+## Zeitfenster ausnutzen
+
+Um zeitnah den Schutz von Handelsschiffen in der Fernen Zone und darüber hinaus zu verbessern, werden in russischen Fachkreisen und Medien gegenwärtig mehrere Optionen diskutiert. Sie reichen vom ausgeweiteten Einsatz privater Sicherheitskräfte bis zur Nutzung der Flagge Russlands. Jede dieser Optionen ist jedoch zum einen mit Aufwand verbunden und würde zum anderen dem Westen weiteren Anlass zu neuen Sanktionen geben. Überdies würde Moskau von seiner bisherigen Politik der Verschleierung abweichen. Russische Fachleute dürften sich der Nachteile eines solchen Kurswechsels bewusst sein und nach weiteren, kurzfristig umsetzbaren Lösungen suchen.
+
+Für westliche Staaten wie Deutschland öffnet sich deswegen ein kalkulierbares strategisches Zeitfenster, in dem folgende Leitlinie gelten sollte: Es geht weniger darum, jeden einzelnen Tanker in von Russland entfernten Seegebieten anzuhalten und zu inspizieren, sondern um das Glaubhaftmachen dieser Möglichkeit. Adressat eines solchen Signals sind sowohl Moskau als auch diejenigen Flaggenstaaten und Eigner, welche Russland beim Umgehen der Sanktionen unterstützen. Dem Phänomen »Schattenflotte« würde dadurch Dynamik und Anpassungsfähigkeit genommen werden, ohne dass die westlichen Staaten unnötige Eskalationsrisiken eingehen müssten.
+
+Dass ein Vorgehen in von Russland fernen Seegebieten praktikabel ist und wie das ablaufen kann, hat nach Frankreich und den USA jüngst Belgien gezeigt: Anfang März brachte belgisches Militär mit Hilfe französischer Kräfte den Tanker ETHERA auf, als dieser die AWZ Belgiens in der westlichen Nordsee passierte. Belgische Politiker begründeten die Maßnahme mit dem falschen Flaggenstatus und stellten sie als mit internationalem wie nationalem Recht vereinbar dar. Russland reagierte erwartungsgemäß mit harter Kritik und forderte zusätzliche Informationen.
+
+Für Deutschland folgt daraus, die bisher auf die Ostsee ausgerichtete Politik gegenüber der »Schattenflotte« zu überprüfen: Zusätzliche Maßnahmen in der Nordsee außerhalb der eigenen Hoheitsgewässer oder fern des Randmeers erscheinen zweckmäßig, um Russlands Handlungsspielräume einzuschränken und Spannungen aus dem östlichen Binnenmeer herauszunehmen. Dabei muss sich die Bundesregierung nicht zwingend direkt an exponierten operativen Maßnahmen beteiligen und ihren bisherigen Standpunkt verlassen: Sie kann den Beispielen Großbritanniens und Frankreichs folgen und ihren Beitrag durch taktische luftgestützte oder elektronische Zielerfassung und ‑verfolgung leisten. So würde eine vordergründig national diversifizierte, asynchrone Vorgehensweise das erwartbare politische und militärische Reaktionsschema Russlands durchkreuzen und Moskau zwingen, sich jeweils mit einzelnen Staaten auseinanderzusetzen, anstatt auf ein geschlossenes westliches Maßnahmenpaket reagieren zu können. Dies erschwert es dem Kreml, das Vorgehen als koordinierte Konfrontation des Westens zu framen und entsprechend umfassende Antworten zu rechtfertigen. Damit wiederum steigen die Anforderungen an Moskaus Ressourcen und organisatorische Kapazitäten, während westliche Staaten strategische Flexibilität gewinnen.
+
+*Fregattenkapitän Helge Adrians ist Gastwissenschaftler in der Forschungsgruppe Sicherheitspolitik.*
+
+Dieses Werk ist lizenziert unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de)
+
+Das Aktuell gibt die Auffassung des Autors wieder.
+
+SWP-Aktuells werden intern einem Begutachtungsverfahren, einem Faktencheck und einem Lektorat unterzogen. Weitere Informationen zur Qualitätssicherung der SWP finden Sie auf der SWP-Website unter [https://www. swp-berlin.org/ueber-uns/ qualitaetssicherung/](https://www.swp-berlin.org/ueber-uns/qualitaetssicherung/)
+
+SWP
+
+Stiftung Wissenschaft und Politik
+
+Deutsches Institut für Internationale Politik und Sicherheit
+
+Ludwigkirchplatz 3–4
+
+10719 Berlin
+
+Telefon +49 30 880 07-0
+
+Fax +49 30 880 07-100
+
+www.swp-berlin.org
+
+swp@swp-berlin.org
+
+ISSN (Print) 1611-6364
+
+ISSN (Online) 2747-5018
+
+DOI: [10.18449/2026A17](https://doi.org/10.18449/2026A17)

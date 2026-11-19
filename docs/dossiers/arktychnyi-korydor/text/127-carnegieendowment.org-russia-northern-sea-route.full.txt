@@ -1,0 +1,204 @@
+URL:         https://carnegieendowment.org/russia-eurasia/politika/2026/09/russia-northern-sea-route
+Кінцевий:    https://carnegieendowment.org/russia-eurasia/politika/2026/09/russia-northern-sea-route
+Заголовок:   International Demand for Russia’s Arctic Shipping Route Is Unlikely to Last
+Дата публ.:  2026-09-30
+Завантажено: 2026-11-07 18:34 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 262577
+Оригінал:    raw/127-carnegieendowment.org-russia-northern-sea-route.html
+sha256:      1950c3d60d623e51c3ad8dd527081d2637fa01d909fe4d729644e8689ba3da05
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 6
+==============================================================================
+International Demand for Russia’s Arctic Shipping Route Is Unlikely to Last | Carnegie Endowment for International Peace
+International Demand for Russia’s Arctic Shipping Route Is Unlikely to Last
+Carnegie Politika is a digital publication that features unmatched analysis and insight on Russia, Ukraine and the wider region. For nearly a decade, Carnegie Politika has published contributions from members of Carnegie’s global network of scholars and well-known outside contributors and has helped drive important strategic conversations and policy debates.
+More Work from Carnegie Politika
+Get more news and analysis from
+Carnegie Endowment for International Peace. All rights reserved.
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+International Demand for Russia’s Arctic Shipping Route Is Unlikely to Last | Carnegie Endowment for International Peace
+Global Locations
+Research
+Politika
+About
+More
+Topics & Regions
+Donate
+English
+{
+  "authors": [
+    "Mikhail Korostikov"
+  ],
+  "type": "commentary",
+  "blog": "Carnegie Politika",
+  "centerAffiliationAll": "",
+  "centers": [
+    "Carnegie Endowment for International Peace",
+    "Carnegie Russia Eurasia Center"
+  ],
+  "englishNewsletterAll": "",
+  "nonEnglishNewsletterAll": "",
+  "primaryCenter": "Carnegie Russia Eurasia Center",
+  "programAffiliation": "",
+  "regions": [
+    "Russia"
+  ],
+  "topics": [
+    "Global Governance",
+    "Trade",
+    "Foreign Policy"
+  ]
+}
+Source
+: Getty
+Commentary
+Carnegie Politika
+International Demand for Russia’s Arctic Shipping Route Is Unlikely to Last
+Cargo traffic through Russia’s Northern Sea Route has increased because of the disruption caused by the conflict in the Middle East, the Ukraine war, and U.S.-China tensions.
+English
+Link Copied
+By
+Mikhail Korostikov
+Published on
+Sep 30, 2026
+Blog
+Carnegie Politika
+Carnegie Politika is a digital publication that features unmatched analysis and insight on Russia, Ukraine and the wider region. For nearly a decade, Carnegie Politika has published contributions from members of Carnegie’s global network of scholars and well-known outside contributors and has helped drive important strategic conversations and policy debates.
+Learn More
+The container ship
+Dubai Tower
+made history as the first vessel to take part in a
+regularly
+scheduled service
+via the Northern Sea Route when it reached the United Kingdom a little over three weeks after leaving China’s Ningbo-Zhoushan port on August 15 and heading north to the Arctic. Several other vessels—all operated by China’s Sea Legend Shipping—have since successfully completed the same journey, and the company has
+pledged
+to offer a regular seasonal service. This link between China and Europe takes about twenty days: about half the time required to go via the Suez Canal.
+Crucially, the Northern Sea Route is largely free from geopolitical risk. Indeed, the pace of its development has been in proportion to the problems and delays on other shipping lanes. Today, three major conflicts are pushing shipping northward: Russia’s war against Ukraine, the U.S.-Israeli war on Iran, and the standoff between the United States and China. Of course, there is a flip side to this dynamic. If the intensity of these conflicts subsides, the Northern Sea Route will likely revert to being a domestic Russian shipping lane.
+The Northern Sea Route follows Russia’s Arctic coast for about
+5,600 kilometers
+from the Kara Strait to the Bering Strait. Navigation permits are
+issued
+by the Northern Sea Route Administration, an agency operating under Russian state nuclear company Rosatom. Ships transiting the route are accompanied by icebreakers from a
+fleet
+of about forty-five vessels (including eight that are nuclear-powered): the biggest such fleet in the world.
+The legal basis for Russia’s control of the route is Article 234 of the United Nations Convention on the Law of the Sea, which gives coastal states the right to enforce special laws in ice-covered areas within their exclusive economic zones. Admittedly, Moscow
+demands
+more than is allowed for under the convention, stipulating that all transiting vessels must obtain prior authorization and pay for pilotage and icebreaker escort.
+The history of the Northern Sea Route is one of undelivered promises. Even disregarding the failed projects of the 1990s and 2000s, a relatively recent Russian presidential order of 2018
+mandated
+an increase in annual cargo traffic along the route to 80 million tons by 2024. In fact, less than half that target—just
+37.9 million
+tons—was transported in 2024.
+The Kremlin has long hoped that global warming would lead to increased usage of the route. It’s true that climate change has made it more appealing—albeit very gradually. According to the
+Arctic Report Card
+, the sea ice cover at the end of summer 2025 was 28 percent less than in 2005 and the sea ice extent in March 2025 was the lowest since records began forty-seven years ago. However, average changes do not guarantee the route will be accessible on any particular date, so scheduling remains short-term. That makes the economics of sending cargo through the Arctic questionable when compared to almost all the alternatives.
+For the moment, it’s hard to claim the Northern Sea Route is an economic success. In 2025, cargo traffic
+fell
+2.3 percent to 37 million tons. While that year there were a record 103 transit passages (i.e., from Asia to Europe—not Russia–China passages or internal Russian ones), they only
+carried
+3.2 million tons (less than 9 percent of the route’s total cargo). In comparison, even during the crisis period at the end of 2025, 244 vessels
+passed
+through the Suez Canal every week. It was 500 a week at the end of 2023.
+While an increase of cargo traffic through the Northern Sea Route in the near future seems certain, with volumes on track to exceed 40 million tons and set a
+new record
+in 2026, it will
+remain
+seasonal and continue to face navigation safety and time issues. In other words, the current growth of traffic is not a result of global warming or a change in the route’s economics; it’s due to the number of wars that the world is currently witnessing.
+First, the war in Ukraine and subsequent Western sanctions on Russia created unprecedented demand for the Northern Sea Route among Russian oil exporters. Commercial shipments of oil in the Arctic
+hit
+13 million barrels in 2025 (up from
+2.2 million barrels
+in 2019) as exporters
+chose
+a route free of inspections, detentions, and other restrictions.
+Second, the U.S.-Israeli war on Iran and the resulting disruption to traffic through the Strait of Hormuz and the Red Sea also made the Northern Sea Route more attractive. Both India and South Korea cited the Middle East conflict in their
+announcement
+of plans to use the Arctic route, with South Korea
+sending
+its first commercial ship to Europe this way in August. In other words, the war in the Persian Gulf has pushed even U.S. allies into using the Northern Sea Route.
+Third, the trade war between the United States and China has been a long-standing driver of development. About
+80 percent
+of China’s oil imports go via the Strait of Malacca (within the territorial waters of Malaysia, Singapore, and Indonesia, controlled by the U.S. Navy), and using the Arctic is part of China’s
+strategy
+of developing alternative routes (even though the Arctic is also vulnerable to U.S. military pressure).
+At the same time, the data show that the Arctic remains the most expensive of the three possible shipping routes between Asia and Europe. It currently costs about $8,500 per container, which,
+according
+to the Drewry maritime research consultancy, is almost
+double
+the August 2026 spot price for sending a 40-foot container from Shanghai to Rotterdam. Notably, it’s cheaper to send goods by railroad and takes about the same amount of time: The
+average cost
+of railroad transit from China to Europe in January 2026 was $6,000 per container.
+There is only one conclusion to be drawn from these numbers: The Northern Sea Route is only viable under certain conditions. Companies pay the $8,500 fee for every container not because of the time savings, but because there is nowhere on the route where the cargo can be halted. And they will only continue to do so if the alternatives remain problematic. Experts
+predict
+that going forward, ocean freight rates will return to late-2023 levels (below $1,500 per container), even if transit through Middle East waters is only partially restored. If that happens, the Arctic rate will be commercially unjustifiable.
+Ultimately, it’s not the innate qualities of the Northern Sea Route that explain its current growing popularity, but the unusual extent of global conflict. Demand for the route only increases when alternatives are unavailable. In recent years, there have been no fundamental changes to the ice conditions, the icebreaker fleet, or the economics.
+As a result, any global conflict de-escalation will see this trend reverse, with the route reverting to its natural state: a seasonal, expensive, and nearly empty shipping lane that costs more to maintain than it generates in revenue.
+This text is part of the “Russia 2030: Rogue Superpower” project.
+About the Author
+Mikhail Korostikov
+Sinologist
+Recent Work
+Commentary
+How Trump’s Wars Are Boosting Russian Oil Exports
+Mikhail Korostikov
+Commentary
+A Protracted U.S.-China Trade War Would Be a Gift to Moscow
+Mikhail Korostikov
+Mikhail Korostikov
+Sinologist
+Global Governance
+Trade
+Foreign Policy
+Russia
+Carnegie does not take institutional positions on public policy issues; the views represented herein are those of the author(s) and do not necessarily reflect the views of Carnegie, its staff, or its trustees.
+More Work from Carnegie Politika
+Commentary
+Carnegie Politika
+By Waging War on Its Sovereignty, Putin Has United Ukraine
+The war does threaten Putin’s existence. That is why he does not negotiate.
+René Nyberg
+Commentary
+Carnegie Politika
+Red Sea Mirage: Why Russia Is Still Waiting on a Military Base in Sudan
+Russia’s coveted Red Sea naval base has fallen victim to its erratic foreign policy.
+Sergey Konyashin
+Commentary
+Carnegie Politika
+Deportation of Russian Propagandist Reveals Battle Over Church Influence in the Balkans
+Mikhail Zvinchuk’s detention could have dealt a serious blow to Russia’s propaganda infrastructure in the Balkans. Instead, the incident has made something else eminently clear: Moscow values and protects its propagandists, while Europe still hasn’t figured out what to do with them.
+Ivan Filippov
+,
+Ksenia Luchenko
+Commentary
+Carnegie Politika
+Could Nuclear Warheads Really Be Deployed to the Baltic States?
+Latvia and Lithuania have been considering whether they could temporarily host NATO nuclear weapons in the event of war or a similar crisis.
+Sergejs Potapkins
+Commentary
+Carnegie Politika
+The Fallacy of Energy Deals With Russia
+Russia does not have to treat Western companies as equal partners. A centralized regime built on a foundation of oil and gas income was never going to relinquish what it saw as sovereign control.
+Edward C. Chow
+Get more news and analysis from
+Carnegie Russia Eurasia Center
+Subscribe
+Research
+Politika
+About
+Experts
+Events
+Contact
+Privacy
+For Media
+Get more news and analysis from
+Carnegie Russia Eurasia Center
+Subscribe
+©
+2026
+Carnegie Endowment for International Peace. All rights reserved.

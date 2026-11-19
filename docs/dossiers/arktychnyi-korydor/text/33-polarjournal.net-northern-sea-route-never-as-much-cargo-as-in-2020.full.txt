@@ -1,0 +1,142 @@
+URL:         https://polarjournal.net/northern-sea-route-never-as-much-cargo-as-in-2020/
+Кінцевий:    https://polarjournal.net/northern-sea-route-never-as-much-cargo-as-in-2020/
+Заголовок:   Northern Sea Route - never as much cargo as in 2020 | Polar Journal
+Дата публ.:  2019-07-01
+Завантажено: 2026-10-06 13:07 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 94296
+Оригінал:    raw/33-polarjournal.net-northern-sea-route-never-as-much-cargo-as-in-2020.html
+sha256:      cf71acc84faa49196951f7368a8547b859e4e4c5adac5af52598e0e1c04cdb0b
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 17
+==============================================================================
+Northern Sea Route - never as much cargo as in 2020 | Polar Journal
+The nuclear icebreaker “50 Years of Victory” on its way through the Northeast Passage. (Foto: Alexander Ryumin)
+The Northern Sea route has a long history. The nuclear-powered icebreaker “Yamal” escorts ships in the Kara Sea on their way to Norilsk in December 1996. (Photo: TASS)
+“Christophe de Margerie” in the port of Sabetta.
+The LNG carrier is currently considered the largest icebreaking vessel in the world with a length of 299 meters. This year, the ship sailed through the Northeast Passage for the first time without an icebreaker escort. (Foto: Rosatomflot)
+Northeast Passage – Long search for the shortest way
+The Northeast Passage is the shortest sea route between Europe and Asia.
+For centuries, however, it was not known with certainty whether it actually existed.
+Discover our polar newsletter featuring more articles from every polar aspect as well as events and polar opportunities and Arctic and Antarctic ice charts.
+Canada Advances Decades-Old Northern Highway Project
+A highway envisioned nearly 70 years ago is moving forward again as Canada invests in a long-planned road through the Northwest Territories.
+What Makes a Good Life in the Arctic?
+How do we know whether people are living well? When measuring life in the Arctic, researchers argue that standard measures may miss some of the things that matter most.
+Churchill could become a year-round Arctic port
+The Canadian port of Churchill on Hudson Bay could in future be called at by merchant ships all year round.
+Tara Polar Station meets Xue Long 2 in the Arctic pack ice
+An extraordinary encounter took place in the middle of the Arctic Ocean: the Tara Polar Station met up with the Chinese research icebreaker Xue Long 2.
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Northern Sea Route - never as much cargo as in 2020 | Polar Journal
+Polar Journal |
+Polar Voyages
+English
+Deutsch
+Français
+Norsk
+Newsletter
+Arctic
+Antarctic
+Science
+Politics
+Economy
+Society
+Tourism
+Culture
+History
+Search for:
+Search
+Polar Journal
+Polar Voyages
+Arctic
+Svalbard
+Greenland
+Canadian Arctic
+Russian Arctic
+Alaska
+North Pole
+Antarctic
+Falkland Islands
+South Georgia
+Antarctic Peninsula
+West Antarctica
+East Antarctica
+South Pole
+Science
+Politics
+Economy
+Society
+Tourism
+Culture
+History
+Follow us
+News > Economy
+Northern Sea Route – never as much cargo as in 2020
+Heiner Kubny                            11. January 2021 |
+Economy
+The nuclear icebreaker “50 Years of Victory” on its way through the Northeast Passage. (Foto: Alexander Ryumin)
+FSUE Atomflot
+has summarized the preliminary results of its work in 2020. According to a statement, by December 22, 2020, the volume of transported cargo along the Northern Sea Route exceeded 32 million tons. The previous year, the figure was 31.5 million tonnes. The largest growth results from the implementation of the
+Yamal
+LNG project and the construction of the
+Arctic
+LNG 2 project on the Gydan Peninsula.
+The Northern Sea route has a long history. The nuclear-powered icebreaker “Yamal” escorts ships in the Kara Sea on their way to Norilsk in December 1996. (Photo: TASS)
+“A milestone of the past year for
+Rosatomflo
+t was the commissioning of an automated control system of the
+Marine Operations Headquarters
+.. Several shipping companies have used the company’s new service for information and navigation support. During the summer-autumn navigation, we completed eleven transits without icebreaker support. This is a good indicator that allows us to predict further growth of voyages along the Northeast Passage in 2021,” explains Leonid Irlitsa, Chief Executive Officer of FSUE Atomflot. For the first time, the Northeast Passage was completely ice-free during the summer months of 2020.
+“Christophe de Margerie” in the port of Sabetta.
+The LNG carrier is currently considered the largest icebreaking vessel in the world with a length of 299 meters. This year, the ship sailed through the Northeast Passage for the first time without an icebreaker escort. (Foto: Rosatomflot)
+Rosatom establishes
+Marine Operations Headquarters
+.
+At
+Rosatom
+, the headquarters for ship operations is now established to ensure the passage of ships along the Northern Sea Route. The order was signed by Alexey Likhachev, director general of
+Rosatom State Corporation
+. By the same order,
+FSUE Atomflot
+is authorized to coordinate permits for the passage of vessels in the waters along the Northern Sea Route. The introduction of an automated control system by the
+Marine Operations Headquarters
+makes the Northeast Passage waterway logistically more attractive. The rapid provision of personal information about the ship’s route can significantly reduce navigation conditions and thus costs.
+Unrestrained growth
+Shipping on the Northeast Passage has increased steadily over several years. In 2017, a total of 10.7 million tons were transported. In 2018, the volume doubled to 20.18 million tons. In 2019, there were 31.5 million tonnes, of which 20.5 tonnes were liquid natural gas, mainly from the Sabetta terminal.
+However, the number of complete transits through the Northeast Passage without calling at a Russian port is still low.
+President Putin’s plan to transport 80 million tons on the route by 2024, however, seems an overly lofty and difficult goal to achieve.
+Heiner Kubny, PolarJournal
+Northeast Passage – Long search for the shortest way
+Christian Hug
+The Northeast Passage is the shortest sea route between Europe and Asia.
+ For centuries, however, it was not known with certainty whether it actually existed.
+Join the Polar Community!
+Discover our polar newsletter featuring more articles from every polar aspect as well as events and polar opportunities and Arctic and Antarctic ice charts.
+Subscribe
+Other articles
+Canada Advances Decades-Old Northern Highway Project
+Polar Journal AG Team
+A highway envisioned nearly 70 years ago is moving forward again as Canada invests in a long-planned road through the Northwest Territories.
+What Makes a Good Life in the Arctic?
+Yana Kirichenko
+How do we know whether people are living well? When measuring life in the Arctic, researchers argue that standard measures may miss some of the things that matter most.
+Churchill could become a year-round Arctic port
+Heiner Kubny
+The Canadian port of Churchill on Hudson Bay could in future be called at by merchant ships all year round.
+Tara Polar Station meets Xue Long 2 in the Arctic pack ice
+Heiner Kubny
+An extraordinary encounter took place in the middle of the Arctic Ocean: the Tara Polar Station met up with the Chinese research icebreaker Xue Long 2.
+PRIVACY POLICY
+LEGAL NOTICE
+© POLAR JOURNAL AG
+ABOUT US
+MEET THE TEAM
+NEWSLETTER & UPDATES
+CONTACT US
+Follow us on

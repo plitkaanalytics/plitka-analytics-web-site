@@ -1,0 +1,63 @@
+URL:         https://en.highnorthnews.com/politics/russian-zombie-tanker-sails-up-norwegian-coastline-after-being-blocked-by-german-police/1091526
+Кінцевий:    https://en.highnorthnews.com/politics/russian-zombie-tanker-sails-up-norwegian-coastline-after-being-blocked-by-german-police/1091526
+Заголовок:   Russian ‘Zombie Tanker’ Sails Up Norwegian Coastline After Being Blocked by German Police
+Дата публ.:  2026-01-19
+Завантажено: 2026-11-08 09:06 UTC
+HTTP:        -   Тип: text/html   Байтів: 223414
+Оригінал:    raw/162-en.highnorthnews.com-1091526.html
+sha256:      921af1208d82557aa2668b3e1da1581ee92e9e971617395e44b4de43eb7678de
+Витяг:       trafilatura
+Примітка:    сайт віддає curl'у PoW-перевірку «Are we human?»; сторінку
+             збережено з браузера редактора (Ctrl+S) 08.11.2026 — це DOM
+             після рендеру, не байти відповіді сервера
+
+==============================================================================
+politics
+
+# Russian ‘Zombie Tanker’ Sails Up Norwegian Coastline After Being Blocked by German Police
+
+Germany has taken the unprecedented step of barring a notorious “zombie tanker” from its Baltic waters after uncovering forged registration and serious safety concerns. The aging shadow-fleet vesselTavianhas since sailed north past Norway toward the Arctic, highlighting the growing risks and cat-and-mouse dynamics of Russia’s sanctions-evasion oil trade.
+
+In an unprecedented move, German authorities have forbidden the shadow-fleet oil tanker *Tavian* from entering their territorial waters in the Baltic Sea after identifying forged registration documents and a suspicious flag. 
+
+The 27-year-old vessel, widely dubbed a “zombie tanker” by German media because its IMO identity effectively does not exist in official shipping databases, has since sailed north along the Norwegian coast, passing Bodø and the Lofoten Islands over the weekend, and is now in the Barents Sea en route to Murmansk.
+
+In a significant escalation of enforcement against sanctions-evasion shipping, Germany’s Federal Police blocked the oil tanker *Tavian* from entering its territorial waters on January 10, 2026, marking what officials describe as the first time a European nation has actively barred a member of Russia’s so-called “shadow fleet” from passage. 
+
+The vessel attempted a transit from the North Sea into the Baltic Sea in direction of Russian Baltic ports, most likely Primorsk or St. Petersburg, where it is believed to have been heading to pick up another load of crude oil.
+
+Following the German ban *Tavian*’s sailed northward past Norwegian coastal cities such as Bodø and the Lofoten Islands and is now into the Barents Sea. The quick rerouting away from its original path underscores how tanker routes have adapted under sanctions pressure and illustrates the logistical flexibility Russia has developed to keep oil flowing despite sanctions efforts.
+
+Rather than picking up crude oil in Primorsk, Moscow likely decided the next best option was to load cargo in Murmansk instead.
+
+This adaptability also includes the Northern Sea Route, which became a focal point in 2025 as [100 sanctioned vessels, including several dozen tankers, transited Arctic waters](https://www.highnorthnews.com/en/russias-arctic-shipping-route-turns-dark-fleet-corridor-used-100-sanctioned-vessels); bridging the divide between Europe and Asia and blunting sanctions’ geographic constraints.
+
+In recent weeks several shadow fleet vessels also sailed from the Arctic to Venezuela further highlighting how the polar region has become an integrated part of global shadow fleet logistics.
+
+### German authorities step up
+
+German Federal Police helicopters intercepted the *Tavian* near Schleswig-Holstein and conducted a document check, concluding that the vessel’s papers, including its International Maritime Organization (IMO) registration, were fraudulent or fabricated. 
+
+What set off alarm bells for German authorities was not just that the tanker claimed to be the *Tavian* with a purported IMO number that “never existed” in official databases, but that detailed tracking and maritime intelligence pointed to it actually being the 28-year-old tanker *Arcusat* (IMO 9147447), a ship with a long history of name and flag changes. 
+
+In one database the ship appears as a 2025 built, 57,332-ton vessel flagged to Tanzania, while authoritative systems list it as the older *Arcusat* flagged to Cameroon, and show its official status as “never existed.” 
+
+This deceptive practice, altering IMO numbers and registry details, is precisely what has earned the *Tavian* the “zombie tanker” moniker in the German press: a ship that, on paper, shouldn’t exist and can slip through sanctions screens because its identity keeps shifting. 
+
+The combination of a forged identity, frequent name and flag changes, and apparent links to sanctions-busting operations makes such vessels particularly dangerous.
+
+### These risks raise the specter of oil spills, collisions, or damage to undersea infrastructure
+
+Without verifiable documentation, authorities cannot confirm who truly owns or operates the vessel; whether it carries valid insurance, including pollution liability cover, or whether the ship meets international safety and environmental standards.
+
+These risks raise the specter of oil spills, collisions, or damage to undersea infrastructure, risks that Germany explicitly cited when tightening inspections in the Baltic and North Seas.
+
+Moreover, as shadow fleet tankers often operate with AIS transponders off or manipulated, they can evade detection or oversight until they’re very close to critical zones, a situation that worries maritime authorities in multiple countries.
+
+In Germany’s case, this is not an isolated incident. Authorities have recently inspected other suspicious tankers, including one near critical Baltic infrastructure cables and the research vessel *Akademik Boris Petrov*, which was also denied entry.
+
+The German government has begun requiring passing vessels to prove valid insurance coverage against oil pollution damage, a bid to safeguard sensitive maritime environments.
+
+Norwegian authorities also [previously announced that they would inspect tankers passing through the country’s waters](https://www.highnorthnews.com/en/norway-inspect-sanctioned-tankers-efforts-curb-russian-shadow-fleet), though *Tavian* does not appear to have been stopped during its trip to the Barents Sea.
+
+As *Tavian* continues to hold off the coast of Murmansk it has become the latest example of how ageing, unregulated vessels can pose both geopolitical and environmental hazards across different maritime regions.

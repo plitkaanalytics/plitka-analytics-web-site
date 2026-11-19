@@ -1,0 +1,113 @@
+URL:         https://www.bairdmaritime.com/story/shipping/dry-cargo/bulkers/russian-grain-shipments-diverted-to-baltic-amid-drone-threats
+Кінцевий:    https://www.bairdmaritime.com/story/shipping/dry-cargo/bulkers/russian-grain-shipments-diverted-to-baltic-amid-drone-threats
+Заголовок:   Russian grain shipments diverted to Baltic amid drone threats
+Дата публ.:  2026-08-31
+Завантажено: 2026-11-08 06:37 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 712424
+Оригінал:    raw/154-bairdmaritime.com-russian-grain-shipments-diverted-to-baltic-amid-dron.html
+sha256:      2e47ed49fba64979c49210fab284b3cc51778feac003c7eb84f09cedbd54dbfe
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 7
+==============================================================================
+Russian grain shipments diverted to Baltic amid drone threats
+MarineTraffic.com/Anton A. Karakulin
+Russia's Baltic ports have less capacity
+Sea of Azov reopens to grain export ships after months-long shutdown, Russian naval escorts involved
+Cut off in the south, Russia revives Arctic wartime route to export grain
+Russian Baltic and Black Sea crude exports seen falling in November
+As Black Sea routes stall, Russian Baltic ports ramp up grain capacity by 170 per cent
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Russian grain shipments diverted to Baltic amid drone threats
+SECURITY
+SHIPPING
+OFFSHORE
+WORKBOATS
+PAX/CRUISE
+UNMANNED
+FISHING
+TUGS
+DREDGE/CIVILS
+REGIONS
+REGIONS
+Ausmarine (OCEANIA)
+USA/CANADA
+EUROPE
+ASIA
+MIDDLE EAST/NORTH AFRICA
+LATIN AMERICA
+AFRICA
+POLAR
+MORE
+MORE
+NEWSLETTERS
+SHIPBUILDING
+INLAND WATERS
+BUSINESS & FINANCE
+VESSEL REVIEWS
+YACHTS
+TAXPAYER ABUSE
+GEAR & SERVICES
+SHOP
+Bulkers
+Russian grain shipments diverted to Baltic amid drone threats
+All non-Black Sea Russian ports can handle only half of stalled volumes
+Port of Ust-Luga
+MarineTraffic.com/Anton A. Karakulin
+Reuters
+Published on
+:
+31 Aug 2026, 5:19 pm
+Copied
+Follow Us:
+Russian grain exporters are rerouting shipments to the Baltic Sea, including ports in the Baltic states, after Ukrainian drone attacks in the Black Sea and the Sea of Azov forced them to seek alternative routes, traders and analysts told
+Reuters
+on Monday.
+Russia and Ukraine have been pounding each other's export terminals and grain-carrying vessels in the Black Sea, creating the biggest disruption to Black Sea trade since the conflict in Ukraine began more than four years ago.
+Russia exported 46.3 million tonnes of grain via ports in the Azov and the Black Sea in the last exporting season - July 2025 to June 2026 - accounting for 90 per cent of total Russian seaborne grain exports, industry data shows. Russian Baltic ports shipped only about one million tonnes.
+According to an industry source, who asked for anonymity, requests for grain shipments by rail to Russia's Baltic ports for this season hit five million tonnes by August 18 - mainly for delivery in August and September - compared to six million tonnes for the Black Sea ports of Novorossiysk and Tuapse.
+Russian exporters are also increasingly looking to ports in the Baltic states, mainly in Latvia, an EU and NATO member, analysts and traders said, with shipments expected to spike next month.
+Despite strained relations between Russia and its Baltic neighbours, Russian grain shipments through the Baltic countries have continued, although they fell to about one million tonnes in the last season from 2.5 million tonnes two years ago, according to analysts.
+"The Baltic region, the northwest, is the main resource now," said Andrey Sizov, head of Sovecon consultancy.
+"In September, I think, we will see a sharp increase in shipments through the Baltic states and through Russian Baltic ports."
+Russia's Baltic ports have less capacity
+Arkady Zlochevsky, head of the Russian Grain Union, a lobby group for farmers, estimated that Russian exports through the Baltic states could reach between five and six million tonnes this season or even 10 million tonnes if Estonian ports also become available.
+Sizov at Sovecon estimates potential exports through Baltic state ports at between 200,000 and 400,000 tonnes per month, or double his estimate for the Russian Baltic terminals.
+Combined grain-handling capacity across the three Baltic states exceeds 18 million tonnes annually, but these facilities also handle grain from other origins in Europe.
+The Baltic states were once key export gateways for Russian oil and fertilisers but, as relations deteriorated Russia sought to develop its own shipping infrastructure.
+When Russia became a major player in the global agriculture trade and the world's largest wheat exporter, it built grain terminals at Vysotsk and Ust-Luga ports. Grain can also be shipped via the ports of St. Petersburg and Kaliningrad.
+Russian ports in the Baltic Sea have a total estimated capacity of up to seven million tonnes of grain a year.
+Despite their expansion, capacity is not enough to fully replace the Azov and Black Sea ports.
+Zlochevsky at the Russian Grain Union estimates that, at best, all other Russian ports combined as well as land transport could handle only about half of shipments that would normally go through Azov and Black Sea ports.
+(Reporting by Olga Popova and Gleb Stolyarov; Editing by Gleb Bryanski and Susan Fenton)
+Europe
+Russia
+Baltic Sea
+Estonia
+Ukraine
+Russia Ukraine War
+Latvia
+Sea of Azov
+Port of Ust Luga
+Sea Port of St Petersburg
+Port of Vysotsk
+Follow Us:
+Related Stories
+Sea of Azov reopens to grain export ships after months-long shutdown, Russian naval escorts involved
+Reuters
+28 Oct 2026
+Cut off in the south, Russia revives Arctic wartime route to export grain
+Reuters
+28 Oct 2026
+Russian Baltic and Black Sea crude exports seen falling in November
+Reuters
+27 Oct 2026
+As Black Sea routes stall, Russian Baltic ports ramp up grain capacity by 170 per cent
+Reuters
+08 Oct 2026
+Baird Maritime

@@ -1,0 +1,163 @@
+URL:         https://war-sanctions.gur.gov.ua/en/transport/ships/1002
+Кінцевий:    https://war-sanctions.gur.gov.ua/en/transport/ships/1002
+Заголовок:   NORTH LIGHT; IMO 9958298
+Дата публ.:  2024-11-01
+Завантажено: 2026-10-08 10:04 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 59327
+Оригінал:    raw/77-war-sanctions.gur.gov.ua-1002.html
+sha256:      902f488b15f18a5adc721dd4aa3bee978e13bd53de1b2b2a6bac99d7b6a864e2
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 8
+==============================================================================
+Aggressor`s military-industrial complex
+https://www.vesselfinder.com/ru/vessels/details/9958298
+https://magicport.ai/vessels/gas-carrier/north-light-mmsi-563225500
+https://www.lloydslist.com/LL1153529/Over-10-of-the-tanker-fleet-is-now-sanctioned-following-latest-EU-and-UK-measures
+https://europa.eu/newsroom/ecpc-failover/pdf/ip-25-1840_uk.pdf
+https://nangs.org/news/midstream/es-snyal-sanktsii-s-trekh-spg-tankerov-mol-posle-zaverenij-kompanii-chto-suda-ne-budut-perevozit-rossijskij-arkticheskij-gaz
+The pages will soon open, and even more of those who are guilty of supporting this criminal war will be held accountable
+A confidential and secure communication channel with us
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+NORTH LIGHT
+Portal News
+ENG
+УКР
+РУС
+Components in weapons
+Weapons
+Components
+Involved enterprises
+Logistics of war
+Marine vessels
+Shadow Fleet
+Masters
+Partner`s sanctions lists
+Individuals
+Legal entities
+Aggressor`s military-industrial complex
+Instruments of war
+Unmanned systems
+Rostec
+Executives of War
+Engineers of aggression
+War Finances
+Cultural genocide
+Child kidnappers
+Stolen Heritage
+Agents of influence
+Kremlin Mouthpieces
+Champions of terror
+Home
+Marine vessels
+NORTH LIGHT
+NORTH LIGHT
+IMO 9958298
+Updated:
+09.07.2026
+Vessel name
+NORTH LIGHT
+Category
+Transportation of fossil fuels in violation of sanctions and other restrictions
+Transportation of russia-origin LNG
+IMO
+9958298
+Flag (Current)
+Singapore
+MMSI
+563225500
+Call sign
+9V8191
+Vessel Type
+LNG Tanker
+Length (m)
+295
+Gross tonnage (t)
+115555
+DWT (t)
+93286
+P&I Club
+Japan Ship Owners' P&I Association
+Sanctions
+Sanctions lifted
+EU
+,
+Switzerland
+The person in connection with whom
+sanctions have been applied
+Provide additional information
+Justification
+Vessel information
+Since May 21, 2025, the EU has imposed sanctions on the vessel for facilitating or supporting actions or policies aimed at the operation, development, or expansion of russia’s energy sector, including energy infrastructure.
+Since June 3, 2025, Switzerland has imposed sanctions on the vessel.
+On July 20 and August 12, 2025, the EU and Switzerland, respectively, removed the tanker IMO 9958298 from the list of sanctioned vessels.
+Cases of AIS shutdown
+Yes
+Visited ports
+Lhokseumawe
+(Indonesia)
+, Incheon
+(Republic of Korea)
+, Okpo geoje
+(Republic of Korea)
+, Tongyeong
+(Republic of Korea)
+Use Ctrl+scroll to zoom
+Available additional information
+Ship Owner (IMO / Country / Date)
+Arctic Diamond No 2 Lng Shpg (4301723 / Singapore / 01.11.2024)
+Commercial ship manager (IMO / Country / Date)
+Mitsui Osk Lines Ltd (0153911 / Japan / 01.11.2024)
+Ship Safety Management Manager (IMO / Country / Date)
+Mol Lng Ship Management Pte Ltd (6324712 / Singapore / 01.11.2024)
+Former ship names
+Flags (former)
+Build year
+2024
+Builder (country)
+Hanwha Ocean Co Ltd
+Web Resources
+Links
+https://www.vesselfinder.com/ru/vessels/details/9958298
+https://magicport.ai/vessels/gas-carrier/north-light-mmsi-563225500
+https://www.lloydslist.com/LL1153529/Over-10-of-the-tanker-fleet-is-now-sanctioned-following-latest-EU-and-UK-measures
+https://europa.eu/newsroom/ecpc-failover/pdf/ip-25-1840_uk.pdf
+https://nangs.org/news/midstream/es-snyal-sanktsii-s-trekh-spg-tankerov-mol-posle-zaverenij-kompanii-chto-suda-ne-budut-perevozit-rossijskij-arkticheskij-gaz
+Go to site
+Components in weapons
+Weapons
+Components
+Involved enterprises
+Logistics of war
+Marine vessels
+Shadow Fleet
+Masters
+Partner`s sanctions lists
+Individuals
+Legal entities
+Aggressor`s military-industrial complex
+Instruments of war
+Unmanned systems
+Rostec
+Executives of War
+Engineers of aggression
+War Finances
+Cultural genocide
+Child kidnappers
+Stolen Heritage
+Agents of influence
+Kremlin Mouthpieces
+Champions of terror
+API
+Portal News
+War & Sanctions 2026
+The pages will soon open, and even more of those who are guilty of supporting this criminal war will be held accountable
+A confidential and secure communication channel with us
+Send
+Site search
+Find

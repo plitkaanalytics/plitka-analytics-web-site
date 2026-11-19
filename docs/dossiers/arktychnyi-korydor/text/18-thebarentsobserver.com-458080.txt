@@ -1,0 +1,34 @@
+URL:         https://www.thebarentsobserver.com/security/warships-drill-attack-on-arctic-archipelago/458080
+Кінцевий:    https://www.thebarentsobserver.com/security/warships-drill-attack-on-arctic-archipelago/458080
+Заголовок:   Warships drill attack on Arctic archipelago
+Дата публ.:  2026-09-16
+Завантажено: 2026-10-06 12:22 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 126643
+Оригінал:    raw/18-thebarentsobserver.com-458080.html
+sha256:      c8d7b93cc69089a9d9ce8269d9e074c0c8923c93a89a5e99beeaf84431f80d21
+Витяг:       trafilatura
+
+==============================================================================
+# Warships drill attack on Arctic archipelago
+
+A flotilla from Russia’s Northern Fleet has engaged in an exercise that included the simulated conquest of the remote New Siberian Islands.
+
+The flotilla, which [set out from Severomorsk on the Kola Peninsula in early September](https://www.thebarentsobserver.com/security/northern-fleet-ships-set-course-for-the-northern-sea-route/456978), conducted training with forces in Kotelny, a military base on the east Arctic archipelago.
+
+The warships, led by the ice-class patrol vessel *Ivan Papanin*, played the role of an adversary aiming to take control of the islands, the Northern Fleet reported.
+
+The forces in Kotelny defended themselves with their Bastion coastal defence missile system.
+
+During the exercises, the Bastion system crews were deployed along the coast, where they conducted a simulated strike against a formation of ships, carrying out missile launches via computer simulation, the Navy reports. The crews of the coastal missile systems then carried out a reloading exercise, transferring missiles from a loading vehicle to the launcher.
+
+In addition to the *Ivan Papanin*, the flotilla involved in the drills included the large landing ship *Kondopoga*, the tanker *Sergey Osipov*, and the rescue tug *Pamir*.
+
+The drills were headed by Oleg Golubyev, a vice-admiral and deputy commander of the Northern Fleet.
+
+This is not the first time that warships have sailed from Severomorsk on the Kola Peninsula to the east Arctic archipelago to train with forces in Kotelny.
+
+Over the past decade, the Northern Fleet has sent a group of warships along the eastern part of the Northern Sea Route every autumn. This year, the expedition is reportedly [focusing on maritime safety along the Northern Sea Route.](https://www.thebarentsobserver.com/security/northern-fleet-ships-set-course-for-the-northern-sea-route/456978)
+
+The military base in Kotelny in the New Siberian Islands was [opened in late 2015.](https://www.thebarentsobserver.com/security/new-arctic-military-base-is-declared-ready-for-operation/153457) It includes an upgraded airfield and a 12,000-square-metre building complex. The trefoil-shaped Severny Klever reportedly has housing and administration facilities for more than 250 people.
+
+In 2018, the forces on Kotelny [showcased the Bastion air defence system](https://www.thebarentsobserver.com/security/russia-shows-off-new-missile-shooting-in-high-arctic/155364), which had recently been deployed on the archipelago.

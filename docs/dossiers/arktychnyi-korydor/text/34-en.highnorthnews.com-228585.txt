@@ -1,0 +1,84 @@
+URL:         https://en.highnorthnews.com/business/a-new-era-of-shipping-traffic-on-the-northern-sea-route/228585
+Кінцевий:    https://en.highnorthnews.com/business/a-new-era-of-shipping-traffic-on-the-northern-sea-route/228585
+Заголовок:   A New Era of Shipping Traffic on The Northern Sea Route
+Дата публ.:  2017-08-23
+Завантажено: 2026-10-06 13:07 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 229863
+Оригінал:    raw/34-en.highnorthnews.com-228585.html
+sha256:      91a79e07288b770c3300f34ff0f627efee13124bd33091e8a6037c377ffdf628
+Витяг:       trafilatura
+
+==============================================================================
+business
+
+# 
+    #  A New Era of Shipping Traffic on The Northern Sea Route
+
+
+    After nearly a decade of limited growth, the Northern Sea Route is set to experience a significant expansion of cargo volume over the coming years.
+
+The primary drivers of this boom will be the export of Russian hydrocarbon resources from the Arctic as well as China’s waxing interest in taking a more active role in the development of the route.
+
+What is happening on the Northern Sea Route (NSR) during the summer of 2017 and what is the outlook for the coming years?
+
+The four month summer shipping season on the NSR lasts from late June until early November and more than 550 vessels were granted permits to operate on the route.
+
+During the first half of August up to a 100 vessels were active along the route each day, including the *Christophe de Margerie, *the world’s first heavy ice-class liquefied natural gas (LNG) carrier.
+
+### Hydrocarbons to boost traffic on NSR
+
+The *Christophe de Margerie* delivered LNG from Norway’s Hammerfest to South Korea transiting the NSR in a record-breaking 6.5 days.
+
+### The start of a new era on the NSR
+
+The ship is the first in a projected fifteen vessel-strong fleet purpose built to [transport up to 16.5 million tons of LNG annually](https://www.porttechnology.org/news/tech_wisdom_northern_sea_route_potential) from Yamal LNG, slated to come online later in 2017, to markets in Asia. In comparison, total cargo volume on the route stood at [7.26 million tons in 2016](https://www.highnorthnews.com/en/shipping-traffic-northern-sea-route-grows-30-percent). 
+
+"The voyage of the *Christophe de Margerie* certainly marks the start of a new era on the NSR," explains Arild Moe, Senior Research Fellow at the Fridtjof Nansen Institute.
+
+"The increase in cargo volumes will be steep with Yamal LNG reaching a plateau in 2020, and further LNG developments will likely follow with Arctic LNG 2. The Novy port oil project started for real with shipments in 2016."
+
+### Destination traffic, not transits will dominate
+
+In contrast to expectations just a few years ago, when Russian authorities and many shipping experts saw the NSR as a potential international transit route, "all the focus is now on destination shipping related to hydrocarbon projects in the Ob bay, Yenisei area," Moe points out. 
+
+Between existing and future production of LNG and crude oil [Russian officials project cargo volumes of 75 million tons per year by 2025](http://fairplay.ihs.com/commerce/article/4285781/russia-keeps-faith-in-northern-sea-route), a more than ten-fold increase over 2016.
+
+"In the last few years there has been a lot of shipping activity in the western part of the NSR, with ships bringing in materials and equipment for the Yamal LNG plant and the construction of Sabetta port. Many of these ships are ‘frequent visitors’ and are likely to be used also in other development projects now that Sabetta is completed," elaborates Moe.
+
+### Growing Chinese interest in the NSR
+
+Part of these "frequent visitors" are ships owned by the China Ocean Shipping Company (COSCO). In 2016 the company sent a record five vessels through the route, delivering, among others, construction materials for the Yamal LNG facility in Sabetta.
+
+This year eleven Chinese-flagged vessels, including four by COSCO, were issued permits. These efforts are indicative of China’s growing interest in the NSR, explains Mia Bennett, Researcher at the University of California Los Angeles.
+
+The Arctic is one of three maritime passages China highlighted in its "Belt and Road Initiative" earlier this year.
+
+"Given the formal inclusion of the sea route into China's Belt and Road Initiative, the Silk Road Fund's investments, and the current operation of COSCO vessels along the NSR, China is attempting to take an active role in the NSR's development," Bennett elaborated.
+
+"China's Silk Road Fund received a 9.9 percent equity stake in Russia's Yamal liquefied natural gas project in exchange for investing over $1 billion, and this megaproject sits right along the NSR."
+
+### Chinese vessels in the Arctic
+
+As of August 21, four Chinese vessels are operating along or near the NSR.
+
+The *Hai Yang Shi You 720* (IMO 9567829) a survey vessel operated by China Oilfield Services Limited, a subsidiary of Chinese state owned oil company CNOOC, is operating in the Kara Sea conducting survey work trailing a 4.5 nautical mile-long cable.
+
+The *Nan Hai Ba Hao* (8752001), a support vessel, also of China Oilfield Services Limited is operating nearby also in the Kara Sea.
+
+### Westbound
+
+The *Xiang He Kou* (9752656), a heavy load carrier operated by COSCO Hong Kong, a subsidiary of COSCO, has exited the NSR and is traveling westbound through the Barents Sea after calling at the Port of Sabetta on August 14.
+
+In addition, the Chinese icebreaker *Xue Long* (8877899), of the Polar Research Institute of China, is currently traveling between [Jan Mayen and the Norwegian coast](http://www.marinetraffic.com/en/ais/home/centerx:13.2/centery:71.7/zoom:4).
+
+It began its 83-day journey in China on July 20. After sailing through the Bering Strait it passed to the east of the North Pole before traveling to the north of the Svalbard archipelago.
+
+### Emerging
+
+It is now expected to continue sailing westward and return to China through the Northwest Passage, which it has not previously passed through.
+
+[According to Chinese state media](http://news.xinhuanet.com/english/2017-07/18/c_136452997.htm) the expedition with its 96 scientists and researchers focuses on marine biology, meteorology, geology and chemistry, such as ocean acidification and plastic pollution in the sea.
+
+Between current and future large-scale Arctic hydrocarbon developments and Russian-Chinese cooperation for the further development of the route, the NSR appears to finally [emerge from years of deep freeze](https://www.highnorthnews.com/en/arctic-shipping-northern-sea-route-deep-freeze).
+
+"These are very significant developments even if total volumes will not reach the level announced in some Russian declarations," concluded Moe.

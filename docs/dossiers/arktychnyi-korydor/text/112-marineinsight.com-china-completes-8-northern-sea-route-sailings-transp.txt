@@ -1,0 +1,38 @@
+URL:         https://marineinsight.com/china-completes-8-northern-sea-route-sailings-transporting-14000-teus-before-winter-closure
+Кінцевий:    https://www.marineinsight.com/china-completes-8-northern-sea-route-sailings-transporting-14000-teus-before-winter-closure/
+Заголовок:   China Completes 8 Northern Sea Route Sailings, Transporting 14,000 TEUs Before Winter Closure
+Дата публ.:  2026-10-08
+Завантажено: 2026-11-07 18:03 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 659734
+Оригінал:    raw/112-marineinsight.com-china-completes-8-northern-sea-route-sailings-transp.html
+sha256:      ab18bd1026941976e92d5843dc70efe6cd54e177c80073f7e0a68b7aa4e01072
+Витяг:       trafilatura
+
+==============================================================================
+# China Completes 8 Northern Sea Route Sailings, Transporting 14,000 TEUs Before Winter Closure
+
+China’s Sea Legend Shipping completed all 8 departures planned for 2026. The China Europe Arctic Express was covered using 7 ice-strengthened ships. Moving along the Northern Sea Route, the voyages were set westbound. It was the first season with regular weekly sailings through the Arctic between China and Europe.
+
+The voyages carried more than 14,000 TEUs (Twenty-foot Equivalent Units), containing energy equipment, power batteries and new energy vehicles.
+
+Ships were bound for the UK, Germany, the Czech Republic and over 20 other countries. Completing the 8 voyages exceeded the experimental voyages done in the earlier season.
+
+The services began in August from Ningbo-Zhoushan and other ports in China. The first voyage was made by Dubai Tower on 15 August from Qingdao. The last two ships left on 27 September, earlier than the scheduled date because the forecast showed an expansion of ice in the Arctic.
+
+The published schedules of the Sea Legend offer about 15,700 TEUs of capacity across the eight voyages, and the largest ship was Istanbul Bridge at 4,890 TEUs. No more departures are planned for 2026, but Sea Legend intends to resume next summer and aims to build a four-month season by doing more voyages.
+
+The Chinese authorities say the Arctic route cuts the transit time in half compared to the Suez, making one voyage about 18 to 20 days. This favours time-sensitive and high-value goods, but the navigation season runs only from July to October, making the transit time binding and not meant for a year-round alternative to Suez.
+
+## RELATED POSTS
+
+**Disclaimer :** 
+
+The information on this website is for general purposes only. While efforts are made to ensure accuracy, we make no warranties of any kind regarding completeness, reliability, or suitability. Any reliance you place on such information is at your own risk. We are not liable for any loss or damage arising from the use of this website.
+
+**Disclaimer :** 
+
+The information on this website is for general purposes only. While efforts are made to ensure accuracy, we make no warranties of any kind regarding completeness, reliability, or suitability. Any reliance you place on such information is at your own risk. We are not liable for any loss or damage arising from the use of this website.
+
+## Subscribe To Our Daily Newsletter
+
+By subscribing, you agree to our [Privacy Policy](https://www.marineinsight.com/privacy-policy/)  you can unsubscribe anytime.

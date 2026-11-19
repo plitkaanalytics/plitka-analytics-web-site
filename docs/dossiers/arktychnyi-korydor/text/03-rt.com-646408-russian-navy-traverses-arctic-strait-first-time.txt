@@ -1,0 +1,32 @@
+URL:         https://www.rt.com/russia/646408-russian-navy-traverses-arctic-strait-first-time/
+Кінцевий:    https://www.rt.com/russia/646408-russian-navy-traverses-arctic-strait-first-time/
+Заголовок:   Russian Navy traverses Shokalsky Strait for first time (VIDEO)
+Дата публ.:  2026-09-29
+Завантажено: 2026-10-06 12:17 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 254031
+Оригінал:    raw/03-rt.com-646408-russian-navy-traverses-arctic-strait-first-time.html
+sha256:      1df648ded46cf4c40143a87ebeea2d23eac54252990937c46856eb83671c84f5
+Витяг:       trafilatura
+
+==============================================================================
+# Russian Navy traverses Arctic passage for first time (VIDEO)
+
+Russian Navy ships have for the first time passed through the iceberg-filled Shokalsky Strait along the strategically important Northern Sea Route in the Arctic.
+
+The press office of Russia’s Northern Fleet announced the passage on Tuesday, releasing a short video showing the vessels navigating the narrow waterway. The strait lies between October Revolution Island and Bolshevik Island in the Severnaya Zemlya archipelago.
+
+The Russian Navy group, consisting of the ice-class patrol ship Ivan Papanin, the large landing ship Kondopoga, the salvage tug Pamir, and the naval tanker Sergey Osipov, successfully passed from the Laptev Sea into the Kara Sea.
+
+Before the vessels entered the hazardous waters of the strait, a Ka-29 naval transport and assault helicopter was dispatched to conduct aerial reconnaissance of the route.
+
+Given the *“challenging ice conditions,”* the warships were placed on alert, with their crews repeatedly having to change course and speed at short notice to avoid icebergs.
+
+The Russian Navy group also appraised the area for future operational purposes, according to the statement.
+
+The passage of the Shokalsky Strait was part of a broader mission by the Russian Navy that covers multiple seas in the Arctic Region and is aimed at ensuring the safety of maritime traffic in the area.
+
+Russia has bet big on the development of the Northern Sea Route, which is the shortest maritime passage between the Asia-Pacific region and northern Europe.
+
+While use of the corridor remains limited at present due to accessibility constraints and the need for icebreakers to clear passage for cargo vessels, Moscow expects traffic to increase in the coming years as climate changes and other key maritime routes find themselves at the center of military conflicts.
+
+Speaking in July, Russian President Vladimir Putin said that Moscow boasts the world’s largest icebreaker fleet, made up of more than 40 conventional vessels and eight nuclear-powered ships, with a new generation under development.

@@ -1,0 +1,21 @@
+URL:         https://iz.ru/2110386/2026-06-05/likhachev-zaiavil-o-planakh-zapustit-kruglogodichnye-perevozki-po-smp-k-2035-godu
+Кінцевий:    https://iz.ru/2110386/2026-06-05/likhachev-zaiavil-o-planakh-zapustit-kruglogodichnye-perevozki-po-smp-k-2035-godu
+Заголовок:   Проверка браузера перед переходом на сайт
+Дата публ.:  не вказана на сторінці
+Завантажено: 2026-11-07 18:31 UTC
+HTTP:        403   Тип: text/html; charset=UTF-8   Байтів: 49141
+Оригінал:    raw/103-iz.ru-likhachev-zaiavil-o-planakh-zapustit-kruglogodichnye-perevozki-p.html
+sha256:      d53ce61f5448c1c33cc28407880e9c236e039bb91792dacd2c4ec17f044ade75
+Витяг:       bs4-full
+Примітка:    оригінал 403; CDX не відповідає (ліміт) — повторити пізніше
+
+==============================================================================
+Проверка браузера перед переходом на сайт
+Проверка браузера перед переходом на сайт
+Это автоматический процесс. Вы будете перенаправлены на сайт в ближайшее время.
+Пожалуйста ожидайте...
+Checking your browser accessing
+This process is automatic. Your browser will redirect to your requested content
+          shortly.
+Please allow up to 5 seconds
+Мы доступны в социальных сетях:

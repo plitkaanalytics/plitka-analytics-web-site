@@ -1,0 +1,311 @@
+URL:         https://unn.ua/en/news/russia-redirects-grain-exports-to-the-arctic-due-to-problems-in-the-black-sea-ft
+Кінцевий:    https://unn.ua/en/news/russia-redirects-grain-exports-to-the-arctic-due-to-problems-in-the-black-sea-ft
+Заголовок:   Russia redirects grain exports to the Arctic due to problems in the Black Sea - FT
+Дата публ.:  2026-11-01
+Завантажено: 2026-11-08 06:41 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 288532
+Оригінал:    raw/177-unn.ua-russia-redirects-grain-exports-to-the-arctic-due-to-problems-in.html
+sha256:      fec0ee35780c670595815429ee4cd259f0f00c0f653d09ab4c7cc506495d2ab8
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 29
+==============================================================================
+Russia redirects grain exports to the Arctic due to problems in the Black Sea - FT | УНН
+Kyiv authorities refuted the radiation threat and urged residents to rely on "Kyiv Digital" and the street-based public alert system
+During a humanitarian mission in Oleshky, Ukrainian servicemen also evacuated 167 civilians on the right bank of the Kherson region
+Kyiv residents received notifications about a nuclear and chemical threat due to a possible hacker attack on the “Air Raid Alert” app
+On November 2, power outage schedules of up to 2.5 queues will be in effect in Ukraine
+Zelenskyy said he was ready to meet with Putin in Turkey with Erdoğan's mediation
+Cold weather is heading to Ukraine: when temperatures will begin to drop and where the first frosts are possible
+Ukraine's attacks over three days knocked out 10% of Russia's oil-refining capacity, OSINT intelligence data shows
+Russia lost a record 54,400 military personnel in October — Zelenskyy
+Astrological forecast for November 2–8, 2026: high-profile statements by world leaders, diplomatic opportunities, and tense days for Ukraine
+The tactics of fighting in gas pipelines: why it matters in the Russian-Ukrainian war
+Information agency «Ukrainian National News»
+Subject in the field of online media; media identifier - R40-05926
+This resource is intended for persons who have reached the age of 21.
+All rights reserved. © 2007 — 2026
+"This is a shameful decision": Sybiha reacts to Russia being allowed to participate in the 2027 World Ice Hockey Championship
+The Polish Sejm has the right to appoint Constitutional Tribunal judges, the European Commission says
+How to properly prune currants in autumn: five steps for a healthy bush and a good harvest
+The second round of Bulgaria’s presidential election is underway: what is known
+Artifacts made of meteoritic iron found in a Spanish gold hoard
+We hope to get through the winter without critical situations — the Ministry of Infrastructure explained how the Kyiv region has been prepared
+Top 10 plants that protect homes from negativity and misfortune
+All seven finalists for the 2027 Car of the Year turned out to be electric cars
+Ghosts, mysterious figures, and eerie sounds: Hollywood stars share their paranormal encounters on Halloween
+After the nighttime attacks, Russia's Kstovo, with its oil refinery, came to resemble the fantastical Mordor from "The Lord of the Rings"
+Coachella 2027: all three headliners announced
+“Cruel Intentions” star Selma Blair apologizes after being detained over an incident on a plane
+Melania asked Trump not to dance on stage anymore
+- said Arkady Zlochevsky, president of the Russian Grain Union.
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Russia redirects grain exports to the Arctic due to problems in the Black Sea - FT | УНН
+$
+45.53
+↓
+0.06
+€
+50.68
+↓
+0.09
+uk
+en
+ru
+09:31 PM
+•
+1662
+views
+Kyiv authorities refuted the radiation threat and urged residents to rely on "Kyiv Digital" and the street-based public alert system
+05:12 PM
+•
+8916
+views
+During a humanitarian mission in Oleshky, Ukrainian servicemen also evacuated 167 civilians on the right bank of the Kherson region
+08:56 PM
+•
+11518
+views
+Kyiv residents received notifications about a nuclear and chemical threat due to a possible hacker attack on the “Air Raid Alert” app
+08:43 PM
+•
+9774
+views
+On November 2, power outage schedules of up to 2.5 queues will be in effect in Ukraine
+08:26 PM
+•
+6844
+views
+Zelenskyy said he was ready to meet with Putin in Turkey with Erdoğan's mediation
+07:07 PM
+•
+12067
+views
+Cold weather is heading to Ukraine: when temperatures will begin to drop and where the first frosts are possible
+November 1, 01:51 PM
+•
+26658
+views
+Ukraine's attacks over three days knocked out 10% of Russia's oil-refining capacity, OSINT intelligence data shows
+November 1, 01:22 PM
+•
+24506
+views
+Russia lost a record 54,400 military personnel in October — Zelenskyy
+Exclusive
+November 1, 10:55 AM
+•
+33621
+views
+Astrological forecast for November 2–8, 2026: high-profile statements by world leaders, diplomatic opportunities, and tense days for Ukraine
+November 1, 10:25 AM
+•
+22927
+views
+The tactics of fighting in gas pipelines: why it matters in the Russian-Ukrainian war
+Rubrics
+Main
+Politics
+War in Ukraine
+Economy
+Society
+Crimes and emergencies
+News of the World
+Kyiv
+Health
+Technologies
+Sports
+Culture
+Life hack
+UNN Lite
+Auto
+Education
+Weather and environment
+Real Estate
+Finance
+Culinary
+Business News
+Publications
+Exclusives
+Menu
+Tags
+Authors
+About agency
+Contact
+Advertising
+Cookie Policy
+Terms of Use
+Archive
+Information agency «Ukrainian National News»
+Subject in the field of online media; media identifier - R40-05926
+This resource is intended for persons who have reached the age of 21.
+All rights reserved. © 2007 — 2026
+Погода
+Kyiv
+Kharkiv
+Odesa
+Dnipro
+Lviv
+Mykolaiv
+Zaporizhia
+Vinnytsia
+Poltava
+Chernihiv
+Cherkasy
+Ivano-Frankivsk
+Ternopil
++9°
+1
+m/s
+78
+%
+755
+mm
+Popular news
+"This is a shameful decision": Sybiha reacts to Russia being allowed to participate in the 2027 World Ice Hockey Championship
+November 1, 11:41 AM
+•
+9842
+views
+The Polish Sejm has the right to appoint Constitutional Tribunal judges, the European Commission says
+November 1, 12:32 PM
+•
+11540
+views
+How to properly prune currants in autumn: five steps for a healthy bush and a good harvest
+November 1, 01:07 PM
+•
+25122
+views
+The second round of Bulgaria’s presidential election is underway: what is known
+November 1, 02:12 PM
+•
+12292
+views
+Artifacts made of meteoritic iron found in a Spanish gold hoard
+November 1, 03:34 PM
+•
+11625
+views
+Publications
+How to properly prune currants in autumn: five steps for a healthy bush and a good harvest
+November 1, 01:07 PM
+•
+25242
+views
+Astrological forecast for November 2–8, 2026: high-profile statements by world leaders, diplomatic opportunities, and tense days for Ukraine
+Exclusive
+November 1, 10:55 AM
+•
+33618
+views
+We hope to get through the winter without critical situations — the Ministry of Infrastructure explained how the Kyiv region has been prepared
+October 31, 12:00 PM
+•
+48506
+views
+Top 10 plants that protect homes from negativity and misfortune
+October 31, 09:59 AM
+•
+49174
+views
+All seven finalists for the 2027 Car of the Year turned out to be electric cars
+October 30, 05:27 PM
+•
+68089
+views
+Actual people
+Donald Trump
+Volodymyr Zelenskyy
+Melania Trump
+Recep Tayyip Erdoğan
+Vadim Gutzeit
+Actual places
+Ukraine
+United States
+Dnipropetrovsk Oblast
+Donetsk Oblast
+Zhytomyr Oblast
+Advertisement
+UNN Lite
+Ghosts, mysterious figures, and eerie sounds: Hollywood stars share their paranormal encounters on Halloween
+08:39 PM
+•
+2202
+views
+After the nighttime attacks, Russia's Kstovo, with its oil refinery, came to resemble the fantastical Mordor from "The Lord of the Rings"
+November 1, 06:54 AM
+•
+22309
+views
+Coachella 2027: all three headliners announced
+October 31, 02:02 PM
+•
+25759
+views
+“Cruel Intentions” star Selma Blair apologizes after being detained over an incident on a plane
+October 31, 01:56 PM
+•
+24114
+views
+Melania asked Trump not to dance on stage anymore
+October 31, 12:36 PM
+•
+27514
+views
+Actual
+Gold
+ChatGPT
+Pantsir missile system
+S-400 missile system
+9K720 Iskander
+Russia redirects grain exports to the Arctic due to problems in the Black Sea - FT
+Kyiv
+•
+UNN
+November 1 2026, 09:29 AM
+•
+22687
+views
+Due to disruptions at Black Sea ports, Russia is testing wheat shipments through Murmansk. More expensive logistics are hitting
+farmers and buyers.
+Russia is testing a new grain export route through the Arctic port of Murmansk due to serious disruptions in the operation of Black Sea ports. The alternative logistics increase transportation costs and create problems for farmers and buyers. This is
+reported
+by the Financial Times, according to
+UNN.
+Details
+Russia is testing grain exports through the Arctic port of Murmansk, located thousands of kilometers from the farms where the grain is grown, as a Ukrainian drone campaign has practically severed its traditional route through the Black Sea. According to the port’s Telegram channel, a bulk carrier in Murmansk began loading 29,500 tonnes of wheat on Wednesday for a trial shipment to buyers in North Africa, adapting equipment normally used to handle fertilizer for grain. This extraordinary detour illustrates how the escalating struggle for control of the Black Sea has upended trade between Russia, the world’s largest wheat exporter, and Ukraine, another major supplier, despite relatively high harvests in both countries
+- the publication writes.
+According to the publication, the trial Arctic shipment is the first of its kind, but Moscow is already exporting through ports on the Baltic Sea.
+The main issue is not simply whether we can redirect a certain volume. The point is that logistics will cost significantly more than transportation through the Azov–Black Sea basin, and someone will have to cover the difference
+- said Arkady Zlochevsky, president of the Russian Grain Union.
+According to Rusagrotrans, Russian wheat exports fell by 38% from July to September compared with last year. At the same time, freight rates on some Black Sea routes have more than doubled since mid-July, forcing importers to look for alternatives.
+Exporters are turning to increasingly inventive solutions. Some vessels travel inland from the Sea of Azov, up the Don and through the Volga–Don Canal to the Caspian Sea and buyers in Iran. Others use containers to transfer grain from railway cars onto vessels at terminals without traditional bulk-loading facilities. But the alternatives cannot replace the southern ports. Zlochevsky estimated that Baltic terminals could compensate for no more than half of the lost transportation volumes in the Black Sea and Azov regions by the end of the year. According to him, the rush to the north has overloaded the railways, and railcars have accumulated at the terminals
+- the publication writes.
+At the same time, the publication writes, logistics problems are also affecting Ukraine. Alternative routes through the Danube and neighboring EU countries can provide only about half of the usual agricultural export volumes. According to Agriculture Minister Taras Vysotskyi, such transportation adds at least $50 to the cost of transporting a tonne of produce. As a result, some Ukrainian farmers are forced to sell their harvest at a loss. Corn prices have fallen by almost 20% in three weeks.
+In Russia, producers in the southern regions are also receiving less because of difficult access to ports. According to Andrey Sizov, head of SovEcon, domestic prices, after falling in August and September, remain "tens of percent below production costs."
+According to the publication, many farmers cannot afford to hold on to their harvest until prices improve.
+We remind you
+Ukrainian farmers have
+harvested
+72% of the area and collected 41.7 million tonnes of grain. Odesa, Dnipropetrovsk and Mykolaiv regions lead in terms of acreage.
+Alla Kiosak
+War in Ukraine
+News of the World
+Agronomy news
+Taras Vysotskyi
+War in Ukraine
+Mykolaiv Oblast
+Odesa Oblast
+Dnipropetrovsk Oblast
+Financial Times
+Sea of Azov
+Baltic Sea
+European Union
+Ukraine
+Iran

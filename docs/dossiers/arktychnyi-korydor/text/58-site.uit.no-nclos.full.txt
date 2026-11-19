@@ -1,0 +1,252 @@
+URL:         https://site.uit.no/nclos/?p=1664
+Кінцевий:    https://site.uit.no/nclos/2026/06/24/charting-the-future-of-arctic-shipping-why-navigational-rights-in-the-northern-sea-route-matter/
+Заголовок:   Charting the Future of Arctic Shipping: Why Navigational Rights in the Northern Sea Route Matter?
+Дата публ.:  2026-06-24
+Завантажено: 2026-10-06 13:27 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 93462
+Оригінал:    raw/58-site.uit.no-nclos.html
+sha256:      2703370f92a1afce3ffef5252c84421bb0c043fc9ef174d43f5e2c5ab398f67c
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 21
+==============================================================================
+Charting the Future of Arctic Shipping: Why Navigational Rights in the Northern Sea Route Matter? – The NCLOS Blog
+About this blog and Instructions for Authors
+The blog of the Norwegian Centre for the Law of the Sea
+Charting the Future of Arctic Shipping: Why Navigational Rights in the Northern Sea Route Matter?
+, Robert Beckman and Bikashita Choudhury
+Your email address will not be published.
+Save my name, email, and site URL in my browser for next time I post a comment.
+Subscribe to The NCLOS Blog by Email
+Biodiversity beyond national jurisdiction (BBNJ)
+International Tribunal for the Law of the Sea (ITLOS)
+Law of the Sea Convention (UNCLOS)
+UNCLOS Articles 137 and 139: What They Do—and What They Do Not—Regulate
+The IMO MASS Code, Flag-State Duties and the Architecture of Control
+The Order That Changed More Than It Granted: The Seabed Disputes Chamber’s First Contentious Cases in NORI and TOML v. ISA
+The ISA’s Proposed Advisory Opinion and the Obligations of State Parties in Respect to Unilateralism
+Are UNCLOS States Parties Ready to Meet their Obligation to Ensure in the Face of Unilateral Deep Seabed Mining?
+Guidelines for Grey Zone Naval Incidents: Distinguishing between the Rules of Armed Conflict and Law Enforcement
+Carlos Manuel Pereira Fernandes das Neves
+Norway formally opens the Norwegian continental shelf to seabed mining exploration activities: Rowing against the tide?
+Settlement of the Dispute concerning the Arctic Sunrise – A belated recognition of the relevance of the award on the merits in the Arctic Sunrise case?
+Geneva Declaration on Human Rights at Sea (Version 1, 5 April 2019) – a contribution to the discussion on human rights in the maritime context
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Charting the Future of Arctic Shipping: Why Navigational Rights in the Northern Sea Route Matter? – The NCLOS Blog
+Skip to content
+Home
+About this blog and Instructions for Authors
+Norwegian Centre for the Law of the Sea
+Accessibility
+Search for:
+The NCLOS Blog
+The blog of the Norwegian Centre for the Law of the Sea
+Home
+About this blog and Instructions for Authors
+Norwegian Centre for the Law of the Sea
+Accessibility
+Search for:
+Charting the Future of Arctic Shipping: Why Navigational Rights in the Northern Sea Route Matter?
+Home
+Blog
+Charting the Future of Arctic Shipping: Why Navigational Rights in the Northern Sea Route Matter?
+vlu004
+Blog
+24/06/2026
+24/06/2026
+Jan Jakub Solski
+, Associate Professor, Norwegian Centre for the Law of the Sea (NCLOS), Faculty of Law, UiT The Arctic University of Norway
+CIL/NCLOS Dialogue Symposium
+Introduction
+Due to its geographic location, the Northern Sea Route (NSR) holds importance for both commercial and strategic reasons. While most media coverage periodically highlights new
+prospects
+for economic development of alternative shipping routes connecting Asia to Europe, what often goes unnoticed is the relationship between naval forces and the development of these commercially viable shipping pathways.
+Naval forces rely on navigational rights during both peace and war to maintain their strategic mobility. Yet, one of their chief tasks is to safeguard and protect global sea lines of communication and choke points used for commercial navigation. It is difficult to envision a commercially viable route without real access to warships for protection against maritime threats or against excessive coastal-state practices. A good illustration of the relationship between the naval forces and commercial sea-lanes is the
+practice
+of the United States, the UK or the
+European Union
+in the region spanning the Red Sea and its northern extensions (the Gulfs of Suez and Aqaba), the Horn of Africa, and the adjacent Indian Ocean, as well as the
+Russian navy
+protecting the so-called ‘shadow fleet’. The complex geopolitical situation is likely to intensify the need for
+naval escorts
+and strengthen the understanding that the naval and commercial interests go hand in hand.
+Against this backdrop, this blog focuses on the navigational rights within the NSR.
+The relevance of navigational rights in ice-covered areas
+To regulate navigation in the NSR, Russia has adopted a fairly comprehensive set of
+Rules of Navigation
+, in an effort to implement Article 234 of
+UNCLOS
+. Article 234 grants coastal States a right to regulate vessel source pollution in ice-covered areas, but it does not refer to specific navigational rights, only to “due regard to navigation.”
+This omission is difficult to explain, not least because the spatial scope of the provision is itself unclear: it is not unequivocally limited to the EEZ, and it seems to be
+more convincing
+to read its spatial reach in light of the
+Canadian AWPPA
+of 1970, which operated from the baselines to the outer limit of what later became the EEZ. Seen this way, Article 234 is best interpreted as applicable to ice-covered areas anywhere within the outer limits of the EEZ. How, then, does Article 234 interact with innocent and transit passage, and which regime gives way?
+The relationship between Article 234 and the regime established for straits used for international navigation is easier to understand. The antithetical reading of Article 233 of UNCLOS suggests that, if transit passage applies in ice-covered areas, Section 8 (with Article 234 as the only provision) can affect the legal regime of straits used for international navigation. In other words, transit passage applies subject to the conditions of Article 234. The latter essentially takes precedence.
+The relationship between Article 234 and innocent passage is more difficult to reconcile. One of the core limitations on coastal State jurisdiction in respect of innocent passage, namely the inability to unilaterally impose CDEM standards, sits uneasily with the rationale of Article 234. After all, the very purpose of Canada’s AWPPA 1970, and arguably of Article 234 itself, was to enable coastal States to require enhanced construction or design standards for vessels navigating ice‑covered waters. That objective is difficult to square with the constraints inherent in the innocent passage regime.
+In any event, the ice‑covered‑areas regime is so dominant that it leaves little room for distinguishing among the navigational regimes that might apply along different segments of the NSR. This impression is reinforced by Russian practice: although the authorities formally distinguish among the various maritime zones along the route, the requirement to obtain prior permission applies to navigating the NSR as a whole. As a result, areas that in principle fall under different navigational regimes — internal waters, territorial sea, straits used for international navigation, and the EEZ — are subjected in practice to a single permission‑based system. Article 234, together with its domestic implementation, therefore, exerts an overshadowing effect on the underlying navigational rights.
+However, two reasons still make a discussion of navigational rights indispensable. First, Article 234 and its implementing legislation do not apply to warships or other State‑owned vessels (as explicitly confirmed by Russia in 2025
+Definition and legal status of the Northern Sea Route (For reference) – The Ministry of Foreign Affairs of the Russian Federation
+). Second, Article 234 is functional and conditional, not permanent or unconditional. As the Arctic undergoes rapid environmental change, the areas that qualify as “ice‑covered” will shift over time, making it necessary to assess which navigational regimes apply once the conditions for invoking Article 234 are no longer met.
+Navigational Rights in the NSR
+The NSR traverses Russian internal waters, the territorial sea, and the EEZ. In the EEZ, freedom of navigation applies, in the territorial sea, innocent passage. The real controversy arises in several Arctic straits, to name the most prominent ones, the Kara Gates, Shokalskii, Vilkitskii, Laptev, and Sannikov, where Russia treats all waters as internal.
+In 1985, Russia drew straight baselines that enclosed these straits as internal waters. Yet both UNCLOS and the
+1958 Convention on the Territorial Sea
+(applicable to the USSR in 1985) address precisely this situation: Article 8(2) UNCLOS and Article 5(2) of the 1958 Convention preserve innocent passage where newly enclosed waters were not previously regarded as internal. Because the baselines were adopted only in 1985, the key question is whether these straits were “historic waters.” If not, then, and assuming the baselines are lawful, the right of innocent passage continues to apply.
+In fact, none of the Arctic straits has ever been the subject of a consistent historic waters claim. The only Soviet attempt came in the 1960s, when the US Coast Guard challenged Soviet rules requiring prior authorization for foreign warships. The USSR had a 12 nm territorial sea and, under the
+1960 Statute
+on a Soviet Border, explicitly recognized innocent passage only for merchant ships; warships required authorization to enter either territorial or internal waters. For the Laptev and Sannikov Straits (wider than 24 nm), the Soviets
+asserted
+they “historically belonged” to the USSR, but this was an episodic and ad hoc argument to prevent the passage of a specific ship at a specific time, and it did not specify whether these waters were considered internal or territorial.
+Further clarification came in 1985. When the Arctic baselines were established in 1985, the
+legal act
+listed all areas that the USSR considered historic internal waters. It included only one bay on the NSR and several other Arctic areas—but none of the straits. This omission confirms that their internal waters status is due solely to the baselines, not historic title.
+Accordingly, the straits enclosed by the 1985 baselines constitute a textbook case for applying Article 8(2) UNCLOS: their enclosure cannot extinguish the right of innocent passage.
+On top of everything, the USA has consistently held that the NSR includes straits used for international navigation.
+Russia’s practice and its implications
+Between 1985 and 2022, the question of navigational rights in the NSR straits remained largely dormant. Russia’s first dedicated NSR regulations, adopted in 1990, were
+drafted to apply to all vessels
+, including warships, and this approach remained unchanged until a legislative overhaul began in 2012, culminating in the 2013 NSR Rules. Even after 2013, however, Russian legal scholarship continued to maintain that the straits were full internal waters with no rights of passage. At the same time, the prevailing academic view held—incorrectly, as the Russian Ministry of Foreign Affairs has recently
+acknowledged
+—that the NSR regulations applied equally to all ships, including State-owned vessels.
+Only as it became increasingly clear that regulations implementing Article 234 could not lawfully apply to warships did the underlying problem surface: a legal vacuum concerning navigational rights of foreign State vessels in the NSR. Tensions escalated following the passage of the French Navy vessel
+Rhone
+in 2019. Russia’s initial response was to circulate a draft law—never adopted—that effectively signaled a warning: Moscow could regulate further if “provocations” continued.
+After the escalation of the war against Ukraine in 2022, the political climate shifted. The
+2022 Maritime Doctrine
+and the
+2023 Foreign Policy Concept
+openly articulated the objective of “ensuring the inalterability of the historically established international legal regime of the internal waters of the Russian Federation” in the Arctic.
+Legislative action followed quickly. In December 2022, a new
+law
+imposed stringent requirements on foreign State‑owned ships navigating internal waters along the NSR: mandatory authorization at least three months in advance, a limit of one ship per request, and relaxed procedures for suspending innocent passage in the territorial sea, including the ability to announce suspensions by radio for immediate effect.
+Now, with this ‘regulatory escalation’, the ball is in the other states’ court. For decades, ambiguity served all parties reasonably well: Moscow refrained from fully crystallizing a claim to full sovereignty over the NSR straits, and other states limited themselves to diplomatic objections without pressing the issue more forcefully. This tacit equilibrium endured largely because Russia avoided “going all the way” by explicitly designating the straits as internal waters on a historic basis.
+Now, however, Russia has adopted a more assertive and formal stance—one that, if left unchallenged, could strengthen its sovereignty claims over key straits and the overall narrative of the NSR as a “national” waterway. This places the responsibility squarely on other states to respond if they want to maintain at least the innocent passage regime, which would eventually, with the accumulation of use as an exercise of that right, develop into a transit passage regime.
+Against this backdrop, it is striking how the U.S. Department of Defense’s
+Maritime Claims Reference Manual
+(MCRM)
+depicts Russian practice. The manual states that “Russia has claimed Peter the Great Bay and the Dmitry Laptev and Sannikov Straits as historic, and thus internal, waters.” Absent evidence unavailable to the present author, this appears mistaken: Russia has indeed claimed historic, internal waters status for Peter the Great Bay, but it has never advanced an equivalent claim for the Laptev or Sannikov Straits.
+This creates a paradox. By objecting to a claim that Russia itself has long avoided making, the DoD inadvertently lends that hypothetical claim a measure of plausibility. In effect, it rebuffs a sovereignty assertion that Moscow has been unwilling to risk.  By treating any “historic” argument as a categorical internal waters claim, it collapses an equivocal and opportunistic Soviet/Russian use of “historic” language—embedded within a broader notion of territorial waters—into a definitive claim of internal status. In doing so, it arguably grants Russia an unwarranted benefit of the doubt by transforming historical ambiguity into a concrete position that the United States then formally opposes.
+To safeguard navigational rights in the Russian Arctic, states must respond, diplomatically or operationally, and such responses are strongest when informed by a clear understanding of Russian policy and practice.
+This article is part of a series: CIL/NCLOS Dialogue Symposium
+Connected articles:
+Black Carbon and the Heavy Fuel Oil Ban in the Arctic
+, Amanda Wee and Yulu Liu
+Arctic Ecosystem Governance as a Security Concern
+, Vito De Lucia
+The Impact of Western Sanctions on the Development of Shipping on the Northern Sea Route between Russia and East Asia
+, Robert Beckman and Bikashita Choudhury
+Leave a Reply
+Your email address will not be published.
+Required fields are marked
+*
+Comment
+Name
+*
+Email
+*
+Website
+Save my name, email, and site URL in my browser for next time I post a comment.
+Search for:
+Subscribe
+Subscribe to The NCLOS Blog by Email
+Categories
+Categories
+Select Category
+Arctic
+Biodiversity beyond national jurisdiction (BBNJ)
+Blog
+Climate change
+Delimitation
+Ecosystem approach
+European Union
+Fisheries
+International Tribunal for the Law of the Sea (ITLOS)
+Law of the Sea Convention (UNCLOS)
+Marine pollution
+Marine Protected Areas
+Northern Sea Route
+Oil and gas
+Rights of Nature
+Security law
+Svalbard Treaty
+Recent Posts
+UNCLOS Articles 137 and 139: What They Do—and What They Do Not—Regulate
+The IMO MASS Code, Flag-State Duties and the Architecture of Control
+The Order That Changed More Than It Granted: The Seabed Disputes Chamber’s First Contentious Cases in NORI and TOML v. ISA
+The ISA’s Proposed Advisory Opinion and the Obligations of State Parties in Respect to Unilateralism
+Are UNCLOS States Parties Ready to Meet their Obligation to Ensure in the Face of Unilateral Deep Seabed Mining?
+Recent Comments
+Paul
+on
+Guidelines for Grey Zone Naval Incidents: Distinguishing between the Rules of Armed Conflict and Law Enforcement
+Carlos Manuel Pereira Fernandes das Neves
+on
+Norway formally opens the Norwegian continental shelf to seabed mining exploration activities: Rowing against the tide?
+Daniel Oxtav
+on
+Settlement of the Dispute concerning the Arctic Sunrise – A belated recognition of the relevance of the award on the merits in the Arctic Sunrise case?
+Daniel Oxtav
+on
+Geneva Declaration on Human Rights at Sea (Version 1, 5 April 2019) – a contribution to the discussion on human rights in the maritime context
+Search for:
+Subscribe
+Subscribe to The NCLOS Blog by Email
+Recent Posts
+UNCLOS Articles 137 and 139: What They Do—and What They Do Not—Regulate
+The IMO MASS Code, Flag-State Duties and the Architecture of Control
+The Order That Changed More Than It Granted: The Seabed Disputes Chamber’s First Contentious Cases in NORI and TOML v. ISA
+The ISA’s Proposed Advisory Opinion and the Obligations of State Parties in Respect to Unilateralism
+Are UNCLOS States Parties Ready to Meet their Obligation to Ensure in the Face of Unilateral Deep Seabed Mining?
+Recent Comments
+Paul
+on
+Guidelines for Grey Zone Naval Incidents: Distinguishing between the Rules of Armed Conflict and Law Enforcement
+Carlos Manuel Pereira Fernandes das Neves
+on
+Norway formally opens the Norwegian continental shelf to seabed mining exploration activities: Rowing against the tide?
+Daniel Oxtav
+on
+Settlement of the Dispute concerning the Arctic Sunrise – A belated recognition of the relevance of the award on the merits in the Arctic Sunrise case?
+Daniel Oxtav
+on
+Geneva Declaration on Human Rights at Sea (Version 1, 5 April 2019) – a contribution to the discussion on human rights in the maritime context
+Categories
+Categories
+Select Category
+Arctic
+Biodiversity beyond national jurisdiction (BBNJ)
+Blog
+Climate change
+Delimitation
+Ecosystem approach
+European Union
+Fisheries
+International Tribunal for the Law of the Sea (ITLOS)
+Law of the Sea Convention (UNCLOS)
+Marine pollution
+Marine Protected Areas
+Northern Sea Route
+Oil and gas
+Rights of Nature
+Security law
+Svalbard Treaty
+Meta
+Log in
+Entries feed
+Comments feed
+WordPress.org
+Black Carbon and the Heavy Fuel Oil Ban in the Arctic
+Arctic Ecosystem Governance as a Security Concern
+Powered by
+Kahuna
+&
+WordPress
+.
+©2026 The NCLOS Blog
+Secret Link

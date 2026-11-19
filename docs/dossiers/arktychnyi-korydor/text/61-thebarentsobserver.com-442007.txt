@@ -1,0 +1,44 @@
+URL:         https://www.thebarentsobserver.com/news/shadow-tanker-blocked-by-arctic-sea-icenbsp/442007
+Кінцевий:    https://www.thebarentsobserver.com/news/shadow-tanker-blocked-by-arctic-sea-icenbsp/442007
+Заголовок:   Shadow tanker blocked by Arctic sea ice
+Дата публ.:  2025-12-09
+Завантажено: 2026-10-06 13:28 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 125476
+Оригінал:    raw/61-thebarentsobserver.com-442007.html
+sha256:      0742b3546bf32d9eb44dfd40fb84b9ac7d5a2c82eb0e5c7418f19d445d35f1f7
+Витяг:       trafilatura
+
+==============================================================================
+# Shadow tanker blocked by Arctic sea ice
+
+There were several powerful icebreakers in the area, but the 293-metre-long gas carrier Buran still had to give up its efforts to reach the Utrenny terminal in the Gulf of Ob.
+
+The tanker, which has shuttled between the far northern terminal and Chinese ports multiple times this year, has failed to break through the thick ice layers on the Ob bay.
+
+Reportedly, the Buran made four attempts to make it to the terminal in the period of December 2-7. Apparently, they were all unsuccessful.
+
+Ship traffic data from December 9 show that the tanker remains in the adjacent waters of the Kara Sea.
+
+After an exceptionally warm October, the Arctic weather quickly changed. By early December, the waters in the Gulf of Ob had frozen to an extent that was not expected by the local shippers.
+
+The solid ice came earlier and was more impermeable than in previous years, a shipping news site [reports](https://vk.com/vkseaman?w=wall-80865087_55169). 
+
+The Buran is one of four carriers in a 'shadow fleet' used by Novatek to transport liquified natural gas from the Arctic LNG 2 project to China.
+
+During the summer and fall of 2025, the Buran, Iris, Voskhod and Zarya conducted at least 12 shipments from Utrenny, a terminal that is part of the Arctic LNG 2 project. Most of the shipments went across the Northern Sea Route to China.
+
+The four tankers, as well as the Arctic LNG 2 itself, are under international sanctions.
+
+The Buran and its sister vessels have ice standard Arc4, which is insufficient for sailing in thick sea ice. Reportedly, the Buran got major damage when it sailed through sea ice last winter and subsequently had to go through several months of repair at a Chinese yard.
+
+Russia is in dire need of tankers with higher ice standards. A fleet of 15 specialised Arc7 icebreaking LNG carriers serve the Yamal LNG project, but Novatek has not managed to build a similar fleet for the Arctic LNG 2.
+
+An Arc7 tanker for the project, the Aleksei Kosygin, [is under construction at the Zvezda Yard in Vladivostok](https://www.thebarentsobserver.com/arctic/ahead-of-meeting-with-kim-jong-un-putin-praises-soviet-politburo-leader-at-naming-ceremony-for-arctic-tankers/118244). The carrier, which is named after the Soviet Politburo leader, is expected to make it into Arctic water in the course of the winter.
+
+Almost the whole Russian fleet of nuclear-powered icebreakers is now in and around the Gulf of Ob. The Buran is assisted by the 50 Let Pobedy, while other ships are escorted by the Ural, the Arktika, the Taymyr and Yamal.
+
+On December 9 the Sibir escorted a convoy of four ships that approached the Vilkitsky Strait.
+
+At the same time, the Yakutiya was on its way through the Norwegian Sea en route from St. Petersburg to Sabetta. This powerful icebreaker that entered service in December 2024 had to sail all the way to St. Petersburg for repairs and upgrades. A floating dock that was built by the Turkish Kuzey Star Shipyard [has not made it to Murmansk because of international sanctions. ](https://www.thebarentsobserver.com/news/uk-sanctions-halt-highly-needed-floating-repair-dock-for-nuclear-icebreaker-fleet/430597) 
+
+The dock, which has a lifting capacity of 30,000 tons, has been built for Russia's new generation of icebreaker, but remains stuck in Turkey.

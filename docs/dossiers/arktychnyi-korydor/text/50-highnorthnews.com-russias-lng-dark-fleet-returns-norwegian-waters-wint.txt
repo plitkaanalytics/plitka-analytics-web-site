@@ -1,0 +1,70 @@
+URL:         https://www.highnorthnews.com/en/russias-lng-dark-fleet-returns-norwegian-waters-winter-closes-northern-sea-route
+Кінцевий:    https://en.highnorthnews.com/business/russias-lng-dark-fleet-returns-to-norwegian-waters-as-winter-closes-northern-sea-route/165826
+Заголовок:   Russia’s LNG ‘Dark Fleet’ Returns to Norwegian Waters As Winter Closes Northern Sea Route
+Дата публ.:  2025-11-10
+Завантажено: 2026-10-06 13:17 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 227626
+Оригінал:    raw/50-highnorthnews.com-russias-lng-dark-fleet-returns-norwegian-waters-wint.html
+sha256:      9d41cabe6ff3fcb5bf2df1da5e025bbf5cbf9e7038c4c2ef4bf80c04edfb198d
+Витяг:       trafilatura
+
+==============================================================================
+business
+
+# 
+    #  Russia’s LNG ‘Dark Fleet’ Returns to Norwegian Waters As Winter Closes Northern Sea Route
+
+
+    With sea ice closing the Northern Sea Route often poorly insured shadow fleet vessels are again using the ice-free waters of the Barents Sea. A sanctioned LNG carrier traveled up and down Norway’s northern coast in recent days. Several more are set to follow.
+
+For much of the summer Russia’s LNG “shadow fleet” stayed away from Norway’s Arctic waters. With the return of winter sea ice closing much of the Northern Sea Route, the first dark vessels are returning to the Norwegian and Barents Seas.
+
+In recent days the sanctioned LNG carrier *Zarya* traveled down the Norwegian coastline before abruptly making a u-turn off the Faroe Islands.
+
+The vessel is loaded with liquefied natural gas from Novatek’s internationally blocked Arctic LNG 2 project.
+
+On November 6 it turned around near the North Atlantic Ocean archipelago and traveled back up past the Lofoten and Northern Norway. It is currently circling in waters off Murmansk.
+
+### Vessels en route Arctic via Norway
+
+Several other sanctioned gas carriers are also currently en route to Russia’s Arctic and are set to use Norwegian waters to reach their destinations.
+
+### Likely traveling via waters off Norway
+
+During the summer months these vessels operated along the ice-free eastern sections of the Northern Sea Route to reach Chinese buyers. During winter activity around Norway appears set to ramp up again.
+
+The 22-year old vessel *Arctic Metagaz* is currently working its way through the Mediterranean after passing through the Suez Canal.
+
+Based on AIS information it is set to arrive in Murmansk on November 19, likely traveling via waters off Norway.
+
+Another LNG carrier *La Perouse *has also begun heading west from Asia en route back to Russia’s Arctic.
+
+With no ice-strengthening or only low ice-classifications these vessels rely on the ice-free waters of the Barents Sea to load their cargoes during winter.
+
+### Also read (The Article Continues)
+
+Several additional sanctioned vessels, including *Arctic Mulan* and *Buran*, are bound to also set course to northern Europe in the weeks to come.
+
+Last winter more than a dozen LNG carriers idled in the Barents Sea for several months in search of buyers for sanctioned Russian gas.
+
+With China making available the Beihai import terminal to receive cargoes from Arctic LNG 2 this winter will likely see greater levels of export activity – all via the Barents and Norwegian Seas.
+
+### Will voluntary inspections be effective
+
+Earlier this summer [Norway’s government announced that it would begin inspecting Russian shadow fleet vessels](https://www.highnorthnews.com/en/norway-inspect-sanctioned-tankers-efforts-curb-russian-shadow-fleet) passing through the country’s waters.
+
+With the policy it follows similar policies by European neighbors including Denmark in an effort to curb Russian shadow fleet activity and ensure that vessels carry appropriate levels of insurance coverage.
+
+The policy is primarily aimed at crude oil tankers passing through its 200 nautical mile Exclusive Economic Zone.
+
+It is not clear if the measures include or will be expanded to Russian gas carriers. Russian LNG carriers also [continue to use the fjords outside Honningsvåg](https://www.highnorthnews.com/en/russian-lng-carrier-stops-northern-norways-honningsvag-again) to resupply. 
+
+The sanctioned LNG carrier *Zarya* spent several days and hundreds of nautical miles in Norway’s EEZ.
+
+The vessel previously held protection and indemnity (P&I) coverage through Russia’s sanctioned Ingosstrakh Insurance, but according to the S&P database its current provider is unknown.
+
+Uninsured or underinsured vessels of the shadow fleet have become a major safety concern in waters around the world.
+
+A Norwegian-registered firm, Romarine AS, sat at the center of a maritime insurance scheme involving fake insurance certificates for dozens of aging Russian tankers.
+
+Broadcaster [NRK identified more than 100 vessels](https://www.nrk.no/vestland/xl/over-100-ships-have-sailed-without-legitimate-insurance-from-the-norwegian-company-ro-marine-1.17565216) that passed through Norwegian waters without legitimate insurance.

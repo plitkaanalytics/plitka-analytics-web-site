@@ -1,0 +1,215 @@
+URL:         https://mezha.net/eng/news/1b6be381_russia_will_export_pig
+Кінцевий:    https://mezha.net/eng/news/1b6be381_russia_will_export_pig
+Заголовок:   Russia will export pig iron through Murmansk for the first time in 30 years to avoid Ukrainian strikes. | Межа
+Дата публ.:  2026-11-07
+Завантажено: 2026-11-08 07:57 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 171289
+Оригінал:    raw/189-mezha.net-1b6be381_russia_will_export_pig.html
+sha256:      6028b894eead33c20f9c52ceff742ab36b4f3d38cbe750dc058fc81548643d7e
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 43
+==============================================================================
+Russia will export pig iron through Murmansk for the first time in 30 years to avoid Ukrainian strikes. | Межа
+West Coast Customs builds six drivable GTA 6 cars for Miami campaign
+Russians hit food warehouse in Odesa again – large-scale fire breaks out
+Russians killed 5 residents of Donetsk region in a day
+Zaporizhzhia Nuclear Power Plant loses power from its last operating line – Energoatom
+CENTCOM: US military disables vessel that tried to breach Iran blockade
+UK ECAA refusals rise, prompting Windrush comparisons
+‘Our Blues,’ ‘Midnight Diner’ and ‘C’est La Vie’ among Projects Backed by TAICCA Funds
+Employed jobseekers are shunning companies using AI interviews – and I don’t blame them
+A business building destroyed in Russia’s overnight attack in Sarny district
+U.S. military launches task force to restrict Iran’s land trade
+Jet-powered drones are heading toward Kharkiv, north and southwest
+More than 600 thousand consumers in Dnipropetrovsk region were left without electricity due to Russian attacks
+Texas Senate winner James Talarico makes surprise appearance on ‘SNL’
+Air defense shot down or suppressed 137 enemy targets
+Hot fridges, a fake nuclear alert and a $6bn heist: are we in the foothills of a hacking epidemic?
+Jet-powered drones: flight paths over Cherkasy, Kyiv, Odesa and Dnipropetrovsk regions
+Russian forces strike 725 times across 53 settlements in Zaporizhzhia Region; one person injured
+Notre Dame holds off No. 1 Miami 31-24 after disputed late call
+November 8: What holidays are celebrated in Ukraine and around the world
+Unverified iPhone 18 and 18e X-rays suggest shared design, larger batteries
+Georgia routs Ole Miss 42-7, moves closer to SEC championship game and College Football Playoff berth
+Mechrevo lists Unbounded 15X with a 240Hz display and 10-core Ryzen AI processor
+Japanese bowling pioneer Ritsuko Nakayama, first woman to bowl a professional perfect game, dies at 84
+Coolpad Cool X Wide goes on sale in China as Coolpad’s first and possibly Android’s first wide smartphone
+Crypto’s political advantage in Washington faces a new test
+How China’s clean-tech push is reshaping global climate finance
+Messi wins second straight Golden Boot as Nashville sets MLS points record
+Oppo’s three-port 120W charger appears in China’s 3C certification
+Richard Walters to leave White House in first major departure as Stephen Miller takes charge
+Edmonton Elks beat B.C. Lions to reach Grey Cup against Alouettes
+GTA 6 leak points to more launch trophies and achievements than GTA 5
+Two licensed skydivers die after midair collision tangles parachutes
+Reggie Jackson says antisemitism recalls racism he faced in the 1960s
+Rubio warns senior staff to avoid conflicts of interest as U.S. Republicans look to 2028
+Google energy chief says space data centers could cost up to 100 times more
+Alabama beats LSU 31-13 as Tigers’ CFP hopes hang by a thread
+Casio’s Luxe Black G-Shock goes on sale in Japan at 20% off
+Samsung One UI 9.5 beta could open soon: How to sign up
+Ohio State’s playoff hopes take a hit as Oregon wins, Jeremiah Smith shows frustration
+AOC releases 16-inch OLED portable monitor with slim aluminum-alloy body
+Saturday, 7 November 2026, 14:53
+Add Mezha as a preferred source on Google
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Russia will export pig iron through Murmansk for the first time in 30 years to avoid Ukrainian strikes. | Межа
+News
+Opinions
+Technology
+Sport
+Search
+About
+Contact
+◐
+EN
+English
+⌃
+УК
+Українська
+✓
+EN
+English
+FR
+Français
+日
+日本語
+中
+中文
+KO
+한국어
+News
+Opinions
+Technology
+Sport
+Search
+About
+Contact
+УК
+Українська
+✓
+EN
+English
+FR
+Français
+日
+日本語
+中
+中文
+KO
+한국어
+8 Nov 2026, 09:50
+West Coast Customs builds six drivable GTA 6 cars for Miami campaign
+8 Nov 2026, 09:46
+Russians hit food warehouse in Odesa again – large-scale fire breaks out
+8 Nov 2026, 09:29
+Russians killed 5 residents of Donetsk region in a day
+8 Nov 2026, 09:21
+Zaporizhzhia Nuclear Power Plant loses power from its last operating line – Energoatom
+8 Nov 2026, 09:14
+CENTCOM: US military disables vessel that tried to breach Iran blockade
+8 Nov 2026, 09:10
+UK ECAA refusals rise, prompting Windrush comparisons
+8 Nov 2026, 09:04
+‘Our Blues,’ ‘Midnight Diner’ and ‘C’est La Vie’ among Projects Backed by TAICCA Funds
+8 Nov 2026, 09:02
+Employed jobseekers are shunning companies using AI interviews – and I don’t blame them
+8 Nov 2026, 08:58
+A business building destroyed in Russia’s overnight attack in Sarny district
+8 Nov 2026, 08:57
+U.S. military launches task force to restrict Iran’s land trade
+8 Nov 2026, 08:41
+Jet-powered drones are heading toward Kharkiv, north and southwest
+8 Nov 2026, 08:39
+More than 600 thousand consumers in Dnipropetrovsk region were left without electricity due to Russian attacks
+8 Nov 2026, 08:24
+Texas Senate winner James Talarico makes surprise appearance on ‘SNL’
+8 Nov 2026, 08:16
+Air defense shot down or suppressed 137 enemy targets
+8 Nov 2026, 08:09
+Hot fridges, a fake nuclear alert and a $6bn heist: are we in the foothills of a hacking epidemic?
+8 Nov 2026, 07:29
+Jet-powered drones: flight paths over Cherkasy, Kyiv, Odesa and Dnipropetrovsk regions
+8 Nov 2026, 07:28
+Russian forces strike 725 times across 53 settlements in Zaporizhzhia Region; one person injured
+8 Nov 2026, 07:21
+Notre Dame holds off No. 1 Miami 31-24 after disputed late call
+8 Nov 2026, 07:09
+November 8: What holidays are celebrated in Ukraine and around the world
+8 Nov 2026, 07:02
+Unverified iPhone 18 and 18e X-rays suggest shared design, larger batteries
+8 Nov 2026, 06:54
+Georgia routs Ole Miss 42-7, moves closer to SEC championship game and College Football Playoff berth
+8 Nov 2026, 06:32
+Mechrevo lists Unbounded 15X with a 240Hz display and 10-core Ryzen AI processor
+8 Nov 2026, 06:22
+Japanese bowling pioneer Ritsuko Nakayama, first woman to bowl a professional perfect game, dies at 84
+8 Nov 2026, 06:18
+Coolpad Cool X Wide goes on sale in China as Coolpad’s first and possibly Android’s first wide smartphone
+8 Nov 2026, 06:06
+Crypto’s political advantage in Washington faces a new test
+8 Nov 2026, 05:46
+How China’s clean-tech push is reshaping global climate finance
+8 Nov 2026, 05:41
+Messi wins second straight Golden Boot as Nashville sets MLS points record
+8 Nov 2026, 05:33
+Oppo’s three-port 120W charger appears in China’s 3C certification
+8 Nov 2026, 05:25
+Richard Walters to leave White House in first major departure as Stephen Miller takes charge
+8 Nov 2026, 04:56
+Edmonton Elks beat B.C. Lions to reach Grey Cup against Alouettes
+8 Nov 2026, 04:41
+GTA 6 leak points to more launch trophies and achievements than GTA 5
+8 Nov 2026, 04:35
+Two licensed skydivers die after midair collision tangles parachutes
+8 Nov 2026, 04:13
+Reggie Jackson says antisemitism recalls racism he faced in the 1960s
+8 Nov 2026, 04:12
+Rubio warns senior staff to avoid conflicts of interest as U.S. Republicans look to 2028
+8 Nov 2026, 03:18
+Google energy chief says space data centers could cost up to 100 times more
+8 Nov 2026, 03:17
+Alabama beats LSU 31-13 as Tigers’ CFP hopes hang by a thread
+8 Nov 2026, 03:09
+Casio’s Luxe Black G-Shock goes on sale in Japan at 20% off
+8 Nov 2026, 03:08
+Samsung One UI 9.5 beta could open soon: How to sign up
+8 Nov 2026, 02:54
+Ohio State’s playoff hopes take a hit as Oregon wins, Jeremiah Smith shows frustration
+8 Nov 2026, 02:36
+AOC releases 16-inch OLED portable monitor with slim aluminum-alloy body
+Russia will export pig iron through Murmansk for the first time in 30 years to avoid Ukrainian strikes.
+Saturday, 7 November 2026, 14:53
+Russian exporters are weighing a costly alternative as risks rise along a key maritime corridor. The proposed route adds days and expense.
+Russia is preparing to resume pig iron exports through the Arctic port of Murmansk for the first time since 1996, in an effort to avoid Ukrainian strikes in the Black Sea. According to the Financial Times, the alternative route extends delivery times and increases transportation costs.
+Reported by
+Financial Times
+.
+Photo: Port of Murmansk, May 8, 2022, archival illustrative photo. Source:
+Svetlov Artem / Wikimedia Commons
+,
+CC BY-SA 4.0
+.
+According to the publication, a trial shipment of 65,000 tonnes of pig iron is planned to be sent through Murmansk to the Mediterranean Sea. More than 180 railcars were used to transport the metal to assemble the cargo.
+Advertisement
+Turkey is the likely destination. The FT links this to the European Union’s ban on imports of Russian pig iron, which has been in effect since January 1, 2026.
+Shipping from Murmansk to Turkey takes around 10 days longer than from Black Sea ports. According to Austin Barnes, an analyst at price reporting agency Argus, freight costs on this route are almost twice as high.
+Some Russian producers, he estimates, pay an additional $100 per tonne to transport raw materials by rail and sea.
+Russia previously exported pig iron through Novorossiysk. According to the FT, the last shipment of the metal from the Black Sea port took place on July 31, 2026.
+Russian exporters are seeking alternative routes amid attacks on vessels in the Black Sea by both sides. According to maritime security company Ambrey, cited by
+Ukrinform
+with reference to the FT, nearly 700 strikes have been recorded in the region since the start of 2026.
+Murmansk has traditionally been a hub for Russian oil exports. Amid threats in the Black Sea, the port is expanding its handling of metals and grain.
+You might be interested in:
+China’s container ship Istanbul Bridge takes the Arctic Northern Sea Route, signaling ambitions for a Polar Silk Road amid climate change and geopolitical shifts.
+Turkish Foreign Minister Hakan Fidan called on regional countries and the international community to prevent the Black Sea from becoming a new battlefield, warning that attacks on civilian vessels endanger shipping and the environment.
+Mezha in YouTube
+Subscribe
+Add Mezha as a preferred source on Google
+Advertisement

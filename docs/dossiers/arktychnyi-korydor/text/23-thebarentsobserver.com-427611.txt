@@ -1,0 +1,32 @@
+URL:         https://thebarentsobserver.com/security/russias-first-icebreaking-patrol-vessel-for-the-arctic-arrives-north/427611
+Кінцевий:    https://www.thebarentsobserver.com/security/russias-first-icebreaking-patrol-vessel-for-the-arctic-arrives-north/427611
+Заголовок:   Russia's first icebreaking patrol vessel for the Arctic arrives north
+Дата публ.:  2025-04-01
+Завантажено: 2026-10-06 12:29 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 139535
+Оригінал:    raw/23-thebarentsobserver.com-427611.html
+sha256:      311da1f8c97b356f421fbfcab2fcb936948eb9ba3eb060cbaa8e1507db9c3bbe
+Витяг:       trafilatura
+
+==============================================================================
+# Russia's first icebreaking patrol vessel for the Arctic arrives north
+
+The Ivan Papanin will over the next three months undergo ice tests in the waters around Franz Josef Land.
+
+Built at the Admirality shipyard in St. Petersburg, the icebreaking patrol vessel sailed around the Baltics and Scandinavia in late March and arrived to the Northern Fleet's main base on Monday, the Navy's [press service](https://function.mil.ru/news_page/country/more.htm?id=12556913@egNews) in Severomorsk informs. 
+
+The warship is not an icebreaker, but has an ice-reinforced hull much like the Norwegian Coast Guard vessel KV Svalbard and the Canadian Harry DeWolf class Coast Guard vessels.
+
+Russia will get four ships of the class; two navy patrol ships for the Northern Fleet, and two FSB Coast Guard vessels, the Purga and Dzerzhinsky which will sail for the FSB Coast Guard.
+
+The latter is named after Felix Dzerzhinsky, the architect of the red terror, the bolshevik’s mass-murdering of political opponents and creation of the Gulag prison camps.
+
+The ships of the class, named Project 23550, are Russia’s first purposely built to sail military patrol deep inside the Arctic ice-cap. It has multirole functionalities of icebreaking up to 1,7 meter thick ice (Arc7), can serve as a tug-boat, conduct search- and rescue missions and transport various cargo to remote military locations.
+
+The Ivan Papanin is armed with a 76 mm AK-176MA artillery gun, has a helipad and hangar designed for the Ka-27 helicopters. The ship can also carry UAVs and high-speed small boats.
+
+In the rear, there are platforms for the portable, container-based version of the Kalibr-K cruise missiles. Such containers were not onboard when Ivan Papanin came to Severomorsk on Monday.
+
+It is expected that the new warship will be put in regular patrols for the Northern Fleet during the summer of 2025.
+
+Next vessel of the class, the Nikolai Zubov, will likely follow next year.

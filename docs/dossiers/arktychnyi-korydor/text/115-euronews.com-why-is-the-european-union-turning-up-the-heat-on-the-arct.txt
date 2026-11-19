@@ -1,0 +1,96 @@
+URL:         https://euronews.com/2026/10/20/why-is-the-european-union-turning-up-the-heat-on-the-arctic
+Кінцевий:    https://www.euronews.com:443/2026/10/20/why-is-the-european-union-turning-up-the-heat-on-the-arctic
+Заголовок:   Why is the EU turning up the heat on the Arctic?
+Дата публ.:  2026-10-20
+Завантажено: 2026-11-07 18:03 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 309541
+Оригінал:    raw/115-euronews.com-why-is-the-european-union-turning-up-the-heat-on-the-arct.html
+sha256:      f27e580642d776458c355ce325c050e95f7e7adf09602ec02cc8ceb621afbfa2
+Витяг:       trafilatura
+
+==============================================================================
+[Luca Bertuzzi](/profiles/3605) & 
+
+[Marta Pacheco](/profiles/2852)
+
+## The EU’s revamped Arctic strategy puts security at its core, citing growing Russian and Chinese activity in the region. It focuses on ramping up European security capabilities, military mobility with NATO, icebreakers, satellite surveillance, and a maritime security hub.
+
+The European Union presented its revamped Arctic strategy on Tuesday, spelling out how much the region has grown in importance for the bloc’s geopolitical priorities, particularly in areas such as security, energy, trade and connectivity.
+
+Melting ice caused by climate change has long been turning the Arctic into a new arena for geopolitical competition, as new trade routes open, natural resources become accessible and military deployments become increasingly feasible.
+
+“Since our previous Arctic strategy in 2021, we face a much harsher security environment. The Arctic is no longer insulated from the world’s geopolitical tensions. Our updated Arctic strategy reflects this new reality by putting security firmly at its core,” EU foreign policy chief Kaja Kallas said at the press conference presenting the initiative.
+
+In a major shift from the previous strategy, Brussels now recognises that “multilateral cooperation remains indispensable, but it can no longer be the sole foundation of the European Union’s Arctic approach.”
+
+In other words, the bloc no longer sees the Arctic merely as a place to promote cooperation. It treats it as part of Europe’s strategic neighbourhood, where cooperation with partners must go hand in hand with the ability to protect its own interests.
+
+**Security and defence**
+
+The strategy sets out a new political framework for regional policy, the Northern Neighbourhood. It brings together strategic partners such as Norway, Iceland, Canada, the UK and the US, with regular summits planned to discuss common issues.
+
+Last November, the European Parliament already adopted an [Arctic recommendation](https://www.europarl.europa.eu/doceo/document/TA-10-2025-0298%5FEN.html) calling for a more security-oriented EU policy and closer EU-NATO cooperation, with particular attention to Russian military expansion and scrutiny of Chinese strategic activity.
+
+“Moscow has reopened Soviet-era bases and is testing new weapons in the region,” Kallas said. “China’s strategic ambitions in the High North are also growing. Beijing’s investments in ports, minerals and critical infrastructure need careful scrutiny.”
+
+Yet while recognised as a partner, Washington has itself been a key factor in the EU’s recalibration, notably after US President Donald Trump’s stated ambition to annex Greenland, which later [led to an agreement](https://www.euronews.com/2026/09/22/trump-signs-greenland-security-deal-allowing-us-to-expand-military-presence) with Denmark and Greenland.
+
+“When we see that sovereignty, territorial integrity and the rules that have underpinned stability in the region can no longer be taken for granted. We have to act and change our strategic posture and, together with like-minded partners, stand up to these values,” Commission President Ursula von der Leyen said at the press conference.
+
+In response to the deteriorating security landscape, the strategy vows to strengthen the EU’s strategic capabilities, notably by expanding its icebreaker fleet and launching a pilot project on satellite-based surveillance.
+
+Cooperation with NATO is meant to improve the logistics of military mobility, focusing on “rapid large-scale deployment of troops in and across the Arctic, when needed, as well as the reinforcement of west-east transport links in the European Arctic and to the Baltic Sea.”
+
+**Trade routes**
+
+Opening Arctic trade routes would give the EU a shorter alternative for reaching Asian markets, bypassing chokepoints such as the Suez Canal and the Red Sea.
+
+Russia, meanwhile, has invested in infrastructure along the Northern Sea Route, which runs along its Arctic coast, while China promotes its “Polar Silk Road” as part of its broader connectivity ambitions.
+
+The Russian and Chinese presence is seen as a potential threat to the sovereign rights of countries in the region and could escalate tensions, prompting the EU to commit “to ensure that freedom of navigation is preserved on all trade routes.”
+
+To that end, the EU plans to develop a maritime security hub with partner countries. It would facilitate information sharing on issues such as tracking Russia’s shadow fleet, detecting illegal fishing and marine pollution, and strengthening situational awareness.
+
+Brussels also pledges to enforce the safety and environmental standards of the Polar Code, a binding international regulatory framework, using tools such as inspections to ensure a level playing field for vessels transiting the region.
+
+The strategy also envisages a foresight study on Arctic shipping routes to anticipate traffic flows, emerging maritime corridors and fleet requirements.
+
+## Energy security
+
+Commission officials made clear that Brussels does not intend to change its 2021 position: the bloc [will not drill for hydrocarbons in the Arctic](https://www.euronews.com/2026/09/21/brussels-to-keep-ban-on-arctic-oil-and-gas-driling-despite-norwegian-pressure) nor will it buy oil and gas from new developments in the region.
+
+"The EU’s position on drilling in the Arctic remains the same, and it’s very clear: oil, coal and gas must stay in the ground," Energy Commissioner Dan Jørgensen said.
+
+Brussels argued that new drilling would neither meet the bloc's energy-security needs nor offer a convincing economic case. Still, the mention of a moratorium, strongly opposed by Norway even if non-binding, was softened from the final version,
+
+“Even if there were to be development, exploration, and even drilling activities in the Arctic, it will take several years up to a decade easily to get that out of the ground,” one Commission official said, arguing that the bloc would not need those resources by then.
+
+Conversely, the Commission wants to develop the Arctic’s potential for renewable energy, including wind, hydropower, geothermal power and renewable hydrogen. But EU officials acknowledged that producing clean energy is only part of the challenge.
+
+Electricity must either be used locally or connected to markets capable of absorbing it; hence, the strategy points to stronger electricity connections between Finland and Sweden.
+
+The Aurora power line, inaugurated in January 2026, is already linking the two countries’ electricity grids, with further work envisaged to deepen electricity-market integration and ease grid bottlenecks.
+
+**Connectivity infrastructure**
+
+Connectivity is another major pillar of the EU’s Arctic policy. The bloc has been [trying to diversify](https://www.euronews.com/2026/10/19/eu-eyes-arctic-cable-linking-greenland-to-europe-amid-growing-security-threats) its subsea cable infrastructure and avoid single points of failure through the Far North Fibre, which would link Europe, Greenland and Canada to east Asian countries.
+
+This network is meant to bring high-speed broadband to remote indigenous towns and also serve as a vital redundant data route for mainland Europe, ensuring more secure data sharing and telecommunications.
+
+Critical infrastructure has also become a prime target in a hybrid campaign that Russia has been escalating in recent weeks, including attacks on submarine infrastructure such as undersea cables.
+
+According to Reuters, a joint NATO operation last month disrupted a Russian exercise testing new deep-sea submarine capabilities designed to disable undersea cables, with the aim of cutting the connection between mainland Norway and the Svalbard archipelago.
+
+The strategy therefore plans an Arctic cable hub to protect and support the repair of submarine cables in the North Atlantic and Arctic, following the model used in the Mediterranean and the Baltic Sea.
+
+Brussels is fast-tracking Rail Nordica — a massive engineering project to migrate northern Finland's railway network to the standardised pan-European track gauge.
+
+**Critical raw materials**
+
+The Arctic in general, and Greenland in particular, holds deposits of minerals considered critical for Europe’s clean-energy transition, batteries and defence industry, including rare earths, graphite and lithium.
+
+Critical raw materials projects are under way in Norway, Finland and Sweden, which benefit from facilitated conditions such as access to finance and faster permitting because of their strategic relevance.
+
+At the same time, “the EU will continue to advocate against deep-sea mining until the scientific gaps on deep-sea ecosystems are properly filled, until it can be demonstrated that no harmful effects arise from deep-sea mining,” the strategy reads.
+
+[Go to accessibility shortcuts](#accessibility-bar__menu)

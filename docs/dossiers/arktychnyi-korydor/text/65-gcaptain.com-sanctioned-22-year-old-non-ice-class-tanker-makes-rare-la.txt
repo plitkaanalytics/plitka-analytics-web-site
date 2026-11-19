@@ -1,0 +1,30 @@
+URL:         https://gcaptain.com/sanctioned-22-year-old-non-ice-class-tanker-makes-rare-late-season-arctic-voyage/
+Кінцевий:    https://gcaptain.com/sanctioned-22-year-old-non-ice-class-tanker-makes-rare-late-season-arctic-voyage/
+Заголовок:   Sanctioned 22-Year-Old Tanker Makes Rare Late-Season Arctic Voyage
+Дата публ.:  2026-10-07
+Завантажено: 2026-10-08 05:04 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 233248
+Оригінал:    raw/65-gcaptain.com-sanctioned-22-year-old-non-ice-class-tanker-makes-rare-la.html
+sha256:      76da3f12bdb07a8655cfe880fd77a0dc7142c03913ebe2f33cb594b28e5e8c6c
+Витяг:       trafilatura
+
+==============================================================================
+A 22-year-old product tanker sanctioned by the European Union is making an unusual late-season voyage along Russia’s Northern Sea Route, highlighting the growing use of older, lower-specification vessels to move petroleum products through the Arctic.
+
+The *Dakar*, a 21,300-dwt oil and chemical products tanker built in 2004, is carrying methyl tert-butyl ether (MTBE), a gasoline additive, and appears to be heading west along Russia’s Arctic coast, according vessel tracking data. The cargo was loaded onto another vessel in China in August before being transferred to *Dakar* off Yeosu, South Korea, in September.
+
+*Dakar* is not an Arctic-specialist tanker, but vessel data from S&P Global indicates that it does have an ice-class designation. That distinguishes it from non-ice-class tankers, while placing it well below the Arc4 and higher ice-class vessels purpose-built for regular Arctic operations.
+
+The distinction is increasingly relevant as [Russia’s shadow fleet expands its presence on the Northern Sea Route](https://gcaptain.com/in-desperate-move-russia-sends-first-ever-conventional-lng-carrier-through-arctic/).
+
+Advocacy group Bellona [identified 50 shadow-fleet oil tankers on the NSR between the start of the 2026 summer-autumn navigation season](https://gcaptain.com/shadow-fleet-traffic-on-northern-sea-route-surges-as-arctic-safety-concerns-grow/) and mid-September, compared with 38 during the entire 2025 season. Of those 50 vessels, 26 had an ice class of Ice3 or lower, or no ice class at all, while 33 were at least 15 years old.
+
+*Dakar* fits several characteristics of this expanding fleet. The vessel is 22 years old, has changed names and flags during its career, and has been identified by Ukraine’s sanctions database as having been involved in Russian petroleum-product exports. The European Union sanctioned the vessel in July for transporting Russian crude oil, petroleum products or mineral products and for using what it described as irregular or high-risk shipping practices.
+
+Bellona has also identified *Dakar* as an oil/chemical tanker that does not regularly operate in the Arctic, although it entered the Kola Peninsula area earlier this year.
+
+The timing of its latest voyage is notable. September is generally the most favorable period for navigation on the NSR as seasonal sea ice reaches its annual minimum. By October, ice conditions begin deteriorating and the window for vessels with lower ice capabilities narrows. Russia’s NSR regulations permit vessels with lower ice classes to operate during the July 1-Nov. 15 season, subject to ice conditions, location and prescribed navigation methods.
+
+By October, the Arctic summer navigation season is approaching its most challenging phase, particularly in the eastern sections of the route. A similar voyage last year demonstrated the risk: [the non-ice-class Suezmax ](https://gcaptain.com/sanctioned-suezmax-oil-tanker-without-ice-protection-stuck-for-days-on-russias-arctic-northern-sea-route/)*Lynx* was forced to wait for several days after encountering sea ice near 72 degrees north while carrying Russian crude toward China.
+
+*Dakar*’s voyage also follows a sharp increase in Russian oil exports to Asia through the Arctic this year. Reuters reported in August that seven tankers had already moved roughly 6 million barrels of crude through the NSR, nearly half the total shipped by tankers through the route during all of 2025.

@@ -1,0 +1,68 @@
+URL:         https://en.highnorthnews.com/business/south-korean-arctic-container-trial-voyage-to-stop-at-norways-tromso-port/1111591
+Кінцевий:    https://en.highnorthnews.com/business/south-korean-arctic-container-trial-voyage-to-stop-at-norways-tromso-port/1111591
+Заголовок:   South Korea picks Tromsø for Arctic shipping test
+Дата публ.:  2026-05-20
+Завантажено: 2026-10-06 13:16 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 224216
+Оригінал:    raw/46-en.highnorthnews.com-1111591.html
+sha256:      c7f260642753aab55369d7bdd7ab9f964865a8da15eb0c70a8965ac40a44d29c
+Витяг:       trafilatura
+
+==============================================================================
+business
+
+# South Korean Arctic Container Trial Voyage to Stop at Norway’s Tromsø Port
+
+South Korea’s first planned container ship trial voyage along Russia’s Northern Sea Route (NSR) will include a stop at the Norwegian Arctic port of Tromsø, underscoring the growing strategic importance of northern Norway as Arctic shipping activity accelerates across the polar corridor.
+
+South Korean shipping company Panstar Line has been preliminarily selected to operate the pilot voyage after emerging as the sole bidder in a government-backed tender issued by the Korea Ocean Business Corporation (KOBC) and the Korea Shipping Association (KSA).
+
+The proposed route would see a roughly 3,000 twenty-foot equivalent unit (TEU) ice-class container vessel depart from Busan, transit the Russian Arctic, stop at Tromsø before continuing to Rotterdam and then return along the same route.
+
+The inclusion of Tromsø in the route highlights Norway’s increasingly central role in emerging Arctic logistics networks, both for legitimate commercial shipping and for the growing number of so-called shadow fleet tankers operating near northern waters to transport sanctioned Russian oil and gas exports.
+
+The South Korean government [first announced plans last year to conduct a demonstration Arctic container voyage](https://en.highnorthnews.com/business/south-korea-plans-first-arctic-container-ship-test-voyage-via-russias-northern-sea-route/1091635) as part of a broader strategy to establish the country as a future Arctic shipping hub and a potential counterweight to China in northern maritime trade.
+
+### Tromsø in key location
+
+The Tromsø stop also appears to validate recent outreach between South Korean and Norwegian port officials.
+
+### We must begin preparations for the revival of the Arctic route
+
+Earlier this year, [a delegation from Busan Port visited Tromsø and signed a memorandum of understanding focused on Arctic shipping cooperation](https://en.highnorthnews.com/politics/busan-port-delegation-visits-tromso-as-south-korea-eyes-arctic-shipping-routes/1108100), port development and logistics coordination as Seoul examined opportunities linked to future NSR traffic.
+
+Officials in Tromsø have increasingly promoted the city as a gateway port for Arctic shipping, emphasizing its ice-free harbor, growing logistics infrastructure and location near the entrance to the Barents Sea.
+
+South Korea’s trial voyage will require close coordination with Russia, which administers permits for vessel transits through the Northern Sea Route.
+
+Acting Minister of Oceans and Fisheries Kim Sung-beom said the government plans to begin consultations with Moscow still during the first half of 2026 regarding the necessary transit approvals and operational arrangements.
+
+A public call for proposals for the Arctic test voyage was issued on April 27, 2026. The tender sought an operator capable of providing a Polar Code-compliant ice-class container vessel for the round-trip service between South Korea and Europe.
+
+### Finding a vessel for the voyage
+
+Panstar Line has yet to acquire the vessel intended for the mission. Officials said the ship must have ice-class certification and capacity of approximately 3,000 TEU while meeting International Maritime Organization Polar Code requirements for Arctic operations.
+
+The operator currently provides service between ports in South Korea, Japan, and China.
+
+Because of the time required for vessel procurement, certification and operational approvals, officials estimate the voyage is unlikely to depart before August, with September considered the most realistic launch window.
+
+The pilot project will receive financial support through KSA, preferential vessel financing from KOBC and reduced port fees [intended to encourage participation in the costly Arctic initiative](https://en.highnorthnews.com/politics/south-korea-to-subsidize-construction-of-ice-class-vessels-and-expand-port-in-support-of-arctic-shipping/156258).
+
+“Given the instability of maritime supply chains due to the situation in the Middle East, we must begin preparations for the revival of the Arctic route now, viewing it as a long-term project to provide alternative routes for the import, export, and transportation of energy resources. We expect the pilot project in 2026 to be the first step toward achieving this goal,” a KOBC representative said.
+
+### South Korea continues Arctic push
+
+The initiative forms [part of a wider South Korean push to strengthen Busan’s role in Arctic logistics](https://en.highnorthnews.com/politics/south-korea-advances-arctic-shipping-push-with-new-ports-and-governance-legislation/1110462). Seoul has also announced plans to relocate the Ministry of Oceans and Fisheries to Busan and [develop the port city into a stopover hub for vessels arriving from Arctic waters](https://en.highnorthnews.com/politics/south-korea-looking-to-transform-port-of-busan-into-arctic-shipping-gateway/213592).
+
+The Northern Sea Route, which runs along Russia’s Arctic coastline, can significantly reduce sailing times between Asia and Europe compared with the traditional Suez Canal route during navigable summer months.
+
+### Completed the Arctic transit in roughly 20 days
+
+China currently dominates Arctic container shipping activity. Chinese operators completed 14 Arctic container voyages last year, including the first direct China-Europe liner service operated by Sea Legend.
+
+Its vessel Istanbul Bridge completed the Arctic transit in roughly 20 days, demonstrating the route’s commercial potential amid ongoing instability affecting global shipping lanes through the Red Sea and Middle East.
+
+While Arctic container shipping remains seasonal and operationally challenging due to ice conditions, insurance costs and limited infrastructure, growing geopolitical interest in alternative trade corridors is increasing attention on northern routes and ports positioned to support them.
+
+For Tromsø, the planned South Korean stopover could further cement the city’s role as one of Europe’s most strategically placed Arctic logistics hubs as commercial traffic through the High North gradually expands.

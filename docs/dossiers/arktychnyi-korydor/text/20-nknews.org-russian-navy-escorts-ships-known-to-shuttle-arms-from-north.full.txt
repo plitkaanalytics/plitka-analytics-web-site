@@ -1,0 +1,346 @@
+URL:         https://www.nknews.org/pro/russian-navy-escorts-ships-known-to-shuttle-arms-from-north-korea-japan/
+Кінцевий:    https://www.nknews.org/pro/russian-navy-escorts-ships-known-to-shuttle-arms-from-north-korea-japan/
+Заголовок:   Russian navy escorts ships known to shuttle arms from North Korea: Japan | NK PRO
+Дата публ.:  2026-05-21
+Завантажено: 2026-10-06 12:22 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 147731
+Оригінал:    raw/20-nknews.org-russian-navy-escorts-ships-known-to-shuttle-arms-from-north.html
+sha256:      171e9c747b1cdcad91515bbfdd9a045a0d450f96070ed54985aef921686140dd
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 50
+==============================================================================
+Russian navy escorts ships known to shuttle arms from North Korea: Japan | NK PRO
+The ultimate resources for professionals working on North Korea
+The Angara and Lady R, Russian cargo vessels known to smuggle arms out of North Korea, as spotted near Japan in May 2026 | Images: Japan's Joint Staff, edited by NK Pro
+that two Russian warships and two navy logistical vessels sailed through the Tsushima Strait alongside six Russian cargo vessels on May 9-10, before passing Iriomote Island near Taiwan on May 12-13.
+A map showing the route taken by Russian warships and cargo carriers through the Tsushima Strait and to Iriomote Island between May 9-13, 2026 | Image: Japan’s Joint Staff, edited by NK Pro
+The Russian corvette Sovershenny seen passing Japan (top) in May 2026 and in Vladivostok in Feb. 2026 | Images: Japan’s Joint Staff, Russia’s Defense Ministry, edited by NK Pro
+The Russian corvette Rezkiy seen passing Japan (top) in May 2026 and in the South China Sea in April 2026 | Images: Japan’s Joint Staff, Russia’s Defense Ministry, edited by NK Pro
+The Russian navy tugboat Andrey Stepanov near Japan in May 2026 and in Vladivostok in March 2026 | Images: Japan’s Joint Staff, Russia’s Defense Ministry, edited by NK Pro
+The Russian navy oiler Pechenga near Japan in May 2026 and in the South China Sea in Nov. 2024 | Images: Japan’s Joint Staff, Russia’s Defense Ministry, edited by NK Pro
+also identified the six cargo vessels as the Angara (IMO 9179842), Lady R (IMO 9161003), Maia-1 (IMO 9358010), Lady Mariia (IMO 9220641), Kapitan Danilkin (IMO 8406729) and Lady D (IMO 9349289).
+The Angara and Lady R, Russian cargo vessels known to smuggle arms out of North Korea, seen near Japan in May 2026 | Images: Japan’s Joint Staff, edited by NK Pro
+Russian cargo vessels Maia-1 (also previously known to smuggle arms from North Korea) and Lady Mariia as seen near Japan in May 2026 | Images: Japan’s Joint Staff, edited by NK Pro
+Russian cargo vessels Kapitan Danilkin and Lady D as seen near Japan in May 2026 | Images: Japan’s Joint Staff, edited by NK Pro
+that the vessels’ departure from the Sea of Japan (East Sea), which include three ships directly implicated in DPRK-Russia arms transfers, mark a reconfiguration of the
+that stems as far back as 2023.
+The location of the Maia-1, Lady D, Kapitan Danilkin and Lady Mariia near Vietnam as of May 21, 2026 after sailing from the environs of Vladivostok | Image: MarineTraffic, edited by NK Pro
+The location of the Maia-1, Lady D and Kapitan Danilkin near Vietnam for an unknown reason on May 18, 2026 | Image: MarineTraffic, edited by NK Pro
+since dropping out of the scheme in 2024, including recently near Port Vostochny, where it set sail from the area with the other vessels on May 7.
+analysis of low-resolution Planet Labs imagery shows that the ship’s proportions match the 113-meter-long
+(IMO 8517839) that had frequented Rason until 2025. The vessel saw a three-day gap in its transmissions east of the DPRK between May 9-12 — long enough for a quick stop at Rason.
+The suspected Maria freighter seen as docked at Rason on May 12, 2026 | Image: Planet Labs, edited by NK Pro
+Rason after the Maria’s departure, with this satellite image showing the disappearance of containers from the pier where berthed days earlier, suggesting a cargo pick up | Image: Planet Labs, edited by NK Pro
+The Maria’s geolocation broadcasts near the eastern coast of the DPRK showing a three-day gap between May 9-12, 2026 | Image: MarineTraffic, edited by NK Pro
+off Spain in 2024 may have required the warship escort, he said.
+of shipping arms for Moscow — which controls the Maia-1, Lady Mariia and Lady D.
+that own the Angara and Lady R, respectively, are also under U.S. sanctions.
+The remaining vessels in the group (Lady Mariia, Lady D and Kapitan Danilkin) have visited multiple foreign ports over the past year, popping up in the Persian Gulf, India, Myanmar and China before reaching Vladivostok and sailing towards Vietnam in May 2026 | Image: MarineTraffic, edited by NK Pro
+are subject to U.S. restrictions as part of measures against their owner, a logistics provider of Russia’s defense sector.
+No part of this content may be reproduced, distributed, or used for
+commercial purposes without prior written permission from Korea Risk
+How North Korea’s newest ‘hypersonic’ missile could foil adversary defenses
+Crossing the Yalu: Why China and North Korea want to open long-stalled bridge
+A decade apart, two DMZ mine blasts highlight a new inter-Korean reality
+Chinese authorities seize smuggled goods bound for North Korea: records
+Likely Russian ship docks in North Korea’s Rason port for first time since May
+Trump doesn’t need a grand deal with Kim, but rather small coordinated actions
+North Korean trade with China rises 3.7% in August thanks to wig exports: data
+North Korea tensions expose Seoul’s uneasy relationship with UN Command
+North Korea upgraded coastal missile site ahead of recent test launches: Imagery
+North Korea in September 2026: A month in review and what’s ahead
+Anton Sokolin is the data correspondent at
+and the Korea Trade Promotion Corporation (KOTRA).
+(NK Consulting Inc.). All Rights Reserved
+research tools, and unique data sets
+PLEASE USE A DIFFERENT WEB BROWSER
+Internet Explorer is not compatible with this website. We instead recommend using Chrome, Edge, Firefox or Safari.
+Why are we not supporting Internet Explorer?
+Microsoft ceased supporting IE 10 and older in 2016.
+In addition, Microsoft cyber-security chief Chris Jackson has been urging users to stop using the browser since February 2019.
+Location of your Mastodon instance:
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Russian navy escorts ships known to shuttle arms from North Korea: Japan | NK PRO
+October 06, 2026
+Oct 06, 2026
+KCNA
+Watch
+Korea
+Pro
+News & Analysis
+News
+Analysis
+Investigations
+Timelines
+State Media Review
+Research Tools
+Delegation Tracker
+Flight Tracker
+Leadership Tracker
+Leadership Map
+Marine Tracker
+Missile Tracker
+Sanctions Tracker
+Trade Data
+Exchange Rate
+Energy Index
+Databases
+Company Directory
+Foreign Organizations
+Expert Directory
+Document Directory
+Weapon Directory
+NK Aggregator
+Aggregator
+Sources
+Advanced Search
+Create Chart
+Month in Review
+Topics
+Aviation
+Business
+Companies
+Culture
+Cyber
+Defector Issues
+Economy
+Foreign Relations
+History
+Human Security / Human Rights
+Inter-Korean
+Leadership
+Military Affairs
+Misc.
+Missiles
+Sanctions
+Shipping
+Trade Data
+WMD
+Events
+Events Calendar
+Book a private briefing
+Suggest a topic
+Sign in
+Sign up
+News & Analysis
+News
+Analysis
+Investigations
+Timelines
+State Media Review
+Research Tools
+Delegation Tracker
+Flight Tracker
+Leadership Tracker
+Leadership Map
+Marine Tracker
+Missile Tracker
+Sanctions Tracker
+Trade Data
+Exchange Rate
+Energy Index
+Databases
+Company Directory
+Foreign Organizations
+Expert Directory
+Document Directory
+Weapon Directory
+NK Aggregator
+Aggregator
+Sources
+Advanced Search
+Create Chart
+Month in Review
+Topics
+Aviation
+Business
+Companies
+Culture
+Cyber
+Defector Issues
+Economy
+Foreign Relations
+History
+Human Security / Human Rights
+Inter-Korean
+Leadership
+Military Affairs
+Misc.
+Missiles
+Sanctions
+Shipping
+Trade Data
+WMD
+Events
+Events Calendar
+Book a private briefing
+Suggest a topic
+Sign in
+Sign up
+The ultimate resources for professionals working on North Korea
+Analysis
+Russian navy escorts ships known to shuttle arms from North Korea: Japan
+Exodus of sanctioned freighters alongside military convoy heralds change in Moscow-Pyongyang arms trade, experts say
+Anton Sokolin
+May 21, 2026
+SHARE
+COPY LINK
+FACEBOOK
+X
+LINKEDIN
+MASTODON
+PRINT
+The Angara and Lady R, Russian cargo vessels known to smuggle arms out of North Korea, as spotted near Japan in May 2026 | Images: Japan's Joint Staff, edited by NK Pro
+Russian warships escorted sanctioned cargo vessels known to have smuggled arms from North Korea to the Russian Far East, according to Japan, with experts saying the move signals a major shift in Pyongyang and Moscow’s weapons trade.
+Japan’s Joint Staff reported on
+May 12
+and
+14
+that two Russian warships and two navy logistical vessels sailed through the Tsushima Strait alongside six Russian cargo vessels on May 9-10, before passing Iriomote Island near Taiwan on May 12-13.
+A map showing the route taken by Russian warships and cargo carriers through the Tsushima Strait and to Iriomote Island between May 9-13, 2026 | Image: Japan’s Joint Staff, edited by NK Pro
+The Russian corvette Sovershenny seen passing Japan (top) in May 2026 and in Vladivostok in Feb. 2026 | Images: Japan’s Joint Staff, Russia’s Defense Ministry, edited by NK Pro
+The Russian corvette Rezkiy seen passing Japan (top) in May 2026 and in the South China Sea in April 2026 | Images: Japan’s Joint Staff, Russia’s Defense Ministry, edited by NK Pro
+The Russian navy tugboat Andrey Stepanov near Japan in May 2026 and in Vladivostok in March 2026 | Images: Japan’s Joint Staff, Russia’s Defense Ministry, edited by NK Pro
+The Russian navy oiler Pechenga near Japan in May 2026 and in the South China Sea in Nov. 2024 | Images: Japan’s Joint Staff, Russia’s Defense Ministry, edited by NK Pro
+The Japanese military identified the warships by their hull numbers (333, 343) and listed them as “Steregushchiy-class guided-missile frigates,” but without additional details.
+The hull numbers correspond to the Russian corvettes Sovershennyy and Rezkiy, both recent additions to the Pacific Fleet. They were accompanied by the tug Andrey Stepanov (IMO 9801146) and the oiler Pechenga (IMO 7710977), according to
+NK Pro
+analysis of Tokyo’s images.
+NK Pro
+also identified the six cargo vessels as the Angara (IMO 9179842), Lady R (IMO 9161003), Maia-1 (IMO 9358010), Lady Mariia (IMO 9220641), Kapitan Danilkin (IMO 8406729) and Lady D (IMO 9349289).
+The Angara and Lady R, Russian cargo vessels known to smuggle arms out of North Korea, seen near Japan in May 2026 | Images: Japan’s Joint Staff, edited by NK Pro
+Russian cargo vessels Maia-1 (also previously known to smuggle arms from North Korea) and Lady Mariia as seen near Japan in May 2026 | Images: Japan’s Joint Staff, edited by NK Pro
+Russian cargo vessels Kapitan Danilkin and Lady D as seen near Japan in May 2026 | Images: Japan’s Joint Staff, edited by NK Pro
+Experts told
+NK Pro
+that the vessels’ departure from the Sea of Japan (East Sea), which include three ships directly implicated in DPRK-Russia arms transfers, mark a reconfiguration of the
+illicit weapons trade
+that stems as far back as 2023.
+OBVIOUS CHANGE
+Over the past three years, the Angara, Lady R and Maia-1 were observed picking up containers of suspected munitions at the DPRK port of Rason for delivery to Russia’s Vostochny Port. The Lady R most recently
+docked
+at Rason on April 21.
+Katsu Furukawa, a former member of the U.N. Panel of Experts, said he observed “obvious changes” to the vessels, as they left their normal area of operations under Russian navy escort.
+“The fleet of six vessels is unusual and the amounts of the sensitive cargo may likely be impressive,” he said, suggesting that the vessels could be carrying a limited load in their holds, given the absence of bulk cargo or containers visible in Tokyo’s photos.
+Furukawa said the flotilla likely has a long voyage ahead, given the presence of a “Dubna-class replenishment ship and the Balk-class ocean-going tug,” normally used for “long-range deployments for an extended period of time.”
+“Depending on their destinations, it will become clear whether they are transporting DPRK weapons to war zones in the West or exporting Russian weapons to its customers,” Furukawa said, suggesting Ukraine’s recent drone strikes may have pushed Moscow to transport cargo from Asia by sea instead of rail.
+As of Thursday, the group sailed roughly 170 to 200 nautical miles southeast of Vietnam, according to the Maia-1, Lady D, Lady Mariia and Kapitan Danilkin’s geolocation broadcasts via MarineTraffic. None of the four ships transmitted their future ports of call.
+The location of the Maia-1, Lady D, Kapitan Danilkin and Lady Mariia near Vietnam as of May 21, 2026 after sailing from the environs of Vladivostok | Image: MarineTraffic, edited by NK Pro
+The location of the Maia-1, Lady D and Kapitan Danilkin near Vietnam for an unknown reason on May 18, 2026 | Image: MarineTraffic, edited by NK Pro
+The Angara and Lady R, which have mostly handled Rason deliveries in recent years, continued sailing with their transponders off. However, the Maia-1 has been
+transmitting globally
+since dropping out of the scheme in 2024, including recently near Port Vostochny, where it set sail from the area with the other vessels on May 7.
+The voyage past Japan came as another likely Russian vessel appeared to be docked at Rason on May 12.
+NK Pro
+analysis of low-resolution Planet Labs imagery shows that the ship’s proportions match the 113-meter-long
+Maria
+(IMO 8517839) that had frequented Rason until 2025. The vessel saw a three-day gap in its transmissions east of the DPRK between May 9-12 — long enough for a quick stop at Rason.
+The suspected Maria freighter seen as docked at Rason on May 12, 2026 | Image: Planet Labs, edited by NK Pro
+Rason after the Maria’s departure, with this satellite image showing the disappearance of containers from the pier where berthed days earlier, suggesting a cargo pick up | Image: Planet Labs, edited by NK Pro
+The Maria’s geolocation broadcasts near the eastern coast of the DPRK showing a three-day gap between May 9-12, 2026 | Image: MarineTraffic, edited by NK Pro
+Ryo Hinata-Yamaguchi of Tokyo International University agreed with Furukawa that the voyage may signal a “reconfiguration in the supply chain between North Korea and Russia,” possibly due to the need to use these vessels on other routes.
+Pointing to the military escort, he suggested that the vessels either carry or plan to load valuable cargo that Russia is not willing to leave unprotected. Security concerns similar to those faced by the Russian shadow fleet freighter
+Ursa Major
+before it
+sank
+off Spain in 2024 may have required the warship escort, he said.
+The experts also raised the possibility that the vessels are practicing naval convoy operations, with Russian corvettes serving as a deterrent against torpedo attacks, boarding or seizure by hostile states.
+Hinata-Yamaguchi suggested that Russia’s reduced reliance on North Korean weaponry may have contributed to the vessels’ temporary repurposing, but stressed this does not mean they have been permanently “taken out of operations with North Korea by any means.”
+After another assignment, the vessels could still pass through North Korea on their way back, he added.
+SANCTIONS
+The three vessels in question are under numerous international sanctions over their involvement in arms deliveries for Russia, including restrictions imposed by the
+U.S.
+,
+EU
+,
+South Korea
+and
+Japan
+.
+They also belong to sanctioned entities, including MG Flot — a Russian firm formerly known as TransMorFlot and
+accused
+of shipping arms for Moscow — which controls the Maia-1, Lady Mariia and Lady D.
+M Leasing
+and
+Sovfracht
+that own the Angara and Lady R, respectively, are also under U.S. sanctions.
+The Kapitan Danilkin belongs to Murmansk Shipping, an entity not found on international sanctions lists.
+The remaining vessels in the group (Lady Mariia, Lady D and Kapitan Danilkin) have visited multiple foreign ports over the past year, popping up in the Persian Gulf, India, Myanmar and China before reaching Vladivostok and sailing towards Vietnam in May 2026 | Image: MarineTraffic, edited by NK Pro
+While not known to have participated in the Rason operation, the
+Lady Mariia
+and
+Lady D
+are subject to U.S. restrictions as part of measures against their owner, a logistics provider of Russia’s defense sector.
+Edited by David Choi
+Military affairs
+Missiles
+Sanctions
+Shipping
+WMD
+© Korea Risk Group. All rights reserved.
+No part of this content may be reproduced, distributed, or used for
+			commercial purposes without prior written permission from Korea Risk
+			Group.
+LATEST ANALYSIS
+01
+How North Korea’s newest ‘hypersonic’ missile could foil adversary defenses
+02
+Crossing the Yalu: Why China and North Korea want to open long-stalled bridge
+03
+A decade apart, two DMZ mine blasts highlight a new inter-Korean reality
+04
+Chinese authorities seize smuggled goods bound for North Korea: records
+05
+Likely Russian ship docks in North Korea’s Rason port for first time since May
+06
+Trump doesn’t need a grand deal with Kim, but rather small coordinated actions
+07
+North Korean trade with China rises 3.7% in August thanks to wig exports: data
+08
+North Korea tensions expose Seoul’s uneasy relationship with UN Command
+Similar Articles
+North Korea upgraded coastal missile site ahead of recent test launches: Imagery
+How North Korea’s newest ‘hypersonic’ missile could foil adversary defenses
+North Korea in September 2026: A month in review and what’s ahead
+About the Author
+Anton Sokolin
+Anton Sokolin is the data correspondent at
+NK News
+. He previously worked at
+Reuters
+,
+TASS
+and the Korea Trade Promotion Corporation (KOTRA).
+VIEW MORE ARTICLES BY
+							Anton Sokolin
+EMAIL
+Got
+								a news tip?
+Let us know!
+About
+Contact
+FAQ
+Mobile Apps
+Privacy Policy
+Terms & Conditions
+T&C
+© 2026,
+Korea Risk Group
+(NK Consulting Inc.). All Rights Reserved
+Specialist news and analysis,
+research tools, and unique data sets
+PLEASE USE A DIFFERENT WEB BROWSER
+Internet Explorer is not compatible with this website. We instead recommend using Chrome, Edge, Firefox or Safari.
+Why are we not supporting Internet Explorer?
+Microsoft ceased supporting IE 10 and older in 2016.
+In addition, Microsoft cyber-security chief Chris Jackson has been urging users to stop using the browser since February 2019.
+Location of your Mastodon instance:
+Continue
+×
+×

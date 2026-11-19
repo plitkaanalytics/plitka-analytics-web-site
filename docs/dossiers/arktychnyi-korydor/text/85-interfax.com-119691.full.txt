@@ -1,0 +1,94 @@
+URL:         https://interfax.com/newsroom/top-stories/119691/
+Кінцевий:    https://interfax.com/newsroom/top-stories/119691/
+Заголовок:   Transit via Northern Sea Route expected to set new record in 2026, top 7 mln t
+Дата публ.:  2026-10-27
+Завантажено: 2026-11-07 17:55 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 29616
+Оригінал:    raw/85-interfax.com-119691.html
+sha256:      ef1308afb3bac552550d9a3880bf0a34b071195df12ac10d82dbff222b2c70a1
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 4
+==============================================================================
+International Information Group
+Oil & Gas - Downstream activities
+News and other data on this site are provided for information purposes only, and are not intended for republication or redistribution. Republication or redistribution of Interfax content, including by framing or similar means, is expressly prohibited without the prior written consent of Interfax.
+©   1991—2026   “Interfax Information Group” www.interfax.com. All rights reserved.
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Transit via Northern Sea Route expected to set new record in 2026, top 7 mln t - Rosatom
+International Information Group
+Trial
+Login
+About Us
+Products
+Newsroom
+Contact Us
+Products
+Due Diligence & KYC
+Reputational Risk
+News Products
+Newsroom
+Top Stories
+Exclusive Interviews
+About Us
+Products
+Due Diligence & KYC
+Reputational Risk
+News Products
+Newsroom
+Top Stories
+Exclusive Interviews
+Contact Us
+REQUEST A DEMO
+login
+Home
+>
+Newsroom
+>
+Top Stories
+>
+Transit via Northern Sea Route expected to set new record in 2026, top 7 mln t - Rosatom
+Top Stories
+27 Oct 2026 10:12
+Transit via Northern Sea Route expected to set new record in 2026, top 7 mln t - Rosatom
+MOSCOW. Oct 27 (Interfax) - Transit cargo shipments along the Northern Sea Route (NSR) will almost double to a new record of more than 7 million tonnes in 2026, the head of the Arctic Directorate and director of NSR and Arctic development at state corporation Rosatom, Vladimir Panov said in an interview with Interfax.
+Overall cargo shipments along this route will also set a new record and exceed 40 million tonnes this year, Rosatom expects.
+"The Northern Sea Route has two competitive advantages - efficiency and security. In the summer-fall season the route from Asia to Europe is 30% shorter than the route through the Suez Canal. For cargo shippers, this means lower charter expenses and higher product turnover. Businesses are already voting for the NSR with tonnes. In 2026 overall cargo traffic along the route, according to our expectations, will exceed a record 40 million tonnes," Panov said.
+"I'd also like to separately note transit cargo traffic, meaning cargo that passes through the NSR but is not extracted in the Arctic. This year transit will also set a new record. We will very likely ship more than 7 million tonnes. This will already make it possible to unequivocally talk about a breakthrough - transit cargo traffic will virtually double compared to last year," Panov said.
+Containerized cargo traffic is also growing within the context of transit, with the number of transit container shipments doubling to 46 this year from 23 in 2025 and the volume of international containerized cargo transit shipments set to reach a new record of more than 600,000 tonnes, he said.
+International (Foreign)Trade
+Northern Sea Route
+Oil & Gas - Downstream activities
+Results
+Russia
+Transit
+Transport
+Interfax Group
+Who We Are
+Products
+Due Diligence & KYC
+Reputational Risk
+News Products
+Newsroom
+Top Stories
+Exclusive Interviews
+Contact Us
+Privacy Policy
+Interfax Group
+Who We Are
+Products
+Due Diligence & KYC
+Reputational Risk
+News Products
+Newsroom
+Top Stories
+Exclusive Interviews
+Contact Us
+Privacy Policy
+News and other data on this site are provided for information purposes only, and are not intended for republication or redistribution. Republication or redistribution of Interfax content, including by framing or similar means, is expressly prohibited without the prior written consent of Interfax.
+©   1991—2026   “Interfax Information Group” www.interfax.com. All rights reserved.

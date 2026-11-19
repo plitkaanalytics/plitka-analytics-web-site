@@ -1,0 +1,25 @@
+URL:         https://interfax.com/newsroom/top-stories/69741/
+Кінцевий:    https://web.archive.org/web/20200903061345id_/https://interfax.com/newsroom/top-stories/69741/
+Заголовок:   Northern Fleet Arctic expedition discovers new strait off coast of Novaya Zemlya
+Дата публ.:  2020-08-31
+Завантажено: 2026-10-06 12:32 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 33608
+Оригінал:    raw/30-interfax.com-69741.html
+sha256:      1b9e2ff02169b07a291087b92d46a3a95fc31ff4c76129ab789ad4e495123734
+Витяг:       trafilatura
+Примітка:    оригінал недоступний (502), узято з Wayback
+
+==============================================================================
+## Northern Fleet Arctic expedition discovers new strait off coast of Novaya Zemlya
+
+MOSCOW. Aug 31 (Interfax) - A comprehensive expedition of the Northern Fleet and the Russian Geographic Society has registered the formation of a new strait off the coast of Novaya Zemlya archipelago in the area of the Zherdi Peninsula, the Northern Fleet press service said on Monday.
+
+"The Northern Fleet sailors found that an island had separated from the Zherdi Peninsula and therefore a new strait had formed. The new geographic objects were put on maps, registered in the GPS system, measured and photographed," the report said.
+
+The expedition participants, who circled the archipelago on an MB-12 sea tug over three weeks, made a number of historical findings. They include a body cross and a piece of 18th century jewelry that belonged to the first explorers of Novaya Zemlya. The artifacts will go to the St. Petersburg Museum of the Arctic and the Antarctic.
+
+"A Soviet-era fishing house was found on Lomonosov Cape. Household objects, cartridges and animal bones were found around it. The camp on Pakhtusov Island also brought new findings. Two houses, a warehouse, a bathhouse and four graves were found. Two anchors, household items and fishing gear were also found on the coast," the fleet said.
+
+The explorers' work was complicated by difficult weather conditions and several landings on the coast were cancelled because there were polar bears there, the report said.
+
+"In the near future, all participants in the first unit of the comprehensive expedition will take the transport Yauza and will head to the main base of the Northern Fleet, Severomorsk," the Northern Fleet said in a report.

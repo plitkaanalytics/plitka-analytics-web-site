@@ -1,0 +1,56 @@
+URL:         https://www.thebarentsobserver.com/security/seaice-caused-trouble-for-russian-warships/421162
+Кінцевий:    https://www.thebarentsobserver.com/security/seaice-caused-trouble-for-russian-warships/421162
+Заголовок:   Sea-ice caused trouble for Russian warships
+Дата публ.:  2024-11-22
+Завантажено: 2026-10-06 12:30 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 132559
+Оригінал:    raw/27-thebarentsobserver.com-421162.html
+sha256:      70962451bf4f535b31d71ee0d31ff05f1b8c2329e79bd42e0bbf7be506d50036
+Витяг:       trafilatura
+
+==============================================================================
+# Sea-ice caused trouble for Russian warships
+
+Russia is developing a fleet of naval icebreakers. But none of them took part in the Northern Fleet's expedition that this fall experienced great difficulties in navigating across the Northern Sea Route.
+
+Three vessels from Russia's Northern Fleet in early August set out from the Kola Bay with course for icy Arctic waters. A destroyer, a landing ship and an oil tanker sailed more than 11,000 nautical miles across the whole Northern Sea Route before they returned to base about 2,5 months later.
+
+It was the longest and most comprehensive Arctic voyage of the kind ever for the Northern Fleet, Vice-Admiral and Deputy Commander of the Northern Fleet Oleg Golubyev says in an [interview](https://vk.com/doc326911772_684263479?hash=OeYvDTgPJf9beUbajbV869dvWVFky8RkCS5rIGrD7gX&dl=sTFYbeFKqSBAPGw4ST87gru1GfJPBTpXsQGJE3k7rok ) to military newspaper Na Strazhe Zapolyarya.
+
+The vessels made it all the way to Egvekinot on the Bering Sea coast. Underway, more than 80 exercises were held, some of them as part of exercise Ocean-24 together with the Russian Pacific Fleet.
+
+It was the 13th Arctic Northern Fleet expedition of the kind. Vice-Admiral Golubyev has taken part in all of them.
+
+According to experienced navy chief, it was not the extensive training that constituted the most challenging part of this year's expedition. It was the sea-ice that caused trouble.
+
+"The ice situation complicated the mission," he admits.
+
+Russia is in the process of building a fleet of naval icebreakers, and two powerful ships are already in operation. But neither the Ilya Muromets or Yevpaty Kolovrat were part of the expedition. Two more ships, the Ivan Papanin and the Nikolay Zubov, are due to be commissioned in 2025 and 2026.
+
+Consequently, the three Northern Fleet vessels sailed without icebreaker support. On one occasion, Golubyev and the ship captains had to contact nuclear icebreaker operator Rosatom for assistance.
+
+"I would of course have wanted more ships that are adjusted to operations in the Arctic, but we are for now fine with what we have," the vice-admiral says to the newspaper.
+
+The Northern Fleet sailors encountered heavy sea-ice first of all in the Long Strait, the waters between the Wrangle Island and the mainland, and the sheet stretched all the way to the Bering Strait.
+
+"In order not to subject ourselves to additional danger in the fragmented sea-ice during night time, we this year applied a new approach - to lay adrift until the next day," Golubyev explains.
+
+"Then, with the help of sea-ice reconnaissance, we could identify a safe route and follow it."
+
+The sailors had two helicopters at their disposal and these were actively applied for the ice reconnaissance.
+
+"Reconnaissance was conducted twice every day, in the morning and before sunset. Afterwards, when it become absolutely dark and dangerous to sail in the sea-ice, we simply lay adrift," he says.
+
+Although major parts of the waters along the Northern Sea Route have been mapped, there are still areas that need further survey. The processes connected with formation and melting of sea-ice are affecting also the water depths, Golubyev explains.
+
+"The difference in depths can be up to three meters from what is displayed on the map," he says.
+
+The vice-admiral underlines that the Russian Navy now is actively training captains and navigators for sailing in Arctic waters and praises cooperation with Rosatom and the Arctic and Antarctic Research Institute (AARI).
+
+According to Golubyev, the Russian Navy's most experienced and well-trained Arctic navigator is Igor Molchanov, the captain of tanker Sergei Osipov.
+
+"He knows everything and can do everything, he is able to independently sail in the Arctic," he says.
+
+Despite the higher focus on Arctic navigation, Golubyev regrets that many of the well-trained experts and crew members are moved to other positions, which means that new crews constantly need to be trained.
+
+Oleg Vyacheslavovich is Deputy Commander of the Northern Fleet and has worked almost 20 years in the Russian Navy. He is a member of the Russian Geographical Society and has extensive experiences from sailing in the Arctic. His two sons are following in his footsteps. The oldest is commander of a nuclear submarine and his youngest - commander of a submarine battle unit.

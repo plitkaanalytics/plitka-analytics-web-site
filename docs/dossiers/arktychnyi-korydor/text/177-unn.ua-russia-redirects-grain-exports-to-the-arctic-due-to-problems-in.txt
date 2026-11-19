@@ -1,0 +1,43 @@
+URL:         https://unn.ua/en/news/russia-redirects-grain-exports-to-the-arctic-due-to-problems-in-the-black-sea-ft
+Кінцевий:    https://unn.ua/en/news/russia-redirects-grain-exports-to-the-arctic-due-to-problems-in-the-black-sea-ft
+Заголовок:   Russia redirects grain exports to the Arctic due to problems in the Black Sea - FT
+Дата публ.:  2026-11-01
+Завантажено: 2026-11-08 06:41 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 288532
+Оригінал:    raw/177-unn.ua-russia-redirects-grain-exports-to-the-arctic-due-to-problems-in.html
+sha256:      fec0ee35780c670595815429ee4cd259f0f00c0f653d09ab4c7cc506495d2ab8
+Витяг:       trafilatura
+
+==============================================================================
+# Russia redirects grain exports to the Arctic due to problems in the Black Sea - FT
+
+**Kyiv** • **UNN**
+
+Due to disruptions at Black Sea ports, Russia is testing wheat shipments through Murmansk. More expensive logistics are hitting farmers and buyers.
+
+Russia is testing a new grain export route through the Arctic port of Murmansk due to serious disruptions in the operation of Black Sea ports. The alternative logistics increase transportation costs and create problems for farmers and buyers. This is [reported](https://www.ft.com/content/50aeab56-c5e3-44c5-9117-8fadc2f980fb?syn-25a6b1a6=1) by the Financial Times, according to **UNN.**
+
+## Details
+
+Russia is testing grain exports through the Arctic port of Murmansk, located thousands of kilometers from the farms where the grain is grown, as a Ukrainian drone campaign has practically severed its traditional route through the Black Sea. According to the port’s Telegram channel, a bulk carrier in Murmansk began loading 29,500 tonnes of wheat on Wednesday for a trial shipment to buyers in North Africa, adapting equipment normally used to handle fertilizer for grain. This extraordinary detour illustrates how the escalating struggle for control of the Black Sea has upended trade between Russia, the world’s largest wheat exporter, and Ukraine, another major supplier, despite relatively high harvests in both countries
+
+
+According to the publication, the trial Arctic shipment is the first of its kind, but Moscow is already exporting through ports on the Baltic Sea.
+
+The main issue is not simply whether we can redirect a certain volume. The point is that logistics will cost significantly more than transportation through the Azov–Black Sea basin, and someone will have to cover the difference
+
+
+According to Rusagrotrans, Russian wheat exports fell by 38% from July to September compared with last year. At the same time, freight rates on some Black Sea routes have more than doubled since mid-July, forcing importers to look for alternatives.
+
+Exporters are turning to increasingly inventive solutions. Some vessels travel inland from the Sea of Azov, up the Don and through the Volga–Don Canal to the Caspian Sea and buyers in Iran. Others use containers to transfer grain from railway cars onto vessels at terminals without traditional bulk-loading facilities. But the alternatives cannot replace the southern ports. Zlochevsky estimated that Baltic terminals could compensate for no more than half of the lost transportation volumes in the Black Sea and Azov regions by the end of the year. According to him, the rush to the north has overloaded the railways, and railcars have accumulated at the terminals
+
+
+At the same time, the publication writes, logistics problems are also affecting Ukraine. Alternative routes through the Danube and neighboring EU countries can provide only about half of the usual agricultural export volumes. According to Agriculture Minister Taras Vysotskyi, such transportation adds at least $50 to the cost of transporting a tonne of produce. As a result, some Ukrainian farmers are forced to sell their harvest at a loss. Corn prices have fallen by almost 20% in three weeks.
+
+In Russia, producers in the southern regions are also receiving less because of difficult access to ports. According to Andrey Sizov, head of SovEcon, domestic prices, after falling in August and September, remain "tens of percent below production costs."
+
+According to the publication, many farmers cannot afford to hold on to their harvest until prices improve.
+
+## We remind you
+
+Ukrainian farmers have [harvested](https://unn.ua/news/v-ukraini-obmolotyly-72percent-prohnozovanykh-ploshch-zernovykh-yaki-oblasti-lidyruiut) 72% of the area and collected 41.7 million tonnes of grain. Odesa, Dnipropetrovsk and Mykolaiv regions lead in terms of acreage.

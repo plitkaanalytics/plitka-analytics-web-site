@@ -1,0 +1,54 @@
+URL:         https://gcaptain.com/arctic-ice-damages-tanker-as-russia-ramps-up-northern-sea-route-oil-shipments/
+Кінцевий:    https://gcaptain.com/arctic-ice-damages-tanker-as-russia-ramps-up-northern-sea-route-oil-shipments/
+Заголовок:   Arctic Ice Damages Tanker as Russia Ramps Up Northern Sea Route Oil Shipments
+Дата публ.:  2026-08-13
+Завантажено: 2026-10-08 05:03 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 236954
+Оригінал:    raw/63-gcaptain.com-arctic-ice-damages-tanker-as-russia-ramps-up-northern-sea.html
+sha256:      ba00900ec51d544ece6e76307cfd48a0c0e51fc58f7f0ba8033f7bcb9c4d5f39
+Витяг:       trafilatura
+
+==============================================================================
+A tanker suffered serious damage to its hull while navigating through Arctic sea ice despite being assisted by an icebreaker, highlighting the risks facing vessels using Russia’s Northern Sea Route as Moscow rapidly expands oil shipments through the Arctic.
+
+The news comes days after Moscow [dispatched an unprecedented convoy of sanctioned oil tankers to within 500 nautical miles of the North Pole](https://gcaptain.com/russia-sends-arctic-oil-tanker-shadow-fleet-within-500-nautical-miles-of-north-pole/) sending the fleet onto one of the most northerly commercial shipping routes ever attempted in the Arctic.
+
+The incident resulted in an insurance payout of 53 million rubles, roughly $650,000, according to Russian insurer AlfaStrakhovanie, which did not disclose the name of the vessel or its owner.
+
+The insurer said the tanker sustained hull deformation while navigating through ice and stressed that icebreaker assistance does not eliminate the physical risks associated with Arctic navigation.
+
+“Even with icebreaker assistance, navigation in Arctic waters is associated with increased hull stress and the risk of damage,” AlfaStrakhovanie said in a [company statement](https://www.alfastrah.ru/news/16344393/?utm_referrer=https%3A%2F%2Fwww.google.com%2F) (in Russian).
+
+The case comes as Russia is sending increasing volumes of crude oil through the Northern Sea Route. More than a [dozen tankers carrying about 8 million barrels of Russian crude were already en route](https://gcaptain.com/russia-assembles-unprecedented-arctic-oil-convoy-to-bypass-global-shipping-hotspots/) to Asia as of this week, more than half the volume shipped through the route during the entire 2025 season.
+
+The increase is turning the summer Arctic navigation season into an increasingly important export corridor for Russian oil, but it is also placing more conventional commercial tankers in an environment where even relatively limited ice can impose significant loads on a ship’s hull.
+
+AlfaStrakhovanie said its specialists investigated the incident, assessed the damage and calculated the insurance compensation before paying the shipowner the full amount.
+
+“Insuring marine risks along the Northern Sea Route requires a thorough understanding of vessel operating conditions and technical expertise when assessing damage,” said Alexandra Lavrova, head of marine insurance claims at AlfaStrakhovanie.
+
+“It is especially important to accurately determine the nature, timing and extent of the damage so that the shipowner can promptly arrange repairs and return the vessel to service,” she added.
+
+The insurer did not provide details about when or where the incident occurred, the tanker’s size or ice classification, or whether it was carrying crude oil or petroleum products.
+
+The absence of those details makes it impossible to determine how severe the ice conditions were or whether the vessel was operating close to the limits of its ice capabilities. But the case illustrates a fundamental challenge of Arctic shipping: an icebreaker can open a navigable channel but does not eliminate the stresses imposed on vessels following behind.
+
+In addition, ships traveling in convoy must maintain close enough distances to benefit from the icebreaker’s work while leaving sufficient room to respond to changes in speed or maneuverability.
+
+The lack of information about the incident comes as transparency around shipping on the Northern Sea Route has declined. In previous years, the Northern Sea Route Administration regularly published notices and reports detailing incidents and other developments along the route, while its website provided access to vessel permits and daily operational logs showing which ships were active in different sections of the route.
+
+In 2026, much of that information is no longer publicly available, including vessel permits and the daily logs tracking traffic along the route, making it increasingly difficult to independently monitor Arctic shipping activity and incidents.
+
+There is a history of incidents involving tankers operating in Arctic waters.
+
+In November 2015, [the product tankers ](https://gcaptain.com/crude-oil-tankers-divert-via-arctic-bypassing-red-sea-chaos/)*Svyatoy Petr *and *Svyatoy Pavel* collided in the Laptev Sea while traveling in an ice convoy behind the nuclear-powered icebreaker *Vaygach*. *Svyatoy Petr* lost propulsion and was unable to stop before striking *Svyatoy Pavel*. One vessel suffered damage to its stern bulwark while the other sustained a crack in its bow.
+
+An even earlier collision involved two larger oil tankers operating under icebreaker assistance. In July 2010, the *Indiga* and *Varzuga*, each carrying about 13,300 tons of diesel fuel, collided in difficult ice and poor visibility while traveling along the Northern Sea Route. Both vessels were accompanied by nuclear-powered icebreakers. Neither tanker lost seaworthiness and no oil spill was reported.
+
+In 2025, a non-ice-class Suezmax tanker, *Lynx*, [became stuck for several days after encountering sea ice in the East Siberian Sea](https://gcaptain.com/sanctioned-suezmax-oil-tanker-without-ice-protection-stuck-for-days-on-russias-arctic-northern-sea-route/) while carrying roughly 1 million barrels of Russian oil toward China. The vessel eventually proceeded with assistance from a nuclear-powered icebreaker.
+
+Other [tankers with limited or no ice protection have also increasingly appeared on the route](https://gcaptain.com/russian-shadow-fleet-lng-carrier-without-ice-class-stops-reverses-on-northern-sea-route-near-ice-edge/) during the summer navigation season, when retreating sea ice allows Russia to authorize vessels that could not operate there during more challenging periods.
+
+The Northern Sea Route can substantially shorten voyages between Russian Arctic oil terminals and Asian markets compared with routes through the Suez Canal or around Africa. Russia is also seeking to make greater use of the route as sanctions and geopolitical tensions reshape its energy trade.
+
+But the latest insurance claim provides a reminder that shorter Arctic voyages do come with greater operational risk.

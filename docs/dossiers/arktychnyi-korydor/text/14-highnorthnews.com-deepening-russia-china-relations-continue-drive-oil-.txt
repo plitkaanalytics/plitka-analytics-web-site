@@ -1,0 +1,54 @@
+URL:         https://www.highnorthnews.com/en/deepening-russia-china-relations-continue-drive-oil-gas-and-container-traffic-along-arctic-shipping
+Кінцевий:    https://en.highnorthnews.com/business/deepening-russia-china-relations-continue-to-drive-oil-gas-and-container-traffic-along-arctic-shipping-lane/180583
+Заголовок:   Deepening Russia-China Relations Continue to Drive Oil, Gas, and Container Traffic Along Arctic Shipping Lane
+Дата публ.:  2025-09-10
+Завантажено: 2026-10-06 12:22 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 229404
+Оригінал:    raw/14-highnorthnews.com-deepening-russia-china-relations-continue-drive-oil-.html
+sha256:      63e8ef8750e821d967d3fd8d0da565f246fc3c214c3ba556f11c3c70189d1f7f
+Витяг:       trafilatura
+
+==============================================================================
+business
+
+# 
+    #  Deepening Russia-China Relations Continue to Drive Oil, Gas, and Container Traffic Along Arctic Shipping Lane
+
+
+    Arctic transit shipping continues to be dominated by Russian-Chinese economic ties, a new CHNL analysis shows. Though an upcoming expansion of container service will bring Western European ports into the mix.
+
+A new [report](https://chnl.no/category/news/) by Norway’s Center for High North Logistics takes stock of Arctic traffic at the midway point of the shipping season. The analysis focuses on transit shipping traveling from Europe to Asia or vice versa. This type of[ traffic remains highly focused on Russia’s and China’s increasingly close business relations](https://www.highnorthnews.com/en/northern-sea-route-sees-lots-russian-traffic-no-international-transits-2022).
+
+Between the start of the summer navigation season in June and the end of August the experts at the CHNL recorded 52 transit voyages carrying approximately 1.3m tonnes of cargo. This compares to 48 voyages during the same period last year.
+
+The vast majority of cargo flows started and ended in either Russia or China.
+
+A few select voyages were also destined for South Korea, [which aims to start playing a larger role in Arctic shipping in the coming years](https://www.highnorthnews.com/en/south-korea-enter-arctic-shipping-pilot-operations-during-summer-2026).
+
+### Natural resources remain king
+
+Cargo flows along the route primarily focus on natural resources, including oil, gas and iron ore as well as container shipping.
+
+Russia continues to ship crude oil from its hub near Murmansk as well as from ports in the Baltic Sea to buyers in China. The report identified 13 oil tankers transiting the route carrying around 5.5m barrels of oil. The list of vessels also includes several tankers with no ice-class protection, an added safety risk when traveling through ice-infested Arctic waters. The majority of deliveries were destined for China.
+
+The route also saw transit gas shipments in the form of liquefied natural gas (LNG). Two LNG carriers departed from the Barents Sea. These were sanctioned shadow fleet vessels that had been idling in waters to the northeast of Norway during winter and spring waiting for clear passage to buyers in China.
+
+Bulk carrier traffic, transporting e.g. iron ore or coal, often sails under the radar compared to higher environmentally-risky shipments or sanctioned gas transport. But this category accounts for a significant share of traffic with around 290,000 tonnes. All of the traffic occurred between Russian and Chinese ports or within Russia itself.
+
+### Container Shipping to Europe
+
+Container shipping along the Northern Sea Route has been steadily on the rise over the last few years, although overall numbers remain small compared to global trade routes. China is the key driver to transit containers via the Arctic.
+
+Through August 31 the CHNL analysis has already recorded 10 container ship voyages carrying around 150,000 tonnes of cargo. The traffic remains concentrated between Chinese and Russian ports, frequently connecting St. Petersburg or Arkhangelsk with Shanghai and Qingdao.
+
+Though the first [Chinese container liner service to connect major Western European ports](https://www.highnorthnews.com/en/china-launches-18-day-arctic-express-containership-route-europe-stops-uk-germany-poland), including Rotterdam in the Netherlands and Hamburg in Germany, is scheduled to begin on September 20.
+
+Interestingly the majority of container ships transiting via the Arctic did not have any ice-class designation indicating that even conventional vessels can, at times during the height of summer, traverse the route.
+
+Additional traffic arose from general cargo ships and fishing vessels. Again almost all traffic occurred between Russian and Chinese destinations with the exception of small fishing vessels traveling to South Korea.
+
+The route continues to experience an imbalance in cargo flows heavily favoring the eastbound direction from Russia to China. The CHNL analysis shows that only 3 percent of the total cargo volume traveled in the opposite westbound direction.
+
+The upcoming months of September and October are peak shipping season in the Arctic before sea ice starts to return in November. Last year the route saw a total of 97 transits carrying 3.1m tonnes. Thus far the 2025 season is on track to match or slightly surpass last year’s figures.
+
+*CHNL is a university center at the Nord University Business School in Bodo. High North News is an independent newspaper published by the High North Center at the Nord university.*

@@ -1,0 +1,39 @@
+URL:         https://militarnyi.com/en/news/russian-tanker-asia-suffers-accident-arctic/
+Кінцевий:    https://militarnyi.com/en/news/russian-tanker-asia-suffers-accident-arctic/
+Заголовок:   Russian Oil Tanker Bound for Asia Suffers Accident in Arctic
+Дата публ.:  2026-08-13
+Завантажено: 2026-10-08 05:03 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 246955
+Оригінал:    raw/64-militarnyi.com-russian-tanker-asia-suffers-accident-arctic.html
+sha256:      6950bd351d58c7fef9d53b8c5daf346e7203f0d7d9bea39638e42e892f2f321f
+Витяг:       trafilatura
+
+==============================================================================
+A Russian oil tanker sustained serious hull damage while navigating the Northern Sea Route through Arctic ice, despite being escorted by an icebreaker.
+
+This was reported by the Russian insurance company AlfaStrakhovanie, which paid the shipowner 53 million rubles ($650,000) in compensation, according to [gCaptain](https://gcaptain.com/arctic-ice-damages-tanker-as-russia-ramps-up-northern-sea-route-oil-shipments/). The insurer did not disclose the name of the vessel, its owner, or the date and exact location of the incident.
+
+The tanker’s hull was deformed due to ice pressure while traveling in a convoy. The insurance company emphasized that even with icebreaker escort, navigation in Arctic waters involves increased stress on the vessel and high risks of damage.
+
+The incident occurred amid Russia’s increase in oil shipments via the Northern Sea Route to Asia. As of August, more than ten tankers had transported approximately 8 million barrels of crude oil along this route, accounting for more than half of the total volume delivered via this route throughout 2025.
+
+To reduce delivery times, Russia is increasingly deploying tankers with low ice class ratings, or none at all, on Arctic voyages during the summer and fall.
+
+At the same time, in 2026, the Northern Sea Route Administration stopped publishing vessel permits and daily operational logs publicly, making it more difficult to independently monitor accidents.
+
+This is not the first such incident on Russia’s Arctic route: in 2025, the non-ice-class SUEZMAX tanker LYNX became stuck in the ice of the East Siberian Sea with 1 million barrels of oil on board, and in previous years, collisions occurred between vessels while following [icebreakers](https://militarnyi.com/en/tag/icebreaker/).
+
+Popular
+
+                Підтримати нас можна через:
+
+Приват: **5169 3351 0164 7408**  PayPal - [[email protected]](/cdn-cgi/l/email-protection)   Стати нашим патроном за лінком ⬇
+
+Subscribe to our newsletter
+
+    or on ours [Telegram](https://t.me/milinua)
+  
+
+Thank you!!
+
+You are subscribed to our newsletter

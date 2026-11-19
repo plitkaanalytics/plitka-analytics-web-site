@@ -1,0 +1,1092 @@
+<!doctype html>
+<html lang="en-US">
+
+<head><meta charset="UTF-8"><script>if(navigator.userAgent.match(/MSIE|Internet Explorer/i)||navigator.userAgent.match(/Trident\/7\..*?rv:11/i)){var href=document.location.href;if(!href.match(/[?&]nowprocket/)){if(href.indexOf("?")==-1){if(href.indexOf("#")==-1){document.location.href=href+"?nowprocket=1"}else{document.location.href=href.replace("#","?nowprocket=1#")}}else{if(href.indexOf("#")==-1){document.location.href=href+"&nowprocket=1"}else{document.location.href=href.replace("#","&nowprocket=1#")}}}}</script><script>(()=>{class RocketLazyLoadScripts{constructor(){this.v="2.0.5",this.userEvents=["keydown","keyup","mousedown","mouseup","mousemove","mouseover","mouseout","touchmove","touchstart","touchend","touchcancel","wheel","click","dblclick","input"],this.attributeEvents=["onblur","onclick","oncontextmenu","ondblclick","onfocus","onmousedown","onmouseenter","onmouseleave","onmousemove","onmouseout","onmouseover","onmouseup","onmousewheel","onscroll","onsubmit"]}async t(){this.i(),this.o(),/iP(ad|hone)/.test(navigator.userAgent)&&this.h(),this.u(),this.l(this),this.m(),this.k(this),this.p(this),this._(),await Promise.all([this.R(),this.L()]),this.lastBreath=Date.now(),this.S(this),this.P(),this.D(),this.O(),this.M(),await this.C(this.delayedScripts.normal),await this.C(this.delayedScripts.defer),await this.C(this.delayedScripts.async),await this.T(),await this.F(),await this.j(),await this.A(),window.dispatchEvent(new Event("rocket-allScriptsLoaded")),this.everythingLoaded=!0,this.lastTouchEnd&&await new Promise(t=>setTimeout(t,500-Date.now()+this.lastTouchEnd)),this.I(),this.H(),this.U(),this.W()}i(){this.CSPIssue=sessionStorage.getItem("rocketCSPIssue"),document.addEventListener("securitypolicyviolation",t=>{this.CSPIssue||"script-src-elem"!==t.violatedDirective||"data"!==t.blockedURI||(this.CSPIssue=!0,sessionStorage.setItem("rocketCSPIssue",!0))},{isRocket:!0})}o(){window.addEventListener("pageshow",t=>{this.persisted=t.persisted,this.realWindowLoadedFired=!0},{isRocket:!0}),window.addEventListener("pagehide",()=>{this.onFirstUserAction=null},{isRocket:!0})}h(){let t;function e(e){t=e}window.addEventListener("touchstart",e,{isRocket:!0}),window.addEventListener("touchend",function i(o){o.changedTouches[0]&&t.changedTouches[0]&&Math.abs(o.changedTouches[0].pageX-t.changedTouches[0].pageX)<10&&Math.abs(o.changedTouches[0].pageY-t.changedTouches[0].pageY)<10&&o.timeStamp-t.timeStamp<200&&(window.removeEventListener("touchstart",e,{isRocket:!0}),window.removeEventListener("touchend",i,{isRocket:!0}),"INPUT"===o.target.tagName&&"text"===o.target.type||(o.target.dispatchEvent(new TouchEvent("touchend",{target:o.target,bubbles:!0})),o.target.dispatchEvent(new MouseEvent("mouseover",{target:o.target,bubbles:!0})),o.target.dispatchEvent(new PointerEvent("click",{target:o.target,bubbles:!0,cancelable:!0,detail:1,clientX:o.changedTouches[0].clientX,clientY:o.changedTouches[0].clientY})),event.preventDefault()))},{isRocket:!0})}q(t){this.userActionTriggered||("mousemove"!==t.type||this.firstMousemoveIgnored?"keyup"===t.type||"mouseover"===t.type||"mouseout"===t.type||(this.userActionTriggered=!0,this.onFirstUserAction&&this.onFirstUserAction()):this.firstMousemoveIgnored=!0),"click"===t.type&&t.preventDefault(),t.stopPropagation(),t.stopImmediatePropagation(),"touchstart"===this.lastEvent&&"touchend"===t.type&&(this.lastTouchEnd=Date.now()),"click"===t.type&&(this.lastTouchEnd=0),this.lastEvent=t.type,t.composedPath&&t.composedPath()[0].getRootNode()instanceof ShadowRoot&&(t.rocketTarget=t.composedPath()[0]),this.savedUserEvents.push(t)}u(){this.savedUserEvents=[],this.userEventHandler=this.q.bind(this),this.userEvents.forEach(t=>window.addEventListener(t,this.userEventHandler,{passive:!1,isRocket:!0})),document.addEventListener("visibilitychange",this.userEventHandler,{isRocket:!0})}U(){this.userEvents.forEach(t=>window.removeEventListener(t,this.userEventHandler,{passive:!1,isRocket:!0})),document.removeEventListener("visibilitychange",this.userEventHandler,{isRocket:!0}),this.savedUserEvents.forEach(t=>{(t.rocketTarget||t.target).dispatchEvent(new window[t.constructor.name](t.type,t))})}m(){const t="return false",e=Array.from(this.attributeEvents,t=>"data-rocket-"+t),i="["+this.attributeEvents.join("],[")+"]",o="[data-rocket-"+this.attributeEvents.join("],[data-rocket-")+"]",s=(e,i,o)=>{o&&o!==t&&(e.setAttribute("data-rocket-"+i,o),e["rocket"+i]=new Function("event",o),e.setAttribute(i,t))};new MutationObserver(t=>{for(const n of t)"attributes"===n.type&&(n.attributeName.startsWith("data-rocket-")||this.everythingLoaded?n.attributeName.startsWith("data-rocket-")&&this.everythingLoaded&&this.N(n.target,n.attributeName.substring(12)):s(n.target,n.attributeName,n.target.getAttribute(n.attributeName))),"childList"===n.type&&n.addedNodes.forEach(t=>{if(t.nodeType===Node.ELEMENT_NODE)if(this.everythingLoaded)for(const i of[t,...t.querySelectorAll(o)])for(const t of i.getAttributeNames())e.includes(t)&&this.N(i,t.substring(12));else for(const e of[t,...t.querySelectorAll(i)])for(const t of e.getAttributeNames())this.attributeEvents.includes(t)&&s(e,t,e.getAttribute(t))})}).observe(document,{subtree:!0,childList:!0,attributeFilter:[...this.attributeEvents,...e]})}I(){this.attributeEvents.forEach(t=>{document.querySelectorAll("[data-rocket-"+t+"]").forEach(e=>{this.N(e,t)})})}N(t,e){const i=t.getAttribute("data-rocket-"+e);i&&(t.setAttribute(e,i),t.removeAttribute("data-rocket-"+e))}k(t){Object.defineProperty(HTMLElement.prototype,"onclick",{get(){return this.rocketonclick||null},set(e){this.rocketonclick=e,this.setAttribute(t.everythingLoaded?"onclick":"data-rocket-onclick","this.rocketonclick(event)")}})}S(t){function e(e,i){let o=e[i];e[i]=null,Object.defineProperty(e,i,{get:()=>o,set(s){t.everythingLoaded?o=s:e["rocket"+i]=o=s}})}e(document,"onreadystatechange"),e(window,"onload"),e(window,"onpageshow");try{Object.defineProperty(document,"readyState",{get:()=>t.rocketReadyState,set(e){t.rocketReadyState=e},configurable:!0}),document.readyState="loading"}catch(t){console.log("WPRocket DJE readyState conflict, bypassing")}}l(t){this.originalAddEventListener=EventTarget.prototype.addEventListener,this.originalRemoveEventListener=EventTarget.prototype.removeEventListener,this.savedEventListeners=[],EventTarget.prototype.addEventListener=function(e,i,o){o&&o.isRocket||!t.B(e,this)&&!t.userEvents.includes(e)||t.B(e,this)&&!t.userActionTriggered||e.startsWith("rocket-")||t.everythingLoaded?t.originalAddEventListener.call(this,e,i,o):(t.savedEventListeners.push({target:this,remove:!1,type:e,func:i,options:o}),"mouseenter"!==e&&"mouseleave"!==e||t.originalAddEventListener.call(this,e,t.savedUserEvents.push,o))},EventTarget.prototype.removeEventListener=function(e,i,o){o&&o.isRocket||!t.B(e,this)&&!t.userEvents.includes(e)||t.B(e,this)&&!t.userActionTriggered||e.startsWith("rocket-")||t.everythingLoaded?t.originalRemoveEventListener.call(this,e,i,o):t.savedEventListeners.push({target:this,remove:!0,type:e,func:i,options:o})}}J(t,e){this.savedEventListeners=this.savedEventListeners.filter(i=>{let o=i.type,s=i.target||window;return e!==o||t!==s||(this.B(o,s)&&(i.type="rocket-"+o),this.$(i),!1)})}H(){EventTarget.prototype.addEventListener=this.originalAddEventListener,EventTarget.prototype.removeEventListener=this.originalRemoveEventListener,this.savedEventListeners.forEach(t=>this.$(t))}$(t){t.remove?this.originalRemoveEventListener.call(t.target,t.type,t.func,t.options):this.originalAddEventListener.call(t.target,t.type,t.func,t.options)}p(t){let e;function i(e){return t.everythingLoaded?e:e.split(" ").map(t=>"load"===t||t.startsWith("load.")?"rocket-jquery-load":t).join(" ")}function o(o){function s(e){const s=o.fn[e];o.fn[e]=o.fn.init.prototype[e]=function(){return this[0]===window&&t.userActionTriggered&&("string"==typeof arguments[0]||arguments[0]instanceof String?arguments[0]=i(arguments[0]):"object"==typeof arguments[0]&&Object.keys(arguments[0]).forEach(t=>{const e=arguments[0][t];delete arguments[0][t],arguments[0][i(t)]=e})),s.apply(this,arguments),this}}if(o&&o.fn&&!t.allJQueries.includes(o)){const e={DOMContentLoaded:[],"rocket-DOMContentLoaded":[]};for(const t in e)document.addEventListener(t,()=>{e[t].forEach(t=>t())},{isRocket:!0});o.fn.ready=o.fn.init.prototype.ready=function(i){function s(){parseInt(o.fn.jquery)>2?setTimeout(()=>i.bind(document)(o)):i.bind(document)(o)}return"function"==typeof i&&(t.realDomReadyFired?!t.userActionTriggered||t.fauxDomReadyFired?s():e["rocket-DOMContentLoaded"].push(s):e.DOMContentLoaded.push(s)),this},s("on"),s("one"),s("off"),t.allJQueries.push(o)}e=o}t.allJQueries=[],o(window.jQuery),Object.defineProperty(window,"jQuery",{get:()=>e,set(t){o(t)}})}P(){const t=new Map;document.write=document.writeln=function(e){const i=document.currentScript,o=document.createRange(),s=i.parentElement;let n=t.get(i);void 0===n&&(n=i.nextSibling,t.set(i,n));const c=document.createDocumentFragment();o.setStart(c,0),c.appendChild(o.createContextualFragment(e)),s.insertBefore(c,n)}}async R(){return new Promise(t=>{this.userActionTriggered?t():this.onFirstUserAction=t})}async L(){return new Promise(t=>{document.addEventListener("DOMContentLoaded",()=>{this.realDomReadyFired=!0,t()},{isRocket:!0})})}async j(){return this.realWindowLoadedFired?Promise.resolve():new Promise(t=>{window.addEventListener("load",t,{isRocket:!0})})}M(){this.pendingScripts=[];this.scriptsMutationObserver=new MutationObserver(t=>{for(const e of t)e.addedNodes.forEach(t=>{"SCRIPT"!==t.tagName||!t.src||t.noModule||t.isWPRocket||this.pendingScripts.push({script:t,promise:new Promise(e=>{const i=()=>{const i=this.pendingScripts.findIndex(e=>e.script===t);i>=0&&this.pendingScripts.splice(i,1),e()};t.addEventListener("load",i,{isRocket:!0}),t.addEventListener("error",i,{isRocket:!0}),setTimeout(i,1e3)})})})}),this.scriptsMutationObserver.observe(document,{childList:!0,subtree:!0})}async F(){await this.X(),this.pendingScripts.length?(await this.pendingScripts[0].promise,await this.F()):this.scriptsMutationObserver.disconnect()}D(){this.delayedScripts={normal:[],async:[],defer:[]},document.querySelectorAll("script[type$=rocketlazyloadscript]").forEach(t=>{t.hasAttribute("data-rocket-src")?t.hasAttribute("async")&&!1!==t.async?this.delayedScripts.async.push(t):t.hasAttribute("defer")&&!1!==t.defer||"module"===t.getAttribute("data-rocket-type")?this.delayedScripts.defer.push(t):this.delayedScripts.normal.push(t):this.delayedScripts.normal.push(t)})}async _(){await this.L();let t=[];document.querySelectorAll("script[type$=rocketlazyloadscript][data-rocket-src]").forEach(e=>{let i=e.getAttribute("data-rocket-src");if(i&&!i.startsWith("data:")){i.startsWith("//")&&(i=location.protocol+i);try{const o=new URL(i).origin;o!==location.origin&&t.push({src:o,crossOrigin:e.crossOrigin||"module"===e.getAttribute("data-rocket-type")})}catch(t){}}}),t=[...new Map(t.map(t=>[JSON.stringify(t),t])).values()],this.Y(t,"preconnect")}async G(t){if(await this.K(),!0!==t.noModule||!("noModule"in HTMLScriptElement.prototype))return new Promise(e=>{let i;function o(){(i||t).setAttribute("data-rocket-status","executed"),e()}try{if(navigator.userAgent.includes("Firefox/")||""===navigator.vendor||this.CSPIssue)i=document.createElement("script"),[...t.attributes].forEach(t=>{let e=t.nodeName;"type"!==e&&("data-rocket-type"===e&&(e="type"),"data-rocket-src"===e&&(e="src"),i.setAttribute(e,t.nodeValue))}),t.text&&(i.text=t.text),t.nonce&&(i.nonce=t.nonce),i.hasAttribute("src")?(i.addEventListener("load",o,{isRocket:!0}),i.addEventListener("error",()=>{i.setAttribute("data-rocket-status","failed-network"),e()},{isRocket:!0}),setTimeout(()=>{i.isConnected||e()},1)):(i.text=t.text,o()),i.isWPRocket=!0,t.parentNode.replaceChild(i,t);else{const i=t.getAttribute("data-rocket-type"),s=t.getAttribute("data-rocket-src");i?(t.type=i,t.removeAttribute("data-rocket-type")):t.removeAttribute("type"),t.addEventListener("load",o,{isRocket:!0}),t.addEventListener("error",i=>{this.CSPIssue&&i.target.src.startsWith("data:")?(console.log("WPRocket: CSP fallback activated"),t.removeAttribute("src"),this.G(t).then(e)):(t.setAttribute("data-rocket-status","failed-network"),e())},{isRocket:!0}),s?(t.fetchPriority="high",t.removeAttribute("data-rocket-src"),t.src=s):t.src="data:text/javascript;base64,"+window.btoa(unescape(encodeURIComponent(t.text)))}}catch(i){t.setAttribute("data-rocket-status","failed-transform"),e()}});t.setAttribute("data-rocket-status","skipped")}async C(t){const e=t.shift();return e?(e.isConnected&&await this.G(e),this.C(t)):Promise.resolve()}O(){this.Y([...this.delayedScripts.normal,...this.delayedScripts.defer,...this.delayedScripts.async],"preload")}Y(t,e){this.trash=this.trash||[];let i=!0;var o=document.createDocumentFragment();t.forEach(t=>{const s=t.getAttribute&&t.getAttribute("data-rocket-src")||t.src;if(s&&!s.startsWith("data:")){const n=document.createElement("link");n.href=s,n.rel=e,"preconnect"!==e&&(n.as="script",n.fetchPriority=i?"high":"low"),t.getAttribute&&"module"===t.getAttribute("data-rocket-type")&&(n.crossOrigin=!0),t.crossOrigin&&(n.crossOrigin=t.crossOrigin),t.integrity&&(n.integrity=t.integrity),t.nonce&&(n.nonce=t.nonce),o.appendChild(n),this.trash.push(n),i=!1}}),document.head.appendChild(o)}W(){this.trash.forEach(t=>t.remove())}async T(){try{document.readyState="interactive"}catch(t){}this.fauxDomReadyFired=!0;try{await this.K(),this.J(document,"readystatechange"),document.dispatchEvent(new Event("rocket-readystatechange")),await this.K(),document.rocketonreadystatechange&&document.rocketonreadystatechange(),await this.K(),this.J(document,"DOMContentLoaded"),document.dispatchEvent(new Event("rocket-DOMContentLoaded")),await this.K(),this.J(window,"DOMContentLoaded"),window.dispatchEvent(new Event("rocket-DOMContentLoaded"))}catch(t){console.error(t)}}async A(){try{document.readyState="complete"}catch(t){}try{await this.K(),this.J(document,"readystatechange"),document.dispatchEvent(new Event("rocket-readystatechange")),await this.K(),document.rocketonreadystatechange&&document.rocketonreadystatechange(),await this.K(),this.J(window,"load"),window.dispatchEvent(new Event("rocket-load")),await this.K(),window.rocketonload&&window.rocketonload(),await this.K(),this.allJQueries.forEach(t=>t(window).trigger("rocket-jquery-load")),await this.K(),this.J(window,"pageshow");const t=new Event("rocket-pageshow");t.persisted=this.persisted,window.dispatchEvent(t),await this.K(),window.rocketonpageshow&&window.rocketonpageshow({persisted:this.persisted})}catch(t){console.error(t)}}async K(){Date.now()-this.lastBreath>45&&(await this.X(),this.lastBreath=Date.now())}async X(){return document.hidden?new Promise(t=>setTimeout(t)):new Promise(t=>requestAnimationFrame(t))}B(t,e=window){return e===document&&"readystatechange"===t||(e===document&&"DOMContentLoaded"===t||(e===window&&"DOMContentLoaded"===t||(e===window&&"load"===t||e===window&&"pageshow"===t)))}static run(){(new RocketLazyLoadScripts).t()}}RocketLazyLoadScripts.run()})();
+</script>
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+    <meta name="facebook-domain-verification" content="4he84h4z9jldtr4nsqsqjgdc205p6m" />
+	<!-- Add favicon link here -->
+    <link rel="apple-touch-icon" href="/favicon.png" type="image/png">
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+	<link rel="icon" href="/favicon.png" type="image/png">
+	<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="manifest" href="/site.webmanifest">
+
+	
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v28.8 - https://yoast.com/product/yoast-seo-wordpress/ -->
+	<title>Sanctioned tanker with unclear ownership and dubious insurance sails unchallenged along Norwegian coast - ArcticToday</title>
+	<link rel="canonical" href="https://www.arctictoday.com/sanctioned-tanker-with-unclear-ownership-and-dubious-insurance-sails-unchallenged-along-norwegian-coast/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Sanctioned tanker with unclear ownership and dubious insurance sails unchallenged along Norwegian coast - ArcticToday" />
+	<meta property="og:description" content="The 23-year-old tanker Paz, carrying nearly 150,000 tonnes of sanctioned Russian Arctic oil, departed from Murmansk on March 10. Despite suspicions that it may be operating with falsified insurance documents, Norwegian authorities did not intervene. The 174-metre-long oil tanker, sailing under a false flag, set a course through Norwegian waters and travelled south along the..." />
+	<meta property="og:url" content="https://www.arctictoday.com/sanctioned-tanker-with-unclear-ownership-and-dubious-insurance-sails-unchallenged-along-norwegian-coast/" />
+	<meta property="og:site_name" content="ArcticToday" />
+	<meta property="article:publisher" content="https://www.facebook.com/arctictoday/" />
+	<meta property="article:published_time" content="2026-03-24T15:31:54+00:00" />
+	<meta property="article:modified_time" content="2026-04-26T07:01:24+00:00" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:creator" content="@arctic_today" />
+	<meta name="twitter:site" content="@arctic_today" />
+	<meta name="twitter:label1" content="Est. reading time" />
+	<meta name="twitter:data1" content="3 minutes" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https:\/\/schema.org","@graph":[{"@type":"Article","@id":"https:\/\/www.arctictoday.com\/sanctioned-tanker-with-unclear-ownership-and-dubious-insurance-sails-unchallenged-along-norwegian-coast\/#article","isPartOf":{"@id":"https:\/\/www.arctictoday.com\/sanctioned-tanker-with-unclear-ownership-and-dubious-insurance-sails-unchallenged-along-norwegian-coast\/"},"author":[],"headline":"Sanctioned tanker with unclear ownership and dubious insurance sails unchallenged along Norwegian coast","datePublished":"2026-03-24T15:31:54+00:00","dateModified":"2026-04-26T07:01:24+00:00","mainEntityOfPage":{"@id":"https:\/\/www.arctictoday.com\/sanctioned-tanker-with-unclear-ownership-and-dubious-insurance-sails-unchallenged-along-norwegian-coast\/"},"wordCount":551,"publisher":{"@id":"https:\/\/www.arctictoday.com\/#organization"},"image":{"@id":"https:\/\/www.arctictoday.com\/sanctioned-tanker-with-unclear-ownership-and-dubious-insurance-sails-unchallenged-along-norwegian-coast\/#primaryimage"},"thumbnailUrl":"https:\/\/www.arctictoday.com\/wp-content\/uploads\/2026\/04\/447350-25.webpimageid447350width1920height1080formatwebp","inLanguage":"en-US"},{"@type":"WebPage","@id":"https:\/\/www.arctictoday.com\/sanctioned-tanker-with-unclear-ownership-and-dubious-insurance-sails-unchallenged-along-norwegian-coast\/","url":"https:\/\/www.arctictoday.com\/sanctioned-tanker-with-unclear-ownership-and-dubious-insurance-sails-unchallenged-along-norwegian-coast\/","name":"Sanctioned tanker with unclear ownership and dubious insurance sails unchallenged along Norwegian coast - ArcticToday","isPartOf":{"@id":"https:\/\/www.arctictoday.com\/#website"},"primaryImageOfPage":{"@id":"https:\/\/www.arctictoday.com\/sanctioned-tanker-with-unclear-ownership-and-dubious-insurance-sails-unchallenged-along-norwegian-coast\/#primaryimage"},"image":{"@id":"https:\/\/www.arctictoday.com\/sanctioned-tanker-with-unclear-ownership-and-dubious-insurance-sails-unchallenged-along-norwegian-coast\/#primaryimage"},"thumbnailUrl":"https:\/\/www.arctictoday.com\/wp-content\/uploads\/2026\/04\/447350-25.webpimageid447350width1920height1080formatwebp","datePublished":"2026-03-24T15:31:54+00:00","dateModified":"2026-04-26T07:01:24+00:00","breadcrumb":{"@id":"https:\/\/www.arctictoday.com\/sanctioned-tanker-with-unclear-ownership-and-dubious-insurance-sails-unchallenged-along-norwegian-coast\/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https:\/\/www.arctictoday.com\/sanctioned-tanker-with-unclear-ownership-and-dubious-insurance-sails-unchallenged-along-norwegian-coast\/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/www.arctictoday.com\/sanctioned-tanker-with-unclear-ownership-and-dubious-insurance-sails-unchallenged-along-norwegian-coast\/#primaryimage","url":"https:\/\/www.arctictoday.com\/wp-content\/uploads\/2026\/04\/447350-25.webpimageid447350width1920height1080formatwebp","contentUrl":"https:\/\/www.arctictoday.com\/wp-content\/uploads\/2026\/04\/447350-25.webpimageid447350width1920height1080formatwebp","width":1920,"height":1080},{"@type":"BreadcrumbList","@id":"https:\/\/www.arctictoday.com\/sanctioned-tanker-with-unclear-ownership-and-dubious-insurance-sails-unchallenged-along-norwegian-coast\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/www.arctictoday.com\/"},{"@type":"ListItem","position":2,"name":"Uncategorized","item":"https:\/\/www.arctictoday.com\/category\/uncategorized\/"},{"@type":"ListItem","position":3,"name":"Sanctioned tanker with unclear ownership and dubious insurance sails unchallenged along Norwegian coast"}]},{"@type":"WebSite","@id":"https:\/\/www.arctictoday.com\/#website","url":"https:\/\/www.arctictoday.com\/","name":"ArcticToday","description":"ArcticToday - news, information, opinion and analysis about the Arctic, it&#039;s evolving economy and changing environment across the circumpolar North","publisher":{"@id":"https:\/\/www.arctictoday.com\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/www.arctictoday.com\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https:\/\/www.arctictoday.com\/#organization","name":"ArcticToday","url":"https:\/\/www.arctictoday.com\/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/www.arctictoday.com\/#\/schema\/logo\/image\/","url":"https:\/\/www.arctictoday.com\/wp-content\/uploads\/2026\/04\/arctic-today-logo.svg","contentUrl":"https:\/\/www.arctictoday.com\/wp-content\/uploads\/2026\/04\/arctic-today-logo.svg","caption":"ArcticToday"},"image":{"@id":"https:\/\/www.arctictoday.com\/#\/schema\/logo\/image\/"},"sameAs":["https:\/\/www.facebook.com\/arctictoday\/","https:\/\/x.com\/arctic_today"]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//js.stripe.com' />
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.arctictoday.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.arctictoday.com%2Fsanctioned-tanker-with-unclear-ownership-and-dubious-insurance-sails-unchallenged-along-norwegian-coast%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.arctictoday.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.arctictoday.com%2Fsanctioned-tanker-with-unclear-ownership-and-dubious-insurance-sails-unchallenged-along-norwegian-coast%2F&#038;format=xml" />
+<!-- www.arctictoday.com is managing ads with Advanced Ads 2.0.29 – https://wpadvancedads.com/ --><!--noptimize--><script id="arcti-ready">
+			window.advanced_ads_ready=function(e,a){a=a||"complete";var d=function(e){return"interactive"===a?"loading"!==e:"complete"===e};d(document.readyState)?e():document.addEventListener("readystatechange",(function(a){d(a.target.readyState)&&e()}),{once:"interactive"===a})},window.advanced_ads_ready_queue=window.advanced_ads_ready_queue||[];		</script>
+		<!--/noptimize--><style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}.wp-block-button{--wp--preset--dimension--25: 25%;--wp--preset--dimension--50: 50%;--wp--preset--dimension--75: 75%;--wp--preset--dimension--100: 100%;}:where(body) { margin: 0; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<link data-minify="1" rel='stylesheet' id='cookie-law-info-css' href='https://www.arctictoday.com/wp-content/cache/min/1/wp-content/plugins/cookie-law-info/legacy/public/css/cookie-law-info-public.css?ver=1793959317' media='all' />
+<link data-minify="1" rel='stylesheet' id='cookie-law-info-gdpr-css' href='https://www.arctictoday.com/wp-content/cache/min/1/wp-content/plugins/cookie-law-info/legacy/public/css/cookie-law-info-gdpr.css?ver=1793959317' media='all' />
+<link data-minify="1" rel='stylesheet' id='wpedon-css' href='https://www.arctictoday.com/wp-content/cache/min/1/wp-content/plugins/easy-paypal-donation/assets/css/wpedon.css?ver=1793959317' media='all' />
+<link data-minify="1" rel='stylesheet' id='wpa-css-css' href='https://www.arctictoday.com/wp-content/cache/min/1/wp-content/plugins/honeypot/includes/css/wpa.css?ver=1793959317' media='all' />
+<link data-minify="1" rel='stylesheet' id='pmpro_frontend_base-css' href='https://www.arctictoday.com/wp-content/cache/min/1/wp-content/plugins/paid-memberships-pro/css/frontend/base.css?ver=1793959317' media='all' />
+<link data-minify="1" rel='stylesheet' id='pmpro_frontend_variation_1-css' href='https://www.arctictoday.com/wp-content/cache/min/1/wp-content/plugins/paid-memberships-pro/css/frontend/variation_1.css?ver=1793959317' media='all' />
+<link data-minify="1" rel='stylesheet' id='membership-style-css' href='https://www.arctictoday.com/wp-content/cache/min/1/wp-content/themes/arctictoday_new/inc/membership-pro/assets/css/custom-membership.css?ver=1793959317' media='all' />
+<link data-minify="1" rel='stylesheet' id='arctictoday_new-style-css' href='https://www.arctictoday.com/wp-content/cache/min/1/wp-content/themes/arctictoday_new/style.css?ver=1793959317' media='all' />
+<link rel='stylesheet' id='bootstrap-css' href='https://www.arctictoday.com/wp-content/themes/arctictoday_new/assets/css/bootstrap.min.css?ver=1fe6ac300634769524cd8f8ed758becb' media='all' />
+<link data-minify="1" rel='stylesheet' id='fontawesome-css' href='https://www.arctictoday.com/wp-content/cache/min/1/wp-content/themes/arctictoday_new/assets/css/all.min.css?ver=1793959317' media='all' />
+<link data-minify="1" rel='stylesheet' id='fonts-css' href='https://www.arctictoday.com/wp-content/cache/min/1/wp-content/themes/arctictoday_new/assets/css/fonts.css?ver=1793959317' media='all' />
+<link data-minify="1" rel='stylesheet' id='slick-css' href='https://www.arctictoday.com/wp-content/cache/min/1/wp-content/themes/arctictoday_new/assets/css/slick.css?ver=1793959317' media='all' />
+<link data-minify="1" rel='stylesheet' id='donate-style-css' href='https://www.arctictoday.com/wp-content/cache/min/1/wp-content/themes/arctictoday_new/assets/css/donate-style.css?ver=1793959317' media='all' />
+<link data-minify="1" rel='stylesheet' id='custom-style-css' href='https://www.arctictoday.com/wp-content/cache/min/1/wp-content/themes/arctictoday_new/assets/css/custom-style.css?ver=1793959317' media='all' />
+<link data-minify="1" rel='stylesheet' id='custom-arctic-style-css' href='https://www.arctictoday.com/wp-content/cache/min/1/wp-content/themes/arctictoday_new/assets/css/arctic-studio.css?ver=1793959317' media='all' />
+<link data-minify="1" rel='stylesheet' id='header-footer-main-style-css' href='https://www.arctictoday.com/wp-content/cache/min/1/wp-content/themes/arctictoday_new/assets/css/header-footer-main.css?ver=1793959317' media='all' />
+<link data-minify="1" rel='stylesheet' id='header-css' href='https://www.arctictoday.com/wp-content/cache/min/1/wp-content/themes/arctictoday_new/assets/css/header-footer.css?ver=1793959317' media='all' />
+<link data-minify="1" rel='stylesheet' id='newsletter-css' href='https://www.arctictoday.com/wp-content/cache/min/1/wp-content/plugins/newsletter/style.css?ver=1793959317' media='all' />
+<link data-minify="1" rel='stylesheet' id='heateor_sss_frontend_css-css' href='https://www.arctictoday.com/wp-content/cache/min/1/wp-content/plugins/sassy-social-share/public/css/sassy-social-share-public.css?ver=1793959326' media='all' />
+<style id="heateor_sss_frontend_css-inline-css">
+.heateor_sss_button_instagram span.heateor_sss_svg,a.heateor_sss_instagram span.heateor_sss_svg{background:radial-gradient(circle at 30% 107%,#fdf497 0,#fdf497 5%,#fd5949 45%,#d6249f 60%,#285aeb 90%)}.heateor_sss_horizontal_sharing .heateor_sss_svg,.heateor_sss_standard_follow_icons_container .heateor_sss_svg{color:#fff;border-width:0px;border-style:solid;border-color:transparent}.heateor_sss_horizontal_sharing .heateorSssTCBackground{color:#666}.heateor_sss_horizontal_sharing span.heateor_sss_svg:hover,.heateor_sss_standard_follow_icons_container span.heateor_sss_svg:hover{border-color:transparent;}.heateor_sss_vertical_sharing span.heateor_sss_svg,.heateor_sss_floating_follow_icons_container span.heateor_sss_svg{color:#fff;border-width:0px;border-style:solid;border-color:transparent;}.heateor_sss_vertical_sharing .heateorSssTCBackground{color:#666;}.heateor_sss_vertical_sharing span.heateor_sss_svg:hover,.heateor_sss_floating_follow_icons_container span.heateor_sss_svg:hover{border-color:transparent;}@media screen and (max-width:783px) {.heateor_sss_vertical_sharing{display:none!important}}
+/*# sourceURL=heateor_sss_frontend_css-inline-css */
+</style>
+<style id="rocket-lazyload-inline-css">
+.rll-youtube-player{position:relative;padding-bottom:56.23%;height:0;overflow:hidden;max-width:100%;}.rll-youtube-player:focus-within{outline: 2px solid currentColor;outline-offset: 5px;}.rll-youtube-player iframe{position:absolute;top:0;left:0;width:100%;height:100%;z-index:100;background:0 0}.rll-youtube-player img{bottom:0;display:block;left:0;margin:auto;max-width:100%;width:100%;position:absolute;right:0;top:0;border:none;height:auto;-webkit-transition:.4s all;-moz-transition:.4s all;transition:.4s all}.rll-youtube-player img:hover{-webkit-filter:brightness(75%)}.rll-youtube-player .play{height:100%;width:100%;left:0;top:0;position:absolute;background:url(https://www.arctictoday.com/wp-content/plugins/wp-rocket/assets/img/youtube.png) no-repeat center;background-color: transparent !important;cursor:pointer;border:none;}
+/*# sourceURL=rocket-lazyload-inline-css */
+</style>
+<link data-minify="1" rel='stylesheet' id='contact-form-7-css' href='https://www.arctictoday.com/wp-content/cache/min/1/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=1793959326' media='all' />
+<style id="contact-form-7-inline-css">
+.wpcf7 .wpcf7-recaptcha iframe {margin-bottom: 0;}.wpcf7 .wpcf7-recaptcha[data-align="center"] > div {margin: 0 auto;}.wpcf7 .wpcf7-recaptcha[data-align="right"] > div {margin: 0 0 0 auto;}
+/*# sourceURL=contact-form-7-inline-css */
+</style>
+<script id="jquery-core-js" src="https://www.arctictoday.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"></script>
+<script type="text/rocketlazyloadscript" id="jquery-core-js-after">
+window.metaslider_jQuery = window.jQuery;
+//# sourceURL=jquery-core-js-after
+</script>
+<script id="jquery-migrate-js" src="https://www.arctictoday.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1"></script>
+<script id="cookie-law-info-js-extra">
+var Cli_Data = {"nn_cookie_ids":[],"cookielist":[],"non_necessary_cookies":[],"ccpaEnabled":"","ccpaRegionBased":"","ccpaBarEnabled":"","strictlyEnabled":["necessary","obligatoire"],"ccpaType":"gdpr","js_blocking":"","custom_integration":"","triggerDomRefresh":"","secure_cookies":"","is_scan":""};
+var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"500","background":"#FFF","border":"#b1a6a6c2","border_on":"","button_1_button_colour":"#000","button_1_button_hover":"#000000","button_1_link_colour":"#fff","button_1_as_button":"1","button_1_new_win":"","button_2_button_colour":"#333","button_2_button_hover":"#292929","button_2_link_colour":"#444","button_2_as_button":"","button_2_hidebar":"","button_3_button_colour":"#000","button_3_button_hover":"#000000","button_3_link_colour":"#fff","button_3_as_button":"1","button_3_new_win":"","button_4_button_colour":"#000","button_4_button_hover":"#000000","button_4_link_colour":"#62a329","button_4_as_button":"","button_7_button_colour":"#61a229","button_7_button_hover":"#4e8221","button_7_link_colour":"#fff","button_7_as_button":"1","button_7_new_win":"","font_family":"inherit","header_fix":"","notify_animate_hide":"1","notify_animate_show":"","notify_div_id":"#cookie-law-info-bar","notify_position_horizontal":"right","notify_position_vertical":"bottom","scroll_close":"","scroll_close_reload":"","accept_close_reload":"","reject_close_reload":"","showagain_tab":"1","showagain_background":"#fff","showagain_border":"#000","showagain_div_id":"#cookie-law-info-again","showagain_x_position":"100px","text":"#000","show_once_yn":"","show_once":"10000","logging_on":"","as_popup":"","popup_overlay":"1","bar_heading_text":"","cookie_bar_as":"banner","popup_showagain_position":"bottom-right","widget_position":"left"};
+var log_object = {"ajax_url":"https://www.arctictoday.com/wp-admin/admin-ajax.php"};
+//# sourceURL=cookie-law-info-js-extra
+</script>
+<script type="text/rocketlazyloadscript" data-minify="1" id="cookie-law-info-js" data-rocket-src="https://www.arctictoday.com/wp-content/cache/min/1/wp-content/plugins/cookie-law-info/legacy/public/js/cookie-law-info-public.js?ver=1793959317"></script>
+<script id="signin-ajax-script-js-extra">
+var signin_ajax = {"ajax_url":"https://www.arctictoday.com/wp-admin/admin-ajax.php","post_id":"126759"};
+//# sourceURL=signin-ajax-script-js-extra
+</script>
+<script id="signin-ajax-script-js" src="https://www.arctictoday.com/wp-content/themes/arctictoday_new/inc/membership-pro/assets/js/signin.js?ver=1679996739"></script>
+<style id="pmpro_colors">:root {
+	--pmpro--color--base: #ffffff;
+	--pmpro--color--contrast: #222222;
+	--pmpro--color--accent: #0c3d54;
+	--pmpro--color--accent--variation: hsl( 199,75%,28.5% );
+	--pmpro--color--border--variation: hsl( 0,0%,91% );
+}</style><!-- Stream WordPress user activity plugin v4.4.0 -->
+<link rel="preload" as="image" href="https://www.arctictoday.com/wp-content/uploads/2025/04/Pollock-net-stuffed-with-pollock-1536x1152-min-300x225.jpg" /><link rel="icon" href="https://www.arctictoday.com/wp-content/uploads/2018/01/fav.png" sizes="32x32" />
+<link rel="icon" href="https://www.arctictoday.com/wp-content/uploads/2018/01/fav.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.arctictoday.com/wp-content/uploads/2018/01/fav.png" />
+<meta name="msapplication-TileImage" content="https://www.arctictoday.com/wp-content/uploads/2018/01/fav.png" />
+<style id="wp-custom-css">
+.category-security-politics .secondary-logo {
+  display: none;
+}
+
+.sponsarrd_link:before {
+display: none !important;
+}
+.single-page .gallery-columns-3 {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+.single-page .gallery-columns-3  figure.gallery-item {
+    width: calc(33.33% - 14px) !important;
+}
+@media(min-width:992px) {
+	.upperHeaderRight  {
+			max-width: 255px;
+			width: 100%;
+	}
+}
+@media(max-width:575.98px) {
+   .single-page .gallery-columns-3  figure.gallery-item {
+    width: 100% !important;
+} 
+}
+</style>
+<noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript>	<script data-ad-client="ca-pub-5790965569674237" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+	<script type="text/rocketlazyloadscript">
+		(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+		h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+		(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+		})(window,document.documentElement,'async-hide','dataLayer',4000,
+		{'GTM-MBNRN2N':true});
+	</script>
+	<!-- <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+		(adsbygoogle = window.adsbygoogle || []).push({
+			google_ad_client: "ca-pub-6707473581212305",
+			enable_page_level_ads: true
+		});
+	</script> -->
+	
+	<script  src='https://www.google-analytics.com/analytics.js'></script>
+	<script>
+		window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+		ga('create', 'UA-112626860-1', 'auto');
+		ga('require', 'GTM-MBNRN2N');
+		ga('send', 'pageview');
+		</script>
+        <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-604QB2D5QK"></script>
+    <script type="text/rocketlazyloadscript">
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-604QB2D5QK');
+    </script>
+<meta name="generator" content="WP Rocket 3.24" data-wpr-features="wpr_delay_js wpr_minify_js wpr_lazyload_images wpr_lazyload_iframes wpr_minify_css wpr_cdn wpr_preload_links wpr_host_fonts_locally wpr_desktop" /></head>
+
+
+<body class="pmpro-variation_1 wp-singular post-template-default single single-post postid-126759 single-format-standard wp-custom-logo wp-theme-arctictoday_new pmpro-body-has-access metaslider-plugin aa-prefix-arcti-">
+	
+		<div data-rocket-location-hash="54257ff4dc2eb7aae68fa23eb5f11e06" id="page" class="site">
+		<a class="skip-link screen-reader-text" href="#primary">
+			Skip to content		</a>
+
+		<header data-rocket-location-hash="d68db2c4c794af5ef9bfaf0a147371f9" id="masthead" class="header cs-header">
+			<nav class="navbar navbar-expand-lg navbar-light bg-light flex-column ">
+				<div class="cs-top-header w-100 border-bottom">
+					<div class="container cs-top-header-container d-flex justify-content-between gap-3 align-items-center py-2">
+						<div class="cs-top-header-left"><div class="subscriveNewsletter">			<div class="textwidget"><p><a title="Subscribe to our newsletter" href="https://www.arctictoday.com/subscribe-to-our-newsletter/">subscribe to our newsletter</a></p>
+</div>
+		</div></div>
+						<div class="cs-top-header-right">    <div id="signin-wrapper" class="signin-wrapper">
+        <!-- <div class="loading-text"></div>  -->
+        <a class="btn tbtn-secondary d-lg-block d-none" href="/login">Sign In/Get Passport</a>
+        <a href="" class="d-none">no btn</a>
+    </div>
+    </div>
+					</div>
+					
+				</div>
+				<div class="upper-header container">
+
+	                    <ul id="menu-social-media" class="menu social-list d-lg-flex d-none"><li id="menu-item-62301" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-62301"><a target="_blank" href="https://www.linkedin.com/company/arctictoday" title="Linkedin"><i class="fa-brands fa-linkedin-in"></i></a></li>
+<li id="menu-item-62299" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-62299"><a target="_blank" href="https://www.facebook.com/arctictoday/" title="Facebook"><i class="fa-brands fa-facebook-f"></i></a></li>
+<li id="menu-item-62300" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-62300"><a target="_blank" href="https://www.instagram.com/arctic_today/?hl=en" title="Instagram"><i class="fa-brands fa-instagram"></i></a></li>
+<li id="menu-item-62302" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-62302"><a target="_blank" href="https://x.com/arctic_today" title="X"><i class="fa-brands fa-x"></i></a></li>
+<li id="menu-item-62303" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-62303"><a target="_blank" href="/cdn-cgi/l/email-protection#bfd6d1d9d0ffdecddccbd6dcddd6c5d5d0cacdd1ded391dcd0d2" title="Email"><i class="fa-regular fa-envelope"></i></a></li>
+<li id="menu-item-129390" class="bluesky-icon menu-item menu-item-type-custom menu-item-object-custom menu-item-129390"><a target="_blank" href="https://bsky.app/profile/arctictoday.bsky.social" title="Bluesky"><i class="fa-brands fa-square-bluesky"></i></a></li>
+</ul>
+
+					<div class="mobile-menu d-lg-none d-block">
+							<button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+								data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+								aria-expanded="false" aria-label="Toggle navigation">
+								<div id="nav-icon3">
+									<span></span>
+									<span></span>
+									<span></span>
+									<span></span>
+								</div>
+							</button>
+							<div class="collapse navbar-collapse" id="navbarSupportedContent">
+								<button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+									data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+									aria-expanded="false" aria-label="Toggle navigation">
+									<div id="nav-icon3" class="open">
+										<span></span>
+										<span></span>
+										<span></span>
+										<span></span>
+									</div>
+								</button>
+								<div class="cs-navbar-signin">
+									<div class="d-flex gap-2 cs-menu-tabs">
+										<button type="button" class="cs-all-menus btn cs-sm-btn w-100 active">SECTIONS</button>
+										<button type="button" class="cs-account-menus btn cs-sm-btn w-100">MY ACCOUNT</button>
+									</div>
+									<div class="cs-menu-tabs-content cs-menu-1 active">
+										<ul id="menu-main-menu-new" class="menu header-menu"><li id="menu-item-62277" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-62277"><a href="https://www.arctictoday.com/">Home</a></li>
+<li id="menu-item-62278" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-62278"><a href="https://www.arctictoday.com/category/top-line/">Business</a>
+<ul class="sub-menu">
+	<li id="menu-item-62279" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-62279"><a href="https://www.arctictoday.com/category/technology/">Technology</a></li>
+	<li id="menu-item-93142" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-93142"><a href="https://www.arctictoday.com/category/arctic-economy/shipping/">Shipping</a></li>
+	<li id="menu-item-62281" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-62281"><a href="https://www.arctictoday.com/category/arctic-economy/tourism/">Tourism</a></li>
+	<li id="menu-item-93143" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-93143"><a href="https://www.arctictoday.com/category/arctic-economy/energy/">Energy</a></li>
+</ul>
+</li>
+<li id="menu-item-75073" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-75073"><a href="https://www.arctictoday.com/category/travel-tourism/">Travel</a></li>
+<li id="menu-item-70064" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-70064"><a href="https://www.arctictoday.com/category/security-politics/">Geopolitics</a></li>
+<li id="menu-item-62288" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-62288"><a href="https://www.arctictoday.com/category/environment/">Environment</a></li>
+<li id="menu-item-62660" class="menu-item menu-item-type-taxonomy menu-item-object-country menu-item-has-children menu-item-62660"><a href="https://www.arctictoday.com/country/sweden/">Countries</a>
+<ul class="sub-menu">
+	<li id="menu-item-62661" class="menu-item menu-item-type-taxonomy menu-item-object-country menu-item-62661"><a href="https://www.arctictoday.com/country/sweden/">Sweden</a></li>
+	<li id="menu-item-62662" class="menu-item menu-item-type-taxonomy menu-item-object-country menu-item-62662"><a href="https://www.arctictoday.com/country/norway/">Norway</a></li>
+	<li id="menu-item-62663" class="menu-item menu-item-type-taxonomy menu-item-object-country menu-item-62663"><a href="https://www.arctictoday.com/country/finland/">Finland</a></li>
+	<li id="menu-item-62664" class="menu-item menu-item-type-taxonomy menu-item-object-country menu-item-62664"><a href="https://www.arctictoday.com/country/iceland/">Iceland</a></li>
+	<li id="menu-item-62668" class="menu-item menu-item-type-taxonomy menu-item-object-country menu-item-62668"><a href="https://www.arctictoday.com/country/usa/">USA</a></li>
+	<li id="menu-item-62665" class="menu-item menu-item-type-taxonomy menu-item-object-country menu-item-62665"><a href="https://www.arctictoday.com/country/canada/">Canada</a></li>
+	<li id="menu-item-62666" class="menu-item menu-item-type-taxonomy menu-item-object-country menu-item-62666"><a href="https://www.arctictoday.com/country/denmark/">Denmark</a></li>
+	<li id="menu-item-62667" class="menu-item menu-item-type-taxonomy menu-item-object-country menu-item-62667"><a href="https://www.arctictoday.com/country/greenland/">Greenland</a></li>
+	<li id="menu-item-64963" class="menu-item menu-item-type-taxonomy menu-item-object-country current-post-ancestor current-menu-parent current-post-parent menu-item-64963"><a href="https://www.arctictoday.com/country/russia/">Russia</a></li>
+</ul>
+</li>
+<li id="menu-item-62290" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-62290"><a href="https://www.arctictoday.com/about-us/">About Us</a></li>
+<li id="menu-item-140012" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-140012"><a href="https://www.arctictoday.com/arctic-knowledge-archives/">Archives</a></li>
+</ul>									</div>
+									<div class="cs-menu-tabs-content cs-menu-2">
+										    <div id="signin-wrapper" class="signin-wrapper">
+        <!-- <div class="loading-text"></div>  -->
+        <a class="btn tbtn-secondary d-lg-block d-none" href="/login">Sign In/Get Passport</a>
+        <a href="" class="d-none">no btn</a>
+    </div>
+    									</div>
+								</div>
+								
+								<div class="upperHeaderRight d-lg-none">
+									<div class="subscriveNewsletter">			<div class="textwidget"><p><a title="Subscribe to our newsletter" href="https://www.arctictoday.com/subscribe-to-our-newsletter/">subscribe to our newsletter</a></p>
+</div>
+		</div>									<ul id="menu-social-media-1" class="menu social-list"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-62301"><a target="_blank" href="https://www.linkedin.com/company/arctictoday" title="Linkedin"><i class="fa-brands fa-linkedin-in"></i></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-62299"><a target="_blank" href="https://www.facebook.com/arctictoday/" title="Facebook"><i class="fa-brands fa-facebook-f"></i></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-62300"><a target="_blank" href="https://www.instagram.com/arctic_today/?hl=en" title="Instagram"><i class="fa-brands fa-instagram"></i></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-62302"><a target="_blank" href="https://x.com/arctic_today" title="X"><i class="fa-brands fa-x"></i></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-62303"><a target="_blank" href="/cdn-cgi/l/email-protection#80e9eee6efc0e1f2e3f4e9e3e2e9faeaeff5f2eee1ecaee3efed" title="Email"><i class="fa-regular fa-envelope"></i></a></li>
+<li class="bluesky-icon menu-item menu-item-type-custom menu-item-object-custom menu-item-129390"><a target="_blank" href="https://bsky.app/profile/arctictoday.bsky.social" title="Bluesky"><i class="fa-brands fa-square-bluesky"></i></a></li>
+</ul>								</div>
+						</div>
+					</div>
+					<a href="https://www.arctictoday.com/" class="custom-logo-link" rel="home"><img src="https://www.arctictoday.com/wp-content/uploads/2026/04/arctic-today-logo.svg" class="custom-logo" title="ArcticToday" alt="Arctictoday" decoding="async" /></a>					
+					
+
+
+					<div class="upperHeaderRight d-lg-block d-none">
+					      <div id="signin-wrapper" class="signin-wrapper">
+        <!-- <div class="loading-text"></div>  -->
+        <a class="btn tbtn-secondary d-lg-block d-none" href="/login">Sign In/Get Passport</a>
+        <a href="" class="d-none">no btn</a>
+    </div>
+    						<div class="subscriveNewsletter">			<div class="textwidget"><p><a title="Subscribe to our newsletter" href="https://www.arctictoday.com/subscribe-to-our-newsletter/">subscribe to our newsletter</a></p>
+</div>
+		</div>											</div>
+										
+					<div type="button" type="button" class="search-modal d-lg-none d-block" data-bs-toggle="modal"
+							data-bs-target="#search-modal">
+							<i class="fa-solid fa-magnifying-glass"></i>
+						</div>
+				</div>
+				<div class="lower-header d-lg-flex d-none">
+					<div class="container d-flex align-items-center cs-menu-blue cs-menu-custom">
+						<button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+							data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+							aria-expanded="false" aria-label="Toggle navigation">
+							<span class="navbar-toggler-icon"></span>
+						</button>
+						<div class="collapse navbar-collapse set-postion" id="navbarSupportedContent">
+							<ul id="menu-main-menu-new-1" class="menu header-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-62277"><a href="https://www.arctictoday.com/">Home</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-62278"><a href="https://www.arctictoday.com/category/top-line/">Business</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-62279"><a href="https://www.arctictoday.com/category/technology/">Technology</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-93142"><a href="https://www.arctictoday.com/category/arctic-economy/shipping/">Shipping</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-62281"><a href="https://www.arctictoday.com/category/arctic-economy/tourism/">Tourism</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-93143"><a href="https://www.arctictoday.com/category/arctic-economy/energy/">Energy</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-75073"><a href="https://www.arctictoday.com/category/travel-tourism/">Travel</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-70064"><a href="https://www.arctictoday.com/category/security-politics/">Geopolitics</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-62288"><a href="https://www.arctictoday.com/category/environment/">Environment</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-country menu-item-has-children menu-item-62660"><a href="https://www.arctictoday.com/country/sweden/">Countries</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-country menu-item-62661"><a href="https://www.arctictoday.com/country/sweden/">Sweden</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-country menu-item-62662"><a href="https://www.arctictoday.com/country/norway/">Norway</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-country menu-item-62663"><a href="https://www.arctictoday.com/country/finland/">Finland</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-country menu-item-62664"><a href="https://www.arctictoday.com/country/iceland/">Iceland</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-country menu-item-62668"><a href="https://www.arctictoday.com/country/usa/">USA</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-country menu-item-62665"><a href="https://www.arctictoday.com/country/canada/">Canada</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-country menu-item-62666"><a href="https://www.arctictoday.com/country/denmark/">Denmark</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-country menu-item-62667"><a href="https://www.arctictoday.com/country/greenland/">Greenland</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-country current-post-ancestor current-menu-parent current-post-parent menu-item-64963"><a href="https://www.arctictoday.com/country/russia/">Russia</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-62290"><a href="https://www.arctictoday.com/about-us/">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-140012"><a href="https://www.arctictoday.com/arctic-knowledge-archives/">Archives</a></li>
+</ul>						<div type="button" type="button" class="search-modal d-lg-block d-none" data-bs-toggle="modal"
+							data-bs-target="#search-modal">
+							<i class="fa-solid fa-magnifying-glass"></i>
+						</div>
+						</div>
+					</div>
+				</div>
+			</nav>
+		</header>
+		
+<style>
+.popup-search 
+{
+    position: relative;
+}
+</style>
+<div class="modal fade search-popup" id="search-modal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true"   data-bs-keyboard="false" data-bs-backdrop="static">
+  <div data-rocket-location-hash="35ad153c3dc207c979106a3819017989" class="modal-dialog">
+    <div class="modal-content bg-transparent">
+                <button  type="button" class="btn-close close-popup" data-bs-dismiss="modal" aria-label="Close"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 352 512"><path d="M242.72 256l100.07-100.07c12.28-12.28 12.28-32.19 0-44.48l-22.24-22.24c-12.28-12.28-32.19-12.28-44.48 0L176 189.28 75.93 89.21c-12.28-12.28-32.19-12.28-44.48 0L9.21 111.45c-12.28 12.28-12.28 32.19 0 44.48L109.28 256 9.21 356.07c-12.28 12.28-12.28 32.19 0 44.48l22.24 22.24c12.28 12.28 32.2 12.28 44.48 0L176 322.72l100.07 100.07c12.28 12.28 32.2 12.28 44.48 0l22.24-22.24c12.28-12.28 12.28-32.19 0-44.48L242.72 256z"/></svg></button>
+
+        <div id="pop-outer">
+            <div class="pop-inner">
+                <h2>Search Arctic Today</h2>
+                    <div class="popup-search">
+                        <input type="text" placeholder="Search …"  class="search-keyword" name="search_keyword" autocomplete="off" />
+                        <button id="clear" style="display: none;" class="clear-data">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 352 512">
+                          <path d="M242.72 256l100.07-100.07c12.28-12.28 12.28-32.19 0-44.48l-22.24-22.24c-12.28-12.28-32.19-12.28-44.48 0L176 189.28 75.93 89.21c-12.28-12.28-32.19-12.28-44.48 0L9.21 111.45c-12.28 12.28-12.28 32.19 0 44.48L109.28 256 9.21 356.07c-12.28 12.28-12.28 32.19 0 44.48l22.24 22.24c12.28 12.28 32.2 12.28 44.48 0L176 322.72l100.07 100.07c12.28 12.28 32.2 12.28 44.48 0l22.24-22.24c12.28-12.28 12.28-32.19 0-44.48L242.72 256z" />
+                        </svg>
+                      </button>
+                    </div>
+                    <div class="search-content-section">
+                  <div class="res-post">Results</div>
+                  <div id="search-all-res" class="search-all-res">
+                      <!-- <h2> <a href="https://www.arctictoday.com/renowned-endurance-athlete-steve-cannon-launches-cancer-research-fundraising-campaign-timed-with-the-2020-iditarod-trail-invitational/" class="search-posts-res">­­­­­­­­­­­Renowned endurance athlete Steve Cannon launches cancer research fundraising campaign timed with <span class="highlight">the</span> 2020 Iditarod Trail Invitational</a></h2>
+                      <h2> <a href="https://www.arctictoday.com/americas-got-game-arctic-says-defense-secretary-mattis/" class="search-posts-res">‘America’s got to up its game in <span class="highlight">the</span> Arctic,’ says Defense Secretary Mattis</a></h2> -->
+                  </div>
+                  <!-- <a id="view-all-posts" href="/?s=the">View All</a> -->
+                </div>
+                <div class="arctic-business-journal-loader" style="display: none;"></div>
+                
+            </div>
+        </div>
+      </div>
+  </div>
+</div>
+
+<div data-rocket-location-hash="7f51088e733b7cfb9a6939efe1b2bd40" class="single-page mt-4">
+	<div data-rocket-location-hash="b19ff5e65276d6246445148c6504da19" class="blog-single-row-top d-flex flex-wrap">
+		<div class="blog-single-top above-768-hide w-100 container">
+			<div class="col-inner">
+				<div class="cs-article-common-ad cs-article-ad-mobile-1 cs-mobile-ads ratio-320-100">
+                                    </div>
+			</div>
+		</div>
+		<div class="blog-single-row-top-left col-common-left below-768-hide">
+			<div class="col-inner">
+				<div class="square-empty-box"></div>
+				<div class="cs-single-ad-left-2 cs-new-ads ratio-300-600">
+									</div>
+			</div>
+		</div>
+		<div class="col-common-center">
+			<div class="container set-new-cont-width col-inner">
+				<div class="entry-crumbs">
+			<!-- <span><a class="entry-crumb" href="https://www.arctictoday.com/">Home</a></span>
+			<i class="fa-solid fa-angle-right"></i>
+			<span class="td-bred-no-url-last">Tags</span>
+			<i class="fa-solid fa-angle-right"></i>
+			<span class="td-bred-no-url-last">Russia</span> -->
+			<span><span><a href="https://www.arctictoday.com/">Home</a></span> <i class="fa-solid fa-angle-right"></i> <span><a href="https://www.arctictoday.com/category/uncategorized/">Uncategorized</a></span> <i class="fa-solid fa-angle-right"></i> <span class="breadcrumb_last" aria-current="page">Sanctioned tanker with unclear ownership and dubious insurance sails unchallenged along Norwegian coast</span></span>		</div>
+
+				<div class="cata-post-list">
+										<a href="https://www.arctictoday.com/category/uncategorized/" title="Uncategorized">
+						Uncategorized					</a>
+									</div>
+											<div class="patner-text">
+								Atle Staalesen							</div>
+								<div class="post-content" id="main">
+					<h1>
+						Sanctioned tanker with unclear ownership and dubious insurance sails unchallenged along Norwegian coast					</h1>
+
+					<h4 class="single-subtitle">
+											</h4>
+					<style>
+					.inner-date {
+						display: grid;
+					}
+					</style>
+					<div class="single-detail-wrapper">
+						<div class="date">
+																		<!-- <img src="" alt=""> -->
+																						<div class="inner-date">
+												<span class="by-author">
+																									</span>
+												<span class=" inner-date">March 24, 2026</span>
+																								<a target="_blank" href="https://thebarentsobserver.com/en"
+													title="The Independent Barents Observer"
+													class="sponsarrd_link">The Independent Barents Observer</a>
+
+																							</div>
+																																</div>
+
+                                    	
+										<div class="views d-none" id="post-views-126759">
+
+										</div>
+									
+					</div>
+
+					<!-- Featured Image-->
+					<div class="post-thumbnail"><img width="1920" height="1080" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201920%201080'%3E%3C/svg%3E" class="attachment-full size-full wp-post-image" alt="" decoding="async" fetchpriority="high" data-lazy-srcset="https://www.arctictoday.com/wp-content/uploads/2026/04/447350-25.webpimageid447350width1920height1080formatwebp 1920w, https://www.arctictoday.com/wp-content/uploads/2026/04/447350-25-300x169.webpimageid447350width1920height1080formatwebp 300w, https://www.arctictoday.com/wp-content/uploads/2026/04/447350-25-1024x576.webpimageid447350width1920height1080formatwebp 1024w, https://www.arctictoday.com/wp-content/uploads/2026/04/447350-25-768x432.webpimageid447350width1920height1080formatwebp 768w, https://www.arctictoday.com/wp-content/uploads/2026/04/447350-25-1536x864.webpimageid447350width1920height1080formatwebp 1536w" data-lazy-sizes="(max-width: 1920px) 100vw, 1920px" data-lazy-src="https://www.arctictoday.com/wp-content/uploads/2026/04/447350-25.webpimageid447350width1920height1080formatwebp" /><noscript><img width="1920" height="1080" src="https://www.arctictoday.com/wp-content/uploads/2026/04/447350-25.webpimageid447350width1920height1080formatwebp" class="attachment-full size-full wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://www.arctictoday.com/wp-content/uploads/2026/04/447350-25.webpimageid447350width1920height1080formatwebp 1920w, https://www.arctictoday.com/wp-content/uploads/2026/04/447350-25-300x169.webpimageid447350width1920height1080formatwebp 300w, https://www.arctictoday.com/wp-content/uploads/2026/04/447350-25-1024x576.webpimageid447350width1920height1080formatwebp 1024w, https://www.arctictoday.com/wp-content/uploads/2026/04/447350-25-768x432.webpimageid447350width1920height1080formatwebp 768w, https://www.arctictoday.com/wp-content/uploads/2026/04/447350-25-1536x864.webpimageid447350width1920height1080formatwebp 1536w" sizes="(max-width: 1920px) 100vw, 1920px" /></noscript></div>					<!-- Featured Image-->
+					<div class='heateorSssClear'></div><div  class='heateor_sss_sharing_container heateor_sss_horizontal_sharing' data-heateor-sss-href='https://www.arctictoday.com/sanctioned-tanker-with-unclear-ownership-and-dubious-insurance-sails-unchallenged-along-norwegian-coast/'><div class='heateor_sss_sharing_title' style="font-weight:bold" ></div><div class="heateor_sss_sharing_ul"><a aria-label="Facebook" class="heateor_sss_facebook" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.arctictoday.com%2Fsanctioned-tanker-with-unclear-ownership-and-dubious-insurance-sails-unchallenged-along-norwegian-coast%2F" title="Facebook" rel="nofollow noopener" target="_blank" style="font-size:32px!important;box-shadow:none;display:inline-block;vertical-align:middle"><span class="heateor_sss_svg" style="background-color:#0765FE;width:35px;height:35px;display:inline-block;opacity:1;float:left;font-size:32px;box-shadow:none;display:inline-block;font-size:16px;padding:0 4px;vertical-align:middle;background-repeat:repeat;overflow:hidden;padding:0;cursor:pointer;box-sizing:content-box"><svg style="display:block;" focusable="false" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 32 32"><path fill="#fff" d="M28 16c0-6.627-5.373-12-12-12S4 9.373 4 16c0 5.628 3.875 10.35 9.101 11.647v-7.98h-2.474V16H13.1v-1.58c0-4.085 1.849-5.978 5.859-5.978.76 0 2.072.15 2.608.298v3.325c-.283-.03-.775-.045-1.386-.045-1.967 0-2.728.745-2.728 2.683V16h3.92l-.673 3.667h-3.247v8.245C23.395 27.195 28 22.135 28 16Z"></path></svg></span></a><a aria-label="Twitter" class="heateor_sss_button_twitter" href="https://twitter.com/intent/tweet?text=Sanctioned%20tanker%20with%20unclear%20ownership%20and%20dubious%20insurance%20sails%20unchallenged%20along%20Norwegian%20coast&url=https%3A%2F%2Fwww.arctictoday.com%2Fsanctioned-tanker-with-unclear-ownership-and-dubious-insurance-sails-unchallenged-along-norwegian-coast%2F" title="Twitter" rel="nofollow noopener" target="_blank" style="font-size:32px!important;box-shadow:none;display:inline-block;vertical-align:middle"><span class="heateor_sss_svg heateor_sss_s__default heateor_sss_s_twitter" style="background-color:#55acee;width:35px;height:35px;display:inline-block;opacity:1;float:left;font-size:32px;box-shadow:none;display:inline-block;font-size:16px;padding:0 4px;vertical-align:middle;background-repeat:repeat;overflow:hidden;padding:0;cursor:pointer;box-sizing:content-box"><svg style="display:block;" focusable="false" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="-4 -4 39 39"><path d="M28 8.557a9.913 9.913 0 0 1-2.828.775 4.93 4.93 0 0 0 2.166-2.725 9.738 9.738 0 0 1-3.13 1.194 4.92 4.92 0 0 0-3.593-1.55 4.924 4.924 0 0 0-4.794 6.049c-4.09-.21-7.72-2.17-10.15-5.15a4.942 4.942 0 0 0-.665 2.477c0 1.71.87 3.214 2.19 4.1a4.968 4.968 0 0 1-2.23-.616v.06c0 2.39 1.7 4.38 3.952 4.83-.414.115-.85.174-1.297.174-.318 0-.626-.03-.928-.086a4.935 4.935 0 0 0 4.6 3.42 9.893 9.893 0 0 1-6.114 2.107c-.398 0-.79-.023-1.175-.068a13.953 13.953 0 0 0 7.55 2.213c9.056 0 14.01-7.507 14.01-14.013 0-.213-.005-.426-.015-.637.96-.695 1.795-1.56 2.455-2.55z" fill="#fff"></path></svg></span></a><a aria-label="Linkedin" class="heateor_sss_button_linkedin" href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.arctictoday.com%2Fsanctioned-tanker-with-unclear-ownership-and-dubious-insurance-sails-unchallenged-along-norwegian-coast%2F" title="Linkedin" rel="nofollow noopener" target="_blank" style="font-size:32px!important;box-shadow:none;display:inline-block;vertical-align:middle"><span class="heateor_sss_svg heateor_sss_s__default heateor_sss_s_linkedin" style="background-color:#0077b5;width:35px;height:35px;display:inline-block;opacity:1;float:left;font-size:32px;box-shadow:none;display:inline-block;font-size:16px;padding:0 4px;vertical-align:middle;background-repeat:repeat;overflow:hidden;padding:0;cursor:pointer;box-sizing:content-box"><svg style="display:block;" focusable="false" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 32 32"><path d="M6.227 12.61h4.19v13.48h-4.19V12.61zm2.095-6.7a2.43 2.43 0 0 1 0 4.86c-1.344 0-2.428-1.09-2.428-2.43s1.084-2.43 2.428-2.43m4.72 6.7h4.02v1.84h.058c.56-1.058 1.927-2.176 3.965-2.176 4.238 0 5.02 2.792 5.02 6.42v7.395h-4.183v-6.56c0-1.564-.03-3.574-2.178-3.574-2.18 0-2.514 1.7-2.514 3.46v6.668h-4.187V12.61z" fill="#fff"></path></svg></span></a><a aria-label="Email" class="heateor_sss_email" href="https://www.arctictoday.com/sanctioned-tanker-with-unclear-ownership-and-dubious-insurance-sails-unchallenged-along-norwegian-coast/" onclick="event.preventDefault();window.open('mailto:?subject=' + decodeURIComponent('Sanctioned%20tanker%20with%20unclear%20ownership%20and%20dubious%20insurance%20sails%20unchallenged%20along%20Norwegian%20coast').replace('&', '%26') + '&body=https%3A%2F%2Fwww.arctictoday.com%2Fsanctioned-tanker-with-unclear-ownership-and-dubious-insurance-sails-unchallenged-along-norwegian-coast%2F', '_blank')" title="Email" rel="noopener" style="font-size:32px!important;box-shadow:none;display:inline-block;vertical-align:middle"><span class="heateor_sss_svg" style="background-color:#649a3f;width:35px;height:35px;display:inline-block;opacity:1;float:left;font-size:32px;box-shadow:none;display:inline-block;font-size:16px;padding:0 4px;vertical-align:middle;background-repeat:repeat;overflow:hidden;padding:0;cursor:pointer;box-sizing:content-box"><svg style="display:block;" focusable="false" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="-.75 -.5 36 36"><path d="M 5.5 11 h 23 v 1 l -11 6 l -11 -6 v -1 m 0 2 l 11 6 l 11 -6 v 11 h -22 v -11" stroke-width="1" fill="#fff"></path></svg></span></a></div><div class="heateorSssClear"></div></div><div class='heateorSssClear'></div><p>The 23-year-old tanker Paz, carrying nearly 150,000 tonnes of sanctioned Russian Arctic oil, departed from Murmansk on March 10. Despite suspicions that it may be operating with falsified insurance documents, Norwegian authorities did not intervene.</p>
+<p><p>The 174-metre-long oil tanker, sailing under a false flag, set a course through Norwegian waters and travelled south along the entire Norwegian coast. By March 24, it had reached waters south of the Canary Islands. For many years, the Paz—originally named Nordic Cosmos—was operated by Nordic American Tanker Ltd, a Norwegian shipping company. Today, it is part of the so-called &#8220;shadow fleet,&#8221; transporting sanctioned Russian oil to international buyers. Before October 2022, the vessel was known as Aulis. </p>
+<p>Over the past two years, it has changed its flag state four times. According to the shipping database Equasis, it currently sails under a false Curaçao flag, though other ship-tracking services list its flag as Mozambique. Prior to March 2025, its flag state was unknown. Ownership and management of the Paz remain unclear. Equasis lists its owner and manager as &#8220;Rptd Sold Undisclosed Interest,&#8221; a term used in shipping records when the buyer or seller is not publicly disclosed. </p>
+<p>Questions also surround its insurance. Arve Dimmen, Director of Navigation Technology and Maritime Services at the Norwegian Coastal Administration, confirmed to the Barents Observer that the Paz did not provide a valid Civil Liability Convention (CLC) certificate, which proves insurance coverage for oil pollution damage. He also stated that the tanker has no known owner. Despite these concerns, Norwegian authorities took no action as the vessel navigated the country’s extensive and challenging waters. &#8220;Apart from this [the CLC certificate], we have not recorded any particular incidents or unusual sailing patterns in the Norwegian Economic Zone (NEZ),&#8221; Dimmen said in an email to the Barents Observer. </p>
+<div class="wpcf7 no-js" id="wpcf7-f95501-o4" lang="en-US" dir="ltr" data-wpcf7-id="95501">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="/sanctioned-tanker-with-unclear-ownership-and-dubious-insurance-sails-unchallenged-along-norwegian-coast/#wpcf7-f95501-o4" method="post" class="wpcf7-form init" aria-label="Contact form" novalidate="novalidate" data-status="init">
+<fieldset class="hidden-fields-container"><input type="hidden" name="_wpcf7" value="95501" /><input type="hidden" name="_wpcf7_version" value="6.2.3" /><input type="hidden" name="_wpcf7_locale" value="en_US" /><input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f95501-o4" /><input type="hidden" name="_wpcf7_container_post" value="0" /><input type="hidden" name="_wpcf7_posted_data_hash" value="" /><input type="hidden" name="_wpcf7_recaptcha_response" value="" />
+</fieldset>
+<div class="newsletter-form-outer">
+	<div class="row align-items-center text-center text-lg-start">
+		<div class="col-12">
+			<div class="col-inner">
+				<h3 class="fw-bold pb-4 fs-30 text-center">Bring the Arctic to your inbox with our newsletter
+				</h3>
+			</div>
+		</div>
+		<div class="col-12">
+			<div class="col-inner">
+				<div class="newsletter-form-group d-flex align-items-start form-group">
+					<div class="newsletter-input-outer">
+						<p><span class="wpcf7-form-control-wrap" data-name="your-email"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email form-control newsletter-input" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="Enter your email address..." value="" type="email" name="your-email" /></span>
+						</p>
+					</div>
+				<input class="wpcf7-form-control wpcf7-hidden" value="" type="hidden" name="recaptcha_v3_token" />
+					<div class="newsletter-btn-outer">
+						<p><input class="wpcf7-form-control wpcf7-submit has-spinner btn btn-primary newsletter-btn" type="submit" value="SIGN UP" />
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div><div class="wpcf7-response-output" aria-hidden="true"></div>
+</form>
+</div>
+<div class="cs-article-common-ad cs-single-ad-left-1 cs-article-ad-mobile-2 above-768-hide cs-mobile-ads ratio-300-250"></div>
+<p>The Paz has attracted the attention of Ukrainian intelligence, which reported that the tanker is sailing with fake insurance. According to Ukrainian sources, the vessel claims to hold an insurance certificate from the German company &#8220;Seaguard P&amp;I&#8221;, but no such entity appears in German registries. Operators of Russia’s shadow fleet are increasingly wary of foreign law enforcement actions. Over the past three months, the French Navy boarded two shadow tankers carrying Russian Arctic oil in the Mediterranean. Authorities in Germany, the UK, Sweden, and Denmark have also taken enforcement actions against Russia-affiliated carriers. </p>
+<p>In early March 2026, the Arctic Metagaz, a sanctioned LNG carrier transporting gas from the Kola Peninsula, was attacked and destroyed by drones in the Mediterranean. Norvald Kjerstad, a Norwegian professor specialising in ice navigation, suggests that Russia’s sanctioned LNG carriers are now opting for the longer route around Africa instead of passing through the Suez Canal. &#8220;This is likely a result of the attack on the Arctic Metagaz in the Mediterranean,&#8221; he told the Barents Observer. The Paz is also taking the route around Africa, with China as its likely destination. The Paz is one of many tankers with unclear ownership that load oil in the northern port of Murmansk. </p>
+<p>Since October 2025, over 80 sanctioned &#8220;shadow vessels&#8221; have sailed along the Norwegian coast to Murmansk. Despite the questionable nature of many of these ships, Norwegian law enforcement has yet to take action against any of them.</p></p>
+</p>
+				</div>
+			</div>
+		</div>
+		<div class="blog-single-row-top-right col-common-right container">
+			<div class="col-inner">
+				<div class="cs-single-ad-right-3 cs-new-ads below-768-hide ratio-336-280">
+									</div>
+				<div class="square-empty-box"></div>
+										<div class="cs-most-read-posts d-none">
+							<h3 class="text-black fw-bold">Most Read Stories</h3>
+							<div class="cs-most-read-list">
+
+																	<div class="most-read-item">
+										<a href="https://www.arctictoday.com/new-new-shipping-rosatom-to-build-five-container-ships-for-year-round-arctic-sailings/" class="d-flex flex-wrap gap-3 align-items-center" title="New New Shipping, Rosatom to build five container ships for year-round Arctic sailings">
+																							<div class="thumb">
+													<img width="150" height="150" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" data-lazy-src="https://www.arctictoday.com/wp-content/uploads/2025/07/431831-16-150x150.webpimageid431831width1920height1080formatwebp" /><noscript><img width="150" height="150" src="https://www.arctictoday.com/wp-content/uploads/2025/07/431831-16-150x150.webpimageid431831width1920height1080formatwebp" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" /></noscript>												</div>
+																						<div class="post-content">
+												<p>New New Shipping, Rosatom to build five container ships for year-round Arctic sailings</p>
+											</div>
+										</a>
+									</div>
+															</div>
+						</div>
+									<div class="cs-single-ad-left-3 cs-new-ads below-768-hide ratio-300-600">
+									</div>
+			</div>
+		</div>
+	</div>
+	<div data-rocket-location-hash="78b016bd0bb13fd981236c6d3ba767b5" class="blog-single-row-bottom d-flex flex-wrap">
+		<div class="blog-single-row-bottom-left col-common-left">
+			<div class="col-inner mt-5">
+				<div class="cs-single-ad-left-4 cs-new-ads below-768-hide ratio-300-250">
+									</div>
+			</div>
+		</div>
+		<div class="col-common-center">
+			<div class="col-inner container">
+				<div class="row gx-5 seprator-wrapper">
+															<div class="tags-wraper">
+						<h3 class="font-roman c-black">Country</h3>
+												<a href="https://www.arctictoday.com/country/russia/" title="russia">
+							russia						</a>
+											</div>
+									</div>
+										
+	<nav class="navigation post-navigation" aria-label="Posts">
+		<h2 class="screen-reader-text">Post navigation</h2>
+		<div class="nav-links"><div class="nav-previous"><a href="https://www.arctictoday.com/pushing-for-change-in-canadas-lone-deepwater-arctic-port/" rel="prev"><span class="nav-subtitle"><i class="fa-solid fa-angle-left"></i>Previous Article</span> <span class="nav-title">Pushing for change in Canada’s lone deepwater Arctic port</span></a></div><div class="nav-next"><a href="https://www.arctictoday.com/meet-the-norwegian-influencer-that-promotes-russia/" rel="next"><span class="nav-subtitle">Next Article<i class="fa-solid fa-angle-right"></i></span> <span class="nav-title">Meet the Norwegian influencer that promotes Russia</span></a></div></div>
+	</nav>
+				<!-- </div> -->
+				<div class="singleNewsLetterWrap">
+					<div class="container">
+						<a href="/subscribe-to-our-newsletter/" class="singleNewsLetterBtn" title="SIGN UP FOR NEWSLETTER">SIGN UP
+							FOR NEWSLETTER</a>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="blog-single-row-bottom-right col-common-right">
+			<div class="col-inner">
+				
+			</div>
+		</div>
+		<div class="blog-single-bottom w-100 below-768-hide mb-5">
+			<div class="col-inner">
+				<div class="cs-single-ad-left-5 cs-new-ads ratio-970-250">
+									</div>
+			</div>
+		</div>
+		<div class="blog-single-top above-768-hide w-100 container">
+			<div class="col-inner">
+				<div class="cs-article-common-ad cs-article-ad-mobile-3 cs-mobile-ads ratio-320-100">
+                                    </div>
+			</div>
+		</div>
+	</div>
+</div>
+
+	<footer data-rocket-location-hash="ee1c68c64bb441e3cc9b1ab95e8571df" class="footer">
+		<div data-rocket-location-hash="c26e98d6c874427225e7beac5aa51ac5" class="container upper-footer">
+			<div class="footer-logo"><a href="https://www.arctictoday.com/"><img src="https://www.arctictoday.com/wp-content/uploads/2026/04/arctic-today-logo.svg" class="image wp-image-128681  attachment-full size-full" alt="Arctictoday" style="max-width: 100%; height: auto;" title="ArcticToday" decoding="async" /></a></div><div class="footer-logo">			<div class="textwidget"><p><span data-olk-copy-source="MessageBody">News and analysis from throughout the Arctic region.</span></p>
+</div>
+		</div>			<div class="footer-social"><div class="menu-social-media-container"><ul id="menu-social-media-2" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-62301"><a target="_blank" href="https://www.linkedin.com/company/arctictoday" title="Linkedin"><i class="fa-brands fa-linkedin-in"></i></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-62299"><a target="_blank" href="https://www.facebook.com/arctictoday/" title="Facebook"><i class="fa-brands fa-facebook-f"></i></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-62300"><a target="_blank" href="https://www.instagram.com/arctic_today/?hl=en" title="Instagram"><i class="fa-brands fa-instagram"></i></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-62302"><a target="_blank" href="https://x.com/arctic_today" title="X"><i class="fa-brands fa-x"></i></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-62303"><a target="_blank" href="/cdn-cgi/l/email-protection#422b2c242d02233021362b21202b38282d37302c232e6c212d2f" title="Email"><i class="fa-regular fa-envelope"></i></a></li>
+<li class="bluesky-icon menu-item menu-item-type-custom menu-item-object-custom menu-item-129390"><a target="_blank" href="https://bsky.app/profile/arctictoday.bsky.social" title="Bluesky"><i class="fa-brands fa-square-bluesky"></i></a></li>
+</ul></div></div>			<div class="footer-contact">			<div class="textwidget"><ul>
+<li><strong>For editorial inquiries: </strong><br />
+<a title="info@arctictoday.com" href="/cdn-cgi/l/email-protection#c8a1a6aea788a9baabbca1abbca7aca9b1e6aba7a5"><span class="__cf_email__" data-cfemail="4920272f2609283b2a3d202a3d262d2830672a2624">[email&#160;protected]</span></a></li>
+<li><strong>For passport inquiries:</strong><br />
+<a title="passport@arctictoday.com" href="/cdn-cgi/l/email-protection#7909180a0a09160b0d39180b1a0d101a0d161d1800571a1614"><span class="__cf_email__" data-cfemail="7808190b0b08170a0c38190a1b0c111b0c171c1901561b1715">[email&#160;protected]</span></a></li>
+</ul>
+</div>
+		</div>			<div class="footer-button">			<div class="textwidget"><p><a class="btn tbtn-secondary" title="Support us with a donation" href="https://www.arctictoday.com/passport-donate/">Support us with a donation</a></p>
+</div>
+		</div>		</div>
+		<div data-rocket-location-hash="f3759962f381eeb2f61ef321fb6e6d66" class="lower-side-bar">
+			<div class="container">
+				<div class="footer-copyright">
+                    <div class="textwidget">
+                        <p>© 2026 Arctic Today. All rights reserved.</p>
+                    </div>
+                </div>
+			</div>
+		</div>
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/rocketlazyloadscript" data-rocket-type='text/javascript'>
+/* <![CDATA[ */
+var advancedAds = {"tracker":{"trigger":"rendered","ga":{"ids":["G-604QB2D5QK"],"impression":"advanced_ads_impression","click":"advanced_ads_click"}},"blogId":"1","privacy":{"enabled":false,"state":"not_needed"}};
+
+/* ]]> */
+</script>
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/arctictoday_new/*","/*\\?(.+)","/linkout/*"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<!--googleoff: all--><div id="cookie-law-info-bar" data-nosnippet="true"><span>This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish. <a role="button" tabindex="0" class="cli_settings_button" style="margin:5px 20px 5px 20px">Cookie settings</a><a role="button" tabindex="0" data-cli_action="accept" id="cookie_action_close_header" class="medium cli-plugin-button cli-plugin-main-button cookie_action_close_header cli_action_button wt-cli-accept-btn" style="display:inline-block;margin:5px">ACCEPT</a></span></div><div id="cookie-law-info-again" style="display:none" data-nosnippet="true"><span id="cookie_hdr_showagain">Privacy &amp; Cookies Policy</span></div><div class="cli-modal" data-nosnippet="true" id="cliSettingsPopup" tabindex="-1" role="dialog" aria-labelledby="cliSettingsPopup" aria-hidden="true">
+  <div class="cli-modal-dialog" role="document">
+	<div class="cli-modal-content cli-bar-popup">
+		  <button type="button" class="cli-modal-close" id="cliModalClose">
+			<svg class="" viewBox="0 0 24 24"><path d="M19 6.41l-1.41-1.41-5.59 5.59-5.59-5.59-1.41 1.41 5.59 5.59-5.59 5.59 1.41 1.41 5.59-5.59 5.59 5.59 1.41-1.41-5.59-5.59z"></path><path d="M0 0h24v24h-24z" fill="none"></path></svg>
+			<span class="wt-cli-sr-only">Close</span>
+		  </button>
+		  <div class="cli-modal-body">
+			<div class="cli-container-fluid cli-tab-container">
+	<div class="cli-row">
+		<div class="cli-col-12 cli-align-items-stretch cli-px-0">
+			<div class="cli-privacy-overview">
+				<h4>Privacy Overview</h4>				<div class="cli-privacy-content">
+					<div class="cli-privacy-content-text">This website uses cookies to improve your experience while you navigate through the website. Out of these cookies, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may have an effect on your browsing experience.</div>
+				</div>
+				<a class="cli-privacy-readmore" aria-label="Show more" tabindex="0" role="button" data-readmore-text="Show more" data-readless-text="Show less"></a>			</div>
+		</div>
+		<div class="cli-col-12 cli-align-items-stretch cli-px-0 cli-tab-section-container">
+												<div class="cli-tab-section">
+						<div class="cli-tab-header">
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="necessary" data-toggle="cli-toggle-tab">
+								Necessary							</a>
+																						<div class="wt-cli-necessary-checkbox">
+									<input type="checkbox" class="cli-user-preference-checkbox" id="wt-cli-checkbox-necessary" data-id="checkbox-necessary" checked="checked" />
+									<label class="form-check-label" for="wt-cli-checkbox-necessary">Necessary</label>
+								</div>
+								<span class="cli-necessary-caption">Always Enabled</span>
+													</div>
+						<div class="cli-tab-content">
+							<div class="cli-tab-pane cli-fade" data-id="necessary">
+								<div class="wt-cli-cookie-description">
+									These cookies are required for any website to function properly. Please note that these cookies do not store personal information of the web user.								</div>
+							</div>
+						</div>
+					</div>
+																	<div class="cli-tab-section">
+						<div class="cli-tab-header">
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="non-necessary" data-toggle="cli-toggle-tab">
+								Non-necessary							</a>
+																						<div class="cli-switch">
+									<input type="checkbox" id="wt-cli-checkbox-non-necessary" class="cli-user-preference-checkbox" data-id="checkbox-non-necessary" checked='checked' />
+									<label for="wt-cli-checkbox-non-necessary" class="cli-slider" data-cli-enable="Enabled" data-cli-disable="Disabled"><span class="wt-cli-sr-only">Non-necessary</span></label>
+								</div>
+													</div>
+						<div class="cli-tab-content">
+							<div class="cli-tab-pane cli-fade" data-id="non-necessary">
+								<div class="wt-cli-cookie-description">
+									Cookies which are used to collect personal data of web user using analytics or ads.								</div>
+							</div>
+						</div>
+					</div>
+										</div>
+	</div>
+</div>
+		  </div>
+		  <div class="cli-modal-footer">
+			<div class="wt-cli-element cli-container-fluid cli-tab-container">
+				<div class="cli-row">
+					<div class="cli-col-12 cli-align-items-stretch cli-px-0">
+						<div class="cli-tab-footer wt-cli-privacy-overview-actions">
+						
+															<a id="wt-cli-privacy-save-btn" role="button" tabindex="0" data-cli-action="accept" class="wt-cli-privacy-btn cli_setting_save_button wt-cli-privacy-accept-btn cli-btn">SAVE &amp; ACCEPT</a>
+													</div>
+						
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+  </div>
+</div>
+<div data-rocket-location-hash="80451f30ef98365944f97a4061877390" class="cli-modal-backdrop cli-fade cli-settings-overlay"></div>
+<div data-rocket-location-hash="c6adfdb49badca67969c3171b2235e52" class="cli-modal-backdrop cli-fade cli-popupbar-overlay"></div>
+<!--googleon: all-->		<!-- Memberships powered by Paid Memberships Pro v3.9. -->
+	<script data-minify="1" data-wp-strategy="defer" defer id="advads-tracking-tracker-js" src="https://www.arctictoday.com/wp-content/cache/min/1/wp-content/plugins/advanced-ads-tracking/assets/dist/tracker.js?ver=1793959317"></script>
+<script id="wpedon-js-extra">
+var wpedon = {"ajaxUrl":"https://www.arctictoday.com/wp-admin/admin-ajax.php","nonce":"1a5ba6662d","opens":"2","cancel":"https://www.arctictoday.com/cancel-for-donation/","return":"https://www.arctictoday.com/thank-for-donation/"};
+//# sourceURL=wpedon-js-extra
+</script>
+<script type="text/rocketlazyloadscript" data-minify="1" id="wpedon-js" data-rocket-src="https://www.arctictoday.com/wp-content/cache/min/1/wp-content/plugins/easy-paypal-donation/assets/js/wpedon.js?ver=1793959317"></script>
+<script type="text/rocketlazyloadscript" data-minify="1" id="wpascript-js" data-rocket-src="https://www.arctictoday.com/wp-content/cache/min/1/wp-content/plugins/honeypot/includes/js/wpa.js?ver=1793959317"></script>
+<script type="text/rocketlazyloadscript" id="wpascript-js-after">
+wpa_field_info = JSON.parse(atob("eyJ3cGFfZmllbGRfbmFtZSI6ImhxZW92YzY4MTUiLCJ3cGFfZmllbGRfdmFsdWUiOjkzMjMwNCwid3BhX2FkZF90ZXN0Ijoibm8ifQ=="));
+//# sourceURL=wpascript-js-after
+</script>
+<script type="text/rocketlazyloadscript" id="rocket-browser-checker-js-after">
+"use strict";var _createClass=function(){function defineProperties(target,props){for(var i=0;i<props.length;i++){var descriptor=props[i];descriptor.enumerable=descriptor.enumerable||!1,descriptor.configurable=!0,"value"in descriptor&&(descriptor.writable=!0),Object.defineProperty(target,descriptor.key,descriptor)}}return function(Constructor,protoProps,staticProps){return protoProps&&defineProperties(Constructor.prototype,protoProps),staticProps&&defineProperties(Constructor,staticProps),Constructor}}();function _classCallCheck(instance,Constructor){if(!(instance instanceof Constructor))throw new TypeError("Cannot call a class as a function")}var RocketBrowserCompatibilityChecker=function(){function RocketBrowserCompatibilityChecker(options){_classCallCheck(this,RocketBrowserCompatibilityChecker),this.passiveSupported=!1,this._checkPassiveOption(this),this.options=!!this.passiveSupported&&options}return _createClass(RocketBrowserCompatibilityChecker,[{key:"_checkPassiveOption",value:function(self){try{var options={get passive(){return!(self.passiveSupported=!0)}};window.addEventListener("test",null,options),window.removeEventListener("test",null,options)}catch(err){self.passiveSupported=!1}}},{key:"initRequestIdleCallback",value:function(){!1 in window&&(window.requestIdleCallback=function(cb){var start=Date.now();return setTimeout(function(){cb({didTimeout:!1,timeRemaining:function(){return Math.max(0,50-(Date.now()-start))}})},1)}),!1 in window&&(window.cancelIdleCallback=function(id){return clearTimeout(id)})}},{key:"isDataSaverModeOn",value:function(){return"connection"in navigator&&!0===navigator.connection.saveData}},{key:"supportsLinkPrefetch",value:function(){var elem=document.createElement("link");return elem.relList&&elem.relList.supports&&elem.relList.supports("prefetch")&&window.IntersectionObserver&&"isIntersecting"in IntersectionObserverEntry.prototype}},{key:"isSlowConnection",value:function(){return"connection"in navigator&&"effectiveType"in navigator.connection&&("2g"===navigator.connection.effectiveType||"slow-2g"===navigator.connection.effectiveType)}}]),RocketBrowserCompatibilityChecker}();
+//# sourceURL=rocket-browser-checker-js-after
+</script>
+<script id="rocket-preload-links-js-extra">
+var RocketPreloadLinksConfig = {"excludeUris":"/announcements/|/an-inuk-biathlete-from-greenland-accomplishes-a-remarkable-feat-at-beijing-olympics/|/category/sustainability/|/subscribe-to-our-newsletter/|/(?:.+/)?feed(?:/(?:.+/?)?)?$|/(?:.+/)?embed/|/(index.php/)?(.*)wp-json(/.*|$)|/refer/|/go/|/recommend/|/recommends/|/linkout/.+","usesTrailingSlash":"1","imageExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php","fileExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php|html|htm","siteUrl":"https://www.arctictoday.com","onHoverDelay":"100","rateThrottle":"3"};
+//# sourceURL=rocket-preload-links-js-extra
+</script>
+<script type="text/rocketlazyloadscript" id="rocket-preload-links-js-after">
+(function() {
+"use strict";var r="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e},e=function(){function i(e,t){for(var n=0;n<t.length;n++){var i=t[n];i.enumerable=i.enumerable||!1,i.configurable=!0,"value"in i&&(i.writable=!0),Object.defineProperty(e,i.key,i)}}return function(e,t,n){return t&&i(e.prototype,t),n&&i(e,n),e}}();function i(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")}var t=function(){function n(e,t){i(this,n),this.browser=e,this.config=t,this.options=this.browser.options,this.prefetched=new Set,this.eventTime=null,this.threshold=1111,this.numOnHover=0}return e(n,[{key:"init",value:function(){!this.browser.supportsLinkPrefetch()||this.browser.isDataSaverModeOn()||this.browser.isSlowConnection()||(this.regex={excludeUris:RegExp(this.config.excludeUris,"i"),images:RegExp(".("+this.config.imageExt+")$","i"),fileExt:RegExp(".("+this.config.fileExt+")$","i")},this._initListeners(this))}},{key:"_initListeners",value:function(e){-1<this.config.onHoverDelay&&document.addEventListener("mouseover",e.listener.bind(e),e.listenerOptions),document.addEventListener("mousedown",e.listener.bind(e),e.listenerOptions),document.addEventListener("touchstart",e.listener.bind(e),e.listenerOptions)}},{key:"listener",value:function(e){var t=e.target.closest("a"),n=this._prepareUrl(t);if(null!==n)switch(e.type){case"mousedown":case"touchstart":this._addPrefetchLink(n);break;case"mouseover":this._earlyPrefetch(t,n,"mouseout")}}},{key:"_earlyPrefetch",value:function(t,e,n){var i=this,r=setTimeout(function(){if(r=null,0===i.numOnHover)setTimeout(function(){return i.numOnHover=0},1e3);else if(i.numOnHover>i.config.rateThrottle)return;i.numOnHover++,i._addPrefetchLink(e)},this.config.onHoverDelay);t.addEventListener(n,function e(){t.removeEventListener(n,e,{passive:!0}),null!==r&&(clearTimeout(r),r=null)},{passive:!0})}},{key:"_addPrefetchLink",value:function(i){return this.prefetched.add(i.href),new Promise(function(e,t){var n=document.createElement("link");n.rel="prefetch",n.href=i.href,n.onload=e,n.onerror=t,document.head.appendChild(n)}).catch(function(){})}},{key:"_prepareUrl",value:function(e){if(null===e||"object"!==(void 0===e?"undefined":r(e))||!1 in e||-1===["http:","https:"].indexOf(e.protocol))return null;var t=e.href.substring(0,this.config.siteUrl.length),n=this._getPathname(e.href,t),i={original:e.href,protocol:e.protocol,origin:t,pathname:n,href:t+n};return this._isLinkOk(i)?i:null}},{key:"_getPathname",value:function(e,t){var n=t?e.substring(this.config.siteUrl.length):e;return n.startsWith("/")||(n="/"+n),this._shouldAddTrailingSlash(n)?n+"/":n}},{key:"_shouldAddTrailingSlash",value:function(e){return this.config.usesTrailingSlash&&!e.endsWith("/")&&!this.regex.fileExt.test(e)}},{key:"_isLinkOk",value:function(e){return null!==e&&"object"===(void 0===e?"undefined":r(e))&&(!this.prefetched.has(e.href)&&e.origin===this.config.siteUrl&&-1===e.href.indexOf("?")&&-1===e.href.indexOf("#")&&!this.regex.excludeUris.test(e.href)&&!this.regex.images.test(e.href))}}],[{key:"run",value:function(){"undefined"!=typeof RocketPreloadLinksConfig&&new n(new RocketBrowserCompatibilityChecker({capture:!0,passive:!0}),RocketPreloadLinksConfig).init()}}]),n}();t.run();
+}());
+
+//# sourceURL=rocket-preload-links-js-after
+</script>
+<script id="membership-donate-js-extra">
+var membership_donation_ajax = {"ajax_url":"https://www.arctictoday.com/wp-admin/admin-ajax.php","is_single":"singlePage","post_id":"126759"};
+//# sourceURL=membership-donate-js-extra
+</script>
+<script type="text/rocketlazyloadscript" data-minify="1" id="membership-donate-js" data-rocket-src="https://www.arctictoday.com/wp-content/cache/min/1/wp-content/themes/arctictoday_new/inc/membership-donation/assets/js/membership-donate-script.js?ver=1793959326"></script>
+<script id="membership-donation-login-ajax-js-extra">
+var membershipDonationEmailVerificationAjax = {"ajax_url":"https://www.arctictoday.com/wp-admin/admin-ajax.php","security_nonce":"3b3cafb22c"};
+//# sourceURL=membership-donation-login-ajax-js-extra
+</script>
+<script type="text/rocketlazyloadscript" data-minify="1" id="membership-donation-login-ajax-js" data-rocket-src="https://www.arctictoday.com/wp-content/cache/min/1/wp-content/themes/arctictoday_new/inc/membership-donation/assets/js/membership-donation-login-ajax.js?ver=1793959326"></script>
+<script id="custom-membership-js-js-extra">
+var emailVerificationAjax = {"ajax_url":"https://www.arctictoday.com/wp-admin/admin-ajax.php","security_nonce":"dee61c5a61"};
+//# sourceURL=custom-membership-js-js-extra
+</script>
+<script type="text/rocketlazyloadscript" data-minify="1" id="custom-membership-js-js" data-rocket-src="https://www.arctictoday.com/wp-content/cache/min/1/wp-content/themes/arctictoday_new/inc/membership-pro/assets/js/custom-membership-email-verification.js?ver=1793959321"></script>
+<script id="custom-membership-registration-js-js-extra">
+var emailRegistrationAjax = {"ajax_url":"https://www.arctictoday.com/wp-admin/admin-ajax.php","security_nonce":"fc7843f81d"};
+//# sourceURL=custom-membership-registration-js-js-extra
+</script>
+<script type="text/rocketlazyloadscript" data-minify="1" id="custom-membership-registration-js-js" data-rocket-src="https://www.arctictoday.com/wp-content/cache/min/1/wp-content/themes/arctictoday_new/inc/membership-pro/assets/js/custom-membership-registration.js?ver=1793959321"></script>
+<script id="membership-script-js-extra">
+var membership_ajax = {"ajax_url":"https://www.arctictoday.com/wp-admin/admin-ajax.php"};
+//# sourceURL=membership-script-js-extra
+</script>
+<script type="text/rocketlazyloadscript" data-minify="1" id="membership-script-js" data-rocket-src="https://www.arctictoday.com/wp-content/cache/min/1/wp-content/themes/arctictoday_new/inc/membership-pro/assets/js/custom-membership-checkout-script.js?ver=1793959321"></script>
+<script id="visitor-marker-js-extra">
+var atVisitorMarker = {"ajaxUrl":"https://www.arctictoday.com/wp-admin/admin-ajax.php","cookieName":"at_visitor","debug":""};
+//# sourceURL=visitor-marker-js-extra
+</script>
+<script type="text/rocketlazyloadscript" data-minify="1" id="visitor-marker-js" data-rocket-src="https://www.arctictoday.com/wp-content/cache/min/1/wp-content/themes/arctictoday_new/assets/js/visitor-marker.js?ver=1793959317"></script>
+<script type="text/rocketlazyloadscript" id="bootstrap-js" data-rocket-src="https://www.arctictoday.com/wp-content/themes/arctictoday_new/assets/js/bootstrap.bundle.min.js?ver=1698424826"></script>
+<script type="text/rocketlazyloadscript" id="slick-js" data-rocket-src="https://www.arctictoday.com/wp-content/themes/arctictoday_new/assets/js/slick.min.js?ver=1698424826"></script>
+<script id="custom-js-extra">
+var my_ajax_object = {"ajax_url":"https://www.arctictoday.com/wp-admin/admin-ajax.php"};
+//# sourceURL=custom-js-extra
+</script>
+<script type="text/rocketlazyloadscript" data-minify="1" id="custom-js" data-rocket-src="https://www.arctictoday.com/wp-content/cache/min/1/wp-content/themes/arctictoday_new/assets/js/custom.js?ver=1793959317"></script>
+<script type="text/rocketlazyloadscript" id="donate-cdn-js" data-rocket-src="https://js.stripe.com/v3/"></script>
+<script id="custom-script-js-extra">
+var my_ajaxUrl = {"ajaxurl":"https://www.arctictoday.com/wp-admin/admin-ajax.php","post_id":"126759"};
+//# sourceURL=custom-script-js-extra
+</script>
+<script id="custom-script-js" src="https://www.arctictoday.com/wp-content/themes/arctictoday_new/assets/js/custom-script.js?ver=1.0.0"></script>
+<script id="custom-search-script-js-extra">
+var my_ajaxUrl_search_obj = {"ajaxurl":"https://www.arctictoday.com/wp-admin/admin-ajax.php"};
+//# sourceURL=custom-search-script-js-extra
+</script>
+<script type="text/rocketlazyloadscript" data-minify="1" id="custom-search-script-js" data-rocket-src="https://www.arctictoday.com/wp-content/cache/min/1/wp-content/themes/arctictoday_new/assets/js/custom-search-script.js?ver=1793959317"></script>
+<script id="custom-artic-studios-js-extra">
+var my_ajax_studio_object = {"ajaxurl":"https://www.arctictoday.com/wp-admin/admin-ajax.php"};
+//# sourceURL=custom-artic-studios-js-extra
+</script>
+<script type="text/rocketlazyloadscript" data-minify="1" id="custom-artic-studios-js" data-rocket-src="https://www.arctictoday.com/wp-content/cache/min/1/wp-content/themes/arctictoday_new/assets/js/custom-artic-studios.js?ver=1793959317"></script>
+<script type="text/rocketlazyloadscript" id="google-recaptcha-v3-js" data-rocket-src="https://www.google.com/recaptcha/api.js?render=6Ldanw0qAAAAAHmTPFSc55pM8ALFkv7UtUgFwQAK"></script>
+<script id="newsletter-js-extra">
+var newsletter_data = {"action_url":"https://www.arctictoday.com/wp-admin/admin-ajax.php"};
+//# sourceURL=newsletter-js-extra
+</script>
+<script type="text/rocketlazyloadscript" data-minify="1" id="newsletter-js" data-rocket-src="https://www.arctictoday.com/wp-content/cache/min/1/wp-content/plugins/newsletter/main.js?ver=1793959317"></script>
+<script data-minify="1" id="advanced-ads-find-adblocker-js" src="https://www.arctictoday.com/wp-content/cache/min/1/wp-content/plugins/advanced-ads/admin/assets/js/advertisement.js?ver=1793959317"></script>
+<script type="text/rocketlazyloadscript" id="heateor_sss_sharing_js-js-before">
+function heateorSssLoadEvent(e) {var t=window.onload;if (typeof window.onload!="function") {window.onload=e}else{window.onload=function() {t();e()}}};	var heateorSssSharingAjaxUrl = 'https://www.arctictoday.com/wp-admin/admin-ajax.php', heateorSssCloseIconPath = 'https://www.arctictoday.com/wp-content/plugins/sassy-social-share/public/../images/close.png', heateorSssPluginIconPath = 'https://www.arctictoday.com/wp-content/plugins/sassy-social-share/public/../images/logo.png', heateorSssHorizontalSharingCountEnable = 0, heateorSssVerticalSharingCountEnable = 0, heateorSssSharingOffset = -10; var heateorSssMobileStickySharingEnabled = 0;var heateorSssCopyLinkMessage = "Link copied.";var heateorSssUrlCountFetched = [], heateorSssSharesText = 'Shares', heateorSssShareText = 'Share';function heateorSssPopup(e) {window.open(e,"popUpWindow","height=400,width=600,left=400,top=100,resizable,scrollbars,toolbar=0,personalbar=0,menubar=no,location=no,directories=no,status")}
+//# sourceURL=heateor_sss_sharing_js-js-before
+</script>
+<script type="text/rocketlazyloadscript" data-minify="1" id="heateor_sss_sharing_js-js" data-rocket-src="https://www.arctictoday.com/wp-content/cache/min/1/wp-content/plugins/sassy-social-share/public/js/sassy-social-share-public.js?ver=1793959326"></script>
+<script type="text/rocketlazyloadscript" id="wp-hooks-js" data-rocket-src="https://www.arctictoday.com/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255"></script>
+<script type="text/rocketlazyloadscript" id="wp-i18n-js" data-rocket-src="https://www.arctictoday.com/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216"></script>
+<script type="text/rocketlazyloadscript" id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+//# sourceURL=wp-i18n-js-after
+</script>
+<script type="text/rocketlazyloadscript" data-minify="1" id="swv-js" data-rocket-src="https://www.arctictoday.com/wp-content/cache/min/1/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=1793959321"></script>
+<script type="text/rocketlazyloadscript" id="contact-form-7-js-before">
+var wpcf7 = {
+    "api": {
+        "root": "https:\/\/www.arctictoday.com\/wp-json\/",
+        "namespace": "contact-form-7\/v1"
+    },
+    "cached": 1
+};
+//# sourceURL=contact-form-7-js-before
+</script>
+<script type="text/rocketlazyloadscript" data-minify="1" id="contact-form-7-js" data-rocket-src="https://www.arctictoday.com/wp-content/cache/min/1/wp-content/plugins/contact-form-7/includes/js/index.js?ver=1793959321"></script>
+<script type="text/rocketlazyloadscript" data-minify="1" id="wpcf7-recaptcha-controls-js" data-rocket-src="https://www.arctictoday.com/wp-content/cache/min/1/wp-content/plugins/wpcf7-recaptcha/assets/js/wpcf7-recaptcha-controls.js?ver=1793959326"></script>
+<script id="google-recaptcha-js-extra">
+var wpcf7iqfix = {"recaptcha_empty":"Please verify that you are not a robot.","response_err":"wpcf7-recaptcha: Could not verify reCaptcha response."};
+//# sourceURL=google-recaptcha-js-extra
+</script>
+<script type="text/rocketlazyloadscript" id="google-recaptcha-js" data-rocket-src="https://www.google.com/recaptcha/api.js?hl=en_US&#038;onload=recaptchaCallback&#038;render=explicit&#038;ver=2.0"></script>
+<!--noptimize--><script>!function(){window.advanced_ads_ready_queue=window.advanced_ads_ready_queue||[],advanced_ads_ready_queue.push=window.advanced_ads_ready;for(var d=0,a=advanced_ads_ready_queue.length;d<a;d++)advanced_ads_ready(advanced_ads_ready_queue[d])}();</script><!--/noptimize--><script>window.lazyLoadOptions=[{elements_selector:"img[data-lazy-src],.rocket-lazyload,iframe[data-lazy-src]",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,callback_loaded:function(element){if(element.tagName==="IFRAME"&&element.dataset.rocketLazyload=="fitvidscompatible"){if(element.classList.contains("lazyloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}},{elements_selector:".rocket-lazyload",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,}];window.addEventListener('LazyLoad::Initialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(var i=0;i<mutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){continue}
+if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){continue}
+images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
+if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script data-no-minify="1" async src="https://www.arctictoday.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js"></script><script>function lazyLoadImg(id,l){var s='https://i.ytimg.com/vi/ID/hqdefault.jpg'.replace("ID",id),img=document.createElement("img");if(true&&!l&&false){img.setAttribute("loading","lazy");img.setAttribute("src",s);}else if(true&&!l&&!false){img.setAttribute("data-lazy-src",s);}else{img.setAttribute("src",s);}img.setAttribute("width","480");img.setAttribute("height","360");return img;}function lazyLoadThumb(id,alt,l){if(!/^[A-Za-z0-9_-]{11}$/.test(id)){return null;}var frag=document.createDocumentFragment(),img=lazyLoadImg(id,l);img.setAttribute("alt",alt);frag.appendChild(img);var btn=document.createElement("button");btn.setAttribute("class","play");btn.setAttribute("aria-label","Play Youtube video");frag.appendChild(btn);return frag;}function lazyLoadYoutubeIframe(){var src=this.parentNode.dataset.src,url;try{url=new URL(src,"https://www.youtube.com");}catch(err){return;}if("https:"!==url.protocol&&"http:"!==url.protocol){return;}if(["youtube.com","www.youtube.com","youtube-nocookie.com","www.youtube-nocookie.com"].indexOf(url.hostname)===-1){return;}if(url.username||url.password||url.port){return;}if(!/^\/embed\/[A-Za-z0-9_-]{11}\/?$/.test(url.pathname)){return;}url=new URL("https://"+url.hostname+url.pathname.replace(/\/$/,""));var query=this.parentNode.dataset.query||"";new URLSearchParams(query).forEach(function(v,k){url.searchParams.set(k,v);});url.searchParams.set("autoplay","1");var e=document.createElement("iframe");e.setAttribute("src",url.href);e.setAttribute("frameborder","0");e.setAttribute("allowfullscreen","1");e.setAttribute("allow","accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture");this.parentNode.parentNode.replaceChild(e,this.parentNode);}document.addEventListener("DOMContentLoaded",function(){var exclusions=["\/wp-content\/uploads\/2026\/04\/arctic-today-logo.svg","\/wp-content\/uploads\/2024\/11\/arctic-studios-logo.svg"];var e,t,frag,u,l,a=document.getElementsByClassName("rll-youtube-player");for(t=0;t<a.length;t++){u='https://i.ytimg.com/vi/ID/hqdefault.jpg'.replace("ID",a[t].dataset.id);l=exclusions.some(function(exclusion){return u.indexOf(exclusion)!==-1;});e=document.createElement("div");e.setAttribute("data-id",a[t].dataset.id);e.setAttribute("data-query",a[t].dataset.query);e.setAttribute("data-src",a[t].dataset.src);frag=lazyLoadThumb(a[t].dataset.id,a[t].dataset.alt,l);if(!frag){continue;}e.appendChild(frag);a[t].appendChild(e);e.querySelector(".play").onclick=lazyLoadYoutubeIframe;}});</script><script type="text/rocketlazyloadscript">
+jQuery(document).ready(function($) {
+    $('a[target="_blank"]').each(function() {
+        var relAttr = $(this).attr('rel');
+        if (!relAttr || !relAttr.includes('noopener')) {
+            $(this).attr('rel', 'noopener noreferrer');
+        }
+    });
+});
+</script>
+
+
+
+
+
+<!-- Quantcast Tag -->
+	<script type="text/rocketlazyloadscript" data-rocket-type="text/javascript">
+		var _qevents = _qevents || [];
+
+		(function() {
+			var elem = document.createElement('script');
+			elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+			elem.async = true;
+			elem.type = "text/javascript";
+			var scpt = document.getElementsByTagName('script')[0];
+			scpt.parentNode.insertBefore(elem, scpt);
+		})();
+
+		_qevents.push({
+			qacct:"p-1BpKnfgpbSs6Y",
+			source:"wp"
+		});
+	</script>
+
+	<noscript>
+	<div style="display:none;">
+		<img src="//pixel.quantserve.com/pixel/p-1BpKnfgpbSs6Y.gif" border="0" height="1" width="1" alt="Quantcast"/>
+	</div>
+	</noscript>
+<!-- End Quantcast tag -->
+
+<script>var rocket_beacon_data = {"ajax_url":"https:\/\/www.arctictoday.com\/wp-admin\/admin-ajax.php","nonce":"8fd07f9f53","url":"https:\/\/www.arctictoday.com\/sanctioned-tanker-with-unclear-ownership-and-dubious-insurance-sails-unchallenged-along-norwegian-coast","is_mobile":true,"width_threshold":393,"height_threshold":830,"delay":500,"debug":null,"status":{"atf":true,"lrc":true,"preconnect_external_domain":true},"elements":"img, video, picture, p, main, div, li, svg, section, header, span","lrc_threshold":1800,"preconnect_external_domain_elements":["link","script","iframe"],"preconnect_external_domain_exclusions":["static.cloudflareinsights.com","rel=\"profile\"","rel=\"preconnect\"","rel=\"dns-prefetch\"","rel=\"icon\""]}</script><script data-name="wpr-wpr-beacon" src='https://www.arctictoday.com/wp-content/plugins/wp-rocket/assets/js/wpr-beacon.min.js' async></script></body>
+</html>
+
+<script type="text/rocketlazyloadscript">
+
+(function () {
+    'use strict';
+
+    var SITE_KEY = '6Ldanw0qAAAAAHmTPFSc55pM8ALFkv7UtUgFwQAK';
+    var ACTION = 'newsletter_subscribe';
+
+    function initNewsletterRecaptcha() {
+
+        var forms = document.querySelectorAll(
+            'form input[name="_wpcf7"][value="95501"]'
+        );
+
+        if (!forms.length) {
+            return;
+        }
+
+        forms.forEach(function (hiddenFormId) {
+
+            var form = hiddenFormId.closest('form');
+
+            if (!form || form.dataset.recaptchaV3Initialized === '1') {
+                return;
+            }
+
+            form.dataset.recaptchaV3Initialized = '1';
+
+            var recaptchaContainer = document.createElement('div');
+
+            recaptchaContainer.style.display = 'none';
+            recaptchaContainer.className = 'arctic-recaptcha-v3';
+
+            form.appendChild(recaptchaContainer);
+
+            var tokenField = form.querySelector(
+                'input[name="recaptcha_v3_token"]'
+            );
+
+            if (!tokenField) {
+                return;
+            }
+
+            var widgetId = null;
+            var processing = false;
+
+            function renderRecaptcha() {
+
+                if (
+                    typeof grecaptcha === 'undefined' ||
+                    typeof grecaptcha.render !== 'function'
+                ) {
+                    return false;
+                }
+
+                if (widgetId !== null) {
+                    return true;
+                }
+
+                try {
+
+                    widgetId = grecaptcha.render(
+                        recaptchaContainer,
+                        {
+                            sitekey: SITE_KEY,
+                            size: 'invisible',
+                            badge: 'bottomright'
+                        }
+                    );
+
+                    return true;
+
+                } catch (error) {
+
+                    console.error(
+                        'reCAPTCHA v3 initialization error:',
+                        error
+                    );
+
+                    return false;
+                }
+            }
+
+            function waitForRecaptcha(callback) {
+
+                if (
+                    typeof grecaptcha !== 'undefined' &&
+                    typeof grecaptcha.ready === 'function'
+                ) {
+                    grecaptcha.ready(function () {
+
+                        if (renderRecaptcha()) {
+                            callback();
+                        } else {
+                            callback(new Error(
+                                'Unable to initialize reCAPTCHA.'
+                            ));
+                        }
+
+                    });
+
+                    return;
+                }
+
+                /*
+                 * The existing v2 plugin may load the Google API
+                 * asynchronously, so wait briefly for it.
+                 */
+                var attempts = 0;
+
+                var interval = setInterval(function () {
+
+                    attempts++;
+
+                    if (
+                        typeof grecaptcha !== 'undefined' &&
+                        typeof grecaptcha.ready === 'function'
+                    ) {
+
+                        clearInterval(interval);
+
+                        grecaptcha.ready(function () {
+
+                            if (renderRecaptcha()) {
+                                callback();
+                            } else {
+                                callback(new Error(
+                                    'Unable to initialize reCAPTCHA.'
+                                ));
+                            }
+
+                        });
+
+                    } else if (attempts >= 100) {
+
+                        clearInterval(interval);
+
+                        callback(new Error(
+                            'reCAPTCHA did not load.'
+                        ));
+                    }
+
+                }, 100);
+            }
+
+            /*
+             * Intercept submission BEFORE Contact Form 7 processes it.
+             */
+            form.addEventListener(
+                'submit',
+                function (event) {
+
+                    if (processing === true) {
+                        return;
+                    }
+
+                    event.preventDefault();
+                    event.stopImmediatePropagation();
+
+                    processing = true;
+
+                    waitForRecaptcha(function (error) {
+
+                        if (error) {
+
+                            processing = false;
+
+                            tokenField.value = '';
+
+                            alert(
+                                'Security verification could not be loaded. Please try again.'
+                            );
+
+                            return;
+                        }
+
+                        grecaptcha.execute(widgetId, {
+                            action: ACTION
+                        }).then(function (token) {
+
+                            if (!token) {
+                                throw new Error(
+                                    'Empty reCAPTCHA token.'
+                                );
+                            }
+
+                            tokenField.value = token;
+
+                            form.requestSubmit();  // Re-submit the form
+
+                        }).catch(function (error) {
+
+                            console.error(
+                                'reCAPTCHA v3 error:',
+                                error
+                            );
+
+                            processing = false;
+
+                            tokenField.value = '';
+
+                            alert(
+                                'Security verification failed. Please try again.'
+                            );
+
+                        });
+
+                    });
+
+                },
+                true
+            );
+
+        });
+    }
+
+    if (document.readyState === 'loading') {
+
+        document.addEventListener(
+            'DOMContentLoaded',
+            initNewsletterRecaptcha
+        );
+
+    } else {
+
+        initNewsletterRecaptcha();	
+
+    }
+
+})();
+
+</script>

@@ -1,0 +1,274 @@
+URL:         https://container-news.com/explainer-nsr-record-shows-a-new-trend/
+Кінцевий:    https://container-news.com/explainer-nsr-record-shows-a-new-trend/
+Заголовок:   Explainer: NSR record shows a new trend - Container News
+Дата публ.:  2026-10-21
+Завантажено: 2026-11-07 18:03 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 1035843
+Оригінал:    raw/113-container-news.com-explainer-nsr-record-shows-a-new-trend.html
+sha256:      c14d53ad49a533ac85c7ee8859837412c943828a8648d59e6caee2612f92d1ca
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 22
+==============================================================================
+Explainer: NSR record shows a new trend - Container News
+Welcome! Log into your account
+Forgot your password? Get help
+Welcome! Register for an account
+A password will be e-mailed to you.
+Explainer: NSR record shows a new trend
+SLPA plans new Colombo logistics hub under PPP model
+The empty container problem isn’t a shortage. It’s a data problem.
+PIL replaces Djibouti with Jeddah on IR5 service
+Lufthansa Cargo, SWISS, ANA and NCA explore Japan–Europe cargo partnership
+Maersk reportedly nears order for up to 24 megamax ships
+Sign up to our free daily newsletter
+By subscribing I accept the privacy rules of this site
+© Copyright Container News 2025, All Rights Reserved. Reproduction in whole or in part without permission is prohibited.
+To provide the best experiences, we and our partners use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us and our partners to process personal data such as browsing behavior or unique IDs on this site and show (non-) personalized ads. Not consenting or withdrawing consent, may adversely affect certain features and functions.
+Click below to consent to the above or make granular choices. Your choices will be applied to this site only. You can change your settings at any time, including withdrawing your consent, by using the toggles on the Cookie Policy, or by clicking on the manage consent button at the bottom of the screen.
+The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.
+The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.
+The technical storage or access that is used exclusively for statistical purposes.
+The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.
+The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.
+Read more about these purposes
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Explainer: NSR record shows a new trend - Container News
+Facebook
+Linkedin
+RSS
+Twitter
+Home
+Freight Indexes
+CN Index
+SCFI
+CCFI
+NCFI
+NYFI
+Ports
+Services
+Rates & Surcharges
+Out of the Box
+Interviews
+CN Premium
+Packages
+CN Magazine
+CN Premium Articles
+More
+Leadership Moves
+Market Insights
+PortSide Stories
+Industry Opinions
+Advertise With Us
+Newsletter
+CNTV
+About
+Contact
+Login / Register
+Search
+Sign in
+Welcome! Log into your account
+your username
+your password
+Forgot your password? Get help
+Create an account
+Privacy Policy
+Create an account
+Welcome! Register for an account
+your email
+your username
+A password will be e-mailed to you.
+Privacy Policy
+Password recovery
+Recover your password
+your email
+A password will be e-mailed to you.
+Saturday, November 7, 2026
+Login / Register
+Facebook
+Linkedin
+Mail
+RSS
+Twitter
+Youtube
+Home
+Freight Indexes
+CN Index
+SCFI
+CCFI
+NCFI
+NYFI
+Ports
+Services
+Rates & Surcharges
+Out of the Box
+Interviews
+CN Premium
+Packages
+CN Magazine
+CN Premium Articles
+More
+Leadership Moves
+Market Insights
+PortSide Stories
+Industry Opinions
+Advertise With Us
+Newsletter
+CNTV
+About
+Contact
+Login / Register
+Search
+Home
+Freight Indexes
+CN Index
+SCFI
+CCFI
+NCFI
+NYFI
+Ports
+Services
+Rates & Surcharges
+Out of the Box
+Interviews
+CN Premium
+Packages
+CN Magazine
+CN Premium Articles
+More
+Leadership Moves
+Market Insights
+PortSide Stories
+Industry Opinions
+Advertise With Us
+Newsletter
+CNTV
+About
+Contact
+Login / Register
+Search
+Home
+CN Premium Articles
+Explainer: NSR record shows a new trend
+CN Premium Articles
+Sticky News
+Explainer: NSR record shows a new trend
+October 21, 2026
+Facebook
+Twitter
+WhatsApp
+Linkedin
+Email
+The Northern Sea Route’s 2026 season set volume records and launched the first scheduled Arctic container service. The corridor’s structure Russian gate, Chinese operators, energy cargo did not change.
+This content is locked
+Select a CN Premium Subscription Package
+To Unlock The Content!
+Remember Me
+Lost your password?
+Don't have an account?
+Register
+By the end of September, the Northern Sea Route had logged 104 confirmed transit voyages, already above the 103 recorded across the whole of 2025.
+Transit cargo reached an estimated 3.7 million tonnes, 15% more than last year, and the Centre for High North Logistics expects the season to approach 150 transits and 4.5 million tonnes.
+The numbers confirm momentum but not transformation: the season grew along lines the corridor’s structure already permitted.
+Twenty-two eastbound tanker voyages carried about 2.1 million tonnes, mostly crude loaded at Murmansk, Primorsk and Ust-Luga. That is Baltic oil leaving a sea where boardings, inspections and drone strikes have raised enforcement risk, and travelling east through waters Russia administers alone.
+Bulk carriers added 1.1 million tonnes, while 27 westbound bulk voyages repositioned tonnage toward the Baltic. Crude and bulk together account for roughly 86% of transit cargo.
+The NSR remains an energy and bulk artery, not a substitute for Suez.
+Nor has the gate moved. Rosatom issued every permit for the season and manages the route in 28 sections; each newcomer, from South Korea’s Panstar Acro to the Chinese container operators, entered by Russian approval.
+External pull is stronger than the series’ base case assumed, with the Gulf war disrupting southern energy flows, but that pull feeds a corridor whose access terms Moscow alone sets.
+Weather also helped: favourable late-season ice postponed, rather than removed, the ceiling that icebreaker capacity and short navigation windows impose.
+Containers are where the season broke new ground.
+Sea Legend completed all eight weekly sailings of its China–Europe Arctic Express, moving more than 14,000 TEU of export cargo on seven ice-strengthened ships.
+International Asia–Europe container transits rose from one in 2025 to four by end-September, with vessels reaching the United Kingdom from Korea and China.
+After demonstration voyages in 2023–24 and trials in 2025, 2026 produced the first seasonal liner product: fixed departures, dedicated tonnage and a published transit time.
+“The split runs through carriers and capital, not through cargo and ports.”
+The product’s character matters more than its novelty. It is Chinese-operated, seasonal, small-ship the largest vessel carries 4,890 TEU and driven by westbound exports. Its entire season moved less than one ultra-large container ship carries on a single voyage.
+It competes with rail and air-sea for time-sensitive peak-season cargo, not with Suez mainline services. And it leaves Western carriers absent without excluding Western economies: no European or American line runs a comparable service, yet the boxes land at Felixstowe and other Western ports.
+The next stage points to density rather than scale.
+NewNew Shipping targets 1.2 million tonnes for 2027 with two sailings a month and has signalled interest in investing in Russian Arctic ports, while Murmansk is building a partnership with it.
+That would extend Chinese institutionalisation into Russian physical infrastructure and deepen the lock-in that keeps Western carriers out.
+The binding constraints remain: Sea Legend ended departures early on ice forecasts even in a favourable year, and the service relies on repurposed, ageing tonnage rather than purpose-built ice-class ships.
+The likely outcome is a durable Chinese seasonal niche commercially marginal, strategically significant, and operating at Russia’s discretion.
+TAGS
+Arctic route
+cargo
+containerized trade
+Northern Sea Route (NSR)
+Facebook
+Twitter
+WhatsApp
+Linkedin
+Email
+Previous article
+SLPA plans new Colombo logistics hub under PPP model
+Next article
+The empty container problem isn’t a shortage. It’s a data problem.
+Alexandros Itimoudis
+https://container-news.com/
+Shipping Analyst
+Linkedin
+Mail
+RELATED ARTICLES
+MORE FROM AUTHOR
+PIL replaces Djibouti with Jeddah on IR5 service
+Lufthansa Cargo, SWISS, ANA and NCA explore Japan–Europe cargo partnership
+Maersk reportedly nears order for up to 24 megamax ships
+Facebook
+Linkedin
+Mail
+RSS
+Twitter
+Youtube
+Contact us:
+[email protected]
+Sign up to our free daily newsletter
+Email
+By subscribing I accept the privacy rules of this site
+© Copyright Container News 2025, All Rights Reserved. Reproduction in whole or in part without permission is prohibited.
+Privacy Policy
+•
+Usage Terms
+Powered by
+Digital Dream
+Manage your privacy
+To provide the best experiences, we and our partners use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us and our partners to process personal data such as browsing behavior or unique IDs on this site and show (non-) personalized ads. Not consenting or withdrawing consent, may adversely affect certain features and functions.
+Click below to consent to the above or make granular choices. Your choices will be applied to this site only. You can change your settings at any time, including withdrawing your consent, by using the toggles on the Cookie Policy, or by clicking on the manage consent button at the bottom of the screen.
+Functional
+Functional
+Always active
+The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.
+Preferences
+Preferences
+The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.
+Statistics
+Statistics
+The technical storage or access that is used exclusively for statistical purposes.
+The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.
+Marketing
+Marketing
+The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.
+Statistics
+Marketing
+Features
+Always active
+Special features
+Special purposes
+Always active
+Manage options
+Manage services
+Manage {vendor_count} vendors
+Read more about these purposes
+Accept
+Deny
+Manage options
+Save preferences
+Manage options
+{title}
+{title}
+{title}
+Manage consent
+×

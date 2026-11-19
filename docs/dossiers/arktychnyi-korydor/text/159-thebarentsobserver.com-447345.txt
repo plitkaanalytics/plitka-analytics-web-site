@@ -1,0 +1,12 @@
+URL:         https://www.thebarentsobserver.com/news/sanctioned-tanker-with-unclear-ownership-and-dubious-insurance-sails-unchallenged-along-norwegian-coast/447345
+Кінцевий:    https://www.thebarentsobserver.com/news/sanctioned-tanker-with-unclear-ownership-and-dubious-insurance-sails-unchallenged-along-norwegian-coast/447345
+Заголовок:   Are we human?
+Дата публ.:  не вказана на сторінці
+Завантажено: 2026-11-08 06:37 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 2101
+Оригінал:    raw/159-thebarentsobserver.com-447345.html
+sha256:      c3d7122917ed85075db8b4420e7338b02668950beb80f5cda6861d4be0ee6878
+Витяг:       bs4-full
+
+==============================================================================
+Are we human?

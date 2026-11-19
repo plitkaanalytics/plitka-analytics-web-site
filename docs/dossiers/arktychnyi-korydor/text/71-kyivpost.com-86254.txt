@@ -1,0 +1,91 @@
+URL:         https://www.kyivpost.com/post/86254
+Кінцевий:    https://www.kyivpost.com/post/86254
+Заголовок:   South Korea Sent 176,000 Tons of Fuel to Russia, Report Claims
+Дата публ.:  2026-10-06
+Завантажено: 2026-10-08 06:48 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 122148
+Оригінал:    raw/71-kyivpost.com-86254.html
+sha256:      7e8206e2dce7da5e788dbfe7a5099becd1ee158fc38e5f4ee71e38218e4220d6
+Витяг:       trafilatura
+
+==============================================================================
+[South Korea](https://www.kyivpost.com/topic/south-korea) reportedly handled large [fuel](https://www.kyivpost.com/topic/oil) shipments to Russia through its ports between July and August.
+
+An investigation by [The Guardian](https://www.theguardian.com/world/2026/oct/06/oil-tankers-south-korea-russia-ukraine-war), based on port records and ship-tracking data, found that more than 176,000 tonnes (metric tons) of fuel, mostly diesel, were loaded at South Korean ports in July and August onto seven tankers that made 14 voyages to Russia’s Far East.
+
+### JOIN US ON TELEGRAM
+
+Follow our coverage of the war on the [@Kyivpost_official](https://t.me/Kyivpost_official).
+
+Three of the vessels were under UK or EU sanctions. One received its cargo through a ship-to-ship transfer in South Korean waters, a method that can make a shipment’s origin harder to trace.
+
+Isaac Levi, an analyst at the Finland-based think tank Centre for Research on Energy and Clean Air (CREA), told The Guardian that the shipments undermine Western sanctions and South Korea’s support for Ukraine.
+
+The shipments do not appear to violate South Korean law, the report says, as Seoul’s sanctions on Russia primarily focus on export controls covering goods such as industrial machinery, electronics and vehicles.
+
+However, the shipments also cast doubt on Seoul’s stance on the war in Ukraine, particularly as Seoul has publicly supported Kyiv while stopping short of providing lethal weapons.
+
+South Korea has supplied Ukraine with humanitarian aid and non-lethal military equipment and pledged $2.3 billion in support in 2023, largely through loans.
+
+At the same time, Seoul has sought to preserve its economic ties with Moscow and has ruled out directly providing weapons to Ukraine.
+
+
+### 
+                                [Russian Attack Leaves Unexploded Ballistic Missile Among Homes in Kyiv, Hits Film Studio, and Bird Center](https://www.kyivpost.com/post/86330)
+                            
+
+## Fuel flows to Russia surge
+
+The Guardian found that the sanctioned tanker Layla made two voyages from Ulsan to Vladivostok, carrying a combined 57,000 tonnes of diesel. On one voyage, it declared Vladivostok as its destination, while on another it listed Japan.
+
+Another sanctioned tanker, the Russian-flagged Astoria, loaded nearly 11,000 tonnes of fuel at Ulsan before sailing to Vladivostok. The vessel is also under Australian sanctions.
+
+The third sanctioned vessel, the Chongchon, did not enter a South Korean port. Instead, it received around 26,000 tonnes of fuel from the unsanctioned tanker Celeste I during a ship-to-ship transfer off Yeosu before heading toward Vladivostok.
+
+The findings echoed a report from Reuters in early July, which said Russia sought jet fuel [from Japan’s Chiba port to Russia via South Korea](https://www.kyivpost.com/post/79530), though it’s unclear whether the operations relate to the latest findings presented by The Guardian.
+
+In the rumored plans, the cargo was expected to arrive in Russia in the first half of July after a likely ship-to-ship transfer off Yeosu, South Korea. Its final destination remained unclear.
+
+The reported route would mirror a similar shipment in 2022, when around 22,000 barrels of jet fuel were transported from Chiba to Russia’s Far Eastern port of Vladivostok via Yeosu.
+
+South Korea declined to comment, while the Japanese and Russian ministries did not respond.
+
+The owners and managers of the four tankers contacted by The Guardian did not respond to requests for comment.
+
+[Russia](https://www.kyivpost.com/topic/russia) has faced growing fuel shortages after Ukrainian drone strikes disrupted its refinery network. According to the International Energy Agency (IEA), Russian refinery throughput fell in June to its lowest level in more than two decades, while diesel production was down nearly 30% from a year earlier.
+
+By July, Ukraine’s General Staff claimed to have knocked [43%](https://www.kyivpost.com/post/79574) of Russia’s refinery capacity offline.
+
+According to The Guardian, Kpler data analyzed by CREA showed that Russia imported 368,000 tonnes of oil products by sea in August, more than seven times the previous month – a figure that is higher than the 172,000 tonnes listed by CREA in its [August report](https://energyandcleanair.org/august-2026-monthly-analysis-of-russian-fossil-fuel-exports-and-sanctions/).
+
+Responding to Kyiv Post’s inquiry about the differing figures, CREA analyst Luke Wickenden explained that the analysis released in early September did not account for tankers whose destinations were not confirmed.
+
+“At that point, several tankers were still shown as in transit with no confirmed destination, so their cargoes weren’t yet counted as arriving in Russia. A fuller Kpler extract on Sept. 24 showed 368,000 tonnes for August 2026,” Wickenden told Kyiv Post. “Either way, August 2026 was by far the largest month for Russia’s seaborne oil product imports since the full-scale invasion began.”
+
+The Guardian also said South Korea accounted for 112,000 tonnes, or about 31% of Russia’s overall imports, second only to India; Wickenden noted that South Korean imports made up the majority of the difference identified in the Sept. 24 Kpler extract.
+
+“About half of the difference is fuel from South Korea (18,000 tonnes in the report, 112,000 tonnes in the later data), and the rest is additional cargoes from India, Morocco, and Turkiye,” he added.
+
+The increase began in July, around the time South Korean President Lee Jae Myung pledged $100 million for [Ukraine](https://www.kyivpost.com/category/ukraine)’s reconstruction at a NATO summit in Turkey.
+
+## Diplomatic rift between Kyiv and Seoul
+
+The fuel shipments come as relations between Seoul and Kyiv face a separate diplomatic dispute over two North Korean soldiers captured by Ukrainian forces.
+
+The soldiers were captured in January 2025 while fighting alongside Moscow forces in Russia’s Kursk region and were reportedly transferred to South Korea in September 2026.
+
+President Volodymyr [Zelensky publicly disclosed the transfer](https://www.kyivpost.com/post/85328) during his address to the United Nations General Assembly in September, but South Korea says the parties had agreed to keep the deal confidential to protect the soldiers and their families in North Korea.
+
+Seoul subsequently [demanded an explanation](https://www.kyivpost.com/post/85536) and apology from Kyiv.
+
+South Korean Foreign Minister Cho Hyun said Tuesday that Ukrainian Foreign Minister Andrii Sybiha had apologized in messages exchanged over the incident, but that the apology did not meet Seoul’s expectations.
+
+Cho added Seoul was considering several responses, including [recalling its ambassador to Ukraine, Park Hee-chang.](https://www.kyivpost.com/post/86225)
+
+Ukraine has described the dispute as a diplomatic misunderstanding. Zelensky’s office said Seoul had been informed of the president’s UN speech in advance and that the address did not disclose identifiable information about the soldiers.
+
+Cho said the soldiers’ safety, and that of their relatives in North Korea, had been the primary reason for the confidentiality agreement. He also suggested, while stressing that it was his personal interpretation, that Zelensky may have wanted to demonstrate at the UN that Ukraine had acted appropriately as a liberal democracy.
+
+You can also highlight the text and press
+
+__Ctrl + Enter__

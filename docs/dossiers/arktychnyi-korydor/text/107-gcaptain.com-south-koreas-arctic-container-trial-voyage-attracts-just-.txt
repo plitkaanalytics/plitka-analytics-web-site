@@ -1,0 +1,36 @@
+URL:         https://gcaptain.com/south-koreas-arctic-container-trial-voyage-attracts-just-737-teu-far-below-target/
+Кінцевий:    https://gcaptain.com/south-koreas-arctic-container-trial-voyage-attracts-just-737-teu-far-below-target/
+Заголовок:   South Korea’s Arctic Container Trial Voyage Attracts Just 737 TEU, Far Below Target
+Дата публ.:  2026-09-02
+Завантажено: 2026-11-07 18:03 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 247164
+Оригінал:    raw/107-gcaptain.com-south-koreas-arctic-container-trial-voyage-attracts-just-.html
+sha256:      93db7fd0c56c30aec37aa4f44785228afae1cd35060a9d47a0a8761b3adc2be2
+Витяг:       trafilatura
+
+==============================================================================
+South Korea’s [first commercial container trial through the Arctic](https://gcaptain.com/panstar-prepares-for-south-koreas-first-arctic-container-voyage-to-europe/) has attracted just 737 TEUs of cargo, well below the 1,300 TEUs initially targeted for the voyage, highlighting the challenge of generating sufficient demand for a new Northern Sea Route service.
+
+The 2,758-TEU *PanStar Acro* also carries about 100 empty containers, giving it a total container load of 837 TEUs, or roughly 30% of its nominal capacity. The cargo includes chemical products, used cars, and auto parts.
+
+The vessel departed Busan on Aug. 22 and entered Arctic waters on Aug. 31, according to South Korea’s Ministry of Oceans and Fisheries. It is sailing along Russia’s northern coast toward Europe, with calls planned at Felixstowe, Rotterdam and Gdansk.
+
+The voyage has already encountered more challenging conditions than initially expected. The ship has been adjusting its speed and course to navigate sea ice, delaying its expected arrival at Felixstowe to around Sept. 14 from an earlier target of Sept. 9.
+
+PanStar [initially sought a container ship of about 3,000 TEUs for the trial](https://gcaptain.com/south-korea-selects-operator-for-first-arctic-container-trial-voyage-via-russias-northern-sea-route/) but ultimately acquired the smaller *PanStar Acro*, formerly *HMM Mombasa*, from South Korea’s HMM. The vessel was built in 2011 and has a total capacity of 2,758 TEUs.
+
+South Korean officials said a cargo demand survey conducted around June indicated potential demand of about 1,300 TEUs. The time required to prepare the vessel for Arctic operations left a relatively short period to secure bookings, resulting in the lower volume at departure, the ministry said.
+
+“For a first voyage, I think it is also meaningful that we prepared roughly this amount of cargo, marketed it, and secured it,” Lee Soo-ho, head of the ministry’s Arctic Shipping Route Promotion Headquarters, told reporters. The government plans to use the voyage to identify cargo types and customers suited to the route.
+
+The cargo utilization rate is low by container shipping standards. Established major east-west trades can operate at utilization levels of roughly 85% to 90%, while global container fleet utilization is generally around 70% to 80%. The *PanStar Acro*’s 737 loaded TEUs represent about 27% of its nominal capacity.
+
+South Korea is providing substantial financial support for the experiment. The Korea Shipowners’ Association is offering more than $2 million for completion of the one-way voyage and an additional roughly $700,000 if the round trip carries more than 2,000 TEUs.
+
+The trial is intended to determine whether the shorter Arctic route can produce commercial savings. A Busan-Rotterdam voyage via the Northern Sea Route is estimated at about 7,000 nm, roughly 4,000 nm shorter than the Suez Canal route, potentially reducing transit time by about 10-14 days. The ministry will examine sailing time, fuel consumption, operating costs and schedule reliability.
+
+China is already moving to develop the route as a seasonal container corridor. Sea Legend and [NewNew Shipping have announced Arctic services linking Asian ports with northern Europe and Russia this summer](https://gcaptain.com/chinas-newnew-shipping-line-pushes-deeper-into-arctic-with-first-murmansk-container-run/).
+
+Sea Legend [has launched a seasonal China-Europe service](https://gcaptain.com/author/malte-humpert/) with its first sailing of the year by *Dubai Tower *now also underway. Weekly services will continue into October. 
+
+For South Korea, the PanStar voyage is primarily a commercial and operational test rather than an established liner service. The government wants to develop regular Arctic services by 2030 and has positioned Busan as a potential hub for future Asia-Europe traffic.

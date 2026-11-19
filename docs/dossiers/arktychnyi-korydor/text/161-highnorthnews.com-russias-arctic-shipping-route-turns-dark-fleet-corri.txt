@@ -1,0 +1,85 @@
+URL:         https://www.highnorthnews.com/en/russias-arctic-shipping-route-turns-dark-fleet-corridor-used-100-sanctioned-vessels
+Кінцевий:    https://www.highnorthnews.com/en/russias-arctic-shipping-route-turns-dark-fleet-corridor-used-100-sanctioned-vessels
+Заголовок:   Russia’s Arctic Shipping Route Turns Into “Dark Fleet” Corridor Used by 100 Sanctioned Vessels
+Дата публ.:  2025-12-18
+Завантажено: 2026-11-08 09:06 UTC
+HTTP:        -   Тип: text/html   Байтів: 227761
+Оригінал:    raw/161-highnorthnews.com-russias-arctic-shipping-route-turns-dark-fleet-corri.html
+sha256:      b4b4abfe891da20d34ac11077f0b486743b21300739271995efe429ffcc54071
+Витяг:       trafilatura
+Примітка:    сайт віддає curl'у PoW-перевірку «Are we human?»; сторінку
+             збережено з браузера редактора (Ctrl+S) 08.11.2026 — це DOM
+             після рендеру, не байти відповіді сервера
+
+==============================================================================
+politics
+
+# Russia’s Arctic Shipping Route Turns Into “Dark Fleet” Corridor Used by 100 Sanctioned Vessels
+
+One third of Arctic shipping traffic along the Northern Sea Route involves sanctioned vessels of Russia’s shadow fleet, a new report warns. The figures include 38 sanctioned oil tankers, often poorly maintained and insured and frequently without ice-classification. Russian officials have also stopped publishing data about activity on the route, further reducing available information and increasing risk.
+
+The effects of the Ukraine War and Western sanctions against Russia continue to propagate into the Arctic.
+
+A [new report](https://etc.bellona.org/2025/12/15/nsr-2025/) by the Bellona Foundation, an international environmental NGO based in Oslo, has found that during the past year 100 sanctioned vessels, often aging and poorly insured, have used Russia’s Northern Sea Route.
+
+This figure is up from just 13 during 2024.
+
+The Bellona figures highlight how Russia’s hopes of turning its Arctic shipping lane into an international corridor used by established Western operators have all but evaporated.
+
+Nearly a third of cargo ships sailing on the NSR in 2025 were part of the sanctioned shadow fleet.
+
+### Boosts the risk of accidents in the vulnerable Arctic environment
+
+The report emphasizes that these vessels sail under false flags, [disengage their AIS transponder in violation of international safety standards and frequently carry insufficient insurance](https://www.highnorthnews.com/en/norway-inspect-sanctioned-tankers-efforts-curb-russian-shadow-fleet).
+
+“All of which boosts the risk of accidents in the vulnerable Arctic environment,” the Bellona research warns. In addition the majority of vessels does not have an ice class, further enhancing the risk of accidents.
+
+### Several dozen shadow oil tankers
+
+This hazard is especially relevant to oil tankers. Bellona counted 38 sanctioned oil tankers passing through the Arctic this year, of which 13 did not have any or only low ice-classification.
+
+More than half of the tankers were older than 15 years, the age that reputable operators traditionally scrap their vessels.
+
+“The *Mires* vessel has no ice class. This 20-year-old tanker sailed through NSR once this year in September from China to St. Petersburg. The ship didn’t engage an ice breaker escort,” the report explains.
+
+### Les også (teksten fortsetter):
+
+The vessel operators simply hoped they would encounter favorable ice conditions, Bellona criticizes.
+
+Especially this year, when sea ice never fully melted along the NSR, sending a non ice-class tanker without icebreaker escort could be considered grossly negligent.
+
+“Miraculously its voyage ended without accidents,” Bellona commented.
+
+Several other vessels got trapped in ice for days or had to turn around.
+
+This is the exact scenario faced by another conventional oil tanker *Lynx*, which, loaded with 150,000 tons of oil heading from Murmansk to China, got stuck and had to wait several days for icebreaker assistance.
+
+### Russian officials hide shadow activity
+
+Neither vessel had received permission from Russia’s NSR Administration, likely in an attempt to not draw further attention to sanctioned vessels using the route.
+
+In the past the Administration had published accurate records of vessels along the route, at times even criticizing vessels for safety violations. But those days are long gone.
+
+“Rosatom, Russia’s powerful nuclear corporation and official operator of the Northern Sea Route, has a tendency to hide information from public eyes. As such, the NSR administrators this year ceased publishing information about the current location of ships on the NSR, as well as a yearly summary of accidents and incidents along the route,” Bellona warns.
+
+Several vessels were also noted to have disengaged their AIS transponders, further increasing the risk of collisions.
+
+“Each vessel changed flags at least two times during the past two years and have gaps in the transmission of their Automatic Identification Systems (AIS), making them invisible during many voyages,” Bellona highlights.
+
+### The risk of accidents will increase
+
+### Dark Fleet collisions have happened
+
+Russian dark fleet vessels have collided with other ships several times along the world’s main shipping routes over the past few years due to deactivated transponders, including a recent instance off the coast of Singapore in July 2024.
+
+The shadow activity expands beyond oil tankers. Bellona identified 13 liquefied natural gas carriers, 39 cargo ships, and five service vessels all part of the dark fleet.
+
+Some of the vessels previously operated in the Arctic increasing the likelihood that they abided by the Polar Code regulations and have experienced crews familiar with Arctic waters.
+
+However, half of the oil tankers in 2025 were new to the route, especially those with no or low ice-classification.
+
+Limited rescue and environmental response centers along the NSR further increase the hazard related to shipping accidents in the Arctic.
+
+As more ships are added to Western sanctions list the number of dark vessels venturing into Russia’s Arctic is set to increase, Bellona says.
+
+“Less information will be available to monitor shipping activities along the route, and the risk of accidents will increase,” the report concludes.

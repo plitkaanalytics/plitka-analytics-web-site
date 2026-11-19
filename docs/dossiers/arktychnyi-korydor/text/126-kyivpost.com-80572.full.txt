@@ -1,0 +1,296 @@
+URL:         https://www.kyivpost.com/post/80572
+Кінцевий:    https://www.kyivpost.com/post/80572
+Заголовок:   China Declines to Supply Equipment for Russian Northern Sea Route Fleet Due to Sanctions
+Дата публ.:  2026-07-18
+Завантажено: 2026-11-07 18:34 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 114137
+Оригінал:    raw/126-kyivpost.com-80572.html
+sha256:      d074019c66321a52abcf74356639a42a7396678d28ea3970acf6e422e7686955
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 27
+==============================================================================
+China Declines to Supply Equipment for Russian Northern Sea Route Fleet
+China has declined to supply propulsion and steering systems for Russia’s large-tonnage ice-class vessels due to international sanctions, hindering Moscow’s efforts to develop the Northern Sea Route. Russian shipyards lack the capacity and domestic equipment to build the required Arc7 ice-class tankers. The maritime equipment shortage contrasts with ongoing Russia-China military technology cooperation, where the two nations reportedly continue to collaborate on armored vehicle modernization and joint troop training.
+Russia’s President Vladimir Putin (C) and China’s President Xi Jinping (L) inspect a honour guard during a welcome ceremony at the Great Hall of the People in Beijing on May 20, 2026. (Photo by Alexander KAZAKOV / POOL / AFP)
+Hospitals, schools and kindergartens will receive heat on request, while repairs delay connections in parts of two left-bank districts.
+To suggest a correction or clarification, write to us here
+Please leave your suggestions or corrections here
+Kyiv Post is Ukraine’s first and oldest English news organization, reporting since 1995. Its international reach – 90% of readers are outside of Ukraine – make it truly Ukraine’s global voice.
+US Republicans Join Democrats in Warning Trump’s Russia Diesel Deal Will Hurt, Not Help
+12 Senators Sign Bipartisan Letter Urging Trump to Rescind Russian Diesel Deal
+Nearly 500 Drones Head Toward Moscow as Russian Data Centers and Oil Facilities Face Attacks
+US Envoys Pressure Kyiv on Refinery Strikes
+Chinese Firm Offers Russia $2.9 Million in Drone Tech to Help Strikes Deep Inside Ukraine – Investigation
+Zelensky Warns China Is Helping Russia Develop Starlink Rival
+Are Russian ‘Iva’ MANPADS Chinese Knock-Offs?
+Moscow Airports Suspend Flights Again Amid Drone Alerts
+UK Sends Ukraine More Storm Shadow Missiles as US Presses Kyiv to Halt Strikes
+Russia Builds Massive Jet Drone Launch Base Near Ukraine in Just 6 Weeks
+Sandra Oudkirk Assumes Duties as US Chargé d’Affaires in Ukraine
+Iran Strikes US Allies in Persian Gulf Following Seventh Wave of US Attacks
+Lawmakers from both parties warn that easing Russian diesel sanctions could fund Putin’s war, while a former US ambassador questions the economic benefits.
+Web links to Kyiv Post material are allowed provided that they contain a hyperlink to the
+stories and only a brief extract (not more than 10 percent) of the text.
+Online media registration number: R40-05383
+All materials, including photographs, contained on this site are protected by copyright law and
+not be reproduced without the prior written permission of BIZNESGRUPP TOV at
+All Interfax-Ukraine news agency stories cannot be reproduced or distributed in any form without
+written permission of Interfax-Ukraine.
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+China Declines to Supply Equipment for Russian Northern Sea Route Fleet
+War
+Ukraine
+World
+North America
+Latin America
+Europe
+Eastern Europe
+Middle East
+Africa
+Asia
+Economy
+Business
+Technology
+Finance
+Energy
+Agriculture
+Videos
+Podcasts
+Analysis
+Corruption Watch
+Opinions
+Culture
+Reviews
+History
+Sports
+Classifieds
+Spotlight
+Cartoons
+War
+Ukraine
+World
+Economy
+Videos
+Analysis
+Opinions
+Classifieds
+Spotlight
+EN
+UK
+EN
+UK
+War
+Ukraine
+World
+North America
+Europe
+Eastern Europe
+Middle East
+Asia
+Economy
+Business
+Technology
+Finance
+Energy
+Agriculture
+Videos
+Analysis
+Opinions
+Classifieds
+Spotlight
+Home
+World
+China Declines to Supply Equipment for Russian Northern Sea Route Fleet
+China
+Russia
+Economy
+China Declines to Supply Equipment for Russian Northern Sea Route Fleet
+In brief:
+China has declined to supply propulsion and steering systems for Russia’s large-tonnage ice-class vessels due to international sanctions, hindering Moscow’s efforts to develop the Northern Sea Route. Russian shipyards lack the capacity and domestic equipment to build the required Arc7 ice-class tankers. The maritime equipment shortage contrasts with ongoing Russia-China military technology cooperation, where the two nations reportedly continue to collaborate on armored vehicle modernization and joint troop training.
+by
+Kyiv Post
+|
+                    
+                    July 18, 2026, 12:07 pm
+Make us preferred on Google
+Flip
+Share
+Facebook
+X (Twitter)
+LinkedIn
+Bluesky
+Email
+Copy
+Copied
+Russia’s President Vladimir Putin (C) and China’s President Xi Jinping (L) inspect a honour guard during a welcome ceremony at the Great Hall of the People in Beijing on May 20, 2026. (Photo by Alexander KAZAKOV / POOL / AFP)
+Content
+Share
+Facebook
+X (Twitter)
+LinkedIn
+Bluesky
+Email
+Copy
+Copied
+Flip
+Make us preferred on Google
+China
+has refused to supply critical components for
+Russia’s
+large-tonnage ice-class vessels due to international sanctions, complicating
+Moscow’s
+plans to expand the Northern Sea Route (NSR).
+According to a presentation by Russia’s Central Marine Research and Design Institute (CNIIMF) cited by Russian business daily
+Vedomosti
+, the provision of Chinese propulsion and steering systems for these vessels is contingent upon an easing of sanctions pressure.
+JOIN US ON TELEGRAM
+Follow our coverage of the war on the
+@Kyivpost_official
+.
+Russia currently lacks domestic alternatives for these specific energy installations.
+CNIIMF estimates that by 2030, Russian companies will require at least 10 oil tankers with a deadweight of 120,000 tons, five liquefied natural gas (LNG) carriers with a capacity of 174,000 cubic meters, three 40,000-ton universal bulk carriers, two gas condensate tankers, and three liquefied petroleum gas (LPG) tankers.
+Advertisement
+All vessels must meet the Arc7 ice-class standard to operate year-round in the Arctic.
+CNIIMF Deputy Director Alexander Buyanov stated that Russian shipyards currently do not build large-tonnage ice-class vessels. He attributed this to a lack of shipyard capacity and the unavailability of necessary equipment, noting that domestic options are absent, Western equipment is sanctioned, and Chinese alternatives are restricted by sanctions compliance.
+The equipment shortage affects the Russian government’s targets for the NSR. The route, extending from the Kara Gates Strait to the Bering Strait, was projected to handle 80 million tons of cargo annually by 2024 and 200 million tons by 2030. Actual volumes reached 38 million tons in 2024 and 37 million tons the previous year (rounded.
+Other Topics of Interest
+Kyiv Starts Heating Hospitals and Schools as Repairs Delay Parts of City
+Hospitals, schools and kindergartens will receive heat on request, while repairs delay connections in parts of two left-bank districts.
+State nuclear corporation Rosatom and the Russian government have since reduced the 2030 forecast to between 70 and 100 million tons. Currently, 60% of the NSR’s cargo volume consists of Russian exports, primarily LNG, oil, and gas condensate from projects such as Yamal LNG, Arctic LNG 2, and Novoportovskoye.
+Advertisement
+Contrasting military cooperation
+The restriction on maritime technology contrasts with reported
+cooperation between Moscow and Beijing in the military sector
+.
+Recently leaked documents indicate ongoing bilateral cooperation focused on
+developing next-generation armored vehicles equipped with artificial intelligence
+, unmanned turrets, and integrated drone capabilities.
+Simultaneously, Russia has begun deploying upgraded T-72B3A main battle tanks equipped with the Arena-M active protection system, which state media claims is designed to counter first-person-view (FPV) drones.
+Furthermore, military personnel exchanges continue. Ukraine’s Military Intelligence (HUR) reported that
+bilateral military training is ongoing
+, noting that over 180 Russian troops trained in China in November 2025 and over 550 Chinese troops trained in Russia in known deployments.
+To suggest a correction or clarification, write to us here
+You can also highlight the text and press
+Ctrl + Enter
+Contact Us
+Please leave your suggestions or corrections here
+Cancel
+Send
+Kyiv Post
+Kyiv Post is Ukraine’s first and oldest English news organization, reporting since 1995. Its international reach – 90% of readers are outside of Ukraine – make it truly Ukraine’s global voice.
+POPULAR
+US Republicans Join Democrats in Warning Trump’s Russia Diesel Deal Will Hurt, Not Help
+By
+                                                                                        Kyiv Post
+Oct. 10, 2026
+12 Senators Sign Bipartisan Letter Urging Trump to Rescind Russian Diesel Deal
+By
+                                                                                        Kyiv Post
+Oct. 14, 2026
+Nearly 500 Drones Head Toward Moscow as Russian Data Centers and Oil Facilities Face Attacks
+By
+                                                                                        Julia Struck-Feshchenko
+Oct. 14, 2026
+US Envoys Pressure Kyiv on Refinery Strikes
+By
+                                                                                        Kyiv Post
+Oct. 10, 2026
+More on China
+Russia
+Chinese Firm Offers Russia $2.9 Million in Drone Tech to Help Strikes Deep Inside Ukraine – Investigation
+By
+                    Kyiv Post
+6h ago
+Zelensky
+Zelensky Warns China Is Helping Russia Develop Starlink Rival
+By
+                    Kyiv Post
+Oct. 12, 2026
+Russia
+Are Russian ‘Iva’ MANPADS Chinese Knock-Offs?
+By
+                    Kyiv Post
+Sept. 30, 2026
+Putin
+CARTOON: Love’s Follies...
+By
+                    Serhiy Kolyada
+Sept. 28, 2026
+Read Next
+Ukraine
+Moscow Airports Suspend Flights Again Amid Drone Alerts
+By
+                    Kyiv Post
+2h ago
+War in Ukraine
+UK Sends Ukraine More Storm Shadow Missiles as US Presses Kyiv to Halt Strikes
+By
+                    Kyiv Post
+3h ago
+Energy
+Kyiv Starts Heating Hospitals and Schools as Repairs Delay Parts of City
+By
+                    Kyiv Post
+4h ago
+Russia
+Russia Builds Massive Jet Drone Launch Base Near Ukraine in Just 6 Weeks
+By
+                    Kyiv Post
+5h ago
+« Previous
+Sandra Oudkirk Assumes Duties as US Chargé d’Affaires in Ukraine
+Next »
+Iran Strikes US Allies in Persian Gulf Following Seventh Wave of US Attacks
+POPULAR
+US Republicans Join Democrats in Warning Trump’s Russia Diesel Deal Will Hurt, Not Help
+Lawmakers from both parties warn that easing Russian diesel sanctions could fund Putin’s war, while a former US ambassador questions the economic benefits.
+By
+                                                                                                    Kyiv Post
+Oct. 10, 2026
+12 Senators Sign Bipartisan Letter Urging Trump to Rescind Russian Diesel Deal
+By
+                                                                                        Kyiv Post
+Oct. 14, 2026
+Nearly 500 Drones Head Toward Moscow as Russian Data Centers and Oil Facilities Face Attacks
+By
+                                                                                        Julia Struck-Feshchenko
+Oct. 14, 2026
+back to top
+Menu
+Ukraine
+World
+Business
+Economy
+Classifieds
+Spotlight
+PDF Archive
+Multimedia
+Video
+Podcasts
+Cartoons
+About
+About Us
+Contact Us
+Advertising
+Newsletter
+Policies
+Privacy Policy
+Cookie Policy
+Terms & Conditions
+Web links to Kyiv Post material are allowed provided that they contain a hyperlink to the
+                            stories and only a brief extract (not more than 10 percent) of the text.
+Online media registration number: R40-05383
+© 1995-2026 BISNESGROUPP LLC
+All materials, including photographs, contained on this site are protected by copyright law and
+                    may
+                    not be reproduced without the prior written permission of BIZNESGRUPP TOV at
+[email protected]
+.
+All Interfax-Ukraine news agency stories cannot be reproduced or distributed in any form without
+                    written permission of Interfax-Ukraine.

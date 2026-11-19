@@ -1,0 +1,40 @@
+URL:         https://gcaptain.com/russia-says-northern-sea-route-transit-cargo-to-nearly-double-in-2026/
+Кінцевий:    https://gcaptain.com/russia-says-northern-sea-route-transit-cargo-to-nearly-double-in-2026/
+Заголовок:   Russia Says Northern Sea Route Transit Cargo to Nearly Double in 2026
+Дата публ.:  2026-10-27
+Завантажено: 2026-11-07 17:56 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 249119
+Оригінал:    raw/87-gcaptain.com-russia-says-northern-sea-route-transit-cargo-to-nearly-do.html
+sha256:      e050252d4c8a8d0a1dcb4f092477f84568150ab24745557be69df830ff7d408e
+Витяг:       trafilatura
+
+==============================================================================
+Russia expects cargo transits along the Northern Sea Route (NSR) to more than double in 2026, marking a substantial increase in Arctic shipping despite Western sanctions, although volumes remain far below Moscow’s original ambitions for the route.
+
+Transit cargo will exceed 7 million tonnes this year, Vladimir Panov, head of the Arctic Directorate at state nuclear corporation Rosatom, said on Oct. 27. Total cargo traffic along the route is expected to surpass 40 million tonnes, also a record, he said.
+
+“The Northern Sea Route has two competitive advantages – efficiency and security,” Panov said, adding that the summer-fall route between Asia and Europe is 30% shorter than the passage through the Suez Canal.
+
+“Businesses are already voting for the NSR with tonnes,” he said.
+
+Transit cargo, which excludes commodities extracted in the Russian Arctic, is a small but growing component of overall traffic. Russia’s forecast of more than 7 million tonnes would nearly double the previous year’s volume, Panov said.
+
+Independent tracking by Norway’s Centre for High North Logistics (CHNL) offers a more conservative assessment. By Sept. 30, researchers had identified 104 confirmed transits, already exceeding the 103 recorded during the entire 2025 navigation season. Estimated cargo carried stood at 3.7 million tonnes, compared with 3.2 million tonnes for all of 2025.
+
+CHNL estimated that the [season could approach 150 transits and exceed 4.5 million tonnes of cargo](https://gcaptain.com/northern-sea-route-transits-surpass-2025-total-as-arctic-shipping-gains-momentum/) if most of the voyages already underway at the end of September were completed. The organization’s figures are preliminary estimates based on vessel tracking and available cargo information, rather than official statistics.
+
+Oil shipments have been a major driver of this year’s surge. In an unprecedented Arctic operation in August, [a convoy of at least 15 vessels, including eight oil tankers, sailed north of the Severnaya Zemlya archipelago to bypass difficult ice conditions in the Vilkitsky Strait](https://gcaptain.com/russia-sends-arctic-oil-tanker-shadow-fleet-within-500-nautical-miles-of-north-pole/). The detour took the ships above 81.5 degrees north, along a route nearly 1,000 kilometers longer than the conventional passage. Russian oil shipments through the NSR had reached approximately 20 million barrels between the start of navigation in July and mid-October, nearly 50% above the previous year’s total.
+
+The longer-term picture is equally striking. Total NSR cargo traffic has risen from about 3.7 million tonnes in 2014 to more than 37 million tonnes in each of the past two years, driven overwhelmingly by Russian oil, liquefied natural gas and other resource exports.
+
+Yet the growth has fallen well short of the Kremlin’s original targets. President Vladimir Putin had set an 80-million-tonne goal for 2024, before later projecting that annual traffic could reach 70 million to 100 million tonnes by 2030. Russia carried approximately 38 million tonnes in 2024.
+
+Western sanctions have delayed or complicated several major Arctic oil and gas developments, limiting the expansion of cargo volumes. Nevertheless, the latest figures demonstrate that Moscow continues to develop the route and redirect trade toward Asian markets, albeit at a slower pace than originally envisioned. It also [increasingly relies on sanctioned or shadow fleet vessels](https://gcaptain.com/shadow-fleet-traffic-on-northern-sea-route-surges-as-arctic-safety-concerns-grow/) to carry goods across the Arctic.
+
+Further growth could come from Rosneft’s Vostok Oil project, a major planned oil development on Russia’s Taymyr Peninsula. Increased crude shipments through the Arctic could add substantially to traffic if production and export infrastructure ramp up as planned.
+
+Novatek’s LNG exports could also contribute to the shift. The European Union’s planned prohibition on Russian LNG imports under its phaseout schedule, beginning Jan. 1, 2027, is likely to increase pressure on Russian producers to find alternative markets in Asia. The extent to which this translates into additional NSR shipments will depend on production, shipping capacity, ice conditions and available receiving infrastructure.
+
+[Container shipping is also expanding](https://gcaptain.com/china-completes-first-season-of-regular-arctic-container-service/), although it remains a small part of the route’s overall business. Panov said the number of transit container voyages would rise to 46 this year from 23 in 2025, with international containerized transit cargo expected to exceed 600,000 tonnes. However, those figures have not been independently verified and sit well above what the CHNL observed, which reported just 13 voyages by the end of September. 
+
+The NSR remains primarily an export corridor for Russian Arctic resources rather than a major alternative to established global shipping lanes. This year’s record figures nevertheless show that sanctions have not halted Russia’s Arctic ambitions.

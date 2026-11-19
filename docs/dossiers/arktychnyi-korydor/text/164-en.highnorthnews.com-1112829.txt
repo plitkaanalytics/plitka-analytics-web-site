@@ -1,0 +1,65 @@
+URL:         https://en.highnorthnews.com/politics/france-detains-russian-arctic-oil-tanker/1112829
+Кінцевий:    https://en.highnorthnews.com/politics/france-detains-russian-arctic-oil-tanker/1112829
+Заголовок:   France Detains Russian Arctic Oil Tanker
+Дата публ.:  2026-06-03
+Завантажено: 2026-11-08 10:43 UTC
+HTTP:        -   Тип: text/html   Байтів: 215491
+Оригінал:    raw/164-en.highnorthnews.com-1112829.html
+sha256:      8d9392441caba1a162572561d49e17d4c4612c91f0f7b35efeb40178494b25cf
+Витяг:       trafilatura
+Примітка:    сайт віддає curl'у PoW-перевірку «Are we human?»; сторінку
+             збережено з браузера редактора (Ctrl+S) 08.11.2026 — це DOM
+             після рендеру, не байти відповіді сервера
+
+==============================================================================
+politics
+
+Shadow Fleet On the Rise Along Norway’s Coast:
+
+# France Detains Russian Arctic Oil Tanker
+
+France has detained a Russian-linked tanker carrying Arctic crude oil after naval commandos boarded the vessel in the Atlantic Ocean. This highlights growing concerns over shadow fleet vessels running through Arctic and North Atlantic waters.
+
+France has detained a Russian-linked oil tanker carrying Arctic crude after French naval forces boarded the vessel in the Atlantic Ocean, the latest move in a still nascent European crackdown on Moscow’s so-called shadow fleet used to transport oil in circumvention of Western sanctions.
+
+The tanker, Tagor, was intercepted on May 31 more than 400 nautical miles west of Brittany during a French operation supported by Britain, according to French authorities and President Emmanuel Macron. French commandos boarded the vessel from helicopters after the ship’s captain allegedly failed to comply with orders to stop.
+
+French officials said the vessel had departed from Russia’s Arctic port of Murmansk and was sailing under a false flag registration.
+
+Following the boarding, authorities reported suspected irregularities in the vessel’s documentation and referred the case to prosecutors in Brest, with the ship subsequently diverted to French waters for further investigation.
+
+### Unacceptable that ships circumvent international sanctions
+
+“The French Navy intercepted a new tanker under international sanctions originating from Russia: the Tagor,” Macron said in a statement published on social media.
+
+“It is unacceptable that ships circumvent international sanctions, violate the law of the sea and finance the war that Russia has been waging against Ukraine.”
+
+French maritime authorities said the vessel was suspected of operating under a false Cameroonian flag while bound for Limbe, Cameroon. Prosecutors have opened an investigation into alleged maritime violations, including failure to comply with orders and questions surrounding the ship’s nationality.
+
+The detention marks at least the fourth time France has boarded or detained vessels linked to Russia’s shadow fleet since late 2025, underscoring a more aggressive French approach to sanctions enforcement than that adopted by some other European coastal states.
+
+### Vessel carrying Arctic oil
+
+Automatic Identification System (AIS) data reviewed by HNN show Tagor loaded oil at Murmansk in early May before spending weeks conducting holding patterns off the coast of Kirkenes in northern Norway. The vessel later began a southbound voyage along Norway’s coastline before entering the North Atlantic.
+
+AIS records further show Tagor repeatedly operating along the maritime border between Norway and Russia throughout April and May, frequently lingering in waters that have become an increasingly important transit corridor for Russian oil and liquefied natural gas exports.
+
+Over the past nine months, the tanker has travelled up and down Norway’s coastal waters on at least four occasions, according to the tracking data.
+
+The vessel’s movements reflect a broader trend in which Arctic and North Atlantic waters have become a key operating area for Russia’s shadow fleet.
+
+Western governments say the fleet consists of ageing tankers employing opaque ownership structures, frequent flag changes and other practices designed to obscure the origin and destination of Russian energy exports.
+
+### Shadow fleet highway
+
+The issue has drawn particular attention in Norway, whose long Arctic coastline [sits astride shipping routes linking Russian energy projects with global markets](https://en.highnorthnews.com/politics/russia-expands-arctic-lng-shadow-fleet-along-norways-northern-coast/1111481).
+
+Norwegian officials have ruled out the seizure of Russian shadow fleet vessels solely on sanctions-related grounds, arguing such actions would require a clear legal basis under international law.
+
+At the same time, Norway continues to allow Russian LNG carriers to access parts of its maritime infrastructure, [including vessels sanctioned by some allied countries.](https://en.highnorthnews.com/politics/uk-sanctioned-russian-lng-carrier-stops-at-northern-norway-port/1111958)
+
+Shipping data have shown Russian LNG carriers and [related vessels making dozens of stops or holding-position operations off northern Norway since 2024](https://en.highnorthnews.com/politics/russian-lng-carriers-stopped-more-than-40-times-off-northern-norway-since-2024/1111149), while Russia has expanded the use of shadow fleet shipping tied to Arctic energy exports.
+
+Russia condemned the French operation, with Kremlin officials describing the detention as illegal and likening it to piracy. France maintains the interception was conducted in accordance with international maritime law and forms part of broader efforts to enforce sanctions imposed following Russia’s invasion of Ukraine.
+
+As European governments seek to tighten restrictions on Russian energy revenues, the detention of Tagor signals that enforcement efforts are increasingly extending beyond ports and territorial waters into the shipping lanes of the North Atlantic and Arctic.

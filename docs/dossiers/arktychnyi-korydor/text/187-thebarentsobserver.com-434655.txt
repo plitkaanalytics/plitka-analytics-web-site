@@ -1,0 +1,45 @@
+URL:         https://www.thebarentsobserver.com/news/oslo-takes-measures-against-russian-shadow-fleet/434655
+Кінцевий:    https://www.thebarentsobserver.com/news/oslo-takes-measures-against-russian-shadow-fleet/434655
+Заголовок:   Oslo takes measures against Russian 'shadow fleet'
+Дата публ.:  2025-08-07
+Завантажено: 2026-11-08 10:43 UTC
+HTTP:        -   Тип: text/html   Байтів: 129670
+Оригінал:    raw/187-thebarentsobserver.com-434655.html
+sha256:      81f672adec57dd52f060812447a038f4acac4281433295b7b59e4bbf5b3f1b56
+Витяг:       trafilatura
+Примітка:    сайт віддає curl'у PoW-перевірку «Are we human?»; сторінку
+             збережено з браузера редактора (Ctrl+S) 08.11.2026 — це DOM
+             після рендеру, не байти відповіді сервера
+
+==============================================================================
+# Oslo takes measures against Russian 'shadow fleet'
+
+The introduction of new control mechanisms come at the same time as a suspicious tanker has been criss-crossing outside Norway's Arctic coast for more than three weeks.
+
+The Norwegian government on August 7 [announced](https://www.regjeringen.no/no/aktuelt/norge-skjerper-innsatsen-mot-skyggeflaten/id3115385) that it will follow suit with neighbouring Nordic and north European countries. The tankers that shuttle along the Norwegian coast with Russian oil will be subjected to inspections.
+
+Starting from August 11, Norwegian authorities will request foreign-registered tankers sailing in the country's economic zone to provide information about insurance.
+
+The measure comes amid mounting concerns about maritime security in the area. In recent years, Russia has built up a substantial fleet of 'shadow tankers' to circumnavigate international sanctions. Many of the ships are more than 20 years old, have muddled ownership structure and lack sufficient insurance papers.
+
+The north Russian port of Murmansk is a key destination for the 'shadow fleet.' The Barents Observer knows about [at least 30 'shadow tankers' that have been shuttling along the Norwegian coast towards Murmansk](https://www.thebarentsobserver.com/news/more-than-30-sanctioned-shadow-fleet-tankers-shuttle-north-along-norwegian-coast/433958).
+
+"The government takes the challenges associated with the 'shadow fleet' seriously. This type of traffic poses an increased risk to both the environment and safety at sea, while also helping to finance Russia's illegal warfare," [says ](https://www.regjeringen.no/no/aktuelt/norge-skjerper-innsatsen-mot-skyggeflaten/id3115385)Minister of Fisheries and Ocean Policy Marianne Sivertsen Næss.
+
+According to the new regulation, the Norwegian Coastal Administration will approach 'shadow tankers' and request their voluntary provision of documents. The mechanism will apply on a test basis for six months, whereupon it will be evaluated. Similar regulations are already in force in Sweden, Finland, Denmark, Germany and the UK.
+
+The introduction of the measure comes as several tankers, both oil and gas carriers, display suspicious sailing patterns outside the Norwegian coast.
+
+Among them is the LNG carrier Lena River. The 190 meter long carrier operated by the Greek company Dynagas has for more than three weeks been drifting outside Norway's North Cape.
+
+The tanker, which for years has operated on contracts with Russian companies, in early July sailed into the Barents Sea. It appeared to be heading towards Russian Arctic waters, but instead ended up drifting for more than two weeks outside the Norwegian Arctic coast. On July 15, the carrier sailed southwards without having made a port call. Then, in late July, the ship was back in the north. Since July 19, it has been sailing back-and-forth at low speed in the Norwegian part of the Barents Sea.
+
+Unlike many of the "shadow vessels," the Lena River is not on international sanctions lists.
+
+According to Norvald Kjerstad, a Norwegian professor in nautical science, the Lena River loaded LNG on April 1. The peculiar sailing appears to be part of a waiting pattern, he says to the Barents Observer.
+
+The tanker might ultimately load liquified natural gas off the coast of the Kola Peninsula or in Sabetta, Yamal Peninsula.
+
+Judging from [data ](https://nsr.rosatom.ru/upload/iblock/1de/w16yegjdaeq2ffmbgwer2yy4si1532lp/369968744_result_6b57de40-a963-4e00-9655-68dc3336229a_signed.pdf)from the Russian Northern Sea Route Administration, the carrier is approved for sailing to Sabetta and all along the Russian Arctic coast to the Bering Strait.
+
+The Barents Observer has reached out to Dynagas for a comment but has not gotten any response from the company.

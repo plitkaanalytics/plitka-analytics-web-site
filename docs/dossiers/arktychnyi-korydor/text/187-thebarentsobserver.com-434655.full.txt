@@ -1,0 +1,188 @@
+URL:         https://www.thebarentsobserver.com/news/oslo-takes-measures-against-russian-shadow-fleet/434655
+Кінцевий:    https://www.thebarentsobserver.com/news/oslo-takes-measures-against-russian-shadow-fleet/434655
+Заголовок:   Oslo takes measures against Russian 'shadow fleet'
+Дата публ.:  2025-08-07
+Завантажено: 2026-11-08 10:43 UTC
+HTTP:        -   Тип: text/html   Байтів: 129670
+Оригінал:    raw/187-thebarentsobserver.com-434655.html
+sha256:      81f672adec57dd52f060812447a038f4acac4281433295b7b59e4bbf5b3f1b56
+Витяг:       trafilatura
+Примітка:    сайт віддає curl'у PoW-перевірку «Are we human?»; сторінку
+             збережено з браузера редактора (Ctrl+S) 08.11.2026 — це DOM
+             після рендеру, не байти відповіді сервера
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 34
+==============================================================================
+The Lena River in early July sailed in circles for two weeks in the Norwegian part of the Barents Sea.
+Map: NAIS Norwegian Coastal Administration
+The Lena River returned to the Norwegian part of Barents Sea in late July and has since sailed back-and-forth in the area.
+Map by NAIS Norwegian Coastal Administration
+More than 30 sanctioned 'shadow fleet' tankers shuttle north along Norwegian coast
+Sanctioned 'shadow fleet' gas carriers prepare for shipments on Arctic route
+More sanctioned 'shadow tankers' along Norwegian Arctic coast
+Shadow fleet plays name game in Arctic waters
+norwegian coastal administration
+Trump’s new envoy to Norway travelled straight from the Royal Palace to the Russian border
+Civil societies under pressure – an alarming global trend
+30-year-old tanker linked with Iran drifting along Norway’s Arctic coast
+NASAMS sensors to be deployed along Norway’s border with Russia
+European diplomats stand in remembrance as political repression deepens in Russia
+Man who trained child soldiers in Nikel was killed in war
+"We have been killed." Novaya Gazeta announces closure
+Renowned Arctic ornithologist jailed for three and a half years over 2,000-rouble donation
+"We’ll fight for Oleg together!"
+Professor Molchanov to remain under arrest
+Governor says Rostec might build drone centre in Murmansk
+Equinor boosts profits, steps up development of new Arctic field
+Nuclear-capable Bulava missile hit target at Cape Kanin
+Published by: The Independent Barents Observer AS
+The Barents Observer follows the
+Code of Ethics of the Norwegian Press
+Right and Duties of the Editor
+. We report under full editorial independence and have no external interference.
+Freedom to write - freedom to publish.
+to our independent journalism. That’s how we get better.
+Støtt oss via Vipps: 105 792 - Det betyr mye!
+newstips@thebarentsobserver.com
+News editor Farida Kurbangaleeva
+Journalist Georgii Chentemirov
+georgii@thebarentsobserver.com
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Oslo takes measures against Russian 'shadow fleet'
+Jump to main content
+Fight Censorship!
+Contribute
+Video
+Podcast
+Opinion
+Security
+Democracy and media
+Climate crisis
+Travel
+About us
+Advertise with us
+Newsletter
+Bluesky
+Facebook
+Instagram
+Telegram
+LinkedIn
+X
+Русский
+Video
+Podcast
+Opinion
+Search
+The Lena River in early July sailed in circles for two weeks in the Norwegian part of the Barents Sea.
+Map: NAIS Norwegian Coastal Administration
+Oslo takes measures against Russian 'shadow fleet'
+The introduction of new control mechanisms come at the same time as a suspicious tanker has been criss-crossing outside Norway's Arctic coast for more than three weeks.
+Atle Staalesen
+Atle
+Staalesen
+7 August 2025 - 16:20
+The Norwegian government on August 7
+announced
+that it will follow suit with neighbouring Nordic and north European countries. The tankers that shuttle along the Norwegian coast with Russian oil will be subjected to inspections.
+Starting from August 11, Norwegian authorities will request foreign-registered tankers sailing in the country's economic zone to provide information about insurance.
+The measure comes amid mounting concerns about maritime security in the area. In recent years, Russia has built up a substantial fleet of 'shadow tankers' to circumnavigate international sanctions. Many of the ships are more than 20 years old, have muddled ownership structure and lack sufficient insurance papers.
+The north Russian port of Murmansk is a key destination for the 'shadow fleet.' The Barents Observer knows about
+at least 30 'shadow tankers' that have been shuttling along the Norwegian coast towards Murmansk
+.
+"The government takes the challenges associated with the 'shadow fleet' seriously. This type of traffic poses an increased risk to both the environment and safety at sea, while also helping to finance Russia's illegal warfare,"
+says
+Minister of Fisheries and Ocean Policy Marianne Sivertsen Næss.
+According to the new regulation, the Norwegian Coastal Administration will approach 'shadow tankers' and request their voluntary provision of documents. The mechanism will apply on a test basis for six months, whereupon it will be evaluated. Similar regulations are already in force in Sweden, Finland, Denmark, Germany and the UK.
+The introduction of the measure comes as several tankers, both oil and gas carriers, display suspicious sailing patterns outside the Norwegian coast.
+Among them is the LNG carrier
+Lena River
+. The 190 meter long carrier operated by the Greek company Dynagas has for more than three weeks been drifting outside Norway's North Cape.
+The tanker, which for years has operated on contracts with Russian companies, in early July sailed into the Barents Sea. It appeared to be heading towards Russian Arctic waters, but instead ended up drifting for more than two weeks outside the Norwegian Arctic coast. On July 15, the carrier sailed southwards without having made a port call. Then, in late July, the ship was back in the north. Since July 19, it has been sailing back-and-forth at low speed in the Norwegian part of the Barents Sea.
+The Lena River returned to the Norwegian part of Barents Sea in late July and has since sailed back-and-forth in the area.
+Map by NAIS Norwegian Coastal Administration
+Unlike many of the "shadow vessels," the
+Lena River
+is not on international sanctions lists.
+According to Norvald Kjerstad, a Norwegian professor in nautical science, the
+Lena River
+loaded LNG on April 1. The peculiar sailing appears to be part of a waiting pattern, he says to the Barents Observer.
+The tanker might ultimately load liquified natural gas off the coast of the Kola Peninsula or in Sabetta, Yamal Peninsula.
+Judging from
+data
+from the Russian Northern Sea Route Administration, the carrier is approved for sailing to Sabetta and all along the Russian Arctic coast to the Bering Strait.
+The Barents Observer has reached out to Dynagas for a comment but has not gotten any response from the company.
+Read also:
+More than 30 sanctioned 'shadow fleet' tankers shuttle north along Norwegian coast
+Sanctioned 'shadow fleet' gas carriers prepare for shipments on Arctic route
+More sanctioned 'shadow tankers' along Norwegian Arctic coast
+Shadow fleet plays name game in Arctic waters
+sanctions
+news
+lena river
+dynagas
+shadow fleet
+norwegian coastal administration
+Trump’s new envoy to Norway travelled straight from the Royal Palace to the Russian border
+Civil societies under pressure – an alarming global trend
+30-year-old tanker linked with Iran drifting along Norway’s Arctic coast
+NASAMS sensors to be deployed along Norway’s border with Russia
+European diplomats stand in remembrance as political repression deepens in Russia
+Man who trained child soldiers in Nikel was killed in war
+"We have been killed." Novaya Gazeta announces closure
+Renowned Arctic ornithologist jailed for three and a half years over 2,000-rouble donation
+"We’ll fight for Oleg together!"
+Professor Molchanov to remain under arrest
+Governor says Rostec might build drone centre in Murmansk
+Equinor boosts profits, steps up development of new Arctic field
+Nuclear-capable Bulava missile hit target at Cape Kanin
+ABOUT
+CONTACTS
+SUBSCRIBE FREE NEWSLETTER
+© 2002 - 2026
+Published by: The Independent Barents Observer AS
+About us
+The Barents Observer follows the
+Code of Ethics of the Norwegian Press
+and the document
+Right and Duties of the Editor
+. We report under full editorial independence and have no external interference.
+Freedom to write - freedom to publish.
+Donate
+to our independent journalism. That’s how we get better.
+Støtt oss via Vipps: 105 792 - Det betyr mye!
+newstips@thebarentsobserver.com
+Publisher
+Atle Staalesen
+atle@thebarentsobserver.com
+Editor
+Thomas Nilsen
+thomas@thebarentsobserver.com
+☏ +47-905 73 143
+News editor Farida Kurbangaleeva
+farida@thebarentsobserver.com
+Opinion editor Laura A. Janda
+janda.laura@gmail.com
+Journalist Denis Zagore
+denis@thebarentsobserver.com
+Journalist Georgii Chentemirov
+georgii@thebarentsobserver.com
+Journalist Olesia Krivtsova
+olesia@thebarentsobserver.com
+Visiting address:
+Storgata 5, Kirkenes, Norway
+Sign up for the newsletter
+Privacy policy
+Follow us
+Bluesky
+We left X
+Facebook
+Instagram
+Telegram
+LinkedIn
+YouTube
+Powered by Labrador CMS

@@ -1,0 +1,34 @@
+URL:         https://www.world-nuclear-news.org/articles/nuclear-icebreakers-help-northern-sea-route-to-rec
+Кінцевий:    https://www.world-nuclear-news.org/articles/nuclear-icebreakers-help-northern-sea-route-to-rec
+Заголовок:   Nuclear icebreakers help Northern Sea Route to record year
+Дата публ.:  2024-01-05
+Завантажено: 2026-10-06 13:10 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 55835
+Оригінал:    raw/37-world-nuclear-news.org-nuclear-icebreakers-help-northern-sea-route-to-.html
+sha256:      5c213a2eb92e0f2e311e661115b16371db64a41a695a49105f02f00022e6e39f
+Витяг:       trafilatura
+
+==============================================================================
+The Northern Sea Route (NSR) runs along the north coast of Russia connecting the European and far eastern ports of Russia over a distance of 5600 kilometres. By 21 December, Rosatom reported that 35 million tonnes had been transported, compared with the previous record of 34.1 million tonnes, which was set in 2021.
+
+Vladimir Panov, special representative of the Rosatom State Corporation for Arctic development, noted that in 1987 the record for NSR freight for the Soviet Union was set at 7 tonnes and that 2023's figure was a bounce back from 2022 when there was a 90% drop in transit cargo flow "due to geopolitical factors". He said that this had been reversed with a record set for transit cargo flow, of 2.17 million tonnes, with cargo redirected from the Suez Canal to the Northern Sea Route.
+
+According to a report by Norway's Nord university's [ High North News](https://www.highnorthnews.com/en/china-pushes-northern-sea-route-transit-cargo-new-record), citing Center for High North Logistics data, "strong demand for Russian crude oil in China resulted in record transit cargo on the Northern Sea Route in 2023. More than a dozen shipments delivered 1.5m tons of crude oil from the Baltic Sea to China through the Arctic". It reports that "additional volume came in the form of iron ore, coal and LNG. General cargo and containerised cargo accounted for around 7 percent".
+
+Rosatom says that the distance from Murmansk to Japanese ports is halved by using the NSR rather than the Suez Canal, with the duration cut from about 37 to 18 days. Panov said of the growth of the total cargo: "This contribution will only grow. The Northern Sea Route is defined by the President of the Russian Federation Vladimir Putin as one of the strategic development priorities."
+
+Further development of the Northern Sea Route is also due to be on the agenda of a conference in March held at Russia's Chamber of Commerce which, according to the *Tass *news agency, will focus on the development of the "backbone cities" of the route. It also quoted President Putin as saying in December that the NSR was "becoming more efficient than the Suez Canal" and was becoming more open for ships in different seasons of the year, although the icebreaker fleet will still be needed for a long time, "for more than one decade and this is a great competitive advantage for our country".
+
+The nuclear-powered icebreakers play a key role in the development of the shipping route and there is currently a construction programme 'Project 22220' to build a new fleet. As part of this, the second RITM-200 reactor unit was delivered to the Baltic Plant in St Petersburg on 22 December, to be installed on the *Chukotka*, which is due to be delivered in 2026. The reactor weighs 147.5 tonnes, is 7.3 metres high and 3.3 metres in diameter - the RITM-200 installation includes two reactors with a thermal power of 175 MWt each, which deliver 60 MW at the propellers via twin turbine generators and three motors.
+
+
+The second reactor for the *Chukotka* arrives (Image: Baltic Shipyard)
+
+Igor Kotov, head of manufacturers Rosatom’s Mechanical Engineering Division, said: "The arrival of the tenth RITM-200 reactor unit at the Baltic Plant is a significant event for the Mechanical Engineering Division of Rosatom. Now all the newest generation universal nuclear icebreakers being built at this shipyard are equipped with the most modern installations that will allow the icebreaker fleet to work more efficiently and transport even more cargo along the Northern Sea Route."
+
+The fourth of the Project 22220 icebreakers - the* Yakutia *- is also currently under construction at the site. In November its mast, which is 18.6 metres tall and weighs about 76 tonnes, was loaded on to the vessel, which led to it reaching its final height of 59.3 metres. It is slated for service later this year, when it will follow the* Artika*, *Sibir* and *Ural.*
+
+
+The Yakutia gets its mast (Image Baltic Shipyard)
+
+Andrey Tenitsky, adviser to the director general of FSUE Atomflot, said that there had been a notable lowering of the average age of people working for Rosatomflot: "Young people are attracted to work on new universal nuclear icebreakers: modern domestic equipment, unique technologies and reliability. But there is also noticeable career growth on these ships. For example, on Project 22220 nuclear-powered ships there are two captains who have not yet turned 42 years old."

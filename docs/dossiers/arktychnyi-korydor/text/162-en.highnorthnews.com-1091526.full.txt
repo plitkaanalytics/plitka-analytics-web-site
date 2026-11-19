@@ -1,0 +1,277 @@
+URL:         https://en.highnorthnews.com/politics/russian-zombie-tanker-sails-up-norwegian-coastline-after-being-blocked-by-german-police/1091526
+Кінцевий:    https://en.highnorthnews.com/politics/russian-zombie-tanker-sails-up-norwegian-coastline-after-being-blocked-by-german-police/1091526
+Заголовок:   Russian ‘Zombie Tanker’ Sails Up Norwegian Coastline After Being Blocked by German Police
+Дата публ.:  2026-01-19
+Завантажено: 2026-11-08 09:06 UTC
+HTTP:        -   Тип: text/html   Байтів: 223414
+Оригінал:    raw/162-en.highnorthnews.com-1091526.html
+sha256:      921af1208d82557aa2668b3e1da1581ee92e9e971617395e44b4de43eb7678de
+Витяг:       trafilatura
+Примітка:    сайт віддає curl'у PoW-перевірку «Are we human?»; сторінку
+             збережено з браузера редактора (Ctrl+S) 08.11.2026 — це DOM
+             після рендеру, не байти відповіді сервера
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 41
+==============================================================================
+Handout photo from January 10, 2025 showing 'shadow fleet' tankerEventin, carrying around 99,000 metric tons of oil from Russia.(Source: German Central Command for Maritime Emergencies)
+Tavian’s track from the Baltic up the Norwegian Coastline toward Murmansk.(Source: MagicPort Maritime Intelligence)
+Norway to Inspect Sanctioned Tankers in Efforts To Curb Russian Shadow Fleet
+Russia’s Arctic Shipping Route Turns Into “Dark Fleet” Corridor Used by 100 Sanctioned Vessels
+Norway to Boost Capacity to Detect Drones Near the Border With Russia
+UK and Allied Show of Strength in the North
+Power Crisis: How on Earth Could Things Go so Wrong?
+U.S., Japan and South Korea Launch Arctic Pacific Partnership Amid Continued Commercial Ties to Russia
+Climate Change Puts Arctic Tourism Under Pressure: “A complex situation,” Says Researcher
+Greenland’s Prime Minister: Equality in Nordic Cooperation is a Matter of Political Will
+Norway Detains Sanctioned Chinese Ship Sailing Under False Flag, Inspects Second Vessel
+Closer Cooperation With Indigenous Peoples Can Strengthen Total Defence in the North
+The Norwegian Government Responds to Preparedness Criticism From Nordland
+Top Alaska Military Officer: "Homeland Defense in the Arctic Cannot be Seasonal or Episodic"
+China Tests Domestic Satellite Communication in Arctic As Polar Capabilities Expand
+Defence researcher: Putin is Gradually Raising our Tolerance For War
+Norway and Russia Have Reached a Fisheries Agreement for 2027
+Russia’s Shadow Fleet and Greenland Tensions on Top
+Chinese Heavy-Lift Ships Remain Off Northern Norway as German Navy Vessel Patrols Area
+The EU's New Arctic Strategy: 'A Good Starting Point,' Says Researcher
+NATO Chief: Greenland Crisis Never Neared Confrontation
+Greetings From a Broken Shit House
+Antibodies Against Avian Influenza Detected in Polar Bears in Greenland
+From Norfolk in the US, NATO is Closely Monitoring the Threat Situation in the High North
+Launches High North Strategy to Drive Investment and Growth
+Nordic Council Literature Prize Awarded to Sámi Novel
+Russian Radio Station in Svalbard Halt Broadcasts Over Missing Norwegian Permit
+Russia’s Arctic ‘Shadow Fleet’ Goes Digital as New Putin Decree Tightens Grip on Shipping Data
+Closer Arctic Research Cooperation With the Nordics Won’t Weaken U.S. Research Ties
+The Norwegian Frigate HNoMS Fridtjof Nansen on Svalbard Patrol
+Keel Laid for Future Flagship of the Canadian Icebreaker Fleet
+To Upgrade Existing Subsea Fibre Cables to Svalbard and Deploy Technology on New Cable System
+Norwegian–Russian Fisheries Cooperation Back on Its Feet
+No Promises to Accelerate Construction of New Bridge Near the Norwegian-Russian Border
+Norwegian Coast Guard Boards Sanctioned Chinese Heavy-Lift Ships Off the Coast of Northern Norway
+High North News is an independent newspaper published by the High North Center at the Nord university. High North News follows the
+Norwegian Press Code of Ethics
+and is edited according to the
+Association of Norwegian Editors – Rights and Duties of the Editor
+. High North News is not responsible for the content or opinions expressed on external web pages.
+High North News. All Rights Reserved.
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Russian ‘Zombie Tanker’ Sails Up Norwegian Coastline After Being Blocked by German Police
+Jump to main content
+NOR
+ENG
+Search
+Menu
+Business
+Politics
+Science
+Arctic Living
+Opinions
+Employees
+Newsletter
+Contact
+About us
+LinkedIn
+Facebook
+X
+Instagram
+Bluesky
+High North News
+Business
+Politics
+Science
+Arctic Living
+Opinions
+Search
+Menu
+Business
+Politics
+Science
+Arctic Living
+Opinions
+Employees
+Newsletter
+Contact
+About us
+LinkedIn
+Facebook
+X
+Instagram
+Bluesky
+NOR
+ENG
+politics
+Russian ‘Zombie Tanker’ Sails Up Norwegian Coastline After Being Blocked by German Police
+Handout photo from January 10, 2025 showing 'shadow fleet' tankerEventin, carrying around 99,000 metric tons of oil from Russia.(Source: German Central Command for Maritime Emergencies)
+Germany has taken the unprecedented step of barring a notorious “zombie tanker” from its Baltic waters after uncovering forged registration and serious safety concerns. The aging shadow-fleet vesselTavianhas since sailed north past Norway toward the Arctic, highlighting the growing risks and cat-and-mouse dynamics of Russia’s sanctions-evasion oil trade.
+Malte Humpert
+Malte
+Humpert
+Published
+19 January 2026 - 09:22
+Modified
+19 January 2026 - 09:22
+In an unprecedented move, German authorities have forbidden the shadow-fleet oil tanker
+Tavian
+from entering their territorial waters in the Baltic Sea after identifying forged registration documents and a suspicious flag.
+The 27-year-old vessel, widely dubbed a “zombie tanker” by German media because its IMO identity effectively does not exist in official shipping databases, has since sailed north along the Norwegian coast, passing Bodø and the Lofoten Islands over the weekend, and is now in the Barents Sea en route to Murmansk.
+In a significant escalation of enforcement against sanctions-evasion shipping, Germany’s Federal Police blocked the oil tanker
+Tavian
+from entering its territorial waters on January 10, 2026, marking what officials describe as the first time a European nation has actively barred a member of Russia’s so-called “shadow fleet” from passage.
+The vessel attempted a transit from the North Sea into the Baltic Sea in direction of Russian Baltic ports, most likely Primorsk or St. Petersburg, where it is believed to have been heading to pick up another load of crude oil.
+Following the German ban
+Tavian
+’s sailed northward past Norwegian coastal cities such as Bodø and the Lofoten Islands and is now into the Barents Sea. The quick rerouting away from its original path underscores how tanker routes have adapted under sanctions pressure and illustrates the logistical flexibility Russia has developed to keep oil flowing despite sanctions efforts.
+Rather than picking up crude oil in Primorsk, Moscow likely decided the next best option was to load cargo in Murmansk instead.
+Tavian’s track from the Baltic up the Norwegian Coastline toward Murmansk.(Source: MagicPort Maritime Intelligence)
+This adaptability also includes the Northern Sea Route, which became a focal point in 2025 as
+100 sanctioned vessels, including several dozen tankers, transited Arctic waters
+; bridging the divide between Europe and Asia and blunting sanctions’ geographic constraints.
+In recent weeks several shadow fleet vessels also sailed from the Arctic to Venezuela further highlighting how the polar region has become an integrated part of global shadow fleet logistics.
+German authorities step up
+German Federal Police helicopters intercepted the
+Tavian
+near Schleswig-Holstein and conducted a document check, concluding that the vessel’s papers, including its International Maritime Organization (IMO) registration, were fraudulent or fabricated.
+What set off alarm bells for German authorities was not just that the tanker claimed to be the
+Tavian
+with a purported IMO number that “never existed” in official databases, but that detailed tracking and maritime intelligence pointed to it actually being the 28-year-old tanker
+Arcusat
+(IMO 9147447), a ship with a long history of name and flag changes.
+In one database the ship appears as a 2025 built, 57,332-ton vessel flagged to Tanzania, while authoritative systems list it as the older
+Arcusat
+flagged to Cameroon, and show its official status as “never existed.”
+This deceptive practice, altering IMO numbers and registry details, is precisely what has earned the
+Tavian
+the “zombie tanker” moniker in the German press: a ship that, on paper, shouldn’t exist and can slip through sanctions screens because its identity keeps shifting.
+The combination of a forged identity, frequent name and flag changes, and apparent links to sanctions-busting operations makes such vessels particularly dangerous.
+These risks raise the specter of oil spills, collisions, or damage to undersea infrastructure
+Without verifiable documentation, authorities cannot confirm who truly owns or operates the vessel; whether it carries valid insurance, including pollution liability cover, or whether the ship meets international safety and environmental standards.
+These risks raise the specter of oil spills, collisions, or damage to undersea infrastructure, risks that Germany explicitly cited when tightening inspections in the Baltic and North Seas.
+Moreover, as shadow fleet tankers often operate with AIS transponders off or manipulated, they can evade detection or oversight until they’re very close to critical zones, a situation that worries maritime authorities in multiple countries.
+In Germany’s case, this is not an isolated incident. Authorities have recently inspected other suspicious tankers, including one near critical Baltic infrastructure cables and the research vessel
+Akademik Boris Petrov
+, which was also denied entry.
+The German government has begun requiring passing vessels to prove valid insurance coverage against oil pollution damage, a bid to safeguard sensitive maritime environments.
+Norwegian authorities also
+previously announced that they would inspect tankers passing through the country’s waters
+, though
+Tavian
+does not appear to have been stopped during its trip to the Barents Sea.
+As
+Tavian
+continues to hold off the coast of Murmansk it has become the latest example of how ageing, unregulated vessels can pose both geopolitical and environmental hazards across different maritime regions.
+Also read
+Norway to Inspect Sanctioned Tankers in Efforts To Curb Russian Shadow Fleet
+Russia’s Arctic Shipping Route Turns Into “Dark Fleet” Corridor Used by 100 Sanctioned Vessels
+arctic
+zombie tanker
+russia
+politics
+oil tanker
+germany
+sanctions
+shadow fleet
+politics
+Norway to Boost Capacity to Detect Drones Near the Border With Russia
+politics
+UK and Allied Show of Strength in the North
+opinions
+Power Crisis: How on Earth Could Things Go so Wrong?
+politics
+U.S., Japan and South Korea Launch Arctic Pacific Partnership Amid Continued Commercial Ties to Russia
+science
+Climate Change Puts Arctic Tourism Under Pressure: “A complex situation,” Says Researcher
+politics
+Greenland’s Prime Minister: Equality in Nordic Cooperation is a Matter of Political Will
+opinions
+Come Aboard!
+politics
+Norway Detains Sanctioned Chinese Ship Sailing Under False Flag, Inspects Second Vessel
+science
+Closer Cooperation With Indigenous Peoples Can Strengthen Total Defence in the North
+politics
+The Norwegian Government Responds to Preparedness Criticism From Nordland
+politics
+Top Alaska Military Officer: "Homeland Defense in the Arctic Cannot be Seasonal or Episodic"
+politics
+China Tests Domestic Satellite Communication in Arctic As Polar Capabilities Expand
+science
+Defence researcher: Putin is Gradually Raising our Tolerance For War
+politics
+Norway and Russia Have Reached a Fisheries Agreement for 2027
+opinions
+Russia’s Shadow Fleet and Greenland Tensions on Top
+politics
+Chinese Heavy-Lift Ships Remain Off Northern Norway as German Navy Vessel Patrols Area
+politics
+The EU's New Arctic Strategy: 'A Good Starting Point,' Says Researcher
+politics
+NATO Chief: Greenland Crisis Never Neared Confrontation
+opinions
+Greetings From a Broken Shit House
+science
+Antibodies Against Avian Influenza Detected in Polar Bears in Greenland
+politics
+From Norfolk in the US, NATO is Closely Monitoring the Threat Situation in the High North
+business
+Launches High North Strategy to Drive Investment and Growth
+arctic living
+Nordic Council Literature Prize Awarded to Sámi Novel
+business
+Russian Radio Station in Svalbard Halt Broadcasts Over Missing Norwegian Permit
+politics
+Russia’s Arctic ‘Shadow Fleet’ Goes Digital as New Putin Decree Tightens Grip on Shipping Data
+science
+Closer Arctic Research Cooperation With the Nordics Won’t Weaken U.S. Research Ties
+opinions
+At The Center of Geopolitics
+politics
+The Norwegian Frigate HNoMS Fridtjof Nansen on Svalbard Patrol
+politics
+Keel Laid for Future Flagship of the Canadian Icebreaker Fleet
+business
+To Upgrade Existing Subsea Fibre Cables to Svalbard and Deploy Technology on New Cable System
+opinions
+Norwegian–Russian Fisheries Cooperation Back on Its Feet
+politics
+No Promises to Accelerate Construction of New Bridge Near the Norwegian-Russian Border
+politics
+Norwegian Coast Guard Boards Sanctioned Chinese Heavy-Lift Ships Off the Coast of Northern Norway
+HIGH
+NORTH
+NEWS
+ABOUT US
+High North News is an independent newspaper published by the High North Center at the Nord university. High North News follows the
+Norwegian Press Code of Ethics
+and is edited according to the
+Association of Norwegian Editors – Rights and Duties of the Editor
+. High North News is not responsible for the content or opinions expressed on external web pages.
+ADDRESS:
+High North News
+Nord University
+Postbox 1490
+8049 Bodø
+Norway
+EDITOR IN CHIEF:
+Trine Jonassen
+TELEPHONE:
+(+47) 917 77 527
+E-MAIL HIGH NORTH NEWS
+EDITORIAL STAFF:
+EDITOR/COMMENTATOR:
+Arne O. Holm
+Tel:
+(+47) 905 29 472
+JOURNALIST:
+Hilde-Gunn Bye
+JOURNALIST:
+Astri Edvardsen
+TRANSLATOR:
+Birgitte Annie Hansen
+Copyright © 2026
+High North News. All Rights Reserved.
+Powered by Labrador CMS

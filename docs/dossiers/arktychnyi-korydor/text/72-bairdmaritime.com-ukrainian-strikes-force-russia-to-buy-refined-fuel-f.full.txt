@@ -1,0 +1,104 @@
+URL:         https://www.bairdmaritime.com/shipping/tankers/ukrainian-strikes-force-russia-to-buy-refined-fuel-from-south-korea
+Кінцевий:    https://www.bairdmaritime.com/shipping/tankers/ukrainian-strikes-force-russia-to-buy-refined-fuel-from-south-korea
+Заголовок:   Ukrainian strikes force Russia to buy refined fuel from South Korea
+Дата публ.:  2026-08-07
+Завантажено: 2026-10-08 06:48 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 697360
+Оригінал:    raw/72-bairdmaritime.com-ukrainian-strikes-force-russia-to-buy-refined-fuel-f.html
+sha256:      4da87ca9ed1e028d282b30c57b48ba35536de1210b478c0c4ef4b30182ea84cf
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 6
+==============================================================================
+Ukrainian strikes force Russia to buy refined fuel from South Korea
+A Sovcomflot tanker (representative photo)
+South Korea calls Ukrainian accusations "inappropriate" over Russia fuel export row
+Did South Korean seaborne fuel exports undermine Ukraine's drone campaign against Russia?
+Russia regional fuel crisis deepens as seaborne imports drop sharply
+Fuel exporter Russia forced to import from Asia after refinery attacks
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Ukrainian strikes force Russia to buy refined fuel from South Korea
+SECURITY
+SHIPPING
+OFFSHORE
+WORKBOATS
+PAX/CRUISE
+UNMANNED
+FISHING
+TUGS
+DREDGE/CIVILS
+REGIONS
+REGIONS
+Ausmarine (OCEANIA)
+USA/CANADA
+EUROPE
+ASIA
+MIDDLE EAST/NORTH AFRICA
+LATIN AMERICA
+AFRICA
+POLAR
+MORE
+MORE
+NEWSLETTERS
+SHIPBUILDING
+INLAND WATERS
+BUSINESS & FINANCE
+VESSEL REVIEWS
+YACHTS
+TAXPAYER ABUSE
+GEAR & SERVICES
+SHOP
+Tankers
+Ukrainian strikes force Russia to buy refined fuel from South Korea
+A Sovcomflot tanker (representative photo)
+Sovcomflot
+Reuters
+Published on
+:
+07 Aug 2026, 11:05 am
+Copied
+Follow Us:
+Traders shipped nearly 30,000 tonnes of refined fuels loading in late July to Russia from South Korea, data from shiptrackers and a trade source showed, as Ukrainian attacks on Russia's energy infrastructure spur demand for imports.
+At least two short-range tankers were loaded with fuel products transferred from tanks at Ulsan container port bound for Russia's Far East, Kpler and Vortexa shiptracking data showed, in an unusual trade.
+One of the vessels has arrived in Russia but had yet to discharge, according to Kpler data and one trade source.
+Two sources familiar with the matter said the fuel includes diesel, while one of them said it also includes jet fuel.
+South Korea's Ministry of Trade, Industry and Resource declined to comment, while Russia's energy ministry did not respond to a
+Reuters
+request for comment.
+Ukrainian forces have been striking Russia's energy infrastructure in what Kyiv says is an effort to deprive Russia of resources to fund its military.
+Moscow extended an export ban on diesel and gasoline until January, though some of the restrictions will ease from September 1.
+Russia is typically a net exporter of diesel, with volumes in the aftermath of western sanctions imposed on Moscow following its 2022 Ukraine invasion heading mostly to Brazil, Turkey and West Africa.
+Reuters
+reported last month that Russia was set to receive a jet fuel cargo of at least 200,000 barrels originating from Japan through traders to be shipped via South Korea, but multiple trade sources said later that the shipment did not take place.
+Tokyo later said that its ban on jet fuel exports to Russia includes shipments via third countries or transferred at sea.
+A previous shipment from Northeast Asia to Russia appears to have been for 22,000 barrels of jet fuel from Yeosu in South Korea in February 2022, Kpler shiptracking data showed. It was delivered to Vladivostok in Russia's Far East.
+(Reporting by Reuters staff; Editing by Tony Munroe and Edwina Gibbs)
+Europe
+Asia
+Russia
+South Korea
+Ukraine
+Russia Ukraine War
+Follow Us:
+Related Stories
+South Korea calls Ukrainian accusations "inappropriate" over Russia fuel export row
+Reuters
+12 hours ago
+Did South Korean seaborne fuel exports undermine Ukraine's drone campaign against Russia?
+Reuters
+06 Oct 2026
+Russia regional fuel crisis deepens as seaborne imports drop sharply
+Reuters
+30 Sep 2026
+Fuel exporter Russia forced to import from Asia after refinery attacks
+Reuters
+19 Aug 2026
+Baird Maritime
+Baird Maritime / Work Boat World
+www.bairdmaritime.com
+INSTALL APP

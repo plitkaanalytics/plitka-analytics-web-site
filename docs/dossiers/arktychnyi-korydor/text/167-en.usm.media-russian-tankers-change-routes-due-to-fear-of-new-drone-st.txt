@@ -1,0 +1,26 @@
+URL:         https://en.usm.media/russian-tankers-change-routes-due-to-fear-of-new-drone-strikes/
+Кінцевий:    https://en.usm.media/russian-tankers-change-routes-due-to-fear-of-new-drone-strikes/
+Заголовок:   Russian tankers change routes due to fear of new drone strikes | Ukrainian and World Shipping News - Ukrainian Shipping Magazine - Ukrainian and World Shipping News
+Дата публ.:  2025-12-18
+Завантажено: 2026-11-08 06:38 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 60844
+Оригінал:    raw/167-en.usm.media-russian-tankers-change-routes-due-to-fear-of-new-drone-st.html
+sha256:      b70e09b50cfdaad7c71646d6b36be239aa585c7275263d2b0851310ee8d15755
+Витяг:       trafilatura
+
+==============================================================================
+# Russian tankers change routes due to fear of new drone strikes
+
+**Tanker trips from Novorossiysk are increasingly taking a coastal corridor along Georgia and Turkey, lengthening the crossing and making monitoring more difficult.**
+
+At least two tankers carrying Russian crude oil have taken a coastal route to the Bosphorus instead of a direct course through the middle of the Black Sea, Bloomberg [reported](https://www.bloomberg.com/news/articles/2025-12-18/russian-oil-tankers-cleave-to-turkish-coast-to-cut-drone-risks).
+
+This detour adds about 350 nautical miles (about 70% of the way from the port to the strait), increasing travel time and costs, but also moving ships away from sectors where naval drones operate.
+
+Meanwhile, traffic monitoring has revealed discrepancies between AIS signals and the actual locations of individual vessels. In particular, satellite imagery has identified the tanker Jumbo. In the images, it was about 4.4 nautical miles from the coordinates transmitted by its transponder 20 minutes earlier.
+
+The rerouting comes amid a series of attacks by Ukrainian Sea Baby drones on Russian-linked vessels transiting the Black Sea in recent weeks. All of the reported attacks occurred when the tankers were empty — meaning they were not carrying any crude oil.
+
+For the market, this means higher logistics costs and voyage times, and for regulators and insurers, additional compliance risks, as AIS spoofing and the use of “flags of convenience” by the Russians make it harder to track supply chains and enforce sanctions in the Black Sea and Turkish Straits.
+
+See also: [How the market reacted to the attack on tankers carrying sanctioned oil](https://en.usm.media/new-risks-in-the-black-sea-how-the-market-reacted-to-the-attack-on-tankers-carrying-sanctioned-oil/)

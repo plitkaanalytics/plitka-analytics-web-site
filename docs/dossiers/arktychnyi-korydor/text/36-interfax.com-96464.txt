@@ -1,0 +1,59 @@
+URL:         https://interfax.com/newsroom/top-stories/96464/
+Кінцевий:    https://web.archive.org/web/20240717193819id_/https://interfax.com/newsroom/top-stories/96464/
+Заголовок:   Rosatom
+Дата публ.:  2023-11-14
+Завантажено: 2026-10-06 13:10 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 37086
+Оригінал:    raw/36-interfax.com-96464.html
+sha256:      dd22cf33d2a53ef3947e9c11a665944db3046e20f4b50f43e61ee4ac1fc2c3a6
+Витяг:       trafilatura
+Примітка:    оригінал недоступний (502), узято з Wayback
+
+==============================================================================
+## Transit traffic along Northern Sea Route reaches record 2.1 mln t, oil main cargo - Rosatom
+
+MOSCOW. Nov 14 (Interfax) - Transit cargo shipments along the Northern Sea Route (NSR) have totalled a record 2.1 million tonnes in 2023, with the main cargo being oil, Rosatom's special representative for the development of the Arctic, Vladimir Panov told Interfax.
+
+The boundaries of the NSR are defined by the Merchant Shipping Code as stretching from the Novaya Zemlya archipelago in the west to Cape Dezhnev in Chukotka in the east. There are three types of cargo traffic along the NSR. The first includes shipments from the Gulf of Ob and Yenisei Gulf; the second is cabotage shipping needed to supply investment projects in the Arctic and deliver goods to northern communities; and the third is transit cargo carried by vessels loaded and unloaded at ports outside the NSR.
+
+Overall cargo traffic along the NSR totalled 31.4 million tonnes in the first ten months of 2023, 6% more than in the same period of last year, Panov said. Traffic for all of 2022 totaled 34 million tonnes.
+
+Transit cargo
+
+Transit traffic along the NSR has not just returned to the level of pre-sanctions 2021, it has reached a record high, Panov said.
+
+"The previous record for the amount of transit cargo on the NSR was, as it happens, in 2021, when 2 million tonnes were shipped in transit. In 2022, transit fell 90% due to a combination of various factors, to 200,000 tonnes. In 2023, transit shipments will total 2.12 million tonnes. Thus, we have a new all-time record for transit," Panov said.
+
+Commenting on the type of transit cargo shipped along the NSR in 2023, he said the main cargo was oil, with about 1.5 million tonnes shipped. Iron ore concentrate made up about 350,000 tonnes, Gazprom shipped one vessel with 70,000 tonnes of liquefied natural gas (LNG) and ELSI Mining, a division of businessman Albert Avdolyan's ELSI Group, also shipped one vessel carrying 70,000 tonnes, he said.
+
+Transit traffic is a sign of demand for the NSR, so its growth is important in terms of the maritime logistics business, Panov said.
+
+"Transit in 2023 can be called a pilot project. Firstly, companies shipping cargo agreed to redirect a portion of cargo traffic that previously went to countries in the Asia-Pacific region through the Suez Canal to the Northern Sea Route in the summer-fall period. Secondly, Rosatom, as the transport operator of the NSR, received a great deal of support from the government. As a result, we confirmed that the NSR is cost effective for transit shipments," Panov said.
+
+He also recalled that a record-size vessel that is not ice-class, the CapeSize bulk carrier Gingo with deadweight of more than 169,000 tonnes, sailed through the NSR from west to east carrying 164,500 tonnes of iron ore concentrate.
+
+Support to companies with no previous experience of NSR conditions was provided by Glavsevmorput, which became a "single window" on the route, providing shippers with ice experts and providing support on an individual basis, Panov said.
+
+Exponential growth with an eye on ice
+
+It has now become clear that more transit cargo can be shipped along the NSR in the summer-fall navigation season, but careful preparations are needed, Panov said.
+
+"This year we could have shipped more. We certainly see the potential to multiply transit to 4 million tonnes or even to 7 million tonnes. Such volumes are possible next year already. But this is the Arctic, with difficult natural and weather phenomena, where the presence of ice on deep-water stretches becomes the most important thing. So no one plans to risk, everything needs to be fine-tuned," Panov said.
+
+"At the moment, a trial assessment of transit along the NSR in the optimal format has been carried out. It confirmed the great potential of the route, proving that the NSR can increase volumes of Russian cargo redirected from Suez. And conceptual conclusions have been made on how to ensure efficient operations along the Russian Arctic route," Panov said.
+
+First of all, vessels need to be prepared ahead of time, he said. The second condition that cargo shippers point out is increasing cost effectiveness so that the NSR becomes clearly more profitable than going through the Suez Canal. In the event that icebreaker support is needed due to bad weather or ice conditions, companies want payment for icebreaker services to not exceed the cost of going through Suez, Panov said.
+
+Rates and subsidies
+
+Rosatom sees possibilities where icebreaker services on the NSR will not cost more than Suez, Panov said.
+
+"We prepared proposals and went to the government with a specific initiative. We will ask [it] to support transit shipments so that they acquire sustainable cost effectiveness. The main instrument proposed by Rosatm is subsidizing icebreaker escorts. We have also worked out the rules for the subsidies, discussed with government agencies and are at the final stage in this process," Panov said.
+
+Rosatom expects its proposal to get swift approval so that the new rules of icebreaker escorts can already go into effect in 2023 and cargo shippers do not have to pay for icebreaker services for some voyages, he said.
+
+As a result of pilot measures carried out in 2023, interest in the NSR increased significantly in very diverse areas, he said.
+
+"Of course, construction of high ice-class vessels for year-round navigation is a bottleneck. We'll have to seriously work on this problem. But, nonetheless, we're seeking increased interest in the season when there is no or minimal need for icebreaker support, the summer-fall period. More and more Russian companies and, most importantly, foreign companies are interested in it now," Panov said.
+
+He cited the beginning of transit shipments along the NSR by China's New Shipping Line as an example of a foreign partnership. The company began sailing through the NSR from Chinese ports this year.

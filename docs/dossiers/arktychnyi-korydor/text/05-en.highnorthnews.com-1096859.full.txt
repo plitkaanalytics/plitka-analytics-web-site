@@ -1,0 +1,268 @@
+URL:         https://en.highnorthnews.com/business/northern-sea-route-2025-season-concludes-with-stable-transit-traffic-amid-challenging-ice-conditions/1096859
+Кінцевий:    https://en.highnorthnews.com/business/northern-sea-route-2025-season-concludes-with-stable-transit-traffic-amid-challenging-ice-conditions/1096859
+Заголовок:   Arctic shipping holds firm despite unforgiving ice
+Дата публ.:  2025-12-11
+Завантажено: 2026-10-06 12:18 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 230473
+Оригінал:    raw/05-en.highnorthnews.com-1096859.html
+sha256:      2f44c1040159d58b74e86c5e81f40fdaf702454c145f36db38d5925be9d35203
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 45
+==============================================================================
+Northern Sea Route traffic rises in 2025 despite challenging Arctic ice
+China's NewNew Polar Bearin a convoy on the Northern Sea Route during eastbound voyage in October 2023.
+Tankers over 70,000 DWT from the Baltic transiting the NSR eastbound in 2025. (Source: CHNL)
+Container ships transiting the NSR westbound in 2025. (Source: CHNL)
+Russia’s LNG ‘Dark Fleet’ Returns to Norwegian Waters As Winter Closes Northern Sea Route
+Deepening Russia-China Relations Continue to Drive Oil, Gas, and Container Traffic Along Arctic Shipping Lane
+New Business Plan for Longyearbyen to Strengthen Length of Residence and Business Friendliness
+South Korea's Panstar Completes Arctic Container Trial Voyage At Impressive Speeds, But Business Case Remains Unclear
+That Feeling When You Have the State Budget Your Pocket - Anything is Possible
+Commander of NATO's Arctic-focused HQ Sets Out Readiness Priorities as Security Landscape Changes
+Attention to Unrealised Chinese Projects May Overstate China's Arctic Influence
+Trump Calls $54 Billion South Korean Alaska LNG Investment a Done Deal. Seoul Says Not So Fast
+Arctic Oil, Defence and Drones: September’s Top Stories
+Greenland Reflects on 30 Years of Cooperation in the Arctic Council
+Glaciers in Svalbard Are Melting at a Record Pace
+Historic Change of Command for NATO Headquarters Responsible for the Arctic, the North Atlantic and the Nordic Region
+Discovery of Viking Church Ruins in Greenland
+A Melting Arctic Does Not Necessarily Mean Easier Shipping
+U.S. Sanctions Law Could Upend the EU’s Russian LNG Timeline
+Arctic Council at 30: Behind The Scenes
+Step Inside The World's Largest Naval Base
+Minister of Trade and Industry: "Monitoring The Situation in Eastern Finnmark Closely"
+"Hybrid Threats at Sea in The Arctic Have Become a Greater Problem"
+"Unthinkable That Anyone Could Threaten Europe's Security"
+Time to Strengthen the 1920 Svalbard Treaty
+Marie’s Disease is More Common The Farther North You Go – Now Researchers Are Looking For Answers
+Ukraine’s Deepest Drone Strike Reaches Russia’s Arctic Gas Heartland
+Arctic Industry Hit by Sanctions: "Responsibility For the Transition Cannot Rest Solely With The Businesses"
+EU Should Establish Arctic Monitoring Unit, Says Researchers
+12 European States Call on EU to Expand Arctic Presence Amid Growing Threats
+EU Spends More on Russian Arctic LNG in Eight Months Than All of 2025
+Champions League is Back: Tough Opposition for Arctic Football Team Bodø/Glimt in Munich
+Arctic Diplomacy, Defence and a Warming Paradox
+The Norwegian Coast Guard on Comprehensive Operation to Strengthen Arctic Cooperation
+Russian Ship Arrested on Svalbard: "The Svalbard Treaty Does Not Grant Immunity"
+Ancient Arctic Gene Variants May Increase The Risk of Modern Diseases Among Greenlanders
+Greenland – USA: Diplomacy’s Victory Over Gangster Tactics
+Russia Opens Massive Arctic Vostok Oil Project Despite Sustained Western Sanctions
+Historic Launch From Andøya Spaceport: "A Breakthrough for European Space Activities"
+High North News is an independent newspaper published by the High North Center at the Nord university. High North News follows the
+Norwegian Press Code of Ethics
+and is edited according to the
+Association of Norwegian Editors – Rights and Duties of the Editor
+. High North News is not responsible for the content or opinions expressed on external web pages.
+High North News. All Rights Reserved.
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Northern Sea Route traffic rises in 2025 despite challenging Arctic ice
+Jump to main content
+NOR
+ENG
+Search
+Menu
+Business
+Politics
+Science
+Arctic Living
+Opinions
+Employees
+Newsletter
+Contact
+About us
+LinkedIn
+Facebook
+X
+Instagram
+Bluesky
+High North News
+Business
+Politics
+Science
+Arctic Living
+Opinions
+Search
+Menu
+Business
+Politics
+Science
+Arctic Living
+Opinions
+Employees
+Newsletter
+Contact
+About us
+LinkedIn
+Facebook
+X
+Instagram
+Bluesky
+NOR
+ENG
+business
+Northern Sea Route 2025 Season Concludes With Stable Transit Traffic Amid Challenging Ice Conditions
+China's NewNew Polar Bearin a convoy on the Northern Sea Route during eastbound voyage in October 2023.
+Rosatomflot
+The 2025 summer–autumn navigation season on Russia’s Northern Sea Route wrapped up with 103 transit voyages moving an estimated 3.2 million tons of cargo. While tanker traffic continued to dominate, bulk carriers and container ships posted notable gains, all against a backdrop of unfavorable ice conditions that limited the open-water window.
+Malte Humpert
+Malte
+Humpert
+Published
+11 December 2025 - 15:36
+Modified
+18 August 2026 - 15:17
+The 2025 navigation season on the Northern Sea Route (NSR) concluded on November 17 after roughly four and a half months of seasonal operations.
+According to the
+Centre for High North Logistics (CHNL)
+, transit traffic on the Arctic corridor remained broadly robust, with a slight year-on-year increase in voyages and cargo tonnage despite persistent ice challenges that curtailed the open-water period.
+The NSR saw 103 transit voyages by 88 unique vessels in 2025, divided almost evenly between 52 eastbound and 51 westbound transits. Some ships completed two separate NSR passages during the season. Total
+transits are up slightly from 97 in 2024
+.
+Total cargo moving through the route reached an estimated 3.2 million tons, in line with official statements from Rosatom. Overall deadweight across all vessels recorded rose slightly to 6.23 million tons, up about 1 % from 2024.
+Ice conditions proved less favorable than in recent years. Satellite and research data indicate that the open-water window may have lasted no more than about two weeks late in the season, with ice lingering particularly in the East Siberian Sea and forming earlier than typical in autumn.
+Compared with 2024, shipments from Murmansk declined
+Oil tankers Continue to dominate
+Tankers remained the dominant cargo category on the NSR in 2025. CHNL recorded 34 tanker transits, split into large crude carriers, smaller oil tankers, and westbound repositioning voyages.
+Large crude oil tankers (>70,000 DWT) constituted the core of oil exports, with vessels from both Murmansk and Baltic ports (Ust-Luga and Primorsk) carrying shipments eastbound.
+Compared with 2024, shipments from Murmansk declined, while Baltic departures increased, resulting in an estimated ~1.9 million tons of crude oil moved eastward via the NSR. This is especially relevant for Norway as
+Baltic tankers travel up the Norwegian coastline on their way to the Arctic
+.
+There were also 11 westbound tankers, likely in ballast, indicative of repositioning rather than cargo transport. Some smaller tankers (<70,000 DWT) also participated in eastbound traffic.
+Bulk carriers on the rise
+Bulk carriers saw significant growth in 2025, with 23 transits recorded, up from 15 in 2024. Of these, 7 eastbound voyages were likely laden with cargo such as coal and other dry bulk, primarily departing from Murmansk and select Baltic ports, bound mainly for China.
+Tankers over 70,000 DWT from the Baltic transiting the NSR eastbound in 2025. (Source: CHNL)
+16 westbound voyages were predominantly ballast transits, suggesting use of the NSR for repositioning and fleet rotation. In total bulk carriers moved almost 700,000 tons of cargo.
+Container ships grab the headlines
+Container vessel traffic also posted gains with a record 15 container ship transits, up from 11 in 2024.
+Most of these voyages connected Russian and Chinese ports, with St. Petersburg a key western origin and Chinese hubs dominating the eastbound side. A notable international transit, from China to the UK, took place in September, underlining periodic intercontinental use of the NSR.
+There is some disagreement as to the total volume. While Rosatom announced a record container cargo volume of ~400,000 tons for the season, CHNL’s own estimates stand at roughly 287,000 tons.
+Container traffic’s upward trajectory, while still small relative to global trade flows, signals growing interest from liner operators in seasonal Arctic shortcuts. Chinese operators announced plans to further expand operations in 2026.
+Container ships transiting the NSR westbound in 2025. (Source: CHNL)
+LNG transport remains key
+In addition to the regular exports from the Yamal LNG and Arctic LNG 2 projects, the NSR also saw a number of full transits of LNG vessels.
+LNG carriers recorded 5 NSR transits in 2025, reflecting the niche but important role of gas exports in Arctic shipping. Four voyages were linked to the Arctic LNG 2 project, two eastbound loaded departures and two westbound returns.
+A small LNG bunker vessel,
+Dmitry Mendeleev
+, was also repositioned along the route, showing the logistical support dimensions of NSR navigation.
+While not large in absolute numbers, LNG shipments show the continued integration of energy-sector flows into Arctic shipping.
+Tough ice conditions all summer
+Despite broader narratives of receding ice and extended seasons in the Arctic, this year’s ice conditions remained challenging. The window of open water was short as persistent ice in the East Siberian Sea limited routing options for deep-draft vessels.
+“The open-water period lasted no more than two weeks, occurring at the end of September and the beginning of October,” the CHNL report highlights. Similarly, the onset of winter ice came early this year.
+Russia’s nuclear icebreakers remained engaged along the eastern sections of NSR pretty much all summer to keep shipping lanes open.
+While container and bulk segments made gains, overall transit traffic patterns suggest that the NSR remains a seasonal alternative to traditional routes rather than a mainstream artery for global trade.
+“For most transit voyages described above, the NSR serves as an occasional alternative to the main route during the summer–autumn navigation period. These cargo flows exist year-round but typically follow traditional routes, with a portion switching to the NSR for one or two voyages in summer to save time,” the CHLN report concludes.
+Also read
+Russia’s LNG ‘Dark Fleet’ Returns to Norwegian Waters As Winter Closes Northern Sea Route
+Deepening Russia-China Relations Continue to Drive Oil, Gas, and Container Traffic Along Arctic Shipping Lane
+arctic shipping
+business
+russia
+northern sea route
+cargo transport
+ice conditions
+politics
+New Business Plan for Longyearbyen to Strengthen Length of Residence and Business Friendliness
+business
+South Korea's Panstar Completes Arctic Container Trial Voyage At Impressive Speeds, But Business Case Remains Unclear
+opinions
+That Feeling When You Have the State Budget Your Pocket - Anything is Possible
+politics
+Commander of NATO's Arctic-focused HQ Sets Out Readiness Priorities as Security Landscape Changes
+science
+Attention to Unrealised Chinese Projects May Overstate China's Arctic Influence
+politics
+Trump Calls $54 Billion South Korean Alaska LNG Investment a Done Deal. Seoul Says Not So Fast
+opinions
+Arctic Oil, Defence and Drones: September’s Top Stories
+politics
+Greenland Reflects on 30 Years of Cooperation in the Arctic Council
+science
+Glaciers in Svalbard Are Melting at a Record Pace
+politics
+Historic Change of Command for NATO Headquarters Responsible for the Arctic, the North Atlantic and the Nordic Region
+science
+Discovery of Viking Church Ruins in Greenland
+science
+A Melting Arctic Does Not Necessarily Mean Easier Shipping
+politics
+U.S. Sanctions Law Could Upend the EU’s Russian LNG Timeline
+politics
+Arctic Council at 30: Behind The Scenes
+opinions
+Step Inside The World's Largest Naval Base
+politics
+Minister of Trade and Industry: "Monitoring The Situation in Eastern Finnmark Closely"
+politics
+"Hybrid Threats at Sea in The Arctic Have Become a Greater Problem"
+politics
+"Unthinkable That Anyone Could Threaten Europe's Security"
+opinions
+Time to Strengthen the 1920 Svalbard Treaty
+science
+Marie’s Disease is More Common The Farther North You Go – Now Researchers Are Looking For Answers
+politics
+Ukraine’s Deepest Drone Strike Reaches Russia’s Arctic Gas Heartland
+business
+Arctic Industry Hit by Sanctions: "Responsibility For the Transition Cannot Rest Solely With The Businesses"
+politics
+EU Should Establish Arctic Monitoring Unit, Says Researchers
+politics
+12 European States Call on EU to Expand Arctic Presence Amid Growing Threats
+politics
+EU Spends More on Russian Arctic LNG in Eight Months Than All of 2025
+arctic living
+Champions League is Back: Tough Opposition for Arctic Football Team Bodø/Glimt in Munich
+opinions
+Arctic Diplomacy, Defence and a Warming Paradox
+politics
+The Norwegian Coast Guard on Comprehensive Operation to Strengthen Arctic Cooperation
+politics
+Russian Ship Arrested on Svalbard: "The Svalbard Treaty Does Not Grant Immunity"
+science
+Ancient Arctic Gene Variants May Increase The Risk of Modern Diseases Among Greenlanders
+opinions
+Greenland – USA: Diplomacy’s Victory Over Gangster Tactics
+politics
+Russia Opens Massive Arctic Vostok Oil Project Despite Sustained Western Sanctions
+business
+Historic Launch From Andøya Spaceport: "A Breakthrough for European Space Activities"
+HIGH
+NORTH
+NEWS
+ABOUT US
+High North News is an independent newspaper published by the High North Center at the Nord university. High North News follows the
+Norwegian Press Code of Ethics
+and is edited according to the
+Association of Norwegian Editors – Rights and Duties of the Editor
+. High North News is not responsible for the content or opinions expressed on external web pages.
+ADDRESS:
+High North News
+Nord University
+Postbox 1490
+8049 Bodø
+Norway
+EDITOR IN CHIEF:
+Trine Jonassen
+TELEPHONE:
+(+47) 917 77 527
+E-MAIL HIGH NORTH NEWS
+EDITORIAL STAFF:
+EDITOR/COMMENTATOR:
+Arne O. Holm
+Tel:
+(+47) 905 29 472
+JOURNALIST:
+Hilde-Gunn Bye
+JOURNALIST:
+Astri Edvardsen
+TRANSLATOR:
+Birgitte Annie Hansen
+Copyright © 2026
+High North News. All Rights Reserved.
+Powered by Labrador CMS

@@ -1,0 +1,141 @@
+URL:         https://aa.com.tr/en/world/russia-plans-arctic-military-buildup-eyes-cooperation-with-west/3522077
+Кінцевий:    https://aa.com.tr/en/world/russia-plans-arctic-military-buildup-eyes-cooperation-with-west/3522077
+Заголовок:   Russia plans Arctic military buildup, eyes cooperation with West
+Дата публ.:  2025-03-29
+Завантажено: 2026-10-06 13:15 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 356374
+Оригінал:    raw/42-aa.com.tr-3522077.html
+sha256:      26863c1161a38f944066c32837de2107e2e3bdb361fe81d05745a6d862885e43
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 21
+==============================================================================
+Russia plans Arctic military buildup, eyes cooperation with West
+Putin says Moscow will increase icebreaker fleet and northern port capacity while keeping door open for dialogue in the Arctic
+is_there_an_error_in_this_story
+UK police arrest 22-year-old in ongoing terrorism probe
+Retail trade volume in euro area, EU rises 0.1% in August
+US trade deficit hits $105.6B in August
+UN chief urges developed nations to deliver finance, tech to build climate resilience ahead of COP31 in Türkiye
+Japan to grant $10M in aid to Djibouti, Yemen amid tensions with Houthis
+26 killed after boat collision in western Congo
+PROFILE - Who is Francis Halzen, the Nobel Physics laureate behind Antarctic ‘ghost particle’ hunt?
+Canadian premier suspends election campaign for emergency after Trump auto tariffs
+Morning Briefing: March 28, 2025
+Egypt–Russia relations go way back
+US warns Russia over 'military build up in Syria'
+US concerned with Russian supplies to Syrian regime
+EU extends sanctions against Russia over Ukraine
+France refunds Russia for Mistral warships
+Russian hackers use Twitter to hide cyberattacks
+Russia wants to take part in Iran's energy projects
+Russia offers gas discount for Ukraine in second quarter
+US: Russia’s nuclear comments ‘literally playing with fire’
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Skip to main content
+Reporting the Changing World
+CORPORATE
+History
+Executive Team
+Quality Management
+Editorial Guidelines
+Social Media Policies
+Logos
+Privacy and Cookies Policy
+Information Policy
+RSS
+Diary
+COMMUNICATION
+Contact
+Subscription Requests
+Anadolu Ajansı © 2026
+WORLD
+TÜRKİYE
+ECONOMY
+POLITICS
+ENERGY
+TECHNOLOGY
+EDITION
+Türkçe
+English
+BHSC
+Pусский
+Français
+العربية
+Kurdî
+کوردی
+Shqip
+فارسی
+македонски
+Bahasa Indonesia
+Español
+US-Iran war
+Hormuz crisis
+Russia-Ukraine war
+World
+Russia plans Arctic military buildup, eyes cooperation with West
+Putin says Moscow will increase icebreaker fleet and northern port capacity while keeping door open for dialogue in the Arctic
+Alperen Aktas
+28 March 2025
+•
+Update
+:
+29 March 2025
+ISTANBUL
+Russia will strengthen its military and logistics presence in the Arctic, including boosting its fleet of nuclear icebreakers and the number of servicemen in the region, President Vladimir Putin said Thursday at the International Arctic Forum in Murmansk.
+Putin emphasized the strategic importance of the Arctic for Russia’s sovereignty and economy, saying: “We will reliably protect our national interests, support peace and stability in the Arctic, and ensure long-term development of the region.”
+He said the country would modernize military infrastructure and expand port capacities in the north, particularly around Murmansk, which he called the “capital of the Russian Arctic.”
+“The number of Russian military personnel in the Arctic will grow,” Putin said, adding that Russia will develop new shipyards and acquire both domestic and foreign-built vessels to support Arctic trade routes.
+Despite Western sanctions and tensions, he expressed his readiness for cooperation.
+“We are open to joint work not only with Arctic nations but with all who share responsibility for a stable future of the planet,” he said.
+He also highlighted the expansion of the Northern Sea Route, projecting cargo volumes to reach up to 100 million tons by 2030.
+Russia currently has the world’s largest icebreaker fleet, and new vessels, including the 120-megawatt “Rossiya,” are under construction.
+Putin also warned of NATO activities in the Arctic, particularly involving new members Finland and Sweden, but reiterated that “Russia has never threatened anyone in the Arctic.”
+The International Arctic Forum, held this year in Murmansk, comes amid rising geopolitical competition and a freeze in Arctic Council cooperation due to Russia’s war in Ukraine.
+Despite this, Russia continues to invest in the Transpolar Sea Route and hopes to attract international investors to infrastructure, logistics and tourism projects in the region.
+Russia plans Arctic military buildup, eyes cooperation with West
+related_topics
+:
+Vladimir Putin
+Russia
+International Arctic Forum in Murmansk
+Arctic
+news_share
+news_share_description
+subscription_contact
+subscription
+contact_the_ombudsman
+is_there_an_error_in_this_story
+ombudsman_apply_button
+LATEST NEWS
+All
+UK police arrest 22-year-old in ongoing terrorism probe
+Retail trade volume in euro area, EU rises 0.1% in August
+US trade deficit hits $105.6B in August
+UN chief urges developed nations to deliver finance, tech to build climate resilience ahead of COP31 in Türkiye
+Japan to grant $10M in aid to Djibouti, Yemen amid tensions with Houthis
+26 killed after boat collision in western Congo
+PROFILE - Who is Francis Halzen, the Nobel Physics laureate behind Antarctic ‘ghost particle’ hunt?
+See All
+Previous
+Next
+Previous
+Canadian premier suspends election campaign for emergency after Trump auto tariffs
+Next
+Morning Briefing: March 28, 2025
+RELATED NEWS
+Egypt–Russia relations go way back
+US warns Russia over 'military build up in Syria'
+US concerned with Russian supplies to Syrian regime
+US concerned with Russian supplies to Syrian regime
+EU extends sanctions against Russia over Ukraine
+France refunds Russia for Mistral warships
+Russian hackers use Twitter to hide cyberattacks
+Russia wants to take part in Iran's energy projects
+Russia offers gas discount for Ukraine in second quarter
+US: Russia’s nuclear comments ‘literally playing with fire’

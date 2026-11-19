@@ -1,0 +1,167 @@
+URL:         https://war-sanctions.gur.gov.ua/en/transport/ships/1002
+Кінцевий:    https://war-sanctions.gur.gov.ua/en/transport/ships/1002
+Заголовок:   NORTH LIGHT; IMO 9958298
+Дата публ.:  2024-11-01
+Завантажено: 2026-10-08 10:04 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 59327
+Оригінал:    raw/77-war-sanctions.gur.gov.ua-1002.html
+sha256:      902f488b15f18a5adc721dd4aa3bee978e13bd53de1b2b2a6bac99d7b6a864e2
+Витяг:       trafilatura
+
+==============================================================================
+# NORTH LIGHT
+
+IMO 9958298
+
+            Updated: 09.07.2026
+
+        
+                                Vessel name                            
+
+                            
+                                NORTH LIGHT
+                            
+
+                        
+                                Category                            
+
+                            Transportation of fossil fuels in violation of sanctions and other restrictions
+
+ Transportation of russia-origin LNG
+
+                                IMO
+                            
+
+                            
+                                                                    9958298
+                                                            
+
+                        
+                                Flag (Current)                            
+
+                            
+                                 Singapore
+                            
+
+                        
+                                MMSI
+                            
+
+                            
+                                563225500
+                            
+
+                        
+                                Call sign                            
+
+                            
+                                9V8191
+                            
+
+                        
+                                Vessel Type                            
+
+                            
+                                LNG Tanker
+                            
+
+                        
+                                Length (m)                            
+
+                            
+                                295
+                            
+
+                        
+                                Gross tonnage (t)                            
+
+                            
+                                115555
+                            
+
+                        
+                                DWT (t)                            
+
+                            
+                                93286
+                            
+
+                        
+                                P&I Club                            
+
+                            
+                                Japan Ship Owners' P&I Association
+                            
+
+                        
+                                Sanctions                            
+
+                            
+                                Sanctions lifted                            
+
+                            
+                        
+                                The person in connection with whom
+
+sanctions have been applied
+
+                            sanctions have been applied
+
+Provide additional information
+
+                        Justification
+
+            Vessel information
+
+                Since May 21, 2025, the EU has imposed sanctions on the vessel for facilitating or supporting actions or policies aimed at the operation, development, or expansion of russia’s energy sector, including energy infrastructure.
+
+Since June 3, 2025, Switzerland has imposed sanctions on the vessel.
+
+On July 20 and August 12, 2025, the EU and Switzerland, respectively, removed the tanker IMO 9958298 from the list of sanctioned vessels.
+
+            Since June 3, 2025, Switzerland has imposed sanctions on the vessel.
+
+On July 20 and August 12, 2025, the EU and Switzerland, respectively, removed the tanker IMO 9958298 from the list of sanctioned vessels.
+
+Cases of AIS shutdown
+
+                    Yes
+
+                Visited ports
+
+                    Lhokseumawe (Indonesia), Incheon (Republic of Korea), Okpo geoje (Republic of Korea), Tongyeong (Republic of Korea)
+
+                Use Ctrl+scroll to zoom
+
+Available additional information
+
+            Ship Owner (IMO / Country / Date)
+
+                            
+                                Arctic Diamond No 2 Lng Shpg (4301723 / Singapore / 01.11.2024)                            
+
+                        Commercial ship manager (IMO / Country / Date)
+
+                            
+                                Mitsui Osk Lines Ltd (0153911 / Japan / 01.11.2024)                            
+
+                        Ship Safety Management Manager (IMO / Country / Date)
+
+                            
+                                Mol Lng Ship Management Pte Ltd (6324712 / Singapore / 01.11.2024)                            
+
+                        Former ship names
+
+                        
+                    Flags (former)
+
+                        
+                    Build year
+
+                        2024
+
+                    Builder (country)
+
+                        Hanwha Ocean Co Ltd
+
+                    Web Resources

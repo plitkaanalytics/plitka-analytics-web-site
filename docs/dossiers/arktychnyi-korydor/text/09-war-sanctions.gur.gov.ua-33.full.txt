@@ -1,0 +1,219 @@
+URL:         https://war-sanctions.gur.gov.ua/en/transport/ships/33
+Кінцевий:    https://war-sanctions.gur.gov.ua/en/transport/ships/33
+Заголовок:   ANGARA; IMO 9179842
+Дата публ.:  2026-02-23
+Завантажено: 2026-10-06 12:19 UTC
+HTTP:        200   Тип: text/html; charset=UTF-8   Байтів: 68555
+Оригінал:    raw/09-war-sanctions.gur.gov.ua-33.html
+sha256:      207e6a496c0c9013b9a3614f20d0702a899f4f598742ebc8369dd0b73f0838f0
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 14
+==============================================================================
+Aggressor`s military-industrial complex
+https://sanctionssearch.ofac.treas.gov/Details.aspx?id=37059
+https://myshiptracking.com/vessels/angara-mmsi-273210440-imo-9179842
+https://www.vesselfinder.com/ru/vessels/details/9179842
+https://gisis.imo.org/Public/SHIPS/ShipDetails.aspx?IMONumber=9179842
+https://www.reuters.com/world/Китайська Народна Республіка-harbors-ship-tied-north-korea-russia-arms-transfers-satellite-images-show-2024-04-25/
+https://checko.ru/company/marin-trans-shipping-1203000004151
+https://checko.ru/company/m-lizing-1217700121737
+https://rusi.org/explore-our-research/publications/commentary/report-orient-express-north-koreas-clandestine-supply-route-russia
+https://www.lloydslist.com/LL1146937/Commercial-shipping-used-for-North-Korea-Russia-munitions-shipments
+https://politcom.org.ua/monitoryng-peredachi-boyeprypasiv-z-kndr-v-rosiyu
+https://www.moef.go.kr/nw/nes/detailNesDtaView.do?searchBbsId1=MOSFBBS_000000000028&searchNttId1=MOSF_000000000068331&menuNo=4010100
+The pages will soon open, and even more of those who are guilty of supporting this criminal war will be held accountable
+A confidential and secure communication channel with us
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+ANGARA
+Portal News
+ENG
+УКР
+РУС
+Components in weapons
+Weapons
+Components
+Involved enterprises
+Logistics of war
+Marine vessels
+Shadow Fleet
+Masters
+Partner`s sanctions lists
+Individuals
+Legal entities
+Aggressor`s military-industrial complex
+Instruments of war
+Unmanned systems
+Rostec
+Executives of War
+Engineers of aggression
+War Finances
+Cultural genocide
+Child kidnappers
+Stolen Heritage
+Agents of influence
+Kremlin Mouthpieces
+Champions of terror
+Home
+Marine vessels
+ANGARA
+ANGARA
+IMO 9179842
+Updated:
+23.02.2026
+Vessel name
+ANGARA
+Category
+Transportation of military cargo
+Weapons and military equipment
+IMO
+9179842
+Flag (Current)
+russian federation
+MMSI
+273210440
+Call sign
+UBYT2
+Vessel Type
+Ro-Ro Cargo Ship
+Length (m)
+126.84
+Gross tonnage (t)
+8811
+DWT (t)
+7331
+P&I Club
+Sanctions
+USA
+,
+EU
+,
+UK
+,
+Switzerland
+,
+Canada
+Sanctions lifted
+The person in connection with whom
+sanctions have been applied
+M LEASING LLC
+MARINE TRANS SHIPPING LLC
+Provide additional information
+Justification
+Vessel information
+The vessel is involved in the transportation of weapons (ammunition) from the DPRK to russia for use in the war against Ukraine. In particular, the vessel is involved in the transportation of containers with North Korean ammunition from the North Korean port of Najin (Rajin) to russian ports ( Dunay, Vostochny), which are then transported to western russia by rail for use in the war against Ukraine.
+The vessel is owned by the sanctioned russian shipping company M Leasing LLC.
+In May 2022, USA imposed sanctions on the company's vessels, including Angara, that transported weapons.
+In June 2024, EU imposed sanctions on the vessel in connection with the transportation of goods and technologies used in the defense and security sector of russia to wage war in Ukraine.
+In July 2024, UK imposed sanctions on a vessel in connection with the transportation of military cargo from a third country to russia or to territories not controlled by the government of Ukraine.
+On October 17, 2024, Switzerland imposed sanctions on the vessel in connection with the transportation of goods and technologies used in the defense and security sector, as well as for use in russia or for the war in Ukraine.
+Also, on April 2, 2024, the Republic of Korea imposed sanctions on the vessel for transporting weapons to russia and the DPRK in violation of UN Security Council sanctions.
+On February 21, 2025, Canada imposed sanctions on the vessel.
+Cases of AIS shutdown
+Yes
+Calling at russian ports
+Yes
+Visited ports
+Korsakov
+(russia)
+, Ningbo
+(PRC)
+, Novorossiysk
+(russia)
+, Tianjin
+(PRC)
+, Vladivostok
+(russia)
+, Zhoushan
+(PRC)
+, Port Said
+(Egypt)
+, Zeytinburnu
+(Turkey)
+, Mumbai
+(India)
+, Suez
+(Egypt)
+, Vladivostok Fish Port
+(russia)
+, Meishan
+(PRC)
+, Aoshan Oil Terminal
+(PRC)
+, Nizhny Novgorod
+(russia)
+, Revdanda
+(India)
+Use Ctrl+scroll to zoom
+Available additional information
+Ship Owner (IMO / Country / Date)
+M Leasing LLC (6246853 / russian federation / 12.08.2021)
+Commercial ship manager (IMO / Country / Date)
+Mg-flot LLC (6016988 / russian federation / 18.07.2025)
+Ship Safety Management Manager (IMO / Country / Date)
+Mg-flot LLC (6016988 / russian federation / 18.07.2025)
+Former ship names
+Scan Arctic / Rickmers Arctic / BBC Arctic / BBC Karan / Ocean Energy / Fleet Star
+Flags (former)
+Germany
+/
+Isle of Man
+/
+Great Britain
+/
+Liberia
+Build year
+1998
+Builder (country)
+Ps Werften Wolgast
+Web Resources
+Links
+https://sanctionssearch.ofac.treas.gov/Details.aspx?id=37059
+https://myshiptracking.com/vessels/angara-mmsi-273210440-imo-9179842
+https://www.vesselfinder.com/ru/vessels/details/9179842
+https://gisis.imo.org/Public/SHIPS/ShipDetails.aspx?IMONumber=9179842
+https://www.reuters.com/world/Китайська Народна Республіка-harbors-ship-tied-north-korea-russia-arms-transfers-satellite-images-show-2024-04-25/
+https://checko.ru/company/marin-trans-shipping-1203000004151
+https://checko.ru/company/m-lizing-1217700121737
+https://rusi.org/explore-our-research/publications/commentary/report-orient-express-north-koreas-clandestine-supply-route-russia
+https://www.lloydslist.com/LL1146937/Commercial-shipping-used-for-North-Korea-Russia-munitions-shipments
+https://politcom.org.ua/monitoryng-peredachi-boyeprypasiv-z-kndr-v-rosiyu
+https://www.moef.go.kr/nw/nes/detailNesDtaView.do?searchBbsId1=MOSFBBS_000000000028&searchNttId1=MOSF_000000000068331&menuNo=4010100
+Go to site
+Components in weapons
+Weapons
+Components
+Involved enterprises
+Logistics of war
+Marine vessels
+Shadow Fleet
+Masters
+Partner`s sanctions lists
+Individuals
+Legal entities
+Aggressor`s military-industrial complex
+Instruments of war
+Unmanned systems
+Rostec
+Executives of War
+Engineers of aggression
+War Finances
+Cultural genocide
+Child kidnappers
+Stolen Heritage
+Agents of influence
+Kremlin Mouthpieces
+Champions of terror
+API
+Portal News
+War & Sanctions 2026
+The pages will soon open, and even more of those who are guilty of supporting this criminal war will be held accountable
+A confidential and secure communication channel with us
+Send
+Site search
+Find

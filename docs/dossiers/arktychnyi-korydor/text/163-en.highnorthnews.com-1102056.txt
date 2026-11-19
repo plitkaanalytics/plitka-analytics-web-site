@@ -1,0 +1,71 @@
+URL:         https://en.highnorthnews.com/politics/russian-shadow-fleet-lng-carrier-diverts-to-norways-arctic-instead-of-china/1102056
+Кінцевий:    https://en.highnorthnews.com/politics/russian-shadow-fleet-lng-carrier-diverts-to-norways-arctic-instead-of-china/1102056
+Заголовок:   Russian Shadow Fleet LNG Carrier Diverts to Norway’s Arctic Instead of China
+Дата публ.:  2026-02-02
+Завантажено: 2026-11-08 09:06 UTC
+HTTP:        -   Тип: text/html   Байтів: 220265
+Оригінал:    raw/163-en.highnorthnews.com-1102056.html
+sha256:      a1fe679e1de76a56976a91396d4275b3e1e9fd28f263051dd6bf66b259cc759b
+Витяг:       trafilatura
+Примітка:    сайт віддає curl'у PoW-перевірку «Are we human?»; сторінку
+             збережено з браузера редактора (Ctrl+S) 08.11.2026 — це DOM
+             після рендеру, не байти відповіді сервера
+
+==============================================================================
+politics
+
+# Russian Shadow Fleet LNG Carrier Diverts to Norway’s Arctic Instead of China
+
+A sanctioned Russian LNG tanker loaded with gas from Gazprom’s Baltic Portovaya plant sailed north along the Norwegian coastline toward Murmansk instead of heading for China highlighting the further integration of Russia’s shadow fleet logistics.
+
+A sanctioned Russian LNG tanker, Valera, loaded with liquefied natural gas at Portovaya LNG in the Russian Baltic, has turned north and sailed along the Norwegian coastline toward Murmansk.
+
+The routing has puzzled maritime observers because there is no regasification infrastructure in the region.
+
+Valera, formerly known as Velikiy Novgorod, diverted from its expected journey to China after loading LNG at Portovaya on January 25, 2026.
+
+The development further underscores growing concerns about Russia’s “shadow fleet” and increased traffic in Norway’s northern and Arctic waters.
+
+The tanker, which has been sanctioned by the United States, United Kingdom, Canada, the EU and Switzerland over its role in transporting Russian LNG, had previously delivered a cargo to China’s Beihai terminal in December 2025, marking the first sanctioned LNG export from Portovaya to Asia since U.S. sanctions were imposed earlier in the year.
+
+### The vessel’s recent northward routing toward Murmansk and along the Norwegian coastline is unusual
+
+Valera also [previously delivered gas from Portovaya to Jintang, China via the Northern Sea Route in August 2023](https://en.highnorthnews.com/business/gazprom-sends-first-ever-shipment-of-baltic-lng-to-china-via-the-arctic/159146). 
+
+The vessel’s recent northward routing toward Murmansk and along the Norwegian coastline is unusual; there are no regasification terminals in the Russian Arctic or immediately adjacent waters that could readily take onboard LNG.
+
+Analysts have noted that without such a facility, there is no obvious commercial reason for the carrier to proceed to the region while laden with cargo, suggesting alternative motives behind the maneuver.
+
+And Valera’s ice-class is insufficient to head to China via the Arctic during the winter.
+
+### Purpose of Arctic diversion unclear
+
+One speculative possibility is that Valera could conduct a ship-to-ship (STS) transfer to another vessel or unload into a floating storage unit (FSU) such as the Saam FSU moored in the Russian Arctic.
+
+Both scenarios, however, would be logistically inefficient: STS operations require calm conditions rarely found during winter and Saam FSU is already at capacity receiving cargo from the Arctic LNG 2 project.
+
+It is also notable that the Portovaya facility is operated by Gazprom, whereas infrastructure like the Saam FSU is linked to Novatek, making informal transfers across company networks less likely without clear commercial arrangements.
+
+The Valera deviation comes amid a broader pattern of unconventional movements by Russian energy shipping assets and questions about how sanctioned or “shadow fleet” vessels interact with international maritime norms.
+
+### Busy Norwegian Arctic waters
+
+For Norway, whose northern maritime zones are already critical arteries for global energy shipments, these movements represent a potential expansion of risk.
+
+Historically, much of the shipping traffic involving Russia’s Arctic oil and gas headed westward toward European destinations or along the Northern Sea Route to Asia.
+
+Recent traffic patterns suggest a more complex picture: routes have become bidirectional and opportunistic, influenced by sanctions, logistical constraints, and alternative export strategies beyond traditional east-west corridors.
+
+For example, the Russian oil tanker Tavian, after being refused entry to German Baltic ports in January 2025, [diverted to Murmansk and then lingered off Kildin Island before transiting into Kola Bay](https://en.highnorthnews.com/politics/russian-zombie-tanker-sails-up-norwegian-coastline-after-being-blocked-by-german-police/1091526), potentially to load oil products, illustrating how vessels may use northern waters as dynamic staging areas. 
+
+Another instance underscoring this trend was the oil products tanker Hyperion, which sailed from Murmansk to Venezuela in early 2025, carrying naphtha, a move that broadened the geographic scope of Russian Arctic energy exports and integrated the region further into global markets via long-haul routes.
+
+The Valera vessel itself has a history tied closely to these sanction-circumvention dynamics.
+
+According to tracking databases, it is affiliated with Sovcomflot and has been subject to multiple sanctions since early 2025 for transporting Russian LNG to third countries, at times with its Automatic Identification System switched off, a tactic associated with the so-called shadow fleet used to evade tracking and sanctions enforcement.
+
+Norwegian authorities have taken notice of these developments.
+
+While Norway’s own sanctions regime implemented in alignment with EU measures restricts certain transshipment services for Russian LNG, Russian LNG carriers not under sanctions are still permitted to use Norwegian Arctic ports and waters for operations such as crew changes and resupply, drawing scrutiny from regulators and policymakers as sanctioned vessels continue to navigate these spaces.
+
+This increased movement of potentially sanctioned and shadow fleet vessels along Norway’s maritime approaches poses challenges for maritime and environmental safety, as well as for geopolitical oversight in the Arctic.

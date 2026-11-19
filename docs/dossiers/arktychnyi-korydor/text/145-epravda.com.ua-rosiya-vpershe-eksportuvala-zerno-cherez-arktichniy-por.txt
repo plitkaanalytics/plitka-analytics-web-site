@@ -1,0 +1,13 @@
+URL:         https://epravda.com.ua/biznes/rosiya-vpershe-eksportuvala-zerno-cherez-arktichniy-port-murmansk-826522/
+Кінцевий:    https://epravda.com.ua/biznes/rosiya-vpershe-eksportuvala-zerno-cherez-arktichniy-port-murmansk-826522/
+Заголовок:   Just a moment...
+Дата публ.:  не вказана на сторінці
+Завантажено: 2026-11-08 06:36 UTC
+HTTP:        403   Тип: text/html; charset=UTF-8   Байтів: 5932
+Оригінал:    raw/145-epravda.com.ua-rosiya-vpershe-eksportuvala-zerno-cherez-arktichniy-por.html
+sha256:      0b7c08c3cdb5df4e2ce071af1a2b2e963844c2441eeb0289cd606f36623561f1
+Витяг:       bs4-full
+Примітка:    оригінал 403; CDX не відповідає (ліміт) — повторити пізніше
+
+==============================================================================
+Just a moment...

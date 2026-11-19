@@ -1,0 +1,72 @@
+URL:         https://www.cnbc.com/2026/03/28/china-russia-arctic-polar-icebreaker-ships.html
+Кінцевий:    https://www.cnbc.com/2026/03/28/china-russia-arctic-polar-icebreaker-ships.html
+Заголовок:   How Chinese, Russian Arctic ambitions are fueling a U.S. polar icebreaker mission
+Дата публ.:  2026-03-28
+Завантажено: 2026-11-07 18:35 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 970936
+Оригінал:    raw/134-cnbc.com-china-russia-arctic-polar-icebreaker-ships.html
+sha256:      ab32e750911c0791aebdaa20f58ada82f0f3560034da4fb372ec3a40e412b441
+Витяг:       trafilatura
+
+==============================================================================
+The once-impenetrable Arctic waters have become the latest battleground for sea dominance among military and maritime vessels, as increased activity by both the Chinese and Russian Coast Guard and naval ships in recent months has raised concern in the U.S.
+
+The Northwest Passage, a sea route extending north of Canada that connects the Arctic Ocean to the North Atlantic, can save approximately 4,500 nautical miles in transit time. That can cut a vessel's trip from the Far East to Europe, and from Russia to Europe, in half, saving both time and money on bunker fuel. Warmer temperatures have extended the travel season for vessels traversing this waterway, with frozen routes carved out by polar icebreakers, and Russian and Chinese icebreakers dominating the region.
+
+More than 1,800 ships traveled on the Arctic polar waterway in 2025, a 40 percent increase from 2013. In 2025, China completed 14 voyages, including a Cosco containership, the first containership to make a journey through the waterway.
+
+"From an economic and commercial standpoint, it makes sense for shippers to be interested in the development in that region to save time," said Aaron Roth, principal and head of federal strategy and security at the Chertoff Group.
+
+Russia has a fleet of 45 icebreakers in the polar region, including eight nuclear-powered vessels. China has three, with a nuclear-powered polar icebreaker [reportedly](https://urldefense.com/v3/__https://www.wita.org/atp-research/the-polar-silk-road/__;!!HqJSLGM!uT3GRfyh6RQNRN_aKUELmqcEV4G5xkL2RvXneEUSBIxxrmN2fYqBV-Qpa8M1us590tu_wgHKSJBJn2KCoALGesGXfkwdZCuieEknB5mJ$) under construction. The U.S. currently has three icebreakers, but one of them is 50 years old.
+
+"The reason that we have fallen so far behind in the race to the Arctic or for the icebreakers is basically funding the United States Coast Guard," said Lou Sola, former Federal Maritime Commission Chairman and partner at lobbying firm Thorn Run Partners. "The Coast Guard has been plagued by maintenance issues and is trying to get proper supplies. They've been resorting to cannibalizing one ship to use its parts on another so they can have an operational ship. As a result, overall shipbuilding has really taken a toll. Especially the icebreakers," he said.
+
+President [Donald Trump](https://www.cnbc.com/donald-trump/) has increased focus on domestic shipbuilding initiatives, including polar icebreakers. But Trump is not alone with his concerns about the Arctic activity, with NATO's European commander citing the [growing presence of Russia and China](https://urldefense.com/v3/__https://www.defensenews.com/global/europe/2026/01/12/natos-europe-commander-sees-growing-russian-chinese-threat-in-arctic/__;!!HqJSLGM!uT3GRfyh6RQNRN_aKUELmqcEV4G5xkL2RvXneEUSBIxxrmN2fYqBV-Qpa8M1us590tu_wgHKSJBJn2KCoALGesGXfkwdZCuieCaflvzN$) in the Arctic as a threat.
+
+Maritime officials say the increased Arctic activity is a national security issue and stress that the U.S is considered an Arctic nation.
+
+"These Arctic security cutters that the Coast Guard's building will provide the sovereignty, the freedom of navigation, and capability and capacity in that region that we currently do not have," Roth said. "We certainly don't want them to gain advantages in locations in the high north," he added.
+
+The concerns overlap with other of Trump's national security ambitions. In early 2026, Trump declared he [wanted Greenland](https://www.cnbc.com/2026/01/20/trump-greenland-takeover-strategy.html) for national security.
+
+The two Arctic routes a vessel can take pass near Greenland.
+
+The Northwest Passage connects the Atlantic and Pacific oceans through the Canadian Arctic into the Baffin Sea, bringing vessels close to Greenland, then south of Greenland in the North Atlantic to the United Kingdom.
+
+The Northeast Passage connects Europe and Asia along the northern shores of Russia. This route also has vessels travelling close to Greenland.
+
+"I think it'll be in our interest over time to ensure that our relationship with the Canadians, Greenland, Denmark and northern Europe remain strong, so that we can protect our interest in that region as well," Roth said.
+
+### China and Russia grow closer in Arctic efforts
+
+The lack of funding comes at a time when the Chinese and Russian Coast Guards are tightening their relationship. China's recent [trade agreements](https://www.cnbc.com/2026/01/26/canada-china-trade-deal-tariffs-trump.html) with Canada are a related concern for the U.S. "There's certainly geopolitics at play," Roth said. 
+
+Russia's access to the region is also of vital importance to the U.S.
+
+"One of the things most important to highlight about those trade routes north of Canada is it's the closest distance for Russia to travel strategically and militarily," Roth said. "The shortest distance between Russia and the United States is through that pass. It takes you to Greenland, down to the United Kingdom. So strategically, it's incredibly valuable for the United States from a surveillance standpoint to understand what's going on in that region," he said.
+
+China and Russia's Arctic alignment began with the signing of a [memorandum of understanding](https://urldefense.com/v3/__https://www.ccg.gov.cn/mhenu/lbt/202405/t20240516_2230.html__;!!HqJSLGM!uT3GRfyh6RQNRN_aKUELmqcEV4G5xkL2RvXneEUSBIxxrmN2fYqBV-Qpa8M1us590tu_wgHKSJBJn2KCoALGesGXfkwdZCuieK-ZQx1c$) in April 2023, with the two countries' Coast Guards working in tandem to carve out a trade route. Last  October, Russia and China signed another far-reaching agreement to jointly develop the Arctic passage that China calls the Polar Silk Road.
+
+"In the future, if we were to get into a conflict with Russia or China or even North Korea, the shortest distance from those countries to the United States is through that great circle route over Greenland into the United States," Roth said. "So clearly, the surveillance needs and the ability to intercept those missiles is crucial. This is fundamentally protecting the United States, and the [Golden Dome](https://www.cnbc.com/2025/05/20/trump-golden-dome-missile-defense-system.html), the president is trying to do."
+
+### How Trump and the U.S. plan to bring shipbuilding back
+
+President Trump announced the 2025 shipbuilding initiative for commercial vessels and polar icebreakers. A second executive order, the [Maritime Action Plan, ](https://urldefense.com/v3/__https://www.hklaw.com/en/insights/publications/2026/02/white-house-releases-americas-maritime-action-plan__;!!HqJSLGM!uT3GRfyh6RQNRN_aKUELmqcEV4G5xkL2RvXneEUSBIxxrmN2fYqBV-Qpa8M1us590tu_wgHKSJBJn2KCoALGesGXfkwdZCuieAOfpdmw$)doubled down on the administration's ambitions to revitalize the U.S. maritime industry, boost capacity, and counter [Chinese dominance](https://www.cnbc.com/2025/03/24/us-not-prepared-to-win-economic-war-against-china-built-containerships.html). Roughly $30 billion was allocated. Out of that money, 11 new [Arctic security cutters](https://urldefense.com/v3/__https://www.news.uscg.mil/Press-Releases/Article/4403354/us-coast-guard-completes-the-presidents-contract-awards-for-11-arctic-security/__;!!HqJSLGM!uT3GRfyh6RQNRN_aKUELmqcEV4G5xkL2RvXneEUSBIxxrmN2fYqBV-Qpa8M1us590tu_wgHKSJBJn2KCoALGesGXfkwdZCuieFnnouhf$) are to be built.
+
+The medium-sized icebreakers that make the waterways accessible in the Great Lakes and along the coastal waters of the Northeast and Mid-Atlantic U.S., from Maine to Virginia, including the Chesapeake Bay and Delaware Bay during the winter, are also at the end of their service life.
+
+The [U.S. Coast Guard](https://urldefense.com/v3/__https://www.dcms.uscg.mil/Our-Organization/Assistant-Commandant-for-Acquisitions-CG-9/Programs/Surface-Programs/Homeland-Security-Cutter-Icebreaker/__;!!HqJSLGM!uT3GRfyh6RQNRN_aKUELmqcEV4G5xkL2RvXneEUSBIxxrmN2fYqBV-Qpa8M1us590tu_wgHKSJBJn2KCoALGesGXfkwdZCuieOCPwXwN$) recently announced a new program to acquire 11 medium-sized icebreakers. 
+
+One of the companies building some of these vessels is Canadian-based Davie Defense, which closed its acquisition of Gulf Cooper's shipbuilding assets in Texas last December. The new U.S. company is one of four companies in the [recent shipbuilding contracts](https://urldefense.com/v3/__https://www.news.uscg.mil/Press-Releases/Article/4368196/coast-guard-awards-contracts-to-build-arctic-security-cutters/*:*:text=The*20Arctic*20Security*20Cutter*20(ASC)*20is*20a,first*20domestically*20built*20cutter*20expected*20in*202029__;I34lJSUlJSUlJSUlJSU!!HqJSLGM!uT3GRfyh6RQNRN_aKUELmqcEV4G5xkL2RvXneEUSBIxxrmN2fYqBV-Qpa8M1us590tu_wgHKSJBJn2KCoALGesGXfkwdZCuieFNxu5Wy$). Bollinger Shipyards, based in Louisiana, along with Finland-based Rauma Marine Constructions and Aker Arctic Technologies, are also involved in the shipbuilding program.
+
+Davie Defense Gulf Copper will build a total of five polar icebreakers for the U.S. The first two will be built in Finland while the company spends between $700 million to $1 billion to renovate the shipyards in the ports of Galveston and Port Arthur, Texas. The shipyards have been in operation since World War II, when they built ships.
+
+"The infrastructure itself is a bit tired, a bit worn down," said Kai Skvarla, CEO of Davie Defense and Gulf Copper.
+
+Planned upgrades to the facilities and physical infrastructure include automated cutting and welding machines to increase efficiency, as well as efforts to support the productivity of the future workforce and to manufacture cost-competitive products. The renovation is expected to take approximately two years.
+
+Skvarla said the reopening of the Texas plants should coincide with the delivery of the first two polar icebreakers the company will build in Helsinki, Finland. The third polar icebreaker made in Texas will enter production in 2028 and take 48 months to build (to be delivered in 2032). Delivery on subsequent vessels from Texas would be in 2033 and 2034.
+
+To meet the ambitious deadline, the company plans to substantially increase U.S. staffing from its current 300 employees, adding over 2,000 more employees. Once American workers are hired, they will be enrolled in an apprenticeship program that sends them to Finland to learn and work alongside Finnish shipbuilders in Helsinki. This job training is similar to the workforce strategy for [Hanwha Philly Shipyard](https://www.cnbc.com/2025/12/14/trump-america-shipbuilding-china-competition.html), another key player in efforts to bring shipbuilding back to the U.S. Hanwha Philly has an apprenticeship shipbuilding program that sends employees to South Korea to work at the parent company's Hanwha Shipping shipyards, where one vessel is built per week. 
+
+*Watch the video above to learn more about the intensifying battle for control of Arctic waterways.*

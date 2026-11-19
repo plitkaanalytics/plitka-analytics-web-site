@@ -1,0 +1,407 @@
+URL:         https://tass.com/economy/930620
+Кінцевий:    https://web.archive.org/web/20250816145834id_/https://tass.com/economy/930620
+Заголовок:   Northern Sea Routes’ cargo turnover exceeded record 6.9 million tonnes in 2016
+Дата публ.:  2017-02-13
+Завантажено: 2026-10-06 13:07 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 155318
+Оригінал:    raw/31-tass.com-930620.html
+sha256:      9d2d6e85d13355b9f358bc7e50e8abaeab1324e9cfa0b56a47d88162927dfa20
+Витяг:       bs4-full
+Примітка:    оригінал недоступний (0), узято з Wayback
+
+==============================================================================
+Northern Sea Routes’ cargo turnover exceeded record 6.9 million tonnes in 2016 -  Business & Economy - TASS
+russian news agency
+RU
+Search
+Sections
+Close
+Economy
+Sports
+Culture
+Close
+Russian Politics & Diplomacy
+Russian Politics & Diplomacy
+Into section →
+FOREIGN POLICY
+DOMESTIC POLICY
+World
+World
+Into section →
+Business & Economy
+Business & Economy
+Into section →
+Oil & gas industry
+Internet & Telecom
+Trade & Cooperation
+Transport
+Military & Defense
+Military & Defense
+Into section →
+Science & Space
+Science & Space
+Into section →
+Emergencies
+Emergencies
+Into section →
+Society & Culture
+Society & Culture
+Into section →
+Press Review
+Press Review
+Into section →
+Sports
+Sports
+Into section →
+Special projects
+TASS
+Agency
+TASS today
+History
+Management
+Contacts
+Projects & Services
+TASS-PHOTO
+NEWS TERMINAL
+Personal data processing policy TASS
+Press Releases
+Privacy Policy​ tass.com
+Terms of use
+ANTI-Corruption
+Subscribe
+Social Media
+Telegram
+Subscriptions
+RSS
+Advertising
+Contacts
+{{dayPoint.date | date : 'd MMMM yyyy'}}
+{{newsPoint.date * 1000 | date : 'HH:mm'}} {{newsPoint.mark}}
+{{newsPoint.title}}
+{{newsPoint.title+ ' '}}
+{{newsPoint.subtitle}}
+All news
+ARCTIC TODAY
+Northern Sea Routes’ cargo turnover exceeded record 6.9 million tonnes in 2016
+The Northern Sea Route is the main sea route in the Russian Arctic
+© Lev Fedoseev/TASS
+VLADIVOSTOK, February 13. /TASS/. The cargo turnover along the Northern Sea Route (NSR) in 2016 reached a level above the previous record of 6.9 million tons, and by 2020 it may reach 31 million tons depending on development of the Yuzhno-Tambeyskoye gas field and further development of Yamal’s deposits, FESCO’s (Far East Shipping Company) Head of the Fleet Department Vladimir Chabrov told TASS on Monday.
+Read also
+Siberian scientists to study Arctic 'anchor points' for development of Northern Sea Route
+"The Ministry of Economic Development reports a record level of cargo turnover along the Northern Sea Route in 2016 - as of December 1, 2016, 6.9 million tons were transported there, which is a record in that transport corridor’s history, including the Soviet times," he said. "Due to stages of developing the Yuzhno-Tambeyskoye gas field and to further development of nearby hydrocarbon deposits in Yamal, the cargo turnover may reach 31 million tons by 2020 already. The biggest part of the cargo would be raw material from the Prirazlomnoye and Port Sabetta fields."
+He continued, stressing the Defense Ministry is also a big supplier of cargo to be brought to the Arctic. Every year, the ministry organizes delivery of about 400,000 tons of various construction cargoes, about 250,000 tons of goods for winter periods, and about 50,000 tons of military cargo.
+"Thus, the Defense Ministry transports annually about 700,000 tons," he said.
+Unique Vasiliy Golovnin
+The Vasiliy Golovnin has become the most irreplaceable general cargo vessel in the Arctic and Antarctic, FESCO’s representative continued. It is a unique vessel, which can go both independently and after an icebreaker in heavy ice. It is equipped for unloading to unequipped shores.
+The Northern Sea Route - the main sea route in the Russian Arctic. Earlier, the Russian Ministry of Transport forecasted cargo flow along the Northern Sea Route by 2020 may grow tenfold to 65 million tons per year. The route crosses seas of the Arctic Ocean (Kara, Laptev, East Siberian, Chukotka) and partially the Pacific Ocean (the Bering Sea). The Northern Sea Route from the Kara Gate to the Providence Bay is about 5,600 km long. The distance between Saint Petersburg to Vladivostok along the Northern Sea Route is more than 14,000 km - compare it to the distance to be covered by the Suez Canal - more than 23,000 km.
+Tags
+Arctic today
+Putin-Trump Alaska Summit
+Putin-Trump meeting confirms US interest in joint Arctic projects — expert
+Professor Alexey Fadeyev highlighted that by 2035, approximately 19.5 trillion rubles are likely to be invested in projects related directly or indirectly to the Northern Sea Route
+Read more
+Alaska summit excellent first step, tensions ease, expert believes
+Additionally, Peter Kuznick reiterated that the Alaska summit was attended by "businessmen and economic advisors," indicating that the sides are discussing "sanctions relief and joint economic development projects, including Arctic development and perhaps a Bering Strait tunnel connecting the two countries"
+Read more
+Ukraine to send additional troops to Donetsk area — Zelensky
+The Ukrainian media reported on August 12 that the situation near Dobropolye, Mirnograd, and Krasnoarmeisk has deteriorated dramatically for the Ukrainian army
+Read more
+Five killed, 112 injured in industrial accident in Russia’s Ryazan region
+According to the Russian Emergencies Ministry, relief efforts will be taken round the clock
+Read more
+Putin commands more deference from Trump than any other leader — newspaper
+El Pais noted that Trump’s appreciation of a foreign leader is reflected in the level of deference he extends
+Read more
+Air defenses repel drone attack in Russia’s southern Rostov Region
+According to the latest reports, there were no casualties
+Read more
+Presidents decided not to take questions because they made thorough statements — Peskov
+Russian Presidential Press Secretary Dmitry Peskov stressed that the conversation was indeed very positive
+Read more
+Trump called Zelensky, NATO colleagues after meeting with Putin, White House says
+No details about the substance of these conversations have been released
+Read more
+Putin-Trump talks continue for over two hours
+The two leaders began talking a little earlier — literally as soon as they stepped off the plane and greeted each other at the official meeting ceremony
+Read more
+Plane of Russia’s Special Air Squadron departs from Anchorage, Alaska
+The expected time of arrival is 5:22 a.m. Moscow time
+Read more
+Trump refrains from escalating pressure on Russia for at least some time — Medvedev
+"The Russian president presented our conditions for ending the conflict in Ukraine to the US leader in person and in detail," the Deputy Chairman of the Russian Security Council said
+Read more
+Trump administration thinks that next meeting on Ukraine may bring peace — TV
+According to the report, there's a lot of optimism that a second meeting will get this across the finish line
+Read more
+Putin, Trump leave news conference after making statements on meeting’s outcome
+The news conference lasted a little over 12 minutes
+Read more
+Putin visits Chukotka returning from Alaska
+The Russian head of state held a meeting with Chukotka Regional Governor Vladislav Kuznetsov who told Putin about the economic and social situation in the region
+Read more
+EU envoys convene in Brussels to discuss Alaska summit results
+According to a diplomatic source, "the sides intend to coordinate positions and possibly make their own statement" in the context of the Russian-US talks
+Read more
+Trump, Putin share limousine ride without interpreters after landing in Anchorage — NYT
+According to the newspaper, it was highly unusual to see the leaders of two superpowers — and in this case adversaries — ride in the same limousine
+Read more
+Trump sees no need to think about anti-Russian sanctions so far
+The US President noted that he doesn't have to think about that now
+Read more
+Russia views Ukraine as fraternal nation, events there are tragedy — Putin
+Russia is genuinely interested in putting an end to this, Vladimir Putin said
+Read more
+Ukraine loses more than 1,315 troops in special op zone over past day — top brass
+Moreover, Russia’s Battlegroup West has liberated the village of Kolodezi in the Donetsk People’s Republic and Voronoye in the Dnepropetrovsk Region, the Russian Defense Ministry said
+Read more
+Alaska meeting marks failure of EU’s attempts to isolate Russia — expert
+According to Esteban Actis, professor at Argentina's National University of Rosario, the meeting means victory for Russia
+Read more
+Putin describes his meeting with Trump as "very good"
+Vladimir Putin emphasized that he had a very good dialogue with President Donald Trump today
+Read more
+Bilateral Russia-US trade started to grow under Trump — Putin
+The Russian leader pointed out that although it is still symbolical, there was a 20-percent growth
+Read more
+Russia submitted list of 1,000 Ukrainian prisoners, Ukraine should receive them — Trump
+The Ukrainian government have to accept them, the US leader noted
+Read more
+Putin, Trump greet each other with handshake
+The US leader welcomed his guest right on the runway at the Joint Base Elmendorf-Richardson
+Read more
+Putin achieves his goals at meeting with Trump, expert says
+Troy Bouffard stressed that President Vladimir Putin achieved exactly what he most wanted, which was to begin to repair his relationship with President Donald Trump
+Read more
+IN BRIEF: Constructive and useful talks: What Putin said after meeting with Trump
+Vladimir Putin suggested their next meeting be held in Moscow, and Donald Trump said it was possible, even though he would have to face strong criticism
+Read more
+White House rejects Fox News claims that Putin-Trump talks failed
+"Total fake news," White House Director of Communications Steven Cheung said
+Read more
+Trump describes meeting with Putin as 'very productive'
+"There were many, many points that we agreed on," Donald Trump noted
+Read more
+Trump hopes Ukraine ceasefire will be achieved this week
+The US leader pointed out that he wants to really stop it this week, not next week
+Read more
+Zelensky has no chance to keep fighting after Trump-Putin meeting, says Rada member
+"If European leaders receive a peace plan from Trump, even partial agreement to it by individual members of the pro-Ukrainian coalition will ruin it and significantly reduce Ukraine's opportunities," Dubinsky said
+Read more
+Refusal from Kiev joining NATO to be achievement of one of special op’s goals — MP
+Leonid Slutsky noted that Ukraine’s off-bloc and nuclear-free status has been and continues to be a goal of the special military operation
+Read more
+Putin highlights good direct contact with Trump
+Vladimir Putin emphasized that he has repeatedly held frank telephone conversations with the US leader
+Read more
+Kiev has to meet Russia halfway if really wants peace, says senator
+Kastyukevich stressed that Russia's dominant role in the Ukrainian issue is no longer "a matter for discussion, but a fact" for the world
+Read more
+Agreement on Ukraine now depends on Zelensky — Trump
+The US leader also added that European nations have to get involved
+Read more
+Foreign leaders previously sat in Trump's limousine at least twice — newspaper
+According to the newspaper, at least two foreign leaders rode in Trump's limousine, with both incidents occurring during his first presidential term
+Read more
+Trump convinced US, Russia close to deal on Ukraine
+Donald Trump emphasized that he recently had a very warm meeting
+Read more
+Russia deals 'colossal' blow to Ukraine with Sapsan missile site strike — FSB
+Earlier, the Federal Security Service Public Relations Center reported that a joint operation was carried out together with Russia’s Defense Ministry
+Read more
+US media points to friendly body language at Putin-Trump meeting
+The body language of the two leaders is far from cold, the report says
+Read more
+Trump will have to show tangible results on Ukraine to his supporters soon — expert
+The US leader can’t have unlimited meetings, calls and other engagement with Vladimir Putin without producing tangible results, President of the Center for the National Interest Paul Saunders said
+Read more
+Trump plans meeting with Putin if talks with Zelensky succeed
+The White House host did not specify whether the meeting would be a trilateral one
+Read more
+Putin wins regardless of talks outcome — media
+According to The Washington Post, Vladimir Putin’s visit gave him an opportunity to increase his influence over Donald Trump and delay the possible introduction of secondary sanctions
+Read more
+Melania Trump sent letter to Putin via her husband — media
+No details of the message were disclosed, except that it addressed the trials of children allegedly abducted during the conflict in Ukraine
+Read more
+Trump says US may give Ukraine security guarantees but not in the form of NATO
+Doanld Trump ruled out the scenario of Kiev joining NATO
+Read more
+Trump says US 'maybe won’t have to' impose tariffs on Russia’s trading partners
+Commenting on the additional 25% tariffs that Washington imposed on India over its purchases of Russian oil, Donald Trump claimed that Russia has lost an oil client
+Read more
+Kiev's claims about Russian strike on market in Sumy are provocation — Defense Ministry
+According to the report, Kiev aims to disrupt the upcoming Russian-American talks in Anchorage with this step
+Read more
+European leaders reject restrictions on arms supplies to Kiev
+"We are clear that Ukraine must have ironclad security guarantees to effectively defend its sovereignty and territorial integrity," the document says
+Read more
+Putin describes talks with Trump as constructive and useful
+The talks were held in a respectful and constructive atmosphere, the Russian leader emphasized
+Read more
+Trump says Belarusian leader tells him of Putin’s willingness to make deal on Ukraine
+Alexander Lukashenko is friends with President Putin, and they work together, and he thinks that President Putin wants to make a deal, the US leader said
+Read more
+Trump says he will call Zelensky, NATO leaders to brief them on Putin meeting
+Donald Trump noted that he will call up the various people that he thinks are appropriate, including Vladimir Zelensky
+Read more
+Trump says NATO should not serve as security guarantor for Kiev — Macron
+The French president emphasized that it was a particularly sensitive issue for Russia
+Read more
+Russia ready to work on security of Ukraine — Putin
+Vladimir Putin stressed that in order for the Ukrainian reconciliation to be sustainable and long-term, all root causes of the crisis need to be fixed
+Read more
+Kiev will have to decide whether to continue the conflict or give up some land — US expert
+Forrest Nabors, Associate Professor and Chair, Department of Political Science at the University of Alaska in Anchorage, says that US President Donald Trump "does want the war to end and he seems neutral on the question about the Donbas and Crimea"
+Read more
+Experts to scrutinize Putin and Trump's body language at Alaska summit — The Hill
+According to the newspaper, the relationship between Donald Trump and Vladimir Putin has been a subject of fascination for years
+Read more
+Trump suggests Zelensky should make deal with Russia
+According to the US leader, Russia is a big power, while Ukraine is not
+Read more
+Russian offensive unstoppable, this is main reason for US wish to hold summit — expert
+Joao Pitilho went on to highlight that the second catalyst for this summit is Trump’s desire to fulfill his electoral commitment to end the conflict
+Read more
+Putin, Trump meet like old friends — Italian newspaper
+According to the newspaper, the choreography of the arrival, and the way the two leaders greeted each other, bring hopes and fears at the same time
+Read more
+IN BRIEF: Putin, Trump begin talks in Anchorage
+Donald Trump welcomed Vladimir Putin right on the runway at the Joint Base Elmendorf-Richardson in Anchorage, Alaska, the two shook hands
+Read more
+Alaska summit marks new era with Europe playing secondary roles — expert
+Professor of International Relations and Geopolitics at the University of Cologne Klemens Fischer believes that the meeting was a success for the two leaders and a defeat for Europe
+Read more
+Putin breaks with tradition by choosing Trump's limousine at his request — newspaper
+Donald Trump offered to travel with Vladimir Putin to the venue of the talks in an armored Cadillac One after a joint photo session, the newspaper noted
+Read more
+Tone of Russia-US communication businesslike, with focus on results — Russian ambassador
+According to Alexander Darchiev, Moscow and Washington have a huge toxic legacy from the previous US administration that now needs to be overcome
+Read more
+Putin, Trump exchange a few remarks before posing for a photo at airfield in Alaska
+The two leaders warmly greeted each other on the red carpet at the airfield
+Read more
+Russia-US summit shows that Europe must take care of its own security — German politician
+Norbert Roettgen, a prominent member of the Christian Democratic Union of Germany observed that President Putin "achieved significant gains at this summit"
+Read more
+Putin's first visit to US in ten years lasts just over five hours
+The Russian President last visited the US in September 2015 to attend the anniversary session of the UN General Assembly in New York
+Read more
+Trump aware that allied ties with Russia in US’ interests — source close to White House
+That said, a former senior US administration official and a former member of the Trump Transition team recognized that the Trump administration is making efforts to settle the Ukraine conflict in order to switch its main resources to counteracting Beijing
+Read more
+Russia’s top diplomat Lavrov, Kremlin aide Ushakov to accompany Putin at Alaska summit
+The Putin-Trump summit was initially planned as a one-on-one meeting
+Read more
+Zelensky confirms plan to visit Washington for meeting with Trump
+He added that a phone call with the US president and European leaders lasted an hour and a half and was substantive
+Read more
+Trump highlights need to respect Russia’s nuclear potential
+According to to Donald Trump, the US is the number one nuclear power in the world, and Russia is number two
+Read more
+Meeting in Alaska marks the end of Russia’s isolation in West — TV
+According to the TV channel, Donald Trump has rewarded the Russian president with the equivalent of a state visit
+Read more
+Putin describes Alaska as logic choice for summit, because Russia and US are neighbors
+Vladimir Putin thanked his US counterpart for the invitation to visit Alaska
+Read more
+Putin invites Trump in English to meet in Moscow next time
+The US leader pointed out that he could see it possibly happening
+Read more
+Putin arrives in Anchorage for talks with Trump
+The talks with the US president Donald Trump are scheduled to kick off at 11:30 a.m. local time
+Read more
+Putin departs Alaska after talks with Trump
+The Russian presidential aircraft operated by the Special Flight Squadron is on its way to Russia
+Read more
+White House describes Putin-Trump meeting as 'historic'
+"Historic," the White House wrote on the X social network
+Read more
+Putin convinced that conflict in Ukraine would have never happened under Trump
+Anchorage hosted the first in-person talks between the Russian and US leaders since June 2021
+Read more
+Trump says would like to hold another meeting with Putin
+According to the US leader, Russian President Vladimir Putin and Vladimir Zelensky will attend the second meeting, and he may join them
+Read more
+1993 Russian coup in photos
+20 years ago on this day Russia's constitutional crisis escalated to an armed coup
+Read more
+Trump had working lunch planned with Putin, it was canceled — TV channel
+After the meeting, the leaders decided to proceed directly to a press conference
+Read more
+EU nations fail to adopt joint statement on Alaska summit
+In substance, the final text does not introduce a new peace proposal, but instead reiterates Brussels’ familiar talking points, from pledges of military supplies to calls for a "just peace"
+Read more
+Russia, US to host next round of bilateral consultations on irritants soon — ambassador
+According to Alexander Darchiev, the US side considers this format to be constructive
+Read more
+Zelensky asks Trump for security guarantees once again
+He also urged tougher sanctions against Russia "if there is no trilateral meeting [Russia-US-Ukraine]"
+Read more
+Putin expects Alaska agreements to lay foundation for resolution of Ukrainian crisis
+The Russian leader expects today’s agreements to serve as the starting point for restoring business-like, pragmatic relations between Russia and the United States
+Read more
+UN ready to support peace-oriented efforts on Ukraine — secretary-general’s office
+The Secretary-General reiterates his call for an immediate, full and unconditional ceasefire as a first step towards a just, comprehensive, and sustainable peace in Ukraine
+Read more
+Russia prepared documents for resumption of direct air service with US — ambassador
+According to Alexander Darchiyev, documents prepared from the Russian perspective are now being discussed
+Read more
+INTERVIEW: Zelensky unacceptable for agreements on Ukraine, unable to sign deals — envoy
+"For the international community, both those in favor and those against, his signature will be void," Rodion Miroshnik added
+Read more
+Putin thanks Trump for atmosphere of trust at Alaska meeting
+The key thing is that both parties were determined to achieve results, Vladimir Putin said
+Read more
+Trump's welcome to Putin in Alaska contrasts with Zelensky's reception at White House — TV
+The TV channel described the Russian president's reception as warm
+Read more
+Putin, Trump begin talks
+The meeting between the presidents is held at the Joint Base Elmendorf-Richardson in Anchorage
+Read more
+Hundreds killed by Ukrainian troops for trying to cross over to Russia, envoy says
+Rodion Miroshnik noted that there had been situations when the Ukrainian soldiers walked through the basements and cellars of residential buildings, tossing grenades at people "as a preventive measure"
+Read more
+London wants to replace Zelensky with Zaluzhny — expert
+"This is not being done even for the Ukrainian people," Alexander Ionov told TASS
+Read more
+Lavrov responds to question about pre-summit jitters
+"What is this?", the Russian foreign minister asked
+Read more
+Mobilized Ukrainian soldiers surrender upon any opportunity — Russian commander
+As Lieutenant General Apty Alaudinov noted, there have been no cases of foreign mercenaries surrendering into captivity lately
+Read more
+IN BRIEF: '10 out of 10': What is known about three-hour summit between Putin, Trump
+The two leaders refrained from answering questions and then briefly conversed on their feet
+Read more
+US, Russia have chance to restore relations, but all depends on Ukraine deal, expert says
+Forrest Nabors also noted that most US residents still hold a negative view of Russia because of the conflict, but that attitudes toward Putin, Zelensky, and the crisis in Ukraine overall have become more mixed compared to three years ago
+Read more
+Putin, Trump begin press conference after talks
+About 200 Russian and American reporters have already gathered in the hall
+Read more
+Putin, Trump complete three-hour talks with limited circle of delegates
+The two leaders have left the room where they talked with the attendance of their aides and the top diplomats of Russia and the United States
+Read more
+Alaska summit showed that settlement will be in accordance with Russia’s approach — expert
+Dmitry Suslov further noted that the future of this process hinges on Zelensky and his European allies
+Read more
+FACTBOX: What we know about fire incident at factory in Russia's Ryazan Region
+The latest data indicates that five people were killed and more than 100 others were injured in the fire
+Read more
+Western media on verge of total frenzy because of Putin-Trump meeting — diplomat
+For three years, the Western media have been reporting that Russia is in isolation, and today they saw the red carpet, laid to greet the Russian president in the United States, Maria Zakharova said
+Read more
+Trump departs from Anchorage to Washington after talks with Putin
+The talks between the leaders lasted for three hours
+Read more
+Europe will be destroyed by Russians, if it gets involved in war — US analyst
+Scott Ritter noted that NATO armies had declined over time
+Read more
+Trump confident Putin wants to make deal on Ukraine
+Donald Trump pointed out that he and Vladimir Putin spoke very sincerely after a joint news conference
+Read more
+TASS today
+Advertising
+Terms of use
+Contacts
+© TASS, Russian news agency (The Mass Media Registration Certificate No. 03247 was issued on April 2, 1999 by the State Press Committee of the Russian Federation). Some publications may contain information not suitable for users under 16 years of age.

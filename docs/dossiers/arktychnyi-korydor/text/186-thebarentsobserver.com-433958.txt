@@ -1,0 +1,43 @@
+URL:         https://www.thebarentsobserver.com/news/more-than-30-sanctioned-shadow-fleet-tankers-shuttle-north-along-norwegian-coast/433958
+Кінцевий:    https://www.thebarentsobserver.com/news/more-than-30-sanctioned-shadow-fleet-tankers-shuttle-north-along-norwegian-coast/433958
+Заголовок:   More than 30 sanctioned 'shadow fleet' tankers shuttle north along Norwegian coast
+Дата публ.:  2025-07-25
+Завантажено: 2026-11-08 10:43 UTC
+HTTP:        -   Тип: text/html   Байтів: 123079
+Оригінал:    raw/186-thebarentsobserver.com-433958.html
+sha256:      1886079dd72abd0d4e6f118e79ee909748eb8a7a221101679e129a63ef29a377
+Витяг:       trafilatura
+Примітка:    сайт віддає curl'у PoW-перевірку «Are we human?»; сторінку
+             збережено з браузера редактора (Ctrl+S) 08.11.2026 — це DOM
+             після рендеру, не байти відповіді сервера
+
+==============================================================================
+# More than 30 sanctioned 'shadow fleet' tankers shuttle north along Norwegian coast
+
+After a several thousand kilometre voyage, the 22-year-old, 248 meter long Matari on July 25 made a port call in Murmansk. The tanker is one of more than 30 carriers sanctioned by the EU that shuttle to the far northern Kola Bay for Russian Arctic oil.
+
+Over the last week, the Matari has sailed across the Norwegian Sea and into the Barents Sea. It set its course for one of the transshipment units in the Kola Bay where it will load crude extracted at a Russian Arctic oil field.
+
+According to ship traffic data, the tanker has sailed from Mangalore, India. It carries the flag of Sierra Leone. Over the past three years, it has changed name, flag state and ship managers numerous times. Until June 1, 2025, the name of the vessel was Arabela.
+
+The Matari is one of the 104 vessels that were subjected to sanctions as part of the EU's 18th sanctions package against Russia.
+
+The [sanctions package](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32025R1494&qid=1753437710223) was adopted by the EU Council on July 18 and is one of the Union's strongest restrictive measures against Russia to date, Foreign Affairs and Security Policy chief Kaja Kallas emphasized in a [statement](https://www.consilium.europa.eu/en/press/press-releases/2025/07/18/russia-s-war-of-aggression-against-ukraine-eu-adopts-18th-package-of-economic-and-individual-measures/).
+
+"The EU just approved one of its strongest sanctions packages against Russia to date. Each sanction weakens Russia's ability to wage war. The message is clear: Europe will not back down in its support for Ukraine. The EU will keep raising the pressure until Russia ends its war," Kallas said.
+
+In addition to the ships, another 14 individuals and 41 entities were included in the [sanctions list](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32025R1494&qid=1753437710223).
+
+A total of 444 ships are now on the EU's sanctions list. They are all part of Vladimir Putin's so-called shadow fleet. The ships are used by Russia to circumvent the EU's oil price cap mechanism or to take part in transportation of military equipment or stolen Ukrainian grain.
+
+The Matari is one of a large number of tankers that take part in shipments of Russian Arctic oil. The Barents Observer has tracked Russian oil shipments in the Barents Sea and has the names of more than 30 sanctioned carriers that have made port calls in Murmansk. At least ten of them are included in the latest 18th Sanctions Package.
+
+In addition to the Matari, the Yanhu is on the list. This tanker, sailing under the flag of the Comoros, arrived in Kola Bay almost at the same time as the Matari. The shadow fleet tanker has changed its name four times over the last three years. Similarly, it has changed flag states four times and registered owners - three times, data from the Equasis electronic shipping information system shows.
+
+On the updated sanctions list are also LNG carriers Arctic Mulan and Pearl. Both of them have paid visits to Russian Arctic waters. The Arctic Mulan in late 2024 [sailed into the Ura Bay on the Kola Peninsula to load oil from the Saam FSU](https://www.thebarentsobserver.com/news/a-shady-transshipment-operation-is-unfolding-in-the-ura-baynbsp/422421). It was the first LNG transshipment operation on the 400 meter long storage tanker.
+
+The Saam FSU has been previously sanctioned both by the EU and US.
+
+The large number of 'shadow fleet' tankers that shuttle along the north Norwegian coast setting a course for Murmansk increasingly raises concern for maritime security. Among them experts that have voiced concern is Frode Pleym, leader of Greenpeace Norway.
+
+"It is a question of when, not if, an accident with a shadow fleet tanker will happen along the Norwegian coast," Pleym [told the Barents Observer](https://www.thebarentsobserver.com/news/sooner-or-later-an-accident-will-happen/428629).

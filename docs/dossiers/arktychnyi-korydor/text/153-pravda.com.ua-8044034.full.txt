@@ -1,0 +1,161 @@
+URL:         https://www.pravda.com.ua/eng/news/2026/07/14/8044034/
+Кінцевий:    https://www.pravda.com.ua/eng/news/2026/07/14/8044034/
+Заголовок:   Russia to reroute exports away from Sea of Azov following drone attacks – Reuters
+Дата публ.:  2026-07-14
+Завантажено: 2026-11-08 06:37 UTC
+HTTP:        200   Тип: text/html; charset=utf-8   Байтів: 159632
+Оригінал:    raw/153-pravda.com.ua-8044034.html
+sha256:      1eb21b29d6746c2f81a708869ad9e55bdb6e0eb1e72282e011e5b32dcb5dd46a
+Витяг:       trafilatura
+Файл:        повний дамп сторінки (bs4)
+
+==============================================================================
+РЯДКИ ПОЗА ОСНОВНИМ ВИТЯГОМ (≥30 зн.): 20
+==============================================================================
+Russia to reroute exports away from Sea of Azov following drone attacks – Reuters | Ukrainska Pravda
+Projects of "Ukrainian Pravda"
+Ukrainian military should not have to ask for help: the story of the Liberty Ukraine charity
+Life under constant stress: rebuilding a sense of safety for little Ukrainians
+Швидкий вхід, якщо ви вже авторизовані на УП/ЕП
+Attack on a vessel. Photo: Commander of Ukraine's Unmanned Systems Forces
+Add UP as preferred source in Google
+Ukrainian Navy strikes six Russian Su-34M bombers with Neptune missile
+Russians attack civilian ship at Odesa Oblast port, killing sailor
+Russia strikes Marshall Islands-flagged vessel in Odesa Oblast port again, injuring four
+© 2000-2026, Ukrainska Pravda,
+Principles and Rules of UP Work
+The use of site materials is allowed only with a reference (for online publications — a hyperlink) to "Ukrainska Pravda" no lower than the third paragraph.
+Any copying, publication, reprinting, or further distribution of information containing a reference to "
+Any copying, reprinting, or reproduction of photographic works and/or audiovisual works owned by Getty Images is strictly prohibited.
+Materials marked as PROMOTED are advertisements and are published as advertising. The editorial board may not share the views promoted in them. Materials marked as SPECIAL PROJECT and WITH SUPPORT are also advertisements, but the editorial team participates in preparing this content and shares the views expressed in these materials.
+The editorial board is not responsible for the facts and value judgments published in advertising materials. According to Ukrainian law, the advertiser is responsible for the content of the advertisements.
+Project founder: Georgiy Gongadze,
+Registered online media entity; media identifier — R40-02280.
+Address: 01032, Kyiv, Zhylianska St., 48, 50A.
+
+==============================================================================
+ПОВНИЙ ДАМП
+==============================================================================
+Russia to reroute exports away from Sea of Azov following drone attacks – Reuters | Ukrainska Pravda
+Ukrainska Pravda
+Укр
+Рос
+Eng
+Support Us
+Укр
+Рос
+Eng
+Sections
+News
+Stories
+Opinions
+Interview
+Podcasts
+Special Projects
+Archive
+Projects of "Ukrainian Pravda"
+Ukrainska Pravda (UKR)
+Ekonomichna Pravda (UKR)
+Life (UKR)
+Sport (UKR)
+European Pravda (ENG)
+Blogs
+Istorychna Pravda (ENG)
+Tabloid
+Mezha (ENG)
+Defence (ENG)
+Topics
+Kyiv
+Trump
+ATACMS
+Russia-Ukraine war
+Special projects
+Ukrainian military should not have to ask for help: the story of the Liberty Ukraine charity
+Life under constant stress: rebuilding a sense of safety for little Ukrainians
+Увійти або зареєструватися
+Увійти з Google
+або
+Email
+Пароль
+Забули пароль?
+Увійти
+Швидкий вхід, якщо ви вже авторизовані на УП/ЕП
+Ще не маєте підписки?
+Долучайтеся до клубу УП!
+News
+Stories
+Opinions
+Interview
+Podcasts
+Special Projects
+Archive
+Russia to reroute exports away from Sea of Azov following drone attacks – Reuters
+Semen Ruban
+—
+                14 July, 12:52
+Attack on a vessel. Photo: Commander of Ukraine's Unmanned Systems Forces
+Посилання скопійовано
+Add UP as preferred source in Google
+Russia is preparing to reroute grain shipments away from the Sea of Azov following Ukrainian drone attacks on tankers, ferries, tugboats and other vessels.
+Source:
+Reuters
+Details:
+Around a quarter of Russia's grain exports pass through the Sea of Azov.
+Advertisement:
+Following Ukrainian attacks, on 14 July shipping in the Sea of Azov remained restricted, marking the biggest disruption to Black Sea grain trade since the start of Russia's full-scale invasion of Ukraine.
+Russia's Ministry of Agriculture said the situation would not affect export volumes or domestic food security, as grain could be rerouted through alternative ports.
+"Given Russia's significant capacity for handling agricultural cargo in various regions, supply logistics will be rerouted if necessary," the ministry stated.
+However, neither the Ministry of Agriculture nor the Ministry of Transport, which published a separate statement, confirmed that shipping restrictions are in place in the Sea of Azov.
+Nevertheless, on 13 July, a Russian source told Reuters that commercial vessels can move freely in the Sea of Azov but cannot enter or exit through the Kerch Strait.
+Grain exporters said cargo could be rerouted through deep-water grain terminals on the Black Sea or through Baltic Sea ports, although some of the latter have come under Ukrainian drone attacks.
+Background:
+On the night of 13-14 July, Ukraine's Forces of Unmanned Systems
+damaged five tankers, five dry cargo vessels and one tugboat
+; over nine days, drones struck 116 vessels in total.
+Support Ukrainska Pravda on
+Patreon
+to help us keep reporting!
+Navy
+Azov Sea
+Advertisement:
+Top news of today
+All news
+Navy
+Ukrainian Navy strikes six Russian Su-34M bombers with Neptune missile
+Russians attack civilian ship at Odesa Oblast port, killing sailor
+Russia strikes Marshall Islands-flagged vessel in Odesa Oblast port again, injuring four
+Latest news
+Advertisement:
+Advertisement:
+Ukrainska Pravda
+© 2000-2026, Ukrainska Pravda,
+LLC "UP Media Plus"
+. All rights reserved.
+Advertising on the site
+Events
+Rules for using UP materials
+AI policy
+Gender policy
+Principles and Rules of UP Work
+How to Write for UP
+Internship
+Promocodes
+The use of site materials is allowed only with a reference (for online publications — a hyperlink) to "Ukrainska Pravda" no lower than the third paragraph.
+Any copying, publication, reprinting, or further distribution of information containing a reference to "
+Interfax-Ukraine
+" is strictly prohibited.
+Any copying, reprinting, or reproduction of photographic works and/or audiovisual works owned by Getty Images is strictly prohibited.
+Materials marked as PROMOTED are advertisements and are published as advertising. The editorial board may not share the views promoted in them. Materials marked as SPECIAL PROJECT and WITH SUPPORT are also advertisements, but the editorial team participates in preparing this content and shares the views expressed in these materials.
+The editorial board is not responsible for the facts and value judgments published in advertising materials. According to Ukrainian law, the advertiser is responsible for the content of the advertisements.
+Project founder: Georgiy Gongadze,
+Editor-in-chief:
+Sevgil Musaeva
+,
+Founding editor:
+Olena Prytula
+,
+Editorial e-mail:
+[email protected]
+Registered online media entity; media identifier — R40-02280.
+Address: 01032, Kyiv, Zhylianska St., 48, 50A.
+Phone: +380 95 641 22 07
