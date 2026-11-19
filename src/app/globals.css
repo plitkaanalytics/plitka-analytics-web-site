@@ -1018,17 +1018,18 @@ p {
 }
 
 /* Lede block: cover photo to the left of the opening paragraph — every
-   article body starts this way, per Figma. */
+   article body starts this way, per Figma. The photo floats so the lede
+   wraps under it instead of hanging in a narrow right column. */
 .lede-block {
-  display: grid;
-  grid-template-columns: 280px 1fr;
-  gap: 40px;
-  align-items: start;
+  display: flow-root;
   max-width: 880px;
   margin: 48px auto 8px;
   padding: 0 var(--gutter);
 }
 .lede-block__img {
+  float: left;
+  width: 280px;
+  margin: 6px 36px 16px 0;
   border-radius: var(--radius-card);
   overflow: hidden;
   aspect-ratio: 4 / 3;
@@ -1040,12 +1041,11 @@ p {
   display: block;
 }
 @media (max-width: 700px) {
-  .lede-block {
-    grid-template-columns: 1fr;
-    gap: 20px;
-  }
   .lede-block__img {
+    float: none;
+    width: auto;
     max-width: 320px;
+    margin: 0 0 20px;
   }
 }
 
