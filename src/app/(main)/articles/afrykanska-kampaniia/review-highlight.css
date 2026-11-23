@@ -1,0 +1,17 @@
+/* ТИМЧАСОВО: підсвітка правок 23.11 (Бенгазі) для вичитки. Видалити разом з import у page.tsx. */
+.rv-new {
+  background: rgba(255, 214, 0, 0.28) !important;
+  box-shadow: -6px 0 0 #f5b700;
+}
+figure.rv-new {
+  outline: 4px solid #f5b700;
+  outline-offset: 4px;
+}
+.rv-note {
+  display: inline-block;
+  background: #ffd7d7;
+  color: #a10000;
+  font-size: 0.8em;
+  padding: 1px 6px;
+  border-radius: 3px;
+}
