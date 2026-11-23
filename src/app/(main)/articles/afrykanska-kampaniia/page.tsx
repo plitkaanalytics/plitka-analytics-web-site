@@ -81,6 +81,22 @@ export default function Page() {
 
       {/* ============ ARTICLE BODY ============ */}
       <div className="article-body">
+        <figure className="fig rv-new">
+          <iframe
+            src="https://www.youtube.com/embed/velv_JU-S8g?rel=0"
+            title="Атака на судна африканського конвою в Бенгазі"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowFullScreen
+            loading="lazy"
+            style={{ aspectRatio: "16/9", height: "auto" }}
+          />
+          <figcaption>
+            Атака на судна африканського конвою в Бенгазі. Відео оприлюднив
+            Володимир Зеленський 23 листопада 2026 року
+            <a className="ref" href="#ref-75">[75]</a>.
+          </figcaption>
+        </figure>
+
         {/* ===================== ВСТУП ===================== */}
         <h2 id="sec-intro">
           <span className="h2-num">§ 00 · Вступ</span>Той самий «експрес»
