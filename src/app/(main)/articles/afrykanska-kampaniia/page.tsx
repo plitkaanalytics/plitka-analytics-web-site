@@ -1787,8 +1787,9 @@ export default function Page() {
           також перевірки «присутності українських експертів у країні» та
           офіційних пояснень від Києва<a className="ref" href="#ref-74">[74]</a>. Уряд у Тріполі висловив
           занепокоєння тим, що лівійські порти «втягують у зовнішні конфлікти»
-          <a className="ref" href="#ref-77">[77]</a>. Місія ООН у Лівії закликала до негайного незалежного
-          розслідування<a className="ref" href="#ref-78">[78]</a>. Російська влада станом на 23 листопада атаку так
+          <a className="ref" href="#ref-77">[77]</a>. Заступник голови Президентської ради Лівії Муса аль-Коні
+          у заяві від імені ради закликав ООН і міжнародні організації відкрити
+          «нейтральне й прозоре міжнародне розслідування»<a className="ref" href="#ref-78">[78]</a>. Російська влада станом на 23 листопада атаку так
           і не прокоментувала<a className="ref" href="#ref-74">[74]</a><a className="ref" href="#ref-77">[77]</a>.
         </p>
 
@@ -2586,8 +2587,8 @@ export default function Page() {
               <a href="https://apnews.com/article/libya-russia-vessel-drone-benghazi-59f6f304f3053c69c8cc890138a94d1b">apnews.com</a>
             </li>
             <li id="ref-78" className="rv-new">
-              UNSMIL, X, 22.11.2026.{" "}
-              <a href="https://x.com/UNSMILibya/status/2124647921098310113">x.com/UNSMILibya</a>
+              Yeni Şafak (Anadolu) — «Libyan council warns Benghazi attacks threaten Mediterranean security», 23.11.2026.{" "}
+              <a href="https://en.yenisafak.com/world/libyan-council-warns-benghazi-attacks-threaten-mediterranean-security-3725908">en.yenisafak.com</a>
             </li>
             <li id="ref-79" className="rv-new">
               ГУР, War&amp;Sanctions — ANGARA (IMO 9179842).{" "}
