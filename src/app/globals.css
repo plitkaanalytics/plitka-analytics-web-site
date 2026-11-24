@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,300;0,14..32,400;0,14..32,700;0,14..32,900;1,14..32,300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,300;0,14..32,400;0,14..32,700;0,14..32,900;1,14..32,300&family=Playfair+Display:ital,wght@0,700;1,700&display=swap");
 
 /* ============================================
    PLITKA Analytics — shared design system
@@ -42,6 +42,8 @@
   --serif: var(--sans);
   --brand: var(--sans);
   --mono: var(--sans);
+  /* Заголовки й буквиця — Playfair Display Bold */
+  --display: "Playfair Display", Georgia, "Times New Roman", serif;
 
   --radius-card: 18px;
   --radius-pill: 29px;
@@ -90,7 +92,7 @@ img {
 /* ===== Typography utilities ===== */
 
 .eyebrow {
-  font: 700 16px/17px var(--sans);
+  font: 700 10px/17px var(--sans);
   letter-spacing: 6px;
   text-transform: uppercase;
   color: var(--orange);
@@ -112,7 +114,7 @@ h1,
 h2,
 h3,
 h4 {
-  font-family: var(--serif);
+  font-family: var(--display);
   font-weight: 700;
   color: var(--navy);
   line-height: 1.12;
@@ -323,7 +325,7 @@ p {
   border-bottom: 2px solid var(--navy);
 }
 .section__title {
-  font-family: var(--serif);
+  font-family: var(--display);
   font-size: 28px;
   font-weight: 700;
 }
@@ -406,7 +408,7 @@ p {
 }
 .card__title {
   margin-top: auto;
-  font: 700 24px/32px var(--sans);
+  font: 700 24px/32px var(--display);
   text-wrap: balance;
   color: #fff;
 }
@@ -631,7 +633,7 @@ p {
   background: var(--blue);
 }
 .sidecard h3 {
-  font-family: var(--serif);
+  font-family: var(--display);
   font-size: 18px;
   color: var(--rust);
   margin-bottom: 12px;
@@ -686,8 +688,8 @@ p {
   gap: 24px;
 }
 .hero h1 {
-  font: 700 54.26px/70px var(--sans);
-  letter-spacing: -1.809px;
+  font: 700 54.26px/70px var(--display);
+  letter-spacing: -0.5px;
   color: #fff;
   text-wrap: balance;
 }
@@ -797,7 +799,8 @@ p {
   font-weight: 700;
 }
 .ptile__title {
-  font-family: var(--serif);
+  font-family: var(--display);
+  font-weight: 700;
   font-size: 20px;
   line-height: 1.15;
   margin-bottom: 4px;
@@ -914,11 +917,11 @@ p {
   margin-bottom: 20px;
 }
 .article-head h1 {
-  font-family: var(--sans);
+  font-family: var(--display);
   font-weight: 700;
   font-size: clamp(32px, 4.6vw, 54.26px);
   line-height: 1.29;
-  letter-spacing: -1.809px;
+  letter-spacing: -0.5px;
   margin: 0;
 }
 .article-head__metaline {
@@ -1127,7 +1130,7 @@ p {
   border-left: 4px solid var(--steelB);
 }
 .methodology h3 {
-  font-family: var(--serif);
+  font-family: var(--display);
   color: var(--steelB);
   font-size: 22px;
   margin: 0 0 14px;
@@ -1335,7 +1338,7 @@ p {
   border-top: 2px solid var(--navy);
 }
 .sources h2 {
-  font-family: var(--serif);
+  font-family: var(--display);
   font-size: 22px;
   margin-bottom: 18px;
 }
@@ -1436,7 +1439,8 @@ p {
   }
   .hero h1 {
     font-size: 34px;
-    letter-spacing: -1px;
+    letter-spacing: -0.3px;
+    line-height: 1.2;
   }
   .hero__content {
     padding: 0 24px;
@@ -1484,10 +1488,10 @@ p {
 .article-body p.lede::first-letter,
 .lede-block p.lede::first-letter {
   float: left;
-  font-family: var(--sans);
+  font-family: var(--display);
   font-size: 132px;
   line-height: 80px;
-  font-weight: 900;
+  font-weight: 700;
   padding: 0 12px 0 0;
   color: var(--orange);
 }
@@ -1526,7 +1530,7 @@ p {
   text-transform: uppercase;
 }
 .article-body h3 {
-  font-family: var(--serif);
+  font-family: var(--display);
   font-size: 21px;
   font-weight: 700;
   color: var(--navy);
@@ -2109,7 +2113,7 @@ details.expander > .expander__body {
   color: var(--rust);
 }
 .video-block__title {
-  font-family: var(--serif);
+  font-family: var(--display);
   font-size: 18px;
   font-weight: 700;
   color: var(--navy);
@@ -2164,7 +2168,7 @@ details.expander > .expander__body {
   font-weight: 700;
 }
 .video-card__title {
-  font-family: var(--serif);
+  font-family: var(--display);
   font-size: 15px;
   font-weight: 700;
   line-height: 1.3;
@@ -2213,7 +2217,7 @@ details.expander > .expander__body {
   padding-right: 20px;
 }
 .next-up__title {
-  font-family: var(--serif);
+  font-family: var(--display);
   font-size: 19px;
   font-weight: 700;
   color: #fff;
@@ -2958,10 +2962,10 @@ figure.fig[data-placeholder]::before {
   letter-spacing: 0.08em;
 }
 .publist__title {
-  font-family: var(--serif);
+  font-family: var(--display);
   font-size: 17px;
   line-height: 1.4;
-  font-weight: 600;
+  font-weight: 700;
 }
 
 @media (max-width: 700px) {
