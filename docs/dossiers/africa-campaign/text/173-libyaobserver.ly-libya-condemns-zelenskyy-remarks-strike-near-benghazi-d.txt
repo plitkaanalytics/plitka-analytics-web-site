@@ -1,0 +1,19 @@
+URL:         https://libyaobserver.ly/news/libya-condemns-zelenskyy-remarks-strike-near-benghazi-demands-clarification
+Кінцевий:    https://libyaobserver.ly/news/libya-condemns-zelenskyy-remarks-strike-near-benghazi-demands-clarification
+Заголовок:   Libya condemns Zelenskyy remarks on strike near Benghazi, demands clarification
+Дата публ.:  2026-11-23
+Завантажено: 2026-11-24 09:18 UTC
+HTTP:        200   Тип: text/html   Байтів: 73905
+Оригінал:    raw/173-libyaobserver.ly-libya-condemns-zelenskyy-remarks-strike-near-benghazi-d.html
+sha256:      fda552670015aca92796c138003e230b7310f54d0a5d531b78fcbedb584aeb81
+Витяг:       regex
+
+=========================================
+
+Libya condemns Zelenskyy remarks on strike near Benghazi, demands clarification
+Libya’s Government of National Unity (GNU) has issued a strong condemnation following statements by Ukrainian President Volodymyr Zelenskyy claiming that Ukrainian forces carried out military operations against a Russian naval vessel near the eastern coastal city of Benghazi.
+​In an official statement released by the Ministry of Foreign Affairs, the Tripoli-based government expressed "deep concern" over Zelenskyy's remarks and underscored that Libya has not authorized any foreign military activity within its borders or territorial waters.
+​"The Ministry asserts that Libya upholds its sovereignty and territorial integrity," the statement read, emphasizing that the North African nation remains neutral and is not a party to the ongoing conflict between Russia and Ukraine.
+​The Ministry demanded that Ukrainian authorities provide immediate, official clarifications regarding the nature and scope of the reported strike. Specifically, the Ministry is seeking verification on whether any Libyan territory, ports, or facilities were utilized in the planning, execution, or logistical support of the operation.
+​The statement also included a stern warning against the unauthorized exploitation of Libyan maritime infrastructure for foreign military purposes outside of official state frameworks.
+Reiterating a longstanding pillar of its foreign policy, the GNU used the incident to renew calls for the complete withdrawal of all illegal foreign forces and mercenaries from Libyan soil. The Ministry stressed that the continued presence of unauthorized foreign actors compromises national security, calling once again for the unification of Libya’s divided military establishment under a single, legitimate state authority.
