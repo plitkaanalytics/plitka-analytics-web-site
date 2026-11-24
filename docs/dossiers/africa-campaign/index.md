@@ -181,6 +181,7 @@ The sanctioned russian](https://x.com/midobecker_1/status/2096699086753706092) |
 | 170 | [Ukraine’s Libya launchpad](https://www.thegeopoliticaldesk.com/ukraines-libya-launchpad/) | 2026-09-25 | прочитано | 8461 | ? | `text/170-thegeopoliticaldesk.com-ukraines-libya-launchpad.txt` |
 | 171 | [Telegram Widget](https://t.me/in_factum/48191) | 2026-09-27 | прочитано | 8767 | ? | `text/171-t.me-in_factum-48191.txt` |
 | 172 | [Libyan council warns Benghazi attacks threaten Mediterranean security](https://en.yenisafak.com/world/libyan-council-warns-benghazi-attacks-threaten-mediterranean-security-3725908) | 2026-11-23 | прочитано | 4387 | профільне видання (Anadolu) | `text/172-en.yenisafak.com-libyan-council-warns-benghazi-attacks-threaten-medit.txt` |
+| 173 | [Libya condemns Zelenskyy remarks on strike near Benghazi, demands clarification](https://libyaobserver.ly/news/libya-condemns-zelenskyy-remarks-strike-near-benghazi-demands-clarification) | 2026-11-23 | прочитано | 1806 | профільне видання | `text/173-libyaobserver.ly-libya-condemns-zelenskyy-remarks-strike-near-benghazi-d.txt` |
 
 ## Проблемні джерела
 
