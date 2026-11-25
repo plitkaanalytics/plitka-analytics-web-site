@@ -14,7 +14,7 @@ import { AutoFrame } from "@/components/AutoFrame";
 const metadata: Metadata = {
   title: "Ukraine vs the Africa Corps — PLITKA Analytics",
   description:
-    "The strike on the ro-ro carrier Lady Mariia in the Mediterranean, a Ukrainian foothold in Libya, HUR operations in Sudan and Mali: how Ukraine reaches Russia in its African rear.",
+    "The corvette Merkury sunk in Benghazi, strikes on ships in the Mediterranean, a Ukrainian foothold in Libya, operations in Sudan and Mali: how Ukraine reaches Russia in its African rear.",
   openGraph: {
     images: ["/articles/afrykanska-kampaniia/cover.jpg"],
   },
@@ -39,13 +39,13 @@ export default function Page() {
       <div className="article-head">
         <span className="eyebrow article-head__eyebrow">Investigation</span>
         <h1>
-          Ukraine vs the Africa Corps. Three years of operations Kyiv will not
-          admit to
+          Ukraine vs the Africa Corps. Three years of operations on the African
+          continent
         </h1>
         <p className="article-head__metaline">36 min read</p>
         <p className="article-head__dek">
-          Where the drones that hit Russian ships off Libya come from — and how
-          Ukraine ended up in the Kremlinʼs African rear
+          Why Russian ships are sinking off Libya, and how Ukraine ended up in
+          the Kremlinʼs African rear
         </p>
       </div>
 
@@ -58,43 +58,47 @@ export default function Page() {
           />
         </div>
         <p className="lede">
-          On 6 September 2026, in the Mediterranean between Crete and Libya,
-          several drones dropped munitions on the Russian ro-ro carrier Lady
-          Mariia
-          <a className="ref" href="#ref-1">
-            [1]
-          </a>
-          <a className="ref" href="#ref-2">
-            [2]
-          </a>
-          . The blasts hit the deck, the cargo cranes and the area around the
-          superstructure, a fire broke out on board, but no genuinely serious
-          damage is visible on the video
-          <a className="ref" href="#ref-3">
-            [3]
-          </a>
-          . The ship had left Oran in Algeria and was heading east, towards
-          Syria. Ukraineʼs military intelligence, HUR, lists her among the
-          vessels that carry weapons for Russia, including out of Syria through
-          the Bosphorus
-          <a className="ref" href="#ref-4">
-            [4]
-          </a>
-          . Nobody claimed the attack
-          <a className="ref" href="#ref-5">
-            [5]
-          </a>
-          . As of 12 September, Lady Mariia is at anchor off Port Said, Egypt;
-          the damage, in ItaMilRadarʼs assessment, is minor
-          <a className="ref" href="#ref-1">
-            [1]
-          </a>
-          .
+          On the night of 22 November 2026, the Russian Project 20380 corvette
+          Merkury exploded and sank in the port of Benghazi in eastern Libya.
+          The government of eastern Libya said the blast on board was probably
+          caused by a drone attack
+          <a className="ref" href="#ref-74">[74]</a>.
+        </p>
+        <p>
+          The next morning Volodymyr Zelensky officially announced an exemplary
+          operation off the coast of Libya and said Ukrainian forces had sunk
+          the corvette with seven sea drones. A Ka-27 helicopter on board was
+          destroyed with it. The second target, he said, was the Russian cargo
+          ship MV ANGARA, which Russia used to carry weapons<a className="ref" href="#ref-75">[75]</a>. In a
+          separate statement the SBU added that the drones were launched from
+          a so-called “mother ship” close to the target
+          <a className="ref" href="#ref-76">[76]</a>.
+        </p>
+        <p>
+          For Ukraineʼs African campaign this is a turning point. In three
+          years Kyiv had never officially admitted to a single one of its
+          operations on the continent. Time to tell more.
         </p>
       </div>
 
       {/* ============ ARTICLE BODY ============ */}
       <div className="article-body">
+        <figure className="fig">
+          <iframe
+            src="https://www.youtube.com/embed/velv_JU-S8g?rel=0"
+            title="The attack on ships of the African convoy in Benghazi"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowFullScreen
+            loading="lazy"
+            style={{ aspectRatio: "16/9", height: "auto" }}
+          />
+          <figcaption>
+            The attack on ships of the African convoy in Benghazi. Video
+            released by Volodymyr Zelensky on 23 November 2026
+            <a className="ref" href="#ref-75">[75]</a>.
+          </figcaption>
+        </figure>
+
         {/* ===================== INTRO ===================== */}
         <h2 id="sec-intro">
           <span className="h2-num">§ 00 · Introduction</span>The same “express”
@@ -351,15 +355,6 @@ export default function Page() {
         </p>
 
         <p>
-          There is no official acknowledgement from the Ukrainian side — and
-          that is no exception: Kyiv has never officially admitted to a single
-          one of its operations in Africa.
-          <a className="ref" href="#ref-14">
-            [14]
-          </a>
-          <a className="ref" href="#ref-15">
-            [15]
-          </a>{" "}
           Attacks at sea, though, are not the only evidence of a Ukrainian
           presence in the region. RFI and AP wrote about Ukrainian servicemen in
           western Libya back in the spring
@@ -1503,9 +1498,17 @@ export default function Page() {
         </p>
 
         <h2 id="sec-sea">
-          <span className="h2-num">§ 04 · The sea</span>Three ships in nine
-          months
+          <span className="h2-num">§ 04 · The sea</span>The Mediterranean trap
         </h2>
+
+        <figure className="fig">
+          <img
+            src="/articles/afrykanska-kampaniia/mediterranean-strikes-map-en.webp"
+            alt="Map of the Mediterranean with five markers of strikes on Russian ships: Ursa Major off Cartagena, Qendil between Malta and Crete, Arctic Metagaz off Libya, Lady Mariia between Crete and Libya, Benghazi"
+            style={{ width: "100%", display: "block" }}
+          />
+          <figcaption>Strikes on Russian ships in the Mediterranean, December 2024 — November 2026. Graphics: PLITKA Analytics.</figcaption>
+        </figure>
 
         <p>
           The first incident in the Mediterranean happened on 19 December 2025.
@@ -1712,8 +1715,7 @@ export default function Page() {
         </p>
 
         <p>
-          The third strike came on 6 September 2026 — the one this article opens
-          with. The ro-ro carrier Lady Mariia was sailing east from Oran in
+          The third strike came on 6 September 2026. The ro-ro carrier Lady Mariia was sailing east from Oran in
           Algeria towards Syria when several drones dropped munitions on her:
           the blasts hit the deck, the cargo cranes and the area around the
           superstructure
@@ -1741,6 +1743,115 @@ export default function Page() {
             [1]
           </a>
           .
+        </p>
+
+        <p>
+          Over time the attacks grew bolder still. The next strike hit a
+          warship, and not on the open sea but at Haftarʼs base. On the night
+          of 22 November the corvette Merkury exploded and sank in the port of
+          Benghazi. According to the Libyan side, at least four drones were
+          shot down and two hit the port side<a className="ref" href="#ref-77">[77]</a>. The eastern Libyan
+          government said the ship had called at the port to refuel and take
+          on supplies under a cooperation agreement with Russia, and that a
+          joint investigation had been opened together with the Russian side
+          <a className="ref" href="#ref-77">[77]</a>.
+        </p>
+
+        <figure className="fig">
+          <img
+            src="/articles/afrykanska-kampaniia/merkury-satellite-triptych-en.webp"
+            alt="Three satellite images of Benghazi port: the corvette intact by the northern breakwater; the corvette on fire with smoke trailing from it; the corvette capsized and sunk at the quay"
+            style={{ width: "100%", display: "block" }}
+          />
+          <figcaption>The corvette Merkury before the strike, on fire on 22 November, and after. Images: © Vantor, via Reuters<a className="ref" href="#ref-74">[74]</a>; © Planet Labs PBC, published by Strategic Aviation<a className="ref" href="#ref-88">[88]</a>.</figcaption>
+        </figure>
+
+        <p>
+          That same evening an uncrewed boat hit a commercial vessel in the
+          roadstead off Benghazi. The crew was rescued. Libyan naval and air
+          forces fought real sea battles that evening and, by their own
+          account, intercepted more than twenty uncrewed boats<a className="ref" href="#ref-74">[74]</a>.
+        </p>
+
+        <p>
+          On the morning of 23 November Zelensky and the SBU claimed the strike.
+          According to the SBU, Merkury (pennant number 734) belonged to the
+          Black Sea Fleet and escorted Russian convoys, including the cargo
+          ship MV ANGARA, which became the second target. Seven Ukrainian
+          uncrewed boats were brought to the area and launched from a “mother
+          ship”. “Both targets were legitimate military targets for Ukraine”
+          <a className="ref" href="#ref-76">[76]</a>.
+        </p>
+
+        <p>
+          The Benghazi strike had a backstory that PLITKA had been tracking
+          since mid-October. On 15–16 October a Pléiades image published by
+          InsiderGeo and SONARROW_OSINT showed the cargo ships ASCALON, LADY D
+          and ANASTASIIA in Baltiysk loading armoured personnel carriers, MRAPs
+          and trucks<a className="ref" href="#ref-80">[80]</a>. On 1 November the Danish spotter Henrik B. Knudsen
+          photographed the corvette Stoikiy, the tanker Yelnya, ANASTASIIA and
+          ASCALON in the Great Belt<a className="ref" href="#ref-81">[81]</a>. On 7 November LADY D passed
+          through the same strait<a className="ref" href="#ref-82">[82]</a>, and on 8 November Sentinel-1 picked
+          up LADY R, LADY D, MAIA-1 and one more ship with AIS switched off in
+          the Kattegat<a className="ref" href="#ref-83">[83]</a>. According to The Maritime Executive, the group
+          was then escorted by the frigate Admiral Golovko, and on 18 November
+          it was seen south of Sardinia together with the tanker Yelnya
+          <a className="ref" href="#ref-84">[84]</a>. This is the same Baltic detour around Europe described in
+          the previous part of this series.
+        </p>
+
+        <figure className="fig">
+          <img
+            src="/articles/afrykanska-kampaniia/convoy-route-map-en.webp"
+            alt="Map of the route of two convoys from Baltiysk through the Danish straits, the English Channel and Gibraltar to Benghazi, with spotter photos at key points"
+            style={{ width: "100%", display: "block" }}
+          />
+          <figcaption>The route of the convoys from Baltiysk to the Mediterranean, with spotter photos. Graphics: PLITKA Analytics; photo credits on the map.</figcaption>
+        </figure>
+
+        <p>
+          ANGARA, which Zelensky named as the second target, was also on our
+          tracker<a className="ref" href="#ref-79">[79]</a>. According to it, the ship left St Petersburg on 26
+          October bound “TO ORDER” and frequently switched off its AIS, for 81
+          hours at the longest. On 7 November it passed Gibraltar, and on 9
+          November it lay in the roadstead off Oran in Algeria. Its last
+          signal, according to VesselFinder, came on 11 November in the western
+          Mediterranean, after which it went silent. Outwardly ANGARA is a twin
+          of ASCALON: a 126-metre hull, built in 1998 against 1999, identical
+          cranes and superstructure. Even before Zelenskyʼs statement we wrote
+          that the two ships cannot be told apart on the video from the
+          roadstead.
+        </p>
+
+        <p>
+          One more sanctioned ship lay in the Benghazi roadstead in those days:
+          the Iranian cargo ship ALVAN, put on the SDN list by OFAC in 2020 as
+          part of the network of the state shipping company IRISL<a className="ref" href="#ref-85">[85]</a>.
+          According to UANI, on 16 November it changed its AIS name to ALMEHDI,
+          and from 17 November it was at anchor off Benghazi<a className="ref" href="#ref-86">[86]</a>. The
+          MagicPort registry confirms that ALMEHDI and ALVAN are the same
+          ship<a className="ref" href="#ref-87">[87]</a>. On 21 November claims appeared online that three ships
+          had been hit, and the next day a video emerged of a fire on its
+          deck, which may have been caused by a drone strike.
+        </p>
+
+        <p>
+          The reaction was swift. The eastern Libyan prime minister Osama
+          Hammad appealed to the UN General Assembly and Security Council for
+          an international investigation, as well as a check on “the presence
+          of Ukrainian experts in the country” and an official explanation from
+          Kyiv<a className="ref" href="#ref-74">[74]</a>. The harshest statement came from Libyaʼs Presidential
+          Council, signed only by its deputy head Musa al-Koni. The Council
+          called the strike “a declaration of war on the Libyan state” and
+          demanded that Zelensky be designated a terrorist, an emergency
+          session of the UN Security Council, and a “neutral and transparent
+          international investigation”<a className="ref" href="#ref-78">[78]</a>. The Government of National
+          Unity in Tripoli responded more cautiously. After Zelenskyʼs
+          statement its foreign ministry condemned any foreign military
+          operations on Libyan territory and in its waters and demanded an
+          official explanation from Kyiv. There was no talk of courts or
+          terrorist lists<a className="ref" href="#ref-89">[89]</a>. As of 23 November the Russian authorities
+          had not commented on the attack<a className="ref" href="#ref-74">[74]</a><a className="ref" href="#ref-77">[77]</a>.
         </p>
 
         <h2 id="sec-lefkada">
@@ -1949,6 +2060,13 @@ export default function Page() {
         </figure>
 
         <p>
+          After the Benghazi strike the Ukrainian side spoke more openly:
+          Zelensky personally confirmed a Ukrainian presence and the use of
+          high-tech weapons<a className="ref" href="#ref-75">[75]</a>. The price of that admission should be
+          expected at the UN<a className="ref" href="#ref-74">[74]</a>.
+        </p>
+
+        <p>
           For Russia the balance of these three years is mixed. It lost and it
           gained, it pulled opponents over to its own side, it made deals with
           dictators and with underground forces, it signed agreements on
@@ -1961,7 +2079,7 @@ export default function Page() {
           such operations, and of building the conditions for a Ukrainian long
           arm at all, is a considerable achievement. Russian military logistics
           is no longer safe by default anywhere — not in the Sudanese desert,
-          not a hundred and thirty miles off Sirte. But it has been paid for
+          not on the open sea, not in Mediterranean ports. But it has been paid for
           with severed relations with certain states, a complaint to the UN
           Security Council, and démarches from a NATO country that supports
           Ukraine. Support for Ukraine on the continent is melting away at the
@@ -1991,8 +2109,9 @@ export default function Page() {
           Ukraine has built from nothing a whole system of international
           military presence in the extremely difficult conditions of the African
           continent. It has built it and is using it systematically, gaining the
-          experience it needs. Which means further strikes and further activity
-          are to be expected — and we will be glad to keep watching.
+          experience it needs. The corvette sunk in Benghazi shows that the
+          strikes are not only continuing but gaining weight. And Kyiv no
+          longer sees any need to hide anything.
         </p>
 
         {/* ===================== SOURCES ===================== */}
@@ -2530,6 +2649,68 @@ export default function Page() {
               <a href="https://www.pravda.com.ua/eng/news/2026/07/09/8043199/">
                 pravda.com.ua
               </a>
+            </li>
+            <li id="ref-74">
+              Reuters — “Libyaʼs eastern government suspects drone attack caused explosion on Russian ship at Benghazi port”, 22.11.2026.{" "}
+              <a href="https://www.reuters.com/world/middle-east/libyas-eastern-government-suspects-drone-attack-caused-explosion-russian-ship-2026-11-22/">reuters.com</a>
+            </li>
+            <li id="ref-75">
+              Volodymyr Zelensky, Telegram, 23.11.2026.{" "}
+              <a href="https://t.me/V_Zelenskiy_official/21947">t.me/V_Zelenskiy_official</a>
+            </li>
+            <li id="ref-76">
+              SBU, Telegram, 23.11.2026.{" "}
+              <a href="https://t.me/SBUkr/19118">t.me/SBUkr</a>
+            </li>
+            <li id="ref-77">
+              Associated Press — “A suspected drone strike hits a Russian ship in Libya”, 22.11.2026.{" "}
+              <a href="https://apnews.com/article/libya-russia-vessel-drone-benghazi-59f6f304f3053c69c8cc890138a94d1b">apnews.com</a>
+            </li>
+            <li id="ref-78">
+              Yeni Şafak (Anadolu) — “Libyan council warns Benghazi attacks threaten Mediterranean security”, 23.11.2026.{" "}
+              <a href="https://en.yenisafak.com/world/libyan-council-warns-benghazi-attacks-threaten-mediterranean-security-3725908">en.yenisafak.com</a>
+            </li>
+            <li id="ref-79">
+              HUR, War&amp;Sanctions — ANGARA (IMO 9179842).{" "}
+              <a href="https://war-sanctions.gur.gov.ua/en/transport/ships/33">war-sanctions.gur.gov.ua</a>
+            </li>
+            <li id="ref-80">
+              InsiderGeo and SONARROW_OSINT, Pléiades image, Baltiysk, 15–16.10.2026.{" "}
+              <a href="https://x.com/InsiderGeo/status/2112945454488936891">x.com/InsiderGeo</a>
+            </li>
+            <li id="ref-81">
+              Photo: Henrik B. Knudsen, Facebook group “Under Broen”, Great Belt, 01.11.2026.
+            </li>
+            <li id="ref-82">
+              Photo: Kurt Pedersen, Facebook group “Under Broen”, Great Belt, 07.11.2026.
+            </li>
+            <li id="ref-83">
+              Russian Forces Spotter, Sentinel-1 image, Kattegat, 08.11.2026.{" "}
+              <a href="https://x.com/TiaFarris10/status/2119704516517904587">x.com/TiaFarris10</a>
+            </li>
+            <li id="ref-84">
+              The Maritime Executive — “Russian Navy Back in the Mediterranean Escorting a Cargo Flotilla”, 20.11.2026.{" "}
+              <a href="https://maritime-executive.com/article/russian-navy-back-in-the-mediterranean-escorting-a-cargo-flotilla">maritime-executive.com</a>
+            </li>
+            <li id="ref-85">
+              OFAC — Recent Actions, 08.06.2020.{" "}
+              <a href="https://ofac.treasury.gov/recent-actions/20200608">ofac.treasury.gov</a>
+            </li>
+            <li id="ref-86">
+              UANI — “Iran Shipping Update: November 16, 2026”.{" "}
+              <a href="https://www.unitedagainstnucleariran.com/analysis/iran-shipping-update-november-16-2026">unitedagainstnucleariran.com</a>
+            </li>
+            <li id="ref-87">
+              MagicPort — ALVAN (MMSI 422032400).{" "}
+              <a href="https://magicport.ai/vessels/general-cargo/alvan-mmsi-422032400">magicport.ai</a>
+            </li>
+            <li id="ref-88">
+              Strategic Aviation (“Стратегічна авіація”), Telegram, 22.11.2026 (Planet Labs PBC images).{" "}
+              <a href="https://t.me/StrategicaviationT/49957">t.me/StrategicaviationT</a>
+            </li>
+            <li id="ref-89">
+              Libya Observer — “Libya condemns Zelenskyy remarks on strike near Benghazi, demands clarification”, 23.11.2026.{" "}
+              <a href="https://libyaobserver.ly/news/libya-condemns-zelenskyy-remarks-strike-near-benghazi-demands-clarification">libyaobserver.ly</a>
             </li>
           </ol>
         </section>
