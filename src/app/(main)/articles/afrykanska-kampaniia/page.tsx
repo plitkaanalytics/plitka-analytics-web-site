@@ -1,6 +1,5 @@
 import "../chotyry-roky-v-mori-frehaty/frigates.css";
 import "./libya-control.css";
-import "./review-highlight.css"; // ТИМЧАСОВО: підсвітка правок
 import type { Metadata } from "next";
 import Link from "next/link";
 import {
@@ -38,12 +37,12 @@ export default function Page() {
       {/* ============ ARTICLE HEAD ============ */}
       <div className="article-head">
         <span className="eyebrow article-head__eyebrow">Розслідування</span>
-        <h1 className="rv-new">
+        <h1>
           Україна проти «Африканського корпусу». Три роки операцій на чорному
           континенті
         </h1>
         <p className="article-head__metaline">час читання 36 хв</p>
-        <p className="article-head__dek rv-new">
+        <p className="article-head__dek">
           Чому у берегів Лівії тонуть російські кораблі і як Україна опинилася в
           африканському тилу Кремля
         </p>
@@ -57,13 +56,13 @@ export default function Page() {
             alt="Обличчя туарега в синьому тагельмусті: відкриті лише очі"
           />
         </div>
-        <p className="lede rv-new">
+        <p className="lede">
           У ніч на 22 листопада 2026 року в порту Бенгазі на сході Лівії вибухнув
           і затонув російський корвет «Меркурий» проєкту 20380. Уряд Східної
           Лівії заявив, що вибух на кораблі ймовірно спричинила атака дрона
           <a className="ref" href="#ref-74">[74]</a>.
         </p>
-        <p className="rv-new">
+        <p>
           Наступного ранку Володимир Зеленський офіційно оголосив про взірцеву
           операцію у берегів Лівії та заявив, що корвет затопили українські
           воїни сімома морськими дронами. Разом із ним знищено бортовий вертоліт
@@ -72,7 +71,7 @@ export default function Page() {
           що дрони запускали з так званого «материнського судна» поблизу цілі
           <a className="ref" href="#ref-76">[76]</a>.
         </p>
-        <p className="rv-new">
+        <p>
           Для африканської кампанії України це перелом. За три роки Київ жодної
           своєї операції на континенті офіційно не визнавав. Час розповісти
           більше.
@@ -81,7 +80,7 @@ export default function Page() {
 
       {/* ============ ARTICLE BODY ============ */}
       <div className="article-body">
-        <figure className="fig rv-new">
+        <figure className="fig">
           <iframe
             src="https://www.youtube.com/embed/velv_JU-S8g?rel=0"
             title="Атака на судна африканського конвою в Бенгазі"
@@ -346,7 +345,6 @@ export default function Page() {
         </p>
 
         <p>
-          <span className="rv-note">✂ тут прибрано речення «Офіційного визнання… не визнавав» [14][15]</span>{" "}
           Проте, атаки на морі це не єдине свідчення української присутності у
           регіоні. Про українських військових у західній Лівії ще навесні
           написали RFI й AP
@@ -1457,11 +1455,11 @@ export default function Page() {
           .
         </p>
 
-        <h2 id="sec-sea" className="rv-new">
+        <h2 id="sec-sea">
           <span className="h2-num">§ 04 · Море</span>Середземноморська пастка
         </h2>
 
-        <figure className="fig rv-new">
+        <figure className="fig">
           <img
             src="/articles/afrykanska-kampaniia/mediterranean-strikes-map.webp"
             alt="Карта Середземного моря з пʼятьма позначками ударів по російських суднах: Ursa Major біля Картахени, Qendil між Мальтою й Критом, Arctic Metagaz біля Лівії, Lady Mariia між Критом і Лівією, Бенгазі"
@@ -1666,7 +1664,7 @@ export default function Page() {
           .
         </p>
 
-        <p className="rv-new">
+        <p>
           Третій удар стався 6 вересня 2026 року. Ролкер Lady Mariia йшов з алжирського Орана на схід, у бік
           Сирії, коли на нього скинули боєприпаси кілька дронів: вибухи припали
           на палубу, вантажні крани й район надбудови
@@ -1695,7 +1693,7 @@ export default function Page() {
           .
         </p>
 
-        <p className="rv-new">
+        <p>
           З часом атаки стали ще зухваліші. Наступний удар відбувся по
           військовому судну, і не у відкритому морі, а на базі Хафтара. У ніч на
           22 листопада в порту Бенгазі вибухнув та затонув корвет «Меркурий». За
@@ -1706,7 +1704,7 @@ export default function Page() {
           <a className="ref" href="#ref-77">[77]</a>.
         </p>
 
-                <figure className="fig rv-new">
+                <figure className="fig">
           <img
             src="/articles/afrykanska-kampaniia/merkury-satellite-triptych.webp"
             alt="Три супутникові знімки порту Бенгазі: корвет цілий біля північного молу; корвет горить, від нього тягнеться дим; корвет перекинувся й затонув біля причалу"
@@ -1715,14 +1713,14 @@ export default function Page() {
           <figcaption>Корвет «Меркурий» до удару, під час пожежі 22 листопада і після. Знімки: © Vantor, за Reuters<a className="ref" href="#ref-74">[74]</a>; © Planet Labs PBC, опублікувала «Стратегічна авіація»<a className="ref" href="#ref-88">[88]</a>.</figcaption>
         </figure>
 
-<p className="rv-new">
+<p>
           Увечері того ж дня безекіпажний катер уразив біля Бенгазі комерційне
           судно на рейді порту. Екіпаж урятували. Лівійські ВМС і авіація того
           вечора влаштували справжні морські бої та, за їх словами, перехопили
           понад двадцять безекіпажних катерів<a className="ref" href="#ref-74">[74]</a>.
         </p>
 
-        <p className="rv-new">
+        <p>
           Зранку 23 листопада Зеленський і СБУ взяли відповідальність за удар на
           себе. За версією СБУ, «Меркурий» (бортовий номер 734) приписаний до
           Чорноморського флоту і супроводжував російські конвої, зокрема й
@@ -1732,7 +1730,7 @@ export default function Page() {
           <a className="ref" href="#ref-76">[76]</a>.
         </p>
 
-        <p className="rv-new">
+        <p>
           Удар у Бенгазі мав передісторію, яку PLITKA відстежувала від середини
           жовтня. 15–16 жовтня на знімку Pléiades, який опублікували InsiderGeo
           і SONARROW_OSINT, у Балтійську суховантажі ASCALON, LADY D і
@@ -1748,7 +1746,7 @@ export default function Page() {
           циклу.
         </p>
 
-        <figure className="fig rv-new">
+        <figure className="fig">
           <img
             src="/articles/afrykanska-kampaniia/convoy-route-map.webp"
             alt="Карта маршруту двох конвоїв від Балтійська через Данські протоки, Ла-Манш і Гібралтар до Бенгазі з фото спотерів у ключових точках"
@@ -1757,7 +1755,7 @@ export default function Page() {
           <figcaption>Маршрут конвоїв з Балтійська до Середземного моря з фото спотерів. Графіка PLITKA Analytics; фото: автори вказані на карті.</figcaption>
         </figure>
 
-        <p className="rv-new">
+        <p>
           ANGARA, яку Зеленський назвав другою ціллю, теж була на нашому
           трекері<a className="ref" href="#ref-79">[79]</a>. За його даними, судно вийшло з Санкт-Петербурга 26
           жовтня з призначенням «TO ORDER» і часто вимикало AIS, найдовше на 81
@@ -1769,7 +1767,7 @@ export default function Page() {
           Зеленського ми писали, що на відео з рейду ці два судна не розрізнити.
         </p>
 
-        <p className="rv-new">
+        <p>
           На рейді Бенгазі в ці дні стояло ще одне судно під санкціями:
           іранський суховантаж ALVAN, внесений OFAC до списку SDN 2020 року як
           частина мережі державної судноплавної компанії IRISL<a className="ref" href="#ref-85">[85]</a>. За даними
@@ -1781,7 +1779,7 @@ export default function Page() {
           ударом дрону.
         </p>
 
-        <p className="rv-new">
+        <p>
           Реакція не забарилась. Премʼєр Східної Лівії Осама Хаммад звернувся до
           Генасамблеї й Радбезу ООН з вимогою міжнародного розслідування, а
           також перевірки «присутності українських експертів у країні» та
@@ -1995,7 +1993,7 @@ export default function Page() {
           </figcaption>
         </figure>
 
-        <p className="rv-new">
+        <p>
           Після удару в Бенгазі українська сторона виступила більш відкрито,
           Зеленський особистою заявою підтвердив українську присутність та
           наявність високотехнологічної зброї<a className="ref" href="#ref-75">[75]</a>. Ціну такого
@@ -2010,7 +2008,7 @@ export default function Page() {
           вона триває.
         </p>
 
-        <p className="rv-new">
+        <p>
           Для України підсумок теж неоднозначний. З одного боку сам факт таких
           операцій та загалом створення умов для української довгої руки це
           значне досягнення країни. Російська військова логістика більше ніде не
@@ -2035,7 +2033,7 @@ export default function Page() {
           .
         </p>
 
-        <p className="rv-new">
+        <p>
           Попередня частина циклу закінчувалася тим, що втрати одного вузла
           російської логістики замало, щоб підірвати її присутність в Африці. Ця
           частина показує, що Україна розуміє це й намагається діяти системно,
@@ -2575,65 +2573,65 @@ export default function Page() {
                 pravda.com.ua
               </a>
             </li>
-            <li id="ref-74" className="rv-new">
+            <li id="ref-74">
               Reuters — «Libyaʼs eastern government suspects drone attack caused explosion on Russian ship at Benghazi port», 22.11.2026.{" "}
               <a href="https://www.reuters.com/world/middle-east/libyas-eastern-government-suspects-drone-attack-caused-explosion-russian-ship-2026-11-22/">reuters.com</a>
             </li>
-            <li id="ref-75" className="rv-new">
+            <li id="ref-75">
               Володимир Зеленський, Telegram, 23.11.2026.{" "}
               <a href="https://t.me/V_Zelenskiy_official/21947">t.me/V_Zelenskiy_official</a>
             </li>
-            <li id="ref-76" className="rv-new">
+            <li id="ref-76">
               СБУ, Telegram, 23.11.2026.{" "}
               <a href="https://t.me/SBUkr/19118">t.me/SBUkr</a>
             </li>
-            <li id="ref-77" className="rv-new">
+            <li id="ref-77">
               Associated Press — «A suspected drone strike hits a Russian ship in Libya», 22.11.2026.{" "}
               <a href="https://apnews.com/article/libya-russia-vessel-drone-benghazi-59f6f304f3053c69c8cc890138a94d1b">apnews.com</a>
             </li>
-            <li id="ref-78" className="rv-new">
+            <li id="ref-78">
               Yeni Şafak (Anadolu) — «Libyan council warns Benghazi attacks threaten Mediterranean security», 23.11.2026.{" "}
               <a href="https://en.yenisafak.com/world/libyan-council-warns-benghazi-attacks-threaten-mediterranean-security-3725908">en.yenisafak.com</a>
             </li>
-            <li id="ref-79" className="rv-new">
+            <li id="ref-79">
               ГУР, War&amp;Sanctions — ANGARA (IMO 9179842).{" "}
               <a href="https://war-sanctions.gur.gov.ua/en/transport/ships/33">war-sanctions.gur.gov.ua</a>
             </li>
-            <li id="ref-80" className="rv-new">
+            <li id="ref-80">
               InsiderGeo і SONARROW_OSINT, знімок Pléiades, Балтійськ, 15–16.10.2026.{" "}
               <a href="https://x.com/InsiderGeo/status/2112945454488936891">x.com/InsiderGeo</a>
             </li>
-            <li id="ref-81" className="rv-new">
+            <li id="ref-81">
               Фото: Henrik B. Knudsen, Facebook-група «Under Broen», Великий Бельт, 01.11.2026.
             </li>
-            <li id="ref-82" className="rv-new">
+            <li id="ref-82">
               Фото: Kurt Pedersen, Facebook-група «Under Broen», Великий Бельт, 07.11.2026.
             </li>
-            <li id="ref-83" className="rv-new">
+            <li id="ref-83">
               Russian Forces Spotter, знімок Sentinel-1, Каттегат, 08.11.2026.{" "}
               <a href="https://x.com/TiaFarris10/status/2119704516517904587">x.com/TiaFarris10</a>
             </li>
-            <li id="ref-84" className="rv-new">
+            <li id="ref-84">
               The Maritime Executive — «Russian Navy Back in the Mediterranean Escorting a Cargo Flotilla», 20.11.2026.{" "}
               <a href="https://maritime-executive.com/article/russian-navy-back-in-the-mediterranean-escorting-a-cargo-flotilla">maritime-executive.com</a>
             </li>
-            <li id="ref-85" className="rv-new">
+            <li id="ref-85">
               OFAC — Recent Actions, 08.06.2020.{" "}
               <a href="https://ofac.treasury.gov/recent-actions/20200608">ofac.treasury.gov</a>
             </li>
-            <li id="ref-86" className="rv-new">
+            <li id="ref-86">
               UANI — «Iran Shipping Update: November 16, 2026».{" "}
               <a href="https://www.unitedagainstnucleariran.com/analysis/iran-shipping-update-november-16-2026">unitedagainstnucleariran.com</a>
             </li>
-            <li id="ref-87" className="rv-new">
+            <li id="ref-87">
               MagicPort — ALVAN (MMSI 422032400).{" "}
               <a href="https://magicport.ai/vessels/general-cargo/alvan-mmsi-422032400">magicport.ai</a>
             </li>
-            <li id="ref-88" className="rv-new">
+            <li id="ref-88">
               «Стратегічна авіація», Telegram, 22.11.2026 (знімки Planet Labs PBC).{" "}
               <a href="https://t.me/StrategicaviationT/49957">t.me/StrategicaviationT</a>
             </li>
-            <li id="ref-89" className="rv-new">
+            <li id="ref-89">
               Libya Observer — «Libya condemns Zelenskyy remarks on strike near Benghazi, demands clarification», 23.11.2026.{" "}
               <a href="https://libyaobserver.ly/news/libya-condemns-zelenskyy-remarks-strike-near-benghazi-demands-clarification">libyaobserver.ly</a>
             </li>
