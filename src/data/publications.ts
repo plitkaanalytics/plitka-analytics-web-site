@@ -107,6 +107,14 @@ export const publications: ExternalPublication[] = [
     date: '2026-10-08',
   },
   {
+    kind: 'ours',
+    outlet: 'Оборонка',
+    title:
+      'Українська армія в Африці. Три роки операцій проти російських найманців, які Київ не завжди визнає',
+    url: 'https://oboronka.mezha.ua/ukrajinska-armiya-v-africi-317531/',
+    date: '2026-11-24',
+  },
+  {
     kind: 'about',
     outlet: 'Радіо Хартія',
     title:
